@@ -8,16 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
+ <p class="updated_time"> 07:11 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 07:00 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israeli Leader to Make Historic Visit to Bahrain, Deepening New Ties</a> NYT: Prime Minister Naftali Bennett was set to fly to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
- <p class="updated_time"> 06:53 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russian Buildup Reaching ‘Crescendo,’ U.S. Warns, as Diplomacy Sputters</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
- <p class="updated_time"> 06:48 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
+ <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60374485?at_medium=RSS&at_campaign=KARANGA">The 15-year-old Russian figure skater at the centre of a doping scandal</a> BBC: Kamila Valieva always wanted to win Olympic Gold, but is under the spotlight now in a different way. 
  <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
  <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
+ <p class="updated_time"> 06:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60375317?at_medium=RSS&at_campaign=KARANGA">Police kill man wielding knife at Paris station</a> BBC: French police shoot dead a man wielding a long-bladed knife at the Gare du Nord train station. 
  <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
@@ -104,14 +110,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/asia/omicron-hong-kong.html">Omicron Wave Prompts Hong Kong to Halt Its Hospitalization Policy</a> NYT: The city recorded eight Covid deaths last week, the first since September. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Bridge linking U.S. and Canada reopens after police remove last protesters</a> NPR: Canadian authorities announced the resumption of travel across the busy Ambassador Bridge after police removed the last group of protesters. 
- <p class="updated_time"> 09:37 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60333336?at_medium=RSS&at_campaign=KARANGA">Swiss approve tobacco ad ban long after neighbours</a> BBC: Voters approve tighter laws on tobacco advertising, years after most European countries. 
  <p class="updated_time"> 09:02 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
  <p class="updated_time"> 08:59 AM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60366037?at_medium=RSS&at_campaign=KARANGA">Venice Carnival returns after two year absence</a> BBC: After being cancelled for two years due to the pandemic, the Venice Carnival is back. 
- <p class="updated_time"> 08:58 AM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60368498?at_medium=RSS&at_campaign=KARANGA">Pakistan: Man accused of blasphemy killed by mob in Khanewal</a> BBC: More than 80 people are detained after a man accused of desecrating the Koran is killed in Khanewal. 
  <p class="updated_time"> 07:51 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464211/germany-is-in-a-tough-place-dealing-with-russia-given-their-strong-trade-relatio">Germany is in a tough place dealing with Russia given their strong trade relationship</a> NPR: West Germany established strong trade ties with Moscow in the 1970s in an attempt to foster dialogue and stability. Today, Germany's approach is under stress as Russia threatens Ukraine. 
  <p class="updated_time"> 07:05 AM CT, Feb. 13 </p> 
@@ -243,6 +245,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
  <p class="updated_time"> 08:15 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464225/new-hampshire-gop-proposes-dramatic-new-congressional-map-angering-democrats">New Hampshire GOP proposes dramatic new congressional map, angering Democrats</a> NPR: In New Hampshire, a GOP plan to dramatically redraw the state's Congressional map has outraged Democrats. If approved, it could have a large effect on the midterm election. 
+ <p class="updated_time"> 08:09 AM CT, Feb. 13 </p> 
+ <a href="https://www.cnn.com/2022/02/13/politics/trump-telephone-records-capitol-riot-investigation/index.html">Trump's unorthodox phone habits complicate January 6 investigation</a> CNN: In Donald Trump's White House, telephones were a valued commodity. The then-President loved to talk to everyone, said a former White House aide. 
  <p class="updated_time"> 07:11 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464197/politics-chat-biden-negotiates-with-putin-covid-19-trending-down-inflation-up">Politics chat: Biden negotiates with Putin; COVID-19 trending down; inflation up</a> NPR: The Biden administration is dealing with the Ukraine crisis abroad and a sluggish health bureaucracy at home. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
@@ -323,8 +327,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Democrats' social spending dreams stuck in winter purgatory</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/freedom-caucus-members-square-off-00007482">Freedom Caucus members square off for a plum post with all eyes on McCarthy</a> Politico: The race to lead Republicans on the House Homeland Security Committee presents a test for the GOP leader, but also for the conservative bloc itself. 
- <p class="updated_time"> 09:29 PM CT, Feb. 09 </p> 
- <a href="https://www.cnn.com/2022/02/09/politics/stop-the-steal-cult-january-6/index.html">This man marched on the US Capitol on January 6. Now he says 'Stop the Steal' is a 'cult' </a> CNN: Keith Scott says January 6, 2021, was "the greatest day" of his life. 
  <p class="updated_time"> 01:46 PM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/congress-strikes-broad-government-funding-deal-00007367">Congress strikes broad government funding deal</a> Politico: Congressional leaders reached an overarching agreement Wednesday to boost military and non-defense budgets. 
  <p class="updated_time"> 09:41 AM CT, Feb. 09 </p> 
@@ -367,8 +369,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/07/politics/what-is-electoral-count-act-overhaul/index.html">What the Electoral Count Act is -- and why some argue reforming it can protect future elections</a> CNN: The Electoral Count Act proved to be a vital safeguard for democracy when former President Donald Trump sought to overturn the 2020 presidential election in his favor. 
  <p class="updated_time"> 03:03 PM CT, Feb. 07 </p> 
  <a href="https://www.politico.com/news/2022/02/07/congress-3-week-funding-avert-shutdown-00006312">Congress readies 3-week funding punt to avert shutdown</a> Politico: The House and Senate are expected to kick the next shutdown deadline to March 11. 
- <p class="updated_time"> 07:22 AM CT, Feb. 07 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/07/lassoing-one-last-deal-but-first-a-stopgap-00006121">Lassoing one last deal (but first, a stopgap)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
