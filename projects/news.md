@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:07 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 08:22 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Ukraine Live Updates: Russia’s Top Diplomat Says Talks Are ‘Far From Exhausted’ as U.S. Warns of Continued Military Buildup</a> NYT: Chancellor Olaf Scholz of Germany arrived in Ukraine for talks before heading to Moscow on Tuesday, part of an urgent diplomatic push to defuse the crisis. Ukraine called on Russia to explain its menacing military buildup along its borders. 
+ <p class="updated_time"> 08:13 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett was set to fly to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 08:07 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Police Reopen Blockaded Bridge</a> NYT: Canadian officials reclaimed the Ambassador Bridge, a major international crossing, after it had been blockaded for nearly a week. But Ottawa remains paralyzed by an antigovernment protest. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
  <p class="updated_time"> 07:11 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
- <p class="updated_time"> 07:00 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister Naftali Bennett to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett was set to fly to Bahrain on Monday in the first visit by an Israeli premier to the Gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374485?at_medium=RSS&at_campaign=KARANGA">The 15-year-old Russian figure skater at the centre of a doping scandal</a> BBC: Kamila Valieva always wanted to win Olympic Gold, but is under the spotlight now in a different way. 
  <p class="updated_time"> 06:45 AM CT, Feb. 14 </p> 
@@ -42,6 +42,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
  <p class="updated_time"> 03:59 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60373493?at_medium=RSS&at_campaign=KARANGA">Kodak Black 'stable' after shooting, lawyer says</a> BBC: His lawyer has said it was an "unprovoked attack" against someone the rapper was with. 
+ <p class="updated_time"> 02:53 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">West Steps Up Diplomatic Efforts to Avert Russian Attack on Ukraine</a> WSJ: German Chancellor Olaf Scholz is traveling to Ukraine and Russia in the West’s latest diplomatic push to avert a potential attack by Moscow on its neighbor. 
+ <p class="updated_time"> 02:30 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/doing-business-in-myanmar-is-tough-but-one-company-finds-that-leaving-isnt-much-easier-11644845400">Doing Business in Myanmar Is Tough, but One Company Finds That Leaving Isn't Much Easier</a> WSJ: Norwegian telecommunications provider Telenor is among nearly two dozen major foreign companies that have decided to exit from the country since last year’s coup. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
@@ -50,14 +54,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60371355?at_medium=RSS&at_campaign=KARANGA">India bourse head was a 'puppet' of unnamed yogi, regulators say</a> BBC: Chitra Ramkrishna allegedly shared business plans, meeting agendas and financial projections with the guru. 
  <p class="updated_time"> 01:22 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080544626/corruption-trial-opens-for-ex-goldman-banker-in-1mdb-scandal">Corruption trial opens for ex-Goldman banker in 1MDB scandal</a> NPR: Prosecutors say the looting of the fund bankrolled lavish spending on jewels, art and real estate. The spoils even helped finance Hollywood movies, including the 2013 film "The Wolf of Wall Street." 
- <p class="updated_time"> 12:26 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/omicrons-threat-to-global-economy-increasingly-runs-through-china-11644764401">Omicron's Threat to the Global Economy Runs Through China</a> WSJ: The U.S. and Europe are learning to live with the virus, but Beijing’s zero-Covid strategy could lead to recurring lockdowns and limit exports the rest of the world relies on. 
  <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-olympics-2022">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
  <p class="updated_time"> 11:46 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60256141?at_medium=RSS&at_campaign=KARANGA">Scott Morrison criticised by New Zealand band over song use</a> BBC: Rock band Dragon called Scott Morrison's rendition of their hit song, April Sun in Cuba, "cynical". 
  <p class="updated_time"> 11:39 PM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/14/1080533073/key-u-s-canada-bridge-reopens-after-police-clear-protesters">Key U.S.-Canada bridge reopens after police clear protesters</a> NPR: The U.S.-Canada border crossing reopened late Sunday after protests against COVID-19 restrictions closed it for almost a week. The crossing normally carries 25% of all trade between the two countries. 
+ <p class="updated_time"> 11:30 PM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/soaring-inflation-means-britons-face-biggest-fall-in-real-incomes-in-30-years-11644834600">Soaring Inflation Means Britons Face Biggest Fall in Real Incomes in 30 Years</a> WSJ: Inflation is galloping ahead of wage growth, a stark illustration of the challenge facing central banks as they try to tame prices without snuffing out recoveries from the pandemic. 
  <p class="updated_time"> 11:18 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60371895?at_medium=RSS&at_campaign=KARANGA">New Zealand authorities blast James Blunt and Baby Shark at vaccine mandate protesters</a> BBC: New Zealand authorities use music to try and disperse a week-long vaccine mandate protest. 
  <p class="updated_time"> 11:08 PM CT, Feb. 13 </p> 
@@ -94,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:50 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
- <p class="updated_time"> 01:23 PM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/top-biden-administration-official-renews-warning-of-imminent-conflict-in-ukraine-11644775392">Biden Speaks to Ukrainian Leader Zelensky as Prospect of Conflict Looms</a> WSJ: President Biden told Ukraine’s leader the U.S. and its allies would respond rapidly to any further Russian aggression against his country, the White House said. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:19 PM CT, Feb. 13 </p> 
@@ -104,6 +106,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
  <p class="updated_time"> 11:34 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/switzerland-tobacco-ad-ban.html">Swiss Approve Ban on Tobacco Ads</a> NYT: Health advocates have said that the legislation, which was approved in a referendum, was a significant step toward tightening the country’s loose tobacco regulations. 
+ <p class="updated_time"> 11:30 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-buildup-near-ukraine-features-potent-weapons-systems-well-trained-troops-11644789065">Russian Buildup Near Ukraine Features Potent Weapons Systems, Well-Trained Troops</a> WSJ: The more than 130,000 troops Moscow has in the region are still too few to seize and occupy the whole of Ukraine, according to U.S. assessments. However, the deployments provide Russia’s commanders formidable advantages. 
  <p class="updated_time"> 10:46 AM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/canada-truck-protests-police.html">In Ottawa Trucker Protests, a Pressing Question: Where Were the Police?</a> NYT: They were vastly outnumbered, experts say, and unprepared for the sophisticated tactics, discipline and logistical abilities of the protesters. 
  <p class="updated_time"> 10:09 AM CT, Feb. 13 </p> 
@@ -116,8 +120,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60366037?at_medium=RSS&at_campaign=KARANGA">Venice Carnival returns after two year absence</a> BBC: After being cancelled for two years due to the pandemic, the Venice Carnival is back. 
  <p class="updated_time"> 07:51 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464211/germany-is-in-a-tough-place-dealing-with-russia-given-their-strong-trade-relatio">Germany is in a tough place dealing with Russia given their strong trade relationship</a> NPR: West Germany established strong trade ties with Moscow in the 1970s in an attempt to foster dialogue and stability. Today, Germany's approach is under stress as Russia threatens Ukraine. 
- <p class="updated_time"> 07:05 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-transfers-aramco-shares-worth-80-billion-to-wealth-fund-11644741068">Saudi Arabia Moves $80 Billion in Aramco Shares to Wealth Fund</a> WSJ: The stake transfer is part of a plan to boost the Public Investment Fund’s assets under management to over $1 trillion by 2025 and help diversify the kingdom’s oil-dependent economy. 
+ <p class="updated_time"> 07:32 AM CT, Feb. 13 </p> 
+ <a href="https://www.wsj.com/articles/indias-economy-hinges-on-the-return-of-workers-who-fled-to-their-villages-11644777177">India's Economy Hinges on the Return of Workers Who Fled to Their Villages</a> WSJ: Economists say the nation must create tens of millions of jobs that bring migrant workers out of farming or risk a decade of arrested growth. Many workers who returned home to rural areas say they plan to stay. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1080464169/npr-reporter-dives-into-his-family-ties-to-ukraine-russia-and-the-u-s">In a twist of fate, a family straddles the Russia-Ukraine conflict</a> NPR: Daniel Estrin discovered while reporting from Ukraine that the current geopolitical drama touches his family's history in unexpected ways. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
@@ -126,12 +130,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/13/1080059720/for-some-athletes-what-is-chinese-is-not-so-simple">For some athletes, what is Chinese is not so simple</a> NPR: Who gets to play for a country's national team at the Winter Olympics is an especially complicated question in China, where issues of identity, ethnicity, and citizenship are at stake. 
  <p class="updated_time"> 06:01 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/13/1079505737/before-covid-tb-was-the-worlds-worst-pathogen-its-still-a-monster-killer">Before COVID, TB was the world's worst pathogen. It's still a 'monster' killer</a> NPR: It was under control. And then it wasn't. In her new book Phantom Plague: How Tuberculosis Shaped History, VIdya Krishnan shows how "we repeat the same disease-spreading mistakes over and over." 
- <p class="updated_time"> 05:33 AM CT, Feb. 13 </p> 
- <a href="https://www.wsj.com/articles/at-russias-border-with-ukraine-pro-kremlin-separatists-find-support-11644770029">At Russia's Border with Ukraine, Pro-Kremlin Separatists Find Support</a> WSJ: In the Russian city of Kursk, some residents are ready to take up arms in case of war with Ukraine, eager to defend Russian speakers across the border against what the Kremlin says is the threat of persecution. 
  <p class="updated_time"> 11:54 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/13/1080446506/weather-snow-disrupts-events-at-the-beijing-olympics">(Real) snow disrupts events at the Beijing Winter Olympics </a> NPR: The men's giant slalom went ahead as scheduled — albeit with a few delays and stoppages. Low visibility caused 33 skiers to fail to finish their first qualifying run. 
- <p class="updated_time"> 06:36 PM CT, Feb. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-japan-and-south-korea-present-united-front-on-north-korea-11644730580">U.S., Japan and South Korea Present United Front on North Korea</a> WSJ: The U.S., Japan and South Korea will strengthen their joint efforts to deter North Korea’s missile activity and nuclear ambitions, while continuing to push for diplomatic engagement with Pyongyang, the allies’ senior diplomats said. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
  <p class="updated_time"> 06:10 PM CT, Feb. 12 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/trevor-noah-headline-white-house-correspondents-dinner-00008575">Trevor Noah to headline White House Correspondents’ Dinner</a> Politico: A comedian has not performed at the annual event since Michelle Wolf in 2018. 
  <p class="updated_time"> 07:06 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/john-eastman-jan-6-investigation-00008560">John Eastman claims attorney-client privilege over thousands of pages sought by Jan. 6 investigators</a> Politico: In a court filing early Monday, Eastman said he has reviewed about 46,000 pages and provided about 8,000 to the committee. 
  <p class="updated_time"> 05:00 AM CT, Feb. 14 </p> 
@@ -221,6 +223,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
+ <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
+ <a href="https://www.cnn.com/2022/02/13/politics/cnn-poll-biden-trump-2024/index.html">CNN Poll: Neither Biden nor Trump has their party's full support for a 2024 run</a> CNN: A significant number of both Democrats and Republicans currently hope to see their parties find alternatives to President Joe Biden and former President Donald Trump in the next presidential election, according to a new CNN poll conducted by SSRS. But very few have specific candidates in mind, underscoring how distant -- and potentially mutable -- the 2024 race remains. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/ukraine-invasion-false-flag-00008470">U.S. 'watching very carefully' for phony Russian reason to kick off Ukraine invasion</a> Politico: Jake Sullivan warned of Vladimir Putin possibly using a false flag operation to put the blame on Ukraine for war. 
  <p class="updated_time"> 12:02 PM CT, Feb. 13 </p> 
@@ -311,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 10:50 AM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/taliban-afghanistan-911-families-frozen-funds.html"> Biden Moves to Split $7 Billion in Frozen Afghan Funds</a> NYT: The president intends to use the Afghan central bank’s assets to fund needs in Afghanistan amid a humanitarian disaster, and compensate victims of the Sept. 11, 2001, attacks. 
- <p class="updated_time"> 06:04 AM CT, Feb. 11 </p> 
- <a href="https://www.cnn.com/2022/02/11/politics/trump-legal-risk-explainer/index.html">Assessing Trump's risk if he mishandled White House documents</a> CNN: Reports of former President Donald Trump's possible mishandling of federal documents found at his Mar-a-Lago resort have prompted legal experts this week to handicap: Could Trump be charged with a crime? 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
