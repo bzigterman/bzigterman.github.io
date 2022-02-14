@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:55 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 03:26 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/13/world/canada-protests-trudeau-news">Canada Protests: Police Say Blockaded Canadian Bridge Will Reopen Soon</a> NYT: The police said the Ambassador Bridge would need to be plowed before it could reopen. Earlier, officers arrested protesters and towed vehicles that had blocked the vital commercial crossing between Canada and the U.S. 
- <p class="updated_time"> 02:06 AM CT, Feb. 14 </p> 
+ <p class="updated_time"> 03:15 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370541?at_medium=RSS&at_campaign=KARANGA">Ukraine seeks meeting with Russia within 48 hours to discuss build-up</a> BBC: Ukraine accuses Russia of ignoring requests to explain its troop build-up, and calls for a meeting. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
