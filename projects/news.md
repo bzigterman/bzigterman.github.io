@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:36 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
- <p class="updated_time"> 10:36 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 10:50 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
+ <p class="updated_time"> 10:47 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 10:47 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/canada/coutts-alberta-border-protest.html">Protesters Begin Leaving Alberta's Coutts Border Crossing</a> NYT: The blockaded border crossing at Coutts, Alberta, began clearing early Tuesday morning and traffic is flowing there again. 
+ <p class="updated_time"> 10:44 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
+ <p class="updated_time"> 10:43 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 10:42 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60393843?at_medium=RSS&at_campaign=KARANGA">Prince Andrew settles US civil sex assault case</a> BBC: The Duke of York settles the claim brought against him by Virginia Giuffre, court documents show. 
  <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html">In France, a Racist Conspiracy Theory Edges Into the Mainstream</a> NYT: Valérie Pécresse, the center-right presidential candidate, used the phrase ‘great replacement’ in a speech punctuated with coded attacks on immigrants and Muslims. 
  <p class="updated_time"> 10:32 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080828750/prince-andrew-settlement-virginia-giuffre">Prince Andrew reaches a settlement with Virginia Giuffre in sexual abuse lawsuit</a> NPR: Virginia Giuffre had accused Prince Andrew of sexually abusing her when she was a minor. The agreement includes financial terms that were not disclosed. 
- <p class="updated_time"> 10:30 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60393843?at_medium=RSS&at_campaign=KARANGA">Prince Andrew settles US civil sex assault case</a> BBC: The Duke of York settles the claim brought against him by Virginia Giuffre, court documents show. 
- <p class="updated_time"> 10:26 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/navalny-russia-court.html">Aleksei Navalny Appears in Russian Penal Camp Court</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
  <p class="updated_time"> 10:23 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
  <p class="updated_time"> 10:16 AM CT, Feb. 15 </p> 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312237?at_medium=RSS&at_campaign=KARANGA">Families of Sandy Hook victims settle with Remington</a> BBC: The case marks the first time a US gun manufacturer is held accountable for a mass shooting. 
  <p class="updated_time"> 10:10 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60388181?at_medium=RSS&at_campaign=KARANGA">Sudanese boy rescued after eight hours trapped in rubbish lorry</a> BBC: The 10-year-old refuse worker in Khartoum became trapped in the truck's crushing mechanism. 
- <p class="updated_time"> 10:09 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080814310/novak-djokovic-covid-vaccine">Novak Djokovic says he will skip tournaments rather than get the COVID vaccine</a> NPR: The Serbian tennis star says he understands he may miss the French Open and Wimbledon as a result. He adds that his decision is personal and he shouldn't be lumped in with anti-vaccination activists. 
  <p class="updated_time"> 10:04 AM CT, Feb. 15 </p> 
@@ -62,6 +64,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 05:41 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60387156?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernández: Police surround Honduran ex-leader's home</a> BBC: The US has asked for ex-President Juan Orlando Hernández to be extradited on drugs charges. 
+ <p class="updated_time"> 05:41 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
  <p class="updated_time"> 05:30 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/15/1079761270/china-promised-trump-a-better-deal-for-america-it-didnt-actually-deliver">China promised Trump a better deal for America; it didn't actually deliver</a> NPR: In 2020, President Trump signed a deal with the Chinese government to improve trade relations. China, for the most part, has not followed through. 
  <p class="updated_time"> 05:19 AM CT, Feb. 15 </p> 
@@ -72,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080774883/russians-scoff-at-western-fears-of-ukraine-invasion">Russians scoff at Western fears of Ukraine invasion</a> NPR: More than half of respondents in recent polls in Russia say the U.S. is responsible for the current standoff over Ukraine. 
- <p class="updated_time"> 04:16 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773516/canadas-government-invokes-emergencies-act-to-try-to-quell-covid-protests">Canada's government invokes Emergencies Act to try to quell COVID protests</a> NPR: Three weeks after truckers occupied downtown Ottawa, Canada's prime minister invoked the Emergencies Act. It grants the federal government special powers to address security issues. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
@@ -166,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/cook-islands-covid.html">A remote island nation confronts its first confirmed coronavirus case.</a> NYT: The case in the Cook Islands emerged a month after the country reopened its air borders to travelers from New Zealand. 
  <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
- <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
  <p class="updated_time"> 02:27 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/nepal-chief-justice-suspended.html">Nepal’s Chief Justice Is Suspended, Deepening Political Chaos</a> NYT: Accusations and a possible ouster could aggravate divisions that have paralyzed much of the Nepal government for months. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:32 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1079356063/leondra-kruger-biden-supreme-court">Leondra Kruger, a star on California's high court, is on Biden's Supreme Court list</a> NPR: If there is a sleeping dog for Republicans to probe in her record, it is one of the 12 cases she argued during her years in the solicitor general's office. 
  <p class="updated_time"> 10:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080682953/amazon-walmart-and-jpmorgan-chase-among-companies-relaxing-employee-mask-mandate">Amazon, Walmart and JPMorgan Chase among companies relaxing employee mask mandates</a> NPR: As several states relax mask mandates, U.S. companies are easing up their own rules. 
  <p class="updated_time"> 06:18 AM CT, Feb. 15 </p> 
@@ -279,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080303338/republicans-call-on-biden-to-end-covids-public-health-emergency-designation">Republicans call on Biden to end COVID's public health emergency designation</a> NPR: "Today we call on your administration to do what so many states and other countries already have: accept that COVID-19 is endemic," the dozens of Republicans write in a letter. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">How Eric Adams Mixes Tough Talk With Superfood Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
- <p class="updated_time"> 02:48 AM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080550812/to-try-to-free-up-frozen-afghan-assets-for-aid-biden-signs-executive-order">To try to free up frozen Afghan assets for aid, Biden signs executive order</a> NPR: President Biden has signed an executive order detailing how the U.S will deal with about $7 billion in assets that Afghanistan's central bank stored in New York before the Taliban takeover. 
  <p class="updated_time"> 11:10 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">Inside McConnell’s Campaign to Take Back the Senate and Thwart Trump</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
