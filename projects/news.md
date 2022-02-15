@@ -8,18 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:00 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60383594?at_medium=RSS&at_campaign=KARANGA">Trump accountants say financial reports unreliable</a> BBC: Mazars says it can no longer stand behind 10 years of the former president's statements. 
+ <p class="updated_time"> 08:51 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 08:17 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
- <p class="updated_time"> 08:03 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 07:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 07:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 07:20 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
+ <p class="updated_time"> 06:54 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60334181?at_medium=RSS&at_campaign=KARANGA">UP election: Are women really thriving in Uttar Pradesh as PM Modi claims?</a> BBC: We test PM Narendra Modi's claim that Uttar Pradesh is now safe and full of opportunities for women. 
+ <p class="updated_time"> 06:52 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60380317?at_medium=RSS&at_campaign=KARANGA">Was Canada's Covid response more effective than the US?</a> BBC: Despite protests raging in Canada, the country is managing Covid better than the US, data shows. 
  <p class="updated_time"> 06:49 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60380298?at_medium=RSS&at_campaign=KARANGA">Pharmaceuticals in rivers threaten world health - study</a> BBC: Paracetamol, nicotine, caffeine and epilepsy and diabetes drugs were widely detected, research finds. 
+ <p class="updated_time"> 06:48 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Roblox: The children's game with a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
+ <p class="updated_time"> 06:45 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60258327?at_medium=RSS&at_campaign=KARANGA">Nigeria's sleepless students trying to beat the Lagos traffic</a> BBC: Nigeria's largest city is notorious for its traffic, which is having an impact on children's education. 
+ <p class="updated_time"> 06:41 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/60309566?at_medium=RSS&at_campaign=KARANGA">US mid-terms: How will new voting laws affect the election?</a> BBC: New rules are coming in across the US ahead of mid-term elections. What impact will they have? 
  <p class="updated_time"> 06:28 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60256143?at_medium=RSS&at_campaign=KARANGA">Tonga PM counts mental health 'cost' of disasters</a> BBC: In an exclusive interview with the BBC, PM Siaosi Sovaleni says rebuilding mental health is a challenge. 
  <p class="updated_time"> 06:18 PM CT, Feb. 14 </p> 
@@ -27,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:11 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60378972?at_medium=RSS&at_campaign=KARANGA">Nigeria's prisons problem: Former inmates reveal horrific experiences</a> BBC: Joy’s husband died in custody after three years in prison. He was one of thousands of Nigerian inmates detained without trial. 
  <p class="updated_time"> 05:56 PM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080559075/german-chancellor-warns-of-far-reaching-sanctions-if-russia-moves-on-ukraine">German chancellor warns of far-reaching sanctions if Russia moves on Ukraine</a> NPR: Olaf Scholz did not elaborate on specifics during his meeting with Ukrainian President Volodymyr Zelensky on Monday but he did say that pledge a new round of financial assistance to Kyiv. 
+ <a href="https://www.npr.org/2022/02/14/1080559075/german-chancellor-warns-of-far-reaching-sanctions-if-russia-moves-on-ukraine">German chancellor warns of far-reaching sanctions if Russia moves on Ukraine</a> NPR: Olaf Scholz did not elaborate on specifics during his meeting with Ukrainian President Volodymyr Zelenskyy on Monday but he did pledge a new round of financial assistance to Kyiv. 
  <p class="updated_time"> 05:23 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
  <p class="updated_time"> 05:20 PM CT, Feb. 14 </p> 
@@ -148,10 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
- <p class="updated_time"> 06:13 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/60292915?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia waging an information war?</a> BBC: Several tactics are being used by pro-Kremlin sources to spread stories about Ukraine. 
- <p class="updated_time"> 06:10 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60339741?at_medium=RSS&at_campaign=KARANGA">Cuba's first gay hotel reopens as human rights deteriorate</a> BBC: Cuba reopens its first LGBTQ hotel, but can tourists ignore the country's poor human rights record? 
  <p class="updated_time"> 06:06 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60350876?at_medium=RSS&at_campaign=KARANGA">Couple married for 91 years and still in love</a> BBC: Yemeni Jews Shama’a and Zechariah married young and survived extreme poverty and persecution together. 
  <p class="updated_time"> 06:01 PM CT, Feb. 13 </p> 
@@ -168,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
- <p class="updated_time"> 06:10 PM CT, Feb. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60362274?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: After eight years of war, an eastern city unifies against Russia</a> BBC: Separatists tried to seize Kharkiv in 2014. Now the city is turning away from its old neighbour. 
  <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
@@ -181,7 +187,13 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:10 PM CT, Feb. 14 </p> 
+ <p class="updated_time"> 09:53 PM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/canada-emergency-measures-political-firestorm-00008896">Canada invokes unprecedented emergency measures — and triggers a political firestorm</a> Politico: The embattled Prime Minister Justin Trudeau has taken an enormous gamble to remove the truckers’ protests, and his legacy is on the line. 
+ <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/durham-sussmann-trump-russia.html">Court Filing Started a Furor in Right-Wing Outlets, but Their Narrative Is Off Track</a> NYT: The latest alarmist claims about spying on Trump appeared to be flawed, but the explanation is byzantine — underlining the challenge for journalists in deciding what merits coverage. 
+ <p class="updated_time"> 09:06 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Ilya Lichtenstein Held in Bitcoin Case While Heather Morgan Is Given Bail</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
+ <p class="updated_time"> 08:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/tina-peters-colorado-election.html">2020 Election Denier Will Run for Top Elections Position in Colorado</a> NYT: Tina Peters, the Mesa County clerk, has been stripped of her county election oversight but is seeking to oversee her state’s elections as secretary of state. 
  <p class="updated_time"> 07:12 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/trump-accounting-firm-mazars-00008841">Accounting firm: Trump financial statements aren’t reliable</a> Politico: Mazars’ letter was made public in a court filing Monday. 
@@ -228,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:00 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/trevor-noah-headline-white-house-correspondents-dinner-00008575">Trevor Noah to headline White House Correspondents’ Dinner</a> Politico: A comedian has not performed at the annual event since Michelle Wolf in 2018. 
  <p class="updated_time"> 07:06 AM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/john-eastman-jan-6-investigation-00008560">John Eastman claims attorney-client privilege over thousands of pages sought by Jan. 6 investigators</a> Politico: In a court filing early Monday, Eastman said he has reviewed about 46,000 pages and provided about 8,000 to the committee. 
+ <a href="https://www.politico.com/news/2022/02/14/john-eastman-jan-6-investigation-00008560">Federal judge orders John Eastman to detail legal work for Trump</a> Politico: Eastman, who helped develop a strategy to subvert the 2020 election, has tried to withhold emails by citing attorney-client and attorney work-product privileges. 
  <p class="updated_time"> 05:00 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/eric-adams-unlikely-alliance-teachers-union-00007526">Adams’ unlikely alliance with the head of New York’s teachers union</a> Politico: The warm relationship between Adams and Michael Mulgrew shows the mayor’s pragmatic approach to governing and the tough political spot the union leader is in. But don’t expect the honeymoon to last. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
@@ -262,7 +274,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:01 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
  <p class="updated_time"> 10:54 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/russia-ukraine-sanctions-lindsey-graham-00008452">'We're talking way too much and we're doing too little' on Russia sanctions, Graham says</a> Politico: "We should be doing more in Congress" to preemptively impose penalties on Russia, Sen. Lindsey Graham said as the threat of an invasion of Ukraine looms. 
+ <a href="https://www.politico.com/news/2022/02/13/russia-ukraine-sanctions-lindsey-graham-00008452">‘We're talking way too much and we're doing too little’ on Russia sanctions, Graham says</a> Politico: "We should be doing more in Congress" to preemptively impose penalties on Russia, Sen. Lindsey Graham said as the threat of an invasion of Ukraine looms. 
  <p class="updated_time"> 10:21 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-defund-police-democrats-00008449">'Defund the police' is not the policy of the Democratic Party, Pelosi says</a> Politico: "Make no mistake, community safety is our responsibility," she said. 
  <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
@@ -299,8 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
- <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
@@ -317,10 +327,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/11/us/politics/trump-rally-texas.html">The Traveling Trump Show Comes to South Texas</a> NYT: Pro-Trump rallies and conferences have taken on the flavor of religious revival, a mix between protest and party. 
  <p class="updated_time"> 05:10 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/wisconsin-state-supreme-court-drop-boxes-ban-spring-election-00008377">Wisconsin state Supreme Court lets ban on drop boxes go into effect for spring election</a> Politico: The court had previously stayed the ban on drop boxes for the spring election primaries. 
- <p class="updated_time"> 04:53 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/congress-aides-unionize-house.html">On Capitol Hill, a Push to Unionize House Aides Gains Traction</a> NYT: Democrats have signed on to a resolution that would for the first time give House aides the same organizing protections other federal government employees enjoy. 
- <p class="updated_time"> 04:51 PM CT, Feb. 11 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/eli-lilly-antibody-treatment-covid.html">F.D.A. Clears Monoclonal Antibody Drug From Eli Lilly</a> NYT: The federal government has ordered 600,000 doses of the monoclonal antibody treatment, which is meant for high-risk Covid patients early in their illness. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
