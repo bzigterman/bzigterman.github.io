@@ -17,12 +17,12 @@ Current:
 
 - 20°
 - clear sky
-- 76% humidity
+- 75% humidity
 - 9 mph wind
 - 06:46 a.m. sunrise
 - 05:28 p.m. sunset
 
-<p class="updated_time"> Latest data: 08:18 AM CT, February 15</p>
+<p class="updated_time"> Latest data: 08:29 AM CT, February 15</p>
 
 ## Severe Thunderstorm Outlook
 
