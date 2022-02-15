@@ -1210,7 +1210,12 @@ html {
 
 ![USA new cases map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases.png)
 
-![USA transmission levels map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png)
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png"
+          media="(min-width: 750px)">
+  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission_mobile.png" alt="" />
+</picture>
 
 ## World
 
