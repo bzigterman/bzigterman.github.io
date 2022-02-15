@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:34 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 03:12 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up prompted fears of an invasion. 
  <p class="updated_time"> 03:02 AM CT, Feb. 15 </p> 
@@ -26,8 +28,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 12:41 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080767360/u-s-asks-honduras-to-arrest-extradite-ex-president-hernandez">U.S. asks Honduras to arrest, extradite ex-President Hernández</a> NPR: The request follows speculation over whether the former president would be charged after U.S. prosecutors repeatedly implicated him in his brother's 2019 drug trafficking trial. 
- <p class="updated_time"> 12:11 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 12:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60381628?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic willing to miss Wimbledon to avoid jab</a> BBC: Novak Djokovic reveals exclusively to the BBC why he hasn't had the Covid vaccination. 
  <p class="updated_time"> 10:08 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60256146?at_medium=RSS&at_campaign=KARANGA">Thousands of Australian nurses go on strike as Covid cases mount</a> BBC: The Omicron variant has led to a recent surge of cases, putting hospital systems under further strain. 
  <p class="updated_time"> 10:02 PM CT, Feb. 14 </p> 
@@ -140,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60374485?at_medium=RSS&at_campaign=KARANGA">The 15-year-old Russian figure skater at the centre of a doping scandal</a> BBC: Kamila Valieva always wanted to win Olympic Gold, but is under the spotlight now in a different way. 
  <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
- <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60374655?at_medium=RSS&at_campaign=KARANGA">The 78-year-old Ukrainian grandmother preparing for a Russian invasion</a> BBC: From grandmothers to children, some Ukrainian civilians are preparing for a Russian invasion. 
  <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
  <p class="updated_time"> 04:14 AM CT, Feb. 14 </p> 
