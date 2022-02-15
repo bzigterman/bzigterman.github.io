@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:56 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1080559075/german-chancellor-warns-of-far-reaching-sanctions-if-russia-moves-on-ukraine">German chancellor warns of far-reaching sanctions if Russia moves on Ukraine</a> NPR: Olaf Scholz did not elaborate on specifics during his meeting with Ukrainian President Volodymyr Zelensky on Monday but he did say that pledge a new round of financial assistance to Kyiv. 
  <p class="updated_time"> 05:23 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
  <p class="updated_time"> 05:20 PM CT, Feb. 14 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080533073/key-u-s-canada-bridge-reopens-after-police-clear-protesters">Key U.S.-Canada bridge reopens after police clear protesters</a> NPR: The U.S.-Canada border crossing reopened late Sunday after protests against COVID-19 restrictions closed it for almost a week. The crossing normally carries 25% of all trade between the two countries. 
  <p class="updated_time"> 11:18 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60371895?at_medium=RSS&at_campaign=KARANGA">New Zealand authorities blast James Blunt and Baby Shark at vaccine mandate protesters</a> BBC: New Zealand authorities use music to try and disperse a week-long vaccine mandate protest. 
- <p class="updated_time"> 11:03 PM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/14/1080505798/u-s-women-make-monobob-history-at-the-2022-beijing-olympics">U.S. women make monobob history at the 2022 Winter Olympics</a> NPR: This is gold medalist Kaillie Humphries first medal for the U.S. The champion previously won gold and bronze medals for her home country of Canada. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
  <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
- <p class="updated_time"> 03:10 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/europe/macron-putin-ukraine.html">Emmanuel Macron Recounts Face-Off With Vladimir Putin</a> NYT: The French leader recounted his face-off with Vladimir Putin and dismissed Washington’s exchange of letters with Moscow, gambling that his diplomacy could pay off before April elections. 
 
 
 </details>
