@@ -8,10 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip to the kingdom by Naftali Bennett, the first official visit by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
+ <p class="updated_time"> 04:11 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 04:03 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
+ <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
+ <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
  <p class="updated_time"> 03:38 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up prompted fears of an invasion. 
- <p class="updated_time"> 03:34 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 03:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
@@ -118,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
  <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
- <p class="updated_time"> 11:50 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60382182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Social media videos show Russian military equipment on the move near border</a> BBC: Social media clips show military vehicles on the move - despite Russia's denials of an attack. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
@@ -150,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
- <p class="updated_time"> 01:22 AM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080544626/corruption-trial-opens-for-ex-goldman-banker-in-1mdb-scandal">Corruption trial opens for ex-Goldman banker in 1MDB scandal</a> NPR: Prosecutors say the looting of the fund bankrolled lavish spending on jewels, art and real estate. The spoils even helped finance Hollywood movies, including the 2013 film "The Wolf of Wall Street." 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
  <p class="updated_time"> 02:27 PM CT, Feb. 13 </p> 
@@ -166,10 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
- <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
- <p class="updated_time"> 10:06 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/middleeast/settler-violence-west-bank.html">In West Bank, Violence Rises Between Palestinians and Settlers</a> NYT: Attacks by settlers and Palestinians have both reached a five-year high. But unlike Palestinian suspects, violent settlers are rarely prosecuted. 
 
 
 </details>
@@ -177,6 +181,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080773460/trump-accountant-says-a-decade-of-financial-statements-are-unreliable">Trump accountant says a decade of financial statements are unreliable</a> NPR: Donald Trump's longtime accounting firm cut off his relationship with him, saying it could no longer stand behind the annual financial documents it had prepared for him. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080739353/high-numbers-of-mail-ballots-are-being-rejected-in-texas-after-a-new-state-law">High numbers of mail ballots are being rejected in Texas after a new state law</a> NPR: In Harris County — home to Houston — election officials so far have sent back to voters nearly 38% of mail-in ballots, citing issues with new state ID requirements. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/nyregion/lauren-smith-fields-tiktok.html">Why Lauren Smith-Fields’s Friends Turned to TikTok</a> NYT: Ignored by the media and pushed aside by the police, the families and supporters of missing Black women are building their own missing persons operation online. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
  <p class="updated_time"> 03:47 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data">Texas sues Meta, saying it misused facial recognition data </a> NPR: Texas Attorney General Ken Paxton said Facebook's parent company could owe billions of dollars in damages for selling the biometric data of unknowing users. 
  <p class="updated_time"> 01:47 AM CT, Feb. 15 </p> 
@@ -285,24 +301,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
  <a href="https://www.npr.org/2022/02/13/1079838009/democratas-desalentados-aun-con-mayor-poder-de-voto-latino-en-nuevo-distrito">Demócratas desalentados aun con mayor poder de voto Latino en nuevo distrito</a> NPR: Donald Trump ganó terreno con Latinos en 2020. Este año, votantes en un nuevo distrito congresional de Colorado enfrentan preocupaciones económicas que podrían costarle a los demócratas. 
- <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1075600036/congress-midterm-election-colorado-eighth-district-latino-voters">A new House seat has big Latino voting power. It may be little comfort to Democrats</a> NPR: Donald Trump made gains with Latinos nationally in 2020. This year, voters in a competitive new Colorado congressional district are facing economic and pandemic concerns that could cost Democrats. 
  <p class="updated_time"> 10:56 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
  <p class="updated_time"> 08:38 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/rudolph-giuliani-january-6-committee.html">Giuliani in Talks to Testify to House Jan. 6 Panel</a> NYT: It is not clear how much assistance he might provide in the investigation into former President Donald J. Trump’s efforts to hold onto power. 
- <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080420118/biden-warns-putin-of-decisive-response-if-russia-invades-ukraine">Biden warns Putin of 'decisive' response if Russia invades Ukraine</a> NPR: President Biden spoke with Russian President Vladimir Putin on Saturday, and the U.S. ordered its diplomats and troops out of Ukraine. 
- <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080354259/new-york-times-admitted-it-made-mistakes-and-moved-too-fast-in-palin-editorial">New York Times admitted it made mistakes and moved too fast in Palin editorial</a> NPR: Former Republican governor Sarah Palin is suing the New York Times for defamation over an editorial that alleged wrongdoing by her political action committee. Closing arguments wrapped up Friday. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
- <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
