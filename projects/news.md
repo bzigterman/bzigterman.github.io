@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Canada Initiates Emergency Act, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 04:40 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up raised fears of an invasion. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 04:15 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip to the kingdom by Naftali Bennett, the first official visit by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
- <p class="updated_time"> 04:11 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080773516/canadas-government-invokes-emergencies-act-to-try-to-quell-covid-protests">Canada's government invokes Emergencies Act to try to quell COVID protests</a> NPR: Three weeks after truckers occupied downtown Ottawa, Canada's prime minister invoked the Emergencies Act. It grants the federal government special powers to address security issues. 
  <p class="updated_time"> 04:03 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
@@ -22,10 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
- <p class="updated_time"> 03:38 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up prompted fears of an invasion. 
- <p class="updated_time"> 03:02 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:18 AM CT, Feb. 15 </p> 
@@ -156,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
  <p class="updated_time"> 04:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/cook-islands-covid.html">A remote island nation confronts its first confirmed coronavirus case.</a> NYT: The case in the Cook Islands emerged a month after the country reopened its air borders to travelers from New Zealand. 
- <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
@@ -181,12 +181,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/nyc-fires-municipal-workers-vaccine-mandate-00008645">New York City fires 1,430 municipal workers over vaccine mandate</a> Politico: That figure represents less than 1 percent of the city's 370,000-person workforce. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/jan-6-lobbying-companies-election-00008827">These companies stopped campaign donations to election objectors. Their lobbyists did not.</a> Politico: Throughout 2021, in-house government affairs staffers for at least 13 companies gave personal donations to Republicans who objected to the presidential election results. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 ‘legitimate political discourse’</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/conor-lamb-senate-penn-00008919">The left neutralizes the Dem establishment in Pa. Senate primary</a> Politico: At one time, the Democratic Party would have cleared the Senate field for a candidate like Conor Lamb. Not anymore. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
+ <a href="https://www.politico.com/news/2022/02/15/hartzler-britt-super-pac-help-00008864">2 Senate candidates get super PAC help from former NRA operatives</a> Politico: Missouri's Vicky Hartzler and Alabama's Katie Britt will benefit from Secure Our Freedom Action Fund's support. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080773460/trump-accountant-says-a-decade-of-financial-statements-are-unreliable">Trump accountant says a decade of financial statements are unreliable</a> NPR: Donald Trump's longtime accounting firm cut off his relationship with him, saying it could no longer stand behind the annual financial documents it had prepared for him. 
+ <a href="https://www.npr.org/2022/02/15/1080773460/trump-accountant-says-a-decade-of-financial-statements-are-unreliable">Trump accountant says a decade of financial statements are unreliable</a> NPR: Donald Trump's longtime accounting firm cut off its relationship with him, saying it could no longer stand behind the annual financial documents it had prepared for him. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080739353/high-numbers-of-mail-ballots-are-being-rejected-in-texas-after-a-new-state-law">High numbers of mail ballots are being rejected in Texas after a new state law</a> NPR: In Harris County — home to Houston — election officials so far have sent back to voters nearly 38% of mail-in ballots, citing issues with new state ID requirements. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
@@ -217,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/prosecution-police-george-floyd-00008826">Prosecution rests in 3 cops’ trial in George Floyd killing</a> Politico: The three were on the scene with Derek Chauvin, who has already been convicted. 
  <p class="updated_time"> 05:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/maryland-man-pleads-guilty-nuclear-secrets-foreign-government-00008742">Maryland man pleads guilty to trying to sell nuclear secrets to foreign government</a> Politico: Jonathan Toebbe, a nuclear engineer, and his wife were arrested after undercover FBI agents exchanged $100,000 in cryptocurrency for submarine secrets. 
- <p class="updated_time"> 04:31 PM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/freedom-convoy-trudeau-canada-00008643">Trudeau invokes 'last-resort' emergency powers in bid to end trucker protests</a> Politico: Protesters and trucks have occupied streets around Parliament Hill for more than two weeks. 
  <p class="updated_time"> 04:12 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080698388/trump-accountant-severs-relatioship-financial-statements-unreliable">Trump's longtime accountant says a decade of his financial statements are unreliable</a> NPR: The accounting firm Mazars USA says it has severed its relationship with former President Donald Trump and his family business. 
  <p class="updated_time"> 03:47 PM CT, Feb. 14 </p> 
@@ -249,12 +255,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/trevor-noah-headline-white-house-correspondents-dinner-00008575">Trevor Noah to headline White House Correspondents’ Dinner</a> Politico: A comedian has not performed at the annual event since Michelle Wolf in 2018. 
  <p class="updated_time"> 07:06 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/john-eastman-jan-6-investigation-00008560">Federal judge orders John Eastman to detail legal work for Trump</a> Politico: Eastman, who helped develop a strategy to subvert the 2020 election, has tried to withhold emails by citing attorney-client and attorney work-product privileges. 
- <p class="updated_time"> 05:00 AM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/eric-adams-unlikely-alliance-teachers-union-00007526">Adams’ unlikely alliance with the head of New York’s teachers union</a> Politico: The warm relationship between Adams and Michael Mulgrew shows the mayor’s pragmatic approach to governing and the tough political spot the union leader is in. But don’t expect the honeymoon to last. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/democrat-gary-peters-50-50-senate-00008320">The low-key Democrat with the unenviable task of defending a 50-50 Senate</a> Politico: Gary Peters isn't just playing defense; he's set the goal of a 52-seat Democratic majority for 2023. 
- <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/donald-trump-matt-dolan-ohio-00008525">Trump’s latest political obsession: The baseball team owner not toeing his line</a> Politico: Ohio's Matt Dolan is spending millions to break through in a GOP Senate primary where he's the only candidate not aggressively courting Trump. 
  <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators vow not to rehash Kavanaugh during SCOTUS confirmation</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
@@ -309,8 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
- <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
@@ -359,8 +359,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/house-staffers-unionization-00006936">House staffers confront reality of unionization: 'No one knows how it would work'</a> Politico: Dozens of senior House aides are searching for the next steps for their union drive. They're realizing fundamental problems will plague the process. 
  <p class="updated_time"> 05:24 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/house-passes-bipartisan-postal-reform-bill-00006722">House passes bill to ease Postal Service financial woes</a> Politico: The long-awaited legislation addresses operational and financial issues at the cash-strapped agency. 
- <p class="updated_time"> 02:38 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/hogan-van-hollen-maryland-senate-00006834">Hogan won’t challenge Van Hollen for Maryland Senate seat</a> Politico: The governor’s decision was a blow to GOP recruitment efforts. 
  <p class="updated_time"> 01:33 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
@@ -371,8 +369,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:24 AM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/08/censures-inflame-gop-tensions-00006584"> Censures inflame GOP tensions</a> Politico Playbook: And Eric Lander resigns. 
- <p class="updated_time"> 04:30 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/house-watchdog-behavioral-monitoring-internal-security-threats-00006447">House watchdog weighs ‘behavioral monitoring’ to deter internal security threats</a> Politico: In a draft report reviewed by POLITICO, the chamber's inspector general proposes a comprehensive effort to identify and deter risks posed by insiders — a volatile topic since Jan. 6. 
 
 
 </details>
