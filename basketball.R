@@ -318,6 +318,111 @@ ggsave("plots/nba_team_rank.png",
        width = 8, height = 8*(628/1200),
        dpi = 320)
 
+western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
+                                              y = win_pct)) +
+  geom_rect(xmin = 9.5, xmax = Inf,
+            ymin = -Inf, ymax = Inf,
+            fill = "grey85") +
+  geom_rect(xmin = 5.5, xmax = 9.5,
+            ymin = -Inf, ymax = Inf,
+            fill = "grey95") +
+  geom_hline(yintercept = 0.5,
+             color = "grey50",
+             size = .2) +
+  geom_col(aes(fill = win_pct),
+           width = 1) +
+  scale_fill_gradient(guide = NULL,
+                      low = "#fd8d3c",
+                      high = "#800026") +
+  coord_cartesian(ylim = c(nba_min,nba_max)) +
+  geom_text(aes(label = team_label),
+            family = "mono",
+            color = "white",
+            angle = 270,
+            size = 3.9,
+            nudge_y = nudge) +
+  # geom_text(aes(label = division_leaders),
+  #           family = "mono",
+  #           nudge_y = .011) +
+  theme_minimal() +
+  labs(x = NULL,
+       y = NULL,
+       title = "Western") +
+  theme(
+    legend.title = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey93"),
+    plot.title = element_text(hjust = 1),
+    plot.background = element_rect(fill = "white", color = "white"),
+    plot.margin = margin(t = 5,
+                         r = 5,
+                         b = 0#,
+                         #l = 110
+                         ),
+    panel.grid = element_blank(),
+    axis.text = element_blank(),
+    legend.position = "bottom",
+    legend.key.size = unit(.1,"in"),
+    legend.box.spacing = unit(0,"in")
+  )
+western_plot
+
+
+eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
+                                              y = win_pct)) +
+  geom_rect(xmin = -Inf, xmax = 6.5,
+            ymin = -Inf, ymax = Inf,
+            fill = "grey85") +
+  geom_rect(xmin = 6.5, xmax = 10.5,
+            ymin = -Inf, ymax = Inf,
+            fill = "grey95") +
+  # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
+  #           ymin = -Inf, ymax = Inf,
+  #           fill = "grey85") +
+  geom_hline(yintercept = 0.5,
+             color = "grey50",
+             size = .2) +
+  geom_col(aes(fill = win_pct),
+           width = 1) +
+  scale_fill_continuous(guide = NULL,
+                        low = "#3690c0",
+                        high = "#023858") +
+  coord_cartesian(ylim = c(nba_min,nba_max)) +
+  geom_text(aes(label = team_label),
+            family = "mono",
+            color = "white",
+            angle = 270,
+            size = 3.9,
+            nudge_y = nudge) +
+  # geom_text(aes(label = division_leaders),
+  #           family = "mono",
+  #           nudge_y = .011) +
+  scale_y_continuous(labels = label_comma(accuracy = .001)) +
+  theme_minimal() +
+  labs(x = NULL,
+       y = NULL,
+       title = "Eastern") +
+  theme(    
+    legend.title = element_blank(),
+    plot.background = element_rect(fill = "white", color = "white"),
+    plot.margin = margin(t = 0,
+     #                    #r = 90,
+                         b = 0,
+                         l = 0),
+    panel.grid = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey93"),
+    axis.text.x = element_blank(),
+    legend.position = "bottom",
+    legend.key.size = unit(.1,"in"),
+    legend.box.spacing = unit(0,"in")
+  )
+eastern_plot
+plot_grid(western_plot,eastern_plot,
+          align = "h",
+          rel_widths = c(6,7)) 
+
+ggsave("plots/nba_team_rank_mobile.png", bg = "white",
+       width = 4, height = 8*(628/1200),
+       dpi = 320)
 
 # conference standings charts ----
 conference_standings_plot <- function(conference) {
@@ -464,7 +569,11 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 
 ",better_wild_card_standings_table_html," 
 
-![Team Rank]({{ site.baseurl }}/plots/nba_team_rank.png)
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/nba_team_rank.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/nba_team_rank_mobile.png\" alt=\"\" />
+</picture>
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/nba-forecasts\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 
