@@ -8,16 +8,34 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:36 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 10:36 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html">In France, a Racist Conspiracy Theory Edges Into the Mainstream</a> NYT: Valérie Pécresse, the center-right presidential candidate, used the phrase ‘great replacement’ in a speech punctuated with coded attacks on immigrants and Muslims. 
+ <p class="updated_time"> 10:32 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080828750/prince-andrew-settlement-virginia-giuffre">Prince Andrew reaches a settlement with Virginia Giuffre in sexual abuse lawsuit</a> NPR: Virginia Giuffre had accused Prince Andrew of sexually abusing her when she was a minor. The agreement includes financial terms that were not disclosed. 
+ <p class="updated_time"> 10:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60393843?at_medium=RSS&at_campaign=KARANGA">Prince Andrew settles US civil sex assault case</a> BBC: The Duke of York settles the claim brought against him by Virginia Giuffre, court documents show. 
+ <p class="updated_time"> 10:26 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/navalny-russia-court.html">Aleksei Navalny Appears in Russian Penal Camp Court</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
+ <p class="updated_time"> 10:23 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
+ <p class="updated_time"> 10:16 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60388111?at_medium=RSS&at_campaign=KARANGA">Qandeel Baloch: Court acquits brother of Pakistan star's murder</a> BBC: Muhammed Waseem confessed to killing Qandeel Baloch, saying she had brought shame on the family. 
+ <p class="updated_time"> 10:11 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60312237?at_medium=RSS&at_campaign=KARANGA">Families of Sandy Hook victims settle with Remington</a> BBC: The case marks the first time a US gun manufacturer is held accountable for a mass shooting. 
+ <p class="updated_time"> 10:10 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60388181?at_medium=RSS&at_campaign=KARANGA">Sudanese boy rescued after eight hours trapped in rubbish lorry</a> BBC: The 10-year-old refuse worker in Khartoum became trapped in the truck's crushing mechanism. 
+ <p class="updated_time"> 10:09 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080814310/novak-djokovic-covid-vaccine">Novak Djokovic says he will skip tournaments rather than get the COVID vaccine</a> NPR: The Serbian tennis star says he understands he may miss the French Open and Wimbledon as a result. He adds that his decision is personal and he shouldn't be lumped in with anti-vaccination activists. 
  <p class="updated_time"> 10:04 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip by Naftali Bennett, the first official visit to Bahrain by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
  <p class="updated_time"> 10:03 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
- <p class="updated_time"> 10:03 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">4 Dead and Many Missing After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: A fishing boat carrying 24 people sank about 280 miles off the coast of Newfoundland, Canada, early Tuesday morning, Spanish officials said. 
- <p class="updated_time"> 10:00 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 09:46 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60388401?at_medium=RSS&at_campaign=KARANGA">Ukraine's Eurovision singer Alina Pash suspended</a> BBC: With ongoing tensions between Russia and Ukraine, Alina Pash hopes to represent her country in May. 
  <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
@@ -28,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/olympics/60378257?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: What are the drugs test rules and what did Kamila Valieva do?</a> BBC: A 15-year-old Winter Olympic figure skater has failed a drugs test, so why can she still compete? 
  <p class="updated_time"> 09:06 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60392368?at_medium=RSS&at_campaign=KARANGA">Four dead and 15 missing as Spanish trawler sinks off Canada</a> BBC: Three crew members have been found and rescue efforts are continuing for other survivors. 
- <p class="updated_time"> 08:58 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
  <p class="updated_time"> 08:56 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
  <p class="updated_time"> 08:35 AM CT, Feb. 15 </p> 
@@ -44,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1078018548/china-reproductive-maternity-benefits-married-women-lgbt">Not a married heterosexual woman? You might not get certain reproductive care in China</a> NPR: Rules around the country cut out unmarried women and LGBT people of maternity benefits, even as China's leaders try to get citizens to have more babies to reverse the declining birthrate. 
  <p class="updated_time"> 06:25 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
- <p class="updated_time"> 05:52 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60388111?at_medium=RSS&at_campaign=KARANGA">Qandeel Baloch: Court acquits brother of Pakistan star's murder</a> BBC: Muhammed Waseem confessed to killing Qandeel Baloch, saying she had brought shame on the family. 
  <p class="updated_time"> 05:41 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60387156?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernández: Police surround Honduran ex-leader's home</a> BBC: The US has asked for ex-President Juan Orlando Hernández to be extradited on drugs charges. 
  <p class="updated_time"> 05:30 AM CT, Feb. 15 </p> 
@@ -80,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080771248/afghans-say-they-feel-safer-but-less-hopeful-under-taliban-rule">Afghans say they feel safer but less hopeful under Taliban rule</a> NPR: After six months of Taliban rule, many Afghans say they fear for their economic future of lack of personal freedoms. 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
- <p class="updated_time"> 01:20 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60384684?at_medium=RSS&at_campaign=KARANGA">Tilak Nagar: Delhi man held over rape of 87-year-old woman</a> BBC: Police say the man, a sweeper, robbed and assaulted the bedridden woman when she was alone at home. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 12:41 AM CT, Feb. 15 </p> 
@@ -92,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/turkish-economy-could-get-caught-in-russia-ukraine-crossfire-11644921001">Turkish Economy Could Get Caught in Russia-Ukraine Crossfire</a> WSJ: A conflict between Turkey’s neighbors could add to pressure on Ankara’s currency and inflation. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
- <p class="updated_time"> 09:00 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60383594?at_medium=RSS&at_campaign=KARANGA">Trump accountants say financial reports unreliable</a> BBC: Mazars says it can no longer stand behind 10 years of the former president's statements. 
  <p class="updated_time"> 06:54 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60334181?at_medium=RSS&at_campaign=KARANGA">UP election: Are women really thriving in Uttar Pradesh as PM Modi claims?</a> BBC: We test PM Narendra Modi's claim that Uttar Pradesh is now safe and full of opportunities for women. 
  <p class="updated_time"> 06:52 PM CT, Feb. 14 </p> 
@@ -102,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60258327?at_medium=RSS&at_campaign=KARANGA">Nigeria's sleepless students trying to beat the Lagos traffic</a> BBC: Nigeria's largest city is notorious for its traffic, which is having an impact on children's education. 
  <p class="updated_time"> 06:41 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/60309566?at_medium=RSS&at_campaign=KARANGA">US mid-terms: How will new voting laws affect the election?</a> BBC: New rules are coming in across the US ahead of mid-term elections. What impact will they have? 
- <p class="updated_time"> 06:28 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60256143?at_medium=RSS&at_campaign=KARANGA">Tonga PM counts mental health 'cost' of disasters</a> BBC: In an exclusive interview with the BBC, PM Siaosi Sovaleni says rebuilding mental health is a challenge. 
  <p class="updated_time"> 06:18 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370227?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The fear of fleeing home twice</a> BBC: Amid fears of a Russian invasion, families who have fled once before are worried they will have to run again. 
  <p class="updated_time"> 06:11 PM CT, Feb. 14 </p> 
@@ -124,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080684310/former-french-president-francois-hollande-on-ukraine">Former French President Francois Hollande on Ukraine</a> NPR: Former French president Francois Hollande speaks about the situation in Ukraine. He helped negotiate a cease-fire in eastern Ukraine in 2015. 
  <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080684296/the-view-from-southern-russia">The view from southern Russia</a> NPR: The largest Russian city near the southern border with Ukraine is Rostov-on-Don. People remember the war in 2014 and hope there is no repeat. 
- <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080684268/u-s-troops-head-to-poland">U.S. troops head to Poland</a> NPR: U.S. troops from the 82nd Airborne Division have been boarding planes bound for Eastern Europe. This comes amidst escalating tensions between Ukraine and Russia. 
  <p class="updated_time"> 03:19 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60381479?at_medium=RSS&at_campaign=KARANGA">Chagos Islands: Mauritian flag raised on British-controlled archipelago</a> BBC: The Chagos Islands, in the Indian Ocean, is controlled by Britain, but claimed by Mauritius. 
  <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
@@ -136,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
  <p class="updated_time"> 02:33 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
- <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
@@ -148,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
  <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
- <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
@@ -201,6 +203,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">House GOP messaging chief starts quieting doubters on the right</a> Politico: Since she took over as No. 3 in the conference, Elise Stefanik made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 ‘legitimate political discourse’</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/hartzler-britt-super-pac-help-00008864">2 Senate candidates get super PAC help from former NRA operatives</a> Politico: Missouri's Vicky Hartzler and Alabama's Katie Britt will benefit from Secure Our Freedom Action Fund's support. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773460/trump-accountant-says-a-decade-of-financial-statements-are-unreliable">Trump accountant says a decade of financial statements are unreliable</a> NPR: Donald Trump's longtime accounting firm cut off its relationship with him, saying it could no longer stand behind the annual financial documents it had prepared for him. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
@@ -315,18 +319,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
- <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/biden-trudeau-convoy-protest-00008358">Biden, Trudeau talk convoys as U.S. braces for Canadian-style protests</a> Politico: “We see a mobilization of some of the more-challenging political elements," Trudeau said. 
  <p class="updated_time"> 06:00 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/trump-rally-texas.html">The Traveling Trump Show Comes to South Texas</a> NYT: Pro-Trump rallies and conferences have taken on the flavor of religious revival, a mix between protest and party. 
- <p class="updated_time"> 05:10 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/wisconsin-state-supreme-court-drop-boxes-ban-spring-election-00008377">Wisconsin state Supreme Court lets ban on drop boxes go into effect for spring election</a> Politico: The court had previously stayed the ban on drop boxes for the spring election primaries. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
+ <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/activists-upending-democratic-politics-00008108">The Gen X activists upending Democratic politics</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Siva Raj and Autumn Looijen, co-founders of the Recall SF School Board campaign and California newsletter editor Jeremy B. White about the San Francisco school board recall election. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
