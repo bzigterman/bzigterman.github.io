@@ -8,12 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:33 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
+ <p class="updated_time"> 08:32 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border. NATO’s secretary general urged caution, saying the alliance had “not seen any sign of de-escalation.” 
+ <p class="updated_time"> 08:31 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 08:20 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
- <p class="updated_time"> 08:16 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border. NATO’s secretary general urged caution, saying the alliance had “not seen any sign of de-escalation.” 
  <p class="updated_time"> 08:11 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip by Naftali Bennett, the first official visit to Bahrain by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
+ <p class="updated_time"> 08:06 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
  <p class="updated_time"> 07:44 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080694770/shacarri-richardson-kamila-valieva-doping">Sha'Carri Richardson sees a double standard in allowing Kamila Valieva to compete</a> NPR: "The only difference I see is I'm a black young lady," U.S. sprinter Sha'Carri Richardson said, after the Russian figure skater is allowed to compete at the Olympics despite a failed drug test. 
  <p class="updated_time"> 07:15 AM CT, Feb. 15 </p> 
@@ -38,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080774883/russians-scoff-at-western-fears-of-ukraine-invasion">Russians scoff at Western fears of Ukraine invasion</a> NPR: More than half of respondents in recent polls in Russia say the U.S. is responsible for the current standoff over Ukraine. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773516/canadas-government-invokes-emergencies-act-to-try-to-quell-covid-protests">Canada's government invokes Emergencies Act to try to quell COVID protests</a> NPR: Three weeks after truckers occupied downtown Ottawa, Canada's prime minister invoked the Emergencies Act. It grants the federal government special powers to address security issues. 
- <p class="updated_time"> 04:03 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
@@ -62,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/japan-calls-for-tough-response-on-ukraine-saying-china-is-watching-11644923764">Japan Calls for Tough Response on Ukraine, Saying China Is Watching</a> WSJ: Foreign Minister Yoshimasa Hayashi said democratic nations should take a tough line if Russia invades Ukraine, because a failure to do so would embolden others, such as China, that want to exert control over their neighbors. 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
- <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Kamila Valieva test 'due to contamination with grandad's medicine'</a> BBC: Russian figure skater Kamila Valieva has argued her positive drugs test was due to contamination with her grandad's medicine, an Olympic official says. 
  <p class="updated_time"> 01:20 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60384684?at_medium=RSS&at_campaign=KARANGA">Tilak Nagar: Delhi man held over rape of 87-year-old woman</a> BBC: Police say the man, a sweeper, robbed and assaulted the bedridden woman when she was alone at home. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
@@ -130,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
  <p class="updated_time"> 02:33 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
- <p class="updated_time"> 02:32 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
@@ -198,7 +198,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/conor-lamb-senate-penn-00008919">The left neutralizes the Dem establishment in Pa. Senate primary</a> Politico: At one time, the Democratic Party would have cleared the Senate field for a candidate like Conor Lamb. Not anymore. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
+ <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">House GOP messaging chief starts quieting doubters on the right</a> Politico: Since she took over as No. 3 in the conference, Elise Stefanik made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/hartzler-britt-super-pac-help-00008864">2 Senate candidates get super PAC help from former NRA operatives</a> Politico: Missouri's Vicky Hartzler and Alabama's Katie Britt will benefit from Secure Our Freedom Action Fund's support. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
