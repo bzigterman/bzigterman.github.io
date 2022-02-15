@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:12 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up prompted fears of an invasion. 
  <p class="updated_time"> 03:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
  <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Valieva 'emotionally tired' as she goes for gold</a> BBC: Russian figure skater Kamila Valieva has argued her positive drugs test was due to contamination with her grandad's medicine, an Olympic official says. 
- <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
  <p class="updated_time"> 01:20 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60384684?at_medium=RSS&at_campaign=KARANGA">Tilak Nagar: Delhi man held over rape of 87-year-old woman</a> BBC: Police say the man, a sweeper, robbed and assaulted the bedridden woman when she was alone at home. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
@@ -186,7 +186,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/durham-sussmann-trump-russia.html">Court Filing Started a Furor in Right-Wing Outlets, but Their Narrative Is Off Track</a> NYT: The latest alarmist claims about spying on Trump appeared to be flawed, but the explanation is byzantine — underlining the challenge for journalists in deciding what merits coverage. 
  <p class="updated_time"> 09:06 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Ilya Lichtenstein Held in Bitcoin Case While Heather Morgan Is Given Bail</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Husband in $3.6 Billion Bitcoin Case Held While Wife Gets Bond</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
  <p class="updated_time"> 08:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/tina-peters-colorado-election.html">2020 Election Denier Will Run for Top Elections Position in Colorado</a> NYT: Tina Peters, the Mesa County clerk, has been stripped of her county election oversight but is seeking to oversee her state’s elections as secretary of state. 
  <p class="updated_time"> 07:12 PM CT, Feb. 14 </p> 
@@ -256,7 +256,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Unpaid and Potentially Stateless, Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
  <a href="https://www.cnn.com/2022/02/13/politics/cnn-poll-biden-trump-2024/index.html">CNN Poll: Neither Biden nor Trump has their party's full support for a 2024 run</a> CNN: A significant number of both Democrats and Republicans currently hope to see their parties find alternatives to President Joe Biden and former President Donald Trump in the next presidential election, according to a new CNN poll conducted by SSRS. But very few have specific candidates in mind, underscoring how distant -- and potentially mutable -- the 2024 race remains. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
