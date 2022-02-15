@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:11 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 11:21 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Valieva 'emotionally tired' as she goes for gold</a> BBC: Kamila Valieva is "happy" but "emotionally tired" as she prepares to skate the day after a court clears her to compete at the Olympics amid a doping controversy. 
  <p class="updated_time"> 11:18 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
- <p class="updated_time"> 10:38 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 10:29 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 10:08 PM CT, Feb. 14 </p> 
@@ -35,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:49 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60380298?at_medium=RSS&at_campaign=KARANGA">Pharmaceuticals in rivers threaten world health - study</a> BBC: Paracetamol, nicotine, caffeine and epilepsy and diabetes drugs were widely detected, research finds. 
  <p class="updated_time"> 06:48 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Roblox: The children's game with a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
+ <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Children's game Roblox has a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
  <p class="updated_time"> 06:45 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60258327?at_medium=RSS&at_campaign=KARANGA">Nigeria's sleepless students trying to beat the Lagos traffic</a> BBC: Nigeria's largest city is notorious for its traffic, which is having an impact on children's education. 
  <p class="updated_time"> 06:41 PM CT, Feb. 14 </p> 
@@ -108,8 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
  <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
- <p class="updated_time"> 11:54 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60377971?at_medium=RSS&at_campaign=KARANGA">Abba Kyari: Nigerian 'super cop' arrested in drug cartel case</a> BBC: Abba Kyari, already accused of money laundering, is now accused of being part of a drugs cartel. 
  <p class="updated_time"> 11:50 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60382182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Social media videos show Russian military equipment on the move near border</a> BBC: Social media clips show military vehicles on the move - despite Russia's denials of an attack. 
  <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
@@ -158,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
  <p class="updated_time"> 06:06 PM CT, Feb. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60350876?at_medium=RSS&at_campaign=KARANGA">Couple married for 91 years and still in love</a> BBC: Yemeni Jews Shama’a and Zechariah married young and survived extreme poverty and persecution together. 
- <p class="updated_time"> 06:01 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60337147?at_medium=RSS&at_campaign=KARANGA">Goodbye Turkey, hello Türkiye</a> BBC: Why is Turkey rebranding its internationally recognised name as “Türkiye”? 
  <p class="updated_time"> 02:27 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/nepal-chief-justice-suspended.html">Nepal’s Chief Justice Is Suspended, Deepening Political Chaos</a> NYT: Accusations and a possible ouster could aggravate divisions that have paralyzed much of the Nepal government for months. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
@@ -183,6 +181,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:04 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/cindy-axne-iowa-democrat.html">How Cindy Axne, One of the Most At-Risk Democrats in Congress, Hangs On</a> NYT: Meet Representative Cindy Axne of Iowa, who has some advice for the White House about how to talk to voters. 
  <p class="updated_time"> 09:53 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/canada-emergency-measures-political-firestorm-00008896">Canada invokes unprecedented emergency measures — and triggers a political firestorm</a> Politico: The embattled Prime Minister Justin Trudeau has taken an enormous gamble to remove the truckers’ protests, and his legacy is on the line. 
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
@@ -201,8 +201,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/us/politics/navy-nuclear-engineer-pleads-guilty.html">Navy Nuclear Engineer Pleads Guilty in Submarine Espionage Case</a> NYT: Jonathan Toebbe, who was arrested in October along with his wife, is set to face 12 years or more in prison under a plea deal with federal prosecutors. 
  <p class="updated_time"> 06:17 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/prosecution-police-george-floyd-00008826">Prosecution rests in 3 cops’ trial in George Floyd killing</a> Politico: The three were on the scene with Derek Chauvin, who has already been convicted. 
- <p class="updated_time"> 06:00 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/cindy-axne-iowa-democrat.html">How Cindy Axne, One of the Most At-Risk Democrats in Congress, Hangs On</a> NYT: Meet Representative Cindy Axne of Iowa, who has some advice for the White House about how to talk to voters. 
  <p class="updated_time"> 05:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/maryland-man-pleads-guilty-nuclear-secrets-foreign-government-00008742">Maryland man pleads guilty to trying to sell nuclear secrets to foreign government</a> Politico: Jonathan Toebbe, a nuclear engineer, and his wife were arrested after undercover FBI agents exchanged $100,000 in cryptocurrency for submarine secrets. 
  <p class="updated_time"> 04:31 PM CT, Feb. 14 </p> 
