@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:18 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
  <p class="updated_time"> 10:38 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 10:29 PM CT, Feb. 14 </p> 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
- <p class="updated_time"> 09:54 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
  <p class="updated_time"> 09:29 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 09:00 PM CT, Feb. 14 </p> 
