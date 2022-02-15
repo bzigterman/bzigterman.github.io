@@ -8,20 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:02 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
+ <p class="updated_time"> 02:18 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080771248/afghans-say-they-feel-safer-but-less-hopeful-under-taliban-rule">Afghans say they feel safer but less hopeful under Taliban rule</a> NPR: After six months of Taliban rule, many Afghans say they fear for their economic future of lack of personal freedoms. 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
  <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Valieva 'emotionally tired' as she goes for gold</a> BBC: Russian figure skater Kamila Valieva has argued her positive drugs test was due to contamination with her grandad's medicine, an Olympic official says. 
  <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
+ <p class="updated_time"> 01:20 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60384684?at_medium=RSS&at_campaign=KARANGA">Tilak Nagar: Delhi man held over rape of 87-year-old woman</a> BBC: Police say the man, a sweeper, robbed and assaulted the bedridden woman when she was alone at home. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 12:41 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080767360/u-s-asks-honduras-to-arrest-extradite-ex-president-hernandez">U.S. asks Honduras to arrest, extradite ex-President Hernández</a> NPR: The request follows speculation over whether the former president would be charged after U.S. prosecutors repeatedly implicated him in his brother's 2019 drug trafficking trial. 
  <p class="updated_time"> 12:11 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
- <p class="updated_time"> 10:29 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 10:08 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60256146?at_medium=RSS&at_campaign=KARANGA">Thousands of Australian nurses go on strike as Covid cases mount</a> BBC: The Omicron variant has led to a recent surge of cases, putting hospital systems under further strain. 
  <p class="updated_time"> 10:02 PM CT, Feb. 14 </p> 
@@ -58,16 +64,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080559075/german-chancellor-warns-of-far-reaching-sanctions-if-russia-moves-on-ukraine">German chancellor warns of far-reaching sanctions if Russia moves on Ukraine</a> NPR: Olaf Scholz did not elaborate on specifics during his meeting with Ukrainian President Volodymyr Zelenskyy on Monday but he did pledge a new round of financial assistance to Kyiv. 
  <p class="updated_time"> 05:23 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
+ <p class="updated_time"> 04:53 PM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/japans-economy-recovers-in-fourth-quarter-11644883463">Japan's Economy Recovered in Fourth Quarter</a> WSJ: Japan’s economy returned to growth in the October-December quarter thanks to higher consumer spending, but a resurgence in Covid-19 infections is likely to hold back the recovery in the current quarter. 
  <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
  <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">Russia Accelerates Troop Buildup Along Ukraine Border</a> WSJ: Germany’s chancellor shuttled between the two nations to mediate peace, as Russian President Vladimir Putin leaves an opening for talks. 
+ <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">Russia Accelerates Troop Buildup Along Ukraine Border</a> WSJ: Germany’s chancellor began shuttling between the two nations seeking to stave off a conflict, and Russian President Vladimir Putin left the door open for talks. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
  <p class="updated_time"> 03:44 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
- <p class="updated_time"> 03:38 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60380318?at_medium=RSS&at_campaign=KARANGA">Judge to dismiss Sarah Palin's New York Times libel lawsuit</a> BBC: Palin claimed the NY Times ruined her reputation by linking her to a deadly shooting. 
  <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080684324/for-americans-living-in-ukraine-a-choice-between-staying-or-leaving">For an American living in Ukraine, a choice between staying or leaving</a> NPR: NPR's Elissa Nadworny speaks with Meghan Neville, an American based in Ukraine who is fleeing the country as tension escalates over a possible Russian incursion. 
  <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
@@ -84,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60381479?at_medium=RSS&at_campaign=KARANGA">Chagos Islands: Mauritian flag raised on British-controlled archipelago</a> BBC: The Chagos Islands, in the Indian Ocean, is controlled by Britain, but claimed by Mauritius. 
  <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
- <p class="updated_time"> 02:57 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:42 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
@@ -105,8 +109,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:29 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080576235/winter-olympics-women-hockey-final">U.S. women will face Canada in the Olympic hockey gold medal match</a> NPR: The U.S. women's ice hockey team defeated Finland 4-1 on Monday. The U.S. team will go up against its longtime rival, Canada, in the gold medal game later this week. 
  <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60378479?at_medium=RSS&at_campaign=KARANGA">Kentucky mayoral candidate survives being targeted by a gunman</a> BBC: Craig Greenberg is unharmed after someone entered and fired shots at him. A suspect has been arrested. 
- <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
  <p class="updated_time"> 12:34 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080632899/bank-freezes-funds-canadian-border-protest">Canadian government is invoking its Emergencies Act to try to quell COVID protests</a> NPR: Conservatives say Prime Minister Justin Trudeau's measures to try to end the protests will inflame the situation. 
@@ -122,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 11:12 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080628772/camilla-duchess-covid-positive">Camilla, Duchess of Cornwall tests positive for COVID-19</a> NPR: Camilla is the wife of Prince Charles, who also received a positive test several days ago. Camilla tested negative that day and proceeded with three public engagements. 
- <p class="updated_time"> 10:33 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60379855?at_medium=RSS&at_campaign=KARANGA">Seven dead after explosion and fire on France's south-west coast</a> BBC: Two children are among the dead in the incident in the seaside town of St Laurent-de-la-Salanque. 
  <p class="updated_time"> 09:53 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-suspends-imports-of-mexican-avocados-after-inspector-receives-threat-11644872037">U.S. Suspends Imports of Mexican Avocados After Inspector Receives Threat</a> WSJ: The suspension will remain in place until inspectors’ safety is ensured in a region hit by gang violence and extortion. 
  <p class="updated_time"> 09:51 AM CT, Feb. 14 </p> 
@@ -134,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russias-parliament-to-weigh-recognition-of-breakaway-ukraine-regions-11644868385">Russia's Parliament to Weigh Recognition of Breakaway Ukraine Regions</a> WSJ: The move could be used to justify a Russian incursion, but so far there is no sign of how Russian President Vladimir Putin would respond if a resolution is passed. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
- <p class="updated_time"> 07:22 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraines-capital-awaits-a-russian-attack-with-determination-calm-11644856570">Ukraine's Capital Awaits a Potential Russian Attack With Determination, Calm</a> WSJ: Despite the growing realization that a Russian military invasion is a real possibility in Ukraine, there are few outward signs of panic in Kyiv. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
  <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
@@ -154,12 +152,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
  <p class="updated_time"> 01:22 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080544626/corruption-trial-opens-for-ex-goldman-banker-in-1mdb-scandal">Corruption trial opens for ex-Goldman banker in 1MDB scandal</a> NPR: Prosecutors say the looting of the fund bankrolled lavish spending on jewels, art and real estate. The spoils even helped finance Hollywood movies, including the 2013 film "The Wolf of Wall Street." 
- <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-olympics-2022">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
- <p class="updated_time"> 06:06 PM CT, Feb. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60350876?at_medium=RSS&at_campaign=KARANGA">Couple married for 91 years and still in love</a> BBC: Yemeni Jews Shama’a and Zechariah married young and survived extreme poverty and persecution together. 
  <p class="updated_time"> 02:27 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/nepal-chief-justice-suspended.html">Nepal’s Chief Justice Is Suspended, Deepening Political Chaos</a> NYT: Accusations and a possible ouster could aggravate divisions that have paralyzed much of the Nepal government for months. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
@@ -192,7 +186,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/durham-sussmann-trump-russia.html">Court Filing Started a Furor in Right-Wing Outlets, but Their Narrative Is Off Track</a> NYT: The latest alarmist claims about spying on Trump appeared to be flawed, but the explanation is byzantine — underlining the challenge for journalists in deciding what merits coverage. 
  <p class="updated_time"> 09:06 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Husband in $3.6 Billion Bitcoin Case Held While Wife Gets Bond</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Ilya Lichtenstein Held in Bitcoin Case While Heather Morgan Is Given Bail</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
  <p class="updated_time"> 08:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/tina-peters-colorado-election.html">2020 Election Denier Will Run for Top Elections Position in Colorado</a> NYT: Tina Peters, the Mesa County clerk, has been stripped of her county election oversight but is seeking to oversee her state’s elections as secretary of state. 
  <p class="updated_time"> 07:12 PM CT, Feb. 14 </p> 
@@ -254,7 +248,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080546597/ukraine-presidents-ratings-fall-as-crisis-with-russia-brews">Ukraine president's ratings fall as crisis with Russia brews</a> NPR: After 2½ years in office, the former comedian Volodymur Zelenskyy is watching his once enormous support dissolve as Ukraine faces the threat of a possible invasion by Russia. 
  <p class="updated_time"> 11:10 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">How McConnell Hopes to Thwart Trump in the Midterms</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">Inside McConnell’s Campaign to Take Back the Senate and Thwart Trump</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
  <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
