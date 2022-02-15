@@ -15,14 +15,14 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 Current:
 
-- 18°
+- 19°
 - clear sky
-- 78% humidity
+- 76% humidity
 - 10 mph wind
 - 06:46 a.m. sunrise
 - 05:28 p.m. sunset
 
-<p class="updated_time"> Latest data: 07:44 AM CT, February 15</p>
+<p class="updated_time"> Latest data: 07:51 AM CT, February 15</p>
 
 ## Severe Thunderstorm Outlook
 
