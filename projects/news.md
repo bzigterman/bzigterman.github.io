@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:02 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 08:20 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 08:16 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border. NATO’s secretary general urged caution, saying the alliance had “not seen any sign of de-escalation.” 
- <p class="updated_time"> 08:00 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 08:11 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip by Naftali Bennett, the first official visit to Bahrain by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
  <p class="updated_time"> 07:44 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080694770/shacarri-richardson-kamila-valieva-doping">Sha'Carri Richardson sees a double standard in allowing Kamila Valieva to compete</a> NPR: "The only difference I see is I'm a black young lady," U.S. sprinter Sha'Carri Richardson said, after the Russian figure skater is allowed to compete at the Olympics despite a failed drug test. 
- <p class="updated_time"> 07:22 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 07:15 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: With no evidence of the withdrawal, Western powers react cautiously to the de-escalation. 
  <p class="updated_time"> 07:10 AM CT, Feb. 15 </p> 
@@ -48,8 +48,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
+ <p class="updated_time"> 03:06 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008">Thousands of Ukraine Soldiers Have Already Died in a War Started When They Were Boys</a> WSJ: Russia and its gathered forces threaten what looks like a new conflict, but the Ukraine military has been fighting it for eight years. ‘We’ve been stewing in this war for so long.’ 
  <p class="updated_time"> 02:57 AM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
+ <p class="updated_time"> 02:43 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/decade-high-food-prices-drive-poverty-and-unrest-in-africa-11644932613">Decade-High Food Prices Drive Poverty and Unrest in Africa</a> WSJ: Parts of Africa are contending with a wave of inflation that is, by some measures, even worse than the supply shocks cascading around the rest of the world. 
  <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:18 AM CT, Feb. 15 </p> 
@@ -128,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 02:32 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
- <p class="updated_time"> 02:30 PM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">Canada's Trudeau Invokes Emergency Powers to Address Trucker Protests</a> WSJ: The prime minister’s move is a bid to end demonstrations against Covid-19 vaccine mandates that have paralyzed the capital and snarled cross-border traffic. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
@@ -144,12 +146,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
- <p class="updated_time"> 09:53 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-suspends-imports-of-mexican-avocados-after-inspector-receives-threat-11644872037">U.S. Suspends Imports of Mexican Avocados After Inspector Receives Threat</a> WSJ: The suspension will remain in place until inspectors’ safety is ensured in a region hit by gang violence and extortion. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
- <p class="updated_time"> 08:53 AM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-parliament-to-weigh-recognition-of-breakaway-ukraine-regions-11644868385">Russia's Parliament to Weigh Recognition of Breakaway Ukraine Regions</a> WSJ: The move could be used to justify a Russian incursion, but so far there is no sign of how Russian President Vladimir Putin would respond if a resolution is passed. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
@@ -185,8 +183,6 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:02 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/nyregion/lauren-smith-fields-tiktok.html">Why Lauren Smith-Fields’s Friends Turned to TikTok</a> NYT: Ignored by the media and pushed aside by the police, families and supporters of Black women are building their own missing persons operations online. 
  <p class="updated_time"> 06:18 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773446/white-house-is-doing-its-best-to-navigate-russia-ukraine-crisis-sen-sanders-says">White House is doing its best to navigate Russia-Ukraine crisis, Sen. Sanders says</a> NPR: Vermont Sen. Bernie Sanders tells NPR's Rachel Martin that a potential war in Ukraine could have unforeseen consequences for Russia, for Ukraine and for the rest of the world. 
  <p class="updated_time"> 05:43 AM CT, Feb. 15 </p> 
@@ -317,6 +313,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/rudolph-giuliani-january-6-committee.html">Giuliani in Talks to Testify to House Jan. 6 Panel</a> NYT: It is not clear how much assistance he might provide in the investigation into former President Donald J. Trump’s efforts to hold onto power. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
+ <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
