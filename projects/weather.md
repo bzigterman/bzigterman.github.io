@@ -17,12 +17,12 @@ Current:
 
 - 41°
 - clear sky
-- 71% humidity
-- 13 mph wind
+- 72% humidity
+- 15 mph wind
 - 06:46 a.m. sunrise
 - 05:28 p.m. sunset
 
-<p class="updated_time"> Latest data: 03:52 PM CT, February 15</p>
+<p class="updated_time"> Latest data: 04:18 PM CT, February 15</p>
 
 ## Severe Thunderstorm Outlook
 
