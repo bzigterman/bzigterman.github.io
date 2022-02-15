@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/sections/money/2022/02/15/1079761270/china-promised-trump-a-better-deal-for-america-it-didnt-actually-deliver">China Promised Trump A Better Deal For America; It Didn't Actually Deliver</a> NPR: In 2020, President Trump signed a deal with the Chinese government to improve trade relations. China, for the most part, has not followed through. 
+ <p class="updated_time"> 05:29 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border, but it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 05:29 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 05:19 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Children's game Roblox has a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
  <p class="updated_time"> 05:11 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
- <p class="updated_time"> 05:10 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
- <p class="updated_time"> 05:02 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Canada Initiates Emergency Act, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 05:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
@@ -86,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080559075/german-chancellor-warns-of-far-reaching-sanctions-if-russia-moves-on-ukraine">German chancellor warns of far-reaching sanctions if Russia moves on Ukraine</a> NPR: Olaf Scholz did not elaborate on specifics during his meeting with Ukrainian President Volodymyr Zelenskyy on Monday but he did pledge a new round of financial assistance to Kyiv. 
  <p class="updated_time"> 05:23 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
- <p class="updated_time"> 04:53 PM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/japans-economy-recovers-in-fourth-quarter-11644883463">Japan's Economy Recovered in Fourth Quarter</a> WSJ: Japan’s economy returned to growth in the October-December quarter thanks to higher consumer spending, but a resurgence in Covid-19 infections is likely to hold back the recovery in the current quarter. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
  <p class="updated_time"> 03:44 PM CT, Feb. 14 </p> 
@@ -134,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
  <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/brazil-aiub-monark-free-speech.html">Brazil’s Joe Rogan Faces His Own Firestorm Over Free Speech</a> NYT: Bruno Aiub became one of Brazil’s biggest podcasters with irreverent interviews of newsmakers. Now remarks about Nazis plunged him into a controversy akin to his idol’s. 
- <p class="updated_time"> 11:20 AM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 09:53 AM CT, Feb. 14 </p> 
@@ -174,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
- <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
 
 
 </details>
@@ -185,6 +181,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 05:43 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/russia-forces-pulling-back-ukraine-00008931">Russia says some forces pulling back amid Ukraine crisis</a> Politico: The announcement came a day after Russia’s foreign minister indicated the country was ready to keep talking about security grievances, changing the tenor after weeks of rising tensions. 
+ <p class="updated_time"> 05:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/sections/money/2022/02/15/1079761270/china-promised-trump-a-better-deal-for-america-it-didnt-actually-deliver">China Promised Trump A Better Deal For America; It Didn't Actually Deliver</a> NPR: In 2020, President Trump signed a deal with the Chinese government to improve trade relations. China, for the most part, has not followed through. 
  <p class="updated_time"> 05:00 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/nyc-fires-municipal-workers-vaccine-mandate-00008645">New York City fires 1,430 municipal workers over vaccine mandate</a> Politico: That figure represents less than 1 percent of the city's 370,000-person workforce. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
@@ -307,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/mental-health-pandemic-congress-lobbying-00008372">Mental health push in Congress sparks lobbying frenzy</a> Politico: Dozens of companies and groups have intensified their lobbying in recent months as congressional efforts have gained momentum. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
- <p class="updated_time"> 04:00 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1079838009/democratas-desalentados-aun-con-mayor-poder-de-voto-latino-en-nuevo-distrito">Demócratas desalentados aun con mayor poder de voto Latino en nuevo distrito</a> NPR: Donald Trump ganó terreno con Latinos en 2020. Este año, votantes en un nuevo distrito congresional de Colorado enfrentan preocupaciones económicas que podrían costarle a los demócratas. 
  <p class="updated_time"> 10:56 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/donald-trump-business-interests.html">Selling Trump: A Profitable Post-Presidency Like No Other</a> NYT: Much as he did while in the White House, Donald Trump has thoroughly blurred the lines between his political ambitions and his business interests, with a wide-ranging set of moneymaking ventures. 
  <p class="updated_time"> 08:38 PM CT, Feb. 12 </p> 
