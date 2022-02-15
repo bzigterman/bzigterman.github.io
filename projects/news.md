@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:05 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 11:05 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 11:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60393843?at_medium=RSS&at_campaign=KARANGA">Prince Andrew settles US civil sex assault case</a> BBC: The Duke of York settles the claim brought against him by Virginia Giuffre, court documents show. 
  <p class="updated_time"> 10:50 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
- <p class="updated_time"> 10:47 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 10:47 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/coutts-alberta-border-protest.html">Protesters Begin Leaving Alberta's Coutts Border Crossing</a> NYT: The blockaded border crossing at Coutts, Alberta, began clearing early Tuesday morning and traffic is flowing there again. 
  <p class="updated_time"> 10:44 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
- <p class="updated_time"> 10:43 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
- <p class="updated_time"> 10:42 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60393843?at_medium=RSS&at_campaign=KARANGA">Prince Andrew settles US civil sex assault case</a> BBC: The Duke of York settles the claim brought against him by Virginia Giuffre, court documents show. 
  <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html">In France, a Racist Conspiracy Theory Edges Into the Mainstream</a> NYT: Valérie Pécresse, the center-right presidential candidate, used the phrase ‘great replacement’ in a speech punctuated with coded attacks on immigrants and Muslims. 
  <p class="updated_time"> 10:32 AM CT, Feb. 15 </p> 
@@ -185,14 +185,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/climate-fight-gas-kitchen-00008750">How the climate fight landed in the kitchen</a> Politico: Despite local successes for environmental activists in Seattle, New York and other cities, there's plenty of infighting among Democrats and their allies over natural gas. 
  <p class="updated_time"> 10:32 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1079356063/leondra-kruger-biden-supreme-court">Leondra Kruger, a star on California's high court, is on Biden's Supreme Court list</a> NPR: If there is a sleeping dog for Republicans to probe in her record, it is one of the 12 cases she argued during her years in the solicitor general's office. 
  <p class="updated_time"> 10:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080682953/amazon-walmart-and-jpmorgan-chase-among-companies-relaxing-employee-mask-mandate">Amazon, Walmart and JPMorgan Chase among companies relaxing employee mask mandates</a> NPR: As several states relax mask mandates, U.S. companies are easing up their own rules. 
  <p class="updated_time"> 06:18 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773446/white-house-is-doing-its-best-to-navigate-russia-ukraine-crisis-sen-sanders-says">White House is doing its best to navigate Russia-Ukraine crisis, Sen. Sanders says</a> NPR: Vermont Sen. Bernie Sanders tells NPR's Rachel Martin that a potential war in Ukraine could have unforeseen consequences for Russia, for Ukraine and for the rest of the world. 
- <p class="updated_time"> 05:43 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/russia-forces-pulling-back-ukraine-00008931">Russia says some forces pulling back amid Ukraine crisis</a> Politico: The announcement came a day after Russia’s foreign minister indicated the country was ready to keep talking about security grievances, changing the tenor after weeks of rising tensions. 
  <p class="updated_time"> 05:30 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/15/1079761270/china-promised-trump-a-better-deal-for-america-it-didnt-actually-deliver">China promised Trump a better deal for America; it didn't actually deliver</a> NPR: In 2020, President Trump signed a deal with the Chinese government to improve trade relations. China, for the most part, has not followed through. 
  <p class="updated_time"> 05:00 AM CT, Feb. 15 </p> 
@@ -202,9 +202,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/jan-6-lobbying-companies-election-00008827">These companies stopped campaign donations to election objectors. Their lobbyists did not.</a> Politico: Throughout 2021, in-house government affairs staffers for at least 13 companies gave personal donations to Republicans who objected to the presidential election results. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">House GOP messaging chief starts quieting doubters on the right</a> Politico: Since she took over as No. 3 in the conference, Elise Stefanik made a point to prioritize the megaphones of the party's base. 
- <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 ‘legitimate political discourse’</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">House GOP messaging chief starts quieting doubters on the right</a> Politico: Since she took over as No. 3 in the conference, Elise Stefanik made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/hartzler-britt-super-pac-help-00008864">2 Senate candidates get super PAC help from former NRA operatives</a> Politico: Missouri's Vicky Hartzler and Alabama's Katie Britt will benefit from Secure Our Freedom Action Fund's support. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
@@ -319,12 +319,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
+ <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/biden-trudeau-convoy-protest-00008358">Biden, Trudeau talk convoys as U.S. braces for Canadian-style protests</a> Politico: “We see a mobilization of some of the more-challenging political elements," Trudeau said. 
  <p class="updated_time"> 06:00 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/trump-rally-texas.html">The Traveling Trump Show Comes to South Texas</a> NYT: Pro-Trump rallies and conferences have taken on the flavor of religious revival, a mix between protest and party. 
+ <p class="updated_time"> 05:10 PM CT, Feb. 11 </p> 
+ <a href="https://www.politico.com/news/2022/02/11/wisconsin-state-supreme-court-drop-boxes-ban-spring-election-00008377">Wisconsin state Supreme Court lets ban on drop boxes go into effect for spring election</a> Politico: The court had previously stayed the ban on drop boxes for the spring election primaries. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 05:00 AM CT, Feb. 11 </p> 
@@ -363,8 +367,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00006710">Congress inches ‘real close’ to government funding deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
  <p class="updated_time"> 12:25 PM CT, Feb. 08 </p> 
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
- <p class="updated_time"> 11:08 AM CT, Feb. 08 </p> 
- <a href="https://www.cnn.com/2022/02/08/politics/child-tax-credit-tax-refund/index.html">Brace for a smaller tax refund if you got monthly child tax credit payments in 2021</a> CNN: Many parents may not be so happy when they file their tax returns this year. 
 
 
 </details>
