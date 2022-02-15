@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Valieva 'emotionally tired' as she goes for gold</a> BBC: Russian figure skater Kamila Valieva has argued her positive drugs test was due to contamination with her grandad's medicine, an Olympic official says. 
+ <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 12:49 AM CT, Feb. 15 </p> 
@@ -16,10 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080767360/u-s-asks-honduras-to-arrest-extradite-ex-president-hernandez">U.S. asks Honduras to arrest, extradite ex-President Hernández</a> NPR: The request follows speculation over whether the former president would be charged after U.S. prosecutors repeatedly implicated him in his brother's 2019 drug trafficking trial. 
  <p class="updated_time"> 12:11 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
- <p class="updated_time"> 11:21 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Valieva 'emotionally tired' as she goes for gold</a> BBC: Kamila Valieva is "happy" but "emotionally tired" as she prepares to skate the day after a court clears her to compete at the Olympics amid a doping controversy. 
- <p class="updated_time"> 11:18 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
  <p class="updated_time"> 10:29 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 10:08 PM CT, Feb. 14 </p> 
