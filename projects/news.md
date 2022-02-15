@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 10:29 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
+ <p class="updated_time"> 10:08 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60256146?at_medium=RSS&at_campaign=KARANGA">Thousands of Australian nurses go on strike over pay and staffing issues</a> BBC: Healthcare workers from New South Wales defied orders to strike in protest of working conditions. 
  <p class="updated_time"> 10:02 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 09:54 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60382694?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden and Johnson say still hope for diplomatic agreement</a> BBC: The US and UK leaders shared a call after Russia too suggested a diplomatic solution was still possible. 
- <p class="updated_time"> 09:45 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 09:29 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
- <p class="updated_time"> 09:25 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 09:00 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383594?at_medium=RSS&at_campaign=KARANGA">Trump accountants say financial reports unreliable</a> BBC: Mazars says it can no longer stand behind 10 years of the former president's statements. 
  <p class="updated_time"> 08:17 PM CT, Feb. 14 </p> 
@@ -116,16 +118,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
  <p class="updated_time"> 11:12 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080628772/camilla-duchess-covid-positive">Camilla, Duchess of Cornwall tests positive for COVID-19</a> NPR: Camilla is the wife of Prince Charles, who also received a positive test several days ago. Camilla tested negative that day and proceeded with three public engagements. 
- <p class="updated_time"> 11:07 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60378477?at_medium=RSS&at_campaign=KARANGA">Gun control advocates 'disappointed' with President Biden</a> BBC: Four years after the Parkland shooting, a new website tracks firearm incidents during Biden's tenure. 
  <p class="updated_time"> 10:33 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379855?at_medium=RSS&at_campaign=KARANGA">Seven dead after explosion and fire on France's south-west coast</a> BBC: Two children are among the dead in the incident in the seaside town of St Laurent-de-la-Salanque. 
  <p class="updated_time"> 09:51 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-is-closing-kyiv-embassy-relocating-diplomatic-operations-to-western-ukraine-11644864455">U.S. Is Closing Kyiv Embassy</a> WSJ: The U.S. is relocating diplomatic operations 340 miles west to Lviv in Western Ukraine, as allies warn that an attack by Russian forces on Ukraine may be imminent. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
- <p class="updated_time"> 09:15 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60378009?at_medium=RSS&at_campaign=KARANGA">74% of ransomware revenue goes to Russia-linked hackers</a> BBC: Crypto-currency researchers say more than $400m of cyber-crime funds go to Russian gangs. 
  <p class="updated_time"> 08:53 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/russias-parliament-to-weigh-recognition-of-breakaway-ukraine-regions-11644868385">Russia's Parliament to Weigh Recognition of Breakaway Ukraine Regions</a> WSJ: The move could be used to justify a Russian incursion, but so far there is no sign of how Russian President Vladimir Putin would respond if a resolution is passed. 
  <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
@@ -299,8 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/rudolph-giuliani-january-6-committee.html">Giuliani in Talks to Testify to House Jan. 6 Panel</a> NYT: It is not clear how much assistance he might provide in the investigation into former President Donald J. Trump’s efforts to hold onto power. 
  <p class="updated_time"> 04:31 PM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080420118/biden-warns-putin-of-decisive-response-if-russia-invades-ukraine">Biden warns Putin of 'decisive' response if Russia invades Ukraine</a> NPR: President Biden spoke with Russian President Vladimir Putin on Saturday, and the U.S. ordered its diplomats and troops out of Ukraine. 
- <p class="updated_time"> 08:23 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/u-s-orders-evacuation-from-ukraine-embassy-00008428">'It is past time to leave': U.S. tells Americans to flee Ukraine and evacs embassy staff</a> Politico: As fears of a Russian invasion mount, the U.S. diplomatic presence is being immediately reduced to core functions. 
  <p class="updated_time"> 07:06 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354259/new-york-times-admitted-it-made-mistakes-and-moved-too-fast-in-palin-editorial">New York Times admitted it made mistakes and moved too fast in Palin editorial</a> NPR: Former Republican governor Sarah Palin is suing the New York Times for defamation over an editorial that alleged wrongdoing by her political action committee. Closing arguments wrapped up Friday. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
@@ -309,6 +305,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
+ <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
