@@ -1174,8 +1174,8 @@ html {
 <td class="gt_row gt_right">&minus;67&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">124.0K</td>
-<td class="gt_row gt_right gt_striped">77.6K</td>
-<td class="gt_row gt_right gt_striped">&minus;37&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">74.1K</td>
+<td class="gt_row gt_right gt_striped">&minus;40&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">2.5K</td>
 <td class="gt_row gt_right">2.3K</td>
