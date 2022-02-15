@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:19 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Children's game Roblox has a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
+ <p class="updated_time"> 05:11 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
+ <p class="updated_time"> 05:10 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 05:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Canada Initiates Emergency Act, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 05:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080774883/russians-scoff-at-western-fears-of-ukraine-invasion">Russians scoff at Western fears of Ukraine invasion</a> NPR: More than half of respondents in recent polls in Russia say the U.S. is responsible for the current standoff over Ukraine. 
- <p class="updated_time"> 04:50 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 04:40 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up raised fears of an invasion. 
  <p class="updated_time"> 04:15 AM CT, Feb. 15 </p> 
@@ -48,8 +52,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080767360/u-s-asks-honduras-to-arrest-extradite-ex-president-hernandez">U.S. asks Honduras to arrest, extradite ex-President Hernández</a> NPR: The request follows speculation over whether the former president would be charged after U.S. prosecutors repeatedly implicated him in his brother's 2019 drug trafficking trial. 
  <p class="updated_time"> 12:00 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60381628?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic willing to miss Wimbledon to avoid jab</a> BBC: Novak Djokovic reveals exclusively to the BBC why he hasn't had the Covid vaccination. 
- <p class="updated_time"> 10:08 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60256146?at_medium=RSS&at_campaign=KARANGA">Thousands of Australian nurses go on strike as Covid cases mount</a> BBC: The Omicron variant has led to a recent surge of cases, putting hospital systems under further strain. 
+ <p class="updated_time"> 11:45 PM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
+ <p class="updated_time"> 11:30 PM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/turkish-economy-could-get-caught-in-russia-ukraine-crossfire-11644921001">Turkish Economy Could Get Caught in Russia-Ukraine Crossfire</a> WSJ: A conflict between Turkey’s neighbors could add to pressure on Ankara’s currency and inflation. 
  <p class="updated_time"> 10:02 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
@@ -66,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60380317?at_medium=RSS&at_campaign=KARANGA">Was Canada's Covid response more effective than the US?</a> BBC: Despite protests raging in Canada, the country is managing Covid better than the US, data shows. 
  <p class="updated_time"> 06:49 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60380298?at_medium=RSS&at_campaign=KARANGA">Pharmaceuticals in rivers threaten world health - study</a> BBC: Paracetamol, nicotine, caffeine and epilepsy and diabetes drugs were widely detected, research finds. 
- <p class="updated_time"> 06:48 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Children's game Roblox has a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
  <p class="updated_time"> 06:45 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60258327?at_medium=RSS&at_campaign=KARANGA">Nigeria's sleepless students trying to beat the Lagos traffic</a> BBC: Nigeria's largest city is notorious for its traffic, which is having an impact on children's education. 
  <p class="updated_time"> 06:41 PM CT, Feb. 14 </p> 
@@ -84,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
  <p class="updated_time"> 04:53 PM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/japans-economy-recovers-in-fourth-quarter-11644883463">Japan's Economy Recovered in Fourth Quarter</a> WSJ: Japan’s economy returned to growth in the October-December quarter thanks to higher consumer spending, but a resurgence in Covid-19 infections is likely to hold back the recovery in the current quarter. 
- <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">Russia Accelerates Troop Buildup Along Ukraine Border</a> WSJ: Germany’s chancellor began shuttling between the two nations seeking to stave off a conflict, and Russian President Vladimir Putin left the door open for talks. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
  <p class="updated_time"> 03:44 PM CT, Feb. 14 </p> 
