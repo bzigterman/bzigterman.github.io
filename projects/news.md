@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
+ <p class="updated_time"> 12:49 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
+ <p class="updated_time"> 12:41 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080767360/u-s-asks-honduras-to-arrest-extradite-ex-president-hernandez">U.S. asks Honduras to arrest, extradite ex-President Hernández</a> NPR: The request follows speculation over whether the former president would be charged after U.S. prosecutors repeatedly implicated him in his brother's 2019 drug trafficking trial. 
  <p class="updated_time"> 12:11 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 11:21 PM CT, Feb. 14 </p> 
@@ -17,7 +23,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:29 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 10:08 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60256146?at_medium=RSS&at_campaign=KARANGA">Thousands of Australian nurses go on strike over pay and staffing issues</a> BBC: Healthcare workers from New South Wales defied orders to strike in protest of working conditions. 
+ <a href="https://www.bbc.co.uk/news/world-australia-60256146?at_medium=RSS&at_campaign=KARANGA">Thousands of Australian nurses go on strike as Covid cases mount</a> BBC: The Omicron variant has led to a recent surge of cases, putting hospital systems under further strain. 
  <p class="updated_time"> 10:02 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
@@ -90,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 02:30 PM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">Canada's Trudeau Invokes Emergency Powers to Address Trucker Protests</a> WSJ: The prime minister’s move is a bid to end demonstrations against Covid-19 vaccine mandates that have paralyzed the capital and snarled cross-border traffic. 
- <p class="updated_time"> 02:24 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
@@ -120,6 +124,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080628772/camilla-duchess-covid-positive">Camilla, Duchess of Cornwall tests positive for COVID-19</a> NPR: Camilla is the wife of Prince Charles, who also received a positive test several days ago. Camilla tested negative that day and proceeded with three public engagements. 
  <p class="updated_time"> 10:33 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60379855?at_medium=RSS&at_campaign=KARANGA">Seven dead after explosion and fire on France's south-west coast</a> BBC: Two children are among the dead in the incident in the seaside town of St Laurent-de-la-Salanque. 
+ <p class="updated_time"> 09:53 AM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-suspends-imports-of-mexican-avocados-after-inspector-receives-threat-11644872037">U.S. Suspends Imports of Mexican Avocados After Inspector Receives Threat</a> WSJ: The suspension will remain in place until inspectors’ safety is ensured in a region hit by gang violence and extortion. 
  <p class="updated_time"> 09:51 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-is-closing-kyiv-embassy-relocating-diplomatic-operations-to-western-ukraine-11644864455">U.S. Is Closing Kyiv Embassy</a> WSJ: The U.S. is relocating diplomatic operations 340 miles west to Lviv in Western Ukraine, as allies warn that an attack by Russian forces on Ukraine may be imminent. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
@@ -150,10 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080544626/corruption-trial-opens-for-ex-goldman-banker-in-1mdb-scandal">Corruption trial opens for ex-Goldman banker in 1MDB scandal</a> NPR: Prosecutors say the looting of the fund bankrolled lavish spending on jewels, art and real estate. The spoils even helped finance Hollywood movies, including the 2013 film "The Wolf of Wall Street." 
  <p class="updated_time"> 12:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080501383/russian-figure-skater-kamila-valieva-olympics-2022">Russian figure skater Kamila Valieva cleared to keep competing at Beijing Olympics</a> NPR: The International Olympic Committee says it will abide by a decision that 15-year-old Kamila Valieva be allowed to skate in Beijing but if she wins "no medal ceremony will take place." 
- <p class="updated_time"> 11:39 PM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/14/1080533073/key-u-s-canada-bridge-reopens-after-police-clear-protesters">Key U.S.-Canada bridge reopens after police clear protesters</a> NPR: The U.S.-Canada border crossing reopened late Sunday after protests against COVID-19 restrictions closed it for almost a week. The crossing normally carries 25% of all trade between the two countries. 
- <p class="updated_time"> 10:57 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/12/us/politics/russia-information-putin-biden.html">U.S. Battles Putin by Disclosing His Next Possible Moves</a> NYT: Declassified information is part of a campaign to complicate what officials say are Russia’s plans to invade Ukraine. 
  <p class="updated_time"> 10:28 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/afghanistan-funds-biden.html">Biden’s Decision on Frozen Funds Stokes Anger Among Afghans</a> NYT: “It is a cruel act and a betrayal,” one shopkeeper said of the White House’s move, which could effectively bankrupt the Afghan central bank. 
  <p class="updated_time"> 06:06 PM CT, Feb. 13 </p> 
