@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:03 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 09:12 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 09:06 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60392368?at_medium=RSS&at_campaign=KARANGA">Four dead and 15 missing as Spanish trawler sinks off Canada</a> BBC: Three crew members have been found and rescue efforts are continuing for other survivors. 
  <p class="updated_time"> 08:58 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
  <p class="updated_time"> 08:56 AM CT, Feb. 15 </p> 
@@ -44,6 +46,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080774883/russians-scoff-at-western-fears-of-ukraine-invasion">Russians scoff at Western fears of Ukraine invasion</a> NPR: More than half of respondents in recent polls in Russia say the U.S. is responsible for the current standoff over Ukraine. 
+ <p class="updated_time"> 04:16 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773516/canadas-government-invokes-emergencies-act-to-try-to-quell-covid-protests">Canada's government invokes Emergencies Act to try to quell COVID protests</a> NPR: Three weeks after truckers occupied downtown Ottawa, Canada's prime minister invoked the Emergencies Act. It grants the federal government special powers to address security issues. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
@@ -52,8 +56,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
- <p class="updated_time"> 03:40 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
  <p class="updated_time"> 03:06 AM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008">Thousands of Ukraine Soldiers Have Already Died in a War Started When They Were Boys</a> WSJ: Russia and its gathered forces threaten what looks like a new conflict, but the Ukraine military has been fighting it for eight years. “We’ve been stewing in this war for so long.” 
  <p class="updated_time"> 02:43 AM CT, Feb. 15 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60334181?at_medium=RSS&at_campaign=KARANGA">UP election: Are women really thriving in Uttar Pradesh as PM Modi claims?</a> BBC: We test PM Narendra Modi's claim that Uttar Pradesh is now safe and full of opportunities for women. 
  <p class="updated_time"> 06:52 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60380317?at_medium=RSS&at_campaign=KARANGA">Why is Canada's Covid death rate so much lower than US?</a> BBC: Despite protests raging in Canada, the country is managing Covid better than the US, data shows. 
- <p class="updated_time"> 06:49 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60380298?at_medium=RSS&at_campaign=KARANGA">Pharmaceuticals in rivers threaten world health - study</a> BBC: Paracetamol, nicotine, caffeine and epilepsy and diabetes drugs were widely detected, research finds. 
  <p class="updated_time"> 06:45 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60258327?at_medium=RSS&at_campaign=KARANGA">Nigeria's sleepless students trying to beat the Lagos traffic</a> BBC: Nigeria's largest city is notorious for its traffic, which is having an impact on children's education. 
  <p class="updated_time"> 06:41 PM CT, Feb. 14 </p> 
@@ -192,13 +192,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/nyc-fires-municipal-workers-vaccine-mandate-00008645">New York City fires 1,430 municipal workers over vaccine mandate</a> Politico: That figure represents less than 1 percent of the city's 370,000-person workforce. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/jan-6-lobbying-companies-election-00008827">These companies stopped campaign donations to election objectors. Their lobbyists did not.</a> Politico: Throughout 2021, in-house government affairs staffers for at least 13 companies gave personal donations to Republicans who objected to the presidential election results. 
- <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 ‘legitimate political discourse’</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
- <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/conor-lamb-senate-penn-00008919">The left neutralizes the Dem establishment in Pa. Senate primary</a> Politico: At one time, the Democratic Party would have cleared the Senate field for a candidate like Conor Lamb. Not anymore. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/jan-6-lobbying-companies-election-00008827">These companies stopped campaign donations to election objectors. Their lobbyists did not.</a> Politico: Throughout 2021, in-house government affairs staffers for at least 13 companies gave personal donations to Republicans who objected to the presidential election results. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">House GOP messaging chief starts quieting doubters on the right</a> Politico: Since she took over as No. 3 in the conference, Elise Stefanik made a point to prioritize the megaphones of the party's base. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 ‘legitimate political discourse’</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/hartzler-britt-super-pac-help-00008864">2 Senate candidates get super PAC help from former NRA operatives</a> Politico: Missouri's Vicky Hartzler and Alabama's Katie Britt will benefit from Secure Our Freedom Action Fund's support. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
@@ -245,8 +245,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080684275/judge-to-dismiss-sarah-palin-lawsuit-against-new-york-times">Judge to dismiss Sarah Palin lawsuit against 'New York Times'</a> NPR: A federal judge will dismiss Sarah Palin's defamation lawsuit against The New York Times even as the jury continues to deliberate. 
  <p class="updated_time"> 03:26 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080684240/rep-michael-mccaul-on-the-latest-in-ukraine">Rep. Michael McCaul on the latest in Ukraine</a> NPR: NPR's Mary Louise Kelly speaks with Texas Rep. Michael McCaul, top Republican on the House Foreign Affairs Committee, about the situation in Ukraine. 
- <p class="updated_time"> 03:22 PM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/palin-new-york-times-judge-ruling-00008719">Judge throws out Palin libel case against New York Times</a> Politico: The ruling came as a Manhattan jury was deliberating on Palin’s suit, which claimed the Times defamed her by linking her to a 2011 shooting spree that killed six and wounded then-Rep. Gabby Giffords. 
  <p class="updated_time"> 03:18 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/canadian-truckers-block-bridge-strike-protests-00008620">What's happening with the Canadian trucker convoy? Here's what you need to know</a> Politico: The once-narrow protest, dubbed the “Freedom Convoy,” has spiraled into a broader movement of the far-right. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
