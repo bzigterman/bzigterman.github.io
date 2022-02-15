@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:43 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 05:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Canada Initiates Emergency Act, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
+ <p class="updated_time"> 05:02 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
+ <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080774883/russians-scoff-at-western-fears-of-ukraine-invasion">Russians scoff at Western fears of Ukraine invasion</a> NPR: More than half of respondents in recent polls in Russia say the U.S. is responsible for the current standoff over Ukraine. 
+ <p class="updated_time"> 04:50 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 04:40 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up raised fears of an invasion. 
- <p class="updated_time"> 04:31 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 04:15 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip to the kingdom by Naftali Bennett, the first official visit by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
@@ -35,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
  <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Valieva 'emotionally tired' as she goes for gold</a> BBC: Russian figure skater Kamila Valieva has argued her positive drugs test was due to contamination with her grandad's medicine, an Olympic official says. 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Kamila Valieva test 'due to contamination with grandad's medicine'</a> BBC: Russian figure skater Kamila Valieva has argued her positive drugs test was due to contamination with her grandad's medicine, an Olympic official says. 
  <p class="updated_time"> 01:20 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60384684?at_medium=RSS&at_campaign=KARANGA">Tilak Nagar: Delhi man held over rape of 87-year-old woman</a> BBC: Police say the man, a sweeper, robbed and assaulted the bedridden woman when she was alone at home. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
@@ -56,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383594?at_medium=RSS&at_campaign=KARANGA">Trump accountants say financial reports unreliable</a> BBC: Mazars says it can no longer stand behind 10 years of the former president's statements. 
  <p class="updated_time"> 08:17 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
- <p class="updated_time"> 07:24 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 06:54 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60334181?at_medium=RSS&at_campaign=KARANGA">UP election: Are women really thriving in Uttar Pradesh as PM Modi claims?</a> BBC: We test PM Narendra Modi's claim that Uttar Pradesh is now safe and full of opportunities for women. 
  <p class="updated_time"> 06:52 PM CT, Feb. 14 </p> 
@@ -82,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
  <p class="updated_time"> 04:53 PM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/japans-economy-recovers-in-fourth-quarter-11644883463">Japan's Economy Recovered in Fourth Quarter</a> WSJ: Japan’s economy returned to growth in the October-December quarter thanks to higher consumer spending, but a resurgence in Covid-19 infections is likely to hold back the recovery in the current quarter. 
- <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
  <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">Russia Accelerates Troop Buildup Along Ukraine Border</a> WSJ: Germany’s chancellor began shuttling between the two nations seeking to stave off a conflict, and Russian President Vladimir Putin left the door open for talks. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
@@ -136,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/14/1080623397/new-zealand-protests-james-blunt-barry-manilow">New Zealand hopes Barry Manilow, James Blunt and the Macarena can disperse protesters</a> NPR: Anti-government protesters are refusing to budge from their encampment in Wellington. One lawmaker is blasting music and COVID-19 vaccine announcements, a tactic that's drawn mixed reviews. 
  <p class="updated_time"> 11:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-finland-sauli-niinisto-putin-nato.html">Finland's President Knows Putin Well. And He Fears for Ukraine.</a> NYT: The Finnish president, Sauli Niinisto, has carved out a vital role as interpreter between East and West, and he is not optimistic about the prospects for peace. 
- <p class="updated_time"> 11:12 AM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080628772/camilla-duchess-covid-positive">Camilla, Duchess of Cornwall tests positive for COVID-19</a> NPR: Camilla is the wife of Prince Charles, who also received a positive test several days ago. Camilla tested negative that day and proceeded with three public engagements. 
  <p class="updated_time"> 09:53 AM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-suspends-imports-of-mexican-avocados-after-inspector-receives-threat-11644872037">U.S. Suspends Imports of Mexican Avocados After Inspector Receives Threat</a> WSJ: The suspension will remain in place until inspectors’ safety is ensured in a region hit by gang violence and extortion. 
  <p class="updated_time"> 09:51 AM CT, Feb. 14 </p> 
@@ -174,6 +172,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/world/europe/france-election-muslims-islam-macron-zemmour-le-pen-pecresse.html">The Quiet Flight of Muslims From France</a> NYT: All the talk of France’s presidential election campaign is about immigration. But it is the expanding emigration of French Muslims that points to a deeper crisis for the country. 
  <p class="updated_time"> 06:34 PM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/americas/brazil-black-authors.html">Black Authors Shake Up Brazil’s Literary Scene</a> NYT: Young Black Brazilians are publishing on their own terms, achieving the critical and commercial success that eluded past generations of writers from marginalized communities. 
+ <p class="updated_time"> 10:30 AM CT, Feb. 12 </p> 
+ <a href="https://www.nytimes.com/2022/02/12/world/asia/oscars-bhutan-movie-lunana.html">'Lunana,' a Movie From Bhutan, Is Nominated for an Academy Award</a> NYT: “Lunana: A Yak in the Classroom” was filmed on a shoestring budget in a remote Himalayan village. It’s now an Academy Award nominee, a first for Bhutan. 
 
 
 </details>
@@ -181,6 +181,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:43 AM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/russia-forces-pulling-back-ukraine-00008931">Russia says some forces pulling back amid Ukraine crisis</a> Politico: The announcement came a day after Russia’s foreign minister indicated the country was ready to keep talking about security grievances, changing the tenor after weeks of rising tensions. 
  <p class="updated_time"> 05:00 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/nyc-fires-municipal-workers-vaccine-mandate-00008645">New York City fires 1,430 municipal workers over vaccine mandate</a> Politico: That figure represents less than 1 percent of the city's 370,000-person workforce. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
@@ -225,6 +227,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/prosecution-police-george-floyd-00008826">Prosecution rests in 3 cops’ trial in George Floyd killing</a> Politico: The three were on the scene with Derek Chauvin, who has already been convicted. 
  <p class="updated_time"> 05:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/maryland-man-pleads-guilty-nuclear-secrets-foreign-government-00008742">Maryland man pleads guilty to trying to sell nuclear secrets to foreign government</a> Politico: Jonathan Toebbe, a nuclear engineer, and his wife were arrested after undercover FBI agents exchanged $100,000 in cryptocurrency for submarine secrets. 
+ <p class="updated_time"> 04:31 PM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/freedom-convoy-trudeau-canada-00008643">Trudeau invokes 'last-resort' emergency powers in bid to end trucker protests</a> Politico: Protesters and trucks have occupied streets around Parliament Hill for more than two weeks. 
  <p class="updated_time"> 04:12 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080698388/trump-accountant-severs-relatioship-financial-statements-unreliable">Trump's longtime accountant says a decade of his financial statements are unreliable</a> NPR: The accounting firm Mazars USA says it has severed its relationship with former President Donald Trump and his family business. 
  <p class="updated_time"> 03:47 PM CT, Feb. 14 </p> 
@@ -259,6 +263,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/democrat-gary-peters-50-50-senate-00008320">The low-key Democrat with the unenviable task of defending a 50-50 Senate</a> Politico: Gary Peters isn't just playing defense; he's set the goal of a 52-seat Democratic majority for 2023. 
  <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators vow not to rehash Kavanaugh during SCOTUS confirmation</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
+ <a href="https://www.politico.com/news/2022/02/14/donald-trump-matt-dolan-ohio-00008525">Trump’s latest political obsession: The baseball team owner not toeing his line</a> Politico: Ohio's Matt Dolan is spending millions to break through in a GOP Senate primary where he's the only candidate not aggressively courting Trump. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080303338/republicans-call-on-biden-to-end-covids-public-health-emergency-designation">Republicans call on Biden to end COVID's public health emergency designation</a> NPR: "Today we call on your administration to do what so many states and other countries already have: accept that COVID-19 is endemic," the dozens of Republicans write in a letter. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
@@ -279,8 +285,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
  <a href="https://www.cnn.com/2022/02/13/politics/cnn-poll-biden-trump-2024/index.html">CNN Poll: Neither Biden nor Trump has their party's full support for a 2024 run</a> CNN: A significant number of both Democrats and Republicans currently hope to see their parties find alternatives to President Joe Biden and former President Donald Trump in the next presidential election, according to a new CNN poll conducted by SSRS. But very few have specific candidates in mind, underscoring how distant -- and potentially mutable -- the 2024 race remains. 
- <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/ukraine-invasion-false-flag-00008470">U.S. 'watching very carefully' for phony Russian reason to kick off Ukraine invasion</a> Politico: Jake Sullivan warned of Vladimir Putin possibly using a false flag operation to put the blame on Ukraine for war. 
  <p class="updated_time"> 12:01 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
  <p class="updated_time"> 10:54 AM CT, Feb. 13 </p> 
@@ -309,14 +313,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/rudolph-giuliani-january-6-committee.html">Giuliani in Talks to Testify to House Jan. 6 Panel</a> NYT: It is not clear how much assistance he might provide in the investigation into former President Donald J. Trump’s efforts to hold onto power. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
- <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
- <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
- <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
@@ -331,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
  <p class="updated_time"> 02:37 PM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/agenda/2022/02/10/frequent-prison-lockdowns-backfire-00007797">Frequent Prison Lockdowns Backfire. I Know From Experience.</a> Politico: Biden has an opportunity to change prison culture for the better, if he takes it. 
- <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/texas-gop-voting-law-primaries-00007473">Texas officials bemoan ‘lack of foresight’ as they struggle with GOP’s new voting law</a> Politico: Local election officials in Texas have rejected more ballot applications under their interpretations of  guidelines stipulated by the state's new voting laws. 
  <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
  <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are nearing an unexpected bipartisan win. 
  <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
