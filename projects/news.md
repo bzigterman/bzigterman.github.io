@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:12 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 09:42 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
+ <p class="updated_time"> 09:24 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
  <p class="updated_time"> 09:06 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60392368?at_medium=RSS&at_campaign=KARANGA">Four dead and 15 missing as Spanish trawler sinks off Canada</a> BBC: Three crew members have been found and rescue efforts are continuing for other survivors. 
  <p class="updated_time"> 08:58 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
  <p class="updated_time"> 08:56 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
- <p class="updated_time"> 08:37 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 08:35 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: With no evidence of the withdrawal, Western powers react cautiously to the de-escalation. 
  <p class="updated_time"> 08:33 AM CT, Feb. 15 </p> 
@@ -53,27 +57,25 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-hospital-wards-overflow-as-omicron-defies-zero-covid-policies-11644937247">Hong Kong Hospital Wards Overflow as Omicron Defies Zero-Covid Policies</a> WSJ: Officials are commandeering apartments and hotels to isolate new cases in the city’s biggest coronavirus outbreak yet. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
  <p class="updated_time"> 03:06 AM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008">Thousands of Ukraine Soldiers Have Already Died in a War Started When They Were Boys</a> WSJ: Russia and its gathered forces threaten what looks like a new conflict, but the Ukraine military has been fighting it for eight years. “We’ve been stewing in this war for so long.” 
+ <p class="updated_time"> 03:04 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/u-s-weighs-china-factor-in-drafting-plans-to-punish-russia-11644933898">U.S. Weighs China Factor in Drafting Plans to Punish Russia</a> WSJ: The Biden administration is assessing how far Beijing would go to help Moscow circumvent sanctions and other punitive measures if Russia were to invade Ukraine. 
  <p class="updated_time"> 02:43 AM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/decade-high-food-prices-drive-poverty-and-unrest-in-africa-11644932613">Decade-High Food Prices Drive Poverty and Unrest in Africa</a> WSJ: Parts of Africa are contending with a wave of inflation that is, by some measures, even worse than the supply shocks cascading around the rest of the world. 
- <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:18 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080771248/afghans-say-they-feel-safer-but-less-hopeful-under-taliban-rule">Afghans say they feel safer but less hopeful under Taliban rule</a> NPR: After six months of Taliban rule, many Afghans say they fear for their economic future of lack of personal freedoms. 
- <p class="updated_time"> 02:01 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/japan-calls-for-tough-response-on-ukraine-saying-china-is-watching-11644923764">Japan Calls for Tough Response on Ukraine, Saying China Is Watching</a> WSJ: Foreign Minister Yoshimasa Hayashi said democratic nations should take a tough line if Russia invades Ukraine, because a failure to do so would embolden others, such as China, that want to exert control over their neighbors. 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
  <p class="updated_time"> 01:20 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60384684?at_medium=RSS&at_campaign=KARANGA">Tilak Nagar: Delhi man held over rape of 87-year-old woman</a> BBC: Police say the man, a sweeper, robbed and assaulted the bedridden woman when she was alone at home. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
- <p class="updated_time"> 12:42 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/u-s-seeks-extradition-of-former-honduras-president-on-drug-related-charges-11644925363">U.S. Seeks Extradition of Former Honduras President on Drug-Related Charges</a> WSJ: U.S. prosecutors allege that former Honduran President Juan Orlando Hernández received millions of dollars in bribes from drug smugglers who shipped tons of cocaine to the U.S. in exchange for protection by Honduras’s government. 
  <p class="updated_time"> 12:41 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080767360/u-s-asks-honduras-to-arrest-extradite-ex-president-hernandez">U.S. asks Honduras to arrest, extradite ex-President Hernández</a> NPR: The request follows speculation over whether the former president would be charged after U.S. prosecutors repeatedly implicated him in his brother's 2019 drug trafficking trial. 
  <p class="updated_time"> 12:00 AM CT, Feb. 15 </p> 
@@ -86,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 09:00 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383594?at_medium=RSS&at_campaign=KARANGA">Trump accountants say financial reports unreliable</a> BBC: Mazars says it can no longer stand behind 10 years of the former president's statements. 
- <p class="updated_time"> 08:17 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
  <p class="updated_time"> 06:54 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60334181?at_medium=RSS&at_campaign=KARANGA">UP election: Are women really thriving in Uttar Pradesh as PM Modi claims?</a> BBC: We test PM Narendra Modi's claim that Uttar Pradesh is now safe and full of opportunities for women. 
  <p class="updated_time"> 06:52 PM CT, Feb. 14 </p> 
