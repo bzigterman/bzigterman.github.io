@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:38 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up prompted fears of an invasion. 
  <p class="updated_time"> 03:34 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada News: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
- <p class="updated_time"> 03:12 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up prompted fears of an invasion. 
  <p class="updated_time"> 03:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
