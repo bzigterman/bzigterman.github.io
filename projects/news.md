@@ -177,6 +177,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:47 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080769555/texas-sues-meta-for-misusing-facial-recognition-data">Texas sues Meta, saying it misused facial recognition data </a> NPR: Texas Attorney General Ken Paxton said Facebook's parent company could owe billions of dollars in damages for selling the biometric data of unknowing users. 
  <p class="updated_time"> 01:47 AM CT, Feb. 15 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:04 AM CT, Feb. 15 </p> 
@@ -297,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/senate-democrats-mask-mandates-00008417">Senate Dems left behind as party inches away from mask mandates</a> Politico: Blue-state governors and House members are pivoting away from mask mandates, but Democratic senators and candidates aren’t ready to embrace the new messaging. 
- <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
- <a href="https://www.npr.org/2022/02/12/1080354189/biden-to-give-afghanistans-frozen-assets-to-humanitarian-aid-then-9-11-victims">Biden to give Afghanistan's frozen assets to humanitarian aid, then 9/11 victims</a> NPR: Scott Simon speaks to Foreign Policy columnist Lynne O'Donnell about President Biden's decision to give half of Afghanistan's $7 billion in frozen assets to victims of the Sept. 11 attacks. 
  <p class="updated_time"> 07:00 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/andrew-cuomo-governor-attorney-general-00008138">No, you haven't heard the last of Andrew Cuomo</a> Politico: A dozen former aides and allies say the former governor has been conferring with them to determine his best course. 
  <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
