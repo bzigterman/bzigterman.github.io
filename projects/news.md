@@ -192,7 +192,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/durham-sussmann-trump-russia.html">Court Filing Started a Furor in Right-Wing Outlets, but Their Narrative Is Off Track</a> NYT: The latest alarmist claims about spying on Trump appeared to be flawed, but the explanation is byzantine — underlining the challenge for journalists in deciding what merits coverage. 
  <p class="updated_time"> 09:06 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Ilya Lichtenstein Held in Bitcoin Case While Heather Morgan Is Given Bail</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Husband in $3.6 Billion Bitcoin Case Held While Wife Gets Bond</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
  <p class="updated_time"> 08:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/tina-peters-colorado-election.html">2020 Election Denier Will Run for Top Elections Position in Colorado</a> NYT: Tina Peters, the Mesa County clerk, has been stripped of her county election oversight but is seeking to oversee her state’s elections as secretary of state. 
  <p class="updated_time"> 07:12 PM CT, Feb. 14 </p> 
@@ -252,7 +252,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080303338/republicans-call-on-biden-to-end-covids-public-health-emergency-designation">Republicans call on Biden to end COVID's public health emergency designation</a> NPR: "Today we call on your administration to do what so many states and other countries already have: accept that COVID-19 is endemic," the dozens of Republicans write in a letter. 
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">The ‘Zen Mayor’: How Eric Adams Mixes Tough Talk With Spinach Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">How Eric Adams Mixes Tough Talk With Superfood Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
  <p class="updated_time"> 02:48 AM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080550812/to-try-to-free-up-frozen-afghan-assets-for-aid-biden-signs-executive-order">To try to free up frozen Afghan assets for aid, Biden signs executive order</a> NPR: President Biden has signed an executive order detailing how the U.S will deal with about $7 billion in assets that Afghanistan's central bank stored in New York before the Taliban takeover. 
  <p class="updated_time"> 02:02 AM CT, Feb. 14 </p> 
