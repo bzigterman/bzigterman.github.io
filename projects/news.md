@@ -8,12 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 11:42 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Report: Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
+ <p class="updated_time"> 11:34 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
+ <p class="updated_time"> 11:30 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60392259?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Putin says he does not want war in Europe</a> BBC: The comments come as Russia's military says some troops are withdrawing from the border near Ukraine. 
+ <p class="updated_time"> 11:29 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60393843?at_medium=RSS&at_campaign=KARANGA">Prince Andrew settles US civil sex assault case</a> BBC: The Duke of York settles the claim brought against him by Virginia Giuffre, court documents show. 
  <p class="updated_time"> 11:05 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
- <p class="updated_time"> 11:05 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
- <p class="updated_time"> 11:00 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60393843?at_medium=RSS&at_campaign=KARANGA">Prince Andrew settles US civil sex assault case</a> BBC: The Duke of York settles the claim brought against him by Virginia Giuffre, court documents show. 
  <p class="updated_time"> 10:50 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:47 AM CT, Feb. 15 </p> 
@@ -50,8 +56,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60392368?at_medium=RSS&at_campaign=KARANGA">Four dead and 15 missing as Spanish trawler sinks off Canada</a> BBC: Three crew members have been found and rescue efforts are continuing for other survivors. 
  <p class="updated_time"> 08:56 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
- <p class="updated_time"> 08:35 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: With no evidence of the withdrawal, Western powers react cautiously to the de-escalation. 
  <p class="updated_time"> 08:33 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
  <p class="updated_time"> 08:31 AM CT, Feb. 15 </p> 
@@ -70,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/money/2022/02/15/1079761270/china-promised-trump-a-better-deal-for-america-it-didnt-actually-deliver">China promised Trump a better deal for America; it didn't actually deliver</a> NPR: In 2020, President Trump signed a deal with the Chinese government to improve trade relations. China, for the most part, has not followed through. 
  <p class="updated_time"> 05:19 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Children's game Roblox has a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
- <p class="updated_time"> 05:11 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
  <p class="updated_time"> 05:02 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
@@ -185,6 +187,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:07 PM CT, Feb. 15 </p> 
+ <a href="https://www.politico.com/news/2022/02/15/prince-andrew-sex-abuse-lawsuit-settled-00009022">Lawyers: Sex abuse lawsuit against Prince Andrew settled</a> Politico: Lawyers on both sides were informing the judge that a settlement in principle has been reached and they’ll request a dismissal of the lawsuit within a month. 
+ <p class="updated_time"> 11:13 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/us-ukraine-weapons.html">U.S. Weapons in Ukraine Would Not Stop a Russian Invasion</a> NYT: The effectiveness of the weapons against the better-equipped Russian Army depends on what Moscow orders its troops to do. 
  <p class="updated_time"> 11:00 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/climate-fight-gas-kitchen-00008750">How the climate fight landed in the kitchen</a> Politico: Despite local successes for environmental activists in Seattle, New York and other cities, there's plenty of infighting among Democrats and their allies over natural gas. 
  <p class="updated_time"> 10:32 AM CT, Feb. 15 </p> 
@@ -313,14 +319,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/12/us/politics/rudolph-giuliani-january-6-committee.html">Giuliani in Talks to Testify to House Jan. 6 Panel</a> NYT: It is not clear how much assistance he might provide in the investigation into former President Donald J. Trump’s efforts to hold onto power. 
  <p class="updated_time"> 07:01 AM CT, Feb. 12 </p> 
  <a href="https://www.politico.com/news/2022/02/12/congressional-trading-bans-explained-00008245">Spouses, taxes and crypto: The unanswered questions for Congress' stock trading ban</a> Politico: Bipartisan proposals that would require lawmakers to put assets into blind trusts are facing resistance from watchdogs who say they wouldn’t go far enough and that members should be forced into broad-based mutual funds. 
- <p class="updated_time"> 05:26 AM CT, Feb. 12 </p> 
- <a href="https://www.nytimes.com/2022/02/11/us/politics/ukraine-ambassador-biden.html">Puzzle in Ukraine Crisis: Where’s the U.S. Ambassador?</a> NYT: Diplomats say President Biden’s 13-month delay in sending an envoy to a top crisis spot is impossible to explain. 
  <p class="updated_time"> 04:49 AM CT, Feb. 12 </p> 
  <a href="https://www.nytimes.com/2022/02/12/us/politics/blinken-fiji-pacific-islands.html">Blinken Says U.S. Has a ‘Long-Term Future’ in the Pacific Islands</a> NYT: The secretary of state promised a new embassy in the Solomon Islands and help on issues like climate change, as Washington vies with Beijing for influence in the region. 
  <p class="updated_time"> 09:04 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/kamala-harris-lead-pipes-newark.html">Harris Says Replacing Lead Pipes Is a Priority, Despite Limited Funding</a> NYT: Some civil rights leaders have grown frustrated with the lack of action behind administration proposals that would help Black and Latino communities. 
- <p class="updated_time"> 08:57 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/caruso-enters-los-angeles-mayors-race-00008420">Billionaire developer Caruso enters Los Angeles mayor’s race</a> Politico: The builder of luxury malls is poised run an expensive, self-funded campaign. 
  <p class="updated_time"> 08:47 PM CT, Feb. 11 </p> 
  <a href="https://www.nytimes.com/2022/02/11/us/politics/fda-children-pfizer-vaccine.html">F.D.A. Delays Review of Pfizer’s Covid Vaccine for Children Under 5</a> NYT: The agency will wait for data on whether three doses of Pfizer-BioNTech’s Covid vaccine are effective in young children after new, disappointing data. 
  <p class="updated_time"> 07:10 PM CT, Feb. 11 </p> 
