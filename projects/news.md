@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:36 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border, but it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 05:31 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up raised fears of an invasion. 
  <p class="updated_time"> 05:30 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/15/1079761270/china-promised-trump-a-better-deal-for-america-it-didnt-actually-deliver">China Promised Trump A Better Deal For America; It Didn't Actually Deliver</a> NPR: In 2020, President Trump signed a deal with the Chinese government to improve trade relations. China, for the most part, has not followed through. 
- <p class="updated_time"> 05:29 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border, but it was far from clear that the threat of war had passed. 
  <p class="updated_time"> 05:29 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 05:19 AM CT, Feb. 15 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080774883/russians-scoff-at-western-fears-of-ukraine-invasion">Russians scoff at Western fears of Ukraine invasion</a> NPR: More than half of respondents in recent polls in Russia say the U.S. is responsible for the current standoff over Ukraine. 
- <p class="updated_time"> 04:40 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up raised fears of an invasion. 
  <p class="updated_time"> 04:15 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip to the kingdom by Naftali Bennett, the first official visit by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
