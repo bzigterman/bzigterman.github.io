@@ -119,10 +119,10 @@ ggplot(champaign_forecast_longer,
         plot.caption = element_text(colour = "grey40"))
 
 ggsave("plots/champaign_weather.png", bg = "white",
-       width = 8, height = 8, dpi = 320)
+       width = 7, height = 8, dpi = 320)
 
 ggsave("plots/champaign_weather_mobile.png", bg = "white",
-       width = 4, height = 8, dpi = 320)
+       width = 3, height = 8, dpi = 320)
 
 
 # plot data ----
