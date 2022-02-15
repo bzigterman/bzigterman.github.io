@@ -976,8 +976,11 @@ Community transmission levels are calculated by the CDC based on new cases per c
   <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total_mobile.png\" alt=\"\" />
 </picture>
 
-![USA new cases map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases.png)
-
+<picture>
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases_mobile.png\" alt=\"\" />
+</picture>
 
 <picture>
   <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png\"
