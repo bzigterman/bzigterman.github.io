@@ -468,10 +468,17 @@ eastern_plot <- conference_standings_plot(eastern)
 western_plot <- conference_standings_plot(western)
 
 plot_grid(western_plot, eastern_plot,
-          align = "hv")
+          align = "h")
 
 ggsave("plots/nba_standings.png",
        width = 8, height = 4, dpi = 320)
+
+plot_grid(western_plot, eastern_plot,
+          ncol = 1,
+          align = "v")
+
+ggsave("plots/nba_standings_mobile.png",
+       width = 4, height = 8, dpi = 320)
 
 # conference standings table ----
 
@@ -565,7 +572,11 @@ imageurl: https://bzigterman.com/plots/nba_standings.png
 
 ",now_html," 
 
-![Standings]({{ site.baseurl }}/plots/nba_standings.png)
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/nba_standings.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/nba_standings_mobile.png\" alt=\"\" />
+</picture>
 
 ",better_wild_card_standings_table_html," 
 
