@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:36 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 05:46 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border, but it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 05:41 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60387156?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernández: Police surround Honduran ex-leader's home</a> BBC: The US has asked for ex-President Juan Orlando Hernández to be extradited on drugs charges. 
  <p class="updated_time"> 05:31 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up raised fears of an invasion. 
  <p class="updated_time"> 05:30 AM CT, Feb. 15 </p> 
