@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:17 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
+ <p class="updated_time"> 08:03 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 07:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/02/14/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency, Expanding Measures to End Protests</a> NYT: The move is the first time the government has taken such action in half a century, and is Prime Minister Justin Trudeau’s most aggressive response since the protests roiling the country began. 
  <p class="updated_time"> 07:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 07:20 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
- <p class="updated_time"> 07:02 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
+ <p class="updated_time"> 06:49 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60380298?at_medium=RSS&at_campaign=KARANGA">Pharmaceuticals in rivers threaten world health - study</a> BBC: Paracetamol, nicotine, caffeine and epilepsy and diabetes drugs were widely detected, research finds. 
+ <p class="updated_time"> 06:28 PM CT, Feb. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60256143?at_medium=RSS&at_campaign=KARANGA">Tonga PM counts mental health 'cost' of disasters</a> BBC: In an exclusive interview with the BBC, PM Siaosi Sovaleni says rebuilding mental health is a challenge. 
  <p class="updated_time"> 06:18 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370227?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The fear of fleeing home twice</a> BBC: Amid fears of a Russian invasion, families who have fled once before are worried they will have to run again. 
  <p class="updated_time"> 06:11 PM CT, Feb. 14 </p> 
@@ -30,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/14/world/russia-ukraine-news">Kremlin Says Talks Are ‘Far From Exhausted,’ as Russian Buildup Continues</a> NYT: Ukraine’s president hinted at a major concession and Russia’s foreign minister said talks would continue, suggesting room for diplomatic resolution amid warnings that war could be imminent. 
  <p class="updated_time"> 04:48 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-defense-secretary-austin-belgium-europe.html">Defense Secretary Will Travel to Europe Amid Russia-Ukraine Crisis</a> NYT: He will consult with leaders of NATO and visit American troops in Poland. 
- <p class="updated_time"> 04:14 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
  <p class="updated_time"> 03:44 PM CT, Feb. 14 </p> 
@@ -56,6 +60,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60381479?at_medium=RSS&at_campaign=KARANGA">Chagos Islands: Mauritian flag raised on British-controlled archipelago</a> BBC: The Chagos Islands, in the Indian Ocean, is controlled by Britain, but claimed by Mauritius. 
  <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
+ <p class="updated_time"> 03:00 PM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">Russia Accelerates Troop Buildup Along Ukraine Border</a> WSJ: Germany’s chancellor shuttled between the two nations to mediate peace, as Russian President Vladimir Putin leaves an opening for talks. 
  <p class="updated_time"> 02:57 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 02:42 PM CT, Feb. 14 </p> 
@@ -66,20 +72,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
  <p class="updated_time"> 02:32 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
+ <p class="updated_time"> 02:30 PM CT, Feb. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">Canada's Trudeau Invokes Emergency Powers to Address Trucker Protests</a> WSJ: The prime minister’s move is a bid to end demonstrations against Covid-19 vaccine mandates that have paralyzed the capital and snarled cross-border traffic. 
  <p class="updated_time"> 02:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 02:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/12/world/europe/russia-ukraine-war-biden-putin.html">U.S. Pulls Most Diplomats From Kyiv as Tensions Mount</a> NYT: Western officials made another diplomatic push on Saturday to dissuade President Vladimir V. Putin from invading Ukraine. 
  <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
- <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-canada-traffic-ramps-up-after-trucker-blockade-ends-on-detroit-bridge-11644856625">Canada's Trudeau Invokes Emergency Powers to Address Trucker Protests</a> WSJ: The prime minister’s move is a bid to end demonstrations against Covid-19 vaccine mandates that have paralyzed the capital and snarled cross-border traffic. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/olaf-scholz-germany-ukraine.html">German Leader Vows Support for Ukraine, on Eve of Putin Meeting</a> NYT: The German leader said he would encourage business to invest in Ukraine, but ruled out sending weaponry. 
  <p class="updated_time"> 01:29 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080576235/winter-olympics-women-hockey-final">U.S. women will face Canada in the Olympic hockey gold medal match</a> NPR: The U.S. women's ice hockey team defeated Finland 4-1 on Monday. The U.S. team will go up against its longtime rival, Canada, in the gold medal game later this week. 
- <p class="updated_time"> 01:15 PM CT, Feb. 14 </p> 
- <a href="https://www.wsj.com/articles/west-steps-up-diplomatic-efforts-to-avert-russian-attack-on-ukraine-11644841979">Russia Accelerates Troop Buildup Along Ukraine Border</a> WSJ: The German chancellor shuttled between two nations to mediate peace, as Russian President Vladimir Putin leaves an opening for talks. 
  <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60378479?at_medium=RSS&at_campaign=KARANGA">Kentucky mayoral candidate survives being targeted by a gunman</a> BBC: Craig Greenberg is unharmed after someone entered and fired shots at him. A suspect has been arrested. 
  <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
@@ -122,10 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
  <p class="updated_time"> 06:54 AM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60374485?at_medium=RSS&at_campaign=KARANGA">The 15-year-old Russian figure skater at the centre of a doping scandal</a> BBC: Kamila Valieva always wanted to win Olympic Gold, but is under the spotlight now in a different way. 
- <p class="updated_time"> 06:00 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60375317?at_medium=RSS&at_campaign=KARANGA">Police kill man wielding knife at Paris station</a> BBC: French police shoot dead a man wielding a long-bladed knife at the Gare du Nord train station. 
- <p class="updated_time"> 05:59 AM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60374923?at_medium=RSS&at_campaign=KARANGA">Syria: Kidnapped boy released after video of beating sparks outcry</a> BBC: The abduction of Fawaz al-Qataifan, 8, sparked an outcry when footage emerged of him being whipped. 
  <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 05:40 AM CT, Feb. 14 </p> 
@@ -181,8 +181,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:14 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/tina-peters-colorado-election.html">Stripped of Election Oversight, She’s Running for Colorado Secretary of State</a> NYT: Tina Peters, the Mesa County clerk, joins the ranks of 2020 election deniers who are seeking to oversee their states’ elections. 
+ <p class="updated_time"> 08:10 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/tina-peters-colorado-election.html">2020 Election Denier Will Run for Top Elections Position in Colorado</a> NYT: Tina Peters, the Mesa County clerk, has been stripped of her county election oversight but is seeking to oversee her state’s elections as secretary of state. 
  <p class="updated_time"> 07:12 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/trump-accounting-firm-mazars-00008841">Accounting firm: Trump financial statements aren’t reliable</a> Politico: Mazars’ letter was made public in a court filing Monday. 
  <p class="updated_time"> 07:08 PM CT, Feb. 14 </p> 
@@ -198,7 +198,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/maryland-man-pleads-guilty-nuclear-secrets-foreign-government-00008742">Maryland man pleads guilty to trying to sell nuclear secrets to foreign government</a> Politico: Jonathan Toebbe, a nuclear engineer, and his wife were arrested after undercover FBI agents exchanged $100,000 in cryptocurrency for submarine secrets. 
  <p class="updated_time"> 04:31 PM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/freedom-convoy-trudeau-canada-00008643">Trudeau invokes last-resort Emergencies Act in bid to end trucker protests</a> Politico: Protesters and trucks have occupied streets around Parliament Hill for more than two weeks. 
+ <a href="https://www.politico.com/news/2022/02/14/freedom-convoy-trudeau-canada-00008643">Trudeau invokes 'last-resort' emergency powers in bid to end trucker protests</a> Politico: Protesters and trucks have occupied streets around Parliament Hill for more than two weeks. 
  <p class="updated_time"> 04:12 PM CT, Feb. 14 </p> 
  <a href="https://www.npr.org/2022/02/14/1080698388/trump-accountant-severs-relatioship-financial-statements-unreliable">Trump's longtime accountant says a decade of his financial statements are unreliable</a> NPR: The accounting firm Mazars USA says it has severed its relationship with former President Donald Trump and his family business. 
  <p class="updated_time"> 03:47 PM CT, Feb. 14 </p> 
