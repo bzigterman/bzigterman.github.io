@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:42 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
- <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 09:49 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. Although Putin said Russia was “ready to continue on the negotiating track,” it was far from clear that the threat of war had passed. 
+ <p class="updated_time"> 09:49 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 09:46 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-60388401?at_medium=RSS&at_campaign=KARANGA">Ukraine's Eurovision singer 'suspended' from competing</a> BBC: With ongoing tensions between Russia and Ukraine, Alina Pash hopes to represent her country in May. 
  <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 09:24 AM CT, Feb. 15 </p> 
@@ -82,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60381628?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic willing to miss Wimbledon to avoid jab</a> BBC: Novak Djokovic reveals exclusively to the BBC why he hasn't had the Covid vaccination. 
  <p class="updated_time"> 11:30 PM CT, Feb. 14 </p> 
  <a href="https://www.wsj.com/articles/turkish-economy-could-get-caught-in-russia-ukraine-crossfire-11644921001">Turkish Economy Could Get Caught in Russia-Ukraine Crossfire</a> WSJ: A conflict between Turkey’s neighbors could add to pressure on Ankara’s currency and inflation. 
- <p class="updated_time"> 10:02 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60383385?at_medium=RSS&at_campaign=KARANGA">Trudeau vows to freeze anti-mandate protesters' bank accounts</a> BBC: Canada's prime minister says police will also be given "more tools" to imprison or fine demonstrators. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 09:00 PM CT, Feb. 14 </p> 
@@ -251,6 +251,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
  <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
+ <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
+ <a href="https://www.npr.org/2022/02/14/1078086453/ketanji-brown-jackson-supreme-court-biden">Ketanji Brown Jackson, a judge who defies stereotypes, is on Biden's SCOTUS list</a> NPR: Judge Jackson also served for eight years as a federal trial court judge, and last June was confirmed for a seat on the U.S. Court of Appeals for the District of Columbia. 
  <p class="updated_time"> 03:02 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/state-department-u-s-embassy-ukraine-00008681">State Department relocates U.S. Embassy in Ukraine to western city</a> Politico: Secretary of State Antony Blinken announced the temporary relocation of U.S. diplomats from Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
@@ -295,8 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/russia-ukraine-sanctions-lindsey-graham-00008452">'We're talking way too much and we're doing too little' on Russia sanctions, Graham says</a> Politico: "We should be doing more in Congress" to preemptively impose penalties on Russia, Sen. Lindsey Graham said as the threat of an invasion of Ukraine looms. 
  <p class="updated_time"> 10:21 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-defund-police-democrats-00008449">'Defund the police' is not the policy of the Democratic Party, Pelosi says</a> Politico: "Make no mistake, community safety is our responsibility," she said. 
- <p class="updated_time"> 09:57 AM CT, Feb. 13 </p> 
- <a href="https://www.npr.org/2022/02/13/1080469644/ambassador-bridge-us-canada-covid-protesters-cleared-by-police">Bridge linking U.S. and Canada reopens after police remove last protesters</a> NPR: Canadian authorities announced the resumption of travel across the busy Ambassador Bridge after police removed the last group of protesters. 
  <p class="updated_time"> 09:52 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
  <p class="updated_time"> 08:09 AM CT, Feb. 13 </p> 
