@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:59 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
- <p class="updated_time"> 06:56 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 07:44 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1080694770/shacarri-richardson-kamila-valieva-doping">Sha'Carri Richardson sees a double standard in allowing Kamila Valieva to compete</a> NPR: "The only difference I see is I'm a black young lady," U.S. sprinter Sha'Carri Richardson said, after the Russian figure skater is allowed to compete at the Olympics despite a failed drug test. 
+ <p class="updated_time"> 07:40 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip by Naftali Bennett, the first official visit to Bahrain by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
+ <p class="updated_time"> 07:28 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border. NATO’s secretary general urged caution, saying the alliance had “not seen any sign of de-escalation.” 
+ <p class="updated_time"> 07:22 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 07:15 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: With no evidence of the withdrawal, Western powers react cautiously to the de-escalation. 
+ <p class="updated_time"> 07:10 AM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1078018548/china-reproductive-maternity-benefits-married-women-lgbt">Not a married heterosexual woman? You might not get certain reproductive care in China</a> NPR: Rules around the country cut out unmarried women and LGBT people of maternity benefits, even as China's leaders try to get citizens to have more babies to reverse the declining birthrate. 
  <p class="updated_time"> 06:25 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
- <p class="updated_time"> 05:55 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: Russia says some troops are returning to base after a build-up raised fears of an invasion. 
  <p class="updated_time"> 05:52 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60388111?at_medium=RSS&at_campaign=KARANGA">Qandeel Baloch: Court acquits brother of Pakistan star's murder</a> BBC: Muhammed Waseem confessed to killing Qandeel Baloch, saying she had brought shame on the family. 
  <p class="updated_time"> 05:41 AM CT, Feb. 15 </p> 
@@ -30,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 04:55 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080774883/russians-scoff-at-western-fears-of-ukraine-invasion">Russians scoff at Western fears of Ukraine invasion</a> NPR: More than half of respondents in recent polls in Russia say the U.S. is responsible for the current standoff over Ukraine. 
- <p class="updated_time"> 04:15 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip to the kingdom by Naftali Bennett, the first official visit by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773516/canadas-government-invokes-emergencies-act-to-try-to-quell-covid-protests">Canada's government invokes Emergencies Act to try to quell COVID protests</a> NPR: Three weeks after truckers occupied downtown Ottawa, Canada's prime minister invoked the Emergencies Act. It grants the federal government special powers to address security issues. 
  <p class="updated_time"> 04:03 AM CT, Feb. 15 </p> 
@@ -46,12 +50,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
  <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
+ <p class="updated_time"> 02:28 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
  <p class="updated_time"> 02:18 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080771248/afghans-say-they-feel-safer-but-less-hopeful-under-taliban-rule">Afghans say they feel safer but less hopeful under Taliban rule</a> NPR: After six months of Taliban rule, many Afghans say they fear for their economic future of lack of personal freedoms. 
+ <p class="updated_time"> 02:01 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/japan-calls-for-tough-response-on-ukraine-saying-china-is-watching-11644923764">Japan Calls for Tough Response on Ukraine, Saying China Is Watching</a> WSJ: Foreign Minister Yoshimasa Hayashi said democratic nations should take a tough line if Russia invades Ukraine, because a failure to do so would embolden others, such as China, that want to exert control over their neighbors. 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
- <p class="updated_time"> 01:30 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
  <p class="updated_time"> 01:24 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60384450?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Kamila Valieva test 'due to contamination with grandad's medicine'</a> BBC: Russian figure skater Kamila Valieva has argued her positive drugs test was due to contamination with her grandad's medicine, an Olympic official says. 
  <p class="updated_time"> 01:20 AM CT, Feb. 15 </p> 
@@ -130,12 +136,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/olaf-scholz-germany-ukraine.html">German Leader Vows Support for Ukraine, on Eve of Putin Meeting</a> NYT: The German leader said he would encourage business to invest in Ukraine, but ruled out sending weaponry. 
- <p class="updated_time"> 01:29 PM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080576235/winter-olympics-women-hockey-final">U.S. women will face Canada in the Olympic hockey gold medal match</a> NPR: The U.S. women's ice hockey team defeated Finland 4-1 on Monday. The U.S. team will go up against its longtime rival, Canada, in the gold medal game later this week. 
  <p class="updated_time"> 01:14 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/germany-energy-russia-gas-pipeline.html">Germany Is Trying to Rely Less on Russian Energy</a> NYT: An increasingly belligerent Russia, an energy crunch and a new Green minister of economics all add up to a change of direction in Germany’s policy on natural gas. 
- <p class="updated_time"> 12:34 PM CT, Feb. 14 </p> 
- <a href="https://www.npr.org/2022/02/14/1080632899/bank-freezes-funds-canadian-border-protest">Canadian government is invoking its Emergencies Act to try to quell COVID protests</a> NPR: Conservatives say Prime Minister Justin Trudeau's measures to try to end the protests will inflame the situation. 
  <p class="updated_time"> 12:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
  <p class="updated_time"> 12:03 PM CT, Feb. 14 </p> 
@@ -183,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:27 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/nyregion/lauren-smith-fields-tiktok.html">Why Lauren Smith-Fields’s Friends Turned to TikTok</a> NYT: Ignored by the media and pushed aside by the police, families and supporters of Black women are building their own missing persons operations online. 
  <p class="updated_time"> 06:18 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773446/white-house-is-doing-its-best-to-navigate-russia-ukraine-crisis-sen-sanders-says">White House is doing its best to navigate Russia-Ukraine crisis, Sen. Sanders says</a> NPR: Vermont Sen. Bernie Sanders tells NPR's Rachel Martin that a potential war in Ukraine could have unforeseen consequences for Russia, for Ukraine and for the rest of the world. 
  <p class="updated_time"> 05:43 AM CT, Feb. 15 </p> 
@@ -192,7 +196,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/nyc-fires-municipal-workers-vaccine-mandate-00008645">New York City fires 1,430 municipal workers over vaccine mandate</a> Politico: That figure represents less than 1 percent of the city's 370,000-person workforce. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/jan-6-lobbying-companies-election-00008827">Lobbyists kept giving to election objectors despite corporate pledge</a> Politico: Throughout 2021, in-house government affairs staffers for at least 13 companies gave personal donations to Republicans who objected to the presidential election results. 
+ <a href="https://www.politico.com/news/2022/02/15/jan-6-lobbying-companies-election-00008827">These companies stopped campaign donations to election objectors. Their lobbyists did not.</a> Politico: Throughout 2021, in-house government affairs staffers for at least 13 companies gave personal donations to Republicans who objected to the presidential election results. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 ‘legitimate political discourse’</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
@@ -207,8 +211,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080773432/morning-news-brief">News brief: Scholz-Putin talks, Trump accountant quits, hate crimes trial</a> NPR: Germany's chancellor will meet with Russia's president about Ukraine. Trump's accountant says a decade of financial statements are unreliable. The federal trial of Ahmaud Arbery's killers has started. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080739353/high-numbers-of-mail-ballots-are-being-rejected-in-texas-after-a-new-state-law">High numbers of mail ballots are being rejected in Texas after a new state law</a> NPR: In Harris County — home to Houston — election officials so far have sent back to voters nearly 38% of mail-in ballots, citing issues with new state ID requirements. 
- <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/nyregion/lauren-smith-fields-tiktok.html">Why Lauren Smith-Fields’s Friends Turned to TikTok</a> NYT: Ignored by the media and pushed aside by the police, the families and supporters of missing Black women are building their own missing persons operation online. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
  <p class="updated_time"> 03:47 AM CT, Feb. 15 </p> 
@@ -363,8 +365,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/08/malicious-poison-ron-johnson-antisemitism-envoy-jan6-00006702">‘Malicious poison’: GOP senator slams Biden's antisemitism envoy pick for criticizing his Jan. 6 rhetoric</a> Politico: Wisconsin Sen. Ron Johnson got an apology from Holocaust scholar Deborah Lipstadt during her confirmation hearing Tuesday, but didn't appear assuaged. 
  <p class="updated_time"> 11:08 AM CT, Feb. 08 </p> 
  <a href="https://www.cnn.com/2022/02/08/politics/child-tax-credit-tax-refund/index.html">Brace for a smaller tax refund if you got monthly child tax credit payments in 2021</a> CNN: Many parents may not be so happy when they file their tax returns this year. 
- <p class="updated_time"> 07:30 AM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/08/third-stopgap-paves-way-for-delayed-spending-deal-00006591">Third stopgap paves way for delayed spending deal</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
