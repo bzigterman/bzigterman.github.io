@@ -8,22 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:50 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Putin Says Russia Is Partially Pulling Back Troops From Around Ukraine</a> NYT: The announcement was a sign that Russia might be trying to de-escalate the military standoff on the Ukrainian border. It was far from clear that the threat of war had passed, but Putin said Russia was “ready to continue on the negotiating track.” 
+ <p class="updated_time"> 08:37 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 08:35 AM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: With no evidence of the withdrawal, Western powers react cautiously to the de-escalation. 
  <p class="updated_time"> 08:33 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
- <p class="updated_time"> 08:32 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Live Updates: Russia Says It Has Begun Pulling Back Some Troops From Around Ukraine</a> NYT: The Defense Ministry’s announcement was the strongest sign yet that Russia might be trying to de-escalate the military standoff on the Ukrainian border. NATO’s secretary general urged caution, saying the alliance had “not seen any sign of de-escalation.” 
  <p class="updated_time"> 08:31 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
- <p class="updated_time"> 08:20 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Trudeau Declares National Emergency to End Trucker Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 08:11 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett-official-visit.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: The trip by Naftali Bennett, the first official visit to Bahrain by an Israeli prime minister, showcased growing ties between his country and several Arab governments. 
  <p class="updated_time"> 08:06 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
  <p class="updated_time"> 07:44 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080694770/shacarri-richardson-kamila-valieva-doping">Sha'Carri Richardson sees a double standard in allowing Kamila Valieva to compete</a> NPR: "The only difference I see is I'm a black young lady," U.S. sprinter Sha'Carri Richardson said, after the Russian figure skater is allowed to compete at the Olympics despite a failed drug test. 
- <p class="updated_time"> 07:15 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60386141?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Russia pulls some troops back from border</a> BBC: With no evidence of the withdrawal, Western powers react cautiously to the de-escalation. 
  <p class="updated_time"> 07:10 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1078018548/china-reproductive-maternity-benefits-married-women-lgbt">Not a married heterosexual woman? You might not get certain reproductive care in China</a> NPR: Rules around the country cut out unmarried women and LGBT people of maternity benefits, even as China's leaders try to get citizens to have more babies to reverse the declining birthrate. 
  <p class="updated_time"> 06:25 AM CT, Feb. 15 </p> 
@@ -52,10 +52,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080407022/trump-vs-mcconnell-latest-round-between-gop-heavyweights-has-the-highest-stakes-">Trump vs. McConnell: Latest round between GOP heavyweights has the highest stakes yet</a> NPR: For years, Mitch McConnell converted Donald Trump's heat to power the conservative agenda. Now he needs to again harness that insurgent energy, a challenge when Trump's heat is directed at him. 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
- <p class="updated_time"> 03:06 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008">Thousands of Ukraine Soldiers Have Already Died in a War Started When They Were Boys</a> WSJ: Russia and its gathered forces threaten what looks like a new conflict, but the Ukraine military has been fighting it for eight years. ‘We’ve been stewing in this war for so long.’ 
- <p class="updated_time"> 02:57 AM CT, Feb. 15 </p> 
+ <p class="updated_time"> 03:40 AM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Offers Mixed Messages on Ukraine Troop Pullback</a> WSJ: Russia said it had pulled back some troops from near Ukraine while noting that large-scale military maneuvers were continuing and Western officials warned that combat units were moving into forward positions. 
+ <p class="updated_time"> 03:06 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008">Thousands of Ukraine Soldiers Have Already Died in a War Started When They Were Boys</a> WSJ: Russia and its gathered forces threaten what looks like a new conflict, but the Ukraine military has been fighting it for eight years. “We’ve been stewing in this war for so long.” 
  <p class="updated_time"> 02:43 AM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/decade-high-food-prices-drive-poverty-and-unrest-in-africa-11644932613">Decade-High Food Prices Drive Poverty and Unrest in Africa</a> WSJ: Parts of Africa are contending with a wave of inflation that is, by some measures, even worse than the supply shocks cascading around the rest of the world. 
  <p class="updated_time"> 02:40 AM CT, Feb. 15 </p> 
