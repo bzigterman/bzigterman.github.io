@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:38 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
+ <p class="updated_time"> 02:38 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/top-european-court-rules-eu-can-freeze-aid-to-poland-and-hungary.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice approved the bloc’s decision to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 02:23 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
@@ -22,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
- <p class="updated_time"> 11:01 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 10:54 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
@@ -46,6 +48,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60099934?at_medium=RSS&at_campaign=KARANGA">Andrew Brettler: Who is Prince Andrew's Hollywood lawyer?</a> BBC: A highly sought-after entertainment lawyer, Andrew Brettler has defended many men accused of sexual abuse. 
  <p class="updated_time"> 07:42 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
+ <p class="updated_time"> 07:36 PM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/china-inflation-eases-as-economy-could-use-a-boost-11644993402">China Inflation Eases as Economy Could Use a Boost</a> WSJ: With no risks seen from rising prices, the door is open for policy easing to help growth. 
  <p class="updated_time"> 07:35 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297302?at_medium=RSS&at_campaign=KARANGA">US Kremlin backers seek to undermine President Biden</a> BBC: Americans who reject the US president's stance on Ukraine are reshaping the Republican party. 
  <p class="updated_time"> 07:34 PM CT, Feb. 15 </p> 
@@ -116,6 +120,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080707913/why-this-usaid-official-is-optimistic-the-u-s-can-get-the-world-vaccinated">Why this USAID official is optimistic the U.S. can get the world vaccinated</a> NPR: Jeremy Konyndyk, executive director of USAID's COVID task force, shares his perspective on the U.S.' efforts to donate and distribute vaccines to low-income nations. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html">On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</a> NYT: Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation. 
+ <p class="updated_time"> 12:46 PM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/u-s-seeks-extradition-of-former-honduras-president-on-drug-related-charges-11644925363">Honduras Arrests Former President Sought by U.S. on Drug Charges</a> WSJ: U.S. prosecutors allege that former Honduran President Juan Orlando Hernández received millions of dollars in bribes from drug smugglers who shipped tons of cocaine to the U.S. in exchange for protection. 
  <p class="updated_time"> 12:22 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60396179?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Reaction from my colleagues 'hurt me a lot'</a> BBC: Novak Djokovic speaks exclusively to the BBC about his time in detention in Australia last month. 
  <p class="updated_time"> 12:03 PM CT, Feb. 15 </p> 
@@ -132,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
  <p class="updated_time"> 09:21 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/olympics/60378257?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: What are the drugs test rules and what did Kamila Valieva do?</a> BBC: A 15-year-old Winter Olympic figure skater has failed a drugs test, so why can she still compete? 
- <p class="updated_time"> 08:43 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/afghan-refugees-suspend-protests-at-u-a-e-camp-after-talks-with-u-s-11644954226">Afghan Refugees Suspend Protests at U.A.E. Camp After Talks With U.S.</a> WSJ: Afghans evacuated last summer have complained of prison-like conditions inside the Abu Dhabi transit facility. 
  <p class="updated_time"> 08:33 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
  <p class="updated_time"> 06:44 AM CT, Feb. 15 </p> 
@@ -146,8 +150,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
- <p class="updated_time"> 03:06 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/thousands-of-ukraine-soldiers-have-already-died-in-a-war-started-when-they-were-boys-11644934008">Thousands of Ukraine Soldiers Have Already Died in a War Started When They Were Boys</a> WSJ: Russia and its gathered forces threaten what looks like a new conflict, but the Ukraine military has been fighting it for eight years. “We’ve been stewing in this war for so long.” 
+ <p class="updated_time"> 02:43 AM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/decade-high-food-prices-drive-poverty-and-unrest-in-africa-11644932613">Decade-High Food Prices Drive Poverty and Unrest in Africa</a> WSJ: Parts of Africa are contending with a wave of inflation that is, by some measures, even worse than the supply shocks cascading around the rest of the world. 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
