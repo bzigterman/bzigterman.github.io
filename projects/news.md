@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
  <p class="updated_time"> 02:39 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 02:38 AM CT, Feb. 16 </p> 
@@ -28,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
- <p class="updated_time"> 10:54 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
