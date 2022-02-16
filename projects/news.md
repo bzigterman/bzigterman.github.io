@@ -9,13 +9,17 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>World News</summary>
 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain will extend Covid vaccine eligibility to all children 5 to 11.</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
+ <p class="updated_time"> 12:17 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60403963?at_medium=RSS&at_campaign=KARANGA">Google moves to make Android apps more private</a> BBC: No details are available but it says it will not be using the same approach as Apple. 
  <p class="updated_time"> 12:15 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
+ <p class="updated_time"> 12:11 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60409113?at_medium=RSS&at_campaign=KARANGA">One-word gaffe invalidates thousands of US baptisms</a> BBC: Some Church members come to the defence of a Catholic priest in Arizona after he resigns. 
  <p class="updated_time"> 12:07 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 12:00 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident is the city's first fatal shark attack since 1963, when an Australian actress died after being bitten in the leg.  Beaches are closed while lifeguards patrol for further shark sightings. 
+ <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident, in which someone saw a man in a wetsuit get dragged underwater, is the city's first fatal shark attack since 1963. Beaches are closed while lifeguards patrol for further shark sightings. 
  <p class="updated_time"> 11:59 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 11:57 AM CT, Feb. 16 </p> 
@@ -74,12 +78,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 07:14 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60400762?at_medium=RSS&at_campaign=KARANGA">Paislee Shultis: US girl missing since 2019 found alive in secret room</a> BBC: Police have charged three people over Paislee Shultis' disappearance in Saugerties, New York state. 
+ <p class="updated_time"> 07:07 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, delivering notices to their owners and other protesters demanding they leave a demonstration zone immediately or face arrest. 
  <p class="updated_time"> 06:58 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60403027?at_medium=RSS&at_campaign=KARANGA">Swimmer dies in first fatal shark attack in Sydney since 1963</a> BBC: A swimmer sustained "catastrophic injuries" in Wednesday's attack, Australian officials say. 
  <p class="updated_time"> 06:56 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
- <p class="updated_time"> 06:14 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
+ <p class="updated_time"> 06:28 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russian-aircraft-flew-perilously-close-to-each-other-amid-ukraine-tensions-11645032529">U.S., Russian Aircraft Flew Perilously Close to Each Other Amid Ukraine Tensions</a> WSJ: The Pentagon says it expressed concern to Russian officials through diplomatic channels and that such miscalculations could potentially lead to more dangerous outcomes. 
  <p class="updated_time"> 05:46 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
@@ -102,28 +108,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/as-oil-nears-100-saudis-snub-u-s-stick-to-russian-pact-amid-ukraine-crisis-11645015415">As Oil Nears $100, Saudis Snub U.S., Stick to Russian Pact</a> WSJ: The U.S. has repeatedly called on Saudi Arabia to pump up more oil to reduce gasoline prices that, for Americans, are about twice as high as they were earlier in the pandemic. The Saudis have said no. 
  <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
- <p class="updated_time"> 02:46 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/taiwan-says-chinese-mystery-plane-might-have-been-testing-its-defenses-11645019176">Taiwan Says Chinese Mystery Plane Might Have Been Testing Defenses</a> WSJ: Military officials confirm that a Chinese turboprop Harbin Y-12 utility plane flew near Dongyin, a tiny patch of land that sits more than 100 miles north of Taiwan’s main island and just 30 miles from mainland China. 
- <p class="updated_time"> 02:10 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/china-inflation-eases-as-economy-could-use-a-boost-11644993402">China Inflation Eases as Economy Could Use a Boost</a> WSJ: Inflationary pressure continued to ease in January, offering room for Beijing to stimulate growth while more major economies are looking to tighten policy to curb rising prices. 
- <p class="updated_time"> 01:32 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/eu-court-rules-funding-for-poland-hungary-can-be-cut-11645008106">EU Court Rules Funding for Poland, Hungary Can Be Cut</a> WSJ: Europe’s top court ruled that the bloc could withhold money for member countries that have curtailed the independence of their democratic institutions, marking a potentially costly defeat for Hungary and Poland. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
- <p class="updated_time"> 01:23 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/rise-in-u-k-inflation-leaves-central-bank-caught-between-growth-and-rising-prices-11645014195">Rise in U.K. Inflation Leaves BOE Caught Between Growth and Rising Prices</a> WSJ: Inflation in the U.K. rose at its fastest annual rate in nearly three decades last month, keeping up the pressure on the central bank to raise its benchmark interest rate again. 
  <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081035854/bappi-lahiri-death">Bappi Lahiri, the king of Bollywood disco, dies at 69</a> NPR: Lahiri famously brought a disco vibe to India's biggest film industry. He composed dozens of hits in the 1970s and '80s — which appeared in many top Bollywood movies. 
- <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: The Chinese leader’s unusually direct order suggests Hong Kong officials will have little choice but to adhere strictly to China’s zero-Covid policies. 
- <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/a-reopening-australia-encourages-travelers-to-come-take-a-long-vacation-11645009202">A Reopening Australia Encourages Travelers to Come Take a Long Vacation</a> WSJ: The government’s tourism department aims to draw tourists back in by asking them to think of going on a big vacation, as the country is set to reopen its borders in a few weeks 
- <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
- <p class="updated_time"> 11:45 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/bts-returns-from-break-with-first-south-korean-concerts-since-2019-11645008321">BTS Returns From Break With First South Korean Concerts Since 2019</a> WSJ: The K-pop band’s return to action comes as South Korea faces its largest Covid-19 outbreak of the pandemic, which prompted the State Department to advise Americans not to travel to the country. 
- <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60398296?at_medium=RSS&at_campaign=KARANGA">Ukrainians wary of Russian claims of withdrawal</a> BBC: Kyiv says it wants to see evidence that Russia really is moving troops away from the border. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
@@ -182,14 +170,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
  <p class="updated_time"> 06:25 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
- <p class="updated_time"> 06:17 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-faces-up-to-15-years-in-prison-as-new-trial-opens-11644944365">Russia's Navalny Faces Up to 15 Years in Prison as New Trial Opens</a> WSJ: Jailed Kremlin critic Alexei Navalny went on trial facing embezzlement charges that could see his prison term extended by up to 15 years, in the latest salvo against Russia’s embattled opposition as the threat of a Russian invasion of Ukraine seizes the attention of Western powers. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60387485?at_medium=RSS&at_campaign=KARANGA">Horses flee from flames in Texas grass fire</a> BBC: A local news station estimated the fire spread across 300 acres before it was brought under control. 
- <p class="updated_time"> 02:43 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/decade-high-food-prices-drive-poverty-and-unrest-in-africa-11644932613">Decade-High Food Prices Drive Poverty and Unrest in Africa</a> WSJ: Parts of Africa are contending with a wave of inflation that is, by some measures, even worse than the supply shocks cascading around the rest of the world. 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
  <p class="updated_time"> 12:51 AM CT, Feb. 15 </p> 
@@ -210,7 +194,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:30 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081149585/biden-trump-white-house-visitor-logs">Biden tells the National Archives to turn over Trump White House visitor logs</a> NPR: President Biden has instructed the National Archives to release visitor records in the next 15 days to the House committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 11:16 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Congressional Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
  <p class="updated_time"> 09:35 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
