@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
+ <p class="updated_time"> 07:16 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
+ <p class="updated_time"> 07:00 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 06:58 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
+ <p class="updated_time"> 06:41 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
@@ -27,8 +33,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:28 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack still a possibility - Biden</a> BBC: The US president says invasion is "still very much a possibility" but the human cost would be "immense". 
  <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">Ukraine Live Updates: Biden Warns Invasion Still Possible Despite Russian Pullback Claim</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
- <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080981676/ottawa-police-chief-loses-job-for-not-acting-decisively-enough-against-blockade">Ottawa police chief loses job for not acting decisively enough against blockade</a> NPR: Trucks rolled out of Coutts, Alberta, on Tuesday leaving just one blockade in Manitoba near the border with North Dakota. 
  <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-sanctions-congress-republicans.html">Republicans Propose Sanctions Against Russia Over Ukraine</a> NYT: What began as an effort to present a unified front on Capitol Hill against Russia has faltered amid disagreements between Democrats and Republicans over just how far to go. 
@@ -39,9 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080933008/7-are-dead-and-14-missing-after-a-spanish-fishing-boat-sinks-off-newfoundland">7 are dead and 14 missing after a Spanish fishing boat sinks off Newfoundland</a> NPR: Three crew members including the vessel's captain were rescued. The Canadian air force and coast guard and other Spanish fishing vessels are searching the area. 
  <p class="updated_time"> 04:29 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080648520/a-geeky-quiz-says-what-kind-of-immune-cell-you-are-bonus-see-our-immune-cell-pri">A geeky quiz says what kind of immune cell you are. Bonus: See our immune cell primer</a> NPR: Answer a few questions and find out what kind of immune cell you'd be – and learn more about these amazing cells that fight off infection. 
- <p class="updated_time"> 04:28 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080648520/a-geeky-quiz-says-what-kind-of-immune-cell-you-are-bonus-see-our-immune-cell-pri">A geeky quiz says what kind of immune cell you are. Bonus: See our immune cell primer</a> NPR: Answer a few questions and find out what kind of immune cell you'd be — and learn more about these amazing cells that fight off infection. 
  <p class="updated_time"> 04:09 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-juan-orlando-hernandez-detained.html">Former Honduran President Juan Orlando Hernandez Detained</a> NYT: The request said Juan Orlando Hernández, who left office last month, was wanted in connection to a “violent drug-trafficking conspiracy.” 
  <p class="updated_time"> 04:04 PM CT, Feb. 15 </p> 
@@ -70,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60387156?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernández: Police arrest Honduran ex-leader on drugs charges</a> BBC: Ex-President Juan Orlando Hernández is escorted from his home after the US requested his extradition. 
  <p class="updated_time"> 02:41 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080876311/ukraine-hack-denial-of-service-attack-defense">Ukraine says government websites and banks were hit with denial of service attack</a> NPR: The outage impacted the website of the Ukrainian Defense Ministry and the Armed Services as well as two large Ukrainian banks, Privatbank and Oschadbank. 
- <p class="updated_time"> 02:33 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
  <p class="updated_time"> 02:29 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60312237?at_medium=RSS&at_campaign=KARANGA">Families of Sandy Hook victims settle with Remington</a> BBC: The $73m settlement marks the first time a US gun manufacturer has faced liability for a mass shooting. 
  <p class="updated_time"> 02:21 PM CT, Feb. 15 </p> 
@@ -189,6 +189,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:14 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/business/media/new-york-times.html">Sarah Palin’s Libel Claim Against The Times Is Rejected by a Jury</a> NYT: The verdict came a day after the judge said he planned to dismiss the case, ruling that Ms. Palin’s legal team had failed to prove that the newspaper defamed her. 
+ <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/democrats-inflation-gas-tax-deficit.html">Democrats Weigh Gas Tax Holiday and Deficit Cuts as Inflation Mounts</a> NYT: Democrats are looking to revamp their legislative agenda to focus on relief for rising prices before November’s midterm elections while trying to salvage their social policy bill. 
  <p class="updated_time"> 06:20 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Inquiry Subpoenas 6 Tied to False Pro-Trump Elector Effort</a> NYT: The committee is digging deeper into a plan by former President Donald J. Trump’s allies to reverse his election loss in key states by sending fake slates of electors who would say he won. 
  <p class="updated_time"> 06:05 PM CT, Feb. 15 </p> 
@@ -209,8 +213,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 04:08 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080890000/senate-republicans-nominations-federal-reserve-sarah-bloom-raskin-inflation">Senate Republicans block a key vote on Biden's nominations for the Federal Reserve</a> NPR: Republicans boycotted a meeting of the Senate Banking Committee Tuesday, delaying a vote on five nominees to the Fed's board. The move was aimed at one nominee: Sarah Bloom Raskin. 
- <p class="updated_time"> 03:16 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/business/media/new-york-times.html">Sarah Palin’s Libel Claim Against The Times Is Rejected by a Jury</a> NYT: The verdict came a day after the judge said he planned to dismiss the case, ruling that Ms. Palin’s legal team had failed to prove that the newspaper defamed her. 
  <p class="updated_time"> 03:03 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-ukraine-weapons.html">U.S. Arms Sent to Ukraine Would Blunt but Not Stop a Russian Invasion</a> NYT: The effectiveness of the weapons against the better-equipped Russian Army depends on what Moscow orders its troops to do. 
  <p class="updated_time"> 02:57 PM CT, Feb. 15 </p> 
@@ -273,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">Inside McConnell’s Campaign to Take Back the Senate and Thwart Trump</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
- <p class="updated_time"> 02:13 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/blinken-north-korea-hawaii.html">In Hawaii, Blinken Aims for a United Front With Allies on North Korea</a> NYT: Secretary of State Antony J. Blinken and his counterparts from South Korea and Japan denounced the North’s recent missile tests and called for a resumption of talks. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
  <a href="https://www.nytimes.com/2022/02/13/us/politics/afghan-embassy-diplomats-taliban.html">Afghan Diplomats Seek Permission to Remain in U.S.</a> NYT: American banks have suspended government accounts to prevent the Taliban from gaining access to funds, suspending the salaries of many workers. 
  <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
