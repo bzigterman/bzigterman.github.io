@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:52 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Human cost of Russia attack would be immense - Biden</a> BBC: The US president says an invasion of Ukraine is still possible despite Russian claims of a withdrawal. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 01:11 AM CT, Feb. 16 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 10:54 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
- <p class="updated_time"> 10:44 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Human cost of Russia attack would be immense - Biden</a> BBC: The US president says an invasion of Ukraine is still possible despite Russian claims of a withdrawal. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 10:20 PM CT, Feb. 15 </p> 
