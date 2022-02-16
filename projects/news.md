@@ -8,10 +8,40 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:57 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 08:52 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/south-pole-indian-woman.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
+ <p class="updated_time"> 08:52 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
+ <p class="updated_time"> 08:51 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
+ <p class="updated_time"> 08:50 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html">Shark Kills Swimmer in Rare Death Off Sydney Coast, Officials Say</a> NYT: The fatal shark bite occurred on Wednesday near Little Bay. Mayor Dylan Parker of Randwick City, Australia, said, “To lose someone to a shark attack like this is chilling.” 
+ <p class="updated_time"> 08:48 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/asia/afghanistan-twitter-spaces-taliban.html">Afghans Find Room for Debate on Twitter Spaces</a> NYT: An audio live chat feature on Twitter has become a go-to place for Afghans still recovering from the collapse of the former government and seeking answers on everything from what went wrong to what comes next. 
+ <p class="updated_time"> 08:19 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60400112?at_medium=RSS&at_campaign=KARANGA">Hungary and Poland lose EU funding fight over laws</a> BBC: The two states had challenged an EU rule that allows funds to be conditional on democratic standards. 
+ <p class="updated_time"> 08:18 AM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081076701/in-the-midst-of-scandal-three-russian-figure-skaters-hope-to-elevate-their-sport">In the Midst of Scandal, Three Russian Figure Skaters Hope to Elevate Their Sport</a> NPR: A triple jump used to be the gold standard in figure skating. Now it's the quad. For the first time at an Olympics, a woman - Russian figure skater Kamila Valieva - landed a quad in competition. 
+ <p class="updated_time"> 08:14 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
+ <p class="updated_time"> 08:12 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60400114?at_medium=RSS&at_campaign=KARANGA">BioNTech Covid vaccine plan to ship container labs to Africa</a> BBC: The so-called laboratory in a container is being developed by the firm behind the first MRNA vaccine. 
+ <p class="updated_time"> 08:11 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
+ <p class="updated_time"> 08:07 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
+ <p class="updated_time"> 08:00 AM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081085852/usa-hockey-eliminated-olympics-2022">Team USA men's hockey knocked out of Olympics by Slovakia in penalty shootout</a> NPR: Team USA had been one minute away from advancing to the Olympic semifinals — but Slovakia came back to force overtime in the final minute of regulation. 
+ <p class="updated_time"> 07:48 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html">Museum Security Guard Adds Eyes to Painting’s Faceless Figures</a> NYT: The guard at a museum in Russia has been suspended after he used a pen to draw on “Three Figures,” an avant-garde painting from the 1930s. 
+ <p class="updated_time"> 07:40 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 07:37 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60402700?at_medium=RSS&at_campaign=KARANGA">Kuwait overturns law criminalising 'imitation of opposite sex'</a> BBC: A court declares that a law criminalising "imitation of the opposite sex" is unconstitutional. 
- <p class="updated_time"> 07:37 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Live Updates: Ukraine Promotes Unity as U.S. and Russia Tangle Over Its Fate</a> NYT: President Biden and President Vladimir V. Putin of Russia both said that they would seek a diplomatic path to avert an invasion of Ukraine. Russia said it was continuing to pull troops back from near Ukraine, but a senior Pentagon official said the U.S. had seen no indication of a withdrawal or redeployment. 
+ <p class="updated_time"> 07:33 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60339746?at_medium=RSS&at_campaign=KARANGA">Covid: Hong Kong's hospitals overwhelmed amid spike in cases</a> BBC: Infected patients are treated outside crowded facilities as daily cases reach a new record. 
  <p class="updated_time"> 07:30 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 07:14 AM CT, Feb. 16 </p> 
@@ -20,14 +50,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60403027?at_medium=RSS&at_campaign=KARANGA">Swimmer dies in first fatal shark attack in Sydney since 1963</a> BBC: A swimmer sustained "catastrophic injuries" in Wednesday's attack, Australian officials say. 
  <p class="updated_time"> 06:56 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
- <p class="updated_time"> 05:53 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60400099?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a sloth was saved from electrical wires</a> BBC: A sloth in Colombia found itself in an unusual and dangerous place, prompting a rescue mission. 
  <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
- <p class="updated_time"> 05:04 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60400112?at_medium=RSS&at_campaign=KARANGA">Hungary and Poland lose EU funding fight over laws</a> BBC: The two states had challenged an EU rule that allows funds to be conditional on democratic standards. 
  <p class="updated_time"> 04:56 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How prepared is Russia for attack?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:41 AM CT, Feb. 16 </p> 
@@ -42,6 +68,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">At Olympics, Nathan Chen and Other American Chinese Asked to Pick a Side</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
  <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
+ <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
  <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 02:10 AM CT, Feb. 16 </p> 
@@ -55,29 +83,21 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:47 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398029?at_medium=RSS&at_campaign=KARANGA">Djokovic saga highlights Australia asylum seekers held for record 689 days</a> BBC: Human Rights Watch highlighted the record figure following Novak Djokovic's detention last month. 
  <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: The Chinese leader told Hong Kong’s government to control a spiraling Covid-19 outbreak that has overwhelmed the city’s healthcare system. 
- <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
+ <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: The Chinese leader’s unusually direct order suggests Hong Kong officials will have little choice but to adhere strictly to China’s zero-Covid policies. 
  <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:45 PM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/bts-returns-from-break-with-first-south-korean-concerts-since-2019-11645008321">BTS Returns From Break With First South Korean Concerts Since 2019</a> WSJ: The K-pop band’s return to action comes as South Korea faces its largest Covid-19 outbreak of the pandemic, which prompted the State Department to advise Americans not to travel to the country. 
- <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60398296?at_medium=RSS&at_campaign=KARANGA">Ukrainians wary of Russian claims of withdrawal</a> BBC: Kyiv says it wants to see evidence that Russia really is moving troops away from the border. 
- <p class="updated_time"> 08:28 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 07:46 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-juan-orlando-hernandez-detained.html">Former Honduran President Juan Orlando Hernandez Detained</a> NYT: The request said Juan Orlando Hernández, who left office last month, was wanted in connection to a “violent drug-trafficking conspiracy.” 
  <p class="updated_time"> 07:45 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60099934?at_medium=RSS&at_campaign=KARANGA">Andrew Brettler: Who is Prince Andrew's Hollywood lawyer?</a> BBC: A highly sought-after entertainment lawyer, Andrew Brettler has defended many men accused of sexual abuse. 
- <p class="updated_time"> 07:42 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
  <p class="updated_time"> 07:35 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297302?at_medium=RSS&at_campaign=KARANGA">US Kremlin backers seek to undermine President Biden</a> BBC: Americans who reject the US president's stance on Ukraine are reshaping the Republican party. 
  <p class="updated_time"> 07:31 PM CT, Feb. 15 </p> 
@@ -94,10 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60384681?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab controversy is polarising its classrooms</a> BBC: Young students on both sides of the hijab row say they are struggling to understand their classmates. 
  <p class="updated_time"> 06:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60303769?at_medium=RSS&at_campaign=KARANGA">Telegram: Where women's nudes are shared without consent</a> BBC: A BBC investigation has found that women’s intimate photos are being shared in large groups on Telegram. 
- <p class="updated_time"> 05:38 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60392198?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Lawsuit alleges Baldwin 'recklessly shot' Hutchins</a> BBC: Halyna Hutchins died on the set of Rust after a gun actor Alec Baldwin was holding discharged. 
- <p class="updated_time"> 05:33 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
  <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080981676/ottawa-police-chief-loses-job-for-not-acting-decisively-enough-against-blockade">Ottawa police chief loses job for not acting decisively enough against blockade</a> NPR: Trucks rolled out of Coutts, Alberta, on Tuesday leaving just one blockade in Manitoba near the border with North Dakota. 
  <p class="updated_time"> 05:11 PM CT, Feb. 15 </p> 
@@ -122,10 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080884959/biden-speaks-about-russia-ukraine-tensions">Biden speaks about Russia-Ukraine tensions</a> NPR: After warning Americans to get out of Ukraine, President Biden gives his latest remarks about whether Russia plans to invade. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080884945/prince-andrew-settles-with-virginia-giuffre-in-sexual-abuse-lawsuit">Prince Andrew settles with Virginia Giuffre in sexual abuse lawsuit</a> NPR: The U.K.'s Prince Andrew reached a settlement agreement with Virginia Giuffre, who said he sexually abused her when she was a minor. The agreement includes a donation to her abuse victims charity. 
- <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080884938/an-economist-on-what-should-happen-to-the-7-billion-of-afghanistans-assets">An economist on what should happen to the $7 billion of Afghanistan's assets</a> NPR: NPR's Mary Louise Kelly speaks with economist Abid Amiri about President Biden's plan to release $7 billion in frozen Afghan assets. 
- <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080884892/the-mood-in-russia-over-ukraine-tensions">The mood in Russia over Ukraine tensions</a> NPR: NPR's Mary Louise Kelly speaks with Russian journalist Vladimir Pozner about the feeling in his country over the Russia-Ukraine tensions. 
  <p class="updated_time"> 02:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
@@ -168,24 +180,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
- <p class="updated_time"> 03:44 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/travel/kharnak-nomads-ladakh-india.html">Glimpses of Northern India’s Vanishing Nomads</a> NYT: For centuries, Kharnak nomads have raised livestock in one of the most hauntingly beautiful — and inhospitable — places on earth. Can their traditions outlast a generational exodus? 
  <p class="updated_time"> 02:42 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
- <p class="updated_time"> 02:33 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/business/china-friends-censored.html">China's Censors Have a New Target: 'Friends'</a> NYT: The popular sitcom has become the latest target of China’s censorship campaign. The awkward cuts have not been missed by fans of the show in the country. 
- <p class="updated_time"> 01:50 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/middleeast/israel-bahrain-bennett-meeting.html">Israel's Prime Minister, Naftali Bennett, to Make Historic Visit to Bahrain</a> NYT: Prime Minister Naftali Bennett landed in Bahrain on Monday in the first visit by an Israeli premier to the gulf state, which is seen as a proxy for Saudi Arabia. 
  <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/olaf-scholz-germany-ukraine.html">German Leader Vows Support for Ukraine, on Eve of Putin Meeting</a> NYT: The German leader said he would encourage business to invest in Ukraine, but ruled out sending weaponry. 
  <p class="updated_time"> 12:24 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
- <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
 
 
 </details>
@@ -193,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:56 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/biden-investigators-trump-jan-6-white-house-visitor-logs-00009351">Biden clears way for investigators to obtain Trump’s Jan. 6 White House visitor logs</a> Politico: It’s unclear if Trump will launch another court action to prevent the newly identified records from reaching lawmakers. 
  <p class="updated_time"> 07:34 AM CT, Feb. 16 </p> 
@@ -206,11 +212,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
- <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">For Beto O’Rourke, 2020 Still Haunts 2022</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/books/book-bans-markus-dohle-donation-pen-america.html">Publishing C.E.O. Donates $500,000 to Fight Book Bans</a> NYT: Markus Dohle, the chief executive of Penguin Random House, said the effort “ties into the future of our democracy.” 
+ <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1080863822/the-u-s-is-limiting-compassionate-release-in-plea-deals-many-say-thats-cruel">The U.S. is limiting compassionate release in plea deals. Many say that's cruel</a> NPR: The Justice Department has been limiting the ability of people in prison to apply for compassionate release. Advocates say that flouts Congress and is cruel. 
  <p class="updated_time"> 03:44 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081035770/san-francisco-voters-recall-three-school-board-members">San Francisco voters recall three school board members</a> NPR: Voters in famously liberal San Francisco ousted three members of the board who, critics argued, focused more on renaming schools than getting schools back into classrooms. 
  <p class="updated_time"> 11:41 PM CT, Feb. 15 </p> 
@@ -267,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
- <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080773460/trump-accountant-says-a-decade-of-financial-statements-are-unreliable">Trump accountant says a decade of financial statements are unreliable</a> NPR: Donald Trump's longtime accounting firm cut off its relationship with him, saying it could no longer stand behind the annual financial documents it had prepared for him. 
  <p class="updated_time"> 12:04 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/cindy-axne-iowa-democrat.html">How Cindy Axne, One of the Most At-Risk Democrats in Congress, Hangs On</a> NYT: Meet Representative Cindy Axne of Iowa, who has some advice for the White House about how to talk to voters. 
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
