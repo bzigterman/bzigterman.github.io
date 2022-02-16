@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">Queen’s Jubilee Year Just Started, but Bad News Hasn’t Stopped for Royals</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
+ <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
  <p class="updated_time"> 04:12 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
- <p class="updated_time"> 03:55 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">Queen’s Jubilee Year Just Started, but Bad News Hasn’t Stopped for Royals</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 03:55 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60407938?at_medium=RSS&at_campaign=KARANGA">Canada protests: Ottawa stand-off continues as blockades cleared</a> BBC: Ottawa police have issued leaflets to remaining protesters telling them to leave the area. 
  <p class="updated_time"> 03:51 PM CT, Feb. 16 </p> 
@@ -64,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
  <p class="updated_time"> 11:31 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081141189/china-coal-olympics-environment">China puts coal plants at full capacity, even as it touts hosting a 'green' Olympics</a> NPR: "Coal supply will be increased and coal-fired power plants" will run at full capacity, the central government said this week. 
+ <p class="updated_time"> 11:26 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russian-aircraft-flew-perilously-close-to-each-other-amid-ukraine-tensions-11645032529">U.S., Russian Aircraft Flew Perilously Close to Each Other Amid Ukraine Tensions</a> WSJ: The Pentagon says it expressed concern to Russian officials through diplomatic channels and that such miscalculations could potentially lead to more dangerous outcomes. 
  <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081139566/new-zealand-ban-conversion-therapy">New Zealand just became the latest country to outlaw conversion therapy</a> NPR: The new law calls for prison time for anyone who performs conversion therapy on children under 18 or who performs a practice that "causes serious harm to the individual" — regardless of their age. 
  <p class="updated_time"> 11:16 AM CT, Feb. 16 </p> 
@@ -80,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60407746?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'We do not see any signs of de-escalation on the ground' - Nato</a> BBC: Nato chief speaks at conference saying the situation in Ukraine could become "the new normal in Europe". 
  <p class="updated_time"> 10:34 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60339746?at_medium=RSS&at_campaign=KARANGA">Covid: Hong Kong's hospitals overwhelmed amid spike in cases</a> BBC: Infected patients are treated outside crowded facilities as daily cases reach a new record. 
- <p class="updated_time"> 08:52 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
  <p class="updated_time"> 08:51 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 08:48 AM CT, Feb. 16 </p> 
@@ -96,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
  <p class="updated_time"> 08:07 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
- <p class="updated_time"> 08:03 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-russian-aircraft-flew-perilously-close-to-each-other-amid-ukraine-tensions-11645032529">U.S., Russian Aircraft Flew Perilously Close to Each Other Amid Ukraine Tensions</a> WSJ: The Pentagon says it expressed concern to Russian officials through diplomatic channels and that such miscalculations could potentially lead to more dangerous outcomes. 
  <p class="updated_time"> 08:00 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081085852/usa-hockey-eliminated-olympics-2022">Team USA men's hockey is knocked out of Olympics by Slovakia in a penalty shootout</a> NPR: Team USA had been one minute away from advancing to the Olympic semifinals — but Slovakia came back to force overtime in the final minute of regulation. 
  <p class="updated_time"> 07:48 AM CT, Feb. 16 </p> 
@@ -195,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:26 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
@@ -215,8 +217,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081247527/vp-harris-heads-to-munich-national-security-meeting-at-a-critical-time">VP Harris heads to Munich national security meeting at a critical time</a> NPR: Vice President Kamala Harris is traveling to an annual gathering of the world's top national security officials in Munich, Germany, as leaders work to avert a Russian invasion of Ukraine. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1080978624/us-citizenship-syria-refugee-uscic">Seven years after meeting Moh, I waited to hear: Was he now an American citizen?</a> NPR: I knew that Monday, February 14 would be a landmark day for Mohammed al Refai. It would also be a major turning point in a story that I had started following more than six years ago. 
- <p class="updated_time"> 02:55 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
  <p class="updated_time"> 01:25 PM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:59 PM CT, Feb. 16 </p> 
