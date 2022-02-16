@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 04:30 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">Queen’s Jubilee Year Just Started, but Bad News Hasn’t Stopped for Royals</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
@@ -20,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
  <p class="updated_time"> 03:41 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Ottawa Protesters Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
- <p class="updated_time"> 03:37 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 03:26 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
  <p class="updated_time"> 03:23 PM CT, Feb. 16 </p> 
@@ -76,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60403848?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky: We don't see any Russian troop withdrawal</a> BBC: Volodymyr Zelensky gave his first reaction to reports from Russia that it is pulling back some troops from the Ukraine border area. 
  <p class="updated_time"> 10:47 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html">Shark Kills Swimmer in Rare Death Off Sydney Coast</a> NYT: The fatal shark bite occurred on Wednesday near Little Bay. Mayor Dylan Parker of Randwick City, Australia, said, “To lose someone to a shark attack like this is chilling.” 
- <p class="updated_time"> 10:46 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
  <p class="updated_time"> 10:45 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html">Ukraine Says Cyberattack Was Largest in Its History</a> NYT: Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.” 
  <p class="updated_time"> 10:39 AM CT, Feb. 16 </p> 
@@ -116,6 +114,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60400099?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a sloth was saved from electrical wires</a> BBC: A sloth in Colombia found itself in an unusual and dangerous place, prompting a rescue mission. 
  <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
+ <p class="updated_time"> 04:59 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/bitcoin-national-currency-el-salvador-11645026831">Can Bitcoin Be a National Currency? El Salvador Is Trying to Find Out.</a> WSJ: The country made bitcoin legal tender last September and now is aiming to raise $1 billion to fund expansive economic policies by cashing in on the crypto craze. But the IMF warns bitcoin is too risky, and Salvadorans are mostly sticking to dollars. 
  <p class="updated_time"> 04:56 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How prepared is Russia for attack?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:41 AM CT, Feb. 16 </p> 
