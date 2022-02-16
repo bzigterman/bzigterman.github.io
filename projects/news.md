@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
+ <p class="updated_time"> 01:11 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
+ <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081035854/popular-bollywood-musical-artist-bappi-lahiri-dies-at-age-69">Popular Bollywood musical artist Bappi Lahiri dies at age 69</a> NPR: Observers say singer and composer Lahiri introduced a more contemporary style to Hindi film music. 
  <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
- <p class="updated_time"> 11:28 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 11:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
  <p class="updated_time"> 11:01 PM CT, Feb. 15 </p> 
@@ -78,12 +82,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080648520/a-geeky-quiz-says-what-kind-of-immune-cell-you-are-bonus-see-our-immune-cell-pri">A geeky quiz says what kind of immune cell you are. Bonus: See our immune cell primer</a> NPR: Answer a few questions and find out what kind of immune cell you'd be — and learn more about these amazing cells that fight off infection. 
  <p class="updated_time"> 04:04 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60396180?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernandez: Former president of Honduras led away in handcuffs</a> BBC: The United States is seeking to extradite Juan Orlando Hernandez for alleged ties to drug traffickers. 
- <p class="updated_time"> 03:44 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 03:29 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
  <p class="updated_time"> 03:26 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/freedom-convoy-protesters-in-canadas-capital-city-dig-in-after-tougher-measures-11644947631">'Freedom Convoy' Protesters in Canada's Capital City Dig In After Tougher Measures</a> WSJ: Trucks and other vehicles clogged the streets of Ottawa a day after the government invoked extraordinary emergency powers aimed at forcing protesters to leave. 
+ <a href="https://www.wsj.com/articles/freedom-convoy-protesters-in-canadas-capital-city-dig-in-after-tougher-measures-11644947631">'Freedom Convoy' Protesters in Canada's Capital City Dig In</a> WSJ: Trucks and other vehicles clogged the streets of Ottawa a day after the government invoked extraordinary emergency powers aimed at forcing protesters to leave. 
  <p class="updated_time"> 03:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html">In Italy, a Call for a National Investigation Into Clerical Sexual Abuse</a> NYT: Italy has so far resisted calls for an independent investigation into how the Roman Catholic church has handled these cases. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
  <p class="updated_time"> 01:47 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080707913/why-this-usaid-official-is-optimistic-the-u-s-can-get-the-world-vaccinated">Why this USAID official is optimistic the U.S. can get the world vaccinated</a> NPR: Jeremy Konyndyk, executive director of USAID's COVID task force, shares his perspective on the U.S.' efforts to donate and distribute vaccines to low-income nations. 
- <p class="updated_time"> 01:34 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080850659/president-biden-russia-ukraine-tension-diplomacy">Biden says diplomacy continues but a Russian invasion of Ukraine is still possible</a> NPR: In a brief address, President Biden said reports of Russian troops moving from Ukraine's border would be good news, but the U.S. had not verified it. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html">On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</a> NYT: Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation. 
  <p class="updated_time"> 12:22 PM CT, Feb. 15 </p> 
