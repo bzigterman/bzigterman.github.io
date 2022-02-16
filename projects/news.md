@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:29 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 05:19 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60408667?at_medium=RSS&at_campaign=KARANGA">US accuses China of 'serious harm' to workers through trade</a> BBC: The US Trade Representative has accused Beijing of repeatedly failing to live up to commitments on trade. 
  <p class="updated_time"> 05:08 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
- <p class="updated_time"> 05:07 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
  <p class="updated_time"> 05:01 PM CT, Feb. 16 </p> 
@@ -60,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
- <p class="updated_time"> 12:39 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-60408667?at_medium=RSS&at_campaign=KARANGA">US accuses China of 'serious harm' to workers through trade</a> BBC: The US Trade Representative has accused Beijing of repeatedly failing to live up to commitments on trade. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
  <p class="updated_time"> 12:17 PM CT, Feb. 16 </p> 
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html">The Education Department will wipe out loans for students defrauded by DeVry University.</a> NYT: It’s the first such move involving a for-profit chain that’s still in business. 
  <p class="updated_time"> 05:14 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/ryan-zinke-ethics.html">Ryan Zinke Broke Ethics Rules as Interior Secretary, Inquiry Finds</a> NYT: Mr. Zinke, who left the department in 2019 amid multiple inquiries, misused his office and lied to investigators about his involvement in a Montana land deal, a government watchdog found. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
@@ -287,8 +289,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
  <p class="updated_time"> 02:45 AM CT, Feb. 15 </p> 
  <a href="https://www.cnn.com/2022/02/14/politics/trump-mazars/index.html">Trump Organization's accounting firm says 10 years of financial statements are unreliable</a> CNN: Former President Donald Trump's long-time accounting firm informed the Trump Organization last week that it should no longer rely on nearly 10 years' worth of financial statements and that they would no longer be their accountants, citing a conflict of interest. 
- <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/durham-sussmann-trump-russia.html">Court Filing Started a Furor in Right-Wing Outlets, but Their Narrative Is Off Track</a> NYT: The latest alarmist claims about spying on Trump appeared to be flawed, but the explanation is byzantine — underlining the challenge for journalists in deciding what merits coverage. 
  <p class="updated_time"> 09:06 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Ilya Lichtenstein Held in Bitcoin Case While Heather Morgan Is Given Bail</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
