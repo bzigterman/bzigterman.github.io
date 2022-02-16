@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:28 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions remain after settlement with Virginia Giuffre</a> BBC: Questions remain about the duke's future role in public life after the settlement with Virginia Giuffre. 
+ <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 11:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
- <p class="updated_time"> 11:03 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 10:54 PM CT, Feb. 15 </p> 
@@ -59,7 +59,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:27 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60385700?at_medium=RSS&at_campaign=KARANGA">Hungarian election: Orban faces toughest race so far</a> BBC: An independent conservative will try to topple the right-wing Fidesz government in polls on 3 April. 
  <p class="updated_time"> 06:22 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60384651?at_medium=RSS&at_campaign=KARANGA">Single's Inferno: Why 'fake' rich girl Song Ji-a enraged South Korea</a> BBC: Song Ji-a shot to fame in reality show Single's Inferno, but then had a spectacular fall from grace. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60384651?at_medium=RSS&at_campaign=KARANGA">Single's Inferno: Why 'fake' rich girl Song Ji-a enraged South Korea</a> BBC: Song Ji-a shot to fame on Netflix show Single's Inferno, but then had a spectacular fall from grace. 
  <p class="updated_time"> 06:17 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60384681?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab controversy is polarising its classrooms</a> BBC: Young students on both sides of the hijab row say they are struggling to understand their classmates. 
  <p class="updated_time"> 06:09 PM CT, Feb. 15 </p> 
@@ -189,12 +189,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:41 PM CT, Feb. 15 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:14 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Migrants Left in Limbo After Policy Change to Help Busy Border Officials</a> NYT: Republicans say the new policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
  <p class="updated_time"> 11:02 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Inquiry Subpoenas 6 Tied to False Pro-Trump Elector Effort</a> NYT: The committee is digging deeper into a plan by former President Donald J. Trump’s allies to reverse his election loss in key states by sending fake slates of electors who would say he won. 
  <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Rice Announces Retirement, the 30th House Democrat to Plan an Exit</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">U.S. Intelligence Agencies Face Crucial Test in Deciphering Putin’s Motives</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 07:14 PM CT, Feb. 15 </p> 
@@ -247,8 +249,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080773432/morning-news-brief">News brief: Scholz-Putin talks, Trump accountant quits, hate crimes trial</a> NPR: Germany's chancellor will meet with Russia's president about Ukraine. Trump's accountant says a decade of financial statements are unreliable. The federal trial of Ahmaud Arbery's killers has started. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080739353/high-numbers-of-mail-ballots-are-being-rejected-in-texas-after-a-new-state-law">High numbers of mail ballots are being rejected in Texas under a new state law</a> NPR: In Harris County — home to Houston — election officials so far have sent back to voters nearly 38% of mail-in ballots, citing issues with new state ID requirements. 
- <p class="updated_time"> 01:47 AM CT, Feb. 15 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:04 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/cindy-axne-iowa-democrat.html">How Cindy Axne, One of the Most At-Risk Democrats in Congress, Hangs On</a> NYT: Meet Representative Cindy Axne of Iowa, who has some advice for the White House about how to talk to voters. 
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
