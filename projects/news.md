@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
+ <p class="updated_time"> 04:32 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 04:16 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081033118/2022-beijing-olympics-bubble-great-wall-china">Stepping outside of the 2022 Beijing Olympics bubble to see a part of 'real China'</a> NPR: NPR's Jaclyn Diaz got the rare chance to step outside the COVID quarantine bubble of the 2022 Beijing Winter Games. She and a few others got to visit the famed Great Wall. 
  <p class="updated_time"> 04:13 AM CT, Feb. 16 </p> 
@@ -18,16 +22,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Human cost of Russia attack would be immense - Biden</a> BBC: The US president says an invasion of Ukraine is still possible despite Russian claims of a withdrawal. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">At Olympics, Nathan Chen and Other American Chinese Asked to Pick a Side</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
- <p class="updated_time"> 03:55 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
  <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
  <p class="updated_time"> 02:23 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
- <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
@@ -124,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60396179?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Reaction from my colleagues 'hurt me a lot'</a> BBC: Novak Djokovic speaks exclusively to the BBC about his time in detention in Australia last month. 
  <p class="updated_time"> 12:03 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
- <p class="updated_time"> 11:27 AM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-says-some-troops-pulling-back-from-ukraine-border-but-exercises-continue-11644920006">Russia Says Some Troops Pulling Back From Ukraine Border, as Diplomatic Solution Sought</a> WSJ: U.S. and European officials say they see no evidence of a significant drawdown of forces. 
  <p class="updated_time"> 10:50 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
@@ -361,10 +359,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/09/read-the-houses-union-rights-resolution-00007148">Read the House's union rights resolution</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/09/biden-lags-behind-dem-govs-on-easing-mask-mandates-00007120"> Biden lags behind Dem govs on easing mask mandates</a> Politico Playbook: And a new poll shows strong support for increasing police funding. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/lander-vaccine-stock-ethics-00007100">Lander held on to vaccine maker stock months into tenure</a> Politico: He ultimately sold the holdings within the allotted 90-day window. But ethics officials say it raises questions about his advocacy. 
- <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
- <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
 
 
 </details>
