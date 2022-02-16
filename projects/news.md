@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:16 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 10:02 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: The first changes could go into effect as soon as Germany’s states pass the rules. 
  <p class="updated_time"> 09:52 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-protest-organizer.html">Public Face of Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
- <p class="updated_time"> 09:38 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 09:25 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html">Ukraine Says Cyberattack Was Largest in Its History</a> NYT: Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.” 
  <p class="updated_time"> 09:23 AM CT, Feb. 16 </p> 
@@ -29,7 +31,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:19 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60400112?at_medium=RSS&at_campaign=KARANGA">Hungary and Poland lose EU funding fight over laws</a> BBC: The two states had challenged an EU rule that allows funds to be conditional on democratic standards. 
  <p class="updated_time"> 08:18 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081076701/in-the-midst-of-scandal-three-russian-figure-skaters-hope-to-elevate-their-sport">In the Midst of Scandal, Three Russian Figure Skaters Hope to Elevate Their Sport</a> NPR: A triple jump used to be the gold standard in figure skating. Now it's the quad. For the first time at an Olympics, a woman - Russian figure skater Kamila Valieva - landed a quad in competition. 
+ <a href="https://www.npr.org/2022/02/16/1081076701/in-the-midst-of-scandal-three-russian-figure-skaters-hope-to-elevate-their-sport">In the midst of scandal, 3 Russian figure skaters hope to elevate their sport</a> NPR: A triple jump used to be the gold standard in figure skating. Now it's the quad. For the first time at an Olympics, a woman — Russian figure skater Kamila Valieva — landed a quad in competition. 
  <p class="updated_time"> 08:14 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
  <p class="updated_time"> 08:12 AM CT, Feb. 16 </p> 
@@ -60,12 +62,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60400099?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a sloth was saved from electrical wires</a> BBC: A sloth in Colombia found itself in an unusual and dangerous place, prompting a rescue mission. 
  <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
+ <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 04:56 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How prepared is Russia for attack?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:41 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081065907/xi-urges-hong-kong-to-control-surging-covid-19-cases">Xi urges Hong Kong to control surging COVID-19 cases</a> NPR: The directive from China's president comes as Hong Kong faces the worst outbreak yet of the pandemic, with daily cases surpassing 2,000. 
- <p class="updated_time"> 04:40 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: The first changes could go into effect as soon as Germany’s states pass the rules. 
  <p class="updated_time"> 04:16 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081033118/2022-beijing-olympics-bubble-great-wall-china">Stepping outside of the 2022 Beijing Olympics bubble to see a part of 'real China'</a> NPR: NPR's Jaclyn Diaz got the rare chance to step outside the COVID quarantine bubble of the 2022 Beijing Winter Games. She and a few others got to visit the famed Great Wall. 
  <p class="updated_time"> 04:11 AM CT, Feb. 16 </p> 
@@ -80,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/taiwan-says-chinese-mystery-plane-might-have-been-testing-its-defenses-11645019176">Taiwan Says Chinese Mystery Plane Might Have Been Testing Its Defenses</a> WSJ: Military officials confirm that a Chinese turboprop Harbin Y-12 utility plane flew near Dongyin, a tiny patch of land that sits more than 100 miles north of Taiwan’s main island and just 30 miles from mainland China. 
  <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
- <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 02:10 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/china-inflation-eases-as-economy-could-use-a-boost-11644993402">China Inflation Eases as Economy Could Use a Boost</a> WSJ: Inflationary pressure continued to ease in January, offering room for Beijing to stimulate growth while more major economies are looking to tighten policy to curb rising prices. 
  <p class="updated_time"> 01:32 AM CT, Feb. 16 </p> 
@@ -194,6 +194,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
  <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
+ <p class="updated_time"> 01:39 PM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/world/europe/olaf-scholz-germany-ukraine.html">German Leader Vows Support for Ukraine, on Eve of Putin Meeting</a> NYT: The German leader said he would encourage business to invest in Ukraine, but ruled out sending weaponry. 
 
 
 </details>
