@@ -2,10 +2,29 @@ library(tidyverse)
 library(owmr)
 library(lubridate)
 library(scales)
-library(emojifont)
+library(httr)
 library(cowplot)
 
+# set up api
+Sys.getenv("OWM_API_KEY")
 owmr_settings(Sys.getenv("OWM_API_KEY"))
+
+champaign_lat <-  40.116
+champaign_lon <- -88.243
+
+# current and forecast
+url <- "https://api.openweathermap.org/data/2.5/onecall"
+#?lat={lat}&lon={lon}&exclude={part}&appid={API key}"
+
+champaign_weather_response <- GET(url,
+                                  query = list(lat = champaign_lat,
+                                               lon = champaign_lon,
+                                               appid = Sys.getenv("OWM_API_KEY")))
+cu_weather <- content(champaign_weather_response)
+
+# historical
+url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
+#?lat={lat}&lon={lon}&dt={time}&appid={API key}"
 
 # get data ----
 champaign_forecast <- get_forecast(city = 4887158, units = "imperial")
@@ -123,131 +142,6 @@ ggsave("plots/champaign_weather.png", bg = "white",
 
 ggsave("plots/champaign_weather_mobile.png", bg = "white",
        width = 3, height = 8, dpi = 320)
-
-
-# plot data ----
-temp <- ggplot(champaign_forecast_tidy,
-               aes(x = central_time,
-                   y = temp,
-                   label = weather_unicode,
-                   color = temp_class)) +
-  geom_line(color = "grey93") +
-  #geom_point(size = .5) +
-  geom_text(color = "black",
-            family = "EmojiOne",
-            nudge_y = .25,
-            size = 5) + 
-  geom_text(aes(label = round(temp)),
-            color = "black",
-            nudge_y = 1.6) +
-  scale_color_manual(values = c("magenta","purple","darkblue","blue",
-                                "turquoise","green","yellow","gold",
-                                "orange","orangered","red","darkred"),
-                     limits = c("Below 0","0–10","10–20","20–32",
-                                "32–40","40–50","50–60","60–70",
-                                "70–80","80–90","90–100","100+")) +
-  scale_x_datetime(date_labels = "%a") +
-  scale_y_continuous(position = "right",
-                     labels = label_number(suffix = "°")) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL) +
-  theme(
-    legend.title = element_blank(),
-    panel.grid.major.x = element_line(colour = "grey93"),
-    plot.title = element_text(hjust = 1),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    #axis.text = element_blank(),
-    legend.position = "none",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in")
-  )
-temp
-
-precip <- ggplot(champaign_forecast_tidy,
-                 aes(x = central_time,
-                     y = pop)) +
-  geom_col(fill = "lightblue") +
-  scale_x_datetime(date_labels = "%a") +
-  scale_y_continuous(labels = label_percent(),
-                     position = "right",
-                     limits = c(0,1)) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL,
-       caption = "Source: OpenWeather") +
-  theme(
-    legend.title = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey97"),
-    plot.title = element_text(hjust = 1),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    axis.text.x = element_blank(),
-    legend.position = "bottom",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in"),
-    plot.caption = element_text(colour = "grey40")
-  )
-precip
-
-weather <- plot_grid(temp, precip,
-          align = "v",
-          ncol = 1,
-          rel_heights = c(6,2))
-
-#ggsave("plots/champaign_weather.png", plot = weather,
- #      width = 8, height = 8*(628/1200), dpi = 320)
-
-
-temp_mobile <- ggplot(champaign_forecast_tidy,
-                      aes(x = central_time,
-                          y = temp,
-                          label = half_day_icon,
-                          color = temp_class),) +
-  geom_line(color = "grey93") +
-  #geom_point(size = .5) +
-  geom_text(color = "black",
-            family = "EmojiOne",
-            nudge_y = .25,
-            size = 5) + 
-  geom_text(aes(label = round(half_day_temp)),
-            color = "black",
-            nudge_y = 1.6) +
-  scale_color_manual(values = c("magenta","purple","darkblue","blue",
-                                "turquoise","green","yellow","gold",
-                                "orange","orangered","red","darkred"),
-                     limits = c("Below 0","0–10","10–20","20–32",
-                                "32–40","40–50","50–60","60–70",
-                                "70–80","80–90","90–100","100+")) +
-  scale_x_datetime(date_labels = "%a") +
-  scale_y_continuous(position = "right",
-                     labels = label_number(suffix = "°")) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL) +
-  theme(
-    legend.title = element_blank(),
-    panel.grid.major.x = element_line(colour = "grey93"),
-    plot.title = element_text(hjust = 1),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    #axis.text.x = element_text(hjust = -.6),
-    legend.position = "none",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in")
-  )
-temp_mobile
-
-
-weather_mobile <- plot_grid(temp_mobile, precip,
-                     align = "v",
-                     ncol = 1,
-                     rel_heights = c(6,2))
-
-#ggsave("plots/champaign_weather_mobile.png", plot = weather_mobile,
- #      width = 3, height = 8*(628/1200), dpi = 320)
-
 
 # web text ----
 severe_weather_outlook_url <- 
