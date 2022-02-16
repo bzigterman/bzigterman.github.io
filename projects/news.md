@@ -8,12 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain will extend Covid vaccine eligibility to all children 5 to 11.</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
+ <p class="updated_time"> 12:15 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
+ <p class="updated_time"> 12:07 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
+ <p class="updated_time"> 12:00 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident is the city's first fatal shark attack since 1963, when an Australian actress died after being bitten in the leg.  Beaches are closed while lifeguards patrol for further shark sightings. 
+ <p class="updated_time"> 11:59 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 11:57 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
+ <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
  <p class="updated_time"> 11:31 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081141189/china-coal-olympics-environment">China puts coal plants at full capacity, even as it touts hosting a 'green' Olympics</a> NPR: "Coal supply will be increased and coal-fired power plants" will run at full capacity, the central government said this week. 
  <p class="updated_time"> 11:24 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
- <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Survivors from Spanish trawler that sunk off Canada unlikely, rescuers say</a> BBC: The vessel sunk off Canada on Monday, but rescuers say there is little hope of finding survivors. 
  <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081139566/new-zealand-ban-conversion-therapy">New Zealand just became the latest country to outlaw conversion therapy</a> NPR: The new law calls for prison time for anyone who performs conversion therapy on children under 18 or who performs a practice that "causes serious harm to the individual" — regardless of their age. 
  <p class="updated_time"> 11:12 AM CT, Feb. 16 </p> 
@@ -56,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081085852/usa-hockey-eliminated-olympics-2022">Team USA men's hockey is knocked out of Olympics by Slovakia in a penalty shootout</a> NPR: Team USA had been one minute away from advancing to the Olympic semifinals — but Slovakia came back to force overtime in the final minute of regulation. 
  <p class="updated_time"> 07:48 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html">Museum Security Guard Adds Eyes to Painting’s Faceless Figures</a> NYT: The guard at a museum in Russia has been suspended after he used a pen to draw on “Three Figures,” an avant-garde painting from the 1930s. 
- <p class="updated_time"> 07:40 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 07:37 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60402700?at_medium=RSS&at_campaign=KARANGA">Kuwait overturns law criminalising 'imitation of opposite sex'</a> BBC: A court declares that a law criminalising "imitation of the opposite sex" is unconstitutional. 
  <p class="updated_time"> 07:30 AM CT, Feb. 16 </p> 
@@ -93,7 +103,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
  <p class="updated_time"> 02:46 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/taiwan-says-chinese-mystery-plane-might-have-been-testing-its-defenses-11645019176">Taiwan Says Chinese Mystery Plane Might Have Been Testing Its Defenses</a> WSJ: Military officials confirm that a Chinese turboprop Harbin Y-12 utility plane flew near Dongyin, a tiny patch of land that sits more than 100 miles north of Taiwan’s main island and just 30 miles from mainland China. 
+ <a href="https://www.wsj.com/articles/taiwan-says-chinese-mystery-plane-might-have-been-testing-its-defenses-11645019176">Taiwan Says Chinese Mystery Plane Might Have Been Testing Defenses</a> WSJ: Military officials confirm that a Chinese turboprop Harbin Y-12 utility plane flew near Dongyin, a tiny patch of land that sits more than 100 miles north of Taiwan’s main island and just 30 miles from mainland China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/china-inflation-eases-as-economy-could-use-a-boost-11644993402">China Inflation Eases as Economy Could Use a Boost</a> WSJ: Inflationary pressure continued to ease in January, offering room for Beijing to stimulate growth while more major economies are looking to tighten policy to curb rising prices. 
  <p class="updated_time"> 01:32 AM CT, Feb. 16 </p> 
@@ -103,9 +113,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:23 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/rise-in-u-k-inflation-leaves-central-bank-caught-between-growth-and-rising-prices-11645014195">Rise in U.K. Inflation Leaves BOE Caught Between Growth and Rising Prices</a> WSJ: Inflation in the U.K. rose at its fastest annual rate in nearly three decades last month, keeping up the pressure on the central bank to raise its benchmark interest rate again. 
  <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081035854/popular-bollywood-musical-artist-bappi-lahiri-dies-at-age-69">Popular Bollywood musical artist Bappi Lahiri dies at age 69</a> NPR: Observers say singer and composer Lahiri introduced a more contemporary style to Hindi film music. 
- <p class="updated_time"> 12:47 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60398029?at_medium=RSS&at_campaign=KARANGA">Djokovic saga highlights Australia asylum seekers held for record 689 days</a> BBC: Human Rights Watch highlighted the record figure following Novak Djokovic's detention last month. 
+ <a href="https://www.npr.org/2022/02/16/1081035854/bappi-lahiri-death">Bappi Lahiri, the king of Bollywood disco, dies at 69</a> NPR: Lahiri famously brought a disco vibe to India's biggest film industry. He composed dozens of hits in the 1970s and '80s — which appeared in many top Bollywood movies. 
  <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: The Chinese leader’s unusually direct order suggests Hong Kong officials will have little choice but to adhere strictly to China’s zero-Covid policies. 
  <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
@@ -154,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
  <p class="updated_time"> 03:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html">In Italy, a Call for a National Investigation Into Clerical Sexual Abuse</a> NYT: Italy has so far resisted calls for an independent investigation into how the Roman Catholic church has handled these cases. 
- <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080884987/life-in-the-beijing-olympic-bubble">Life in the Beijing Olympic bubble</a> NPR: The Beijing Olympics are playing out inside a massive quarantine bubble because of the pandemic. Here's what life is like inside the "closed loop" of these Winter Games. 
  <p class="updated_time"> 02:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
