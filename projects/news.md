@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Human cost of Russia attack would be immense - Biden</a> BBC: The US president says an invasion of Ukraine is still possible despite Russian claims of a withdrawal. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 10:20 PM CT, Feb. 15 </p> 
@@ -60,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60392198?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Lawsuit alleges Baldwin 'recklessly shot' Hutchins</a> BBC: Halyna Hutchins died on the set of Rust after a gun actor Alec Baldwin was holding discharged. 
  <p class="updated_time"> 05:33 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
- <p class="updated_time"> 05:28 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack still a possibility - Biden</a> BBC: The US president says invasion is "still very much a possibility" but the human cost would be "immense". 
  <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080981676/ottawa-police-chief-loses-job-for-not-acting-decisively-enough-against-blockade">Ottawa police chief loses job for not acting decisively enough against blockade</a> NPR: Trucks rolled out of Coutts, Alberta, on Tuesday leaving just one blockade in Manitoba near the border with North Dakota. 
  <p class="updated_time"> 05:11 PM CT, Feb. 15 </p> 
