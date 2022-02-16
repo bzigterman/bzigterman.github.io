@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">At Olympics, Nathan Chen and Other American Chinese Asked to Pick a Side</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
+ <p class="updated_time"> 03:55 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
+ <p class="updated_time"> 03:13 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
+ <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
  <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
- <p class="updated_time"> 02:39 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
- <p class="updated_time"> 02:38 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice approved the bloc’s decision to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 02:23 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
@@ -114,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact. 
  <p class="updated_time"> 02:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
- <p class="updated_time"> 01:47 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080707913/why-this-usaid-official-is-optimistic-the-u-s-can-get-the-world-vaccinated">Why this USAID official is optimistic the U.S. can get the world vaccinated</a> NPR: Jeremy Konyndyk, executive director of USAID's COVID task force, shares his perspective on the U.S.' efforts to donate and distribute vaccines to low-income nations. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html">On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</a> NYT: Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation. 
  <p class="updated_time"> 12:22 PM CT, Feb. 15 </p> 
@@ -189,6 +191,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
+ <p class="updated_time"> 03:44 AM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081035770/san-francisco-voters-recall-three-school-board-members">San Francisco voters recall three school board members</a> NPR: Voters in famously liberal San Francisco ousted three members of the board who, critics argued, focused more on renaming schools than getting schools back into classrooms. 
  <p class="updated_time"> 11:41 PM CT, Feb. 15 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:14 PM CT, Feb. 15 </p> 
@@ -247,8 +253,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080773460/trump-accountant-says-a-decade-of-financial-statements-are-unreliable">Trump accountant says a decade of financial statements are unreliable</a> NPR: Donald Trump's longtime accounting firm cut off its relationship with him, saying it could no longer stand behind the annual financial documents it had prepared for him. 
  <p class="updated_time"> 04:08 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080773432/morning-news-brief">News brief: Scholz-Putin talks, Trump accountant quits, hate crimes trial</a> NPR: Germany's chancellor will meet with Russia's president about Ukraine. Trump's accountant says a decade of financial statements are unreliable. The federal trial of Ahmaud Arbery's killers has started. 
- <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080739353/high-numbers-of-mail-ballots-are-being-rejected-in-texas-after-a-new-state-law">High numbers of mail ballots are being rejected in Texas under a new state law</a> NPR: In Harris County — home to Houston — election officials so far have sent back to voters nearly 38% of mail-in ballots, citing issues with new state ID requirements. 
  <p class="updated_time"> 12:04 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/cindy-axne-iowa-democrat.html">How Cindy Axne, One of the Most At-Risk Democrats in Congress, Hangs On</a> NYT: Meet Representative Cindy Axne of Iowa, who has some advice for the White House about how to talk to voters. 
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
