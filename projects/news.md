@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:24 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Live Updates: Ukraine Promotes Unity as U.S. and Russia Tangle Over Its Fate</a> NYT: President Biden and President Vladimir V. Putin of Russia both said that they would seek a diplomatic path to avert an invasion of Ukraine. But Mr. Biden said Russia still had 150,000 troops menacing the country and an invasion was a “distinct possibility.” 
+ <p class="updated_time"> 06:50 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Live Updates: Ukraine Promotes Unity as U.S. and Russia Tangle Over Its Fate</a> NYT: President Biden and President Vladimir V. Putin of Russia both said that they would seek a diplomatic path to avert an invasion of Ukraine. Russia said it was continuing to pull troops back from near Ukraine, but a senior Pentagon official said the U.S. had seen no indication of a withdrawal or redeployment. 
+ <p class="updated_time"> 06:42 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
+ <p class="updated_time"> 05:53 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60400099?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a sloth was saved from electrical wires</a> BBC: A sloth in Colombia found itself in an unusual and dangerous place, prompting a rescue mission. 
  <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
  <p class="updated_time"> 05:04 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60400112?at_medium=RSS&at_campaign=KARANGA">Hungary and Poland lose EU funding fight over laws</a> BBC: The two states had challenged an EU rule that allows funds to be conditional on democratic standards. 
- <p class="updated_time"> 04:58 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 04:56 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How prepared is Russia for attack?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:41 AM CT, Feb. 16 </p> 
@@ -38,6 +40,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
  <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
+ <p class="updated_time"> 01:32 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/eu-court-rules-funding-for-poland-hungary-can-be-cut-11645008106">EU Court Rules Funding for Poland, Hungary Can Be Cut</a> WSJ: Europe’s top court ruled that the bloc could withhold money for member countries that have curtailed the independence of their democratic institutions, marking a potentially costly defeat for Hungary and Poland. 
+ <p class="updated_time"> 01:29 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
@@ -45,17 +51,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:47 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398029?at_medium=RSS&at_campaign=KARANGA">Djokovic saga highlights Australia asylum seekers held for record 689 days</a> BBC: Human Rights Watch highlighted the record figure following Novak Djokovic's detention last month. 
  <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
+ <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: Chinese leader Xi Jinping told Hong Kong’s government to control a spiraling Covid-19 outbreak that has overwhelmed the city’s healthcare system. 
  <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
- <p class="updated_time"> 11:53 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/eu-court-rules-funding-for-poland-hungary-can-be-cut-11645008106">EU Court Rules Funding for Poland, Hungary Can Be Cut</a> WSJ: Europe’s top court ruled that the bloc could withhold money for member countries that have curtailed the independence of their democratic institutions, marking a potentially costly defeat for Hungary and Poland. 
  <p class="updated_time"> 11:45 PM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/bts-returns-from-break-with-first-south-korean-concerts-since-2019-11645008321">BTS Returns From Break With First South Korean Concerts Since 2019</a> WSJ: The K-pop band’s return to action comes as South Korea faces its largest Covid-19 outbreak of the pandemic, which prompted the State Department to advise Americans not to travel to the country. 
- <p class="updated_time"> 11:24 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Says Troops Withdraw From Crimea but U.S. Warns Ukraine Invasion Still Possible</a> WSJ: The troops’ destination could not be independently confirmed and large Russian military exercises continued across a broad front elsewhere near Ukraine. 
- <p class="updated_time"> 11:09 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
@@ -92,6 +94,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60384681?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab controversy is polarising its classrooms</a> BBC: Young students on both sides of the hijab row say they are struggling to understand their classmates. 
  <p class="updated_time"> 06:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60303769?at_medium=RSS&at_campaign=KARANGA">Telegram: Where women's nudes are shared without consent</a> BBC: A BBC investigation has found that women’s intimate photos are being shared in large groups on Telegram. 
+ <p class="updated_time"> 05:38 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60392198?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Lawsuit alleges Baldwin 'recklessly shot' Hutchins</a> BBC: Halyna Hutchins died on the set of Rust after a gun actor Alec Baldwin was holding discharged. 
  <p class="updated_time"> 05:33 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
  <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
@@ -122,8 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080884938/an-economist-on-what-should-happen-to-the-7-billion-of-afghanistans-assets">An economist on what should happen to the $7 billion of Afghanistan's assets</a> NPR: NPR's Mary Louise Kelly speaks with economist Abid Amiri about President Biden's plan to release $7 billion in frozen Afghan assets. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080884892/the-mood-in-russia-over-ukraine-tensions">The mood in Russia over Ukraine tensions</a> NPR: NPR's Mary Louise Kelly speaks with Russian journalist Vladimir Pozner about the feeling in his country over the Russia-Ukraine tensions. 
- <p class="updated_time"> 02:29 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60312237?at_medium=RSS&at_campaign=KARANGA">Families of Sandy Hook victims settle with Remington</a> BBC: The $73m settlement marks the first time a US gun manufacturer has faced liability for a mass shooting. 
  <p class="updated_time"> 02:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
@@ -191,6 +193,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/biden-investigators-trump-jan-6-white-house-visitor-logs-00009351">Biden clears way for investigators to obtain Trump’s Jan. 6 White House visitor logs</a> Politico: It’s unclear if Trump will launch another court action to prevent the newly identified records from reaching lawmakers. 
+ <p class="updated_time"> 07:34 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/16/senate-settles-for-dear-vladimir-00009350">Senate settles for Dear Vladimir</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
