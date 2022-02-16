@@ -8,20 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:03 AM CT, Feb. 16 </p> 
+ <p class="updated_time"> 11:24 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
+ <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081139566/new-zealand-ban-conversion-therapy">New Zealand just became the latest country to outlaw conversion therapy</a> NPR: New Zealand lawmakers voted 112 to 8 to pass a law outlawing conversion practices and creating a pathway to raise human rights complaints. It joins more than a dozen countries with similar bans. 
+ <p class="updated_time"> 11:12 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60403848?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky: We don't see any Russian troop withdrawal</a> BBC: Volodymyr Zelensky gave his first reaction to reports from Russia that it is pulling back some troops from the Ukraine border area. 
  <p class="updated_time"> 10:47 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html">Shark Kills Swimmer in Rare Death Off Sydney Coast</a> NYT: The fatal shark bite occurred on Wednesday near Little Bay. Mayor Dylan Parker of Randwick City, Australia, said, “To lose someone to a shark attack like this is chilling.” 
  <p class="updated_time"> 10:46 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/africa/zimbabwe-new-york-times-reporter-trial.html">Zimbabwe Abruptly Closes Prosecution of Reporter for New York Times</a> NYT: Prosecutors ended their case against Jeffrey Moyo without calling key witnesses on Monday, prompting a move to dismiss a case that even government lawyers have called “shaky.” 
  <p class="updated_time"> 10:45 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html">Ukraine Says Cyberattack Was Largest in Its History</a> NYT: Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.” 
+ <p class="updated_time"> 10:39 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60407746?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'We do not see any signs of de-escalation on the ground' - Nato</a> BBC: Nato chief speaks at conference saying the situation in Ukraine could become "the new normal in Europe". 
  <p class="updated_time"> 10:34 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60339746?at_medium=RSS&at_campaign=KARANGA">Covid: Hong Kong's hospitals overwhelmed amid spike in cases</a> BBC: Infected patients are treated outside crowded facilities as daily cases reach a new record. 
  <p class="updated_time"> 10:27 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
- <p class="updated_time"> 10:02 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: The first changes could go into effect as soon as Germany’s states pass the rules. 
  <p class="updated_time"> 09:23 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-60394306?at_medium=RSS&at_campaign=KARANGA">HIV: First woman in world believed to be cured of virus</a> BBC: The US patient tested negative for the virus after receiving an innovative blood transplant being used to treat her leukaemia. 
  <p class="updated_time"> 09:20 AM CT, Feb. 16 </p> 
@@ -60,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60403027?at_medium=RSS&at_campaign=KARANGA">Swimmer dies in first fatal shark attack in Sydney since 1963</a> BBC: A swimmer sustained "catastrophic injuries" in Wednesday's attack, Australian officials say. 
  <p class="updated_time"> 06:56 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
+ <p class="updated_time"> 06:14 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
  <p class="updated_time"> 05:46 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
@@ -82,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
  <p class="updated_time"> 02:46 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/taiwan-says-chinese-mystery-plane-might-have-been-testing-its-defenses-11645019176">Taiwan Says Chinese Mystery Plane Might Have Been Testing Its Defenses</a> WSJ: Military officials confirm that a Chinese turboprop Harbin Y-12 utility plane flew near Dongyin, a tiny patch of land that sits more than 100 miles north of Taiwan’s main island and just 30 miles from mainland China. 
- <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
  <p class="updated_time"> 02:10 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/china-inflation-eases-as-economy-could-use-a-boost-11644993402">China Inflation Eases as Economy Could Use a Boost</a> WSJ: Inflationary pressure continued to ease in January, offering room for Beijing to stimulate growth while more major economies are looking to tighten policy to curb rising prices. 
  <p class="updated_time"> 01:32 AM CT, Feb. 16 </p> 
@@ -150,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080884966/russia-has-hybrid-warfare-options-to-attack-ukraine">Russia has 'hybrid warfare' options to attack Ukraine</a> NPR: Russia needn't launch an ground invasion of Ukraine to devastate the lives of its people. It has a range of what are called "hybrid warfare" options. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080884959/biden-speaks-about-russia-ukraine-tensions">Biden speaks about Russia-Ukraine tensions</a> NPR: After warning Americans to get out of Ukraine, President Biden gives his latest remarks about whether Russia plans to invade. 
- <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080884945/prince-andrew-settles-with-virginia-giuffre-in-sexual-abuse-lawsuit">Prince Andrew settles with Virginia Giuffre in sexual abuse lawsuit</a> NPR: The U.K.'s Prince Andrew reached a settlement agreement with Virginia Giuffre, who said he sexually abused her when she was a minor. The agreement includes a donation to her abuse victims charity. 
  <p class="updated_time"> 02:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
@@ -186,10 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
- <p class="updated_time"> 06:18 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60370227?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The fear of fleeing home twice</a> BBC: Amid fears of a Russian invasion, families who have fled once before are worried they will have to run again. 
- <p class="updated_time"> 05:23 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
  <p class="updated_time"> 02:42 PM CT, Feb. 14 </p> 
@@ -201,7 +201,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:57 AM CT, Feb. 16 </p> 
+ <p class="updated_time"> 11:16 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
  <p class="updated_time"> 09:35 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
