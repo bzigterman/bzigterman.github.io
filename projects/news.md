@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:01 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 10:44 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Human cost of Russia attack would be immense - Biden</a> BBC: The US president says an invasion of Ukraine is still possible despite Russian claims of a withdrawal. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60398056?at_medium=RSS&at_campaign=KARANGA">Disney appoints executive to oversee metaverse strategy</a> BBC: Technology giants, including Meta and Microsoft, are pouring billions of dollars into the metaverse. 
  <p class="updated_time"> 09:43 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
- <p class="updated_time"> 09:35 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
@@ -189,7 +189,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:34 PM CT, Feb. 15 </p> 
+ <p class="updated_time"> 11:02 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Inquiry Subpoenas 6 Tied to False Pro-Trump Elector Effort</a> NYT: The committee is digging deeper into a plan by former President Donald J. Trump’s allies to reverse his election loss in key states by sending fake slates of electors who would say he won. 
  <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Rice Announces Retirement, the 30th House Democrat to Plan an Exit</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
