@@ -8,24 +8,32 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:36 PM CT, Feb. 16 </p> 
+ <p class="updated_time"> 05:08 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
+ <p class="updated_time"> 05:07 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
+ <p class="updated_time"> 05:01 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60411203?at_medium=RSS&at_campaign=KARANGA">Ukraine: Invasion fears are hype and hysteria - Russian diplomat</a> BBC: Russia's deputy ambassador to the UN says Russia will not initiate a war if it is not provoked. 
+ <p class="updated_time"> 04:58 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081276661/russian-troops-ukraine-nato">U.S. and NATO officials say they've seen no evidence that Russia has withdrawn troops</a> NPR: Putin says Russia has pulled out some of its 150,000 troops stationed near Ukraine's borders. "There's a difference between what Russia says and what it does," Secretary of State Antony Blinken says. 
+ <p class="updated_time"> 04:55 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Protesters in Canada Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
+ <p class="updated_time"> 04:36 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 78 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 04:30 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">Queen’s Jubilee Year Just Started, but Bad News Hasn’t Stopped for Royals</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
- <p class="updated_time"> 04:12 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:55 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60407938?at_medium=RSS&at_campaign=KARANGA">Canada protests: Ottawa stand-off continues as blockades cleared</a> BBC: Ottawa police have issued leaflets to remaining protesters telling them to leave the area. 
  <p class="updated_time"> 03:51 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
- <p class="updated_time"> 03:41 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Ottawa Protesters Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
  <p class="updated_time"> 03:26 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
- <p class="updated_time"> 03:23 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 78 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
@@ -46,6 +54,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60404382?at_medium=RSS&at_campaign=KARANGA">Covid: Austria and Germany decide to ease rules</a> BBC: Both countries have pushed for compulsory vaccinations but now decide to lift restrictions. 
  <p class="updated_time"> 01:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
+ <p class="updated_time"> 01:26 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html">Biden Administration Says China Failed Trade Commitments </a> NYT: In a new report, the administration detailed China’s violations of promises made both to the World Trade Organization and under a 2020 trade deal with the U.S. 
  <p class="updated_time"> 01:15 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
@@ -127,15 +137,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081049165/ex-honduras-president-is-arrested-as-u-s-looks-to-extradite-him-on-drug-charges">Honduras' ex-president is arrested as the U.S. seeks his extradition on drug charges</a> NPR: Hondurans celebrated as former President Juan Orlando Hernández, who left office last month, appeared in court to face an extradition request from the U.S. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">At Olympics, Nathan Chen and Other American Chinese Asked to Pick a Side</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
+ <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">The Olympians Caught Up in the U.S.-China Rivalry</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
  <p class="updated_time"> 03:45 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/as-oil-nears-100-saudis-snub-u-s-stick-to-russian-pact-amid-ukraine-crisis-11645015415">As Oil Nears $100, Saudis Snub U.S., Stick to Russian Pact</a> WSJ: The U.S. has repeatedly called on Saudi Arabia to pump up more oil to reduce gasoline prices that, for Americans, are about twice as high as they were earlier in the pandemic. The Saudis have said no. 
- <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
- <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081035854/bappi-lahiri-death">Bappi Lahiri, the king of Bollywood disco, dies at 69</a> NPR: Lahiri famously brought a disco vibe to India's biggest film industry. He composed dozens of hits in the 1970s and '80s — which appeared in many top Bollywood movies. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60398296?at_medium=RSS&at_campaign=KARANGA">Ukrainians wary of Russian claims of withdrawal</a> BBC: Kyiv says it wants to see evidence that Russia really is moving troops away from the border. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
@@ -166,14 +172,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/europe/alexsei-navalny-russia-court.html">Navalny Faces 15 More Years in Prison as New Trial Starts in Russia</a> NYT: Aleksei A. Navalny, the jailed Russian opposition leader, faces charges of embezzlement and contempt of court that could extend his time in jail by 15 years. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html">On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</a> NYT: Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation. 
- <p class="updated_time"> 12:22 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-60396179?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Reaction from my colleagues 'hurt me a lot'</a> BBC: Novak Djokovic speaks exclusively to the BBC about his time in detention in Australia last month. 
  <p class="updated_time"> 10:50 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html">In France, a Racist Conspiracy Theory Edges Into the Mainstream</a> NYT: Valérie Pécresse, the center-right presidential candidate, used the phrase ‘great replacement’ in a speech punctuated with coded attacks on immigrants and Muslims. 
- <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 09:21 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/sport/olympics/60378257?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: What are the drugs test rules and what did Kamila Valieva do?</a> BBC: A 15-year-old Winter Olympic figure skater has failed a drugs test, so why can she still compete? 
  <p class="updated_time"> 08:33 AM CT, Feb. 15 </p> 
@@ -195,6 +197,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:14 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/ryan-zinke-ethics.html">Ryan Zinke Broke Ethics Rules as Interior Secretary, Inquiry Finds</a> NYT: Mr. Zinke, who left the department in 2019 amid multiple inquiries, misused his office and lied to investigators about his involvement in a Montana land deal, a government watchdog found. 
+ <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
+ <p class="updated_time"> 04:56 PM CT, Feb. 16 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
@@ -217,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081247527/vp-harris-heads-to-munich-national-security-meeting-at-a-critical-time">VP Harris heads to Munich national security meeting at a critical time</a> NPR: Vice President Kamala Harris is traveling to an annual gathering of the world's top national security officials in Munich, Germany, as leaders work to avert a Russian invasion of Ukraine. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1080978624/us-citizenship-syria-refugee-uscic">Seven years after meeting Moh, I waited to hear: Was he now an American citizen?</a> NPR: I knew that Monday, February 14 would be a landmark day for Mohammed al Refai. It would also be a major turning point in a story that I had started following more than six years ago. 
- <p class="updated_time"> 01:25 PM CT, Feb. 16 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:59 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1080229310/judge-michelle-childs-supreme-court-nomination-process">Judge Michelle Childs, whose early life was shaped by gun violence, is on SCOTUS list</a> NPR: Her meteoric rise in the last year has been due in part to her biggest supporter, South Carolina Rep. James Clyburn, the third ranking Democrat in the U.S. House of Representatives. 
  <p class="updated_time"> 11:30 AM CT, Feb. 16 </p> 
@@ -275,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/senate-poised-to-settle-for-symbolic-rebuke-as-russia-sanctions-talks-fizzle-00009096">Senate to settle for symbolic rebuke as Russia sanctions talks fizzle</a> Politico: Congress’ bipartisan negotiations on punishing Moscow have gone from “the one-yard line” to a slow-motion fumble. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080884959/biden-speaks-about-russia-ukraine-tensions">Biden speaks about Russia-Ukraine tensions</a> NPR: After warning Americans to get out of Ukraine, President Biden gives his latest remarks about whether Russia plans to invade. 
- <p class="updated_time"> 02:45 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080841516/john-durham-sussmann-trump-russia-investigation">Defense accuses Trump-Russia special counsel Durham of politicizing prosecution</a> NPR: An attorney charged as part of the investigation into the origins of the Trump-Russia probe says Durham tried to "politicize the case, inflame media coverage, and taint the jury pool." 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
@@ -287,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/us/politics/durham-sussmann-trump-russia.html">Court Filing Started a Furor in Right-Wing Outlets, but Their Narrative Is Off Track</a> NYT: The latest alarmist claims about spying on Trump appeared to be flawed, but the explanation is byzantine — underlining the challenge for journalists in deciding what merits coverage. 
  <p class="updated_time"> 09:06 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/ilya-lichtenstein-heather-morgan-bitcoin-bail.html">Ilya Lichtenstein Held in Bitcoin Case While Heather Morgan Is Given Bail</a> NYT: A judge appeared more concerned by the flight risk posed by Ilya Lichtenstein than by his wife, Heather Morgan, in a case accusing them of a sweeping scheme to launder stolen cryptocurrency. 
- <p class="updated_time"> 08:55 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/tina-peters-colorado-election.html">2020 Election Denier Will Run for Top Elections Position in Colorado</a> NYT: Tina Peters, the Mesa County clerk, has been stripped of her county election oversight but is seeking to oversee her state’s elections as secretary of state. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
