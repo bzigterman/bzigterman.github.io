@@ -1,6 +1,7 @@
 library(tidyRSS)
 library(tidyverse)
 library(lubridate)
+library(httr)
 
 past_week <- ymd_hms(now()) - days(7)
 
@@ -26,16 +27,30 @@ politico_congress <- tidyfeed("http://rss.politico.com/congress.xml") %>%
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d"))
 
-politico_politics <- tidyfeed("https://www.politico.com/rss/politicopicks.xml") %>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  filter(!grepl("magazine",item_link)) %>%
-  filter(!grepl("politico.eu",item_link)) %>%
-  mutate(feed = "Politico") %>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  mutate(clean_time = strftime(x = central_time, 
-                               tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d"))
+politico_politics_status <- GET("https://www.politico.com/rss/politicopicks.xml")$status
+if (politico_politics_status != 200L) {
+  politico_politics <- tibble() %>%
+    mutate(feed_title = as.character(NA)) %>%
+    mutate(item_pub_date= as.POSIXct(NA)) %>%
+    mutate(item_title= as.character(NA)) %>%
+    mutate(item_link= as.character(NA)) %>%
+    mutate(item_description= as.character(NA)) %>%
+    mutate(feed= as.character(NA)) %>%
+    mutate(utc_time= as.POSIXct(NA)) %>%
+    mutate(central_time= as.POSIXct(NA)) %>%
+    mutate(clean_time= as.character(NA))
+} else {
+  politico_politics <- tidyfeed("https://www.politico.com/rss/politicopicks.xml") %>%
+    select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+    filter(!grepl("magazine",item_link)) %>%
+    filter(!grepl("politico.eu",item_link)) %>%
+    mutate(feed = "Politico") %>%
+    mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
+    mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+    mutate(clean_time = strftime(x = central_time, 
+                                 tz = "US/Central",
+                                 format = "%I:%M% %p CT, %b. %d"))
+}
 
 politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
@@ -116,7 +131,6 @@ politics_news <- full_join(politico_politics, nyt_politics) %>%
                                 sep = "")) %>%
   mutate(feed_plus_description = paste(feed,": ",item_description,
                                        sep = ""))
-
 
 ### create list ----
 politics_news_lines <- c()
