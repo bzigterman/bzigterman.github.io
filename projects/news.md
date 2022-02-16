@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 PM CT, Feb. 16 </p> 
+ <p class="updated_time"> 01:22 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 01:15 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
@@ -223,8 +223,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081035770/san-francisco-voters-recall-three-school-board-members">San Francisco voters recall 3 school board members</a> NPR: Voters in famously liberal San Francisco ousted three members of the board who, critics argued, focused more on renaming students than getting schools back into classrooms. 
  <p class="updated_time"> 11:41 PM CT, Feb. 15 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:02 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Inquiry Subpoenas 6 Tied to False Pro-Trump Elector Effort</a> NYT: The committee is digging deeper into a plan by former President Donald J. Trump’s allies to reverse his election loss in key states by sending fake slates of electors who would say he won. 
+ <p class="updated_time"> 11:14 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Migrants Left in Limbo After Policy Change to Help Busy Border Officials</a> NYT: Republicans say the new policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
  <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
@@ -283,12 +283,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/us/politics/navy-nuclear-engineer-pleads-guilty.html">Navy Nuclear Engineer Pleads Guilty in Submarine Espionage Case</a> NYT: Jonathan Toebbe, who was arrested in October along with his wife, is set to face 12 years or more in prison under a plea deal with federal prosecutors. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
- <p class="updated_time"> 01:03 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/democrat-gary-peters-50-50-senate-00008320">The low-key Democrat with the unenviable task of defending a 50-50 Senate</a> Politico: Gary Peters isn't just playing defense; he's set the goal of a 52-seat Democratic majority for 2023. 
  <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators say they're over Kavanaugh. SCOTUS nominee will test that.</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">How Eric Adams Mixes Tough Talk With Superfood Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
  <p class="updated_time"> 12:01 PM CT, Feb. 13 </p> 
