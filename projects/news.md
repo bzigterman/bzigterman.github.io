@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:54 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
  <p class="updated_time"> 01:44 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 01:39 PM CT, Feb. 16 </p> 
@@ -19,7 +21,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
  <p class="updated_time"> 12:42 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides in Brazil</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
  <p class="updated_time"> 12:17 PM CT, Feb. 16 </p> 
@@ -32,8 +34,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 12:00 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident, in which someone saw a man in a wetsuit get dragged underwater, is the city's first fatal shark attack since 1963. Beaches are closed while lifeguards patrol for further shark sightings. 
- <p class="updated_time"> 11:57 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
  <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
  <p class="updated_time"> 11:31 AM CT, Feb. 16 </p> 
