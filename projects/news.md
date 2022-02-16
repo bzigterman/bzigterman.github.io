@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:23 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 01:52 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Human cost of Russia attack would be immense - Biden</a> BBC: The US president says an invasion of Ukraine is still possible despite Russian claims of a withdrawal. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
- <p class="updated_time"> 01:11 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081035854/popular-bollywood-musical-artist-bappi-lahiri-dies-at-age-69">Popular Bollywood musical artist Bappi Lahiri dies at age 69</a> NPR: Observers say singer and composer Lahiri introduced a more contemporary style to Hindi film music. 
  <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
@@ -36,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
- <p class="updated_time"> 08:21 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 07:49 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60303921?at_medium=RSS&at_campaign=KARANGA">Who are Virginia Giuffre's powerhouse lawyers?</a> BBC: Two of America's most famed and formidable litigators have taken on Epstein's accusers pro bono. 
  <p class="updated_time"> 07:46 PM CT, Feb. 15 </p> 
@@ -196,7 +196,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:02 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Inquiry Subpoenas 6 Tied to False Pro-Trump Elector Effort</a> NYT: The committee is digging deeper into a plan by former President Donald J. Trump’s allies to reverse his election loss in key states by sending fake slates of electors who would say he won. 
  <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Rice Announces Retirement, the 30th House Democrat to Plan an Exit</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">U.S. Intelligence Agencies Face Crucial Test in Deciphering Putin’s Motives</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 07:14 PM CT, Feb. 15 </p> 
@@ -218,7 +218,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080890000/senate-republicans-nominations-federal-reserve-sarah-bloom-raskin-inflation">Senate Republicans block a key vote on Biden's nominations for the Federal Reserve</a> NPR: Republicans boycotted a meeting of the Senate Banking Committee Tuesday, delaying a vote on five nominees to the Fed's board. The move was aimed at one nominee: Sarah Bloom Raskin. 
  <p class="updated_time"> 03:03 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-ukraine-weapons.html">U.S. Arms Sent to Ukraine Would Blunt but Not Stop a Russian Invasion</a> NYT: The effectiveness of the weapons against the better-equipped Russian Army depends on what Moscow orders its troops to do. 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/us-ukraine-weapons.html">U.S. Weapons in Ukraine Would Not Stop a Russian Invasion</a> NYT: The effectiveness of the weapons against the better-equipped Russian Army depends on what Moscow orders its troops to do. 
  <p class="updated_time"> 02:57 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/senate-poised-to-settle-for-symbolic-rebuke-as-russia-sanctions-talks-fizzle-00009096">Senate to settle for symbolic rebuke as Russia sanctions talks fizzle</a> Politico: Congress’ bipartisan negotiations on punishing Moscow have gone from “the one-yard line” to a slow-motion fumble. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
