@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:37 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60402700?at_medium=RSS&at_campaign=KARANGA">Kuwait overturns law criminalising 'imitation of opposite sex'</a> BBC: A court declares that a law criminalising "imitation of the opposite sex" is unconstitutional. 
+ <p class="updated_time"> 07:37 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Live Updates: Ukraine Promotes Unity as U.S. and Russia Tangle Over Its Fate</a> NYT: President Biden and President Vladimir V. Putin of Russia both said that they would seek a diplomatic path to avert an invasion of Ukraine. Russia said it was continuing to pull troops back from near Ukraine, but a senior Pentagon official said the U.S. had seen no indication of a withdrawal or redeployment. 
  <p class="updated_time"> 07:30 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
- <p class="updated_time"> 07:24 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Live Updates: Ukraine Promotes Unity as U.S. and Russia Tangle Over Its Fate</a> NYT: President Biden and President Vladimir V. Putin of Russia both said that they would seek a diplomatic path to avert an invasion of Ukraine. Russia said it was continuing to pull troops back from near Ukraine, but a senior Pentagon official said the U.S. had seen no indication of a withdrawal or redeployment. 
  <p class="updated_time"> 07:14 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60400762?at_medium=RSS&at_campaign=KARANGA">Paislee Shultis: US girl missing since 2019 found alive in secret room</a> BBC: Police have charged three people over Paislee Shultis' disappearance in Saugerties, New York state. 
  <p class="updated_time"> 06:58 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60403027?at_medium=RSS&at_campaign=KARANGA">Swimmer dies in first fatal shark attack in Sydney since 1963</a> BBC: A swimmer sustained "catastrophic injuries" in Wednesday's attack, Australian officials say. 
  <p class="updated_time"> 06:56 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
- <p class="updated_time"> 06:42 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 05:53 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
