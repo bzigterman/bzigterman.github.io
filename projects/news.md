@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:22 AM CT, Feb. 16 </p> 
+ <p class="updated_time"> 09:38 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 09:25 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html">Ukraine Says Cyberattack Was Largest in Its History</a> NYT: Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.” 
  <p class="updated_time"> 09:22 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html">Shark Kills Swimmer in Rare Death Off Sydney Coast</a> NYT: The fatal shark bite occurred on Wednesday near Little Bay. Mayor Dylan Parker of Randwick City, Australia, said, “To lose someone to a shark attack like this is chilling.” 
- <p class="updated_time"> 09:21 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html">Ukraine Says Cyberattack Was Largest in Its History</a> NYT: Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.” 
  <p class="updated_time"> 09:20 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 08:52 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/south-pole-indian-woman.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
  <p class="updated_time"> 08:51 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 08:48 AM CT, Feb. 16 </p> 
@@ -68,8 +68,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">At Olympics, Nathan Chen and Other American Chinese Asked to Pick a Side</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
+ <p class="updated_time"> 03:45 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/as-oil-nears-100-saudis-snub-u-s-stick-to-russian-pact-amid-ukraine-crisis-11645015415">As Oil Nears $100, Saudis Snub U.S., Stick to Russian Pact</a> WSJ: The U.S. has repeatedly called on Saudi Arabia to pump up more oil to reduce gasoline prices that, for Americans, are about twice as high as they were earlier in the pandemic. The Saudis have said no. 
  <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
+ <p class="updated_time"> 02:46 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/taiwan-says-chinese-mystery-plane-might-have-been-testing-its-defenses-11645019176">Taiwan Says Chinese Mystery Plane Might Have Been Testing Its Defenses</a> WSJ: Military officials confirm that a Chinese turboprop Harbin Y-12 utility plane flew near Dongyin, a tiny patch of land that sits more than 100 miles north of Taiwan’s main island and just 30 miles from mainland China. 
  <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
  <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
@@ -80,12 +84,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/eu-court-rules-funding-for-poland-hungary-can-be-cut-11645008106">EU Court Rules Funding for Poland, Hungary Can Be Cut</a> WSJ: Europe’s top court ruled that the bloc could withhold money for member countries that have curtailed the independence of their democratic institutions, marking a potentially costly defeat for Hungary and Poland. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
+ <p class="updated_time"> 01:23 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/rise-in-u-k-inflation-leaves-central-bank-caught-between-growth-and-rising-prices-11645014195">Rise in U.K. Inflation Leaves BOE Caught Between Growth and Rising Prices</a> WSJ: Inflation in the U.K. rose at its fastest annual rate in nearly three decades last month, keeping up the pressure on the central bank to raise its benchmark interest rate again. 
  <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081035854/popular-bollywood-musical-artist-bappi-lahiri-dies-at-age-69">Popular Bollywood musical artist Bappi Lahiri dies at age 69</a> NPR: Observers say singer and composer Lahiri introduced a more contemporary style to Hindi film music. 
  <p class="updated_time"> 12:47 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398029?at_medium=RSS&at_campaign=KARANGA">Djokovic saga highlights Australia asylum seekers held for record 689 days</a> BBC: Human Rights Watch highlighted the record figure following Novak Djokovic's detention last month. 
  <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: The Chinese leader’s unusually direct order suggests Hong Kong officials will have little choice but to adhere strictly to China’s zero-Covid policies. 
+ <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/a-reopening-australia-encourages-travelers-to-come-take-a-long-vacation-11645009202">A Reopening Australia Encourages Travelers to Come Take a Long Vacation</a> WSJ: The government’s tourism department aims to draw tourists back in by asking them to think of going on a big vacation, as the country is set to reopen its borders in a few weeks 
  <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:45 PM CT, Feb. 15 </p> 
@@ -128,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60396180?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernandez: Former president of Honduras led away in handcuffs</a> BBC: The United States is seeking to extradite Juan Orlando Hernandez for alleged ties to drug traffickers. 
  <p class="updated_time"> 03:29 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
- <p class="updated_time"> 03:26 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/freedom-convoy-protesters-in-canadas-capital-city-dig-in-after-tougher-measures-11644947631">'Freedom Convoy' Protesters in Canada's Capital City Dig In</a> WSJ: Trucks and other vehicles clogged the streets of Ottawa a day after the government invoked extraordinary emergency powers aimed at forcing protesters to leave. 
  <p class="updated_time"> 03:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html">In Italy, a Call for a National Investigation Into Clerical Sexual Abuse</a> NYT: Italy has so far resisted calls for an independent investigation into how the Roman Catholic church has handled these cases. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
@@ -146,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html">On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</a> NYT: Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation. 
  <p class="updated_time"> 12:22 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60396179?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Reaction from my colleagues 'hurt me a lot'</a> BBC: Novak Djokovic speaks exclusively to the BBC about his time in detention in Australia last month. 
- <p class="updated_time"> 12:03 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/14/health/russian-flu-coronavirus.html">An Undiscovered Coronavirus? The Mystery of the ‘Russian Flu’</a> NYT: Scientists are grasping for any example that could help anticipate the future of Covid, even a mysterious respiratory pandemic that spread in the late 19th century. 
  <p class="updated_time"> 10:50 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
@@ -195,10 +199,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">For Beto O’Rourke, 2020 Still Haunts 2022</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
- <p class="updated_time"> 07:56 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/biden-investigators-trump-jan-6-white-house-visitor-logs-00009351">Biden clears way for investigators to obtain Trump’s Jan. 6 White House visitor logs</a> Politico: It’s unclear if Trump will launch another court action to prevent the newly identified records from reaching lawmakers. 
  <p class="updated_time"> 07:34 AM CT, Feb. 16 </p> 
@@ -271,6 +275,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
+ <p class="updated_time"> 02:45 AM CT, Feb. 15 </p> 
+ <a href="https://www.cnn.com/2022/02/14/politics/trump-mazars/index.html">Trump Organization's accounting firm says 10 years of financial statements are unreliable</a> CNN: Former President Donald Trump's long-time accounting firm informed the Trump Organization last week that it should no longer rely on nearly 10 years' worth of financial statements and that they would no longer be their accountants, citing a conflict of interest. 
  <p class="updated_time"> 12:04 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/cindy-axne-iowa-democrat.html">How Cindy Axne, One of the Most At-Risk Democrats in Congress, Hangs On</a> NYT: Meet Representative Cindy Axne of Iowa, who has some advice for the White House about how to talk to voters. 
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
@@ -291,8 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators say they're over Kavanaugh. SCOTUS nominee will test that.</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
- <p class="updated_time"> 12:52 PM CT, Feb. 13 </p> 
- <a href="https://www.cnn.com/2022/02/13/politics/cnn-poll-biden-trump-2024/index.html">CNN Poll: Neither Biden nor Trump has their party's full support for a 2024 run</a> CNN: A significant number of both Democrats and Republicans currently hope to see their parties find alternatives to President Joe Biden and former President Donald Trump in the next presidential election, according to a new CNN poll conducted by SSRS. But very few have specific candidates in mind, underscoring how distant -- and potentially mutable -- the 2024 race remains. 
  <p class="updated_time"> 12:01 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
  <p class="updated_time"> 10:54 AM CT, Feb. 13 </p> 
