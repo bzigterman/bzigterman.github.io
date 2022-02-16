@@ -8,14 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60407938?at_medium=RSS&at_campaign=KARANGA">Canada protests: Ottawa holds out as Canada blockades cleared</a> BBC: Ottawa police have issued leaflets to remaining protesters telling them to leave the area. 
+ <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
+ <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081247520/russias-latest-military-movements-stoke-confusion">Russia's latest military movements stoke confusion</a> NPR: Is Russia escalating — or de-escalating — its military positions along the borders of Ukraine? There are conflicting claims about what's happening now, and what could come next. 
+ <p class="updated_time"> 02:50 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides in Brazil</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
+ <p class="updated_time"> 02:50 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
+ <p class="updated_time"> 02:42 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081185004/russia-ukraine-invasion-us-impact">Biden says a Russian invasion of Ukraine would hurt Americans. Here's how</a> NPR: A full-scale invasion is not a certainty. But if it happens, experts say the effects of sanctions, energy market disruptions and cyberwarfare could reach everyday Americans. 
+ <p class="updated_time"> 02:28 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081119920/greenwashing-oil-companies">Accusations of 'greenwashing' by big oil companies are well-founded, a new study finds</a> NPR: Chevron, ExxonMobil, BP and Shell used terms like "climate" and "low-carbon" more frequently in recent annual reports, but their actions on clean energy didn't match their words, researchers conclude. 
+ <p class="updated_time"> 02:27 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
  <p class="updated_time"> 02:01 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081157054/full-snow-moon">Photos: February's 'Snow Moon' rises full and bright</a> NPR: While you're sky-gazing, look to the western horizon. Jupiter will be setting there as evening twilight ends. And that bright star? That's Regulus, part of the Leo constellation. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
- <p class="updated_time"> 01:54 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
- <p class="updated_time"> 01:44 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 01:39 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60404382?at_medium=RSS&at_campaign=KARANGA">Covid: Austria and Germany decide to ease rules</a> BBC: Both countries have pushed for compulsory vaccinations but now decide to lift restrictions. 
  <p class="updated_time"> 01:27 PM CT, Feb. 16 </p> 
@@ -24,16 +38,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
- <p class="updated_time"> 12:42 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides in Brazil</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
+ <p class="updated_time"> 12:39 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60408667?at_medium=RSS&at_campaign=KARANGA">US accuses China of 'serious harm' to workers through trade</a> BBC: The US Trade Representative has accused Beijing of repeatedly failing to live up to commitments on trade. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
  <p class="updated_time"> 12:17 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60403963?at_medium=RSS&at_campaign=KARANGA">Google moves to make Android apps more private</a> BBC: No details are available but it says it will not be using the same approach as Apple. 
  <p class="updated_time"> 12:11 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60409113?at_medium=RSS&at_campaign=KARANGA">One-word gaffe invalidates thousands of US baptisms</a> BBC: Some Church members come to the defence of a Catholic priest in Arizona after he resigns. 
- <p class="updated_time"> 12:07 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 12:00 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident, in which someone saw a man in a wetsuit get dragged underwater, is the city's first fatal shark attack since 1963. Beaches are closed while lifeguards patrol for further shark sightings. 
  <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
@@ -56,10 +68,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60407746?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'We do not see any signs of de-escalation on the ground' - Nato</a> BBC: Nato chief speaks at conference saying the situation in Ukraine could become "the new normal in Europe". 
  <p class="updated_time"> 10:34 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60339746?at_medium=RSS&at_campaign=KARANGA">Covid: Hong Kong's hospitals overwhelmed amid spike in cases</a> BBC: Infected patients are treated outside crowded facilities as daily cases reach a new record. 
- <p class="updated_time"> 10:27 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
- <p class="updated_time"> 09:23 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/health-60394306?at_medium=RSS&at_campaign=KARANGA">HIV: First woman in world believed to be cured of virus</a> BBC: The US patient tested negative for the virus after receiving an innovative blood transplant being used to treat her leukaemia. 
+ <p class="updated_time"> 09:55 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, West Says</a> WSJ: The comments from NATO and U.S. officials clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 09:20 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 08:52 AM CT, Feb. 16 </p> 
@@ -84,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081085852/usa-hockey-eliminated-olympics-2022">Team USA men's hockey is knocked out of Olympics by Slovakia in a penalty shootout</a> NPR: Team USA had been one minute away from advancing to the Olympic semifinals — but Slovakia came back to force overtime in the final minute of regulation. 
  <p class="updated_time"> 07:48 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html">Museum Security Guard Adds Eyes to Painting’s Faceless Figures</a> NYT: The guard at a museum in Russia has been suspended after he used a pen to draw on “Three Figures,” an avant-garde painting from the 1930s. 
- <p class="updated_time"> 07:37 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60402700?at_medium=RSS&at_campaign=KARANGA">Kuwait overturns law criminalising 'imitation of opposite sex'</a> BBC: A court declares that a law criminalising "imitation of the opposite sex" is unconstitutional. 
  <p class="updated_time"> 07:30 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 07:26 AM CT, Feb. 16 </p> 
@@ -96,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, delivering notices to their owners and other protesters demanding they leave a demonstration zone immediately or face arrest. 
  <p class="updated_time"> 06:58 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60403027?at_medium=RSS&at_campaign=KARANGA">Swimmer dies in first fatal shark attack in Sydney since 1963</a> BBC: A swimmer sustained "catastrophic injuries" in Wednesday's attack, Australian officials say. 
- <p class="updated_time"> 05:46 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60400099?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a sloth was saved from electrical wires</a> BBC: A sloth in Colombia found itself in an unusual and dangerous place, prompting a rescue mission. 
  <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
@@ -132,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60099934?at_medium=RSS&at_campaign=KARANGA">Andrew Brettler: Who is Prince Andrew's Hollywood lawyer?</a> BBC: A highly sought-after entertainment lawyer, Andrew Brettler has defended many men accused of sexual abuse. 
  <p class="updated_time"> 07:35 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297302?at_medium=RSS&at_campaign=KARANGA">US Kremlin backers seek to undermine President Biden</a> BBC: Americans who reject the US president's stance on Ukraine are reshaping the Republican party. 
- <p class="updated_time"> 07:31 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1081009674/russia-opposition-leader-alexei-navalny-new-trial-prison-putin">Russian opposition leader Alexei Navalny faces a new trial, this time in prison</a> NPR: A new trial against Russian opposition leader Alexei Navalny has opened at the penal colony where he faces another lengthy prison term. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
@@ -146,10 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60384681?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab controversy is polarising its classrooms</a> BBC: Young students on both sides of the hijab row say they are struggling to understand their classmates. 
  <p class="updated_time"> 06:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60303769?at_medium=RSS&at_campaign=KARANGA">Telegram: Where women's nudes are shared without consent</a> BBC: A BBC investigation has found that women’s intimate photos are being shared in large groups on Telegram. 
- <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080981676/ottawa-police-chief-loses-job-for-not-acting-decisively-enough-against-blockade">Ottawa police chief loses job for not acting decisively enough against blockade</a> NPR: Trucks rolled out of Coutts, Alberta, on Tuesday leaving just one blockade in Manitoba near the border with North Dakota. 
- <p class="updated_time"> 05:11 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080933264/biden-americans-ukraine-russia">Meghan found love in Ukraine. Now her heart is breaking as she evacuates</a> NPR: American Meghan Neville and her boyfriend moved to Ukraine to be near his family. But rising tension with Russia forced the couple to evacuate this week. She hopes they can go back in a month or so. 
  <p class="updated_time"> 03:29 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
  <p class="updated_time"> 03:01 PM CT, Feb. 15 </p> 
@@ -184,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
- <p class="updated_time"> 02:42 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/spain-luxury-hotel-environment.html">Luxury Resort in Spain Must Be Demolished, Court Finds</a> NYT: The complex at Marina Isla de Valdecañas, which includes a four-star hotel, was in breach of environmental rules, the Spanish Supreme Court said. 
 
 
 </details>
@@ -193,10 +191,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:08 PM CT, Feb. 16 </p> 
+ <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
+ <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/vulnerable-senate-dems-tax-cuts-00009497">Vulnerable Senate Dems try to run as tax-cutters</a> Politico: They're pitching gas tax holidays and other pocketbook-friendly plans to combat GOP messaging on inflation. But any real proposal has a long way to go. 
+ <p class="updated_time"> 03:09 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/business/economy/fed-january-meeting-minutes.html">January Fed Minutes Show Concern About Inflation's Spread</a> NYT: Minutes from the Federal Reserve’s meeting in January reflected ongoing concern about prices rising across the economy. 
+ <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081247590/the-john-durham-filing-that-set-off-conservative-media-explained">The John Durham filing that set off conservative media, explained</a> NPR: The political right is making hay out of a recent filing in special counsel John Durham's investigation into the Trump-Russia probe. We break down the truth behind their outlandish claims. 
+ <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081247527/vp-harris-heads-to-munich-national-security-meeting-at-a-critical-time">VP Harris heads to Munich national security meeting at a critical time</a> NPR: Vice President Kamala Harris is traveling to an annual gathering of the world's top national security officials in Munich, Germany, as leaders work to avert a Russian invasion of Ukraine. 
+ <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1080978624/us-citizenship-syria-refugee-uscic">Seven years after meeting Moh, I waited to hear: Was he now an American citizen?</a> NPR: I knew that Monday, February 14 would be a landmark day for Mohammed al Refai. It would also be a major turning point in a story that I had started following more than six years ago. 
+ <p class="updated_time"> 02:55 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
+ <p class="updated_time"> 02:39 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
- <p class="updated_time"> 01:37 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/business/economy/fed-january-meeting-minutes.html">Fed officials discussed removing policy support more quickly if inflation continues to accelerate.</a> NYT: Minutes from the Federal Reserve’s meeting in January reflected ongoing concern about prices rising across the economy. 
+ <p class="updated_time"> 02:18 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 01:25 PM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:59 PM CT, Feb. 16 </p> 
@@ -205,8 +217,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081149585/biden-trump-white-house-visitor-logs">Biden tells the National Archives to turn over Trump White House visitor logs</a> NPR: President Biden has instructed the National Archives to release visitor records in the next 15 days to the House committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 11:16 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Congressional Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
- <p class="updated_time"> 09:35 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">For Beto O’Rourke, 2020 Still Haunts 2022</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
@@ -263,20 +273,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080804339/nyt-sarah-palin-loses-lawsuit">Sarah Palin loses defamation case against 'The New York Times'</a> NPR: It was a one-two punch for Sarah Palin: The verdict came a day after the presiding judge said he would dismiss the case because Palin's lawyers failed to meet the legal standard of actual malice. 
  <p class="updated_time"> 02:40 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080887602/an-fda-chief-has-been-confirmed-despite-concerns-over-his-pharmaceutical-industr">FDA chief has been confirmed despite concerns over his pharmaceutical industry ties</a> NPR: The Senate voted on Tuesday to confirm Dr. Robert Califf to head the agency on a 50-46 vote. The agency has been without a permanent leader for the last 13 months. 
- <p class="updated_time"> 01:34 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080850659/president-biden-russia-ukraine-tension-diplomacy">Biden says diplomacy continues but a Russian invasion of Ukraine is still possible</a> NPR: In a brief address, President Biden said reports of Russian troops moving from Ukraine's border would be good news, but the U.S. had not verified it. 
- <p class="updated_time"> 10:32 AM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1079356063/leondra-kruger-biden-supreme-court">Leondra Kruger, a star on California's high court, is on Biden's Supreme Court list</a> NPR: If there is a sleeping dog for Republicans to probe in her record, it is one of the 12 cases she argued during her years in the solicitor general's office. 
- <p class="updated_time"> 10:00 AM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080682953/amazon-walmart-and-jpmorgan-chase-among-companies-relaxing-employee-mask-mandate">Amazon, Walmart and JPMorgan Chase among companies relaxing employee mask mandates</a> NPR: As several states relax mask mandates, U.S. companies are easing up their own rules. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
  <p class="updated_time"> 02:45 AM CT, Feb. 15 </p> 
  <a href="https://www.cnn.com/2022/02/14/politics/trump-mazars/index.html">Trump Organization's accounting firm says 10 years of financial statements are unreliable</a> CNN: Former President Donald Trump's long-time accounting firm informed the Trump Organization last week that it should no longer rely on nearly 10 years' worth of financial statements and that they would no longer be their accountants, citing a conflict of interest. 
- <p class="updated_time"> 12:04 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/cindy-axne-iowa-democrat.html">How Cindy Axne, One of the Most At-Risk Democrats in Congress, Hangs On</a> NYT: Meet Representative Cindy Axne of Iowa, who has some advice for the White House about how to talk to voters. 
  <p class="updated_time"> 09:08 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/durham-sussmann-trump-russia.html">Court Filing Started a Furor in Right-Wing Outlets, but Their Narrative Is Off Track</a> NYT: The latest alarmist claims about spying on Trump appeared to be flawed, but the explanation is byzantine — underlining the challenge for journalists in deciding what merits coverage. 
  <p class="updated_time"> 09:06 PM CT, Feb. 14 </p> 
