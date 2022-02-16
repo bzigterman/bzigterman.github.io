@@ -8,6 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:17 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 01:15 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
+ <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
+ <p class="updated_time"> 12:42 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
  <p class="updated_time"> 12:17 PM CT, Feb. 16 </p> 
@@ -20,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Deadly landslides wreak havoc in Brazil's Petrópolis</a> BBC: Dozens of people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 12:00 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident, in which someone saw a man in a wetsuit get dragged underwater, is the city's first fatal shark attack since 1963. Beaches are closed while lifeguards patrol for further shark sightings. 
- <p class="updated_time"> 11:59 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 11:57 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
  <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
@@ -68,6 +74,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
  <p class="updated_time"> 08:07 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
+ <p class="updated_time"> 08:03 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-russian-aircraft-flew-perilously-close-to-each-other-amid-ukraine-tensions-11645032529">U.S., Russian Aircraft Flew Perilously Close to Each Other Amid Ukraine Tensions</a> WSJ: The Pentagon says it expressed concern to Russian officials through diplomatic channels and that such miscalculations could potentially lead to more dangerous outcomes. 
  <p class="updated_time"> 08:00 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081085852/usa-hockey-eliminated-olympics-2022">Team USA men's hockey is knocked out of Olympics by Slovakia in a penalty shootout</a> NPR: Team USA had been one minute away from advancing to the Olympic semifinals — but Slovakia came back to force overtime in the final minute of regulation. 
  <p class="updated_time"> 07:48 AM CT, Feb. 16 </p> 
@@ -76,16 +84,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60402700?at_medium=RSS&at_campaign=KARANGA">Kuwait overturns law criminalising 'imitation of opposite sex'</a> BBC: A court declares that a law criminalising "imitation of the opposite sex" is unconstitutional. 
  <p class="updated_time"> 07:30 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
+ <p class="updated_time"> 07:26 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/prince-andrews-move-to-settle-sex-abuse-case-leaves-difficult-questions-for-palace-11645035975">Prince Andrew's Move to Settle Sex-Abuse Case Leaves Difficult Questions for Palace</a> WSJ: Prince Andrew’s decision to settle allegations of sexual abuse removes the immediate threat of a highly publicized trial, but the aftershocks of the yearslong scandal continue to reverberate in Buckingham Palace. 
  <p class="updated_time"> 07:14 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60400762?at_medium=RSS&at_campaign=KARANGA">Paislee Shultis: US girl missing since 2019 found alive in secret room</a> BBC: Police have charged three people over Paislee Shultis' disappearance in Saugerties, New York state. 
  <p class="updated_time"> 07:07 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, delivering notices to their owners and other protesters demanding they leave a demonstration zone immediately or face arrest. 
  <p class="updated_time"> 06:58 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60403027?at_medium=RSS&at_campaign=KARANGA">Swimmer dies in first fatal shark attack in Sydney since 1963</a> BBC: A swimmer sustained "catastrophic injuries" in Wednesday's attack, Australian officials say. 
- <p class="updated_time"> 06:56 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
- <p class="updated_time"> 06:28 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-russian-aircraft-flew-perilously-close-to-each-other-amid-ukraine-tensions-11645032529">U.S., Russian Aircraft Flew Perilously Close to Each Other Amid Ukraine Tensions</a> WSJ: The Pentagon says it expressed concern to Russian officials through diplomatic channels and that such miscalculations could potentially lead to more dangerous outcomes. 
  <p class="updated_time"> 05:46 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, NATO Chief Says</a> WSJ: The comments from Jens Stoltenberg clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
  <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
@@ -142,10 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080933264/biden-americans-ukraine-russia">Meghan found love in Ukraine. Now her heart is breaking as she evacuates</a> NPR: American Meghan Neville and her boyfriend moved to Ukraine to be near his family. But rising tension with Russia forced the couple to evacuate this week. She hopes they can go back in a month or so. 
  <p class="updated_time"> 04:31 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080933008/7-are-dead-and-14-missing-after-a-spanish-fishing-boat-sinks-off-newfoundland">7 are dead and 14 missing after a Spanish fishing boat sinks off Newfoundland</a> NPR: Three crew members including the vessel's captain were rescued. The Canadian air force and coast guard and other Spanish fishing vessels are searching the area. 
- <p class="updated_time"> 04:29 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080648520/a-geeky-quiz-says-what-kind-of-immune-cell-you-are-bonus-see-our-immune-cell-pri">A geeky quiz says what kind of immune cell you are. Bonus: See our immune cell primer</a> NPR: Answer a few questions and find out what kind of immune cell you'd be — and learn more about these amazing cells that fight off infection. 
- <p class="updated_time"> 04:04 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60396180?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernandez: Former president of Honduras led away in handcuffs</a> BBC: The United States is seeking to extradite Juan Orlando Hernandez for alleged ties to drug traffickers. 
  <p class="updated_time"> 03:29 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
  <p class="updated_time"> 03:01 PM CT, Feb. 15 </p> 
@@ -191,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/2022/02/16/1080229310/judge-michelle-childs-supreme-court-nomination-process">Judge Michelle Childs, whose early life was shaped by gun violence, is on SCOTUS list</a> NPR: Her meteoric rise in the last year has been due in part to her biggest supporter, South Carolina Rep. James Clyburn, the third ranking Democrat in the U.S. House of Representatives. 
  <p class="updated_time"> 11:30 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081149585/biden-trump-white-house-visitor-logs">Biden tells the National Archives to turn over Trump White House visitor logs</a> NPR: President Biden has instructed the National Archives to release visitor records in the next 15 days to the House committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 11:16 AM CT, Feb. 16 </p> 
@@ -261,8 +265,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1079356063/leondra-kruger-biden-supreme-court">Leondra Kruger, a star on California's high court, is on Biden's Supreme Court list</a> NPR: If there is a sleeping dog for Republicans to probe in her record, it is one of the 12 cases she argued during her years in the solicitor general's office. 
  <p class="updated_time"> 10:00 AM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080682953/amazon-walmart-and-jpmorgan-chase-among-companies-relaxing-employee-mask-mandate">Amazon, Walmart and JPMorgan Chase among companies relaxing employee mask mandates</a> NPR: As several states relax mask mandates, U.S. companies are easing up their own rules. 
- <p class="updated_time"> 06:18 AM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080773446/white-house-is-doing-its-best-to-navigate-russia-ukraine-crisis-sen-sanders-says">White House is doing its best to navigate Russia-Ukraine crisis, Sen. Sanders says</a> NPR: Vermont Sen. Bernie Sanders tells NPR's Rachel Martin that a potential war in Ukraine could have unforeseen consequences for Russia, for Ukraine and for the rest of the world. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
