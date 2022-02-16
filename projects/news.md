@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60387695?at_medium=RSS&at_campaign=KARANGA">Putin critic Navalny put on trial again in Russia</a> BBC: The opposition leader, who has already spent a year behind bars, faces fresh fraud charges. 
+ <p class="updated_time"> 11:03 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
+ <p class="updated_time"> 10:54 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
  <p class="updated_time"> 10:44 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Human cost of Russia attack would be immense - Biden</a> BBC: The US president says an invasion of Ukraine is still possible despite Russian claims of a withdrawal. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
  <p class="updated_time"> 10:20 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-60398056?at_medium=RSS&at_campaign=KARANGA">Disney appoints executive to oversee metaverse strategy</a> BBC: Technology giants, including Meta and Microsoft, are pouring billions of dollars into the metaverse. 
- <p class="updated_time"> 09:43 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
@@ -122,10 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html">In France, a Racist Conspiracy Theory Edges Into the Mainstream</a> NYT: Valérie Pécresse, the center-right presidential candidate, used the phrase ‘great replacement’ in a speech punctuated with coded attacks on immigrants and Muslims. 
- <p class="updated_time"> 10:23 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
- <p class="updated_time"> 10:16 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60388111?at_medium=RSS&at_campaign=KARANGA">Qandeel Baloch: Court acquits brother of Pakistan star's murder</a> BBC: Muhammed Waseem confessed to killing Qandeel Baloch, saying she had brought shame on the family. 
  <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 09:24 AM CT, Feb. 15 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:14 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Migrants Left in Limbo After Policy Change to Help Busy Border Officials</a> NYT: Republicans say the new policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
  <p class="updated_time"> 11:02 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Inquiry Subpoenas 6 Tied to False Pro-Trump Elector Effort</a> NYT: The committee is digging deeper into a plan by former President Donald J. Trump’s allies to reverse his election loss in key states by sending fake slates of electors who would say he won. 
  <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
@@ -261,8 +263,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
  <p class="updated_time"> 03:10 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/asia/us-china-panda-diplomacy.html">50 Years Later, Some Question Value of U.S.-China ‘Panda Diplomacy’</a> NYT: In 1972, China sent two pandas to the United States as a gesture of good will. In recent years, experts say the animals have taken on a new role: softening China’s authoritarian image. 
- <p class="updated_time"> 02:35 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/us/politics/border-immigrants-expedited-asylum.html">Migrants Left in Limbo After Policy Change to Help Busy Border Officials</a> NYT: Republicans say the new policy helps undocumented immigrants disappear; many immigrants say it has prevented them from following the government’s instructions. 
  <p class="updated_time"> 01:03 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/technology/republican-trump-peter-thiel.html">Peter Thiel, the Right’s Would-Be Kingmaker</a> NYT: Peter Thiel, one of Donald J. Trump’s biggest donors in 2016, has re-emerged as a prime financier of the Make America Great Again movement. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
