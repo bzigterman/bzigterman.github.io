@@ -8,12 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:37 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
+ <p class="updated_time"> 03:30 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
+ <p class="updated_time"> 03:23 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 78 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 03:09 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60407938?at_medium=RSS&at_campaign=KARANGA">Canada protests: Ottawa holds out as Canada blockades cleared</a> BBC: Ottawa police have issued leaflets to remaining protesters telling them to leave the area. 
  <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
- <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Immediate Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. Still, Western officials were cautiously hopeful for a diplomatic solution to the crisis. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081247520/russias-latest-military-movements-stoke-confusion">Russia's latest military movements stoke confusion</a> NPR: Is Russia escalating — or de-escalating — its military positions along the borders of Ukraine? There are conflicting claims about what's happening now, and what could come next. 
  <p class="updated_time"> 02:50 PM CT, Feb. 16 </p> 
@@ -24,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081185004/russia-ukraine-invasion-us-impact">Biden says a Russian invasion of Ukraine would hurt Americans. Here's how</a> NPR: A full-scale invasion is not a certainty. But if it happens, experts say the effects of sanctions, energy market disruptions and cyberwarfare could reach everyday Americans. 
  <p class="updated_time"> 02:28 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081119920/greenwashing-oil-companies">Accusations of 'greenwashing' by big oil companies are well-founded, a new study finds</a> NPR: Chevron, ExxonMobil, BP and Shell used terms like "climate" and "low-carbon" more frequently in recent annual reports, but their actions on clean energy didn't match their words, researchers conclude. 
- <p class="updated_time"> 02:27 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
  <p class="updated_time"> 02:01 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081157054/full-snow-moon">Photos: February's 'Snow Moon' rises full and bright</a> NPR: While you're sky-gazing, look to the western horizon. Jupiter will be setting there as evening twilight ends. And that bright star? That's Regulus, part of the Leo constellation. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
@@ -53,7 +57,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:31 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081141189/china-coal-olympics-environment">China puts coal plants at full capacity, even as it touts hosting a 'green' Olympics</a> NPR: "Coal supply will be increased and coal-fired power plants" will run at full capacity, the central government said this week. 
  <p class="updated_time"> 11:24 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Survivors from Spanish trawler that sunk off Canada unlikely, rescuers say</a> BBC: The vessel sunk off Canada on Monday, but rescuers say there is little hope of finding survivors. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Survivors from Spanish trawler that sank off Canada unlikely, rescuers say</a> BBC: The vessel sank off Canada on Monday, but rescuers say there is little hope of finding survivors. 
  <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081139566/new-zealand-ban-conversion-therapy">New Zealand just became the latest country to outlaw conversion therapy</a> NPR: The new law calls for prison time for anyone who performs conversion therapy on children under 18 or who performs a practice that "causes serious harm to the individual" — regardless of their age. 
  <p class="updated_time"> 11:12 AM CT, Feb. 16 </p> 
@@ -70,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60339746?at_medium=RSS&at_campaign=KARANGA">Covid: Hong Kong's hospitals overwhelmed amid spike in cases</a> BBC: Infected patients are treated outside crowded facilities as daily cases reach a new record. 
  <p class="updated_time"> 09:55 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, West Says</a> WSJ: The comments from NATO and U.S. officials clashed with Moscow’s announcement that it had begun drawing down some of its troops and its circulation of footage of military vehicles being removed from the Crimean Peninsula. 
- <p class="updated_time"> 09:20 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 08:52 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
  <p class="updated_time"> 08:51 AM CT, Feb. 16 </p> 
@@ -193,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
+ <p class="updated_time"> 03:38 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/vulnerable-senate-dems-tax-cuts-00009497">Vulnerable Senate Dems try to run as tax-cutters</a> Politico: They're pitching gas tax holidays and other pocketbook-friendly plans to combat GOP messaging on inflation. But any real proposal has a long way to go. 
  <p class="updated_time"> 03:09 PM CT, Feb. 16 </p> 
@@ -207,8 +211,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
  <p class="updated_time"> 02:39 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
- <p class="updated_time"> 02:18 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 01:25 PM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:59 PM CT, Feb. 16 </p> 
@@ -242,7 +244,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">U.S. Intelligence Agencies Face Crucial Test in Deciphering Putin’s Motives</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 07:14 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/business/media/new-york-times.html">Sarah Palin’s Libel Claim Against The Times Is Rejected by a Jury</a> NYT: The verdict came a day after the judge said he planned to dismiss the case, ruling that Ms. Palin’s legal team had failed to prove that the newspaper defamed her. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
