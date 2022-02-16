@@ -8,34 +8,54 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:16 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
- <p class="updated_time"> 07:00 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Live Updates: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
- <p class="updated_time"> 06:58 PM CT, Feb. 15 </p> 
+ <p class="updated_time"> 09:06 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
- <p class="updated_time"> 06:41 PM CT, Feb. 15 </p> 
+ <p class="updated_time"> 08:28 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
+ <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
+ <p class="updated_time"> 08:21 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
+ <p class="updated_time"> 07:50 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
+ <p class="updated_time"> 07:49 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60303921?at_medium=RSS&at_campaign=KARANGA">Who are Virginia Giuffre's powerhouse lawyers?</a> BBC: Two of America's most famed and formidable litigators have taken on Epstein's accusers pro bono. 
+ <p class="updated_time"> 07:46 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-juan-orlando-hernandez-detained.html">Former Honduran President Juan Orlando Hernandez Detained</a> NYT: The request said Juan Orlando Hernández, who left office last month, was wanted in connection to a “violent drug-trafficking conspiracy.” 
+ <p class="updated_time"> 07:45 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60099934?at_medium=RSS&at_campaign=KARANGA">Andrew Brettler: Who is Prince Andrew's Hollywood lawyer?</a> BBC: A highly sought-after entertainment lawyer, Andrew Brettler has defended many men accused of sexual abuse. 
+ <p class="updated_time"> 07:42 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
+ <p class="updated_time"> 07:35 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60297302?at_medium=RSS&at_campaign=KARANGA">US Kremlin backers seek to undermine President Biden</a> BBC: Americans who reject the US president's stance on Ukraine are reshaping the Republican party. 
+ <p class="updated_time"> 07:34 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-sanctions-congress-republicans.html">Republicans Propose Sanctions Against Russia Over Ukraine</a> NYT: What began as an effort to present a unified front on Capitol Hill against Russia has faltered amid disagreements between Democrats and Republicans over just how far to go. 
+ <p class="updated_time"> 07:31 PM CT, Feb. 15 </p> 
+ <a href="https://www.npr.org/2022/02/15/1081009674/russia-opposition-leader-alexei-navalny-new-trial-prison-putin">Russian opposition leader Alexei Navalny faces a new trial, this time in prison</a> NPR: A new trial against Russian opposition leader Alexei Navalny has opened at the penal colony where he faces another lengthy prison term. 
+ <p class="updated_time"> 07:20 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60392368?at_medium=RSS&at_campaign=KARANGA">Ten dead and 11 missing as Spanish trawler sinks off Canada</a> BBC: Three crew members have been found and rescue efforts are continuing for other survivors. 
+ <p class="updated_time"> 07:19 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60397695?at_medium=RSS&at_campaign=KARANGA">PJ O'Rourke: US conservative satirist dies at 74</a> BBC: The best-selling writer and political commentator defied the leftward trend of American humour. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/canada/canada-protests-ottawa.html">Behind the Fractious Collaboration Steering the Canada Protests</a> NYT: The organizers include former law enforcement officers, military veterans and conservative organizers who are steering unrest that has sent shock waves throughout Canada. 
- <p class="updated_time"> 06:07 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60392368?at_medium=RSS&at_campaign=KARANGA">Ten dead and 11 missing as Spanish trawler sinks off Canada</a> BBC: Three crew members have been found and rescue efforts are continuing for other survivors. 
- <p class="updated_time"> 05:58 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60397695?at_medium=RSS&at_campaign=KARANGA">PJ O'Rourke: US conservative satirist dies at 74</a> BBC: The best-selling writer and political commentator defied the leftward trend of American humour. 
+ <p class="updated_time"> 06:27 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60385700?at_medium=RSS&at_campaign=KARANGA">Hungarian election: Orban faces toughest race so far</a> BBC: An independent conservative will try to topple the right-wing Fidesz government in polls on 3 April. 
+ <p class="updated_time"> 06:22 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60384651?at_medium=RSS&at_campaign=KARANGA">Single's Inferno: Why 'fake' rich girl Song Ji-a enraged South Korea</a> BBC: Song Ji-a shot to fame in reality show Single's Inferno, but then had a spectacular fall from grace. 
+ <p class="updated_time"> 06:17 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60384681?at_medium=RSS&at_campaign=KARANGA">Karnataka hijab controversy is polarising its classrooms</a> BBC: Young students on both sides of the hijab row say they are struggling to understand their classmates. 
+ <p class="updated_time"> 06:09 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60303769?at_medium=RSS&at_campaign=KARANGA">Telegram: Where women's nudes are shared without consent</a> BBC: A BBC investigation has found that women’s intimate photos are being shared in large groups on Telegram. 
  <p class="updated_time"> 05:38 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60392198?at_medium=RSS&at_campaign=KARANGA">Rust shooting: Lawsuit alleges Baldwin 'recklessly shot' Hutchins</a> BBC: Halyna Hutchins died on the set of Rust after a gun actor Alec Baldwin was holding discharged. 
- <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
  <p class="updated_time"> 05:33 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
  <p class="updated_time"> 05:28 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60396947?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian attack still a possibility - Biden</a> BBC: The US president says invasion is "still very much a possibility" but the human cost would be "immense". 
  <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080981676/ottawa-police-chief-loses-job-for-not-acting-decisively-enough-against-blockade">Ottawa police chief loses job for not acting decisively enough against blockade</a> NPR: Trucks rolled out of Coutts, Alberta, on Tuesday leaving just one blockade in Manitoba near the border with North Dakota. 
- <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-sanctions-congress-republicans.html">Republicans Propose Sanctions Against Russia Over Ukraine</a> NYT: What began as an effort to present a unified front on Capitol Hill against Russia has faltered amid disagreements between Democrats and Republicans over just how far to go. 
  <p class="updated_time"> 05:11 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080933264/biden-americans-ukraine-russia">Meghan found love in Ukraine. Now her heart is breaking as she evacuates</a> NPR: American Meghan Neville and her boyfriend moved to Ukraine to be near his family. But rising tension with Russia forced the couple to evacuate this week. She hopes they can go back in a month or so. 
  <p class="updated_time"> 04:34 PM CT, Feb. 15 </p> 
@@ -44,14 +64,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080933008/7-are-dead-and-14-missing-after-a-spanish-fishing-boat-sinks-off-newfoundland">7 are dead and 14 missing after a Spanish fishing boat sinks off Newfoundland</a> NPR: Three crew members including the vessel's captain were rescued. The Canadian air force and coast guard and other Spanish fishing vessels are searching the area. 
  <p class="updated_time"> 04:29 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080648520/a-geeky-quiz-says-what-kind-of-immune-cell-you-are-bonus-see-our-immune-cell-pri">A geeky quiz says what kind of immune cell you are. Bonus: See our immune cell primer</a> NPR: Answer a few questions and find out what kind of immune cell you'd be — and learn more about these amazing cells that fight off infection. 
- <p class="updated_time"> 04:09 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-juan-orlando-hernandez-detained.html">Former Honduran President Juan Orlando Hernandez Detained</a> NYT: The request said Juan Orlando Hernández, who left office last month, was wanted in connection to a “violent drug-trafficking conspiracy.” 
  <p class="updated_time"> 04:04 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60396180?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernandez: Former president of Honduras led away in handcuffs</a> BBC: The United States is seeking to extradite Juan Orlando Hernandez for alleged ties to drug traffickers. 
  <p class="updated_time"> 03:44 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 03:29 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/russia-putin-latin-america-bolsonaro.html">A World Away From Ukraine, Russia Is Courting Latin America</a> NYT: The Ukraine crisis has revived a struggle over Latin America between the U.S. and Russia, as Vladimir V. Putin seeks greater influence in the region. 
+ <p class="updated_time"> 03:26 PM CT, Feb. 15 </p> 
+ <a href="https://www.wsj.com/articles/freedom-convoy-protesters-in-canadas-capital-city-dig-in-after-tougher-measures-11644947631">'Freedom Convoy' Protesters in Canada's Capital City Dig In After Tougher Measures</a> WSJ: Trucks and other vehicles clogged the streets of Ottawa a day after the government invoked extraordinary emergency powers aimed at forcing protesters to leave. 
  <p class="updated_time"> 03:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html">In Italy, a Call for a National Investigation Into Clerical Sexual Abuse</a> NYT: Italy has so far resisted calls for an independent investigation into how the Roman Catholic church has handled these cases. 
  <p class="updated_time"> 02:54 PM CT, Feb. 15 </p> 
@@ -84,10 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1080850659/president-biden-russia-ukraine-tension-diplomacy">Biden says diplomacy continues but a Russian invasion of Ukraine is still possible</a> NPR: In a brief address, President Biden said reports of Russian troops moving from Ukraine's border would be good news, but the U.S. had not verified it. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html">On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</a> NYT: Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation. 
- <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/freedom-convoy-protesters-in-canadas-capital-city-dig-in-after-tougher-measures-11644947631">'Freedom Convoy' Protesters in Canada's Capital City Dig In After Tougher Measures</a> WSJ: Trucks and other vehicles clogged the streets of Ottawa a day after the government invoked extraordinary emergency powers aimed at forcing protesters to leave. 
- <p class="updated_time"> 12:49 PM CT, Feb. 15 </p> 
- <a href="https://www.npr.org/2022/02/15/1080678670/do-you-fit-in-with-your-workplace-culture-share-your-story">Do you fit in with your workplace culture? Share your story</a> NPR: What aspects of workplace culture make your palms sweat – or just leave you scratching your head? We want to hear from you. 
  <p class="updated_time"> 12:22 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60396179?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Reaction from my colleagues 'hurt me a lot'</a> BBC: Novak Djokovic speaks exclusively to the BBC about his time in detention in Australia last month. 
  <p class="updated_time"> 12:03 PM CT, Feb. 15 </p> 
@@ -136,14 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-invasion-identity.html">Ukrainians Find Common Purpose in Opposing Russia</a> NYT: A trip along the Dnieper River explores what it means to be Ukrainian at a moment of extreme peril, as the country debates Russia’s place in its past, and its future. 
  <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
- <p class="updated_time"> 06:54 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60334181?at_medium=RSS&at_campaign=KARANGA">UP election: Are women really thriving in Uttar Pradesh as PM Modi claims?</a> BBC: We test PM Narendra Modi's claim that Uttar Pradesh is now safe and full of opportunities for women. 
- <p class="updated_time"> 06:52 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60380317?at_medium=RSS&at_campaign=KARANGA">Why is Canada's Covid death rate so much lower than US?</a> BBC: Despite protests raging in Canada, the country is managing Covid better than the US, data shows. 
- <p class="updated_time"> 06:45 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60258327?at_medium=RSS&at_campaign=KARANGA">Nigeria's sleepless students trying to beat the Lagos traffic</a> BBC: Nigeria's largest city is notorious for its traffic, which is having an impact on children's education. 
- <p class="updated_time"> 06:41 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/60309566?at_medium=RSS&at_campaign=KARANGA">US mid-terms: How will new voting laws affect the election?</a> BBC: New rules are coming in across the US ahead of mid-term elections. What impact will they have? 
  <p class="updated_time"> 06:18 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370227?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The fear of fleeing home twice</a> BBC: Amid fears of a Russian invasion, families who have fled once before are worried they will have to run again. 
  <p class="updated_time"> 06:11 PM CT, Feb. 14 </p> 
@@ -170,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/canada/doug-ford-announcement-ontario.html">Ontario will no longer require people show proof of vaccination to enter any indoor spaces.</a> NYT: Doug Ford, the premier, said that the change was based on the diminishing number of coronavirus cases and hospitalizations, and was not a concession to the protesters. 
  <p class="updated_time"> 09:33 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
- <p class="updated_time"> 08:30 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/organic-cotton-fraud-india.html">That Organic Cotton T-Shirt May Not Be as Organic as You Think</a> NYT: The organic cotton movement in India appears to be booming, but much of this growth is fake, say those who source, process and grow the cotton. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
  <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
@@ -180,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
  <p class="updated_time"> 04:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/13/world/cook-islands-covid.html">A remote island nation confronts its first confirmed coronavirus case.</a> NYT: The case in the Cook Islands emerged a month after the country reopened its air borders to travelers from New Zealand. 
- <p class="updated_time"> 01:56 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/europe/ukraine-russia-zelensky.html">Ukraine’s President Tries to Avert Panic as Pressure Mounts</a> NYT: With Ukraine at the center of Europe’s most intense security crisis of the post-Cold War era, President Zelensky is driving home his message of optimism. 
 
 
 </details>
@@ -189,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 07:14 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/business/media/new-york-times.html">Sarah Palin’s Libel Claim Against The Times Is Rejected by a Jury</a> NYT: The verdict came a day after the judge said he planned to dismiss the case, ruling that Ms. Palin’s legal team had failed to prove that the newspaper defamed her. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
@@ -209,8 +215,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222">Jan. 6 panel targets key players in false Trump elector strategy</a> Politico: Investigators are probing the Trump campaign's involvement in efforts to send fake electors to Washington. 
  <p class="updated_time"> 04:46 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/health/fda-califf-senate-vote.html">Senate Confirms Califf as F.D.A. Chief in Tight Vote</a> NYT: The narrow 50-to-46 decision underscored the divisions on both sides of the aisle over agency policies on opioids and abortion medications and his ties to the drug industry. 
- <p class="updated_time"> 04:28 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 04:08 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080890000/senate-republicans-nominations-federal-reserve-sarah-bloom-raskin-inflation">Senate Republicans block a key vote on Biden's nominations for the Federal Reserve</a> NPR: Republicans boycotted a meeting of the Senate Banking Committee Tuesday, delaying a vote on five nominees to the Fed's board. The move was aimed at one nominee: Sarah Bloom Raskin. 
  <p class="updated_time"> 03:03 PM CT, Feb. 15 </p> 
@@ -309,8 +313,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/09/biden-lags-behind-dem-govs-on-easing-mask-mandates-00007120"> Biden lags behind Dem govs on easing mask mandates</a> Politico Playbook: And a new poll shows strong support for increasing police funding. 
  <p class="updated_time"> 04:30 AM CT, Feb. 09 </p> 
  <a href="https://www.politico.com/news/2022/02/09/left-splits-over-supreme-court-pick-00006979">Left splits over Supreme Court pick pushed by top Biden ally</a> Politico: Rep. Jim Clyburn is stumping for judge Michelle Childs to get the president's nod. While labor interests are skeptical, not every progressive senator is. 
- <p class="updated_time"> 08:05 PM CT, Feb. 08 </p> 
- <a href="https://www.politico.com/news/2022/02/08/congress-government-funding-deal-00007069">House passes shutdown patch to buy more time for 'close' spending deal</a> Politico: The new compromise is expected to increase military spending by at least 5 percent. 
 
 
 </details>
