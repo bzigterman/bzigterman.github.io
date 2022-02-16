@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:50 AM CT, Feb. 16 </p> 
+ <p class="updated_time"> 07:06 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Live Updates: Ukraine Promotes Unity as U.S. and Russia Tangle Over Its Fate</a> NYT: President Biden and President Vladimir V. Putin of Russia both said that they would seek a diplomatic path to avert an invasion of Ukraine. Russia said it was continuing to pull troops back from near Ukraine, but a senior Pentagon official said the U.S. had seen no indication of a withdrawal or redeployment. 
+ <p class="updated_time"> 06:58 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60403027?at_medium=RSS&at_campaign=KARANGA">Swimmer dies in first fatal shark attack in Sydney since 1963</a> BBC: A swimmer sustained "catastrophic injuries" in Wednesday's attack, Australian officials say. 
+ <p class="updated_time"> 06:56 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 06:42 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60397947?at_medium=RSS&at_campaign=KARANGA">Prince Andrew: Questions over payout after settlement with Virginia Giuffre</a> BBC: No details of the Duke of York's payout to Virginia Giuffre have been made public. 
  <p class="updated_time"> 05:53 AM CT, Feb. 16 </p> 
@@ -38,8 +42,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">At Olympics, Nathan Chen and Other American Chinese Asked to Pick a Side</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
  <p class="updated_time"> 02:55 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081039454/why-does-norway-dominate-the-winter-olympics-medal-count">Norway is dominating the Winter Olympics. What's its gold medal secret?</a> NPR: With a population roughly equal to Minnesota, Norway is a global superpower in winter sports. The Scandinavian country leads in Beijing by a lot - both in golds and total overall medals. 
- <p class="updated_time"> 02:45 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
+ <p class="updated_time"> 02:10 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/china-inflation-eases-as-economy-could-use-a-boost-11644993402">China Inflation Eases as Economy Could Use a Boost</a> WSJ: Inflationary pressure continued to ease in January, offering room for Beijing to stimulate growth while more major economies are looking to tighten policy to curb rising prices. 
  <p class="updated_time"> 01:32 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/eu-court-rules-funding-for-poland-hungary-can-be-cut-11645008106">EU Court Rules Funding for Poland, Hungary Can Be Cut</a> WSJ: Europe’s top court ruled that the bloc could withhold money for member countries that have curtailed the independence of their democratic institutions, marking a potentially costly defeat for Hungary and Poland. 
  <p class="updated_time"> 01:29 AM CT, Feb. 16 </p> 
@@ -51,9 +55,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:47 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398029?at_medium=RSS&at_campaign=KARANGA">Djokovic saga highlights Australia asylum seekers held for record 689 days</a> BBC: Human Rights Watch highlighted the record figure following Novak Djokovic's detention last month. 
  <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
+ <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: The Chinese leader told Hong Kong’s government to control a spiraling Covid-19 outbreak that has overwhelmed the city’s healthcare system. 
  <p class="updated_time"> 12:00 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/xi-jinping-orders-hong-kong-to-get-a-grip-on-spiraling-covid-19-outbreak-11645009221">Xi Jinping Orders Hong Kong to Get a Grip on Spiraling Covid-19 Outbreak</a> WSJ: Chinese leader Xi Jinping told Hong Kong’s government to control a spiraling Covid-19 outbreak that has overwhelmed the city’s healthcare system. 
+ <a href="https://www.wsj.com/articles/france-eyes-military-withdrawal-from-mali-that-could-leave-african-security-vacuum-11645009228">France Eyes Military Withdrawal From Mali</a> WSJ: France and its European allies are preparing to withdraw their military forces from Mali, a move that would leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terror groups and tamping down ethnic conflict. 
  <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:45 PM CT, Feb. 15 </p> 
@@ -74,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60099934?at_medium=RSS&at_campaign=KARANGA">Andrew Brettler: Who is Prince Andrew's Hollywood lawyer?</a> BBC: A highly sought-after entertainment lawyer, Andrew Brettler has defended many men accused of sexual abuse. 
  <p class="updated_time"> 07:42 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
- <p class="updated_time"> 07:36 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/china-inflation-eases-as-economy-could-use-a-boost-11644993402">China Inflation Eases as Economy Could Use a Boost</a> WSJ: Inflationary pressure continued to ease in January, offering room for Beijing to stimulate growth while more major economies are looking to tighten policy to curb rising prices. 
  <p class="updated_time"> 07:35 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297302?at_medium=RSS&at_campaign=KARANGA">US Kremlin backers seek to undermine President Biden</a> BBC: Americans who reject the US president's stance on Ukraine are reshaping the Republican party. 
  <p class="updated_time"> 07:31 PM CT, Feb. 15 </p> 
@@ -184,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
- <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
 
 
 </details>
@@ -197,10 +197,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/biden-investigators-trump-jan-6-white-house-visitor-logs-00009351">Biden clears way for investigators to obtain Trump’s Jan. 6 White House visitor logs</a> Politico: It’s unclear if Trump will launch another court action to prevent the newly identified records from reaching lawmakers. 
  <p class="updated_time"> 07:34 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/16/senate-settles-for-dear-vladimir-00009350">Senate settles for Dear Vladimir</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:58 AM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-trump-white-house-visitor-logs.html">Biden Rejects Trump’s Claim of Privilege for White House Visitor Logs</a> NYT: The president informed the National Archives that it should turn over the logs sought by the Jan. 6 committee within 15 days. 
  <p class="updated_time"> 06:13 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
- <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-trump-white-house-visitor-logs.html">Biden Rejects Trump’s Claim of Privilege for White House Visitor Logs</a> NYT: The president informed the National Archives that it should turn over the logs sought by the Jan. 6 committee within 15 days. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
