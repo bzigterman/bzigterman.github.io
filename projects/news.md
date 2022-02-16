@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:38 AM CT, Feb. 16 </p> 
+ <p class="updated_time"> 02:39 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 02:38 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/top-european-court-rules-eu-can-freeze-aid-to-poland-and-hungary.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice approved the bloc’s decision to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice approved the bloc’s decision to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 02:23 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
  <p class="updated_time"> 02:19 AM CT, Feb. 16 </p> 
@@ -22,6 +22,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 01:08 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081035854/popular-bollywood-musical-artist-bappi-lahiri-dies-at-age-69">Popular Bollywood musical artist Bappi Lahiri dies at age 69</a> NPR: Observers say singer and composer Lahiri introduced a more contemporary style to Hindi film music. 
+ <p class="updated_time"> 12:47 AM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60398029?at_medium=RSS&at_campaign=KARANGA">Djokovic saga highlights Australia asylum seekers held for record 689 days</a> BBC: Human Rights Watch highlighted the record figure following Novak Djokovic's detention last month. 
  <p class="updated_time"> 11:59 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
  <p class="updated_time"> 11:09 PM CT, Feb. 15 </p> 
@@ -30,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60386066?at_medium=RSS&at_campaign=KARANGA">New Zealand: Scientists discover rare baby ghost shark</a> BBC: The creature is rarely spotted as it prefers to live in the murky depths of the sea floor. 
  <p class="updated_time"> 10:32 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/winter-olympics-no-snow-countries.html">How Countries With No Snow Are Competing in the Winter Olympics</a> NYT: Several skiers representing countries with little snow are making their Olympic debut in Beijing, partly because of a diversity initiative that has generated controversy. 
- <p class="updated_time"> 10:20 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-60398056?at_medium=RSS&at_campaign=KARANGA">Disney appoints executive to oversee metaverse strategy</a> BBC: Technology giants, including Meta and Microsoft, are pouring billions of dollars into the metaverse. 
  <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
@@ -58,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/15/1081009674/russia-opposition-leader-alexei-navalny-new-trial-prison-putin">Russian opposition leader Alexei Navalny faces a new trial, this time in prison</a> NPR: A new trial against Russian opposition leader Alexei Navalny has opened at the penal colony where he faces another lengthy prison term. 
  <p class="updated_time"> 07:20 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60392368?at_medium=RSS&at_campaign=KARANGA">Ten dead and 11 missing as Spanish trawler sinks off Canada</a> BBC: Three crew members have been found and rescue efforts are continuing for other survivors. 
- <p class="updated_time"> 07:19 PM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60397695?at_medium=RSS&at_campaign=KARANGA">PJ O'Rourke: US conservative satirist dies at 74</a> BBC: The best-selling writer and political commentator defied the leftward trend of American humour. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/canada/canada-trucker-protests-donations.html">Canadians Donated Half of Funds for Trucker Protest, Leaked Data Shows</a> NYT: A close look at donor data — from crowdfunding campaigns to Bitcoin fund-raisers — reveals a cross-border mix of motives in support of the Canada convoy. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
@@ -120,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/15/1080707913/why-this-usaid-official-is-optimistic-the-u-s-can-get-the-world-vaccinated">Why this USAID official is optimistic the U.S. can get the world vaccinated</a> NPR: Jeremy Konyndyk, executive director of USAID's COVID task force, shares his perspective on the U.S.' efforts to donate and distribute vaccines to low-income nations. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/us-russia-ukraine-war.html">On Ukraine, U.S. and Russia Wage Signaling War to Avert Actual War</a> NYT: Each side is trying to convince the other that the price of conflict is too high. It is a complex game played with deliberate ambiguity, raising the risk of lethal miscalculation. 
- <p class="updated_time"> 12:46 PM CT, Feb. 15 </p> 
- <a href="https://www.wsj.com/articles/u-s-seeks-extradition-of-former-honduras-president-on-drug-related-charges-11644925363">Honduras Arrests Former President Sought by U.S. on Drug Charges</a> WSJ: U.S. prosecutors allege that former Honduran President Juan Orlando Hernández received millions of dollars in bribes from drug smugglers who shipped tons of cocaine to the U.S. in exchange for protection. 
  <p class="updated_time"> 12:22 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60396179?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic: Reaction from my colleagues 'hurt me a lot'</a> BBC: Novak Djokovic speaks exclusively to the BBC about his time in detention in Australia last month. 
  <p class="updated_time"> 12:03 PM CT, Feb. 15 </p> 
