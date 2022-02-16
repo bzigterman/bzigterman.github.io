@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:06 PM CT, Feb. 15 </p> 
+ <p class="updated_time"> 09:43 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60398316?at_medium=RSS&at_campaign=KARANGA">Bappi Lahiri: King of Bollywood disco dies at 69</a> BBC: The music composer, known for his groovy disco tunes and iconic style, has died at the age of 69. 
+ <p class="updated_time"> 09:35 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
+ <p class="updated_time"> 09:31 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60395241?at_medium=RSS&at_campaign=KARANGA">Ottawa police chief resigns amid anti-mandate protests</a> BBC: Canada's capital city has been paralysed by more than two weeks of anti-vaccine mandate protests. 
+ <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60398296?at_medium=RSS&at_campaign=KARANGA">Ukrainians wary of Russian claims of withdrawal</a> BBC: Kyiv says it wants to see evidence that Russia really is moving troops away from the border. 
  <p class="updated_time"> 08:28 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 08:21 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/02/15/world/canada-protests-news">Canada Protests: Ottawa Police Chief Resigns After Trudeau Declares National Emergency to End Protests</a> NYT: The extraordinary move allows the police to seize trucks used in blockades. And the government will formally ban demonstrations in areas like border crossings, airports and Ottawa, the country’s capital. 
- <p class="updated_time"> 07:50 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news">As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible</a> NYT: The president said the United States has not verified that Russia has begun to withdraw troops and its forces “remain very much in a threatening position.” 
  <p class="updated_time"> 07:49 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60303921?at_medium=RSS&at_campaign=KARANGA">Who are Virginia Giuffre's powerhouse lawyers?</a> BBC: Two of America's most famed and formidable litigators have taken on Epstein's accusers pro bono. 
  <p class="updated_time"> 07:46 PM CT, Feb. 15 </p> 
@@ -120,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60386181?at_medium=RSS&at_campaign=KARANGA">Valieva competes despite failed drugs test</a> BBC: An emotional Kamila Valieva launches her bid for figure skating gold after a court cleared her to compete despite a positive drugs test. 
  <p class="updated_time"> 10:16 AM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60388111?at_medium=RSS&at_campaign=KARANGA">Qandeel Baloch: Court acquits brother of Pakistan star's murder</a> BBC: Muhammed Waseem confessed to killing Qandeel Baloch, saying she had brought shame on the family. 
- <p class="updated_time"> 10:10 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60388181?at_medium=RSS&at_campaign=KARANGA">Sudanese boy rescued after eight hours trapped in rubbish lorry</a> BBC: The 10-year-old refuse worker in Sudan became trapped in the truck's crushing mechanism. 
  <p class="updated_time"> 09:38 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/us-closing-kyiv-embassy.html">The U.S. Is Closing Its Kyiv Embassy and Moving to Western Ukraine</a> NYT: The American secretary of state said the temporary embassy would remain engaged with the Ukrainian government. 
  <p class="updated_time"> 09:24 AM CT, Feb. 15 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/europe/ukraine-russia-putin-zelensky-scholz-nato.html">Tone of Ukraine Crisis Shifts as Russia Signals Openness to Talk More</a> NYT: Diplomacy is “far from exhausted,” Russia’s foreign minister said, while President Volodymyr Zelensky of Ukraine said the prospect of his country joining NATO might be just a “dream.” 
  <p class="updated_time"> 06:17 AM CT, Feb. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-faces-up-to-15-years-in-prison-as-new-trial-opens-11644944365">Russia's Navalny Faces Up to 15 Years in Prison as New Trial Opens</a> WSJ: Jailed Kremlin critic Alexei Navalny went on trial facing embezzlement charges that could see his prison term extended by up to 15 years, in the latest salvo against Russia’s embattled opposition as the threat of a Russian invasion of Ukraine seizes the attention of Western powers. 
- <p class="updated_time"> 05:19 AM CT, Feb. 15 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60314572?at_medium=RSS&at_campaign=KARANGA">Children's game Roblox has a sex problem</a> BBC: A BBC investigation has found virtual sex parties are taking place in a popular online children’s game. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
  <p class="updated_time"> 03:45 AM CT, Feb. 15 </p> 
@@ -154,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 06:18 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60370227?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The fear of fleeing home twice</a> BBC: Amid fears of a Russian invasion, families who have fled once before are worried they will have to run again. 
- <p class="updated_time"> 06:11 PM CT, Feb. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60378972?at_medium=RSS&at_campaign=KARANGA">Nigeria's prisons problem: Former inmates reveal horrific experiences</a> BBC: Joy’s husband died in custody after three years in prison. He was one of thousands of Nigerian inmates detained without trial. 
  <p class="updated_time"> 05:23 PM CT, Feb. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60383394?at_medium=RSS&at_campaign=KARANGA">Flock of blackbirds drops dead mid-flight in Mexico</a> BBC: Video shows close to 100 yellow-headed blackbirds falling from the sky mid-flight in northern Mexico. 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
@@ -180,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/14/world/americas/nicaragua-universities-ortega-dictatorship.html">Nicaragua Seizes Universities, Inching Toward Dictatorship</a> NYT: Many see the move as President Daniel Ortega’s latest effort to clamp down on dissent, after persecuting political opponents and extending his time in office. 
  <p class="updated_time"> 07:14 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/camilla-duchess-of-cornwall-covid.html">Camilla, the Duchess of Cornwall, Tests Positive for Covid-19</a> NYT: The announcement is likely to fan further concerns about the health of Queen Elizabeth II, who was in contact with Charles, her eldest son, two days before he tested positive. 
- <p class="updated_time"> 05:49 AM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/13/world/americas/canada-trucker-protest.html">Canada Opens Blockaded Bridge, but in Ottawa, Truckers Won’t Budge</a> NYT: Amid progress at a border bridge, Ottawa remained frozen by an antigovernment protest. There were signs of a slight thaw, with truckers said to be weighing pulling out of part of the capital. 
  <p class="updated_time"> 04:35 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/asia/china-xi-jinping.html">China's Succession Drama, Starring Xi Jinping</a> NYT: As a party congress approaches, it’s increasingly clear that Xi Jinping plans another five-year term. But if he has ideas about a successor, he has hidden them well. 
  <p class="updated_time"> 04:14 AM CT, Feb. 14 </p> 
@@ -193,8 +189,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
+ <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">U.S. Intelligence Agencies Face Crucial Test in Deciphering Putin’s Motives</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 07:14 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/business/media/new-york-times.html">Sarah Palin’s Libel Claim Against The Times Is Rejected by a Jury</a> NYT: The verdict came a day after the judge said he planned to dismiss the case, ruling that Ms. Palin’s legal team had failed to prove that the newspaper defamed her. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
@@ -205,8 +203,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/us/politics/opposition-research-goes-hyperlocal.html">Opposition Research Goes Hyperlocal</a> NYT: The liberal group American Bridge is launching a new project to collect information for campaigns against Republicans running for state and local offices. 
  <p class="updated_time"> 05:53 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/business/economy/senate-republicans-vote-fed-nominees.html">Senate Republicans Stall Crucial Vote on Fed Nominees</a> NYT: The White House’s five Federal Reserve nominees, including picks for the chair and vice chair, were supposed to face a committee vote on Tuesday. 
- <p class="updated_time"> 05:49 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 05:33 PM CT, Feb. 15 </p> 
  <a href="https://www.npr.org/2022/02/15/1080932901/gop-candidates-and-leaders-subpoenaed-as-jan-6-panel-dives-into-fake-electors-sc">GOP candidates and leaders subpoenaed as Jan. 6 panel dives into fake electors scheme</a> NPR: The House panel investigating the Jan. 6 Capitol attack is expanding its probe into false electors tied to the 2020 election, issuing six subpoenas, including to two Republicans running for office. 
  <p class="updated_time"> 05:26 PM CT, Feb. 15 </p> 
@@ -276,7 +272,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/us/politics/eric-adams-wellness-vegan.html">How Eric Adams Mixes Tough Talk With Superfood Smoothies</a> NYT: Mr. Adams has tied his interest in nutrition, meditation and fitness to his views on how to lead New York at a challenging time. 
  <p class="updated_time"> 11:10 PM CT, Feb. 13 </p> 
- <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">Inside McConnell’s Campaign to Take Back the Senate and Thwart Trump</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
+ <a href="https://www.nytimes.com/2022/02/13/us/politics/mcconnell-trump-primaries-midterms.html">How McConnell Hopes to Thwart Trump in the Midterms</a> NYT: Senator Mitch McConnell is working furiously to bring allies to Washington who will buck Donald J. Trump. It’s not going according to plan. 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
  <p class="updated_time"> 01:01 PM CT, Feb. 13 </p> 
