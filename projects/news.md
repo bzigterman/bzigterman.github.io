@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:00 PM CT, Feb. 17 </p> 
+ <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
+ <p class="updated_time"> 01:19 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, While Kremlin Insists Troops Are Pulling Back</a> NYT: Russia and Ukraine exchanged blame for shelling in northeastern Ukraine, adding to fears of Russian aggression. The U.S. revealed that Russia ordered the expulsion of the deputy American ambassador. 
+ <p class="updated_time"> 01:19 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
+ <p class="updated_time"> 01:18 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/europe-africa-summit-eu.html">African and European Leaders Meet Against Backdrop of Enduring Problems</a> NYT: A top-level meeting of all E.U. leaders and 40 African counterparts aims to reset the relationship as a partnership of equals. But migration and vaccine equity remain obstacles. 
  <p class="updated_time"> 12:58 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60422103?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia looking for excuse to invade, US says</a> BBC: President Biden alleges that Russia is plotting "a false flag operation" to justify launching an attack. 
- <p class="updated_time"> 12:54 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
  <p class="updated_time"> 12:22 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police warn protesters to leave amid plans to clear blockade</a> BBC: Prime Minister Trudeau is defending his decision to invoke the Emergencies Act to end the protests. 
  <p class="updated_time"> 12:19 PM CT, Feb. 17 </p> 
@@ -146,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
  <p class="updated_time"> 10:47 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html">Shark Kills Swimmer in Rare Death Off Sydney Coast</a> NYT: The fatal shark bite occurred on Wednesday near Little Bay. Mayor Dylan Parker of Randwick City, Australia, said, “To lose someone to a shark attack like this is chilling.” 
- <p class="updated_time"> 10:45 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html">Ukraine Says Cyberattack Was Largest in Its History</a> NYT: Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.” 
  <p class="updated_time"> 10:34 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60339746?at_medium=RSS&at_campaign=KARANGA">Covid: Hong Kong's hospitals overwhelmed amid spike in cases</a> BBC: Infected patients are treated outside crowded facilities as daily cases reach a new record. 
  <p class="updated_time"> 08:51 AM CT, Feb. 16 </p> 
@@ -191,8 +193,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:18 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/leaders-with-cuban-legal-group-back-jacksons-nomination-to-high-court-00009851">Leaders with Florida-based Cuban legal group back Ketanji Brown Jackson's nomination to high court</a> Politico: The president of the Cuban American Bar Association sent a letter to the White House dated Wednesday that lauded Jackson, who grew up in South Florida and attended high school in Miami. 
+ <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
+ <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
+ <p class="updated_time"> 01:25 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/business/us-trade-counterfeit-china.html">U.S. Adds WeChat and AliExpress to Notorious Piracy Markets List</a> NYT: The Biden administration added several major Chinese businesses to a list of counterfeiters, but removed any mention of Amazon’s foreign operations. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Congressional resistance puts future Covid funds in jeopardy</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
+ <p class="updated_time"> 01:20 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/nyregion/kathy-hochul-democratic-nomination.html">Hochul Is the Star as Democrats Gather for Cuomo-Free Convention</a> NYT: Gov. Kathy Hochul was to receive the Democratic nomination for governor on Thursday, as she seeks her first full term after succeeding Andrew Cuomo. 
  <p class="updated_time"> 01:12 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-francis-collins-nih.html">Francis Collins, Former N.I.H. Director, Will Fill In as Biden's Science Adviser</a> NYT: Dr. Collins will temporarily serve in one of the two roles previously held by Dr. Eric S. Lander, who resigned last week. 
  <p class="updated_time"> 01:10 PM CT, Feb. 17 </p> 
@@ -205,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/elon-musk-accuses-sec-of-harassment-campaign-00009755">Elon Musk accuses SEC of 'harassment campaign'</a> Politico: 'The SEC seems to be targeting Mr. Musk and Tesla,' his lawyer said. 
  <p class="updated_time"> 12:13 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/capitol-riot-plea-deals-trump-allies-00009776">Jan. 6 plea deals have helped Trump allies sow 'confusion' about attack, judge says</a> Politico: The DOJ's deals with Jan. 6 defendants have helped bad-faith actors downplay the gravity of the insurrection, a federal D.C. judge said Thursday. 
+ <p class="updated_time"> 11:40 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/senate-vote-speed.html">The Senate Moves in Slow Motion. Could This Speed It Up?</a> NYT: With floor votes dragging on interminably, senators have embraced a modest effort to try to move things along. 
  <p class="updated_time"> 11:24 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/iran-nuclear-deal-biden.html">Iran Nuclear Deal Inches Toward Revival but Faces Critics in U.S.</a> NYT: Republicans warned that any new agreement would “likely be torn up” by the next administration. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
@@ -229,8 +243,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 05:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/adams-touts-restraint-in-first-preliminary-budget-address-00009541">Adams touts restraint in first preliminary budget address</a> Politico: The budget marks a $6 billion increase over last year’s $92.3 billion preliminary budget. 
- <p class="updated_time"> 04:31 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/contradictions-new-york-city-eric-adams-00008586">The top 10 contradictions of New York City Mayor Eric Adams</a> Politico: Understanding what makes the mayor tick can be a fool’s errand. He’s complex and unpredictable, and often seems like a walking contradiction. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/crist-democrats-florida-desantis-00009044">Crist is leading the Democratic pack. Taking on DeSantis is a different story.</a> Politico: Crist has significantly outperformed in recent polling including one out Tuesday that has him besting primary challengers by double-digits. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
@@ -289,14 +301,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
  <p class="updated_time"> 04:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
- <p class="updated_time"> 04:23 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/feinstein-plummets-harris-underwater-in-new-california-poll-00009427">Feinstein plummets, Harris underwater in new California poll</a> Politico: Approval rating for California's senior senator reaches a new low. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
- <p class="updated_time"> 03:38 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/vulnerable-senate-dems-tax-cuts-00009497">Vulnerable Senate Dems try to run as tax-cutters</a> Politico: They're pitching gas tax holidays and other pocketbook-friendly plans to combat GOP messaging on inflation. But any real proposal has a long way to go. 
  <p class="updated_time"> 03:09 PM CT, Feb. 16 </p> 
@@ -323,10 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/elections-officials-disinformation-midterms-00009285">Election officials are on the frontlines of defending democracy. They didn't sign up for this.</a> Politico: Ten state chief election officials say in interviews they have had to refocus their positions to battle a constant flow of disinformation. This year, they say, will be no different. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/a-heartland-gop-primary-battle-china-00009095">A heartland GOP primary battle goes all-in on bashing China</a> Politico: A China fear-focused campaign could be a bellwether for 2022 midterms. 
- <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/books/book-bans-markus-dohle-donation-pen-america.html">Publishing C.E.O. Donates $500,000 to Fight Book Bans</a> NYT: Markus Dohle, the chief executive of Penguin Random House, said the effort “ties into the future of our democracy.” 
- <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/democrats-inflation-gas-tax-deficit.html">Democrats Weigh Gas Tax Holiday and Deficit Cuts as Inflation Mounts</a> NYT: Democrats are looking to revamp their legislative agenda to focus on relief for rising prices before November’s midterm elections while trying to salvage their social policy bill. 
  <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
