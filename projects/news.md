@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:35 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Protesters in Canada Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
  <p class="updated_time"> 08:23 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">Ukraine Tensions Spike as West Accuses Russia of Lying About Troop Withdrawal</a> NYT: As Russia stoked hopes of a diplomatic solution and claimed to be pulling back forces from the Ukrainian border, U.S. and NATO officials accused Moscow of building up troops instead. 
  <p class="updated_time"> 08:17 PM CT, Feb. 16 </p> 
@@ -22,6 +24,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and British Officials Dispute Russian Claim of Troop Pullback</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 07:05 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-56803551?at_medium=RSS&at_campaign=KARANGA">Fight for payment of UK pensions lost in Yemen warzone</a> BBC: Yemenis who came to work in British factories in the 1950s have been without payments for years. 
+ <p class="updated_time"> 06:45 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/philadelphia-indoor-dining.html">Philadelphia Drops Its Vaccine Mandate for Indoor Dining</a> NYT: The city introduced a new system of Covid-19 response that is tied to specific pandemic metrics and could change as the situation evolves. 
  <p class="updated_time"> 06:18 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081325687/russias-claim-that-it-was-pulling-troops-back-from-ukraine-is-false-official-say">Russia's claim that it was pulling troops back from Ukraine is 'false,' official says</a> NPR: "In fact," a senior administration official said, "we have now confirmed that in the last several days, Russia has increased its troop presence along the Ukrainian border by as many as 7,000 troops." 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
@@ -46,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60411203?at_medium=RSS&at_campaign=KARANGA">Ukraine: Invasion fears are hype and hysteria - Russian diplomat</a> BBC: Russia's deputy ambassador to the UN says Russia will not initiate a war if it is not provoked. 
  <p class="updated_time"> 04:58 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081276661/russian-troops-ukraine-nato">U.S. and NATO officials say they've seen no evidence that Russia has withdrawn troops</a> NPR: Putin says Russia has pulled out some of its 150,000 troops stationed near Ukraine's borders. "There's a difference between what Russia says and what it does," Secretary of State Antony Blinken says. 
- <p class="updated_time"> 04:55 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Protesters in Canada Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
  <p class="updated_time"> 04:30 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
@@ -194,7 +196,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:19 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/politics/justice-department-missouri-gun-rights.html">Justice Department Sues Missouri Over Its Gun-Rights Law</a> NYT: Attorney General Merrick Garland argued that the law allowing citizens to sue police for $50,000 for violating their right to bear arms was unconstitutional. 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/missouri-gun-rights-law.html">Justice Department Sues Missouri Over Its Gun-Rights Law</a> NYT: Attorney General Merrick Garland argued that the law allowing citizens to sue police for $50,000 for violating their right to bear arms was unconstitutional. 
  <p class="updated_time"> 07:29 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/trump-wealth-mazars.html">Trump Makes New Claims About His Wealth After Accountants Drop Him</a> NYT: The former president has spent decades inventing facts and figures to suit his needs. Now, dropped by his accountants, he is making new claims. 
  <p class="updated_time"> 06:39 PM CT, Feb. 16 </p> 
