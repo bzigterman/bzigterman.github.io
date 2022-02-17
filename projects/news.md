@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:52 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 11:14 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
+ <p class="updated_time"> 11:13 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
+ <p class="updated_time"> 10:55 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/middleeast/arabic-film-netflix-debate.html">First Arabic Film by Netflix Stirs Fierce Morality Debate</a> NYT: Critics argued that the remake of the Italian film “Perfect Strangers” flouted moral standards by projecting Western norms out of sync with the largely religious public across much of the Arab world. 
  <p class="updated_time"> 10:51 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/australia/australia-covid-vaccine-children-ages-6-to-11.html">Australia Authorizes Moderna’s Covid Vaccine for Children Ages 6 to 11</a> NYT: The country is the first to grant provisional authority for the Moderna vaccine to be used in children younger than 12. 
- <p class="updated_time"> 10:40 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
  <p class="updated_time"> 10:34 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/police-enforcement-truckers-indigenous.html">Friendly Police Response to Protests Raises Questions Among Canadians</a> NYT: Images on social media contrast the response to the truckers with heavy-handed action last year against Indigenous people who blocked logging. 
  <p class="updated_time"> 10:32 AM CT, Feb. 17 </p> 
@@ -54,14 +56,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: More than 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 06:01 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60413992?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Games official claims stories of human rights abuses are 'lies'</a> BBC: The Winter Olympics faces renewed political controversy after a Games official dismissed human rights violations among the Uyghur Muslim population as "lies". 
+ <p class="updated_time"> 05:59 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Shelling Picks Up on Front-Line Separating Ukraine, Pro-Russia Separatists</a> WSJ: Russian-backed separatists and authorities in Kyiv traded accusations over cease-fire violations as Western governments said Moscow continued to mass troops on Ukraine’s borders. 
  <p class="updated_time"> 05:41 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60414143?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: 28,000 women apply for 30 train driver jobs</a> BBC: It is the first time such jobs have been advertised for women in the conservative Muslim kingdom. 
  <p class="updated_time"> 05:21 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is the Russian military build-up?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
- <p class="updated_time"> 04:44 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Russia Accuses Ukrainian Military of 'Crimes' in Report to U.N.</a> WSJ: President Biden said that a Russian invasion of Ukraine could happen in the next several days and that Moscow hadn’t moved troops out. 
  <p class="updated_time"> 04:40 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60403548?at_medium=RSS&at_campaign=KARANGA">Apple boss Tim Cook faces backlash to £73m pay package</a> BBC: A shareholder group says it has "significant concerns" over the size of Tim Cook's pay package. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/asia/afghanistan-twitter-spaces-taliban.html">Afghans Find Room for Debate on Twitter Spaces</a> NYT: An audio live chat feature on Twitter has become a go-to place for Afghans still recovering from the collapse of the former government and seeking answers on everything from what went wrong to what comes next. 
  <p class="updated_time"> 08:14 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/russia-ukraine-troops.html">As Russia Welcomes Talks, Biden Warns Invasion Is Still Possible</a> NYT: President Vladimir V. Putin said he was pulling some Russian troops back from areas close to Ukraine, hinting at cooling the crisis, but U.S. officials say it is too soon to gauge his intentions. 
- <p class="updated_time"> 08:11 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/spanish-fishing-boat-sinks-canada.html">At Least 10 Dead After Spanish Fishing Vessel Sinks in Atlantic</a> NYT: Many are missing from a fishing boat carrying 24 people that sank about 280 miles off the coast of Newfoundland, Canada, on Tuesday, Spanish officials said. 
  <p class="updated_time"> 08:07 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008210902/inside-ukraines-cybercommand-center-hours-before-attack.html">Inside Ukraine’s Cybercommand Center, Hours Before Attack</a> NYT: A day before Ukraine announced its Defense Ministry and banking servers had been hacked, our video team toured the country’s Cybercommand Center, where officials have been preparing for this scenario for years. 
  <p class="updated_time"> 07:48 AM CT, Feb. 16 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:09 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081473389/steve-dickson-resigns-faa-administrator">FAA administrator Steve Dickson will step down midway through his term</a> NPR: Dickson took over the agency as it was reeling from allegations of lax oversight in the aftermath of two Boeing 737 MAX airplane crashes. 
  <p class="updated_time"> 10:47 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081450530/florida-house-abortion-ban">Florida House approves a ban on most abortions after 15 weeks</a> NPR: The bill is expected to pass the state Senate. Lawmakers in West Virginia and Arizona have approved similar bills — all modeled on a Mississippi law now before the Supreme Court. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
@@ -257,8 +259,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:42 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081248864/biden-supreme-court-nominee">What we know about Biden's Supreme Court opening</a> NPR: The White House seems determined to make sure President Biden's pick for the Supreme Court will not be revealed until a moment of their choosing. 
- <p class="updated_time"> 03:42 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081180054/ryan-zinke-interior-investigation-ig-report">U.S. investigation finds that former Interior Secretary Ryan Zinke misused position</a> NPR: The former Trump Cabinet member failed to disclose details of his involvement in a Montana development project when questioned by ethics officials, an Inspector General's investigation has found. 
  <p class="updated_time"> 03:38 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
