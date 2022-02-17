@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:39 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 07:56 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Officials Dispute Russian Drawdown; Kremlin Insists Troops Are Pulling Back</a> NYT: The head of NATO and the U.S. defense secretary met as the United States accused Russia of lying about withdrawing forces from around Ukraine. The Kremlin on Thursday maintained its troops were leaving the border areas, saying, “This process takes time.” 
+ <p class="updated_time"> 07:50 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa for more than two weeks. 
  <p class="updated_time"> 07:09 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 07:00 AM CT, Feb. 17 </p> 
@@ -41,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081388909/france-says-it-will-withdraw-troops-from-mali-but-remain-in-west-africa">France says it will withdraw troops from Mali but remain in West Africa</a> NPR: The announcement by French President Emmanuel Macron will end nearly a decade of fighting Islamic extremists in the West African country. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: Harris will be speaking at the Munich Security Conference, the annual gathering of the world's top national security officials in Munich, Germany. 
+ <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: This is Harris' highest-stakes foreign trip yet. She will meet some 13 heads of state to discuss the threat posed by Russia, and will speak at the Munich Security Conference. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
@@ -188,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
- <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
 
 
 </details>
@@ -220,7 +220,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:01 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081352356/the-politics-of-getting-to-the-next-phase-of-the-coronavirus-pandemic">The politics of getting to the next phase of the coronavirus pandemic</a> NPR: With the omicron surge fading, the Biden administration is looking to the next phase of the pandemic. Americans appear eager to get there. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: Harris will be speaking at the Munich Security Conference, the annual gathering of the world's top national security officials in Munich, Germany. 
+ <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: This is Harris' highest-stakes foreign trip yet. She will meet some 13 heads of state to discuss the threat posed by Russia, and will speak at the Munich Security Conference. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 03:57 AM CT, Feb. 17 </p> 
