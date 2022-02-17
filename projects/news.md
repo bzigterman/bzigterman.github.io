@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 05:10 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Defense Officials to Meet Amid Disputes of Russia’s Drawdown Claims</a> NYT: The head of NATO and the U.S. defense secretary were scheduled to meet as the United States accused Russia of lying about withdrawing forces from around Ukraine. The last of nearly 5,000 U.S. troops arrived in Poland, providing reassurance to a NATO ally. 
+ <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
+ <p class="updated_time"> 04:40 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60403548?at_medium=RSS&at_campaign=KARANGA">Apple boss Tim Cook faces investor concern over £73m pay</a> BBC: A shareholder group says it has "significant concerns" over the size of Tim Cook's pay package. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
  <p class="updated_time"> 04:23 AM CT, Feb. 17 </p> 
@@ -30,6 +34,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
+ <p class="updated_time"> 11:31 PM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-foreigners-entry-but-scars-remain-11645093890">Japan Lifts Covid-19 Ban on Foreigners' Entry, But Scars Remain</a> WSJ: Business leaders fear damage to nation’s reputation after three months of closed borders, while the public largely supports tight restrictions. 
  <p class="updated_time"> 11:28 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 11:15 PM CT, Feb. 16 </p> 
@@ -142,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/prince-andrews-move-to-settle-sex-abuse-case-leaves-difficult-questions-for-palace-11645035975">Prince Andrew's Move to Settle Sex-Abuse Case Leaves Difficult Questions for Palace</a> WSJ: Prince Andrew’s decision to settle allegations of sexual abuse removes the immediate threat of a highly publicized trial, but the aftershocks of the yearslong scandal continue to reverberate in Buckingham Palace. 
  <p class="updated_time"> 07:14 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60400762?at_medium=RSS&at_campaign=KARANGA">Paislee Shultis: US girl missing since 2019 found alive in secret room</a> BBC: Police have charged three people over Paislee Shultis' disappearance in Saugerties, New York state. 
- <p class="updated_time"> 05:41 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60400099?at_medium=RSS&at_campaign=KARANGA">Watch: The moment a sloth was saved from electrical wires</a> BBC: A sloth in Colombia found itself in an unusual and dangerous place, prompting a rescue mission. 
  <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
  <p class="updated_time"> 04:59 AM CT, Feb. 16 </p> 
@@ -195,14 +199,16 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senators unveil their attempt at a symbolic reprimand for Russia</a> Politico: The resolution from Sens. Jeanne Shaheen and Rob Portman still needs the consent of all senators to pass — which may not happen. 
+ <p class="updated_time"> 05:06 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some two million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
- <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's house passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">The widening political chasm is revealed in real estate data</a> NPR: Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. People are purposely moving to places reflecting their views. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's House passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
  <p class="updated_time"> 04:01 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081352356/the-politics-of-getting-to-the-next-phase-of-the-coronavirus-pandemic">The politics of getting to the next phase of the coronavirus pandemic</a> NPR: With the omicron surge fading, the Biden administration is looking to the next phase of the pandemic. Americans appear eager to get there. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
@@ -213,8 +219,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/nyc-mask-mandate-rules.html">Where You Need to Wear A Mask (or Don't) in NYC</a> NYT: Though some requirements have been rolled back, in New York City, you still need to wear masks on public transportation, at the theater and in schools. Here’s an overview. 
  <p class="updated_time"> 03:57 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081379148/department-of-justice-sues-missouri-over-gun-rights-law">Department of Justice sues Missouri over gun rights law</a> NPR: The federal government alleges Missouri's Second Amendment Preservation Act has endangered public safety by prohibiting local law enforcement from cooperating with federal agencies. 
- <p class="updated_time"> 03:56 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/16/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 01:04 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/steve-dickson-faa-resigns.html">F.A.A. Administrator Steve Dickson Will Resign Next Month</a> NYT: In a letter to staff, Mr. Dickson said it was “time to go home” to his family after a tumultuous period of more than two years leading the agency. 
  <p class="updated_time"> 10:51 PM CT, Feb. 16 </p> 
