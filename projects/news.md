@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081594481/the-candy-bomber-who-dropped-sweets-during-the-berlin-airlift-has-died-at-age-10">The 'Candy Bomber' who dropped sweets during the Berlin airlift has died at age 101</a> NPR: "Halvorsen's deeply human act has never been forgotten," Berlin Mayor Franziska Giffey said in a statement. 
  <p class="updated_time"> 04:42 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/middleeast/netflix-movies-arabic-debate.html">First Arabic Film by Netflix Stirs Fierce Morality Debate</a> NYT: Critics argued that the remake of the Italian film “Perfect Strangers” flouted moral standards by projecting Western norms out of sync with the largely religious public across much of the Arab world. 
  <p class="updated_time"> 04:38 PM CT, Feb. 17 </p> 
@@ -44,6 +46,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 12:18 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/health/nyc-anime-convention-2021-superspreader-event.html">N.Y.C. Anime Convention Was Not a Superspreader Event, C.D.C. Finds</a> NYT: The rate of positive results among attendees who took coronavirus tests was about the same as that of New York City at large, researchers found. 
+ <p class="updated_time"> 11:58 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Shelling Picks Up on Front Line Separating Ukraine, Pro-Russia Separatists</a> WSJ: Russian-backed separatists and authorities in Kyiv traded accusations over cease-fire violations as Western governments said Moscow continued to mass troops on Ukraine’s borders. 
  <p class="updated_time"> 11:35 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/17/1081130414/iraq-has-enough-doses-of-covid-vaccine-for-everyone-but-many-iraqis-dont-trust-i">Iraq has enough doses of COVID vaccine for everyone. But many Iraqis don't trust it</a> NPR: The vaccination rate is only 17%. People are scared and skeptical for many reasons. Now government health workers are trying to up the numbers. One strategy: vaccination booths in the mall. 
  <p class="updated_time"> 11:24 AM CT, Feb. 17 </p> 
@@ -64,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081449979/us-womens-hockey-olympics-2022">Canada wins Olympic gold in women's hockey, toppling rival Team USA</a> NPR: Canada defeated Team USA 3-2 on Thursday to win its fifth gold medal in the sport. Either Canada or the U.S. has won every gold medal since women's hockey debuted at the winter Olympics in 1998. 
  <p class="updated_time"> 10:01 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
- <p class="updated_time"> 09:59 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Shelling Picks Up on Front Line Separating Ukraine, Pro-Russia Separatists</a> WSJ: Russian-backed separatists and authorities in Kyiv traded accusations over cease-fire violations as Western governments said Moscow continued to mass troops on Ukraine’s borders. 
  <p class="updated_time"> 09:50 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/the-surprising-mystery-of-italys-crown-jewels-is-who-gets-to-keep-them-11645131022">The Surprising Mystery of Italy's Crown Jewels Is Who Gets to Keep Them</a> WSJ: The Italian government says the precious baubles belong to the nation and its people, a contention being challenged in court by the ex-royal family. For 75 years, they sat unclaimed in a deposit box at the Bank of Italy. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
@@ -136,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-59900131?at_medium=RSS&at_campaign=KARANGA">French election: Who's vying to challenge Emmanuel Macron?</a> BBC: A tight and divisive race is expected when France holds a presidential election in April this year. 
  <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
- <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
  <p class="updated_time"> 05:01 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60411203?at_medium=RSS&at_campaign=KARANGA">Ukraine: Invasion fears are hype and hysteria - Russian diplomat</a> BBC: Russia's deputy ambassador to the UN says Russia will not initiate a war if it is not provoked. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
@@ -187,18 +187,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:52 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/newsom-to-roll-out-next-phase-covid-strategy-that-relies-on-rapid-response-00009948">Newsom to roll out 'next phase' Covid strategy that relies on rapid response</a> Politico: The word 'endemic' does not appear anywhere in a 30-page document that details his forthcoming approach. 
  <p class="updated_time"> 05:30 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
+ <p class="updated_time"> 05:18 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/mypillows-ceo-canadas-truckers-00009950">MyPillow’s CEO is coming to save Canada’s truckers. With pillows, of course.</a> Politico: U.S. business owner and MAGA conspiracy theorist Mike Lindell has some feelings about Justin Trudeau: “He's a monster, fact. A monster beyond anything in history.” 
+ <p class="updated_time"> 05:09 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/3-states-with-shuttered-nuclear-plants-see-emissions-rise-00009034">3 states with shuttered nuclear plants see emissions rise</a> Politico: The closures are forcing difficult choices about the use of natural gas as renewable energy fails to ramp up fast enough. 
+ <p class="updated_time"> 05:06 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/big-coal-states-eye-small-nukes-for-grid-economy-00008363">Big coal states eye small nuclear reactors for grid, economy</a> Politico: The push comes as aging fossil plants have closed or faced economic pressure. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate reaches deal to avoid government shutdown</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
+ <p class="updated_time"> 05:00 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, Former Times Reporter and a Founder of The Hill, Dies at 93</a> NYT: He covered Congress for The Times in the 1970s and ’80s before leaving to head up a successful Capitol Hill newspaper. 
+ <p class="updated_time"> 04:54 PM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081589398/as-covid-restrictions-ease-the-full-congress-is-invited-to-attend-state-of-the-u">As COVID restrictions ease, the full Congress is invited to attend State of the Union</a> NPR: For President Biden's 2021 address to Congress, attendance was capped at about 20%. This year's shift reflects the federal government's push to get closer to some form of normalcy. 
  <p class="updated_time"> 04:26 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/hillary-clinton-backs-hochul-00009922">Hillary Clinton backs Hochul, says foes 'coming after me again lately'</a> Politico: Most of Clinton's speech focused on touting Democratic values and arguing that Hochul and her running-mate, Lt. Gov. Brian Benjamin, were the best choices to champion them. 
  <p class="updated_time"> 04:17 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/trump-moves-to-close-off-liz-cheneys-political-escape-hatch-00009928">Trump moves to close off Liz Cheney’s political escape hatch</a> Politico: The president has been privately pressing Wyoming’s governor to change state election laws to deny the congresswoman Democratic support. 
  <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof">Oregon governor race will go on without Nick Kristof</a> NPR: The Oregon Supreme Court has ruled that former New York Times columnist Nick Kristof does not meet the residency requirement to run for governor there. 
- <p class="updated_time"> 03:05 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, Former Times Reporter and a Founder of The Hill, Dies at 93</a> NYT: He covered Congress for The Times in the 1970s and ’80s before leaving to head up a successful Capitol Hill newspaper. 
  <p class="updated_time"> 02:38 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/nyregion/kathy-hochul-democratic-nomination.html">Hochul Is the Star as Democrats Gather for a Cuomo-Free Convention</a> NYT: Gov. Kathy Hochul was to receive the Democratic nomination for governor on Thursday, as she seeks her first full term after succeeding Andrew Cuomo. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
@@ -257,6 +267,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 05:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/adams-touts-restraint-in-first-preliminary-budget-address-00009541">Adams touts restraint in first preliminary budget address</a> Politico: The budget marks a $6 billion increase over last year’s $92.3 billion preliminary budget. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/primaries-redefining-post-trump-republicans-00009337">GOP plunges into season of ‘self-hate’ that will rewire the party</a> Politico: Evidence of the party’s unrest is everywhere. Nearly a half-dozen Republican governors alone are facing competitive primary challenges. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
@@ -275,8 +287,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 03:57 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081379148/department-of-justice-sues-missouri-over-gun-rights-law">Department of Justice sues Missouri over gun rights law</a> NPR: The federal government alleges Missouri's Second Amendment Preservation Act has endangered public safety by prohibiting local law enforcement from cooperating with federal agencies. 
- <p class="updated_time"> 11:22 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/faa-administrator-steve-dickson-stepping-down-00009698">FAA Administrator Steve Dickson stepping down</a> Politico: Throughout his tenure, the FAA has navigated continuing attempts to merge drones with the aviation system, the explosion of private spaceflight, and other growing fields, but not without challenges. 
  <p class="updated_time"> 09:49 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
@@ -285,22 +295,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/missouri-gun-rights-law.html">Justice Department Sues Missouri Over Its Gun-Rights Law</a> NYT: Attorney General Merrick Garland argued that the law allowing citizens to sue police for $50,000 for violating their right to bear arms was unconstitutional. 
  <p class="updated_time"> 07:29 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/trump-wealth-mazars.html">Trump Makes New Claims About His Wealth After Accountants Drop Him</a> NYT: The former president has spent decades inventing facts and figures to suit his needs. Now, dropped by his accountants, he is making new claims. 
- <p class="updated_time"> 07:28 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/justice-missouri-gun-law-00009655">Justice Department sues Missouri over new gun law</a> Politico: “A state cannot simply declare federal laws invalid,” said one official. 
- <p class="updated_time"> 06:47 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/oath-keepers-rhodes-election-legitimate-jan6-00009621">Oath Keepers leader told Jan. 6 committee he still sees 2020 election as ‘illegitimate,’ lawyer says</a> Politico: The lawyer for militia founder Stewart Rhodes noted, however, that many others feels the same way. 
  <p class="updated_time"> 06:34 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
- <p class="updated_time"> 06:18 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081325687/russias-claim-that-it-was-pulling-troops-back-from-ukraine-is-false-official-say">Russia's claim that it was pulling troops back from Ukraine is 'false,' official says</a> NPR: "In fact," a senior administration official said, "we have now confirmed that in the last several days, Russia has increased its troop presence along the Ukrainian border by as many as 7,000 troops." 
  <p class="updated_time"> 05:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html">Education Dept. to Cancel Loans for Some DeVry University Students</a> NYT: It’s the first such move involving a for-profit chain that’s still in business. 
  <p class="updated_time"> 05:14 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/ryan-zinke-ethics.html">Ryan Zinke Broke Ethics Rules as Interior Secretary, Inquiry Finds</a> NYT: Mr. Zinke, who left the department in 2019 amid multiple inquiries, misused his office and lied to investigators about his involvement in a Montana land deal, a government watchdog found. 
  <p class="updated_time"> 04:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
- <p class="updated_time"> 04:23 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/feinstein-plummets-harris-underwater-in-new-california-poll-00009427">Feinstein plummets, Harris underwater in new California poll</a> Politico: Approval rating for California's senior senator reaches a new low. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
@@ -327,8 +329,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/elections-officials-disinformation-midterms-00009285">Election officials are on the frontlines of defending democracy. They didn't sign up for this.</a> Politico: Ten state chief election officials say in interviews they have had to refocus their positions to battle a constant flow of disinformation. This year, they say, will be no different. 
- <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/a-heartland-gop-primary-battle-china-00009095">A heartland GOP primary battle goes all-in on bashing China</a> Politico: A China fear-focused campaign could be a bellwether for 2022 midterms. 
  <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
