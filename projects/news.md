@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:17 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Prepare to Clamp Down on Protesters</a> NYT: Ottawa’s interim police chief said officers had established a perimeter to prevent others from joining the demonstrators who have been occupying the capital for three weeks. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: A judge has ruled that Donald Trump and two of his children must testify in a New York probe into their business 
+ <p class="updated_time"> 03:27 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France Announces Troop Withdrawal From Mali After 9-Year Campaign</a> NYT: The pullout came after a falling out between France and Mali, in West Africa, ending a military effort that failed to drive out violent extremists. 
+ <p class="updated_time"> 03:23 PM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Action 'imminent' police warn Ottawa protesters</a> BBC: Police have set up checkpoints around the protest site and will now allow only "lawful" access. 
  <p class="updated_time"> 03:16 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/ottawa-protests-media-attention.html">How a Fringe Protest in Canada Became a Very Big Deal </a> NYT: Even after the last trucks are gone, the demonstrations will serve as a template for how small groups can draw intense interest. 
  <p class="updated_time"> 03:11 PM CT, Feb. 17 </p> 
@@ -18,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 02:32 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
- <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: A judge has ruled that Donald Trump and two of his children must testify in a New York probe into their business 
  <p class="updated_time"> 02:12 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/whatsapp-london-police-charges.html">London Police Officers Charged Over Offensive WhatsApp Messages</a> NYT: The messages were uncovered during the investigation into Wayne Couzens, a London police officer who kidnapped, raped and murdered Sarah Everard in March 2021. 
  <p class="updated_time"> 02:06 PM CT, Feb. 17 </p> 
@@ -32,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/europe/europe-africa-summit-eu.html">African and European Leaders Meet Against Backdrop of Enduring Problems</a> NYT: A top-level meeting of all E.U. leaders and 40 African counterparts aims to reset the relationship as a partnership of equals. But migration and vaccine equity remain obstacles. 
  <p class="updated_time"> 12:58 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60422103?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia looking for excuse to invade, US says</a> BBC: President Biden alleges that Russia is plotting "a false flag operation" to justify launching an attack. 
- <p class="updated_time"> 12:22 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police warn protesters to leave amid plans to clear blockade</a> BBC: Prime Minister Trudeau is defending his decision to invoke the Emergencies Act to end the protests. 
  <p class="updated_time"> 12:19 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 12:18 PM CT, Feb. 17 </p> 
@@ -50,6 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/canada/police-enforcement-truckers-indigenous.html">Friendly Police Response to Protests Raises Questions Among Canadians</a> NYT: Images on social media contrast the response to the truckers with heavy-handed action last year against Indigenous people who blocked logging. 
  <p class="updated_time"> 10:32 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/australia/rosalie-kunoth-monks-dead.html">Rosalie Kunoth-Monks, Champion of Indigenous Peoples, Dies at 85</a> NYT: As a teenager, she was the star of a film about an Aboriginal girl raised by a white family. As an adult, she fought discrimination in Australia against her people. 
+ <p class="updated_time"> 10:17 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/blinken-sees-moment-of-peril-in-ukraine-challenges-moscow-to-commit-that-it-wont-invade-11645127027">Blinken Challenges Russia to Commit That It Won't Invade Ukraine</a> WSJ: Secretary of State Antony Blinken warned of a looming Russian offensive against Ukraine and proposed a last-ditch diplomatic meeting with his Russian counterpart next week that could lead to a potential summit of key leaders. 
  <p class="updated_time"> 10:10 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60421398?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Liz Truss impressed by Ukrainians' fortitude</a> BBC: The UK foreign secretary is in Kyiv, speaking as tensions continue on the Russia-Ukraine border. 
  <p class="updated_time"> 10:08 AM CT, Feb. 17 </p> 
@@ -58,12 +62,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 09:59 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Shelling Picks Up on Front Line Separating Ukraine, Pro-Russia Separatists</a> WSJ: Russian-backed separatists and authorities in Kyiv traded accusations over cease-fire violations as Western governments said Moscow continued to mass troops on Ukraine’s borders. 
+ <p class="updated_time"> 09:50 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/the-surprising-mystery-of-italys-crown-jewels-is-who-gets-to-keep-them-11645131022">The Surprising Mystery of Italy's Crown Jewels Is Who Gets to Keep Them</a> WSJ: The Italian government says the precious baubles belong to the nation and its people, a contention being challenged in court by the ex-royal family. For 75 years, they sat unclaimed in a deposit box at the Bank of Italy. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428801/biden-russia-ukraine-invasion">President Biden warns that the threat of a Russian invasion of Ukraine is 'very high'</a> NPR: Biden told reporters Thursday that his sense is that invasion could occur in the next several days. "Every indication we have is they're prepared to go into Ukraine," he said. 
  <p class="updated_time"> 09:18 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist died in the city's first fatal shark attack in almost 60 years, a friend says. 
- <p class="updated_time"> 08:36 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
  <p class="updated_time"> 08:25 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 08:15 AM CT, Feb. 17 </p> 
@@ -78,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 06:54 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081030007/valieva-figure-skating-minimum-age-limits">Minimum ages for figure skaters? Some at the Beijing Olympics say it's a good idea</a> NPR: The scandal involving 15-year-old figure skater Kamila Valieva is drawing new calls to establish age restrictions on Olympic figure skaters. 
- <p class="updated_time"> 06:49 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-considers-citywide-testing-as-omicron-overwhelms-defenses-11645096216">Hong Kong Considers Citywide Testing as Omicron Overwhelms Defenses</a> WSJ: Officials are considering citywide coronavirus testing after Beijing demanded more be done to control an Omicron surge that has quickly overrun Hong Kong’s health system. 
  <p class="updated_time"> 06:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
  <p class="updated_time"> 06:07 AM CT, Feb. 17 </p> 
@@ -104,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: This is Harris' highest-stakes foreign trip yet. She will meet some 13 heads of state to discuss the threat posed by Russia, and will speak at the Munich Security Conference. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
- <p class="updated_time"> 02:59 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/indian-tax-authorities-raid-chinas-huawei-triggering-protest-from-beijing-11645106287">Indian Tax Authorities Raid China's Huawei, Triggering Protest From Beijing</a> WSJ: The offices of Chinese tech giant Huawei Technologies are being searched over suspected tax evasion, triggering a protest from Beijing, in the latest sign that border tensions between the two countries are spilling into commercial ties. 
  <p class="updated_time"> 02:34 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
@@ -172,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60400762?at_medium=RSS&at_campaign=KARANGA">Paislee Shultis: US girl missing since 2019 found alive in secret room</a> BBC: Police have charged three people over Paislee Shultis' disappearance in Saugerties, New York state. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">The Olympians Caught Up in the U.S.-China Rivalry</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
- <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60398296?at_medium=RSS&at_campaign=KARANGA">Ukrainians wary of Russian claims of withdrawal</a> BBC: Kyiv says it wants to see evidence that Russia really is moving troops away from the border. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
@@ -230,7 +228,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
  <p class="updated_time"> 11:21 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/florida-republicans-defy-desantis-00009651">DeSantis’ easy path to reelection just hit a Republican roadblock</a> Politico: The GOP-led Florida Senate surprised many by bucking the governor ahead of the November election. 
+ <a href="https://www.politico.com/news/2022/02/17/florida-republicans-defy-desantis-00009651">‘Bad blood’: Florida Republicans defy DeSantis</a> Politico: The GOP-led Florida Senate surprised many by bucking the governor ahead of the November election. 
  <p class="updated_time"> 11:09 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081473389/steve-dickson-resigns-faa-administrator">FAA administrator Steve Dickson will step down midway through his term</a> NPR: Dickson took over the agency as it was reeling from allegations of lax oversight in the aftermath of two Boeing 737 MAX airplane crashes. 
  <p class="updated_time"> 10:47 AM CT, Feb. 17 </p> 
