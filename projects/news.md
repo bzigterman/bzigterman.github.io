@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
  <p class="updated_time"> 12:20 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, While Kremlin Insists Troops Are Pulling Back</a> NYT: Russia and Ukraine exchanged blame for shelling in northeastern Ukraine, adding to fears of Russian aggression. The U.S. revealed that Russia ordered the expulsion of the deputy American ambassador. 
  <p class="updated_time"> 12:19 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 12:18 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/health/nyc-anime-convention-2021-superspreader-event.html">N.Y.C. Anime Convention Was Not a Superspreader Event, C.D.C. Finds</a> NYT: The rate of positive results among attendees who took coronavirus tests was about the same as that of New York City at large, researchers found. 
- <p class="updated_time"> 11:52 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
  <p class="updated_time"> 11:35 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/02/17/1081130414/iraq-has-enough-doses-of-covid-vaccine-for-everyone-but-many-iraqis-dont-trust-i">Iraq has enough doses of COVID vaccine for everyone. But many Iraqis don't trust it</a> NPR: The vaccination rate is only 17%. People are scared and skeptical for many reasons. Now government health workers are trying to up the numbers. One strategy: vaccination booths in the mall. 
  <p class="updated_time"> 11:24 AM CT, Feb. 17 </p> 
@@ -274,8 +274,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:53 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081264704/loretta-lynch-nfl-lawsuit">NFL hires former AG Loretta Lynch to handle its racial discrimination suit</a> NPR: The former attorney general was tapped in 2020 by the NFL to work on an inquiry into claims of workplace misconduct involving the then-Washington Football Team. 
  <p class="updated_time"> 05:27 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/california-lawmakers-pitch-major-overhaul-of-kids-web-privacy-00009527">California lawmakers pitch major overhaul of kids' web privacy</a> Politico: The bipartisan bill comes as public support mounts to limit children's exposure online. 
- <p class="updated_time"> 05:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html">Education Dept. to Cancel Loans for Some DeVry University Students</a> NYT: It’s the first such move involving a for-profit chain that’s still in business. 
  <p class="updated_time"> 05:20 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/adams-vaccine-kyrie-irving-00009604">Adams: Vaccine rule blocking Kyrie Irving from home games is 'unfair'</a> Politico: Despite his criticism, Adams said he’s reluctant to make an exception for a star athlete because he doesn’t want to undermine the city’s pro-vaccine campaign. 
@@ -283,10 +281,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/ryan-zinke-ethics.html">Ryan Zinke Broke Ethics Rules as Interior Secretary, Inquiry Finds</a> NYT: Mr. Zinke, who left the department in 2019 amid multiple inquiries, misused his office and lied to investigators about his involvement in a Montana land deal, a government watchdog found. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
- <p class="updated_time"> 04:51 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/senate-advances-long-stalled-pentagon-nominees-wallander-and-honey-00009479">Senators break Hawley logjam, confirm Russia expert to Pentagon post</a> Politico: Celeste Wallander was confirmed to be DoD's assistant secretary for international security affairs in an 83-13 vote. 
  <p class="updated_time"> 04:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
+ <p class="updated_time"> 04:23 PM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/feinstein-plummets-harris-underwater-in-new-california-poll-00009427">Feinstein plummets, Harris underwater in new California poll</a> Politico: Approval rating for California's senior senator reaches a new low. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
@@ -323,6 +321,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/a-heartland-gop-primary-battle-china-00009095">A heartland GOP primary battle goes all-in on bashing China</a> Politico: A China fear-focused campaign could be a bellwether for 2022 midterms. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/books/book-bans-markus-dohle-donation-pen-america.html">Publishing C.E.O. Donates $500,000 to Fight Book Bans</a> NYT: Markus Dohle, the chief executive of Penguin Random House, said the effort “ties into the future of our democracy.” 
+ <p class="updated_time"> 12:28 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/san-francisco-school-board-members-recalled-00009240">San Francisco school board members ousted in parental backlash</a> Politico: First returns show that voters overwhelmingly voted "yes" to recall Alison Collins, Gabriela López and Faauuga Moliga, three of the board's seven members. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/democrats-inflation-gas-tax-deficit.html">Democrats Weigh Gas Tax Holiday and Deficit Cuts as Inflation Mounts</a> NYT: Democrats are looking to revamp their legislative agenda to focus on relief for rising prices before November’s midterm elections while trying to salvage their social policy bill. 
  <p class="updated_time"> 06:05 PM CT, Feb. 15 </p> 
