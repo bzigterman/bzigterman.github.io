@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Defense Officials to Meet Amid Disputes of Russia’s Drawdown Claims</a> NYT: The head of NATO and the U.S. defense secretary were scheduled to meet as the United States accused Russia of lying about withdrawing forces from around Ukraine. The last of nearly 5,000 U.S. troops arrived in Poland, providing reassurance to a NATO ally. 
  <p class="updated_time"> 04:23 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081388909/france-says-it-will-withdraw-troops-from-mali-but-remain-in-west-africa">France says it will withdraw troops from Mali but remain in West Africa</a> NPR: The announcement by French President Emmanuel Macron will end nearly a decade of fighting Islamic extremists in the West African country. 
- <p class="updated_time"> 04:10 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Western Officials Dispute Russian Claim of Pullback From Ukraine Border</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: Harris will be speaking at the Munich Security Conference, the annual gathering of the world's top national security officials in Munich, Germany. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
@@ -30,6 +30,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
  <p class="updated_time"> 11:28 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
+ <p class="updated_time"> 10:57 PM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Kyiv, Separatists Allege Cease-Fire Breaches in Ukraine</a> WSJ: Claims of firing along the tense front line separating the two sides came as Western officials said Moscow continued to mass troops along the border of its smaller neighbor. 
  <p class="updated_time"> 10:14 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
  <p class="updated_time"> 09:36 PM CT, Feb. 16 </p> 
@@ -78,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:51 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
- <p class="updated_time"> 03:27 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/as-oil-nears-100-saudis-snub-u-s-stick-to-russian-pact-amid-ukraine-crisis-11645015415">As Oil Nears $100, Saudis Snub U.S., Stick to Russian Pact</a> WSJ: The U.S. has repeatedly called on Saudi Arabia to pump up more oil to reduce gasoline prices that, for Americans, are about twice as high as they were earlier in the pandemic. The Saudis have said no. 
  <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
@@ -191,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senators unveil their attempt at a symbolic reprimand for Russia</a> Politico: The resolution from Sens. Jeanne Shaheen and Rob Portman still needs the consent of all senators to pass — which may not happen. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some two million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
@@ -307,12 +309,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
  <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
- <p class="updated_time"> 04:31 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/congress-sexual-harassment-metoo-00007493">Why Congress is moving against sexual harassment, 4 years after #MeToo</a> Politico: It helped that Democrats have full control of Washington. And that GOP concerns got heard. Now lawmakers are nearing an unexpected bipartisan win. 
- <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/democrats-social-spending-dreams-stuck-in-winter-purgatory-00007557">Democrats' social spending dreams stuck in winter purgatory</a> Politico: Members of the majority party are confronting the uncomfortable possibility that they might have to entirely shelve efforts on their signature bill. 
- <p class="updated_time"> 04:30 AM CT, Feb. 10 </p> 
- <a href="https://www.politico.com/news/2022/02/10/freedom-caucus-members-square-off-00007482">Freedom Caucus members square off for a plum post with all eyes on McCarthy</a> Politico: The race to lead Republicans on the House Homeland Security Committee presents a test for the GOP leader, but also for the conservative bloc itself. 
 
 
 </details>
