@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:24 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
- <p class="updated_time"> 09:19 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 09:38 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa for more than two weeks. 
+ <p class="updated_time"> 09:38 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
  <p class="updated_time"> 09:18 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
+ <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist died in the city's first fatal shark attack in almost 60 years, a friend says. 
  <p class="updated_time"> 08:36 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
  <p class="updated_time"> 08:34 AM CT, Feb. 17 </p> 
@@ -50,10 +50,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60403548?at_medium=RSS&at_campaign=KARANGA">Apple boss Tim Cook faces backlash to £73m pay package</a> BBC: A shareholder group says it has "significant concerns" over the size of Tim Cook's pay package. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
+ <p class="updated_time"> 04:33 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Russia to Accuse Ukrainian Military of 'Crimes' at U.N. Gathering</a> WSJ: President Biden said that a Russian invasion of Ukraine could happen in the next several days and that Moscow hadn’t moved troops out. 
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081388909/france-says-it-will-withdraw-troops-from-mali-but-remain-in-west-africa">France says it will withdraw troops from Mali but remain in West Africa</a> NPR: The announcement by French President Emmanuel Macron will end nearly a decade of fighting Islamic extremists in the West African country. 
- <p class="updated_time"> 04:14 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Russia to Accuse Ukrainian Military of 'Crimes' at U.N. Gathering</a> WSJ: President Biden said that a Russian invasion of Ukraine could happen in the next several days and that Moscow hadn’t moved troops out. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: This is Harris' highest-stakes foreign trip yet. She will meet some 13 heads of state to discuss the threat posed by Russia, and will speak at the Munich Security Conference. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
