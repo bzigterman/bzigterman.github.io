@@ -22,7 +22,7 @@ Current:
 - 06:43 a.m. sunrise
 - 05:30 p.m. sunset
 
-<p class="updated_time"> Latest data: 08:07 AM CT, February 17</p>
+<p class="updated_time"> Latest data: 08:21 AM CT, February 17</p>
 
 ## Severe Thunderstorm Outlook
 
