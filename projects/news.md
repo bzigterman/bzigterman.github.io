@@ -56,6 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
  <p class="updated_time"> 08:07 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
+ <p class="updated_time"> 08:02 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737">Trudeau Says Emergency Powers Necessary to Counter Freedom Convoy Protests</a> WSJ: The Canadian prime minister defended the government’s decision to invoke extraordinary emergency powers to break up protests, which have stymied the capital of Ottawa and disrupted cross-border trade. 
  <p class="updated_time"> 07:09 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 06:54 AM CT, Feb. 17 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/hong-kong-considers-citywide-testing-as-omicron-overwhelms-defenses-11645096216">Hong Kong Considers Citywide Testing as Omicron Overwhelms Defenses</a> WSJ: Officials are considering citywide coronavirus testing after Beijing demanded more be done to control an Omicron surge that has quickly overrun Hong Kong’s health system. 
  <p class="updated_time"> 06:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
- <p class="updated_time"> 06:25 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737">Trudeau Says Emergency Powers Necessary to Counter Freedom Convoy Protests</a> WSJ: Canadian prime minister defends government’s decision to invoke extraordinary emergency powers to break up protests, which have stymied the capital of Ottawa and disrupted cross-border trade. 
  <p class="updated_time"> 06:07 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: More than 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 06:01 AM CT, Feb. 17 </p> 
@@ -138,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081247520/russias-latest-military-movements-stoke-confusion">Russia's latest military movements stoke confusion</a> NPR: Is Russia escalating — or de-escalating — its military positions along the borders of Ukraine? There are conflicting claims about what's happening now, and what could come next. 
  <p class="updated_time"> 02:50 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides in Brazil</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
- <p class="updated_time"> 02:42 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081185004/russia-ukraine-invasion-us-impact">How a Russian invasion of Ukraine could affect you</a> NPR: A full-scale invasion is not a certainty. But if it happens, experts say the effects of sanctions, energy market disruptions and cyberwarfare could reach everyday Americans. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
@@ -195,8 +193,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Congressional resistance puts future Covid funds in jeopardy</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
+ <p class="updated_time"> 01:12 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-francis-collins-nih.html">Francis Collins, Former N.I.H. Director, Will Fill In as Biden's Science Adviser</a> NYT: Dr. Collins will temporarily serve in one of the two roles previously held by Dr. Eric S. Lander, who resigned last week. 
  <p class="updated_time"> 01:10 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/why-a-federal-gas-tax-holiday-doesnt-add-up-00009499">Why a federal gas tax holiday doesn’t add up</a> Politico: Pausing the 18.4 cents-per-gallon federal gasoline tax won't save consumers much, but it'll cost President Joe Biden's signature infrastructure law a lot. 
+ <p class="updated_time"> 01:04 PM CT, Feb. 17 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:02 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428996/the-future-of-u-s-democracy-hangs-in-the-balance-as-states-battle-over-voting-ri">The future of U.S. democracy hangs in the balance as states battle over voting rights</a> NPR: Michael Waldman, president of the Brennan Center for Justice, says lawmakers in 27 states are considering hundreds of bills designed to limit voting or undermine the integrity of the election process. 
  <p class="updated_time"> 12:57 PM CT, Feb. 17 </p> 
@@ -227,6 +229,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 05:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/adams-touts-restraint-in-first-preliminary-budget-address-00009541">Adams touts restraint in first preliminary budget address</a> Politico: The budget marks a $6 billion increase over last year’s $92.3 billion preliminary budget. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/contradictions-new-york-city-eric-adams-00008586">The top 10 contradictions of New York City Mayor Eric Adams</a> Politico: Understanding what makes the mayor tick can be a fool’s errand. He’s complex and unpredictable, and often seems like a walking contradiction. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/crist-democrats-florida-desantis-00009044">Crist is leading the Democratic pack. Taking on DeSantis is a different story.</a> Politico: Crist has significantly outperformed in recent polling including one out Tuesday that has him besting primary challengers by double-digits. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
@@ -255,8 +259,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/steve-dickson-faa-resigns.html">F.A.A. Administrator Steve Dickson Will Resign Next Month</a> NYT: In a letter to staff, Mr. Dickson said it was “time to go home” to his family after a tumultuous period of more than two years leading the agency. 
  <p class="updated_time"> 11:22 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/faa-administrator-steve-dickson-stepping-down-00009698">FAA Administrator Steve Dickson stepping down</a> Politico: Throughout his tenure, the FAA has navigated continuing attempts to merge drones with the aviation system, the explosion of private spaceflight, and other growing fields, but not without challenges. 
- <p class="updated_time"> 10:51 PM CT, Feb. 16 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:49 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
@@ -323,12 +325,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/a-heartland-gop-primary-battle-china-00009095">A heartland GOP primary battle goes all-in on bashing China</a> Politico: A China fear-focused campaign could be a bellwether for 2022 midterms. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/books/book-bans-markus-dohle-donation-pen-america.html">Publishing C.E.O. Donates $500,000 to Fight Book Bans</a> NYT: Markus Dohle, the chief executive of Penguin Random House, said the effort “ties into the future of our democracy.” 
- <p class="updated_time"> 12:28 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/san-francisco-school-board-members-recalled-00009240">San Francisco school board members ousted in parental backlash</a> Politico: First returns show that voters overwhelmingly voted "yes" to recall Alison Collins, Gabriela López and Faauuga Moliga, three of the board's seven members. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/democrats-inflation-gas-tax-deficit.html">Democrats Weigh Gas Tax Holiday and Deficit Cuts as Inflation Mounts</a> NYT: Democrats are looking to revamp their legislative agenda to focus on relief for rising prices before November’s midterm elections while trying to salvage their social policy bill. 
- <p class="updated_time"> 06:05 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/opposition-research-goes-hyperlocal.html">Opposition Research Goes Hyperlocal</a> NYT: The liberal group American Bridge is launching a new project to collect information for campaigns against Republicans running for state and local offices. 
  <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
