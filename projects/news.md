@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:55 PM CT, Feb. 17 </p> 
+ <p class="updated_time"> 03:17 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
- <p class="updated_time"> 02:54 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
- <p class="updated_time"> 02:42 PM CT, Feb. 17 </p> 
+ <p class="updated_time"> 03:16 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/ottawa-protests-media-attention.html">How a Fringe Protest in Canada Became a Very Big Deal </a> NYT: Even after the last trucks are gone, the demonstrations will serve as a template for how small groups can draw intense interest. 
+ <p class="updated_time"> 03:11 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
+ <p class="updated_time"> 03:06 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 02:32 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: A judge has ruled that Donald Trump and two of his children must testify in a New York probe into their business 
- <p class="updated_time"> 02:27 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 02:12 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/whatsapp-london-police-charges.html">London Police Officers Charged Over Offensive WhatsApp Messages</a> NYT: The messages were uncovered during the investigation into Wayne Couzens, a London police officer who kidnapped, raped and murdered Sarah Everard in March 2021. 
  <p class="updated_time"> 02:06 PM CT, Feb. 17 </p> 
@@ -191,10 +191,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, Former Times Reporter and a Founder of The Hill, Dies at 93</a> NYT: He covered Congress for The Times in the 1970s and ’80s before leaving to head up a successful Capitol Hill newspaper. 
  <p class="updated_time"> 02:38 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/nyregion/kathy-hochul-democratic-nomination.html">Hochul Is the Star as Democrats Gather for a Cuomo-Free Convention</a> NYT: Gov. Kathy Hochul was to receive the Democratic nomination for governor on Thursday, as she seeks her first full term after succeeding Andrew Cuomo. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">NY Supreme Court justice orders the Trumps to testify under oath</a> NPR: The decision by Justice Arthur Engoron of the New York State Supreme Court came after two hours of at-times heated oral arguments. 
+ <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">N.Y. Supreme Court justice orders the Trumps to testify under oath</a> NPR: The decision by Justice Arthur Engoron of the New York State Supreme Court came after two hours of at-times heated oral arguments. 
  <p class="updated_time"> 02:18 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/leaders-with-cuban-legal-group-back-jacksons-nomination-to-high-court-00009851">Leaders with Florida-based Cuban legal group back Ketanji Brown Jackson's nomination to high court</a> Politico: The president of the Cuban American Bar Association sent a letter to the White House dated Wednesday that lauded Jackson, who grew up in South Florida and attended high school in Miami. 
  <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
@@ -248,8 +250,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/adams-touts-restraint-in-first-preliminary-budget-address-00009541">Adams touts restraint in first preliminary budget address</a> Politico: The budget marks a $6 billion increase over last year’s $92.3 billion preliminary budget. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/crist-democrats-florida-desantis-00009044">Crist is leading the Democratic pack. Taking on DeSantis is a different story.</a> Politico: Crist has significantly outperformed in recent polling including one out Tuesday that has him besting primary challengers by double-digits. 
- <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/primaries-redefining-post-trump-republicans-00009337">GOP plunges into season of ‘self-hate’ that will rewire the party</a> Politico: Evidence of the party’s unrest is everywhere. Nearly a half-dozen Republican governors alone are facing competitive primary challenges. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
@@ -283,8 +283,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/justice-missouri-gun-law-00009655">Justice Department sues Missouri over new gun law</a> Politico: “A state cannot simply declare federal laws invalid,” said one official. 
  <p class="updated_time"> 06:47 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/oath-keepers-rhodes-election-legitimate-jan6-00009621">Oath Keepers leader told Jan. 6 committee he still sees 2020 election as ‘illegitimate,’ lawyer says</a> Politico: The lawyer for militia founder Stewart Rhodes noted, however, that many others feels the same way. 
- <p class="updated_time"> 06:39 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-trump-white-house-visitor-logs.html">Biden Rejects Trump’s Claim of Privilege for White House Visitor Logs</a> NYT: The president informed the National Archives that it should turn over the logs sought by the Jan. 6 committee within 15 days. 
  <p class="updated_time"> 06:34 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
  <p class="updated_time"> 06:18 PM CT, Feb. 16 </p> 
@@ -299,6 +297,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/ryan-zinke-ethics.html">Ryan Zinke Broke Ethics Rules as Interior Secretary, Inquiry Finds</a> NYT: Mr. Zinke, who left the department in 2019 amid multiple inquiries, misused his office and lied to investigators about his involvement in a Montana land deal, a government watchdog found. 
  <p class="updated_time"> 04:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/media/sarah-palin-libel-new-york-times.html">Jurors in Sarah Palin Trial Knew of Judge’s Decision to Dismiss</a> NYT: The judge said several jurors acknowledged knowing about his decision but said it had not “played any role whatever in their deliberations.” 
+ <p class="updated_time"> 04:23 PM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/feinstein-plummets-harris-underwater-in-new-california-poll-00009427">Feinstein plummets, Harris underwater in new California poll</a> Politico: Approval rating for California's senior senator reaches a new low. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
