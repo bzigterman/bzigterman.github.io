@@ -8,10 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:56 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Officials Dispute Russian Drawdown; Kremlin Insists Troops Are Pulling Back</a> NYT: The head of NATO and the U.S. defense secretary met as the United States accused Russia of lying about withdrawing forces from around Ukraine. The Kremlin on Thursday maintained its troops were leaving the border areas, saying, “This process takes time.” 
- <p class="updated_time"> 07:50 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 09:24 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
+ <p class="updated_time"> 09:19 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa for more than two weeks. 
+ <p class="updated_time"> 09:18 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
+ <p class="updated_time"> 08:36 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
+ <p class="updated_time"> 08:34 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
+ <p class="updated_time"> 08:25 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
+ <p class="updated_time"> 08:15 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081389343/olympic-figure-skating-final-kamila-valieva">2 Russians medal at the Olympic figure skating final, but not Kamila Valieva</a> NPR: Two skaters from the Russian Olympic Committee took the top two spots at the women's program at the Beijing Olympics. Kamila Valieva, who has been at the center of a scandal, took fourth place. 
+ <p class="updated_time"> 08:11 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
+ <p class="updated_time"> 08:07 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 07:09 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 07:00 AM CT, Feb. 17 </p> 
@@ -22,10 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081030007/valieva-figure-skating-minimum-age-limits">Minimum ages for figure skaters? Some at the Beijing Olympics say it's a good idea</a> NPR: The scandal involving 15-year-old figure skater Kamila Valieva is drawing new calls to establish age restrictions on Olympic figure skaters. 
  <p class="updated_time"> 06:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
- <p class="updated_time"> 06:24 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
- <p class="updated_time"> 06:22 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
  <p class="updated_time"> 06:07 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: More than 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 06:01 AM CT, Feb. 17 </p> 
@@ -42,18 +52,22 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081388909/france-says-it-will-withdraw-troops-from-mali-but-remain-in-west-africa">France says it will withdraw troops from Mali but remain in West Africa</a> NPR: The announcement by French President Emmanuel Macron will end nearly a decade of fighting Islamic extremists in the West African country. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Russia to Accuse Ukrainian Military of 'Crimes' at U.N. Gathering</a> WSJ: President Biden said that a Russian invasion of Ukraine could happen in the next several days and that Moscow hadn’t moved troops out. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: This is Harris' highest-stakes foreign trip yet. She will meet some 13 heads of state to discuss the threat posed by Russia, and will speak at the Munich Security Conference. 
- <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
+ <p class="updated_time"> 02:59 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/indian-tax-authorities-raid-chinas-huawei-triggering-protest-from-beijing-11645106287">Indian Tax Authorities Raid China's Huawei, Triggering Protest From Beijing</a> WSJ: The offices of Chinese tech giant Huawei Technologies are being searched over suspected tax evasion, triggering a protest from Beijing, in the latest sign that border tensions between the two countries are spilling into commercial ties. 
  <p class="updated_time"> 02:34 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
- <p class="updated_time"> 01:18 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Kyiv, Separatists Allege Cease-Fire Breaches in Ukraine</a> WSJ: Claims of firing along the tense front line separating the two sides came as Western officials said Moscow continued to mass troops along the border of its smaller neighbor. 
+ <p class="updated_time"> 01:57 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-considers-citywide-testing-as-omicron-overwhelms-defenses-11645096216">Hong Kong Considers Citywide Testing as Omicron Overwhelms Defenses</a> WSJ: Officials are considering citywide coronavirus testing after Beijing demanded more be done to control an Omicron surge that has quickly overrun Hong Kong’s health system. 
+ <p class="updated_time"> 12:48 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/turkey-holds-rates-as-ukraine-crisis-looms-over-its-economy-11645098507">Turkey Holds Rates as Ukraine Crisis Looms Over Its Economy</a> WSJ: Turkey’s central bank left its key interest rate unchanged for a second consecutive month, pausing the government’s policy of interest-rate cuts that triggered a chaotic slide in the value of the lira last year. 
  <p class="updated_time"> 11:31 PM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-foreigners-entry-but-scars-remain-11645093890">Japan Lifts Covid-19 Ban on Foreigners' Entry, but Scars Remain</a> WSJ: Business leaders fear damage to nation’s reputation after three months of closed borders, while the public largely supports tight restrictions. 
  <p class="updated_time"> 11:15 PM CT, Feb. 16 </p> 
@@ -68,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/02/16/1081331346/disney-parks-masks-optional-vaccinated-visitors">Disney theme parks say face masks are now optional for vaccinated visitors</a> NPR: Walt Disney World and Disneyland do not require proof of vaccination to enter but Disney says guests who aren't fully vaccinated must continue to wear face coverings in all indoor locations. 
  <p class="updated_time"> 08:12 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 94 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
- <p class="updated_time"> 07:59 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 07:05 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-56803551?at_medium=RSS&at_campaign=KARANGA">Fight for payment of UK pensions lost in Yemen warzone</a> BBC: Yemenis who came to work in British factories in the 1950s have been without payments for years. 
  <p class="updated_time"> 06:45 PM CT, Feb. 16 </p> 
@@ -88,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
- <p class="updated_time"> 05:10 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, putting their owners and other protesters on notice that they must leave the demonstration zone or face arrest. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
  <p class="updated_time"> 05:01 PM CT, Feb. 16 </p> 
@@ -112,18 +122,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081157054/full-snow-moon">Photos: February's 'Snow Moon' rises full and bright</a> NPR: While you're sky-gazing, look to the western horizon. Jupiter will be setting there as evening twilight ends. And that bright star? That's Regulus, part of the Leo constellation. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
- <p class="updated_time"> 01:26 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html">Biden Administration Says China Failed Trade Commitments </a> NYT: In a new report, the administration detailed China’s violations of promises made both to the World Trade Organization and under a 2020 trade deal with the U.S. 
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle-schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
- <p class="updated_time"> 12:00 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident, in which someone saw a man in a wetsuit get dragged underwater, is the city's first fatal shark attack since 1963. Beaches are closed while lifeguards patrol for further shark sightings. 
  <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
- <p class="updated_time"> 11:38 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/beijing-weighs-how-far-to-go-in-backing-putin-on-ukraine-11645050771">Beijing Weighs How Far to Go in Backing Putin on Ukraine</a> WSJ: Behind closed doors, China’s top leaders have debated how to respond to the Russia-Ukraine crisis without hurting China’s own interests. 
  <p class="updated_time"> 11:12 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60403848?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky: We don't see any Russian troop withdrawal</a> BBC: Volodymyr Zelensky gave his first reaction to reports from Russia that it is pulling back some troops from the Ukraine border area. 
  <p class="updated_time"> 10:47 AM CT, Feb. 16 </p> 
@@ -148,14 +152,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html">Museum Security Guard Adds Eyes to Painting’s Faceless Figures</a> NYT: The guard at a museum in Russia has been suspended after he used a pen to draw on “Three Figures,” an avant-garde painting from the 1930s. 
  <p class="updated_time"> 07:30 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
- <p class="updated_time"> 07:26 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/prince-andrews-move-to-settle-sex-abuse-case-leaves-difficult-questions-for-palace-11645035975">Prince Andrew's Move to Settle Sex-Abuse Case Leaves Difficult Questions for Palace</a> WSJ: Prince Andrew’s decision to settle allegations of sexual abuse removes the immediate threat of a highly publicized trial, but the aftershocks of the yearslong scandal continue to reverberate in Buckingham Palace. 
  <p class="updated_time"> 07:14 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60400762?at_medium=RSS&at_campaign=KARANGA">Paislee Shultis: US girl missing since 2019 found alive in secret room</a> BBC: Police have charged three people over Paislee Shultis' disappearance in Saugerties, New York state. 
- <p class="updated_time"> 05:08 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
- <p class="updated_time"> 04:59 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/bitcoin-national-currency-el-salvador-11645026831">Can Bitcoin Be a National Currency? El Salvador Is Trying to Find Out.</a> WSJ: The country made bitcoin legal tender last September and now is aiming to raise $1 billion to fund expansive economic policies by cashing in on the crypto craze. But the IMF warns bitcoin is too risky, and Salvadorans are mostly sticking to dollars. 
  <p class="updated_time"> 04:11 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
@@ -202,7 +200,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:04 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/article/nyc-mask-mandate-rules.html">Subway? Yes. Gym? Maybe: Where You Need to Wear a Mask in New York City</a> NYT: Though some rules have been rolled back, in New York City, you still need to wear masks on public transportation, at the theater, in schools and elsewhere. Here’s an overview. 
  <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720">Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720"> Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
  <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senators unveil their attempted symbolic reprimand for Russia as Ukraine threat looms</a> Politico: The bipartisan resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
  <p class="updated_time"> 05:06 AM CT, Feb. 17 </p> 
@@ -256,7 +254,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:42 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081248864/biden-supreme-court-scotus-nomination-process-candidate">When will Biden interview Supreme Court candidates? Mum's the word</a> NPR: The White House seems determined to make sure President Biden's pick for the Supreme Court will not be revealed until a moment of their choosing. 
+ <a href="https://www.npr.org/2022/02/16/1081248864/biden-supreme-court-nominee">What we know about Biden's Supreme Court opening</a> NPR: The White House seems determined to make sure President Biden's pick for the Supreme Court will not be revealed until a moment of their choosing. 
  <p class="updated_time"> 03:42 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081180054/ryan-zinke-interior-investigation-ig-report">U.S. investigation finds that former Interior Secretary Ryan Zinke misused position</a> NPR: The former Trump Cabinet member failed to disclose details of his involvement in a Montana development project when questioned by ethics officials, an Inspector General's investigation has found. 
  <p class="updated_time"> 03:38 PM CT, Feb. 16 </p> 
