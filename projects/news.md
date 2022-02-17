@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:02 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Western Officials Dispute Russian Claim of Pullback From Ukraine Border</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 09:36 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 09:05 PM CT, Feb. 16 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 94 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 07:59 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
- <p class="updated_time"> 07:37 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and British Officials Dispute Russian Claim of Troop Pullback</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 07:05 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-56803551?at_medium=RSS&at_campaign=KARANGA">Fight for payment of UK pensions lost in Yemen warzone</a> BBC: Yemenis who came to work in British factories in the 1950s have been without payments for years. 
  <p class="updated_time"> 06:45 PM CT, Feb. 16 </p> 
@@ -46,6 +46,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
  <p class="updated_time"> 05:19 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-60408667?at_medium=RSS&at_campaign=KARANGA">US accuses China of 'serious harm' to workers through trade</a> BBC: The US Trade Representative has accused Beijing of repeatedly failing to live up to commitments on trade. 
+ <p class="updated_time"> 05:10 PM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, putting their owners and other protesters on notice that they must leave the demonstration zone or face arrest. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
  <p class="updated_time"> 05:01 PM CT, Feb. 16 </p> 
@@ -74,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081185004/russia-ukraine-invasion-us-impact">Biden says a Russian invasion of Ukraine would hurt Americans. Here's how</a> NPR: A full-scale invasion is not a certainty. But if it happens, experts say the effects of sanctions, energy market disruptions and cyberwarfare could reach everyday Americans. 
  <p class="updated_time"> 02:28 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081119920/greenwashing-oil-companies">Accusations of 'greenwashing' by big oil companies are well-founded, a new study finds</a> NPR: Chevron, ExxonMobil, BP and Shell used terms like "climate" and "low-carbon" more frequently in recent annual reports, but their actions on clean energy didn't match their words, researchers conclude. 
- <p class="updated_time"> 02:09 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, putting their owners and other protesters on notice that they must leave the demonstration zone or face arrest. 
  <p class="updated_time"> 02:01 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081157054/full-snow-moon">Photos: February's 'Snow Moon' rises full and bright</a> NPR: While you're sky-gazing, look to the western horizon. Jupiter will be setting there as evening twilight ends. And that bright star? That's Regulus, part of the Leo constellation. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
@@ -184,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
- <p class="updated_time"> 09:55 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/americas/canada-trucker-protests.html">Canada Protests Baffle a Nation of Rule Followers</a> NYT: The protests seem to challenge the cherished image that Canadians are moderate, rule-following and just plain nice. But was that really a myth all along? 
  <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
 
@@ -195,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:49 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-ukraine-crisis.html">Is the Ukraine Crisis Biden's Moment to Win Back Credibility?</a> NYT: The confrontation with Russia is a chance for the president to win back credibility on foreign policy. Can he? 
  <p class="updated_time"> 08:19 PM CT, Feb. 16 </p> 
@@ -241,8 +241,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1080229310/judge-michelle-childs-supreme-court-nomination-process">Judge Michelle Childs, whose early life was shaped by gun violence, is on SCOTUS list</a> NPR: Her meteoric rise in the last year has been due in part to her biggest supporter, South Carolina Rep. James Clyburn, the third ranking Democrat in the U.S. House of Representatives. 
  <p class="updated_time"> 11:30 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081149585/biden-trump-white-house-visitor-logs">Biden tells the National Archives to turn over Trump White House visitor logs</a> NPR: President Biden has instructed the National Archives to release visitor records in the next 15 days to the House committee investigating the Jan. 6 attack on the U.S. Capitol. 
- <p class="updated_time"> 11:16 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">For Beto O’Rourke, 2020 Still Haunts 2022</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
