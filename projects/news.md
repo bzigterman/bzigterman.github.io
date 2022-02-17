@@ -8,20 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:57 PM CT, Feb. 17 </p> 
+ <p class="updated_time"> 04:19 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
- <p class="updated_time"> 03:56 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
- <p class="updated_time"> 03:56 PM CT, Feb. 17 </p> 
+ <p class="updated_time"> 04:16 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Prepare to Clamp Down on Protesters</a> NYT: Ottawa’s interim police chief said officers had established a perimeter to prevent others from joining the demonstrators who have been occupying the capital for three weeks. 
+ <p class="updated_time"> 04:04 PM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police warn Ottawa protesters of 'imminent' action</a> BBC: Police have set up checkpoints around the site and said it was demonstrators' last chance to leave. 
+ <p class="updated_time"> 04:04 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081569485/a-revisit-to-donbas-a-frontline-in-ukraine-russia-crisis">A revisit to Donbas, a frontline in Ukraine-Russia crisis</a> NPR: NPR's Mary Louise Kelly reported from Donbas just a few weeks ago. We revisit the voices of people she met there, after the news that Russia has increased shelling in the area. 
  <p class="updated_time"> 03:29 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: A judge has ruled that Donald Trump and two of his children must testify in a New York probe into their business 
  <p class="updated_time"> 03:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France Announces Troop Withdrawal From Mali After 9-Year Campaign</a> NYT: The pullout came after a falling out between France and Mali, in West Africa, ending a military effort that failed to drive out violent extremists. 
- <p class="updated_time"> 03:23 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Action 'imminent' police warn Ottawa protesters</a> BBC: Police have set up checkpoints around the protest site and will now allow only "lawful" access. 
  <p class="updated_time"> 03:16 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/ottawa-protests-media-attention.html">How a Fringe Protest in Canada Became a Very Big Deal </a> NYT: Even after the last trucks are gone, the demonstrations will serve as a template for how small groups can draw intense interest. 
  <p class="updated_time"> 02:32 PM CT, Feb. 17 </p> 
@@ -204,7 +204,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:57 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/trump-deposition-new-york-probe-00009847">Judge orders Trump to sit for deposition in New York lawsuit</a> Politico: The judge, Arthur Engoron, also ordered the Trumps to turn over relevant documents within two weeks. 
+ <a href="https://www.politico.com/news/2022/02/17/trump-deposition-new-york-probe-00009847">Judge orders Trump to sit for deposition in New York investigation</a> Politico: The judge, Arthur Engoron, also ordered the Trumps to turn over relevant documents within two weeks. 
  <p class="updated_time"> 01:41 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/steve-dickson-faa-resigns.html">F.A.A. Administrator Steve Dickson Will Resign Next Month</a> NYT: In a letter to staff, Mr. Dickson said it was “time to go home” to his family after a tumultuous period of more than two years leading the agency. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
@@ -239,6 +239,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081450530/florida-house-abortion-ban">Florida House approves a ban on most abortions after 15 weeks</a> NPR: The bill is expected to pass the state Senate. Lawmakers in West Virginia and Arizona have approved similar bills — all modeled on a Mississippi law now before the Supreme Court. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428801/biden-russia-ukraine-invasion">President Biden warns that the threat of a Russian invasion of Ukraine is 'very high'</a> NPR: Biden told reporters Thursday that his sense is that invasion could occur in the next several days. "Every indication we have is they're prepared to go into Ukraine," he said. 
+ <p class="updated_time"> 09:00 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/blinken-to-deliver-remarks-on-russian-threat-to-peace-and-security-at-u-n-security-council-00009733">U.S. sounds new alarms on Ukraine and details Russian invasion plan</a> Politico: The remarks from top U.S. officials come as the United States has seen no de-escalation of troops at the Ukranian border. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:04 AM CT, Feb. 17 </p> 
