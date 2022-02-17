@@ -8,20 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
+ <p class="updated_time"> 03:23 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Sydney shark attack: Hunt for great white that killed swimmer</a> BBC: Officials have banned swimmers and shut beaches as patrol crews scour the water for the shark. 
+ <p class="updated_time"> 03:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
+ <p class="updated_time"> 03:07 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 02:34 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics - not sports - spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
- <p class="updated_time"> 02:23 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali Conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
+ <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
- <p class="updated_time"> 12:04 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian claim of troop withdrawal false, says US</a> BBC: A senior US official says Russia has moved thousands more troops to the border in recent days. 
  <p class="updated_time"> 11:28 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 10:14 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
- <p class="updated_time"> 10:12 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Australia: Sydney hunts great white shark that killed swimmer</a> BBC: Officials have banned swimmers and shut beaches as patrol crews scour the water for the shark. 
  <p class="updated_time"> 10:02 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Western Officials Dispute Russian Claim of Pullback From Ukraine Border</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 09:36 PM CT, Feb. 16 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60411203?at_medium=RSS&at_campaign=KARANGA">Ukraine: Invasion fears are hype and hysteria - Russian diplomat</a> BBC: Russia's deputy ambassador to the UN says Russia will not initiate a war if it is not provoked. 
  <p class="updated_time"> 04:58 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081276661/russian-troops-ukraine-nato">U.S. and NATO officials say they've seen no evidence that Russia has withdrawn troops</a> NPR: Putin says Russia has pulled out some of its 150,000 troops stationed near Ukraine's borders. "There's a difference between what Russia says and what it does," Secretary of State Antony Blinken says. 
- <p class="updated_time"> 04:30 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
  <p class="updated_time"> 04:24 PM CT, Feb. 16 </p> 
@@ -184,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
  <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
- <p class="updated_time"> 03:56 PM CT, Feb. 14 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/europe/sweden-fourth-covid-vaccine-older-people.html">Sweden Recommends 4th Covid Vaccine Shots for People 80 and Older</a> NYT: It also warned, as the country removes its pandemic restrictions, that the virus is spreading increasingly among people who are at elevated risk of severe illness. 
 
 
 </details>
