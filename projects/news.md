@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:43 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 06:07 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: More than 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
+ <p class="updated_time"> 06:01 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60413992?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Games official claims stories of human rights abuses are 'lies'</a> BBC: The Winter Olympics faces renewed political controversy after a Games official dismissed human rights violations among the Uyghur Muslim population as "lies". 
+ <p class="updated_time"> 05:50 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Defense Officials to Meet Amid Disputes of Russia’s Drawdown Claims</a> NYT: The head of NATO and the U.S. defense secretary were scheduled to meet as the United States accused Russia of lying about withdrawing forces from around Ukraine. The Kremlin on Thursday maintained it was pulling troops away from the border, saying, “This process takes time.” 
  <p class="updated_time"> 05:41 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60414143?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: 28,000 women apply for 30 train driver jobs</a> BBC: It is the first time such jobs have been advertised for women in the conservative Muslim kingdom. 
- <p class="updated_time"> 05:29 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: More than 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 05:27 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
  <p class="updated_time"> 05:24 AM CT, Feb. 17 </p> 
@@ -23,7 +25,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
  <p class="updated_time"> 04:40 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60403548?at_medium=RSS&at_campaign=KARANGA">Apple boss Tim Cook faces investor concern over £73m pay</a> BBC: A shareholder group says it has "significant concerns" over the size of Tim Cook's pay package. 
+ <a href="https://www.bbc.co.uk/news/business-60403548?at_medium=RSS&at_campaign=KARANGA">Apple boss Tim Cook faces backlash to £73m pay package</a> BBC: A shareholder group says it has "significant concerns" over the size of Tim Cook's pay package. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
@@ -40,12 +42,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
+ <p class="updated_time"> 01:18 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Kyiv, Separatists Allege Cease-Fire Breaches in Ukraine</a> WSJ: Claims of firing along the tense front line separating the two sides came as Western officials said Moscow continued to mass troops along the border of its smaller neighbor. 
  <p class="updated_time"> 11:31 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-foreigners-entry-but-scars-remain-11645093890">Japan Lifts Covid-19 Ban on Foreigners' Entry, But Scars Remain</a> WSJ: Business leaders fear damage to nation’s reputation after three months of closed borders, while the public largely supports tight restrictions. 
+ <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-foreigners-entry-but-scars-remain-11645093890">Japan Lifts Covid-19 Ban on Foreigners' Entry, but Scars Remain</a> WSJ: Business leaders fear damage to nation’s reputation after three months of closed borders, while the public largely supports tight restrictions. 
  <p class="updated_time"> 11:15 PM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/france-allies-to-withdraw-forces-from-mali-11645092903">France, Allies to Withdraw Forces From Mali</a> WSJ: The move threatens to leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terrorist groups and tamping down ethnic conflict. 
- <p class="updated_time"> 10:57 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Kyiv, Separatists Allege Cease-Fire Breaches in Ukraine</a> WSJ: Claims of firing along the tense front line separating the two sides came as Western officials said Moscow continued to mass troops along the border of its smaller neighbor. 
  <p class="updated_time"> 10:14 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
  <p class="updated_time"> 09:36 PM CT, Feb. 16 </p> 
@@ -109,11 +111,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html">Biden Administration Says China Failed Trade Commitments </a> NYT: In a new report, the administration detailed China’s violations of promises made both to the World Trade Organization and under a 2020 trade deal with the U.S. 
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
+ <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle-schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
- <p class="updated_time"> 12:11 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60409113?at_medium=RSS&at_campaign=KARANGA">One-word gaffe invalidates thousands of US baptisms</a> BBC: Some Church members come to the defence of a Catholic priest in Arizona after he resigns. 
  <p class="updated_time"> 12:00 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident, in which someone saw a man in a wetsuit get dragged underwater, is the city's first fatal shark attack since 1963. Beaches are closed while lifeguards patrol for further shark sightings. 
  <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
