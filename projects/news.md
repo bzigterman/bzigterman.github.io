@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:36 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Defense Officials to Meet Amid Disputes of Russia’s Drawdown Claims</a> NYT: The head of NATO and the U.S. defense secretary were scheduled to meet as the United States accused Russia of lying about withdrawing forces from around Ukraine. The last of nearly 5,000 U.S. troops arrived in Poland, providing reassurance to a NATO ally. 
+ <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
  <p class="updated_time"> 04:23 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
@@ -30,6 +32,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
  <p class="updated_time"> 11:28 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
+ <p class="updated_time"> 11:15 PM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/france-allies-to-withdraw-forces-from-mali-11645092903">France, Allies to Withdraw Forces From Mali</a> WSJ: The move threatens to leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terrorist groups and tamping down ethnic conflict. 
  <p class="updated_time"> 10:57 PM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Kyiv, Separatists Allege Cease-Fire Breaches in Ukraine</a> WSJ: Claims of firing along the tense front line separating the two sides came as Western officials said Moscow continued to mass troops along the border of its smaller neighbor. 
  <p class="updated_time"> 10:14 PM CT, Feb. 16 </p> 
@@ -94,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081157054/full-snow-moon">Photos: February's 'Snow Moon' rises full and bright</a> NPR: While you're sky-gazing, look to the western horizon. Jupiter will be setting there as evening twilight ends. And that bright star? That's Regulus, part of the Leo constellation. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
- <p class="updated_time"> 01:27 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
  <p class="updated_time"> 01:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html">Biden Administration Says China Failed Trade Commitments </a> NYT: In a new report, the administration detailed China’s violations of promises made both to the World Trade Organization and under a 2020 trade deal with the U.S. 
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
@@ -196,11 +198,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some two million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">America is growing more geographically polarized</a> NPR: The widening political chasm is revealed in real estate data. Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. 
- <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's house passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">The widening political chasm is revealed in real estate data</a> NPR: Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. People are purposely moving to places reflecting their views. 
  <p class="updated_time"> 04:01 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081352356/the-politics-of-getting-to-the-next-phase-of-the-coronavirus-pandemic">The politics of getting to the next phase of the coronavirus pandemic</a> NPR: With the omicron surge fading, the Biden administration is looking to the next phase of the pandemic. Americans appear eager to get there. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
