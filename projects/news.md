@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:28 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
- <p class="updated_time"> 05:22 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Eastern Ukraine</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
- <p class="updated_time"> 05:12 PM CT, Feb. 17 </p> 
+ <p class="updated_time"> 05:42 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Prepare to Clamp Down on Protesters</a> NYT: Ottawa’s interim police chief said officers had established a perimeter to prevent others from joining the demonstrators who have been occupying the capital for three weeks. 
+ <p class="updated_time"> 05:40 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
+ <p class="updated_time"> 05:40 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Eastern Ukraine</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 05:08 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081594481/the-candy-bomber-who-dropped-sweets-during-the-berlin-airlift-has-died-at-age-10">The 'Candy Bomber' who dropped sweets during the Berlin airlift has died at age 101</a> NPR: "Halvorsen's deeply human act has never been forgotten," Berlin Mayor Franziska Giffey said in a statement. 
  <p class="updated_time"> 04:42 PM CT, Feb. 17 </p> 
@@ -311,6 +311,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/portman-timken-ohio-gop-primary-00009470">Portman backs Timken in crowded Ohio GOP primary</a> Politico: Sen. Rob Portman handed his endorsement to Jane Timken in the crowded primary for the Republican nomination to fill his senate seat. 
  <p class="updated_time"> 12:37 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/biden-trump-medicare-policy-00009419">Trump-era Medicare program under increased scrutiny</a> Politico: The program allows private companies to participate in Medicare as part of a broader health department effort to improve care while limiting the government's costs. 
+ <p class="updated_time"> 11:06 AM CT, Feb. 16 </p> 
+ <a href="https://www.cnn.com/2022/02/15/politics/mazars-trump-letter-letitia-james/index.html">What to know about accounting firm Mazars' move to back away from Trump</a> CNN: Mazars USA, the accounting firm that former President Donald Trump and his businesses have used for years, cut ties with him in stunning fashion, declaring it could no longer vouch for the financial statements it has complied over the past decade. 
  <p class="updated_time"> 10:05 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/blinken-pullback-russian-troops-ukraine-00009367">Blinken: ‘No meaningful pullback’ from Russian troops at Ukrainian border</a> Politico: The United States and NATO allies say they have seen no pullback of Russian troops at the border but continue to urge diplomatic solutions. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
@@ -319,6 +321,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/16/senate-settles-for-dear-vladimir-00009350">Senate settles for Dear Vladimir</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
+ <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
+ <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
  <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
@@ -341,8 +345,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
- <p class="updated_time"> 02:45 AM CT, Feb. 15 </p> 
- <a href="https://www.cnn.com/2022/02/14/politics/trump-mazars/index.html">Trump Organization's accounting firm says 10 years of financial statements are unreliable</a> CNN: Former President Donald Trump's long-time accounting firm informed the Trump Organization last week that it should no longer rely on nearly 10 years' worth of financial statements and that they would no longer be their accountants, citing a conflict of interest. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
@@ -359,8 +361,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/pelosi-defund-police-democrats-00008449">'Defund the police' is not the policy of the Democratic Party, Pelosi says</a> Politico: "Make no mistake, community safety is our responsibility," she said. 
  <p class="updated_time"> 09:52 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
- <p class="updated_time"> 08:09 AM CT, Feb. 13 </p> 
- <a href="https://www.cnn.com/2022/02/13/politics/trump-telephone-records-capitol-riot-investigation/index.html">Trump's unorthodox phone habits complicate January 6 investigation</a> CNN: In Donald Trump's White House, telephones were a valued commodity. The then-President loved to talk to everyone, said a former White House aide. 
  <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
