@@ -8,18 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:52 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa for more than two weeks. 
- <p class="updated_time"> 09:47 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 10:23 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
+ <p class="updated_time"> 10:23 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
+ <p class="updated_time"> 10:21 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
+ <p class="updated_time"> 10:10 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60421398?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Liz Truss impressed by Ukrainians' fortitude</a> BBC: The UK foreign secretary is in Kyiv, speaking as tensions continue on the Russia-Ukraine border. 
+ <p class="updated_time"> 10:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081449979/us-womens-hockey-olympics-2022">Canada wins Olympic gold in women's hockey, toppling rival Team USA</a> NPR: Canada defeated Team USA 3-2 on Thursday to win its fifth gold medal in the sport. Either Canada or the U.S. has won every gold medal since women's hockey debuted at the winter Olympics in 1998. 
+ <p class="updated_time"> 10:01 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428801/biden-russia-ukraine-invasion">President Biden warns that the threat of a Russian invasion of Ukraine is 'very high'</a> NPR: Biden told reporters Thursday that his sense is that invasion could occur in the next several days. "Every indication we have is they're prepared to go into Ukraine," he said. 
  <p class="updated_time"> 09:18 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist died in the city's first fatal shark attack in almost 60 years, a friend says. 
  <p class="updated_time"> 08:36 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
- <p class="updated_time"> 08:34 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 08:25 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 08:15 AM CT, Feb. 17 </p> 
@@ -32,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 07:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: The artillery fire hit the town of Stanytsia Luhanska, along the frontline that separates government forces from rebels in eastern Ukraine. 
- <p class="updated_time"> 06:57 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 06:54 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081030007/valieva-figure-skating-minimum-age-limits">Minimum ages for figure skaters? Some at the Beijing Olympics say it's a good idea</a> NPR: The scandal involving 15-year-old figure skater Kamila Valieva is drawing new calls to establish age restrictions on Olympic figure skaters. 
  <p class="updated_time"> 06:48 AM CT, Feb. 17 </p> 
@@ -65,15 +69,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:34 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418">Afghan Economy Further Imperiled by U.S. Move to Split Assets</a> WSJ: The Biden administration’s decision to effectively seize the Afghan central bank’s foreign reserves was to help address Afghanistan’s humanitarian crisis while the litigation by the 9/11 victims’ families continues. But many Afghans see the decision as a betrayal of their country, saying those funds weren’t the U.S.’s to keep or spend in the first place. 
+ <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
  <p class="updated_time"> 01:57 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-considers-citywide-testing-as-omicron-overwhelms-defenses-11645096216">Hong Kong Considers Citywide Testing as Omicron Overwhelms Defenses</a> WSJ: Officials are considering citywide coronavirus testing after Beijing demanded more be done to control an Omicron surge that has quickly overrun Hong Kong’s health system. 
  <p class="updated_time"> 12:48 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/turkey-holds-rates-as-ukraine-crisis-looms-over-its-economy-11645098507">Turkey Holds Rates as Ukraine Crisis Looms Over Its Economy</a> WSJ: Turkey’s central bank left its key interest rate unchanged for a second consecutive month, pausing the government’s policy of interest-rate cuts that triggered a chaotic slide in the value of the lira last year. 
- <p class="updated_time"> 11:31 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-foreigners-entry-but-scars-remain-11645093890">Japan Lifts Covid-19 Ban on Foreigners' Entry, but Scars Remain</a> WSJ: Business leaders fear damage to nation’s reputation after three months of closed borders, while the public largely supports tight restrictions. 
- <p class="updated_time"> 11:15 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/france-allies-to-withdraw-forces-from-mali-11645092903">France, Allies to Withdraw Forces From Mali</a> WSJ: The move threatens to leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terrorist groups and tamping down ethnic conflict. 
  <p class="updated_time"> 09:36 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 08:35 PM CT, Feb. 16 </p> 
@@ -116,26 +118,22 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081247520/russias-latest-military-movements-stoke-confusion">Russia's latest military movements stoke confusion</a> NPR: Is Russia escalating — or de-escalating — its military positions along the borders of Ukraine? There are conflicting claims about what's happening now, and what could come next. 
+ <p class="updated_time"> 02:50 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides in Brazil</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
  <p class="updated_time"> 02:42 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081185004/russia-ukraine-invasion-us-impact">How a Russian invasion of Ukraine could affect you</a> NPR: A full-scale invasion is not a certainty. But if it happens, experts say the effects of sanctions, energy market disruptions and cyberwarfare could reach everyday Americans. 
  <p class="updated_time"> 02:28 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081119920/greenwashing-oil-companies">Accusations of 'greenwashing' by big oil companies are well-founded, a new study finds</a> NPR: Chevron, ExxonMobil, BP and Shell used terms like "climate" and "low-carbon" more frequently in recent annual reports, but their actions on clean energy didn't match their words, researchers conclude. 
- <p class="updated_time"> 02:01 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081157054/full-snow-moon">Photos: February's 'Snow Moon' rises full and bright</a> NPR: While you're sky-gazing, look to the western horizon. Jupiter will be setting there as evening twilight ends. And that bright star? That's Regulus, part of the Leo constellation. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
  <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
- <p class="updated_time"> 11:12 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60403848?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky: We don't see any Russian troop withdrawal</a> BBC: Volodymyr Zelensky gave his first reaction to reports from Russia that it is pulling back some troops from the Ukraine border area. 
  <p class="updated_time"> 10:47 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/australia/sydney-shark-attack.html">Shark Kills Swimmer in Rare Death Off Sydney Coast</a> NYT: The fatal shark bite occurred on Wednesday near Little Bay. Mayor Dylan Parker of Randwick City, Australia, said, “To lose someone to a shark attack like this is chilling.” 
  <p class="updated_time"> 10:45 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/ukraine-cyberattack.html">Ukraine Says Cyberattack Was Largest in Its History</a> NYT: Ukraine’s minister of digital transformation, Mykhailo Fedorov, said the attack “bore traces of foreign intelligence services.” 
- <p class="updated_time"> 10:39 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-60407746?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'We do not see any signs of de-escalation on the ground' - Nato</a> BBC: Nato chief speaks at conference saying the situation in Ukraine could become "the new normal in Europe". 
  <p class="updated_time"> 10:34 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60339746?at_medium=RSS&at_campaign=KARANGA">Covid: Hong Kong's hospitals overwhelmed amid spike in cases</a> BBC: Infected patients are treated outside crowded facilities as daily cases reach a new record. 
  <p class="updated_time"> 08:51 AM CT, Feb. 16 </p> 
