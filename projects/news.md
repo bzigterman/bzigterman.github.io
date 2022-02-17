@@ -8,16 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:22 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and NATO See No Sign of a Russian Military Drawdown</a> NYT: Russia said it was continuing to pull troops back from near Ukraine, but Secretary of State Antony Blinken and the head of NATO said they had seen no indication of a withdrawal. 
+ <p class="updated_time"> 07:59 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
+ <p class="updated_time"> 07:58 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian claim of troop withdrawal false, says US</a> BBC: A senior US official says Russia has moved thousands more troops to the border in recent days. 
+ <p class="updated_time"> 07:41 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">Ukraine Tensions Spike as West Accuses Russia of Lying About Troop Withdrawal</a> NYT: As Russia stoked hopes of a diplomatic solution and claimed to be pulling back forces from the Ukrainian border, U.S. and NATO officials accused Moscow of building up troops instead. 
+ <p class="updated_time"> 07:37 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and British Officials Dispute Russian Claim of Troop Pullback</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
+ <p class="updated_time"> 07:05 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-birmingham-56803551?at_medium=RSS&at_campaign=KARANGA">Fight for payment of UK pensions lost in Yemen warzone</a> BBC: Yemenis who came to work in British factories in the 1950s have been without payments for years. 
+ <p class="updated_time"> 07:00 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 94 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 06:18 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081325687/russias-claim-that-it-was-pulling-troops-back-from-ukraine-is-false-official-say">Russia's claim that it was pulling troops back from Ukraine is 'false,' official says</a> NPR: "In fact," a senior administration official said, "we have now confirmed that in the last several days, Russia has increased its troop presence along the Ukrainian border by as many as 7,000 troops." 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60373229?at_medium=RSS&at_campaign=KARANGA">Ashutosh Kaushik: Indian actor fighting for the 'right to be forgotten'</a> BBC: Ashutosh Kaushik says his life is still being held hostage to a youthful folly. 
  <p class="updated_time"> 06:12 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60333796?at_medium=RSS&at_campaign=KARANGA">Swahili's bid to become a language for all of Africa</a> BBC: With 200 million speakers there is a renewed push to make Swahili a common language for Africa. 
- <p class="updated_time"> 06:10 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 06:10 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59900131?at_medium=RSS&at_campaign=KARANGA">French election: Who's vying to challenge Emmanuel Macron?</a> BBC: A tight and divisive race is expected when France holds a presidential election in April this year. 
  <p class="updated_time"> 06:07 PM CT, Feb. 16 </p> 
@@ -28,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
- <p class="updated_time"> 05:31 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">As War Talk Cools in Ukraine, Jockeying for Diplomatic Advantage Begins</a> NYT: For now, at least, attention is focusing on ways to end the crisis and give both Moscow and Kyiv a face-saving off-ramp. 
  <p class="updated_time"> 05:19 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-60408667?at_medium=RSS&at_campaign=KARANGA">US accuses China of 'serious harm' to workers through trade</a> BBC: The US Trade Representative has accused Beijing of repeatedly failing to live up to commitments on trade. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
@@ -40,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081276661/russian-troops-ukraine-nato">U.S. and NATO officials say they've seen no evidence that Russia has withdrawn troops</a> NPR: Putin says Russia has pulled out some of its 150,000 troops stationed near Ukraine's borders. "There's a difference between what Russia says and what it does," Secretary of State Antony Blinken says. 
  <p class="updated_time"> 04:55 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Protesters in Canada Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
- <p class="updated_time"> 04:36 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 78 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 04:30 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
@@ -50,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:51 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
- <p class="updated_time"> 03:26 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: No sign of Russian de-escalation, Nato chief says</a> BBC: The head of the defensive alliance says Moscow is maintaining a massive force ready to attack Ukraine. 
  <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
@@ -62,24 +64,24 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081185004/russia-ukraine-invasion-us-impact">Biden says a Russian invasion of Ukraine would hurt Americans. Here's how</a> NPR: A full-scale invasion is not a certainty. But if it happens, experts say the effects of sanctions, energy market disruptions and cyberwarfare could reach everyday Americans. 
  <p class="updated_time"> 02:28 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081119920/greenwashing-oil-companies">Accusations of 'greenwashing' by big oil companies are well-founded, a new study finds</a> NPR: Chevron, ExxonMobil, BP and Shell used terms like "climate" and "low-carbon" more frequently in recent annual reports, but their actions on clean energy didn't match their words, researchers conclude. 
+ <p class="updated_time"> 02:09 PM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, putting their owners and other protesters on notice that they must leave the demonstration zone or face arrest. 
  <p class="updated_time"> 02:01 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081157054/full-snow-moon">Photos: February's 'Snow Moon' rises full and bright</a> NPR: While you're sky-gazing, look to the western horizon. Jupiter will be setting there as evening twilight ends. And that bright star? That's Regulus, part of the Leo constellation. 
  <p class="updated_time"> 02:00 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/covid-germany-restrictions.html">Germany Aims to Lift Most Covid Restrictions by Spring</a> NYT: Now that the Omicron surge appears to have peaked, officials in Germany, Austria, Switzerland and Slovakia said they too would drop all or most of their remaining restrictions in the near future. 
+ <p class="updated_time"> 01:43 PM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, West Says</a> WSJ: NATO and the U.S. see no de-escalation by Moscow; U.S. officials question Moscow’s statements about troop withdrawals. 
  <p class="updated_time"> 01:39 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60404382?at_medium=RSS&at_campaign=KARANGA">Covid: Austria and Germany decide to ease rules</a> BBC: Both countries have pushed for compulsory vaccinations but now decide to lift restrictions. 
  <p class="updated_time"> 01:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/14/world/americas/justin-trudeau-emergencies-act-canada.html">Justin Trudeau Invokes Rare Emergency Act to Quell Protests</a> NYT: “We cannot and will not allow illegal and dangerous activities to continue,” Canada’s prime minister said in a speech to the nation. 
  <p class="updated_time"> 01:26 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/economy/biden-china-trade-report.html">Biden Administration Says China Failed Trade Commitments </a> NYT: In a new report, the administration detailed China’s violations of promises made both to the World Trade Organization and under a 2020 trade deal with the U.S. 
- <p class="updated_time"> 01:26 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, West Says</a> WSJ: NATO and the U.S. see no de-escalation by Moscow; U.S. officials question Moscow’s statements about troop withdrawals. 
  <p class="updated_time"> 01:15 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 12:58 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081159750/a-norwegian-student-found-a-boat-launched-by-new-hampshire-middle-schoolers-in-2">A Norwegian student found a boat launched by New Hampshire middle schoolers in 2020</a> NPR: The Rye Riptides began as a science class project in New Hampshire. Some 462 days and 8,300 miles later, a sixth-grader retrieved it from an uninhabited Norwegian island, with its notes still intact. 
- <p class="updated_time"> 12:35 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, putting their owners and other protesters on notice that they must leave the demonstration zone or face arrest. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
  <p class="updated_time"> 12:17 PM CT, Feb. 16 </p> 
@@ -90,10 +92,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081158858/swimmer-shark-attack-sydney">A swimmer died in the 1st fatal shark attack at a Sydney beach in nearly 6 decades</a> NPR: The incident, in which someone saw a man in a wetsuit get dragged underwater, is the city's first fatal shark attack since 1963. Beaches are closed while lifeguards patrol for further shark sightings. 
  <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
+ <p class="updated_time"> 11:38 AM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/beijing-weighs-how-far-to-go-in-backing-putin-on-ukraine-11645050771">Beijing Weighs How Far to Go in Backing Putin on Ukraine</a> WSJ: Behind closed doors, China’s top leaders have debated how to respond to the Russia-Ukraine crisis without hurting China’s own interests. 
  <p class="updated_time"> 11:31 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081141189/china-coal-olympics-environment">China puts coal plants at full capacity, even as it touts hosting a 'green' Olympics</a> NPR: "Coal supply will be increased and coal-fired power plants" will run at full capacity, the central government said this week. 
- <p class="updated_time"> 11:26 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-russian-aircraft-flew-perilously-close-to-each-other-amid-ukraine-tensions-11645032529">U.S., Russian Aircraft Flew Perilously Close to Each Other Amid Ukraine Tensions</a> WSJ: The Pentagon says it expressed concern to Russian officials through diplomatic channels and that such miscalculations could potentially lead to more dangerous outcomes. 
  <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081139566/new-zealand-ban-conversion-therapy">New Zealand just became the latest country to outlaw conversion therapy</a> NPR: The new law calls for prison time for anyone who performs conversion therapy on children under 18 or who performs a practice that "causes serious harm to the individual" — regardless of their age. 
  <p class="updated_time"> 11:12 AM CT, Feb. 16 </p> 
@@ -191,10 +193,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/justice-department-missouri-gun-rights.html">Justice Department Sues Missouri Over Its Gun-Rights Law</a> NYT: Attorney General Merrick Garland argued that the law allowing citizens to sue police for $50,000 for violating their right to bear arms was unconstitutional. 
+ <p class="updated_time"> 07:29 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/business/trump-wealth-mazars.html">Trump Makes New Claims About His Wealth After Accountants Drop Him</a> NYT: The former president has spent decades inventing facts and figures to suit his needs. Now, dropped by his accountants, he is making new claims. 
+ <p class="updated_time"> 06:39 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-trump-white-house-visitor-logs.html">Biden Rejects Trump’s Claim of Privilege for White House Visitor Logs</a> NYT: The president informed the National Archives that it should turn over the logs sought by the Jan. 6 committee within 15 days. 
  <p class="updated_time"> 06:18 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081325687/russias-claim-that-it-was-pulling-troops-back-from-ukraine-is-false-official-say">Russia's claim that it was pulling troops back from Ukraine is 'false,' official says</a> NPR: "In fact," a senior administration official said, "we have now confirmed that in the last several days, Russia has increased its troop presence along the Ukrainian border by as many as 7,000 troops." 
- <p class="updated_time"> 06:01 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-trump-white-house-visitor-logs.html">Biden Rejects Trump’s Claim of Privilege for White House Visitor Logs</a> NYT: The president informed the National Archives that it should turn over the logs sought by the Jan. 6 committee within 15 days. 
  <p class="updated_time"> 06:00 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-ukraine-crisis.html">Is the Ukraine Crisis Biden's Moment to Win Back Credibility?</a> NYT: The confrontation with Russia is a chance for the president to win back credibility on foreign policy. Can he? 
  <p class="updated_time"> 05:53 PM CT, Feb. 16 </p> 
@@ -202,7 +208,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:37 PM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:27 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html">The Education Department will wipe out loans for students defrauded by DeVry University.</a> NYT: It’s the first such move involving a for-profit chain that’s still in business. 
+ <a href="https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html">Education Dept. to Cancel Loans for Some DeVry University Students</a> NYT: It’s the first such move involving a for-profit chain that’s still in business. 
  <p class="updated_time"> 05:14 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/ryan-zinke-ethics.html">Ryan Zinke Broke Ethics Rules as Interior Secretary, Inquiry Finds</a> NYT: Mr. Zinke, who left the department in 2019 amid multiple inquiries, misused his office and lied to investigators about his involvement in a Montana land deal, a government watchdog found. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
@@ -234,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:30 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081149585/biden-trump-white-house-visitor-logs">Biden tells the National Archives to turn over Trump White House visitor logs</a> NPR: President Biden has instructed the National Archives to release visitor records in the next 15 days to the House committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 11:16 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Congressional Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
+ <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-immigration-haiti.html">Democrats Ask Biden to Review Treatment of Black Migrants</a> NYT: Senator Chuck Schumer, the majority leader, is among 100 Democrats seeking a review of how Black migrants are treated by the immigration enforcement system. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">For Beto O’Rourke, 2020 Still Haunts 2022</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
@@ -259,8 +265,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
- <p class="updated_time"> 07:14 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/business/media/new-york-times.html">Sarah Palin’s Libel Claim Against The Times Is Rejected by a Jury</a> NYT: The verdict came a day after the judge said he planned to dismiss the case, ruling that Ms. Palin’s legal team had failed to prove that the newspaper defamed her. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/democrats-inflation-gas-tax-deficit.html">Democrats Weigh Gas Tax Holiday and Deficit Cuts as Inflation Mounts</a> NYT: Democrats are looking to revamp their legislative agenda to focus on relief for rising prices before November’s midterm elections while trying to salvage their social policy bill. 
  <p class="updated_time"> 06:05 PM CT, Feb. 15 </p> 
@@ -275,8 +279,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222">Jan. 6 panel targets key players in false Trump elector strategy</a> Politico: Investigators are probing the Trump campaign's involvement in efforts to send fake electors to Washington. 
  <p class="updated_time"> 04:46 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/health/fda-califf-senate-vote.html">Senate Confirms Califf as F.D.A. Chief in Tight Vote</a> NYT: The narrow 50-to-46 decision underscored the divisions on both sides of the aisle over agency policies on opioids and abortion medications and his ties to the drug industry. 
- <p class="updated_time"> 03:03 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-ukraine-weapons.html">U.S. Weapons in Ukraine Would Not Stop a Russian Invasion</a> NYT: The effectiveness of the weapons against the better-equipped Russian Army depends on what Moscow orders its troops to do. 
  <p class="updated_time"> 02:57 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/senate-poised-to-settle-for-symbolic-rebuke-as-russia-sanctions-talks-fizzle-00009096">Senate to settle for symbolic rebuke as Russia sanctions talks fizzle</a> Politico: Congress’ bipartisan negotiations on punishing Moscow have gone from “the one-yard line” to a slow-motion fumble. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
