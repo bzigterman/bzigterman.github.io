@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:30 AM CT, Feb. 17 </p> 
+ <p class="updated_time"> 07:39 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Officials Dispute Russian Drawdown; Kremlin Insists Troops Are Pulling Back</a> NYT: The head of NATO and the U.S. defense secretary met as the United States accused Russia of lying about withdrawing forces from around Ukraine. The Kremlin on Thursday maintained its troops were leaving the border areas, saying, “This process takes time.” 
+ <p class="updated_time"> 07:09 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 07:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: The artillery fire hit the town of Stanytsia Luhanska, along the frontline that separates government forces from rebels in eastern Ukraine. 
  <p class="updated_time"> 06:57 AM CT, Feb. 17 </p> 
@@ -100,8 +102,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081247520/russias-latest-military-movements-stoke-confusion">Russia's latest military movements stoke confusion</a> NPR: Is Russia escalating — or de-escalating — its military positions along the borders of Ukraine? There are conflicting claims about what's happening now, and what could come next. 
- <p class="updated_time"> 02:50 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60407747?at_medium=RSS&at_campaign=KARANGA">Brazil: Torrential rain triggers deadly mudslides in Brazil</a> BBC: Landslides and flash flooding have left a trail of destruction and many dead in Petrópolis, Brazil. 
  <p class="updated_time"> 02:42 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081185004/russia-ukraine-invasion-us-impact">Biden says a Russian invasion of Ukraine would hurt Americans. Here's how</a> NPR: A full-scale invasion is not a certainty. But if it happens, experts say the effects of sanctions, energy market disruptions and cyberwarfare could reach everyday Americans. 
  <p class="updated_time"> 02:28 PM CT, Feb. 16 </p> 
@@ -204,7 +204,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720">Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
  <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senators unveil their attempt at a symbolic reprimand for Russia</a> Politico: The resolution from Sens. Jeanne Shaheen and Rob Portman still needs the consent of all senators to pass — which may not happen. 
+ <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senators unveil their attempted symbolic reprimand for Russia as Ukraine threat looms</a> Politico: The bipartisan resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
  <p class="updated_time"> 05:06 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
