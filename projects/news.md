@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:14 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
+ <p class="updated_time"> 11:27 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, While Kremlin Insists Troops Are Pulling Back</a> NYT: Russia and Ukraine exchanged blame for shelling in northeastern Ukraine, adding to fears of Russian aggression. The U.S. revealed that Russia had expelled the deputy American ambassador last week. 
+ <p class="updated_time"> 11:24 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/us/philadelphia-indoor-dining.html">Philadelphia Drops Its Vaccine Mandate for Indoor Dining</a> NYT: The city introduced a new system of Covid-19 response that is tied to specific pandemic metrics and could change as the situation evolves. 
+ <p class="updated_time"> 11:23 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 11:13 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
  <p class="updated_time"> 10:55 AM CT, Feb. 17 </p> 
@@ -46,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 07:09 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
- <p class="updated_time"> 07:00 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: The artillery fire hit the town of Stanytsia Luhanska, along the frontline that separates government forces from rebels in eastern Ukraine. 
  <p class="updated_time"> 06:54 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081030007/valieva-figure-skating-minimum-age-limits">Minimum ages for figure skaters? Some at the Beijing Olympics say it's a good idea</a> NPR: The scandal involving 15-year-old figure skater Kamila Valieva is drawing new calls to establish age restrictions on Olympic figure skaters. 
  <p class="updated_time"> 06:48 AM CT, Feb. 17 </p> 
@@ -98,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 94 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 07:05 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-56803551?at_medium=RSS&at_campaign=KARANGA">Fight for payment of UK pensions lost in Yemen warzone</a> BBC: Yemenis who came to work in British factories in the 1950s have been without payments for years. 
- <p class="updated_time"> 06:45 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/us/philadelphia-indoor-dining.html">Philadelphia Drops Its Vaccine Mandate for Indoor Dining</a> NYT: The city introduced a new system of Covid-19 response that is tied to specific pandemic metrics and could change as the situation evolves. 
  <p class="updated_time"> 06:18 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081325687/russias-claim-that-it-was-pulling-troops-back-from-ukraine-is-false-official-say">Russia's claim that it was pulling troops back from Ukraine is 'false,' official says</a> NPR: "In fact," a senior administration official said, "we have now confirmed that in the last several days, Russia has increased its troop presence along the Ukrainian border by as many as 7,000 troops." 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:24 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/iran-nuclear-deal-biden.html">Iran Nuclear Deal Inches Toward Revival but Faces Critics in U.S.</a> NYT: Republicans warned that any new agreement would “likely be torn up” by the next administration. 
  <p class="updated_time"> 11:09 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081473389/steve-dickson-resigns-faa-administrator">FAA administrator Steve Dickson will step down midway through his term</a> NPR: Dickson took over the agency as it was reeling from allegations of lax oversight in the aftermath of two Boeing 737 MAX airplane crashes. 
  <p class="updated_time"> 10:47 AM CT, Feb. 17 </p> 
@@ -277,8 +279,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/books/book-bans-markus-dohle-donation-pen-america.html">Publishing C.E.O. Donates $500,000 to Fight Book Bans</a> NYT: Markus Dohle, the chief executive of Penguin Random House, said the effort “ties into the future of our democracy.” 
- <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/democrats-inflation-gas-tax-deficit.html">Democrats Weigh Gas Tax Holiday and Deficit Cuts as Inflation Mounts</a> NYT: Democrats are looking to revamp their legislative agenda to focus on relief for rising prices before November’s midterm elections while trying to salvage their social policy bill. 
  <p class="updated_time"> 06:05 PM CT, Feb. 15 </p> 
