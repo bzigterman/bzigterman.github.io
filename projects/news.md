@@ -8,20 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:23 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
+ <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081388909/france-says-it-will-withdraw-troops-from-mali-but-remain-in-west-africa">France says it will withdraw troops from Mali but remain in West Africa</a> NPR: The announcement by French President Emmanuel Macron will end nearly a decade of fighting Islamic extremists in the West African country. 
+ <p class="updated_time"> 04:10 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Western Officials Dispute Russian Claim of Pullback From Ukraine Border</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: Harris will be speaking at the Munich Security Conference, the annual gathering of the world's top national security officials in Munich, Germany. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 03:52 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
- <p class="updated_time"> 03:47 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Western Officials Dispute Russian Claim of Pullback From Ukraine Border</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 03:08 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
- <p class="updated_time"> 03:07 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 02:34 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
@@ -72,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081276661/russian-troops-ukraine-nato">U.S. and NATO officials say they've seen no evidence that Russia has withdrawn troops</a> NPR: Putin says Russia has pulled out some of its 150,000 troops stationed near Ukraine's borders. "There's a difference between what Russia says and what it does," Secretary of State Antony Blinken says. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
- <p class="updated_time"> 04:24 PM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-says-troops-withdraw-from-crimea-but-u-s-warns-ukraine-invasion-still-possible-11645007072">Russia Is Continuing to Build Up Forces Near Ukraine, West Says</a> WSJ: NATO and the U.S. see no de-escalation by Moscow; U.S. officials question Moscow’s statements about troop withdrawals. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:51 PM CT, Feb. 16 </p> 
@@ -112,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/beijing-weighs-how-far-to-go-in-backing-putin-on-ukraine-11645050771">Beijing Weighs How Far to Go in Backing Putin on Ukraine</a> WSJ: Behind closed doors, China’s top leaders have debated how to respond to the Russia-Ukraine crisis without hurting China’s own interests. 
  <p class="updated_time"> 11:31 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081141189/china-coal-olympics-environment">China puts coal plants at full capacity, even as it touts hosting a 'green' Olympics</a> NPR: "Coal supply will be increased and coal-fired power plants" will run at full capacity, the central government said this week. 
- <p class="updated_time"> 11:23 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081139566/new-zealand-ban-conversion-therapy">New Zealand just became the latest country to outlaw conversion therapy</a> NPR: The new law calls for prison time for anyone who performs conversion therapy on children under 18 or who performs a practice that "causes serious harm to the individual" — regardless of their age. 
  <p class="updated_time"> 11:12 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60403848?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky: We don't see any Russian troop withdrawal</a> BBC: Volodymyr Zelensky gave his first reaction to reports from Russia that it is pulling back some troops from the Ukraine border area. 
  <p class="updated_time"> 10:47 AM CT, Feb. 16 </p> 
@@ -193,6 +191,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some two million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">America is growing more geographically polarized</a> NPR: The widening political chasm is revealed in real estate data. Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's house passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
  <p class="updated_time"> 04:01 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081352356/the-politics-of-getting-to-the-next-phase-of-the-coronavirus-pandemic">The politics of getting to the next phase of the coronavirus pandemic</a> NPR: With the omicron surge fading, the Biden administration is looking to the next phase of the pandemic. Americans appear eager to get there. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
@@ -251,26 +257,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081247527/vp-harris-heads-to-munich-national-security-meeting-at-a-critical-time">VP Harris heads to Munich national security meeting at a critical time</a> NPR: Vice President Kamala Harris is traveling to an annual gathering of the world's top national security officials in Munich, Germany, as leaders work to avert a Russian invasion of Ukraine. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1080978624/us-citizenship-syria-refugee-uscic">Seven years after meeting Moh, I waited to hear: Was he now an American citizen?</a> NPR: I knew that Monday, February 14 would be a landmark day for Mohammed al Refai. It would also be a major turning point in a story that I had started following more than six years ago. 
- <p class="updated_time"> 12:59 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1080229310/judge-michelle-childs-supreme-court-nomination-process">Judge Michelle Childs, whose early life was shaped by gun violence, is on SCOTUS list</a> NPR: Her meteoric rise in the last year has been due in part to her biggest supporter, South Carolina Rep. James Clyburn, the third ranking Democrat in the U.S. House of Representatives. 
- <p class="updated_time"> 11:30 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081149585/biden-trump-white-house-visitor-logs">Biden tells the National Archives to turn over Trump White House visitor logs</a> NPR: President Biden has instructed the National Archives to release visitor records in the next 15 days to the House committee investigating the Jan. 6 attack on the U.S. Capitol. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">In Texas Governor’s Race, Beto O’Rourke Haunted by 2020 Campaign</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/biden-investigators-trump-jan-6-white-house-visitor-logs-00009351">Biden clears way for investigators to obtain Trump’s Jan. 6 White House visitor logs</a> Politico: It’s unclear if Trump will launch another court action to prevent the newly identified records from reaching lawmakers. 
  <p class="updated_time"> 07:34 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/16/senate-settles-for-dear-vladimir-00009350">Senate settles for Dear Vladimir</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:21 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081000056/senators-aim-to-rewrite-child-safety-rules-on-social-media">Senators aim to rewrite child safety rules on social media</a> NPR: The bipartisan Kids Online Safety Act comes amid mounting frustration in Washington that apps like Instagram and YouTube aren't doing enough to protect their youngest users. 
  <p class="updated_time"> 06:13 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/books/book-bans-markus-dohle-donation-pen-america.html">Publishing C.E.O. Donates $500,000 to Fight Book Bans</a> NYT: Markus Dohle, the chief executive of Penguin Random House, said the effort “ties into the future of our democracy.” 
- <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1080863822/the-u-s-is-limiting-compassionate-release-in-plea-deals-many-say-thats-cruel">The U.S. is limiting compassionate release in plea deals. Many say that's cruel</a> NPR: The Justice Department has been limiting the ability of people in prison to apply for compassionate release. Advocates say that flouts Congress and is cruel. 
  <p class="updated_time"> 09:49 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/us/politics/kathleen-rice-retirement.html">Kathleen Rice Announces Her Retirement From Congress</a> NYT: The decision by Representative Kathleen Rice of New York makes the number of Democrats leaving Congress the largest since 1992, as midterm elections loom. 
  <p class="updated_time"> 07:01 PM CT, Feb. 15 </p> 
