@@ -17,12 +17,12 @@ Current:
 
 - 32°
 - freezing rain
-- 93% humidity
+- 94% humidity
 - 22 mph wind
 - 06:43 a.m. sunrise
 - 05:30 p.m. sunset
 
-<p class="updated_time"> Latest data: 11:02 AM CT, February 17</p>
+<p class="updated_time"> Latest data: 11:24 AM CT, February 17</p>
 
 ## Severe Thunderstorm Outlook
 
