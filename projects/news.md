@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 PM CT, Feb. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 10:55 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian claim of troop withdrawal false, says US</a> BBC: A senior US official says Russia has moved thousands more troops to the border in recent days. 
  <p class="updated_time"> 10:14 PM CT, Feb. 16 </p> 
@@ -42,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-59900131?at_medium=RSS&at_campaign=KARANGA">French election: Who's vying to challenge Emmanuel Macron?</a> BBC: A tight and divisive race is expected when France holds a presidential election in April this year. 
  <p class="updated_time"> 06:07 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60407938?at_medium=RSS&at_campaign=KARANGA">Canada protests: Ottawa stand-off continues as blockades cleared</a> BBC: Ottawa police have issued leaflets to remaining protesters telling them to leave the area. 
- <p class="updated_time"> 05:57 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 05:45 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
