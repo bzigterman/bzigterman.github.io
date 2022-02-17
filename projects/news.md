@@ -8,12 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:52 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
+ <p class="updated_time"> 10:51 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/australia/australia-covid-vaccine-children-ages-6-to-11.html">Australia Authorizes Moderna’s Covid Vaccine for Children Ages 6 to 11</a> NYT: The country is the first to grant provisional authority for the Moderna vaccine to be used in children younger than 12. 
+ <p class="updated_time"> 10:40 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
+ <p class="updated_time"> 10:34 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/canada/police-enforcement-truckers-indigenous.html">Friendly Police Response to Protests Raises Questions Among Canadians</a> NYT: Images on social media contrast the response to the truckers with heavy-handed action last year against Indigenous people who blocked logging. 
+ <p class="updated_time"> 10:32 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/australia/rosalie-kunoth-monks-dead.html">Rosalie Kunoth-Monks, Champion of Indigenous Peoples, Dies at 85</a> NYT: As a teenager, she was the star of a film about an Aboriginal girl raised by a white family. As an adult, she fought discrimination in Australia against her people. 
  <p class="updated_time"> 10:23 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
- <p class="updated_time"> 10:23 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
- <p class="updated_time"> 10:21 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, Even as Kremlin Insists Troops Are Pulling Back</a> NYT: Western officials continued to dispute Russia’s claims about withdrawing forces from around Ukraine. Russia expelled the deputy American ambassador in what the U.S. called an “escalatory step.” 
+ <p class="updated_time"> 10:14 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 10:10 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60421398?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Liz Truss impressed by Ukrainians' fortitude</a> BBC: The UK foreign secretary is in Kyiv, speaking as tensions continue on the Russia-Ukraine border. 
  <p class="updated_time"> 10:08 AM CT, Feb. 17 </p> 
@@ -152,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 07:14 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60400762?at_medium=RSS&at_campaign=KARANGA">Paislee Shultis: US girl missing since 2019 found alive in secret room</a> BBC: Police have charged three people over Paislee Shultis' disappearance in Saugerties, New York state. 
- <p class="updated_time"> 04:11 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">The Olympians Caught Up in the U.S.-China Rivalry</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
@@ -180,10 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/asia/indonesia-teacher-child-sex-abuse.html">Indonesian Teacher Convicted of Raping Students for Years</a> NYT: In a case that outraged the nation, the founder of a school was convicted of raping 13 students, fathering nine children with them. 
  <p class="updated_time"> 10:34 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html">In France, a Racist Conspiracy Theory Edges Into the Mainstream</a> NYT: Valérie Pécresse, the center-right presidential candidate, used the phrase ‘great replacement’ in a speech punctuated with coded attacks on immigrants and Muslims. 
- <p class="updated_time"> 08:33 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
- <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
 
 
 </details>
@@ -191,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:47 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081450530/florida-house-abortion-ban">Florida House approves a ban on most abortions after 15 weeks</a> NPR: The bill is expected to pass the state Senate. Lawmakers in West Virginia and Arizona have approved similar bills — all modeled on a Mississippi law now before the Supreme Court. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428801/biden-russia-ukraine-invasion">President Biden warns that the threat of a Russian invasion of Ukraine is 'very high'</a> NPR: Biden told reporters Thursday that his sense is that invasion could occur in the next several days. "Every indication we have is they're prepared to go into Ukraine," he said. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
@@ -261,8 +265,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/vulnerable-senate-dems-tax-cuts-00009497">Vulnerable Senate Dems try to run as tax-cutters</a> Politico: They're pitching gas tax holidays and other pocketbook-friendly plans to combat GOP messaging on inflation. But any real proposal has a long way to go. 
  <p class="updated_time"> 03:09 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/economy/fed-january-meeting-minutes.html">January Fed Minutes Show Concern About Inflation's Spread</a> NYT: Minutes from the Federal Reserve’s meeting in January reflected ongoing concern about prices rising across the economy. 
- <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081247590/the-john-durham-filing-that-set-off-conservative-media-explained">The John Durham filing that set off conservative media, explained</a> NPR: The political right is making hay out of a recent filing in special counsel John Durham's investigation into the Trump-Russia probe. We break down the truth behind their outlandish claims. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">In Texas Governor’s Race, Beto O’Rourke Haunted by 2020 Campaign</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
