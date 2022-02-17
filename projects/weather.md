@@ -17,12 +17,12 @@ Current:
 
 - 51°
 - light rain
-- 83% humidity
-- 14 mph wind
+- 85% humidity
+- 25 mph wind
 - 06:44 a.m. sunrise
 - 05:29 p.m. sunset
 
-<p class="updated_time"> Latest data: 11:00 PM CT, February 16</p>
+<p class="updated_time"> Latest data: 11:32 PM CT, February 16</p>
 
 ## Severe Thunderstorm Outlook
 
