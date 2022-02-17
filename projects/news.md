@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:52 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
+ <p class="updated_time"> 03:47 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Western Officials Dispute Russian Claim of Pullback From Ukraine Border</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
- <p class="updated_time"> 03:23 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Sydney shark attack: Hunt for great white that killed swimmer</a> BBC: Officials have banned swimmers and shut beaches as patrol crews scour the water for the shark. 
  <p class="updated_time"> 03:08 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France and Allies to Begin Withdrawal From Mali</a> NYT: The military campaign was supposed to last only a few weeks, but French soldiers have been fighting insurgents in the African country for a decade. 
  <p class="updated_time"> 03:07 AM CT, Feb. 17 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 10:14 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
- <p class="updated_time"> 10:02 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Western Officials Dispute Russian Claim of Pullback From Ukraine Border</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 09:36 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 08:35 PM CT, Feb. 16 </p> 
