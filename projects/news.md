@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
  <p class="updated_time"> 12:04 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian claim of troop withdrawal false, says US</a> BBC: A senior US official says Russia has moved thousands more troops to the border in recent days. 
  <p class="updated_time"> 11:28 PM CT, Feb. 16 </p> 
@@ -146,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/bitcoin-national-currency-el-salvador-11645026831">Can Bitcoin Be a National Currency? El Salvador Is Trying to Find Out.</a> WSJ: The country made bitcoin legal tender last September and now is aiming to raise $1 billion to fund expansive economic policies by cashing in on the crypto craze. But the IMF warns bitcoin is too risky, and Salvadorans are mostly sticking to dollars. 
  <p class="updated_time"> 04:56 AM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How prepared is Russia for attack?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
- <p class="updated_time"> 04:41 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081065907/xi-urges-hong-kong-to-control-surging-covid-19-cases">Xi urges Hong Kong to control surging COVID-19 cases</a> NPR: The directive from China's president comes as Hong Kong faces the worst outbreak yet of the pandemic, with daily cases surpassing 2,000. 
  <p class="updated_time"> 04:11 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
