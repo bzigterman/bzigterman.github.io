@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:08 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Defense Officials to Meet Amid Disputes Over Russia’s Drawdown Claims</a> NYT: The head of NATO and the U.S. defense secretary were scheduled to meet as the United States accused Russia of lying about withdrawing forces from around Ukraine. The Kremlin on Thursday maintained it was pulling troops away from the border, saying, “This process takes time.” 
+ <p class="updated_time"> 07:30 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Officials Dispute Russian Drawdown; Kremlin Insists Troops Are Pulling Back</a> NYT: The head of NATO and the U.S. defense secretary met as the United States accused Russia of lying about withdrawing forces from around Ukraine. The Kremlin on Thursday maintained its troops were leaving the border areas, saying, “This process takes time.” 
  <p class="updated_time"> 07:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: The artillery fire hit the town of Stanytsia Luhanska, along the frontline that separates government forces from rebels in eastern Ukraine. 
  <p class="updated_time"> 06:57 AM CT, Feb. 17 </p> 
@@ -98,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:51 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
- <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081247520/russias-latest-military-movements-stoke-confusion">Russia's latest military movements stoke confusion</a> NPR: Is Russia escalating — or de-escalating — its military positions along the borders of Ukraine? There are conflicting claims about what's happening now, and what could come next. 
  <p class="updated_time"> 02:50 PM CT, Feb. 16 </p> 
@@ -190,6 +188,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html">Travel Trends for Spring 2022</a> NYT: With Omicron cases ebbing, the industry is looking for a significant rebound in spring and summer. Here’s what to expect, in the air, at the rental car counter and beyond. 
  <p class="updated_time"> 04:00 AM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/asia/olympics-china-snowsports.html">For the Games, Xi Ordered Up a Snow Sports Fever. Will it Last?</a> NYT: China said it succeeded on a vow by Xi Jinping, the country’s top leader, to nurture millions of winter sports enthusiasts. But will the interest last after the Winter Games end? 
+ <p class="updated_time"> 01:42 AM CT, Feb. 15 </p> 
+ <a href="https://www.nytimes.com/2022/02/15/world/americas/honduras-president-extradition.html">U.S. Requests Extradition of Former Honduran President</a> NYT: Juan Orlando Hernández, who stepped down as president last month, was recently accused in a drug-trafficking case in federal court in New York. 
 
 
 </details>
