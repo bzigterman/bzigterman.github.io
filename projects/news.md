@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:34 PM CT, Feb. 17 </p> 
+ <p class="updated_time"> 03:57 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
+ <p class="updated_time"> 03:56 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
+ <p class="updated_time"> 03:56 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Prepare to Clamp Down on Protesters</a> NYT: Ottawa’s interim police chief said officers had established a perimeter to prevent others from joining the demonstrators who have been occupying the capital for three weeks. 
+ <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081569485/a-revisit-to-donbas-a-frontline-in-ukraine-russia-crisis">A revisit to Donbas, a frontline in Ukraine-Russia crisis</a> NPR: NPR's Mary Louise Kelly reported from Donbas just a few weeks ago. We revisit the voices of people she met there, after the news that Russia has increased shelling in the area. 
  <p class="updated_time"> 03:29 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: A judge has ruled that Donald Trump and two of his children must testify in a New York probe into their business 
  <p class="updated_time"> 03:27 PM CT, Feb. 17 </p> 
@@ -18,10 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Action 'imminent' police warn Ottawa protesters</a> BBC: Police have set up checkpoints around the protest site and will now allow only "lawful" access. 
  <p class="updated_time"> 03:16 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/ottawa-protests-media-attention.html">How a Fringe Protest in Canada Became a Very Big Deal </a> NYT: Even after the last trucks are gone, the demonstrations will serve as a template for how small groups can draw intense interest. 
- <p class="updated_time"> 03:11 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
- <p class="updated_time"> 03:06 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Stanytsia Lushanka</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 02:32 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 02:12 PM CT, Feb. 17 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081293032/tensions-rise-in-ottawa-as-police-warn-truckers-to-leave">Tensions rise in Ottawa as police warn truckers to leave</a> NPR: Big rigs parked outside Parliament represent the movement's last stronghold after demonstrators abandoned their sole remaining truck blockade along the U.S. border. 
  <p class="updated_time"> 05:01 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60411203?at_medium=RSS&at_campaign=KARANGA">Ukraine: Invasion fears are hype and hysteria - Russian diplomat</a> BBC: Russia's deputy ambassador to the UN says Russia will not initiate a war if it is not provoked. 
- <p class="updated_time"> 04:58 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081276661/russian-troops-ukraine-nato">U.S. and NATO officials say they've seen no evidence that Russia has withdrawn troops</a> NPR: Putin says Russia has pulled out some of its 150,000 troops stationed near Ukraine's borders. "There's a difference between what Russia says and what it does," Secretary of State Antony Blinken says. 
  <p class="updated_time"> 04:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/preet-chandi-south-pole-expedition.html">Harpreet Chandi Breaks Barrier With Solo Trip to South Pole</a> NYT: Harpreet Chandi is apparently the first woman of color to complete the expedition alone. She traveled for 40 days, pulling nearly 200 pounds of gear. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">The Olympians Caught Up in the U.S.-China Rivalry</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60398296?at_medium=RSS&at_campaign=KARANGA">Ukrainians wary of Russian claims of withdrawal</a> BBC: Kyiv says it wants to see evidence that Russia really is moving troops away from the border. 
- <p class="updated_time"> 08:24 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-russia-putin-intelligence.html">Putin's Motives Pose a Challenge for U.S. Intelligence Agencies</a> NYT: Knowing the intentions of any autocratic leader is difficult, but President Vladimir V. Putin of Russia, who began his career as a K.G.B. officer, poses a particular challenge. 
  <p class="updated_time"> 07:35 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60297302?at_medium=RSS&at_campaign=KARANGA">US Kremlin backers seek to undermine President Biden</a> BBC: Americans who reject the US president's stance on Ukraine are reshaping the Republican party. 
  <p class="updated_time"> 06:37 PM CT, Feb. 15 </p> 
@@ -189,6 +187,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate races the shutdown clock as Friday cliff nears </a> Politico: The chamber is expected to avoid a government shutdown that would kick in at midnight Friday. But first, they have to address GOP senators' demands for amendment votes. 
+ <p class="updated_time"> 04:26 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/hillary-clinton-backs-hochul-00009922">Hillary Clinton backs Hochul, says foes 'coming after me again lately'</a> Politico: Most of Clinton's speech focused on touting Democratic values and arguing that Hochul and her running-mate, Lt. Gov. Brian Benjamin, were the best choices to champion them. 
  <p class="updated_time"> 04:17 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/trump-moves-to-close-off-liz-cheneys-political-escape-hatch-00009928">Trump moves to close off Liz Cheney’s political escape hatch</a> Politico: The president has been privately pressing Wyoming’s governor to change state election laws to deny the congresswoman Democratic support. 
  <p class="updated_time"> 03:05 PM CT, Feb. 17 </p> 
@@ -210,7 +212,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:25 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/business/us-trade-counterfeit-china.html">U.S. Adds WeChat and AliExpress to Notorious Piracy Markets List</a> NYT: The Biden administration added several major Chinese businesses to a list of counterfeiters, but removed any mention of Amazon’s foreign operations. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Congressional resistance puts future Covid funds in jeopardy</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
+ <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 01:12 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-francis-collins-nih.html">Francis Collins, Former N.I.H. Director, Will Fill In as Biden's Science Adviser</a> NYT: Dr. Collins will temporarily serve in one of the two roles previously held by Dr. Eric S. Lander, who resigned last week. 
  <p class="updated_time"> 01:10 PM CT, Feb. 17 </p> 
@@ -291,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081264704/loretta-lynch-nfl-lawsuit">NFL hires former AG Loretta Lynch to handle its racial discrimination suit</a> NPR: The former attorney general was tapped in 2020 by the NFL to work on an inquiry into claims of workplace misconduct involving the then-Washington Football Team. 
  <p class="updated_time"> 05:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html">Education Dept. to Cancel Loans for Some DeVry University Students</a> NYT: It’s the first such move involving a for-profit chain that’s still in business. 
- <p class="updated_time"> 05:20 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/adams-vaccine-kyrie-irving-00009604">Adams: Vaccine rule blocking Kyrie Irving from home games is 'unfair'</a> Politico: Despite his criticism, Adams said he’s reluctant to make an exception for a star athlete because he doesn’t want to undermine the city’s pro-vaccine campaign. 
  <p class="updated_time"> 05:14 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/ryan-zinke-ethics.html">Ryan Zinke Broke Ethics Rules as Interior Secretary, Inquiry Finds</a> NYT: Mr. Zinke, who left the department in 2019 amid multiple inquiries, misused his office and lied to investigators about his involvement in a Montana land deal, a government watchdog found. 
  <p class="updated_time"> 04:26 PM CT, Feb. 16 </p> 
