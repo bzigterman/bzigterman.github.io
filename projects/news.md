@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:23 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">Ukraine Tensions Spike as West Accuses Russia of Lying About Troop Withdrawal</a> NYT: As Russia stoked hopes of a diplomatic solution and claimed to be pulling back forces from the Ukrainian border, U.S. and NATO officials accused Moscow of building up troops instead. 
+ <p class="updated_time"> 08:17 PM CT, Feb. 16 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/02/16/1081331346/disney-parks-masks-optional-vaccinated-visitors">Disney theme parks say face masks are now optional for vaccinated visitors</a> NPR: Walt Disney World and Disneyland do not require proof of vaccination to enter but Disney says guests who aren't fully vaccinated must continue to wear face coverings in all indoor locations. 
+ <p class="updated_time"> 08:12 PM CT, Feb. 16 </p> 
+ <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 94 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 07:59 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/poland-missile-base-russia-ukraine.html">On the Edge of a Polish Forest, Where Some of Putin’s Darkest Fears Lurk</a> NYT: A U.S. missile facility in Poland is at the heart of an issue animating the Kremlin’s calculations over whether to go to war against Ukraine. 
  <p class="updated_time"> 07:58 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60407010?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russian claim of troop withdrawal false, says US</a> BBC: A senior US official says Russia has moved thousands more troops to the border in recent days. 
- <p class="updated_time"> 07:41 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">Ukraine Tensions Spike as West Accuses Russia of Lying About Troop Withdrawal</a> NYT: As Russia stoked hopes of a diplomatic solution and claimed to be pulling back forces from the Ukrainian border, U.S. and NATO officials accused Moscow of building up troops instead. 
  <p class="updated_time"> 07:37 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/02/16/world/russia-ukraine-news">Ukraine Live Updates: U.S. and British Officials Dispute Russian Claim of Troop Pullback</a> NYT: Russia maintained it was continuing to pull troops back from positions near Ukraine, but the United States and Britain said the military buildup was continuing. 
  <p class="updated_time"> 07:05 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-56803551?at_medium=RSS&at_campaign=KARANGA">Fight for payment of UK pensions lost in Yemen warzone</a> BBC: Yemenis who came to work in British factories in the 1950s have been without payments for years. 
- <p class="updated_time"> 07:00 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 94 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 06:18 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081325687/russias-claim-that-it-was-pulling-troops-back-from-ukraine-is-false-official-say">Russia's claim that it was pulling troops back from Ukraine is 'false,' official says</a> NPR: "In fact," a senior administration official said, "we have now confirmed that in the last several days, Russia has increased its troop presence along the Ukrainian border by as many as 7,000 troops." 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
@@ -54,6 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 03:51 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60405684?at_medium=RSS&at_campaign=KARANGA">Search ends for 12 missing from Spanish trawler that sank off Canada</a> BBC: The vessel sank off Canada on Monday in Spain's worst fishing tragedy for almost 40 years. 
+ <p class="updated_time"> 03:27 PM CT, Feb. 16 </p> 
+ <a href="https://www.wsj.com/articles/as-oil-nears-100-saudis-snub-u-s-stick-to-russian-pact-amid-ukraine-crisis-11645015415">As Oil Nears $100, Saudis Snub U.S., Stick to Russian Pact</a> WSJ: The U.S. has repeatedly called on Saudi Arabia to pump up more oil to reduce gasoline prices that, for Americans, are about twice as high as they were earlier in the pandemic. The Saudis have said no. 
  <p class="updated_time"> 03:03 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/tamara-lich-canada-protests-organizer.html">Public Face of Canada Protests Is a Former Leader of a Secessionist Party</a> NYT: Tamara Lich, an Alberta activist, has channeled the truckers’ grievances, raised money and deployed social media to become a leading voice among the protesters. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
@@ -142,14 +146,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How prepared is Russia for attack?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:41 AM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081065907/xi-urges-hong-kong-to-control-surging-covid-19-cases">Xi urges Hong Kong to control surging COVID-19 cases</a> NPR: The directive from China's president comes as Hong Kong faces the worst outbreak yet of the pandemic, with daily cases surpassing 2,000. 
- <p class="updated_time"> 04:16 AM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081033118/2022-beijing-olympics-bubble-great-wall-china">Stepping outside of the 2022 Beijing Olympics bubble to see a part of 'real China'</a> NPR: NPR's Jaclyn Diaz got the rare chance to step outside the COVID quarantine bubble of the 2022 Beijing Winter Games. She and a few others got to visit the famed Great Wall. 
  <p class="updated_time"> 04:11 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">The Olympians Caught Up in the U.S.-China Rivalry</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
- <p class="updated_time"> 03:45 AM CT, Feb. 16 </p> 
- <a href="https://www.wsj.com/articles/as-oil-nears-100-saudis-snub-u-s-stick-to-russian-pact-amid-ukraine-crisis-11645015415">As Oil Nears $100, Saudis Snub U.S., Stick to Russian Pact</a> WSJ: The U.S. has repeatedly called on Saudi Arabia to pump up more oil to reduce gasoline prices that, for Americans, are about twice as high as they were earlier in the pandemic. The Saudis have said no. 
  <p class="updated_time"> 01:28 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/prince-andrew-settlement-epstein.html">Prince Andrew’s Deal With Virginia Giuffre Leaves Many Questions</a> NYT: One question is who will pay for the settlement with the woman who accused him of raping her as a teen. But wider questions about his finances and behavior also dog the royal family. 
  <p class="updated_time"> 09:11 PM CT, Feb. 15 </p> 
@@ -193,7 +193,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:42 PM CT, Feb. 16 </p> 
+ <p class="updated_time"> 08:19 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/justice-department-missouri-gun-rights.html">Justice Department Sues Missouri Over Its Gun-Rights Law</a> NYT: Attorney General Merrick Garland argued that the law allowing citizens to sue police for $50,000 for violating their right to bear arms was unconstitutional. 
  <p class="updated_time"> 07:29 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/trump-wealth-mazars.html">Trump Makes New Claims About His Wealth After Accountants Drop Him</a> NYT: The former president has spent decades inventing facts and figures to suit his needs. Now, dropped by his accountants, he is making new claims. 
