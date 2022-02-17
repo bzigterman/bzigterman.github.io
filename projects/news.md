@@ -8,24 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:10 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Defense Officials to Meet Amid Disputes of Russia’s Drawdown Claims</a> NYT: The head of NATO and the U.S. defense secretary were scheduled to meet as the United States accused Russia of lying about withdrawing forces from around Ukraine. The last of nearly 5,000 U.S. troops arrived in Poland, providing reassurance to a NATO ally. 
+ <p class="updated_time"> 05:43 AM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Western Defense Officials to Meet Amid Disputes of Russia’s Drawdown Claims</a> NYT: The head of NATO and the U.S. defense secretary were scheduled to meet as the United States accused Russia of lying about withdrawing forces from around Ukraine. The Kremlin on Thursday maintained it was pulling troops away from the border, saying, “This process takes time.” 
+ <p class="updated_time"> 05:41 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60414143?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia: 28,000 women apply for 30 train driver jobs</a> BBC: It is the first time such jobs have been advertised for women in the conservative Muslim kingdom. 
+ <p class="updated_time"> 05:29 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: More than 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
+ <p class="updated_time"> 05:27 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
+ <p class="updated_time"> 05:24 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
+ <p class="updated_time"> 05:21 AM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How big is the Russian military build-up?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
  <p class="updated_time"> 04:40 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60403548?at_medium=RSS&at_campaign=KARANGA">Apple boss Tim Cook faces investor concern over £73m pay</a> BBC: A shareholder group says it has "significant concerns" over the size of Tim Cook's pay package. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
- <p class="updated_time"> 04:23 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081388909/france-says-it-will-withdraw-troops-from-mali-but-remain-in-west-africa">France says it will withdraw troops from Mali but remain in West Africa</a> NPR: The announcement by French President Emmanuel Macron will end nearly a decade of fighting Islamic extremists in the West African country. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: Harris will be speaking at the Munich Security Conference, the annual gathering of the world's top national security officials in Munich, Germany. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
- <p class="updated_time"> 03:52 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist, 35, was killed in a fatal shark attack in Sydney, a friend tells the BBC. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 03:08 AM CT, Feb. 17 </p> 
@@ -36,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
  <p class="updated_time"> 11:31 PM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-foreigners-entry-but-scars-remain-11645093890">Japan Lifts Covid-19 Ban on Foreigners' Entry, But Scars Remain</a> WSJ: Business leaders fear damage to nation’s reputation after three months of closed borders, while the public largely supports tight restrictions. 
- <p class="updated_time"> 11:28 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60401611?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Deadly landslides wreak havoc in Brazilian city</a> BBC: Nearly 100 people were killed after torrential rainfall caused flash flooding in the hillside city. 
  <p class="updated_time"> 11:15 PM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/france-allies-to-withdraw-forces-from-mali-11645092903">France, Allies to Withdraw Forces From Mali</a> WSJ: The move threatens to leave a security vacuum in Africa’s Sahel region where French-led troops have spent nearly a decade battling Islamist terrorist groups and tamping down ethnic conflict. 
  <p class="updated_time"> 10:57 PM CT, Feb. 16 </p> 
@@ -74,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
- <p class="updated_time"> 05:19 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-60408667?at_medium=RSS&at_campaign=KARANGA">US accuses China of 'serious harm' to workers through trade</a> BBC: The US Trade Representative has accused Beijing of repeatedly failing to live up to commitments on trade. 
  <p class="updated_time"> 05:10 PM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/canada-police-step-up-warning-to-freedom-convoy-protesters-11645034843">Canada Police Step Up Warning to Convoy Protesters</a> WSJ: Ottawa police officers visited hundreds of vehicles parked downtown and in front of the national legislature, putting their owners and other protesters on notice that they must leave the demonstration zone or face arrest. 
  <p class="updated_time"> 05:06 PM CT, Feb. 16 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/asia/hong-kong-covid-omicron-wave.html">Omicron Reveals Hong Kong's Covid Dilemma</a> NYT: An Omicron surge has exposed the weaknesses of a system that was once a world leader in containing the coronavirus. 
  <p class="updated_time"> 04:59 AM CT, Feb. 16 </p> 
  <a href="https://www.wsj.com/articles/bitcoin-national-currency-el-salvador-11645026831">Can Bitcoin Be a National Currency? El Salvador Is Trying to Find Out.</a> WSJ: The country made bitcoin legal tender last September and now is aiming to raise $1 billion to fund expansive economic policies by cashing in on the crypto craze. But the IMF warns bitcoin is too risky, and Salvadorans are mostly sticking to dollars. 
- <p class="updated_time"> 04:56 AM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine: How prepared is Russia for attack?</a> BBC: About 150,000 troops are positioned near Ukraine's border. 
  <p class="updated_time"> 04:11 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/middleeast/israel-bahrain-naftali-bennett.html">Israeli leader, Naftali Bennett, Meets Bahrain Counterpart, Signaling Regional Shift</a> NYT: But the trip by Naftali Bennett, the first visit to Bahrain by an Israeli prime minister, also highlighted how the new relationship remains far from a society-wide compact. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
@@ -197,26 +197,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720">Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
  <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senators unveil their attempt at a symbolic reprimand for Russia</a> Politico: The resolution from Sens. Jeanne Shaheen and Rob Portman still needs the consent of all senators to pass — which may not happen. 
  <p class="updated_time"> 05:06 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some two million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
- <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some 2 million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">The widening political chasm is revealed in real estate data</a> NPR: Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. People are purposely moving to places reflecting their views. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's House passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
+ <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081387006/morning-news-brief">News brief: Russia-Ukraine crisis, Florida abortion bill, DOJ sues Missouri</a> NPR: Russia says it's de-escalating its forces near Ukraine. Florida's House passes a bill banning abortions after 15 weeks of pregnancy. The DOJ is suing Missouri over its controversial firearm law. 
  <p class="updated_time"> 04:01 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081352356/the-politics-of-getting-to-the-next-phase-of-the-coronavirus-pandemic">The politics of getting to the next phase of the coronavirus pandemic</a> NPR: With the omicron surge fading, the Biden administration is looking to the next phase of the pandemic. Americans appear eager to get there. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: Harris will be speaking at the Munich Security Conference, the annual gathering of the world's top national security officials in Munich, Germany. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">TikTok Star Ava Majury Discovers the Dark Side of Fame</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/article/nyc-mask-mandate-rules.html">Where You Need to Wear A Mask (or Don't) in NYC</a> NYT: Though some requirements have been rolled back, in New York City, you still need to wear masks on public transportation, at the theater and in schools. Here’s an overview. 
+ <a href="https://www.nytimes.com/article/nyc-mask-mandate-rules.html">Subway? Yes. Gym? Maybe: Where You Need to Wear a Mask in New York</a> NYT: Though some requirements have been rolled back, in New York City, you still need to wear masks on public transportation, at the theater and in schools. Here’s an overview. 
  <p class="updated_time"> 03:57 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081379148/department-of-justice-sues-missouri-over-gun-rights-law">Department of Justice sues Missouri over gun rights law</a> NPR: The federal government alleges Missouri's Second Amendment Preservation Act has endangered public safety by prohibiting local law enforcement from cooperating with federal agencies. 
  <p class="updated_time"> 01:04 AM CT, Feb. 17 </p> 
@@ -263,8 +267,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/16/1081247590/the-john-durham-filing-that-set-off-conservative-media-explained">The John Durham filing that set off conservative media, explained</a> NPR: The political right is making hay out of a recent filing in special counsel John Durham's investigation into the Trump-Russia probe. We break down the truth behind their outlandish claims. 
  <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
  <a href="https://www.npr.org/2022/02/16/1081247527/vp-harris-heads-to-munich-national-security-meeting-at-a-critical-time">VP Harris heads to Munich national security meeting at a critical time</a> NPR: Vice President Kamala Harris is traveling to an annual gathering of the world's top national security officials in Munich, Germany, as leaders work to avert a Russian invasion of Ukraine. 
- <p class="updated_time"> 02:56 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1080978624/us-citizenship-syria-refugee-uscic">Seven years after meeting Moh, I waited to hear: Was he now an American citizen?</a> NPR: I knew that Monday, February 14 would be a landmark day for Mohammed al Refai. It would also be a major turning point in a story that I had started following more than six years ago. 
  <p class="updated_time"> 09:13 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/beto-orourke-texas-governor-race.html">In Texas Governor’s Race, Beto O’Rourke Haunted by 2020 Campaign</a> NYT: Mr. O’Rourke’s remarks during his 2020 presidential campaign shadow him in the Texas governor’s race, complicating his attempt to pull off a Democratic upset. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
