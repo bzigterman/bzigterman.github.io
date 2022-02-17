@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, While Kremlin Insists Troops Are Pulling Back</a> NYT: Russia and Ukraine exchanged blame for shelling in northeastern Ukraine, adding to fears of Russian aggression. The U.S. revealed that Russia ordered the expulsion of the deputy American ambassador. 
+ <p class="updated_time"> 12:58 PM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60422103?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russia looking for excuse to invade, US says</a> BBC: President Biden alleges that Russia is plotting "a false flag operation" to justify launching an attack. 
  <p class="updated_time"> 12:54 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Mobilize as Protest Clampdown Looms</a> NYT: Forces began gathering as they appeared to be preparing to confront the protesters who have been occupying downtown Ottawa, the capital, for more than two weeks. 
- <p class="updated_time"> 12:20 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Biden Sees ‘Very High’ Threat of Russian Invasion, While Kremlin Insists Troops Are Pulling Back</a> NYT: Russia and Ukraine exchanged blame for shelling in northeastern Ukraine, adding to fears of Russian aggression. The U.S. revealed that Russia ordered the expulsion of the deputy American ambassador. 
+ <p class="updated_time"> 12:22 PM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police warn protesters to leave amid plans to clear blockade</a> BBC: Prime Minister Trudeau is defending his decision to invoke the Emergencies Act to end the protests. 
  <p class="updated_time"> 12:19 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 12:18 PM CT, Feb. 17 </p> 
@@ -114,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60333796?at_medium=RSS&at_campaign=KARANGA">Swahili's bid to become a language for all of Africa</a> BBC: With 200 million speakers there is a renewed push to make Swahili a common language for Africa. 
  <p class="updated_time"> 06:10 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59900131?at_medium=RSS&at_campaign=KARANGA">French election: Who's vying to challenge Emmanuel Macron?</a> BBC: A tight and divisive race is expected when France holds a presidential election in April this year. 
- <p class="updated_time"> 06:07 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60407938?at_medium=RSS&at_campaign=KARANGA">Canada protests: Ottawa stand-off continues as blockades cleared</a> BBC: Ottawa police have issued leaflets to remaining protesters telling them to leave the area. 
  <p class="updated_time"> 05:45 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
@@ -180,8 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/15/world/canada/canada-protests-ottawa.html">Behind the Fractious Collaboration Steering the Canada Protests</a> NYT: The organizers include former law enforcement officers, military veterans and conservative organizers who are steering unrest that has sent shock waves throughout Canada. 
  <p class="updated_time"> 06:09 PM CT, Feb. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-60303769?at_medium=RSS&at_campaign=KARANGA">Telegram: Where women's nudes are shared without consent</a> BBC: A BBC investigation has found that women’s intimate photos are being shared in large groups on Telegram. 
- <p class="updated_time"> 03:03 PM CT, Feb. 15 </p> 
- <a href="https://www.nytimes.com/2022/02/15/us/politics/us-ukraine-weapons.html">U.S. Weapons in Ukraine Would Not Stop a Russian Invasion</a> NYT: The effectiveness of the weapons against the better-equipped Russian Army depends on what Moscow orders its troops to do. 
  <p class="updated_time"> 03:01 PM CT, Feb. 15 </p> 
  <a href="https://www.nytimes.com/2022/02/15/world/europe/italy-catholic-church-sexual-abuse.html">In Italy, a Call for a National Investigation Into Clerical Sexual Abuse</a> NYT: Italy has so far resisted calls for an independent investigation into how the Roman Catholic church has handled these cases. 
  <p class="updated_time"> 01:00 PM CT, Feb. 15 </p> 
@@ -193,8 +193,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Congressional resistance puts future Covid funds in jeopardy</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
+ <p class="updated_time"> 01:10 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/why-a-federal-gas-tax-holiday-doesnt-add-up-00009499">Why a federal gas tax holiday doesn’t add up</a> Politico: Pausing the 18.4 cents-per-gallon federal gasoline tax won't save consumers much, but it'll cost President Joe Biden's signature infrastructure law a lot. 
+ <p class="updated_time"> 01:02 PM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/17/1081428996/the-future-of-u-s-democracy-hangs-in-the-balance-as-states-battle-over-voting-ri">The future of U.S. democracy hangs in the balance as states battle over voting rights</a> NPR: Michael Waldman, president of the Brennan Center for Justice, says lawmakers in 27 states are considering hundreds of bills designed to limit voting or undermine the integrity of the election process. 
  <p class="updated_time"> 12:57 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/elon-musk-accuses-sec-of-harassment-campaign-00009755">Elon Musk accuses SEC of 'harassment campaign'</a> Politico: 'The SEC seems to be targeting Mr. Musk and Tesla,' his lawyer said. 
+ <p class="updated_time"> 12:13 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/capitol-riot-plea-deals-trump-allies-00009776">Jan. 6 plea deals have helped Trump allies sow 'confusion' about attack, judge says</a> Politico: The DOJ's deals with Jan. 6 defendants have helped bad-faith actors downplay the gravity of the insurrection, a federal D.C. judge said Thursday. 
  <p class="updated_time"> 11:24 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/iran-nuclear-deal-biden.html">Iran Nuclear Deal Inches Toward Revival but Faces Critics in U.S.</a> NYT: Republicans warned that any new agreement would “likely be torn up” by the next administration. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
@@ -219,14 +227,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/business/texas-airport-federal-mask-mandate.html">Texas Sues to Strike Down the Federal Mask Mandate in Airports</a> NYT: The state’s attorney general said the mandate was unconstitutional, even though the Supreme Court recently declined to hear a similar case. 
  <p class="updated_time"> 05:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/adams-touts-restraint-in-first-preliminary-budget-address-00009541">Adams touts restraint in first preliminary budget address</a> Politico: The budget marks a $6 billion increase over last year’s $92.3 billion preliminary budget. 
- <p class="updated_time"> 04:31 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/contradictions-new-york-city-eric-adams-00008586">The top 10 contradictions of New York City Mayor Eric Adams</a> Politico: Understanding what makes the mayor tick can be a fool’s errand. He’s complex and unpredictable, and often seems like a walking contradiction. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/crist-democrats-florida-desantis-00009044">Crist is leading the Democratic pack. Taking on DeSantis is a different story.</a> Politico: Crist has significantly outperformed in recent polling including one out Tuesday that has him besting primary challengers by double-digits. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/primaries-redefining-post-trump-republicans-00009337">GOP plunges into season of ‘self-hate’ that will rewire the party</a> Politico: Evidence of the party’s unrest is everywhere. Nearly a half-dozen Republican governors alone are facing competitive primary challenges. 
- <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/bidens-new-global-vaccine-push-is-running-out-of-funds-00009588">Biden’s new global vaccine push is running out of funds</a> Politico: The president’s team is putting the world vaccination effort at the center of its Covid-19 strategy. But it lacks the money to pay for it. 
  <p class="updated_time"> 04:30 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/workers-historic-wage-gains-at-risk-in-fed-inflation-fight-00009392">The Fed is setting out to kill inflation. Brace for collateral damage.</a> Politico: Calls for the Fed to act quickly to raise rates from their historically low levels have reached a fever pitch following last week’s report that inflation jumped 7.5 percent over the last year, a four-decade high. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
@@ -289,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
- <p class="updated_time"> 03:42 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/2022/02/16/1081248864/biden-supreme-court-nominee">What we know about Biden's Supreme Court opening</a> NPR: The White House seems determined to make sure President Biden's pick for the Supreme Court will not be revealed until a moment of their choosing. 
  <p class="updated_time"> 03:38 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/school-admissions-affirmative-action.html">The Conservative Group Challenging Admissions at Elite High Schools</a> NYT: The Pacific Legal Foundation is behind lawsuits that challenge elite public high schools that are changing their admissions policies to diversify their student body. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
