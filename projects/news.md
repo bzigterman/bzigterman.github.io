@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:45 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Biden Will Confer With Allies as Russia Plans Military Drills</a> NYT: The president’s call with trans-Atlantic leaders, set for Friday, follows tense fighting between Russian-backed separatists and Ukrainians. The U.S. defense secretary met with his Polish counterpart, seeking to show NATO’s solidarity. 
+ <p class="updated_time"> 09:16 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/canada/canada-protest-arrests.html">Police Forces Swell in Ottawa as Prelude to Clamp Down</a> NYT: The unrest in the nation’s capital and the attention of the global media at a time of anxiety have amplified the impact of the protests. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60428292?at_medium=RSS&at_campaign=KARANGA">Greece ferry: Eleven missing as hundreds rescued off Corfu</a> BBC: Greek and Italian boats rush to rescue 290 people from a ferry but not everyone is accounted for. 
+ <p class="updated_time"> 09:13 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and 11 were missing. 
+ <p class="updated_time"> 09:06 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Russia Escalates Tensions but Still Offers to Talk</a> NYT: President Biden prepared to talk with NATO allies by phone on Friday to discuss the threat to Ukraine after a night of tense fighting between Russian-backed separatists and Ukrainians. 
+ <p class="updated_time"> 08:58 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 08:40 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A gust of 122 miles per hour was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
- <p class="updated_time"> 07:45 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60428292?at_medium=RSS&at_campaign=KARANGA">Greece ferry: Two trapped as hundreds rescued off Corfu</a> BBC: Greek and Italian boats rush to rescue 290 people from a ferry but not everyone is accounted for. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
- <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 06:59 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429726?at_medium=RSS&at_campaign=KARANGA">Malawi finds Africa’s first wild polio case in five years</a> BBC: Africa was declared free of wild polio in 2020 after a major continent-wide vaccination campaign. 
  <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
@@ -176,8 +180,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
- <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
 
 
 </details>
@@ -189,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/cuomo-sued-trooper-sexually-harassed-00010102">Cuomo sued by New York trooper who claims he sexually harassed her</a> Politico: The woman, known as Trooper 1 in the lawsuit and in the AG investigation, "is one of the Governor’s victims," the suit contends. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/jim-hagedorn-00010113">GOP congressman dies after battle with kidney cancer</a> Politico: Rep. Jim Hagedorn was first diagnosed with stage 4 kidney cancer in 2019. 
+ <p class="updated_time"> 08:55 AM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081691222/child-tax-credit-poverty">3.7 million more kids are in poverty without the monthly Child Tax Credit, study says</a> NPR: In one month, the child poverty rate increased from 12.1 to 17 percent, the highest rate seen since Dec. 2020. Black and Latino children experienced an even higher rate of poverty. 
  <p class="updated_time"> 08:39 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/putin-tank-deal-poland-00010107">‘What Mr. Putin did not want’: U.S. approves $6B tank deal with Poland</a> Politico: The package is another piece in Poland's sweeping military modernization effort. 
  <p class="updated_time"> 07:22 AM CT, Feb. 18 </p> 
@@ -198,7 +202,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081295373/the-big-sort-americans-move-to-areas-political-alignment">Americans are fleeing deep-blue and red areas to escape people they don't agree with</a> NPR: America is growing more geographically polarized—red zip codes are getting redder and blue zip codes are becoming bluer. People appear to be sorting. 
+ <a href="https://www.npr.org/2022/02/18/1081295373/the-big-sort-americans-move-to-areas-political-alignment">Americans are fleeing to places where political views match their own</a> NPR: America is growing more geographically polarized — red ZIP codes are getting redder and blue ZIP codes are becoming bluer. People appear to be sorting. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081678604/judge-orders-trump-to-be-desposed-in-new-york-investigation">Judge orders Trump to be desposed in New York investigation </a> NPR: A New York Supreme Court judge has ruled that former President Donald Trump and his children Ivanka and Donald Jr. must appear for a deposition about alleged fraud at the Trump Organization. 
  <p class="updated_time"> 06:15 AM CT, Feb. 18 </p> 
@@ -307,8 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senate passes symbolic Russia rebuke as Ukraine threat looms</a> Politico: The bipartisan and nonbinding resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
- <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some 2 million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">TikTok Star Ava Majury Discovers the Dark Side of Fame</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
