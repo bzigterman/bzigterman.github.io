@@ -8,22 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:52 AM CT, Feb. 18 </p> 
+ <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A gust of 122 miles per hour was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least one death was reported. 
+ <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">Unraveling Booster and Vaccine-Timing Rules for International Travelers</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
+ <p class="updated_time"> 10:18 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/canada/canada-protest-arrests.html">Police Forces Swell in Ottawa as Prelude to Clampdown</a> NYT: More than 100 police have assembled in a staging area with heavy equipment and Ottawa police have issued a new warning that protesters must immediately leave or face arrest. 
+ <p class="updated_time"> 10:13 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Russia Escalates Tensions but Still Offers to Talk</a> NYT: President Biden prepared to talk with NATO allies by phone on Friday to discuss the threat to Ukraine after a night of tense fighting between Russian-backed separatists and Ukrainians. 
+ <p class="updated_time"> 10:01 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
  <p class="updated_time"> 09:50 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081707415/us-threat-russia-ukraine-invasion-diplomacy">Why the U.S. is taking the tack of raising public alarms on Russia</a> NPR: The threat of Russia invading Ukraine is real, the Biden administration insists. At the same time, top officials say they hope by being vocal about the intelligence they have could deter action. 
- <p class="updated_time"> 09:47 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters.html">Unraveling Booster and Vaccine-Timing Rules for International Travelers</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
- <p class="updated_time"> 09:44 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Russia Escalates Tensions but Still Offers to Talk</a> NYT: President Biden prepared to talk with NATO allies by phone on Friday to discuss the threat to Ukraine after a night of tense fighting between Russian-backed separatists and Ukrainians. 
- <p class="updated_time"> 09:28 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A gust of 122 miles per hour was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least one death was reported. 
  <p class="updated_time"> 09:25 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
  <p class="updated_time"> 09:15 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60428292?at_medium=RSS&at_campaign=KARANGA">Greece ferry: Eleven missing as hundreds rescued off Corfu</a> BBC: Greek and Italian boats rush to rescue 290 people from a ferry but not everyone is accounted for. 
- <p class="updated_time"> 09:13 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and 11 were missing. 
  <p class="updated_time"> 08:58 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
  <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
+ <p class="updated_time"> 05:13 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">Separatist Leaders in East Ukraine Urge Civilians to Evacuate to Russia</a> WSJ: The leaders of two Russian-controlled regions of east Ukraine urged civilians to evacuate as shelling intensified, with Kyiv saying its troops were ordered to exercise restraint so as to not give Moscow a pretext to invade. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081584395/cristina-calderon-chiles-last-known-yaghan-speaker-dies-at-93">Cristina Calderón, Chile's last known Yaghan speaker, dies at 93</a> NPR: Until the end of her days, Abuela Cristina — as many knew her — bided her time making traditional reed baskets, and sharing the Yaghan language and culture with those around her. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
@@ -58,10 +60,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html">How China Uses Bots and Fake Twitter Accounts to Shape the Olympics</a> NYT: The country’s propagandists have used a variety of tools online to promote a vision of the Games that is free of rancor or controversy. 
+ <p class="updated_time"> 03:53 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/canada-parliament-cancels-session-as-police-clamp-down-on-protesters-11645194677">Canada Parliament Cancels Session as Police Clamp Down on Protesters</a> WSJ: Lawmakers in Ottawa canceled its session on the advice of security officials, in anticipation that police in the capital will continue their efforts to remove Freedom Convoy protesters parked in front of the legislature for the past 22 days. 
  <p class="updated_time"> 03:50 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
- <p class="updated_time"> 03:34 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">Separatist Leaders in East Ukraine Urge Civilians to Evacuate to Russia</a> WSJ: The leaders of two Russian-controlled regions of east Ukraine urged civilians to evacuate as shelling intensified, with Kyiv saying its troops were ordered to exercise restraint so as to not give Moscow a pretext to invade. 
  <p class="updated_time"> 03:17 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was reportedly unresponsive when he was pulled out days after he had fallen down the well. 
  <p class="updated_time"> 02:42 AM CT, Feb. 18 </p> 
@@ -70,6 +72,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60428341?at_medium=RSS&at_campaign=KARANGA">Ahmedabad 2008 blasts: India court sentences 38 to death</a> BBC: The deadly bombings in Gujarat state had killed 57 people and left hundreds injured. 
  <p class="updated_time"> 02:13 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Eastern Ukraine</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
+ <p class="updated_time"> 01:59 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-postpones-choosing-next-leader-amid-record-covid-19-outbreak-11645188376">Hong Kong Postpones Choosing Its Next Leader as Covid-19 Surges</a> WSJ: Current Chief Executive Carrie Lam said the election was being delayed amid a surge of thousands of coronavirus cases recorded in recent days. 
+ <p class="updated_time"> 01:44 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 01:33 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
@@ -80,8 +86,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60426589?at_medium=RSS&at_campaign=KARANGA">Sydney shark attack: Beaches reopen after British swimmer's death</a> BBC: British man Simon Nellist died on Wednesday in the city's first fatal attack since 1963. 
  <p class="updated_time"> 11:43 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/18/1081651604/olympic-committee-leader-says-hes-disturbed-by-coachs-treatment-of-kamila-valiev">Olympic Committee leader says he's 'disturbed' by coach's treatment of Kamila Valieva</a> NPR: International Olympic Committee President Thomas Bach resisted implementing any immediate changes despite speaking of concerns for minor athletes like Valieva. 
- <p class="updated_time"> 10:46 PM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/blinken-sees-moment-of-peril-in-ukraine-challenges-moscow-to-commit-that-it-wont-invade-11645127027">U.S. Makes Diplomatic Push to Avert Russia Attack</a> WSJ: Secretary of State Antony Blinken warned of a looming Russian offensive against Ukraine and proposed a last-ditch diplomatic meeting with his Russian counterpart next week that could lead to a potential summit of key leaders. 
  <p class="updated_time"> 10:34 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/ukraine-invasion-belarus.html">As Russia and Belarus Stage Military Exercise, Talk of Ukraine Invasion Is Dismissed</a> NYT: “There will be no invasion tomorrow,” the strongman leader of Belarus told reporters after watching artillery and warplanes from Russia and his country put on a noisy display of firepower. 
  <p class="updated_time"> 10:31 PM CT, Feb. 17 </p> 
@@ -116,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/middleeast/netflix-movies-arabic-debate.html">First Arabic Film by Netflix Stirs Fierce Morality Debate</a> NYT: Critics argued that the remake of the Italian film “Perfect Strangers” flouted moral standards by projecting Western norms out of sync with the largely religious public across much of the Arab world. 
  <p class="updated_time"> 04:25 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/europe-africa-summit-eu.html">African and European Leaders Meet Against Backdrop of Enduring Problems</a> NYT: A top-level meeting of all E.U. leaders and 40 African counterparts aims to reset the relationship as a partnership of equals. But migration and vaccine equity remain obstacles. 
- <p class="updated_time"> 03:57 PM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737">Canadian Police Begin Freedom Convoy Arrests</a> WSJ: Authorities begin targeted arrests of protesters who have blockaded downtown Ottawa in demonstrations against Covid-19 mandates. 
  <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081569485/a-revisit-to-donbas-a-frontline-in-ukraine-russia-crisis">Revisiting Donbas, a frontline in Ukraine-Russia crisis</a> NPR: NPR reported from Donbas just a few weeks ago. We hear the voices of people we met there, after the news that Russia has increased shelling in the area. 
  <p class="updated_time"> 03:27 PM CT, Feb. 17 </p> 
@@ -152,20 +154,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60421398?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Liz Truss impressed by Ukrainians' fortitude</a> BBC: The UK foreign secretary is in Kyiv, speaking as tensions continue on the Russia-Ukraine border. 
  <p class="updated_time"> 10:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081449979/us-womens-hockey-olympics-2022">Canada wins Olympic gold in women's hockey, toppling rival Team USA</a> NPR: Canada defeated Team USA 3-2 on Thursday to win its fifth gold medal in the sport. Either Canada or the U.S. has won every gold medal since women's hockey debuted at the winter Olympics in 1998. 
- <p class="updated_time"> 09:50 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/the-surprising-mystery-of-italys-crown-jewels-is-who-gets-to-keep-them-11645131022">The Surprising Mystery of Italy's Crown Jewels Is Who Gets to Keep Them</a> WSJ: The Italian government says the precious baubles belong to the nation and its people, a contention being challenged in court by the ex-royal family. For 75 years, they sat unclaimed in a deposit box at the Bank of Italy. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428801/biden-russia-ukraine-invasion">President Biden warns that the threat of a Russian invasion of Ukraine is 'very high'</a> NPR: Biden told reporters Thursday that his sense is that invasion could occur in the next several days. "Every indication we have is they're prepared to go into Ukraine," he said. 
  <p class="updated_time"> 07:09 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
- <p class="updated_time"> 06:49 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-considers-citywide-testing-as-omicron-overwhelms-defenses-11645096216">Hong Kong Considers Citywide Testing as Omicron Overwhelms Defenses</a> WSJ: Officials are considering citywide coronavirus testing after Beijing demanded more be done to control an Omicron surge that has quickly overrun Hong Kong’s health system. 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
+ <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418">Afghan Economy Further Imperiled by U.S. Move to Split Assets</a> WSJ: The Biden administration’s decision to effectively seize the Afghan central bank’s foreign reserves was to help address Afghanistan’s humanitarian crisis while the litigation by the 9/11 victims’ families continues. But many Afghans see the decision as a betrayal of their country, saying those funds weren’t the U.S.’s to keep or spend in the first place. 
  <p class="updated_time"> 08:35 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Protesters in Canada Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
  <p class="updated_time"> 08:23 PM CT, Feb. 16 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/capitol-riot-panel-interview-katrina-pierson-00010154">Jan. 6 panel interviewed Ellipse rally organizer Katrina Pierson</a> Politico: Pierson in her committee interview did not invoke her right to not self-incriminate, known as pleading the Fifth, a source told POLITICO. 
  <p class="updated_time"> 09:23 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/cuomo-sued-trooper-sexually-harassed-00010102">Cuomo sued by New York trooper who claims he sexually harassed her</a> Politico: The woman, known as Trooper 1 in the lawsuit and in the AG investigation, "is one of the Governor’s victims," the suit contends. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
@@ -197,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081691222/child-tax-credit-poverty">3.7 million more kids are in poverty without the monthly Child Tax Credit, study says</a> NPR: In one month, the child poverty rate increased from 12.1 to 17 percent, the highest rate seen since Dec. 2020. Black and Latino children experienced an even higher rate of poverty. 
  <p class="updated_time"> 08:39 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/putin-tank-deal-poland-00010107">‘What Mr. Putin did not want’: U.S. approves $6B tank deal with Poland</a> Politico: The package is another piece in Poland's sweeping military modernization effort. 
+ <p class="updated_time"> 08:07 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/marine-corps-nurse-fake-vaccine-cards.html">Man Charged in Jan. 6 Riot Sold Forged Vaccination Cards, U.S. Says</a> NYT: Prosecutors said that the man, Jia Liu, a Marine Corps reservist, conspired with a nurse, Steven Rodriguez, to distribute hundreds of fraudulent vaccine cards. 
  <p class="updated_time"> 07:22 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/governor-new-york-democratic-convention-00009953">There's a new governor in New York, but the state Democratic Convention remained a top-down affair</a> Politico: To Democratic upstarts, the convention felt a lot like those of years past: A well-choreographed affair designed more to celebrate the Democratic leader than allow for any public debate over the party’s direction. 
  <p class="updated_time"> 07:20 AM CT, Feb. 18 </p> 
@@ -319,8 +323,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 08:19 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/missouri-gun-rights-law.html">Justice Department Sues Missouri Over Its Gun-Rights Law</a> NYT: Attorney General Merrick Garland argued that the law allowing citizens to sue police for $50,000 for violating their right to bear arms was unconstitutional. 
- <p class="updated_time"> 07:29 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/business/trump-wealth-mazars.html">Trump Makes New Claims About His Wealth After Accountants Drop Him</a> NYT: The former president has spent decades inventing facts and figures to suit his needs. Now, dropped by his accountants, he is making new claims. 
  <p class="updated_time"> 06:34 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
