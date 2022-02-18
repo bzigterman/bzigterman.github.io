@@ -8,12 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:47 AM CT, Feb. 18 </p> 
+ <p class="updated_time"> 02:42 AM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081658549/canadian-police-arrest-2-leaders-of-protesting-truckers">Canadian police arrest 2 leaders of protesting truckers</a> NPR: The  police action took place in Ottawa, the protest movement's last stronghold, after weeks of demonstrations and blockades that shut down border crossings into the U.S. 
+ <p class="updated_time"> 02:41 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60428292?at_medium=RSS&at_campaign=KARANGA">Greek ferry: Hundreds evacuated from Olympia blaze off Corfu</a> BBC: Greek and Italian boats rush to rescue 288 people from a ferry but not everyone is accounted for. 
+ <p class="updated_time"> 02:36 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was reportedly unresponsive when he was pulled out days after he had fallen down the well. 
+ <p class="updated_time"> 02:27 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
- <p class="updated_time"> 01:40 AM CT, Feb. 18 </p> 
+ <p class="updated_time"> 02:27 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60428341?at_medium=RSS&at_campaign=KARANGA">Ahmedabad 2008 blasts: India court sentences 38 to death</a> BBC: The deadly bombings in Gujarat state had killed 57 people and left hundreds injured. 
+ <p class="updated_time"> 02:13 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Eastern Ukraine</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
- <p class="updated_time"> 01:36 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was pulled out after several days after rescuers worked round the clock to save him. 
  <p class="updated_time"> 01:33 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
@@ -55,7 +61,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:44 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: Donald Trump and his children Donald Trump Jr and Ivanka Trump must testify in the probe. 
  <p class="updated_time"> 06:28 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/60406195?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: What’s wrong with natural snow?</a> BBC: Despite heavy snowfalls in Beijing, the organisers are still generating the artificial variety. 
+ <a href="https://www.bbc.co.uk/news/60406195?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: What’s wrong with natural snow?</a> BBC: Despite heavy snowfall in Beijing, the organisers are still generating the artificial variety. 
  <p class="updated_time"> 06:21 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60414123?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 11-17 February 2022</a> BBC: A selection of the best photos from across the Africa and beyond this week. 
  <p class="updated_time"> 06:05 PM CT, Feb. 17 </p> 
@@ -132,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/hong-kong-considers-citywide-testing-as-omicron-overwhelms-defenses-11645096216">Hong Kong Considers Citywide Testing as Omicron Overwhelms Defenses</a> WSJ: Officials are considering citywide coronavirus testing after Beijing demanded more be done to control an Omicron surge that has quickly overrun Hong Kong’s health system. 
  <p class="updated_time"> 06:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
- <p class="updated_time"> 06:01 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60413992?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Games official claims stories of human rights abuses are 'lies'</a> BBC: The Winter Olympics faces renewed political controversy after a Games official dismissed human rights violations among the Uyghur Muslim population as "lies". 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
@@ -146,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 02:34 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081384883/chinas-politics-not-sports-spill-out-during-heated-olympic-news-conference">China's politics — not sports — spill out during heated Olympic news conference</a> NPR: Each day the International Olympic Committee holds a press conference to answer a variety of press questions. Today, the spokeswoman for the Beijing Games interjected several times to defend China. 
- <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081382378/brazil-mudslides-kill-more-than-90-with-dozens-still-missing">Brazil mudslides kill more than 90, with dozens still missing</a> NPR: The mountain region where the mudslides occurred, just north of Rio de Janeiro, has experienced similar catastrophes in recent decades. 
  <p class="updated_time"> 09:36 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-police-london-scandals.html">London's Troubled Metropolitan Police Service Searches for a New Leader</a> NYT: The change at the top comes at an awkward moment for the Metropolitan Police Service: It is investigating the government for breaking lockdown rules and faces scrutiny for its own scandals. 
  <p class="updated_time"> 08:35 PM CT, Feb. 16 </p> 
