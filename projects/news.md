@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:12 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
- <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Will Speak After Call With NATO Allies</a> NYT: Two Russian-backed separatist leaders urged people to flee their territories, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. 
+ <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 03:20 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
+ <p class="updated_time"> 03:20 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 02:59 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
  <p class="updated_time"> 02:51 PM CT, Feb. 18 </p> 
@@ -22,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">U.S. says a separatist call to flee east Ukraine for Russia is a false flag</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing to invade the area. The U.S. says it's "disinformation." 
  <p class="updated_time"> 02:14 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
- <p class="updated_time"> 02:14 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 02:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
@@ -43,19 +45,17 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:52 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081691685/doping-russia-kamila-valieva">After Valieva: 5 questions for a doping expert about fixing a messy system</a> NPR: "That was an incredibly troubling outcome," doping expert April Henning says of Russian skating star Kamila Valieva's collapse. She says Valieva "was failed at all levels" by the adults around her. 
  <p class="updated_time"> 10:27 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police start arresting protesters to end the siege of Canada's capital</a> NPR: Police in Ottawa also began towing away trucks in a bid to break the three-week, traffic-snarling siege of Canada's capital by hundreds of truckers angry over COVID-19 restrictions. 
+ <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">At least 70 people arrested as police move to end the siege of Canada's capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
+ <p class="updated_time"> 10:19 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 09:50 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081707415/us-threat-russia-ukraine-invasion-diplomacy">Why U.S. strategy includes raising public alarms on Russia</a> NPR: The threat of Russia invading Ukraine is real, the Biden administration insists. At the same time, top officials say they hope that being vocal about the intelligence they have could deter action. 
  <p class="updated_time"> 09:24 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
- <p class="updated_time"> 08:58 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
- <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
  <p class="updated_time"> 06:59 AM CT, Feb. 18 </p> 
@@ -230,7 +230,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:38 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/durham-right-wing-media-trump.html">Durham Distances Himself From Furor in Right-Wing Media Over Filing</a> NYT: The special counsel implicitly acknowledged that White House internet data he discussed, which conservative outlets have portrayed as proof of spying on the Trump White House, came from the Obama era. 
  <p class="updated_time"> 10:27 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police start arresting protesters to end the siege of Canada's capital</a> NPR: Police in Ottawa also began towing away trucks in a bid to break the three-week, traffic-snarling siege of Canada's capital by hundreds of truckers angry over COVID-19 restrictions. 
+ <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">At least 70 people arrested as police move to end the siege of Canada's capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 09:23 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/cuomo-sued-trooper-sexually-harassed-00010102">Cuomo sued by New York trooper who claims he sexually harassed her</a> Politico: The woman, known as Trooper 1 in the lawsuit and in the AG investigation, "is one of the Governor’s victims," the suit contends. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
@@ -305,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof">Oregon governor race will go on without Nick Kristof</a> NPR: The Oregon Supreme Court has ruled that former New York Times columnist Nick Kristof does not meet the residency requirement to run for governor there. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">N.Y. Supreme Court justice orders the Trumps to testify under oath</a> NPR: Trump calls the ruling "a continuation of the greatest Witch Hunt in history." 
- <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
@@ -325,8 +323,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720"> Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
  <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senate passes symbolic Russia rebuke as Ukraine threat looms</a> Politico: The bipartisan and nonbinding resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
- <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 06:34 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
