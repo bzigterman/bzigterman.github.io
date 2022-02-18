@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:55 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
+ <p class="updated_time"> 11:45 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
+ <p class="updated_time"> 11:43 PM CT, Feb. 17 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081651604/olympic-committee-leader-says-hes-disturbed-by-coachs-treatment-of-kamila-valiev">Olympic Committee leader says he's 'disturbed' by coach's treatment of Kamila Valieva</a> NPR: International Olympic Committee President Thomas Bach resisted implementing any immediate changes despite speaking of concerns for minor athletes like Valieva. 
+ <p class="updated_time"> 11:19 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 10:35 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60426585?at_medium=RSS&at_campaign=KARANGA">Vietnam: Viral dog owners rescue 15 puppies after Covid cull</a> BBC: Authorities had killed the couple's dogs last year over Covid fears, sparking a public outcry. 
  <p class="updated_time"> 10:34 PM CT, Feb. 17 </p> 
@@ -23,13 +27,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:02 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 09:50 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in landslide-hit Brazil city</a> BBC: More than 110 people are now known to have died, with hopes fading for those still trapped. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in flood-hit Brazil city</a> BBC: Residents flee Petrópolis and the rescue mission is paused as more heavy rain is forecast. 
  <p class="updated_time"> 09:47 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Police Begin Arresting Protest Organizers in Canada</a> NYT: Tamara Lich, one of the leaders of the demonstration, was arrested on Thursday night, after promises from police officials of an “imminent” clampdown on the occupation. 
  <p class="updated_time"> 09:04 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
- <p class="updated_time"> 09:04 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 08:56 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police arrest leaders of trucker convoy</a> BBC: Tamara Lich tells local media her personal bank account is frozen and she is resigned to a jail term. 
  <p class="updated_time"> 08:01 PM CT, Feb. 17 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Protesters in Canada Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
  <p class="updated_time"> 08:23 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">Ukraine Tensions Spike as West Accuses Russia of Lying About Troop Withdrawal</a> NYT: As Russia stoked hopes of a diplomatic solution and claimed to be pulling back forces from the Ukrainian border, U.S. and NATO officials accused Moscow of building up troops instead. 
- <p class="updated_time"> 08:17 PM CT, Feb. 16 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/02/16/1081331346/disney-parks-masks-optional-vaccinated-visitors">Disney theme parks say face masks are now optional for vaccinated visitors</a> NPR: Walt Disney World and Disneyland do not require proof of vaccination to enter but Disney says guests who aren't fully vaccinated must continue to wear face coverings in all indoor locations. 
  <p class="updated_time"> 08:12 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/americas/brazil-mudslides-death.html">Mudslides in Brazil Kill at Least 94 People</a> NYT: Intense rainfall caused mudslides and flooding that destroyed part of the city of Petrópolis, in a region where a similar disaster in 2011 killed more than 900. 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
@@ -186,8 +186,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:17 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/head-of-nations-largest-university-system-resigns-under-fire-00009805">Head of nation’s largest university system resigns under fire</a> Politico: The trustees accepted Joseph I. Castro's resignation, and the board is finalizing a succession plan. 
- <p class="updated_time"> 10:26 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/head-of-nations-largest-university-system-resigns-under-fire-00009805">Head of nation’s largest 4-year university system resigns under fire</a> Politico: The trustees accepted Joseph I. Castro's resignation, and the board is finalizing a succession plan. 
+ <p class="updated_time"> 11:09 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, 93, Dies; Times Reporter Was a Founder of The Hill</a> NYT: He covered Congress in the 1970s and ’80s before heading up a successful Capitol Hill newspaper. 
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
