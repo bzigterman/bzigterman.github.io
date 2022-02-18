@@ -8,20 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:13 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
+ <p class="updated_time"> 08:13 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Biden Will Confer With Allies as Russia Plans Military Drills</a> NYT: The president’s call with trans-Atlantic leaders, set for Friday, follows tense fighting between Russian-backed separatists and Ukrainians. The U.S. defense secretary met with his Polish counterpart, seeking to show NATO’s solidarity. 
  <p class="updated_time"> 07:45 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60428292?at_medium=RSS&at_campaign=KARANGA">Greece ferry: Two trapped as hundreds rescued off Corfu</a> BBC: Greek and Italian boats rush to rescue 290 people from a ferry but not everyone is accounted for. 
  <p class="updated_time"> 07:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A gust of 122 miles per hour was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. 
- <p class="updated_time"> 07:43 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Biden Will Confer With Allies as Russia Plans Military Drills</a> NYT: The president’s call with trans-Atlantic leaders, set for Friday, follows tense fighting between Russian-backed separatists and Ukrainians. The U.S. defense secretary met with his Polish counterpart, seeking to show NATO’s solidarity. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
  <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 06:59 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429726?at_medium=RSS&at_campaign=KARANGA">Malawi finds Africa’s first wild polio case in five years</a> BBC: Africa was declared free of wild polio in 2020 after a major continent-wide vaccination campaign. 
- <p class="updated_time"> 06:35 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60433364?at_medium=RSS&at_campaign=KARANGA">Greece ferry fire: Hundreds rescued from blaze off Corfu coast</a> BBC: The Euroferry Olympia caught fire in the early hours of Friday morning. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
@@ -54,6 +54,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
  <p class="updated_time"> 03:17 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was reportedly unresponsive when he was pulled out days after he had fallen down the well. 
+ <p class="updated_time"> 03:12 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">Separatist Leader in East Ukraine Urges Civilians to Evacuate to Russia</a> WSJ: The leader of a Russian-controlled region of eastern Ukraine urged civilians to evacuate to Russia immediately as shelling intensified along the front line, with Kyiv saying its troops have been issued orders to exercise restraint in responding to artillery fire so as to not give Moscow a pretext to invade. 
  <p class="updated_time"> 02:42 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081658549/canadian-police-arrest-2-leaders-of-protesting-truckers">Canadian police arrest 2 leaders of protesting truckers</a> NPR: The  police action took place in Ottawa, the protest movement's last stronghold, after weeks of demonstrations and blockades that shut down border crossings into the U.S. 
  <p class="updated_time"> 02:27 AM CT, Feb. 18 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
- <p class="updated_time"> 01:00 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">Ukraine Urges Restraint in Face of Shelling</a> WSJ: Shelling intensified in eastern Ukraine, with Kyiv saying its troops have been issued orders to exercise restraint in responding to artillery fire so as to not give Russia a pretext to invade. 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/australia/australia-winter-olympics-medals.html">What Australia’s Success at the Winter Olympics Does (and Doesn’t) Tell You</a> NYT: Australia has won more medals than ever at the 2022 Winter Games, but it’s hard to tell if global respect can turn the country into a winter sports wonderland. 
  <p class="updated_time"> 11:51 PM CT, Feb. 17 </p> 
@@ -122,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/whatsapp-london-police-charges.html">London Police Officers Charged Over Offensive WhatsApp Messages</a> NYT: The messages were uncovered during the investigation into Wayne Couzens, a London police officer who kidnapped, raped and murdered Sarah Everard in March 2021. 
  <p class="updated_time"> 02:06 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081452471/mexico-avocado-ban">Why we'll probably see avocado prices rise soon in the U.S.</a> NPR: Earlier this week, the U.S. Department of Agriculture put a temporary suspension on avocados from Mexico after an inspector received a threat. Experts say it might lead to a change in supply and cost. 
- <p class="updated_time"> 01:38 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
  <p class="updated_time"> 12:18 PM CT, Feb. 17 </p> 
@@ -187,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/jim-hagedorn-00010113">GOP congressman dies after battle with kidney cancer</a> Politico: Rep. Jim Hagedorn was first diagnosed with stage 4 kidney cancer in 2019. 
  <p class="updated_time"> 08:39 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/putin-tank-deal-poland-00010107">‘What Mr. Putin did not want’: U.S. approves $6B tank deal with Poland</a> Politico: The package is another piece in Poland's sweeping military modernization effort. 
  <p class="updated_time"> 07:22 AM CT, Feb. 18 </p> 
@@ -267,8 +267,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof">Oregon governor race will go on without Nick Kristof</a> NPR: The Oregon Supreme Court has ruled that former New York Times columnist Nick Kristof does not meet the residency requirement to run for governor there. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">N.Y. Supreme Court justice orders the Trumps to testify under oath</a> NPR: Trump calls the ruling "a continuation of the greatest Witch Hunt in history." 
- <p class="updated_time"> 02:18 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/leaders-with-cuban-legal-group-back-jacksons-nomination-to-high-court-00009851">Leaders with Florida-based Cuban legal group back Ketanji Brown Jackson's nomination to high court</a> Politico: The president of the Cuban American Bar Association sent a letter to the White House dated Wednesday that lauded Jackson, who grew up in South Florida and attended high school in Miami. 
  <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:57 PM CT, Feb. 17 </p> 
