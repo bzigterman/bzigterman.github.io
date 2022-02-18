@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
+ <p class="updated_time"> 05:42 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/jim-hagedorn-dead.html">Jim Hagedorn, a Trump Ally in the House, Dies at 59</a> NYT: A two-term Minnesota conservative, he backed efforts to overturn the election of Joseph Biden as president on spurious grounds of voter fraud. 
  <p class="updated_time"> 05:37 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/melania-trump-charity-donation.html">Charitable Offer by Melania Trump Is Rejected, a Move She Calls ‘Politics’</a> NYT: Mrs. Trump assailed what she called attempts to “cancel her” as she comes under criticism, along with her husband, for post-White House fund-raising efforts. 
  <p class="updated_time"> 04:58 PM CT, Feb. 18 </p> 
@@ -289,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081661666/morning-news-brief">News brief: Russia-Ukraine crisis, Trump ruling, IOC president's news conference</a> NPR: VP Harris is in Germany for meetings on Ukraine. N.Y. Supreme Court judge orders Donald Trump to testify under oath. The president of the International Olympic Committee holds a news conference. 
- <p class="updated_time"> 11:09 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, 93, Dies; Times Reporter Was a Founder of The Hill</a> NYT: He covered Congress in the 1970s and ’80s before heading up a successful Capitol Hill newspaper. 
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
