@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Police Begin Arresting Protest Organizers in Canada</a> NYT: Tamara Lich, one of the leaders of the demonstration, was arrested on Thursday night, after promises from police officials of an “imminent” clampdown on the occupation. 
+ <p class="updated_time"> 06:35 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
+ <p class="updated_time"> 06:31 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A gust of 122 miles per hour was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. 
+ <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60433364?at_medium=RSS&at_campaign=KARANGA">Greece ferry fire: Hundreds rescued from blaze off Corfu coast</a> BBC: The Euroferry Olympia caught fire in the early hours of Friday morning. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
- <p class="updated_time"> 06:01 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
- <p class="updated_time"> 05:02 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Britain With Dangerously High Winds</a> NYT: Wind gusts of up to 90 miles per hour were expected in parts of the country. One weather official said the storm would be the worst the country has seen in 30 years. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081584395/cristina-calderon-chiles-last-known-yaghan-speaker-dies-at-93">Cristina Calderón, Chile's last known Yaghan speaker, dies at 93</a> NPR: Until the end of her days, Abuela Cristina — as many knew her — bided her time making traditional reed baskets, and sharing the Yaghan language and culture with those around her. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
@@ -76,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
  <p class="updated_time"> 10:02 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
- <p class="updated_time"> 09:47 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Police Begin Arresting Protest Organizers in Canada</a> NYT: Tamara Lich, one of the leaders of the demonstration, was arrested on Thursday night, after promises from police officials of an “imminent” clampdown on the occupation. 
  <p class="updated_time"> 09:04 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 08:01 PM CT, Feb. 17 </p> 
@@ -174,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-59900131?at_medium=RSS&at_campaign=KARANGA">French election: Who's vying to challenge Emmanuel Macron?</a> BBC: A tight and divisive race is expected when France holds a presidential election in April this year. 
  <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
- <p class="updated_time"> 05:01 PM CT, Feb. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60411203?at_medium=RSS&at_campaign=KARANGA">Ukraine: Invasion fears are hype and hysteria - Russian diplomat</a> BBC: Russia's deputy ambassador to the UN says Russia will not initiate a war if it is not provoked. 
  <p class="updated_time"> 04:06 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
@@ -189,8 +189,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:22 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/governor-new-york-democratic-convention-00009953">There's a new governor in New York, but the state Democratic Convention remained a top-down affair</a> Politico: To Democratic upstarts, the convention felt a lot like those of years past: A well-choreographed affair designed more to celebrate the Democratic leader than allow for any public debate over the party’s direction. 
  <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:30 AM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081295373/the-big-sort-americans-move-to-areas-political-alignment">Americans are fleeing deep-blue and red areas to escape people they don't agree with</a> NPR: America is growing more geographically polarized—red zip codes are getting redder and blue zip codes are becoming bluer. People appear to be sorting. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081678604/judge-orders-trump-to-be-desposed-in-new-york-investigation">Judge orders Trump to be desposed in New York investigation </a> NPR: A New York Supreme Court judge has ruled that former President Donald Trump and his children Ivanka and Donald Jr. must appear for a deposition about alleged fraud at the Trump Organization. 
  <p class="updated_time"> 06:15 AM CT, Feb. 18 </p> 
@@ -303,8 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081387027/throughline-the-battle-over-the-filibusters-future-is-a-battle-over-its-past">'Throughline': The battle over the filibuster's future is a battle over its past</a> NPR: The filibuster can stop bills from reaching the Senate floor and lead to hours-long speeches. It can be hard to understand what a filibuster is, why we have it and how it impacts the country. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some 2 million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
- <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">The widening political chasm is revealed in real estate data</a> NPR: Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. People are purposely moving to places reflecting their views. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">TikTok Star Ava Majury Discovers the Dark Side of Fame</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
@@ -345,8 +347,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222">Jan. 6 panel targets key players in false Trump elector strategy</a> Politico: Investigators are probing the Trump campaign's involvement in efforts to send fake electors to Washington. 
- <p class="updated_time"> 05:06 PM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/sanctions-slam-on-russia-not-swift-united-00009199">A ‘swift’ and ‘unified’ sanctions slam on Russia? Not exactly.</a> Politico: America and its European allies all plan to punish a Russian invasion of Ukraine. But the actions and timing are unlikely to be in perfect sync, and key details remain unresolved. 
  <p class="updated_time"> 02:57 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/senate-poised-to-settle-for-symbolic-rebuke-as-russia-sanctions-talks-fizzle-00009096">Senate to settle for symbolic rebuke as Russia sanctions talks fizzle</a> Politico: Congress’ bipartisan negotiations on punishing Moscow have gone from “the one-yard line” to a slow-motion fumble. 
  <p class="updated_time"> 11:45 AM CT, Feb. 15 </p> 
