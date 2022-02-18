@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
+ <p class="updated_time"> 10:34 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/ukraine-invasion-belarus.html">As Russia and Belarus Stage Military Exercise, Talk of Ukraine Invasion Is Dismissed</a> NYT: “There will be no invasion tomorrow,” the strongman leader of Belarus told reporters after watching artillery and warplanes from Russia and his country put on a noisy display of firepower. 
+ <p class="updated_time"> 10:31 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/asia/olympics-curling-japan-beijing.html">East Asia Becomes a Curling Powerhouse</a> NYT: In recent years, Japan, China and South Korea have embraced the sport, investing resources, creating celebrities and changing the competitive landscape. 
  <p class="updated_time"> 10:05 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/iran-nuclear-deal-biden.html">Iran Nuclear Deal Inches Toward Revival but Faces Critics in U.S.</a> NYT: Republicans warned that any new agreement would “likely be torn up” by the next administration. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
@@ -16,12 +22,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 09:50 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in flood-hit Brazil city</a> BBC: Residents flee Petrópolis and the rescue mission is paused as more heavy rain is forecast. 
- <p class="updated_time"> 09:48 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">The Olympians Caught Up in the U.S.-China Rivalry</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
  <p class="updated_time"> 09:47 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Police Begin Arresting Protest Organizers in Canada</a> NYT: Tamara Lich, one of the leaders of the demonstration, was arrested on Thursday night, after promises from police officials of an “imminent” clampdown on the occupation. 
- <p class="updated_time"> 09:45 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
  <p class="updated_time"> 09:04 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 09:04 PM CT, Feb. 17 </p> 
@@ -33,7 +35,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:58 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was due to arrive in Davisville, R.I., on Wednesday. 
  <p class="updated_time"> 06:50 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60392196?at_medium=RSS&at_campaign=KARANGA">US candidate 'traumatised' by bail for gun suspect</a> BBC: The suspect, who was arrested with a gun near the crime scene, was released after two days in custody. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60392196?at_medium=RSS&at_campaign=KARANGA">US candidate 'traumatised' by bail for gun suspect</a> BBC: The accused, who allegedly grazed the mayoral contender with a bullet, was released after two days. 
  <p class="updated_time"> 06:44 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: A judge has ruled that Donald Trump and two of his children must testify in a New York probe into their business 
  <p class="updated_time"> 06:28 PM CT, Feb. 17 </p> 
@@ -183,6 +185,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:17 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/head-of-nations-largest-university-system-resigns-under-fire-00009805">Head of nation’s largest university system resigns under fire</a> Politico: The trustees accepted Joseph I. Castro's resignation, and the board is finalizing a succession plan. 
+ <p class="updated_time"> 10:26 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, 93, Dies; Times Reporter Was a Founder of The Hill</a> NYT: He covered Congress in the 1970s and ’80s before heading up a successful Capitol Hill newspaper. 
+ <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 10:05 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/iran-nuclear-deal-biden.html">Iran Nuclear Deal Inches Toward Revival but Faces Critics in U.S.</a> NYT: Republicans warned that any new agreement would “likely be torn up” by the next administration. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
@@ -197,8 +205,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/business/us-trade-counterfeit-china.html">U.S. Adds WeChat and AliExpress to Notorious Piracy Markets List</a> NYT: The Biden administration added several major Chinese businesses to a list of counterfeiters, but removed any mention of Amazon’s foreign operations. 
  <p class="updated_time"> 07:51 PM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 06:43 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 06:06 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081609073/19-austin-police-officers-indicted-from-investigation-into-2020-protests-sources">19 Austin police officers indicted from investigation into 2020 protests, sources say</a> NPR: Aggravated assault charges are among the most on a single police department over tactics used during the widespread protests over George Floyd's death. 
  <p class="updated_time"> 06:00 PM CT, Feb. 17 </p> 
@@ -215,8 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:18 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/mypillows-ceo-canadas-truckers-00009950">MyPillow’s CEO is coming to save Canada’s truckers. With pillows, of course.</a> Politico: U.S. business owner and MAGA conspiracy theorist Mike Lindell has some feelings about Justin Trudeau: “He's a monster, fact. A monster beyond anything in history.” 
- <p class="updated_time"> 05:11 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, Former Times Reporter and a Founder of The Hill, Dies at 93</a> NYT: He covered Congress for The Times in the 1970s and ’80s before leaving to head up a successful Capitol Hill newspaper. 
  <p class="updated_time"> 05:09 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/3-states-with-shuttered-nuclear-plants-see-emissions-rise-00009034">3 states with shuttered nuclear plants see emissions rise</a> Politico: The closures are forcing difficult choices about the use of natural gas as renewable energy fails to ramp up fast enough. 
  <p class="updated_time"> 05:06 PM CT, Feb. 17 </p> 
@@ -251,8 +255,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/why-a-federal-gas-tax-holiday-doesnt-add-up-00009499">The big problem with Democrats’ gas tax holiday dreams</a> Politico: Pausing the 18.4 cents-per-gallon federal gasoline tax won't save consumers much, but it'll cost President Joe Biden's signature infrastructure law a lot. 
  <p class="updated_time"> 01:02 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428996/the-future-of-u-s-democracy-hangs-in-the-balance-as-states-battle-over-voting-ri">The future of U.S. democracy hangs in the balance as states battle over voting rights</a> NPR: Michael Waldman, president of the Brennan Center for Justice, says lawmakers in 27 states are considering hundreds of bills designed to limit voting or undermine the integrity of the election process. 
- <p class="updated_time"> 12:57 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/elon-musk-accuses-sec-of-harassment-campaign-00009755">Elon Musk accuses SEC of 'harassment campaign'</a> Politico: 'The SEC seems to be targeting Mr. Musk and Tesla,' his lawyer said. 
  <p class="updated_time"> 12:13 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/capitol-riot-plea-deals-trump-allies-00009776">Jan. 6 plea deals have helped Trump allies sow 'confusion' about attack, judge says</a> Politico: The DOJ's deals with Jan. 6 defendants have helped bad-faith actors downplay the gravity of the insurrection, a federal D.C. judge said Thursday. 
  <p class="updated_time"> 11:40 AM CT, Feb. 17 </p> 
