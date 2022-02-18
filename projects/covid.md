@@ -1170,8 +1170,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">356.0K</td>
-<td class="gt_row gt_right">129.0K</td>
-<td class="gt_row gt_right">&minus;64&percnt;</td></tr>
+<td class="gt_row gt_right">118.0K</td>
+<td class="gt_row gt_right">&minus;67&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">113.0K</td>
 <td class="gt_row gt_right gt_striped">68.7K</td>
@@ -1195,7 +1195,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
@@ -1580,8 +1580,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">3.0M</td>
-<td class="gt_row gt_right">2.1M</td>
-<td class="gt_row gt_right">&minus;31&percnt;</td></tr>
+<td class="gt_row gt_right">1.9M</td>
+<td class="gt_row gt_right">&minus;35&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">10.3K</td>
 <td class="gt_row gt_right gt_striped">10.3K</td>
@@ -1601,7 +1601,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
@@ -1610,12 +1610,12 @@ html {
 
 ## Case Acceleration
 
-As of Wednesday, the 14-day percent change in average new cases was:
+As of Thursday, the 14-day percent change in average new cases was:
   
 - -73% in Champaign County
 - -65% in Illinois
 - -67% in the United States
-- -33% worldwide
+- -35% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -1627,7 +1627,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Wednesday, the 14-day percent change in average new deaths was:
+As of Thursday, the 14-day percent change in average new deaths was:
   
 - -32% in Illinois
 - -11% in the United States
