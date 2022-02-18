@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:52 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia will target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
  <p class="updated_time"> 05:37 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60436938?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden says he is convinced Putin has decided to invade</a> BBC: An invasion could happen in days and the capital Kyiv is likely to be targeted, the US president says. 
  <p class="updated_time"> 05:25 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
- <p class="updated_time"> 05:25 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia will target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
  <p class="updated_time"> 05:13 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was headed to Davisville, R.I. 
  <p class="updated_time"> 05:12 PM CT, Feb. 18 </p> 
@@ -187,8 +187,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:50 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/judge-rejects-oath-keepers-founders-bid-for-release-00010286">Judge rejects Oath Keepers founder’s bid for release</a> Politico: Court orders Stewart Rhodes to remain jailed pending trial on seditious conspiracy charge stemming from Jan. 6 insurrection. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
+ <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
+ <p class="updated_time"> 05:47 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-immigration-public-charge-trump.html">Biden Rule Could Help Prevent Revival of Key Trump Immigration Policy</a> NYT: The divisive “public charge” policy allowed officials to deny permanent residency to immigrants deemed likely to need public benefits, leading some immigrants to even avoid hospitals. 
  <p class="updated_time"> 05:42 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/jim-hagedorn-dead.html">Jim Hagedorn, a Trump Ally in the House, Dies at 59</a> NYT: A two-term Minnesota conservative, he backed efforts to overturn the election of Joseph Biden as president on spurious grounds of voter fraud. 
  <p class="updated_time"> 05:37 PM CT, Feb. 18 </p> 
@@ -295,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
- <p class="updated_time"> 09:01 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-immigration-public-charge-trump.html">Biden Rule Could Help Prevent Revival of Key Trump Immigration Policy</a> NYT: The divisive “public charge” policy allowed officials to deny permanent residency to immigrants deemed likely to need public benefits, leading some immigrants to even avoid hospitals. 
  <p class="updated_time"> 07:51 PM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:06 PM CT, Feb. 17 </p> 
@@ -313,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
- <p class="updated_time"> 04:54 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081589398/as-covid-restrictions-ease-the-full-congress-is-invited-to-attend-state-of-the-u">As COVID restrictions ease, the full Congress is invited to attend State of the Union</a> NPR: For President Biden's 2021 address to Congress, attendance was capped at about 20%. This year's shift reflects the federal government's push to get closer to some form of normalcy. 
  <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
@@ -347,8 +349,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
- <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
