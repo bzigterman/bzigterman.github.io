@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 01:37 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Call For Mass Evacuation in Eastern Ukraine Raises Alarm</a> NYT: A Russian-backed separatist leader urged 700,000 people to flee the territory, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. President Biden is expected to address the crisis after he consults with NATO allies by phone. 
+ <p class="updated_time"> 01:33 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 01:13 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least five deaths were reported. 
  <p class="updated_time"> 01:03 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is coming. 
  <p class="updated_time"> 12:59 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
- <p class="updated_time"> 12:54 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 11:33 AM CT, Feb. 18 </p> 
@@ -44,7 +44,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
- <p class="updated_time"> 07:53 AM CT, Feb. 18 </p> 
+ <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
+ <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Eastern Ukraine</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 01:59 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-postpones-choosing-next-leader-amid-record-covid-19-outbreak-11645188376">Hong Kong Postpones Choosing Its Next Leader as Covid-19 Surges</a> WSJ: Current Chief Executive Carrie Lam said the election was being delayed amid a surge of thousands of coronavirus cases recorded in recent days. 
- <p class="updated_time"> 01:44 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 01:33 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
@@ -194,8 +194,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:47 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/kim-potter-sentenced-2-years-daunte-wright-death-00010206">Kim Potter sentenced to 2 years in Daunte Wright’s death</a> Politico: Potter was convicted in December of first- and second-degree manslaughter in the killing of Wright. She said she confused her handgun for her Taser when she fatally shot him. 
  <p class="updated_time"> 01:38 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/material-recovered-from-trump-by-archives-included-classified-information.html">Material Recovered From Trump by Archives Included Classified Information</a> NYT: In a letter to Congress, the National Archives confirmed that boxes taken from the White House by the former president included classified national security documents. 
+ <p class="updated_time"> 01:38 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/federal-reserve-barring-officials-trades-00010182">Fed adopts broad new rules barring officials from most trades</a> Politico: Most of the new rules will take effect on May 1 and officials will have one year to bring their personal portfolios into alignment. 
- <p class="updated_time"> 01:00 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 01:34 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/melania-trump-charity-donation.html">Charitable Offer by Melania Trump Is Rejected, a Move She Calls ‘Politics’</a> NYT: Mrs. Trump assailed what she called attempts to “cancel her” as she comes under criticism, along with her husband, for post-White House fund-raising efforts. 
  <p class="updated_time"> 12:47 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081796995/minnesota-rep-jim-hagedorn-dies">Minnesota Rep. Jim Hagedorn has died at 59 after a battle with cancer </a> NPR: U.S. Rep. Jim Hagedorn, a conservative Republican from southern Minnesota who followed his father's footsteps into Congress, has died after a battle with kidney cancer, his wife said. 
