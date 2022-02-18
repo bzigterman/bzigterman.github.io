@@ -28,6 +28,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60422103?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russian demands hark back to Cold War, says Germany</a> BBC: Germany accuses Russia of putting peace at risk and calls for "serious steps towards de-escalation". 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/australia/australia-winter-olympics-medals.html">What Australia’s Success at the Winter Olympics Does (and Doesn’t) Tell You</a> NYT: Australia has won more medals than ever at the 2022 Winter Games, but it’s hard to tell if global respect can turn the country into a winter sports wonderland. 
+ <p class="updated_time"> 12:25 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60417450?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Kamila Valieva treatment by entourage 'chilling' - IOC</a> BBC: It was "chilling" the way a distraught Kamila Valieva was treated by her coach and raises concerns for the future, says IOC president Thomas Bach. 
  <p class="updated_time"> 11:51 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60426589?at_medium=RSS&at_campaign=KARANGA">Sydney shark attack: Beaches reopen after British swimmer's death</a> BBC: British man Simon Nellist died on Wednesday in the city's first fatal attack since 1963. 
  <p class="updated_time"> 11:43 PM CT, Feb. 17 </p> 
@@ -56,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081620129/porsche-volkswagen-burning-cargo-ship">A burning cargo ship full of Porsches and VWs is adrift in the mid-Atlantic</a> NPR: The Portuguese navy rescued the 22-member crew from the Felicity Ace, which was scheduled to arrive in the port of Davisville, R.I., next week. None of the crew was injured. 
  <p class="updated_time"> 07:58 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was due to arrive in Davisville, R.I., on Wednesday. 
- <p class="updated_time"> 06:50 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60392196?at_medium=RSS&at_campaign=KARANGA">US candidate 'traumatised' by bail for gun suspect</a> BBC: The accused, who allegedly grazed the mayoral contender with a bullet, was released after two days. 
  <p class="updated_time"> 06:44 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: Donald Trump and his children Donald Trump Jr and Ivanka Trump must testify in the probe. 
  <p class="updated_time"> 06:28 PM CT, Feb. 17 </p> 
@@ -77,7 +77,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:25 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/europe-africa-summit-eu.html">African and European Leaders Meet Against Backdrop of Enduring Problems</a> NYT: A top-level meeting of all E.U. leaders and 40 African counterparts aims to reset the relationship as a partnership of equals. But migration and vaccine equity remain obstacles. 
  <p class="updated_time"> 04:14 PM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/blinken-sees-moment-of-peril-in-ukraine-challenges-moscow-to-commit-that-it-wont-invade-11645127027">U.S. Seeks Meeting to Avert Ukraine Attack</a> WSJ: Secretary of State Antony Blinken warned of a looming Russian offensive against Ukraine and proposed a last-ditch diplomatic meeting with his Russian counterpart next week that could lead to a potential summit of key leaders. 
+ <a href="https://www.wsj.com/articles/blinken-sees-moment-of-peril-in-ukraine-challenges-moscow-to-commit-that-it-wont-invade-11645127027">U.S. Makes Diplomatic Push to Avert Russia Attack</a> WSJ: Secretary of State Antony Blinken warned of a looming Russian offensive against Ukraine and proposed a last-ditch diplomatic meeting with his Russian counterpart next week that could lead to a potential summit of key leaders. 
  <p class="updated_time"> 03:57 PM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737">Canadian Police Begin Freedom Convoy Arrests</a> WSJ: Authorities begin targeted arrests of protesters who have blockaded downtown Ottawa in demonstrations against Covid-19 mandates. 
  <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
