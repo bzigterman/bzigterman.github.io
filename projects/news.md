@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:56 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Holds Talks With NATO Allies as Ukraine Crisis Heats Up</a> NYT: Two Russian-backed separatist leaders urged people to flee their territories, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. President Biden will speak on the crisis after he consults with NATO allies by phone. 
+ <p class="updated_time"> 03:12 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Will Speak After Call With NATO Allies</a> NYT: Two Russian-backed separatist leaders urged people to flee their territories, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. 
+ <p class="updated_time"> 02:59 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
  <p class="updated_time"> 02:51 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">‘Blimey, He Looks High.’ A Gale-Force Play-by-Play at Heathrow Goes Viral.</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
- <p class="updated_time"> 02:40 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">White House says Kremlin was behind denial of service attack in Ukraine</a> NPR: The revelation comes before President Biden is set to speak on Russia's threatened invasion of Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 02:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
- <p class="updated_time"> 02:09 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
@@ -185,12 +185,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">White House tries to woo Republicans on SCOTUS—with trepidation</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/trump-january-6-lawsuit-00010249">Judge rejects Trump effort to toss lawsuits accusing him of Jan. 6 conspiracy</a> Politico: In a 112-page ruling, the judge said the evidence suggests Trump assembled the crowd and then instructed the rally-goers to march on the Capitol. 
+ <p class="updated_time"> 03:15 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/fda-infant-formula-illness-four-months-before-recall-00010226">FDA learned of suspected infant formula illness four months before recall</a> Politico: The Minnesota Department of Health investigated a case of an infant who was sickened by Cronobacter sakazakii in September 2021, the state agency told POLITICO. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">White House says Kremlin was behind denial of service attack in Ukraine</a> NPR: The revelation comes before President Biden is set to speak on Russia's threatened invasion of Ukraine. 
- <p class="updated_time"> 02:26 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 02:23 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/newsom-texas-style-bill-sue-gun-makers-00010201">Newsom announces Texas-style bill that would let residents sue gun makers</a> Politico: New California legislation encouraging litigation against makers and dealers of assault rifles and ghost guns is modeled on a Texas law allowing people to sue abortion providers. 
  <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
@@ -250,13 +254,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/former-judge-beat-trump-january-6-00010056">The never-before-told backstory of Pence's Jan. 6 argument</a> Politico: Former judge J. Michael Luttig shares the story of the run-up to the insurrection, and why he thinks it’s time to reform the Electoral Count Act. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
- <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/gallery/2022/02/18/the-nations-cartoonists-on-the-week-in-politics-00009962">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/congress-sanctions-russias-aggression-00010051">Why Congress' sanctions push cooled even as Russia's aggression didn't</a> Politico: President Joe Biden got deference this month — a stark contrast with Donald Trump, whose approach to Moscow got handcuffed early. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/the-white-house-throws-cold-water-on-a-restaurant-industry-bailout-00009940">The White House throws cold water on a restaurant industry bailout</a> Politico: Lawmakers and allies are begging for cash amid a lingering pandemic. But the politics aren't in their favor. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
@@ -341,8 +345,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
- <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
