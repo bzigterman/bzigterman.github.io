@@ -187,8 +187,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/putin-tank-deal-poland-00010107">‘What Mr. Putin did not want’: U.S. approves $6B tank deal with Poland</a> Politico: The package is another piece in Poland's sweeping military modernization effort. 
  <p class="updated_time"> 07:22 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/governor-new-york-democratic-convention-00009953">There's a new governor in New York, but the state Democratic Convention remained a top-down affair</a> Politico: To Democratic upstarts, the convention felt a lot like those of years past: A well-choreographed affair designed more to celebrate the Democratic leader than allow for any public debate over the party’s direction. 
+ <p class="updated_time"> 07:20 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/hochul-democratic-nod-governor-00009925">Hochul cruises to Democratic nod for governor: 'A whole new day is dawning'</a> Politico: Hochul earned 85.6 percent of the weighted vote at the convention near Times Square. 
  <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Feb. 18 </p> 
@@ -319,8 +323,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/vulnerable-senate-dems-tax-cuts-00009497">Vulnerable Senate Dems try to run as tax-cutters</a> Politico: They're pitching gas tax holidays and other pocketbook-friendly plans to combat GOP messaging on inflation. But any real proposal has a long way to go. 
- <p class="updated_time"> 01:25 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/portman-timken-ohio-gop-primary-00009470">Portman backs Timken in crowded Ohio GOP primary</a> Politico: Sen. Rob Portman handed his endorsement to Jane Timken in the crowded primary for the Republican nomination to fill his senate seat. 
  <p class="updated_time"> 12:37 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/biden-trump-medicare-policy-00009419">Trump-era Medicare program under increased scrutiny</a> Politico: The program allows private companies to participate in Medicare as part of a broader health department effort to improve care while limiting the government's costs. 
  <p class="updated_time"> 11:06 AM CT, Feb. 16 </p> 
@@ -339,8 +341,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/elections-officials-disinformation-midterms-00009285">Election officials are on the frontlines of defending democracy. They didn't sign up for this.</a> Politico: Ten state chief election officials say in interviews they have had to refocus their positions to battle a constant flow of disinformation. This year, they say, will be no different. 
  <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
