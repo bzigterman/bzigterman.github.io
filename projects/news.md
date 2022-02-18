@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:33 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
+ <p class="updated_time"> 01:30 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 12:50 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60422103?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russian demands hark back to Cold War, says Germany</a> BBC: Germany accuses Russia of putting peace at risk and calls for "serious steps towards de-escalation". 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/australia/australia-winter-olympics-medals.html">What Australia’s Success at the Winter Olympics Does (and Doesn’t) Tell You</a> NYT: Australia has won more medals than ever at the 2022 Winter Games, but it’s hard to tell if global respect can turn the country into a winter sports wonderland. 
- <p class="updated_time"> 12:30 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
  <p class="updated_time"> 11:51 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60426589?at_medium=RSS&at_campaign=KARANGA">Sydney shark attack: Beaches reopen after British swimmer's death</a> BBC: British man Simon Nellist died on Wednesday in the city's first fatal attack since 1963. 
  <p class="updated_time"> 11:43 PM CT, Feb. 17 </p> 
@@ -88,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? The Tensions Explained</a> NYT: Here’s a guide to the causes behind a conflict that threatens to become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
- <p class="updated_time"> 12:19 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 12:18 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/health/nyc-anime-convention-2021-superspreader-event.html">N.Y.C. Anime Convention Was Not a Superspreader Event, C.D.C. Finds</a> NYT: The rate of positive results among attendees who took coronavirus tests was about the same as that of New York City at large, researchers found. 
  <p class="updated_time"> 11:35 AM CT, Feb. 17 </p> 
