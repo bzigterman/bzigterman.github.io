@@ -8,12 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:04 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia will target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
- <p class="updated_time"> 04:54 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 05:25 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 05:25 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia will target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
+ <p class="updated_time"> 05:13 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was headed to Davisville, R.I. 
+ <p class="updated_time"> 05:12 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least seven deaths were reported. 
+ <p class="updated_time"> 05:05 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Will long-haul travelers bet on the easygoing, inviting image it is sending out now? 
  <p class="updated_time"> 04:51 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be delayed until May 8. 
+ <p class="updated_time"> 04:50 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60440241?at_medium=RSS&at_campaign=KARANGA">Ukraine: Biden says he's 'convinced' Putin has made decision to invade</a> BBC: The US President says he has reason to believe Russian forces will target Ukraine's capital, Kyiv. 
  <p class="updated_time"> 04:27 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
  <p class="updated_time"> 04:22 PM CT, Feb. 18 </p> 
@@ -26,27 +34,21 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60439404?at_medium=RSS&at_campaign=KARANGA">Canada Protests: Police clear demonstrators in Canada's capital</a> BBC: After three weeks, police in Ottawa stepped up efforts to remove anti-vaccine mandate protesters. 
  <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
- <p class="updated_time"> 03:58 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was due to arrive in Davisville, R.I., on Wednesday. 
  <p class="updated_time"> 03:44 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081873322/russian-naval-exercises-stoke-fears-of-black-sea-blockade">Russian naval exercises stoke fears of Black Sea blockade</a> NPR: Russian Navy exercises at Ukraine's ports are disrupting critical shipping lanes. Some businesses worry the ships could stay and try to completely block Ukrainian ports amid fears of an invasion. 
  <p class="updated_time"> 03:20 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
- <p class="updated_time"> 02:59 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial of service attacks in Ukraine. 
+ <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">U.S. says a separatist call to flee east Ukraine for Russia is a false flag</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing to invade the area. The U.S. says it's "disinformation." 
- <p class="updated_time"> 02:14 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
- <p class="updated_time"> 11:53 AM CT, Feb. 18 </p> 
+ <p class="updated_time"> 12:18 PM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
@@ -168,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/australia/rosalie-kunoth-monks-dead.html">Rosalie Kunoth-Monks, Champion of Indigenous Peoples, Dies at 85</a> NYT: As a teenager, she was the star of a film about an Aboriginal girl raised by a white family. As an adult, she fought discrimination in Australia against her people. 
  <p class="updated_time"> 10:10 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60421398?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Liz Truss impressed by Ukrainians' fortitude</a> BBC: The UK foreign secretary is in Kyiv, speaking as tensions continue on the Russia-Ukraine border. 
- <p class="updated_time"> 07:09 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
  <p class="updated_time"> 04:58 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/biden-administration-asks-congress-for-5-billion-to-fight-covid-overseas-00010264">Biden officials ask Congress for $5B in global Covid funds</a> Politico: USAID told lawmakers earlier this month, however, that they needed several times that amount. 
  <p class="updated_time"> 04:48 PM CT, Feb. 18 </p> 
@@ -198,7 +200,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081873315/president-biden-says-russia-invasion-in-ukraine-will-happen-within-days">President Biden says Russia invasion in Ukraine will happen within days</a> NPR: President Biden spoke about the deteriorating situation in Ukraine, as Russia appears ready to invade. He gives his remarks after convening key European leaders for an update. 
  <p class="updated_time"> 03:52 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/economy/china-olympics-corporations-business.html">For Companies, Winning in China Now Means Losing Somewhere Else</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
+ <a href="https://www.nytimes.com/2022/02/18/business/economy/china-us-olympics-sponsorships.html">For Companies, Winning in China Now Means Losing Somewhere Else</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
  <p class="updated_time"> 03:47 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081856252/u-s-surgeon-general-says-he-and-his-family-have-all-tested-positive-for-covid-19">U.S. surgeon general says he and his family have all tested positive for COVID-19 </a> NPR: The nation's top doctor says he and his wife have mild symptoms, while his son has a runny nose and low-grade fever. His daughter also recently tested positive for the virus. 
  <p class="updated_time"> 03:46 PM CT, Feb. 18 </p> 
@@ -214,7 +216,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial of service attacks in Ukraine. 
+ <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:23 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/newsom-texas-style-bill-sue-gun-makers-00010201">Newsom announces Texas-style bill that would let residents sue gun makers</a> Politico: New California legislation encouraging litigation against makers and dealers of assault rifles and ghost guns is modeled on a Texas law allowing people to sue abortion providers. 
  <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
@@ -241,6 +243,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/house-cancels-sitting-with-a-police-operation-underway-00010104">Massive police operation begins to reclaim Ottawa</a> Politico: House cancels sitting where MPs were scheduled to debate use of emergency powers against blockades. 
  <p class="updated_time"> 11:55 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081724869/special-counsel-durham-rejects-claims-that-hes-politicized-high-profile-prosecut">Special counsel Durham rejects claims that he's politicized high-profile prosecution</a> NPR: An attorney charged in the investigation into the origins of the Trump-Russia probe had accused Durham of trying to politicize the case and gin up negative press coverage. 
+ <p class="updated_time"> 11:54 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/chief-judge-in-d-c-says-jan-6-defendants-should-get-credit-for-talking-to-congress-00010165">Chief judge in D.C. says Jan. 6 defendants should get credit for talking to Congress</a> Politico: “I think that that kind of cooperation is helpful to this country and is helpful to making amends for what occurred on Jan. 6,” Judge Beryl Howell said. 
  <p class="updated_time"> 11:37 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/submarine-spy-guilty-plea.html">Wife of Navy Nuclear Engineer Pleads Guilty in Submarine Spy Case</a> NYT: Diana Toebbe, a high school teacher, acknowledged her part in an effort to try to sell nuclear reactor secrets her husband had taken from the Navy. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
@@ -283,8 +287,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081661666/morning-news-brief">News brief: Russia-Ukraine crisis, Trump ruling, IOC president's news conference</a> NPR: VP Harris is in Germany for meetings on Ukraine. N.Y. Supreme Court judge orders Donald Trump to testify under oath. The president of the International Olympic Committee holds a news conference. 
- <p class="updated_time"> 11:17 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/head-of-nations-largest-university-system-resigns-under-fire-00009805">Head of nation’s largest 4-year university system resigns under fire</a> Politico: The trustees accepted Joseph I. Castro's resignation, and the board is finalizing a succession plan. 
  <p class="updated_time"> 11:09 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, 93, Dies; Times Reporter Was a Founder of The Hill</a> NYT: He covered Congress in the 1970s and ’80s before heading up a successful Capitol Hill newspaper. 
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
@@ -317,6 +319,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
+ <p class="updated_time"> 09:35 AM CT, Feb. 17 </p> 
+ <a href="https://www.cnn.com/2022/02/16/politics/durham-allegations-explainer/index.html">Unspooling the latest twists in special counsel John Durham's investigation </a> CNN: Special counsel John Durham, who has been investigating the origins of the FBI's Trump-Russia probe, ignited a firestorm in right-wing circles last weekend with a cryptic court filing. 
  <p class="updated_time"> 09:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/blinken-to-deliver-remarks-on-russian-threat-to-peace-and-security-at-u-n-security-council-00009733">U.S. sounds new alarms on Ukraine and details Russian invasion plan</a> Politico: The remarks from top U.S. officials come as the United States has seen no de-escalation of troops at the Ukranian border. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
@@ -333,8 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/vulnerable-senate-dems-tax-cuts-00009497">Vulnerable Senate Dems try to run as tax-cutters</a> Politico: They're pitching gas tax holidays and other pocketbook-friendly plans to combat GOP messaging on inflation. But any real proposal has a long way to go. 
  <p class="updated_time"> 12:37 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/biden-trump-medicare-policy-00009419">Trump-era Medicare program under increased scrutiny</a> Politico: The program allows private companies to participate in Medicare as part of a broader health department effort to improve care while limiting the government's costs. 
- <p class="updated_time"> 11:06 AM CT, Feb. 16 </p> 
- <a href="https://www.cnn.com/2022/02/15/politics/mazars-trump-letter-letitia-james/index.html">What to know about accounting firm Mazars' move to back away from Trump</a> CNN: Mazars USA, the accounting firm that former President Donald Trump and his businesses have used for years, cut ties with him in stunning fashion, declaring it could no longer vouch for the financial statements it has complied over the past decade. 
  <p class="updated_time"> 07:36 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/biden-investigators-trump-jan-6-white-house-visitor-logs-00009351">Biden clears way for investigators to obtain Trump’s Jan. 6 White House visitor logs</a> Politico: It’s unclear if Trump will launch another court action to prevent the newly identified records from reaching lawmakers. 
  <p class="updated_time"> 07:34 AM CT, Feb. 16 </p> 
