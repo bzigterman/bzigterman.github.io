@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:15 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says He Is Convinced Putin Will Invade Ukraine</a> NYT: President Biden said Russia will target Ukraine’s capital, Kyiv, in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
+ <p class="updated_time"> 04:29 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia will target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
+ <p class="updated_time"> 04:27 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
+ <p class="updated_time"> 04:25 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 04:22 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
  <p class="updated_time"> 04:14 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
- <p class="updated_time"> 04:13 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 04:10 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-russia-separatists-shelling.html">As Shelling Picks Up, Eastern Ukrainians Are Cowering</a> NYT: With nowhere to go, many are increasingly fearful that their villages could become the flash point for a wider war. 
  <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
@@ -26,22 +30,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 02:59 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
- <p class="updated_time"> 02:51 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">‘Blimey, He Looks High.’ A Gale-Force Play-by-Play at Heathrow Goes Viral.</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">White House says Kremlin was behind denial of service attack in Ukraine</a> NPR: The revelation comes before President Biden is set to speak on Russia's threatened invasion of Ukraine. 
+ <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial of service attacks in Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">U.S. says a separatist call to flee east Ukraine for Russia is a false flag</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing to invade the area. The U.S. says it's "disinformation." 
  <p class="updated_time"> 02:14 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
- <p class="updated_time"> 02:11 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
+ <p class="updated_time"> 11:22 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
  <p class="updated_time"> 11:09 AM CT, Feb. 18 </p> 
@@ -60,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 09:50 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081707415/us-threat-russia-ukraine-invasion-diplomacy">Why U.S. strategy includes raising public alarms on Russia</a> NPR: The threat of Russia invading Ukraine is real, the Biden administration insists. At the same time, top officials say they hope that being vocal about the intelligence they have could deter action. 
- <p class="updated_time"> 09:24 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
@@ -191,6 +191,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:58 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/biden-administration-asks-congress-for-5-billion-to-fight-covid-overseas-00010264">Biden officials ask Congress for $5B in global Covid funds</a> Politico: USAID told lawmakers earlier this month, however, that they needed several times that amount. 
+ <p class="updated_time"> 04:31 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/congress-russia-sanctions.html">Unable to Agree on Russia Sanctions Bill, Senate Settles for a Statement</a> NYT: A bipartisan push to pass the “mother of all sanctions” collapsed after Republicans insisted on imposing broad penalties before an invasion and Democrats, backing the White House, refused. 
+ <p class="updated_time"> 04:30 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/business/media/allison-gollust-cnn-cuomo.html">CNN’s Gollust Discussed Interview Topics With Gov. Cuomo, Probe Found</a> NYT: An internal investigation found that a top executive, Allison Gollust, had extensive communications with then-Gov. Andrew Cuomo. 
  <p class="updated_time"> 04:15 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/civil-suits-trump-jan-6.html">Judge Allows Civil Suits to Proceed Against Trump Over Jan. 6</a> NYT: The ruling means the plaintiffs in three civil cases will likely be able to seek information from the former president over his role in the attack on the Capitol. 
  <p class="updated_time"> 03:52 PM CT, Feb. 18 </p> 
@@ -210,15 +214,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">White House says Kremlin was behind denial of service attack in Ukraine</a> NPR: The revelation comes before President Biden is set to speak on Russia's threatened invasion of Ukraine. 
+ <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial of service attacks in Ukraine. 
  <p class="updated_time"> 02:23 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/newsom-texas-style-bill-sue-gun-makers-00010201">Newsom announces Texas-style bill that would let residents sue gun makers</a> Politico: New California legislation encouraging litigation against makers and dealers of assault rifles and ghost guns is modeled on a Texas law allowing people to sue abortion providers. 
  <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/ukraine-calm-russia-invasion-00010198">'Keep a cool head': Ukraine urges calm as the drumbeats of war get louder</a> Politico: Western officials are warning that a Russian invasion could come any day now, but some top Ukrainian officials still think Putin is playing the pressure game. 
  <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/wife-maryland-nuclear-engineer-guilty-espionage-00010207">Wife of Maryland nuclear engineer pleads guilty to espionage</a> Politico: The plea deal comes just days after her husband, Jonathan Toebbe, pleaded guilty to the same espionage-related offense on Monday. 
- <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-francis-collins-nih.html">Francis Collins, Former N.I.H. Director, Will Fill In as Biden's Science Adviser</a> NYT: Dr. Collins will temporarily serve in one of the two roles previously held by Eric S. Lander, who resigned last week. 
  <p class="updated_time"> 01:50 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/trump-archives-white-house.html">Material Recovered From Trump by Archives Included Classified Information</a> NYT: In a letter to Congress, the National Archives confirmed that boxes taken from the White House by the former president included classified national security documents. 
  <p class="updated_time"> 01:47 PM CT, Feb. 18 </p> 
@@ -293,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
  <p class="updated_time"> 09:01 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-immigration-public-charge-trump.html">Biden Rule Could Help Prevent Revival of Key Trump Immigration Policy</a> NYT: The divisive “public charge” policy allowed officials to deny permanent residency to immigrants deemed likely to need public benefits, leading some immigrants to even avoid hospitals. 
- <p class="updated_time"> 08:38 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/nyregion/kathy-hochul-democratic-nomination.html">Hochul Is the Star as Democrats Gather for a Cuomo-Free Convention</a> NYT: Gov. Kathy Hochul received the Democratic nomination for governor on Thursday, as she seeks her first full term after succeeding Andrew Cuomo. 
  <p class="updated_time"> 07:51 PM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:06 PM CT, Feb. 17 </p> 
