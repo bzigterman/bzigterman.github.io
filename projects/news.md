@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:40 PM CT, Feb. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
  <p class="updated_time"> 09:07 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Canada Live Updates: Police Begin Arresting Protest Organizers</a> NYT: Tamara Lich, one of the leaders of the demonstration, was arrested on Thursday night, after promises from police officials of an “imminent” clampdown on the occupation. 
  <p class="updated_time"> 09:04 PM CT, Feb. 17 </p> 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420470?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police arrest leaders of trucker convoy</a> BBC: Tamara Lich tells local media her personal bank account is frozen and she is resigned to a jail term. 
  <p class="updated_time"> 08:52 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
- <p class="updated_time"> 08:36 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine Live Updates: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
  <p class="updated_time"> 08:01 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081620129/porsche-volkswagen-burning-cargo-ship">A burning cargo ship full of Porsches and VWs is adrift in the mid-Atlantic</a> NPR: The Portuguese navy rescued the 22-member crew from the Felicity Ace, which was scheduled to arrive in the port of Davisville, R.I., next week. None of the crew was injured. 
  <p class="updated_time"> 07:58 PM CT, Feb. 17 </p> 
@@ -48,6 +48,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/middleeast/netflix-movies-arabic-debate.html">First Arabic Film by Netflix Stirs Fierce Morality Debate</a> NYT: Critics argued that the remake of the Italian film “Perfect Strangers” flouted moral standards by projecting Western norms out of sync with the largely religious public across much of the Arab world. 
  <p class="updated_time"> 04:25 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/europe-africa-summit-eu.html">African and European Leaders Meet Against Backdrop of Enduring Problems</a> NYT: A top-level meeting of all E.U. leaders and 40 African counterparts aims to reset the relationship as a partnership of equals. But migration and vaccine equity remain obstacles. 
+ <p class="updated_time"> 04:14 PM CT, Feb. 17 </p> 
+ <a href="https://www.wsj.com/articles/blinken-sees-moment-of-peril-in-ukraine-challenges-moscow-to-commit-that-it-wont-invade-11645127027">U.S. Seeks Meeting to Avert Ukraine Attack</a> WSJ: Secretary of State Antony Blinken warned of a looming Russian offensive against Ukraine and proposed a last-ditch diplomatic meeting with his Russian counterpart next week that could lead to a potential summit of key leaders. 
  <p class="updated_time"> 03:57 PM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/trudeau-says-emergency-powers-necessary-to-counter-freedom-convoy-protests-in-canada-11645118737">Canadian Police Begin Freedom Convoy Arrests</a> WSJ: Authorities begin targeted arrests of protesters who have blockaded downtown Ottawa in demonstrations against Covid-19 mandates. 
  <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
@@ -88,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/torrents-of-mud-kill-at-least-105-in-brazilian-city-11645114711">Torrents of Mud Kill More Than 100 People in Brazil</a> WSJ: The landslides killed at least 105 people and left dozens more missing this week in Brazilian city north of Rio de Janeiro, sending distraught relatives and emergency crews on a desperate search for survivors in deep mud. 
  <p class="updated_time"> 10:32 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/australia/rosalie-kunoth-monks-dead.html">Rosalie Kunoth-Monks, Champion of Indigenous Peoples, Dies at 85</a> NYT: As a teenager, she was the star of a film about an Aboriginal girl raised by a white family. As an adult, she fought discrimination in Australia against her people. 
- <p class="updated_time"> 10:27 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/blinken-sees-moment-of-peril-in-ukraine-challenges-moscow-to-commit-that-it-wont-invade-11645127027">U.S. Seeks Meeting to Avert Ukraine Attack</a> WSJ: Secretary of State Antony Blinken warned of a looming Russian offensive against Ukraine and proposed a last-ditch diplomatic meeting with his Russian counterpart next week that could lead to a potential summit of key leaders. 
  <p class="updated_time"> 10:10 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60421398?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Liz Truss impressed by Ukrainians' fortitude</a> BBC: The UK foreign secretary is in Kyiv, speaking as tensions continue on the Russia-Ukraine border. 
  <p class="updated_time"> 10:08 AM CT, Feb. 17 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/asia/afghanistan-twitter-spaces-taliban.html">Afghans Find Room for Debate on Twitter Spaces</a> NYT: An audio live chat feature on Twitter has become a go-to place for Afghans still recovering from the collapse of the former government and seeking answers on everything from what went wrong to what comes next. 
  <p class="updated_time"> 07:48 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/russian-painting-eyes-security-guard.html">Museum Security Guard Adds Eyes to Painting’s Faceless Figures</a> NYT: The guard at a museum in Russia has been suspended after he used a pen to draw on “Three Figures,” an avant-garde painting from the 1930s. 
- <p class="updated_time"> 07:30 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/eu-court-funds-hungary-poland.html">Top European Court Rules E.U. Can Freeze Aid to Poland and Hungary</a> NYT: In a landmark decision, the European Court of Justice cleared the way for the bloc to cut billions in aid on the grounds that members are eroding rule-of-law checks and balances. 
  <p class="updated_time"> 04:00 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/olympics-china-american-athletes.html">The Olympians Caught Up in the U.S.-China Rivalry</a> NYT: American athletes of Chinese descent at the Games are targets of patriotic and even nationalistic sentiment from both countries: sometimes adoring, sometimes hostile. 
 
@@ -261,6 +259,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/senate-vote-speed.html">The Senate Moves in Slow Motion. Could This Speed It Up?</a> NYT: With floor votes dragging on interminably, senators have embraced a modest effort to try to move things along. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
+ <p class="updated_time"> 11:21 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/florida-republicans-defy-desantis-00009651">‘Bad blood’: Florida Republicans defy DeSantis</a> Politico: The GOP-led Florida Senate surprised many by bucking the governor ahead of the November election. 
  <p class="updated_time"> 11:09 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081473389/steve-dickson-resigns-faa-administrator">FAA administrator Steve Dickson will step down midway through his term</a> NPR: Dickson took over the agency as it was reeling from allegations of lax oversight in the aftermath of two Boeing 737 MAX airplane crashes. 
  <p class="updated_time"> 10:47 AM CT, Feb. 17 </p> 
@@ -301,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
  <p class="updated_time"> 05:27 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html">Education Dept. to Cancel Loans for Some DeVry University Students</a> NYT: It’s the first such move involving a for-profit chain that’s still in business. 
- <p class="updated_time"> 04:23 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/feinstein-plummets-harris-underwater-in-new-california-poll-00009427">Feinstein plummets, Harris underwater in new California poll</a> Politico: Approval rating for California's senior senator reaches a new low. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
