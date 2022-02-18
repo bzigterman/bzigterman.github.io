@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
  <p class="updated_time"> 05:02 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Britain With Dangerously High Winds</a> NYT: Wind gusts of up to 90 miles per hour were expected in parts of the country. One weather official said the storm would be the worst the country has seen in 30 years. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081584395/cristina-calderon-chiles-last-known-yaghan-speaker-dies-at-93">Cristina Calderón, Chile's last known Yaghan speaker, dies at 93</a> NPR: Until the end of her days, Abuela Cristina — as many knew her — bided her time making traditional reed baskets, and sharing the Yaghan language and culture with those around her. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60417450?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Kamila Valieva treatment by entourage 'chilling' - IOC</a> BBC: It was "chilling" the way a distraught Kamila Valieva was treated by her coach and raises concerns for the future, says IOC president Thomas Bach. 
- <p class="updated_time"> 04:57 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
  <p class="updated_time"> 04:56 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60430014?at_medium=RSS&at_campaign=KARANGA">Brad Pitt sues Angelina Jolie over vineyard where they got married</a> BBC: Brad Pitt and Angelina Jolie do battle over ownership of the French vineyard where they got married. 
  <p class="updated_time"> 04:52 AM CT, Feb. 18 </p> 
@@ -33,9 +33,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
- <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither are available. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
  <p class="updated_time"> 03:50 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
  <p class="updated_time"> 03:17 AM CT, Feb. 18 </p> 
@@ -188,7 +188,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:15 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/18/exclusive-the-secret-history-of-pences-jan-6-argument-00010081">Exclusive: The secret history of Pence’s Jan. 6 argument</a> Politico Playbook: And Kevin McCarthy endorses Liz Cheney's challenger. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/18/exclusive-the-secret-history-of-pences-jan-6-argument-00010081"> Exclusive: The secret history of Pence’s Jan. 6 argument</a> Politico Playbook: And Kevin McCarthy endorses Liz Cheney's challenger. 
+ <p class="updated_time"> 05:21 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">As Crime Surges, Roll Back of Tough-on-Crime Policies Faces Resistance</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/former-judge-beat-trump-january-6-00010056">The untold story of the former judge who beat Trump on Jan. 6</a> Politico: J. Michael Luttig shares the story of the run-up to the insurrection, and why he thinks it’s time to reform the Electoral Count Act. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
@@ -201,8 +203,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081661666/morning-news-brief">News brief: Russia-Ukraine crisis, Trump ruling, IOC president's news conference</a> NPR: VP Harris is in Germany for meetings on Ukraine. N.Y. Supreme Court judge orders Donald Trump to testify under oath. The president of the International Olympic Committee holds a news conference. 
- <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">As Crime Surges, Roll Back of Tough-on-Crime Policies Faces Resistance</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
  <p class="updated_time"> 11:17 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/head-of-nations-largest-university-system-resigns-under-fire-00009805">Head of nation’s largest 4-year university system resigns under fire</a> Politico: The trustees accepted Joseph I. Castro's resignation, and the board is finalizing a succession plan. 
  <p class="updated_time"> 11:09 PM CT, Feb. 17 </p> 
@@ -265,6 +265,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/steve-dickson-faa-resigns.html">F.A.A. Administrator Steve Dickson Will Resign Next Month</a> NYT: In a letter to staff, Mr. Dickson said it was “time to go home” to his family after a tumultuous period of more than two years leading the agency. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
+ <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 01:12 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-francis-collins-nih.html">Francis Collins, Former N.I.H. Director, Will Fill In as Biden's Science Adviser</a> NYT: Dr. Collins will temporarily serve in one of the two roles previously held by Dr. Eric S. Lander, who resigned last week. 
  <p class="updated_time"> 01:02 PM CT, Feb. 17 </p> 
@@ -300,7 +302,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's House passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">TikTok Star Ava Majury Discovers the Dark Side of Fame</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/us/politics/biden-ukraine-crisis.html">Is the Ukraine Crisis Biden's Moment to Win Back Credibility?</a> NYT: The confrontation with Russia is a chance for the president to win back credibility on foreign policy. Can he? 
  <p class="updated_time"> 08:19 PM CT, Feb. 16 </p> 
@@ -333,10 +335,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
- <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/elections-officials-disinformation-midterms-00009285">Election officials are on the frontlines of defending democracy. They didn't sign up for this.</a> Politico: Ten state chief election officials say in interviews they have had to refocus their positions to battle a constant flow of disinformation. This year, they say, will be no different. 
- <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/a-heartland-gop-primary-battle-china-00009095">A heartland GOP primary battle goes all-in on bashing China</a> Politico: A China fear-focused campaign could be a bellwether for 2022 midterms. 
  <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
@@ -367,8 +365,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/pelosi-defund-police-democrats-00008449">'Defund the police' is not the policy of the Democratic Party, Pelosi says</a> Politico: "Make no mistake, community safety is our responsibility," she said. 
  <p class="updated_time"> 09:52 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
- <p class="updated_time"> 07:00 AM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
 
