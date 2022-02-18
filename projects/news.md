@@ -8,14 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:55 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Speaks After Call With NATO Allies</a> NYT: Two Russia-backed separatist leaders urged people to flee their territories, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. 
- <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 04:15 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says He Is Convinced Putin Will Invade Ukraine</a> NYT: President Biden said Russia will target Ukraine’s capital, Kyiv, in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
+ <p class="updated_time"> 04:14 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
+ <p class="updated_time"> 04:13 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 04:10 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-russia-separatists-shelling.html">As Shelling Picks Up, Eastern Ukrainians Are Cowering</a> NYT: With nowhere to go, many are increasingly fearful that their villages could become the flash point for a wider war. 
+ <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60439404?at_medium=RSS&at_campaign=KARANGA">Canada Protests: Police clear demonstrators in Canada's capital</a> BBC: After three weeks, police in Ottawa stepped up efforts to remove anti-vaccine mandate protesters. 
+ <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
+ <p class="updated_time"> 03:58 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was due to arrive in Davisville, R.I., on Wednesday. 
  <p class="updated_time"> 03:20 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
- <p class="updated_time"> 03:20 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 02:59 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
  <p class="updated_time"> 02:51 PM CT, Feb. 18 </p> 
@@ -32,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
- <p class="updated_time"> 12:59 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
@@ -124,10 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
  <p class="updated_time"> 08:01 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081620129/porsche-volkswagen-burning-cargo-ship">A burning cargo ship full of Porsches and VWs is adrift in the mid-Atlantic</a> NPR: The Portuguese navy rescued the 22-member crew from the Felicity Ace, which was scheduled to arrive in the port of Davisville, R.I., next week. None of the crew was injured. 
- <p class="updated_time"> 07:58 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was due to arrive in Davisville, R.I., on Wednesday. 
- <p class="updated_time"> 06:44 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60425457?at_medium=RSS&at_campaign=KARANGA">Judge rules Donald Trump must testify in New York investigation</a> BBC: Donald Trump and his children Donald Trump Jr and Ivanka Trump must testify in the probe. 
  <p class="updated_time"> 06:28 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/60406195?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: What’s wrong with natural snow?</a> BBC: Despite heavy snowfall in Beijing, the organisers are still generating the artificial variety. 
  <p class="updated_time"> 06:21 PM CT, Feb. 17 </p> 
@@ -187,6 +189,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:58 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/biden-administration-asks-congress-for-5-billion-to-fight-covid-overseas-00010264">Biden officials ask Congress for $5B in global Covid funds</a> Politico: USAID told lawmakers earlier this month, however, that they needed several times that amount. 
+ <p class="updated_time"> 04:15 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/civil-suits-trump-jan-6.html">Judge Allows Civil Suits to Proceed Against Trump Over Jan. 6</a> NYT: The ruling means the plaintiffs in three civil cases will likely be able to seek information from the former president over his role in the attack on the Capitol. 
  <p class="updated_time"> 03:52 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/economy/china-olympics-corporations-business.html">For Companies, Winning in China Now Means Losing Somewhere Else</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
  <p class="updated_time"> 03:47 PM CT, Feb. 18 </p> 
@@ -228,7 +234,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:22 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">As Crime Surges, Roll Back of Tough-on-Crime Policies Faces Resistance</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
  <p class="updated_time"> 12:13 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/biden-to-speak-with-allies-as-u-s-pressures-russia-to-back-down-00010177">Biden to speak with allies as U.S. pressures Russia to back down</a> Politico: Russia has denied plans to invade, but has begun amplifying alleged grievances with Kyiv. 
+ <a href="https://www.politico.com/news/2022/02/18/biden-to-speak-with-allies-as-u-s-pressures-russia-to-back-down-00010177">Biden says he believes Putin has decided to invade Ukraine</a> Politico: Russia has denied plans to invade, but has begun amplifying alleged grievances with Kyiv. 
  <p class="updated_time"> 12:12 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/house-cancels-sitting-with-a-police-operation-underway-00010104">Ottawa police move in on convoy protesters</a> Politico: House cancels sitting where MPs were scheduled to debate use of emergency powers against blockades. 
  <p class="updated_time"> 11:55 AM CT, Feb. 18 </p> 
@@ -283,12 +289,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/business/media/martin-tolchin-dead.html">Martin Tolchin, 93, Dies; Times Reporter Was a Founder of The Hill</a> NYT: He covered Congress in the 1970s and ’80s before heading up a successful Capitol Hill newspaper. 
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
- <p class="updated_time"> 10:05 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/iran-nuclear-deal-biden.html">Iran Nuclear Deal Inches Toward Revival but Faces Critics in U.S.</a> NYT: Republicans warned that any new agreement would “likely be torn up” by the next administration. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
- <p class="updated_time"> 09:16 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/judge-to-toss-arkansas-redistricting-case-unless-doj-joins-00010050">Judge to toss Arkansas redistricting case unless DOJ joins</a> Politico: The ruling comes days before candidates can begin filing for legislative and state offices in Arkansas. 
  <p class="updated_time"> 09:01 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-immigration-public-charge-trump.html">Biden Rule Could Help Prevent Revival of Key Trump Immigration Policy</a> NYT: The divisive “public charge” policy allowed officials to deny permanent residency to immigrants deemed likely to need public benefits, leading some immigrants to even avoid hospitals. 
  <p class="updated_time"> 08:38 PM CT, Feb. 17 </p> 
