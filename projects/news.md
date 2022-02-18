@@ -10,6 +10,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081479756/despite-the-threat-of-war-some-americans-in-ukraine-are-staying-put">Despite the threat of war, some Americans in Ukraine are staying put</a> NPR: The U.S. government is telling Americans it's "past time" to leave Ukraine. But James Berk, an optician from New Jersey, has a Ukrainian wife and a newborn baby. For now, they're staying put. 
+ <p class="updated_time"> 04:10 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60423329?at_medium=RSS&at_campaign=KARANGA">Climate change: Covid shutdown linked to record rainfall in China</a> BBC: An abrupt drop in emissions due to the pandemic played a key role in record rainfall in China in 2020. 
  <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60428292?at_medium=RSS&at_campaign=KARANGA">Greek ferry: Hundreds evacuated from Olympia blaze off Corfu</a> BBC: Greek and Italian boats rush to rescue 290 people from a ferry but not everyone is accounted for. 
  <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
@@ -128,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60421398?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Liz Truss impressed by Ukrainians' fortitude</a> BBC: The UK foreign secretary is in Kyiv, speaking as tensions continue on the Russia-Ukraine border. 
  <p class="updated_time"> 10:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081449979/us-womens-hockey-olympics-2022">Canada wins Olympic gold in women's hockey, toppling rival Team USA</a> NPR: Canada defeated Team USA 3-2 on Thursday to win its fifth gold medal in the sport. Either Canada or the U.S. has won every gold medal since women's hockey debuted at the winter Olympics in 1998. 
- <p class="updated_time"> 10:01 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60414003?at_medium=RSS&at_campaign=KARANGA">Mali conflict: Macron announces troops to leave after nine years</a> BBC: France says growing hostility from Mali's new military junta forced the withdrawal 
  <p class="updated_time"> 09:50 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/the-surprising-mystery-of-italys-crown-jewels-is-who-gets-to-keep-them-11645131022">The Surprising Mystery of Italy's Crown Jewels Is Who Gets to Keep Them</a> WSJ: The Italian government says the precious baubles belong to the nation and its people, a contention being challenged in court by the ex-royal family. For 75 years, they sat unclaimed in a deposit box at the Bank of Italy. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
@@ -144,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081030007/valieva-figure-skating-minimum-age-limits">Minimum ages for figure skaters? Some at the Beijing Olympics say it's a good idea</a> NPR: The scandal involving 15-year-old figure skater Kamila Valieva is drawing new calls to establish age restrictions on Olympic figure skaters. 
  <p class="updated_time"> 06:49 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-considers-citywide-testing-as-omicron-overwhelms-defenses-11645096216">Hong Kong Considers Citywide Testing as Omicron Overwhelms Defenses</a> WSJ: Officials are considering citywide coronavirus testing after Beijing demanded more be done to control an Omicron surge that has quickly overrun Hong Kong’s health system. 
- <p class="updated_time"> 06:48 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60412116?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: 13 dead after falling into well in Kushinagar</a> BBC: The tragedy happened during a wedding ceremony in Uttar Pradesh state. 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
  <p class="updated_time"> 04:38 AM CT, Feb. 17 </p> 
@@ -192,9 +190,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
+ <a href="https://www.politico.com/news/2022/02/18/congress-sanctions-russias-aggression-00010051">Why Congress' sanctions push cooled even as Russia's aggression didn't</a> Politico: President Joe Biden got deference this month — a stark contrast with Donald Trump, whose approach to Moscow got handcuffed early. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/the-white-house-throws-cold-water-on-a-restaurant-industry-bailout-00009940">The White House throws cold water on a restaurant industry bailout</a> Politico: Lawmakers and allies are begging for cash amid a lingering pandemic. But the politics aren't in their favor. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
@@ -245,16 +245,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081589398/as-covid-restrictions-ease-the-full-congress-is-invited-to-attend-state-of-the-u">As COVID restrictions ease, the full Congress is invited to attend State of the Union</a> NPR: For President Biden's 2021 address to Congress, attendance was capped at about 20%. This year's shift reflects the federal government's push to get closer to some form of normalcy. 
  <p class="updated_time"> 04:26 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/hillary-clinton-backs-hochul-00009922">Hillary Clinton backs Hochul, says foes 'coming after me again lately'</a> Politico: Most of Clinton's speech focused on touting Democratic values and arguing that Hochul and her running-mate, Lt. Gov. Brian Benjamin, were the best choices to champion them. 
- <p class="updated_time"> 04:17 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/trump-moves-to-close-off-liz-cheneys-political-escape-hatch-00009928">Trump moves to close off Liz Cheney’s political escape hatch</a> Politico: The former president has been privately pressing Wyoming’s governor to change state election laws to deny the congresswoman Democratic support. 
  <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof">Oregon governor race will go on without Nick Kristof</a> NPR: The Oregon Supreme Court has ruled that former New York Times columnist Nick Kristof does not meet the residency requirement to run for governor there. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">N.Y. Supreme Court justice orders the Trumps to testify under oath</a> NPR: Trump calls the ruling "a continuation of the greatest Witch Hunt in history." 
  <p class="updated_time"> 02:18 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/leaders-with-cuban-legal-group-back-jacksons-nomination-to-high-court-00009851">Leaders with Florida-based Cuban legal group back Ketanji Brown Jackson's nomination to high court</a> Politico: The president of the Cuban American Bar Association sent a letter to the White House dated Wednesday that lauded Jackson, who grew up in South Florida and attended high school in Miami. 
- <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:57 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/trump-deposition-new-york-probe-00009847">Judge orders Trump to sit for deposition in New York investigation</a> Politico: The judge, Arthur Engoron, also ordered the Trumps to turn over relevant documents within two weeks. 
  <p class="updated_time"> 01:41 PM CT, Feb. 17 </p> 
@@ -275,14 +271,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/senate-vote-speed.html">The Senate Moves in Slow Motion. Could This Speed It Up?</a> NYT: With floor votes dragging on interminably, senators have embraced a modest effort to try to move things along. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
+ <p class="updated_time"> 11:21 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/florida-republicans-defy-desantis-00009651">‘Bad blood’: Florida Republicans defy DeSantis</a> Politico: The GOP-led Florida Senate surprised many by bucking the governor ahead of the November election. 
  <p class="updated_time"> 11:09 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081473389/steve-dickson-resigns-faa-administrator">FAA administrator Steve Dickson will step down midway through his term</a> NPR: Dickson took over the agency as it was reeling from allegations of lax oversight in the aftermath of two Boeing 737 MAX airplane crashes. 
  <p class="updated_time"> 10:47 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081450530/florida-house-abortion-ban">Florida House approves a ban on most abortions after 15 weeks</a> NPR: The bill is expected to pass the state Senate. Lawmakers in West Virginia and Arizona have approved similar bills — all modeled on a Mississippi law now before the Supreme Court. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428801/biden-russia-ukraine-invasion">President Biden warns that the threat of a Russian invasion of Ukraine is 'very high'</a> NPR: Biden told reporters Thursday that his sense is that invasion could occur in the next several days. "Every indication we have is they're prepared to go into Ukraine," he said. 
- <p class="updated_time"> 09:00 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/blinken-to-deliver-remarks-on-russian-threat-to-peace-and-security-at-u-n-security-council-00009733">U.S. sounds new alarms on Ukraine and details Russian invasion plan</a> Politico: The remarks from top U.S. officials come as the United States has seen no de-escalation of troops at the Ukranian border. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:04 AM CT, Feb. 17 </p> 
@@ -311,6 +307,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/business/trump-wealth-mazars.html">Trump Makes New Claims About His Wealth After Accountants Drop Him</a> NYT: The former president has spent decades inventing facts and figures to suit his needs. Now, dropped by his accountants, he is making new claims. 
  <p class="updated_time"> 06:34 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
+ <p class="updated_time"> 04:23 PM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/feinstein-plummets-harris-underwater-in-new-california-poll-00009427">Feinstein plummets, Harris underwater in new California poll</a> Politico: Approval rating for California's senior senator reaches a new low. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
@@ -373,8 +371,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/biden-climate-agenda-promises-what-happened-00007308">Biden’s climate agenda stalls, and progressives fume</a> Politico: Many on the left are losing hope — noting both the galloping spread of climate-linked disasters around the world, and the strong possibility that Democrats could lose control of Congress in November. 
  <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
  <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
- <p class="updated_time"> 04:30 AM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/democrats-clean-up-lawmaker-stock-trades-00007949">Dems want to clean up lawmaker stock trades. It could get messy.</a> Politico: They have a flurry of bills to reconcile, splits among their own and a potential GOP filibuster to contend with. But voters might reward them. 
 
 
 </details>
