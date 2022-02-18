@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:29 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A gust of 122 miles per hour was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. 
+ <p class="updated_time"> 08:14 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Biden Will Confer With Allies as Russia Plans Military Drills</a> NYT: The president’s call with trans-Atlantic leaders, set for Friday, follows tense fighting between Russian-backed separatists and Ukrainians. The U.S. defense secretary met with his Polish counterpart, seeking to show NATO’s solidarity. 
  <p class="updated_time"> 08:13 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
- <p class="updated_time"> 08:13 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Biden Will Confer With Allies as Russia Plans Military Drills</a> NYT: The president’s call with trans-Atlantic leaders, set for Friday, follows tense fighting between Russian-backed separatists and Ukrainians. The U.S. defense secretary met with his Polish counterpart, seeking to show NATO’s solidarity. 
  <p class="updated_time"> 07:45 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60428292?at_medium=RSS&at_campaign=KARANGA">Greece ferry: Two trapped as hundreds rescued off Corfu</a> BBC: Greek and Italian boats rush to rescue 290 people from a ferry but not everyone is accounted for. 
- <p class="updated_time"> 07:45 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A gust of 122 miles per hour was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
  <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
@@ -55,7 +55,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:17 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was reportedly unresponsive when he was pulled out days after he had fallen down the well. 
  <p class="updated_time"> 03:12 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">Separatist Leader in East Ukraine Urges Civilians to Evacuate to Russia</a> WSJ: The leader of a Russian-controlled region of eastern Ukraine urged civilians to evacuate to Russia immediately as shelling intensified along the front line, with Kyiv saying its troops have been issued orders to exercise restraint in responding to artillery fire so as to not give Moscow a pretext to invade. 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">Separatist Leader in East Ukraine Urges Civilians to Evacuate to Russia</a> WSJ: The leader of a Russian-controlled region of eastern Ukraine urged civilians to evacuate as shelling intensified, with Kyiv saying its troops were ordered to exercise restraint so as to not give Moscow a pretext to invade. 
  <p class="updated_time"> 02:42 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081658549/canadian-police-arrest-2-leaders-of-protesting-truckers">Canadian police arrest 2 leaders of protesting truckers</a> NPR: The  police action took place in Ottawa, the protest movement's last stronghold, after weeks of demonstrations and blockades that shut down border crossings into the U.S. 
  <p class="updated_time"> 02:27 AM CT, Feb. 18 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:23 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/cuomo-sued-trooper-sexually-harassed-00010102">Cuomo sued by New York trooper who claims he sexually harassed her</a> Politico: The woman, known as Trooper 1 in the lawsuit and in the AG investigation, "is one of the Governor’s victims," the suit contends. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/jim-hagedorn-00010113">GOP congressman dies after battle with kidney cancer</a> Politico: Rep. Jim Hagedorn was first diagnosed with stage 4 kidney cancer in 2019. 
  <p class="updated_time"> 08:39 AM CT, Feb. 18 </p> 
@@ -204,7 +206,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:21 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">They Wanted to Roll Back Tough-on-Crime Policies. Then Violent Crime Surged.</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/former-judge-beat-trump-january-6-00010056">The untold story of the former judge who beat Trump on Jan. 6</a> Politico: J. Michael Luttig shares the story of the run-up to the insurrection, and why he thinks it’s time to reform the Electoral Count Act. 
+ <a href="https://www.politico.com/news/2022/02/18/former-judge-beat-trump-january-6-00010056">The never-before-told backstory of Pence's Jan. 6 argument</a> Politico: Former judge J. Michael Luttig shares the story of the run-up to the insurrection, and why he thinks it’s time to reform the Electoral Count Act. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/congress-sanctions-russias-aggression-00010051">Why Congress' sanctions push cooled even as Russia's aggression didn't</a> Politico: President Joe Biden got deference this month — a stark contrast with Donald Trump, whose approach to Moscow got handcuffed early. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
@@ -285,8 +287,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/capitol-riot-plea-deals-trump-allies-00009776">Jan. 6 plea deals have helped Trump allies sow 'confusion' about attack, judge says</a> Politico: The DOJ's deals with Jan. 6 defendants have helped bad-faith actors downplay the gravity of the insurrection, a federal D.C. judge said Thursday. 
  <p class="updated_time"> 11:40 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/senate-vote-speed.html">The Senate Moves in Slow Motion. Could This Speed It Up?</a> NYT: With floor votes dragging on interminably, senators have embraced a modest effort to try to move things along. 
- <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
  <p class="updated_time"> 11:09 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081473389/steve-dickson-resigns-faa-administrator">FAA administrator Steve Dickson will step down midway through his term</a> NPR: Dickson took over the agency as it was reeling from allegations of lax oversight in the aftermath of two Boeing 737 MAX airplane crashes. 
  <p class="updated_time"> 10:47 AM CT, Feb. 17 </p> 
