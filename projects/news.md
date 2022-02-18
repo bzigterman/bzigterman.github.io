@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:43 AM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081667709/russia-says-it-will-stage-massive-nuclear-drills-amid-ukraine-standoff">Russia says it will stage massive nuclear drills amid Ukraine standoff</a> NPR: Russia's The Defense Ministry says  President Vladimir Putin will personally oversee this weekend's exercise. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081479756/despite-the-threat-of-war-some-americans-in-ukraine-are-staying-put">Despite the threat of war, some Americans in Ukraine are staying put</a> NPR: The U.S. government is telling Americans it's "past time" to leave Ukraine. But James Berk, an optician from New Jersey, has a Ukrainian wife and a newborn baby. For now, they're staying put. 
  <p class="updated_time"> 04:10 AM CT, Feb. 18 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/us-and-russian-warplanes-flew-dangerously-close-to-each-other.html">U.S. and Russian warplanes flew dangerously close to each other.</a> NYT: Aircraft flew close in three incidents in the eastern Mediterranean, including one in which planes came within about five feet of each other. 
  <p class="updated_time"> 04:17 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081388909/france-says-it-will-withdraw-troops-from-mali-but-remain-in-west-africa">France says it will withdraw troops from Mali but remain in West Africa</a> NPR: The announcement by French President Emmanuel Macron will end nearly a decade of fighting Islamic extremists in the West African country. 
- <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081329302/vice-president-harris-is-meeting-leaders-in-munich-to-talk-about-russia-and-ukra">Vice President Harris is meeting leaders in Munich to talk about Russia and Ukraine</a> NPR: This is Harris' highest-stakes foreign trip yet. She will meet some 13 heads of state to discuss the threat posed by Russia, and will speak at the Munich Security Conference. 
  <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 08:35 PM CT, Feb. 16 </p> 
