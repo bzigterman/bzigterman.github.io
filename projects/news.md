@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60436938?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden says he is convinced Putin has decided to invade</a> BBC: An invasion could happen in days and the capital Kyiv is likely to be targeted, the US president says. 
  <p class="updated_time"> 05:25 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 05:25 PM CT, Feb. 18 </p> 
@@ -48,8 +50,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
+ <p class="updated_time"> 12:25 PM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/canada-parliament-cancels-session-as-police-clamp-down-on-protesters-11645194677">Ottawa Police Tow Trucks, Arrest Freedom Convoy Protesters</a> WSJ: Dozens of police officers moved in formation and made dozens of arrests to bring an end to a 22-day Freedom Convoy demonstration that has paralyzed Canada’s capital and blocked border crossings. 
  <p class="updated_time"> 12:18 PM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
+ <p class="updated_time"> 11:23 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-installed-authorities-in-ukraines-donbas-proclaim-evacuation-of-civilian-residents-11645219700">Russian-Installed Authorities in Ukraine's Donbas Proclaim Evacuation of Civilian Residents</a> WSJ: Kyiv, West condemn the move as a provocation aimed at justifying a Russian invasion of Ukraine. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
  <p class="updated_time"> 11:09 AM CT, Feb. 18 </p> 
@@ -74,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
  <p class="updated_time"> 06:59 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429726?at_medium=RSS&at_campaign=KARANGA">Malawi finds Africa’s first wild polio case in five years</a> BBC: Africa was declared free of wild polio in 2020 after a major continent-wide vaccination campaign. 
- <p class="updated_time"> 06:56 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/canada-parliament-cancels-session-as-police-clamp-down-on-protesters-11645194677">Ottawa Police Begin Towing Freedom Convoy Trucks From Protest Site</a> WSJ: Dozens of police officers moved in formation to make more arrests as they ramp up efforts to bring an end to a 22-day demonstration against Covid-19 vaccine mandates that has paralyzed Ottawa’s downtown. 
  <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60433364?at_medium=RSS&at_campaign=KARANGA">Greece ferry fire: Hundreds rescued from blaze off Corfu coast</a> BBC: The Euroferry Olympia caught fire in the early hours of Friday morning. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
@@ -164,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60419799?at_medium=RSS&at_campaign=KARANGA">Why are French troops leaving Mali, and what will it mean for the region?</a> BBC: Will France's decision to remove 5,000 personnel weaken the fight against Islamists in Africa's Sahel? 
  <p class="updated_time"> 10:34 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/police-enforcement-truckers-indigenous.html">Friendly Police Response to Protests Raises Questions Among Canadians</a> NYT: Images on social media contrast the response to the truckers with heavy-handed action last year against Indigenous people who blocked logging. 
- <p class="updated_time"> 10:33 AM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/torrents-of-mud-kill-at-least-105-in-brazilian-city-11645114711">Torrents of Mud Kill More Than 100 People in Brazil</a> WSJ: The landslides killed at least 105 people and left dozens more missing this week in Brazilian city north of Rio de Janeiro, sending distraught relatives and emergency crews on a desperate search for survivors in deep mud. 
  <p class="updated_time"> 10:32 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/australia/rosalie-kunoth-monks-dead.html">Rosalie Kunoth-Monks, Champion of Indigenous Peoples, Dies at 85</a> NYT: As a teenager, she was the star of a film about an Aboriginal girl raised by a white family. As an adult, she fought discrimination in Australia against her people. 
  <p class="updated_time"> 10:10 AM CT, Feb. 17 </p> 
@@ -187,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
+ <p class="updated_time"> 05:37 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/melania-trump-charity-donation.html">Charitable Offer by Melania Trump Is Rejected, a Move She Calls ‘Politics’</a> NYT: Mrs. Trump assailed what she called attempts to “cancel her” as she comes under criticism, along with her husband, for post-White House fund-raising efforts. 
  <p class="updated_time"> 04:58 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/biden-administration-asks-congress-for-5-billion-to-fight-covid-overseas-00010264">Biden officials ask Congress for $5B in global Covid funds</a> Politico: USAID told lawmakers earlier this month, however, that they needed several times that amount. 
  <p class="updated_time"> 04:48 PM CT, Feb. 18 </p> 
@@ -200,7 +204,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081873315/president-biden-says-russia-invasion-in-ukraine-will-happen-within-days">President Biden says Russia invasion in Ukraine will happen within days</a> NPR: President Biden spoke about the deteriorating situation in Ukraine, as Russia appears ready to invade. He gives his remarks after convening key European leaders for an update. 
  <p class="updated_time"> 03:52 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/economy/china-us-olympics-sponsorships.html">For Companies, Winning in China Now Means Losing Somewhere Else</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
+ <a href="https://www.nytimes.com/2022/02/18/business/economy/china-us-olympics-sponsorships.html">Why Companies Struggled to Navigate Olympics Sponsorships</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
  <p class="updated_time"> 03:47 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081856252/u-s-surgeon-general-says-he-and-his-family-have-all-tested-positive-for-covid-19">U.S. surgeon general says he and his family have all tested positive for COVID-19 </a> NPR: The nation's top doctor says he and his wife have mild symptoms, while his son has a runny nose and low-grade fever. His daughter also recently tested positive for the virus. 
  <p class="updated_time"> 03:46 PM CT, Feb. 18 </p> 
@@ -229,8 +233,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/kim-potter-sentenced-2-years-daunte-wright-death-00010206">Kim Potter sentenced to 2 years in Daunte Wright’s death</a> Politico: Potter was convicted in December of first- and second-degree manslaughter in the killing of Wright. She said she confused her handgun for her Taser when she fatally shot him. 
  <p class="updated_time"> 01:38 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/federal-reserve-barring-officials-trades-00010182">Fed adopts broad new rules barring officials from most trades</a> Politico: Most of the new rules will take effect on May 1 and officials will have one year to bring their personal portfolios into alignment. 
- <p class="updated_time"> 01:34 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/melania-trump-charity-donation.html">Charitable Offer by Melania Trump Is Rejected, a Move She Calls ‘Politics’</a> NYT: Mrs. Trump assailed what she called attempts to “cancel her” as she comes under criticism, along with her husband, for post-White House fund-raising efforts. 
  <p class="updated_time"> 01:25 PM CT, Feb. 18 </p> 
  <a href="https://www.cnn.com/2022/02/18/politics/putin-russia-ukraine-scenarios-what-matters/index.html">Putin's possible endgames in Ukraine</a> CNN: As the US seeks to convince the world that Russia is bluffing about a drawdown of troops near Ukraine, it's worth considering what's informing Russia's decision-making and what the possible endgame scenarios might be. 
  <p class="updated_time"> 12:47 PM CT, Feb. 18 </p> 
@@ -246,7 +248,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:54 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/chief-judge-in-d-c-says-jan-6-defendants-should-get-credit-for-talking-to-congress-00010165">Chief judge in D.C. says Jan. 6 defendants should get credit for talking to Congress</a> Politico: “I think that that kind of cooperation is helpful to this country and is helpful to making amends for what occurred on Jan. 6,” Judge Beryl Howell said. 
  <p class="updated_time"> 11:37 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/submarine-spy-guilty-plea.html">Wife of Navy Nuclear Engineer Pleads Guilty in Submarine Spy Case</a> NYT: Diana Toebbe, a high school teacher, acknowledged her part in an effort to try to sell nuclear reactor secrets her husband had taken from the Navy. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/submarine-spy-guilty-plea.html">Submarine Spy Case: Wife of Navy Engineer Pleads Guilty</a> NYT: Diana Toebbe, a high school teacher, acknowledged her part in an effort to try to sell nuclear reactor secrets her husband had taken from the Navy. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/capitol-riot-panel-interview-katrina-pierson-00010154">Jan. 6 panel interviewed Ellipse rally organizer Katrina Pierson</a> Politico: Pierson in her committee interview did not invoke her right to not self-incriminate, known as pleading the Fifth, a source told POLITICO. 
  <p class="updated_time"> 10:38 AM CT, Feb. 18 </p> 
