@@ -1181,16 +1181,16 @@ html {
 <td class="gt_row gt_right">2.2K</td>
 <td class="gt_row gt_right">&minus;10&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">540.0K</td>
-<td class="gt_row gt_right gt_striped">242.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;55&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">542.0K</td>
+<td class="gt_row gt_right gt_striped">230.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;58&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">212.0M</td>
-<td class="gt_row gt_right">213.0M</td>
-<td class="gt_row gt_right">+0&percnt;</td></tr>
+<td class="gt_row gt_right">214.0M</td>
+<td class="gt_row gt_right">+1&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right gt_striped">63.9</td>
-<td class="gt_row gt_right gt_striped">64.3</td>
+<td class="gt_row gt_right gt_striped">64.0</td>
+<td class="gt_row gt_right gt_striped">64.4</td>
 <td class="gt_row gt_right gt_striped">+1&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
@@ -1588,15 +1588,15 @@ html {
 <td class="gt_row gt_right gt_striped">+1&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">20.1M</td>
-<td class="gt_row gt_right">29.9M</td>
-<td class="gt_row gt_right">+49&percnt;</td></tr>
+<td class="gt_row gt_right">29.3M</td>
+<td class="gt_row gt_right">+46&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">4.2B</td>
 <td class="gt_row gt_right gt_striped">4.3B</td>
 <td class="gt_row gt_right gt_striped">+2&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">53.2</td>
-<td class="gt_row gt_right">54.4</td>
+<td class="gt_row gt_right">54.5</td>
 <td class="gt_row gt_right">+2&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
