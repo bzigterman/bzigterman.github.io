@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:52 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in flood-hit Brazil city</a> BBC: Residents flee Petrópolis and the rescue mission is paused as more heavy rain is forecast. 
  <p class="updated_time"> 04:43 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081667709/russia-says-it-will-stage-massive-nuclear-drills-amid-ukraine-standoff">Russia says it will stage massive nuclear drills amid Ukraine standoff</a> NPR: Russia's The Defense Ministry says  President Vladimir Putin will personally oversee this weekend's exercise. 
+ <a href="https://www.npr.org/2022/02/18/1081667709/russia-says-it-will-stage-massive-nuclear-drills-amid-ukraine-standoff">Russia says it will stage nuclear drills amid Ukraine standoff</a> NPR: Russia's The Defense Ministry says  President Vladimir Putin will personally oversee this weekend's exercise. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081479756/despite-the-threat-of-war-some-americans-in-ukraine-are-staying-put">Despite the threat of war, some Americans in Ukraine are staying put</a> NPR: The U.S. government is telling Americans it's "past time" to leave Ukraine. But James Berk, an optician from New Jersey, has a Ukrainian wife and a newborn baby. For now, they're staying put. 
  <p class="updated_time"> 04:10 AM CT, Feb. 18 </p> 
@@ -62,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
  <p class="updated_time"> 10:02 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/south-korea-covid-spread.html">As Omicron Surges, South Korea Eases Pandemic Interference</a> NYT: With Omicron spreading quickly, the government says it will focus on the most vulnerable, while asking others to look after themselves at home. 
- <p class="updated_time"> 09:50 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in flood-hit Brazil city</a> BBC: Residents flee Petrópolis and the rescue mission is paused as more heavy rain is forecast. 
  <p class="updated_time"> 09:47 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/canada-protests-news">Police Begin Arresting Protest Organizers in Canada</a> NYT: Tamara Lich, one of the leaders of the demonstration, was arrested on Thursday night, after promises from police officials of an “imminent” clampdown on the occupation. 
  <p class="updated_time"> 09:04 PM CT, Feb. 17 </p> 
@@ -197,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
+ <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081661666/morning-news-brief">News brief: Russia-Ukraine crisis, Trump ruling, IOC president's news conference</a> NPR: VP Harris is in Germany for meetings on Ukraine. N.Y. Supreme Court judge orders Donald Trump to testify under oath. The president of the International Olympic Committee holds a news conference. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">As Crime Surges, Roll Back of Tough-on-Crime Policies Faces Resistance</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
  <p class="updated_time"> 11:17 PM CT, Feb. 17 </p> 
@@ -295,8 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">The widening political chasm is revealed in real estate data</a> NPR: Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. People are purposely moving to places reflecting their views. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's House passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
- <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081387006/morning-news-brief">News brief: Russia-Ukraine crisis, Florida abortion bill, DOJ sues Missouri</a> NPR: Russia says it's de-escalating its forces near Ukraine. Florida's House passes a bill banning abortions after 15 weeks of pregnancy. The DOJ is suing Missouri over its controversial firearm law. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
