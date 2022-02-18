@@ -8,20 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:56 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Holds Talks With NATO Allies as Ukraine Crisis Heats Up</a> NYT: Two Russian-backed separatist leaders urged people to flee their territories, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. President Biden will speak on the crisis after he consults with NATO allies by phone. 
+ <p class="updated_time"> 02:51 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">‘Blimey, He Looks High.’ A Gale-Force Play-by-Play at Heathrow Goes Viral.</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
+ <p class="updated_time"> 02:40 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">White House says Kremlin was behind denial of service attack in Ukraine</a> NPR: The revelation comes before President Biden is set to speak on Russia's threatened invasion of Ukraine. 
+ <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">U.S. says a separatist call to flee east Ukraine for Russia is a false flag</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing to invade the area. The U.S. says it's "disinformation." 
+ <p class="updated_time"> 02:14 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
+ <p class="updated_time"> 02:14 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
+ <p class="updated_time"> 02:11 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
+ <p class="updated_time"> 02:09 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
- <p class="updated_time"> 01:59 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
- <p class="updated_time"> 01:59 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least six deaths were reported. 
- <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Call For Mass Evacuation in Eastern Ukraine Raises Alarm</a> NYT: A Russian-backed separatist leader urged 700,000 people to flee the territory, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. President Biden is expected to address the crisis after he consults with NATO allies by phone. 
- <p class="updated_time"> 01:50 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
- <p class="updated_time"> 01:03 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is coming. 
  <p class="updated_time"> 12:59 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
@@ -40,14 +48,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
  <p class="updated_time"> 09:50 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081707415/us-threat-russia-ukraine-invasion-diplomacy">Why U.S. strategy includes raising public alarms on Russia</a> NPR: The threat of Russia invading Ukraine is real, the Biden administration insists. At the same time, top officials say they hope that being vocal about the intelligence they have could deter action. 
- <p class="updated_time"> 09:25 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Can travelers depend on the chilled-out, welcoming Australia that it says it is now? 
+ <p class="updated_time"> 09:24 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 08:58 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/china-coronavirus-vaccines.html">Why China Doesn’t Have an mRNA Vaccine for Covid</a> NYT: Beijing once said it had two mRNA shots within reach and ready for approval — one homemade and one produced by a foreign company. Today, neither is available. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
- <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
@@ -146,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 02:12 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/whatsapp-london-police-charges.html">London Police Officers Charged Over Offensive WhatsApp Messages</a> NYT: The messages were uncovered during the investigation into Wayne Couzens, a London police officer who kidnapped, raped and murdered Sarah Everard in March 2021. 
- <p class="updated_time"> 02:06 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081452471/mexico-avocado-ban">Why we'll probably see avocado prices rise soon in the U.S.</a> NPR: Earlier this week, the U.S. Department of Agriculture put a temporary suspension on avocados from Mexico after an inspector received a threat. Experts say it might lead to a change in supply and cost. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
  <p class="updated_time"> 11:24 AM CT, Feb. 17 </p> 
@@ -168,16 +172,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
- <p class="updated_time"> 08:23 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">Ukraine Tensions Spike as West Accuses Russia of Lying About Troop Withdrawal</a> NYT: As Russia stoked hopes of a diplomatic solution and claimed to be pulling back forces from the Ukrainian border, U.S. and NATO officials accused Moscow of building up troops instead. 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60373229?at_medium=RSS&at_campaign=KARANGA">Ashutosh Kaushik: Indian actor fighting for the 'right to be forgotten'</a> BBC: Ashutosh Kaushik says his life is still being held hostage to a youthful folly. 
  <p class="updated_time"> 06:12 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60333796?at_medium=RSS&at_campaign=KARANGA">Swahili's bid to become a language for all of Africa</a> BBC: With 200 million speakers there is a renewed push to make Swahili a common language for Africa. 
  <p class="updated_time"> 06:10 PM CT, Feb. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59900131?at_medium=RSS&at_campaign=KARANGA">French election: Who's vying to challenge Emmanuel Macron?</a> BBC: A tight and divisive race is expected when France holds a presidential election in April this year. 
- <p class="updated_time"> 05:40 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/americas/hugo-torres-dead.html">Hugo Torres, Former Rebel Turned Political Prisoner, Dies at 73</a> NYT: Once a guerrilla commander who helped free President Daniel Ortega of Nicaragua from prison, Mr. Torres was jailed last year during a political crackdown. 
 
 
 </details>
@@ -185,6 +185,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/trump-january-6-lawsuit-00010249">Judge rejects Trump effort to toss lawsuits accusing him of Jan. 6 conspiracy</a> Politico: In a 112-page ruling, the judge said the evidence suggests Trump assembled the crowd and then instructed the rally-goers to march on the Capitol. 
+ <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">White House says Kremlin was behind denial of service attack in Ukraine</a> NPR: The revelation comes before President Biden is set to speak on Russia's threatened invasion of Ukraine. 
+ <p class="updated_time"> 02:26 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
+ <p class="updated_time"> 02:23 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/newsom-texas-style-bill-sue-gun-makers-00010201">Newsom announces Texas-style bill that would let residents sue gun makers</a> Politico: New California legislation encouraging litigation against makers and dealers of assault rifles and ghost guns is modeled on a Texas law allowing people to sue abortion providers. 
  <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/ukraine-calm-russia-invasion-00010198">'Keep a cool head': Ukraine urges calm as the drumbeats of war get louder</a> Politico: Western officials are warning that a Russian invasion could come any day now, but some top Ukrainian officials still think Putin is playing the pressure game. 
  <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
@@ -202,7 +210,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:47 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081796995/minnesota-rep-jim-hagedorn-dies">Minnesota Rep. Jim Hagedorn has died at 59 after a battle with cancer </a> NPR: U.S. Rep. Jim Hagedorn, a conservative Republican from southern Minnesota who followed his father's footsteps into Congress, has died after a battle with kidney cancer, his wife said. 
  <p class="updated_time"> 12:22 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">They Wanted to Roll Back Tough-on-Crime Policies. Then Violent Crime Surged.</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">As Crime Surges, Roll Back of Tough-on-Crime Policies Faces Resistance</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
  <p class="updated_time"> 12:13 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/biden-to-speak-with-allies-as-u-s-pressures-russia-to-back-down-00010177">Biden to speak with allies as U.S. pressures Russia to back down</a> Politico: Russia has denied plans to invade, but has begun amplifying alleged grievances with Kyiv. 
  <p class="updated_time"> 12:12 PM CT, Feb. 18 </p> 
@@ -213,8 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/chief-judge-in-d-c-says-jan-6-defendants-should-get-credit-for-talking-to-congress-00010165">Chief judge in D.C. says Jan. 6 defendants should get credit for talking to Congress</a> Politico: “I think that that kind of cooperation is helpful to this country and is helpful to making amends for what occurred on Jan. 6,” Judge Beryl Howell said. 
  <p class="updated_time"> 11:37 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/submarine-spy-guilty-plea.html">Wife of Navy Nuclear Engineer Pleads Guilty in Submarine Spy Case</a> NYT: Diana Toebbe, a high school teacher, acknowledged her part in an effort to try to sell nuclear reactor secrets her husband had taken from the Navy. 
- <p class="updated_time"> 11:30 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be banned from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/capitol-riot-panel-interview-katrina-pierson-00010154">Jan. 6 panel interviewed Ellipse rally organizer Katrina Pierson</a> Politico: Pierson in her committee interview did not invoke her right to not self-incriminate, known as pleading the Fifth, a source told POLITICO. 
  <p class="updated_time"> 10:38 AM CT, Feb. 18 </p> 
@@ -246,11 +252,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/gallery/2022/02/18/the-nations-cartoonists-on-the-week-in-politics-00009962">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/congress-sanctions-russias-aggression-00010051">Why Congress' sanctions push cooled even as Russia's aggression didn't</a> Politico: President Joe Biden got deference this month — a stark contrast with Donald Trump, whose approach to Moscow got handcuffed early. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/the-white-house-throws-cold-water-on-a-restaurant-industry-bailout-00009940">The White House throws cold water on a restaurant industry bailout</a> Politico: Lawmakers and allies are begging for cash amid a lingering pandemic. But the politics aren't in their favor. 
- <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/gallery/2022/02/18/the-nations-cartoonists-on-the-week-in-politics-00009962">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
@@ -283,16 +289,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/senate-spending-bill-shutdown.html">Senate Passes 3-Week Spending Bill, Averting Government Shutdown</a> NYT: The bill, which now goes to President Biden’s desk, will give lawmakers until March 11 to finalize a deal on spending levels for the remainder of the fiscal year. 
  <p class="updated_time"> 05:54 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081570341/the-senate-avoids-a-government-shutdown-punting-a-spending-deadline-into-march">The Senate avoids a government shutdown, punting a spending deadline into March</a> NPR: Lawmakers hope to finalize a longer-term spending bill before the new shutdown deadline on March 11. 
- <p class="updated_time"> 05:52 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/newsom-to-roll-out-next-phase-covid-strategy-that-relies-on-rapid-response-00009948">Newsom rolls out 'next phase' Covid strategy that relies on rapid response</a> Politico: The word 'endemic' does not appear anywhere in a 30-page document that details his approach. 
  <p class="updated_time"> 05:51 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/justice-department-cybersecurity.html">Justice Dept. Announces Raft of Changes Meant to Deter Cyberthreats</a> NYT: The moves came a week after the department made its largest financial seizure ever, confiscating over $3.6 billion worth of Bitcoin stolen in a 2016 hacking. 
  <p class="updated_time"> 05:30 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
- <p class="updated_time"> 05:18 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/mypillows-ceo-canadas-truckers-00009950">MyPillow’s CEO is coming to save Canada’s truckers. With pillows, of course.</a> Politico: U.S. business owner and MAGA conspiracy theorist Mike Lindell has some feelings about Justin Trudeau: “He's a monster, fact. A monster beyond anything in history.” 
- <p class="updated_time"> 05:06 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/big-coal-states-eye-small-nukes-for-grid-economy-00008363">Big coal states eye small nuclear reactors for grid, economy</a> Politico: The push comes as aging fossil plants have closed or faced economic pressure. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
  <p class="updated_time"> 04:54 PM CT, Feb. 17 </p> 
@@ -301,6 +301,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof">Oregon governor race will go on without Nick Kristof</a> NPR: The Oregon Supreme Court has ruled that former New York Times columnist Nick Kristof does not meet the residency requirement to run for governor there. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">N.Y. Supreme Court justice orders the Trumps to testify under oath</a> NPR: Trump calls the ruling "a continuation of the greatest Witch Hunt in history." 
+ <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
@@ -309,8 +311,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081428996/the-future-of-u-s-democracy-hangs-in-the-balance-as-states-battle-over-voting-ri">The future of U.S. democracy hangs in the balance as states battle over voting rights</a> NPR: Michael Waldman, president of the Brennan Center for Justice, says lawmakers in 27 states are considering hundreds of bills designed to limit voting or undermine the integrity of the election process. 
  <p class="updated_time"> 11:40 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/senate-vote-speed.html">The Senate Moves in Slow Motion. Could This Speed It Up?</a> NYT: With floor votes dragging on interminably, senators have embraced a modest effort to try to move things along. 
- <p class="updated_time"> 11:09 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081473389/steve-dickson-resigns-faa-administrator">FAA administrator Steve Dickson will step down midway through his term</a> NPR: Dickson took over the agency as it was reeling from allegations of lax oversight in the aftermath of two Boeing 737 MAX airplane crashes. 
+ <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
  <p class="updated_time"> 09:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/blinken-to-deliver-remarks-on-russian-threat-to-peace-and-security-at-u-n-security-council-00009733">U.S. sounds new alarms on Ukraine and details Russian invasion plan</a> Politico: The remarks from top U.S. officials come as the United States has seen no de-escalation of troops at the Ukranian border. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
@@ -339,10 +341,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
- <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222">Jan. 6 panel targets key players in false Trump elector strategy</a> Politico: Investigators are probing the Trump campaign's involvement in efforts to send fake electors to Washington. 
  <p class="updated_time"> 02:57 PM CT, Feb. 15 </p> 
@@ -369,8 +371,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/13/pelosi-defund-police-democrats-00008449">'Defund the police' is not the policy of the Democratic Party, Pelosi says</a> Politico: "Make no mistake, community safety is our responsibility," she said. 
  <p class="updated_time"> 09:52 AM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/pelosi-midterms-democrats-00008448">Pelosi on midterms: 'Forget history; we're talking about future'</a> Politico: She said the president's party often loses in the midterms because of gains during the presidential election year. 
- <p class="updated_time"> 02:57 PM CT, Feb. 11 </p> 
- <a href="https://www.politico.com/news/2022/02/11/warning-cia-searches-revives-domestic-spying-debate-00008307">Dem duo's warning of CIA 'warrantless backdoor searches' revives domestic spying debate</a> Politico: A nearly year-old, but newly declassified, letter from Sens. Ron Wyden (D-Ore.) and Martin Heinrich (D-N.M.) is raising tough questions for the agency. 
 
 
 </details>
