@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:35 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Will Speak After Call With NATO Allies</a> NYT: Two Russian-backed separatist leaders urged people to flee their territories, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. 
+ <p class="updated_time"> 03:55 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Speaks After Call With NATO Allies</a> NYT: Two Russia-backed separatist leaders urged people to flee their territories, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. 
  <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 03:20 PM CT, Feb. 18 </p> 
@@ -187,10 +187,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/business/economy/china-olympics-corporations-business.html">For Companies, Winning in China Now Means Losing Somewhere Else</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
+ <p class="updated_time"> 03:47 PM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081856252/u-s-surgeon-general-says-he-and-his-family-have-all-tested-positive-for-covid-19">U.S. surgeon general says he and his family have all tested positive for COVID-19 </a> NPR: The nation's top doctor says he and his wife have mild symptoms, while his son has a runny nose and low-grade fever. His daughter also recently tested positive for the virus. 
  <p class="updated_time"> 03:46 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/texas-primary-voting-law.html">Texas Voting Law Leads to Jump in Ballot Application Rejections</a> NYT: Texas Republicans said the state’s new voting law would make it “easy to vote, hard to cheat.” County election officials say it’s sowing confusion ahead of next month’s primaries. 
- <p class="updated_time"> 03:46 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/economy/china-olympics-corporations-business.html">For Companies, Winning in China Now Means Losing Somewhere Else</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
+ <p class="updated_time"> 03:44 PM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081872137/biden-administration-prepares-to-pivot-on-pandemic-approach">Biden administration prepares to pivot on pandemic approach</a> NPR: The White House is trying to move away from a crisis footing on COVID. By the time of the State of the Union, President Biden may be able to explain how things get back to normal. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
@@ -210,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/biden-francis-collins-nih.html">Francis Collins, Former N.I.H. Director, Will Fill In as Biden's Science Adviser</a> NYT: Dr. Collins will temporarily serve in one of the two roles previously held by Eric S. Lander, who resigned last week. 
  <p class="updated_time"> 01:50 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/material-recovered-from-trump-by-archives-included-classified-information.html">Material Recovered From Trump by Archives Included Classified Information</a> NYT: In a letter to Congress, the National Archives confirmed that boxes taken from the White House by the former president included classified national security documents. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/trump-archives-white-house.html">Material Recovered From Trump by Archives Included Classified Information</a> NYT: In a letter to Congress, the National Archives confirmed that boxes taken from the White House by the former president included classified national security documents. 
  <p class="updated_time"> 01:47 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/kim-potter-sentenced-2-years-daunte-wright-death-00010206">Kim Potter sentenced to 2 years in Daunte Wright’s death</a> Politico: Potter was convicted in December of first- and second-degree manslaughter in the killing of Wright. She said she confused her handgun for her Taser when she fatally shot him. 
  <p class="updated_time"> 01:38 PM CT, Feb. 18 </p> 
@@ -309,14 +313,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081589398/as-covid-restrictions-ease-the-full-congress-is-invited-to-attend-state-of-the-u">As COVID restrictions ease, the full Congress is invited to attend State of the Union</a> NPR: For President Biden's 2021 address to Congress, attendance was capped at about 20%. This year's shift reflects the federal government's push to get closer to some form of normalcy. 
  <p class="updated_time"> 03:47 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof">Oregon governor race will go on without Nick Kristof</a> NPR: The Oregon Supreme Court has ruled that former New York Times columnist Nick Kristof does not meet the residency requirement to run for governor there. 
- <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">N.Y. Supreme Court justice orders the Trumps to testify under oath</a> NPR: Trump calls the ruling "a continuation of the greatest Witch Hunt in history." 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
- <p class="updated_time"> 01:02 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081428996/the-future-of-u-s-democracy-hangs-in-the-balance-as-states-battle-over-voting-ri">The future of U.S. democracy hangs in the balance as states battle over voting rights</a> NPR: Michael Waldman, president of the Brennan Center for Justice, says lawmakers in 27 states are considering hundreds of bills designed to limit voting or undermine the integrity of the election process. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
  <p class="updated_time"> 09:00 AM CT, Feb. 17 </p> 
