@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:51 PM CT, Feb. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60426589?at_medium=RSS&at_campaign=KARANGA">Sydney shark attack: Beaches reopen after British swimmer's death</a> BBC: British man Simon Nellist died on Wednesday in the city's first fatal attack since 1963. 
  <p class="updated_time"> 11:45 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
  <p class="updated_time"> 11:43 PM CT, Feb. 17 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/the-surprising-mystery-of-italys-crown-jewels-is-who-gets-to-keep-them-11645131022">The Surprising Mystery of Italy's Crown Jewels Is Who Gets to Keep Them</a> WSJ: The Italian government says the precious baubles belong to the nation and its people, a contention being challenged in court by the ex-royal family. For 75 years, they sat unclaimed in a deposit box at the Bank of Italy. 
  <p class="updated_time"> 09:40 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081428801/biden-russia-ukraine-invasion">President Biden warns that the threat of a Russian invasion of Ukraine is 'very high'</a> NPR: Biden told reporters Thursday that his sense is that invasion could occur in the next several days. "Every indication we have is they're prepared to go into Ukraine," he said. 
- <p class="updated_time"> 09:18 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60398033?at_medium=RSS&at_campaign=KARANGA">Simon Nellist: Sydney shark victim named locally as British man</a> BBC: Simon Nellist died in the city's first fatal shark attack in almost 60 years, a friend says. 
  <p class="updated_time"> 08:15 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081389343/olympic-figure-skating-final-kamila-valieva">2 Russians medal at the Olympic figure skating final, but not Kamila Valieva</a> NPR: Two skaters from the Russian Olympic Committee took the top two spots at the women's program at the Beijing Olympics. Kamila Valieva, who has been at the center of a scandal, took fourth place. 
  <p class="updated_time"> 08:11 AM CT, Feb. 17 </p> 
