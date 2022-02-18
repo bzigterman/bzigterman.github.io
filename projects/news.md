@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 12:50 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60422103?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Russian demands hark back to Cold War, says Germany</a> BBC: Germany accuses Russia of putting peace at risk and calls for "serious steps towards de-escalation". 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60426589?at_medium=RSS&at_campaign=KARANGA">Sydney shark attack: Beaches reopen after British swimmer's death</a> BBC: British man Simon Nellist died on Wednesday in the city's first fatal attack since 1963. 
  <p class="updated_time"> 11:43 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/18/1081651604/olympic-committee-leader-says-hes-disturbed-by-coachs-treatment-of-kamila-valiev">Olympic Committee leader says he's 'disturbed' by coach's treatment of Kamila Valieva</a> NPR: International Olympic Committee President Thomas Bach resisted implementing any immediate changes despite speaking of concerns for minor athletes like Valieva. 
- <p class="updated_time"> 11:19 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 10:35 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60426585?at_medium=RSS&at_campaign=KARANGA">Vietnam: Viral dog owners rescue 15 puppies after Covid cull</a> BBC: Authorities had killed the couple's dogs last year over Covid fears, sparking a public outcry. 
  <p class="updated_time"> 10:34 PM CT, Feb. 17 </p> 
