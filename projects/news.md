@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:40 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
+ <p class="updated_time"> 01:40 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Eastern Ukraine</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
+ <p class="updated_time"> 01:36 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was pulled out after several days after rescuers worked round the clock to save him. 
  <p class="updated_time"> 01:33 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
- <p class="updated_time"> 01:30 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/17/world/russia-ukraine-news">Ukraine: Shelling Raises Fears Ukraine Conflict Is Heating Up</a> NYT: Russian-backed separatists say they came under attack, raising fears in the West that Moscow may claim an opening for military action. Ukraine said the separatists shelled a kindergarten, wounding three people. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 12:50 AM CT, Feb. 18 </p> 
@@ -60,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60421428?at_medium=RSS&at_campaign=KARANGA">The women at the forefront of Sudan’s protests</a> BBC: Sita el-Nufur, who was killed during anti-military demonstrations, has become an icon for protesters. 
  <p class="updated_time"> 05:40 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60421400?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Three people injured after shell strikes nursery school</a> BBC: Three people were injured after a shell hit a children's music room in Ukraine's Donbas region. 
- <p class="updated_time"> 05:40 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/stanytsia-lushankya-shelling.html">Ukraine Blames Russia-Backed Separatists for Shelling in Eastern Ukraine</a> NYT: “We’ve said for some time that the Russians might do something like this in order to justify a military conflict,” said the U.S. defense secretary, Lloyd J. Austin III. “So we’ll be watching this very closely.” 
  <p class="updated_time"> 05:08 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081594481/the-candy-bomber-who-dropped-sweets-during-the-berlin-airlift-has-died-at-age-10">The 'Candy Bomber' who dropped sweets during the Berlin airlift has died at age 101</a> NPR: "Halvorsen's deeply human act has never been forgotten," Berlin Mayor Franziska Giffey said in a statement. 
  <p class="updated_time"> 04:42 PM CT, Feb. 17 </p> 
