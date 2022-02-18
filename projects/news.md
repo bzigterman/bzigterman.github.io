@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:42 AM CT, Feb. 18 </p> 
+ <p class="updated_time"> 11:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Ukraine Live Updates: Russia Escalates Tensions but Still Offers to Talk</a> NYT: President Biden prepared to talk with NATO allies by phone on Friday to discuss the threat to Ukraine after a night of tense fighting between Russian-backed separatists and Ukrainians. 
  <p class="updated_time"> 11:33 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-shutdown-russia-ukraine-conflict.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
+ <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
  <p class="updated_time"> 11:33 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news/canada-protest-arrests">Police move in on Ottawa protests and begin making arrests.</a> NYT: More than 100 police have assembled in a staging area with heavy equipment and Ottawa police have issued a new warning that protesters must immediately leave or face arrest. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
@@ -234,9 +234,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/the-white-house-throws-cold-water-on-a-restaurant-industry-bailout-00009940">The White House throws cold water on a restaurant industry bailout</a> Politico: Lawmakers and allies are begging for cash amid a lingering pandemic. But the politics aren't in their favor. 
- <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/congress-sanctions-russias-aggression-00010051">Why Congress' sanctions push cooled even as Russia's aggression didn't</a> Politico: President Joe Biden got deference this month — a stark contrast with Donald Trump, whose approach to Moscow got handcuffed early. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/the-white-house-throws-cold-water-on-a-restaurant-industry-bailout-00009940">The White House throws cold water on a restaurant industry bailout</a> Politico: Lawmakers and allies are begging for cash amid a lingering pandemic. But the politics aren't in their favor. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/gallery/2022/02/18/the-nations-cartoonists-on-the-week-in-politics-00009962">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
@@ -293,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof">Oregon governor race will go on without Nick Kristof</a> NPR: The Oregon Supreme Court has ruled that former New York Times columnist Nick Kristof does not meet the residency requirement to run for governor there. 
  <p class="updated_time"> 02:31 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081426859/ny-supreme-court-justice-orders-the-trumps-to-testify-under-oath">N.Y. Supreme Court justice orders the Trumps to testify under oath</a> NPR: Trump calls the ruling "a continuation of the greatest Witch Hunt in history." 
- <p class="updated_time"> 01:57 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/trump-deposition-new-york-probe-00009847">Judge orders Trump to sit for deposition in New York investigation</a> Politico: The judge, Arthur Engoron, also ordered the Trumps to turn over relevant documents within two weeks. 
  <p class="updated_time"> 01:27 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
