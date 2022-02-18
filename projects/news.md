@@ -187,12 +187,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:39 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 03:46 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/texas-primary-voting-law.html">Texas Voting Law Leads to Jump in Ballot Application Rejections</a> NYT: Texas Republicans said the state’s new voting law would make it “easy to vote, hard to cheat.” County election officials say it’s sowing confusion ahead of next month’s primaries. 
+ <p class="updated_time"> 03:46 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/economy/china-olympics-corporations-business.html">For Companies, Winning in China Now Means Losing Somewhere Else</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
- <p class="updated_time"> 03:28 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/texas-primary-voting-law.html">Texas Voting Law Leads to Jump in Ballot Application Rejections</a> NYT: Texas Republicans said the state’s new voting law would make it “easy to vote, hard to cheat.” County election officials say it’s sowing confusion ahead of next month’s primaries. 
  <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/trump-january-6-lawsuit-00010249">Judge rejects Trump effort to toss lawsuits accusing him of Jan. 6 conspiracy</a> Politico: In a 112-page ruling, the judge said the evidence suggests Trump assembled the crowd and then instructed the rally-goers to march on the Capitol. 
  <p class="updated_time"> 03:15 PM CT, Feb. 18 </p> 
@@ -217,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/federal-reserve-barring-officials-trades-00010182">Fed adopts broad new rules barring officials from most trades</a> Politico: Most of the new rules will take effect on May 1 and officials will have one year to bring their personal portfolios into alignment. 
  <p class="updated_time"> 01:34 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/melania-trump-charity-donation.html">Charitable Offer by Melania Trump Is Rejected, a Move She Calls ‘Politics’</a> NYT: Mrs. Trump assailed what she called attempts to “cancel her” as she comes under criticism, along with her husband, for post-White House fund-raising efforts. 
+ <p class="updated_time"> 01:25 PM CT, Feb. 18 </p> 
+ <a href="https://www.cnn.com/2022/02/18/politics/putin-russia-ukraine-scenarios-what-matters/index.html">Putin's possible endgames in Ukraine</a> CNN: As the US seeks to convince the world that Russia is bluffing about a drawdown of troops near Ukraine, it's worth considering what's informing Russia's decision-making and what the possible endgame scenarios might be. 
  <p class="updated_time"> 12:47 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081796995/minnesota-rep-jim-hagedorn-dies">Minnesota Rep. Jim Hagedorn has died at 59 after a battle with cancer </a> NPR: U.S. Rep. Jim Hagedorn, a conservative Republican from southern Minnesota who followed his father's footsteps into Congress, has died after a battle with kidney cancer, his wife said. 
  <p class="updated_time"> 12:22 PM CT, Feb. 18 </p> 
@@ -357,6 +359,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 14 </p> 
+ <a href="https://www.cnn.com/2022/02/12/politics/putin-russia-ukraine-us-what-matters/index.html">What created the new, more aggressive Putin</a> CNN: Russia's buildup of troops at its border with Ukraine has created a diplomatic standoff between Russia and the US, the world's two largest nuclear powers. 
  <p class="updated_time"> 04:31 AM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/democrat-gary-peters-50-50-senate-00008320">The low-key Democrat with the unenviable task of defending a 50-50 Senate</a> Politico: Gary Peters isn't just playing defense; he's set the goal of a 52-seat Democratic majority for 2023. 
  <p class="updated_time"> 04:30 AM CT, Feb. 14 </p> 
