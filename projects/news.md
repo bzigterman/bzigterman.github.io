@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:37 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
+ <p class="updated_time"> 01:47 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Call For Mass Evacuation in Eastern Ukraine Raises Alarm</a> NYT: A Russian-backed separatist leader urged 700,000 people to flee the territory, claiming Ukraine was about to attack. Ukraine denied the claim, saying the separatists were trying to sow panic. President Biden is expected to address the crisis after he consults with NATO allies by phone. 
  <p class="updated_time"> 01:33 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
@@ -34,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police start arresting protesters to end the siege of Canada's capital</a> NPR: Police in Ottawa also began towing away trucks in a bid to break the three-week, traffic-snarling siege of Canada's capital by hundreds of truckers angry over COVID-19 restrictions. 
  <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
- <p class="updated_time"> 10:01 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
  <p class="updated_time"> 09:50 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081707415/us-threat-russia-ukraine-invasion-diplomacy">Why U.S. strategy includes raising public alarms on Russia</a> NPR: The threat of Russia invading Ukraine is real, the Biden administration insists. At the same time, top officials say they hope that being vocal about the intelligence they have could deter action. 
  <p class="updated_time"> 09:25 AM CT, Feb. 18 </p> 
@@ -45,9 +45,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
- <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
+ <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
  <p class="updated_time"> 06:59 AM CT, Feb. 18 </p> 
@@ -168,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60418525?at_medium=RSS&at_campaign=KARANGA">The dogs keeping gulls away from seaside diners in Sydney</a> BBC: An Australian cafe is deploying a canine patrol to keep seagulls away from diners. 
  <p class="updated_time"> 04:48 AM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60413638?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: President Zelensky asked about dropping Nato ambitions</a> BBC: The country's president tells the BBC it's about "the future of the people" and independence. 
- <p class="updated_time"> 03:42 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418">Afghan Economy Further Imperiled by U.S. Move to Split Assets</a> WSJ: The Biden administration’s decision to effectively seize the Afghan central bank’s foreign reserves was to help address Afghanistan’s humanitarian crisis while the litigation by the 9/11 victims’ families continues. But many Afghans see the decision as a betrayal of their country, saying those funds weren’t the U.S.’s to keep or spend in the first place. 
  <p class="updated_time"> 08:23 PM CT, Feb. 16 </p> 
@@ -189,12 +187,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/ukraine-calm-russia-invasion-00010198">'Keep a cool head': Ukraine urges calm as the drumbeats of war get louder</a> Politico: Western officials are warning that a Russian invasion could come any day now, but some top Ukrainian officials still think Putin is playing the pressure game. 
  <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/wife-maryland-nuclear-engineer-guilty-espionage-00010207">Wife of Maryland nuclear engineer pleads guilty to espionage</a> Politico: The plea deal comes just days after her husband, Jonathan Toebbe, pleaded guilty to the same espionage-related offense on Monday. 
+ <p class="updated_time"> 01:50 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/material-recovered-from-trump-by-archives-included-classified-information.html">Material Recovered From Trump by Archives Included Classified Information</a> NYT: In a letter to Congress, the National Archives confirmed that boxes taken from the White House by the former president included classified national security documents. 
  <p class="updated_time"> 01:47 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/kim-potter-sentenced-2-years-daunte-wright-death-00010206">Kim Potter sentenced to 2 years in Daunte Wright’s death</a> Politico: Potter was convicted in December of first- and second-degree manslaughter in the killing of Wright. She said she confused her handgun for her Taser when she fatally shot him. 
- <p class="updated_time"> 01:38 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/material-recovered-from-trump-by-archives-included-classified-information.html">Material Recovered From Trump by Archives Included Classified Information</a> NYT: In a letter to Congress, the National Archives confirmed that boxes taken from the White House by the former president included classified national security documents. 
  <p class="updated_time"> 01:38 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/federal-reserve-barring-officials-trades-00010182">Fed adopts broad new rules barring officials from most trades</a> Politico: Most of the new rules will take effect on May 1 and officials will have one year to bring their personal portfolios into alignment. 
  <p class="updated_time"> 01:34 PM CT, Feb. 18 </p> 
