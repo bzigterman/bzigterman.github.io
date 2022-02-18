@@ -42,10 +42,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 07:28 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081682490/hong-kong-covid">'No-COVID' policy drags on Hong Kong's economy as cases surge</a> NPR: With hospitals overwhelmed as Hong Kong sees its most severe outbreak, many fret that sticking to mainland China's "zero-tolerance" strategy may prevent it recovering as a financial and travel hub. 
+ <p class="updated_time"> 07:06 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyber Attacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 06:59 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429726?at_medium=RSS&at_campaign=KARANGA">Malawi finds Africa’s first wild polio case in five years</a> BBC: Africa was declared free of wild polio in 2020 after a major continent-wide vaccination campaign. 
- <p class="updated_time"> 06:30 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Fighter Jets, Cyber</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
+ <p class="updated_time"> 06:56 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/canada-parliament-cancels-session-as-police-clamp-down-on-protesters-11645194677">Ottawa Police Begin Towing Freedom Convoy Trucks From Protest Site</a> WSJ: Dozens of police officers moved in formation to make more arrests as they ramp up efforts to bring an end to a 22-day demonstration against Covid-19 vaccine mandates that has paralyzed Ottawa’s downtown. 
  <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60433364?at_medium=RSS&at_campaign=KARANGA">Greece ferry fire: Hundreds rescued from blaze off Corfu coast</a> BBC: The Euroferry Olympia caught fire in the early hours of Friday morning. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
@@ -72,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html">How China Uses Bots and Fake Twitter Accounts to Shape the Olympics</a> NYT: The country’s propagandists have used a variety of tools online to promote a vision of the Games that is free of rancor or controversy. 
- <p class="updated_time"> 03:53 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/canada-parliament-cancels-session-as-police-clamp-down-on-protesters-11645194677">Canada Parliament Cancels Session as Police Clamp Down on Protesters</a> WSJ: Lawmakers in Ottawa canceled its session on the advice of security officials, in anticipation that police in the capital will continue their efforts to remove Freedom Convoy protesters parked in front of the legislature for the past 22 days. 
  <p class="updated_time"> 03:50 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
  <p class="updated_time"> 03:17 AM CT, Feb. 18 </p> 
@@ -170,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/world/europe/andrew-prince-charles-charity.html">A Charity Led By Prince Charles Is Investigated As Prince Andrew Settles</a> NYT: A day after Prince Andrew settled a sexual assault lawsuit, the police announced they were investigating a charity led by Prince Charles. 
  <p class="updated_time"> 02:10 AM CT, Feb. 17 </p> 
  <a href="https://www.wsj.com/articles/afghan-economy-further-imperiled-by-u-s-move-to-split-assets-11645103418">Afghan Economy Further Imperiled by U.S. Move to Split Assets</a> WSJ: The Biden administration’s decision to effectively seize the Afghan central bank’s foreign reserves was to help address Afghanistan’s humanitarian crisis while the litigation by the 9/11 victims’ families continues. But many Afghans see the decision as a betrayal of their country, saying those funds weren’t the U.S.’s to keep or spend in the first place. 
- <p class="updated_time"> 08:35 PM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/canada/ottawa-protesters-police.html">Defiant Protesters in Canada Brace for a Clampdown</a> NYT: The response of law enforcement in the nation’s capital has been painfully sluggish for many residents. But police signaled they may finally be ready to move in. 
  <p class="updated_time"> 08:23 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/ukraine-russia-putin-nato.html">Ukraine Tensions Spike as West Accuses Russia of Lying About Troop Withdrawal</a> NYT: As Russia stoked hopes of a diplomatic solution and claimed to be pulling back forces from the Ukrainian border, U.S. and NATO officials accused Moscow of building up troops instead. 
  <p class="updated_time"> 06:14 PM CT, Feb. 16 </p> 
