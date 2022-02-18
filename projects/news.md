@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
+ <p class="updated_time"> 06:01 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
  <p class="updated_time"> 05:02 AM CT, Feb. 18 </p> 
@@ -52,6 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
+ <p class="updated_time"> 01:00 AM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">Ukraine Urges Restraint in Face of Shelling</a> WSJ: Shelling intensified in eastern Ukraine, with Kyiv saying its troops have been issued orders to exercise restraint in responding to artillery fire so as to not give Russia a pretext to invade. 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/australia/australia-winter-olympics-medals.html">What Australia’s Success at the Winter Olympics Does (and Doesn’t) Tell You</a> NYT: Australia has won more medals than ever at the 2022 Winter Games, but it’s hard to tell if global respect can turn the country into a winter sports wonderland. 
  <p class="updated_time"> 11:51 PM CT, Feb. 17 </p> 
@@ -104,8 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/africa/mali-france-withdrawal.html">France Announces Troop Withdrawal From Mali After 9-Year Campaign</a> NYT: The pullout came after a falling out between France and Mali, in West Africa, ending a military effort that failed to drive out violent extremists. 
  <p class="updated_time"> 03:16 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/ottawa-protests-media-attention.html">How a Fringe Protest in Canada Became a Very Big Deal </a> NYT: Even after the last trucks are gone, the demonstrations will serve as a template for how small groups can draw intense interest. 
- <p class="updated_time"> 03:12 PM CT, Feb. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-pro-russia-separatists-trade-allegations-of-cease-fire-violations-11645091832">Shelling Picks Up on Front Line Separating Ukraine, Pro-Russia Separatists</a> WSJ: Russian-backed separatists and authorities in Kyiv traded accusations over cease-fire violations in eastern Ukraine as Western governments said Moscow continued to mass troops on Ukraine’s borders. Secretary of State Antony Blinken warned of a looming Russian offensive and proposed a diplomatic meeting with his Russian counterpart that could lead to a summit of key leaders. 
  <p class="updated_time"> 02:32 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/middleeast/kuwait-overturns-transgender-law.html">Kuwait Overturns Law Used to Prosecute Trans People</a> NYT: The country’s constitutional court said the law, which criminalized “imitation of the opposite sex,” violated Kuwaitis’ rights to personal freedom. 
  <p class="updated_time"> 02:12 PM CT, Feb. 17 </p> 
@@ -176,8 +180,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/16/us/politics/us-evacuation-ukraine-kabul.html">U.S. Warns Americans Abroad Not to Count on a Rescue</a> NYT: In Ukraine and Ethiopia, Biden officials have made clear that the 2021 Kabul airlift was a “unique” operation that won’t be repeated. 
  <p class="updated_time"> 12:20 PM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/europe/uk-covid-vaccine-children-ages-5-to-11.html">Britain Will Extend Covid Vaccine Eligibility to All Children 5 to 11</a> NYT: Medically vulnerable children in that age group are already being vaccinated in Britain, following guidance the committee issued in December. 
- <p class="updated_time"> 11:43 AM CT, Feb. 16 </p> 
- <a href="https://www.nytimes.com/2022/02/16/world/putin-table.html">Putin's Long Table Sparks Dispute Over Who Built It</a> NYT: The oval behemoth, where President Vladimir V. Putin has met with world leaders, has become a subject of memes and think pieces, and now of a disagreement between furniture makers. 
  <p class="updated_time"> 08:48 AM CT, Feb. 16 </p> 
  <a href="https://www.nytimes.com/2022/02/16/world/asia/afghanistan-twitter-spaces-taliban.html">Afghans Find Room for Debate on Twitter Spaces</a> NYT: An audio live chat feature on Twitter has become a go-to place for Afghans still recovering from the collapse of the former government and seeking answers on everything from what went wrong to what comes next. 
 
@@ -187,10 +189,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
+ <a href="https://www.npr.org/2022/02/18/1081678604/judge-orders-trump-to-be-desposed-in-new-york-investigation">Judge orders Trump to be desposed in New York investigation </a> NPR: A New York Supreme Court judge has ruled that former President Donald Trump and his children Ivanka and Donald Jr. must appear for a deposition about alleged fraud at the Trump Organization. 
  <p class="updated_time"> 06:15 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/18/exclusive-the-secret-history-of-pences-jan-6-argument-00010081"> Exclusive: The secret history of Pence’s Jan. 6 argument</a> Politico Playbook: And Kevin McCarthy endorses Liz Cheney's challenger. 
  <p class="updated_time"> 05:21 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">They Wanted to Roll Back Tough-on-Crime Policies. Then Violent Crime Surged.</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
+ <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/former-judge-beat-trump-january-6-00010056">The untold story of the former judge who beat Trump on Jan. 6</a> Politico: J. Michael Luttig shares the story of the run-up to the insurrection, and why he thinks it’s time to reform the Electoral Count Act. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/congress-sanctions-russias-aggression-00010051">Why Congress' sanctions push cooled even as Russia's aggression didn't</a> Politico: President Joe Biden got deference this month — a stark contrast with Donald Trump, whose approach to Moscow got handcuffed early. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
@@ -297,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081387083/infrastructure-money-makes-it-a-good-time-to-be-in-the-well-plugging-business">Infrastructure money makes it a good time to be in the well plugging business</a> NPR: Across the country, some 2 million abandoned oil and gas wells are leaking methane, a potent climate-warming gas. Now billions of dollars from the infrastructure law will be spent to cap them. 
  <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081387076/america-is-growing-more-geographically-polarized">The widening political chasm is revealed in real estate data</a> NPR: Red zip codes are getting redder and blue zip codes are getting bluer, causing many to rarely interact with folks with whom they disagree. People are purposely moving to places reflecting their views. 
- <p class="updated_time"> 04:08 AM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081387034/florida-s-house-has-passed-a-bill-banning-abortions-after-15-weeks-of-pregnancy">Florida's House passes a bill banning abortions after 15 weeks of pregnancy</a> NPR: Florida is moving to adopt a ban on abortions after 15 weeks, with no exception for rape or incest. The bill is patterned after the Mississippi abortion ban now before the U.S. Supreme Court. 
  <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">TikTok Star Ava Majury Discovers the Dark Side of Fame</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 09:40 PM CT, Feb. 16 </p> 
@@ -335,8 +341,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/elections-officials-disinformation-midterms-00009285">Election officials are on the frontlines of defending democracy. They didn't sign up for this.</a> Politico: Ten state chief election officials say in interviews they have had to refocus their positions to battle a constant flow of disinformation. This year, they say, will be no different. 
- <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/a-heartland-gop-primary-battle-china-00009095">A heartland GOP primary battle goes all-in on bashing China</a> Politico: A China fear-focused campaign could be a bellwether for 2022 midterms. 
  <p class="updated_time"> 05:37 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/kamala-harris-supreme-court-00009217">Harris works her old Senate colleagues in anticipation of SCOTUS fight</a> Politico: The vice president dialed up Sens. Deb Fischer, Shelley Moore Capito and Joni Ernst on the Supreme Court pick. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
