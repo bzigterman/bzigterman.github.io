@@ -157,7 +157,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:28 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/60406195?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: What’s wrong with natural snow?</a> BBC: Despite heavy snowfall in Beijing, the organisers are still generating the artificial variety. 
  <p class="updated_time"> 06:02 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-60421428?at_medium=RSS&at_campaign=KARANGA">The women at the forefront of Sudan’s protests</a> BBC: Sita el-Nufur, who was killed during anti-military demonstrations, has become an icon for protesters. 
+ <a href="https://www.bbc.co.uk/news/world-60421428?at_medium=RSS&at_campaign=KARANGA">The women at the forefront of Sudan’s protests</a> BBC: Situ el-Nufur, who was killed during anti-military demonstrations, has become an icon for protesters. 
  <p class="updated_time"> 05:40 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60421400?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Three people injured after shell strikes nursery school</a> BBC: Three people were injured after a shell hit a children's music room in Ukraine's Donbas region. 
  <p class="updated_time"> 05:08 PM CT, Feb. 17 </p> 
@@ -198,7 +198,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">What Does Vladimir Putin Want in Ukraine?</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">Explaining Putin’s Decades-Long Obsession With Ukraine</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
  <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
  <p class="updated_time"> 05:47 PM CT, Feb. 18 </p> 
