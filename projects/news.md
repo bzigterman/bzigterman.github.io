@@ -198,7 +198,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">Explaining Putin’s Decades-Long Obsession With Ukraine</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">What Does Vladimir Putin Want in Ukraine?</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
  <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
  <p class="updated_time"> 05:47 PM CT, Feb. 18 </p> 
