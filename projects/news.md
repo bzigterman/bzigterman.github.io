@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:29 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The remaining passengers are all thought to be lorry drivers, according to authorities. 
  <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police have said they have 170 arrests over the past two days of operations in Canada's capital. 
  <p class="updated_time"> 03:33 PM CT, Feb. 19 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: Vice-President Kamala Harris warns Russia of "swift and severe" action if it invades Ukraine. 
  <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/russia-ukraine-timeline.html">A Timeline of the Tensions Between Russia and Ukraine</a> NYT: Here is a look at some key moments leading to Russia’s troop buildup around Ukraine. 
- <p class="updated_time"> 06:01 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The 12 who are still missing are all thought to be truck drivers, according to authorities. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081657319/winter-olympics-environmental-impact">Beijing Olympic organizers are touting a green Games. The reality is much different</a> NPR: Authorities in China said they planted nearly 200,000 acres of forest and green areas prior to the Winter Games. But they also transplanted nearly 20,000 trees, which could endanger animal habitats. 
  <p class="updated_time"> 05:24 AM CT, Feb. 19 </p> 
