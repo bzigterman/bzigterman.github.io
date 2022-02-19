@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:39 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 07:52 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
  <p class="updated_time"> 07:33 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60446826?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: How are people coping with the threat of war?</a> BBC: Three Ukrainians tell the BBC how they have been dealing with life amid fears of a Russian invasion. 
@@ -20,6 +20,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 07:22 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948884/mexican-drug-cartels-are-getting-into-the-avocado-and-lime-business">Mexican drug cartels are getting into the avocado and lime business</a> NPR: Scott Simon talks with Vice News Correspondent Emily Green about the increased role of Mexican drug cartels in the avocado and lime business. 
+ <p class="updated_time"> 07:17 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60444777?at_medium=RSS&at_campaign=KARANGA">Mali soldiers killed days after France announces exit</a> BBC: Eight soldiers died after in a rebel attack in the north-east of the country, the army says. 
  <p class="updated_time"> 07:12 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters want their team medals before the Winter Olympics end</a> NPR: The team is requesting the Court of Arbitration for Sport to rule so its skaters can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
  <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081584395/cristina-calderon-chiles-last-known-yaghan-speaker-dies-at-93">Cristina Calderón, Chile's last known Yaghan speaker, dies at 93</a> NPR: Until the end of her days, Abuela Cristina — as many knew her — bided her time making traditional reed baskets, and sharing the Yaghan language and culture with those around her. 
- <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60417450?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Kamila Valieva treatment by entourage 'chilling' - IOC</a> BBC: It was "chilling" the way a distraught Kamila Valieva was treated by her coach and raises concerns for the future, says IOC president Thomas Bach. 
  <p class="updated_time"> 04:56 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60430014?at_medium=RSS&at_campaign=KARANGA">Brad Pitt sues Angelina Jolie over vineyard where they got married</a> BBC: Brad Pitt and Angelina Jolie do battle over ownership of the French vineyard where they got married. 
  <p class="updated_time"> 04:52 AM CT, Feb. 18 </p> 
