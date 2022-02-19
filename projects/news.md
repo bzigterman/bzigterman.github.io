@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:19 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 02:35 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Separatists Issue Call to Arms</a> NYT: President Biden said he was “convinced” that Russia would attack Ukraine in the coming days, calling it “a catastrophic and needless war of choice.” 
+ <p class="updated_time"> 02:21 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/as-warnings-of-war-grow-louder-ukrainians-try-to-keep-their-bearings.html">As warnings of war grow louder, Ukrainians try to keep their bearings.</a> NYT: The crisis has taken a toll on many Ukrainians. 
  <p class="updated_time"> 02:19 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
- <p class="updated_time"> 02:07 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/as-warnings-of-war-grow-louder-ukrainians-try-to-keep-their-bearings.html">As warnings of war grow louder, Ukrainians try to keep their bearings.</a> NYT: The crisis has taken a toll on many Ukrainians. 
  <p class="updated_time"> 02:03 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
@@ -304,7 +304,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">The United States’ Message to Russia: Prove Us Wrong</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
  <p class="updated_time"> 07:51 PM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:06 PM CT, Feb. 17 </p> 
