@@ -8,9 +8,13 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/storm-eunice-aftermath.html">Storm Eunice Kills at Least 8</a> NYT: Gusts toppled trees and sent debris flying, leaving tens of thousands without power and disrupting travel a day later. 
  <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
- <p class="updated_time"> 01:23 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/climate/the-search-has-begun-for-an-antarctic-pioneers-lost-ship.html">The Search Has Begun for an Antarctic Pioneer’s Lost Ship</a> NYT: Explorers have started combing the Weddell Sea for one of the most revered ships in the history of polar exploration, Ernest Shackleton’s Endurance, which sank in 1915. 
+ <p class="updated_time"> 01:37 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
  <p class="updated_time"> 01:21 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
@@ -53,13 +57,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:53 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 08:50 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">VP Harris vows swift and severe sanctions against Russia if it invades Ukraine</a> NPR: The vice president met with Ukraine President Volodymyr Zelenskyy at the Munich Security Conference in Germany as the threat of Russian invasion of Ukraine continues to grow. 
+ <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">Ukraine President Zelenskyy proposes to meet with Putin as tensions with Russia grow </a> NPR: The vice president met with Ukraine President Volodymyr Zelenskyy at the Munich Security Conference in Germany as the threat of Russian invasion of Ukraine continues to grow. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Lukashenko Once Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
  <p class="updated_time"> 08:01 AM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/kamala-harris-warns-of-russian-deception-on-ukraine-as-vladimir-putin-oversees-missiletests-11645284503">Harris Warns of Russian Deception on Ukraine</a> WSJ: The U.S. vice president said Russia’s actions make a diplomatic solution less likely during the Munich Security Conference. 
  <p class="updated_time"> 07:56 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. Though many protesters left or were arrested Friday, dozens remained Saturday. 
+ <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. 
  <p class="updated_time"> 07:33 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60446826?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: How are people coping with the threat of war?</a> BBC: Three Ukrainians tell the BBC how they have been dealing with life amid fears of a Russian invasion. 
  <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
@@ -114,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-60429635?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 12-18 February 2022</a> BBC: A selection of powerful images from all over the globe, taken in the last seven days. 
  <p class="updated_time"> 06:17 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60299136?at_medium=RSS&at_campaign=KARANGA">The amateur historians chronicling Delhi's past on Instagram</a> BBC: Some amateur historians are documenting neglected corners of Delhi, one Instagram post at a time. 
- <p class="updated_time"> 05:13 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was headed to Davisville, R.I. 
  <p class="updated_time"> 05:12 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least seven deaths were reported. 
  <p class="updated_time"> 05:05 PM CT, Feb. 18 </p> 
@@ -142,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
- <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 11:56 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60439402?at_medium=RSS&at_campaign=KARANGA">Daunte Wright's mother slams Kim Potter's sentence</a> BBC: Kim Potter begs for forgiveness but Daunte Wright's mother doesn't believe the ex-cop feels remorse. 
  <p class="updated_time"> 11:35 AM CT, Feb. 18 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:35 PM CT, Feb. 19 </p> 
+ <a href="https://www.politico.com/news/2022/02/19/bill-gates-fight-covid-future-pandemics-00010371">Bill Gates says there's a better way to fight Covid, future pandemics</a> Politico: In interview with POLITICO, the billionaire philanthropist lays out a battle plan that goes beyond responding to the coronavirus. 
  <p class="updated_time"> 01:17 PM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/larry-ellison-pumps-15m-into-super-pac-aligned-with-tim-scott-00010377">Larry Ellison pumps $15M into super PAC aligned with Tim Scott</a> Politico: The donation brings the Oracle chair's giving to the group, Opportunity Matters Fund, to $25 million. 
  <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
@@ -206,11 +208,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948814/week-in-politics-biden-tries-for-diplomacy-with-russia-trump-faces-legal-challen">Week in politics: Biden tries for diplomacy with Russia; Trump faces legal challenges</a> NPR: President Biden is more certain than ever that Russia will invade Ukraine. Also, former president Donald Trump loses a court case, and three San Francisco school board members are recalled. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
+ <a href="https://www.politico.com/news/2022/02/19/covid-hospitals-data-00010283">Nowhere is safe: Record number of patients contracted Covid in the hospital in January</a> Politico: More hospital patients contracted Covid-19 last month than at any point of the pandemic, a POLITICO analysis of federal health data shows. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/race-and-ethnicity-debate-complicates-tech-antitrust-fight-00009952">Tech giants recruit defenders among communities of color</a> Politico: Groups backed by the tech giants say proposals for tougher enforcement would harm Black- and Hispanic-owned businesses. The industry’s critics aren’t buying it. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/china-investments-economy-us-congress-00008745">‘We’re in an economic war:’ White House, Congress weigh new oversight of U.S. investments in China</a> Politico: The proposals could mean unprecedented federal oversight of American businesses abroad. But supporters say they're needed to combat China's economic rise. 
- <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/covid-hospitals-data-00010283">Nowhere is safe: Record number of patients contracted Covid in the hospital in January</a> Politico: More hospital patients contracted Covid-19 last month than at any point of the pandemic, a POLITICO analysis of federal health data shows. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/cow-manure-new-york-california-emissions-00007370">How cow manure from New York is bolstering California's emissions goals</a> Politico: New York dairy farms are using clean gas produced by cow manure, putting it in trucks, injecting it into an interstate pipeline — and selling the environmental benefits across the country. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
@@ -255,8 +257,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/trump-january-6-lawsuit-00010249">Judge rejects Trump effort to toss lawsuits accusing him of Jan. 6 conspiracy</a> Politico: In a 112-page ruling, the judge said the evidence suggests Trump assembled the crowd and then instructed the rally-goers to march on the Capitol. 
- <p class="updated_time"> 03:15 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/fda-infant-formula-illness-four-months-before-recall-00010226">FDA learned of suspected infant formula illness four months before recall</a> Politico: The Minnesota Department of Health investigated a case of an infant who was sickened by Cronobacter sakazakii in September 2021, the state agency told POLITICO. 
  <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
