@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:16 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 10:50 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Truckers at Ottawa Protest Arrested at Gunpoint as Police Advance </a> NYT: The operation appeared to be a final salvo in the government’s effort to break up weekslong protests that have roiled Canada’s capital. 
- <p class="updated_time"> 10:14 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 10:41 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
  <p class="updated_time"> 09:59 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443518?at_medium=RSS&at_campaign=KARANGA">Epstein: Model scout Jean-Luc Brunel found dead in jail</a> BBC: Jean-Luc Brunel faced trial over accusations of sexual harassment and the rape of minors in France. 
@@ -43,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:17 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60444777?at_medium=RSS&at_campaign=KARANGA">Mali soldiers killed days after France announces exit</a> BBC: Eight soldiers died after in a rebel attack in the north-east of the country, the army says. 
  <p class="updated_time"> 07:12 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters want their team medals before the Winter Olympics end</a> NPR: The team is requesting the Court of Arbitration for Sport to rule so its skaters can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal 
+ <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters won't get their team medals before the Winter Olympics end</a> NPR: The American team had asked the Court of Arbitration for Sport to rule they can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal. 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
  <p class="updated_time"> 07:07 AM CT, Feb. 19 </p> 
@@ -68,10 +68,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/arts/design/project-of-independence-moma-review.html">When Architects Made Worlds</a> NYT: MoMA explores an era of sweeping change, when South Asian architects — pioneering women, among them — redefined the postcolonial era and helped construct new nation states. 
  <p class="updated_time"> 03:09 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60443514?at_medium=RSS&at_campaign=KARANGA">Mexican army moves in on drug lord's home town</a> BBC: Landmines planted by rival gangs in the area killed one and injured others in recent weeks. 
+ <p class="updated_time"> 02:30 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438">Breakaway Regions in Ukraine Issue Call-Up Orders as Russia Tests Missiles</a> WSJ: The moves come after President Biden said that he expected his Russian counterpart to invade Ukraine in the coming days, with targets including the nation’s capital, Kyiv. 
  <p class="updated_time"> 02:19 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
- <p class="updated_time"> 01:42 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/russia-test-launches-ballistic-and-cruise-missiles-11645271129">Russia Test-Launches Ballistic and Cruise Missiles</a> WSJ: President Vladimir Putin oversaw the test launches of ballistic and cruise missiles in what the Kremlin described as strategic deterrence exercises, a reminder of its ability to wage nuclear war amid a standoff with the West over Ukraine. 
+ <p class="updated_time"> 12:25 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/russian-naval-drills-threaten-ukraines-limited-coastal-defenses-11645269902">Russian Naval Drills Threaten Ukraine's Limited Coastal Defenses</a> WSJ: The naval exercises in the waters around Ukraine pose a threat to key ports and infrastructure, with the Russian vessels and seaborne missiles potentially playing a key role in an invasion. 
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
  <p class="updated_time"> 10:36 PM CT, Feb. 18 </p> 
@@ -130,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60439402?at_medium=RSS&at_campaign=KARANGA">Daunte Wright's mother slams Kim Potter's sentence</a> BBC: Kim Potter begs for forgiveness but Daunte Wright's mother doesn't believe the ex-cop feels remorse. 
  <p class="updated_time"> 11:35 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60416617?at_medium=RSS&at_campaign=KARANGA">Maëlys de Araujo: Ex-soldier jailed for life for French girl's murder</a> BBC: Eight-year-old Maëlys de Araujo was abducted and then killed at a wedding five years ago. 
- <p class="updated_time"> 11:23 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-installed-authorities-in-ukraines-donbas-proclaim-evacuation-of-civilian-residents-11645219700">Russian-Installed Authorities in Ukraine's Donbas Proclaim Evacuation of Civilian Residents</a> WSJ: Kyiv, West condemn the move as a provocation aimed at justifying a Russian invasion of Ukraine. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
  <p class="updated_time"> 10:52 AM CT, Feb. 18 </p> 
@@ -142,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
- <p class="updated_time"> 10:19 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/u-s-pushes-iran-to-release-american-prisoners-as-nuclear-talks-progress-11645188244">U.S. Pushes Iran to Release American Prisoners as Nuclear Talks Progress</a> WSJ: As the U.S., Iran and other world powers make progress toward a nuclear deal, a separate set of talks is under way and closely linked: an effort to free American and European prisoners held by Iran. 
  <p class="updated_time"> 09:50 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081707415/us-threat-russia-ukraine-invasion-diplomacy">Why U.S. strategy includes raising public alarms on Russia</a> NPR: The threat of Russia invading Ukraine is real, the Biden administration insists. At the same time, top officials say they hope that being vocal about the intelligence they have could deter action. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
@@ -164,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
  <p class="updated_time"> 03:50 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
- <p class="updated_time"> 01:59 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-postpones-choosing-next-leader-amid-record-covid-19-outbreak-11645188376">Hong Kong Postpones Choosing Its Next Leader as Covid-19 Surges</a> WSJ: Current Chief Executive Carrie Lam said the election was being delayed amid a surge of thousands of coronavirus cases recorded in recent days. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
@@ -191,10 +187,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 11:07 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/modeling-agent-close-to-epstein-found-dead-in-french-jail-00010367">Modeling agent close to Epstein found dead in French jail</a> Politico: Victims of the alleged abuse described shock and dismay that the agent, Jean-Luc Brunel, will never face trial. 
+ <p class="updated_time"> 10:39 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365"> World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
- <p class="updated_time"> 10:23 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 09:45 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
