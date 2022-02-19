@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:53 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Truckers at Ottawa Protest Arrested at Gunpoint as Police Advance </a> NYT: The operation appeared to be a final salvo in the government’s effort to break up weekslong protests that have roiled Canada’s capital. 
+ <p class="updated_time"> 01:49 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/storm-eunice-aftermath.html">Storm Eunice Kills at Least 8</a> NYT: Gusts toppled trees and sent debris flying, leaving tens of thousands without power and disrupting travel a day later. 
  <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/climate/the-search-has-begun-for-an-antarctic-pioneers-lost-ship.html">The Search Has Begun for an Antarctic Pioneer’s Lost Ship</a> NYT: Explorers have started combing the Weddell Sea for one of the most revered ships in the history of polar exploration, Ernest Shackleton’s Endurance, which sank in 1915. 
+ <a href="https://www.nytimes.com/2022/02/19/climate/antarctic-shackleton-search.html">The Search Has Begun for an Antarctic Pioneer’s Lost Ship</a> NYT: Explorers have started combing the Weddell Sea for one of the most revered ships in the history of polar exploration, Ernest Shackleton’s Endurance, which sank in 1915. 
  <p class="updated_time"> 01:37 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
  <p class="updated_time"> 01:21 PM CT, Feb. 19 </p> 
@@ -34,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">Soaring Energy Bills Deepen Crisis for Turks, and Erdogan</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
  <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
- <p class="updated_time"> 11:32 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Truckers at Ottawa Protest Arrested at Gunpoint as Police Advance </a> NYT: The operation appeared to be a final salvo in the government’s effort to break up weekslong protests that have roiled Canada’s capital. 
  <p class="updated_time"> 11:20 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead">Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell</a> NPR: Brunel, a modeling agent, was being held in an investigation into the rape of minors and trafficking of minors for sexual exploitation, according to the Paris prosecutor's office. 
  <p class="updated_time"> 11:14 AM CT, Feb. 19 </p> 
@@ -57,7 +59,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:53 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 08:50 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">Ukraine President Zelenskyy proposes to meet with Putin as tensions with Russia grow </a> NPR: The vice president met with Ukraine President Volodymyr Zelenskyy at the Munich Security Conference in Germany as the threat of Russian invasion of Ukraine continues to grow. 
+ <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">Ukraine President Zelenskyy proposes to meet with Putin as tensions with Russia grow </a> NPR: As fears grow of a Russian invasion of his country, the Ukrainian president offered to meet with his Russian counterpart. The U.S. warned of swift sanctions against Russia if it moves into Ukraine. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Lukashenko Once Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
  <p class="updated_time"> 08:01 AM CT, Feb. 19 </p> 
@@ -174,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/australia/australia-winter-olympics-medals.html">What Australia’s Success at the Winter Olympics Does (and Doesn’t) Tell You</a> NYT: Australia has won more medals than ever at the 2022 Winter Games, but it’s hard to tell if global respect can turn the country into a winter sports wonderland. 
- <p class="updated_time"> 10:31 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/asia/olympics-curling-japan-beijing.html">East Asia Becomes a Curling Powerhouse</a> NYT: In recent years, Japan, China and South Korea have embraced the sport, investing resources, creating celebrities and changing the competitive landscape. 
  <p class="updated_time"> 06:02 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-60421428?at_medium=RSS&at_campaign=KARANGA">The women at the forefront of Sudan’s protests</a> BBC: Situ el-Nufur, who was killed during anti-military demonstrations, has become an icon for protesters. 
 
