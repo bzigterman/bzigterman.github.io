@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:47 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 11:26 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Citing U.S. Intelligence, Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia would target Kyiv, Ukraine’s capital, in the coming week. The Russian president said earlier Friday that he was still open to diplomacy. 
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">Who is the coach who gave Valieva the cold shoulder?</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
  <p class="updated_time"> 10:32 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be postponed until May 8. 
  <p class="updated_time"> 10:18 PM CT, Feb. 18 </p> 
