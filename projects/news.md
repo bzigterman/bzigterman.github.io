@@ -8,22 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:58 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 04:14 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Once He Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
+ <p class="updated_time"> 04:05 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Separatists Issue Call to Arms</a> NYT: President Biden said he was “convinced” that Russia would attack Ukraine in the coming days, calling it “a catastrophic and needless war of choice.” 
+ <p class="updated_time"> 04:05 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">What to Know About the Crisis With Russia</a> NYT: Here’s how the country ended up at the center of a global crisis. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/arts/design/project-of-independence-moma-review.html">When Architects Made Worlds</a> NYT: MoMA explores an era of sweeping change, when South Asian architects — pioneering women, among them — redefined the postcolonial era and helped construct new nation states. 
+ <p class="updated_time"> 03:54 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
  <p class="updated_time"> 03:09 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60443514?at_medium=RSS&at_campaign=KARANGA">Mexican army moves in on drug lord's home town</a> BBC: Landmines planted by rival gangs in the area killed one and injured others in recent weeks. 
  <p class="updated_time"> 02:21 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/as-warnings-of-war-grow-louder-ukrainians-try-to-keep-their-bearings.html">As warnings of war grow louder, Ukrainians try to keep their bearings.</a> NYT: The crisis has taken a toll on many Ukrainians. 
  <p class="updated_time"> 02:19 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
- <p class="updated_time"> 02:03 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
+ <p class="updated_time"> 10:36 PM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/in-old-school-catholic-poland-youth-are-leaving-the-church-11645263383">In Traditionally Catholic Poland, Youth Are Leaving the Church</a> WSJ: Poland is known as Europe’s last Catholic bastion but religiosity among the young is falling, suggesting the country could soon look much like its western neighbors in religious terms, with broader implications for its society and politics. 
  <p class="updated_time"> 10:32 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be postponed until May 8. 
- <p class="updated_time"> 10:18 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60436938?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden says he is convinced Putin has decided to invade</a> BBC: An invasion could happen in days and the capital Kyiv will be a target, the US president says. 
  <p class="updated_time"> 10:00 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 08:17 PM CT, Feb. 18 </p> 
@@ -130,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/south-korea-election-covid.html">South Korea Prepares for Another Covid-Era National Election</a> NYT: The government requires people with Covid to remain in isolation at home, but a special time window on Election Day would allow them to leave to cast their ballots. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
- <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/technology/china-olympics-propaganda.html">How China Uses Bots and Fake Twitter Accounts to Shape the Olympics</a> NYT: The country’s propagandists have used a variety of tools online to promote a vision of the Games that is free of rancor or controversy. 
  <p class="updated_time"> 03:50 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
  <p class="updated_time"> 03:17 AM CT, Feb. 18 </p> 
@@ -178,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/world/australia/australia-covid-vaccine-children-ages-6-to-11.html">Australia Authorizes Moderna’s Covid Vaccine for Children Ages 6 to 11</a> NYT: The country is the first to grant provisional authority for the Moderna vaccine to be used in children younger than 12. 
  <p class="updated_time"> 10:34 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/police-enforcement-truckers-indigenous.html">Friendly Police Response to Protests Raises Questions Among Canadians</a> NYT: Images on social media contrast the response to the truckers with heavy-handed action last year against Indigenous people who blocked logging. 
- <p class="updated_time"> 10:32 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/australia/rosalie-kunoth-monks-dead.html">Rosalie Kunoth-Monks, Champion of Indigenous Peoples, Dies at 85</a> NYT: As a teenager, she was the star of a film about an Aboriginal girl raised by a white family. As an adult, she fought discrimination in Australia against her people. 
 
 
 </details>
@@ -187,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 07:12 PM CT, Feb. 18 </p> 
@@ -309,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:06 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081609073/19-austin-police-officers-indicted-from-investigation-into-2020-protests-sources">19 Austin police officers indicted from investigation into 2020 protests, sources say</a> NPR: Aggravated assault charges are among the most on a single police department over tactics used during the widespread protests over George Floyd's death. 
- <p class="updated_time"> 06:00 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/joe-biden-ronald-reagan-economy.html">What President Biden Could Learn from Ronald Reagan</a> NYT: Blame is a hallmark of American politics. Ronald Reagan couldn’t escape it in his first midterm elections 40 years ago. Can Biden? 
  <p class="updated_time"> 05:54 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081570341/the-senate-avoids-a-government-shutdown-punting-a-spending-deadline-into-march">The Senate avoids a government shutdown, punting a spending deadline into March</a> NPR: Lawmakers hope to finalize a longer-term spending bill before the new shutdown deadline on March 11. 
  <p class="updated_time"> 05:30 PM CT, Feb. 17 </p> 
