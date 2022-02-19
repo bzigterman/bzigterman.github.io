@@ -1170,8 +1170,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">323.0K</td>
-<td class="gt_row gt_right">118.0K</td>
-<td class="gt_row gt_right">&minus;63&percnt;</td></tr>
+<td class="gt_row gt_right">111.0K</td>
+<td class="gt_row gt_right">&minus;66&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">108.0K</td>
 <td class="gt_row gt_right gt_striped">68.7K</td>
@@ -1179,7 +1179,7 @@ html {
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">2.5K</td>
 <td class="gt_row gt_right">2.2K</td>
-<td class="gt_row gt_right">&minus;12&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;13&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">502.0K</td>
 <td class="gt_row gt_right gt_striped">201.0K</td>
@@ -1195,7 +1195,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   
@@ -1581,11 +1581,11 @@ html {
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">2.9M</td>
 <td class="gt_row gt_right">1.9M</td>
-<td class="gt_row gt_right">&minus;33&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;34&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">10.5K</td>
-<td class="gt_row gt_right gt_striped">10.4K</td>
-<td class="gt_row gt_right gt_striped">&minus;1&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">10.2K</td>
+<td class="gt_row gt_right gt_striped">&minus;3&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">18.8M</td>
 <td class="gt_row gt_right">32.0M</td>
@@ -1601,7 +1601,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   
@@ -1610,12 +1610,12 @@ html {
 
 ## Case Acceleration
 
-As of Thursday, the 14-day percent change in average new cases was:
+As of Friday, the 14-day percent change in average new cases was:
   
 - -73% in Champaign County
 - -65% in Illinois
-- -67% in the United States
-- -35% worldwide
+- -66% in the United States
+- -34% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -1627,11 +1627,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Thursday, the 14-day percent change in average new deaths was:
+As of Friday, the 14-day percent change in average new deaths was:
   
 - -31% in Illinois
-- -11% in the United States
-- 0% worldwide
+- -13% in the United States
+- -3% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
