@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Separatists Issue Call to Arms</a> NYT: President Biden said he was “convinced” that Russia would attack Ukraine in the coming days, calling it “a catastrophic and needless war of choice.” 
- <p class="updated_time"> 05:13 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 05:47 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
+ <p class="updated_time"> 05:43 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Separatists Issue Call to Arms</a> NYT: President Biden said he was “convinced” that Russia would attack Ukraine in the coming days, calling it “a catastrophic and needless war of choice.” 
  <p class="updated_time"> 05:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
  <p class="updated_time"> 04:31 AM CT, Feb. 19 </p> 
@@ -162,12 +162,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
  <p class="updated_time"> 08:01 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081620129/porsche-volkswagen-burning-cargo-ship">A burning cargo ship full of Porsches and VWs is adrift in the mid-Atlantic</a> NPR: The Portuguese navy rescued the 22-member crew from the Felicity Ace, which was scheduled to arrive in the port of Davisville, R.I., next week. None of the crew was injured. 
- <p class="updated_time"> 06:28 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/60406195?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: What’s wrong with natural snow?</a> BBC: Despite heavy snowfall in Beijing, the organisers are still generating the artificial variety. 
  <p class="updated_time"> 06:02 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-60421428?at_medium=RSS&at_campaign=KARANGA">The women at the forefront of Sudan’s protests</a> BBC: Situ el-Nufur, who was killed during anti-military demonstrations, has become an icon for protesters. 
- <p class="updated_time"> 05:40 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60421400?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Three people injured after shell strikes nursery school</a> BBC: Three people were injured after a shell hit a children's music room in Ukraine's Donbas region. 
  <p class="updated_time"> 05:08 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081594481/the-candy-bomber-who-dropped-sweets-during-the-berlin-airlift-has-died-at-age-10">The 'Candy Bomber' who dropped sweets during the Berlin airlift has died at age 101</a> NPR: "Halvorsen's deeply human act has never been forgotten," Berlin Mayor Franziska Giffey said in a statement. 
  <p class="updated_time"> 04:42 PM CT, Feb. 17 </p> 
