@@ -8,6 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:12 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters want their team medals before the 2022 Winter Olympics end</a> NPR: The team is requesting the Court of Arbitration for Sport rule so its skaters can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal 
+ <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
+ <p class="updated_time"> 07:07 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/putin-ukraine-genocide.html">Putin’s Baseless Claims of Genocide Hint at More Than War</a> NYT: The invocations serve to justify not just Moscow’s actions in Ukraine, but also its wider quest for a new imperial identity rooted in Russian ethnicity. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081948821/police-begin-to-clear-encamped-protesters-from-outside-canadian-parliament">Police begin to clear encamped protesters from outside Canadian Parliament</a> NPR: Three weeks into a protest over Canada's COVID-19 rules, authorities have begun to arrest protesters and clear trucks parked around the parliament building in Ottawa. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081948807/biden-says-u-s-intelligence-signals-russia-has-decided-it-will-invade-ukraine">Biden says U.S. intelligence signals Russia has decided it will invade Ukraine</a> NPR: In the Donbas region of eastern Ukraine, shelling has intensified over the past 24 hours, and one government soldier was killed as Russian-backed separatists continue fighting. 
  <p class="updated_time"> 06:40 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
  <p class="updated_time"> 06:38 AM CT, Feb. 19 </p> 
@@ -142,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in flood-hit Brazil city</a> BBC: Residents flee Petrópolis and the rescue mission is paused as more heavy rain is forecast. 
  <p class="updated_time"> 04:43 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081667709/russia-says-it-will-stage-massive-nuclear-drills-amid-ukraine-standoff">Russia says it will stage nuclear drills amid Ukraine standoff</a> NPR: Russia's The Defense Ministry says  President Vladimir Putin will personally oversee this weekend's exercise. 
- <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081479756/despite-the-threat-of-war-some-americans-in-ukraine-are-staying-put">Despite the threat of war, some Americans in Ukraine are staying put</a> NPR: The U.S. government is telling Americans it's "past time" to leave Ukraine. But James Berk, an optician from New Jersey, has a Ukrainian wife and a newborn baby. For now, they're staying put. 
  <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/south-korea-election-covid.html">South Korea Prepares for Another Covid-Era National Election</a> NYT: The government requires people with Covid to remain in isolation at home, but a special time window on Election Day would allow them to leave to cast their ballots. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
@@ -152,22 +160,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
  <p class="updated_time"> 03:17 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was reportedly unresponsive when he was pulled out days after he had fallen down the well. 
- <p class="updated_time"> 02:42 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081658549/canadian-police-arrest-2-leaders-of-protesting-truckers">Canadian police arrest 2 leaders of protesting truckers</a> NPR: The  police action took place in Ottawa, the protest movement's last stronghold, after weeks of demonstrations and blockades that shut down border crossings into the U.S. 
  <p class="updated_time"> 01:59 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-postpones-choosing-next-leader-amid-record-covid-19-outbreak-11645188376">Hong Kong Postpones Choosing Its Next Leader as Covid-19 Surges</a> WSJ: Current Chief Executive Carrie Lam said the election was being delayed amid a surge of thousands of coronavirus cases recorded in recent days. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/australia/australia-winter-olympics-medals.html">What Australia’s Success at the Winter Olympics Does (and Doesn’t) Tell You</a> NYT: Australia has won more medals than ever at the 2022 Winter Games, but it’s hard to tell if global respect can turn the country into a winter sports wonderland. 
- <p class="updated_time"> 11:43 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/18/1081651604/olympic-committee-leader-says-hes-disturbed-by-coachs-treatment-of-kamila-valiev">Olympic Committee leader says he's 'disturbed' by coach's treatment of Kamila Valieva</a> NPR: International Olympic Committee President Thomas Bach resisted implementing any immediate changes despite speaking of concerns for minor athletes like Valieva. 
  <p class="updated_time"> 10:31 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/asia/olympics-curling-japan-beijing.html">East Asia Becomes a Curling Powerhouse</a> NYT: In recent years, Japan, China and South Korea have embraced the sport, investing resources, creating celebrities and changing the competitive landscape. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
- <p class="updated_time"> 08:01 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081620129/porsche-volkswagen-burning-cargo-ship">A burning cargo ship full of Porsches and VWs is adrift in the mid-Atlantic</a> NPR: The Portuguese navy rescued the 22-member crew from the Felicity Ace, which was scheduled to arrive in the port of Davisville, R.I., next week. None of the crew was injured. 
  <p class="updated_time"> 06:02 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-60421428?at_medium=RSS&at_campaign=KARANGA">The women at the forefront of Sudan’s protests</a> BBC: Situ el-Nufur, who was killed during anti-military demonstrations, has become an icon for protesters. 
  <p class="updated_time"> 04:25 PM CT, Feb. 17 </p> 
@@ -185,6 +187,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081948814/week-in-politics-biden-tries-for-diplomacy-with-russia-trump-faces-legal-challen">Week in politics: Biden tries for diplomacy with Russia; Trump faces legal challenges</a> NPR: President Biden is more certain than ever that Russia will invade Ukraine. Also, former president Donald Trump loses a court case, and three San Francisco school board members are recalled. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/race-and-ethnicity-debate-complicates-tech-antitrust-fight-00009952">Race and ethnicity debate complicates tech antitrust fight</a> Politico: Groups backed by the tech giants say proposals for tougher enforcement would harm Black- and Hispanic-owned businesses. The industry’s critics aren’t buying it. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
@@ -247,6 +253,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:23 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/newsom-texas-style-bill-sue-gun-makers-00010201">Newsom announces Texas-style bill that would let residents sue gun makers</a> Politico: New California legislation encouraging litigation against makers and dealers of assault rifles and ghost guns is modeled on a Texas law allowing people to sue abortion providers. 
+ <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/ukraine-calm-russia-invasion-00010198">'Keep a cool head': Ukraine urges calm as the drumbeats of war get louder</a> Politico: Western officials are warning that a Russian invasion could come any day now, but some top Ukrainian officials still think Putin is playing the pressure game. 
  <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/wife-maryland-nuclear-engineer-guilty-espionage-00010207">Wife of Maryland nuclear engineer pleads guilty to espionage</a> Politico: The plea deal comes just days after her husband, Jonathan Toebbe, pleaded guilty to the same espionage-related offense on Monday. 
  <p class="updated_time"> 01:47 PM CT, Feb. 18 </p> 
@@ -297,16 +305,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
- <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081661666/morning-news-brief">News brief: Russia-Ukraine crisis, Trump ruling, IOC president's news conference</a> NPR: VP Harris is in Germany for meetings on Ukraine. N.Y. Supreme Court judge orders Donald Trump to testify under oath. The president of the International Olympic Committee holds a news conference. 
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
  <p class="updated_time"> 07:51 PM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 06:06 PM CT, Feb. 17 </p> 
- <a href="https://www.npr.org/2022/02/17/1081609073/19-austin-police-officers-indicted-from-investigation-into-2020-protests-sources">19 Austin police officers indicted from investigation into 2020 protests, sources say</a> NPR: Aggravated assault charges are among the most on a single police department over tactics used during the widespread protests over George Floyd's death. 
  <p class="updated_time"> 05:30 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
