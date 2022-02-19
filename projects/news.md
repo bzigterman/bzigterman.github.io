@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:31 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 12:41 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
+ <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police work to clear protesters around Canada's Parliament building</a> NPR: After making more than 100 arrests Friday, police in Ottawa focused on the area surrounding Parliament. In a warning to protesters, police tweeted: "We told you to leave. We gave you time to leave." 
  <p class="updated_time"> 12:25 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60448716?at_medium=RSS&at_campaign=KARANGA">Storm Eunice carves deadly trail across Europe</a> BBC: At least 14 people have died as high winds leave homes without power and transport systems in disarray. 
  <p class="updated_time"> 12:24 PM CT, Feb. 19 </p> 
@@ -78,10 +80,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/russia-ukraine-timeline.html">A Timeline of the Tensions Between Russia and Ukraine</a> NYT: Here is a look at some key moments leading to Russia’s troop buildup around Ukraine. 
  <p class="updated_time"> 06:28 AM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. Though many protesters left or were arrested Friday, more than 100 remained Saturday. 
+ <p class="updated_time"> 06:20 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/kamala-harris-warns-of-russian-deception-on-ukraine-as-vladimir-putin-oversees-missiletests-11645284503">Harris Warns of Russian Deception on Ukraine</a> WSJ: The U.S. vice president said Russia’s actions make a diplomatic solution less likely during the Munich Security Conference. 
  <p class="updated_time"> 06:01 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The 12 who are still missing are all thought to be truck drivers, according to authorities. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081657319/winter-olympics-environmental-impact">Beijing Olympic organizers are touting a green Games. The reality is much different</a> NPR: Authorities in China said they planted nearly 200,000 acres of forest and green areas prior to the Winter Games. But they also transplanted nearly 20,000 trees, which could endanger animal habitats. 
+ <p class="updated_time"> 05:24 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/jean-luc-brunel-an-associate-of-jeffrey-epstein-found-dead-in-paris-prison-11645287842">Jean-Luc Brunel, an Associate of Jeffrey Epstein, Found Dead in Paris Prison</a> WSJ: The modeling agent and close associate of convicted sex offender Jeffrey Epstein was found hanged in his cell on Friday night. 
  <p class="updated_time"> 05:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
@@ -90,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60443514?at_medium=RSS&at_campaign=KARANGA">Mexican army moves in on drug lord's home town</a> BBC: Landmines planted by rival gangs in the area killed one and injured others in recent weeks. 
  <p class="updated_time"> 02:19 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
- <p class="updated_time"> 12:25 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/russian-naval-drills-threaten-ukraines-limited-coastal-defenses-11645269902">Russian Naval Drills Threaten Ukraine's Limited Coastal Defenses</a> WSJ: The naval exercises in the waters around Ukraine pose a threat to key ports and infrastructure, with the Russian vessels and seaborne missiles potentially playing a key role in an invasion. 
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
  <p class="updated_time"> 10:36 PM CT, Feb. 18 </p> 
@@ -131,7 +135,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">U.S. says a separatist call to flee east Ukraine for Russia is a false flag</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing to invade the area. The U.S. says it's "disinformation." 
+ <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">A separatist call to flee east Ukraine for Russia was recorded 2 days earlier </a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing an offensive in the area. The U.S. says it's "disinformation." 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
@@ -152,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
- <p class="updated_time"> 09:50 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081707415/us-threat-russia-ukraine-invasion-diplomacy">Why U.S. strategy includes raising public alarms on Russia</a> NPR: The threat of Russia invading Ukraine is real, the Biden administration insists. At the same time, top officials say they hope that being vocal about the intelligence they have could deter action. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
@@ -187,14 +189,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:17 PM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/larry-ellison-pumps-15m-into-super-pac-aligned-with-tim-scott-00010377">Larry Ellison pumps $15M into super PAC aligned with Tim Scott</a> Politico: The donation brings the Oracle chair's giving to the group, Opportunity Matters Fund, to $25 million. 
+ <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 12:18 PM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/despite-years-of-preparation-ukraines-electric-grid-still-far-from-ready-for-russian-hackers-00010373">Despite years of preparation, Ukraine’s electric grid still far from ready for Russian hackers</a> Politico: Portions of Ukraine’s electric system went dark following two Russian cyberattacks in recent years. Efforts to strengthen the grid in the years since likely won’t be enough to fend off Russian hackers. 
  <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/russian-military-build-up-continues-despite-moscows-promises-of-a-drawdown-00010372">Russian military build-up continues, despite Moscow’s promises of a drawdown</a> Politico: A massive joint exercise in Belarus was due to end this weekend. But now officials say those tanks and troops are staying put. 
- <p class="updated_time"> 11:21 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 11:07 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/modeling-agent-close-to-epstein-found-dead-in-french-jail-00010367">Modeling agent close to Epstein found dead in French jail</a> Politico: Victims of the alleged abuse described shock and dismay that the agent, Jean-Luc Brunel, will never face trial. 
  <p class="updated_time"> 10:59 AM CT, Feb. 19 </p> 
