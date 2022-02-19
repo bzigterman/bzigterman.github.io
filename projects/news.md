@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:47 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Citing U.S. Intelligence, Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia would target Kyiv, Ukraine’s capital, in the coming week. The Russian president said earlier Friday that he was still open to diplomacy. 
+ <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">Who is the coach who gave Valieva the cold shoulder?</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
+ <p class="updated_time"> 10:32 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be postponed until May 8. 
  <p class="updated_time"> 10:18 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60436938?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden says he is convinced Putin has decided to invade</a> BBC: An invasion could happen in days and the capital Kyiv will be a target, the US president says. 
- <p class="updated_time"> 10:03 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Citing U.S. Intelligence, Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia would target Kyiv, Ukraine’s capital, in the coming week. The Russian president said earlier Friday that he was still open to diplomacy. 
  <p class="updated_time"> 10:00 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 08:17 PM CT, Feb. 18 </p> 
@@ -38,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/eunice-storm-damage.html">Storm Eunice Slams Northern Europe With Dangerously High Winds</a> NYT: A 122-mile-per-hour gust was recorded in England, where one weather official said the storm would be the worst the country had seen in 30 years. At least seven deaths were reported. 
  <p class="updated_time"> 05:05 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/australia-tourism-covid.html">Australia Reopens to International Travelers</a> NYT: For nearly two years, the country projected a harsh message of rigidity and “rules are rules.” Will long-haul travelers bet on the easygoing, inviting image it is sending out now? 
- <p class="updated_time"> 04:51 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be delayed until May 8. 
  <p class="updated_time"> 04:50 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60440241?at_medium=RSS&at_campaign=KARANGA">Ukraine: Biden says he's 'convinced' Putin has made decision to invade</a> BBC: The US President says he has reason to believe Russian forces will target Ukraine's capital, Kyiv. 
  <p class="updated_time"> 04:27 PM CT, Feb. 18 </p> 
@@ -136,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60428341?at_medium=RSS&at_campaign=KARANGA">Ahmedabad 2008 blasts: India court sentences 38 to death</a> BBC: The deadly bombings in Gujarat state had killed 57 people and left hundreds injured. 
  <p class="updated_time"> 01:59 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-postpones-choosing-next-leader-amid-record-covid-19-outbreak-11645188376">Hong Kong Postpones Choosing Its Next Leader as Covid-19 Surges</a> WSJ: Current Chief Executive Carrie Lam said the election was being delayed amid a surge of thousands of coronavirus cases recorded in recent days. 
- <p class="updated_time"> 01:33 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-russia-europe-nato-security.html">Ukraine Crisis Rattles Europe After 30 Years of Peace</a> NYT: The happy complacency of post-Cold War peace is being shattered by Russia’s threats, demands and massive military buildup around Ukraine. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
@@ -174,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/17/us/politics/us-troops-ukraine-russia.html">U.S. Army Troops Arrive in Poland to Reassure Allies</a> NYT: Nearly 5,000 soldiers from the 82nd Airborne Division are now in Poland in response to the Russian deployments on Ukraine’s borders. 
  <p class="updated_time"> 10:51 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/australia/australia-covid-vaccine-children-ages-6-to-11.html">Australia Authorizes Moderna’s Covid Vaccine for Children Ages 6 to 11</a> NYT: The country is the first to grant provisional authority for the Moderna vaccine to be used in children younger than 12. 
- <p class="updated_time"> 10:48 AM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-60419799?at_medium=RSS&at_campaign=KARANGA">Why are French troops leaving Mali, and what will it mean for the region?</a> BBC: Will France's decision to remove 5,000 personnel weaken the fight against Islamists in Africa's Sahel? 
  <p class="updated_time"> 10:34 AM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/police-enforcement-truckers-indigenous.html">Friendly Police Response to Protests Raises Questions Among Canadians</a> NYT: Images on social media contrast the response to the truckers with heavy-handed action last year against Indigenous people who blocked logging. 
  <p class="updated_time"> 10:32 AM CT, Feb. 17 </p> 
