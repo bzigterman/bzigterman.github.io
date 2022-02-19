@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">Shelling Escalates in Ukraine, as Thousands Flee Fearing Attack</a> NYT: Western leaders repeat calls for a diplomatic resolution to the crisis. Russia fires missiles in a blunt warning of where the conflict could lead. 
+ <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share footage showing swimmers metres away from site</a> BBC: Miami Beach Police said two of the three passengers were taken to hospital in a stable condition. 
  <p class="updated_time"> 04:29 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The remaining passengers are all thought to be lorry drivers, according to authorities. 
  <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
@@ -46,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead">Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell</a> NPR: Brunel, a modeling agent, was being held in an investigation into the rape of minors and trafficking of minors for sexual exploitation, according to the Paris prosecutor's office. 
  <p class="updated_time"> 11:14 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: Her first public remarks on the Ukraine crisis were watched with scrutiny. 
- <p class="updated_time"> 11:05 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">As Shelling Increases in Ukraine, Russia Fires Missiles in a Blunt Warning</a> NYT: Western leaders meeting in Munich repeated calls for a diplomatic resolution to the crisis. Russia-backed separatists stir fears of a Ukrainian attack. 
  <p class="updated_time"> 11:02 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60448025?at_medium=RSS&at_campaign=KARANGA">Somalia: Suicide bomb hits restaurant on poll eve</a> BBC: At least 10 people died in the blast at a restaurant popular with politicians in the city of Beledweyne. 
  <p class="updated_time"> 09:54 AM CT, Feb. 19 </p> 
@@ -162,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
- <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60433364?at_medium=RSS&at_campaign=KARANGA">Greece ferry fire: Hundreds rescued from blaze off Corfu coast</a> BBC: The Euroferry Olympia caught fire in the early hours of Friday morning. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
  <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
