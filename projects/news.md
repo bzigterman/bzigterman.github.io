@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police have said they have 170 arrests over the past two days of operations in Canada's capital. 
  <p class="updated_time"> 03:33 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60448638?at_medium=RSS&at_campaign=KARANGA">Ukraine will not respond to provocations, Zelensky says</a> BBC: But President Volodymyr Zelensky says Ukraine is ready to defend itself, amid a deadly rise in fighting. 
  <p class="updated_time"> 03:32 PM CT, Feb. 19 </p> 
@@ -18,8 +20,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/storm-eunice-aftermath.html">Storm Eunice Kills at Least 8</a> NYT: Gusts toppled trees and sent debris flying, leaving tens of thousands without power and disrupting travel a day later. 
- <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/climate/antarctic-shackleton-search.html">The Search Has Begun for an Antarctic Pioneer’s Lost Ship</a> NYT: Explorers have started combing the Weddell Sea for one of the most revered ships in the history of polar exploration, Ernest Shackleton’s Endurance, which sank in 1915. 
  <p class="updated_time"> 01:21 PM CT, Feb. 19 </p> 
@@ -185,6 +185,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081987370/why-republicans-are-divided-on-support-for-ukraine">Why Republicans are divided on support for Ukraine</a> NPR: NPR's Michel Martin discusses why the Republican Party has had a warmer posture towards Russia in recent years with former Republican strategist Steve Schmidt. 
+ <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081987356/harris-meets-with-zelensky-in-munich">Harris meets with Zelensky in Munich</a> NPR: Vice President Harris is meeting with a host of world leaders in Munich as concern builds that Russia plans to invade Ukraine. Her meeting with Ukraine President Zelensky sends an important message. 
  <p class="updated_time"> 02:58 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 02:35 PM CT, Feb. 19 </p> 
@@ -299,8 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:30 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081295373/the-big-sort-americans-move-to-areas-political-alignment">Americans are fleeing to places where political views match their own</a> NPR: America is growing more geographically polarized — red ZIP codes are getting redder and blue ZIP codes are becoming bluer. People appear to be sorting. 
- <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081678604/judge-orders-trump-to-be-desposed-in-new-york-investigation">Judge orders Trump to be desposed in New York investigation </a> NPR: A New York Supreme Court judge has ruled that former President Donald Trump and his children Ivanka and Donald Jr. must appear for a deposition about alleged fraud at the Trump Organization. 
  <p class="updated_time"> 06:15 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/18/exclusive-the-secret-history-of-pences-jan-6-argument-00010081"> Exclusive: The secret history of Pence’s Jan. 6 argument</a> Politico Playbook: And Kevin McCarthy endorses Liz Cheney's challenger. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
@@ -311,8 +313,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/the-white-house-throws-cold-water-on-a-restaurant-industry-bailout-00009940">The White House throws cold water on a restaurant industry bailout</a> Politico: Lawmakers and allies are begging for cash amid a lingering pandemic. But the politics aren't in their favor. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
- <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination">White House counsel stays behind the scenes while guiding Supreme Court nomination</a> NPR: White House counsel Dana Remus, who is guiding the effort to nominate a Black woman to the Supreme Court, has worked in Washington for years, but rarely in the spotlight. 
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 07:51 PM CT, Feb. 17 </p> 
