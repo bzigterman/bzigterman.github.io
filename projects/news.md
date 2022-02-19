@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: The breakaway territories go on a war footing amid fears Russia will use them as a pretext to invade. 
+ <p class="updated_time"> 09:40 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
  <p class="updated_time"> 09:28 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
- <p class="updated_time"> 09:22 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: The breakaway territories go on a war footing amid fears Russia will use them as a pretext to invade. 
  <p class="updated_time"> 09:13 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-crisis-new-cold-war.html">In Ukraine Crisis, the Looming Threat of a New Cold War</a> NYT: If he invades, President Vladimir V. Putin is inviting a new global struggle with the West. He should think about how the last one ended, analysts say. 
  <p class="updated_time"> 08:58 AM CT, Feb. 19 </p> 
@@ -189,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365"> World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
+ <p class="updated_time"> 09:45 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 09:30 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
@@ -205,8 +209,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/19/cow-manure-new-york-california-emissions-00007370">How cow manure from New York is bolstering California's emissions goals</a> Politico: New York dairy farms are using clean gas produced by cow manure, putting it in trucks, injecting it into an interstate pipeline — and selling the environmental benefits across the country. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081634031/henry-cuellar-jessica-cisneros-democratic-primary-28th-district-texas">FBI raid of South Texas congressman adds another element to a tough primary challenge</a> NPR: Two years after they first squared off, nine-term Democratic Rep. Henry Cuellar faces progressive Jessica Cisneros in a March 1 primary. Both Democrats and Republicans are watching the key race. 
- <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 07:12 PM CT, Feb. 18 </p> 
