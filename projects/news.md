@@ -141,7 +141,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">A separatist call to flee east Ukraine for Russia was recorded 2 days earlier </a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing an offensive in the area. The U.S. says it's "disinformation." 
+ <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">A rebel in east Ukraine accused Kyiv of planning an attack. The U.S. says he's lying</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing an offensive in the area. The U.S. says it's "disinformation." 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:58 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 02:35 PM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/bill-gates-fight-covid-future-pandemics-00010371">Bill Gates says there's a better way to fight Covid, future pandemics</a> Politico: In interview with POLITICO, the billionaire philanthropist lays out a battle plan that goes beyond responding to the coronavirus. 
  <p class="updated_time"> 01:17 PM CT, Feb. 19 </p> 
@@ -193,8 +195,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 12:18 PM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/despite-years-of-preparation-ukraines-electric-grid-still-far-from-ready-for-russian-hackers-00010373">Despite years of preparation, Ukraine’s electric grid still an easy target for Russian hackers</a> Politico: Portions of Ukraine’s electric system went dark following two Russian cyberattacks in recent years. Efforts to strengthen the grid in the years since likely won’t be enough to fend off Russian hackers. 
- <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/russian-military-build-up-continues-despite-moscows-promises-of-a-drawdown-00010372">Russian military build-up continues, despite Moscow’s promises of a drawdown</a> Politico: A massive joint exercise in Belarus was due to end this weekend. But now officials say those tanks and troops are staying put. 
  <p class="updated_time"> 11:07 AM CT, Feb. 19 </p> 
