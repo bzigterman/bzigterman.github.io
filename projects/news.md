@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60443514?at_medium=RSS&at_campaign=KARANGA">Mexican troops move in on drug lord's home town</a> BBC: Landmines planted by rival gangs in the area killed one and injured others in recent weeks. 
  <p class="updated_time"> 02:59 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Separatists Issue Call to Arms</a> NYT: President Biden said he was “convinced” that Russia would attack Ukraine in the coming days, calling it “a catastrophic and needless war of choice.” 
  <p class="updated_time"> 02:21 AM CT, Feb. 19 </p> 
@@ -136,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60427535?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Six-year-old boy rescued from well dies</a> BBC: The boy was reportedly unresponsive when he was pulled out days after he had fallen down the well. 
  <p class="updated_time"> 02:42 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081658549/canadian-police-arrest-2-leaders-of-protesting-truckers">Canadian police arrest 2 leaders of protesting truckers</a> NPR: The  police action took place in Ottawa, the protest movement's last stronghold, after weeks of demonstrations and blockades that shut down border crossings into the U.S. 
- <p class="updated_time"> 02:27 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60428341?at_medium=RSS&at_campaign=KARANGA">Ahmedabad 2008 blasts: India court sentences 38 to death</a> BBC: The deadly bombings in Gujarat state had killed 57 people and left hundreds injured. 
  <p class="updated_time"> 01:59 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-postpones-choosing-next-leader-amid-record-covid-19-outbreak-11645188376">Hong Kong Postpones Choosing Its Next Leader as Covid-19 Surges</a> WSJ: Current Chief Executive Carrie Lam said the election was being delayed amid a surge of thousands of coronavirus cases recorded in recent days. 
  <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
@@ -200,7 +200,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">What Does Vladimir Putin Want in Ukraine?</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">Explaining Putin’s Decades-Long Obsession With Ukraine</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
  <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
  <p class="updated_time"> 05:47 PM CT, Feb. 18 </p> 
@@ -304,7 +304,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:24 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/kevin-mccarthy-harriet-hageman-liz-cheney.html">Kevin McCarthy Backs Liz Cheney’s Challenger, Escalating a Party Feud</a> NYT: The top House Republican’s unusual intervention in a primary marked the party’s latest move against Ms. Cheney, who has been a vocal critic of Donald J. Trump. 
  <p class="updated_time"> 10:04 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">The United States’ Message to Russia: Prove Us Wrong</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
+ <a href="https://www.nytimes.com/2022/02/17/us/politics/blinken-russia-ukraine-predictions.html">United States Hopes to Deter a Russian Invasion of Ukraine</a> NYT: “If Russia doesn’t invade Ukraine, then we will be relieved that Russia changed course,’’ Secretary of State Antony J. Blinken said at the United Nations. 
  <p class="updated_time"> 07:51 PM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:06 PM CT, Feb. 17 </p> 
