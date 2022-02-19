@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
+ <p class="updated_time"> 09:22 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: The breakaway territories go on a war footing amid fears Russia will use them as a pretext to invade. 
+ <p class="updated_time"> 09:13 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-crisis-new-cold-war.html">In Ukraine Crisis, the Looming Threat of a New Cold War</a> NYT: If he invades, President Vladimir V. Putin is inviting a new global struggle with the West. He should think about how the last one ended, analysts say. 
  <p class="updated_time"> 08:58 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">Why Ukraine Matters: What to Know About the Crisis With Russia</a> NYT: Here’s how the country ended up at the center of a global crisis. 
  <p class="updated_time"> 08:57 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60446928?at_medium=RSS&at_campaign=KARANGA">Australia accuses China of shining laser at warplane</a> BBC: The Australian defence ministry said the laser illuminated the plane, potentially endangering life. 
- <p class="updated_time"> 08:54 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
  <p class="updated_time"> 08:53 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
- <p class="updated_time"> 08:51 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
  <p class="updated_time"> 08:50 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">VP Harris vows swift and severe sanctions against Russia if it invades Ukraine</a> NPR: The vice president met with Ukraine President Volodymyr Zelenskyy at the Munich Security Conference in Germany as the threat of Russian invasion of Ukraine continues to grow. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
@@ -70,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
  <p class="updated_time"> 10:36 PM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/in-old-school-catholic-poland-youth-are-leaving-the-church-11645263383">In Traditionally Catholic Poland, the Young Are Leaving the Church</a> WSJ: Poland is known as Europe’s last Catholic bastion but religiosity among the young is falling, suggesting the country could soon look much like its western neighbors in religious terms, with broader implications for its society and politics. 
- <p class="updated_time"> 10:32 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be postponed until May 8. 
  <p class="updated_time"> 10:00 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
@@ -130,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russian-installed-authorities-in-ukraines-donbas-proclaim-evacuation-of-civilian-residents-11645219700">Russian-Installed Authorities in Ukraine's Donbas Proclaim Evacuation of Civilian Residents</a> WSJ: Kyiv, West condemn the move as a provocation aimed at justifying a Russian invasion of Ukraine. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
- <p class="updated_time"> 10:55 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/health/nyc-anime-convention-2021-superspreader-event.html">N.Y.C. Anime Convention Was Not a Superspreader Event, C.D.C. Finds</a> NYT: The rate of positive results among attendees who took coronavirus tests was about the same as that of New York City at large, researchers found. 
  <p class="updated_time"> 10:52 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081691685/doping-russia-kamila-valieva">After Valieva: 5 questions for a doping expert about fixing a messy system</a> NPR: "That was an incredibly troubling outcome," doping expert April Henning says of Russian skating star Kamila Valieva's collapse. She says Valieva "was failed at all levels" by the adults around her. 
  <p class="updated_time"> 10:36 AM CT, Feb. 18 </p> 
@@ -189,6 +187,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365">World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
