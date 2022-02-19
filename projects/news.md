@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:25 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 08:51 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
+ <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Once He Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
+ <p class="updated_time"> 08:37 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
  <p class="updated_time"> 08:24 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443518?at_medium=RSS&at_campaign=KARANGA">Epstein: Model scout Jean-Luc Brunel found dead in jail</a> BBC: Jean-Luc Brunel faced trial over accusations of sexual harassment and the rape of minors in France. 
  <p class="updated_time"> 08:08 AM CT, Feb. 19 </p> 
@@ -36,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081948821/police-begin-to-clear-encamped-protesters-from-outside-canadian-parliament">Police begin to clear encamped protesters from outside Canadian Parliament</a> NPR: Three weeks into a protest over Canada's COVID-19 rules, authorities have begun to arrest protesters and clear trucks parked around the parliament building in Ottawa. 
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948807/biden-says-u-s-intelligence-signals-russia-has-decided-it-will-invade-ukraine">Biden says U.S. intelligence signals Russia has decided it will invade Ukraine</a> NPR: In the Donbas region of eastern Ukraine, shelling has intensified over the past 24 hours, and one government soldier was killed as Russian-backed separatists continue fighting. 
- <p class="updated_time"> 06:40 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
  <p class="updated_time"> 06:38 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 06:35 AM CT, Feb. 19 </p> 
@@ -50,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081657319/winter-olympics-environmental-impact">Beijing Olympic organizers are touting a green Games. The reality is much different</a> NPR: Authorities in China said they planted nearly 200,000 acres of forest and green areas prior to the Winter Games. But they also transplanted nearly 20,000 trees, which could endanger animal habitats. 
  <p class="updated_time"> 05:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
- <p class="updated_time"> 04:31 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Once He Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">Why Ukraine Matters: What to Know About the Crisis With Russia</a> NYT: Here’s how the country ended up at the center of a global crisis. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
