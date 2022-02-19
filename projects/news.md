@@ -8,16 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:58 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">Why Ukraine Matters: What to Know About the Crisis With Russia</a> NYT: Here’s how the country ended up at the center of a global crisis. 
+ <p class="updated_time"> 08:57 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60446928?at_medium=RSS&at_campaign=KARANGA">Australia accuses China of shining laser at warplane</a> BBC: The Australian defence ministry said the laser illuminated the plane, potentially endangering life. 
+ <p class="updated_time"> 08:54 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
+ <p class="updated_time"> 08:53 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 08:51 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
+ <p class="updated_time"> 08:50 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">VP Harris vows swift and severe sanctions against Russia if it invades Ukraine</a> NPR: The vice president met with Ukraine President Volodymyr Zelenskyy at the Munich Security Conference in Germany as the threat of Russian invasion of Ukraine continues to grow. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Once He Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
- <p class="updated_time"> 08:37 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
  <p class="updated_time"> 08:24 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443518?at_medium=RSS&at_campaign=KARANGA">Epstein: Model scout Jean-Luc Brunel found dead in jail</a> BBC: Jean-Luc Brunel faced trial over accusations of sexual harassment and the rape of minors in France. 
- <p class="updated_time"> 08:08 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 07:33 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60446826?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: How are people coping with the threat of war?</a> BBC: Three Ukrainians tell the BBC how they have been dealing with life amid fears of a Russian invasion. 
  <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
@@ -52,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081657319/winter-olympics-environmental-impact">Beijing Olympic organizers are touting a green Games. The reality is much different</a> NPR: Authorities in China said they planted nearly 200,000 acres of forest and green areas prior to the Winter Games. But they also transplanted nearly 20,000 trees, which could endanger animal habitats. 
  <p class="updated_time"> 05:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
- <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">Why Ukraine Matters: What to Know About the Crisis With Russia</a> NYT: Here’s how the country ended up at the center of a global crisis. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/arts/design/project-of-independence-moma-review.html">When Architects Made Worlds</a> NYT: MoMA explores an era of sweeping change, when South Asian architects — pioneering women, among them — redefined the postcolonial era and helped construct new nation states. 
  <p class="updated_time"> 03:09 AM CT, Feb. 19 </p> 
@@ -150,10 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
  <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
- <p class="updated_time"> 05:00 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081584395/cristina-calderon-chiles-last-known-yaghan-speaker-dies-at-93">Cristina Calderón, Chile's last known Yaghan speaker, dies at 93</a> NPR: Until the end of her days, Abuela Cristina — as many knew her — bided her time making traditional reed baskets, and sharing the Yaghan language and culture with those around her. 
- <p class="updated_time"> 04:56 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60430014?at_medium=RSS&at_campaign=KARANGA">Brad Pitt sues Angelina Jolie over vineyard where they got married</a> BBC: Brad Pitt and Angelina Jolie do battle over ownership of the French vineyard where they got married. 
  <p class="updated_time"> 04:52 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in flood-hit Brazil city</a> BBC: Residents flee Petrópolis and the rescue mission is paused as more heavy rain is forecast. 
  <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
