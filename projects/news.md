@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:37 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">Soaring Energy Bills Deepen Crisis for Turks, and Erdogan</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
  <p class="updated_time"> 11:32 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
  <p class="updated_time"> 11:32 AM CT, Feb. 19 </p> 
@@ -19,7 +23,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:05 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">As Shelling Increases in Ukraine, Russia Fires Missiles in a Blunt Warning</a> NYT: Western leaders meeting in Munich repeated calls for a diplomatic resolution to the crisis. Russia-backed separatists stir fears of a Ukrainian attack. 
  <p class="updated_time"> 11:02 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60448025?at_medium=RSS&at_campaign=KARANGA">Somalia: Suicide bomb hits restaurant on poll eve</a> BBC: The blast in Beledweyne town at a restaurant popular with politicians comes a day before a local vote. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60448025?at_medium=RSS&at_campaign=KARANGA">Somalia: Suicide bomb hits restaurant on poll eve</a> BBC: At least 10 people died in the blast at a restaurant popular with politicians in the city of Beledweyne. 
  <p class="updated_time"> 10:51 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 09:59 AM CT, Feb. 19 </p> 
