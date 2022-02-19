@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:41 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 01:08 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
+ <p class="updated_time"> 01:04 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
+ <p class="updated_time"> 01:01 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
  <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police work to clear protesters around Canada's Parliament building</a> NPR: After making more than 100 arrests Friday, police in Ottawa focused on the area surrounding Parliament. In a warning to protesters, police tweeted: "We told you to leave. We gave you time to leave." 
@@ -36,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">As Shelling Increases in Ukraine, Russia Fires Missiles in a Blunt Warning</a> NYT: Western leaders meeting in Munich repeated calls for a diplomatic resolution to the crisis. Russia-backed separatists stir fears of a Ukrainian attack. 
  <p class="updated_time"> 11:02 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60448025?at_medium=RSS&at_campaign=KARANGA">Somalia: Suicide bomb hits restaurant on poll eve</a> BBC: At least 10 people died in the blast at a restaurant popular with politicians in the city of Beledweyne. 
- <p class="updated_time"> 10:51 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 09:54 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 09:44 AM CT, Feb. 19 </p> 
@@ -54,6 +56,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">VP Harris vows swift and severe sanctions against Russia if it invades Ukraine</a> NPR: The vice president met with Ukraine President Volodymyr Zelenskyy at the Munich Security Conference in Germany as the threat of Russian invasion of Ukraine continues to grow. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Lukashenko Once Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
+ <p class="updated_time"> 08:01 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/kamala-harris-warns-of-russian-deception-on-ukraine-as-vladimir-putin-oversees-missiletests-11645284503">Harris Warns of Russian Deception on Ukraine</a> WSJ: The U.S. vice president said Russia’s actions make a diplomatic solution less likely during the Munich Security Conference. 
+ <p class="updated_time"> 07:56 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. Though many protesters left or were arrested Friday, dozens remained Saturday. 
  <p class="updated_time"> 07:33 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60446826?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: How are people coping with the threat of war?</a> BBC: Three Ukrainians tell the BBC how they have been dealing with life amid fears of a Russian invasion. 
  <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
@@ -61,7 +67,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:22 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948884/mexican-drug-cartels-are-getting-into-the-avocado-and-lime-business">Mexican drug cartels are getting into the avocado and lime business</a> NPR: Scott Simon talks with Vice News Correspondent Emily Green about the increased role of Mexican drug cartels in the avocado and lime business. 
  <p class="updated_time"> 07:17 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60444777?at_medium=RSS&at_campaign=KARANGA">Mali soldiers killed days after France announces exit</a> BBC: Eight soldiers died after in a rebel attack in the north-east of the country, the army says. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60444777?at_medium=RSS&at_campaign=KARANGA">Mali soldiers killed days after France announces exit</a> BBC: Eight soldiers died in a rebel attack in the north-east of the country, the army says. 
  <p class="updated_time"> 07:12 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters won't get their team medals before the Winter Olympics end</a> NPR: The American team had asked the Court of Arbitration for Sport to rule they can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal. 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
@@ -71,17 +77,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948807/biden-says-u-s-intelligence-signals-russia-has-decided-it-will-invade-ukraine">Biden says U.S. intelligence signals Russia has decided it will invade Ukraine</a> NPR: In the Donbas region of eastern Ukraine, shelling has intensified over the past 24 hours, and one government soldier was killed as Russian-backed separatists continue fighting. 
  <p class="updated_time"> 06:54 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438">Russian Proxies in Eastern Ukraine Mobilize Troops, Kill Two Ukrainian Soldiers</a> WSJ: Russian-installed authorities in Donetsk and Luhansk say an attack by Kyiv is imminent, while shelling across the frontline intensifies, killing two Ukrainian soldiers. 
+ <a href="https://www.wsj.com/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438">Russian Proxies in Eastern Ukraine Mobilize Troops, Kill Two Ukrainian Soldiers</a> WSJ: Kyiv dismissed the call-up and moves to evacuate civilian residents of Russian-held Donetsk and Luhansk areas as a provocation. 
  <p class="updated_time"> 06:38 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 06:35 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: Vice-President Kamala Harris warns Russia of "swift and severe" action if it invades Ukraine. 
  <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/russia-ukraine-timeline.html">A Timeline of the Tensions Between Russia and Ukraine</a> NYT: Here is a look at some key moments leading to Russia’s troop buildup around Ukraine. 
- <p class="updated_time"> 06:28 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. Though many protesters left or were arrested Friday, more than 100 remained Saturday. 
- <p class="updated_time"> 06:20 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/kamala-harris-warns-of-russian-deception-on-ukraine-as-vladimir-putin-oversees-missiletests-11645284503">Harris Warns of Russian Deception on Ukraine</a> WSJ: The U.S. vice president said Russia’s actions make a diplomatic solution less likely during the Munich Security Conference. 
  <p class="updated_time"> 06:01 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The 12 who are still missing are all thought to be truck drivers, according to authorities. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
@@ -170,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
  <p class="updated_time"> 03:50 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
- <p class="updated_time"> 01:20 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/world/europe/ukraine-conflict-russia-military.html">Ukraine Fighting May Open Door to Russian Invasion, U.S. Warns</a> NYT: As shelling intensified in the east, officials warned that Moscow might use false claims of “genocide” against Russians in the region as a pretext for an attack. 
  <p class="updated_time"> 12:45 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/australia/australia-winter-olympics-medals.html">What Australia’s Success at the Winter Olympics Does (and Doesn’t) Tell You</a> NYT: Australia has won more medals than ever at the 2022 Winter Games, but it’s hard to tell if global respect can turn the country into a winter sports wonderland. 
  <p class="updated_time"> 10:31 PM CT, Feb. 17 </p> 
