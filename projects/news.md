@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
+ <p class="updated_time"> 07:39 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
+ <p class="updated_time"> 07:33 AM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60446826?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: How are people coping with the threat of war?</a> BBC: Three Ukrainians tell the BBC how they have been dealing with life amid fears of a Russian invasion. 
  <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/as-warnings-of-war-grow-louder-ukrainians-try-to-keep-their-bearings.html">As warnings of war grow louder, Ukrainians try to keep their bearings.</a> NYT: The crisis has taken a toll on many Ukrainians. 
  <p class="updated_time"> 07:29 AM CT, Feb. 19 </p> 
