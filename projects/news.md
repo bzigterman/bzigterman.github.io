@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:17 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
+ <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 07:43 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia will target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
- <p class="updated_time"> 07:29 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 07:25 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 07:10 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police begin to make arrests at Ottawa protest</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 07:00 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60091787?at_medium=RSS&at_campaign=KARANGA">Do crime apps and viral videos stop bystanders from helping?</a> BBC: Popular use of mobile phone cameras and apps fans fears of a digitally charged 'bystander effect'. 
- <p class="updated_time"> 06:50 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 06:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60442225?at_medium=RSS&at_campaign=KARANGA">Maryland couple plead guilty in nuclear secrets plot</a> BBC: The wife acted as lookout while her husband hid a data card inside a peanut butter sandwich. 
  <p class="updated_time"> 06:33 PM CT, Feb. 18 </p> 
@@ -187,7 +187,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:29 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 07:12 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/congress-russia-sanctions.html">Unable to Agree on Russia Sanctions Bill, Senate Settles for a Statement</a> NYT: A bipartisan push to pass the “mother of all sanctions” collapsed after Republicans insisted on imposing broad penalties before an invasion and Democrats, backing the White House, refused. 
