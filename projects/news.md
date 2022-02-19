@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 01:23 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
  <p class="updated_time"> 01:21 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
- <p class="updated_time"> 01:08 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police work to clear protesters around Canada's Parliament building</a> NPR: After making more than 100 arrests Friday, police in Ottawa focused on the area surrounding Parliament. In a warning to protesters, police tweeted: "We told you to leave. We gave you time to leave." 
  <p class="updated_time"> 12:25 PM CT, Feb. 19 </p> 
