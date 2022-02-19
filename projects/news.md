@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:06 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 12:31 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
+ <p class="updated_time"> 12:25 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60448716?at_medium=RSS&at_campaign=KARANGA">Storm Eunice carves deadly trail across Europe</a> BBC: At least 14 people have died as high winds leave homes without power and transport systems in disarray. 
+ <p class="updated_time"> 12:24 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
  <p class="updated_time"> 12:02 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443518?at_medium=RSS&at_campaign=KARANGA">Jean-Luc Brunel: Epstein associate found dead in Paris prison cell</a> BBC: Model agent Jean-Luc Brunel was being investigated for rape and supplying girls to Jeffrey Epstein. 
  <p class="updated_time"> 12:00 PM CT, Feb. 19 </p> 
@@ -36,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 09:44 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: The breakaway territories go on a war footing amid fears Russia will use them as a pretext to invade. 
- <p class="updated_time"> 09:40 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
  <p class="updated_time"> 09:13 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-crisis-new-cold-war.html">In Ukraine Crisis, the Looming Threat of a New Cold War</a> NYT: If he invades, President Vladimir V. Putin is inviting a new global struggle with the West. He should think about how the last one ended, analysts say. 
  <p class="updated_time"> 08:58 AM CT, Feb. 19 </p> 
@@ -130,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">U.S. says a separatist call to flee east Ukraine for Russia is a false flag</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing to invade the area. The U.S. says it's "disinformation." 
- <p class="updated_time"> 02:11 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60436945?at_medium=RSS&at_campaign=KARANGA">Ex-police officer Kim Potter jailed for killing Daunte Wright</a> BBC: Daunte Wright's father calls Kim Potter's two-year sentence for manslaughter a "slap on the wrist". 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:17 PM CT, Feb. 19 </p> 
+ <a href="https://www.politico.com/news/2022/02/19/larry-ellison-pumps-15m-into-super-pac-aligned-with-tim-scott-00010377">Larry Ellison pumps $15M into super PAC aligned with Tim Scott</a> Politico: The donation brings the Oracle chair's giving to the group, Opportunity Matters Fund, to $25 million. 
  <p class="updated_time"> 12:18 PM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/despite-years-of-preparation-ukraines-electric-grid-still-far-from-ready-for-russian-hackers-00010373">Despite years of preparation, Ukraine’s electric grid still far from ready for Russian hackers</a> Politico: Portions of Ukraine’s electric system went dark following two Russian cyberattacks in recent years. Efforts to strengthen the grid in the years since likely won’t be enough to fend off Russian hackers. 
  <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
@@ -323,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
- <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
  <p class="updated_time"> 09:35 AM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/durham-allegations-explainer/index.html">Unspooling the latest twists in special counsel John Durham's investigation </a> CNN: Special counsel John Durham, who has been investigating the origins of the FBI's Trump-Russia probe, ignited a firestorm in right-wing circles last weekend with a cryptic court filing. 
  <p class="updated_time"> 09:00 AM CT, Feb. 17 </p> 
