@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia would target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier Friday that he was still open to diplomacy. 
+ <p class="updated_time"> 10:18 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60436938?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden says he is convinced Putin has decided to invade</a> BBC: An invasion could happen in days and the capital Kyiv will be a target, the US president says. 
+ <p class="updated_time"> 10:03 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Citing U.S. Intelligence, Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia would target Kyiv, Ukraine’s capital, in the coming week. The Russian president said earlier Friday that he was still open to diplomacy. 
+ <p class="updated_time"> 10:00 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 08:17 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
@@ -27,11 +31,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:21 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60429635?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 12-18 February 2022</a> BBC: A selection of powerful images from all over the globe, taken in the last seven days. 
  <p class="updated_time"> 06:17 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60299136?at_medium=RSS&at_campaign=KARANGA">The amateur historians documenting Delhi's past</a> BBC: Some amateur historians are documenting neglected corners of Delhi, one Instagram post at a time. 
- <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60436938?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden says he is convinced Putin has decided to invade</a> BBC: An invasion could happen in days and the capital Kyiv will be a target, the US president says. 
- <p class="updated_time"> 05:58 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60299136?at_medium=RSS&at_campaign=KARANGA">The amateur historians chronicling Delhi's past on Instagram</a> BBC: Some amateur historians are documenting neglected corners of Delhi, one Instagram post at a time. 
  <p class="updated_time"> 05:13 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/europe/felicity-ace-vessel-fire.html">Ship Carrying 1,100 Porsches and Other Luxury Cars Is Burning and Adrift</a> NYT: A fire broke out Wednesday morning in the cargo hold of the ship, which departed from Emden, Germany, on Feb. 10 and was headed to Davisville, R.I. 
  <p class="updated_time"> 05:12 PM CT, Feb. 18 </p> 
