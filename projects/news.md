@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:56 PM CT, Feb. 18 </p> 
+ <p class="updated_time"> 07:43 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/ukraine-russia-news">Live Updates: Biden Says Putin Has Decided to Invade Ukraine</a> NYT: President Biden said Russia will target Kyiv in the coming week, citing U.S. intelligence. The Russian president said earlier on Friday that he is still open to diplomacy. 
+ <p class="updated_time"> 07:29 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
+ <p class="updated_time"> 07:25 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 07:10 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police begin to make arrests at Ottawa protest</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
+ <p class="updated_time"> 07:00 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60091787?at_medium=RSS&at_campaign=KARANGA">Do crime apps and viral videos stop bystanders from helping?</a> BBC: Popular use of mobile phone cameras and apps fans fears of a digitally charged 'bystander effect'. 
  <p class="updated_time"> 06:50 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/vivek-murphy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
+ <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 06:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60442225?at_medium=RSS&at_campaign=KARANGA">Maryland couple plead guilty in nuclear secrets plot</a> BBC: The wife acted as lookout while her husband hid a data card inside a peanut butter sandwich. 
  <p class="updated_time"> 06:33 PM CT, Feb. 18 </p> 
@@ -20,10 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-60429635?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 12-18 February 2022</a> BBC: A selection of powerful images from all over the globe, taken in the last seven days. 
  <p class="updated_time"> 06:17 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60299136?at_medium=RSS&at_campaign=KARANGA">The amateur historians documenting Delhi's past</a> BBC: Some amateur historians are documenting neglected corners of Delhi, one Instagram post at a time. 
- <p class="updated_time"> 06:16 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Live Updates: Police Clamp Down on Ottawa Protesters</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
- <p class="updated_time"> 06:02 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police begin to make arrests at Ottawa protest</a> BBC: Police accuse protesters of using children as a shield between officers and the demonstration. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60436938?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden says he is convinced Putin has decided to invade</a> BBC: An invasion could happen in days and the capital Kyiv will be a target, the US president says. 
  <p class="updated_time"> 05:58 PM CT, Feb. 18 </p> 
@@ -56,18 +60,22 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">U.S. says a separatist call to flee east Ukraine for Russia is a false flag</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing to invade the area. The U.S. says it's "disinformation." 
+ <p class="updated_time"> 02:11 PM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60436945?at_medium=RSS&at_campaign=KARANGA">Ex-police officer Kim Potter jailed for killing Daunte Wright</a> BBC: Daunte Wright's father calls Kim Potter's two-year sentence for manslaughter a "slap on the wrist". 
+ <p class="updated_time"> 02:08 PM CT, Feb. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
- <p class="updated_time"> 01:09 PM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-troops-told-to-exercise-restraint-to-avoid-provoking-russian-invasion-11645185631">U.S. Warns of Imminent Russian Invasion of Ukraine With Tanks, Jets, Cyberattacks</a> WSJ: Prospects for averting war appear dim, officials said, even as the Biden administration is working to arrange new talks with Russia. 
  <p class="updated_time"> 01:07 PM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/canada-parliament-cancels-session-as-police-clamp-down-on-protesters-11645194677">Ottawa Police Tow Trucks, Arrest Freedom Convoy Protesters</a> WSJ: Dozens of police officers moved in formation and made dozens of arrests to bring an end to a 22-day Freedom Convoy demonstration that has paralyzed Canada’s capital and blocked border crossings. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 11:56 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60439402?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: The moment Kim Potter is sentenced for gun mix-up killing</a> BBC: Ex-officer Kim Potter has been sentenced to two years in prison for fatally shooting Daunte Wright. 
+ <p class="updated_time"> 11:35 AM CT, Feb. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60416617?at_medium=RSS&at_campaign=KARANGA">Maëlys de Araujo: Ex-soldier jailed for life for French girl's murder</a> BBC: Eight-year-old Maëlys de Araujo was abducted and then killed at a wedding five years ago. 
  <p class="updated_time"> 11:23 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/russian-installed-authorities-in-ukraines-donbas-proclaim-evacuation-of-civilian-residents-11645219700">Russian-Installed Authorities in Ukraine's Donbas Proclaim Evacuation of Civilian Residents</a> WSJ: Kyiv, West condemn the move as a provocation aimed at justifying a Russian invasion of Ukraine. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
@@ -81,7 +89,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:36 AM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/mexico-resumes-exports-of-avocados-to-u-s-11645213662">Mexico Resumes Exports of Avocados to U.S.</a> WSJ: A suspension is lifted as Mexico takes measures to ensure the safety of U.S. inspectors. 
  <p class="updated_time"> 10:27 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">At least 70 people arrested as police move to end the siege of Canada's capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
+ <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
  <p class="updated_time"> 10:19 AM CT, Feb. 18 </p> 
@@ -112,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081667709/russia-says-it-will-stage-massive-nuclear-drills-amid-ukraine-standoff">Russia says it will stage nuclear drills amid Ukraine standoff</a> NPR: Russia's The Defense Ministry says  President Vladimir Putin will personally oversee this weekend's exercise. 
  <p class="updated_time"> 04:11 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081479756/despite-the-threat-of-war-some-americans-in-ukraine-are-staying-put">Despite the threat of war, some Americans in Ukraine are staying put</a> NPR: The U.S. government is telling Americans it's "past time" to leave Ukraine. But James Berk, an optician from New Jersey, has a Ukrainian wife and a newborn baby. For now, they're staying put. 
- <p class="updated_time"> 04:10 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60423329?at_medium=RSS&at_campaign=KARANGA">Climate change: Covid shutdown linked to record rainfall in China</a> BBC: An abrupt drop in emissions due to the pandemic played a key role in record rainfall in China in 2020. 
  <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/south-korea-election-covid.html">South Korea Prepares for Another Covid-Era National Election</a> NYT: The government requires people with Covid to remain in isolation at home, but a special time window on Election Day would allow them to leave to cast their ballots. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
@@ -150,10 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081620129/porsche-volkswagen-burning-cargo-ship">A burning cargo ship full of Porsches and VWs is adrift in the mid-Atlantic</a> NPR: The Portuguese navy rescued the 22-member crew from the Felicity Ace, which was scheduled to arrive in the port of Davisville, R.I., next week. None of the crew was injured. 
  <p class="updated_time"> 06:28 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/60406195?at_medium=RSS&at_campaign=KARANGA">Beijing Olympics: What’s wrong with natural snow?</a> BBC: Despite heavy snowfall in Beijing, the organisers are still generating the artificial variety. 
- <p class="updated_time"> 06:21 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60414123?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 11-17 February 2022</a> BBC: A selection of the best photos from across the Africa and beyond this week. 
- <p class="updated_time"> 06:05 PM CT, Feb. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60124425?at_medium=RSS&at_campaign=KARANGA">Indian tea start-ups search for an exotic edge</a> BBC: Indian tea start-ups are rediscovering indigenous ingredients for teas and infusions to stay ahead. 
  <p class="updated_time"> 06:02 PM CT, Feb. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-60421428?at_medium=RSS&at_campaign=KARANGA">The women at the forefront of Sudan’s protests</a> BBC: Sita el-Nufur, who was killed during anti-military demonstrations, has become an icon for protesters. 
  <p class="updated_time"> 05:40 PM CT, Feb. 17 </p> 
@@ -185,6 +187,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:29 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
+ <p class="updated_time"> 07:12 PM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/congress-russia-sanctions.html">Unable to Agree on Russia Sanctions Bill, Senate Settles for a Statement</a> NYT: A bipartisan push to pass the “mother of all sanctions” collapsed after Republicans insisted on imposing broad penalties before an invasion and Democrats, backing the White House, refused. 
  <p class="updated_time"> 06:50 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/judge-rejects-oath-keepers-founders-bid-for-release-00010286">Judge rejects Oath Keepers founder’s bid for release</a> Politico: Court orders Stewart Rhodes to remain jailed pending trial on seditious conspiracy charge stemming from Jan. 6 insurrection. 
  <p class="updated_time"> 06:45 PM CT, Feb. 18 </p> 
@@ -194,7 +200,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">What Does Vladimir Putin Want in Ukraine?</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">Explaining Putin’s Decades-Long Obsession With Ukraine</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
  <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
  <p class="updated_time"> 05:47 PM CT, Feb. 18 </p> 
@@ -207,8 +213,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/biden-administration-asks-congress-for-5-billion-to-fight-covid-overseas-00010264">Biden officials ask Congress for $5B in global Covid funds</a> Politico: USAID told lawmakers earlier this month, however, that they needed several times that amount. 
  <p class="updated_time"> 04:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/supreme-court-remain-in-mexico-asylum.html">Supreme Court to Review ‘Remain in Mexico’ Asylum Policy</a> NYT: The justices agreed to hear the Biden administration’s appeal of a lower court’s ruling that blocked it from rescinding the program. 
- <p class="updated_time"> 04:31 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/congress-russia-sanctions.html">Unable to Agree on Russia Sanctions Bill, Senate Settles for a Statement</a> NYT: A bipartisan push to pass the “mother of all sanctions” collapsed after Republicans insisted on imposing broad penalties before an invasion and Democrats, backing the White House, refused. 
  <p class="updated_time"> 04:15 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/civil-suits-trump-jan-6.html">Judge Allows Civil Suits to Proceed Against Trump Over Jan. 6</a> NYT: The ruling means the plaintiffs in three civil cases will likely be able to seek information from the former president over his role in the attack on the Capitol. 
  <p class="updated_time"> 04:08 PM CT, Feb. 18 </p> 
@@ -262,7 +266,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:38 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/durham-right-wing-media-trump.html">Durham Distances Himself From Furor in Right-Wing Media Over Filing</a> NYT: The special counsel implicitly acknowledged that White House internet data he discussed, which conservative outlets have portrayed as proof of spying on the Trump White House, came from the Obama era. 
  <p class="updated_time"> 10:27 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">At least 70 people arrested as police move to end the siege of Canada's capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
+ <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 09:23 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/cuomo-sued-trooper-sexually-harassed-00010102">Cuomo sued by New York trooper who claims he sexually harassed her</a> Politico: The woman, known as Trooper 1 in the lawsuit and in the AG investigation, "is one of the Governor’s victims," the suit contends. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
@@ -307,8 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/17/1081609073/19-austin-police-officers-indicted-from-investigation-into-2020-protests-sources">19 Austin police officers indicted from investigation into 2020 protests, sources say</a> NPR: Aggravated assault charges are among the most on a single police department over tactics used during the widespread protests over George Floyd's death. 
  <p class="updated_time"> 06:00 PM CT, Feb. 17 </p> 
  <a href="https://www.nytimes.com/2022/02/17/us/politics/joe-biden-ronald-reagan-economy.html">What President Biden Could Learn from Ronald Reagan</a> NYT: Blame is a hallmark of American politics. Ronald Reagan couldn’t escape it in his first midterm elections 40 years ago. Can Biden? 
- <p class="updated_time"> 05:56 PM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/senate-spending-bill-shutdown.html">Senate Passes 3-Week Spending Bill, Averting Government Shutdown</a> NYT: The bill, which now goes to President Biden’s desk, will give lawmakers until March 11 to finalize a deal on spending levels for the remainder of the fiscal year. 
  <p class="updated_time"> 05:54 PM CT, Feb. 17 </p> 
  <a href="https://www.npr.org/2022/02/17/1081570341/the-senate-avoids-a-government-shutdown-punting-a-spending-deadline-into-march">The Senate avoids a government shutdown, punting a spending deadline into March</a> NPR: Lawmakers hope to finalize a longer-term spending bill before the new shutdown deadline on March 11. 
  <p class="updated_time"> 05:30 PM CT, Feb. 17 </p> 
