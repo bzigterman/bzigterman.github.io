@@ -29,7 +29,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
  <p class="updated_time"> 10:36 PM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/in-old-school-catholic-poland-youth-are-leaving-the-church-11645263383">In Traditionally Catholic Poland, Youth Are Leaving the Church</a> WSJ: Poland is known as Europe’s last Catholic bastion but religiosity among the young is falling, suggesting the country could soon look much like its western neighbors in religious terms, with broader implications for its society and politics. 
+ <a href="https://www.wsj.com/articles/in-old-school-catholic-poland-youth-are-leaving-the-church-11645263383">In Traditionally Catholic Poland, the Young Are Leaving the Church</a> WSJ: Poland is known as Europe’s last Catholic bastion but religiosity among the young is falling, suggesting the country could soon look much like its western neighbors in religious terms, with broader implications for its society and politics. 
  <p class="updated_time"> 10:32 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be postponed until May 8. 
  <p class="updated_time"> 10:00 PM CT, Feb. 18 </p> 
