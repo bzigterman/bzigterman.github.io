@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:50 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 11:37 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">Soaring Energy Bills Deepen Crisis for Turks, and Erdogan</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
  <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
@@ -70,6 +72,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: Vice-President Kamala Harris warns Russia of "swift and severe" action if it invades Ukraine. 
  <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/russia-ukraine-timeline.html">A Timeline of the Tensions Between Russia and Ukraine</a> NYT: Here is a look at some key moments leading to Russia’s troop buildup around Ukraine. 
+ <p class="updated_time"> 06:28 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. Though many protesters left or were arrested Friday, more than 100 remained Saturday. 
  <p class="updated_time"> 06:01 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The 12 who are still missing are all thought to be truck drivers, according to authorities. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
@@ -90,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
  <p class="updated_time"> 10:36 PM CT, Feb. 18 </p> 
  <a href="https://www.wsj.com/articles/in-old-school-catholic-poland-youth-are-leaving-the-church-11645263383">In Traditionally Catholic Poland, the Young Are Leaving the Church</a> WSJ: Poland is known as Europe’s last Catholic bastion but religiosity among the young is falling, suggesting the country could soon look much like its western neighbors in religious terms, with broader implications for its society and politics. 
- <p class="updated_time"> 10:00 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 07:00 PM CT, Feb. 18 </p> 
@@ -134,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
- <p class="updated_time"> 01:07 PM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/canada-parliament-cancels-session-as-police-clamp-down-on-protesters-11645194677">Ottawa Police Tow Trucks, Arrest Freedom Convoy Protesters</a> WSJ: Dozens of police officers moved in formation and made dozens of arrests to bring an end to a 22-day Freedom Convoy demonstration that has paralyzed Canada’s capital and blocked border crossings. 
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 11:56 AM CT, Feb. 18 </p> 
