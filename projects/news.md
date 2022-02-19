@@ -73,7 +73,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:40 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/17/world/canada/canada-protest-police-crackdown.html">Police in Ottawa Mobilize for an ‘Imminent’ Crackdown on Protest</a> NYT: After weeks of truckers and others blocking border crossings and streets in the capital city, the demonstrations appeared to be nearing an end. 
  <p class="updated_time"> 11:56 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60439402?at_medium=RSS&at_campaign=KARANGA">Daunte Wright death: The moment Kim Potter is sentenced for gun mix-up killing</a> BBC: Ex-officer Kim Potter has been sentenced to two years in prison for fatally shooting Daunte Wright. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60439402?at_medium=RSS&at_campaign=KARANGA">Daunte Wright's mother slams Kim Potter's sentence</a> BBC: Kim Potter begged for forgiveness but Daunte Wright's mother didn't believe the ex-cop feels remorse. 
  <p class="updated_time"> 11:35 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60416617?at_medium=RSS&at_campaign=KARANGA">Maëlys de Araujo: Ex-soldier jailed for life for French girl's murder</a> BBC: Eight-year-old Maëlys de Araujo was abducted and then killed at a wedding five years ago. 
  <p class="updated_time"> 11:23 AM CT, Feb. 18 </p> 
