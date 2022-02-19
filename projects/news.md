@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Putin Oversees Military Drills</a> NYT: President Vladimir V. Putin of Russia presided over a test of his nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
+ <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/as-warnings-of-war-grow-louder-ukrainians-try-to-keep-their-bearings.html">As warnings of war grow louder, Ukrainians try to keep their bearings.</a> NYT: The crisis has taken a toll on many Ukrainians. 
+ <p class="updated_time"> 07:29 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: Her first public remarks on the Ukraine crisis were watched with scrutiny. 
+ <p class="updated_time"> 07:23 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
+ <p class="updated_time"> 07:22 AM CT, Feb. 19 </p> 
+ <a href="https://www.npr.org/2022/02/19/1081948884/mexican-drug-cartels-are-getting-into-the-avocado-and-lime-business">Mexican drug cartels are getting into the avocado and lime business</a> NPR: Scott Simon talks with Vice News Correspondent Emily Green about the increased role of Mexican drug cartels in the avocado and lime business. 
  <p class="updated_time"> 07:12 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters want their team medals before the 2022 Winter Olympics end</a> NPR: The team is requesting the Court of Arbitration for Sport rule so its skaters can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal 
+ <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters want their team medals before the Winter Olympics end</a> NPR: The team is requesting the Court of Arbitration for Sport to rule so its skaters can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
  <p class="updated_time"> 07:07 AM CT, Feb. 19 </p> 
@@ -21,13 +31,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:40 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: Men of fighting age are put on stand-by in Ukraine's breakaway territories amid high tensions. 
  <p class="updated_time"> 06:38 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Biden Warns of Imminent Russian Invasion, and Separatists Issue Call to Arms</a> NYT: President Vladimir V. Putin of Russia presided over a test of the nation’s strategic nuclear readiness, one day after President Biden said he was “convinced” that Russia would attack Ukraine in the coming days. 
- <p class="updated_time"> 06:38 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 06:35 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: US Vice President Kamala Harris has warned Russia of 'severe' consequences if it invades Ukraine. 
- <p class="updated_time"> 06:30 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: Her first public remarks on the Ukraine crisis were watched with scrutiny. 
  <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/russia-ukraine-timeline.html">A Timeline of the Tensions Between Russia and Ukraine</a> NYT: Here is a look at some key moments leading to Russia’s troop buildup around Ukraine. 
  <p class="updated_time"> 06:01 AM CT, Feb. 19 </p> 
@@ -38,16 +44,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
  <p class="updated_time"> 04:31 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Once He Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
- <p class="updated_time"> 04:05 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">Why Ukraine Matters: What to Know About the Crisis With Russia</a> NYT: Here’s how the country ended up at the center of a global crisis. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/arts/design/project-of-independence-moma-review.html">When Architects Made Worlds</a> NYT: MoMA explores an era of sweeping change, when South Asian architects — pioneering women, among them — redefined the postcolonial era and helped construct new nation states. 
  <p class="updated_time"> 03:09 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60443514?at_medium=RSS&at_campaign=KARANGA">Mexican army moves in on drug lord's home town</a> BBC: Landmines planted by rival gangs in the area killed one and injured others in recent weeks. 
- <p class="updated_time"> 02:21 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/as-warnings-of-war-grow-louder-ukrainians-try-to-keep-their-bearings.html">As warnings of war grow louder, Ukrainians try to keep their bearings.</a> NYT: The crisis has taken a toll on many Ukrainians. 
  <p class="updated_time"> 02:19 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
  <p class="updated_time"> 01:42 AM CT, Feb. 19 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60430014?at_medium=RSS&at_campaign=KARANGA">Brad Pitt sues Angelina Jolie over vineyard where they got married</a> BBC: Brad Pitt and Angelina Jolie do battle over ownership of the French vineyard where they got married. 
  <p class="updated_time"> 04:52 AM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60426163?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Hopes fade for survivors in flood-hit Brazil city</a> BBC: Residents flee Petrópolis and the rescue mission is paused as more heavy rain is forecast. 
- <p class="updated_time"> 04:43 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081667709/russia-says-it-will-stage-massive-nuclear-drills-amid-ukraine-standoff">Russia says it will stage nuclear drills amid Ukraine standoff</a> NPR: Russia's The Defense Ministry says  President Vladimir Putin will personally oversee this weekend's exercise. 
  <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/south-korea-election-covid.html">South Korea Prepares for Another Covid-Era National Election</a> NYT: The government requires people with Covid to remain in isolation at home, but a special time window on Election Day would allow them to leave to cast their ballots. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
