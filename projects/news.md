@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:51 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 03:33 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60448638?at_medium=RSS&at_campaign=KARANGA">Ukraine will not respond to provocations, Zelensky says</a> BBC: But President Volodymyr Zelensky says Ukraine is ready to defend itself, amid a deadly rise in fighting. 
+ <p class="updated_time"> 03:32 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Live Updates: World Leaders Press to Avert War in Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine made an emotional appeal to the West to implement sanctions against Russia immediately, and called for his country to be included in deals made about it. 
  <p class="updated_time"> 02:12 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks  was cleared of demonstrators. 
@@ -48,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60448025?at_medium=RSS&at_campaign=KARANGA">Somalia: Suicide bomb hits restaurant on poll eve</a> BBC: At least 10 people died in the blast at a restaurant popular with politicians in the city of Beledweyne. 
  <p class="updated_time"> 09:54 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
- <p class="updated_time"> 09:44 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443504?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Rebels declare general mobilisation as fighting grows</a> BBC: The breakaway territories go on a war footing amid fears Russia will use them as a pretext to invade. 
  <p class="updated_time"> 09:13 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-crisis-new-cold-war.html">In Ukraine Crisis, the Looming Threat of a New Cold War</a> NYT: If he invades, President Vladimir V. Putin is inviting a new global struggle with the West. He should think about how the last one ended, analysts say. 
  <p class="updated_time"> 09:10 AM CT, Feb. 19 </p> 
