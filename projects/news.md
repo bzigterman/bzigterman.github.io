@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:43 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Coronavirus, as England Is Poised to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
  <p class="updated_time"> 01:19 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 01:19 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/heres-what-would-happen-if-queen-elizabeth-were-too-ill-to-carry-out-her-duties.html">Here’s what would happen if Queen Elizabeth were too ill to carry out her duties.</a> NYT: According to Buckingham Palace, if the queen needs to suspend her official duties because of illness or because she is abroad, two or more counselors of state can act on her behalf. 
- <p class="updated_time"> 12:55 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 12:34 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 12:30 PM CT, Feb. 20 </p> 
@@ -100,6 +100,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">Why Ukraine Matters: What to Know About the Crisis With Russia</a> NYT: Here’s how the country ended up at the center of a global crisis. 
  <p class="updated_time"> 10:23 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">Shelling Escalates in Ukraine as Thousands Flee, Fearing Attack</a> NYT: Western leaders repeat calls for a diplomatic resolution to the crisis. Russia fires missiles in a blunt warning of where the conflict could lead. 
+ <p class="updated_time"> 09:16 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
  <p class="updated_time"> 07:52 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Nearly 200 still missing in flood-hit Brazil city</a> BBC: Some 146 deaths are confirmed as bad weather hampers Petrópolis rescuers four days after huge mudslides. 
  <p class="updated_time"> 07:39 PM CT, Feb. 19 </p> 
