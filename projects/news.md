@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:53 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 12:20 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
+ <p class="updated_time"> 12:16 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
+ <p class="updated_time"> 12:10 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/business/credit-suisse-leak-swiss-bank.html">Vast Leak Exposes How Credit Suisse Served Strongmen and Spies</a> NYT: Leaked data on more than 18,000 accounts shows that the Swiss bank missed or ignored red flags. 
  <p class="updated_time"> 11:40 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
  <p class="updated_time"> 11:35 AM CT, Feb. 20 </p> 
@@ -24,12 +28,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
  <p class="updated_time"> 11:22 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082024390/ukraine-russia-putin-macron-cease-fire-discussions">Putin and Macron discuss a cease-fire in Ukraine as shelling appears to escalate</a> NPR: Ukraine's Foreign Ministry said in a statement on Sunday that Russian-backed rebels were continuing to fire mortars in the eastern Ukrainian region of Donbas. 
- <p class="updated_time"> 11:13 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 11:04 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Amid Ukraine Crisis, China and Russia's Bond Alarms U.S. and Europe </a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
- <p class="updated_time"> 11:00 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/business/credit-suisse-leak-swiss-bank.html">Vast Leak Exposes How Credit Suisse Served Strongmen and Spies</a> NYT: Leaked data on more than 18,000 accounts shows that the Swiss bank missed or ignored red flags. 
  <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60454480?at_medium=RSS&at_campaign=KARANGA">Missing dog Zoey reunited with owners after 12 years</a> BBC: Zoey went missing in 2010 when her owners went shopping but she was identified by her microchip. 
  <p class="updated_time"> 10:50 AM CT, Feb. 20 </p> 
@@ -50,6 +50,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/02/20/1082011620/closing-ceremony-winter-olympics-beijing">The — at times complicated — 2022 Beijing Winter Games come to a close</a> NPR: After 16 days and 109 events, the Winter Olympics officially ended Sunday with the traditional closing ceremony. Team U.S.A. finished with 25 medals in all. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451409?at_medium=RSS&at_campaign=KARANGA">Olympics close with plea for peace</a> BBC: The Beijing Games closed on Sunday, with IOC president Thomas Bach calling for political leaders to be inspired by the athletes' "examples of peace". 
+ <p class="updated_time"> 07:14 AM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012420/hong-kong-is-facing-a-severe-outbreak-of-omicron-cases">Hong Kong is facing a severe outbreak of Omicron cases</a> NPR: Hong Kong is struggling to contain a severe outbreak of coronavirus infections. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
@@ -58,12 +60,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1082012392/russia-has-been-showing-diplomatic-interest-in-latin-american-countries">Russia has been showing diplomatic interest in Latin American countries</a> NPR: Don Gonyea speaks with Vladimir Rouvinski of Universidad Icesi in Colombia about Russia's outreach to Latin American countries during the Ukraine crisis. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012385/russia-could-be-waiting-for-olympics-to-end-to-move-forward-with-ukraine-invasio">Russia could be waiting for Olympics to end to move forward with Ukraine invasion</a> NPR: As Vice President Harris noted Sunday, Ukraine is "virtually surrounded by Russian troops." Those troops are poised to invade Ukraine. 
- <p class="updated_time"> 06:56 AM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine. 
+ <p class="updated_time"> 06:53 AM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-people-to-flee-eastern-ukraine-most-are-staying-put-11645379595">Russia Calls on People to Flee Eastern Ukraine. Most Are Staying Put.</a> WSJ: Russian-appointed leaders in two breakaway areas announced evacuations Friday, but most people are unmoved after years of fighting. 
  <p class="updated_time"> 06:10 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60451702?at_medium=RSS&at_campaign=KARANGA">Ethiopia starts generating power from River Nile dam</a> BBC: A "monumental day" for Ethiopia but Egypt and Sudan fear it will reduce their share of Nile waters. 
  <p class="updated_time"> 06:09 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082011535/queen-elizabeth-tests-positive-covid-19">Queen Elizabeth II has tested positive for COVID-19 </a> NPR: Buckingham Palace said the 95-year-old monarch is experiencing mild, cold-like symptoms and will continue with light duties over the next week. She has received three jabs of coronavirus vaccine. 
+ <p class="updated_time"> 06:02 AM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/behind-chinas-warning-against-a-russian-invasion-is-a-desire-to-protect-ties-with-the-u-s-11645376565">China Seeks to Protect Ties With the U.S.</a> WSJ: After strongly supporting Moscow’s standoff with the West over Ukraine, Beijing aligns its position closer to Washington’s. 
  <p class="updated_time"> 06:01 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, it's proving the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
  <p class="updated_time"> 05:36 AM CT, Feb. 20 </p> 
@@ -108,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share video showing swimmers metres away from site</a> BBC: Miami Beach Police says two of the three passengers were taken to hospital in a stable condition. 
- <p class="updated_time"> 02:17 PM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. 
  <p class="updated_time"> 02:11 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 02:10 PM CT, Feb. 19 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/heathrow-wind-eunice.html">As Gale Made an Extreme Sport of Heathrow Landings, He Called the Plays</a> NYT: Jerry Dyer became a media sensation after filming, and commenting on, planes landing at the London airport during a howling storm. 
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
- <p class="updated_time"> 10:36 PM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/in-old-school-catholic-poland-youth-are-leaving-the-church-11645263383">In Traditionally Catholic Poland, the Young Are Leaving the Church</a> WSJ: Poland is known as Europe’s last Catholic bastion but religiosity among the young is falling, suggesting the country could soon look much like its western neighbors in religious terms, with broader implications for its society and politics. 
  <p class="updated_time"> 10:32 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be postponed until May 8. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
@@ -183,6 +183,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/ted-cruz-durham-trump-watergate-00010396">Cruz says Trump may be proved right on spying talk</a> Politico: The Texas senator was addressing a recent court filing by John Durham. 
  <p class="updated_time"> 12:18 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/colorado-polis-lgbtq-laws-un-american-00010395">Colorado governor: Anti-LGBTQ laws are 'un-American'</a> Politico: Gov. Jared Polis, the first openly gay man to be elected governor, expressed concern for LGBTQ youth. 
  <p class="updated_time"> 12:03 PM CT, Feb. 20 </p> 
@@ -212,9 +214,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012399/the-laws-around-presidential-records-are-complex-and-murky">The laws around presidential records are complex and murky</a> NPR: Don Gonyea speaks with James Grossman of the American Historical Association about former President Donald Trump's handling of presidential records. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
