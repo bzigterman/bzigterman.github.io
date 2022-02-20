@@ -33,7 +33,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:03 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429725?at_medium=RSS&at_campaign=KARANGA">The Nigerian artwork challenging British history in St Paul's</a> BBC: St Paul's Cathedral invites artist Victor Ehikhamenor to respond to the looting of the Benin Bronzes. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-60393953?at_medium=RSS&at_campaign=KARANGA">Why won’t Telegram take down my naked photos?</a> BBC: A BBC investigation has found women’s nude photos shared on the social media app Telegram without their consent on a massive scale. 
+ <a href="https://www.bbc.co.uk/news/world-60393953?at_medium=RSS&at_campaign=KARANGA">Why won’t Telegram take down my naked photos?</a> BBC: A BBC investigation finds women’s nude images shared on the app without consent on a massive scale. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60284352?at_medium=RSS&at_campaign=KARANGA">The man who lived in a Singapore forest for 30 years</a> BBC: Mr Oh, who is now 79 years old, lived in a makeshift shelter in woodland in the city-state of Singapore. 
  <p class="updated_time"> 05:51 PM CT, Feb. 19 </p> 
