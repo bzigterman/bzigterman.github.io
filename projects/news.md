@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:02 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
- <p class="updated_time"> 07:53 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 08:15 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills In Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
+ <p class="updated_time"> 08:12 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
+ <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60451409?at_medium=RSS&at_campaign=KARANGA">Olympics close with plea for peace</a> BBC: The Beijing Games closed on Sunday, with IOC president Thomas Bach calling for political leaders to be inspired by the athletes' "examples of peace". 
  <p class="updated_time"> 07:52 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Why The Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
  <p class="updated_time"> 07:44 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 07:29 AM CT, Feb. 20 </p> 
@@ -76,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60284352?at_medium=RSS&at_campaign=KARANGA">The man who lived in a Singapore forest for 30 years</a> BBC: Mr Oh, who is now 79 years old, lived in a makeshift shelter in woodland in the city-state of Singapore. 
  <p class="updated_time"> 05:51 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
- <p class="updated_time"> 04:59 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60448716?at_medium=RSS&at_campaign=KARANGA">Storm Eunice carves deadly trail across Europe</a> BBC: At least 16 people have died as high winds leave homes without power and transport systems in disarray. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share video showing swimmers metres away from site</a> BBC: Miami Beach Police says two of the three passengers were taken to hospital in a stable condition. 
  <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
