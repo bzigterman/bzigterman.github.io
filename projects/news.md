@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:27 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 12:02 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
  <p class="updated_time"> 11:05 PM CT, Feb. 19 </p> 
@@ -41,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:59 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60448716?at_medium=RSS&at_campaign=KARANGA">Storm Eunice carves deadly trail across Europe</a> BBC: At least 16 people have died as high winds leave homes without power and transport systems in disarray. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share footage showing swimmers metres away from site</a> BBC: Miami Beach Police said two of the three passengers were taken to hospital in a stable condition. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share video showing swimmers metres away from site</a> BBC: Miami Beach Police says two of the three passengers were taken to hospital in a stable condition. 
  <p class="updated_time"> 04:29 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The remaining passengers are all thought to be lorry drivers, according to authorities. 
  <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
@@ -82,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/kamala-harris-warns-of-russian-deception-on-ukraine-as-vladimir-putin-oversees-missiletests-11645284503">Harris Warns of Russian Deception on Ukraine</a> WSJ: The U.S. vice president said Russia’s actions make a diplomatic solution less likely during the Munich Security Conference. 
  <p class="updated_time"> 08:57 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60446928?at_medium=RSS&at_campaign=KARANGA">Australia accuses China of shining laser at warplane</a> BBC: The Australian defence ministry said the laser illuminated the plane, potentially endangering life. 
- <p class="updated_time"> 08:53 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 08:50 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">Ukraine President Zelenskyy proposes to meet with Putin as tensions with Russia grow </a> NPR: As fears grow of a Russian invasion of his country, the Ukrainian president offered to meet with his Russian counterpart. The U.S. warned of swift sanctions against Russia if it moves into Ukraine. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
