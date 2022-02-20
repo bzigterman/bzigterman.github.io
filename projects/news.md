@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:20 PM CT, Feb. 20 </p> 
+ <p class="updated_time"> 12:36 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
+ <p class="updated_time"> 12:34 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
+ <p class="updated_time"> 12:30 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Why the Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
+ <p class="updated_time"> 12:29 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
  <p class="updated_time"> 12:16 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 12:10 PM CT, Feb. 20 </p> 
@@ -36,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 10:46 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: But hours later rescuers find a body in a burnt-out lorry in the ferry burning off Greece. 
- <p class="updated_time"> 09:49 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Why the Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
  <p class="updated_time"> 09:45 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-coronavirus.html">Queen Elizabeth Held an Audience at Windsor Castle Days Before Testing Positive</a> NYT: The queen met with members of the military in her first in-person engagement since her son Prince Charles tested positive. 
  <p class="updated_time"> 09:11 AM CT, Feb. 20 </p> 
@@ -84,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/queen-elizabeth-tests-positive-for-covid-19-with-mild-symptoms-11645365144">Queen Elizabeth Tests Positive for Covid-19 With Mild Symptoms</a> WSJ: The 95-year-old British monarch, who recently marked 70 years on the throne, is experiencing “mild cold-like symptoms,” Buckingham Palace said. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
- <p class="updated_time"> 12:02 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
  <p class="updated_time"> 11:30 PM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/taliban-looks-to-private-sector-to-save-afghanistans-economy-from-collapse-11645353000">Taliban Looks to Private Sector to Save Afghanistan's Economy</a> WSJ: The Taliban’s economic vision, it turns out, isn’t so different from America’s. With its economy in free fall, the Taliban is banking on private enterprise to rescue Afghanistan’s people and solidify its regime. 
  <p class="updated_time"> 11:01 PM CT, Feb. 19 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share video showing swimmers metres away from site</a> BBC: Miami Beach Police says two of the three passengers were taken to hospital in a stable condition. 
- <p class="updated_time"> 02:11 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 02:10 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/american-football/60449408?at_medium=RSS&at_campaign=KARANGA">Brian Flores: Pittsburgh Steelers hire ex-Miami coach who is suing NFL</a> BBC: Brian Flores, the former Miami Dolphins head coach who is suing the NFL for racial discrimination, is hired by the Pittsburgh Steelers. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
@@ -185,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/ted-cruz-durham-trump-watergate-00010396">Cruz says Trump may be proved right on spying talk</a> Politico: The Texas senator was addressing a recent court filing by John Durham. 
+ <p class="updated_time"> 12:29 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/sandy-hook-legal-victories.html">How They Did It: Sandy Hook Families Savor Long-Awaited Legal Wins</a> NYT: After early defeats in Congress, relatives of those lost in the 2012 shooting fought on, besting a renowned gun maker and an infamous conspiracy theorist. 
  <p class="updated_time"> 12:18 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/colorado-polis-lgbtq-laws-un-american-00010395">Colorado governor: Anti-LGBTQ laws are 'un-American'</a> Politico: Gov. Jared Polis, the first openly gay man to be elected governor, expressed concern for LGBTQ youth. 
  <p class="updated_time"> 12:03 PM CT, Feb. 20 </p> 
@@ -261,8 +263,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 07:12 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/congress-russia-sanctions.html">Unable to Agree on Russia Sanctions Bill, Senate Settles for a Statement</a> NYT: A bipartisan push to pass the “mother of all sanctions” collapsed after Republicans insisted on imposing broad penalties before an invasion and Democrats, backing the White House, refused. 
- <p class="updated_time"> 06:50 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/judge-rejects-oath-keepers-founders-bid-for-release-00010286">Judge rejects Oath Keepers founder’s bid for release</a> Politico: Court orders Stewart Rhodes to remain jailed pending trial on seditious conspiracy charge stemming from Jan. 6 insurrection. 
  <p class="updated_time"> 06:45 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/business/media/allison-gollust-cnn-cuomo.html">CNN’s Gollust Discussed Interview Topics With Gov. Cuomo, Probe Found</a> NYT: An internal investigation found that a top executive, Allison Gollust, had extensive communications with then-Gov. Andrew Cuomo. 
  <p class="updated_time"> 06:32 PM CT, Feb. 18 </p> 
@@ -307,8 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/biden-to-speak-with-allies-as-u-s-pressures-russia-to-back-down-00010177">Biden says he believes Putin has decided to invade Ukraine</a> Politico: The president's strongest public comments yet come as Russia, which denies plans to attack, has begun amplifying alleged grievances with Kyiv. 
  <p class="updated_time"> 11:55 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081724869/special-counsel-durham-rejects-claims-that-hes-politicized-high-profile-prosecut">Special counsel Durham rejects claims that he's politicized high-profile prosecution</a> NPR: An attorney charged in the investigation into the origins of the Trump-Russia probe had accused Durham of trying to politicize the case and gin up negative press coverage. 
- <p class="updated_time"> 11:37 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/submarine-spy-guilty-plea.html">Submarine Spy Case: Wife of Navy Engineer Pleads Guilty</a> NYT: Diana Toebbe, a high school teacher, acknowledged her part in an effort to try to sell nuclear reactor secrets her husband had taken from the Navy. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/capitol-riot-panel-interview-katrina-pierson-00010154">Jan. 6 panel interviewed Ellipse rally organizer Katrina Pierson</a> Politico: Pierson in her committee interview did not invoke her right to not self-incriminate, known as pleading the Fifth, a source told POLITICO. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
