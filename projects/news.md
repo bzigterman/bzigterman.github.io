@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:37 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 07:53 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills In Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
+ <p class="updated_time"> 07:52 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
+ <p class="updated_time"> 07:52 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
+ <p class="updated_time"> 07:44 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 07:29 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
- <p class="updated_time"> 07:24 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills In Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012420/hong-kong-is-facing-a-severe-outbreak-of-omicron-cases">Hong Kong is facing a severe outbreak of Omicron cases</a> NPR: Hong Kong is struggling to contain a severe outbreak of coronavirus infections. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
@@ -46,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451413?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Finland win first ice hockey gold with victory over Russian Olympic Committee</a> BBC: Finland win their first Olympic men's ice hockey gold with victory over the Russian Olympic Committee on the final day in Beijing. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
- <p class="updated_time"> 12:27 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 12:02 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
  <p class="updated_time"> 11:30 PM CT, Feb. 19 </p> 
@@ -174,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
- <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
 
 
 </details>
@@ -183,6 +183,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:45 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082012441/the-biden-administration-wants-to-present-a-united-front-with-europe-against-rus">The Biden administration wants to present a united front with Europe against Russia</a> NPR: The Russian threat to Ukraine continues to consume the Biden administration's energy, and the Afghan withdrawal looms over the crisis as well. 
  <p class="updated_time"> 07:42 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/beijings-olympics-close-ending-odd-global-moment-00010384">Beijing’s Olympics close, ending  odd global moment</a> Politico: Xi Jinping and IOC President Thomas Bach stood together as Beijing handed off to Milan-Cortina, site of the 2026 Winter Games. 
  <p class="updated_time"> 07:29 AM CT, Feb. 20 </p> 
@@ -297,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/jim-hagedorn-00010113">GOP congressman dies after battle with kidney cancer</a> Politico: Rep. Jim Hagedorn was first diagnosed with stage 4 kidney cancer in 2019. 
- <p class="updated_time"> 08:55 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081691222/child-tax-credit-poverty">3.7 million more kids are in poverty without the monthly Child Tax Credit, study says</a> NPR: In one month, the child poverty rate increased from 12.1 to 17 percent, the highest rate seen since Dec. 2020. Black and Latino children experienced an even higher rate of poverty. 
  <p class="updated_time"> 08:07 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/marine-corps-nurse-fake-vaccine-cards.html">Man Charged in Jan. 6 Riot Sold Forged Vaccination Cards, U.S. Says</a> NYT: Prosecutors said that the man, Jia Liu, a Marine Corps reservist, conspired with a nurse, Steven Rodriguez, to distribute hundreds of fraudulent vaccine cards. 
  <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
