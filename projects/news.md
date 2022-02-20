@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:34 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: Biden Warning on Russian Attack Was Prompted by New Intelligence</a> NYT: The American president stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
+ <p class="updated_time"> 02:32 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 02:26 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60456196?at_medium=RSS&at_campaign=KARANGA">Credit Suisse denies wrongdoing after big banking data leak</a> BBC: A new investigation identifies thousands of foreign customers who stashed their money at the bank. 
- <p class="updated_time"> 02:24 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
- <p class="updated_time"> 01:43 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Coronavirus, as England Is Poised to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
  <p class="updated_time"> 01:19 PM CT, Feb. 20 </p> 
@@ -94,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/queen-elizabeth-tests-positive-for-covid-19-with-mild-symptoms-11645365144">Queen Elizabeth Tests Positive for Covid-19 With Mild Symptoms</a> WSJ: The 95-year-old British monarch, who recently marked 70 years on the throne, is experiencing “mild cold-like symptoms,” Buckingham Palace said. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
- <p class="updated_time"> 11:30 PM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/taliban-looks-to-private-sector-to-save-afghanistans-economy-from-collapse-11645353000">Taliban Looks to Private Sector to Save Afghanistan's Economy</a> WSJ: The Taliban’s economic vision, it turns out, isn’t so different from America’s. With its economy in free fall, the Taliban is banking on private enterprise to rescue Afghanistan’s people and solidify its regime. 
  <p class="updated_time"> 11:01 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451034?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Criss-crossing the country with Zelensky</a> BBC: The BBC's Sarah Rainsford travels with Ukraine's leader amid his efforts to prevent a Russian invasion. 
  <p class="updated_time"> 10:41 PM CT, Feb. 19 </p> 
@@ -117,7 +115,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:51 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share video showing swimmers metres away from site</a> BBC: Miami Beach Police says two of the three passengers were taken to hospital in a stable condition. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share footage showing swimmers metres away from site</a> BBC: Miami Beach Police said two of the three passengers were taken to hospital in a stable condition. 
  <p class="updated_time"> 02:10 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/american-football/60449408?at_medium=RSS&at_campaign=KARANGA">Brian Flores: Pittsburgh Steelers hire ex-Miami coach who is suing NFL</a> BBC: Brian Flores, the former Miami Dolphins head coach who is suing the NFL for racial discrimination, is hired by the Pittsburgh Steelers. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
@@ -293,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081872137/biden-administration-prepares-to-pivot-on-pandemic-approach">Biden administration prepares to pivot on pandemic approach</a> NPR: The White House is trying to move away from a crisis footing on COVID. By the time of the State of the Union, President Biden may be able to explain how things get back to normal. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
- <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
  <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
