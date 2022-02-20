@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/02/20/1082011620/closing-ceremony-winter-olympics-beijing">The — at times complicated — 2022 Beijing Winter Games come to a close</a> NPR: After 16 days and 109 events, the Winter Olympics officially ended Sunday with the traditional closing ceremony. Team U.S.A. finished with 25 medals in all. 
  <p class="updated_time"> 08:26 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 08:26 AM CT, Feb. 20 </p> 
@@ -50,10 +52,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60451705?at_medium=RSS&at_campaign=KARANGA">Queensland man dies after allegedly having leg sawn off</a> BBC: A 36-year-old is charged with murder after allegedly sawing off another man's leg in an Australian park. 
  <p class="updated_time"> 04:01 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-and-belarus-stage-a-pretend-battle-as-the-threat-of-a-real-one-looms-in-neighboring-ukraine.html">Russia and Belarus Stage Pretend Battle as Threat of Real One Looms in Ukraine</a> NYT: A 10-day joint exercise involves the biggest deployment of Russian troops on the territory of Belarus since the end of the Cold War. 
+ <p class="updated_time"> 03:35 AM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-tests-positive-for-covid-19-with-mild-symptoms-11645365144">Queen Elizabeth Tests Positive for Covid-19 With Mild Symptoms</a> WSJ: The 95-year-old British monarch, who recently marked 70 years on the throne, is experiencing “mild cold-like symptoms,” Buckingham Palace said. 
  <p class="updated_time"> 03:33 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451413?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Finland win first ice hockey gold with victory over Russian Olympic Committee</a> BBC: Finland win their first Olympic men's ice hockey gold with victory over the Russian Olympic Committee on the final day in Beijing. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
+ <p class="updated_time"> 02:46 AM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Belarus Drills for Thousands of Troops as Ukraine Violence Escalates</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine. 
  <p class="updated_time"> 12:02 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
  <p class="updated_time"> 11:30 PM CT, Feb. 19 </p> 
@@ -100,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police clear protesters around Canada's Parliament building</a> NPR: Police in Ottawa have made 170 arrests so far as they work to clear the streets in Canada's capital city. Protests against COVID-19 restrictions have spread across Canada in recent weeks. 
  <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/australia-accuses-china-of-shining-laser-at-surveillance-plane-11645313659">Australia Accuses China of Shining Laser at Surveillance Plane</a> WSJ: Incident on Feb. 17 in Australia’s territorial waters was a deliberate act, defense minister says. 
- <p class="updated_time"> 12:22 PM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438">Russian Proxies in Eastern Ukraine Mobilize Troops, Kill Two Ukrainian Soldiers</a> WSJ: Kyiv dismissed the call-up and moves to evacuate civilian residents of Russian-held Donetsk and Luhansk areas as a provocation. 
  <p class="updated_time"> 12:00 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/putin-ukraine-genocide.html">Putin’s Baseless Claims of Genocide Hint at More Than War</a> NYT: The invocations serve to justify not just Moscow’s actions in Ukraine, but also its wider quest for a new imperial identity rooted in Russian ethnicity. 
  <p class="updated_time"> 11:37 AM CT, Feb. 19 </p> 
@@ -134,10 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: Vice-President Kamala Harris warns Russia of "swift and severe" action if it invades Ukraine. 
  <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/russia-ukraine-timeline.html">A Timeline of the Tensions Between Russia and Ukraine</a> NYT: Here is a look at some key moments leading to Russia’s troop buildup around Ukraine. 
- <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081657319/winter-olympics-environmental-impact">Beijing Olympic organizers are touting a green Games. The reality is much different</a> NPR: Authorities in China said they planted nearly 200,000 acres of forest and green areas prior to the Winter Games. But they also transplanted nearly 20,000 trees, which could endanger animal habitats. 
- <p class="updated_time"> 05:24 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/jean-luc-brunel-an-associate-of-jeffrey-epstein-found-dead-in-paris-prison-11645287842">Jean-Luc Brunel, an Associate of Jeffrey Epstein, Found Dead in Paris Prison</a> WSJ: The modeling agent and close associate of convicted sex offender Jeffrey Epstein was found hanged in his cell on Friday night. 
  <p class="updated_time"> 05:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
