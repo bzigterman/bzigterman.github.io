@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:37 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 12:02 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
  <p class="updated_time"> 11:05 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
@@ -31,7 +31,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:03 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429725?at_medium=RSS&at_campaign=KARANGA">The Nigerian artwork challenging British history in St Paul's</a> BBC: St Paul's Cathedral invites artist Victor Ehikhamenor to respond to the looting of the Benin Bronzes. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-60393953?at_medium=RSS&at_campaign=KARANGA">Why won’t Telagram take my naked photos down?</a> BBC: A BBC investigation has found women’s nude photos shared on the social media app Telegram without their consent on a massive scale. 
+ <a href="https://www.bbc.co.uk/news/world-60393953?at_medium=RSS&at_campaign=KARANGA">Why won’t Telegram take down my naked photos?</a> BBC: A BBC investigation has found women’s nude photos shared on the social media app Telegram without their consent on a massive scale. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60284352?at_medium=RSS&at_campaign=KARANGA">The man who lived in a Singapore forest for 30 years</a> BBC: Mr Oh, who is now 79 years old, lived in a makeshift shelter in woodland in the city-state of Singapore. 
  <p class="updated_time"> 05:51 PM CT, Feb. 19 </p> 
