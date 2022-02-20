@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:37 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 08:49 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Put Sanctions on Russia Now, Zelensky Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 07:52 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Nearly 200 still missing in flood-hit Brazil city</a> BBC: Some 146 deaths are confirmed as bad weather hampers Petrópolis rescuers four days after huge mudslides. 
