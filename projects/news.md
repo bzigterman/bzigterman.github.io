@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:49 PM CT, Feb. 19 </p> 
+ <p class="updated_time"> 09:05 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Put Sanctions on Russia Now, Zelensky Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
+ <p class="updated_time"> 08:31 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/counting-russian-troops-is-an-imprecise-science.html">Counting Russian troops is an imprecise science.</a> NYT: American officials said a new troop estimate includes some forces that were not previously counted — most notably Russian forces in Crimea, as well as separatist forces in the Donbas region. 
  <p class="updated_time"> 07:52 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Nearly 200 still missing in flood-hit Brazil city</a> BBC: Some 146 deaths are confirmed as bad weather hampers Petrópolis rescuers four days after huge mudslides. 
  <p class="updated_time"> 07:39 PM CT, Feb. 19 </p> 
@@ -48,6 +50,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
  <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police work to clear protesters around Canada's Parliament building</a> NPR: Police in Ottawa have made 170 arrests so far as they work to clear the streets in Canada's capital city. Protests against COVID-19 restrictions have spread across Canada in recent weeks. 
+ <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/australia-accuses-china-of-shining-laser-at-surveillance-plane-11645313659">Australia Accuses China of Shining Laser at Surveillance Plane</a> WSJ: Incident on Feb. 17 in Australia’s territorial waters was a deliberate act, defense minister says. 
  <p class="updated_time"> 12:22 PM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438">Russian Proxies in Eastern Ukraine Mobilize Troops, Kill Two Ukrainian Soldiers</a> WSJ: Kyiv dismissed the call-up and moves to evacuate civilian residents of Russian-held Donetsk and Luhansk areas as a provocation. 
  <p class="updated_time"> 12:02 PM CT, Feb. 19 </p> 
@@ -160,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
  <p class="updated_time"> 10:52 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081691685/doping-russia-kamila-valieva">After Valieva: 5 questions for a doping expert about fixing a messy system</a> NPR: "That was an incredibly troubling outcome," doping expert April Henning says of Russian skating star Kamila Valieva's collapse. She says Valieva "was failed at all levels" by the adults around her. 
- <p class="updated_time"> 10:36 AM CT, Feb. 18 </p> 
- <a href="https://www.wsj.com/articles/mexico-resumes-exports-of-avocados-to-u-s-11645213662">Mexico Resumes Exports of Avocados to U.S.</a> WSJ: A suspension is lifted as Mexico takes measures to ensure the safety of U.S. inspectors. 
  <p class="updated_time"> 10:27 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
@@ -176,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/south-korea-election-covid.html">South Korea Prepares for Another Covid-Era National Election</a> NYT: The government requires people with Covid to remain in isolation at home, but a special time window on Election Day would allow them to leave to cast their ballots. 
  <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
- <p class="updated_time"> 03:50 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/what-is-munich-security-conference.html">What Is the Munich Security Conference?</a> NYT: The gathering was founded in 1963 as a way for Western leaders to discuss threats and dangers in an informal setting. This year’s focus is on the fabric of Europe. 
 
 
 </details>
