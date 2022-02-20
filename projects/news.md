@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:16 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
+ <p class="updated_time"> 05:06 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60451705?at_medium=RSS&at_campaign=KARANGA">Queensland man dies after allegedly having leg sawn off</a> BBC: A 36-year-old is charged with murder after allegedly sawing off another man's leg in an Australian park. 
  <p class="updated_time"> 04:59 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 04:01 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-and-belarus-stage-a-pretend-battle-as-the-threat-of-a-real-one-looms-in-neighboring-ukraine.html">Russia and Belarus Stage Pretend Battle as Threat of Real One Looms in Ukraine</a> NYT: A 10-day joint exercise involves the biggest deployment of Russian troops on the territory of Belarus since the end of the Cold War. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
- <p class="updated_time"> 03:50 AM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
  <p class="updated_time"> 03:33 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451413?at_medium=RSS&at_campaign=KARANGA">Finland beat Russia to win first ice hockey gold</a> BBC: Finland win their first Olympic men's ice hockey gold with victory over the Russian Olympic Committee on the final day in Beijing. 
  <p class="updated_time"> 03:32 AM CT, Feb. 20 </p> 
@@ -76,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/australia-accuses-china-of-shining-laser-at-surveillance-plane-11645313659">Australia Accuses China of Shining Laser at Surveillance Plane</a> WSJ: Incident on Feb. 17 in Australia’s territorial waters was a deliberate act, defense minister says. 
  <p class="updated_time"> 12:22 PM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/breakaway-regions-in-ukraine-issue-call-up-orders-as-russia-tests-missiles-11645277438">Russian Proxies in Eastern Ukraine Mobilize Troops, Kill Two Ukrainian Soldiers</a> WSJ: Kyiv dismissed the call-up and moves to evacuate civilian residents of Russian-held Donetsk and Luhansk areas as a provocation. 
- <p class="updated_time"> 12:02 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443518?at_medium=RSS&at_campaign=KARANGA">Jean-Luc Brunel: Epstein associate found dead in Paris prison cell</a> BBC: Model agent Jean-Luc Brunel was being investigated for rape and supplying girls to Jeffrey Epstein. 
  <p class="updated_time"> 12:00 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/putin-ukraine-genocide.html">Putin’s Baseless Claims of Genocide Hint at More Than War</a> NYT: The invocations serve to justify not just Moscow’s actions in Ukraine, but also its wider quest for a new imperial identity rooted in Russian ethnicity. 
  <p class="updated_time"> 11:37 AM CT, Feb. 19 </p> 
