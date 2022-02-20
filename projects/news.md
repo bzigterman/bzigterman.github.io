@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:14 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
  <p class="updated_time"> 03:50 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
- <p class="updated_time"> 03:47 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 03:33 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451413?at_medium=RSS&at_campaign=KARANGA">Finland beat Russia to win first ice hockey gold</a> BBC: Finland win their first Olympic men's ice hockey gold with victory over the Russian Olympic Committee on the final day in Beijing. 
  <p class="updated_time"> 03:32 AM CT, Feb. 20 </p> 
@@ -181,6 +183,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/justice-department-china-initiative.html">Justice Dept. Is Set to Modify Trump-Era Program Aimed at Fighting Chinese Threats</a> NYT: Critics said the China Initiative unfairly targeted Asian professors and contributed to a rising tide of anti-Asian sentiment. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
  <p class="updated_time"> 02:00 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/substitute-teachers-national-guard-new-mexico.html">New Twist in Pandemic’s Impact on Schools: Substitutes in Camouflage</a> NYT: Deployed to classrooms in New Mexico to help with crippling staff shortages, National Guard troops are employing their informal motto, “Semper Gumby” — Always Flexible. 
  <p class="updated_time"> 07:02 PM CT, Feb. 19 </p> 
@@ -273,8 +279,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/18/politics/putin-russia-ukraine-scenarios-what-matters/index.html">Putin's possible endgames in Ukraine</a> CNN: As the US seeks to convince the world that Russia is bluffing about a drawdown of troops near Ukraine, it's worth considering what's informing Russia's decision-making and what the possible endgame scenarios might be. 
  <p class="updated_time"> 12:47 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081796995/minnesota-rep-jim-hagedorn-dies">Minnesota Rep. Jim Hagedorn has died at 59 after a battle with cancer </a> NPR: U.S. Rep. Jim Hagedorn, a conservative Republican from southern Minnesota who followed his father's footsteps into Congress, has died after a battle with kidney cancer, his wife said. 
- <p class="updated_time"> 12:22 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/prosecutors-midterms-crime.html">As Crime Surges, Roll Back of Tough-on-Crime Policies Faces Resistance</a> NYT: With violent crime rates rising and elections looming, progressive prosecutors are facing resistance to their plans to roll back stricter crime policies of the 1990s. 
  <p class="updated_time"> 12:13 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/biden-to-speak-with-allies-as-u-s-pressures-russia-to-back-down-00010177">Biden says he believes Putin has decided to invade Ukraine</a> Politico: The president's strongest public comments yet come as Russia, which denies plans to attack, has begun amplifying alleged grievances with Kyiv. 
  <p class="updated_time"> 11:55 AM CT, Feb. 18 </p> 
@@ -283,8 +287,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/us/politics/submarine-spy-guilty-plea.html">Submarine Spy Case: Wife of Navy Engineer Pleads Guilty</a> NYT: Diana Toebbe, a high school teacher, acknowledged her part in an effort to try to sell nuclear reactor secrets her husband had taken from the Navy. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/capitol-riot-panel-interview-katrina-pierson-00010154">Jan. 6 panel interviewed Ellipse rally organizer Katrina Pierson</a> Politico: Pierson in her committee interview did not invoke her right to not self-incriminate, known as pleading the Fifth, a source told POLITICO. 
- <p class="updated_time"> 10:38 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/durham-right-wing-media-trump.html">Durham Distances Himself From Furor in Right-Wing Media Over Filing</a> NYT: The special counsel implicitly acknowledged that White House internet data he discussed, which conservative outlets have portrayed as proof of spying on the Trump White House, came from the Obama era. 
  <p class="updated_time"> 10:27 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
