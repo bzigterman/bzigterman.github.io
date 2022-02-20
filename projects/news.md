@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:10 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/asia/olympics-closing-ceremony-beijing.html">With Olympics Closing Ceremony, China Celebrates a Joyless Triumph</a> NYT: The Games ended without disaster but overshadowed by a doping scandal, rising tensions in Europe and anxiety over the future of the sporting movement. 
+ <p class="updated_time"> 06:09 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082011535/queen-elizabeth-tests-positive-covid-19">Queen Elizabeth II has tested positive for COVID-19 </a> NPR: Buckingham Palace said the 95-year-old monarch is experiencing mild, cold-like symptoms and will continue with light duties over the next week. She has received three jabs of coronavirus vaccine. 
+ <p class="updated_time"> 06:01 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, it's proving the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
  <p class="updated_time"> 05:38 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Ukraine Remembers Deadly Protests, as New Threat Looms</a> NYT: Kyiv uses the anniversary of a 2014 protest movement to rally the nation, as it faces a possible invasion by Russia. President Volodymyr Zelensky appealed to Western nations to immediately impose sanctions against Moscow, as shelling continued in eastern Ukraine. 
  <p class="updated_time"> 05:26 AM CT, Feb. 20 </p> 
@@ -20,6 +26,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-and-belarus-stage-a-pretend-battle-as-the-threat-of-a-real-one-looms-in-neighboring-ukraine.html">Russia and Belarus Stage Pretend Battle as Threat of Real One Looms in Ukraine</a> NYT: A 10-day joint exercise involves the biggest deployment of Russian troops on the territory of Belarus since the end of the Cold War. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
+ <p class="updated_time"> 03:33 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60451413?at_medium=RSS&at_campaign=KARANGA">Winter Olympics: Finland win first ice hockey gold with victory over Russian Olympic Committee</a> BBC: Finland win their first Olympic men's ice hockey gold with victory over the Russian Olympic Committee on the final day in Beijing. 
  <p class="updated_time"> 03:32 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: "Tell me I'm alive" - the first words of a truck driver rescued from a ferry burning off Greece. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
@@ -92,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-crisis-new-cold-war.html">In Ukraine Crisis, the Looming Threat of a New Cold War</a> NYT: If he invades, President Vladimir V. Putin is inviting a new global struggle with the West. He should think about how the last one ended, analysts say. 
  <p class="updated_time"> 09:10 AM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/kamala-harris-warns-of-russian-deception-on-ukraine-as-vladimir-putin-oversees-missiletests-11645284503">Harris Warns of Russian Deception on Ukraine</a> WSJ: The U.S. vice president said Russia’s actions make a diplomatic solution less likely during the Munich Security Conference. 
- <p class="updated_time"> 08:57 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60446928?at_medium=RSS&at_campaign=KARANGA">Australia accuses China of shining laser at warplane</a> BBC: The Australian defence ministry said the laser illuminated the plane, potentially endangering life. 
  <p class="updated_time"> 08:50 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">Ukraine President Zelenskyy proposes to meet with Putin as tensions with Russia grow </a> NPR: As fears grow of a Russian invasion of his country, the Ukrainian president offered to meet with his Russian counterpart. The U.S. warned of swift sanctions against Russia if it moves into Ukraine. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
@@ -162,10 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60439402?at_medium=RSS&at_campaign=KARANGA">Daunte Wright's mother slams Kim Potter's sentence</a> BBC: Kim Potter begs for forgiveness but Daunte Wright's mother doesn't believe the ex-cop feels remorse. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
- <p class="updated_time"> 10:52 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081691685/doping-russia-kamila-valieva">After Valieva: 5 questions for a doping expert about fixing a messy system</a> NPR: "That was an incredibly troubling outcome," doping expert April Henning says of Russian skating star Kamila Valieva's collapse. She says Valieva "was failed at all levels" by the adults around her. 
- <p class="updated_time"> 10:27 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081716448/police-arrest-ottawa-protesters">Police arrest more than 100 protesters as they try to break siege at Canadian capital</a> NPR: Police in Ottawa say they have made progress in clearing out truckers who have paralyzed Ottawa for three weeks in a protest against the country's COVID-19 restrictions. 
  <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
@@ -174,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
  <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
- <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/asia/south-korea-election-covid.html">South Korea Prepares for Another Covid-Era National Election</a> NYT: The government requires people with Covid to remain in isolation at home, but a special time window on Election Day would allow them to leave to cast their ballots. 
 
 
 </details>
@@ -183,6 +183,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
+ <p class="updated_time"> 06:54 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/kamala-harris-munich-security-00010383">Harris offers support for defiant Ukrainian president</a> Politico: "He came here make a very clear point that he does not stand alone," she said of Zelenskyy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/justice-department-china-initiative.html">Justice Dept. Is Set to Modify Trump-Era Program Aimed at Fighting Chinese Threats</a> NYT: Critics said the China Initiative unfairly targeted Asian professors and contributed to a rising tide of anti-Asian sentiment. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
@@ -347,8 +351,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
- <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
