@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:48 PM CT, Feb. 20 </p> 
+ <p class="updated_time"> 12:55 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 12:36 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
@@ -295,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/business/economy/federal-reserve-trading-restrictions.html">Federal Reserve Rolls Out Tough Trading Restrictions After Scandal</a> NYT: Top Federal Reserve officials will be barred from owning many securities after a trading scandal and a series of prominent resignations. 
  <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
- <p class="updated_time"> 02:23 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/newsom-texas-style-bill-sue-gun-makers-00010201">Newsom announces Texas-style bill that would let residents sue gun makers</a> Politico: New California legislation encouraging litigation against makers and dealers of assault rifles and ghost guns is modeled on a Texas law allowing people to sue abortion providers. 
  <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/ukraine-calm-russia-invasion-00010198">'Keep a cool head': Ukraine urges calm as the drumbeats of war get louder</a> Politico: Western officials are warning that a Russian invasion could come any day now, but some top Ukrainian officials still think Putin is playing the pressure game. 
  <p class="updated_time"> 01:25 PM CT, Feb. 18 </p> 
