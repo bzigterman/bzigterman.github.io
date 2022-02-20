@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:01 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 10:45 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
+ <p class="updated_time"> 10:34 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
- <p class="updated_time"> 10:01 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 10:34 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
+ <p class="updated_time"> 10:31 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/corfu-ferry-fire-rescue.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
+ <p class="updated_time"> 10:22 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60451955?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia keeps troops in Belarus amid Ukraine fears</a> BBC: The decision fuels renewed fears that Russia plans to invade Ukraine, despite denials from Moscow. 
+ <p class="updated_time"> 10:19 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
  <p class="updated_time"> 09:49 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Why the Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
  <p class="updated_time"> 09:45 AM CT, Feb. 20 </p> 
@@ -26,14 +34,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: "Tell me I'm alive" - the first words of a truck driver rescued from a ferry burning off Greece. 
  <p class="updated_time"> 09:05 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60454475?at_medium=RSS&at_campaign=KARANGA">Nepal police fire rubber bullets during US grant protest</a> BBC: Demonstrations in Kathmandu centre on the belief accepting US money undermines Nepal's sovereignty. 
- <p class="updated_time"> 08:50 AM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60451955?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia keeps troops in Belarus amid Ukraine fears</a> BBC: The decision fuels renewed fears that Russia plans to invade Ukraine, despite denials from Moscow. 
  <p class="updated_time"> 08:37 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/20/1082011620/closing-ceremony-winter-olympics-beijing">The — at times complicated — 2022 Beijing Winter Games come to a close</a> NPR: After 16 days and 109 events, the Winter Olympics officially ended Sunday with the traditional closing ceremony. Team U.S.A. finished with 25 medals in all. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451409?at_medium=RSS&at_campaign=KARANGA">Olympics close with plea for peace</a> BBC: The Beijing Games closed on Sunday, with IOC president Thomas Bach calling for political leaders to be inspired by the athletes' "examples of peace". 
- <p class="updated_time"> 07:44 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 07:29 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Amid Ukraine Crisis, China and Russia's Bond Alarms U.S. and Europe </a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
@@ -168,12 +172,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-russia-separatists-shelling.html">As Shelling Picks Up, Eastern Ukrainians Are Cowering</a> NYT: With nowhere to go, many are increasingly fearful that their villages could become the flash point for a wider war. 
  <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
- <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
- <p class="updated_time"> 10:23 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
 
 
 </details>
@@ -181,6 +181,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:45 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/20/harris-declares-unity-while-zelenskyy-accuses-appeasement-00010389">Harris declares ‘unity,’ while Zelenskyy accuses ‘appeasement’</a> Politico Playbook: And Democrats try to recalibrate for the midterms. 
+ <p class="updated_time"> 11:28 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/finland-russia-putin-00010391">Finland's president sees changes in Putin: 'It was a different kind of behavior'</a> Politico: He said his nation might consider joining NATO if it felt threatened. 
  <p class="updated_time"> 10:14 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/blinken-russia-ukraine-invasion-00010387">Blinken: Russia seems to be ‘on the brink of invasion’</a> Politico: “Everything we’re seeing suggests that this is dead serious," he said. 
  <p class="updated_time"> 09:47 AM CT, Feb. 20 </p> 
@@ -317,8 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
- <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
