@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: "Tell me I'm alive" - the first words of a truck driver rescued from a ferry burning off Greece. 
+ <p class="updated_time"> 03:21 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
+ <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
  <p class="updated_time"> 03:01 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60451702?at_medium=RSS&at_campaign=KARANGA">Ethiopia starts generating power from River Nile dam</a> BBC: A "monumental day" for Ethiopia but Egypt and Sudan fear it will reduce their share of Nile waters. 
- <p class="updated_time"> 02:01 AM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: The man was spotted on the ship's stern and contacted rescuers, but 11 people remain missing. 
  <p class="updated_time"> 01:34 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 12:27 AM CT, Feb. 20 </p> 
@@ -142,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/technology/kazakhstan-internet-russia-ukraine.html">Kazakhstan's Internet Shutdowns Could Be a Warning for Ukraine</a> NYT: Control of the internet is increasingly part of any modern conflict. 
  <p class="updated_time"> 04:10 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-russia-separatists-shelling.html">As Shelling Picks Up, Eastern Ukrainians Are Cowering</a> NYT: With nowhere to go, many are increasingly fearful that their villages could become the flash point for a wider war. 
- <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60439404?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police clear demonstrators in capital Ottawa</a> BBC: After three weeks, police in Ottawa stepp up efforts to remove anti-vaccine mandate protesters. 
  <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
  <p class="updated_time"> 03:44 PM CT, Feb. 18 </p> 
