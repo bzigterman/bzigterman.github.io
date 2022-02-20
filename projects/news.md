@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
- <p class="updated_time"> 06:40 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 07:23 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills In Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
+ <p class="updated_time"> 07:16 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082012420/hong-kong-is-facing-a-severe-outbreak-of-omicron-cases">Hong Kong is facing a severe outbreak of Omicron cases</a> NPR: Hong Kong is struggling to contain a severe outbreak of coronavirus infections. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082012406/valerie-pecresse-is-the-first-female-nominee-of-a-french-mainstream-political-pa">Valerie Pecresse is the first female nominee of a French mainstream political party</a> NPR: Valerie Pecresse, the first female nominee of a mainstream political party in France, is struggling in her bid to unseat President Emmanuel Macron. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082012392/russia-has-been-showing-diplomatic-interest-in-latin-american-countries">Russia has been showing diplomatic interest in Latin American countries</a> NPR: Don Gonyea speaks with Vladimir Rouvinski of Universidad Icesi in Colombia about Russia's outreach to Latin American countries during the Ukraine crisis. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082012385/russia-could-be-waiting-for-olympics-to-end-to-move-forward-with-ukraine-invasio">Russia could be waiting for Olympics to end to move forward with Ukraine invasion</a> NPR: As Vice President Harris noted Sunday, Ukraine is "virtually surrounded by Russian troops." Those troops are poised to invade Ukraine. 
  <p class="updated_time"> 06:37 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451955?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia keeps troops in Belarus amid Ukraine fears</a> BBC: The decision fuels renewed fears that Russia plans to invade Ukraine, despite denials from Moscow. 
  <p class="updated_time"> 06:28 AM CT, Feb. 20 </p> 
@@ -24,10 +32,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1082011535/queen-elizabeth-tests-positive-covid-19">Queen Elizabeth II has tested positive for COVID-19 </a> NPR: Buckingham Palace said the 95-year-old monarch is experiencing mild, cold-like symptoms and will continue with light duties over the next week. She has received three jabs of coronavirus vaccine. 
  <p class="updated_time"> 06:01 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, it's proving the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
+ <p class="updated_time"> 05:36 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/athletics/60453007?at_medium=RSS&at_campaign=KARANGA">Ultrarunner breaks own 100-mile world record</a> BBC: American Camille Herron breaks her own women's world record in winning the USA Track and Field 100-mile Championships in Nevada. 
  <p class="updated_time"> 05:26 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
- <p class="updated_time"> 05:16 AM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
  <p class="updated_time"> 05:06 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60451705?at_medium=RSS&at_campaign=KARANGA">Queensland man dies after allegedly having leg sawn off</a> BBC: A 36-year-old is charged with murder after allegedly sawing off another man's leg in an Australian park. 
  <p class="updated_time"> 04:01 AM CT, Feb. 20 </p> 
@@ -52,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">Shelling Escalates in Ukraine as Thousands Flee, Fearing Attack</a> NYT: Western leaders repeat calls for a diplomatic resolution to the crisis. Russia fires missiles in a blunt warning of where the conflict could lead. 
  <p class="updated_time"> 09:16 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-economy-putin.html">How Putin Has Already Weakened Ukraine’s Economy</a> NYT: Flights have been canceled, commercial shipping is threatened, and people fear an invasion is not far off. 
- <p class="updated_time"> 08:31 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/counting-russian-troops-is-an-imprecise-science.html">Counting Russian troops is an imprecise science.</a> NYT: American officials said a new troop estimate includes some forces that were not previously counted — most notably Russian forces in Crimea, as well as separatist forces in the Donbas region. 
  <p class="updated_time"> 07:52 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Nearly 200 still missing in flood-hit Brazil city</a> BBC: Some 146 deaths are confirmed as bad weather hampers Petrópolis rescuers four days after huge mudslides. 
  <p class="updated_time"> 07:39 PM CT, Feb. 19 </p> 
@@ -158,14 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-russia-separatists-shelling.html">As Shelling Picks Up, Eastern Ukrainians Are Cowering</a> NYT: With nowhere to go, many are increasingly fearful that their villages could become the flash point for a wider war. 
  <p class="updated_time"> 04:09 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/france-election-macron-zemmour-le-pen.html">How Macron Stands as France's Presidential Election Looms</a> NYT: The president, not even a formal candidate yet, seems to benefit from standing above the anti-immigrant fray. 
- <p class="updated_time"> 03:44 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081873322/russian-naval-exercises-stoke-fears-of-black-sea-blockade">Russian naval exercises stoke fears of Black Sea blockade</a> NPR: Russian Navy exercises at Ukraine's ports are disrupting critical shipping lanes. Some businesses worry the ships could stay and try to completely block Ukrainian ports amid fears of an invasion. 
- <p class="updated_time"> 02:29 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081744761/white-house-says-kremlin-was-behind-denial-of-service-attack-in-ukraine">Biden 'convinced' Russia will invade Ukraine, but still hopes diplomacy will prevail</a> NPR: Biden's remarks came shortly after the White House said the Kremlin was behind denial-of-service attacks in Ukraine. 
- <p class="updated_time"> 02:24 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081790784/ukraine-evacuation-russia-donetsk">A rebel in east Ukraine accused Kyiv of planning an attack. The U.S. says he's lying</a> NPR: A Russian-backed separatist leader in eastern Ukraine announced an evacuation to Russia, alleging the Ukrainian military was preparing an offensive in the area. The U.S. says it's "disinformation." 
- <p class="updated_time"> 02:04 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081825944/avocados-mexico-ban">Avocado shipments from Mexico are resuming after the U.S. lifts its ban</a> NPR: The U.S. had halted inspections of avocados from Mexico on Saturday, after a USDA inspector received a verbal threat. 
  <p class="updated_time"> 01:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/greece-ferry-fire.html">Hundreds Rescued From Burning Ferry Near Greek Island</a> NYT: A fire broke out on the deck of the ferry, which was taking 239 passengers to Italy from Greece. Two of them were trapped, and at least 11 were missing. 
  <p class="updated_time"> 11:56 AM CT, Feb. 18 </p> 
@@ -178,6 +176,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
+ <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
+ <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
 
 
 </details>
@@ -187,14 +187,16 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 07:42 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/beijings-olympics-close-ending-odd-global-moment-00010384">Beijing’s Olympics close, ending  odd global moment</a> Politico: Xi Jinping and IOC President Thomas Bach stood together as Beijing handed off to Milan-Cortina, site of the 2026 Winter Games. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082012399/the-laws-around-presidential-records-are-complex-and-murky">The laws around presidential records are complex and murky</a> NPR: Don Gonyea speaks with James Grossman of the American Historical Association about former President Donald Trump's handling of presidential records. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">How lies and conspiracy theories drove one state party mad</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
+ <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/irs-tax-ransomware-00008190">The tax man takes on ransomware</a> Politico: The Internal Revenue Service’s criminal investigators have spent years honing their cryptocurrency skills. Now they face Russia's criminal hacker gangs. 
+ <a href="https://www.politico.com/news/2022/02/20/irs-tax-ransomware-00008190">The tax man takes on ransomware</a> Politico: The IRS’ criminal investigators have spent years honing their cryptocurrency skills. Now they face Russia’s criminal hacker gangs. 
  <p class="updated_time"> 06:54 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/kamala-harris-munich-security-00010383">Harris offers support for defiant Ukrainian president</a> Politico: "He came here make a very clear point that he does not stand alone," she said of Zelenskyy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
@@ -303,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/us/marine-corps-nurse-fake-vaccine-cards.html">Man Charged in Jan. 6 Riot Sold Forged Vaccination Cards, U.S. Says</a> NYT: Prosecutors said that the man, Jia Liu, a Marine Corps reservist, conspired with a nurse, Steven Rodriguez, to distribute hundreds of fraudulent vaccine cards. 
  <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:30 AM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081295373/the-big-sort-americans-move-to-areas-political-alignment">Americans are fleeing to places where political views match their own</a> NPR: America is growing more geographically polarized — red ZIP codes are getting redder and blue ZIP codes are becoming bluer. People appear to be sorting. 
  <p class="updated_time"> 06:15 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/18/exclusive-the-secret-history-of-pences-jan-6-argument-00010081"> Exclusive: The secret history of Pence’s Jan. 6 argument</a> Politico Playbook: And Kevin McCarthy endorses Liz Cheney's challenger. 
  <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
