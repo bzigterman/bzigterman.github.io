@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Put Sanctions on Russia Now, Zelensky Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 07:52 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: Nearly 200 still missing in flood-hit Brazil city</a> BBC: Some 146 deaths are confirmed as bad weather hampers Petrópolis rescuers four days after huge mudslides. 
- <p class="updated_time"> 07:51 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Put Sanctions on Russia Now, Zelensky Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 07:39 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
  <p class="updated_time"> 07:12 PM CT, Feb. 19 </p> 
@@ -333,8 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720"> Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
  <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senate passes symbolic Russia rebuke as Ukraine threat looms</a> Politico: The bipartisan and nonbinding resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
- <p class="updated_time"> 04:00 AM CT, Feb. 17 </p> 
- <a href="https://www.nytimes.com/2022/02/17/us/politics/tiktok-ava-majury.html">A Child’s TikTok Stardom Opens Doors. Then a Gunman Arrives.</a> NYT: Their daughter’s online venture plunged a Florida family into a nightmare, but they decided not to pull the plug. 
  <p class="updated_time"> 06:34 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
