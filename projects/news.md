@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:28 PM CT, Feb. 20 </p> 
+ <p class="updated_time"> 05:34 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: Biden Warning on Russian Attack Was Prompted by New Intelligence</a> NYT: The American president stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
+ <p class="updated_time"> 05:25 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-belarus-putin.html">Russia May Be Seeking Pretext for Ukraine Invasion, Officials Say</a> NYT: The pressure on Kyiv mounted after a weekend of shelling and evacuations in the east, and the extension of war games in neighboring Belarus. 
+ <p class="updated_time"> 05:17 PM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60454818?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sounds fresh alarm over Russia invasion fears</a> BBC: The secretary of state says Russia is "on the brink" of invading, amid reports of an imminent attack. 
+ <p class="updated_time"> 05:07 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
+ <p class="updated_time"> 04:38 PM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60454481?at_medium=RSS&at_campaign=KARANGA">Seven children killed in Niger 'by Nigerian air strike'</a> BBC: The children were killed by accident in an air strike by neighbouring Nigeria, local officials said. 
  <p class="updated_time"> 04:05 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: More than 150 still missing in flood-hit Brazil city</a> BBC: At least 152 deaths are confirmed five days after huge mudslides in Petrópolis. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-appeasement.html">A Subdued Munich Conference Hears a Troubling Word: Appeasement</a> NYT: President Volodymyr Zelensky of Ukraine reminded his Western counterparts of what was supposed to be an unforgettable lesson from Europe’s past. 
  <p class="updated_time"> 04:02 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
- <p class="updated_time"> 04:00 PM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60454818?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sounds fresh alarm over Russia invasion fears</a> BBC: The secretary of state says Russia is "on the brink" of invading, amid reports of an imminent attack. 
- <p class="updated_time"> 03:45 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild, coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 03:45 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-duties-royal-family.html">What if Queen Elizabeth Were Too Ill to Carry Out Her Duties? </a> NYT: According to Buckingham Palace, if the queen needs to suspend her official duties because of illness or because she is abroad, two or more counselors of state can act on her behalf. 
  <p class="updated_time"> 02:26 PM CT, Feb. 20 </p> 
@@ -29,11 +33,15 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:34 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 12:30 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Why the Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/boris-johnson-queen-covid.html">Why the Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
  <p class="updated_time"> 12:29 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
  <p class="updated_time"> 12:10 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/business/credit-suisse-leak-swiss-bank.html">Data Leak Exposes How a Swiss Bank Served Strongmen and Spies</a> NYT: Leaked data on more than 18,000 accounts shows that the Swiss bank missed or ignored red flags. 
+ <p class="updated_time"> 12:00 PM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine. 
+ <p class="updated_time"> 11:52 AM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/freedom-convoy-leaves-town-and-quiet-returns-to-ottawa-11645385184">Freedom Convoy Leaves Town and Quiet Returns to Ottawa</a> WSJ: Officials across Canada remain on alert as similar protests emerge in British Columbia and elsewhere. 
  <p class="updated_time"> 11:35 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/greece-ferry-fire-corfu.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
  <p class="updated_time"> 11:34 AM CT, Feb. 20 </p> 
@@ -64,10 +72,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russia-calls-on-people-to-flee-eastern-ukraine-most-are-staying-put-11645379595">Russia Calls on People to Flee Eastern Ukraine. Most Are Staying Put.</a> WSJ: Russian-appointed leaders in two breakaway areas announced evacuations Friday, but most people are unmoved after years of fighting. 
  <p class="updated_time"> 08:37 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/20/1082011620/closing-ceremony-winter-olympics-beijing">The — at times complicated — 2022 Beijing Winter Games come to a close</a> NPR: After 16 days and 109 events, the Winter Olympics officially ended Sunday with the traditional closing ceremony. Team U.S.A. finished with 25 medals in all. 
- <p class="updated_time"> 08:25 AM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451409?at_medium=RSS&at_campaign=KARANGA">Olympics close with plea for peace</a> BBC: The Beijing Games closed on Sunday, with IOC president Thomas Bach calling for political leaders to be inspired by the athletes' "examples of peace". 
+ <p class="updated_time"> 07:20 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/counting-russian-troops-is-an-imprecise-science.html">Counting Russian troops is an imprecise science.</a> NYT: American officials said a new troop estimate includes some forces that were not previously counted — most notably Russian forces in Crimea, as well as separatist forces in the Donbas region. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012420/hong-kong-is-facing-a-severe-outbreak-of-omicron-cases">Hong Kong is facing a severe outbreak of Omicron cases</a> NPR: Hong Kong is struggling to contain a severe outbreak of coronavirus infections. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
@@ -98,6 +106,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/queen-elizabeth-tests-positive-for-covid-19-with-mild-symptoms-11645365144">Queen Elizabeth Tests Positive for Covid-19 With Mild Symptoms</a> WSJ: The 95-year-old British monarch, who recently marked 70 years on the throne, is experiencing “mild cold-like symptoms,” Buckingham Palace said. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
+ <p class="updated_time"> 01:34 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/zelensky-criticizes-the-allied-response-to-russias-buildup.html">President Zelensky criticizes the allied response to Russia’s buildup.</a> NYT: The Ukrainian leader thanked the West but said sanctions should be applied now and that repeated predictions of imminent war were damaging. 
  <p class="updated_time"> 11:01 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451034?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Criss-crossing the country with Zelensky</a> BBC: The BBC's Sarah Rainsford travels with Ukraine's leader amid his efforts to prevent a Russian invasion. 
  <p class="updated_time"> 10:41 PM CT, Feb. 19 </p> 
@@ -156,24 +166,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081948821/police-begin-to-clear-encamped-protesters-from-outside-canadian-parliament">Police begin to clear encamped protesters from outside Canadian Parliament</a> NPR: Three weeks into a protest over Canada's COVID-19 rules, authorities have begun to arrest protesters and clear trucks parked around the parliament building in Ottawa. 
  <p class="updated_time"> 06:35 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: Vice-President Kamala Harris warns Russia of "swift and severe" action if it invades Ukraine. 
- <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/russia-ukraine-timeline.html">A Timeline of the Tensions Between Russia and Ukraine</a> NYT: Here is a look at some key moments leading to Russia’s troop buildup around Ukraine. 
  <p class="updated_time"> 05:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/arts/design/project-of-independence-moma-review.html">When Architects Made Worlds</a> NYT: MoMA explores an era of sweeping change, when South Asian architects — pioneering women, among them — redefined the postcolonial era and helped construct new nation states. 
  <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
- <p class="updated_time"> 10:32 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/asia/hong-kong-election-covid.html">Hong Kong Delays an Election Amid a Covid Surge </a> NYT: Carrie Lam, the chief executive, said the vote would be postponed until May 8. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
- <p class="updated_time"> 07:00 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60091787?at_medium=RSS&at_campaign=KARANGA">Do crime apps and viral videos stop bystanders from helping?</a> BBC: Popular use of mobile phone cameras and apps fans fears of a digitally charged "bystander effect". 
  <p class="updated_time"> 06:17 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60299136?at_medium=RSS&at_campaign=KARANGA">The amateur historians chronicling Delhi's past on Instagram</a> BBC: Some amateur historians are documenting neglected corners of Delhi, one Instagram post at a time. 
- <p class="updated_time"> 04:10 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/europe/ukraine-russia-separatists-shelling.html">As Shelling Picks Up, Eastern Ukrainians Are Cowering</a> NYT: With nowhere to go, many are increasingly fearful that their villages could become the flash point for a wider war. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
 
@@ -183,6 +185,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-analysis.html">Putin Has Choice of Blitzkrieg or Minor Incursion in Ukraine</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
  <p class="updated_time"> 04:37 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/substitute-teachers-national-guard-new-mexico.html">New Twist in Pandemic’s Impact on Schools: Substitutes in Camouflage</a> NYT: Deployed to classrooms in New Mexico to help with crippling staff shortages, National Guard troops are employing their informal motto, “Semper Gumby” — Always Flexible. 
  <p class="updated_time"> 03:48 PM CT, Feb. 20 </p> 
@@ -255,8 +259,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948814/week-in-politics-biden-tries-for-diplomacy-with-russia-trump-faces-legal-challen">Week in politics: Biden tries for diplomacy with Russia; Trump faces legal challenges</a> NPR: President Biden is more certain than ever that Russia will invade Ukraine. Also, former president Donald Trump loses a court case, and three San Francisco school board members are recalled. 
- <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/covid-hospitals-data-00010283">Nowhere is safe: Record number of patients contracted Covid in the hospital in January</a> Politico: More hospital patients contracted Covid-19 last month than at any point of the pandemic, a POLITICO analysis of federal health data shows. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081634031/henry-cuellar-jessica-cisneros-democratic-primary-28th-district-texas">FBI raid of South Texas congressman adds another element to a tough primary challenge</a> NPR: Two years after they first squared off, nine-term Democratic Rep. Henry Cuellar faces progressive Jessica Cisneros in a March 1 primary. Both Democrats and Republicans are watching the key race. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
@@ -273,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
  <p class="updated_time"> 05:42 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/jim-hagedorn-dead.html">Jim Hagedorn, a Trump Ally in the House, Dies at 59</a> NYT: A two-term Minnesota conservative, he backed efforts to overturn the election of Joseph Biden as president on spurious grounds of voter fraud. 
- <p class="updated_time"> 05:37 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/melania-trump-charity-donation.html">Charitable Offer by Melania Trump Is Rejected, a Move She Calls ‘Politics’</a> NYT: Mrs. Trump assailed what she called attempts to “cancel her” as she comes under criticism, along with her husband, for post-White House fund-raising efforts. 
  <p class="updated_time"> 04:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/supreme-court-remain-in-mexico-asylum.html">Supreme Court to Review ‘Remain in Mexico’ Asylum Policy</a> NYT: The justices agreed to hear the Biden administration’s appeal of a lower court’s ruling that blocked it from rescinding the program. 
  <p class="updated_time"> 04:15 PM CT, Feb. 18 </p> 
@@ -351,6 +351,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
