@@ -183,6 +183,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/substitute-teachers-national-guard-new-mexico.html">New Twist in Pandemic’s Impact on Schools: Substitutes in Camouflage</a> NYT: Deployed to classrooms in New Mexico to help with crippling staff shortages, National Guard troops are employing their informal motto, “Semper Gumby” — Always Flexible. 
  <p class="updated_time"> 03:48 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/sandy-hook-legal-victories.html">How They Did It: Sandy Hook Families Gain Long-Awaited Legal Wins</a> NYT: After early defeats in Congress, relatives of those lost in the 2012 shooting fought on, besting a renowned gun maker and an infamous conspiracy theorist. 
  <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
@@ -227,8 +229,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/20/kamala-harris-munich-security-00010383">Harris offers support for defiant Ukrainian president</a> Politico: "He came here make a very clear point that he does not stand alone," she said of Zelenskyy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/justice-department-china-trump.html">Justice Dept. Is Set to Modify Trump-Era Program Aimed at Fighting Chinese Threats</a> NYT: Critics said the China Initiative unfairly targeted Asian professors and contributed to a rising tide of anti-Asian sentiment. 
- <p class="updated_time"> 02:00 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/us/politics/substitute-teachers-national-guard-new-mexico.html">New Twist in Pandemic’s Impact on Schools: Substitutes in Camouflage</a> NYT: Deployed to classrooms in New Mexico to help with crippling staff shortages, National Guard troops are employing their informal motto, “Semper Gumby” — Always Flexible. 
  <p class="updated_time"> 07:02 PM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/standoff-ottawa-truckers-protests-00010379">Standoff in Ottawa: 'How did we get here?'</a> Politico: Just a stone’s throw from police action against the truckers’ protest, parliamentarians were furiously debating Justin Trudeau’s extraordinary decision to use emergency measures. 
  <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
