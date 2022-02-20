@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:55 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 01:43 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: The man was spotted on the ship's stern and contacted rescuers, but 11 people remain missing. 
+ <p class="updated_time"> 01:34 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 12:27 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
@@ -44,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60448716?at_medium=RSS&at_campaign=KARANGA">Storm Eunice carves deadly trail across Europe</a> BBC: At least 16 people have died as high winds leave homes without power and transport systems in disarray. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share video showing swimmers metres away from site</a> BBC: Miami Beach Police says two of the three passengers were taken to hospital in a stable condition. 
- <p class="updated_time"> 04:29 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The remaining passengers are all thought to be lorry drivers, according to authorities. 
  <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police have said they have 170 arrests over the past two days of operations in Canada's capital. 
  <p class="updated_time"> 02:17 PM CT, Feb. 19 </p> 
