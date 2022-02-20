@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: Biden Warning on Russian Attack Was Prompted by New Intelligence</a> NYT: The American president stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 04:05 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: More than 150 still missing in flood-hit Brazil city</a> BBC: At least 152 deaths are confirmed five days after huge mudslides in Petrópolis. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-appeasement.html">A Subdued Munich Conference Hears a Troubling Word: Appeasement</a> NYT: President Volodymyr Zelensky of Ukraine reminded his Western counterparts of what was supposed to be an unforgettable lesson from Europe’s past. 
- <p class="updated_time"> 04:02 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: Biden Warning on Russian Attack Was Prompted by New Intelligence</a> NYT: The American president stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 04:02 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
  <p class="updated_time"> 04:00 PM CT, Feb. 20 </p> 
@@ -71,7 +71,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012420/hong-kong-is-facing-a-severe-outbreak-of-omicron-cases">Hong Kong is facing a severe outbreak of Omicron cases</a> NPR: Hong Kong is struggling to contain a severe outbreak of coronavirus infections. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1082012406/valerie-pecresse-is-the-first-female-nominee-of-a-french-mainstream-political-pa">Valerie Pecresse is the first female nominee of a French mainstream political party</a> NPR: Valerie Pecresse, the first female nominee of a mainstream political party in France, is struggling in her bid to unseat President Emmanuel Macron. 
+ <a href="https://www.npr.org/2022/02/20/1082012406/valerie-pecresse-is-the-first-female-nominee-of-a-french-mainstream-political-pa">Conservative Valerie Pecresse is struggling in her bid to unseat Macron</a> NPR: Valerie Pecresse, the conservative nominee for president of France, is struggling in her bid to unseat President Emmanuel Macron. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012392/russia-has-been-showing-diplomatic-interest-in-latin-american-countries">Russia has been showing diplomatic interest in Latin American countries</a> NPR: Don Gonyea speaks with Vladimir Rouvinski of Universidad Icesi in Colombia about Russia's outreach to Latin American countries during the Ukraine crisis. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
