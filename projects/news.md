@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:42 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 11:53 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 11:40 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
@@ -58,7 +58,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1082012392/russia-has-been-showing-diplomatic-interest-in-latin-american-countries">Russia has been showing diplomatic interest in Latin American countries</a> NPR: Don Gonyea speaks with Vladimir Rouvinski of Universidad Icesi in Colombia about Russia's outreach to Latin American countries during the Ukraine crisis. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012385/russia-could-be-waiting-for-olympics-to-end-to-move-forward-with-ukraine-invasio">Russia could be waiting for Olympics to end to move forward with Ukraine invasion</a> NPR: As Vice President Harris noted Sunday, Ukraine is "virtually surrounded by Russian troops." Those troops are poised to invade Ukraine. 
- <p class="updated_time"> 06:42 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 06:56 AM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine. 
  <p class="updated_time"> 06:10 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60451702?at_medium=RSS&at_campaign=KARANGA">Ethiopia starts generating power from River Nile dam</a> BBC: A "monumental day" for Ethiopia but Egypt and Sudan fear it will reduce their share of Nile waters. 
@@ -375,8 +375,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/14/judiciary-senators-kavanaugh-supreme-court-nominee-00008367">Judiciary senators say they're over Kavanaugh. SCOTUS nominee will test that.</a> Politico: Democrats and Republicans alike insist they've forgiven the other side after the fight surrounding Justice Brett Kavanaugh. But they certainly haven't forgotten. 
  <p class="updated_time"> 03:45 PM CT, Feb. 13 </p> 
  <a href="https://www.politico.com/news/2022/02/13/lujan-return-senate-supreme-court-00008492">Luján plans return to Senate in weeks for Supreme Court vote</a> Politico: The New Mexico Democrat is recovering from a stroke. 
- <p class="updated_time"> 12:01 PM CT, Feb. 13 </p> 
- <a href="https://www.politico.com/news/2022/02/13/kinzinger-jan6-republicans-courage-00008464">Every Republican has to answer about Jan. 6, Kinzinger says</a> Politico: "I have lost faith in some of the courage of my colleagues," the Illinois Republican said. 
 
 
 </details>
