@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
+ <p class="updated_time"> 03:47 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
+ <p class="updated_time"> 03:33 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/sport/winter-olympics/60451413?at_medium=RSS&at_campaign=KARANGA">Finland beat Russia to win first ice hockey gold</a> BBC: Finland win their first Olympic men's ice hockey gold with victory over the Russian Olympic Committee on the final day in Beijing. 
  <p class="updated_time"> 03:32 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: "Tell me I'm alive" - the first words of a truck driver rescued from a ferry burning off Greece. 
- <p class="updated_time"> 03:21 AM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
  <p class="updated_time"> 03:01 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60451702?at_medium=RSS&at_campaign=KARANGA">Ethiopia starts generating power from River Nile dam</a> BBC: A "monumental day" for Ethiopia but Egypt and Sudan fear it will reduce their share of Nile waters. 
- <p class="updated_time"> 01:34 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 12:27 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 12:02 AM CT, Feb. 20 </p> 
@@ -80,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
  <p class="updated_time"> 11:20 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead">Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell</a> NPR: Brunel, a modeling agent, was being held in an investigation into the rape of minors and trafficking of minors for sexual exploitation, according to the Paris prosecutor's office. 
- <p class="updated_time"> 11:02 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60448025?at_medium=RSS&at_campaign=KARANGA">Somalia: Suicide bomb hits restaurant on poll eve</a> BBC: At least 10 people died in the blast at a restaurant popular with politicians in the city of Beledweyne. 
  <p class="updated_time"> 09:54 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/02/18/world/canada-ottawa-protests-news">Canada Protests: Police Clamp Down on Ottawa Demonstrators</a> NYT: A swell of police officers and heavy tow trucks closed in on the encampment of truckers on Friday after three weeks of demonstrations had roiled the capital and other parts of the country. 
  <p class="updated_time"> 09:13 AM CT, Feb. 19 </p> 
@@ -100,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/as-warnings-of-war-grow-louder-ukrainians-try-to-keep-their-bearings.html">As warnings of war grow louder, Ukrainians try to keep their bearings.</a> NYT: The crisis has taken a toll on many Ukrainians. 
  <p class="updated_time"> 07:22 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948884/mexican-drug-cartels-are-getting-into-the-avocado-and-lime-business">Mexican drug cartels are getting into the avocado and lime business</a> NPR: Scott Simon talks with Vice News Correspondent Emily Green about the increased role of Mexican drug cartels in the avocado and lime business. 
- <p class="updated_time"> 07:17 AM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60444777?at_medium=RSS&at_campaign=KARANGA">Mali soldiers killed days after France announces exit</a> BBC: Eight soldiers died in a rebel attack in the north-east of the country, the army says. 
  <p class="updated_time"> 07:12 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters won't get their team medals before the Winter Olympics end</a> NPR: The American team had asked the Court of Arbitration for Sport to rule they can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal. 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
@@ -176,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/world/europe/putin-russia-ukraine.html">Vladimir Putin: Crafty Strategist or Aggrieved and Reckless Leader?</a> NYT: Analysts puzzling over the Russian leader’s intentions say that his troop buildup around Ukraine could be a convincing bluff, but also posit that he could have fundamentally changed during the pandemic. 
  <p class="updated_time"> 04:07 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/south-korea-election-covid.html">South Korea Prepares for Another Covid-Era National Election</a> NYT: The government requires people with Covid to remain in isolation at home, but a special time window on Election Day would allow them to leave to cast their ballots. 
- <p class="updated_time"> 04:00 AM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/world/asia/china-fast-train-olympics.html">China's Fast Train, an Olympic Highlight</a> NYT: A journey by high-speed train offers a window on the nation’s future, as well as some of the past it would like to leave behind. 
 
 
 </details>
