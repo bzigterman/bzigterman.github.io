@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 08:37 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/20/1082011620/closing-ceremony-winter-olympics-beijing">The — at times complicated — 2022 Beijing Winter Games come to a close</a> NPR: After 16 days and 109 events, the Winter Olympics officially ended Sunday with the traditional closing ceremony. Team U.S.A. finished with 25 medals in all. 
- <p class="updated_time"> 08:26 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 08:26 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-coronavirus.html">Queen Elizabeth Held an Audience at Windsor Castle Days Before Testing Positive</a> NYT: The queen met with members of the military in her first in-person engagement since her son Prince Charles tested positive. 
  <p class="updated_time"> 08:15 AM CT, Feb. 20 </p> 
