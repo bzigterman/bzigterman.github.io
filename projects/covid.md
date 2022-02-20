@@ -1181,17 +1181,17 @@ html {
 <td class="gt_row gt_right">2.2K</td>
 <td class="gt_row gt_right">&minus;13&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">497.0K</td>
-<td class="gt_row gt_right gt_striped">201.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;60&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">498.0K</td>
+<td class="gt_row gt_right gt_striped">209.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;58&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">213.0M</td>
 <td class="gt_row gt_right">214.0M</td>
 <td class="gt_row gt_right">+0&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right gt_striped">64.0</td>
+<td class="gt_row gt_right gt_striped">64.1</td>
 <td class="gt_row gt_right gt_striped">64.4</td>
-<td class="gt_row gt_right gt_striped">+1&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+0&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
@@ -1588,16 +1588,16 @@ html {
 <td class="gt_row gt_right gt_striped">&minus;5&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">18.4M</td>
-<td class="gt_row gt_right">32.0M</td>
-<td class="gt_row gt_right">+74&percnt;</td></tr>
+<td class="gt_row gt_right">32.2M</td>
+<td class="gt_row gt_right">+75&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">4.2B</td>
 <td class="gt_row gt_right gt_striped">4.3B</td>
 <td class="gt_row gt_right gt_striped">+3&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">53.4</td>
-<td class="gt_row gt_right">54.7</td>
-<td class="gt_row gt_right">+2&percnt;</td></tr>
+<td class="gt_row gt_right">54.8</td>
+<td class="gt_row gt_right">+3&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
