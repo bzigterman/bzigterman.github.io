@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:15 AM CT, Feb. 20 </p> 
+ <p class="updated_time"> 11:28 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60451955?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia keeps troops in Belarus amid Ukraine fears</a> BBC: The decision fuels renewed fears that Russia plans to invade Ukraine, despite denials from Moscow. 
+ <p class="updated_time"> 11:27 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
+ <p class="updated_time"> 11:27 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
+ <p class="updated_time"> 11:22 AM CT, Feb. 20 </p> 
+ <a href="https://www.npr.org/2022/02/20/1082024390/ukraine-russia-putin-macron-cease-fire-discussions">Putin and Macron discuss a cease-fire in Ukraine as shelling appears to escalate</a> NPR: Ukraine's Foreign Ministry said in a statement on Sunday that Russian-backed rebels were continuing to fire mortars in the eastern Ukrainian region of Donbas. 
  <p class="updated_time"> 11:15 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
  <p class="updated_time"> 11:13 AM CT, Feb. 20 </p> 
@@ -18,16 +24,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Amid Ukraine Crisis, China and Russia's Bond Alarms U.S. and Europe </a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
  <p class="updated_time"> 11:00 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/business/credit-suisse-leak-swiss-bank.html">Vast Leak Exposes How Credit Suisse Served Strongmen and Spies</a> NYT: Leaked data on more than 18,000 accounts shows that the Swiss bank missed or ignored red flags. 
+ <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60454480?at_medium=RSS&at_campaign=KARANGA">Missing dog Zoey reunited with owners after 12 years</a> BBC: Zoey went missing in 2010 when her owners went shopping but she was identified by her microchip. 
  <p class="updated_time"> 10:50 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/vivek-murthy-family-covid.html">U.S. Surgeon General and Family Have Covid</a> NYT: The doctor and his wife tested positive after caring for their two sick children. 
  <p class="updated_time"> 10:46 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: But hours later rescuers find a body in a burnt-out lorry in the ferry burning off Greece. 
  <p class="updated_time"> 10:31 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/corfu-ferry-fire-rescue.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
- <p class="updated_time"> 10:22 AM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60451955?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia keeps troops in Belarus amid Ukraine fears</a> BBC: The decision fuels renewed fears that Russia plans to invade Ukraine, despite denials from Moscow. 
- <p class="updated_time"> 10:19 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
  <p class="updated_time"> 09:49 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-covid-boris-johnson.html">Why the Queen's Illness Comes at Awkward Time for Boris Johnson </a> NYT: Before Queen Elizabeth II’s diagnosis, Prime Minister Boris Johnson had been expected to announce the lifting of the remaining coronavirus restrictions in England. 
  <p class="updated_time"> 09:45 AM CT, Feb. 20 </p> 
@@ -102,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share video showing swimmers metres away from site</a> BBC: Miami Beach Police says two of the three passengers were taken to hospital in a stable condition. 
- <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police have said they have 170 arrests over the past two days of operations in Canada's capital. 
  <p class="updated_time"> 02:17 PM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. 
  <p class="updated_time"> 02:11 PM CT, Feb. 19 </p> 
@@ -144,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948821/police-begin-to-clear-encamped-protesters-from-outside-canadian-parliament">Police begin to clear encamped protesters from outside Canadian Parliament</a> NPR: Three weeks into a protest over Canada's COVID-19 rules, authorities have begun to arrest protesters and clear trucks parked around the parliament building in Ottawa. 
- <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948807/biden-says-u-s-intelligence-signals-russia-has-decided-it-will-invade-ukraine">Biden says U.S. intelligence signals Russia has decided it will invade Ukraine</a> NPR: In the Donbas region of eastern Ukraine, shelling has intensified over the past 24 hours, and one government soldier was killed as Russian-backed separatists continue fighting. 
  <p class="updated_time"> 06:35 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: Vice-President Kamala Harris warns Russia of "swift and severe" action if it invades Ukraine. 
  <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
@@ -353,6 +353,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
