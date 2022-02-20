@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:26 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
+ <p class="updated_time"> 05:26 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 05:16 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60451934?at_medium=RSS&at_campaign=KARANGA">Lufthansa to suspend flights to Ukraine capital</a> BBC: The German airline will also halt services to Odessa as fears grow over a Russian invasion of Kyiv. 
  <p class="updated_time"> 05:06 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60451705?at_medium=RSS&at_campaign=KARANGA">Queensland man dies after allegedly having leg sawn off</a> BBC: A 36-year-old is charged with murder after allegedly sawing off another man's leg in an Australian park. 
- <p class="updated_time"> 04:59 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Put Sanctions on Russia Now, Ukraine’s Leader Urges West</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed rebels urged people to evacuate and shelling escalated in eastern Ukraine. 
  <p class="updated_time"> 04:01 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-and-belarus-stage-a-pretend-battle-as-the-threat-of-a-real-one-looms-in-neighboring-ukraine.html">Russia and Belarus Stage Pretend Battle as Threat of Real One Looms in Ukraine</a> NYT: A 10-day joint exercise involves the biggest deployment of Russian troops on the territory of Belarus since the end of the Cold War. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
- <p class="updated_time"> 03:33 AM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60451413?at_medium=RSS&at_campaign=KARANGA">Finland beat Russia to win first ice hockey gold</a> BBC: Finland win their first Olympic men's ice hockey gold with victory over the Russian Olympic Committee on the final day in Beijing. 
  <p class="updated_time"> 03:32 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60451869?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found alive off Corfu</a> BBC: "Tell me I'm alive" - the first words of a truck driver rescued from a ferry burning off Greece. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
@@ -66,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. 
  <p class="updated_time"> 02:11 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
+ <p class="updated_time"> 02:10 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60449408?at_medium=RSS&at_campaign=KARANGA">Brian Flores: Pittsburgh Steelers hire ex-Miami coach who is suing NFL</a> BBC: Brian Flores, the former Miami Dolphins head coach who is suing the NFL for racial discrimination, is hired by the Pittsburgh Steelers. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/storm-eunice-aftermath.html">Storm Eunice Kills at Least 8</a> NYT: Gusts toppled trees and sent debris flying, leaving tens of thousands without power and disrupting travel a day later. 
  <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081948821/police-begin-to-clear-encamped-protesters-from-outside-canadian-parliament">Police begin to clear encamped protesters from outside Canadian Parliament</a> NPR: Three weeks into a protest over Canada's COVID-19 rules, authorities have begun to arrest protesters and clear trucks parked around the parliament building in Ottawa. 
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948807/biden-says-u-s-intelligence-signals-russia-has-decided-it-will-invade-ukraine">Biden says U.S. intelligence signals Russia has decided it will invade Ukraine</a> NPR: In the Donbas region of eastern Ukraine, shelling has intensified over the past 24 hours, and one government soldier was killed as Russian-backed separatists continue fighting. 
- <p class="updated_time"> 06:38 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 06:35 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-60445560?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: US warns Russia of consequences if it invades Ukraine</a> BBC: Vice-President Kamala Harris warns Russia of "swift and severe" action if it invades Ukraine. 
  <p class="updated_time"> 06:29 AM CT, Feb. 19 </p> 
@@ -238,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/china-initiative-case-00010281">Report details collapse of China Initiative case</a> Politico: Prosecutors’ interview with a Energy Department official led to the dismissal of charges against MIT professor Gang Chen. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">Explaining Putin’s Decades-Long Obsession With Ukraine</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
+ <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">What Does Vladimir Putin Want in Ukraine?</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
  <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
  <p class="updated_time"> 05:42 PM CT, Feb. 18 </p> 
