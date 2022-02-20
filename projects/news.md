@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 01:43 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills in Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Coronavirus, as England Is Poised to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
- <p class="updated_time"> 01:19 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 01:19 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/heres-what-would-happen-if-queen-elizabeth-were-too-ill-to-carry-out-her-duties.html">Here’s what would happen if Queen Elizabeth were too ill to carry out her duties.</a> NYT: According to Buckingham Palace, if the queen needs to suspend her official duties because of illness or because she is abroad, two or more counselors of state can act on her behalf. 
  <p class="updated_time"> 12:34 PM CT, Feb. 20 </p> 
@@ -54,10 +54,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60452149?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Missing Euroferry Olympia passenger found, brought ashore</a> BBC: The survivor is asked "How are you feeling?" by reporters as he is escorted to an ambulance. 
  <p class="updated_time"> 09:05 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60454475?at_medium=RSS&at_campaign=KARANGA">Nepal police fire rubber bullets during US grant protest</a> BBC: Demonstrations in Kathmandu centre on the belief accepting US money undermines Nepal's sovereignty. 
+ <p class="updated_time"> 08:56 AM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-people-to-flee-eastern-ukraine-most-are-staying-put-11645379595">Russia Calls on People to Flee Eastern Ukraine. Most Are Staying Put.</a> WSJ: Russian-appointed leaders in two breakaway areas announced evacuations Friday, but most people are unmoved after years of fighting. 
  <p class="updated_time"> 08:37 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/20/1082011620/closing-ceremony-winter-olympics-beijing">The — at times complicated — 2022 Beijing Winter Games come to a close</a> NPR: After 16 days and 109 events, the Winter Olympics officially ended Sunday with the traditional closing ceremony. Team U.S.A. finished with 25 medals in all. 
- <p class="updated_time"> 08:30 AM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-people-to-flee-eastern-ukraine-most-are-staying-put-11645379595">Russia Calls on People to Flee Eastern Ukraine. Most Are Staying Put.</a> WSJ: Russian-appointed leaders in two breakaway areas announced evacuations Friday, but most people are unmoved after years of fighting. 
  <p class="updated_time"> 08:25 AM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue beyond a previous end date of Sunday, the government in Minsk said, citing an uptick in violence in eastern Ukraine. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
