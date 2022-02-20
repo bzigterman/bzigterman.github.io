@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:22 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Zelensky Calls for Immediate Sanctions Against Russia</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine asked Western leaders in Munich, as Russian-backed separatists urged people to evacuate amid increased shelling in eastern Ukraine. 
+ <p class="updated_time"> 07:12 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: The vice president’s first public remarks on the Ukraine crisis were watched with scrutiny. 
+ <p class="updated_time"> 06:03 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60429725?at_medium=RSS&at_campaign=KARANGA">The Nigerian artwork challenging British history in St Paul's</a> BBC: St Paul's Cathedral invites artist Victor Ehikhamenor to respond to the looting of the Benin Bronzes. 
+ <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60393953?at_medium=RSS&at_campaign=KARANGA">Why won’t Telagram take my naked photos down?</a> BBC: A BBC investigation has found women’s nude photos shared on the social media app Telegram without their consent on a massive scale. 
+ <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60284352?at_medium=RSS&at_campaign=KARANGA">The man who lived in a Singapore forest for 30 years</a> BBC: Mr Oh, who is now 79 years old, lived in a makeshift shelter in woodland in the city-state of Singapore. 
  <p class="updated_time"> 05:51 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
- <p class="updated_time"> 05:45 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/02/19/world/ukraine-russia-news">Ukraine Live Updates: Zelensky Calls for Immediate Sanctions Against Russia</a> NYT: “What are you waiting for?” President Volodymyr Zelensky of Ukraine told Western leaders in Munich, as Russian-backed separatists urged people to evacuate amid increased shelling in eastern Ukraine. 
  <p class="updated_time"> 05:32 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60448638?at_medium=RSS&at_campaign=KARANGA">Ukraine will not respond to provocations, Zelensky says</a> BBC: But President Volodymyr Zelensky says Ukraine is ready to defend itself, amid a deadly rise in fighting. 
  <p class="updated_time"> 05:14 PM CT, Feb. 19 </p> 
@@ -24,6 +32,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60443517?at_medium=RSS&at_campaign=KARANGA">Ferry fire: Search for 12 missing off Corfu continues</a> BBC: The remaining passengers are all thought to be lorry drivers, according to authorities. 
  <p class="updated_time"> 04:22 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60420469?at_medium=RSS&at_campaign=KARANGA">Canada protests: Police push back demonstrators in Ottawa</a> BBC: Police have said they have 170 arrests over the past two days of operations in Canada's capital. 
+ <p class="updated_time"> 02:17 PM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. 
  <p class="updated_time"> 02:11 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
@@ -33,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:21 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
  <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police work to clear protesters around Canada's Parliament building</a> NPR: After making more than 100 arrests Friday, police in Ottawa focused on the area surrounding Parliament. In a warning to protesters, police tweeted: "We told you to leave. We gave you time to leave." 
+ <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police work to clear protesters around Canada's Parliament building</a> NPR: Police in Ottawa have made 170 arrests so far as they work to clear the streets in Canada's capital city. Protests against COVID-19 restrictions have spread across Canada in recent weeks. 
  <p class="updated_time"> 12:24 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
  <p class="updated_time"> 12:22 PM CT, Feb. 19 </p> 
@@ -50,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
  <p class="updated_time"> 11:20 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead">Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell</a> NPR: Brunel, a modeling agent, was being held in an investigation into the rape of minors and trafficking of minors for sexual exploitation, according to the Paris prosecutor's office. 
- <p class="updated_time"> 11:14 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: Her first public remarks on the Ukraine crisis were watched with scrutiny. 
  <p class="updated_time"> 11:02 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60448025?at_medium=RSS&at_campaign=KARANGA">Somalia: Suicide bomb hits restaurant on poll eve</a> BBC: At least 10 people died in the blast at a restaurant popular with politicians in the city of Beledweyne. 
  <p class="updated_time"> 09:54 AM CT, Feb. 19 </p> 
@@ -70,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">Ukraine President Zelenskyy proposes to meet with Putin as tensions with Russia grow </a> NPR: As fears grow of a Russian invasion of his country, the Ukrainian president offered to meet with his Russian counterpart. The U.S. warned of swift sanctions against Russia if it moves into Ukraine. 
  <p class="updated_time"> 08:46 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/lukashenko-belarus-russia-ukraine.html">Lukashenko Once Kept Russia at a Distance. Now He Is a Docile Putin Satrap.</a> NYT: President Aleksandr G. Lukashenko of Belarus once skillfully managed Moscow, but now he is doing the Kremlin’s bidding in Russia’s confrontation with Ukraine. 
- <p class="updated_time"> 07:56 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/police-in-ottawa-move-to-clear-main-freedom-convoy-encampment-11645288568">Police in Ottawa Step Up Efforts to Clear Freedom Convoy Encampment</a> WSJ: The protracted demonstration against Covid-19 vaccine mandates is now being met with hundreds of police officers from across the country. 
  <p class="updated_time"> 07:33 AM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60446826?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: How are people coping with the threat of war?</a> BBC: Three Ukrainians tell the BBC how they have been dealing with life amid fears of a Russian invasion. 
  <p class="updated_time"> 07:32 AM CT, Feb. 19 </p> 
@@ -118,10 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60091787?at_medium=RSS&at_campaign=KARANGA">Do crime apps and viral videos stop bystanders from helping?</a> BBC: Popular use of mobile phone cameras and apps fans fears of a digitally charged "bystander effect". 
  <p class="updated_time"> 06:41 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60442225?at_medium=RSS&at_campaign=KARANGA">Maryland couple plead guilty in nuclear secrets plot</a> BBC: The wife acted as lookout while her husband hid a data card inside a peanut butter sandwich. 
- <p class="updated_time"> 06:33 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60023007?at_medium=RSS&at_campaign=KARANGA">Letter from Africa: Nigeria's electioneering and the role of stomachs</a> BBC: How bags of rice will be used by grovelling Nigerian candidates to curry favour. 
- <p class="updated_time"> 06:21 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60429635?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 12-18 February 2022</a> BBC: A selection of powerful images from all over the globe, taken in the last seven days. 
  <p class="updated_time"> 06:17 PM CT, Feb. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60299136?at_medium=RSS&at_campaign=KARANGA">The amateur historians chronicling Delhi's past on Instagram</a> BBC: Some amateur historians are documenting neglected corners of Delhi, one Instagram post at a time. 
  <p class="updated_time"> 05:12 PM CT, Feb. 18 </p> 
@@ -164,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/travel/vaccines-boosters-travel.html">What to Know About Boosters and Vaccine Restrictions for International Travel</a> NYT: The requirements for entering foreign countries during the pandemic can be confusing and ever-changing, especially when it comes to boosters. Here’s what to expect. 
  <p class="updated_time"> 08:35 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/africa/biden-africa-vaccine-aid.html">The U.S. Increases Vaccine Aid to 11 African Countries</a> NYT: The U.S. government said it would provide “intensive financial, technical and diplomatic support” to African countries that have recently shown the capacity to hasten vaccine uptake. 
- <p class="updated_time"> 06:24 AM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60433364?at_medium=RSS&at_campaign=KARANGA">Greece ferry fire: Hundreds rescued from blaze off Corfu coast</a> BBC: The Euroferry Olympia caught fire in the early hours of Friday morning. 
  <p class="updated_time"> 06:18 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/asia/afghanistan-boy-dies-well.html">Young Boy Dies in Afghanistan After Being Trapped in a Well</a> NYT: The boy, Haidar Jan, who was thought to be 5, fell into a roughly 85-foot-deep well on Tuesday in a village near Qalat, the capital of Zabul Province. 
  <p class="updated_time"> 05:15 AM CT, Feb. 18 </p> 
@@ -185,6 +185,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:02 PM CT, Feb. 19 </p> 
+ <a href="https://www.politico.com/news/2022/02/19/standoff-ottawa-truckers-protests-00010379">Standoff in Ottawa: 'How did we get here?'</a> Politico: Just a stone’s throw from police action against the truckers’ protest, parliamentarians were furiously debating Justin Trudeau’s extraordinary decision to use emergency measures. 
+ <p class="updated_time"> 06:22 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/us/politics/infrastructure-plan-asphalt.html">Asphalt Industry Is a Big Winner in Infrastructure Plan</a> NYT: A range of special interests lobbied for infrastructure dollars. The asphalt industry may have been the most successful. 
  <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081987370/why-republicans-are-divided-on-support-for-ukraine">Why Republicans are divided on support for Ukraine</a> NPR: NPR's Michel Martin discusses why the Republican Party has had a warmer posture towards Russia in recent years with former Republican strategist Steve Schmidt. 
  <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
@@ -203,8 +207,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/19/russian-military-build-up-continues-despite-moscows-promises-of-a-drawdown-00010372">Russian military build-up continues, despite Moscow’s promises of a drawdown</a> Politico: A massive joint exercise in Belarus was due to end this weekend. But now officials say those tanks and troops are staying put. 
  <p class="updated_time"> 11:07 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/modeling-agent-close-to-epstein-found-dead-in-french-jail-00010367">Modeling agent close to Epstein found dead in French jail</a> Politico: Victims of the alleged abuse described shock and dismay that the agent, Jean-Luc Brunel, will never face trial. 
- <p class="updated_time"> 10:59 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/us/politics/infrastructure-plan-asphalt.html">Asphalt Industry Is a Big Winner in Infrastructure Plan</a> NYT: A range of special interests lobbied for infrastructure dollars. The asphalt industry may have been the most successful. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365"> World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
  <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
@@ -212,11 +214,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948814/week-in-politics-biden-tries-for-diplomacy-with-russia-trump-faces-legal-challen">Week in politics: Biden tries for diplomacy with Russia; Trump faces legal challenges</a> NPR: President Biden is more certain than ever that Russia will invade Ukraine. Also, former president Donald Trump loses a court case, and three San Francisco school board members are recalled. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/covid-hospitals-data-00010283">Nowhere is safe: Record number of patients contracted Covid in the hospital in January</a> Politico: More hospital patients contracted Covid-19 last month than at any point of the pandemic, a POLITICO analysis of federal health data shows. 
- <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/race-and-ethnicity-debate-complicates-tech-antitrust-fight-00009952">Tech giants recruit defenders among communities of color</a> Politico: Groups backed by the tech giants say proposals for tougher enforcement would harm Black- and Hispanic-owned businesses. The industry’s critics aren’t buying it. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/china-investments-economy-us-congress-00008745">‘We’re in an economic war:’ White House, Congress weigh new oversight of U.S. investments in China</a> Politico: The proposals could mean unprecedented federal oversight of American businesses abroad. But supporters say they're needed to combat China's economic rise. 
+ <a href="https://www.politico.com/news/2022/02/19/covid-hospitals-data-00010283">Nowhere is safe: Record number of patients contracted Covid in the hospital in January</a> Politico: More hospital patients contracted Covid-19 last month than at any point of the pandemic, a POLITICO analysis of federal health data shows. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/cow-manure-new-york-california-emissions-00007370">How cow manure from New York is bolstering California's emissions goals</a> Politico: New York dairy farms are using clean gas produced by cow manure, putting it in trucks, injecting it into an interstate pipeline — and selling the environmental benefits across the country. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
@@ -271,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/newsom-texas-style-bill-sue-gun-makers-00010201">Newsom announces Texas-style bill that would let residents sue gun makers</a> Politico: New California legislation encouraging litigation against makers and dealers of assault rifles and ghost guns is modeled on a Texas law allowing people to sue abortion providers. 
  <p class="updated_time"> 02:06 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/ukraine-calm-russia-invasion-00010198">'Keep a cool head': Ukraine urges calm as the drumbeats of war get louder</a> Politico: Western officials are warning that a Russian invasion could come any day now, but some top Ukrainian officials still think Putin is playing the pressure game. 
- <p class="updated_time"> 01:53 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/wife-maryland-nuclear-engineer-guilty-espionage-00010207">Wife of Maryland nuclear engineer pleads guilty to espionage</a> Politico: The plea deal comes just days after her husband, Jonathan Toebbe, pleaded guilty to the same espionage-related offense on Monday. 
  <p class="updated_time"> 01:25 PM CT, Feb. 18 </p> 
  <a href="https://www.cnn.com/2022/02/18/politics/putin-russia-ukraine-scenarios-what-matters/index.html">Putin's possible endgames in Ukraine</a> CNN: As the US seeks to convince the world that Russia is bluffing about a drawdown of troops near Ukraine, it's worth considering what's informing Russia's decision-making and what the possible endgame scenarios might be. 
  <p class="updated_time"> 12:47 PM CT, Feb. 18 </p> 
@@ -283,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/biden-to-speak-with-allies-as-u-s-pressures-russia-to-back-down-00010177">Biden says he believes Putin has decided to invade Ukraine</a> Politico: The president's strongest public comments yet come as Russia, which denies plans to attack, has begun amplifying alleged grievances with Kyiv. 
  <p class="updated_time"> 11:55 AM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081724869/special-counsel-durham-rejects-claims-that-hes-politicized-high-profile-prosecut">Special counsel Durham rejects claims that he's politicized high-profile prosecution</a> NPR: An attorney charged in the investigation into the origins of the Trump-Russia probe had accused Durham of trying to politicize the case and gin up negative press coverage. 
- <p class="updated_time"> 11:54 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/chief-judge-in-d-c-says-jan-6-defendants-should-get-credit-for-talking-to-congress-00010165">Chief judge in D.C. says Jan. 6 defendants should get credit for talking to Congress</a> Politico: “I think that that kind of cooperation is helpful to this country and is helpful to making amends for what occurred on Jan. 6,” Judge Beryl Howell said. 
  <p class="updated_time"> 11:37 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/submarine-spy-guilty-plea.html">Submarine Spy Case: Wife of Navy Engineer Pleads Guilty</a> NYT: Diana Toebbe, a high school teacher, acknowledged her part in an effort to try to sell nuclear reactor secrets her husband had taken from the Navy. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
@@ -321,6 +317,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
+ <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
@@ -351,6 +349,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 16 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/west-drought-water-shortage-reclamation-touton-climate/index.html">Experts say the term 'drought' may be insufficient to capture what is happening in the West</a> CNN: As the American West continues into its 22nd year of a parching megadrought, officials at the federal government's top water resource management agency are trying to plan for an uncertain and unprecedented time for the nation's largest reservoirs. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 16 </p> 
+ <a href="https://www.politico.com/news/2022/02/16/missouri-senate-poll-alarms-gop-00009317">Missouri Senate poll alarms GOP</a> Politico: The poll appears to validate party fears that former GOP Gov. Eric Greitens would be a risky nominee. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
  <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
