@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:46 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for Covid</a> NYT: Prince Charles had tested positive earlier this month. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/queen-elizabeth-covid">Live Updates: Queen Elizabeth Tests Positive for the Coronavirus</a> NYT: The 95-year-old British monarch was “experiencing mild coldlike symptoms,” Buckingham Palace said. She recently met with her son Prince Charles, who had tested positive this month. 
  <p class="updated_time"> 06:40 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Live Updates: Russian Troops Will Extend Drills In Belarus, Near Ukraine Border</a> NYT: U.S. and NATO officials have warned that the large-scale maneuvers pose a threat to Ukraine. The president of Ukraine, marking the anniversary of protests that toppled a pro-Russian government in 2014, urged his compatriots “to fight for their future.” 
  <p class="updated_time"> 06:37 AM CT, Feb. 20 </p> 
@@ -185,12 +185,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/beijings-olympics-close-ending-odd-global-moment-00010384">Beijing’s Olympics close, ending  odd global moment</a> Politico: Xi Jinping and IOC President Thomas Bach stood together as Beijing handed off to Milan-Cortina, site of the 2026 Winter Games. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">How lies and conspiracy theories drove one state party mad</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/irs-tax-ransomware-00008190">The tax man takes on ransomware</a> Politico: The Internal Revenue Service’s criminal investigators have spent years honing their cryptocurrency skills. Now they face Russia's criminal hacker gangs. 
  <p class="updated_time"> 06:54 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/kamala-harris-munich-security-00010383">Harris offers support for defiant Ukrainian president</a> Politico: "He came here make a very clear point that he does not stand alone," she said of Zelenskyy. 
  <p class="updated_time"> 04:00 AM CT, Feb. 20 </p> 
@@ -227,8 +231,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
  <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948814/week-in-politics-biden-tries-for-diplomacy-with-russia-trump-faces-legal-challen">Week in politics: Biden tries for diplomacy with Russia; Trump faces legal challenges</a> NPR: President Biden is more certain than ever that Russia will invade Ukraine. Also, former president Donald Trump loses a court case, and three San Francisco school board members are recalled. 
- <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/race-and-ethnicity-debate-complicates-tech-antitrust-fight-00009952">Tech giants recruit defenders among communities of color</a> Politico: Groups backed by the tech giants say proposals for tougher enforcement would harm Black- and Hispanic-owned businesses. The industry’s critics aren’t buying it. 
  <p class="updated_time"> 07:00 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/covid-hospitals-data-00010283">Nowhere is safe: Record number of patients contracted Covid in the hospital in January</a> Politico: More hospital patients contracted Covid-19 last month than at any point of the pandemic, a POLITICO analysis of federal health data shows. 
  <p class="updated_time"> 06:00 AM CT, Feb. 19 </p> 
@@ -269,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/18/1081872137/biden-administration-prepares-to-pivot-on-pandemic-approach">Biden administration prepares to pivot on pandemic approach</a> NPR: The White House is trying to move away from a crisis footing on COVID. By the time of the State of the Union, President Biden may be able to explain how things get back to normal. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
- <p class="updated_time"> 03:27 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/trump-january-6-lawsuit-00010249">Judge rejects Trump effort to toss lawsuits accusing him of Jan. 6 conspiracy</a> Politico: In a 112-page ruling, the judge said the evidence suggests Trump assembled the crowd and then instructed the rally-goers to march on the Capitol. 
  <p class="updated_time"> 03:15 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/fda-infant-formula-illness-four-months-before-recall-00010226">FDA learned of suspected infant formula illness four months before recall</a> Politico: The Minnesota Department of Health investigated a case of an infant who was sickened by Cronobacter sakazakii in September 2021, the state agency told POLITICO. 
  <p class="updated_time"> 03:04 PM CT, Feb. 18 </p> 
