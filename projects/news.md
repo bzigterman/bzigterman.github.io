@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:08 PM CT, Feb. 20 </p> 
+ <p class="updated_time"> 09:15 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
+ <p class="updated_time"> 09:09 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
  <p class="updated_time"> 08:26 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60454818?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden agrees in principle to summit with Putin</a> BBC: The meeting, proposed by France, will only take place if Russia does not invade Ukraine, the US says. 
  <p class="updated_time"> 06:53 PM CT, Feb. 20 </p> 
@@ -17,7 +19,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:39 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-separatists.html">If War Flames in Ukraine, These 2 Odd Little Enclaves May Be the Spark</a> NYT: Russian-backed separatists in the Luhansk and Donetsk regions once got just passing attention. They loom much larger now as many fear what may come next in Ukraine. 
  <p class="updated_time"> 06:30 PM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60225543?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: Indian Muslim victims of hate crimes live in fear</a> BBC: The BBC examines violent crimes against Muslims in the north Indian state of Uttar Pradesh. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60225543?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: India's Muslim victims of hate crimes live in fear</a> BBC: The BBC examines violent crimes against Muslims in the north Indian state of Uttar Pradesh. 
  <p class="updated_time"> 06:19 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-military-ukraine-border.html">Satellite Images Show New Phase of Russian Military Readiness</a> NYT: Several units or troops have been deployed outside of bases or training grounds, as Russian units continue moving closer to the border with Ukraine. 
  <p class="updated_time"> 06:10 PM CT, Feb. 20 </p> 
@@ -32,16 +34,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
  <p class="updated_time"> 04:38 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60454481?at_medium=RSS&at_campaign=KARANGA">Seven children killed in Niger 'by Nigerian air strike'</a> BBC: The children were killed by accident in an air strike by neighbouring Nigeria, local officials said. 
+ <p class="updated_time"> 04:15 PM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Biden Agrees to Summit With Putin to Avert Russian Invasion of Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue, the government in Minsk said, citing an uptick in violence in eastern Ukraine. The White House said President Biden has accepted in principle France’s proposal of a meeting with Putin, provided that Russia doesn’t invade Ukraine. 
  <p class="updated_time"> 04:05 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: More than 150 still missing in flood-hit Brazil city</a> BBC: At least 152 deaths are confirmed five days after huge mudslides in Petrópolis. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-zelensky-munich-conference.html">Ukraine's Zelensky Accuses Western of Appeasement</a> NYT: President Volodymyr Zelensky of Ukraine reminded his Western counterparts of what was supposed to be an unforgettable lesson from Europe’s past. 
- <p class="updated_time"> 04:02 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
  <p class="updated_time"> 03:45 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-duties-royal-family.html">What if Queen Elizabeth Were Too Ill to Carry Out Her Duties? </a> NYT: According to Buckingham Palace, if the queen needs to suspend her official duties because of illness or because she is abroad, two or more counselors of state can act on her behalf. 
- <p class="updated_time"> 03:04 PM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Russia Extends Drills in Belarus as Putin Agrees to More Talks With Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue, the government in Minsk said, citing an uptick in violence in eastern Ukraine. The White House said President Biden has accepted in principle France’s proposal of a meeting with Putin, provided that Russia doesn’t invade Ukraine. 
  <p class="updated_time"> 02:26 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60456196?at_medium=RSS&at_campaign=KARANGA">Credit Suisse denies wrongdoing after big banking data leak</a> BBC: A new investigation identifies thousands of foreign customers who stashed their money at the bank. 
  <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
@@ -325,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
- <p class="updated_time"> 02:16 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/ducey-senate-map-00009867">Ducey looms as last big question on 2022 Senate map</a> Politico: With time winding down toward Arizona’s filing deadline, the political class in Phoenix and D.C. is scrutinizing the governor’s every move. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
