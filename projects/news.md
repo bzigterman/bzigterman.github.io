@@ -8,18 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:22 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Russia Will Recognize 2 Separatist Regions in Ukraine, Kremlin Says</a> NYT: President Vladimir V. Putin was set to address the nation late on Monday after an extraordinary meeting of Russia’s Security Council. The U.S. and its allies have warned that Russia could use such a recognition to move more forces in. 
+ <p class="updated_time"> 12:39 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Russia Will Recognize 2 Separatist Regions in Ukraine, Kremlin Says</a> NYT: President Vladimir V. Putin was set to address the nation late on Monday. The president of Ukraine will also speak on Monday night. The U.S. and its allies have warned that Russia could use such a recognition to move more forces in. 
+ <p class="updated_time"> 12:39 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html">Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</a> NYT: The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army. 
+ <p class="updated_time"> 12:34 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 12:13 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
- <p class="updated_time"> 11:52 AM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468234?at_medium=RSS&at_campaign=KARANGA">Russia mulls recognising Ukraine breakaway regions</a> BBC: Russian recognition of the separatist areas as independent would escalate fears of an invasion. 
- <p class="updated_time"> 11:47 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html">Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</a> NYT: The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army. 
  <p class="updated_time"> 11:40 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Moves to Lift Coronavirus Restrictions in England</a> NYT: The British prime minister is shifting toward a strategy of living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
- <p class="updated_time"> 11:39 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
  <p class="updated_time"> 10:53 AM CT, Feb. 21 </p> 
@@ -126,6 +124,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1082024390/ukraine-russia-putin-macron-cease-fire-discussions">President Biden agrees to a tentative meeting with Putin to discuss Ukraine</a> NPR: Biden has agreed to meet with the Russian leader "in principle" if Russia does not invade Ukraine, the White House said, but Russia appears to be pursuing plans for a "full-scale assault" very soon. 
  <p class="updated_time"> 11:04 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Amid Ukraine Crisis, China and Russia's Bond Alarms U.S. and Europe </a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
+ <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60454480?at_medium=RSS&at_campaign=KARANGA">Missing dog Zoey reunited with owners after 12 years</a> BBC: Zoey went missing in 2010 when her owners went shopping but she was identified by her microchip. 
  <p class="updated_time"> 09:45 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-coronavirus.html">Queen Elizabeth Held an Audience at Windsor Castle Days Before Testing Positive</a> NYT: The queen met with members of the military in her first in-person engagement since her son Prince Charles tested positive. 
  <p class="updated_time"> 09:11 AM CT, Feb. 20 </p> 
