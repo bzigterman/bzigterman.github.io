@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:35 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Delivers Fiery Speech on Ukraine</a> NYT: President Vladimir V. Putin addressed the nation late on Monday, bitterly accusing Ukraine of being little more than a “puppet” of the United States. 
- <p class="updated_time"> 01:25 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech</a> NYT: In an address late Monday, President Vladimir V. Putin bitterly accused Ukraine of being little more than a “puppet” of the United States. 
+ <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html">Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</a> NYT: The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army. 
  <p class="updated_time"> 12:58 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
