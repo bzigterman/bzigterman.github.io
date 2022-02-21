@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:23 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Says He Will Consider Recognizing Separatist States in Ukraine</a> NYT: The announcement raised fears that Moscow could use such recognition to move more forces into the areas of eastern Ukraine. The Russian foreign minister said he is willing to meet with his U.S. counterpart. 
+ <p class="updated_time"> 09:18 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
+ <p class="updated_time"> 09:13 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Is Set to Lift Coronavirus Restrictions in England</a> NYT: Aides to Mr. Johnson say the British prime minister is shifting toward a strategy for living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
+ <p class="updated_time"> 09:07 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/president-biden-agreed-in-principle-to-meet-with-putin-to-discuss-the-ukraine-crisis.html">Putin’s Security Council meets as the Kremlin warns that ‘tensions are rising.’</a> NYT: The United States says Russia stands poised to attack Ukraine amid a frantic diplomatic push.  
  <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-swiss-bank.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
- <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Says He Will Consider Recognizing Separatist States in Ukraine</a> NYT: The announcement raised fears that Moscow could use such recognition to move more forces into the areas of eastern Ukraine. The Russian foreign minister said he is willing to meet with his U.S. counterpart. 
- <p class="updated_time"> 08:55 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
  <p class="updated_time"> 08:45 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">After Trucker Protest, Canada Grapples With a Question: Was It a Blip, or Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 08:39 AM CT, Feb. 21 </p> 
@@ -30,8 +34,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-flights.html">Air France, Lufthansa and SAS Limit Flights to Ukraine</a> NYT: Lufthansa and Scandinavian Airlines also canceled flights to Kyiv as fears grow of a Russian invasion. 
  <p class="updated_time"> 07:07 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60419008?at_medium=RSS&at_campaign=KARANGA">Truth Social: Banned from Twitter, Trump returns with a new platform</a> BBC: The former president's platform, Truth Social, goes live on the US Apple App Store. 
- <p class="updated_time"> 06:59 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Is Set to Lift Coronavirus Restrictions in England</a> NYT: Aides to Mr. Johnson say the British prime minister is shifting toward a strategy for living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
  <p class="updated_time"> 06:43 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60460003?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: War, sickness and love in rebel-held Ukraine</a> BBC: Orla Guerin talks to people who cross military checkpoints for medical treatment and to see family. 
  <p class="updated_time"> 06:00 AM CT, Feb. 21 </p> 
@@ -40,12 +42,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1081940350/9-moments-storylines-resonated-2022-beijing-winter-olympics">9 moments that resonated at the 2022 Beijing Winter Olympics</a> NPR: NPR's team in Beijing put together moments and storylines that stuck out — including those that showed immense inner strength, athleticism and grace. 
  <p class="updated_time"> 04:32 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/travel/everglades-kayak-trip.html">Six Days Afloat in the Everglades</a> NYT: After a storm disrupted plans for a 99-mile paddling trek, a Times journalist’s time on the water took a more reflective turn. Come look and listen alongside him. 
+ <p class="updated_time"> 04:20 AM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Kyiv Rejects Russian Claim of Incursion by Ukrainian Forces</a> WSJ: Russia’s military said it destroyed two Ukrainian armored vehicles inside Russian territory but offered no evidence, as Ukrainian and Western leaders warned Moscow was seeking pretexts to mount an attack. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/queen-victoria-diamond-jubilee.html">1897: Queen Victoria’s Diamond Jubilee Proposals</a> NYT: The plans to celebrate the 60th anniversary of the British monarch’s accession included a service at St. Paul’s Cathedral. 
- <p class="updated_time"> 03:33 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Kyiv Rejects Russian Claim of Incursion by Ukrainian Forces</a> WSJ: Russia’s military said it destroyed two Ukrainian armored vehicles inside Russian territory but offered no evidence, as Ukrainian and Western leaders warned Moscow was seeking pretexts to mount an attack. 
  <p class="updated_time"> 02:59 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60427542?at_medium=RSS&at_campaign=KARANGA">Graham Potter: One of Australia's most wanted men arrested after 12-year hunt</a> BBC: Convicted killer Graham Potter, 64, had been on the run after failing to appear for a 2010 court date. 
  <p class="updated_time"> 02:00 AM CT, Feb. 21 </p> 
@@ -140,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/beijing-winter-olympics-end-with-parade-of-national-flags-and-burst-of-fireworks-11645367611">Beijing Winter Olympics End With Parade of National Flags, Burst of Fireworks</a> WSJ: China officially concluded a Beijing Winter Olympics that sought to unify the world but ended up highlighting its divisions. 
  <p class="updated_time"> 05:06 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60451705?at_medium=RSS&at_campaign=KARANGA">Queensland man dies after allegedly having leg sawn off</a> BBC: A 36-year-old is charged with murder after allegedly sawing off another man's leg in an Australian park. 
- <p class="updated_time"> 04:01 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-and-belarus-stage-a-pretend-battle-as-the-threat-of-a-real-one-looms-in-neighboring-ukraine.html">Russia and Belarus Stage Pretend Battle as Threat of Real One Looms in Ukraine</a> NYT: A 10-day joint exercise involves the biggest deployment of Russian troops on the territory of Belarus since the end of the Cold War. 
  <p class="updated_time"> 03:35 AM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-tests-positive-for-covid-19-with-mild-symptoms-11645365144">Queen Elizabeth Tests Positive for Covid-19 With Mild Symptoms</a> WSJ: The 95-year-old British monarch, who recently marked 70 years on the throne, is experiencing “mild cold-like symptoms,” Buckingham Palace said. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
@@ -156,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">Shelling Escalates in Ukraine as Thousands Flee, Fearing Attack</a> NYT: Western leaders repeat calls for a diplomatic resolution to the crisis. Russia fires missiles in a blunt warning of where the conflict could lead. 
  <p class="updated_time"> 07:39 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
- <p class="updated_time"> 07:12 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: The vice president’s first public remarks on the Ukraine crisis were watched with scrutiny. 
  <p class="updated_time"> 06:03 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429725?at_medium=RSS&at_campaign=KARANGA">The Nigerian artwork challenging British history in St Paul's</a> BBC: St Paul's Cathedral invites artist Victor Ehikhamenor to respond to the looting of the Benin Bronzes. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
@@ -174,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
  <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police clear protesters around Canada's Parliament building</a> NPR: Police in Ottawa have made 170 arrests so far as they work to clear the streets in Canada's capital city. Protests against COVID-19 restrictions have spread across Canada in recent weeks. 
- <p class="updated_time"> 12:00 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/putin-ukraine-genocide.html">Putin’s Baseless Claims of Genocide Hint at More Than War</a> NYT: The invocations serve to justify not just Moscow’s actions in Ukraine, but also its wider quest for a new imperial identity rooted in Russian ethnicity. 
  <p class="updated_time"> 11:37 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">Soaring Energy Bills Deepen Crisis for Turks, and Erdogan</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
  <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
@@ -363,8 +359,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
  <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
  <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
- <p class="updated_time"> 09:15 AM CT, Feb. 14 </p> 
- <a href="https://www.cnn.com/2022/02/12/politics/putin-russia-ukraine-us-what-matters/index.html">What created the new, more aggressive Putin</a> CNN: Russia's buildup of troops at its border with Ukraine has created a diplomatic standoff between Russia and the US, the world's two largest nuclear powers. 
 
 
 </details>
