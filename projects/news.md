@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:39 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-belarus-putin.html">Russia May Be Seeking Pretext for Ukraine Invasion, Officials Say</a> NYT: The pressure on Kyiv mounted after a weekend of shelling and evacuations in the east, and the extension of war games in neighboring Belarus. 
  <p class="updated_time"> 09:15 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 09:09 PM CT, Feb. 20 </p> 
@@ -28,14 +30,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60431874?at_medium=RSS&at_campaign=KARANGA">Bangkok: Exploring a lost world in an abandoned department store</a> BBC: A group of artists and architects have turned a derelict building into an art and light exhibit. 
  <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese-American internment: "It can't be undone"</a> BBC: Eighty years ago, the US government imprisoned about 120,000 Japanese Americans during World War Two. 
- <p class="updated_time"> 05:25 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-belarus-putin.html">Russia May Be Seeking Pretext for Ukraine Invasion, Officials Say</a> NYT: The pressure on Kyiv mounted after a weekend of shelling and evacuations in the east, and the extension of war games in neighboring Belarus. 
  <p class="updated_time"> 05:07 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
  <p class="updated_time"> 04:38 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60454481?at_medium=RSS&at_campaign=KARANGA">Seven children killed in Niger 'by Nigerian air strike'</a> BBC: The children were killed by accident in an air strike by neighbouring Nigeria, local officials said. 
- <p class="updated_time"> 04:15 PM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Biden Agrees to Summit With Putin to Avert Russian Invasion of Ukraine</a> WSJ: Exercises involving some 30,000 troops near Ukraine’s border will continue, the government in Minsk said, citing an uptick in violence in eastern Ukraine. The White House said President Biden has accepted in principle France’s proposal of a meeting with Putin, provided that Russia doesn’t invade Ukraine. 
+ <p class="updated_time"> 04:31 PM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Biden Agrees to Putin Summit Provided Russia Pulls Back From Ukraine Attack</a> WSJ: A flurry of calls from French President Emmanuel Macron sought a diplomatic solution to the crisis. 
  <p class="updated_time"> 04:05 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: More than 150 still missing in flood-hit Brazil city</a> BBC: At least 152 deaths are confirmed five days after huge mudslides in Petrópolis. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
@@ -45,7 +45,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:26 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60456196?at_medium=RSS&at_campaign=KARANGA">Credit Suisse denies wrongdoing after big banking data leak</a> BBC: A new investigation identifies thousands of foreign customers who stashed their money at the bank. 
  <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Coronavirus, as England Is Poised to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Covid-19, as England Moves to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
  <p class="updated_time"> 01:04 PM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/behind-chinas-warning-against-a-russian-invasion-is-a-desire-to-protect-ties-with-the-u-s-11645376565">China Seeks to Protect Ties With the U.S.</a> WSJ: After strongly supporting Moscow’s standoff with the West over Ukraine, Beijing aligns its position closer to Washington’s. 
  <p class="updated_time"> 12:34 PM CT, Feb. 20 </p> 
