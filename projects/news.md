@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:02 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
+ <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
+ <p class="updated_time"> 01:26 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
  <p class="updated_time"> 12:46 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-separatists.html">If War Flames in Ukraine, These 2 Little Enclaves May Be the Spark</a> NYT: Russian-backed separatists in the Luhansk and Donetsk regions once got just passing attention. They loom much larger now as many fear what may come next in Ukraine. 
  <p class="updated_time"> 12:44 AM CT, Feb. 21 </p> 
@@ -40,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese-American internment: "It can't be undone"</a> BBC: Eighty years ago, the US government imprisoned about 120,000 Japanese Americans during World War Two. 
  <p class="updated_time"> 05:41 PM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Biden Agrees to Putin Summit Provided Russia Pulls Back From Ukraine Attack</a> WSJ: A flurry of calls from French President Emmanuel Macron sought a diplomatic solution to the crisis. 
- <p class="updated_time"> 05:07 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
  <p class="updated_time"> 04:38 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60454481?at_medium=RSS&at_campaign=KARANGA">Seven children killed in Niger 'by Nigerian air strike'</a> BBC: The children were killed by accident in an air strike by neighbouring Nigeria, local officials said. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
@@ -66,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/freedom-convoy-leaves-town-and-quiet-returns-to-ottawa-11645385184">Freedom Convoy Leaves Town and Quiet Returns to Ottawa</a> WSJ: Officials across Canada remain on alert as similar protests emerge in British Columbia and elsewhere. 
  <p class="updated_time"> 11:35 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/greece-ferry-fire-corfu.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
- <p class="updated_time"> 11:34 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
  <p class="updated_time"> 11:31 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-expats-rally.html">Ukrainian Expats Express Solidarity With Homeland</a> NYT: At a rally in London, many of the attendees said they hoped that a full-scale Russian invasion could be averted. 
  <p class="updated_time"> 11:27 AM CT, Feb. 20 </p> 
