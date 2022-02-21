@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 08:26 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60454818?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden agrees in principle to summit with Putin</a> BBC: The meeting, proposed by France, will only take place if Russia does not invade Ukraine, the US says. 
- <p class="updated_time"> 08:19 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: Biden Warning on Russian Attack Was Prompted by New Intelligence</a> NYT: The American president stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 06:53 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60457735?at_medium=RSS&at_campaign=KARANGA">Covid: Australia's border reopens to international visitors</a> BBC: It allows tourists to enter and families to reunite for the first time in nearly two years. 
  <p class="updated_time"> 06:39 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-separatists.html">If War Flames in Ukraine, These 2 Odd Little Enclaves May Be the Spark</a> NYT: Russian-backed separatists in the Luhansk and Donetsk regions once got just passing attention. They loom much larger now as many fear what may come next in Ukraine. 
  <p class="updated_time"> 06:30 PM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60225543?at_medium=RSS&at_campaign=KARANGA">Indian Muslim victims of hate crimes live in fear</a> BBC: The BBC examines violent crimes against Muslims in the north Indian state of Uttar Pradesh. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60225543?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: Indian Muslim victims of hate crimes live in fear</a> BBC: The BBC examines violent crimes against Muslims in the north Indian state of Uttar Pradesh. 
  <p class="updated_time"> 06:19 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-military-ukraine-border.html">Satellite Images Show New Phase of Russian Military Readiness</a> NYT: Several units or troops have been deployed outside of bases or training grounds, as Russian units continue moving closer to the border with Ukraine. 
  <p class="updated_time"> 06:10 PM CT, Feb. 20 </p> 
