@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:41 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Moscow Orders Troops to Breakaway Ukraine Regions After Putin Recognizes Them</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter the two regions for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
+ <p class="updated_time"> 03:45 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Moscow Orders Troops to Ukraine’s Breakaway Regions After Putin Recognizes Them</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter the two regions for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
  <p class="updated_time"> 03:39 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 03:25 PM CT, Feb. 21 </p> 
