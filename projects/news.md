@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:46 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 01:02 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 12:46 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-separatists.html">If War Flames in Ukraine, These 2 Little Enclaves May Be the Spark</a> NYT: Russian-backed separatists in the Luhansk and Donetsk regions once got just passing attention. They loom much larger now as many fear what may come next in Ukraine. 
