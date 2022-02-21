@@ -8,11 +8,15 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:59 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Is Set to Lift Coronavirus Restrictions in England</a> NYT: Aides to Mr. Johnson say the British prime minister is shifting toward a strategy for living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
+ <p class="updated_time"> 06:57 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-flights.html">Air France, Lufthansa and SAS Limit Flights to Ukraine</a> NYT: Lufthansa and Scandinavian Airlines also canceled flights to Kyiv as fears grow of a Russian invasion. 
  <p class="updated_time"> 06:36 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
  <p class="updated_time"> 06:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/us-russia-ukraine-kill-list.html">U.S. Says Russia Has a List of Ukrainians to Kill or Detain</a> NYT: A U.S. ambassador cited “credible information” that Russian forces have compiled a list of Ukrainians to be targeted after an invasion. 
- <p class="updated_time"> 05:20 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 05:21 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1081940350/9-moments-storylines-resonated-2022-beijing-winter-olympics">9 moments that resonated at the 2022 Beijing Winter Olympics</a> NPR: NPR's team in Beijing put together moments and storylines that stuck out — including those that showed immense inner strength, athleticism and grace. 
  <p class="updated_time"> 05:02 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60454818?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: Biden agrees in principle to summit with Putin</a> BBC: The meeting, proposed by France, will only take place if Russia does not invade Ukraine, the US says. 
@@ -128,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, this is the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
  <p class="updated_time"> 05:36 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60453007?at_medium=RSS&at_campaign=KARANGA">Ultrarunner breaks own 100-mile world record</a> BBC: American Camille Herron breaks her own women's world record in winning the USA Track and Field 100-mile Championships in Nevada. 
- <p class="updated_time"> 05:26 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 05:18 AM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/beijing-winter-olympics-end-with-parade-of-national-flags-and-burst-of-fireworks-11645367611">Beijing Winter Olympics End With Parade of National Flags, Burst of Fireworks</a> WSJ: China officially concluded a Beijing Winter Olympics that sought to unify the world but ended up highlighting its divisions. 
  <p class="updated_time"> 05:06 AM CT, Feb. 20 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">Shelling Escalates in Ukraine as Thousands Flee, Fearing Attack</a> NYT: Western leaders repeat calls for a diplomatic resolution to the crisis. Russia fires missiles in a blunt warning of where the conflict could lead. 
  <p class="updated_time"> 07:39 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
- <p class="updated_time"> 07:12 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: The vice president’s first public remarks on the Ukraine crisis were watched with scrutiny. 
  <p class="updated_time"> 06:03 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429725?at_medium=RSS&at_campaign=KARANGA">The Nigerian artwork challenging British history in St Paul's</a> BBC: St Paul's Cathedral invites artist Victor Ehikhamenor to respond to the looting of the Benin Bronzes. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
