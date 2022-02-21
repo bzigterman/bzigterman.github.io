@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:53 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Prepares Decision on Breakaway Ukraine Regions</a> NYT: President Vladimir V. Putin said he would decide by day’s end whether to recognize the independence of Luhansk and Donetsk. U.S. officials worry that Russia could use such a recognition to move more forces in. 
+ <p class="updated_time"> 09:52 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
+ <p class="updated_time"> 09:50 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
+ <p class="updated_time"> 09:48 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html">Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</a> NYT: A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II. 
  <p class="updated_time"> 09:44 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
- <p class="updated_time"> 09:44 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Says He Will Consider Recognizing Separatist States in Ukraine</a> NYT: The announcement raised fears that Moscow could use such recognition to move more forces into the areas of eastern Ukraine. The Russian foreign minister said he is willing to meet with his U.S. counterpart. 
- <p class="updated_time"> 09:30 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
- <p class="updated_time"> 09:18 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
  <p class="updated_time"> 09:13 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Is Set to Lift Coronavirus Restrictions in England</a> NYT: Aides to Mr. Johnson say the British prime minister is shifting toward a strategy for living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
  <p class="updated_time"> 09:07 AM CT, Feb. 21 </p> 
@@ -187,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Feb. 21 </p> 
+ <a href="https://www.politico.com/news/2022/02/21/us-officials-russian-invasion-ukraine-00010419">U.S. officials warn a Russian invasion would 'repress' and 'crush' Ukrainians</a> Politico: National security adviser Jake Sullivan said an invasion could begin in the coming days or in the “coming hours.” 
  <p class="updated_time"> 09:43 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/nyregion/staten-island-park-slope-redistricting.html">How Redistricting Made Park Slope and Staten Island Into an Unlikely Pair</a> NYT: New congressional maps that merge conservative Staten Island with liberal Park Slope will aid Democratic efforts to win a Republican-held House seat in New York. 
  <p class="updated_time"> 09:29 AM CT, Feb. 21 </p> 
@@ -251,10 +255,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/20/beijings-olympics-close-ending-odd-global-moment-00010384">Beijing’s Olympics close, ending  odd global moment</a> Politico: Xi Jinping and IOC President Thomas Bach stood together as Beijing handed off to Milan-Cortina, site of the 2026 Winter Games. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012399/the-laws-around-presidential-records-are-complex-and-murky">The laws around presidential records are complex and murky</a> NPR: Don Gonyea speaks with James Grossman of the American Historical Association about former President Donald Trump's handling of presidential records. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
  <p class="updated_time"> 06:54 AM CT, Feb. 20 </p> 
@@ -327,6 +327,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
  <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
+ <p class="updated_time"> 11:22 AM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/nicholas-kristof-ineligible-oregon-governor-00009773">Nick Kristof's gubernatorial bid is Ore-gone</a> Politico: Kristof had far outraised the other two major Democratic candidates, former House Speaker Tina Kotek and state Treasurer Tobias Read, who are part of a crowded field. 
  <p class="updated_time"> 09:33 AM CT, Feb. 17 </p> 
  <a href="https://www.cnn.com/2022/02/16/politics/lyndon-b-johnson-secret-audio-origseriesfilms/index.html">The most surprising moments from LBJ's secretly recorded calls </a> CNN: Lyndon B. Johnson is one of the most consequential US presidents, responsible for passing some of the most significant pieces of legislation in modern history, including the Civil Rights Act of 1964 and the Voting Rights Act of 1965. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
