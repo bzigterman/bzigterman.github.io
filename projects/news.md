@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:49 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 11:12 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Close to Decision on Breakaway Ukraine Regions</a> NYT: President Vladimir V. Putin said he would decide by day’s end whether to recognize the independence of Luhansk and Donetsk. U.S. officials worry that Russia could use such a recognition to move more forces in. 
+ <p class="updated_time"> 10:59 AM CT, Feb. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468234?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: Putin mulls recognising independence of breakaway regions</a> BBC: Russian recognition of the separatist areas as independent would likely escalate fears of an invasion. 
+ <p class="updated_time"> 10:53 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
  <p class="updated_time"> 10:31 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
- <p class="updated_time"> 10:27 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
  <p class="updated_time"> 10:06 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 09:52 AM CT, Feb. 21 </p> 
@@ -42,6 +44,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60419008?at_medium=RSS&at_campaign=KARANGA">Truth Social: Banned from Twitter, Trump returns with a new platform</a> BBC: The former president's platform, Truth Social, goes live on the US Apple App Store. 
  <p class="updated_time"> 06:43 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60460003?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: War, sickness and love in rebel-held Ukraine</a> BBC: Orla Guerin talks to people who cross military checkpoints for medical treatment and to see family. 
+ <p class="updated_time"> 06:02 AM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/batman-batgirl-gotham-glasgow-11645462859">Welcome to Batman's Hometown. Wait, Is That Glasgow?</a> WSJ: The Scottish city is finding fame as a stand-in for Gotham; ‘Anyone who’s into Batman already understood the parallels’ 
  <p class="updated_time"> 06:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/us-russia-ukraine-kill-list.html">U.S. Says Russia Has a List of Ukrainians to Kill or Detain</a> NYT: A U.S. ambassador cited “credible information” that Russian forces have compiled a list of Ukrainians to be targeted after an invasion. 
  <p class="updated_time"> 05:25 AM CT, Feb. 21 </p> 
