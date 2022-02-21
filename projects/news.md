@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 01:56 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 01:47 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/us-russia-ukraine-kill-list.html">U.S. Says Russia Has a List of Ukrainians to Kill or Detain</a> NYT: A U.S. ambassador cited “credible information” that Russian forces have compiled a list of Ukrainians to be targeted after an invasion. 
