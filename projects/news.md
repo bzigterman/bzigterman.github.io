@@ -8,8 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:30 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 08:39 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
+ <p class="updated_time"> 08:36 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Says He Will Consider Recognizing Separatist States in Ukraine</a> NYT: The announcement raised fears that Moscow could use such recognition to move more forces into the areas of eastern Ukraine. 
+ <p class="updated_time"> 08:27 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
+ <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
+ <p class="updated_time"> 08:16 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
+ <p class="updated_time"> 08:07 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/france-street-noise.html">France Installs Sensors on Streets to Tackle 'Noise From Hell'</a> NYT: The French authorities are installing “sound radars” in some cities to detect and photograph vehicles making excessive noise, which they say is a public health hazard. 
+ <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1081435029/china-hollywood-movies-censorship-erich-schwartzel">Hollywood relies on China to stay afloat. What does that mean for movies?</a> NPR: Wall Street Journal reporter Erich Schwartzel says that film studios increasingly need Chinese audiences to break even — which can result in self-censorship. His new book is Red Carpet. 
  <p class="updated_time"> 07:24 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-flights.html">Air France, Lufthansa and SAS Limit Flights to Ukraine</a> NYT: Lufthansa and Scandinavian Airlines also canceled flights to Kyiv as fears grow of a Russian invasion. 
  <p class="updated_time"> 07:07 AM CT, Feb. 21 </p> 
@@ -26,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-swiss-bank.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
  <p class="updated_time"> 04:32 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/travel/everglades-kayak-trip.html">Six Days Afloat in the Everglades</a> NYT: After a storm disrupted plans for a 99-mile paddling trek, a Times journalist’s time on the water took a more reflective turn. Come look and listen alongside him. 
- <p class="updated_time"> 04:02 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
@@ -42,16 +52,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
  <p class="updated_time"> 01:30 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082070405/as-kuwait-cracks-down-a-battle-erupts-over-womens-rights">As Kuwait cracks down, a battle erupts over women's rights</a> NPR: Conservative politicians are increasingly pushing back against a burgeoning feminist movement and what they see as an unraveling of the country's traditional values. 
- <p class="updated_time"> 01:26 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
  <p class="updated_time"> 12:46 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-separatists.html">If War Flames in Ukraine, These 2 Little Enclaves May Be the Spark</a> NYT: Russian-backed separatists in the Luhansk and Donetsk regions once got just passing attention. They loom much larger now as many fear what may come next in Ukraine. 
  <p class="updated_time"> 12:23 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082067920/australia-reopens-its-borders-to-international-visitors">Australia reopens its borders to international visitors</a> NPR: The move allow international tourists and business travelers into the country for the first time in almost two years. 
  <p class="updated_time"> 11:30 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/asia/india-forest-rangers.html">Risking Their Lives, for Little Pay, to Guard India’s Forests</a> NYT: Braving tigers and other dangers, frontline workers face difficult working conditions as they try to keep the peace between humans and wildlife. 
- <p class="updated_time"> 11:30 PM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/tesla-planned-to-open-its-first-european-gigafactory-last-summer-its-still-waiting-11645439401">Tesla Planned to Open Its First European Gigafactory Last Summer. It's Still Waiting.</a> WSJ: The electric-vehicle maker says the plant’s machines are installed and have been producing preproduction test vehicles, but without the permit to operate commercially, the plant can’t increase and sell its vehicles. 
  <p class="updated_time"> 11:11 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-belarus-putin.html">Russia May Be Seeking Pretext for Ukraine Invasion, Officials Say</a> NYT: The pressure on Kyiv mounted after a weekend of shelling and evacuations in the east, and the extension of war games in neighboring Belarus. 
  <p class="updated_time"> 10:52 PM CT, Feb. 20 </p> 
@@ -69,7 +75,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:06 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60431874?at_medium=RSS&at_campaign=KARANGA">Bangkok: Exploring a lost world in an abandoned department store</a> BBC: A group of artists and architects have turned a derelict building into an art and light exhibit. 
  <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanes internment: How a long-lost kimono unearthed a family secret</a> BBC: The US imprisoned Japanese Americans 80 years ago - now the younger generation are asking questions. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese internment camps: How a long-lost kimono unearthed a family secret</a> BBC: The US imprisoned Japanese Americans 80 years ago - now the younger generation are asking questions. 
  <p class="updated_time"> 05:41 PM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Biden Agrees to Meet Putin Provided Russia Pulls Back</a> WSJ: President Biden’s decision came during a discussion with French President Emmanuel Macron, who made a flurry of calls seeking a diplomatic solution to the Ukrainian crisis. 
  <p class="updated_time"> 04:38 PM CT, Feb. 20 </p> 
@@ -130,6 +136,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, this is the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
  <p class="updated_time"> 05:36 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60453007?at_medium=RSS&at_campaign=KARANGA">Ultrarunner breaks own 100-mile world record</a> BBC: American Camille Herron breaks her own women's world record in winning the USA Track and Field 100-mile Championships in Nevada. 
+ <p class="updated_time"> 05:26 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 05:18 AM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/beijing-winter-olympics-end-with-parade-of-national-flags-and-burst-of-fireworks-11645367611">Beijing Winter Olympics End With Parade of National Flags, Burst of Fireworks</a> WSJ: China officially concluded a Beijing Winter Olympics that sought to unify the world but ended up highlighting its divisions. 
  <p class="updated_time"> 05:06 AM CT, Feb. 20 </p> 
@@ -150,6 +158,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-missiles-putin.html">Shelling Escalates in Ukraine as Thousands Flee, Fearing Attack</a> NYT: Western leaders repeat calls for a diplomatic resolution to the crisis. Russia fires missiles in a blunt warning of where the conflict could lead. 
  <p class="updated_time"> 07:39 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/brunel-epstein-prince-andrew-giuffre.html">Ex-Modeling Agent and Epstein Associate Found Dead in a Paris Jail</a> NYT: Jean-Luc Brunel had been charged with the rape of minors and was suspected of scouting young girls for Jeffrey Epstein. 
+ <p class="updated_time"> 07:12 PM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/europe/kamala-harris-ukraine-russia.html">Kamala Harris Says West Faces ‘Defining Moment’ Over Ukraine</a> NYT: The vice president’s first public remarks on the Ukraine crisis were watched with scrutiny. 
  <p class="updated_time"> 06:03 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429725?at_medium=RSS&at_campaign=KARANGA">The Nigerian artwork challenging British history in St Paul's</a> BBC: St Paul's Cathedral invites artist Victor Ehikhamenor to respond to the looting of the Benin Bronzes. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
@@ -176,10 +186,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead">Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell</a> NPR: Brunel, a modeling agent, was being held in an investigation into the rape of minors and trafficking of minors for sexual exploitation, according to the Paris prosecutor's office. 
  <p class="updated_time"> 09:13 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-crisis-new-cold-war.html">In Ukraine Crisis, the Looming Threat of a New Cold War</a> NYT: If he invades, President Vladimir V. Putin is inviting a new global struggle with the West. He should think about how the last one ended, analysts say. 
- <p class="updated_time"> 08:50 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081952588/russia-ukraine-harris-sanctions">Ukraine President Zelenskyy proposes to meet with Putin as tensions with Russia grow </a> NPR: As fears grow of a Russian invasion of his country, the Ukrainian president offered to meet with his Russian counterpart. The U.S. warned of swift sanctions against Russia if it moves into Ukraine. 
- <p class="updated_time"> 07:22 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948884/mexican-drug-cartels-are-getting-into-the-avocado-and-lime-business">Mexican drug cartels are getting into the avocado and lime business</a> NPR: Scott Simon talks with Vice News Correspondent Emily Green about the increased role of Mexican drug cartels in the avocado and lime business. 
+ <p class="updated_time"> 05:24 AM CT, Feb. 19 </p> 
+ <a href="https://www.wsj.com/articles/jean-luc-brunel-an-associate-of-jeffrey-epstein-found-dead-in-paris-prison-11645287842">Jean-Luc Brunel, an Associate of Epstein, Found Dead in Paris Prison</a> WSJ: The modeling agent and close associate of convicted sex offender Jeffrey Epstein was found hanged in his cell on Friday night. 
 
 
 </details>
@@ -187,10 +195,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
+ <p class="updated_time"> 08:10 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/nyregion/staten-island-park-slope-redistricting.html">How Redistricting Made Park Slope and Staten Island Into an Unlikely Pair</a> NYT: New congressional maps that merge conservative Staten Island with liberal Park Slope will aid Democratic efforts to win a Republican-held House seat in New York. 
+ <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html">I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback</a> NYT: The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview. 
  <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
  <a href="https://www.politico.com/news/2022/02/21/trump-mellissa-carone-second-act-00010405">Trump campaign’s star witness pursues a second act</a> Politico: Mellissa Carone, whose testimony at a legislative hearing sparked a Saturday Night Live skit, is trying to parlay her 2020 election notoriety. 
  <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
- <a href="https://www.politico.com/news/2022/02/21/trumps-favorite-cowboy-faces-gop-revolt-00010401">Trump’s favorite cowboy faces GOP revolt</a> Politico: Once a top Trump choice to head the USDA, Texas Agriculture Commissioner Sid Miller is facing turbulence in the March 1 primary. 
+ <a href="https://www.politico.com/news/2022/02/21/trumps-favorite-cowboy-faces-gop-revolt-00010401">Texas GOP revolts against Trump’s favorite cowboy</a> Politico: Once a top Trump choice to head the USDA, Texas Agriculture Commissioner Sid Miller is facing turbulence in the March 1 primary. 
  <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
  <a href="https://www.politico.com/news/2022/02/21/state-tax-cuts-00009451">Flush with cash, states eye tax cutting spree</a> Politico: Across the country, in not just red states but also purple and blue ones, governors and state legislators are considering a long list of tax cuts. 
  <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
@@ -203,8 +217,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1081747096/tax-filing-season-tax-return-2022">The IRS is assigning more workers to deal with a huge backlog of tax returns</a> NPR: Smaller budgets, fewer employees and increased duties have added up to taxpayer frustration this filing season. The IRS is establishing a "surge team" to put resources on the processing challenges. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/black-farmers-debt-relief.html">Black Farmers Fear Foreclosure as Debt Relief Remains Frozen</a> NYT: Lawsuits from white farmers have blocked $4 billion of pandemic aid that was allocated to Black farmers in the American Rescue Plan. 
- <p class="updated_time"> 02:00 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/nyregion/staten-island-park-slope-redistricting.html">‘Nothing in Common’: Staten Island, Park Slope and an Unlikely Marriage</a> NYT: New congressional maps that merge conservative Staten Island with liberal Park Slope will aid Democratic efforts to seize a Republican House seat in New York. 
  <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
  <p class="updated_time"> 10:48 PM CT, Feb. 20 </p> 
@@ -233,6 +245,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Bond Between China and Russia Alarms U.S. and Europe Amid Ukraine Crisis</a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
  <p class="updated_time"> 10:49 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/infrastructure-plan-asphalt.html">Asphalt Industry Is a Big Winner in Infrastructure Plan</a> NYT: A range of special interests lobbied for infrastructure dollars. The asphalt industry may have been the most successful. 
+ <p class="updated_time"> 10:14 AM CT, Feb. 20 </p> 
+ <a href="https://www.politico.com/news/2022/02/20/blinken-russia-ukraine-invasion-00010387">U.S. continues diplomacy but girds for ‘dead serious’ invasion threat in Ukraine</a> Politico: Even as U.S. officials warned of the nearing threat in Ukraine, they also said they’re going all in on diplomatic talks with Russia to avoid such an invasion. 
  <p class="updated_time"> 09:47 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/kirby-russia-ukraine-putin-00010386">Intense diplomatic efforts continue, Pentagon press secretary says</a> Politico: John Kirby said the West will keep up the pressure on Vladimir Putin. 
  <p class="updated_time"> 09:18 AM CT, Feb. 20 </p> 
@@ -253,6 +267,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
  <p class="updated_time"> 06:54 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/kamala-harris-munich-security-00010383">Harris offers support for defiant Ukrainian president</a> Politico: "He came here make a very clear point that he does not stand alone," she said of Zelenskyy. 
+ <p class="updated_time"> 07:02 PM CT, Feb. 19 </p> 
+ <a href="https://www.politico.com/news/2022/02/19/standoff-ottawa-truckers-protests-00010379">Standoff in Ottawa: 'How did we get here?'</a> Politico: Just a stone’s throw from police action against the truckers’ protest, parliamentarians were furiously debating Justin Trudeau’s extraordinary decision to use emergency measures. 
  <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081987370/why-republicans-are-divided-on-support-for-ukraine">Why Republicans are divided on support for Ukraine</a> NPR: NPR's Michel Martin discusses why the Republican Party has had a warmer posture towards Russia in recent years with former Republican strategist Steve Schmidt. 
  <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
@@ -263,8 +279,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/19/larry-ellison-pumps-15m-into-super-pac-aligned-with-tim-scott-00010377">Larry Ellison pumps $15M into super PAC aligned with Tim Scott</a> Politico: The donation brings the Oracle chair's giving to the group, Opportunity Matters Fund, to $25 million. 
  <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
- <p class="updated_time"> 12:18 PM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/despite-years-of-preparation-ukraines-electric-grid-still-far-from-ready-for-russian-hackers-00010373">Despite years of preparation, Ukraine’s electric grid still an easy target for Russian hackers</a> Politico: Portions of Ukraine’s electric system went dark following two Russian cyberattacks in recent years. Efforts to strengthen the grid in the years since likely won’t be enough to fend off Russian hackers. 
  <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/news/2022/02/19/russian-military-build-up-continues-despite-moscows-promises-of-a-drawdown-00010372">Russian military build-up continues, despite Moscow’s promises of a drawdown</a> Politico: A massive joint exercise in Belarus was due to end this weekend. But now officials say those tanks and troops are staying put. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
@@ -293,18 +307,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/us/politics/civil-suits-trump-jan-6.html">Judge Allows Civil Suits to Proceed Against Trump Over Jan. 6</a> NYT: The ruling means the plaintiffs in three civil cases will likely be able to seek information from the former president over his role in the attack on the Capitol. 
  <p class="updated_time"> 04:08 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081873315/president-biden-says-russia-invasion-in-ukraine-will-happen-within-days">President Biden says Russia invasion in Ukraine will happen within days</a> NPR: President Biden spoke about the deteriorating situation in Ukraine, as Russia appears ready to invade. He gives his remarks after convening key European leaders for an update. 
- <p class="updated_time"> 03:52 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/business/economy/china-us-olympics-sponsorships.html">Why Companies Struggled to Navigate Olympics Sponsorships</a> NYT: The debacle over Olympic sponsorship shows how the U.S.-China relationship has turned into a minefield for companies trying to do business in both countries. 
  <p class="updated_time"> 03:47 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081856252/u-s-surgeon-general-says-he-and-his-family-have-all-tested-positive-for-covid-19">U.S. surgeon general says he and his family have all tested positive for COVID-19 </a> NPR: The nation's top doctor says he and his wife have mild symptoms, while his son has a runny nose and low-grade fever. His daughter also recently tested positive for the virus. 
- <p class="updated_time"> 03:44 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081872137/biden-administration-prepares-to-pivot-on-pandemic-approach">Biden administration prepares to pivot on pandemic approach</a> NPR: The White House is trying to move away from a crisis footing on COVID. By the time of the State of the Union, President Biden may be able to explain how things get back to normal. 
+ <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
+ <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 01:39 PM CT, Feb. 18 </p> 
  <a href="https://www.cnn.com/2022/02/18/politics/liz-cheney-primary-republican-reactions/index.html">Cheney primary prompts sharp GOP divide in Washington</a> CNN: Republican lawmakers are starting to choose sides in the fight to defeat Rep. Liz Cheney in Wyoming, placing high-stakes bets in a divisive primary that is widely seen as a referendum on Donald Trump and cementing deep rifts in the GOP over the direction of the party. 
  <p class="updated_time"> 01:25 PM CT, Feb. 18 </p> 
  <a href="https://www.cnn.com/2022/02/18/politics/putin-russia-ukraine-scenarios-what-matters/index.html">Putin's possible endgames in Ukraine</a> CNN: As the US seeks to convince the world that Russia is bluffing about a drawdown of troops near Ukraine, it's worth considering what's informing Russia's decision-making and what the possible endgame scenarios might be. 
- <p class="updated_time"> 12:13 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/biden-to-speak-with-allies-as-u-s-pressures-russia-to-back-down-00010177">Biden says he believes Putin has decided to invade Ukraine</a> Politico: The president's strongest public comments yet come as Russia, which denies plans to attack, has begun amplifying alleged grievances with Kyiv. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/capitol-riot-panel-interview-katrina-pierson-00010154">Jan. 6 panel interviewed Ellipse rally organizer Katrina Pierson</a> Politico: Pierson in her committee interview did not invoke her right to not self-incriminate, known as pleading the Fifth, a source told POLITICO. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
@@ -333,8 +343,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720"> Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
  <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senate passes symbolic Russia rebuke as Ukraine threat looms</a> Politico: The bipartisan and nonbinding resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
- <p class="updated_time"> 06:34 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/eric-lander-biden-replacements-00009625">Biden names 2 people to replace Eric Lander in top science roles</a> Politico: Alondra Nelson will become director of the Office of Science and Technology Policy, and Francis Collins will serve as the president's top science adviser. 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
  <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
