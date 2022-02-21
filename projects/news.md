@@ -52,12 +52,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html">Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</a> NYT: The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army. 
  <p class="updated_time"> 12:54 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">‘We Have All Gone Into Debt’: Soaring Bills Deepen Crisis for Turks</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
+ <p class="updated_time"> 12:42 PM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. 
  <p class="updated_time"> 12:26 PM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/canadas-emergency-powers-for-freedom-convoy-set-to-be-extended-11645480357">Canada's Emergency Powers for Freedom Convoy Set to Be Extended</a> WSJ: The Trudeau government’s plan has backing from the left-leaning New Democratic Party, though civil-rights groups say the measure is no longer necessary. 
  <p class="updated_time"> 12:17 PM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-address-takes-swipe-at-u-s-led-world-order-11645485419">Putin Address Takes Swipe at U.S.-Led World Order</a> WSJ: The Russian president recounted historical grievances and signaled an entrenched confrontation with the West in an hour-long televised speech. 
- <p class="updated_time"> 12:11 PM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. 
  <p class="updated_time"> 11:26 AM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412">Putin's Endgame: Unravel the Post-Cold War Agreements That Humiliated Russia</a> WSJ: Moscow’s military forces threaten Ukraine, but the bigger prize is restoration of Russia’s historical sphere of influence stretching through Eastern Europe. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
