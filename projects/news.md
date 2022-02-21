@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:50 PM CT, Feb. 20 </p> 
+ <p class="updated_time"> 06:19 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine Live Updates: Biden Warning on Russian Attack Was Prompted by New Intelligence</a> NYT: The American president stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
+ <p class="updated_time"> 06:19 PM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-military-ukraine-border.html">Satellite Images Show New Phase of Russian Military Readiness</a> NYT: Several units or troops have been deployed outside of bases or training grounds, as Russian units continue moving closer to the border with Ukraine. 
+ <p class="updated_time"> 06:10 PM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60429251?at_medium=RSS&at_campaign=KARANGA">How will the Beijing Games be remembered?</a> BBC: Passports, pressure and pandas: A look back at two weeks of sports, drama and controversy. 
+ <p class="updated_time"> 06:06 PM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60431874?at_medium=RSS&at_campaign=KARANGA">Bangkok: Exploring a lost world in an abandoned department store</a> BBC: A group of artists and architects have turned a derelict building into an art and light exhibit. 
+ <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese-American internment: "It can't be undone"</a> BBC: Eighty years ago, the US government imprisoned about 120,000 Japanese Americans during World War Two. 
  <p class="updated_time"> 05:45 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60454818?at_medium=RSS&at_campaign=KARANGA">Ukraine tensions: US sounds fresh alarm over Russia invasion fears</a> BBC: The secretary of state says Russia is "on the brink" of invading, amid reports of an imminent attack. 
  <p class="updated_time"> 05:25 PM CT, Feb. 20 </p> 
@@ -21,7 +29,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:05 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: More than 150 still missing in flood-hit Brazil city</a> BBC: At least 152 deaths are confirmed five days after huge mudslides in Petrópolis. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-appeasement.html">A Subdued Munich Conference Hears a Troubling Word: Appeasement</a> NYT: President Volodymyr Zelensky of Ukraine reminded his Western counterparts of what was supposed to be an unforgettable lesson from Europe’s past. 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-zelensky-munich-conference.html">Ukraine's Zelensky Accuses Western of Appeasement</a> NYT: President Volodymyr Zelensky of Ukraine reminded his Western counterparts of what was supposed to be an unforgettable lesson from Europe’s past. 
  <p class="updated_time"> 04:02 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
  <p class="updated_time"> 03:45 PM CT, Feb. 20 </p> 
@@ -30,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60456196?at_medium=RSS&at_campaign=KARANGA">Credit Suisse denies wrongdoing after big banking data leak</a> BBC: A new investigation identifies thousands of foreign customers who stashed their money at the bank. 
  <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Coronavirus, as England Is Poised to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
+ <p class="updated_time"> 01:04 PM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/behind-chinas-warning-against-a-russian-invasion-is-a-desire-to-protect-ties-with-the-u-s-11645376565">China Seeks to Protect Ties With the U.S.</a> WSJ: After strongly supporting Moscow’s standoff with the West over Ukraine, Beijing aligns its position closer to Washington’s. 
  <p class="updated_time"> 12:34 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-shelling.html">A Press Tour Turns Frantic in Ukraine As Russia-Backed Shelling Intensifies</a> NYT: As shelling intensified in eastern Ukraine, a seemingly routine press tour turned into a frantic rush to safety. 
  <p class="updated_time"> 12:30 PM CT, Feb. 20 </p> 
@@ -88,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60451702?at_medium=RSS&at_campaign=KARANGA">Ethiopia starts generating power from River Nile dam</a> BBC: A "monumental day" for Ethiopia but Egypt and Sudan fear it will reduce their share of Nile waters. 
  <p class="updated_time"> 06:09 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082011535/queen-elizabeth-tests-positive-covid-19">Queen Elizabeth II has tested positive for COVID-19 </a> NPR: Buckingham Palace said the 95-year-old monarch is experiencing mild, cold-like symptoms and will continue with light duties over the next week. She has received three jabs of coronavirus vaccine. 
- <p class="updated_time"> 06:02 AM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/behind-chinas-warning-against-a-russian-invasion-is-a-desire-to-protect-ties-with-the-u-s-11645376565">China Seeks to Protect Ties With the U.S.</a> WSJ: After strongly supporting Moscow’s standoff with the West over Ukraine, Beijing aligns its position closer to Washington’s. 
  <p class="updated_time"> 06:01 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, it's proving the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
  <p class="updated_time"> 05:36 AM CT, Feb. 20 </p> 
@@ -128,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60448611?at_medium=RSS&at_campaign=KARANGA">Miami helicopter crash: Police share footage showing swimmers metres away from site</a> BBC: Miami Beach Police said two of the three passengers were taken to hospital in a stable condition. 
- <p class="updated_time"> 02:10 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60449408?at_medium=RSS&at_campaign=KARANGA">Brian Flores: Pittsburgh Steelers hire ex-Miami coach who is suing NFL</a> BBC: Brian Flores, the former Miami Dolphins head coach who is suing the NFL for racial discrimination, is hired by the Pittsburgh Steelers. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/storm-eunice-aftermath.html">Storm Eunice Kills at Least 8</a> NYT: Gusts toppled trees and sent debris flying, leaving tens of thousands without power and disrupting travel a day later. 
  <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
@@ -170,12 +176,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/arts/design/project-of-independence-moma-review.html">When Architects Made Worlds</a> NYT: MoMA explores an era of sweeping change, when South Asian architects — pioneering women, among them — redefined the postcolonial era and helped construct new nation states. 
- <p class="updated_time"> 10:41 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/winter-olympics/60427119?at_medium=RSS&at_campaign=KARANGA">The coach who gave Valieva a 'chilling' reception</a> BBC: Who is the coach whose "cold" treatment of a sobbing Kamila Valieva was "chilling" to watch according to the IOC? 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
- <p class="updated_time"> 06:17 PM CT, Feb. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60299136?at_medium=RSS&at_campaign=KARANGA">The amateur historians chronicling Delhi's past on Instagram</a> BBC: Some amateur historians are documenting neglected corners of Delhi, one Instagram post at a time. 
  <p class="updated_time"> 11:16 AM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/world/europe/london-highgate-cemetery-dispatch.html">Highgate Cemetery: A City of the Dead That Inspires the Living</a> NYT: Highgate Cemetery is the final resting place for about 170,000 Londoners, among them the famous, the infamous and the ordinary. Since the start of the pandemic, its leafy pathways have taken on new meaning for some in the city. 
 
@@ -185,7 +187,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:27 PM CT, Feb. 20 </p> 
+ <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Putin Has Choice of Blitzkrieg or Minor Incursion in Ukraine</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
  <p class="updated_time"> 04:37 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/substitute-teachers-national-guard-new-mexico.html">New Twist in Pandemic’s Impact on Schools: Substitutes in Camouflage</a> NYT: Deployed to classrooms in New Mexico to help with crippling staff shortages, National Guard troops are employing their informal motto, “Semper Gumby” — Always Flexible. 
