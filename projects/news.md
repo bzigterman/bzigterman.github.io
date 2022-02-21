@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:02 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 01:17 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Russia Will Recognize 2 Separatist Regions in Ukraine, Kremlin Says</a> NYT: President Vladimir V. Putin addressed the nation late on Monday. The president of Ukraine will also speak on Monday night. The U.S. and its allies have warned that Russia could use such a recognition to move more forces in. 
  <p class="updated_time"> 12:58 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
