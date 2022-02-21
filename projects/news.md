@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:35 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/colombia-court-abortion">Live Updates: Colombia Decriminalizes Abortion</a> NYT: The decision by the Constitutional Court comes in the wake of similar moves in Mexico and Argentina. 
- <p class="updated_time"> 05:26 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 05:53 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html">Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</a> NYT: A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II. 
+ <p class="updated_time"> 05:52 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Orders Troops to Ukraine’s Breakaway Regions</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter Donetsk and Luhansk for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
+ <p class="updated_time"> 05:44 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/colombia-court-abortion">Live Updates: Colombia Decriminalizes Abortion</a> NYT: The decision by the Constitutional Court comes in the wake of similar moves in Mexico and Argentina. 
  <p class="updated_time"> 05:25 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html">U.S. Troops in Poland Brace for Possible Ukrainian Evacuees</a> NYT: Tens of thousands of people, including Americans, could flee across the border if Russia launches a full invasion of Ukraine. 
  <p class="updated_time"> 05:17 PM CT, Feb. 21 </p> 
@@ -25,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:49 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
  <p class="updated_time"> 04:21 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions as independent states</a> BBC: Russian troops are ordered to perform "peacekeeping" there, raising fears troops may cross the border. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions as independent states</a> BBC: Russian troops are ordered to perform "peacekeeping" there - a description Australia branded "nonsense". 
  <p class="updated_time"> 04:16 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082124528/ukraine-russia-putin-invasion">Why Ukraine gave up its nuclear weapons — and what that means in an invasion by Russia</a> NPR: Three decades ago, the newly independent country of Ukraine was briefly the third-largest nuclear power in the world. A lot has changed since then. 
  <p class="updated_time"> 03:57 PM CT, Feb. 21 </p> 
@@ -66,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/as-covid-19-cases-wane-u-k-to-lift-remaining-curbs-11645474112">U.K. to Lift Remaining Covid-19 Curbs</a> WSJ: Britain is set to become the first major European economy to ditch all restrictions and its free testing program, as the government seeks a return to normal despite recording around 25,000 cases a day. 
  <p class="updated_time"> 10:06 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
- <p class="updated_time"> 09:48 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html">Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</a> NYT: A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II. 
  <p class="updated_time"> 09:44 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
  <p class="updated_time"> 09:31 AM CT, Feb. 21 </p> 
