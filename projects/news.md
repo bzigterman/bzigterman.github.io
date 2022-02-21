@@ -149,7 +149,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-60393953?at_medium=RSS&at_campaign=KARANGA">Why won’t Telegram take down my naked photos?</a> BBC: A BBC investigation finds women’s nude images shared on the app without consent on a massive scale. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60284352?at_medium=RSS&at_campaign=KARANGA">The man who lived in a Singapore forest for 30 years</a> BBC: Mr Oh, who is now 79 years old, lived in a makeshift shelter in woodland in the city-state of Singapore. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60284352?at_medium=RSS&at_campaign=KARANGA">The man who lived in a Singapore forest for 30 years</a> BBC: Mr Oh, who is now 79, lived in a makeshift shelter in woodland in the city-state of Singapore. 
  <p class="updated_time"> 05:51 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/canada-truckers-arrested.html">Police in Ottawa Rout Truckers With a Show of Force</a> NYT: A central area of the protest that roiled Canada’s capital for three weeks was cleared of demonstrators. 
  <p class="updated_time"> 04:39 PM CT, Feb. 19 </p> 
