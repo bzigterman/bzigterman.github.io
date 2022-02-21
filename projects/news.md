@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:50 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-swiss-bank.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
+ <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Says He Will Consider Recognizing Separatist States in Ukraine</a> NYT: The announcement raised fears that Moscow could use such recognition to move more forces into the areas of eastern Ukraine. The Russian foreign minister said he is willing to meet with his U.S. counterpart. 
+ <p class="updated_time"> 08:55 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
  <p class="updated_time"> 08:45 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">After Trucker Protest, Canada Grapples With a Question: Was It a Blip, or Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 08:39 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
- <p class="updated_time"> 08:27 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
  <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
  <p class="updated_time"> 08:16 AM CT, Feb. 21 </p> 
@@ -36,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/us-russia-ukraine-kill-list.html">U.S. Says Russia Has a List of Ukrainians to Kill or Detain</a> NYT: A U.S. ambassador cited “credible information” that Russian forces have compiled a list of Ukrainians to be targeted after an invasion. 
  <p class="updated_time"> 05:21 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1081940350/9-moments-storylines-resonated-2022-beijing-winter-olympics">9 moments that resonated at the 2022 Beijing Winter Olympics</a> NPR: NPR's team in Beijing put together moments and storylines that stuck out — including those that showed immense inner strength, athleticism and grace. 
- <p class="updated_time"> 04:35 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-swiss-bank.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
  <p class="updated_time"> 04:32 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/travel/everglades-kayak-trip.html">Six Days Afloat in the Everglades</a> NYT: After a storm disrupted plans for a 99-mile paddling trek, a Times journalist’s time on the water took a more reflective turn. Come look and listen alongside him. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
@@ -136,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, this is the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
  <p class="updated_time"> 05:36 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60453007?at_medium=RSS&at_campaign=KARANGA">Ultrarunner breaks own 100-mile world record</a> BBC: American Camille Herron breaks her own women's world record in winning the USA Track and Field 100-mile Championships in Nevada. 
- <p class="updated_time"> 05:26 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-donbas.html">Ukraine’s Paramilitaries Prepare for Conflict With Russia.</a> NYT: Times journalists followed the members of one such group 
  <p class="updated_time"> 05:18 AM CT, Feb. 20 </p> 
  <a href="https://www.wsj.com/articles/beijing-winter-olympics-end-with-parade-of-national-flags-and-burst-of-fireworks-11645367611">Beijing Winter Olympics End With Parade of National Flags, Burst of Fireworks</a> WSJ: China officially concluded a Beijing Winter Olympics that sought to unify the world but ended up highlighting its divisions. 
  <p class="updated_time"> 05:06 AM CT, Feb. 20 </p> 
