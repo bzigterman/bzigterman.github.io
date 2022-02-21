@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:50 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Says He Will Consider Recognizing Separatist States in Ukraine</a> NYT: The announcement raised fears that Moscow could use such recognition to move more forces into the areas of eastern Ukraine. The Russian foreign minister said he is willing to meet with his U.S. counterpart. 
+ <p class="updated_time"> 08:45 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">After Trucker Protest, Canada Grapples With a Question: Was It a Blip, or Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 08:39 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
- <p class="updated_time"> 08:36 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Says He Will Consider Recognizing Separatist States in Ukraine</a> NYT: The announcement raised fears that Moscow could use such recognition to move more forces into the areas of eastern Ukraine. 
  <p class="updated_time"> 08:27 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: Australia Reopens to Tourists for First Time in 2 Years</a> NYT: The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. Queen Elizabeth contracted the coronavirus just as England prepared to relax restrictions. 
  <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
@@ -42,10 +44,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/queen-victoria-diamond-jubilee.html">1897: Queen Victoria’s Diamond Jubilee Proposals</a> NYT: The plans to celebrate the 60th anniversary of the British monarch’s accession included a service at St. Paul’s Cathedral. 
+ <p class="updated_time"> 03:33 AM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Kyiv Rejects Russian Claim of Incursion by Ukrainian Forces</a> WSJ: Russia’s military said it destroyed two Ukrainian armored vehicles inside Russian territory but offered no evidence, as Ukrainian and Western leaders warned Moscow was seeking pretexts to mount an attack. 
  <p class="updated_time"> 02:59 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60427542?at_medium=RSS&at_campaign=KARANGA">Graham Potter: One of Australia's most wanted men arrested after 12-year hunt</a> BBC: Convicted killer Graham Potter, 64, had been on the run after failing to appear for a 2010 court date. 
- <p class="updated_time"> 02:00 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">After Trucker Protest, Canada Grapples With a Question: Was It a Blip, or Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 02:00 AM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/inflation-creeps-into-asiamy-salary-is-the-same-but-everything-is-more-expensive-11645448452">Inflation Starts to Show Up in Asia</a> WSJ: Early warning signs of inflation are appearing in some parts of Asia, as higher energy and food prices start to bite in countries that recently seemed immune to cost pressures. 
  <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
@@ -76,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60431874?at_medium=RSS&at_campaign=KARANGA">Bangkok: Exploring a lost world in an abandoned department store</a> BBC: A group of artists and architects have turned a derelict building into an art and light exhibit. 
  <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese internment camps: How a long-lost kimono unearthed a family secret</a> BBC: The US imprisoned Japanese Americans 80 years ago - now the younger generation are asking questions. 
- <p class="updated_time"> 05:41 PM CT, Feb. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-belarus-drills-for-thousands-of-troops-as-ukraine-violence-escalates-11645364792">Biden Agrees to Meet Putin Provided Russia Pulls Back</a> WSJ: President Biden’s decision came during a discussion with French President Emmanuel Macron, who made a flurry of calls seeking a diplomatic solution to the Ukrainian crisis. 
  <p class="updated_time"> 04:38 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60454481?at_medium=RSS&at_campaign=KARANGA">'Nigerian air strike' kills seven children in Niger</a> BBC: The children were killed by accident in an air strike by neighbouring Nigeria, local officials said. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
@@ -186,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead">Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell</a> NPR: Brunel, a modeling agent, was being held in an investigation into the rape of minors and trafficking of minors for sexual exploitation, according to the Paris prosecutor's office. 
  <p class="updated_time"> 09:13 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/ukraine-russia-crisis-new-cold-war.html">In Ukraine Crisis, the Looming Threat of a New Cold War</a> NYT: If he invades, President Vladimir V. Putin is inviting a new global struggle with the West. He should think about how the last one ended, analysts say. 
- <p class="updated_time"> 05:24 AM CT, Feb. 19 </p> 
- <a href="https://www.wsj.com/articles/jean-luc-brunel-an-associate-of-jeffrey-epstein-found-dead-in-paris-prison-11645287842">Jean-Luc Brunel, an Associate of Epstein, Found Dead in Paris Prison</a> WSJ: The modeling agent and close associate of convicted sex offender Jeffrey Epstein was found hanged in his cell on Friday night. 
 
 
 </details>
