@@ -12,6 +12,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
+ <p class="updated_time"> 01:30 AM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082070405/as-kuwait-cracks-down-a-battle-erupts-over-womens-rights">As Kuwait cracks down, a battle erupts over women's rights</a> NPR: Conservative politicians are increasingly pushing back against a burgeoning feminist movement and what they see as an unraveling of the country's traditional values. 
  <p class="updated_time"> 01:26 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
  <p class="updated_time"> 12:46 AM CT, Feb. 21 </p> 
@@ -172,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081948884/mexican-drug-cartels-are-getting-into-the-avocado-and-lime-business">Mexican drug cartels are getting into the avocado and lime business</a> NPR: Scott Simon talks with Vice News Correspondent Emily Green about the increased role of Mexican drug cartels in the avocado and lime business. 
  <p class="updated_time"> 07:12 AM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081948939/u-s-figure-skaters-want-their-team-medals-before-the-2022-winter-olympics-end">U.S. figure skaters won't get their team medals before the Winter Olympics end</a> NPR: The American team had asked the Court of Arbitration for Sport to rule they can receive their medals while they await the results of a wider investigation into the Kamila Valieva doping scandal. 
- <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
  <p class="updated_time"> 05:00 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/canada/an-earlier-trek-to-ottawa-had-a-different-tone-but-still-captured-the-nation.html">An Earlier Trek to Ottawa Had a Different Tone but Still Captured the Nation</a> NYT: Deep in the Great Depression, about 1,000 men attempted to reach Ottawa to reform relief programs. Most didn’t make it but they eventually achieved their aims. 
  <p class="updated_time"> 04:00 AM CT, Feb. 19 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
  <p class="updated_time"> 10:48 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/justice-department-china-trump.html">Justice Dept. Is Set to Modify Trump-Era Program Aimed at Fighting Chinese Threats</a> NYT: Critics said the China Initiative unfairly targeted Asian professors and contributed to a rising tide of anti-Asian sentiment. 
  <p class="updated_time"> 08:37 PM CT, Feb. 20 </p> 
@@ -209,8 +211,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/20/san-francisco-mayor-school-board-recall-00010392">San Francisco mayor on the school board recall: 'We failed our children'</a> Politico: “In this particular case, the board neglected their primary responsibility," Mayor London Breed said. 
  <p class="updated_time"> 11:45 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/20/harris-declares-unity-while-zelenskyy-accuses-appeasement-00010389"> Harris declares ‘unity,’ while Zelenskyy accuses ‘appeasement’</a> Politico Playbook: And Democrats try to recalibrate for the midterms. 
- <p class="updated_time"> 11:34 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
  <p class="updated_time"> 11:28 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/finland-russia-putin-00010391">Finland's president sees changes in Putin: 'It was a different kind of behavior'</a> Politico: He said his nation might consider joining NATO if it felt threatened. 
  <p class="updated_time"> 11:04 AM CT, Feb. 20 </p> 
