@@ -8,22 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/colombia-court-abortion">Colombia Live Updates: Highest Court Decriminalizes Abortion, Bolstering Trend Across Region</a> NYT: The decision by the Constitutional Court comes in the wake of similar moves in Mexico and Argentina. 
+ <p class="updated_time"> 04:24 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Moscow Orders Troops to Ukraine’s Breakaway Regions</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter the two regions for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
+ <p class="updated_time"> 04:21 PM CT, Feb. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions as independent states</a> BBC: Russian troops are ordered to perform "peacekeeping" there, raising fears troops may cross the border. 
  <p class="updated_time"> 04:16 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082124528/ukraine-russia-putin-invasion">Why Ukraine gave up its nuclear weapons — and what that means in a Russian invasion</a> NPR: Three decades ago, the newly independent country of Ukraine was briefly the third largest nuclear power in the world. A lot has changed since then. 
- <p class="updated_time"> 04:12 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Moscow Orders Troops to Ukraine’s Breakaway Regions</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter the two regions for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
- <p class="updated_time"> 04:12 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/colombia-court-abortion">Colombia Live Updates: Highest Court Decriminalizes Abortion, Bolstering Trend Across Region</a> NYT: The decision by the Constitutional Court comes in the wake of similar moves in Mexico and Argentina. 
  <p class="updated_time"> 04:07 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-speech-transcript.html">Highlights From Putin's Address on Breakaway Regions in Ukraine</a> NYT: President Vladimir V. Putin said he would recognize the independence of two Russian-backed territories in eastern Ukraine. Here are highlights from his 40-minute speech. 
  <p class="updated_time"> 03:57 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/israel-nso-spyware-investigation.html">Israel Says Police Didn’t Hack Civilians Without Court Approval</a> NYT: An official investigation refuted claims that the police had illegally hacked dozens of civilians using spyware from NSO Group, an Israeli company that has long attracted global scrutiny. 
  <p class="updated_time"> 03:55 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
- <p class="updated_time"> 03:51 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions as independent states</a> BBC: The move raises fears that Russian troops could be sent into Donetsk and Luhansk in eastern Ukraine. 
  <p class="updated_time"> 03:41 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60470900?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin makes Donetsk and Luhansk recognition announcement</a> BBC: President Putin says Russia will sign treaties of friendship and support with the breakaway Ukrainian regions. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60470900?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin announces Donetsk and Luhansk recognition</a> BBC: President Putin says Russia will sign treaties of friendship and support with the breakaway Ukrainian regions. 
  <p class="updated_time"> 03:25 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082182686/britain-will-drop-covid-19-self-isolation-requirements-on-thursday-johnson-annou">Britain will drop COVID-19 self-isolation requirements on Thursday, Johnson announces</a> NPR: "Covid will not suddenly disappear," Prime Minister Boris Johnson told Parliament on Monday, adding that "restrictions pose a heavy toll on our economy, our society, our mental well-being." 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
@@ -46,10 +46,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">‘We Have All Gone Into Debt’: Soaring Bills Deepen Crisis for Turks</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
  <p class="updated_time"> 12:13 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
+ <p class="updated_time"> 11:25 AM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Authorizes Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
- <p class="updated_time"> 10:28 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Says Russia to Recognize Independence of Breakaway Regions in Ukraine</a> WSJ: The Russian president’s move threatens to scuttle negotiations with the West over the future security of Eastern Europe and could be used to justify an incursion into the territories. 
  <p class="updated_time"> 10:06 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 09:52 AM CT, Feb. 21 </p> 
