@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:45 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Moscow Orders Troops to Ukraine’s Breakaway Regions After Putin Recognizes Them</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter the two regions for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
- <p class="updated_time"> 03:39 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 03:56 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Moscow Orders Troops to Ukraine’s Breakaway Regions</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter the two regions for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
+ <p class="updated_time"> 03:55 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
+ <p class="updated_time"> 03:55 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
+ <p class="updated_time"> 03:51 PM CT, Feb. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions as independent states</a> BBC: The move raises fears that Russian troops could be sent into Donetsk and Luhansk in eastern Ukraine. 
+ <p class="updated_time"> 03:41 PM CT, Feb. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60470900?at_medium=RSS&at_campaign=KARANGA">Vladimir Putin makes Donetsk and Luhansk recognition announcement</a> BBC: President Putin says Russia will sign treaties of friendship and support with the breakaway Ukrainian regions. 
  <p class="updated_time"> 03:25 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082182686/britain-will-drop-covid-19-self-isolation-requirements-on-thursday-johnson-annou">Britain will drop COVID-19 self-isolation requirements on Thursday, Johnson announces</a> NPR: "Covid will not suddenly disappear," Prime Minister Boris Johnson told Parliament on Monday, adding that "restrictions pose a heavy toll on our economy, our society, our mental well-being." 
- <p class="updated_time"> 03:19 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082172642/putin-invading-ukraine-would-cost-russia-billions-heres-a-breakdown-of-the-costs">Putin invading Ukraine would cost Russia billions. Here's a breakdown of the costs</a> NPR: A Russian invasion and occupation of Ukraine would cost billions. Russia's weak economy would face tough sanctions. And there are the political costs of alienating Europe and revitalizing NATO. 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
@@ -24,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082172597/how-countries-should-prepare-for-climate-migration">How countries should prepare for climate migration</a> NPR: NPR's Ari Shapiro speaks to Jay Balagna of the RAND Corporation about his opinion piece titled "To help climate migrants, we must first recognize them." 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082172502/russia-plans-to-recognize-2-ukrainian-regions-as-independent">Russia recognizes 2 Ukrainian regions as independent</a> NPR: Russian President Vladimir Putin is planning to recognize the independence of two Ukrainian regions, establishing what could be a pretext for an attack. 
- <p class="updated_time"> 02:31 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions</a> BBC: The move from Vladimir Putin raises fears that Russian troops could be sent into the regions in eastern Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html">For Ukraine’s Jews, the Threat of War Stirs Memories of Past Horrors</a> NYT: In Odessa, Jewish leaders are preparing for the worst: hiring security guards, scoping out bomb shelters and making plans to evacuate if Russia invades the country. 
  <p class="updated_time"> 02:12 PM CT, Feb. 21 </p> 
@@ -175,13 +177,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:03 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60429725?at_medium=RSS&at_campaign=KARANGA">The Nigerian artwork challenging British history in St Paul's</a> BBC: St Paul's Cathedral invites artist Victor Ehikhamenor to respond to the looting of the Benin Bronzes. 
  <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-60393953?at_medium=RSS&at_campaign=KARANGA">Why won’t Telegram take down my naked photos?</a> BBC: A BBC investigation finds women’s nude images shared on the app without consent on a massive scale. 
- <p class="updated_time"> 06:00 PM CT, Feb. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60284352?at_medium=RSS&at_campaign=KARANGA">The man who lived in a Singapore forest for 30 years</a> BBC: Mr Oh, who is now 79, lived in a makeshift shelter in woodland in the city-state of Singapore. 
  <p class="updated_time"> 01:47 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/storm-eunice-aftermath.html">Storm Eunice Kills at Least 8</a> NYT: Gusts toppled trees and sent debris flying, leaving tens of thousands without power and disrupting travel a day later. 
- <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/climate/antarctic-shackleton-search.html">The Search Has Begun for an Antarctic Pioneer’s Lost Ship</a> NYT: Explorers have started combing the Weddell Sea for one of the most revered ships in the history of polar exploration, Ernest Shackleton’s Endurance, which sank in 1915. 
 
 
 </details>
