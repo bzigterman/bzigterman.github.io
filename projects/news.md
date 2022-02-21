@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:52 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 03:22 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech</a> NYT: President Vladimir V. Putin addressed the nation late on Monday, bitterly accusing Ukraine of being  a “puppet” of the United States. The U.S. and E.U. said they would begin imposing limited sanctions. 
+ <p class="updated_time"> 03:19 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082172642/putin-invading-ukraine-would-cost-russia-billions-heres-a-breakdown-of-the-costs">Putin invading Ukraine would cost Russia billions. Here's a breakdown of the costs</a> NPR: A Russian invasion and occupation of Ukraine would cost billions. Russia's weak economy would face tough sanctions. And there are the political costs of alienating Europe and revitalizing NATO. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082172618/why-ukraine-gave-up-its-nukes">Why Ukraine gave up its nukes</a> NPR: NPR's Mary Louise Kelly talks with Mariana Budjeryn about the Budapest Memorandum, an agreement guaranteeing security for Ukraine if it gave up nuclear weapons left over after the Soviet Union fell. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082172597/how-countries-should-prepare-for-climate-migration">How countries should prepare for climate migration</a> NPR: NPR's Ari Shapiro speaks to Jay Balagna of the RAND Corporation about his opinion piece titled "To help climate migrants, we must first recognize them." 
+ <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082172502/russia-plans-to-recognize-2-ukrainian-regions-as-independent">Russia recognizes 2 Ukrainian regions as independent</a> NPR: Russian President Vladimir Putin is planning to recognize the independence of two Ukrainian regions, establishing what could be a pretext for an attack. 
  <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 02:31 PM CT, Feb. 21 </p> 
@@ -28,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
- <p class="updated_time"> 10:53 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
  <p class="updated_time"> 10:06 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 09:52 AM CT, Feb. 21 </p> 
@@ -152,14 +160,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1082012406/valerie-pecresse-is-the-first-female-nominee-of-a-french-mainstream-political-pa">Conservative Valerie Pecresse is struggling in her bid to unseat Macron</a> NPR: Valerie Pecresse, the conservative nominee for president of France, is struggling in her bid to unseat President Emmanuel Macron. 
  <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012392/russia-has-been-showing-diplomatic-interest-in-latin-american-countries">Russia has been showing diplomatic interest in Latin American countries</a> NPR: Don Gonyea speaks with Vladimir Rouvinski of Universidad Icesi in Colombia about Russia's outreach to Latin American countries during the Ukraine crisis. 
- <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1082012385/russia-could-be-waiting-for-olympics-to-end-to-move-forward-with-ukraine-invasio">Russia could be waiting for Olympics to end to move forward with Ukraine invasion</a> NPR: As Vice President Harris noted Sunday, Ukraine is "virtually surrounded by Russian troops." Those troops are poised to invade Ukraine. 
  <p class="updated_time"> 06:10 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60451702?at_medium=RSS&at_campaign=KARANGA">Ethiopia starts generating power from River Nile dam</a> BBC: A "monumental day" for Ethiopia but Egypt and Sudan fear it will reduce their share of Nile waters. 
- <p class="updated_time"> 06:09 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1082011535/queen-elizabeth-tests-positive-covid-19">Queen Elizabeth II has tested positive for COVID-19 </a> NPR: Buckingham Palace said the 95-year-old monarch is experiencing mild, cold-like symptoms and will continue with light duties over the next week. She has received three jabs of coronavirus vaccine. 
- <p class="updated_time"> 06:01 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1081557870/hong-kong-expat-exodus-covid-restrictions">He loved Hong Kong. Its COVID crackdown made him leave without even saying goodbye</a> NPR: Hong Kong has imposed severe restrictions to fight COVID-19. For many expatriates, this is the last straw after years of seeing its autonomy erode as China tightens its grip on the territory. 
  <p class="updated_time"> 05:36 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60453007?at_medium=RSS&at_campaign=KARANGA">Ultrarunner breaks own 100-mile world record</a> BBC: American Camille Herron breaks her own women's world record in winning the USA Track and Field 100-mile Championships in Nevada. 
  <p class="updated_time"> 03:35 AM CT, Feb. 20 </p> 
@@ -182,8 +184,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/climate/antarctic-shackleton-search.html">The Search Has Begun for an Antarctic Pioneer’s Lost Ship</a> NYT: Explorers have started combing the Weddell Sea for one of the most revered ships in the history of polar exploration, Ernest Shackleton’s Endurance, which sank in 1915. 
  <p class="updated_time"> 01:21 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
- <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police clear protesters around Canada's Parliament building</a> NPR: Police in Ottawa have made 170 arrests so far as they work to clear the streets in Canada's capital city. Protests against COVID-19 restrictions have spread across Canada in recent weeks. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
+ <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
 
 
 </details>
@@ -193,6 +195,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:52 PM CT, Feb. 21 </p> 
  <a href="https://www.politico.com/news/2022/02/21/u-s-to-sanction-russia-ukraine-territories-independence-00010443">U.S. to sanction Russia for declaring independence of eastern Ukraine territories</a> Politico: White House press secretary Jen Psaki said the U.S. has been prepared for this move and is ready to respond “immediately." 
+ <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082172628/assessing-the-biden-administrations-progress-on-climate-change">Assessing the Biden administration's progress on climate change</a> NPR: NPR's Ari Shapiro talks with outgoing deputy climate envoy Jonathan Pershing about what the Biden administration has accomplished on climate change so far. 
+ <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082172509/florida-republicans-unhappy-over-everglades-restoration">Florida Republicans unhappy over Everglades restoration</a> NPR: The massive project to restore Florida's Everglades is getting new money from the infrastructure law. But some state Republicans are unhappy, saying a key part of the project was left out. 
  <p class="updated_time"> 02:41 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082107309/can-a-corporate-exec-speak-as-a-mom-about-covid-rules-consider-the-levis-saga">Can a corporate exec speak as a mom about COVID rules? Consider the Levi's saga</a> NPR: Jennifer Sey was on a path to potentially become the next Levi's CEO. Instead, she is out, igniting a debate over corporations and speech. 
  <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
@@ -293,14 +299,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">What Does Vladimir Putin Want in Ukraine?</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
- <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081917682/a-bill-in-the-arizona-house-would-punish-banks-that-refuse-business-from-gun-fir">A bill in the Arizona House would punish banks that refuse business from gun firms</a> NPR: Bankers are resisting the bill, calling it government overreach and saying lawmakers are creating a problem with a non-issue in Arizona. 
  <p class="updated_time"> 05:42 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/jim-hagedorn-dead.html">Jim Hagedorn, a Trump Ally in the House, Dies at 59</a> NYT: A two-term Minnesota conservative, he backed efforts to overturn the election of Joseph Biden as president on spurious grounds of voter fraud. 
  <p class="updated_time"> 04:48 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/supreme-court-remain-in-mexico-asylum.html">Supreme Court to Review ‘Remain in Mexico’ Asylum Policy</a> NYT: The justices agreed to hear the Biden administration’s appeal of a lower court’s ruling that blocked it from rescinding the program. 
- <p class="updated_time"> 04:08 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081873315/president-biden-says-russia-invasion-in-ukraine-will-happen-within-days">President Biden says Russia invasion in Ukraine will happen within days</a> NPR: President Biden spoke about the deteriorating situation in Ukraine, as Russia appears ready to invade. He gives his remarks after convening key European leaders for an update. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 01:39 PM CT, Feb. 18 </p> 
@@ -355,8 +357,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
  <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
- <p class="updated_time"> 03:11 PM CT, Feb. 14 </p> 
- <a href="https://www.politico.com/news/2022/02/14/easter-scotus-confirmation-in-doubt-00008697">Easter SCOTUS confirmation in doubt as Biden deliberates</a> Politico: A nominee this week "would be optimal, but not likely,” said Senate Majority Whip Dick Durbin, chair of the Judiciary Committee. 
 
 
 </details>
