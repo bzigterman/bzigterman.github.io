@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:47 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech</a> NYT: In an address late Monday, President Vladimir V. Putin bitterly accused Ukraine of being little more than a “puppet” of the United States. 
+ <p class="updated_time"> 02:52 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech</a> NYT: President Vladimir V. Putin addressed the nation late on Monday, bitterly accusing Ukraine of being  a “puppet” of the United States. The U.S. and E.U. said they would begin imposing limited sanctions. 
  <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 02:31 PM CT, Feb. 21 </p> 
@@ -166,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/queen-elizabeth-tests-positive-for-covid-19-with-mild-symptoms-11645365144">Queen Elizabeth Tests Positive for Covid-19 With Mild Symptoms</a> WSJ: The 95-year-old British monarch, who recently marked 70 years on the throne, is experiencing “mild cold-like symptoms,” Buckingham Palace said. 
  <p class="updated_time"> 03:13 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60452146?at_medium=RSS&at_campaign=KARANGA">Ukrainian officials run from apparent shelling</a> BBC: Watch the moment when a group including the interior minister take cover in eastern Ukraine. 
- <p class="updated_time"> 01:34 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/zelensky-criticizes-the-allied-response-to-russias-buildup.html">President Zelensky criticizes the allied response to Russia’s buildup.</a> NYT: The Ukrainian leader thanked the West but said sanctions should be applied now and that repeated predictions of imminent war were damaging. 
  <p class="updated_time"> 11:30 PM CT, Feb. 19 </p> 
  <a href="https://www.wsj.com/articles/taliban-looks-to-private-sector-to-save-afghanistans-economy-from-collapse-11645353000">Taliban Looks to Private Sector to Save Afghanistan's Economy</a> WSJ: The Taliban’s economic vision, it turns out, isn’t so different from America’s. With its economy in free fall, the Taliban is banking on private enterprise to rescue Afghanistan’s people and solidify its regime. 
  <p class="updated_time"> 11:01 PM CT, Feb. 19 </p> 
@@ -186,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
  <p class="updated_time"> 12:37 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police clear protesters around Canada's Parliament building</a> NPR: Police in Ottawa have made 170 arrests so far as they work to clear the streets in Canada's capital city. Protests against COVID-19 restrictions have spread across Canada in recent weeks. 
- <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
 
 
 </details>
@@ -195,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Feb. 21 </p> 
+ <a href="https://www.politico.com/news/2022/02/21/u-s-to-sanction-russia-ukraine-territories-independence-00010443">U.S. to sanction Russia for declaring independence of eastern Ukraine territories</a> Politico: White House press secretary Jen Psaki said the U.S. has been prepared for this move and is ready to respond “immediately." 
  <p class="updated_time"> 02:41 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082107309/can-a-corporate-exec-speak-as-a-mom-about-covid-rules-consider-the-levis-saga">Can a corporate exec speak as a mom about COVID rules? Consider the Levi's saga</a> NPR: Jennifer Sey was on a path to potentially become the next Levi's CEO. Instead, she is out, igniting a debate over corporations and speech. 
  <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
@@ -273,10 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1082012399/the-laws-around-presidential-records-are-complex-and-murky">The laws around presidential records are complex and murky</a> NPR: Don Gonyea speaks with James Grossman of the American Historical Association about former President Donald Trump's handling of presidential records. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
  <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
  <a href="https://www.npr.org/2022/02/19/1081987370/why-republicans-are-divided-on-support-for-ukraine">Why Republicans are divided on support for Ukraine</a> NPR: NPR's Michel Martin discusses why the Republican Party has had a warmer posture towards Russia in recent years with former Republican strategist Steve Schmidt. 
  <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
