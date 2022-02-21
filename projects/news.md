@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:21 PM CT, Feb. 20 </p> 
+ <p class="updated_time"> 11:23 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/02/20/world/ukraine-russia-news">Ukraine: France Pushes for Biden-Putin Meeting</a> NYT: President Biden has “agreed in principle” to meet the Russian leader if there is no invasion. Mr. Biden has stepped up his warnings about Moscow’s plans after seeing evidence that an attack on Ukraine was imminent. 
  <p class="updated_time"> 11:11 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-belarus-putin.html">Russia May Be Seeking Pretext for Ukraine Invasion, Officials Say</a> NYT: The pressure on Kyiv mounted after a weekend of shelling and evacuations in the east, and the extension of war games in neighboring Belarus. 
