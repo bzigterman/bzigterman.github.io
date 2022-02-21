@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:31 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech</a> NYT: President Vladimir V. Putin addressed the nation late on Monday, bitterly accusing Ukraine of being  a “puppet” of the United States. The U.S. and E.U. said they would begin imposing limited sanctions. 
+ <p class="updated_time"> 03:41 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Moscow Orders Troops to Breakaway Ukraine Regions After Putin Recognizes Them</a> NYT: President Vladimir V. Putin signed a decree that allowed for troops to enter the two regions for “peacekeeping.” The U.S. and E.U. said they would begin imposing limited sanctions. 
+ <p class="updated_time"> 03:39 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 03:25 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082182686/britain-will-drop-covid-19-self-isolation-requirements-on-thursday-johnson-annou">Britain will drop COVID-19 self-isolation requirements on Thursday, Johnson announces</a> NPR: "Covid will not suddenly disappear," Prime Minister Boris Johnson told Parliament on Monday, adding that "restrictions pose a heavy toll on our economy, our society, our mental well-being." 
  <p class="updated_time"> 03:19 PM CT, Feb. 21 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082172597/how-countries-should-prepare-for-climate-migration">How countries should prepare for climate migration</a> NPR: NPR's Ari Shapiro speaks to Jay Balagna of the RAND Corporation about his opinion piece titled "To help climate migrants, we must first recognize them." 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082172502/russia-plans-to-recognize-2-ukrainian-regions-as-independent">Russia recognizes 2 Ukrainian regions as independent</a> NPR: Russian President Vladimir Putin is planning to recognize the independence of two Ukrainian regions, establishing what could be a pretext for an attack. 
- <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 02:31 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions</a> BBC: The move from Vladimir Putin raises fears that Russian troops could be sent into the regions in eastern Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Feb. 21 </p> 
@@ -40,6 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
+ <p class="updated_time"> 10:28 AM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Says Russia to Recognize Independence of Breakaway Regions in Ukraine</a> WSJ: The Russian president’s move threatens to scuttle negotiations with the West over the future security of Eastern Europe and could be used to justify an incursion into the territories. 
  <p class="updated_time"> 10:06 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 09:52 AM CT, Feb. 21 </p> 
@@ -52,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/president-biden-agreed-in-principle-to-meet-with-putin-to-discuss-the-ukraine-crisis.html">Putin’s Security Council meets as the Kremlin warns that ‘tensions are rising.’</a> NYT: The United States says Russia stands poised to attack Ukraine amid a frantic diplomatic push.  
  <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-credit-suisse.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
- <p class="updated_time"> 08:55 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Says Russia to Recognize Independence of Breakaway Regions in Ukraine</a> WSJ: The Russian president’s move threatens to scuttle negotiations with the West over the future security of Eastern Europe and could be used to justify an incursion into the territories. 
  <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
  <p class="updated_time"> 08:16 AM CT, Feb. 21 </p> 
@@ -182,10 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/world/europe/storm-eunice-aftermath.html">Storm Eunice Kills at Least 8</a> NYT: Gusts toppled trees and sent debris flying, leaving tens of thousands without power and disrupting travel a day later. 
  <p class="updated_time"> 01:38 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/climate/antarctic-shackleton-search.html">The Search Has Begun for an Antarctic Pioneer’s Lost Ship</a> NYT: Explorers have started combing the Weddell Sea for one of the most revered ships in the history of polar exploration, Ernest Shackleton’s Endurance, which sank in 1915. 
- <p class="updated_time"> 01:21 PM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/business/mexico-avocado-ban-lifted.html">U.S. Lifts Temporary Ban on Avocados From Mexico</a> NYT: The ban was issued last week after a U.S. inspector was verbally threatened in the state of Michoacán in Mexico. 
- <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
 
 
 </details>
@@ -242,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:36 PM CT, Feb. 20 </p> 
  <a href="https://www.cnn.com/2022/02/20/politics/judge-michael-luttig-pence-tweet/index.html">Anatomy of a tweet: The behind-the-scenes story of how a retired federal judge used Twitter to try to stop an insurrection</a> CNN: Retired federal judge Michael Luttig never expected to jump into the heated fight over the certification of the 2020 presidential election. And he certainly never imagined he would end up using Twitter to help former Vice President Mike Pence defy then-President Donald Trump. 
  <p class="updated_time"> 08:37 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Blitzkrieg or Minor Incursion? Putin’s Choice Could Determine World Reaction.</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Putin Has Choice of Blitzkrieg or Minor Incursion in Ukraine</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
  <p class="updated_time"> 08:06 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/tension-rise-as-russia-continues-to-mobilize-troops-near-ukrainian-border-00010407">Tensions rise as Russia continues to mobilize troops near Ukrainian border</a> Politico: Pro-Russian forces shelled over a dozen Ukrainian settlements on Sunday, but Russia stopped short of an invasion as fears mounted over troop movements on the border. 
  <p class="updated_time"> 07:30 PM CT, Feb. 20 </p> 
