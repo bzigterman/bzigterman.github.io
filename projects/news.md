@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 02:15 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech</a> NYT: In an address late Monday, President Vladimir V. Putin bitterly accused Ukraine of being little more than a “puppet” of the United States. 
+ <p class="updated_time"> 02:12 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Moves to Lift Coronavirus Restrictions in England</a> NYT: The British prime minister is shifting toward a strategy of living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
+ <p class="updated_time"> 02:12 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
+ <p class="updated_time"> 02:00 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">Putin recognizes breakaway regions' independence from Ukraine, raising attack fears</a> NPR: The move is a serious escalation that could allow Russian-backed separatists in the regions to invite in Russian troops. It will also effectively kill the Minsk accords, a key diplomatic path. 
  <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html">Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</a> NYT: The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army. 
- <p class="updated_time"> 12:58 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 12:54 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">‘We Have All Gone Into Debt’: Soaring Bills Deepen Crisis for Turks</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
  <p class="updated_time"> 12:13 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
- <p class="updated_time"> 11:40 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Moves to Lift Coronavirus Restrictions in England</a> NYT: The British prime minister is shifting toward a strategy of living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
  <p class="updated_time"> 10:53 AM CT, Feb. 21 </p> 
@@ -36,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/president-biden-agreed-in-principle-to-meet-with-putin-to-discuss-the-ukraine-crisis.html">Putin’s Security Council meets as the Kremlin warns that ‘tensions are rising.’</a> NYT: The United States says Russia stands poised to attack Ukraine amid a frantic diplomatic push.  
  <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-credit-suisse.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
+ <p class="updated_time"> 08:55 AM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Says Russia to Recognize Independence of Breakaway Regions in Ukraine</a> WSJ: The Russian president’s move threatens to scuttle negotiations with the West over the future security of eastern Europe and could be used to justify an incursion into the territories. . 
  <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
  <p class="updated_time"> 08:16 AM CT, Feb. 21 </p> 
@@ -46,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1081435029/china-hollywood-movies-censorship-erich-schwartzel">Hollywood relies on China to stay afloat. What does that mean for movies?</a> NPR: Wall Street Journal reporter Erich Schwartzel says that film studios increasingly need Chinese audiences to break even — which can result in self-censorship. His new book is Red Carpet. 
  <p class="updated_time"> 07:24 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-flights.html">Air France, Lufthansa and SAS Limit Flights to Ukraine</a> NYT: Lufthansa and Scandinavian Airlines also canceled flights to Kyiv as fears grow of a Russian invasion. 
- <p class="updated_time"> 07:08 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Ukraine Calls for U.N. Security Council Meeting as Russian Forces Mass on Borders</a> WSJ: Russian President Vladimir Putin said he was weighing whether to recognize two Russian-led breakaway regions in Ukraine as fears of a Russian invasion continue to build. 
  <p class="updated_time"> 07:07 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60419008?at_medium=RSS&at_campaign=KARANGA">Truth Social: Banned from Twitter, Trump returns with a new platform</a> BBC: The former president's platform, Truth Social, goes live on the US Apple App Store. 
  <p class="updated_time"> 06:43 AM CT, Feb. 21 </p> 
@@ -182,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081965235/ottawa-canada-protests">Police clear protesters around Canada's Parliament building</a> NPR: Police in Ottawa have made 170 arrests so far as they work to clear the streets in Canada's capital city. Protests against COVID-19 restrictions have spread across Canada in recent weeks. 
  <p class="updated_time"> 11:36 AM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/world/middleeast/syria-drought-climate-food.html">Conflict and Climate Change Ravage Syria’s Agricultural Heartland</a> NYT: Drought and a decade of war have brought failing crops and poverty to a region once known as Syria’s breadbasket. Even the bread has changed. 
- <p class="updated_time"> 11:20 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081961087/jeffrey-epstein-jean-luc-brunel-dead">Jeffrey Epstein associate Jean-Luc Brunel is found dead in a French jail cell</a> NPR: Brunel, a modeling agent, was being held in an investigation into the rape of minors and trafficking of minors for sexual exploitation, according to the Paris prosecutor's office. 
 
 
 </details>
@@ -191,12 +191,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:01 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-harm-reduction-crack-pipes.html">Uproar Over ‘Crack Pipes’ Puts Biden Drug Strategy at Risk</a> NYT: President Biden has made “harm reduction” a central pillar of his plan to fight a record number of drug-related deaths, but a conservative backlash is threatening the effort. 
  <p class="updated_time"> 01:22 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/sandy-hook-legal-victories.html">How They Did It: Sandy Hook Families Gain Long-Awaited Legal Wins</a> NYT: After early defeats in Congress, relatives of those lost in the 2012 shooting fought on, besting a renowned gun maker and an infamous conspiracy theorist. 
  <p class="updated_time"> 12:57 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
- <p class="updated_time"> 12:56 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-harm-reduction-crack-pipes.html">Uproar Over ‘Crack Pipes’ Puts Biden Drug Strategy at Risk</a> NYT: President Biden has made “harm reduction” a central pillar of his plan to fight a record number of drug-related deaths, but a conservative backlash is threatening the effort. 
  <p class="updated_time"> 11:40 AM CT, Feb. 21 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:29 AM CT, Feb. 21 </p> 
