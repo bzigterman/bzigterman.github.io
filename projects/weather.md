@@ -18,11 +18,11 @@ Current:
 - 55°
 - scattered clouds
 - 81% humidity
-- 19 mph wind
+- 17 mph wind
 - 06:38 a.m. sunrise
 - 05:35 p.m. sunset
 
-<p class="updated_time"> Latest data: 05:33 PM CT, February 21</p>
+<p class="updated_time"> Latest data: 05:51 PM CT, February 21</p>
 
 ## Severe Thunderstorm Outlook
 
