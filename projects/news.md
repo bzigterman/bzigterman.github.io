@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:28 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Close to Decision on Breakaway Ukraine Regions</a> NYT: President Vladimir V. Putin said he would decide by day’s end whether to recognize the independence of Luhansk and Donetsk. U.S. officials worry that Russia could use such a recognition to move more forces in. 
- <p class="updated_time"> 11:27 AM CT, Feb. 21 </p> 
+ <p class="updated_time"> 11:39 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Close to Decision on Breakaway Ukraine Regions</a> NYT: President Vladimir V. Putin was set to address the nation late Monday. U.S. officials worry that Russia could use such a recognition to move more forces in. 
+ <p class="updated_time"> 11:39 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
@@ -46,6 +46,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60419008?at_medium=RSS&at_campaign=KARANGA">Truth Social: Banned from Twitter, Trump returns with a new platform</a> BBC: The former president's platform, Truth Social, goes live on the US Apple App Store. 
  <p class="updated_time"> 06:43 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60460003?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: War, sickness and love in rebel-held Ukraine</a> BBC: Orla Guerin talks to people who cross military checkpoints for medical treatment and to see family. 
+ <p class="updated_time"> 06:29 AM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Ukraine Calls for U.N. Security Council Meeting as Russian Forces Mass on Borders</a> WSJ: Russian President Vladimir Putin said he was weighing whether to recognize two Russian-led breakaway regions in Ukraine as invasion fears build. 
  <p class="updated_time"> 06:02 AM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/batman-batgirl-gotham-glasgow-11645462859">Welcome to Batman's Hometown. Wait, Is That Glasgow?</a> WSJ: The Scottish city is finding fame as a stand-in for Gotham; ‘Anyone who’s into Batman already understood the parallels’ 
  <p class="updated_time"> 06:00 AM CT, Feb. 21 </p> 
@@ -54,8 +56,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-nears-return-to-iran-nuclear-deal-11645458466">U.S. Nears Return to Iran Nuclear Deal</a> WSJ: Iran, the U.S. and other world powers are nearing a deal to revive the 2015 nuclear accord, although negotiators are still wrangling over significant final demands from Tehran, including the scope of sanctions relief. 
  <p class="updated_time"> 05:21 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1081940350/9-moments-storylines-resonated-2022-beijing-winter-olympics">9 moments that resonated at the 2022 Beijing Winter Olympics</a> NPR: NPR's team in Beijing put together moments and storylines that stuck out — including those that showed immense inner strength, athleticism and grace. 
- <p class="updated_time"> 05:08 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Kyiv Rejects Russian Claim of Incursion by Ukrainian Forces</a> WSJ: Russia’s military said it destroyed two Ukrainian armored vehicles inside Russian territory but offered no evidence, as Ukrainian and Western leaders warned Moscow was seeking pretexts to mount an attack. 
  <p class="updated_time"> 04:32 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/travel/everglades-kayak-trip.html">Six Days Afloat in the Everglades</a> NYT: After a storm disrupted plans for a 99-mile paddling trek, a Times journalist’s time on the water took a more reflective turn. Come look and listen alongside him. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
@@ -193,6 +193,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:32 AM CT, Feb. 21 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 11:29 AM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html">U.S. Troops in Poland Brace for Possible Ukrainian Evacuees</a> NYT: Tens of thousands of people, including Americans, could flee across the border if Russia attacks Ukraine. 
  <p class="updated_time"> 11:12 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
  <p class="updated_time"> 10:43 AM CT, Feb. 21 </p> 
@@ -255,8 +259,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/20/blinken-russia-ukraine-invasion-00010387">U.S. continues diplomacy but girds for ‘dead serious’ invasion threat in Ukraine</a> Politico: Even as U.S. officials warned of the nearing threat in Ukraine, they also said they’re going all in on diplomatic talks with Russia to avoid such an invasion. 
  <p class="updated_time"> 09:47 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/kirby-russia-ukraine-putin-00010386">Intense diplomatic efforts continue, Pentagon press secretary says</a> Politico: John Kirby said the West will keep up the pressure on Vladimir Putin. 
- <p class="updated_time"> 09:18 AM CT, Feb. 20 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:59 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012462/pennsylvania-senate-contests-will-be-some-of-the-most-closely-watched-this-year">Pennsylvania Senate contests will be some of the most closely watched this year</a> NPR: In Pennsylvania, three Democratic contenders for the U.S. Senate are campaigning in very different ways. 
  <p class="updated_time"> 07:45 AM CT, Feb. 20 </p> 
@@ -279,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081987356/harris-meets-with-zelensky-in-munich">Harris meets with Zelensky in Munich</a> NPR: Vice President Harris is meeting with a host of world leaders in Munich as concern builds that Russia plans to invade Ukraine. Her meeting with Ukraine President Zelensky sends an important message. 
  <p class="updated_time"> 02:58 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
- <p class="updated_time"> 01:17 PM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/larry-ellison-pumps-15m-into-super-pac-aligned-with-tim-scott-00010377">Larry Ellison pumps $15M into super PAC aligned with Tim Scott</a> Politico: The donation brings the Oracle chair's giving to the group, Opportunity Matters Fund, to $25 million. 
  <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
@@ -295,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/19/1081634031/henry-cuellar-jessica-cisneros-democratic-primary-28th-district-texas">FBI raid of South Texas congressman adds another element to a tough primary challenge</a> NPR: Two years after they first squared off, nine-term Democratic Rep. Henry Cuellar faces progressive Jessica Cisneros in a March 1 primary. Both Democrats and Republicans are watching the key race. 
  <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
- <p class="updated_time"> 07:12 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/congress-russia-sanctions.html">Unable to Agree on Russia Sanctions Bill, Senate Settles for a Statement</a> NYT: A bipartisan push to pass the “mother of all sanctions” collapsed after Republicans insisted on imposing broad penalties before an invasion and Democrats, backing the White House, refused. 
  <p class="updated_time"> 06:00 PM CT, Feb. 18 </p> 
  <a href="https://www.nytimes.com/2022/02/18/us/politics/putin-ukraine.html">What Does Vladimir Putin Want in Ukraine?</a> NYT: We spoke with Fiona Hill, a former Trump adviser, about how the Russian leader’s view of history has led him to the brink of war. 
  <p class="updated_time"> 05:49 PM CT, Feb. 18 </p> 
