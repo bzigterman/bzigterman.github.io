@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:15 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 02:47 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Ukraine Live Updates: Putin Recognizes 2 Separatist Regions in Fiery Speech</a> NYT: In an address late Monday, President Vladimir V. Putin bitterly accused Ukraine of being little more than a “puppet” of the United States. 
+ <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
+ <p class="updated_time"> 02:31 PM CT, Feb. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions</a> BBC: The move from Vladimir Putin raises fears that Russian troops could be sent into the regions in eastern Ukraine. 
+ <p class="updated_time"> 02:20 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html">For Ukraine’s Jews, the Threat of War Stirs Memories of Past Horrors</a> NYT: In Odessa, Jewish leaders are preparing for the worst: hiring security guards, scoping out bomb shelters and making plans to evacuate if Russia invades the country. 
  <p class="updated_time"> 02:12 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Moves to Lift Coronavirus Restrictions in England</a> NYT: The British prime minister is shifting toward a strategy of living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
- <p class="updated_time"> 02:12 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/url-covid-19-tests-cases-vaccine">Covid Live Updates: England Is Lifting Rules as Queen Elizabeth Battles Infection</a> NYT: Australia is reopening to tourists for the first time in two years. The country’s pandemic rules, among the world’s strictest, had kept most visitors out and stranded some citizens abroad. 
  <p class="updated_time"> 02:00 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">Putin recognizes breakaway regions' independence from Ukraine, raising attack fears</a> NPR: The move is a serious escalation that could allow Russian-backed separatists in the regions to invite in Russian troops. It will also effectively kill the Minsk accords, a key diplomatic path. 
  <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
@@ -39,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-credit-suisse.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
  <p class="updated_time"> 08:55 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Says Russia to Recognize Independence of Breakaway Regions in Ukraine</a> WSJ: The Russian president’s move threatens to scuttle negotiations with the West over the future security of eastern Europe and could be used to justify an incursion into the territories. . 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Says Russia to Recognize Independence of Breakaway Regions in Ukraine</a> WSJ: The Russian president’s move threatens to scuttle negotiations with the West over the future security of Eastern Europe and could be used to justify an incursion into the territories. 
  <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
  <p class="updated_time"> 08:16 AM CT, Feb. 21 </p> 
@@ -191,7 +195,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:01 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 02:41 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082107309/can-a-corporate-exec-speak-as-a-mom-about-covid-rules-consider-the-levis-saga">Can a corporate exec speak as a mom about COVID rules? Consider the Levi's saga</a> NPR: Jennifer Sey was on a path to potentially become the next Levi's CEO. Instead, she is out, igniting a debate over corporations and speech. 
+ <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-harm-reduction-crack-pipes.html">Uproar Over ‘Crack Pipes’ Puts Biden Drug Strategy at Risk</a> NYT: President Biden has made “harm reduction” a central pillar of his plan to fight a record number of drug-related deaths, but a conservative backlash is threatening the effort. 
  <p class="updated_time"> 01:22 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/sandy-hook-legal-victories.html">How They Did It: Sandy Hook Families Gain Long-Awaited Legal Wins</a> NYT: After early defeats in Congress, relatives of those lost in the 2012 shooting fought on, besting a renowned gun maker and an infamous conspiracy theorist. 
@@ -301,8 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/18/us/politics/supreme-court-remain-in-mexico-asylum.html">Supreme Court to Review ‘Remain in Mexico’ Asylum Policy</a> NYT: The justices agreed to hear the Biden administration’s appeal of a lower court’s ruling that blocked it from rescinding the program. 
  <p class="updated_time"> 04:08 PM CT, Feb. 18 </p> 
  <a href="https://www.npr.org/2022/02/18/1081873315/president-biden-says-russia-invasion-in-ukraine-will-happen-within-days">President Biden says Russia invasion in Ukraine will happen within days</a> NPR: President Biden spoke about the deteriorating situation in Ukraine, as Russia appears ready to invade. He gives his remarks after convening key European leaders for an update. 
- <p class="updated_time"> 03:47 PM CT, Feb. 18 </p> 
- <a href="https://www.npr.org/2022/02/18/1081856252/u-s-surgeon-general-says-he-and-his-family-have-all-tested-positive-for-covid-19">U.S. surgeon general says he and his family have all tested positive for COVID-19 </a> NPR: The nation's top doctor says he and his wife have mild symptoms, while his son has a runny nose and low-grade fever. His daughter also recently tested positive for the virus. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 01:39 PM CT, Feb. 18 </p> 
