@@ -40,6 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082067920/australia-reopens-its-borders-to-international-visitors">Australia reopens its borders to international visitors</a> NPR: The move allow international tourists and business travelers into the country for the first time in almost two years. 
  <p class="updated_time"> 11:30 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/asia/india-forest-rangers.html">Risking Their Lives, for Little Pay, to Guard India’s Forests</a> NYT: Braving tigers and other dangers, frontline workers face difficult working conditions as they try to keep the peace between humans and wildlife. 
+ <p class="updated_time"> 11:30 PM CT, Feb. 20 </p> 
+ <a href="https://www.wsj.com/articles/tesla-planned-to-open-its-first-european-gigafactory-last-summer-its-still-waiting-11645439401">Tesla Planned to Open Its First European Gigafactory Last Summer. It's Still Waiting.</a> WSJ: The electric-vehicle maker says the plant’s machines are installed and have been producing preproduction test vehicles, but without the permit to operate commercially, the plant can’t increase and sell its vehicles. 
  <p class="updated_time"> 11:11 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-russia-belarus-putin.html">Russia May Be Seeking Pretext for Ukraine Invasion, Officials Say</a> NYT: The pressure on Kyiv mounted after a weekend of shelling and evacuations in the east, and the extension of war games in neighboring Belarus. 
  <p class="updated_time"> 10:52 PM CT, Feb. 20 </p> 
