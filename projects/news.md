@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:32 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 01:43 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin Orders Troops to Separatist Regions and Recognizes Their Independence</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
- <p class="updated_time"> 01:10 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 01:40 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and natural gas. 
  <p class="updated_time"> 12:36 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into eastern Ukraine</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
