@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:18 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
- <p class="updated_time"> 02:17 PM CT, Feb. 22 </p> 
+ <p class="updated_time"> 02:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
+ <p class="updated_time"> 02:23 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 02:14 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/americas/canada-protest-finances.html">Canada Freezes Hundreds of Accounts Tied to Protests</a> NYT: As a court denied bail to one protest organizer arrested, banks have locked up hundreds of accounts linked to others under an emergency order invoked by the government. 
  <p class="updated_time"> 02:12 PM CT, Feb. 22 </p> 
@@ -51,7 +51,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html">Hong Kong Will Require Its Residents to Get Tested in March</a> NYT: Residents will have to take three tests over a short period, starting in March. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
- <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Biden says Russia's military moves are the beginning of an invasion of Ukraine</a> NPR: Russia ordering troops into parts of eastern Ukraine is "the beginning of a Russian invasion," President Biden said. He announced sanctions targeting Russia's ability to do business with the West. 
+ <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Biden says Russia's military moves are the beginning of an invasion of Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin tells Russia's spy chief to speak plainly</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
  <p class="updated_time"> 10:51 AM CT, Feb. 22 </p> 
@@ -181,6 +181,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:09 PM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/u-s-sanctions-russia-ukraine-invasion-00010733">U.S. imposes sanctions on Russian banks, sovereign debt and elites after Ukraine invasion</a> Politico: President Joe Biden said more sanctions will be imposed if Russia widens the invasion of its neighbor. 
  <p class="updated_time"> 01:20 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/treasury-elizabeth-warren-accounting-firms.html">Treasury Dept. Asked to Investigate Its Hiring From Accounting Firms</a> NYT: The request was sent by Senator Elizabeth Warren and Representative Pramila Jayapal after a New York Times report on the revolving door between the department and the biggest accounting firms. 
  <p class="updated_time"> 01:13 PM CT, Feb. 22 </p> 
@@ -192,7 +194,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/pentagon-national-guard-trucker-protests-00010653">Pentagon weighs request for D.C. National Guard help ahead of trucker protests</a> Politico: Several trucker convoys protesting coronavirus restrictions are slated to begin arriving in the D.C. area this week. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
- <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Biden says Russia's military moves are the beginning of an invasion of Ukraine</a> NPR: Russia ordering troops into parts of eastern Ukraine is "the beginning of a Russian invasion," President Biden said. He announced sanctions targeting Russia's ability to do business with the West. 
+ <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Biden says Russia's military moves are the beginning of an invasion of Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:12 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/putin-permission-force-outside-russia-00010637">Lawmakers give Putin permission to use force outside Russia</a> Politico: Russia’s upper house of parliament has given President Vladimir Putin permission to use military force outside the country. 
  <p class="updated_time"> 11:00 AM CT, Feb. 22 </p> 
@@ -215,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/rick-scott-gop-agenda-00010431">Rick Scott pushes own GOP agenda as McConnell holds off</a> Politico: The first-term senator's plan includes a mix of longtime Republican positions as well as culture war politics that define many GOP voters in Trump’s wing of the party. 
  <p class="updated_time"> 04:31 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/rural-hospitals-workers-vaccine-mandate-00010272">Rural hospitals stave off mass exodus of workers to vaccine mandate</a> Politico: Nearly two dozen hospital officials and association leaders told POLITICO they've lost just a fraction of their staff to the federal immunization requirement. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/sba-list-hartzler-missouri-senate-primary-00010439">SBA List backs Hartzler in Missouri Senate primary</a> Politico: The veteran congresswoman won a key endorsement in the crowded GOP contest. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/22/1081373489/why-america-has-been-so-stingy-in-fighting-child-poverty">Why America Has Been So Stingy In Fighting Child Poverty</a> NPR: The U.S. has a long tradition of favoring old people over kids. A new paper investigates why. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
@@ -247,6 +251,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/21/vladimir-putin-america-cold-war-00010454">‘Cold War, Part 2’: How Putin is dragging America back to the bad old days</a> Politico: Moscow has reoriented the strategic landscape, and is pulling the West reluctantly back into a drawn-out military and diplomatic standoff.  
  <p class="updated_time"> 05:25 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html">U.S. Troops in Poland Brace for Possible Ukrainian Evacuees</a> NYT: Tens of thousands of people, including Americans, could flee across the border if Russia launches a full invasion of Ukraine. 
+ <p class="updated_time"> 05:20 PM CT, Feb. 21 </p> 
+ <a href="https://www.politico.com/news/2022/02/21/putin-sends-troops-breakaway-territories-00010447">As Putin sends troops into Donbas, White House avoids the 'I' word</a> Politico: Deploying forces in eastern territories "would not itself be a new step," a senior official says amid calls for stepped up sanctions. 
  <p class="updated_time"> 05:07 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/abby-broyles-party.html">U.S. House Candidate Apologizes for Behavior at Sleepover</a> NYT: Parents said Abby Broyles of Oklahoma drank and swore at children at a friend’s home. She said she had mixed wine with medication and had no memory of the night. 
  <p class="updated_time"> 04:16 PM CT, Feb. 21 </p> 
@@ -295,10 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Amid Ukraine Crisis, China and Russia's Bond Alarms U.S. and Europe </a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
  <p class="updated_time"> 10:49 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/infrastructure-plan-asphalt.html">Asphalt Industry Is a Big Winner in Infrastructure Plan</a> NYT: A range of special interests lobbied for infrastructure dollars. The asphalt industry may have been the most successful. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
  <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
