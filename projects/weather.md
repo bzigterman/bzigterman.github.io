@@ -18,9 +18,9 @@ Current:
 - 53°
 - mist
 - 84% humidity
-- 20 mph wind
+- 18 mph wind
 
-<p class="updated_time"> Latest data: 12:56 AM CT, February 22</p>
+<p class="updated_time"> Latest data: 01:13 AM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
