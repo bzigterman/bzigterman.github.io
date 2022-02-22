@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:08 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and gas. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-pandemic-animals.html">The Coronavirus Menagerie</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
  <p class="updated_time"> 01:43 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin Orders Troops to Separatist Regions and Recognizes Their Independence</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
- <p class="updated_time"> 01:40 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and natural gas. 
  <p class="updated_time"> 12:36 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into eastern Ukraine</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
@@ -92,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412">Putin's Endgame: Unravel the Post-Cold War Agreements That Humiliated Russia</a> WSJ: Moscow’s military forces threaten Ukraine, but the bigger prize is restoration of Russia’s historical sphere of influence stretching through Eastern Europe. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
- <p class="updated_time"> 10:08 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/as-covid-19-cases-wane-u-k-to-lift-remaining-curbs-11645474112">U.K. to Lift Remaining Covid-19 Curbs</a> WSJ: Britain is set to become the first major European economy to ditch all restrictions and its free testing program, as the government seeks a return to normal despite recording around 25,000 cases a day. 
  <p class="updated_time"> 09:44 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
  <p class="updated_time"> 09:31 AM CT, Feb. 21 </p> 
@@ -126,10 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/queen-victoria-diamond-jubilee.html">1897: Queen Victoria’s Diamond Jubilee Proposals</a> NYT: The plans to celebrate the 60th anniversary of the British monarch’s accession included a service at St. Paul’s Cathedral. 
  <p class="updated_time"> 03:34 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/russia-military-ukraine-border.html">Satellite Images Show New Phase of Russian Military Readiness</a> NYT: Several units or troops have been deployed outside bases or training grounds, as Russian forces continue moving closer to the border with Ukraine. 
- <p class="updated_time"> 02:00 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/inflation-creeps-into-asiamy-salary-is-the-same-but-everything-is-more-expensive-11645448452">Inflation Starts to Show Up in Asia</a> WSJ: Early warning signs of inflation are appearing in some parts of Asia, as higher energy and food prices start to bite in countries that recently seemed immune to cost pressures. 
- <p class="updated_time"> 01:37 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/in-eastern-ukraine-life-under-russian-shelling-becomes-untenable-for-many-11645447028">In East Ukraine, Life Under Shelling Becomes Untenable for Many</a> WSJ: As tensions have flared in recent days between the West and Russia over Ukraine, the people of towns along the front line have taken the brunt of the escalation, prompting many to flee. 
  <p class="updated_time"> 01:30 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082070405/as-kuwait-cracks-down-a-battle-erupts-over-womens-rights">As Kuwait cracks down, a battle erupts over women's rights</a> NPR: Conservative politicians are increasingly pushing back against a burgeoning feminist movement and what they see as an unraveling of the country's traditional values. 
  <p class="updated_time"> 12:46 AM CT, Feb. 21 </p> 
@@ -172,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/greece-ferry-fire-corfu.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
  <p class="updated_time"> 11:31 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-expats-rally.html">Ukrainian Expats Express Solidarity With Homeland</a> NYT: At a rally in London, many of the attendees said they hoped that a full-scale Russian invasion could be averted. 
- <p class="updated_time"> 11:27 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
  <p class="updated_time"> 11:22 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082024390/ukraine-russia-putin-macron-cease-fire-discussions">President Biden agrees to a tentative meeting with Putin to discuss Ukraine</a> NPR: Biden has agreed to meet with the Russian leader "in principle" if Russia does not invade Ukraine, the White House said, but Russia appears to be pursuing plans for a "full-scale assault" very soon. 
  <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
