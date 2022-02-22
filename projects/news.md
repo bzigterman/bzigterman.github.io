@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:57 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden to Speak on Sanctions Against Russia</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. 
+ <p class="updated_time"> 01:25 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Announces Sanctions Against Russia</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
+ <p class="updated_time"> 01:24 PM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082334172/kenya-security-council-russia">Kenyan U.N. ambassador compares Ukraine's plight to colonial legacy in Africa</a> NPR: Instead of looking back to an age of empire, Russia should accept Ukraine's borders and move on, Kenya's ambassador told a session of the U.N. Security Council. 
+ <p class="updated_time"> 01:15 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60467039?at_medium=RSS&at_campaign=KARANGA">Hong Kong orders compulsory Covid tests for all its citizens</a> BBC: All 7.5 million residents must undergo testing as the city battles surging infection rates. 
+ <p class="updated_time"> 01:07 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 12:57 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html">Europe Adopts Initial Sanctions on Russia Over Ukraine Crisis</a> NYT: The European Union hopes to restrain Moscow by keeping bigger penalties in reserve. The question is whether the bloc can stay united on more serious measures if deemed necessary. 
- <p class="updated_time"> 12:53 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as case soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 12:51 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60474920?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Uefa likely to move Champions League final from St Petersburg in Russia</a> BBC: Uefa is almost certain to switch the this season's Champions League final away from St Petersburg amid the Ukraine-Russia crisis. 
  <p class="updated_time"> 12:46 PM CT, Feb. 22 </p> 
@@ -70,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
  <p class="updated_time"> 08:43 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html">For Ukraine’s Jews, the Threat of War Stirs Memories of Past Horrors</a> NYT: In Odessa, Jewish leaders are preparing for the worst: hiring security guards, scoping out bomb shelters and making plans to evacuate if Russia invades the country. 
- <p class="updated_time"> 08:17 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60467039?at_medium=RSS&at_campaign=KARANGA">Hong Kong orders compulsory Covid tests for all its citizens</a> BBC: All 7.5 million residents must undergo testing as the city battles surging infection rates. 
  <p class="updated_time"> 08:15 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/covid-queen-elizabeth.html">Queen Elizabeth Cancels All Virtual Engagements as She Battles Covid</a> NYT: The queen  will “continue with light duties,” Buckingham Palace said, and “further engagements over the coming week will be decided upon nearer the time.” 
  <p class="updated_time"> 06:02 AM CT, Feb. 22 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-credit-suisse.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
  <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
- <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1081435029/china-hollywood-movies-censorship-erich-schwartzel">Hollywood relies on China to stay afloat. What does that mean for movies?</a> NPR: Wall Street Journal reporter Erich Schwartzel says that film studios increasingly need Chinese audiences to break even — which can result in self-censorship. His new book is Red Carpet. 
  <p class="updated_time"> 07:24 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-flights.html">Air France, Lufthansa and SAS Limit Flights to Ukraine</a> NYT: Lufthansa and Scandinavian Airlines also canceled flights to Kyiv as fears grow of a Russian invasion. 
  <p class="updated_time"> 06:43 AM CT, Feb. 21 </p> 
@@ -179,22 +179,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:20 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/treasury-elizabeth-warren-accounting-firms.html">Treasury Dept. Asked to Investigate Its Hiring From Accounting Firms</a> NYT: The request was sent by Senator Elizabeth Warren and Representative Pramila Jayapal after a New York Times report on the revolving door between the department and the biggest accounting firms. 
+ <p class="updated_time"> 01:13 PM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082283039/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-account">The IRS is allowing taxpayers to opt out of facial recognition to verify accounts</a> NPR: The tax collecting agency has backed away from requiring all users with individual accounts submit selfies to a private company. 
+ <p class="updated_time"> 01:08 PM CT, Feb. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:03 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/three-men-convicted-of-arbery-murder-found-guilty-of-federal-hate-crimes-00010644">Arbery killers found guilty of federal hate crimes</a> Politico: “As a mom, I will never heal,” said Wanda Cooper-Jones, Arbery's mother, at a press conference after the verdict was delivered. 
- <p class="updated_time"> 12:32 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/treasury-elizabeth-warren-accounting-firms.html">Treasury Dept. Asked to Investigate Its Hiring From Accounting Firms</a> NYT: The request was sent by Senator Elizabeth Warren and Representative Pramila Jayapal after a New York Times report on the revolving door between the department and the biggest accounting firms. 
  <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/pentagon-national-guard-trucker-protests-00010653">Pentagon weighs request for D.C. National Guard help ahead of trucker protests</a> Politico: Several trucker convoys protesting coronavirus restrictions are slated to begin arriving in the D.C. area this week. 
- <p class="updated_time"> 11:17 AM CT, Feb. 22 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">The White House is calling Russia's military movements an invasion of Ukraine</a> NPR: President Biden will deliver a speech addressing the Ukraine crisis at 1 p.m. ET, the White House said, after Russia's president signed a decree recognizing two breakaway republics. 
  <p class="updated_time"> 11:12 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/putin-permission-force-outside-russia-00010637">Lawmakers give Putin permission to use force outside Russia</a> Politico: Russia’s upper house of parliament has given President Vladimir Putin permission to use military force outside the country. 
  <p class="updated_time"> 11:00 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/businesses-recycling-00010440">Businesses back plans to bill them for recycling, drawing skepticism</a> Politico: Environmental groups fear state legislation won't hold companies accountable. 
- <p class="updated_time"> 10:35 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/vaccine-advocacy-groups-biden-wto-00010129">Vaccine advocacy groups press Biden to break WTO deadlock</a> Politico: The Biden administration is running out of money to support its global vaccination push in low- and middle-income countries. 
  <p class="updated_time"> 10:20 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/supreme-court-web-designer-same-sex-wedding-00010598">Supreme Court to decide web designer's duty to work on same-sex wedding site</a> Politico: The case pits a Colorado web designer against a state law requiring services for same-sex couples. 
  <p class="updated_time"> 10:05 AM CT, Feb. 22 </p> 
@@ -275,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/21/trump-mellissa-carone-second-act-00010405">Trump campaign’s star witness pursues a second act</a> Politico: Mellissa Carone, whose testimony at a legislative hearing sparked a Saturday Night Live skit, is trying to parlay her 2020 election notoriety. 
  <p class="updated_time"> 06:22 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082079023/sen-coons-was-part-of-the-u-s-delegation-in-germany-to-discuss-ukraine">Sen. Coons was part of the U.S. delegation in Germany to discuss Ukraine</a> NPR: NPR's A Martinez talks to Democratic Sen Chris Coons of Delaware, who was one of 23 lawmakers attending the Munich Security Conference, about diplomatic efforts to avert a Russian invasion of Ukraine. 
- <p class="updated_time"> 04:09 AM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082079044/pa-supreme-court-is-about-to-rule-on-the-states-congressional-district-map">Pa. Supreme Court is about to rule on the state's congressional district map</a> NPR: Pennsylvania's Supreme Court is deliberating what the state's congressional map should look like. The verdict may decide whether Republicans or Democrats have the edge in November's midterm elections. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/black-farmers-debt-relief.html">Black Farmers Fear Foreclosure as Debt Relief Remains Frozen</a> NYT: Lawsuits from white farmers have blocked $4 billion of pandemic aid that was allocated to Black farmers in the American Rescue Plan. 
  <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
