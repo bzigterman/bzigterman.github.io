@@ -8,10 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:49 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
- <p class="updated_time"> 04:36 PM CT, Feb. 22 </p> 
+ <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
+ <p class="updated_time"> 05:01 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
+ <p class="updated_time"> 04:58 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html">Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</a> NYT: Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there. 
+ <p class="updated_time"> 04:57 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/france-election-emmanuel-macron.html">As French Elections Loom, Macron Tries to Strike a Balance</a> NYT: The news media calls the French president “Jupiter,” the king of the gods, but he is showing a more human face. Will it soften his image? 
+ <p class="updated_time"> 04:57 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html">Europe Sanctions Russia Over Ukraine Crisis, Coordinating Squeeze With the U.S.</a> NYT: The European Union, acting in tandem with the United States and Britain, hopes to restrain Moscow by keeping bigger penalties in reserve. 
+ <p class="updated_time"> 04:49 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60486984?at_medium=RSS&at_campaign=KARANGA">Massive bear named 'Hank the Tank' on the run from California police</a> BBC: The black bear has broken into dozens of California homes due to his raging appetite for human food. 
+ <p class="updated_time"> 04:42 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60486318?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... key moments in Russia's military build-up</a> BBC: Ros Atkins looks at the key moments of Russia's military build-up in the Ukraine crisis so far. 
  <p class="updated_time"> 04:35 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
  <p class="updated_time"> 04:31 PM CT, Feb. 22 </p> 
@@ -48,10 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082334172/kenya-security-council-russia">Kenyan U.N. ambassador compares Ukraine's plight to colonial legacy in Africa</a> NPR: Instead of looking back to an age of empire, Russia should accept Ukraine's borders and move on, Kenya's ambassador told a session of the U.N. Security Council. 
  <p class="updated_time"> 01:15 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60467039?at_medium=RSS&at_campaign=KARANGA">Hong Kong orders compulsory Covid tests for all its citizens</a> BBC: All 7.5 million residents must undergo testing as the city battles surging infection rates. 
- <p class="updated_time"> 12:57 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html">Europe Adopts Initial Sanctions on Russia Over Ukraine Crisis</a> NYT: The European Union hopes to restrain Moscow by keeping bigger penalties in reserve. The question is whether the bloc can stay united on more serious measures if deemed necessary. 
- <p class="updated_time"> 12:51 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60474920?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Uefa likely to move Champions League final from St Petersburg in Russia</a> BBC: Uefa is almost certain to switch the this season's Champions League final away from St Petersburg amid the Ukraine-Russia crisis. 
  <p class="updated_time"> 12:37 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 12:32 PM CT, Feb. 22 </p> 
@@ -73,7 +79,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Biden says Russia's military moves are the beginning of an invasion of Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin tells Russia's spy chief to speak plainly</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Putin dresses down Russia's spy chief</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
  <p class="updated_time"> 11:05 AM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Ukraine Calls Up Reservists; West Steps Up Sanctions</a> WSJ: Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region, and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent. 
  <p class="updated_time"> 10:51 AM CT, Feb. 22 </p> 
@@ -84,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/new-zealand-targets-protesters-camped-outside-parliament-with-lawn-sprinklers-blaring-barry-manilow-11645533062">New Zealand Tries to Disperse Protesters Camped Outside Parliament</a> WSJ: The demonstration illustrates the dilemma for countries that are facing anger and frustration among some groups at public-health orders as governments adjust to treating Covid-19 as endemic. 
  <p class="updated_time"> 10:05 AM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/sanctions-against-russia-roll-out-west-says-more-could-come-11645554675">Sanctions Against Russia Roll Out; West Says More Could Come</a> WSJ: The European Union and U.K. are targeting banks and individuals, but the West hasn’t unleashed some options it signaled it was considering amid Russia’s moves into Ukraine. 
- <p class="updated_time"> 09:59 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/france-election-emmanuel-macron.html">As French Elections Loom, Macron Tries to Strike a Balance</a> NYT: The news media calls the French president “Jupiter,” the king of the gods, but he is showing a more human face. Will it soften his image? 
  <p class="updated_time"> 09:38 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine.html">Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.</a> NYT: In a speech, President Vladimir V. Putin bent Ukraine’s complex history into his own version that served as a justification for his cleaving off more of its territory. 
  <p class="updated_time"> 09:37 AM CT, Feb. 22 </p> 
@@ -128,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html">Colombia Decriminalizes Abortion, Bolstering Trend Across Region</a> NYT: The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape. 
  <p class="updated_time"> 10:05 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082236222/colombias-highest-court-legalizes-abortion-up-to-24-weeks">Colombia's highest court legalizes abortion up to 24 weeks</a> NPR: The decision by the tribunal of nine judges fell short of the expectations of pro-choice groups that had been pushing for abortion to be completely decriminalized in Colombia. 
- <p class="updated_time"> 09:13 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60472469?at_medium=RSS&at_campaign=KARANGA">Canada parliament backs Trudeau on emergency powers</a> BBC: PM Justin Trudeau invoked the Emergencies Act last week over protests against Covid restrictions. 
  <p class="updated_time"> 08:23 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082229612/canadian-lawmakers-extend-emergency-powers-act-for-truck-protests">Canadian lawmakers extend emergency powers act for truck protests</a> NPR: The act allows authorities to declare certain areas as no-go zones. It also allows police to freeze truckers' personal and corporate bank accounts and compel tow truck companies to haul away vehicles. 
  <p class="updated_time"> 06:02 PM CT, Feb. 21 </p> 
@@ -179,11 +181,13 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:52 PM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/texas-primary-election-day-2022-6-numbers-to-know-before-tuesday-00010787">Texas primary election day 2022: 6 numbers to know before Tuesday</a> Politico: The state’s 38 congressional races and several contested statewide primaries will offer the first clues about where the midterm cycle is headed. 
  <p class="updated_time"> 05:31 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/breonna-taylor-jury-trial-00010788">Jury seated in trial related to Breonna Taylor’s shooting</a> Politico: Brett Hankison is the only officer charged in the case. 
- <p class="updated_time"> 04:53 PM CT, Feb. 22 </p> 
+ <p class="updated_time"> 05:00 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/congress-ukraine-russia.html">Once a Foreign Policy Partner, Congress Struggles for Unity on Ukraine</a> NYT: Senators went back to work Tuesday on a legislative response to Russian aggression, but as Congress recedes from the foreign policy arena, bipartisan unity is proving difficult to come by. 
- <p class="updated_time"> 04:09 PM CT, Feb. 22 </p> 
+ <p class="updated_time"> 04:58 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html">Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</a> NYT: Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there. 
  <p class="updated_time"> 03:34 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/africa-asks-covid-vaccine-donation-pause-00010667">Africa CDC to ask world to pause Covid-19 vaccine donations</a> Politico: The request marks a shift in the challenges Africa faces — from not having enough doses to not being able to quickly get those doses into arms. 
@@ -307,8 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365"> World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
- <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 01:39 PM CT, Feb. 18 </p> 
  <a href="https://www.cnn.com/2022/02/18/politics/liz-cheney-primary-republican-reactions/index.html">Cheney primary prompts sharp GOP divide in Washington</a> CNN: Republican lawmakers are starting to choose sides in the fight to defeat Rep. Liz Cheney in Wyoming, placing high-stakes bets in a divisive primary that is widely seen as a referendum on Donald Trump and cementing deep rifts in the GOP over the direction of the party. 
  <p class="updated_time"> 01:25 PM CT, Feb. 18 </p> 
@@ -353,8 +355,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
  <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
- <p class="updated_time"> 05:08 PM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222">Jan. 6 panel targets key players in false Trump elector strategy</a> Politico: Investigators are probing the Trump campaign's involvement in efforts to send fake electors to Washington. 
 
 
 </details>
