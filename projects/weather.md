@@ -17,10 +17,10 @@ Current:
 
 - 53°
 - fog
-- 97% humidity
-- 7 mph wind
+- 96% humidity
+- 9 mph wind
 
-<p class="updated_time"> Latest data: 07:57 AM CT, February 22</p>
+<p class="updated_time"> Latest data: 08:12 AM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
