@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 05:24 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: U.S. Prepares Response as Putin Orders Forces to Separatist Enclaves</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions, and the deployment of Russian troops there, a blunt defiance of international law that risks war. 
+ <p class="updated_time"> 05:22 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hawaii and Puerto Rico Will Soon Be Mask Mandate Outliers</a> NYT: As the United States nears its third year of the pandemic, indoor mask mandates have expired, or are set to be lifted, in most of the country. 
+ <p class="updated_time"> 05:21 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
+ <p class="updated_time"> 05:16 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting the RAC to warn of higher petrol prices. 
  <p class="updated_time"> 04:47 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
- <p class="updated_time"> 04:46 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hawaii and Puerto Rico Will Soon Be Mask Mandate Outliers</a> NYT: As the United States nears its third year of the pandemic, indoor mask mandates have expired, or are set to be lifted, in most of the country. 
  <p class="updated_time"> 04:36 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine.html">Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.</a> NYT: In a speech, President Vladimir V. Putin bent Ukraine’s complex history into his own version that served as a justification for his cleaving off more of its territory. 
- <p class="updated_time"> 04:00 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and gas. 
  <p class="updated_time"> 03:56 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into rebel-held regions</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
  <p class="updated_time"> 03:42 AM CT, Feb. 22 </p> 
@@ -25,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:25 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60458303?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Internet restored five weeks after eruption</a> BBC: The Pacific island nation was cut off from the world for weeks after an undersea volcano erupted. 
  <p class="updated_time"> 02:00 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-pandemic-animals.html">The Coronavirus Menagerie</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
+ <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html">The Coronavirus Menagerie</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 11:30 PM CT, Feb. 21 </p> 
@@ -92,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/putin-address-takes-swipe-at-u-s-led-world-order-11645485419">Putin Address Takes Swipe at U.S.-Led World Order</a> WSJ: The Russian president recounted historical grievances and signaled an entrenched confrontation with the West in an hour-long televised speech. 
  <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html">Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</a> NYT: The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army. 
- <p class="updated_time"> 12:54 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">‘We Have All Gone Into Debt’: Soaring Bills Deepen Crisis for Turks</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
  <p class="updated_time"> 11:26 AM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412">Putin's Endgame: Unravel the Post-Cold War Agreements That Humiliated Russia</a> WSJ: Moscow’s military forces threaten Ukraine, but the bigger prize is restoration of Russia’s historical sphere of influence stretching through Eastern Europe. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
@@ -166,12 +166,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Covid-19, as England Moves to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
  <p class="updated_time"> 12:10 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/business/credit-suisse-leak-swiss-bank.html">Data Leak Exposes How a Swiss Bank Served Strongmen and Spies</a> NYT: Leaked data on more than 18,000 accounts shows that the Swiss bank missed or ignored red flags. 
- <p class="updated_time"> 11:35 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/greece-ferry-fire-corfu.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
  <p class="updated_time"> 11:31 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-expats-rally.html">Ukrainian Expats Express Solidarity With Homeland</a> NYT: At a rally in London, many of the attendees said they hoped that a full-scale Russian invasion could be averted. 
- <p class="updated_time"> 11:27 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
  <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60454480?at_medium=RSS&at_campaign=KARANGA">Missing dog Zoey reunited with owners after 12 years</a> BBC: Zoey went missing in 2010 when her owners went shopping but she was identified by her microchip. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
