@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
+ <p class="updated_time"> 05:36 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/americas/canada-protest-finances.html">Canada Freezes Hundreds of Accounts Tied to Protests</a> NYT: As a court denied bail to one arrested protest organizer, banks have locked up hundreds of accounts linked to others under an emergency order invoked by the government. 
+ <p class="updated_time"> 05:36 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 05:25 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
  <p class="updated_time"> 05:16 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit.html">U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit.</a> NYT: Vladimir Putin ratcheted up tensions further Monday, announcing that he would recognize two breakaway Ukrainian regions as independent states. 
  <p class="updated_time"> 05:11 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/kyiv-ukraine-military-casualties.html">In Kyiv, a Soldier’s Funeral and Vows of Defiance</a> NYT: Ukrainians have been preparing for a possible military escalation by Russia for months. They were somber but largely defiant. 
- <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082345068/why-luhansk-and-donetsk-are-key-to-understanding-the-latest-escalation-in-ukrain">Why Luhansk and Donetsk are key to understanding the latest escalation in Ukraine</a> NPR: The rebel-controlled territories which comprise a larger eastern Ukraine region called Donbas that borders Russia, have been led by pro-Russia separatists for nearly a decade. 
  <p class="updated_time"> 04:58 PM CT, Feb. 22 </p> 
@@ -50,12 +54,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html">Biden Calls Putin’s Actions ‘Beginning of a Russian Invasion of Ukraine'</a> NYT: President Biden condemned President Vladimir V. Putin for his aggression against Ukraine, saying the new sanctions cut off Russia from Western finance. 
  <p class="updated_time"> 03:18 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Armed hostage situation at Apple Amsterdam shop</a> BBC: Dutch police are responding to a hostage situation at Apple's flagship store in the city. 
- <p class="updated_time"> 03:10 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
  <p class="updated_time"> 03:01 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
- <p class="updated_time"> 02:39 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/americas/canada-protest-finances.html">Canada Freezes Hundreds of Accounts Tied to Protests</a> NYT: As a court denied bail to one arrested protest organizer, banks have locked up hundreds of accounts linked to others under an emergency order invoked by the government. 
  <p class="updated_time"> 02:10 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60482214?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jury finds killers guilty on federal hate crimes charges</a> BBC: US jurors found the defendants violated Arbery's civil rights by attacking him due to his race. 
  <p class="updated_time"> 01:24 PM CT, Feb. 22 </p> 
@@ -66,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 12:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/arts/music/classical-music-orchestra-tour.html">Global Tours Were Key for Orchestras. Then the Pandemic Hit.</a> NYT: Two years after the coronavirus paralyzed classical music, ensembles are again returning to the global stage. But they face significant challenges. 
+ <p class="updated_time"> 12:27 PM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Ukraine Calls Up Reservists; West Steps Up Sanctions</a> WSJ: Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region, and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent. 
  <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
  <p class="updated_time"> 12:20 PM CT, Feb. 22 </p> 
@@ -84,8 +86,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Biden says Russia's military moves are the beginning of an invasion of Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Putin dresses down Russia's spy chief</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
- <p class="updated_time"> 11:05 AM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Ukraine Calls Up Reservists; West Steps Up Sanctions</a> WSJ: Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region, and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent. 
  <p class="updated_time"> 10:51 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1081092765/oil-gas-prices-100-barrel-ukraine-russia">Oil prices are surging toward $100 a barrel. Here's what that means for you</a> NPR: The threat of war between Russia and Ukraine is driving prices sharply higher, but there's more at play than just geopolitical tensions. 
  <p class="updated_time"> 10:42 AM CT, Feb. 22 </p> 
@@ -304,7 +304,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:37 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Putin Has Choice of Blitzkrieg or Minor Incursion in Ukraine</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
  <p class="updated_time"> 04:37 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/us/politics/substitute-teachers-national-guard-new-mexico.html">New Twist in Pandemic’s Impact on Schools: Substitutes in Camouflage</a> NYT: Deployed to classrooms in New Mexico to help with crippling staff shortages, National Guard troops are employing their informal motto, “Semper Gumby” — Always Flexible. 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/substitute-teachers-national-guard-new-mexico.html">National Guard Is Deployed to Schools Amid Pandemic's Toll </a> NYT: Deployed to classrooms in New Mexico to help with crippling staff shortages, National Guard troops are employing their informal motto, “Semper Gumby” — Always Flexible. 
  <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/ted-cruz-durham-trump-watergate-00010396">Cruz says Trump may be proved right on spying talk</a> Politico: The Texas senator was addressing a recent court filing by John Durham. 
  <p class="updated_time"> 11:45 AM CT, Feb. 20 </p> 
