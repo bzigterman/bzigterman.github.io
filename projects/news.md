@@ -8,9 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/saying-russia-created-ukraine-putin-orders-troops-to-2-breakaway-regions.html">Saying Russia ‘created’ Ukraine, Putin orders troops to 2 breakaway regions.</a> NYT: The Ukraine conflict escalated quickly on Monday as Russia’s president delivered a belligerent speech and then soon after ordered forces to two so-called republics he had just recognized. 
- <p class="updated_time"> 01:12 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 01:32 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin Orders Troops to Separatist Regions and Recognizes Their Independence</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
  <p class="updated_time"> 01:10 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and natural gas. 
@@ -174,6 +172,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/greece-ferry-fire-corfu.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
  <p class="updated_time"> 11:31 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-expats-rally.html">Ukrainian Expats Express Solidarity With Homeland</a> NYT: At a rally in London, many of the attendees said they hoped that a full-scale Russian invasion could be averted. 
+ <p class="updated_time"> 11:27 AM CT, Feb. 20 </p> 
+ <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
  <p class="updated_time"> 11:22 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082024390/ukraine-russia-putin-macron-cease-fire-discussions">President Biden agrees to a tentative meeting with Putin to discuss Ukraine</a> NPR: Biden has agreed to meet with the Russian leader "in principle" if Russia does not invade Ukraine, the White House said, but Russia appears to be pursuing plans for a "full-scale assault" very soon. 
  <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
