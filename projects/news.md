@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:52 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hong Kong Will Enforce Mass Testing as Cases Soar</a> NYT: Carrie Lam, Hong Kong’s chief executive, said that all residents would be required to take three tests over a short period of time in March. 
- <p class="updated_time"> 06:50 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: U.S. Prepares Response as Putin Orders Forces to Separatist Enclaves</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
- <p class="updated_time"> 06:37 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 07:31 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Europe Plans Sanctions as Putin Orders Forces to Separatist Enclaves</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
+ <p class="updated_time"> 07:31 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting warnings of higher UK petrol prices. 
- <p class="updated_time"> 05:55 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 07:29 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hong Kong Will Enforce Mass Testing as Cases Soar</a> NYT: Carrie Lam, Hong Kong’s chief executive, said that all residents would be required to take three tests over a short period of time in March. 
+ <p class="updated_time"> 07:28 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/queen-covid-virtual-engagements.html">Queen Elizabeth Cancels All Virtual Engagements as She Battles Covid</a> NYT: The queen “is still experiencing mild coldlike symptoms,” Buckingham Palace said, adding that she would “continue with light duties.” 
+ <p class="updated_time"> 07:04 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into rebel-held regions</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
+ <p class="updated_time"> 06:39 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60477920?at_medium=RSS&at_campaign=KARANGA">Burkina Faso gold mine blast kills 60</a> BBC: Dozens more are injured after sticks of dynamite in a market near the mine blew up, officials say. 
  <p class="updated_time"> 05:29 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
  <p class="updated_time"> 05:21 AM CT, Feb. 22 </p> 
@@ -28,10 +32,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082248540/asian-shares-drop-as-putin-orders-troops-to-east-ukraine">Oil prices jump and shares sink as Russian troops enter Ukraine</a> NPR: Tensions in Eastern Europe are adding uncertainty at a time when markets have been preoccupied over how the world's central banks will act to counter surging inflation. 
  <p class="updated_time"> 03:25 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60458303?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Internet restored five weeks after eruption</a> BBC: The Pacific island nation was cut off from the world for weeks after an undersea volcano erupted. 
+ <p class="updated_time"> 02:17 AM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Russian Troops Enter Breakaway Ukrainian Region; Germany Halts Gas Pipeline</a> WSJ: Ukraine’s president urged calm as Russian troops poured into the eastern Donbas region and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent. 
  <p class="updated_time"> 02:00 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html">The Coronavirus Menagerie</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
- <p class="updated_time"> 01:41 AM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Russian Troops Enter Breakaway Ukrainian Region as Germany Halts Gas Pipeline</a> WSJ: Ukrainian President Volodymyr Zelensky said he is considering severing diplomatic relations with Russia in response to the Russian decision, as reports grew of Russian troops moving into the area. 
+ <p class="updated_time"> 01:31 AM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/new-zealand-targets-protesters-camped-outside-parliament-with-lawn-sprinklers-blaring-barry-manilow-11645533062">New Zealand Tries to Disperse Protesters Camped Outside Parliament</a> WSJ: The demonstration illustrates the dilemma for countries that are facing anger and frustration among some groups at public-health orders as governments adjust to treating Covid-19 as endemic. 
  <p class="updated_time"> 01:30 AM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412">Putin's Endgame: Unravel the Post-Cold War Agreements That Humiliated Russia</a> WSJ: Moscow’s military forces threaten Ukraine, but the bigger prize is restoration of Russia’s historical sphere of influence stretching through Eastern Europe. 
  <p class="updated_time"> 12:49 AM CT, Feb. 22 </p> 
@@ -156,10 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60454481?at_medium=RSS&at_campaign=KARANGA">'Nigerian air strike' kills seven children in Niger</a> BBC: The children were killed by accident in an air strike by neighbouring Nigeria, local officials said. 
  <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-zelensky-munich-conference.html">Ukraine's Zelensky Accuses Western of Appeasement</a> NYT: President Volodymyr Zelensky of Ukraine reminded his Western counterparts of what was supposed to be an unforgettable lesson from Europe’s past. 
- <p class="updated_time"> 03:45 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-duties-royal-family.html">What if Queen Elizabeth Were Too Ill to Carry Out Her Duties? </a> NYT: According to Buckingham Palace, if the queen needs to suspend her official duties because of illness or because she is abroad, two or more counselors of state can act on her behalf. 
- <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Covid-19, as England Moves to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
  <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60454480?at_medium=RSS&at_campaign=KARANGA">Missing dog Zoey reunited with owners after 12 years</a> BBC: Zoey went missing in 2010 when her owners went shopping but she was identified by her microchip. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
@@ -190,11 +192,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/22/1081373489/why-america-has-been-so-stingy-in-fighting-child-poverty">Why America Has Been So Stingy In Fighting Child Poverty</a> NPR: The US has a long tradition of favoring old people over kids. A new paper investigates why. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/democrats-gop-at-odds-over-bidens-proposed-science-agency-00010267">Dems, GOP at odds over Biden's proposed science agency</a> Politico: Emerging resistance to Biden’s idea of a multibillion-dollar agency to tackle some of health care’s biggest challenges reflects a widening gap over funding medical research. 
- <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/big-dem-donors-secretary-state-00010413">Dems fear for democracy. Their big donors aren’t funding one of its main election groups.</a> Politico: During the last six months of 2021, just one person gave more than $25,000 to the main association involved in electing Democratic candidates to those key posts. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/henry-cuellar-king-of-laredo-texas-00010461">After an FBI raid, 'King of Laredo' runs on his laurels</a> Politico: Jessica Cisneros is giving nine-term Rep. Henry Cuellar (D-Texas) a tougher rematch this year. Corruption cloud or no, he still has a real chance. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/democrats-gop-at-odds-over-bidens-proposed-science-agency-00010267">Dems, GOP at odds over Biden's proposed science agency</a> Politico: Emerging resistance to Biden’s idea of a multibillion-dollar agency to tackle some of health care’s biggest challenges reflects a widening gap over funding medical research. 
  <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082250135/bipartisan-safety-legislation-is-designed-to-protect-children-online">Bipartisan safety legislation is designed to protect children online</a> NPR: NPR's A Martinez talks to Democratic Sen. Richard Blumenthal of Connecticut  and Republican Sen. Marsha Blackburn of Tennessee about the measure they have proposed: The Kids Online Safety Act. 
  <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
@@ -325,6 +327,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
+ <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
