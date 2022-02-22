@@ -8,16 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-putin-kremlin-nato.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
+ <p class="updated_time"> 08:49 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Europe Plans Sanctions as Putin Orders Forces to Separatist Enclaves</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
+ <p class="updated_time"> 08:49 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
+ <p class="updated_time"> 08:48 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting warnings of higher UK petrol prices. 
  <p class="updated_time"> 08:43 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html">For Ukraine’s Jews, the Threat of War Stirs Memories of Past Horrors</a> NYT: In Odessa, Jewish leaders are preparing for the worst: hiring security guards, scoping out bomb shelters and making plans to evacuate if Russia invades the country. 
- <p class="updated_time"> 08:42 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Europe Plans Sanctions as Putin Orders Forces to Separatist Enclaves</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
+ <p class="updated_time"> 08:36 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html">US Troops in Poland Brace for Possible Ukrainian Evacuees.</a> NYT: The Biden administration has repeatedly said U.S. troops will not fight in Ukraine or rescue Americans trapped there by a Russian attack. 
  <p class="updated_time"> 08:23 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html">The European Union Drafts a Set of Sanctions Against Russia</a> NYT: The diplomats said the draft included 27 individuals and entities, including political, military, business and financial entities. 
  <p class="updated_time"> 08:17 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60467039?at_medium=RSS&at_campaign=KARANGA">Hong Kong orders compulsory Covid tests for all its citizens</a> BBC: All 7.5 million residents must undergo testing as the city battles surging infection rates. 
- <p class="updated_time"> 08:17 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting warnings of higher UK petrol prices. 
  <p class="updated_time"> 08:15 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hong Kong Will Enforce Mass Testing as Cases Soar</a> NYT: Carrie Lam, Hong Kong’s chief executive, said that all residents would be required to take three tests over a short period of time in March. 
  <p class="updated_time"> 08:15 AM CT, Feb. 22 </p> 
@@ -168,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese internment camps: How a long-lost kimono unearthed a family secret</a> BBC: The US imprisoned Japanese Americans 80 years ago - now the younger generation are asking questions. 
  <p class="updated_time"> 04:38 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60454481?at_medium=RSS&at_campaign=KARANGA">'Nigerian air strike' kills seven children in Niger</a> BBC: The children were killed by accident in an air strike by neighbouring Nigeria, local officials said. 
- <p class="updated_time"> 04:03 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-zelensky-munich-conference.html">Ukraine's Zelensky Accuses Western of Appeasement</a> NYT: President Volodymyr Zelensky of Ukraine reminded his Western counterparts of what was supposed to be an unforgettable lesson from Europe’s past. 
  <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60454480?at_medium=RSS&at_campaign=KARANGA">Missing dog Zoey reunited with owners after 12 years</a> BBC: Zoey went missing in 2010 when her owners went shopping but she was identified by her microchip. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
@@ -337,6 +341,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
+ <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
+ <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
