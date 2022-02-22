@@ -32,16 +32,21 @@ champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
   mutate(utc_time = as_datetime(dt))
 
 ## historical ----
-# url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
-# champaign_weather_history_today <- 
-#   GET(url,
-#       query = list(lat = champaign_lat,
-#                    lon = champaign_lon,
-#                    dt = as.numeric(now(tzone = "America/Chicago")-days(5)),
-#                    appid = Sys.getenv("OWM_API_KEY"),
-#                    units = "imperial"))
-# champaign_weather_history_json <- content(champaign_weather_history_today)
-# as.numeric(now()-days(1))
+url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
+
+last24 <- as.integer(now()-days(1))
+
+champaign_weather_history_today <-
+  GET(url,
+      query = list(lat = champaign_lat,
+                   lon = champaign_lon,
+                   dt = last24,
+                   appid = Sys.getenv("OWM_API_KEY"),
+                   units = "imperial"))
+champaign_weather_history_json <- content(champaign_weather_history_today, as = "text")
+champaign_weather_history_hourly <- fromJSON(champaign_weather_history_json, flatten = TRUE)$hourly%>%
+  mutate(utc_time = as_datetime(dt))  %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) 
 
 ## three-hours ----
 url = "https://api.openweathermap.org/data/2.5/forecast"
@@ -56,7 +61,12 @@ champaign_forecast_json <- content(champaign_forecast_response, as = "text")
 champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) 
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(temp = main.temp) %>%
+  mutate(humidity = main.humidity) %>%
+  mutate(pressure = main.pressure) %>%
+  mutate(clouds = clouds.all) %>%
+  mutate(wind_speed = wind.speed)
 
 # set variables ----
 champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
@@ -84,22 +94,25 @@ champaign_forecast_tidy <- champaign_forecast %>%
   mutate(snow = {if("snow.3h" %in% names(.)) ifelse(is.na(snow.3h),
                                                     0,snow.3h) else 0})
 
-champaign_forecast_longer <- champaign_forecast_tidy %>%
-  pivot_longer(cols = c(main.temp, main.pressure,
-                        main.humidity,
-                        wind.speed,clouds.all,
+
+champaign_history_and_forecast <- full_join(champaign_forecast_tidy,champaign_weather_history_hourly)
+
+champaign_forecast_longer <- champaign_history_and_forecast %>%
+  pivot_longer(cols = c(temp, pressure,
+                        humidity,
+                        wind_speed,clouds,
                         pop,rain,snow),
                names_to = "names",
                values_to = "values") %>%
   select(central_time,names,values) %>%
   mutate(names = recode_factor(names, 
-                               "main.temp" = "°F",
+                               "temp" = "°F",
                                "pop" = "Precip%",
                                "rain" = "Rain",
                                "snow" = "Snow",
-                               "main.humidity" = "Humidity",
-                               "wind.speed" = "Wind",
-                               "clouds.all" = "Clouds",
+                               "humidity" = "Humidity",
+                               "wind_speed" = "Wind",
+                               "clouds" = "Clouds",
                                "pressure" = "Pressure")) 
 
 # facet ----
@@ -108,6 +121,7 @@ ggplot(champaign_forecast_longer,
            y = values,
            colour = names)) +
   geom_line() +
+  geom_vline(xintercept = now()) +
   facet_wrap(~ names, scales = "free_y",
              ncol = 1,
              strip.position = "left") +
@@ -116,6 +130,7 @@ ggplot(champaign_forecast_longer,
   ylab(NULL) +
   scale_x_datetime(expand = c(0,0),
                    date_labels = "%a",
+                   date_breaks = "1 day",
                    position = "top") +
   scale_y_continuous(position = "right") +
   theme(axis.ticks.y = element_blank(),
