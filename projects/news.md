@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:40 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 03:25 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60458303?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Internet restored five weeks after eruption</a> BBC: The Pacific island nation was cut off from the world for weeks after an undersea volcano erupted. 
+ <p class="updated_time"> 03:22 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and gas. 
  <p class="updated_time"> 02:38 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into eastern Ukraine</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
@@ -83,7 +85,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:37 PM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/colombias-highest-court-decriminalizes-abortion-in-historic-shift-11645490007">Colombia's Highest Court Decriminalizes Abortion</a> WSJ: In a historic shift, the country becomes the third large nation in Latin American to expand abortion rights in a little more than a year, energizing abortion-rights activists in a heavily Catholic region. 
  <p class="updated_time"> 02:00 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">Putin orders 'peacekeeping' troops to Ukraine after recognizing breakaway regions</a> NPR: Russia's action was universally condemned in an emergency U.N. Security Council meeting, which concluded with no action taken. 
+ <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">Condemnation for Putin at U.N. as he orders 'peacekeepers' to Ukraine</a> NPR: Russia's action was universally condemned in an emergency U.N. Security Council meeting, which concluded with no action taken. 
  <p class="updated_time"> 01:56 PM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-address-takes-swipe-at-u-s-led-world-order-11645485419">Putin Address Takes Swipe at U.S.-Led World Order</a> WSJ: The Russian president recounted historical grievances and signaled an entrenched confrontation with the West in an hour-long televised speech. 
  <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
@@ -258,7 +260,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:36 PM CT, Feb. 20 </p> 
  <a href="https://www.cnn.com/2022/02/20/politics/judge-michael-luttig-pence-tweet/index.html">Anatomy of a tweet: How a retired federal judge used Twitter to try to stop an insurrection</a> CNN: Retired federal judge Michael Luttig never expected to jump into the heated fight over the certification of the 2020 presidential election. And he certainly never imagined he would end up using Twitter to help former Vice President Mike Pence defy then-President Donald Trump. 
  <p class="updated_time"> 08:37 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Blitzkrieg or Minor Incursion? Putin’s Choice Could Determine World Reaction.</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Putin Has Choice of Blitzkrieg or Minor Incursion in Ukraine</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
  <p class="updated_time"> 08:06 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/tension-rise-as-russia-continues-to-mobilize-troops-near-ukrainian-border-00010407">Tensions rise as Russia continues to mobilize troops near Ukrainian border</a> Politico: Pro-Russian forces shelled over a dozen Ukrainian settlements on Sunday, but Russia stopped short of an invasion as fears mounted over troop movements on the border. 
  <p class="updated_time"> 07:30 PM CT, Feb. 20 </p> 
