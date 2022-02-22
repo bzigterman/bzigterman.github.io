@@ -73,7 +73,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:37 PM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/colombias-highest-court-decriminalizes-abortion-in-historic-shift-11645490007">Colombia's Highest Court Decriminalizes Abortion</a> WSJ: In a historic shift, the country becomes the third large nation in Latin American to expand abortion rights in a little more than a year, energizing abortion-rights activists in a heavily Catholic region. 
  <p class="updated_time"> 02:00 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">Putin orders 'peacekeeping' troops to Ukraine after recognizing breakaway regions</a> NPR: The White House, along with NATO members and the United Nations, condemned the moves by Russia. The Biden administration has announced limited sanctions, with more to come. 
+ <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">Putin orders 'peacekeeping' troops to Ukraine after recognizing breakaway regions</a> NPR: Russia's action was universally condemned in an emergency U.N. Security Council meeting, which concluded with no action taken. 
  <p class="updated_time"> 01:56 PM CT, Feb. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-address-takes-swipe-at-u-s-led-world-order-11645485419">Putin Address Takes Swipe at U.S.-Led World Order</a> WSJ: The Russian president recounted historical grievances and signaled an entrenched confrontation with the West in an hour-long televised speech. 
  <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
