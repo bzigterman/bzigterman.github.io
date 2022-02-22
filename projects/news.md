@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:08 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 02:40 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and gas. 
+ <p class="updated_time"> 02:38 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into eastern Ukraine</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
+ <p class="updated_time"> 02:37 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin Orders Troops to Separatist Regions and Recognizes Their Independence</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
  <p class="updated_time"> 02:00 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-pandemic-animals.html">The Coronavirus Menagerie</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
- <p class="updated_time"> 01:43 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin Orders Troops to Separatist Regions and Recognizes Their Independence</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
- <p class="updated_time"> 12:36 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into eastern Ukraine</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 11:30 PM CT, Feb. 21 </p> 
@@ -32,6 +32,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
  <p class="updated_time"> 10:05 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082236222/colombias-highest-court-legalizes-abortion-up-to-24-weeks">Colombia's highest court legalizes abortion up to 24 weeks</a> NPR: The decision by the tribunal of nine judges fell short of the expectations of pro-choice groups that had been pushing for abortion to be completely decriminalized in Colombia. 
+ <p class="updated_time"> 09:43 PM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. 
  <p class="updated_time"> 09:28 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions and Hints at Wider Military Aims</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
  <p class="updated_time"> 09:13 PM CT, Feb. 21 </p> 
@@ -46,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
  <p class="updated_time"> 07:36 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
- <p class="updated_time"> 07:26 PM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. 
  <p class="updated_time"> 06:35 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html">For Ukraine’s Jews, the Threat of War Stirs Memories of Past Horrors</a> NYT: In Odessa, Jewish leaders are preparing for the worst: hiring security guards, scoping out bomb shelters and making plans to evacuate if Russia invades the country. 
  <p class="updated_time"> 06:02 PM CT, Feb. 21 </p> 
@@ -258,7 +258,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:36 PM CT, Feb. 20 </p> 
  <a href="https://www.cnn.com/2022/02/20/politics/judge-michael-luttig-pence-tweet/index.html">Anatomy of a tweet: How a retired federal judge used Twitter to try to stop an insurrection</a> CNN: Retired federal judge Michael Luttig never expected to jump into the heated fight over the certification of the 2020 presidential election. And he certainly never imagined he would end up using Twitter to help former Vice President Mike Pence defy then-President Donald Trump. 
  <p class="updated_time"> 08:37 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Putin Has Choice of Blitzkrieg or Minor Incursion in Ukraine</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
+ <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Blitzkrieg or Minor Incursion? Putin’s Choice Could Determine World Reaction.</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
  <p class="updated_time"> 08:06 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/tension-rise-as-russia-continues-to-mobilize-troops-near-ukrainian-border-00010407">Tensions rise as Russia continues to mobilize troops near Ukrainian border</a> Politico: Pro-Russian forces shelled over a dozen Ukrainian settlements on Sunday, but Russia stopped short of an invasion as fears mounted over troop movements on the border. 
  <p class="updated_time"> 07:30 PM CT, Feb. 20 </p> 
