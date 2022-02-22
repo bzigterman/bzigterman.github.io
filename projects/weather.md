@@ -17,10 +17,10 @@ Current:
 
 - 36°
 - overcast clouds
-- 77% humidity
-- 22 mph wind
+- 78% humidity
+- 30 mph wind
 
-<p class="updated_time"> Latest data: 03:56 PM CT, February 22</p>
+<p class="updated_time"> Latest data: 04:12 PM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
