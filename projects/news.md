@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:33 PM CT, Feb. 22 </p> 
+ <p class="updated_time"> 04:49 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
+ <p class="updated_time"> 04:36 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
+ <p class="updated_time"> 04:35 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
  <p class="updated_time"> 04:31 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/trump-putin-russia-ukraine.html">Trump Refers to Russian Aggression Toward Ukraine as ‘Genius’</a> NYT: In a radio interview, the former president also described Russian troops along the Ukrainian border as peacekeepers. 
- <p class="updated_time"> 04:30 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 04:24 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html">The Limits of a Europe Whole and Free</a> NYT: Vladimir Putin sets down a marker in Ukraine. Does the West have the means to stop him? 
  <p class="updated_time"> 03:51 PM CT, Feb. 22 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html">If You Haven’t Thought About Coronavirus in Animals, You Should</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
  <p class="updated_time"> 11:56 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60480734?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Germany halts pipeline as nations sanction Russia</a> BBC: The gas pipeline between Russia and Germany cost €10bn (£8.4bn) and was completed last September. 
- <p class="updated_time"> 11:30 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
  <p class="updated_time"> 11:25 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html">The European Union Drafts a Set of Sanctions Against Russia</a> NYT: The diplomats said the draft included 27 individuals and entities, including political, military, business and financial entities. 
  <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
@@ -179,12 +179,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:31 PM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/breonna-taylor-jury-trial-00010788">Jury seated in trial related to Breonna Taylor’s shooting</a> Politico: Brett Hankison is the only officer charged in the case. 
+ <p class="updated_time"> 04:53 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/congress-ukraine-russia.html">Once a Foreign Policy Partner, Congress Struggles for Unity on Ukraine</a> NYT: Senators went back to work Tuesday on a legislative response to Russian aggression, but as Congress recedes from the foreign policy arena, bipartisan unity is proving difficult to come by. 
  <p class="updated_time"> 04:09 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html">Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</a> NYT: Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there. 
  <p class="updated_time"> 03:34 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/africa-asks-covid-vaccine-donation-pause-00010667">Africa CDC to ask world to pause Covid-19 vaccine donations</a> Politico: The request marks a shift in the challenges Africa faces — from not having enough doses to not being able to quickly get those doses into arms. 
  <p class="updated_time"> 03:26 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/magazine/clarence-thomas-ginni-thomas.html">The Long Crusade of Clarence and Ginni Thomas</a> NYT: The Supreme Court justice and his wife battled for years for a more conservative America. New reporting shows how far she was willing to go after Donald Trump’s 2020 election loss. 
+ <p class="updated_time"> 03:18 PM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082391130/garland-trump-classified-records-mar-a-lago">Garland confirms classified material found among records taken from Trump's Mar-a-Lago</a> NPR: But the attorney general would not confirm that a federal probe on the matter is underway. He said the Justice Department would "look at the facts and the law and take it from there." 
  <p class="updated_time"> 03:13 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082332205/leading-republican-echoes-trumps-american-carnage-message-for-the-midterms">Leading Republican echoes Trump's American Carnage message for the midterms</a> NPR: Florida Sen. Rick Scott, who leads the party's Senate campaign operation, claims "the hour for America is late" in a new outline for his midterm campaign message that leans heavily into culture wars. 
  <p class="updated_time"> 03:09 PM CT, Feb. 22 </p> 
@@ -275,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
  <p class="updated_time"> 09:43 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/nyregion/staten-island-park-slope-redistricting.html">How Redistricting Made Park Slope and Staten Island Into an Unlikely Pair</a> NYT: New congressional maps that merge conservative Staten Island with liberal Park Slope will aid Democratic efforts to win a Republican-held House seat in New York. 
- <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
  <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html">I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback</a> NYT: The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview. 
  <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
@@ -299,8 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/20/harris-declares-unity-while-zelenskyy-accuses-appeasement-00010389"> Harris declares ‘unity,’ while Zelenskyy accuses ‘appeasement’</a> Politico Playbook: And Democrats try to recalibrate for the midterms. 
  <p class="updated_time"> 11:04 AM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/russia-china-ukraine-biden.html">Amid Ukraine Crisis, China and Russia's Bond Alarms U.S. and Europe </a> NYT: The Biden administration plans to build up global coalitions to counter a pact between Vladimir V. Putin and Xi Jinping, portending a new type of Cold War. 
- <p class="updated_time"> 10:49 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/19/us/politics/infrastructure-plan-asphalt.html">Asphalt Industry Is a Big Winner in Infrastructure Plan</a> NYT: A range of special interests lobbied for infrastructure dollars. The asphalt industry may have been the most successful. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
