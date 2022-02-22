@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and gas. 
+ <p class="updated_time"> 03:56 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into rebel-held regions</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
  <p class="updated_time"> 03:42 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082248540/asian-shares-drop-as-putin-orders-troops-to-east-ukraine">Asian shares drop as Putin orders troops to east Ukraine</a> NPR: Tensions in Eastern Europe are adding uncertainty at a time when markets have been preoccupied over how the world's central banks will act to counter surging inflation. 
  <p class="updated_time"> 03:33 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin Orders Troops to Separatist Regions and Recognizes Their Independence</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
  <p class="updated_time"> 03:25 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60458303?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Internet restored five weeks after eruption</a> BBC: The Pacific island nation was cut off from the world for weeks after an undersea volcano erupted. 
- <p class="updated_time"> 03:22 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and gas. 
- <p class="updated_time"> 02:38 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia orders troops into rebel-held regions in eastern Ukraine</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
  <p class="updated_time"> 02:00 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-pandemic-animals.html">The Coronavirus Menagerie</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
@@ -32,12 +32,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html">Colombia's Highest Court Decriminalizes Abortion</a> NYT: The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape. 
  <p class="updated_time"> 10:55 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-history-russia.html">Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.</a> NYT: In a speech, President Vladimir V. Putin bent Ukraine’s complex history into his own version that served as a justification for his cleaving off more of its territory. 
+ <p class="updated_time"> 10:54 PM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. A column of Russian military vehicles entered Donetsk overnight, according to witnesses and footage posted on social media. The local authorities haven’t made any announcements. 
  <p class="updated_time"> 10:14 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
  <p class="updated_time"> 10:05 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082236222/colombias-highest-court-legalizes-abortion-up-to-24-weeks">Colombia's highest court legalizes abortion up to 24 weeks</a> NPR: The decision by the tribunal of nine judges fell short of the expectations of pro-choice groups that had been pushing for abortion to be completely decriminalized in Colombia. 
- <p class="updated_time"> 09:43 PM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. 
  <p class="updated_time"> 09:28 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions and Hints at Wider Military Aims</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
  <p class="updated_time"> 09:13 PM CT, Feb. 21 </p> 
@@ -191,6 +191,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082158009/pennsylvania-democrats-are-angling-to-distinguish-themselves-in-a-key-senate-con">Pennsylvania Democrats are angling to distinguish themselves in a key Senate contest</a> NPR: Lt. Gov. John Fetterman, whose image is that of the anti-politician, is the early front-runner in the Democratic primary for the state's open seat. Conor Lamb and Malcolm Kenyatta are top challengers. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/magazine/clarence-ginni-thomas.html">The Long Crusade of Clarence and Ginni Thomas</a> NYT: The Supreme Court justice and his wife battled for years for a more conservative America. New reporting shows how far she was willing to go after Donald Trump’s 2020 election loss. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 11:20 PM CT, Feb. 21 </p> 
@@ -303,10 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365"> World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
- <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
- <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 01:39 PM CT, Feb. 18 </p> 
