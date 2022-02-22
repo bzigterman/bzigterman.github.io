@@ -73,16 +73,6 @@ champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
 champaign_humidity <- paste(champaign_current$humidity,"%",sep = "")
 champaign_desc <- champaign_current$weather$description
 champaign_wind_speed <- paste(round(champaign_current$wind_speed),"mph")
-champaign_sunrise <- strftime(force_tz(
-  as_datetime(champaign_current$sunrise, 
-              tz = "America/Chicago"),
-  tz = "America/Chicago"),
-  format = "%I:%M")
-champaign_sunset <- strftime(force_tz(
-  as_datetime(champaign_current$sunset,
-              tz = "America/Chicago"),
-  tz = "America/Chicago"),
-  format = "%I:%M")
 
 # tidy data ----
 champaign_forecast_tidy <- champaign_forecast %>%
@@ -194,8 +184,6 @@ Current:
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
-- ",champaign_sunrise," a.m. sunrise
-- ",champaign_sunset," p.m. sunset
 
 ",now_html,"
 
