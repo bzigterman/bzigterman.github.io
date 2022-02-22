@@ -15,12 +15,12 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 Current:
 
-- 54°
+- 53°
 - mist
-- 83% humidity
+- 84% humidity
 - 20 mph wind
 
-<p class="updated_time"> Latest data: 12:31 AM CT, February 22</p>
+<p class="updated_time"> Latest data: 12:48 AM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
