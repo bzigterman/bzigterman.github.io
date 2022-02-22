@@ -1,96 +1,119 @@
 library(tidyverse)
-library(owmr)
+library(readr)
 library(lubridate)
 library(scales)
-library(emojifont)
+library(httr)
+library(jsonlite)
 library(cowplot)
 
-owmr_settings(Sys.getenv("OWM_API_KEY"))
-
 # get data ----
-champaign_forecast <- get_forecast(city = 4887158, units = "imperial")
-champaign_forecast_tibble <- owmr_as_tibble(champaign_forecast)
-champaign_current <- get_current(city = 4887158, units = "imperial")
-champaign_current_tibble <- owmr_as_tibble(champaign_current)
+# set up api
+Sys.getenv("OWM_API_KEY")
+
+champaign_lat <-  40.116
+champaign_lon <- -88.243
+
+## one call ----
+url <- "https://api.openweathermap.org/data/2.5/onecall"
+champaign_weather_response <- 
+  GET(url,
+      query = list(lat = champaign_lat,
+                   lon = champaign_lon,
+                   units = "imperial",
+                   appid = Sys.getenv("OWM_API_KEY")))
+
+champaign_weather_json <- content(champaign_weather_response, as = "text")
+champaign_current <- fromJSON(champaign_weather_json, flatten = TRUE)$current
+champaign_minutely <- fromJSON(champaign_weather_json, flatten = TRUE)$minutely %>%
+  mutate(utc_time = as_datetime(dt))
+champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
+  mutate(utc_time = as_datetime(dt))
+champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
+  mutate(utc_time = as_datetime(dt))
+
+## historical ----
+url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
+
+last24 <- as.integer(now()-days(1))
+
+champaign_weather_history_today <-
+  GET(url,
+      query = list(lat = champaign_lat,
+                   lon = champaign_lon,
+                   dt = last24,
+                   appid = Sys.getenv("OWM_API_KEY"),
+                   units = "imperial"))
+champaign_weather_history_json <- content(champaign_weather_history_today, as = "text")
+champaign_weather_history_hourly <- fromJSON(champaign_weather_history_json, flatten = TRUE)$hourly%>%
+  mutate(utc_time = as_datetime(dt))  %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) 
+
+## three-hours ----
+url = "https://api.openweathermap.org/data/2.5/forecast"
+champaign_forecast_response <- 
+  GET(url,
+      query = list(lat = champaign_lat,
+                   lon = champaign_lon,
+                   units = "imperial",
+                   appid = Sys.getenv("OWM_API_KEY")))
+
+champaign_forecast_json <- content(champaign_forecast_response, as = "text")
+champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
+  mutate(datetime = as_datetime(dt_txt)) %>%
+  mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(temp = main.temp) %>%
+  mutate(humidity = main.humidity) %>%
+  mutate(pressure = main.pressure) %>%
+  mutate(clouds = clouds.all) %>%
+  mutate(wind_speed = wind.speed)
 
 # set variables ----
-champaign_temp <- paste(round(champaign_current_tibble$temp),"°", sep = "")
-champaign_humidity <- paste(champaign_current_tibble$humidity,"%",sep = "")
-champaign_desc <- champaign_current_tibble$weather_description
-champaign_weather_icon <- get_icon_url(champaign_current_tibble$weather_icon)
-champaign_wind_speed <- paste(round(champaign_current_tibble$wind_speed),"mph")
+champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
+champaign_humidity <- paste(champaign_current$humidity,"%",sep = "")
+champaign_desc <- champaign_current$weather$description
+champaign_wind_speed <- paste(round(champaign_current$wind_speed),"mph")
 champaign_sunrise <- strftime(force_tz(
-  as_datetime(champaign_current_tibble$dt_sunrise_txt),
+  as_datetime(champaign_current$sunrise, 
+              tz = "America/Chicago"),
   tz = "America/Chicago"),
   format = "%I:%M")
 champaign_sunset <- strftime(force_tz(
-  as_datetime(champaign_current_tibble$dt_sunset_txt),
+  as_datetime(champaign_current$sunset,
+              tz = "America/Chicago"),
   tz = "America/Chicago"),
   format = "%I:%M")
 
 # tidy data ----
-champaign_forecast_tidy <- champaign_forecast_tibble %>%
-  #select(dt_txt,pop,temp,weather_icon) %>%
+champaign_forecast_tidy <- champaign_forecast %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  mutate(temp_class = cut(x = temp,
-                          breaks = c(-Inf,0,10,20,32,40,50,60,70,80,90,100,Inf),
-                          labels = c("Below 0","0–10","10–20","20–32",
-                                     "32–40","40–50","50–60","60–70",
-                                     "70–80","80–90","90–100","100+"),
-                          ordered_result = TRUE)) %>%
-  mutate(weather_unicode = case_when(
-    weather_icon == "01d" ~ "☀",
-    weather_icon == "01n" ~ "🌕",
-    weather_icon == "02d" ~ "🌤",
-    weather_icon == "02n" ~ "☁",
-    weather_icon == "03d" ~ "☁",
-    weather_icon == "03n" ~ "☁",
-    weather_icon == "04d" ~ "🌥",
-    weather_icon == "04n" ~ "☁",
-    weather_icon == "09d" ~ "🌧",
-    weather_icon == "09n" ~ "🌧",
-    weather_icon == "10d" ~ "🌦",
-    weather_icon == "10n" ~ "🌧",
-    weather_icon == "11d" ~ "🌩",
-    weather_icon == "11n" ~ "🌩",
-    weather_icon == "13d" ~ "❄",
-    weather_icon == "13n" ~ "❄",
-    weather_icon == "50d" ~ "🌫",
-    weather_icon == "50n" ~ "🌫",
-    TRUE ~ weather_icon
-  ) 
-  ) %>% 
-  mutate(half_day_temp = if_else(hour(central_time) == 0,temp,
-                                 if_else(hour(central_time) == 12,
-                                         temp,NULL))) %>%
-  mutate(half_day_icon = if_else(hour(central_time) == 0,weather_unicode,
-                                 if_else(hour(central_time) == 12,
-                                         weather_unicode,NULL))) %>%
-  mutate(rain = {if("rain_3h" %in% names(.)) ifelse(is.na(rain_3h),
-                                                    0,rain_3h) else 0}) %>%
-  mutate(snow = {if("snow_3h" %in% names(.)) ifelse(is.na(snow_3h),
-                                                    0,snow_3h) else 0})
+  mutate(rain = {if("rain.3h" %in% names(.)) ifelse(is.na(rain.3h),
+                                                    0,rain.3h) else 0}) %>%
+  mutate(snow = {if("snow.3h" %in% names(.)) ifelse(is.na(snow.3h),
+                                                    0,snow.3h) else 0})
 
-champaign_forecast_longer <- champaign_forecast_tidy %>%
-  pivot_longer(cols = c(temp,pressure,
+
+champaign_history_and_forecast <- full_join(champaign_forecast_tidy,champaign_weather_history_hourly)
+
+champaign_forecast_longer <- champaign_history_and_forecast %>%
+  pivot_longer(cols = c(temp, pressure,
                         humidity,
-                        wind_speed,clouds_all,
-                        pop,rain,snow
-                        ),
+                        wind_speed,clouds,
+                        pop,rain,snow),
                names_to = "names",
                values_to = "values") %>%
   select(central_time,names,values) %>%
   mutate(names = recode_factor(names, 
-                        "temp" = "°F",
-                        "pop" = "Precip%",
-                        "rain" = "Rain",
-                        "snow" = "Snow",
-                        "humidity" = "Humidity",
-                        "wind_speed" = "Wind",
-                        "clouds_all" = "Clouds",
-                        "pressure" = "Pressure")) 
+                               "temp" = "°F",
+                               "pop" = "Precip%",
+                               "rain" = "Rain",
+                               "snow" = "Snow",
+                               "humidity" = "Humidity",
+                               "wind_speed" = "Wind",
+                               "clouds" = "Clouds",
+                               "pressure" = "Pressure")) 
 
 # facet ----
 ggplot(champaign_forecast_longer,
@@ -98,6 +121,7 @@ ggplot(champaign_forecast_longer,
            y = values,
            colour = names)) +
   geom_line() +
+  geom_vline(xintercept = now()) +
   facet_wrap(~ names, scales = "free_y",
              ncol = 1,
              strip.position = "left") +
@@ -106,15 +130,14 @@ ggplot(champaign_forecast_longer,
   ylab(NULL) +
   scale_x_datetime(expand = c(0,0),
                    date_labels = "%a",
+                   date_breaks = "1 day",
                    position = "top") +
   scale_y_continuous(position = "right") +
-  theme(#axis.text.x = element_text(size = 8),
-        axis.ticks.y = element_blank(),
+  theme(axis.ticks.y = element_blank(),
         panel.grid = element_blank(),
         panel.background = element_blank(),
         legend.position = "none",
         panel.grid.major = element_line(colour = "grey93"),
-        #strip.text = element_text(size = 11),
         strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 
@@ -123,131 +146,6 @@ ggsave("plots/champaign_weather.png", bg = "white",
 
 ggsave("plots/champaign_weather_mobile.png", bg = "white",
        width = 3, height = 8, dpi = 320)
-
-
-# plot data ----
-temp <- ggplot(champaign_forecast_tidy,
-               aes(x = central_time,
-                   y = temp,
-                   label = weather_unicode,
-                   color = temp_class)) +
-  geom_line(color = "grey93") +
-  #geom_point(size = .5) +
-  geom_text(color = "black",
-            family = "EmojiOne",
-            nudge_y = .25,
-            size = 5) + 
-  geom_text(aes(label = round(temp)),
-            color = "black",
-            nudge_y = 1.6) +
-  scale_color_manual(values = c("magenta","purple","darkblue","blue",
-                                "turquoise","green","yellow","gold",
-                                "orange","orangered","red","darkred"),
-                     limits = c("Below 0","0–10","10–20","20–32",
-                                "32–40","40–50","50–60","60–70",
-                                "70–80","80–90","90–100","100+")) +
-  scale_x_datetime(date_labels = "%a") +
-  scale_y_continuous(position = "right",
-                     labels = label_number(suffix = "°")) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL) +
-  theme(
-    legend.title = element_blank(),
-    panel.grid.major.x = element_line(colour = "grey93"),
-    plot.title = element_text(hjust = 1),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    #axis.text = element_blank(),
-    legend.position = "none",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in")
-  )
-temp
-
-precip <- ggplot(champaign_forecast_tidy,
-                 aes(x = central_time,
-                     y = pop)) +
-  geom_col(fill = "lightblue") +
-  scale_x_datetime(date_labels = "%a") +
-  scale_y_continuous(labels = label_percent(),
-                     position = "right",
-                     limits = c(0,1)) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL,
-       caption = "Source: OpenWeather") +
-  theme(
-    legend.title = element_blank(),
-    panel.grid.major.y = element_line(colour = "grey97"),
-    plot.title = element_text(hjust = 1),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    axis.text.x = element_blank(),
-    legend.position = "bottom",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in"),
-    plot.caption = element_text(colour = "grey40")
-  )
-precip
-
-weather <- plot_grid(temp, precip,
-          align = "v",
-          ncol = 1,
-          rel_heights = c(6,2))
-
-#ggsave("plots/champaign_weather.png", plot = weather,
- #      width = 8, height = 8*(628/1200), dpi = 320)
-
-
-temp_mobile <- ggplot(champaign_forecast_tidy,
-                      aes(x = central_time,
-                          y = temp,
-                          label = half_day_icon,
-                          color = temp_class),) +
-  geom_line(color = "grey93") +
-  #geom_point(size = .5) +
-  geom_text(color = "black",
-            family = "EmojiOne",
-            nudge_y = .25,
-            size = 5) + 
-  geom_text(aes(label = round(half_day_temp)),
-            color = "black",
-            nudge_y = 1.6) +
-  scale_color_manual(values = c("magenta","purple","darkblue","blue",
-                                "turquoise","green","yellow","gold",
-                                "orange","orangered","red","darkred"),
-                     limits = c("Below 0","0–10","10–20","20–32",
-                                "32–40","40–50","50–60","60–70",
-                                "70–80","80–90","90–100","100+")) +
-  scale_x_datetime(date_labels = "%a") +
-  scale_y_continuous(position = "right",
-                     labels = label_number(suffix = "°")) +
-  theme_minimal() +
-  labs(x = NULL,
-       y = NULL) +
-  theme(
-    legend.title = element_blank(),
-    panel.grid.major.x = element_line(colour = "grey93"),
-    plot.title = element_text(hjust = 1),
-    plot.background = element_rect(fill = "white", color = "white"),
-    panel.grid = element_blank(),
-    #axis.text.x = element_text(hjust = -.6),
-    legend.position = "none",
-    legend.key.size = unit(.1,"in"),
-    legend.box.spacing = unit(0,"in")
-  )
-temp_mobile
-
-
-weather_mobile <- plot_grid(temp_mobile, precip,
-                     align = "v",
-                     ncol = 1,
-                     rel_heights = c(6,2))
-
-#ggsave("plots/champaign_weather_mobile.png", plot = weather_mobile,
- #      width = 3, height = 8*(628/1200), dpi = 320)
-
 
 # web text ----
 severe_weather_outlook_url <- 
@@ -264,7 +162,6 @@ winter_storm_url <-
         sep = ""
   )
 
-
 now <- as_datetime(now())
 now_formatted <- strftime(x = now, 
                           tz = "US/Central",
@@ -274,15 +171,6 @@ now_html <- paste("<p class=\"updated_time\"> Latest data: ",
                   now_formatted,
                   "</p>",
                   sep = "")
-
-# weather_image <- paste("<picture>
-#                          <source srcset=\"{{ site.baseurl }}/plots/champaign_weather.png\"
-#                        media=\"(min-width: 800px)\">
-#                          <img src=\"{{ site.baseurl }}/plots/champaign_weather.png\" />
-#                          </picture>
-# "                         
-# )
-
 
 web_text <- paste(
   "---
@@ -329,5 +217,6 @@ sep = ""
 )
 
 write_lines(web_text,"projects/weather.md")
+
 
 
