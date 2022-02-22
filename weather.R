@@ -33,20 +33,41 @@ champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
 
 ## historical ----
 url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
+today <- as.integer(now())
+yesterday <- as.integer(now()-days(1))
 
-last24 <- as.integer(now()-days(1))
-
-champaign_weather_history_today <-
+champaign_weather_history <-
   GET(url,
       query = list(lat = champaign_lat,
                    lon = champaign_lon,
-                   dt = last24,
+                   dt = today,
                    appid = Sys.getenv("OWM_API_KEY"),
                    units = "imperial"))
-champaign_weather_history_json <- content(champaign_weather_history_today, as = "text")
-champaign_weather_history_hourly <- fromJSON(champaign_weather_history_json, flatten = TRUE)$hourly%>%
+history_today_json <- content(champaign_weather_history, as = "text")
+history_today <- fromJSON(history_today_json, flatten = TRUE)$hourly%>%
   mutate(utc_time = as_datetime(dt))  %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) 
+
+
+champaign_weather_history <-
+  GET(url,
+      query = list(lat = champaign_lat,
+                   lon = champaign_lon,
+                   dt = yesterday,
+                   appid = Sys.getenv("OWM_API_KEY"),
+                   units = "imperial"))
+history_json <- content(champaign_weather_history, as = "text")
+history_yesterday <- fromJSON(history_json, flatten = TRUE)$hourly%>%
+  mutate(utc_time = as_datetime(dt))  %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) 
+
+last_24 <- full_join(history_today, history_yesterday) %>%
+  mutate(rain = {if("rain.1h" %in% names(.)) ifelse(is.na(rain.1h),
+                                                    0,rain.1h) else 0}) %>%
+  mutate(snow = {if("snow.1h" %in% names(.)) ifelse(is.na(snow.1h),
+                                                    0,snow.1h) else 0}) %>%
+  arrange(central_time) %>%
+  filter(central_time > now(tzone = "America/Chicago")-days(1))
 
 ## three-hours ----
 url = "https://api.openweathermap.org/data/2.5/forecast"
@@ -85,7 +106,7 @@ champaign_forecast_tidy <- champaign_forecast %>%
                                                     0,snow.3h) else 0})
 
 
-champaign_history_and_forecast <- full_join(champaign_forecast_tidy,champaign_weather_history_hourly)
+champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24)
 
 champaign_forecast_longer <- champaign_history_and_forecast %>%
   pivot_longer(cols = c(temp, pressure,
