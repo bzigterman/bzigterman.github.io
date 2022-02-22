@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:45 PM CT, Feb. 22 </p> 
+ <p class="updated_time"> 01:53 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Condemns Putin and Announces New Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
- <p class="updated_time"> 01:40 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html">Biden Expected to Announce New Sanctions Against Russia in Speech</a> NYT: Mr. Biden condemned President Vladimir V. Putin for his aggression against Ukraine, saying that the Russian action is “a flagrant violation of international law and demands a firm response from the international community.” 
+ <p class="updated_time"> 01:51 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html">Biden Calls Putin’s Actions ‘Beginning of a Russian Invasion of Ukraine'</a> NYT: President Biden condemned President Vladimir V. Putin for his aggression against Ukraine, saying the new sanctions cut off Russia from Western finance. 
  <p class="updated_time"> 01:35 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 01:24 PM CT, Feb. 22 </p> 
