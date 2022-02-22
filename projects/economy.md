@@ -68,6 +68,8 @@ html {
   font-weight: initial;
   padding-top: 4px;
   padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
   border-bottom-color: #FFFFFF;
   border-bottom-width: 0;
 }
@@ -78,6 +80,8 @@ html {
   font-weight: initial;
   padding-top: 0;
   padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
@@ -156,7 +160,10 @@ html {
 }
 
 #cu_housing_table .gt_group_heading {
-  padding: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -228,7 +235,26 @@ html {
   border-right-style: solid;
   border-right-width: 2px;
   border-right-color: #D3D3D3;
-  padding-left: 12px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#cu_housing_table .gt_stub_row_group {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+
+#cu_housing_table .gt_row_group_first td {
+  border-top-width: 2px;
 }
 
 #cu_housing_table .gt_summary_row {
@@ -242,13 +268,22 @@ html {
 }
 
 #cu_housing_table .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-color: #D3D3D3;
+}
+
+#cu_housing_table .gt_first_summary_row.thick {
+  border-top-width: 2px;
+}
+
+#cu_housing_table .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
   padding-right: 5px;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
 }
 
 #cu_housing_table .gt_grand_summary_row {
@@ -301,7 +336,10 @@ html {
 #cu_housing_table .gt_footnote {
   margin: 0px;
   font-size: 90%;
-  padding: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 #cu_housing_table .gt_sourcenotes {
@@ -320,7 +358,10 @@ html {
 
 #cu_housing_table .gt_sourcenote {
   font-size: 12px;
-  padding: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 #cu_housing_table .gt_left {
@@ -355,7 +396,31 @@ html {
 #cu_housing_table .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
-  font-size: 65%;
+  font-size: 75%;
+  vertical-align: 0.4em;
+}
+
+#cu_housing_table .gt_asterisk {
+  font-size: 100%;
+  vertical-align: 0;
+}
+
+#cu_housing_table .gt_slash_mark {
+  font-size: 0.7em;
+  line-height: 0.7em;
+  vertical-align: 0.15em;
+}
+
+#cu_housing_table .gt_fraction_numerator {
+  font-size: 0.6em;
+  line-height: 0.6em;
+  vertical-align: 0.45em;
+}
+
+#cu_housing_table .gt_fraction_denominator {
+  font-size: 0.6em;
+  line-height: 0.6em;
+  vertical-align: -0.05em;
 }
 </style>
   <table class="gt_table">
@@ -372,19 +437,19 @@ html {
     <tr><td class="gt_row gt_left">Active Listings</td>
 <td class="gt_row gt_right">290</td>
 <td class="gt_row gt_right">189</td>
-<td class="gt_row gt_right">&minus;35&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;35%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Median Days on Market</td>
 <td class="gt_row gt_right gt_striped">92.0</td>
 <td class="gt_row gt_right gt_striped">76.0</td>
-<td class="gt_row gt_right gt_striped">&minus;17&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;17%</td></tr>
     <tr><td class="gt_row gt_left">Median List Price ($)</td>
 <td class="gt_row gt_right">195,000</td>
 <td class="gt_row gt_right">155,000</td>
-<td class="gt_row gt_right">&minus;20&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;20%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
 <td class="gt_row gt_right gt_striped">0.859</td>
 <td class="gt_row gt_right gt_striped">1.15</td>
-<td class="gt_row gt_right gt_striped">+34&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+34%</td></tr>
   </tbody>
   
   
