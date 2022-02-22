@@ -8,16 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:03 AM CT, Feb. 22 </p> 
+ <p class="updated_time"> 11:24 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Scope of Sanctions Debated as Putin Orders Forces to Separatist Enclaves</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
+ <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hong Kong Will Enforce Mass Testing as Cases Soar</a> NYT: Carrie Lam, Hong Kong’s chief executive, said that all residents would be required to take three tests over a short period of time in March. 
+ <p class="updated_time"> 11:14 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60480734?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Germany halts pipeline as nations sanction Russia</a> BBC: Countries react to Russia's order to send troops into rebel-held regions in eastern Ukraine. 
+ <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">The White House is calling Russia's military movements an invasion of Ukraine</a> NPR: President Biden will deliver a speech addressing the Ukraine crisis at 1 p.m. ET, the White House said, after Russia's president signed a decree recognizing two breakaway republics. 
+ <p class="updated_time"> 11:12 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/sanctions-russia-ukraine.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 11:00 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
  <p class="updated_time"> 10:51 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1081092765/oil-gas-prices-100-barrel-ukraine-russia">Oil prices are surging toward $100 a barrel. Here's what that means for you</a> NPR: The threat of war between Russia and the Ukraine is driving prices sharply higher, but there's more at play than just geopolitical tensions. 
  <p class="updated_time"> 10:40 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting warnings of higher UK petrol prices. 
- <p class="updated_time"> 10:34 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hong Kong Will Enforce Mass Testing as Cases Soar</a> NYT: Carrie Lam, Hong Kong’s chief executive, said that all residents would be required to take three tests over a short period of time in March. 
  <p class="updated_time"> 10:32 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60474920?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Uefa likely to move Champions League final from St Petersburg in Russia</a> BBC: Uefa is almost certain to switch the this season's Champions League final away from St Petersburg amid the Ukraine-Russia crisis. 
  <p class="updated_time"> 10:27 AM CT, Feb. 22 </p> 
@@ -54,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60467039?at_medium=RSS&at_campaign=KARANGA">Hong Kong orders compulsory Covid tests for all its citizens</a> BBC: All 7.5 million residents must undergo testing as the city battles surging infection rates. 
  <p class="updated_time"> 08:15 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/covid-queen-elizabeth.html">Queen Elizabeth Cancels All Virtual Engagements as She Battles Covid</a> NYT: The queen  will “continue with light duties,” Buckingham Palace said, and “further engagements over the coming week will be decided upon nearer the time.” 
- <p class="updated_time"> 07:04 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into rebel-held regions</a> BBC: The announcement has drawn wide condemnation but Moscow says troops have yet to be deployed. 
  <p class="updated_time"> 06:02 AM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Russia Troops Enter Ukraine Region; West Plans Sanctions</a> WSJ: Ukraine’s president urged calm as Russian troops poured into the eastern Donbas region and Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent. 
  <p class="updated_time"> 05:31 AM CT, Feb. 22 </p> 
@@ -134,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
  <p class="updated_time"> 09:44 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
- <p class="updated_time"> 09:07 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/president-biden-agreed-in-principle-to-meet-with-putin-to-discuss-the-ukraine-crisis.html">Putin’s Security Council meets as the Kremlin warns that ‘tensions are rising.’</a> NYT: The United States says Russia stands poised to attack Ukraine amid a frantic diplomatic push.  
  <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/arab-rulers-credit-suisse.html">Arab Rulers and Spy Chiefs Stashed Millions in Swiss Bank</a> NYT: A leak of account data from Credit Suisse revealed the holdings of powerful figures across the Middle East, raising new questions about self-dealing. 
  <p class="updated_time"> 08:20 AM CT, Feb. 21 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60460003?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: War, sickness and love in rebel-held Ukraine</a> BBC: Orla Guerin talks to people who cross military checkpoints for medical treatment and to see family. 
  <p class="updated_time"> 06:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/us-russia-ukraine-kill-list.html">U.S. Says Russia Has a List of Ukrainians to Kill or Detain</a> NYT: A U.S. ambassador cited “credible information” that Russian forces have compiled a list of Ukrainians to be targeted after an invasion. 
- <p class="updated_time"> 05:21 AM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1081940350/9-moments-storylines-resonated-2022-beijing-winter-olympics">9 moments that resonated at the 2022 Beijing Winter Olympics</a> NPR: NPR's team in Beijing put together moments and storylines that stuck out — including those that showed immense inner strength, athleticism and grace. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/queen-victoria-diamond-jubilee.html">1897: Queen Victoria’s Diamond Jubilee Proposals</a> NYT: The plans to celebrate the 60th anniversary of the British monarch’s accession included a service at St. Paul’s Cathedral. 
  <p class="updated_time"> 11:30 PM CT, Feb. 20 </p> 
@@ -179,6 +179,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:17 AM CT, Feb. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">The White House is calling Russia's military movements an invasion of Ukraine</a> NPR: President Biden will deliver a speech addressing the Ukraine crisis at 1 p.m. ET, the White House said, after Russia's president signed a decree recognizing two breakaway republics. 
  <p class="updated_time"> 11:12 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/putin-permission-force-outside-russia-00010637">Lawmakers give Putin permission to use force outside Russia</a> Politico: Russia’s upper house of parliament has given President Vladimir Putin permission to use military force outside the country. 
  <p class="updated_time"> 11:00 AM CT, Feb. 22 </p> 
@@ -224,7 +228,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 11:20 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/22/1082243094/trumps-social-media-app-launches-year-after-twitter-ban">Trump's social media app launches a year after his Twitter ban</a> NPR: Technical glitches strike the site shortly after launch as the former president searches for a working digital stage. 
+ <a href="https://www.npr.org/2022/02/22/1082243094/trumps-social-media-app-launches-year-after-twitter-ban">Trump's social media site hits the app store a year after he was banned from Twitter</a> NPR: Truth Social bills itself as "free from political discrimination." The app was not free from technical glitches, however, as users complained of a buggy registration process and long wait lists. 
  <p class="updated_time"> 10:49 PM CT, Feb. 21 </p> 
  <a href="https://www.politico.com/news/2022/02/21/un-security-council-russia-ukraine-escalation-00010485">‘War, death and destruction’: U.N. Security Council members slam Russia’s Ukraine escalation</a> Politico: Ambassadors met in an extraordinary session to condemn Russia, but Moscow pushed back, blaming the U.S. and the West for “cramming weapons” into Ukraine. 
  <p class="updated_time"> 09:38 PM CT, Feb. 21 </p> 
@@ -253,8 +257,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/us/politics/sandy-hook-legal-victories.html">How Sandy Hook Families Achieved Long-Awaited Legal Victories</a> NYT: After early defeats in Congress, relatives of those lost in the 2012 shooting fought on, besting a renowned gun maker and an infamous conspiracy theorist. 
  <p class="updated_time"> 12:57 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
- <p class="updated_time"> 11:40 AM CT, Feb. 21 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:43 AM CT, Feb. 21 </p> 
  <a href="https://www.politico.com/news/2022/02/21/us-officials-russian-invasion-ukraine-00010419">U.S. officials warn a Russian invasion would ‘repress’ and ‘crush’ Ukrainians</a> Politico: National security adviser Jake Sullivan said an invasion could begin in the coming days or in the “coming hours.” 
  <p class="updated_time"> 09:43 AM CT, Feb. 21 </p> 
@@ -269,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082079023/sen-coons-was-part-of-the-u-s-delegation-in-germany-to-discuss-ukraine">Sen. Coons was part of the U.S. delegation in Germany to discuss Ukraine</a> NPR: NPR's A Martinez talks to Democratic Sen Chris Coons of Delaware, who was one of 23 lawmakers attending the Munich Security Conference, about diplomatic efforts to avert a Russian invasion of Ukraine. 
  <p class="updated_time"> 04:09 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082079044/pa-supreme-court-is-about-to-rule-on-the-states-congressional-district-map">Pa. Supreme Court is about to rule on the state's congressional district map</a> NPR: Pennsylvania's Supreme Court is deliberating what the state's congressional map should look like. The verdict may decide whether Republicans or Democrats have the edge in November's midterm elections. 
- <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1081747096/tax-filing-season-tax-return-2022">The IRS is assigning more workers to deal with a huge backlog of tax returns</a> NPR: Smaller budgets, fewer employees and increased duties have added up to taxpayer frustration this filing season. The IRS is establishing a "surge team" to put resources on the processing challenges. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/black-farmers-debt-relief.html">Black Farmers Fear Foreclosure as Debt Relief Remains Frozen</a> NYT: Lawsuits from white farmers have blocked $4 billion of pandemic aid that was allocated to Black farmers in the American Rescue Plan. 
  <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
