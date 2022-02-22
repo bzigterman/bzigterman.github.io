@@ -8,22 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:37 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden to Speak on Sanctions Against Russia</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
+ <p class="updated_time"> 12:37 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
+ <p class="updated_time"> 12:32 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/arts/music/classical-music-orchestra-tour.html">Global Tours Were Key for Orchestras. Then the Pandemic Hit.</a> NYT: Two years after the coronavirus paralyzed classical music, ensembles are again returning to the global stage. But they face significant challenges. 
+ <p class="updated_time"> 12:26 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as case soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
  <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden to Speak on Sanctions Against Russia</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
- <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html">Biden Expected to Announce New Sanctions Against Russia in Speech</a> NYT: The White House and world leaders condemned Russia’s moves against Ukraine, calling it a clear violation of the country’s borders. 
+ <p class="updated_time"> 12:20 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60485499?at_medium=RSS&at_campaign=KARANGA">Kenyan food prices: Why have they gone up so much?</a> BBC: As Kenyans take to social media to lament rising costs, we look at what is behind the rising cost of living. 
  <p class="updated_time"> 12:19 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html">US Troops in Poland Brace for Possible Ukrainian Evacuees.</a> NYT: The Biden administration has repeatedly said U.S. troops will not fight in Ukraine or rescue Americans trapped there by a Russian attack. 
- <p class="updated_time"> 12:16 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as case soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
+ <p class="updated_time"> 12:18 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60482214?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jury finds killers guilty on federal hate crimes charges</a> BBC: US jurors found the defendants violated Arbery's civil rights by attacking him due to his race. 
  <p class="updated_time"> 12:16 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting warnings of higher UK petrol prices. 
  <p class="updated_time"> 12:06 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html">If You Haven’t Thought About Coronavirus in Animals, You Should</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
- <p class="updated_time"> 11:59 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 11:56 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60480734?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Germany halts pipeline as nations sanction Russia</a> BBC: The gas pipeline between Russia and Germany cost €10bn (£8.4bn) and was completed last September. 
  <p class="updated_time"> 11:31 AM CT, Feb. 22 </p> 
@@ -32,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
  <p class="updated_time"> 11:25 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html">The European Union Drafts a Set of Sanctions Against Russia</a> NYT: The diplomats said the draft included 27 individuals and entities, including political, military, business and financial entities. 
+ <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html">Hong Kong Will Require Its Residents to Get Tested in March</a> NYT: Residents will have to take three tests over a short period, starting in March. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">The White House is calling Russia's military movements an invasion of Ukraine</a> NPR: President Biden will deliver a speech addressing the Ukraine crisis at 1 p.m. ET, the White House said, after Russia's president signed a decree recognizing two breakaway republics. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
@@ -74,6 +82,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
  <p class="updated_time"> 05:27 AM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/queens-gambit-brazil-maid-chess-champ-11645547071">A Real-Life 'Queen's Gambit'---the Brazilian Maid Who Became a Chess Champ</a> WSJ: Cibele Florêncio worked her way to tournaments; “People look at me and wonder what the hell I’m doing there.” 
+ <p class="updated_time"> 05:07 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60466237?at_medium=RSS&at_campaign=KARANGA">Deforestation threat to Amazon indigenous areas if protected status changed - report</a> BBC: It is illegal to mine these areas of the rainforest but the government wants to change the law. 
  <p class="updated_time"> 04:47 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
  <p class="updated_time"> 03:42 AM CT, Feb. 22 </p> 
@@ -102,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60472469?at_medium=RSS&at_campaign=KARANGA">Canada parliament backs Trudeau on emergency powers</a> BBC: PM Justin Trudeau invoked the Emergencies Act last week over protests against Covid restrictions. 
  <p class="updated_time"> 08:23 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082229612/canadian-lawmakers-extend-emergency-powers-act-for-truck-protests">Canadian lawmakers extend emergency powers act for truck protests</a> NPR: The act allows authorities to declare certain areas as no-go zones. It also allows police to freeze truckers' personal and corporate bank accounts and compel tow truck companies to haul away vehicles. 
- <p class="updated_time"> 08:13 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60431081?at_medium=RSS&at_campaign=KARANGA">IPCC: Climate change report to sound warning on impacts</a> BBC: The study will focus heavily on how warming hurts regions as well as cities and coastal communities. 
  <p class="updated_time"> 08:12 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
  <p class="updated_time"> 07:36 PM CT, Feb. 21 </p> 
@@ -150,20 +158,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1081435029/china-hollywood-movies-censorship-erich-schwartzel">Hollywood relies on China to stay afloat. What does that mean for movies?</a> NPR: Wall Street Journal reporter Erich Schwartzel says that film studios increasingly need Chinese audiences to break even — which can result in self-censorship. His new book is Red Carpet. 
  <p class="updated_time"> 07:24 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-flights.html">Air France, Lufthansa and SAS Limit Flights to Ukraine</a> NYT: Lufthansa and Scandinavian Airlines also canceled flights to Kyiv as fears grow of a Russian invasion. 
- <p class="updated_time"> 07:07 AM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60419008?at_medium=RSS&at_campaign=KARANGA">Truth Social: Banned from Twitter, Trump returns with a new platform</a> BBC: The former president's platform, Truth Social, goes live on the US Apple App Store. 
  <p class="updated_time"> 06:43 AM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60460003?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: War, sickness and love in rebel-held Ukraine</a> BBC: Orla Guerin talks to people who cross military checkpoints for medical treatment and to see family. 
- <p class="updated_time"> 06:00 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/us-russia-ukraine-kill-list.html">U.S. Says Russia Has a List of Ukrainians to Kill or Detain</a> NYT: A U.S. ambassador cited “credible information” that Russian forces have compiled a list of Ukrainians to be targeted after an invasion. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/queen-victoria-diamond-jubilee.html">1897: Queen Victoria’s Diamond Jubilee Proposals</a> NYT: The plans to celebrate the 60th anniversary of the British monarch’s accession included a service at St. Paul’s Cathedral. 
- <p class="updated_time"> 11:30 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/asia/india-forest-rangers.html">Risking Their Lives, for Little Pay, to Guard India’s Forests</a> NYT: Braving tigers and other dangers, frontline workers face difficult working conditions as they try to keep the peace between humans and wildlife. 
  <p class="updated_time"> 10:52 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60458829?at_medium=RSS&at_campaign=KARANGA">Joyful reunions as Australia opens to world after two years</a> BBC: Family and friends reunite in airports as tourists enter the country for the first time in nearly two years. 
- <p class="updated_time"> 06:53 PM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60457735?at_medium=RSS&at_campaign=KARANGA">Covid: Australia's border reopens to international visitors</a> BBC: It allows tourists to enter and families to reunite for the first time in nearly two years. 
  <p class="updated_time"> 06:30 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60225543?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: India's Muslim victims of hate crimes live in fear</a> BBC: The BBC examines violent crimes against Muslims in the north Indian state of Uttar Pradesh. 
  <p class="updated_time"> 06:10 PM CT, Feb. 20 </p> 
@@ -183,6 +183,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:03 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/three-men-convicted-of-arbery-murder-found-guilty-of-federal-hate-crimes-00010644">Arbery killers found guilty of federal hate crimes</a> Politico: “As a mom, I will never heal,” said Wanda Cooper-Jones, Arbery's mother, at a press conference after the verdict was delivered. 
+ <p class="updated_time"> 12:32 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/treasury-elizabeth-warren-accounting-firms.html">Treasury Dept. Asked to Investigate Its Hiring From Accounting Firms</a> NYT: The request was sent by Senator Elizabeth Warren and Representative Pramila Jayapal after a New York Times report on the revolving door between the department and the biggest accounting firms. 
  <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/pentagon-national-guard-trucker-protests-00010653">Pentagon weighs request for D.C. National Guard help ahead of trucker protests</a> Politico: Several trucker convoys protesting coronavirus restrictions are slated to begin arriving in the D.C. area this week. 
  <p class="updated_time"> 11:17 AM CT, Feb. 22 </p> 
@@ -193,8 +195,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/putin-permission-force-outside-russia-00010637">Lawmakers give Putin permission to use force outside Russia</a> Politico: Russia’s upper house of parliament has given President Vladimir Putin permission to use military force outside the country. 
  <p class="updated_time"> 11:00 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/businesses-recycling-00010440">Businesses back plans to bill them for recycling, drawing skepticism</a> Politico: Environmental groups fear state legislation won't hold companies accountable. 
- <p class="updated_time"> 10:35 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/treasury-elizabeth-warren-accounting-firms.html">Treasury Dept. Asked to Investigate Its Hiring From Accounting Firms</a> NYT: The request was sent by Senator Elizabeth Warren and Representative Pramila Jayapal after a New York Times report on the revolving door between the department and the biggest accounting firms. 
  <p class="updated_time"> 10:35 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/vaccine-advocacy-groups-biden-wto-00010129">Vaccine advocacy groups press Biden to break WTO deadlock</a> Politico: The Biden administration is running out of money to support its global vaccination push in low- and middle-income countries. 
  <p class="updated_time"> 10:20 AM CT, Feb. 22 </p> 
@@ -216,7 +216,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/rural-hospitals-workers-vaccine-mandate-00010272">Rural hospitals stave off mass exodus of workers to vaccine mandate</a> Politico: Nearly two dozen hospital officials and association leaders told POLITICO they've lost just a fraction of their staff to the federal immunization requirement. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
- <a href="https://www.npr.org/sections/money/2022/02/22/1081373489/why-america-has-been-so-stingy-in-fighting-child-poverty">Why America Has Been So Stingy In Fighting Child Poverty</a> NPR: The US has a long tradition of favoring old people over kids. A new paper investigates why. 
+ <a href="https://www.npr.org/sections/money/2022/02/22/1081373489/why-america-has-been-so-stingy-in-fighting-child-poverty">Why America Has Been So Stingy In Fighting Child Poverty</a> NPR: The U.S. has a long tradition of favoring old people over kids. A new paper investigates why. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/henry-cuellar-king-of-laredo-texas-00010461">After an FBI raid, ‘King of Laredo’ runs on his laurels</a> Politico: Jessica Cisneros is giving nine-term Rep. Henry Cuellar (D-Texas) a tougher rematch this year. Corruption cloud or no, he still has a real chance. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
@@ -301,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/us/politics/infrastructure-plan-asphalt.html">Asphalt Industry Is a Big Winner in Infrastructure Plan</a> NYT: A range of special interests lobbied for infrastructure dollars. The asphalt industry may have been the most successful. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/wisconsin-republicans-trump-00010378">Republicans wince at Wisconsin GOP crack-up</a> Politico: Donald Trump’s baseless claims of a rigged election are tearing Wisconsin Republicans apart. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/pro-impeachment-republicans-summer-primaries-00010288">Defiant GOP impeachment voters gear up for Trump-backed primaries</a> Politico: The former president has thrown support behind challengers against six of the seven remaining House Republicans who backed impeachment. 
  <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
