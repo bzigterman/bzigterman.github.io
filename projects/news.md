@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:47 PM CT, Feb. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Investors are concerned about the impact of sanctions on Russia, a major producer of oil and natural gas. 
+ <p class="updated_time"> 11:43 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin’s Order Sending Forces to Ukraine’s Separatist Enclaves Is Condemned at U.N.</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
  <p class="updated_time"> 11:30 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
- <p class="updated_time"> 11:29 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Putin’s Order Sending Forces to Ukraine’s Separatist Enclaves Is Condemned at U.N.</a> NYT: Mr. Putin hinted at the possibility of a wider military campaign and laid claim to all of Ukraine as a country “created by Russia.” The U.S. and E.U. said they would begin imposing limited sanctions. 
  <p class="updated_time"> 11:13 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
  <p class="updated_time"> 11:07 PM CT, Feb. 21 </p> 
@@ -40,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-60431081?at_medium=RSS&at_campaign=KARANGA">IPCC: Climate change report to sound warning on impacts</a> BBC: The study will focus heavily on how warming hurts regions as well as cities and coastal communities. 
  <p class="updated_time"> 08:12 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
- <p class="updated_time"> 07:40 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Asia stocks fall as Ukraine-Russia tensions climb</a> BBC: Japan's Nikkei 225 index fell almost 2%, while the Kospi in South Korea lost 1.4% in early trading. 
  <p class="updated_time"> 07:36 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 06:35 PM CT, Feb. 21 </p> 
