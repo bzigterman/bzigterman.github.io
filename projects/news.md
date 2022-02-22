@@ -191,6 +191,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082250135/bipartisan-safety-legislation-is-designed-to-protect-children-online">Bipartisan safety legislation is designed to protect children online</a> NPR: Senators Richard Blumenthal and Marsha Blackburn have drawn up bipartisan legislation aimed at protecting children online. NPR's A Martinez talks to them about the Kids Online Safety Act bill. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082250086/truth-social-donald-trumps-social-media-app-launches-year-after-twitter-ban">Truth Social, Donald Trump's social media app, launches year after Twitter ban</a> NPR: Over a year ago, former President Donald Trump got booted from social media sites owned by Meta and Twitter. He vowed to create his own, and Truth Social launched on Monday. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082250051/morning-news-brief">Morning news brief</a> NPR: U.S. imposes sanctions after Moscow recognizes two enclaves in Ukraine as independent. Ukraine says internationally recognized borders would remain that way. Donald Trump launches a social media app. 
  <p class="updated_time"> 04:01 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082158009/pennsylvania-democrats-are-angling-to-distinguish-themselves-in-a-key-senate-con">Pennsylvania Democrats are angling to distinguish themselves in a key Senate contest</a> NPR: Lt. Gov. John Fetterman, whose image is that of the anti-politician, is the early front-runner in the Democratic primary for the state's open seat. Conor Lamb and Malcolm Kenyatta are top challengers. 
  <p class="updated_time"> 04:00 AM CT, Feb. 22 </p> 
@@ -293,14 +299,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/20/1082012462/pennsylvania-senate-contests-will-be-some-of-the-most-closely-watched-this-year">Pennsylvania Senate contests will be some of the most closely watched this year</a> NPR: In Pennsylvania, three Democratic contenders for the U.S. Senate are campaigning in very different ways. 
  <p class="updated_time"> 07:45 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012441/the-biden-administration-wants-to-present-a-united-front-with-europe-against-rus">The Biden administration wants to present a united front with Europe against Russia</a> NPR: The Russian threat to Ukraine continues to consume the Biden administration's energy, and the Afghan withdrawal looms over the crisis as well. 
- <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1082012399/the-laws-around-presidential-records-are-complex-and-murky">The laws around presidential records are complex and murky</a> NPR: Don Gonyea speaks with James Grossman of the American Historical Association about former President Donald Trump's handling of presidential records. 
  <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
- <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081987370/why-republicans-are-divided-on-support-for-ukraine">Why Republicans are divided on support for Ukraine</a> NPR: NPR's Michel Martin discusses why the Republican Party has had a warmer posture towards Russia in recent years with former Republican strategist Steve Schmidt. 
- <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081987356/harris-meets-with-zelensky-in-munich">Harris meets with Zelensky in Munich</a> NPR: Vice President Harris is meeting with a host of world leaders in Munich as concern builds that Russia plans to invade Ukraine. Her meeting with Ukraine President Zelensky sends an important message. 
  <p class="updated_time"> 02:58 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
@@ -353,10 +353,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222">Jan. 6 panel targets key players in false Trump elector strategy</a> Politico: Investigators are probing the Trump campaign's involvement in efforts to send fake electors to Washington. 
  <p class="updated_time"> 02:57 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/senate-poised-to-settle-for-symbolic-rebuke-as-russia-sanctions-talks-fizzle-00009096">Senate to settle for symbolic rebuke as Russia sanctions talks fizzle</a> Politico: Congress’ bipartisan negotiations on punishing Moscow have gone from “the one-yard line” to a slow-motion fumble. 
- <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
- <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
 
 
 </details>
