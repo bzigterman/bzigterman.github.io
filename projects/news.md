@@ -8,24 +8,56 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:31 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/ukraine-russia-putin-biden">Live Updates: Putin Orders Forces to Ukraine’s Separatist Enclaves</a> NYT: The U.S. and E.U. said they would begin imposing limited sanctions. The United Nations Security Council is holding an emergency meeting. 
- <p class="updated_time"> 08:27 PM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Russia recognises Ukraine separatist regions as independent states</a> BBC: The US imposes sanctions on breakaway regions, after Vladimir Putin threatens Ukraine in a TV address. 
+ <p class="updated_time"> 06:52 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Hong Kong Will Enforce Mass Testing as Cases Soar</a> NYT: Carrie Lam, Hong Kong’s chief executive, said that all residents would be required to take three tests over a short period of time in March. 
+ <p class="updated_time"> 06:50 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: U.S. Prepares Response as Putin Orders Forces to Separatist Enclaves</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
+ <p class="updated_time"> 06:37 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting warnings of higher UK petrol prices. 
+ <p class="updated_time"> 05:55 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60468237?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia orders troops into rebel-held regions</a> BBC: Moscow's move to recognise two separatist regions and send in soldiers has drawn wide condemnation. 
+ <p class="updated_time"> 05:29 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
+ <p class="updated_time"> 05:21 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
+ <p class="updated_time"> 04:47 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
+ <p class="updated_time"> 04:36 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine.html">Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.</a> NYT: In a speech, President Vladimir V. Putin bent Ukraine’s complex history into his own version that served as a justification for his cleaving off more of its territory. 
+ <p class="updated_time"> 03:42 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082248540/asian-shares-drop-as-putin-orders-troops-to-east-ukraine">Oil prices jump and shares sink as Russian troops enter Ukraine</a> NPR: Tensions in Eastern Europe are adding uncertainty at a time when markets have been preoccupied over how the world's central banks will act to counter surging inflation. 
+ <p class="updated_time"> 03:25 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60458303?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Internet restored five weeks after eruption</a> BBC: The Pacific island nation was cut off from the world for weeks after an undersea volcano erupted. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html">The Coronavirus Menagerie</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
+ <p class="updated_time"> 01:41 AM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Russian Troops Enter Breakaway Ukrainian Region as Germany Halts Gas Pipeline</a> WSJ: Ukrainian President Volodymyr Zelensky said he is considering severing diplomatic relations with Russia in response to the Russian decision, as reports grew of Russian troops moving into the area. 
+ <p class="updated_time"> 01:30 AM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412">Putin's Endgame: Unravel the Post-Cold War Agreements That Humiliated Russia</a> WSJ: Moscow’s military forces threaten Ukraine, but the bigger prize is restoration of Russia’s historical sphere of influence stretching through Eastern Europe. 
+ <p class="updated_time"> 12:49 AM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-sets-all-schools-for-covid-19-response-centers-11645530595">Hong Kong Sets All Schools for Covid-19 Response Centers</a> WSJ: The move shifts the holidays forward several months as part of a raft of measures to combat an Omicron surge in the face of pressure from Chinese leaders in Beijing to contain the disease. 
+ <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
+ <p class="updated_time"> 11:30 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
+ <p class="updated_time"> 11:13 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
+ <p class="updated_time"> 11:05 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/world/europe/france-street-noise.html">France Installs Sensors on Streets to Tackle 'Noise From Hell'</a> NYT: The French authorities are installing “sound radars” in some cities to detect and photograph vehicles making excessive noise, which they say is a public health hazard. 
+ <p class="updated_time"> 11:01 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html">Colombia Decriminalizes Abortion, Bolstering Trend Across Region</a> NYT: The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape. 
+ <p class="updated_time"> 10:05 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/21/1082236222/colombias-highest-court-legalizes-abortion-up-to-24-weeks">Colombia's highest court legalizes abortion up to 24 weeks</a> NPR: The decision by the tribunal of nine judges fell short of the expectations of pro-choice groups that had been pushing for abortion to be completely decriminalized in Colombia. 
+ <p class="updated_time"> 09:27 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-putin.html">Inside Biden’s Race to Prevent War Between Russia and Ukraine</a> NYT: President Biden made three critical decisions about how to handle Russia’s provocations, aiming to prevent armed conflict in Ukraine. 
+ <p class="updated_time"> 09:13 PM CT, Feb. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60472469?at_medium=RSS&at_campaign=KARANGA">Canada parliament backs Trudeau on emergency powers</a> BBC: PM Justin Trudeau invoked the Emergencies Act last week over protests against Covid restrictions. 
  <p class="updated_time"> 08:23 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082229612/canadian-lawmakers-extend-emergency-powers-act-for-truck-protests">Canadian lawmakers extend emergency powers act for truck protests</a> NPR: The act allows authorities to declare certain areas as no-go zones. It also allows police to freeze truckers' personal and corporate bank accounts and compel tow truck companies to haul away vehicles. 
- <p class="updated_time"> 08:20 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
- <p class="updated_time"> 08:17 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/02/21/world/colombia-court-abortion">Colombia Decriminalizes Abortion</a> NYT: The decision by the Constitutional Court comes in the wake of similar moves in Mexico and Argentina. 
  <p class="updated_time"> 08:13 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60431081?at_medium=RSS&at_campaign=KARANGA">IPCC: Climate change report to sound warning on impacts</a> BBC: The study will focus heavily on how warming hurts regions as well as cities and coastal communities. 
  <p class="updated_time"> 08:12 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
- <p class="updated_time"> 07:52 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-history-russia.html">Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.</a> NYT: In a speech, President Vladimir V. Putin bent Ukraine’s complex history into his own version that served as a justification for his cleaving off more of its territory. 
- <p class="updated_time"> 07:39 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions and Hints at Wider Military Aims</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
  <p class="updated_time"> 07:36 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 06:35 PM CT, Feb. 21 </p> 
@@ -40,24 +72,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/boris-johnson-coronavirus-england.html">Boris Johnson Moves to Lift Coronavirus Restrictions in England</a> NYT: The British prime minister is shifting toward a strategy of living with Covid-19. Critics argue that the move is too soon, even as case numbers fall. 
  <p class="updated_time"> 05:08 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-speech-transcript.html">Highlights From Putin's Address on Breakaway Regions in Ukraine</a> NYT: President Vladimir V. Putin said he would recognize the independence of two Russia-backed territories in eastern Ukraine. Here are highlights from his 40-minute speech. 
- <p class="updated_time"> 05:04 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/business/europe-power-gas-bill.html">How Europeans Are Responding to Exorbitant Gas and Power Bills</a> NYT: High energy prices in Europe are upending people’s lives. While some are installing solar panels, others are stoking their wood-burning stoves. 
  <p class="updated_time"> 04:50 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60472889?at_medium=RSS&at_campaign=KARANGA">US reveals claims of Russian 'kill list' if Moscow occupies Ukraine</a> BBC: The US says it has "credible information" that Russia is creating lists of Ukrainians to be killed. 
  <p class="updated_time"> 04:16 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082124528/ukraine-russia-putin-invasion">Why Ukraine gave up its nuclear weapons — and what that means in an invasion by Russia</a> NPR: Three decades ago, the newly independent country of Ukraine was briefly the third-largest nuclear power in the world. A lot has changed since then. 
  <p class="updated_time"> 03:57 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/israel-nso-spyware-investigation.html">Israel Says Police Didn’t Hack Civilians Without Court Approval</a> NYT: An official investigation refuted claims that the police had illegally hacked dozens of civilians using spyware from NSO Group, an Israeli company that has long attracted global scrutiny. 
- <p class="updated_time"> 03:55 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggest that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
  <p class="updated_time"> 03:41 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60470900?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin announces Donetsk and Luhansk recognition</a> BBC: President Putin says Russia will sign treaties of friendship and support with the breakaway Ukrainian regions. 
+ <p class="updated_time"> 03:32 PM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/canadas-emergency-powers-for-freedom-convoy-set-to-be-extended-11645480357">Canada Lawmakers Vote to Extend Emergency Powers Targeting Freedom Convoy</a> WSJ: The Trudeau government’s plan has backing from the left-leaning New Democratic Party, though civil-rights groups say the measure is no longer necessary. 
  <p class="updated_time"> 03:25 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082182686/britain-will-drop-covid-19-self-isolation-requirements-on-thursday-johnson-annou">Britain will drop COVID-19 self-isolation requirements on Thursday, Johnson announces</a> NPR: "Covid will not suddenly disappear," Prime Minister Boris Johnson told Parliament on Monday, adding that "restrictions pose a heavy toll on our economy, our society, our mental well-being." 
- <p class="updated_time"> 03:20 PM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/canadas-emergency-powers-for-freedom-convoy-set-to-be-extended-11645480357">Canada Lawmakers Vote to Extend Emergency Powers Targeting Freedom Convoy</a> WSJ: The Trudeau government’s plan has backing from the left-leaning New Democratic Party, though civil-rights groups say the measure is no longer necessary. 
- <p class="updated_time"> 03:06 PM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-alleges-ukrainian-incursion-kyiv-says-moscow-makes-up-fake-incidents-11645453512">Putin Orders Deployment of Troops to Breakaway Regions in Ukraine</a> WSJ: Russian President Vladimir Putin earlier recognized their independence, escalating tensions with the West. 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082172642/putin-invading-ukraine-would-cost-russia-billions-heres-a-breakdown-of-the-costs">Putin invading Ukraine would cost Russia billions. Here's a breakdown of the costs</a> NPR: A Russian invasion and occupation of Ukraine would cost billions. Russia's weak economy would face tough sanctions. And there are the political costs of alienating Europe and revitalizing NATO. 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
@@ -66,24 +92,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082172597/how-countries-should-prepare-for-climate-migration">How countries should prepare for climate migration</a> NPR: NPR's Ari Shapiro speaks to Jay Balagna of the RAND Corporation about his opinion piece titled "To help climate migrants, we must first recognize them." 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082172502/russia-plans-to-recognize-2-ukrainian-regions-as-independent">Russia recognizes 2 Ukrainian regions as independent</a> NPR: Russian President Vladimir Putin is planning to recognize the independence of two Ukrainian regions, establishing what could be a pretext for an attack. 
+ <p class="updated_time"> 02:37 PM CT, Feb. 21 </p> 
+ <a href="https://www.wsj.com/articles/colombias-highest-court-decriminalizes-abortion-in-historic-shift-11645490007">Colombia's Highest Court Decriminalizes Abortion</a> WSJ: In a historic shift, the country becomes the third large nation in Latin American to expand abortion rights in a little more than a year, energizing abortion-rights activists in a heavily Catholic region. 
  <p class="updated_time"> 02:00 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">Putin orders 'peacekeeping' troops to Ukraine after recognizing breakaway regions</a> NPR: The White House, along with NATO members and the United Nations, condemned the moves by Russia. The Biden administration has announced limited sanctions, with more to come. 
- <p class="updated_time"> 01:56 PM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/putin-address-takes-swipe-at-u-s-led-world-order-11645485419">Putin Address Takes Swipe at U.S.-Led World Order</a> WSJ: The Russian president recounted historical grievances and signaled an entrenched confrontation with the West in an hour-long televised speech. 
+ <a href="https://www.npr.org/2022/02/21/1082146367/putin-ukraine-donetsk-luhansk">U.N. leaders condemn Putin after he orders 'peacekeepers' to Ukraine</a> NPR: Russia's action was universally condemned in an emergency U.N. Security Council meeting, which concluded with no action taken. 
  <p class="updated_time"> 01:43 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/donetsk-luhansk-donbas-ukraine.html">Why Donetsk and Luhansk, in Donbas Region, Matter in Ukraine</a> NYT: The act of recognition is fraught with meaning because the borders claimed by the Russia-backed leaders of the two breakaway regions extend into space controlled by the Ukrainian army. 
- <p class="updated_time"> 12:54 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/19/world/europe/turkey-inflation-economy-erdogan.html">‘We Have All Gone Into Debt’: Soaring Bills Deepen Crisis for Turks</a> NYT: Hit by spiraling inflation, electricity bills have doubled for households and businesses in only a month. 
- <p class="updated_time"> 11:26 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/putins-endgame-unravel-the-post-cold-war-agreements-that-humiliated-russia-11645482412">Putin's Endgame: Unravel the Post-Cold War Agreements That Humiliated Russia</a> WSJ: Moscow’s military forces threaten Ukraine, but the bigger prize is restoration of Russia’s historical sphere of influence stretching through Eastern Europe. 
  <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
- <p class="updated_time"> 10:08 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/as-covid-19-cases-wane-u-k-to-lift-remaining-curbs-11645474112">U.K. to Lift Remaining Covid-19 Curbs</a> WSJ: Britain is set to become the first major European economy to ditch all restrictions and its free testing program, as the government seeks a return to normal despite recording around 25,000 cases a day. 
  <p class="updated_time"> 09:44 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/sports/in-an-arctic-outpost-friday-nights-are-for-curling.html">In an Arctic Outpost, Friday Nights Are for Curling</a> NYT: In a town with one stoplight, 120 miles above the Arctic Circle, curling provides women with a reason to leave their houses. And that is no small thing. 
- <p class="updated_time"> 09:31 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/weather-delays-effort-to-steady-burning-ship-carrying-porsche-bentley-vw-cars-11645475519">Weather Delays Effort to Steady Burning Ship Carrying Porsche, Bentley, VW Cars</a> WSJ: The intensity of the fire has weakened, local authorities and the salvage company said, but the ship is still burning and is too hot to board. 
  <p class="updated_time"> 09:07 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/president-biden-agreed-in-principle-to-meet-with-putin-to-discuss-the-ukraine-crisis.html">Putin’s Security Council meets as the Kremlin warns that ‘tensions are rising.’</a> NYT: The United States says Russia stands poised to attack Ukraine amid a frantic diplomatic push.  
  <p class="updated_time"> 08:58 AM CT, Feb. 21 </p> 
@@ -92,8 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
  <p class="updated_time"> 08:16 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/middleeast/israel-unvaccinated-tourists.html">Israel to Open Borders to Unvaccinated Tourists</a> NYT: After weathering the Omicron wave, the country is turning to testing to try to let in more visitors safely. 
- <p class="updated_time"> 08:07 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/france-street-noise.html">France Installs Sensors on Streets to Tackle 'Noise From Hell'</a> NYT: The French authorities are installing “sound radars” in some cities to detect and photograph vehicles making excessive noise, which they say is a public health hazard. 
  <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1081435029/china-hollywood-movies-censorship-erich-schwartzel">Hollywood relies on China to stay afloat. What does that mean for movies?</a> NPR: Wall Street Journal reporter Erich Schwartzel says that film studios increasingly need Chinese audiences to break even — which can result in self-censorship. His new book is Red Carpet. 
  <p class="updated_time"> 07:24 AM CT, Feb. 21 </p> 
@@ -104,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60460003?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: War, sickness and love in rebel-held Ukraine</a> BBC: Orla Guerin talks to people who cross military checkpoints for medical treatment and to see family. 
  <p class="updated_time"> 06:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/us-russia-ukraine-kill-list.html">U.S. Says Russia Has a List of Ukrainians to Kill or Detain</a> NYT: A U.S. ambassador cited “credible information” that Russian forces have compiled a list of Ukrainians to be targeted after an invasion. 
- <p class="updated_time"> 05:25 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-nears-return-to-iran-nuclear-deal-11645458466">U.S. Nears Return to Iran Nuclear Deal</a> WSJ: Iran, the U.S. and other world powers are nearing a deal to revive the 2015 nuclear accord, although negotiators are still wrangling over significant final demands from Tehran, including the scope of sanctions relief. 
  <p class="updated_time"> 05:21 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1081940350/9-moments-storylines-resonated-2022-beijing-winter-olympics">9 moments that resonated at the 2022 Beijing Winter Olympics</a> NPR: NPR's team in Beijing put together moments and storylines that stuck out — including those that showed immense inner strength, athleticism and grace. 
  <p class="updated_time"> 04:32 AM CT, Feb. 21 </p> 
@@ -114,14 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/queen-victoria-diamond-jubilee.html">1897: Queen Victoria’s Diamond Jubilee Proposals</a> NYT: The plans to celebrate the 60th anniversary of the British monarch’s accession included a service at St. Paul’s Cathedral. 
  <p class="updated_time"> 03:34 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/russia-military-ukraine-border.html">Satellite Images Show New Phase of Russian Military Readiness</a> NYT: Several units or troops have been deployed outside bases or training grounds, as Russian forces continue moving closer to the border with Ukraine. 
- <p class="updated_time"> 02:59 AM CT, Feb. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60427542?at_medium=RSS&at_campaign=KARANGA">Graham Potter: One of Australia's most wanted men arrested after 12-year hunt</a> BBC: Convicted killer Graham Potter, 64, had been on the run after failing to appear for a 2010 court date. 
- <p class="updated_time"> 02:00 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/inflation-creeps-into-asiamy-salary-is-the-same-but-everything-is-more-expensive-11645448452">Inflation Starts to Show Up in Asia</a> WSJ: Early warning signs of inflation are appearing in some parts of Asia, as higher energy and food prices start to bite in countries that recently seemed immune to cost pressures. 
- <p class="updated_time"> 01:37 AM CT, Feb. 21 </p> 
- <a href="https://www.wsj.com/articles/in-eastern-ukraine-life-under-russian-shelling-becomes-untenable-for-many-11645447028">In East Ukraine, Life Under Shelling Becomes Untenable for Many</a> WSJ: As tensions have flared in recent days between the West and Russia over Ukraine, the people of towns along the front line have taken the brunt of the escalation, prompting many to flee. 
- <p class="updated_time"> 01:31 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/biden-blinken-russia.html">Biden Is Still Willing to Talk to Putin, Blinken Says</a> NYT: Secretary of State Antony J. Blinken said Russia was taking steps leading to an invasion of Ukraine — including keeping troops in Belarus — but the U.S. is still ready to engage in diplomacy. 
  <p class="updated_time"> 01:30 AM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082070405/as-kuwait-cracks-down-a-battle-erupts-over-womens-rights">As Kuwait cracks down, a battle erupts over women's rights</a> NPR: Conservative politicians are increasingly pushing back against a burgeoning feminist movement and what they see as an unraveling of the country's traditional values. 
  <p class="updated_time"> 12:46 AM CT, Feb. 21 </p> 
@@ -136,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60458829?at_medium=RSS&at_campaign=KARANGA">Joyful reunions as Australia opens to world after two years</a> BBC: Family and friends reunite in airports as tourists enter the country for the first time in nearly two years. 
  <p class="updated_time"> 10:31 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60449862?at_medium=RSS&at_campaign=KARANGA">Petrópolis: More than 120 still missing in Brazil flood-hit city</a> BBC: At least 171 deaths are confirmed five days after huge mudslides in Petrópolis. 
- <p class="updated_time"> 09:09 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/putin-macron-ukraine.html">In a Call with Putin, Macron Pursues a Diplomatic Solution in Ukraine</a> NYT: But the Kremlin signaled little optimism regarding a diplomatic path, saying Western countries were pushing Ukraine’s government to a “military solution.” 
  <p class="updated_time"> 06:53 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60457735?at_medium=RSS&at_campaign=KARANGA">Covid: Australia's border reopens to international visitors</a> BBC: It allows tourists to enter and families to reunite for the first time in nearly two years. 
  <p class="updated_time"> 06:30 PM CT, Feb. 20 </p> 
@@ -156,22 +160,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-duties-royal-family.html">What if Queen Elizabeth Were Too Ill to Carry Out Her Duties? </a> NYT: According to Buckingham Palace, if the queen needs to suspend her official duties because of illness or because she is abroad, two or more counselors of state can act on her behalf. 
  <p class="updated_time"> 01:30 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/world/europe/queen-elizabeth-covid-royal-family.html">Queen Elizabeth Tests Positive for Covid-19, as England Moves to Relax Rules</a> NYT: The queen, who recently marked her 70th anniversary on the throne, has faced a series of health issues since late last year. 
- <p class="updated_time"> 12:29 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/asia/india-election-punjab-congress-party.html">India’s Congress Party Faces a Test of Survival as Punjab Votes</a> NYT: A defeat here, one of the few states where the once-dominant party still retains power, would be a major blow. 
- <p class="updated_time"> 12:10 PM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/business/credit-suisse-leak-swiss-bank.html">Data Leak Exposes How a Swiss Bank Served Strongmen and Spies</a> NYT: Leaked data on more than 18,000 accounts shows that the Swiss bank missed or ignored red flags. 
- <p class="updated_time"> 11:35 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/greece-ferry-fire-corfu.html">Dead Body Is Pulled From Burning Ferry Off Greece, With 10 Still Missing</a> NYT: At least one person was confirmed to have died on the Euroferry Olympia, which caught fire on Friday and is still ablaze near the island of Corfu. Hundreds of others have been rescued. 
- <p class="updated_time"> 11:31 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/ukraine-expats-rally.html">Ukrainian Expats Express Solidarity With Homeland</a> NYT: At a rally in London, many of the attendees said they hoped that a full-scale Russian invasion could be averted. 
- <p class="updated_time"> 11:27 AM CT, Feb. 20 </p> 
- <a href="https://www.nytimes.com/2022/02/20/world/europe/russia-eastern-ukraine-evacuation.html">People From Eastern Ukraine Are Evacuating to Russia as Tensions Continue</a> NYT: Refugees crossed into Russia after a warning from Kremlin-backed rebel leaders that Ukraine was about to launch an attack on the separatist areas. 
- <p class="updated_time"> 11:22 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1082024390/ukraine-russia-putin-macron-cease-fire-discussions">President Biden agrees to a tentative meeting with Putin to discuss Ukraine</a> NPR: Biden has agreed to meet with the Russian leader "in principle" if Russia does not invade Ukraine, the White House said, but Russia appears to be pursuing plans for a "full-scale assault" very soon. 
  <p class="updated_time"> 10:57 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60454480?at_medium=RSS&at_campaign=KARANGA">Missing dog Zoey reunited with owners after 12 years</a> BBC: Zoey went missing in 2010 when her owners went shopping but she was identified by her microchip. 
- <p class="updated_time"> 08:37 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/02/20/1082011620/closing-ceremony-winter-olympics-beijing">The — at times complicated — 2022 Beijing Winter Games come to a close</a> NPR: After 16 days and 109 events, the Winter Olympics officially ended Sunday with the traditional closing ceremony. Team U.S.A. finished with 25 medals in all. 
  <p class="updated_time"> 08:01 AM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/sport/winter-olympics/60451409?at_medium=RSS&at_campaign=KARANGA">Olympics close with plea for peace</a> BBC: The Beijing Games closed on Sunday, with IOC president Thomas Bach calling for political leaders to be inspired by the athletes' "examples of peace". 
  <p class="updated_time"> 06:10 AM CT, Feb. 20 </p> 
@@ -189,10 +179,42 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:20 PM CT, Feb. 21 </p> 
+ <p class="updated_time"> 07:26 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/22/nein-to-nord-stream-2-00010540">Nein to Nord Stream 2</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:33 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/22/todays-conundrum-whats-an-invasion-00010498"> Today’s conundrum: What’s an ‘invasion’?</a> Politico Playbook: And Congress steps up the sanctions pressure. 
+ <p class="updated_time"> 06:01 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/rick-scott-gop-agenda-00010431">Rick Scott pushes own GOP agenda as McConnell holds off</a> Politico: The first-term senator's plan includes a mix of longtime Republican positions as well as culture war politics that define many GOP voters in Trump’s wing of the party. 
+ <p class="updated_time"> 04:31 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/rural-hospitals-workers-vaccine-mandate-00010272">Rural hospitals stave off mass exodus of workers to vaccine mandate</a> Politico: Nearly two dozen hospital officials and association leaders told POLITICO they've lost just a fraction of their staff to the federal immunization requirement. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/sections/money/2022/02/22/1081373489/why-america-has-been-so-stingy-in-fighting-child-poverty">Why America Has Been So Stingy In Fighting Child Poverty</a> NPR: The US has a long tradition of favoring old people over kids. A new paper investigates why. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/democrats-gop-at-odds-over-bidens-proposed-science-agency-00010267">Dems, GOP at odds over Biden's proposed science agency</a> Politico: Emerging resistance to Biden’s idea of a multibillion-dollar agency to tackle some of health care’s biggest challenges reflects a widening gap over funding medical research. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/big-dem-donors-secretary-state-00010413">Dems fear for democracy. Their big donors aren’t funding one of its main election groups.</a> Politico: During the last six months of 2021, just one person gave more than $25,000 to the main association involved in electing Democratic candidates to those key posts. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/henry-cuellar-king-of-laredo-texas-00010461">After an FBI raid, 'King of Laredo' runs on his laurels</a> Politico: Jessica Cisneros is giving nine-term Rep. Henry Cuellar (D-Texas) a tougher rematch this year. Corruption cloud or no, he still has a real chance. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082250135/bipartisan-safety-legislation-is-designed-to-protect-children-online">Bipartisan safety legislation is designed to protect children online</a> NPR: NPR's A Martinez talks to Democratic Sen. Richard Blumenthal of Connecticut  and Republican Sen. Marsha Blackburn of Tennessee about the measure they have proposed: The Kids Online Safety Act. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082250086/truth-social-donald-trumps-social-media-app-launches-year-after-twitter-ban">Truth Social, Donald Trump's social media app, launches year after Twitter ban</a> NPR: Over a year ago, former President Donald Trump got booted from social media sites owned by Meta and Twitter. He vowed to create his own, and Truth Social launched on Monday. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082250051/morning-news-brief">News brief: Russia faces sanctions, Russia sends 'peacekeepers' to Ukraine, Trump app</a> NPR: U.S. imposes sanctions after Moscow recognizes two enclaves in Ukraine as independent. Ukraine says internationally recognized borders would remain that way. Donald Trump launches a social media app. 
+ <p class="updated_time"> 04:01 AM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082158009/pennsylvania-democrats-are-angling-to-distinguish-themselves-in-a-key-senate-con">Pennsylvania Democrats are angling to distinguish themselves in a key Senate contest</a> NPR: Lt. Gov. John Fetterman, whose image is that of the anti-politician, is the early front-runner in the Democratic primary for the state's open seat. Conor Lamb and Malcolm Kenyatta are top challengers. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/magazine/clarence-thomas-ginni-thomas.html">The Long Crusade of Clarence and Ginni Thomas</a> NYT: The Supreme Court justice and his wife battled for years for a more conservative America. New reporting shows how far she was willing to go after Donald Trump’s 2020 election loss. 
+ <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
- <p class="updated_time"> 08:01 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-strategy-putin-ukraine-war.html">Wooing Allies, Publicizing Putin’s Plans: Inside Biden’s Race to Prevent War</a> NYT: President Biden made three critical decisions about how to handle Russia’s provocations, aiming to prevent armed conflict in Ukraine. 
+ <p class="updated_time"> 11:20 PM CT, Feb. 21 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082243094/trumps-social-media-app-launches-year-after-twitter-ban">Trump's social media app launches a year after his Twitter ban</a> NPR: Technical glitches strike the site shortly after launch as the former president searches for a working digital stage. 
+ <p class="updated_time"> 10:49 PM CT, Feb. 21 </p> 
+ <a href="https://www.politico.com/news/2022/02/21/un-security-council-russia-ukraine-escalation-00010485">‘War, destruction and death’: U.N. Security Council members slam Russia’s Ukraine escalation</a> Politico: Ambassadors met in an extraordinary session to condemn Russia, but Moscow pushed back, blaming the U.S. and the West for “cramming weapons” into Ukraine. 
+ <p class="updated_time"> 09:38 PM CT, Feb. 21 </p> 
+ <a href="https://www.politico.com/news/2022/02/21/trudeau-wins-house-vote-emergencies-act-00010474">Trudeau wins House vote on Emergencies Act</a> Politico: Although streets around Parliament have been cleared of protesters, the prime minister said “there continues to be real concerns.” 
+ <p class="updated_time"> 09:27 PM CT, Feb. 21 </p> 
+ <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-putin.html">Wooing Allies, Publicizing Putin’s Plans: Inside Biden’s Race to Prevent War</a> NYT: President Biden made three critical decisions about how to handle Russia’s provocations, aiming to prevent armed conflict in Ukraine. 
  <p class="updated_time"> 06:52 PM CT, Feb. 21 </p> 
  <a href="https://www.politico.com/news/2022/02/21/by-9-2-vote-n-j-gets-a-new-state-legislative-district-map-00010236">New Jersey's new state legislative district map adopted in bipartisan vote</a> Politico: The map will likely allow Democrats to keep their majorities in the Senate and Assembly but creates new opportunities for Republicans. 
  <p class="updated_time"> 06:09 PM CT, Feb. 21 </p> 
@@ -200,7 +222,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:25 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html">U.S. Troops in Poland Brace for Possible Ukrainian Evacuees</a> NYT: Tens of thousands of people, including Americans, could flee across the border if Russia launches a full invasion of Ukraine. 
  <p class="updated_time"> 05:20 PM CT, Feb. 21 </p> 
- <a href="https://www.politico.com/news/2022/02/21/putin-sends-troops-breakaway-territories-00010447">As Putin sends troops into Donbas, White House avoids the 'I' word</a> Politico: Deploying forces in eastern territories "would not itself be a new step," a senior official said. 
+ <a href="https://www.politico.com/news/2022/02/21/putin-sends-troops-breakaway-territories-00010447">As Putin sends troops into Donbas, White House avoids the 'I' word</a> Politico: Deploying forces in eastern territories "would not itself be a new step," a senior official says amid calls for stepped up sanctions. 
  <p class="updated_time"> 05:07 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/abby-broyles-party.html">U.S. House Candidate Apologizes for Behavior at Sleepover</a> NYT: Parents said Abby Broyles of Oklahoma drank and swore at children at a friend’s home. She said she had mixed wine with medication and had no memory of the night. 
  <p class="updated_time"> 04:16 PM CT, Feb. 21 </p> 
@@ -229,10 +251,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082096026/russia-kill-list-ukraine">The U.S. warns that Russia has a 'kill list' of Ukrainians to be detained or killed</a> NPR: If Russia invades, "there will be an even greater form of brutality because this will not simply be some conventional war between two armies," President Biden's national security adviser says. 
  <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html">I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback</a> NYT: The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview. 
- <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
- <a href="https://www.politico.com/news/2022/02/21/trumps-favorite-cowboy-faces-gop-revolt-00010401">Texas GOP revolts against Trump’s favorite cowboy</a> Politico: Once a top Trump choice to head the USDA, Texas Agriculture Commissioner Sid Miller is facing turbulence in the March 1 primary. 
- <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
- <a href="https://www.politico.com/news/2022/02/21/trump-mellissa-carone-second-act-00010405">Trump campaign’s star witness pursues a second act</a> Politico: Mellissa Carone, whose testimony at a legislative hearing sparked a Saturday Night Live skit, is trying to parlay her 2020 election notoriety. 
  <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
  <a href="https://www.politico.com/news/2022/02/21/state-tax-cuts-00009451">Flush with cash, states eye tax cutting spree</a> Politico: Across the country, in not just red states but also purple and blue ones, governors and state legislators are considering a long list of tax cuts. 
  <p class="updated_time"> 07:00 AM CT, Feb. 21 </p> 
@@ -275,36 +293,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/19/us/politics/infrastructure-plan-asphalt.html">Asphalt Industry Is a Big Winner in Infrastructure Plan</a> NYT: A range of special interests lobbied for infrastructure dollars. The asphalt industry may have been the most successful. 
  <p class="updated_time"> 10:14 AM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/blinken-russia-ukraine-invasion-00010387">U.S. continues diplomacy but girds for ‘dead serious’ invasion threat in Ukraine</a> Politico: Even as U.S. officials warned of the nearing threat in Ukraine, they also said they’re going all in on diplomatic talks with Russia to avoid such an invasion. 
- <p class="updated_time"> 09:47 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/kirby-russia-ukraine-putin-00010386">Intense diplomatic efforts continue, Pentagon press secretary says</a> Politico: John Kirby said the West will keep up the pressure on Vladimir Putin. 
  <p class="updated_time"> 07:59 AM CT, Feb. 20 </p> 
  <a href="https://www.npr.org/2022/02/20/1082012462/pennsylvania-senate-contests-will-be-some-of-the-most-closely-watched-this-year">Pennsylvania Senate contests will be some of the most closely watched this year</a> NPR: In Pennsylvania, three Democratic contenders for the U.S. Senate are campaigning in very different ways. 
- <p class="updated_time"> 07:45 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1082012441/the-biden-administration-wants-to-present-a-united-front-with-europe-against-rus">The Biden administration wants to present a united front with Europe against Russia</a> NPR: The Russian threat to Ukraine continues to consume the Biden administration's energy, and the Afghan withdrawal looms over the crisis as well. 
- <p class="updated_time"> 07:42 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/beijings-olympics-close-ending-odd-global-moment-00010384">Beijing’s Olympics close, ending  odd global moment</a> Politico: Xi Jinping and IOC President Thomas Bach stood together as Beijing handed off to Milan-Cortina, site of the 2026 Winter Games. 
- <p class="updated_time"> 07:02 AM CT, Feb. 20 </p> 
- <a href="https://www.npr.org/2022/02/20/1082012399/the-laws-around-presidential-records-are-complex-and-murky">The laws around presidential records are complex and murky</a> NPR: Don Gonyea speaks with James Grossman of the American Historical Association about former President Donald Trump's handling of presidential records. 
- <p class="updated_time"> 07:00 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/news/2022/02/20/350org-mckibben-boeve-keystone-00009866">The group that brought down Keystone XL faces agonies of its own</a> Politico: It was the upstart that changed the face of America’s environmental movement. But 350.org, founded by the legendary Bill McKibben, has been laid low by a budget crunch, equity fights and union strife. 
- <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081987370/why-republicans-are-divided-on-support-for-ukraine">Why Republicans are divided on support for Ukraine</a> NPR: NPR's Michel Martin discusses why the Republican Party has had a warmer posture towards Russia in recent years with former Republican strategist Steve Schmidt. 
- <p class="updated_time"> 04:17 PM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081987356/harris-meets-with-zelensky-in-munich">Harris meets with Zelensky in Munich</a> NPR: Vice President Harris is meeting with a host of world leaders in Munich as concern builds that Russia plans to invade Ukraine. Her meeting with Ukraine President Zelensky sends an important message. 
  <p class="updated_time"> 02:58 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/us/politics/wisconsin-election-decertification.html">Fringe Scheme to Reverse 2020 Election Splits Wisconsin G.O.P.</a> NYT: False claims that Donald J. Trump can be reinstalled in the White House are picking up steam — and spiraling further from reality as they go. 
  <p class="updated_time"> 12:40 PM CT, Feb. 19 </p> 
  <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html">Who Is Behind QAnon? Linguistic Detectives Find Fingerprints</a> NYT: Using machine learning, separate teams of computer scientists identified the same two men as likely authors of messages that fueled the viral movement. 
- <p class="updated_time"> 11:57 AM CT, Feb. 19 </p> 
- <a href="https://www.politico.com/news/2022/02/19/russian-military-build-up-continues-despite-moscows-promises-of-a-drawdown-00010372">Russian military build-up continues, despite Moscow’s promises of a drawdown</a> Politico: A massive joint exercise in Belarus was due to end this weekend. But now officials say those tanks and troops are staying put. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365"> World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
- <p class="updated_time"> 07:09 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948863/vice-president-harris-meets-with-ukraine-president-and-ally-countries">Vice President Harris meets with Ukraine president and ally countries</a> NPR: Vice President Kamala Harris gave a major address Saturday at a security conference in Munich, Germany, where she met with Ukrainian President Volodymyr Zelenskyy. 
- <p class="updated_time"> 07:01 AM CT, Feb. 19 </p> 
- <a href="https://www.npr.org/2022/02/19/1081948814/week-in-politics-biden-tries-for-diplomacy-with-russia-trump-faces-legal-challen">Week in politics: Biden tries for diplomacy with Russia; Trump faces legal challenges</a> NPR: President Biden is more certain than ever that Russia will invade Ukraine. Also, former president Donald Trump loses a court case, and three San Francisco school board members are recalled. 
- <p class="updated_time"> 08:11 PM CT, Feb. 18 </p> 
- <a href="https://www.nytimes.com/2022/02/18/us/politics/biden-ukraine-russia.html">Biden Says Putin Has Chosen ‘Catastrophic’ War Over Diplomacy</a> NYT: President Biden spoke amid fears that Russia was setting the stage for an invasion that could ignite the biggest conflict in Europe in decades. 
  <p class="updated_time"> 03:30 PM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/white-house-tries-to-woo-republicans-on-scotus-with-trepidation-00010245">Biden quietly courts Republican support for SCOTUS nominee</a> Politico: Officials are wary that GOP votes will ever materialize. There’s also some frustration over the lobbying campaign for one potential nominee. 
  <p class="updated_time"> 01:39 PM CT, Feb. 18 </p> 
@@ -351,10 +347,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/15/jan-6-panel-targets-key-players-in-false-trump-elector-strategy-00009222">Jan. 6 panel targets key players in false Trump elector strategy</a> Politico: Investigators are probing the Trump campaign's involvement in efforts to send fake electors to Washington. 
  <p class="updated_time"> 02:57 PM CT, Feb. 15 </p> 
  <a href="https://www.politico.com/news/2022/02/15/senate-poised-to-settle-for-symbolic-rebuke-as-russia-sanctions-talks-fizzle-00009096">Senate to settle for symbolic rebuke as Russia sanctions talks fizzle</a> Politico: Congress’ bipartisan negotiations on punishing Moscow have gone from “the one-yard line” to a slow-motion fumble. 
- <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/stefanik-quieting-doubters-messaging-chief-00008877">Stefanik starts quieting her doubters as House GOP messaging chief</a> Politico: Since she took over as No. 3 in the conference, she's made a point to prioritize the megaphones of the party's base. 
- <p class="updated_time"> 04:30 AM CT, Feb. 15 </p> 
- <a href="https://www.politico.com/news/2022/02/15/gop-meaning-jan-6-legitimate-political-discourse-00008777">What the GOP meant when it called Jan. 6 'legitimate political discourse'</a> Politico: The RNC sparked a furor with three words in a resolution censuring two of its own. Those words had a narrow, and important, meaning. 
 
 
 </details>
