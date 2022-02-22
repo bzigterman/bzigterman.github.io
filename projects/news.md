@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:46 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden to Speak on Sanctions Against Russia</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. A top E.U. official said Russian troops had entered eastern Ukraine, but stopped short of calling it an “invasion.” 
+ <p class="updated_time"> 12:57 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden to Speak on Sanctions Against Russia</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. 
+ <p class="updated_time"> 12:57 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html">Europe Adopts Initial Sanctions on Russia Over Ukraine Crisis</a> NYT: The European Union hopes to restrain Moscow by keeping bigger penalties in reserve. The question is whether the bloc can stay united on more serious measures if deemed necessary. 
+ <p class="updated_time"> 12:53 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as case soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
+ <p class="updated_time"> 12:51 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60474920?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Uefa likely to move Champions League final from St Petersburg in Russia</a> BBC: Uefa is almost certain to switch the this season's Champions League final away from St Petersburg amid the Ukraine-Russia crisis. 
  <p class="updated_time"> 12:46 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html">Biden Expected to Announce New Sanctions Against Russia in Speech</a> NYT: The White House and world leaders condemned Russia’s moves against Ukraine, calling it a clear violation of the country’s borders. 
  <p class="updated_time"> 12:37 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 12:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/arts/music/classical-music-orchestra-tour.html">Global Tours Were Key for Orchestras. Then the Pandemic Hit.</a> NYT: Two years after the coronavirus paralyzed classical music, ensembles are again returning to the global stage. But they face significant challenges. 
- <p class="updated_time"> 12:26 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: As England Lifts Rules, High-Risk People Fear More Isolation</a> NYT: Hong Kong will enforce mass testing as case soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
  <p class="updated_time"> 12:20 PM CT, Feb. 22 </p> 
@@ -46,10 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin tells Russia's spy chief to speak plainly</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
  <p class="updated_time"> 10:51 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1081092765/oil-gas-prices-100-barrel-ukraine-russia">Oil prices are surging toward $100 a barrel. Here's what that means for you</a> NPR: The threat of war between Russia and the Ukraine is driving prices sharply higher, but there's more at play than just geopolitical tensions. 
- <p class="updated_time"> 10:32 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60474920?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Uefa likely to move Champions League final from St Petersburg in Russia</a> BBC: Uefa is almost certain to switch the this season's Champions League final away from St Petersburg amid the Ukraine-Russia crisis. 
- <p class="updated_time"> 10:27 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html">Europe Considers a Modest Initial Set of Sanctions on Russia</a> NYT: The hope is to restrain Moscow by keeping bigger penalties in reserve, but the question is whether the bloc could stay united on more serious measures if they were needed over several years. 
  <p class="updated_time"> 09:59 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/france-election-emmanuel-macron.html">As French Elections Loom, Macron Tries to Strike a Balance</a> NYT: The news media calls the French president “Jupiter,” the king of the gods, but he is showing a more human face. Will it soften his image? 
  <p class="updated_time"> 09:43 AM CT, Feb. 22 </p> 
@@ -114,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082229612/canadian-lawmakers-extend-emergency-powers-act-for-truck-protests">Canadian lawmakers extend emergency powers act for truck protests</a> NPR: The act allows authorities to declare certain areas as no-go zones. It also allows police to freeze truckers' personal and corporate bank accounts and compel tow truck companies to haul away vehicles. 
  <p class="updated_time"> 08:12 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/obituaries/paul-farmer-dead.html">Paul Farmer, Pioneer of Global Health, Dies at 62</a> NYT: As a medical student, Dr. Farmer decided to build a clinic in Haiti. It grew into a vast network serving some of the world’s poorest communities. 
- <p class="updated_time"> 07:36 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/americas/canada-protest.html">Was Canada Trucker Protest a Blip, or the Start of Something Bigger?</a> NYT: The demonstrators were passionate, organized and supported financially, but such spontaneous movements often have a tough time converting their energy into real change. 
  <p class="updated_time"> 06:02 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html">Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</a> NYT: A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II. 
  <p class="updated_time"> 06:01 PM CT, Feb. 21 </p> 
