@@ -20,7 +20,7 @@ Current:
 - 97% humidity
 - 8 mph wind
 
-<p class="updated_time"> Latest data: 07:10 AM CT, February 22</p>
+<p class="updated_time"> Latest data: 07:21 AM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
@@ -58,7 +58,7 @@ Current:
 - 97% humidity
 - 8 mph wind
 
-<p class="updated_time"> Latest data: 07:10 AM CT, February 22</p>
+<p class="updated_time"> Latest data: 07:21 AM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
