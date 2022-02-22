@@ -17,10 +17,10 @@ Current:
 
 - 54°
 - moderate rain
-- 96% humidity
-- 12 mph wind
+- 97% humidity
+- 8 mph wind
 
-<p class="updated_time"> Latest data: 06:50 AM CT, February 22</p>
+<p class="updated_time"> Latest data: 07:10 AM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
@@ -55,10 +55,10 @@ Current:
 
 - 54°
 - mist
-- 96% humidity
-- 12 mph wind
+- 97% humidity
+- 8 mph wind
 
-<p class="updated_time"> Latest data: 06:50 AM CT, February 22</p>
+<p class="updated_time"> Latest data: 07:10 AM CT, February 22</p>
 
 ## Severe Thunderstorm Outlook
 
