@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:46 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 01:54 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go Now’</a> NYT: Members of Vladimir Putin’s circle are specifically targeted by sanctions. And, a look at how Russian troops closed in on Ukraine. 
  <p class="updated_time"> 01:34 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
@@ -43,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:47 AM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Shifts to War Footing, Proclaiming State of Emergency</a> WSJ: Ukraine begins to mobilize reservists, calling on its citizens to leave Russia immediately because of a Russian offensive as soon as Wednesday night. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
- <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are hit by cyberattacks</a> NPR: A number of important websites in Ukraine — from large banks to the defense ministry — were struck by denial of service attacks Wednesday. 
+ <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are hit by cyberattacks</a> NPR: A number of important websites in Ukraine — from those of  large banks to the defense ministry — were struck by denial-of-service attacks Wednesday. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 06:05 AM CT, Feb. 23 </p> 
@@ -189,6 +189,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:37 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/who-is-j-michelle-childs-bio-facts-background-political-views-00007234">J. Michelle Childs: Who is she? Bio, facts, background and political views</a> Politico: The South Carolina judge has bipartisan support from her home-state lawmakers. 
+ <p class="updated_time"> 02:36 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/who-is-leondra-kruger-bio-facts-background-political-views-00007290">Leondra Kruger: Who is she? Bio, facts, background and political views</a> Politico: The Yale Law graduate is the second Black woman to be named to the California Supreme Court. 
+ <p class="updated_time"> 02:35 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/who-is-ketanji-brown-jackson-bio-facts-background-political-views-00010970">Ketanji Brown Jackson: Who is she? Bio, facts, background and political views</a> Politico: The Washington, D.C., native replaced Attorney General Merrick Garland on the D.C. Circuit Court of Appeals. 
+ <p class="updated_time"> 02:35 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/u-s-russia-still-friends-in-space-for-now-00010952">As Ukraine crisis deepens, U.S. and Russia maintain fragile peace in space</a> Politico: Officials hope that cooperation on the International Space Station can withstand the latest rupture on Earth. 
+ <p class="updated_time"> 01:58 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/us/politics/supreme-court-public-charge-rule.html">Supreme Court Weighs Whether States May Defend a Trump Immigration Policy</a> NYT: After the Biden administration abandoned the policy, which tightened the “public charge” rule for green card applicants, Republican-led states sought to intervene. 
  <p class="updated_time"> 01:23 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/biden-pledge-black-woman-supreme-court-00010935">Why Obama didn't nominate a Black woman to the Supreme Court before Biden</a> Politico: Biden's campaign promise to nominate the first Black woman came after several potential Black justices were passed over under Obama. 
  <p class="updated_time"> 01:17 PM CT, Feb. 23 </p> 
@@ -209,8 +219,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:15 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/trump-putin-ukraine-invasion-00010923">Trump calls Putin 'genius' and 'savvy' for Ukraine invasion</a> Politico: The former president's praise for Putin comes at a perilous geopolitical moment in Europe. 
- <p class="updated_time"> 07:59 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/ukraine-state-of-emergency-00010911">Ukraine to impose state of emergency</a> Politico: The country’s military also began the conscription of reservists. 
  <p class="updated_time"> 07:52 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/national-guard-dc-control-traffic-truck-convoys-00010922">National Guard to help D.C. control traffic for truck convoys</a> Politico: The Pentagon has approved the deployment of 700 unarmed troops to the nation’s capital as it prepares for trucker convoys that are planning protests against pandemic restrictions beginning next week. 
  <p class="updated_time"> 07:35 AM CT, Feb. 23 </p> 
@@ -222,11 +230,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:01 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/squad-member-to-deliver-response-to-biden-sotu-00010877">Squad member to deliver response to Biden SOTU</a> Politico: Michigan Rep. Rashida Tlaib will give the speech on behalf of the left-wing group Working Families Party. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/presidential-race-2024-online-fundraising-00010885">The 2024 presidential race has already started online</a> Politico: Potential candidates in the next presidential election are already spending big money to build online fundraising machines. 
+ <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/republicans-foreign-policy-russia-ukraine-00010780">Republicans descend into foreign policy factionalism over Russia-Ukraine standoff</a> Politico: There is no unified pushback to Joe Biden as he confronts one of the trickiest international dilemmas of his presidency. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
+ <a href="https://www.politico.com/news/2022/02/23/presidential-race-2024-online-fundraising-00010885">The 2024 presidential race has already started online</a> Politico: Potential candidates in the next presidential election are already spending big money to build online fundraising machines. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/states-vaccine-passports-covid-00010802">More GOP states now wagering on vaccine ‘passports’ technology</a> Politico: The technology had been touted by supporters as a way to facilitate safer reopening after pandemic-related shutdowns. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
@@ -255,8 +263,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/us/politics/biden-supreme-court-candidates.html">Biden Interviews 3 Supreme Court Candidates as His Search Narrows</a> NYT: The White House says the president is on track to decide on a nominee to fill the seat vacated by Justice Stephen G. Breyer by the end of February. 
  <p class="updated_time"> 06:04 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/blinken-putin-plan-invading-ukraine-00010795">Blinken: Putin’s plan 'all along' has been to invade Ukraine</a> Politico: He also said his meeting with Russia's foreign minister has been canceled. 
- <p class="updated_time"> 05:52 PM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/texas-primary-election-day-2022-6-numbers-to-know-before-tuesday-00010787">Texas primary election day 2022: 6 numbers to know before Tuesday</a> Politico: The state’s 38 congressional races and several contested statewide primaries will offer the first clues about where the midterm cycle is headed. 
  <p class="updated_time"> 05:48 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/economy/fed-interest-rates.html">Fed Officials Firm Up Plans for Swift Pullback of Economic Help</a> NYT: Officials have been preparing investors for a series of steady rate increases and a prompt start to Federal Reserve balance sheet shrinking. 
  <p class="updated_time"> 05:31 PM CT, Feb. 22 </p> 
@@ -295,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/22/todays-conundrum-whats-an-invasion-00010498"> Today’s conundrum: What’s an ‘invasion’?</a> Politico Playbook: And Congress steps up the sanctions pressure. 
  <p class="updated_time"> 06:01 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/rick-scott-gop-agenda-00010431">Rick Scott pushes own GOP agenda as McConnell holds off</a> Politico: The first-term senator's plan includes a mix of longtime Republican positions as well as culture war politics that define many GOP voters in Trump’s wing of the party. 
- <p class="updated_time"> 04:31 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/sba-list-hartzler-missouri-senate-primary-00010439">SBA List backs Hartzler in Missouri Senate primary</a> Politico: The veteran congresswoman won a key endorsement in the crowded GOP contest. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/22/1081373489/why-america-has-been-so-stingy-in-fighting-child-poverty">Why America Has Been So Stingy In Fighting Child Poverty</a> NPR: The U.S. has a long tradition of favoring old people over kids. A new paper investigates why. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
@@ -325,8 +329,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-harm-reduction-crack-pipes.html">Uproar Over ‘Crack Pipes’ Puts Biden Drug Strategy at Risk</a> NYT: President Biden has made “harm reduction” a central pillar of his plan to fight a record number of drug-related deaths, but a conservative backlash is threatening the effort. 
  <p class="updated_time"> 12:57 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
- <p class="updated_time"> 09:43 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/nyregion/staten-island-park-slope-redistricting.html">How Redistricting Made Park Slope and Staten Island Into an Unlikely Pair</a> NYT: New congressional maps that merge conservative Staten Island with liberal Park Slope will aid Democratic efforts to win a Republican-held House seat in New York. 
  <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html">I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback</a> NYT: The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
@@ -357,8 +359,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/mccarthy-cheney-boot-from-congress-00009972">McCarthy picks his path on Cheney: Try to boot her from Congress</a> Politico: The House Republican leader endorsed Rep. Liz Cheney's primary opponent, hoping to take her out of Congress entirely. 
  <p class="updated_time"> 05:01 PM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
- <p class="updated_time"> 01:22 PM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/congress-resistance-future-covid-funds-00009807">Biden wants billions more in Covid funding. Lawmakers aren't eager to spend big — again.</a> Politico: Even Democrats who support the additional public health funds worry the effort could derail the fragile negotiations on the core bill to fund the government. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
