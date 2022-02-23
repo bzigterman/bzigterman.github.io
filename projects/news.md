@@ -8,9 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:06 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 01:18 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
+ <p class="updated_time"> 01:13 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin’s Inner Circle Targeted by E.U. Sanctions</a> NYT: New sanctions are expected to target Nord Stream 2 company. And, a look at how Russian troops closed in on Ukraine. 
- <p class="updated_time"> 01:06 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 01:13 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
  <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
@@ -20,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Man arrested after hostage standoff at Amsterdam Apple store</a> BBC: Police say they knocked down the armed suspect with a car after his hostage escaped. 
  <p class="updated_time"> 12:19 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082571849/pterosaur-fossil-rare-scotland">A rare fossil of a 170 million-year-old pterosaur with an 8-foot wingspan is found</a> NPR: The National Museum of Scotland said the fossil of the pterosaur is the largest of its kind ever discovered from the Jurassic period. A Ph.D. student made the discovery while on a field trip. 
- <p class="updated_time"> 12:05 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
  <p class="updated_time"> 11:36 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082549969/phil-mickelson-saudi-arabiagolf">Phil Mickelson apologizes for controversial comments about a Saudi-backed golf league</a> NPR: The six-time major winner said he "used words I sincerely regret" in an interview about a Saudi-financed golf league in which he brushed aside human rights violations by the Saudi regime. 
  <p class="updated_time"> 11:31 AM CT, Feb. 23 </p> 
@@ -31,7 +31,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:23 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/china-russia-ukraine-sanctions.html">China Criticizes Sanctions Against Russia as Ineffective</a> NYT: Beijing said the penalties could hurt average people and its own interests. 
  <p class="updated_time"> 11:16 AM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging "false flag" incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
+ <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging 'false flag' incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
  <p class="updated_time"> 11:02 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kyiv urges citizens to leave Russia as fears mount</a> BBC: Millions of people are ordered to leave as Moscow's troops edge closer to the border. 
  <p class="updated_time"> 10:09 AM CT, Feb. 23 </p> 
@@ -193,7 +193,7 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:23 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/biden-pledge-black-woman-supreme-court-00010935">Biden pledge to put Black woman on Supreme Court followed Obama-era anger from activists</a> Politico: The campaign promise came after potential Black justices were repeatedly passed over. 
- <p class="updated_time"> 01:03 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 01:17 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Cooperating in Inquiry</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to an interview, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 01:02 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/be-yourself-boston-mayor-urges-diverse-candidates-to-stick-with-it-00010967">‘Be yourself’: Boston mayor urges diverse candidates to stick with it</a> Politico: “I've seen how quickly the dynamic can shift when there are more of us at the table,” said Michelle Wu, the city’s first elected leader who isn’t a white man. 
