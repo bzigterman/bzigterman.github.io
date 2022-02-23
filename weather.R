@@ -27,7 +27,12 @@ champaign_current <- fromJSON(champaign_weather_json, flatten = TRUE)$current
 champaign_minutely <- fromJSON(champaign_weather_json, flatten = TRUE)$minutely %>%
   mutate(utc_time = as_datetime(dt))
 champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
-  mutate(utc_time = as_datetime(dt))
+  mutate(utc_time = as_datetime(dt))%>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(rain = {if("rain.1h" %in% names(.)) ifelse(is.na(rain.1h),
+                                                    0,rain.1h) else 0}) %>%
+  mutate(snow = {if("snow.1h" %in% names(.)) ifelse(is.na(snow.1h),
+                                                    0,snow.1h) else 0})
 champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
   mutate(utc_time = as_datetime(dt))
 
@@ -103,10 +108,12 @@ champaign_forecast_tidy <- champaign_forecast %>%
   mutate(rain = {if("rain.3h" %in% names(.)) ifelse(is.na(rain.3h),
                                                     0,rain.3h) else 0}) %>%
   mutate(snow = {if("snow.3h" %in% names(.)) ifelse(is.na(snow.3h),
-                                                    0,snow.3h) else 0})
+                                                    0,snow.3h) else 0}) %>%
+  filter(central_time > now(tzone = "America/Chicago")+days(2))
 
 
-champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24)
+champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
+  full_join(champaign_hourly)
 
 champaign_forecast_longer <- champaign_history_and_forecast %>%
   pivot_longer(cols = c(temp, pressure,
