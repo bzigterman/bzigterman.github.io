@@ -8,20 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:39 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 03:47 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go’</a> NYT: Russia says the leaders of two breakaway areas in Ukraine are requesting protection from Ukrainian forces. Members of Vladimir Putin’s circle are specifically targeted by sanctions. 
+ <p class="updated_time"> 03:42 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">Colombian Feminists Decriminalized Abortion With Help From Their Neighbors</a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
  <p class="updated_time"> 03:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">For Many Russians, a Deep Unease Over Gathering Specter of War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 03:38 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/middleeast/iraj-pezeshkzad-dead.html">Iraj Pezeshkzad, Author of Classic Iranian Novel, Dies at 94</a> NYT: The satirical “My Uncle Napoleon” became a cultural touchstone that held up a mirror to his country, before the 1979 revolution sent the author into exile in Paris. 
+ <p class="updated_time"> 03:37 PM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60501045?at_medium=RSS&at_campaign=KARANGA">Breonna Taylor: Officer was 'reckless' during deadly raid</a> BBC: Trial in Breonna Taylor killing asks if officer acted with "extreme indifference" to life 
  <p class="updated_time"> 03:32 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/arts/rameshbabu-praggnanandhaa-chess-pragg.html">16-Year-Old Chess Prodigy Defeats World Champion Magnus Carlsen</a> NYT: While it did not affect the reigning champion’s title, Rameshbabu Praggnanandhaa of India defeated Carlsen in the middle of the night during a rapid online tournament, stunning the chess world. 
  <p class="updated_time"> 03:30 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-mercenaries-ukraine.html">Russian Mercenaries Have Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
  <p class="updated_time"> 03:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
- <p class="updated_time"> 03:13 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">Colombian Feminists Decriminalized Abortion With Help From Their Neighbors</a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
  <p class="updated_time"> 03:07 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-target.html">The Potentially Grim Fate of a Ukrainian Town Called ‘Happiness’</a> NYT: If Russia invades, military analysts say, the border settlement’s Russian-sympathizing citizenry and its prize power plant make it a likely starting point. 
  <p class="updated_time"> 03:07 PM CT, Feb. 23 </p> 
@@ -54,12 +56,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/bakari-henderson-killing-greece-retrial.html">Rare Retrial Begins in Killing of American in Greece</a> NYT: Bakari Henderson, of Texas, was beaten to death in 2017. The men convicted in his case were found guilty of assault, but prosecutors are trying again with murder charges. 
  <p class="updated_time"> 11:23 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/china-russia-ukraine-sanctions.html">China Criticizes Sanctions Against Russia as Ineffective</a> NYT: Beijing said the penalties could hurt average people and its own interests. 
+ <p class="updated_time"> 10:41 AM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Shifts to War Footing, Proclaiming State of Emergency</a> WSJ: Ukraine begins to mobilize reservists, calling on its citizens to leave Russia immediately because of a Russian offensive as soon as Wednesday night. 
  <p class="updated_time"> 10:11 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Where are Russia's troops?</a> BBC: Up to 190,000 troops are positioned near Ukraine's borders. 
  <p class="updated_time"> 10:09 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60498535?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia's reputation as aggressor 'invented' - foreign ministry</a> BBC: The idea that Russia is to blame for the crisis in Ukraine is an invention by the West, Russia's foreign ministry says. 
- <p class="updated_time"> 09:32 AM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Shifts to War Footing, Proclaiming State of Emergency</a> WSJ: Ukraine begins to mobilize reservists, calling on its citizens to leave Russia immediately because of a Russian offensive as soon as Wednesday night. 
  <p class="updated_time"> 09:13 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 09:12 AM CT, Feb. 23 </p> 
@@ -195,6 +197,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099">The Pentagon is working on an algorithm to detect Covid early</a> Politico: Preliminary results from an experiment using fitness trackers show promise. 
+ <p class="updated_time"> 04:37 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/texas-governor-orders-probe-of-abusive-procedures-for-transgender-children-00011057">Abbott orders Texas probe of medical procedures for transgender children</a> Politico: “Any parent or guardian who loves and supports their child and is taking them to a licensed healthcare provider is not engaging in child abuse,” said an ACLU of Texas staff attorney. 
  <p class="updated_time"> 03:38 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Being Interviewed</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to appearing, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 03:25 PM CT, Feb. 23 </p> 
@@ -202,7 +208,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:21 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/doj-shuts-down-china-focused-anti-espionage-program-00011065">DOJ shuts down China-focused anti-espionage program</a> Politico: The China Initiative is being cast aside largely because of perceptions that it unfairly painted Chinese Americans and U.S. residents of Chinese origin as disloyal. 
  <p class="updated_time"> 03:16 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/politics/justice-department-china-trump.html">Justice Dept. to End Trump-Era Initiative to Deter Chinese Threats</a> NYT: The agency will instead introduce a broader strategy meant to address threats from hostile nations. 
+ <a href="https://www.nytimes.com/2022/02/23/us/politics/china-trump-justice-department.html">Justice Dept. to End Trump-Era Initiative to Deter Chinese Threats</a> NYT: The agency will instead introduce a broader strategy meant to address threats from hostile nations. 
  <p class="updated_time"> 03:12 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/russian-forces-on-ukraine-border-literally-ready-to-go-now-u-s-official-warns-00011064">Russian forces on Ukraine border ‘literally ready to go now,’ U.S. official warns</a> Politico: The new comments underscore how immediate the Biden administration thinks the threat is. 
  <p class="updated_time"> 03:09 PM CT, Feb. 23 </p> 
@@ -257,8 +263,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/presidential-race-2024-online-fundraising-00010885">The 2024 presidential race has already started online</a> Politico: Potential candidates in the next presidential election are already spending big money to build online fundraising machines. 
- <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/states-vaccine-passports-covid-00010802">More GOP states now wagering on vaccine ‘passports’ technology</a> Politico: The technology had been touted by supporters as a way to facilitate safer reopening after pandemic-related shutdowns. 
  <p class="updated_time"> 04:09 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082495274/ahead-of-new-masking-guidelines-white-house-wants-to-stop-mixed-messages">Ahead of new masking guidelines, White House wants to stop mixed messages</a> NPR: In May, the last time the CDC released mask guidance, the messaging from the White House was a confusing mess. Public health experts say the White House needs to do a better job this time around. 
  <p class="updated_time"> 04:00 AM CT, Feb. 23 </p> 
@@ -301,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/us/politics/treasury-elizabeth-warren-accounting-firms.html">Treasury Dept. Asked to Investigate Its Hiring From Accounting Firms</a> NYT: The request was sent by Senator Elizabeth Warren and Representative Pramila Jayapal after a New York Times report on the revolving door between the department and the biggest accounting firms. 
  <p class="updated_time"> 01:13 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082283039/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-account">The IRS is allowing taxpayers to opt out of facial recognition to verify accounts</a> NPR: The tax collecting agency has backed away from requiring all users with individual accounts to submit selfies to a private company. 
- <p class="updated_time"> 01:03 PM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/three-men-convicted-of-arbery-murder-found-guilty-of-federal-hate-crimes-00010644">Arbery killers found guilty of federal hate crimes</a> Politico: “As a mom, I will never heal,” said Wanda Cooper-Jones, Arbery's mother, at a press conference after the verdict was delivered. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Allies join U.S. in imposing sanctions pressure on Russia over Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:01 AM CT, Feb. 22 </p> 
