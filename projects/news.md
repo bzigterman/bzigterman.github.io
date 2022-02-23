@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:46 PM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082483555/tongas-internet-restored-5-weeks-after-big-eruption">Tonga's internet restored 5 weeks after big eruption</a> NPR: The restoration of the internet comes as the South Pacific island nation grapples with its first outbreak of the coronavirus. 
+ <p class="updated_time"> 10:43 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 10:34 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/arts/music/classical-music-orchestra-tour.html">Global Tours Were Key for Orchestras. Then the Pandemic Hit.</a> NYT: Two years after the coronavirus paralyzed classical music, ensembles are again returning to the global stage. But they face significant challenges. 
  <p class="updated_time"> 10:25 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
- <p class="updated_time"> 10:19 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 10:02 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
  <p class="updated_time"> 09:57 PM CT, Feb. 22 </p> 
@@ -44,9 +46,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60454685?at_medium=RSS&at_campaign=KARANGA">Karnataka: 'Wearing hijab is my right and you can't take it away'</a> BBC: Indian Muslim women are angry and humiliated that an intensely personal choice has become so politicised. 
  <p class="updated_time"> 06:09 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: Gun crime in New York City is up by a third compared to last year amid calls to defund police. 
+ <p class="updated_time"> 05:46 PM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/canada-instructs-banks-to-unfreeze-freedom-convoy-accounts-11645590500">Canada Instructs Banks to Unfreeze Freedom-Convoy Accounts</a> WSJ: Canada told banks to unlock financial accounts belonging to individuals involved in a weekslong Covid-19 protest in Ottawa that police shut down this past weekend, according to a finance ministry official. 
  <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
- <p class="updated_time"> 05:17 PM CT, Feb. 22 </p> 
+ <p class="updated_time"> 05:34 PM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Ukraine Calls Up Reservists; West Steps Up Sanctions</a> WSJ: Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region. Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent. 
  <p class="updated_time"> 05:16 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/us-still-sees-an-invasion-as-imminent-dimming-hopes-for-a-biden-putin-summit.html">U.S. still sees an invasion as imminent, dimming hopes for a Biden-Putin summit.</a> NYT: Vladimir Putin ratcheted up tensions further Monday, announcing that he would recognize two breakaway Ukrainian regions as independent states. 
@@ -160,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/france-street-noise.html">France Installs Sensors on Streets to Tackle 'Noise From Hell'</a> NYT: The French authorities are installing “sound radars” in some cities to detect and photograph vehicles making excessive noise, which they say is a public health hazard. 
  <p class="updated_time"> 11:01 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html">Colombia Decriminalizes Abortion, Bolstering Trend Across Region</a> NYT: The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape. 
- <p class="updated_time"> 10:05 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082236222/colombias-highest-court-legalizes-abortion-up-to-24-weeks">Colombia's highest court legalizes abortion up to 24 weeks</a> NPR: The decision by the tribunal of nine judges fell short of the expectations of pro-choice groups that had been pushing for abortion to be completely decriminalized in Colombia. 
  <p class="updated_time"> 06:02 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html">Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</a> NYT: A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II. 
  <p class="updated_time"> 06:01 PM CT, Feb. 21 </p> 
@@ -189,6 +191,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:51 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/republican-candidates-split-over-ukraine-russia-crisis.html">Republican Candidates Split Over Ukraine-Russia Crisis</a> NYT: In Ohio, two Republicans running for Senate have taken sharply different positions, offering a clear view of the party’s rift over foreign policy. 
+ <p class="updated_time"> 10:51 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/congress-ukraine-russia.html">Once a Foreign Policy Partner, Congress Struggles for Unity on Ukraine</a> NYT: Senators went back to work Tuesday on a legislative response to Russian aggression, but as Congress recedes from the foreign policy arena, bipartisan unity is proving difficult to come by. 
  <p class="updated_time"> 10:25 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
@@ -205,16 +211,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/george-floyd-police-trial-00010863">Prosecutor: 3 cops in Floyd killing ‘chose to do nothing’</a> Politico: Defense attorneys countered that the three officers were inexperienced and not trained properly. 
  <p class="updated_time"> 07:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/biden-supreme-court-candidates.html">Biden Interviews 3 Supreme Court Candidates as His Search Narrows</a> NYT: The White House says the president is on track to decide on a nominee to fill the seat vacated by Justice Stephen G. Breyer by the end of February. 
- <p class="updated_time"> 07:07 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/congress-ukraine-russia.html">Once a Foreign Policy Partner, Congress Struggles for Unity on Ukraine</a> NYT: Senators went back to work Tuesday on a legislative response to Russian aggression, but as Congress recedes from the foreign policy arena, bipartisan unity is proving difficult to come by. 
  <p class="updated_time"> 07:04 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/los-angeles-prosecutors-progressive-da-gascon-00010798">Los Angeles prosecutors overwhelmingly want to oust their progressive boss</a> Politico: Vote of no confidence comes after District Attorney George Gascón modified sweeping sentencing directives. 
  <p class="updated_time"> 06:30 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/ukraine-centralized-its-data-after-the-last-russian-invasion-now-it-may-need-to-evacuate-it-00010777">Ukraine prepares to remove data from Russia’s reach</a> Politico: Multiple backups and centralized databases are key to Ukrainian cyber contingency plans. 
  <p class="updated_time"> 06:04 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/blinken-putin-plan-invading-ukraine-00010795">Blinken: Putin’s plan 'all along' has been to invade Ukraine</a> Politico: He also said his meeting with Russia's foreign minister has been canceled. 
- <p class="updated_time"> 06:00 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/republican-candidates-split-over-ukraine-russia-crisis.html">Republican Candidates Split Over Ukraine-Russia Crisis</a> NYT: In Ohio, two Republicans running for Senate have taken sharply different positions, offering a clear view of the party’s rift over foreign policy. 
  <p class="updated_time"> 05:52 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/texas-primary-election-day-2022-6-numbers-to-know-before-tuesday-00010787">Texas primary election day 2022: 6 numbers to know before Tuesday</a> Politico: The state’s 38 congressional races and several contested statewide primaries will offer the first clues about where the midterm cycle is headed. 
  <p class="updated_time"> 05:48 PM CT, Feb. 22 </p> 
