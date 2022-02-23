@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
+ <p class="updated_time"> 11:36 AM CT, Feb. 23 </p> 
+ <a href="https://www.npr.org/2022/02/23/1082549969/phil-mickelson-saudi-arabiagolf">Phil Mickelson apologizes for controversial comments about a Saudi-backed golf league</a> NPR: The six-time major winner said he "used words I sincerely regret" in an interview about a Saudi-financed golf league in which he brushed aside human rights violations by the Saudi regime. 
+ <p class="updated_time"> 11:34 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
+ <p class="updated_time"> 11:32 AM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
  <p class="updated_time"> 11:31 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/uk-coronavirus-restrictions-vulnerable.html">For Some in U.K., End of Covid Restrictions Threatens More Isolation</a> NYT: Prime Minister Boris Johnson is abolishing Covid regulations to move “back towards normality.” But people at high risk from the disease say the move will constrict their lives instead. 
  <p class="updated_time"> 11:23 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/bakari-henderson-killing-greece-retrial.html">Rare Retrial Begins in Killing of American in Greece</a> NYT: Bakari Henderson, of Texas, was beaten to death in 2017. The men convicted in his case were found guilty of assault, but prosecutors are trying again with murder charges. 
  <p class="updated_time"> 11:23 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
- <p class="updated_time"> 11:23 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/china-russia-ukraine-sanctions.html">China Criticizes Sanctions Against Russia as Ineffective</a> NYT: Beijing said the penalties could hurt average people and its own interests. 
  <p class="updated_time"> 11:16 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging "false flag" incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
- <p class="updated_time"> 11:11 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
  <p class="updated_time"> 11:02 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kyiv urges citizens to leave Russia as fears mount</a> BBC: Millions of people are ordered to leave as Moscow's troops edge closer to the border. 
  <p class="updated_time"> 10:24 AM CT, Feb. 23 </p> 
@@ -30,8 +34,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 09:03 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/asia/china-xi-jinping-world.html">How China and Xi Jinping Have Turned on the Outside World</a> NYT: Global engagement has helped the nation prosper. But now, its leader seems intent on recasting the meeting of minds and cultures as a zero-sum clash. 
- <p class="updated_time"> 08:55 AM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are hit by cyber attacks</a> NPR: A number of important websites in Ukraine came under attack by denial of service attacks Wednesday, including large banks to the defense ministry. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
@@ -161,8 +163,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html">Hong Kong Will Require Its Residents to Get Tested in March</a> NYT: Residents will have to take three tests over a short period, starting in March. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
- <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Allies join U.S. in imposing sanctions pressure on Russia over Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
- <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin tells Russia's spy chief to speak plainly</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
  <p class="updated_time"> 10:47 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/60477712?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin address fact-checked</a> BBC: BBC News looks into several claims the Russian president made about Ukraine. 
@@ -195,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/white-house-sanctions-nord-stream-2-pipeline-00010968">White House imposes sanctions on Nord Stream 2 pipeline company and CEO</a> Politico: President Joe Biden is expected to announce the sanctions as soon as Wednesday against the company Nord Stream 2 AG and its German chief executive officer. 
  <p class="updated_time"> 10:31 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/north-carolina-cawthorn-constitution-insurrectionists-00010944">North Carolina officials reject Cawthorn claim that Constitution’s insurrectionist ban no longer applies</a> Politico: The case is an important early test for those seeking to impose consequences on members of Congress who embraced false claims about the 2020 election results. 
  <p class="updated_time"> 10:28 AM CT, Feb. 23 </p> 
@@ -249,8 +251,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/george-floyd-police-trial-00010863">Prosecutor: 3 cops in Floyd killing ‘chose to do nothing’</a> Politico: Defense attorneys countered that the three officers were inexperienced and not trained properly. 
  <p class="updated_time"> 07:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/biden-supreme-court-candidates.html">Biden Interviews 3 Supreme Court Candidates as His Search Narrows</a> NYT: The White House says the president is on track to decide on a nominee to fill the seat vacated by Justice Stephen G. Breyer by the end of February. 
- <p class="updated_time"> 07:04 PM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/los-angeles-prosecutors-progressive-da-gascon-00010798">Los Angeles prosecutors overwhelmingly want to oust their progressive boss</a> Politico: Vote of no confidence comes after District Attorney George Gascón modified sweeping sentencing directives. 
  <p class="updated_time"> 06:30 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/ukraine-centralized-its-data-after-the-last-russian-invasion-now-it-may-need-to-evacuate-it-00010777">Ukraine prepares to remove data from Russia’s reach</a> Politico: Multiple backups and centralized databases are key to Ukrainian cyber contingency plans. 
  <p class="updated_time"> 06:04 PM CT, Feb. 22 </p> 
