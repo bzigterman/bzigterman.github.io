@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:26 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Pressure Mounts on Russia as U.S. and Allies Order Sanctions</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Putin doesn’t withdraw his forces. 
- <p class="updated_time"> 06:09 AM CT, Feb. 23 </p> 
+ <p class="updated_time"> 06:54 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: U.S. Flight Attendants Balk at Ending Mask Mandate on Planes</a> NYT: The Biden administration’s plan to lift mask requirements in March would endanger medically vulnerable travelers, a flight attendants’ union has said. 
+ <p class="updated_time"> 06:37 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Pressure Mounts on Russia as U.S. and Allies Order Sanctions</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Putin doesn’t withdraw his forces. 
  <p class="updated_time"> 05:24 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 05:22 AM CT, Feb. 23 </p> 
@@ -45,7 +45,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:06 AM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">EU to Sanction Russian Defense Minister, Internet Research Agency</a> WSJ: The listings are part of the first wave of restrictions initiated by the European Union. 
  <p class="updated_time"> 01:02 AM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Prepares for War, Urges Citizens to Leave Russia</a> WSJ: Ukraine declared a state of emergency and began to mobilize reservists, calling on its citizens to immediately leave Russia because of a growing threat of war. 
+ <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Prepares for War, Urges Citizens to Leave Russia</a> WSJ: Ukraine declared a state of emergency and began to mobilize reservists, calling on its citizens to leave Russia immediately because of a growing threat of war. 
  <p class="updated_time"> 12:47 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html">‘Dark Money’ Suddenly Dominates Australia’s Election</a> NYT: Chinese financing, unreported donations, payouts from coal barons: The new political season is shining an unaccustomed light on a culture of opacity. 
  <p class="updated_time"> 12:41 AM CT, Feb. 23 </p> 
@@ -95,7 +95,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:32 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60454685?at_medium=RSS&at_campaign=KARANGA">Karnataka: 'Wearing hijab doesn't make Muslim women oppressed'</a> BBC: Indian Muslim women are angry and humiliated that an intensely personal choice has become so politicised. 
  <p class="updated_time"> 06:09 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: Gun crime in New York City is up by a third compared to last year amid calls to defund police. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: 'Bullets are flying everywhere'. Gun crime in NYC is up by a third - will a new action plan help? 
  <p class="updated_time"> 05:46 PM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/canada-instructs-banks-to-unfreeze-freedom-convoy-accounts-11645590500">Canada Instructs Banks to Unfreeze Freedom-Convoy Accounts</a> WSJ: Canada told banks to unlock financial accounts belonging to individuals involved in a weekslong Covid-19 protest in Ottawa that police shut down this past weekend, according to a finance ministry official. 
  <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
@@ -251,6 +251,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/business/economy/fed-interest-rates.html">Fed Officials Firm Up Plans for Swift Pullback of Economic Help</a> NYT: Officials have been preparing investors for a series of steady rate increases and a prompt start to Federal Reserve balance sheet shrinking. 
  <p class="updated_time"> 05:31 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/breonna-taylor-jury-trial-00010788">Jury seated in trial related to Breonna Taylor’s shooting</a> Politico: Brett Hankison is the only officer charged in the case. 
+ <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
+ <a href="https://www.cnn.com/2022/02/22/politics/biden-potential-supreme-court-nominees/index.html">Biden has met with at least three potential Supreme Court nominees; announcement expected soon</a> CNN: President Joe Biden has met with three potential Supreme Court nominees -- including Ketanji Brown Jackson, Leondra Kruger and J. Michelle Childs, multiple sources tell CNN. 
  <p class="updated_time"> 03:34 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/africa-asks-covid-vaccine-donation-pause-00010667">Africa CDC to ask world to pause Covid-19 vaccine donations</a> Politico: The request marks a shift in the challenges Africa faces — from not having enough doses to not being able to quickly get those doses into arms. 
  <p class="updated_time"> 03:26 PM CT, Feb. 22 </p> 
@@ -273,6 +275,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/pentagon-national-guard-trucker-protests-00010653">Pentagon weighs request for D.C. National Guard help ahead of trucker protests</a> Politico: Several trucker convoys protesting coronavirus restrictions are slated to begin arriving in the D.C. area this week. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Allies join U.S. in imposing sanctions pressure on Russia over Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
+ <p class="updated_time"> 11:01 AM CT, Feb. 22 </p> 
+ <a href="https://www.cnn.com/2022/02/22/politics/arizona-election-changes-ctzn/index.html">Arizona is ground zero for election changes</a> CNN: A version of this story appeared in the CITIZEN BY CNN newsletter. To get it in your inbox, sign up for free here. 
  <p class="updated_time"> 10:20 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/supreme-court-web-designer-same-sex-wedding-00010598">Supreme Court to decide web designer's duty to work on same-sex wedding site</a> Politico: The case pits a Colorado web designer against a state law requiring services for same-sex couples. 
  <p class="updated_time"> 10:05 AM CT, Feb. 22 </p> 
@@ -323,8 +327,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/21/trump-mellissa-carone-second-act-00010405">Trump campaign’s star witness pursues a second act</a> Politico: Mellissa Carone, whose testimony at a legislative hearing sparked a Saturday Night Live skit, is trying to parlay her 2020 election notoriety. 
  <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/black-farmers-debt-relief.html">Black Farmers Fear Foreclosure as Debt Relief Remains Frozen</a> NYT: Lawsuits from white farmers have blocked $4 billion of pandemic aid that was allocated to Black farmers in the American Rescue Plan. 
- <p class="updated_time"> 10:36 PM CT, Feb. 20 </p> 
- <a href="https://www.cnn.com/2022/02/20/politics/judge-michael-luttig-pence-tweet/index.html">Anatomy of a tweet: How a retired federal judge used Twitter to try to stop an insurrection</a> CNN: Retired federal judge Michael Luttig never expected to jump into the heated fight over the certification of the 2020 presidential election. And he certainly never imagined he would end up using Twitter to help former Vice President Mike Pence defy then-President Donald Trump. 
  <p class="updated_time"> 08:37 PM CT, Feb. 20 </p> 
  <a href="https://www.nytimes.com/2022/02/20/us/politics/putin-ukraine-strategy.html">Putin Has Choice of Blitzkrieg or Minor Incursion in Ukraine</a> NYT: President Vladimir V. Putin of Russia may be looking for fissures in the Western alliance, which so far has been united against him. 
  <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
@@ -333,8 +335,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/20/harris-declares-unity-while-zelenskyy-accuses-appeasement-00010389"> Harris declares ‘unity,’ while Zelenskyy accuses ‘appeasement’</a> Politico Playbook: And Democrats try to recalibrate for the midterms. 
  <p class="updated_time"> 10:24 AM CT, Feb. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/19/world-braces-for-decisive-moment-in-history-00010365"> World braces for ‘decisive moment in history’</a> Politico Playbook: And a judge rejects Donald Trump’s Jan. 6 absolute immunity claim. 
- <p class="updated_time"> 01:39 PM CT, Feb. 18 </p> 
- <a href="https://www.cnn.com/2022/02/18/politics/liz-cheney-primary-republican-reactions/index.html">Cheney primary prompts sharp GOP divide in Washington</a> CNN: Republican lawmakers are starting to choose sides in the fight to defeat Rep. Liz Cheney in Wyoming, placing high-stakes bets in a divisive primary that is widely seen as a referendum on Donald Trump and cementing deep rifts in the GOP over the direction of the party. 
  <p class="updated_time"> 01:25 PM CT, Feb. 18 </p> 
  <a href="https://www.cnn.com/2022/02/18/politics/putin-russia-ukraine-scenarios-what-matters/index.html">Putin's possible endgames in Ukraine</a> CNN: As the US seeks to convince the world that Russia is bluffing about a drawdown of troops near Ukraine, it's worth considering what's informing Russia's decision-making and what the possible endgame scenarios might be. 
  <p class="updated_time"> 11:05 AM CT, Feb. 18 </p> 
