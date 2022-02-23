@@ -79,7 +79,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:49 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60486984?at_medium=RSS&at_campaign=KARANGA">Massive bear named 'Hank the Tank' on the run from California police</a> BBC: The black bear has broken into dozens of California homes due to his raging appetite for human food. 
  <p class="updated_time"> 04:42 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60486318?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... key moments in Russia's military build-up</a> BBC: Ros Atkins looks at the key moments of Russia's military build-up in the Ukraine crisis so far. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60486318?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Key moments in Russia's military build-up</a> BBC: As Vladimir Putin orders troops into eastern Ukraine, here's a look at how things got to this point. 
  <p class="updated_time"> 04:35 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
  <p class="updated_time"> 04:24 PM CT, Feb. 22 </p> 
