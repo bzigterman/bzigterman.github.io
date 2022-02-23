@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:59 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Pressure Mounts on Russia as U.S. and Allies Order Sanctions</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Putin doesn’t withdraw his forces. 
+ <p class="updated_time"> 05:59 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: South Korea Approves Shots for Children 5 to 11 as Cases Soar</a> NYT: The country, which had been a pandemic success from the start, recently recorded its highest number of daily cases since early 2020. 
  <p class="updated_time"> 05:24 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 05:22 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: Hostage praised for ending Dutch drama</a> BBC: Police say they knocked down an armed man with a car after his hostage, reportedly British, escaped. 
  <p class="updated_time"> 05:13 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60490247?at_medium=RSS&at_campaign=KARANGA">Inventing Anna: Fake heiress drama tops Netflix ratings</a> BBC: The drama sets a record for the most hours viewed for an English-language series in a single week. 
- <p class="updated_time"> 05:12 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Pressure Mounts on Russia as U.S. and Allies Order Sanctions</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Putin doesn’t withdraw his forces. 
- <p class="updated_time"> 05:02 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: South Korea Approves Shots for Children 5 to 11 as Cases Soar</a> NYT: The country, which had been a pandemic success from the start, recently recorded its highest number of daily cases since early 2020. 
  <p class="updated_time"> 04:51 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/taiwan-china-ukraine.html">Some in Taiwan See Parallels to Ukraine</a> NYT: Some analysts worry that a weak global response to Ukraine could embolden China’s Communist Party to ramp up pressure on self-governed Taiwan. 
  <p class="updated_time"> 04:31 AM CT, Feb. 23 </p> 
@@ -44,6 +44,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60489203?at_medium=RSS&at_campaign=KARANGA">Chetan Kumar: Indian actor arrested for tweet on Karnataka hijab row judge</a> BBC: Chetan Kumar was held for criticising a judge who is hearing pleas against a ban on hijabs in schools. 
  <p class="updated_time"> 12:47 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html">‘Dark Money’ Suddenly Dominates Australia’s Election</a> NYT: Chinese financing, unreported donations, payouts from coal barons: The new political season is shining an unaccustomed light on a culture of opacity. 
+ <p class="updated_time"> 12:19 AM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">EU to Sanction Russian Defense Minister, Internet Research Agency</a> WSJ: The listings, which are set to take force later Wednesday, are part of the first wave of restrictions initiated by the European Union in response to Russia’s deployment of forces into eastern Ukraine. 
  <p class="updated_time"> 12:12 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/climate/climate-change-un-wildfire-report.html">Climate Change Could Increase Risk of Wildfires 50% by Century's End</a> NYT: Worsening heat and dryness could lead to a 50 percent rise in off-the-charts fires, according to a United Nations report. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60454685?at_medium=RSS&at_campaign=KARANGA">Karnataka: 'Wearing hijab doesn't make Muslim women oppressed'</a> BBC: Indian Muslim women are angry and humiliated that an intensely personal choice has become so politicised. 
  <p class="updated_time"> 06:09 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: Gun crime in New York City is up by a third compared to last year amid calls to defund police. 
- <p class="updated_time"> 05:56 PM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/germany-halts-nord-stream-2-after-putin-orders-troops-to-ukrainian-breakaway-regions-11645529981">Ukraine Calls Up Reservists; West Steps Up Sanctions</a> WSJ: Ukraine’s president ordered the mobilization of reservists as Russian troops poured into Ukraine’s eastern Donbas region. Western nations announced measures to punish Moscow for recognizing two Russian-controlled statelets there as independent. 
  <p class="updated_time"> 05:46 PM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/canada-instructs-banks-to-unfreeze-freedom-convoy-accounts-11645590500">Canada Instructs Banks to Unfreeze Freedom-Convoy Accounts</a> WSJ: Canada told banks to unlock financial accounts belonging to individuals involved in a weekslong Covid-19 protest in Ottawa that police shut down this past weekend, according to a finance ministry official. 
  <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
@@ -146,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1081092765/oil-gas-prices-100-barrel-ukraine-russia">Oil prices are surging toward $100 a barrel. Here's what that means for you</a> NPR: The threat of war between Russia and Ukraine is driving prices sharply higher, but there's more at play than just geopolitical tensions. 
  <p class="updated_time"> 10:47 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/60477712?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin address fact-checked</a> BBC: BBC News looks into several claims the Russian president made about Ukraine. 
- <p class="updated_time"> 10:42 AM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-crisis-putin-confounded-diplomatic-efforts-by-western-leaders-11645565139">Putin Confounded Diplomatic Efforts by Western Leaders</a> WSJ: A parade of Western officials sought to stop Russian President Vladimir Putin from attacking Ukraine, but they found a leader whose position only hardened. 
  <p class="updated_time"> 10:40 AM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/new-zealand-targets-protesters-camped-outside-parliament-with-lawn-sprinklers-blaring-barry-manilow-11645533062">New Zealand Tries to Disperse Protesters Camped Outside Parliament</a> WSJ: The demonstration illustrates the dilemma for countries that are facing anger and frustration among some groups at public-health orders as governments adjust to treating Covid-19 as endemic. 
  <p class="updated_time"> 09:38 AM CT, Feb. 22 </p> 
@@ -170,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-60466237?at_medium=RSS&at_campaign=KARANGA">Deforestation threat to Amazon indigenous areas if protected status changed - report</a> BBC: It is illegal to mine these areas of the rainforest but the government wants to change the law. 
  <p class="updated_time"> 04:47 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
- <p class="updated_time"> 03:03 AM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/mexican-president-lopez-obrador-goes-on-the-offensive-over-sons-use-of-luxury-home-11645531201">Mexican President Goes on Offensive Over Son's Use of Luxury Home</a> WSJ: Mexico’s President Andrés Manuel López Obrador is at the center of a scandal over his eldest son’s use of a luxury Houston house then owned by an oil executive for a top contractor of Mexico’s state-run oil firm. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 11:01 PM CT, Feb. 21 </p> 
