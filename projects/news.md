@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: U.S. Flight Attendants Balk at Ending Mask Mandate on Planes</a> NYT: The Biden administration’s plan to lift mask requirements in March would endanger medically vulnerable travelers, a flight attendants’ union has said. 
+ <p class="updated_time"> 08:13 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukraine moves to declare a national state of emergency and calls up reservists</a> NPR: The move will clear the way for new measures to boost security — and to protect Ukraine's economy. Ukraine is also telling its citizens in Russia to leave immediately. 
- <p class="updated_time"> 07:50 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
- <p class="updated_time"> 07:47 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: U.S. Flight Attendants Balk at Ending Mask Mandate on Planes</a> NYT: The Biden administration’s plan to lift mask requirements in March would endanger medically vulnerable travelers, a flight attendants’ union has said. 
  <p class="updated_time"> 07:11 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60490660?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin tells Russians security is non-negotiable</a> BBC: The Russian president praises the military as the US warns an invasion of Ukraine is beginning. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
+ <p class="updated_time"> 06:05 AM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60493197?at_medium=RSS&at_campaign=KARANGA">Migrants clash with police in Mexico border town</a> BBC: More than 20 people were injured in the confrontation in Tapachula, on Mexico's southern border. 
  <p class="updated_time"> 05:24 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 05:22 AM CT, Feb. 23 </p> 
@@ -98,10 +100,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082461546/no-medals-for-2022-beijing-olympics-the-games-drew-their-lowest-u-s-ratings-ever">No medals for 2022 Beijing Olympics. The Games drew their lowest U.S. ratings ever</a> NPR: "This was probably the most difficult Olympics of all time," NBC Sports Chairman Pete Bevacqua said, citing "very harsh protocols in China" because of the COVID-19 pandemic. 
  <p class="updated_time"> 06:32 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60454685?at_medium=RSS&at_campaign=KARANGA">Karnataka: 'Wearing hijab doesn't make Muslim women oppressed'</a> BBC: Indian Muslim women are angry and humiliated that an intensely personal choice has become so politicised. 
+ <p class="updated_time"> 06:26 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60474342?at_medium=RSS&at_campaign=KARANGA">Hong Kong: What went wrong with its Covid plan?</a> BBC: The city saw early success with its zero Covid policy, but Omicron has brought it to its knees. 
  <p class="updated_time"> 06:09 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: "Bullets are flying everywhere". Gun crime in NYC is up by a third - will a new action plan help? 
  <p class="updated_time"> 05:46 PM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/canada-instructs-banks-to-unfreeze-freedom-convoy-accounts-11645590500">Canada Instructs Banks to Unfreeze Freedom-Convoy Accounts</a> WSJ: Canada told banks to unlock financial accounts belonging to individuals involved in a weekslong Covid-19 protest in Ottawa that police shut down this past weekend, according to a finance ministry official. 
+ <a href="https://www.wsj.com/articles/canada-instructs-banks-to-unfreeze-freedom-convoy-accounts-11645590500">Canada Tells Banks to Unfreeze Freedom-Convoy Accounts</a> WSJ: Canada instructed banks to unlock financial accounts belonging to individuals involved in a weekslong Covid-19 protest in Ottawa that police shut down this past weekend, according to a finance ministry official. 
  <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
  <p class="updated_time"> 05:11 PM CT, Feb. 22 </p> 
@@ -134,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60482214?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jury finds killers guilty on federal hate crimes charges</a> BBC: US jurors found the defendants violated Arbery's civil rights by attacking him due to his race. 
  <p class="updated_time"> 01:24 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082334172/kenya-security-council-russia">Kenyan U.N. ambassador compares Ukraine's plight to colonial legacy in Africa</a> NPR: Instead of looking back to an age of empire, Russia should accept Ukraine's borders and move on, Kenya's ambassador told a session of the U.N. Security Council. 
- <p class="updated_time"> 01:15 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60467039?at_medium=RSS&at_campaign=KARANGA">Hong Kong orders compulsory Covid tests for all its citizens</a> BBC: All 7.5 million residents must undergo testing as the city battles surging infection rates. 
  <p class="updated_time"> 12:20 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60485499?at_medium=RSS&at_campaign=KARANGA">Kenyan food prices: Why have they gone up so much?</a> BBC: As Kenyans take to social media to lament rising costs, we look at what is behind the rising cost of living. 
  <p class="updated_time"> 12:19 PM CT, Feb. 22 </p> 
@@ -168,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/60480155?at_medium=RSS&at_campaign=KARANGA">USA women's soccer team strike equal pay deal</a> BBC: United States forward Alex Morgan says an agreement with governing body US Soccer over equal pay is a "monumental step forward". 
  <p class="updated_time"> 05:29 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
- <p class="updated_time"> 05:07 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60466237?at_medium=RSS&at_campaign=KARANGA">Deforestation threat to Amazon indigenous areas if protected status changed - report</a> BBC: It is illegal to mine these areas of the rainforest but the government wants to change the law. 
  <p class="updated_time"> 04:47 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
