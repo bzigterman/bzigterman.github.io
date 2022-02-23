@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:59 AM CT, Feb. 23 </p> 
+ <p class="updated_time"> 06:26 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Pressure Mounts on Russia as U.S. and Allies Order Sanctions</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Putin doesn’t withdraw his forces. 
- <p class="updated_time"> 05:59 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: South Korea Approves Shots for Children 5 to 11 as Cases Soar</a> NYT: The country, which had been a pandemic success from the start, recently recorded its highest number of daily cases since early 2020. 
+ <p class="updated_time"> 06:09 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: U.S. Flight Attendants Balk at Ending Mask Mandate on Planes</a> NYT: The Biden administration’s plan to lift mask requirements in March would endanger medically vulnerable travelers, a flight attendants’ union has said. 
  <p class="updated_time"> 05:24 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 05:22 AM CT, Feb. 23 </p> 
@@ -42,10 +42,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/australia/new-zealand-protest-vaccine.html">New Zealand  Antivaccine Protest Gets More Violent</a> NYT: An occupation in the capital demonstrates the dangerous influence that American disinformation is having on otherwise stable democracies. 
  <p class="updated_time"> 01:18 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60489203?at_medium=RSS&at_campaign=KARANGA">Chetan Kumar: Indian actor arrested for tweet on Karnataka hijab row judge</a> BBC: Chetan Kumar was held for criticising a judge who is hearing pleas against a ban on hijabs in schools. 
+ <p class="updated_time"> 01:06 AM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">EU to Sanction Russian Defense Minister, Internet Research Agency</a> WSJ: The listings are part of the first wave of restrictions initiated by the European Union. 
+ <p class="updated_time"> 01:02 AM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Prepares for War, Urges Citizens to Leave Russia</a> WSJ: Ukraine declared a state of emergency and began to mobilize reservists, calling on its citizens to immediately leave Russia because of a growing threat of war. 
  <p class="updated_time"> 12:47 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html">‘Dark Money’ Suddenly Dominates Australia’s Election</a> NYT: Chinese financing, unreported donations, payouts from coal barons: The new political season is shining an unaccustomed light on a culture of opacity. 
- <p class="updated_time"> 12:19 AM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">EU to Sanction Russian Defense Minister, Internet Research Agency</a> WSJ: The listings, which are set to take force later Wednesday, are part of the first wave of restrictions initiated by the European Union in response to Russia’s deployment of forces into eastern Ukraine. 
+ <p class="updated_time"> 12:41 AM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/fast-spreading-covid-19-omicron-type-revives-questions-about-opening-up-11645616471">Fast-Spreading Covid-19 Omicron Type Revives Questions About Opening Up</a> WSJ: A more infectious type of the Omicron variant has surged to account for more than a third of global Covid-19 cases sequenced recently, adding to the debate about whether countries are ready for full reopening. 
  <p class="updated_time"> 12:12 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/climate/climate-change-un-wildfire-report.html">Climate Change Could Increase Risk of Wildfires 50% by Century's End</a> NYT: Worsening heat and dryness could lead to a 50 percent rise in off-the-charts fires, according to a United Nations report. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
@@ -191,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:35 AM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/23/sanctions-split-gop-00010910">Sanctions split GOP</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/23/gop-pans-bidens-first-taste-of-sanctions-00010906"> GOP pans Biden’s first taste of sanctions</a> Politico Playbook: And Biden reportedly interviews SCOTUS contenders. 
  <p class="updated_time"> 06:01 AM CT, Feb. 23 </p> 
@@ -365,8 +371,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/16/biden-investigators-trump-jan-6-white-house-visitor-logs-00009351">Biden clears way for investigators to obtain Trump’s Jan. 6 White House visitor logs</a> Politico: It’s unclear if Trump will launch another court action to prevent the newly identified records from reaching lawmakers. 
  <p class="updated_time"> 07:34 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/16/senate-settles-for-dear-vladimir-00009350">Senate settles for Dear Vladimir</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:13 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
 
 
 </details>
