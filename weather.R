@@ -206,7 +206,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
   <img src=\"{{ site.baseurl }}/plots/champaign_weather_mobile.png\" alt=\"\" />
 </picture>
 
-Current:
+Currently:
 
 - ",champaign_temp,"
 - ",champaign_desc,"
