@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:24 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go Now’</a> NYT: Members of Vladimir Putin’s circle are specifically targeted by sanctions. And, a look at how Russian troops closed in on Ukraine. 
- <p class="updated_time"> 02:24 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 02:36 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
+ <p class="updated_time"> 02:33 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go Now’</a> NYT: Members of Vladimir Putin’s circle are specifically targeted by sanctions. And, a look at how Russian troops closed in on Ukraine. 
+ <p class="updated_time"> 02:29 PM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60501397?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia crisis: The soldiers on the front line</a> BBC: BBC International correspondent Orla Guerin met Ukrainian soldiers fighting Russian-backed separatists. 
  <p class="updated_time"> 02:22 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-targeted-town.html">The Potentially Grim Fate of a Ukrainian Town Called ‘Happiness’</a> NYT: If Russia invades, military analysts say, the border settlement’s Russian-sympathizing citizenry and its prize power plant make it a likely starting point. 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-target.html">The Potentially Grim Fate of a Ukrainian Town Called ‘Happiness’</a> NYT: If Russia invades, military analysts say, the border settlement’s Russian-sympathizing citizenry and its prize power plant make it a likely starting point. 
  <p class="updated_time"> 02:13 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging "false flag" incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
  <p class="updated_time"> 02:09 PM CT, Feb. 23 </p> 
@@ -40,16 +42,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kyiv urges citizens to leave Russia as fears mount</a> BBC: Millions of people are ordered to leave as Moscow's troops edge closer to the border. 
  <p class="updated_time"> 10:09 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60498535?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia's reputation as aggressor 'invented' - foreign ministry</a> BBC: The idea that Russia is to blame for the crisis in Ukraine is an invention by the West, Russia's foreign ministry says. 
+ <p class="updated_time"> 09:32 AM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Shifts to War Footing, Proclaiming State of Emergency</a> WSJ: Ukraine begins to mobilize reservists, calling on its citizens to leave Russia immediately because of a Russian offensive as soon as Wednesday night. 
  <p class="updated_time"> 09:13 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 09:12 AM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">U.S., Europe Ramp Up Sanctions on Russia</a> WSJ: The EU has targeted Russia’s defense minister and the Internet Research Agency, as the West responds to Moscow’s recognition of two separatist regions in eastern Ukraine and the deployment of Russian forces into the area. 
  <p class="updated_time"> 09:03 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/asia/china-xi-jinping-world.html">How China and Xi Jinping Have Turned on the Outside World</a> NYT: Global engagement has helped the nation prosper. But now, its leader seems intent on recasting the meeting of minds and cultures as a zero-sum clash. 
- <p class="updated_time"> 08:47 AM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine Shifts to War Footing, Proclaiming State of Emergency</a> WSJ: Ukraine begins to mobilize reservists, calling on its citizens to leave Russia immediately because of a Russian offensive as soon as Wednesday night. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
- <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are hit by cyberattacks</a> NPR: A number of important websites in Ukraine — from those of  large banks to the defense ministry — were struck by denial-of-service attacks Wednesday. 
+ <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are hit by cyberattacks</a> NPR: A number of important websites in Ukraine — from those of large banks to the Ministry of Defence — were struck by denial-of-service attacks Wednesday. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 06:05 AM CT, Feb. 23 </p> 
@@ -162,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html">The European Union Drafts a Set of Sanctions Against Russia</a> NYT: The diplomats said the draft included 27 individuals and entities, including political, military, business and financial entities. 
  <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html">Hong Kong Will Require Its Residents to Get Tested in March</a> NYT: Residents will have to take three tests over a short period, starting in March. 
- <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin tells Russia's spy chief to speak plainly</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
  <p class="updated_time"> 10:47 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/60477712?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin address fact-checked</a> BBC: BBC News looks into several claims the Russian president made about Ukraine. 
  <p class="updated_time"> 09:38 AM CT, Feb. 22 </p> 
@@ -189,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:21 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/doj-shuts-down-china-focused-anti-espionage-program-00011065">DOJ shuts down China-focused anti-espionage program</a> Politico: The China Initiative is being cast aside largely because of perceptions that it unfairly painted Chinese Americans and U.S. residents of Chinese origin as disloyal. 
  <p class="updated_time"> 02:37 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/who-is-j-michelle-childs-bio-facts-background-political-views-00007234">J. Michelle Childs: Who is she? Bio, facts, background and political views</a> Politico: The South Carolina judge has bipartisan support from her home-state lawmakers. 
  <p class="updated_time"> 02:36 PM CT, Feb. 23 </p> 
@@ -197,10 +199,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/who-is-ketanji-brown-jackson-bio-facts-background-political-views-00010970">Ketanji Brown Jackson: Who is she? Bio, facts, background and political views</a> Politico: The Washington, D.C., native replaced Attorney General Merrick Garland on the D.C. Circuit Court of Appeals. 
  <p class="updated_time"> 02:35 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/u-s-russia-still-friends-in-space-for-now-00010952">As Ukraine crisis deepens, U.S. and Russia maintain fragile peace in space</a> Politico: Officials hope that cooperation on the International Space Station can withstand the latest rupture on Earth. 
+ <p class="updated_time"> 02:25 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/us/truck-convoy-dc.html">A Truck Caravan With Far-Right Links Heads to Washington, D.C.</a> NYT: Many backers of the caravan, planned as an American version of last month’s chaotic Canadian protest, have connections to the violent attack on the Capitol in January 2021. 
  <p class="updated_time"> 02:24 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/supreme-court-public-charge-rule.html">Supreme Court Weighs Whether States May Defend a Trump Immigration Policy</a> NYT: After the Biden administration abandoned the policy, which tightened the “public charge” rule for green card applicants, Republican-led states sought to intervene. 
- <p class="updated_time"> 02:12 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/truck-convoy-dc.html">A Truck Caravan With Far-Right Links Heads to Washington, D.C.</a> NYT: Many backers of the caravan, planned as an American version of last month’s chaotic Canadian protest, have connections to the violent attack on the Capitol in January 2021. 
  <p class="updated_time"> 01:23 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/biden-pledge-black-woman-supreme-court-00010935">Why Obama didn't nominate a Black woman to the Supreme Court before Biden</a> Politico: Biden's campaign promise to nominate the first Black woman came after several potential Black justices were passed over under Obama. 
  <p class="updated_time"> 01:17 PM CT, Feb. 23 </p> 
@@ -303,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/rick-scott-gop-agenda-00010431">Rick Scott pushes own GOP agenda as McConnell holds off</a> Politico: The first-term senator's plan includes a mix of longtime Republican positions as well as culture war politics that define many GOP voters in Trump’s wing of the party. 
  <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/sections/money/2022/02/22/1081373489/why-america-has-been-so-stingy-in-fighting-child-poverty">Why America Has Been So Stingy In Fighting Child Poverty</a> NPR: The U.S. has a long tradition of favoring old people over kids. A new paper investigates why. 
- <p class="updated_time"> 04:30 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/democrats-gop-at-odds-over-bidens-proposed-science-agency-00010267">Dems, GOP at odds over Biden's proposed science agency</a> Politico: Emerging resistance to Biden’s idea of a multibillion-dollar agency to tackle some of health care’s biggest challenges reflects a widening gap over funding medical research. 
  <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082250135/bipartisan-safety-legislation-is-designed-to-protect-children-online">Bipartisan safety legislation is designed to protect children online</a> NPR: NPR's A Martinez talks to Democratic Sen. Richard Blumenthal of Connecticut  and Republican Sen. Marsha Blackburn of Tennessee about the measure they have proposed: The Kids Online Safety Act. 
  <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
@@ -331,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
  <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html">I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback</a> NYT: The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview. 
- <p class="updated_time"> 04:00 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/us/politics/black-farmers-debt-relief.html">Black Farmers Fear Foreclosure as Debt Relief Remains Frozen</a> NYT: Lawsuits from white farmers have blocked $4 billion of pandemic aid that was allocated to Black farmers in the American Rescue Plan. 
  <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/ted-cruz-durham-trump-watergate-00010396">Cruz says Trump may be proved right on spying talk</a> Politico: The Texas senator was addressing a recent court filing by John Durham. 
  <p class="updated_time"> 11:45 AM CT, Feb. 20 </p> 
