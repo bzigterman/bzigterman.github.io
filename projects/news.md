@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:36 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 03:18 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
- <p class="updated_time"> 02:33 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 03:17 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go Now’</a> NYT: Members of Vladimir Putin’s circle are specifically targeted by sanctions. And, a look at how Russian troops closed in on Ukraine. 
+ <p class="updated_time"> 03:13 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">Colombian Feminists Decriminalized Abortion With Help From Their Neighbors</a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
+ <p class="updated_time"> 03:07 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-target.html">The Potentially Grim Fate of a Ukrainian Town Called ‘Happiness’</a> NYT: If Russia invades, military analysts say, the border settlement’s Russian-sympathizing citizenry and its prize power plant make it a likely starting point. 
+ <p class="updated_time"> 03:07 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/ukraine-russian-troops.html">On Edge of War, No Exodus From Ukraine but Anxiety Grows</a> NYT: With Russian troops in eastern Ukraine, foreboding mixes with disbelief. But on one train journey, some leaving Kyiv say they plan to return. 
+ <p class="updated_time"> 02:46 PM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kyiv urges citizens to leave Russia as fears mount</a> BBC: Millions of people are ordered to leave as Moscow's troops edge closer to the border. 
  <p class="updated_time"> 02:29 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60501397?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia crisis: The soldiers on the front line</a> BBC: BBC International correspondent Orla Guerin met Ukrainian soldiers fighting Russian-backed separatists. 
- <p class="updated_time"> 02:22 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-target.html">The Potentially Grim Fate of a Ukrainian Town Called ‘Happiness’</a> NYT: If Russia invades, military analysts say, the border settlement’s Russian-sympathizing citizenry and its prize power plant make it a likely starting point. 
  <p class="updated_time"> 02:13 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging "false flag" incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
  <p class="updated_time"> 02:09 PM CT, Feb. 23 </p> 
@@ -38,8 +44,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/bakari-henderson-killing-greece-retrial.html">Rare Retrial Begins in Killing of American in Greece</a> NYT: Bakari Henderson, of Texas, was beaten to death in 2017. The men convicted in his case were found guilty of assault, but prosecutors are trying again with murder charges. 
  <p class="updated_time"> 11:23 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/china-russia-ukraine-sanctions.html">China Criticizes Sanctions Against Russia as Ineffective</a> NYT: Beijing said the penalties could hurt average people and its own interests. 
- <p class="updated_time"> 11:02 AM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kyiv urges citizens to leave Russia as fears mount</a> BBC: Millions of people are ordered to leave as Moscow's troops edge closer to the border. 
+ <p class="updated_time"> 10:11 AM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Where are Russia's troops?</a> BBC: Up to 190,000 troops are positioned near Ukraine's borders. 
  <p class="updated_time"> 10:09 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60498535?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia's reputation as aggressor 'invented' - foreign ministry</a> BBC: The idea that Russia is to blame for the crisis in Ukraine is an invention by the West, Russia's foreign ministry says. 
  <p class="updated_time"> 09:32 AM CT, Feb. 23 </p> 
@@ -152,10 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082276162/for-ukrainian-musicians-rejecting-russia-is-a-matter-of-national-pride">For Ukrainian musicians, rejecting Russia is a matter of national pride </a> NPR: Ukrainian musicians are turning away from Russia, and sometimes the Russian language, as they try to reassert their country's identity. Some who used to sing in Russian now only perform in Ukrainian. 
  <p class="updated_time"> 03:37 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60472470?at_medium=RSS&at_campaign=KARANGA">US announces full-blocking sanctions on Russia</a> BBC: Biden announced sanctions on Russia after Moscow's order to deploy troops to eastern Ukraine. 
- <p class="updated_time"> 02:10 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60482214?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Jury finds killers guilty on federal hate crimes charges</a> BBC: US jurors found the defendants violated Arbery's civil rights by attacking him due to his race. 
- <p class="updated_time"> 12:20 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60485499?at_medium=RSS&at_campaign=KARANGA">Kenyan food prices: Why have they gone up so much?</a> BBC: As Kenyans take to social media to lament rising costs, we look at what is behind the rising cost of living. 
  <p class="updated_time"> 12:19 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html">US Troops in Poland Brace for Possible Ukrainian Evacuees.</a> NYT: The Biden administration has repeatedly said U.S. troops will not fight in Ukraine or rescue Americans trapped there by a Russian attack. 
  <p class="updated_time"> 12:06 PM CT, Feb. 22 </p> 
@@ -164,10 +166,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html">The European Union Drafts a Set of Sanctions Against Russia</a> NYT: The diplomats said the draft included 27 individuals and entities, including political, military, business and financial entities. 
  <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html">Hong Kong Will Require Its Residents to Get Tested in March</a> NYT: Residents will have to take three tests over a short period, starting in March. 
- <p class="updated_time"> 10:47 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/60477712?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Vladimir Putin address fact-checked</a> BBC: BBC News looks into several claims the Russian president made about Ukraine. 
- <p class="updated_time"> 09:38 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine.html">Putin Calls Ukrainian Statehood a Fiction. History Suggests Otherwise.</a> NYT: In a speech, President Vladimir V. Putin bent Ukraine’s complex history into his own version that served as a justification for his cleaving off more of its territory. 
+ <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin tells Russia's spy chief to speak plainly</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
  <p class="updated_time"> 09:37 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/us-russia-sanctions.html">White House Weighs How Hard to Hit Putin With Sanctions</a> NYT: Early indications suggested the Biden administration would hold some punishments back in hopes of preventing a broader attack. 
  <p class="updated_time"> 08:15 AM CT, Feb. 22 </p> 
@@ -176,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/60480155?at_medium=RSS&at_campaign=KARANGA">USA women's soccer team strike equal pay deal</a> BBC: United States forward Alex Morgan says an agreement with governing body US Soccer over equal pay is a "monumental step forward". 
  <p class="updated_time"> 05:29 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
- <p class="updated_time"> 11:01 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html">Colombia Decriminalizes Abortion, Bolstering Trend Across Region</a> NYT: The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape. 
  <p class="updated_time"> 04:50 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60472889?at_medium=RSS&at_campaign=KARANGA">US reveals claims of Russian 'kill list' if Moscow occupies Ukraine</a> BBC: The US says it has "credible information" that Russia is creating lists of Ukrainians to be killed. 
  <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
@@ -191,6 +189,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:21 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/doj-shuts-down-china-focused-anti-espionage-program-00011065">DOJ shuts down China-focused anti-espionage program</a> Politico: The China Initiative is being cast aside largely because of perceptions that it unfairly painted Chinese Americans and U.S. residents of Chinese origin as disloyal. 
+ <p class="updated_time"> 03:16 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/us/politics/justice-department-china-trump.html">Justice Dept. to End Trump-Era Initiative to Deter Chinese Threats</a> NYT: The agency will instead introduce a broader strategy meant to address threats from hostile nations. 
+ <p class="updated_time"> 03:12 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/russian-forces-on-ukraine-border-literally-ready-to-go-now-u-s-official-warns-00011064">Russian forces on Ukraine border ‘literally ready to go now,’ U.S. official warns</a> Politico: The new comments underscore how immediate the Biden administration thinks the threat is. 
+ <p class="updated_time"> 03:02 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/biden-troops-russia-ukraine-00011049">The line Biden won’t cross on Ukraine</a> Politico: The president says he won’t send American troops to battle Russian forces in Ukraine. That, some critics say, is a stance Russia will exploit and China will remember. 
+ <p class="updated_time"> 02:51 PM CT, Feb. 23 </p> 
+ <a href="https://www.npr.org/2022/02/23/1082579779/interior-department-derogatory-term">The U.S. looks to replace a derogatory name used hundreds of times on federal lands</a> NPR: The Department of the Interior wants the public to comment on name replacements for the more than 660 geographic features that contain a racial slur referring to Native Americans. 
  <p class="updated_time"> 02:37 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/who-is-j-michelle-childs-bio-facts-background-political-views-00007234">J. Michelle Childs: Who is she? Bio, facts, background and political views</a> Politico: The South Carolina judge has bipartisan support from her home-state lawmakers. 
  <p class="updated_time"> 02:36 PM CT, Feb. 23 </p> 
@@ -223,6 +229,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:15 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/trump-putin-ukraine-invasion-00010923">Trump calls Putin 'genius' and 'savvy' for Ukraine invasion</a> Politico: The former president's praise for Putin comes at a perilous geopolitical moment in Europe. 
+ <p class="updated_time"> 07:59 AM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/ukraine-state-of-emergency-00010911">Ukraine to impose state of emergency</a> Politico: The country’s military also began the conscription of reservists. 
  <p class="updated_time"> 07:52 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/national-guard-dc-control-traffic-truck-convoys-00010922">National Guard to help D.C. control traffic for truck convoys</a> Politico: The Pentagon has approved the deployment of 700 unarmed troops to the nation’s capital as it prepares for trucker convoys that are planning protests against pandemic restrictions beginning next week. 
  <p class="updated_time"> 07:35 AM CT, Feb. 23 </p> 
@@ -234,15 +242,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:01 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/squad-member-to-deliver-response-to-biden-sotu-00010877">Squad member to deliver response to Biden SOTU</a> Politico: Michigan Rep. Rashida Tlaib will give the speech on behalf of the left-wing group Working Families Party. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
- <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/republicans-foreign-policy-russia-ukraine-00010780">Republicans descend into foreign policy factionalism over Russia-Ukraine standoff</a> Politico: There is no unified pushback to Joe Biden as he confronts one of the trickiest international dilemmas of his presidency. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/presidential-race-2024-online-fundraising-00010885">The 2024 presidential race has already started online</a> Politico: Potential candidates in the next presidential election are already spending big money to build online fundraising machines. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/states-vaccine-passports-covid-00010802">More GOP states now wagering on vaccine ‘passports’ technology</a> Politico: The technology had been touted by supporters as a way to facilitate safer reopening after pandemic-related shutdowns. 
- <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/states-push-15-week-abortion-bans-00010782">States push 15-week abortion bans as the right argues over a post-Roe strategy</a> Politico: Legislators say they’re taking what they see as a politically and legally safer approach, even if it means the vast majority of abortions in their states could still take place. 
  <p class="updated_time"> 04:09 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082495274/ahead-of-new-masking-guidelines-white-house-wants-to-stop-mixed-messages">Ahead of new masking guidelines, White House wants to stop mixed messages</a> NPR: In May, the last time the CDC released mask guidance, the messaging from the White House was a confusing mess. Public health experts say the White House needs to do a better job this time around. 
  <p class="updated_time"> 04:00 AM CT, Feb. 23 </p> 
@@ -295,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/22/politics/arizona-election-changes-ctzn/index.html">Arizona is ground zero for election changes</a> CNN: A version of this story appeared in the CITIZEN BY CNN newsletter. To get it in your inbox, sign up for free here. 
  <p class="updated_time"> 09:48 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082235826/supreme-court-to-reconsider-religious-objectors-refusal-to-serve-same-sex-couple">Supreme Court to consider case pitting religious rights against LGBTQ discrimination </a> NPR: In 2017, the court heard a very similar challenge to Colorado's anti-discrimination law from a baker who objected to creating  cakes for same-sex weddings. 
- <p class="updated_time"> 09:23 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/white-house-beginning-invasion-russia-ukraine-00010589">White House official: ‘This is the beginning of an invasion’</a> Politico: Deputy national security adviser Jon Finer said further U.S. sanctions against Russia would be forthcoming. 
  <p class="updated_time"> 07:26 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/22/nein-to-nord-stream-2-00010540">Nein to Nord Stream 2</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Feb. 22 </p> 
@@ -315,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082158009/pennsylvania-democrats-are-angling-to-distinguish-themselves-in-a-key-senate-con">Pennsylvania Democrats are angling to distinguish themselves in a key Senate contest</a> NPR: Lt. Gov. John Fetterman, whose image is that of the anti-politician, is the early front-runner in the Democratic primary for the state's open seat. Conor Lamb and Malcolm Kenyatta are top challengers. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
- <p class="updated_time"> 11:20 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/22/1082243094/trumps-social-media-app-launches-year-after-twitter-ban">Trump's social media site hits the app store a year after he was banned from Twitter</a> NPR: Truth Social bills itself as "free from political discrimination." The app was not free from technical glitches, however, as users complained of a buggy registration process and long waitlists. 
  <p class="updated_time"> 09:27 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-putin.html">Inside Biden’s Race to Prevent War Between Russia and Ukraine</a> NYT: President Biden made three critical decisions about how to handle Russia’s provocations, aiming to prevent armed conflict in Ukraine. 
  <p class="updated_time"> 06:09 PM CT, Feb. 21 </p> 
@@ -329,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-harm-reduction-crack-pipes.html">Uproar Over ‘Crack Pipes’ Puts Biden Drug Strategy at Risk</a> NYT: President Biden has made “harm reduction” a central pillar of his plan to fight a record number of drug-related deaths, but a conservative backlash is threatening the effort. 
  <p class="updated_time"> 12:57 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
- <p class="updated_time"> 08:00 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/us/politics/irs-facial-recognition.html">I.R.S. Will Allow Taxpayers to Forgo Facial Recognition Amid Blowback</a> NYT: The agency, dealing with controversy over its decision to use facial recognition software, said it would allow taxpayers to authenticate their accounts with a live, virtual interview. 
  <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/ted-cruz-durham-trump-watergate-00010396">Cruz says Trump may be proved right on spying talk</a> Politico: The Texas senator was addressing a recent court filing by John Durham. 
  <p class="updated_time"> 11:45 AM CT, Feb. 20 </p> 
@@ -365,8 +365,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senate passes symbolic Russia rebuke as Ukraine threat looms</a> Politico: The bipartisan and nonbinding resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
  <p class="updated_time"> 04:09 PM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/senate-angles-to-clear-spending-patch">Senate hustles to break GOP blockade ahead of Friday shutdown deadline</a> Politico: Several Republicans continue to block swift passage of a stopgap government funding bill, demanding votes on vaccine mandates. 
- <p class="updated_time"> 03:18 PM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/vulnerable-senate-dems-tax-cuts-00009497">Vulnerable Senate Dems try to run as tax-cutters</a> Politico: They're pitching gas tax holidays and other pocketbook-friendly plans to combat GOP messaging on inflation. But any real proposal has a long way to go. 
 
 
 </details>
