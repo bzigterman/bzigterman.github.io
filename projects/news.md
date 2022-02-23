@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:38 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 01:06 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin’s Inner Circle Targeted by E.U. Sanctions</a> NYT: New sanctions are expected to target Nord Stream 2 company. And, a look at how Russian troops closed in on Ukraine. 
+ <p class="updated_time"> 01:06 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
  <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
- <p class="updated_time"> 12:28 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
  <p class="updated_time"> 12:26 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60492051?at_medium=RSS&at_campaign=KARANGA">US trucker convoys prompt National Guard deployment in Washington</a> BBC: Hundreds of unarmed troops will man traffic posts from Saturday ahead of the convoy's arrival. 
  <p class="updated_time"> 12:24 PM CT, Feb. 23 </p> 
@@ -120,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60474342?at_medium=RSS&at_campaign=KARANGA">Hong Kong: What went wrong with its Covid plan?</a> BBC: The city saw early success with its zero Covid policy, but Omicron has brought it to its knees. 
  <p class="updated_time"> 06:09 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: "Bullets are flying everywhere". Gun crime in NYC is up by a third - will a new action plan help? 
- <p class="updated_time"> 05:46 PM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/canada-instructs-banks-to-unfreeze-freedom-convoy-accounts-11645590500">Canada Tells Banks to Unfreeze Freedom-Convoy Accounts</a> WSJ: Canada instructed banks to unlock financial accounts belonging to individuals involved in a weekslong Covid-19 protest in Ottawa that police shut down this past weekend, according to a finance ministry official. 
  <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
  <p class="updated_time"> 05:11 PM CT, Feb. 22 </p> 
@@ -193,12 +191,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:23 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/biden-pledge-black-woman-supreme-court-00010935">Biden pledge to put Black woman on Supreme Court followed Obama-era anger from activists</a> Politico: The campaign promise came after potential Black justices were repeatedly passed over. 
+ <p class="updated_time"> 01:03 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Cooperating in Inquiry</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to an interview, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 01:02 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/be-yourself-boston-mayor-urges-diverse-candidates-to-stick-with-it-00010967">‘Be yourself’: Boston mayor urges diverse candidates to stick with it</a> Politico: “I've seen how quickly the dynamic can shift when there are more of us at the table,” said Michelle Wu, the city’s first elected leader who isn’t a white man. 
+ <p class="updated_time"> 12:53 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/magazine/clarence-thomas-ginni-thomas.html">The Long Crusade of Clarence and Ginni Thomas</a> NYT: The Supreme Court justice and his wife battled for years for a more conservative America. New reporting shows how far she was willing to go after Donald Trump’s 2020 election loss. 
  <p class="updated_time"> 12:44 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/scotts-rescue-america-plan-falls-flat-00011004">Scott’s ‘Rescue America’ plan falls flat</a> Politico: Privately, officials from some top GOP campaigns mocked the plan, questioning why the Florida senator released it in the first place. 
- <p class="updated_time"> 12:44 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Cooperating in Inquiry</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to an interview, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/white-house-sanctions-nord-stream-2-pipeline-00010968">White House imposes sanctions on Nord Stream 2 pipeline company and CEO</a> Politico: President Joe Biden is expected to announce the sanctions as soon as Wednesday against the company Nord Stream 2 AG and its German chief executive officer. 
  <p class="updated_time"> 12:01 PM CT, Feb. 23 </p> 
@@ -253,8 +255,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/george-floyd-police-trial-00010863">Prosecutor: 3 cops in Floyd killing ‘chose to do nothing’</a> Politico: Defense attorneys countered that the three officers were inexperienced and not trained properly. 
  <p class="updated_time"> 07:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/biden-supreme-court-candidates.html">Biden Interviews 3 Supreme Court Candidates as His Search Narrows</a> NYT: The White House says the president is on track to decide on a nominee to fill the seat vacated by Justice Stephen G. Breyer by the end of February. 
- <p class="updated_time"> 06:30 PM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/ukraine-centralized-its-data-after-the-last-russian-invasion-now-it-may-need-to-evacuate-it-00010777">Ukraine prepares to remove data from Russia’s reach</a> Politico: Multiple backups and centralized databases are key to Ukrainian cyber contingency plans. 
  <p class="updated_time"> 06:04 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/blinken-putin-plan-invading-ukraine-00010795">Blinken: Putin’s plan 'all along' has been to invade Ukraine</a> Politico: He also said his meeting with Russia's foreign minister has been canceled. 
  <p class="updated_time"> 05:52 PM CT, Feb. 22 </p> 
@@ -267,8 +267,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/22/politics/biden-potential-supreme-court-nominees/index.html">Biden has met with at least three potential Supreme Court nominees; announcement expected soon</a> CNN: President Joe Biden has met with three potential Supreme Court nominees -- including Ketanji Brown Jackson, Leondra Kruger and J. Michelle Childs, multiple sources tell CNN. 
  <p class="updated_time"> 03:34 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/africa-asks-covid-vaccine-donation-pause-00010667">Africa CDC to ask world to pause Covid-19 vaccine donations</a> Politico: The request marks a shift in the challenges Africa faces — from not having enough doses to not being able to quickly get those doses into arms. 
- <p class="updated_time"> 03:26 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/magazine/clarence-thomas-ginni-thomas.html">The Long Crusade of Clarence and Ginni Thomas</a> NYT: The Supreme Court justice and his wife battled for years for a more conservative America. New reporting shows how far she was willing to go after Donald Trump’s 2020 election loss. 
  <p class="updated_time"> 03:18 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082391130/garland-trump-classified-records-mar-a-lago">Garland confirms classified material found among records taken from Trump's Mar-a-Lago</a> NPR: But the attorney general would not confirm that a federal probe on the matter is underway. He said the Justice Department would "look at the facts and the law and take it from there." 
  <p class="updated_time"> 03:13 PM CT, Feb. 22 </p> 
