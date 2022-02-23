@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:55 AM CT, Feb. 23 </p> 
+ <p class="updated_time"> 03:31 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
+ <p class="updated_time"> 03:19 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
+ <p class="updated_time"> 03:18 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/china-russia-ukraine-sanctions.html">China Criticizes Sanctions Against Russia as Ineffective</a> NYT: Beijing said the penalties could hurt average people and its own interests. 
  <p class="updated_time"> 02:47 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60490660?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin tells Russians security is non-negotiable</a> BBC: The Russian president praises the military as the US warns an invasion of Ukraine is beginning. 
  <p class="updated_time"> 02:44 AM CT, Feb. 23 </p> 
@@ -34,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: hostage-taker hit by police car</a> BBC: Police said they overpowered an armed man who took at least one hostage by hitting him with a car. 
  <p class="updated_time"> 11:05 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60488623?at_medium=RSS&at_campaign=KARANGA">K-pop: BTS agency Hybe grows profits by 31%</a> BBC: The Korean entertainment group saw high revenues from selling content such as games and comics. 
- <p class="updated_time"> 10:57 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 10:46 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082483555/tongas-internet-restored-5-weeks-after-big-eruption">Tonga's internet is restored 5 weeks after big volcanic eruption</a> NPR: The restoration of the internet comes as the South Pacific island nation grapples with its first outbreak of the coronavirus. 
  <p class="updated_time"> 10:34 PM CT, Feb. 22 </p> 
@@ -191,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
  <p class="updated_time"> 02:44 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/minerals-electric-vehicles-supply.html">The U.S. is planning to boost supply of minerals needed for electric vehicles.</a> NYT: The White House effort is part of a push to reduce America’s dependence on foreign products, particularly those from China. 
  <p class="updated_time"> 11:22 PM CT, Feb. 22 </p> 
