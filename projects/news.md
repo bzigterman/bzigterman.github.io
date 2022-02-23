@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:12 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/climate/climate-change-un-wildfire-report.html">Climate Change Could Increase Risk of Wildfires 50% by Century's End</a> NYT: Worsening heat and dryness could lead to a 50 percent rise in off-the-charts fires, according to a United Nations report. 
+ <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60489660?at_medium=RSS&at_campaign=KARANGA">Australia floods: Woman killed as flash floods hit east coast</a> BBC: Flash floods hit multiple states, with some areas receiving up to 400mm of rain in 24 hours. 
  <p class="updated_time"> 11:26 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 11:21 PM CT, Feb. 22 </p> 
@@ -16,6 +20,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
  <p class="updated_time"> 11:13 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: hostage-taker hit by police car</a> BBC: Police said they overpowered an armed man who took at least one hostage by hitting him with a car. 
+ <p class="updated_time"> 11:05 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60488623?at_medium=RSS&at_campaign=KARANGA">K-pop: BTS agency Hybe grows profits by 31%</a> BBC: The Korean entertainment group saw high revenues from selling content such as games and comics. 
  <p class="updated_time"> 10:57 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
  <p class="updated_time"> 10:46 PM CT, Feb. 22 </p> 
@@ -26,6 +32,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 09:57 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/trump-putin-russia-ukraine.html">Trump Refers to Russian Aggression Toward Ukraine as ‘Genius’</a> NYT: In a radio interview, the former president also described Russian troops along the Ukrainian border as peacekeepers. 
+ <p class="updated_time"> 09:30 PM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60488037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden sanctions Russia over 'beginning of invasion'</a> BBC: The US president says he will go after Russia's Western financing and the country's "elites". 
  <p class="updated_time"> 08:59 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-speech-transcript.html">Here Is a Transcript of President Biden’s Speech on Russia</a> NYT: Here is a lightly edited transcript of the president’s speech announcing new sanctions. 
  <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
@@ -74,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/putin-invading-ukraine.html">Piece by Piece, Russia’s Rationale for a Ukraine Invasion Is Put in Place</a> NYT: Theatrical meetings and dubious battlefield reports have shaped the Kremlin’s narrative that war is being pushed on it by a United States determined to destroy Russia. 
  <p class="updated_time"> 04:24 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html">The Limits of a Europe Whole and Free</a> NYT: Vladimir Putin sets down a marker in Ukraine. Does the West have the means to stop him? 
- <p class="updated_time"> 03:51 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-60473233?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia tensions: Oil surges on supply fears</a> BBC: Crude oil prices rise on Ukraine crisis, prompting warnings of higher UK petrol prices. 
  <p class="updated_time"> 03:42 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082401614/biden-announces-sanctions-as-russian-troops-move-into-ukraine">Biden announces sanctions as Russian troops move into Ukraine</a> NPR: As Russian troops move into separatist regions in eastern Ukraine, President Biden gives his latest remarks on what measures the United States and its allies are planning to take. 
  <p class="updated_time"> 03:42 PM CT, Feb. 22 </p> 
@@ -102,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html">US Troops in Poland Brace for Possible Ukrainian Evacuees.</a> NYT: The Biden administration has repeatedly said U.S. troops will not fight in Ukraine or rescue Americans trapped there by a Russian attack. 
  <p class="updated_time"> 12:06 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/health/coronavirus-animals.html">If You Haven’t Thought About Coronavirus in Animals, You Should</a> NYT: With the virus widespread in white-tailed deer, scientists wonder which animals might be next. 
- <p class="updated_time"> 11:56 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60480734?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Germany halts pipeline as nations sanction Russia</a> BBC: The gas pipeline between Russia and Germany cost €10bn (£8.4bn) and was completed last September. 
  <p class="updated_time"> 11:25 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-russia-ukraine-sanctions.html">The European Union Drafts a Set of Sanctions Against Russia</a> NYT: The diplomats said the draft included 27 individuals and entities, including political, military, business and financial entities. 
  <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
@@ -111,7 +115,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Biden says Russia's military moves are the beginning of an invasion of Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Putin dresses down Russia's spy chief</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60485967?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin tells Russia's spy chief to speak plainly</a> BBC: Russian president presses Sergei Naryshkin during a meeting with top security officials. 
  <p class="updated_time"> 10:51 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1081092765/oil-gas-prices-100-barrel-ukraine-russia">Oil prices are surging toward $100 a barrel. Here's what that means for you</a> NPR: The threat of war between Russia and Ukraine is driving prices sharply higher, but there's more at play than just geopolitical tensions. 
  <p class="updated_time"> 10:47 AM CT, Feb. 22 </p> 
@@ -138,6 +142,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/europe/ukraine-jews-russia-evacuations.html">For Ukraine’s Jews, the Threat of War Stirs Memories of Past Horrors</a> NYT: In Odessa, Jewish leaders are preparing for the worst: hiring security guards, scoping out bomb shelters and making plans to evacuate if Russia invades the country. 
  <p class="updated_time"> 08:15 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/covid-queen-elizabeth.html">Queen Elizabeth Cancels All Virtual Engagements as She Battles Covid</a> NYT: The queen  will “continue with light duties,” Buckingham Palace said, and “further engagements over the coming week will be decided upon nearer the time.” 
+ <p class="updated_time"> 07:46 AM CT, Feb. 22 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60480155?at_medium=RSS&at_campaign=KARANGA">USA women's soccer team strike equal pay deal</a> BBC: United States forward Alex Morgan says an agreement with governing body US Soccer over equal pay is a "monumental step forward". 
  <p class="updated_time"> 05:31 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60477700?at_medium=RSS&at_campaign=KARANGA">Colombia decriminalises abortion in first 24 weeks</a> BBC: No one will be prosecuted for having an abortion within the first 24 weeks of pregnancy, a court rules. 
  <p class="updated_time"> 05:29 AM CT, Feb. 22 </p> 
@@ -172,10 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/middleeast/israel-nso-spyware-investigation.html">Israel Says Police Didn’t Hack Civilians Without Court Approval</a> NYT: An official investigation refuted claims that the police had illegally hacked dozens of civilians using spyware from NSO Group, an Israeli company that has long attracted global scrutiny. 
  <p class="updated_time"> 03:41 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60470900?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin announces Donetsk and Luhansk recognition</a> BBC: President Putin says Russia will sign treaties of friendship and support with the breakaway Ukrainian regions. 
- <p class="updated_time"> 11:22 AM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/china-lithuania-taiwan-trade.html">In an Uneven Fight With China, Lithuania's Brand Becomes Toxic</a> NYT: After Lithuania dared to seek closer ties with Taiwan, China cut off trade — even blocking imports of products from other countries with Lithuanian parts. 
- <p class="updated_time"> 10:52 PM CT, Feb. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60458829?at_medium=RSS&at_campaign=KARANGA">Joyful reunions as Australia opens to world after two years</a> BBC: Family and friends reunite in airports as tourists enter the country for the first time in nearly two years. 
  <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese internment camps: How a long-lost kimono unearthed a family secret</a> BBC: The US imprisoned Japanese Americans 80 years ago - now the younger generation are asking questions. 
 
