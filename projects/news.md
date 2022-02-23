@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:14 AM CT, Feb. 23 </p> 
+ <p class="updated_time"> 08:25 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: U.S. Flight Attendants Balk at Ending Mask Mandate on Planes</a> NYT: The Biden administration’s plan to lift mask requirements in March would endanger medically vulnerable travelers, a flight attendants’ union has said. 
- <p class="updated_time"> 08:13 AM CT, Feb. 23 </p> 
+ <p class="updated_time"> 08:21 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukraine moves to declare a national state of emergency and calls up reservists</a> NPR: The move will clear the way for new measures to boost security — and to protect Ukraine's economy. Ukraine is also telling its citizens in Russia to leave immediately. 
@@ -40,14 +40,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-europe-refugees.html">Europe Prepares for Ukraine Refugees as Aid Groups Warn of Crisis</a> NYT: “If war breaks out, the consequences for the Ukrainian people — and for Europe — cannot be overstated,” said one humanitarian official. 
  <p class="updated_time"> 03:18 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/china-russia-ukraine-sanctions.html">China Criticizes Sanctions Against Russia as Ineffective</a> NYT: Beijing said the penalties could hurt average people and its own interests. 
+ <p class="updated_time"> 03:16 AM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">EU Set to Sanction Russian Defense Minister as West Metes Out Punishment</a> WSJ: The bloc also plans to target Russia’s Internet Research Agency, diplomats said, part of the first wave of measures that governments in Washington, Brussels and London say will be a coordinated package of fuller sanctions should Russia escalate military tensions in Ukraine. 
  <p class="updated_time"> 02:44 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/sports/russia-ukraine-football.html">How Sanctions on Russia Could Affect Champions League and Top Soccer Clubs</a> NYT: The most vocal opposition has come from Britain, which could supply one or both of the final’s participants. 
  <p class="updated_time"> 02:30 AM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/sanctions-threaten-u-k-s-position-as-playground-for-russian-oligarchs-11645623038">Sanctions Threaten U.K.'s Position as Playground for Russian Oligarchs</a> WSJ: The British government has rolled out the first sanctions on Russians in response to troop movements into breakaway regions of Ukraine and threatens more, potentially hitting what some call “Moscow-on-Thames.” 
  <p class="updated_time"> 02:06 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/bakari-henderson-killing-greece-retrial.html">Rare Retrial Begins in Killing of American in Greece</a> NYT: Bakari Henderson, of Texas, was beaten to death in 2017. The men convicted in his case were found guilty of assault, but prosecutors are trying again with murder charges. 
- <p class="updated_time"> 02:02 AM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">EU to Sanction Russian Defense Minister, Internet Research Agency</a> WSJ: The listings, which are set to take force later Wednesday, are part of the first wave of restrictions initiated by the European Union in response to Russia’s deployment of forces into eastern Ukraine.. 
  <p class="updated_time"> 01:47 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/australia/new-zealand-protest-vaccine.html">New Zealand  Antivaccine Protest Gets More Violent</a> NYT: An occupation in the capital demonstrates the dangerous influence that American disinformation is having on otherwise stable democracies. 
  <p class="updated_time"> 01:18 AM CT, Feb. 23 </p> 
