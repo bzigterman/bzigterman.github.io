@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:33 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">Colombian Feminists Decriminalized Abortion With Help From Their Neighbors</a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
+ <p class="updated_time"> 04:44 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/asia/china-xi-jinping-world.html">How China and Xi Jinping Have Turned on the Outside World</a> NYT: Global engagement has helped the nation prosper. But now, its leader seems intent on recasting the meeting of minds and cultures as a zero-sum clash. 
+ <p class="updated_time"> 04:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go’</a> NYT: Russia says the leaders of two breakaway areas in Ukraine are requesting protection from Ukrainian forces. Members of Vladimir Putin’s circle are specifically targeted by sanctions. 
  <p class="updated_time"> 04:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
@@ -18,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/middleeast/iraj-pezeshkzad-dead.html">Iraj Pezeshkzad, Author of Classic Iranian Novel, Dies at 94</a> NYT: The satirical “My Uncle Napoleon” became a cultural touchstone that held up a mirror to his country, before the 1979 revolution sent the author into exile in Paris. 
  <p class="updated_time"> 04:02 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082637172/trudeau-revokes-emergency-powers-after-canada-blockades-end">Trudeau revokes emergency powers after Canada blockades end</a> NPR: On Friday, authorities launched the largest police operation in Canadian history, arresting at least 191 people and towing about about 80 vehicles until the streets in front of Parliament were clear. 
- <p class="updated_time"> 03:42 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">Colombian Feminists Decriminalized Abortion With Help From Their Neighbors</a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
  <p class="updated_time"> 03:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">For Many Russians, a Deep Unease Over Gathering Specter of War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 03:37 PM CT, Feb. 23 </p> 
@@ -68,8 +70,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 09:12 AM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">U.S., Europe Ramp Up Sanctions on Russia</a> WSJ: The EU has targeted Russia’s defense minister and the Internet Research Agency, as the West responds to Moscow’s recognition of two separatist regions in eastern Ukraine and the deployment of Russian forces into the area. 
- <p class="updated_time"> 09:03 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/asia/china-xi-jinping-world.html">How China and Xi Jinping Have Turned on the Outside World</a> NYT: Global engagement has helped the nation prosper. But now, its leader seems intent on recasting the meeting of minds and cultures as a zero-sum clash. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are hit by cyberattacks</a> NPR: A number of important websites in Ukraine — from those of large banks to the Ministry of Defence — were struck by denial-of-service attacks Wednesday. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
@@ -266,6 +266,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:01 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/squad-member-to-deliver-response-to-biden-sotu-00010877">Squad member to deliver response to Biden SOTU</a> Politico: Michigan Rep. Rashida Tlaib will give the speech on behalf of the left-wing group Working Families Party. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/republicans-foreign-policy-russia-ukraine-00010780">Republicans descend into foreign policy factionalism over Russia-Ukraine standoff</a> Politico: There is no unified pushback to Joe Biden as he confronts one of the trickiest international dilemmas of his presidency. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
  <p class="updated_time"> 04:09 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082495274/ahead-of-new-masking-guidelines-white-house-wants-to-stop-mixed-messages">Ahead of new masking guidelines, White House wants to stop mixed messages</a> NPR: In May, the last time the CDC released mask guidance, the messaging from the White House was a confusing mess. Public health experts say the White House needs to do a better job this time around. 
@@ -284,7 +286,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:55 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html">Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</a> NYT: Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there. 
  <p class="updated_time"> 07:54 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html">Putin Insulated Russia’s Economy. Will Biden’s Sanctions Hold Him Back in Ukraine?</a> NYT: President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia. 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html">Will Biden’s Sanctions Halt a Russian Invasion of Ukraine?</a> NYT: President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia. 
  <p class="updated_time"> 07:34 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/george-floyd-police-trial-00010863">Prosecutor: 3 cops in Floyd killing ‘chose to do nothing’</a> Politico: Defense attorneys countered that the three officers were inexperienced and not trained properly. 
  <p class="updated_time"> 07:32 PM CT, Feb. 22 </p> 
