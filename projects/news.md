@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:11 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
+ <p class="updated_time"> 11:09 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
+ <p class="updated_time"> 11:02 AM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kyiv urges citizens to leave Russia as fears mount</a> BBC: Millions of people are ordered to leave as Moscow's troops edge closer to the border. 
  <p class="updated_time"> 10:56 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging "false flag" incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
- <p class="updated_time"> 10:55 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
- <p class="updated_time"> 10:51 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show 100% Efficacy Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
  <p class="updated_time"> 10:41 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/uk-coronavirus-restrictions-vulnerable.html">For Some in England, End of Covid Rules Threatens More Isolation</a> NYT: Prime Minister Boris Johnson is abolishing Covid regulations to move “back towards normality.” But people at high risk from the disease say the move will constrict their lives instead. 
  <p class="updated_time"> 10:24 AM CT, Feb. 23 </p> 
@@ -28,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are reportedly hit by cyber attacks</a> NPR: A number of important websites in Ukraine came under attack by denial of service attacks Wednesday, including large banks to the defense ministry. 
- <p class="updated_time"> 07:11 AM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60490660?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin tells Russians security is non-negotiable</a> BBC: The Russian president praises the military as the US warns an invasion of Ukraine is beginning. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 06:05 AM CT, Feb. 23 </p> 
