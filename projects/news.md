@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:49 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
  <p class="updated_time"> 08:35 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: U.S. Flight Attendants Balk at Ending Mask Mandate on Planes</a> NYT: The Biden administration’s plan to lift mask requirements in March would endanger medically vulnerable travelers, a flight attendants’ union has said. 
- <p class="updated_time"> 08:35 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Prepares for State of Emergency as More Nations Order Sanctions on Russia</a> NYT: Australia and Japan on Wednesday imposed their own punishments as President Biden warned of further penalties if President Vladimir V. Putin doesn’t withdraw his forces. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukraine moves to declare a national state of emergency and calls up reservists</a> NPR: The move will clear the way for new measures to boost security — and to protect Ukraine's economy. Ukraine is also telling its citizens in Russia to leave immediately. 
  <p class="updated_time"> 07:11 AM CT, Feb. 23 </p> 
@@ -57,7 +57,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:47 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html">‘Dark Money’ Suddenly Dominates Australia’s Election</a> NYT: Chinese financing, unreported donations, payouts from coal barons: The new political season is shining an unaccustomed light on a culture of opacity. 
  <p class="updated_time"> 12:41 AM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/fast-spreading-covid-19-omicron-type-revives-questions-about-opening-up-11645616471">Fast-Spreading Covid-19 Omicron Type Revives Questions About Opening Up</a> WSJ: A more infectious type of the Omicron variant has surged to account for more than a third of global Covid-19 cases sequenced recently, adding to the debate about whether countries are ready for full reopening. 
+ <a href="https://www.wsj.com/articles/fast-spreading-covid-19-omicron-type-revives-questions-about-opening-up-11645616471">Fast-Spreading Omicron Type Revives Questions About Opening Up</a> WSJ: A more infectious type of the Omicron variant has surged to account for more than a third of global Covid-19 cases sequenced recently, adding to the debate about whether countries are ready for full reopening. 
  <p class="updated_time"> 12:12 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/climate/climate-change-un-wildfire-report.html">Climate Change Could Increase Risk of Wildfires 50% by Century's End</a> NYT: Worsening heat and dryness could lead to a 50 percent rise in off-the-charts fires, according to a United Nations report. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
