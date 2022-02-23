@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
+ <p class="updated_time"> 05:22 AM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: Hostage praised for ending Dutch drama</a> BBC: Police say they knocked down an armed man with a car after his hostage, reportedly British, escaped. 
  <p class="updated_time"> 05:13 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60490247?at_medium=RSS&at_campaign=KARANGA">Inventing Anna: Fake heiress drama tops Netflix ratings</a> BBC: The drama sets a record for the most hours viewed for an English-language series in a single week. 
  <p class="updated_time"> 05:12 AM CT, Feb. 23 </p> 
@@ -48,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 11:21 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
- <p class="updated_time"> 11:13 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: hostage-taker hit by police car</a> BBC: Police said they overpowered an armed man who took at least one hostage by hitting him with a car. 
  <p class="updated_time"> 11:05 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60488623?at_medium=RSS&at_campaign=KARANGA">K-pop: BTS agency Hybe grows profits by 31%</a> BBC: The Korean entertainment group saw high revenues from selling content such as games and comics. 
  <p class="updated_time"> 10:46 PM CT, Feb. 22 </p> 
@@ -194,7 +196,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:18 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/23/gop-pans-bidens-first-taste-of-sanctions-00010906">GOP pans Biden’s first taste of sanctions</a> Politico Playbook: And Biden reportedly interviews SCOTUS contenders. 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/23/gop-pans-bidens-first-taste-of-sanctions-00010906"> GOP pans Biden’s first taste of sanctions</a> Politico Playbook: And Biden reportedly interviews SCOTUS contenders. 
  <p class="updated_time"> 06:01 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/squad-member-to-deliver-response-to-biden-sotu-00010877">Squad member to deliver response to Biden SOTU</a> Politico: Michigan Rep. Rashida Tlaib will give the speech on behalf of the left-wing group Working Families Party. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
