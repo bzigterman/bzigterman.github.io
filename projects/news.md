@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:55 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
+ <p class="updated_time"> 02:47 AM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60490660?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin tells Russians security is non-negotiable</a> BBC: The Russian president praises the military as the US warns an invasion of Ukraine is beginning. 
  <p class="updated_time"> 02:44 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/sports/russia-ukraine-football.html">How Sanctions on Russia Could Affect Champions League and Top Soccer Clubs</a> NYT: The most vocal opposition has come from Britain, which could supply one or both of the final’s participants. 
  <p class="updated_time"> 02:06 AM CT, Feb. 23 </p> 
@@ -25,8 +29,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:26 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 11:21 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
- <p class="updated_time"> 11:21 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
  <p class="updated_time"> 11:13 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: hostage-taker hit by police car</a> BBC: Police said they overpowered an armed man who took at least one hostage by hitting him with a car. 
@@ -42,10 +44,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 09:57 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/trump-putin-russia-ukraine.html">Trump Refers to Russian Aggression Toward Ukraine as ‘Genius’</a> NYT: In a radio interview, the former president also described Russian troops along the Ukrainian border as peacekeepers. 
- <p class="updated_time"> 09:30 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60488037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden sanctions Russia over 'beginning of invasion'</a> BBC: The US president says he will go after Russia's Western financing and the country's "elites". 
  <p class="updated_time"> 08:59 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-speech-transcript.html">Here Is a Transcript of President Biden’s Speech on Russia</a> NYT: Here is a lightly edited transcript of the president’s speech announcing new sanctions. 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-ukraine-speech-transcript.html">Here Is a Transcript of President Biden’s Speech on Russia</a> NYT: Here is a lightly edited transcript of the president’s speech announcing new sanctions. 
  <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082478790/trump-praises-putin-as-savvy-amid-new-escalations-on-russia-ukraine-border">Trump praises Putin as 'savvy' amid new escalations on Russia-Ukraine border</a> NPR: The former president lauded the Russian strongman for his recent declarations on Ukraine, while criticizing U.S. President Biden as "man that has no concept of what he's doing." 
  <p class="updated_time"> 08:35 PM CT, Feb. 22 </p> 
@@ -54,6 +54,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html">Biden Calls Putin’s Actions ‘Beginning of a Russian Invasion of Ukraine'</a> NYT: President Biden condemned President Vladimir V. Putin for his aggression against Ukraine, saying the new sanctions cut off Russia from Western finance. 
  <p class="updated_time"> 08:20 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60412126?at_medium=RSS&at_campaign=KARANGA">Why Kenyan music is drowned out by Nigerian sounds</a> BBC: A Kenyan proposal hopes to cut the airplay time for foreign music to allow local artists to thrive. 
+ <p class="updated_time"> 08:18 PM CT, Feb. 22 </p> 
+ <a href="https://www.wsj.com/articles/chained-woman-in-china-was-sold-as-a-bride-twice-11645600686">Chained Woman in China Was Sold as a Bride Twice</a> WSJ: Officials gave details of the woman’s plight at the hands of human traffickers, responding to online anger. 
  <p class="updated_time"> 07:55 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html">Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</a> NYT: Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there. 
  <p class="updated_time"> 07:54 PM CT, Feb. 22 </p> 
@@ -80,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/kyiv-ukraine-military-casualties.html">In Kyiv, a Soldier’s Funeral and Vows of Defiance</a> NYT: Ukrainians have been preparing for a possible military escalation by Russia for months. They were somber but largely defiant. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082345068/why-luhansk-and-donetsk-are-key-to-understanding-the-latest-escalation-in-ukrain">Why Luhansk and Donetsk are key to understanding the latest escalation in Ukraine</a> NPR: The rebel-controlled territories, which comprise a larger eastern Ukraine region called Donbas that borders Russia, have been led by pro-Russia separatists for nearly a decade. 
- <p class="updated_time"> 05:05 PM CT, Feb. 22 </p> 
- <a href="https://www.wsj.com/articles/sanctions-against-russia-roll-out-west-says-more-could-come-11645554675">Sanctions Against Russia Roll Out; West Says More Could Come</a> WSJ: The European Union and U.K. are targeting banks and individuals, but the West hasn’t unleashed some options it signaled it was considering amid Russia’s moves into Ukraine. 
  <p class="updated_time"> 04:57 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html">Europe Sanctions Russia Over Ukraine Crisis, Coordinating Squeeze With the U.S.</a> NYT: The European Union, acting in tandem with the United States and Britain, hopes to restrain Moscow by keeping bigger penalties in reserve. 
  <p class="updated_time"> 04:49 PM CT, Feb. 22 </p> 
