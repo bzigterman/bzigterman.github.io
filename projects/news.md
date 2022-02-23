@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:44 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/sports/russia-ukraine-football.html">How Sanctions on Russia Could Affect Champions League and Top Soccer Clubs</a> NYT: The most vocal opposition has come from Britain, which could supply one or both of the final’s participants. 
  <p class="updated_time"> 02:06 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/bakari-henderson-killing-greece-retrial.html">Rare Retrial Begins in Killing of American in Greece</a> NYT: Bakari Henderson, of Texas, was beaten to death in 2017. The men convicted in his case were found guilty of assault, but prosecutors are trying again with murder charges. 
  <p class="updated_time"> 01:47 AM CT, Feb. 23 </p> 
@@ -189,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:44 AM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/business/minerals-electric-vehicles-supply.html">The U.S. is planning to boost supply of minerals needed for electric vehicles.</a> NYT: The White House effort is part of a push to reduce America’s dependence on foreign products, particularly those from China. 
  <p class="updated_time"> 11:22 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/23/1082484747/national-guard-to-help-d-c-control-traffic-for-truck-convoys">National Guard will help D.C. control traffic for truck convoys</a> NPR: The move comes in response to anticipated trucker convoys that aim to stage protests against pandemic restrictions. 
  <p class="updated_time"> 10:51 PM CT, Feb. 22 </p> 
@@ -301,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082172628/assessing-the-biden-administrations-progress-on-climate-change">Assessing the Biden administration's progress on climate change</a> NPR: NPR's Ari Shapiro talks with outgoing deputy climate envoy Jonathan Pershing about what the Biden administration has accomplished on climate change so far. 
  <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-harm-reduction-crack-pipes.html">Uproar Over ‘Crack Pipes’ Puts Biden Drug Strategy at Risk</a> NYT: President Biden has made “harm reduction” a central pillar of his plan to fight a record number of drug-related deaths, but a conservative backlash is threatening the effort. 
- <p class="updated_time"> 01:22 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/20/us/politics/sandy-hook-legal-victories.html">How Sandy Hook Families Achieved Long-Awaited Legal Victories</a> NYT: After early defeats in Congress, relatives of those lost in the 2012 shooting fought on, besting a renowned gun maker and an infamous conspiracy theorist. 
  <p class="updated_time"> 12:57 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/vulnerable-senate-democrats.html">The Senate’s Most Vulnerable Democrats</a> NYT: With inflation and President Biden’s sinking poll ratings beleaguering the party, incumbents in four battleground states — Arizona, Georgia, Nevada and New Hampshire — face tough campaigns. 
  <p class="updated_time"> 09:43 AM CT, Feb. 21 </p> 
