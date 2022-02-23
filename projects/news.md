@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:09 AM CT, Feb. 23 </p> 
+ <p class="updated_time"> 04:18 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
+ <p class="updated_time"> 04:15 AM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60492051?at_medium=RSS&at_campaign=KARANGA">US trucker convoys prompt National Guard deployment in Washington</a> BBC: Hundreds of unarmed troops will man traffic posts from Saturday ahead of the convoys' arrival. 
  <p class="updated_time"> 04:05 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082498160/wildfires-will-increase-and-worsen-globally-u-n-warns">Wildfires will increase and worsen globally, U.N. warns</a> NPR: The study being released on Wednesday warns of spikes in unhealthy smoke pollution and other problems coming from the increased threat of catastrophic wildfires. 
  <p class="updated_time"> 04:00 AM CT, Feb. 23 </p> 
@@ -164,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-60466237?at_medium=RSS&at_campaign=KARANGA">Deforestation threat to Amazon indigenous areas if protected status changed - report</a> BBC: It is illegal to mine these areas of the rainforest but the government wants to change the law. 
  <p class="updated_time"> 04:47 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-ukraine-russia.html">Putin Orders Forces to Russia-Backed Ukraine Regions</a> NYT: The moves by the Russian leader were his most blatant yet in a confrontation with the West that threatens to escalate into the biggest military action in Europe since World War II. 
- <p class="updated_time"> 03:25 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60458303?at_medium=RSS&at_campaign=KARANGA">Tonga volcano: Internet restored five weeks after eruption</a> BBC: The Pacific island nation was cut off from the world for weeks after an undersea volcano erupted. 
  <p class="updated_time"> 03:03 AM CT, Feb. 22 </p> 
  <a href="https://www.wsj.com/articles/mexican-president-lopez-obrador-goes-on-the-offensive-over-sons-use-of-luxury-home-11645531201">Mexican President Goes on Offensive Over Son's Use of Luxury Home</a> WSJ: Mexico’s President Andrés Manuel López Obrador is at the center of a scandal over his eldest son’s use of a luxury Houston house then owned by an oil executive for a top contractor of Mexico’s state-run oil firm. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
@@ -369,8 +369,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/16/senate-settles-for-dear-vladimir-00009350">Senate settles for Dear Vladimir</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Feb. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/16/exclusive-poll-answers-to-the-midterms-2-big-questions-00009342"> Exclusive poll: Answers to the midterm’s 2 big questions</a> Politico Playbook: And President Joe Biden says the West is "united and galvanized" amid the Ukraine-Russia tensions. 
- <p class="updated_time"> 04:30 AM CT, Feb. 16 </p> 
- <a href="https://www.politico.com/news/2022/02/16/trump-elections-congress-eca-00009229">A bipartisan deal to stop Trumpian election subversion? Not so fast.</a> Politico: Agreement on both sides has always been a bear in the Senate. That's no different when it comes to efforts to prevent a future Jan. 6. 
 
 
 </details>
