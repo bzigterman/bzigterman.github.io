@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go’</a> NYT: Russia says the leaders of two breakaway areas in Ukraine are requesting protection from Ukrainian forces. Members of Vladimir Putin’s circle are specifically targeted by sanctions. 
+ <p class="updated_time"> 04:29 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
+ <p class="updated_time"> 04:28 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi and GSK Say Their Vaccine Works Well Against Severe Disease</a> NYT: The vaccine is among the candidates that received billions of dollars in development from the U.S. government as part of a program to accelerate the creation of vaccines. 
  <p class="updated_time"> 04:19 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/middleeast/iraj-pezeshkzad-dead.html">Iraj Pezeshkzad, Author of Classic Iranian Novel, Dies at 94</a> NYT: The satirical “My Uncle Napoleon” became a cultural touchstone that held up a mirror to his country, before the 1979 revolution sent the author into exile in Paris. 
- <p class="updated_time"> 04:15 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go’</a> NYT: Russia says the leaders of two breakaway areas in Ukraine are requesting protection from Ukrainian forces. Members of Vladimir Putin’s circle are specifically targeted by sanctions. 
  <p class="updated_time"> 04:02 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082637172/trudeau-revokes-emergency-powers-after-canada-blockades-end">Trudeau revokes emergency powers after Canada blockades end</a> NPR: On Friday, authorities launched the largest police operation in Canadian history, arresting at least 191 people and towing about about 80 vehicles until the streets in front of Parliament were clear. 
- <p class="updated_time"> 03:53 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi and GSK Say Their Vaccine Works Well Against Severe Disease</a> NYT: The vaccine is among the candidates that received billions of dollars in development from the U.S. government as part of a program to accelerate the creation of vaccines. 
  <p class="updated_time"> 03:42 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">Colombian Feminists Decriminalized Abortion With Help From Their Neighbors</a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
  <p class="updated_time"> 03:39 PM CT, Feb. 23 </p> 
@@ -40,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging "false flag" incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
  <p class="updated_time"> 02:09 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/climate/climate-change-un-wildfire-report.html">Climate Change Could Increase Risk of Wildfires 50% by Century's End</a> NYT: Worsening heat and dryness could lead to a 50 percent rise in off-the-charts fires, according to a United Nations report. 
- <p class="updated_time"> 01:34 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
  <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
  <p class="updated_time"> 12:26 PM CT, Feb. 23 </p> 
@@ -199,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 05:02 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/redistricting-court-pennsylvania-north-carolina-00011083">State courts shake up Pennsylvania, North Carolina with new House lines</a> Politico: Courts are increasingly stepping in to draw new congressional lines in states this year. 
+ <p class="updated_time"> 04:55 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/biden-supreme-court-contenders-00011050">How Biden shaped the record of his own Supreme Court contenders</a> Politico: Thirty-plus years ago, then-Sen. Biden wanted judges to move faster on their case work. The plan he helped write may prove newly relevant. 
  <p class="updated_time"> 04:37 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099">The Pentagon is working on an algorithm to detect Covid early</a> Politico: Preliminary results from an experiment using fitness trackers show promise. 
  <p class="updated_time"> 04:37 PM CT, Feb. 23 </p> 
@@ -264,8 +266,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:01 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/squad-member-to-deliver-response-to-biden-sotu-00010877">Squad member to deliver response to Biden SOTU</a> Politico: Michigan Rep. Rashida Tlaib will give the speech on behalf of the left-wing group Working Families Party. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/republicans-foreign-policy-russia-ukraine-00010780">Republicans descend into foreign policy factionalism over Russia-Ukraine standoff</a> Politico: There is no unified pushback to Joe Biden as he confronts one of the trickiest international dilemmas of his presidency. 
- <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
  <p class="updated_time"> 04:09 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082495274/ahead-of-new-masking-guidelines-white-house-wants-to-stop-mixed-messages">Ahead of new masking guidelines, White House wants to stop mixed messages</a> NPR: In May, the last time the CDC released mask guidance, the messaging from the White House was a confusing mess. Public health experts say the White House needs to do a better job this time around. 
@@ -293,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/22/blinken-putin-plan-invading-ukraine-00010795">Blinken: Putin’s plan 'all along' has been to invade Ukraine</a> Politico: He also said his meeting with Russia's foreign minister has been canceled. 
  <p class="updated_time"> 05:48 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/economy/fed-interest-rates.html">Fed Officials Firm Up Plans for Swift Pullback of Economic Help</a> NYT: Officials have been preparing investors for a series of steady rate increases and a prompt start to Federal Reserve balance sheet shrinking. 
- <p class="updated_time"> 05:31 PM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/breonna-taylor-jury-trial-00010788">Jury seated in trial related to Breonna Taylor’s shooting</a> Politico: Brett Hankison is the only officer charged in the case. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
  <a href="https://www.cnn.com/2022/02/22/politics/biden-potential-supreme-court-nominees/index.html">Biden has met with at least three potential Supreme Court nominees; announcement expected soon</a> CNN: President Joe Biden has met with three potential Supreme Court nominees -- including Ketanji Brown Jackson, Leondra Kruger and J. Michelle Childs, multiple sources tell CNN. 
  <p class="updated_time"> 03:34 PM CT, Feb. 22 </p> 
@@ -313,6 +311,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Allies join U.S. in imposing sanctions pressure on Russia over Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:01 AM CT, Feb. 22 </p> 
  <a href="https://www.cnn.com/2022/02/22/politics/arizona-election-changes-ctzn/index.html">Arizona is ground zero for election changes</a> CNN: A version of this story appeared in the CITIZEN BY CNN newsletter. To get it in your inbox, sign up for free here. 
+ <p class="updated_time"> 10:05 AM CT, Feb. 22 </p> 
+ <a href="https://www.politico.com/news/2022/02/22/with-climate-agenda-stalled-biden-looks-to-infrastructure-law-00010382">His climate push stalled, Biden looks to infrastructure law</a> Politico: The $1.2 trillion package was designed to support long-term climate responses, but advocates say there could be short-term benefits, too. 
  <p class="updated_time"> 09:48 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082235826/supreme-court-to-reconsider-religious-objectors-refusal-to-serve-same-sex-couple">Supreme Court to consider case pitting religious rights against LGBTQ discrimination </a> NPR: In 2017, the court heard a very similar challenge to Colorado's anti-discrimination law from a baker who objected to creating  cakes for same-sex weddings. 
  <p class="updated_time"> 07:26 AM CT, Feb. 22 </p> 
@@ -333,8 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 09:27 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-putin.html">Inside Biden’s Race to Prevent War Between Russia and Ukraine</a> NYT: President Biden made three critical decisions about how to handle Russia’s provocations, aiming to prevent armed conflict in Ukraine. 
- <p class="updated_time"> 06:09 PM CT, Feb. 21 </p> 
- <a href="https://www.politico.com/news/2022/02/21/vladimir-putin-america-cold-war-00010454">‘Cold War, Part 2’: How Putin is dragging America back to the bad old days</a> Politico: Moscow has reoriented the strategic landscape, and is pulling the West reluctantly back into a drawn-out military and diplomatic standoff.  
  <p class="updated_time"> 05:25 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html">U.S. Troops in Poland Brace for Possible Ukrainian Evacuees</a> NYT: Tens of thousands of people, including Americans, could flee across the border if Russia launches a full invasion of Ukraine. 
  <p class="updated_time"> 05:07 PM CT, Feb. 21 </p> 
