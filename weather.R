@@ -106,9 +106,9 @@ champaign_forecast_tidy <- champaign_forecast %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(rain = {if("rain.3h" %in% names(.)) ifelse(is.na(rain.3h),
-                                                    0,rain.3h) else 0}) %>%
+                                                    0,rain.3h/3) else 0}) %>%
   mutate(snow = {if("snow.3h" %in% names(.)) ifelse(is.na(snow.3h),
-                                                    0,snow.3h) else 0}) %>%
+                                                    0,snow.3h/3) else 0}) %>%
   filter(central_time > now(tzone = "America/Chicago")+days(2))
 
 
