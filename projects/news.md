@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:59 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
+ <p class="updated_time"> 08:59 PM CT, Feb. 22 </p> 
+ <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-speech-transcript.html">Here Is a Transcript of President Biden’s Speech on Russia</a> NYT: Here is a lightly edited transcript of the president’s speech announcing new sanctions. 
+ <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082478790/trump-praises-putin-as-savvy-amid-new-escalations-on-russia-ukraine-border">Trump praises Putin as 'savvy' amid new escalations on Russia-Ukraine border</a> NPR: The former president lauded the Russian strongman for his recent declarations on Ukraine, while criticizing U.S. President Biden as "man that has no concept of what he's doing." 
  <p class="updated_time"> 08:35 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082478789/archaeologists-find-a-9-000-year-old-shrine-in-the-desert-in-jordan">Archaeologists find a 9,000-year-old shrine in the desert in Jordan</a> NPR: Researchers said the find "sheds an entire new light on the symbolism, artistic expression as well as spiritual culture of these hitherto unknown Neolithic populations." 
  <p class="updated_time"> 08:28 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/02/22/world/covid-19-tests-cases-vaccine">Covid Live Updates: Most N.Y. Voters in Poll Want More Data Before School Mask Mandate Ends</a> NYT: As England lifts rules, high-risk people fear more isolation. Hong Kong will enforce mass testing as cases soar. As many U.S. states move to end mask mandates, Hawaii and Puerto Rico remain outliers. 
- <p class="updated_time"> 08:25 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/02/22/world/russia-ukraine">Ukraine Live Updates: Biden Joins Europe in Punishing Russia With Sanctions</a> NYT: Washington and its allies called the Kremlin’s recognition of two separatist regions a blunt defiance of international law that risks war. Western officials said Russian troops have entered eastern Ukraine. 
  <p class="updated_time"> 08:25 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/biden-russia-sanctions.html">Biden Calls Putin’s Actions ‘Beginning of a Russian Invasion of Ukraine'</a> NYT: President Biden condemned President Vladimir V. Putin for his aggression against Ukraine, saying the new sanctions cut off Russia from Western finance. 
  <p class="updated_time"> 08:20 PM CT, Feb. 22 </p> 
@@ -33,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:17 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082461546/no-medals-for-2022-beijing-olympics-the-games-drew-their-lowest-u-s-ratings-ever">No medals for 2022 Beijing Olympics. The Games drew their lowest U.S. ratings ever</a> NPR: "This was probably the most difficult Olympics of all time," NBC Sports Chairman Pete Bevacqua said, citing "very harsh protocols in China" because of the COVID-19 pandemic. 
  <p class="updated_time"> 06:32 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60454685?at_medium=RSS&at_campaign=KARANGA">Karnataka: 'You take away my hijab - what's next?'</a> BBC: Indian Muslim women are angry and humiliated that an intensely personal choice has become so politicised. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60454685?at_medium=RSS&at_campaign=KARANGA">Karnataka: 'Wearing hijab is my right and you can't take it away'</a> BBC: Indian Muslim women are angry and humiliated that an intensely personal choice has become so politicised. 
  <p class="updated_time"> 06:09 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: Gun crime in New York City is up by a third compared to last year amid calls to defund police. 
  <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
@@ -152,14 +156,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 11:13 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/health/covid-vaccine-antibodies-t-cells.html">Got a Covid Booster? You Probably Won’t Need Another for a Long Time</a> NYT: A flurry of new studies suggests that several parts of the immune system can mount a sustained, potent response to any coronavirus variant. 
- <p class="updated_time"> 11:05 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/world/europe/france-street-noise.html">France Installs Sensors on Streets to Tackle 'Noise From Hell'</a> NYT: The French authorities are installing “sound radars” in some cities to detect and photograph vehicles making excessive noise, which they say is a public health hazard. 
  <p class="updated_time"> 11:01 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/americas/colombia-abortion.html">Colombia Decriminalizes Abortion, Bolstering Trend Across Region</a> NYT: The court’s decision follows years of organizing by women across Latin America for greater protections and more rights, and significant shifts in the region’s legal landscape. 
  <p class="updated_time"> 10:05 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082236222/colombias-highest-court-legalizes-abortion-up-to-24-weeks">Colombia's highest court legalizes abortion up to 24 weeks</a> NPR: The decision by the tribunal of nine judges fell short of the expectations of pro-choice groups that had been pushing for abortion to be completely decriminalized in Colombia. 
- <p class="updated_time"> 08:23 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082229612/canadian-lawmakers-extend-emergency-powers-act-for-truck-protests">Canadian lawmakers extend emergency powers act for truck protests</a> NPR: The act allows authorities to declare certain areas as no-go zones. It also allows police to freeze truckers' personal and corporate bank accounts and compel tow truck companies to haul away vehicles. 
  <p class="updated_time"> 06:02 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html">Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</a> NYT: A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II. 
  <p class="updated_time"> 06:01 PM CT, Feb. 21 </p> 
@@ -187,6 +187,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
+ <a href="https://www.npr.org/2022/02/22/1082478790/trump-praises-putin-as-savvy-amid-new-escalations-on-russia-ukraine-border">Trump praises Putin as 'savvy' amid new escalations on Russia-Ukraine border</a> NPR: The former president lauded the Russian strongman for his recent declarations on Ukraine, while criticizing U.S. President Biden as "man that has no concept of what he's doing." 
  <p class="updated_time"> 08:49 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/john-eastman-donald-trump-00010876">Fighting Jan. 6 committee, John Eastman details how he came into Trump’s post-election fold</a> Politico: The connection started two months before the 2020 election. 
  <p class="updated_time"> 08:23 PM CT, Feb. 22 </p> 
@@ -297,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/21/1082172628/assessing-the-biden-administrations-progress-on-climate-change">Assessing the Biden administration's progress on climate change</a> NPR: NPR's Ari Shapiro talks with outgoing deputy climate envoy Jonathan Pershing about what the Biden administration has accomplished on climate change so far. 
  <p class="updated_time"> 03:04 PM CT, Feb. 21 </p> 
  <a href="https://www.npr.org/2022/02/21/1082172509/florida-republicans-unhappy-over-everglades-restoration">Florida Republicans unhappy over Everglades restoration</a> NPR: The massive project to restore Florida's Everglades is getting new money from the infrastructure law. But some state Republicans are unhappy, saying a key part of the project was left out. 
- <p class="updated_time"> 02:41 PM CT, Feb. 21 </p> 
- <a href="https://www.npr.org/2022/02/21/1082107309/can-a-corporate-exec-speak-as-a-mom-about-covid-rules-consider-the-levis-saga">Can a corporate exec speak as a mom about COVID rules? Consider the Levi's saga</a> NPR: Jennifer Sey was on a path to potentially become the next Levi's CEO. Instead, she is out, igniting a debate over corporations and speech. 
  <p class="updated_time"> 02:39 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/biden-harm-reduction-crack-pipes.html">Uproar Over ‘Crack Pipes’ Puts Biden Drug Strategy at Risk</a> NYT: President Biden has made “harm reduction” a central pillar of his plan to fight a record number of drug-related deaths, but a conservative backlash is threatening the effort. 
  <p class="updated_time"> 01:22 PM CT, Feb. 21 </p> 
