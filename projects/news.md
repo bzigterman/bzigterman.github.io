@@ -10,10 +10,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:34 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin’s Inner Circle Targeted by E.U. Sanctions</a> NYT: New sanctions are expected to target Nord Stream 2 company. And, a look at how Russian troops closed in on Ukraine. 
+ <p class="updated_time"> 01:34 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
  <p class="updated_time"> 01:18 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
- <p class="updated_time"> 01:13 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
  <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
  <p class="updated_time"> 12:26 PM CT, Feb. 23 </p> 
@@ -192,11 +192,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:23 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/biden-pledge-black-woman-supreme-court-00010935">Biden pledge to put Black woman on Supreme Court followed Obama-era anger from activists</a> Politico: The campaign promise came after potential Black justices were repeatedly passed over. 
+ <a href="https://www.politico.com/news/2022/02/23/biden-pledge-black-woman-supreme-court-00010935">Why Obama didn't nominate a Black woman to the Supreme Court before Biden</a> Politico: Biden's campaign promise to nominate the first Black woman came after several potential Black justices were passed over under Obama. 
  <p class="updated_time"> 01:17 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Cooperating in Inquiry</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to an interview, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 01:02 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/be-yourself-boston-mayor-urges-diverse-candidates-to-stick-with-it-00010967">‘Be yourself’: Boston mayor urges diverse candidates to stick with it</a> Politico: “I've seen how quickly the dynamic can shift when there are more of us at the table,” said Michelle Wu, the city’s first elected leader who isn’t a white man. 
+ <a href="https://www.politico.com/news/2022/02/23/be-yourself-boston-mayor-urges-diverse-candidates-to-stick-with-it-00010967">Covid, legal woes and hate: Boston mayor threads early challenges</a> Politico: Michelle Wu is one of several new mayors across the country who burned early political capital responding to Covid. The backlash she’s faced has stunned her counterparts in other cities. 
  <p class="updated_time"> 12:53 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/magazine/clarence-thomas-ginni-thomas.html">The Long Crusade of Clarence and Ginni Thomas</a> NYT: The Supreme Court justice and his wife battled for years for a more conservative America. New reporting shows how far she was willing to go after Donald Trump’s 2020 election loss. 
  <p class="updated_time"> 12:44 PM CT, Feb. 23 </p> 
