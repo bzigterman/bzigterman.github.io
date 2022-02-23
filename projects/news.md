@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:18 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 03:29 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go’</a> NYT: Russia says the leaders of two breakaway areas in Ukraine are requesting protection from Ukrainian forces. Members of Vladimir Putin’s circle are specifically targeted by sanctions. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
- <p class="updated_time"> 03:17 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go Now’</a> NYT: Members of Vladimir Putin’s circle are specifically targeted by sanctions. And, a look at how Russian troops closed in on Ukraine. 
  <p class="updated_time"> 03:13 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">Colombian Feminists Decriminalized Abortion With Help From Their Neighbors</a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
  <p class="updated_time"> 03:07 PM CT, Feb. 23 </p> 
@@ -187,12 +187,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:25 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/us/truck-convoy-dc.html">A Truck Caravan With Far-Right Links Heads to Washington, D.C.</a> NYT: Many backers of the caravan, planned as an American version of last month’s chaotic Canadian protest, have connections to the violent attack on the Capitol in January 2021. 
  <p class="updated_time"> 03:21 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/doj-shuts-down-china-focused-anti-espionage-program-00011065">DOJ shuts down China-focused anti-espionage program</a> Politico: The China Initiative is being cast aside largely because of perceptions that it unfairly painted Chinese Americans and U.S. residents of Chinese origin as disloyal. 
  <p class="updated_time"> 03:16 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/justice-department-china-trump.html">Justice Dept. to End Trump-Era Initiative to Deter Chinese Threats</a> NYT: The agency will instead introduce a broader strategy meant to address threats from hostile nations. 
  <p class="updated_time"> 03:12 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/russian-forces-on-ukraine-border-literally-ready-to-go-now-u-s-official-warns-00011064">Russian forces on Ukraine border ‘literally ready to go now,’ U.S. official warns</a> Politico: The new comments underscore how immediate the Biden administration thinks the threat is. 
+ <p class="updated_time"> 03:09 PM CT, Feb. 23 </p> 
+ <a href="https://www.npr.org/2022/02/23/1082593735/justice-department-china-initiative">The Justice Department is ending its controversial China Initiative</a> NPR: The initiative aimed to counter China's theft of American secrets and technology, but critics said it created a climate of fear among Asian Americans. 
  <p class="updated_time"> 03:02 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/biden-troops-russia-ukraine-00011049">The line Biden won’t cross on Ukraine</a> Politico: The president says he won’t send American troops to battle Russian forces in Ukraine. That, some critics say, is a stance Russia will exploit and China will remember. 
  <p class="updated_time"> 02:51 PM CT, Feb. 23 </p> 
@@ -205,8 +209,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/who-is-ketanji-brown-jackson-bio-facts-background-political-views-00010970">Ketanji Brown Jackson: Who is she? Bio, facts, background and political views</a> Politico: The Washington, D.C., native replaced Attorney General Merrick Garland on the D.C. Circuit Court of Appeals. 
  <p class="updated_time"> 02:35 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/u-s-russia-still-friends-in-space-for-now-00010952">As Ukraine crisis deepens, U.S. and Russia maintain fragile peace in space</a> Politico: Officials hope that cooperation on the International Space Station can withstand the latest rupture on Earth. 
- <p class="updated_time"> 02:25 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/truck-convoy-dc.html">A Truck Caravan With Far-Right Links Heads to Washington, D.C.</a> NYT: Many backers of the caravan, planned as an American version of last month’s chaotic Canadian protest, have connections to the violent attack on the Capitol in January 2021. 
  <p class="updated_time"> 02:24 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/supreme-court-public-charge-rule.html">Supreme Court Weighs Whether States May Defend a Trump Immigration Policy</a> NYT: After the Biden administration abandoned the policy, which tightened the “public charge” rule for green card applicants, Republican-led states sought to intervene. 
  <p class="updated_time"> 01:23 PM CT, Feb. 23 </p> 
@@ -293,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082283039/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-account">The IRS is allowing taxpayers to opt out of facial recognition to verify accounts</a> NPR: The tax collecting agency has backed away from requiring all users with individual accounts to submit selfies to a private company. 
  <p class="updated_time"> 01:03 PM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/news/2022/02/22/three-men-convicted-of-arbery-murder-found-guilty-of-federal-hate-crimes-00010644">Arbery killers found guilty of federal hate crimes</a> Politico: “As a mom, I will never heal,” said Wanda Cooper-Jones, Arbery's mother, at a press conference after the verdict was delivered. 
- <p class="updated_time"> 12:23 PM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/pentagon-national-guard-trucker-protests-00010653">Pentagon weighs request for D.C. National Guard help ahead of trucker protests</a> Politico: Several trucker convoys protesting coronavirus restrictions are slated to begin arriving in the D.C. area this week. 
  <p class="updated_time"> 11:13 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082308773/biden-russia-ukraine-updates">Allies join U.S. in imposing sanctions pressure on Russia over Ukraine</a> NPR: The president called Russia's recognition of two Ukrainian regions a "flagrant violation of international law" and announced sanctions targeting Russia's ability to do business with the West. 
  <p class="updated_time"> 11:01 AM CT, Feb. 22 </p> 
@@ -315,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082250086/truth-social-donald-trumps-social-media-app-launches-year-after-twitter-ban">Truth Social, Donald Trump's social media app, launches year after Twitter ban</a> NPR: Over a year ago, former President Donald Trump got booted from social media sites owned by Meta and Twitter. He vowed to create his own, and Truth Social launched on Monday. 
  <p class="updated_time"> 04:14 AM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082250051/morning-news-brief">News brief: Russia faces sanctions, Russia sends 'peacekeepers' to Ukraine, Trump app</a> NPR: U.S. imposes sanctions after Moscow recognizes two enclaves in Ukraine as independent. Ukraine says internationally recognized borders would remain that way. Donald Trump launches a social media app. 
- <p class="updated_time"> 04:01 AM CT, Feb. 22 </p> 
- <a href="https://www.npr.org/2022/02/22/1082158009/pennsylvania-democrats-are-angling-to-distinguish-themselves-in-a-key-senate-con">Pennsylvania Democrats are angling to distinguish themselves in a key Senate contest</a> NPR: Lt. Gov. John Fetterman, whose image is that of the anti-politician, is the early front-runner in the Democratic primary for the state's open seat. Conor Lamb and Malcolm Kenyatta are top challengers. 
  <p class="updated_time"> 12:13 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/21/us/politics/russia-ukraine-biden-response.html">U.S. Offers Limited Initial Response to Russia as It Weighs Stiffer Sanctions</a> NYT: President Biden faces the challenge of maintaining unity with allies as he seeks to balance deterrence and punishment in dealing with President Vladimir Putin of Russia. 
  <p class="updated_time"> 09:27 PM CT, Feb. 21 </p> 
