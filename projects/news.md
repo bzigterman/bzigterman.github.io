@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:34 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin’s Inner Circle Targeted by E.U. Sanctions</a> NYT: New sanctions are expected to target Nord Stream 2 company. And, a look at how Russian troops closed in on Ukraine. 
  <p class="updated_time"> 01:18 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Sanofi-GSK Vaccine Results Show It’s Highly Protective Against Severe Disease, Its Makers Say</a> NYT: The vaccine, made by the Europe-based pharmaceutical companies Sanofi and GSK, is one of four candidates that received billions of dollars for development from Operation Warp Speed, the Trump administration’s program to accelerate vaccines. 
- <p class="updated_time"> 01:13 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin’s Inner Circle Targeted by E.U. Sanctions</a> NYT: New sanctions are expected to target Nord Stream 2 company. And, a look at how Russian troops closed in on Ukraine. 
  <p class="updated_time"> 01:13 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The list appears to have been compiled in coordination with American officials, who were drawing up their own set of sanctions. 
  <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
