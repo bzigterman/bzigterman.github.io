@@ -168,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/21/world/asia/japan-sado-island-unesco-heritage.html">Japan Wants to Showcase Gold Mines’ History. Just Not All of It.</a> NYT: A bid for a UNESCO World Heritage designation is the latest flash point between Japan and South Korea over Japanese colonial abuses during World War II. 
  <p class="updated_time"> 06:01 PM CT, Feb. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60431188?at_medium=RSS&at_campaign=KARANGA">Ayodhya: The neglected shrines of India's grand temple town</a> BBC: The holy city of Ayodhya is gearing up for a grand new temple, but many smaller shrines lie neglected. 
- <p class="updated_time"> 05:25 PM CT, Feb. 21 </p> 
- <a href="https://www.nytimes.com/2022/02/21/us/politics/ukraine-military-poland-refugees.html">U.S. Troops in Poland Brace for Possible Ukrainian Evacuees</a> NYT: Tens of thousands of people, including Americans, could flee across the border if Russia launches a full invasion of Ukraine. 
  <p class="updated_time"> 05:08 PM CT, Feb. 21 </p> 
  <a href="https://www.nytimes.com/2022/02/21/world/europe/putin-speech-transcript.html">Highlights From Putin's Address on Breakaway Regions in Ukraine</a> NYT: President Vladimir V. Putin said he would recognize the independence of two Russia-backed territories in eastern Ukraine. Here are highlights from his 40-minute speech. 
  <p class="updated_time"> 04:50 PM CT, Feb. 21 </p> 
