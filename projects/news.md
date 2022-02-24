@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:22 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 11:36 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Pushes Into Area Around Chernobyl, Ukraine Officials Say</a> NYT: The advance, part of a multipronged Russian assault against Ukraine, risked damaging the cement-encased nuclear reactor that melted down in 1986. 
+ <p class="updated_time"> 11:34 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-expats-invasion-protest.html">Ukrainians Abroad Talk of Shock and Disbelief as Homeland Is Invaded</a> NYT: Across Europe, Ukrainian expatriates looked on in horror at the scenes of destruction back home, and expressed feelings of hopelessness. 
+ <p class="updated_time"> 11:25 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/business/economy/russia-ukraine-global-us-economy.html">The US Economy and The Russian-Ukraine Conflict: What Does it Mean?</a> NYT: The Russian attack on Ukraine could push up oil and food prices globally at a time of already-high inflation. In the U.S., it will drive up uncertainty. 
+ <p class="updated_time"> 11:24 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/africa-who-covid-vaccine.html">African Countries Gaining Control of Covid Vaccine Supplies </a> NYT: Since January, the countries have been able to request the Covid vaccines they need from the W.H.O. directly, and in what quantity and when. 
+ <p class="updated_time"> 11:23 AM CT, Feb. 24 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/02/24/1082795427/photos-show-the-calamity-as-russia-invades-ukraine">Photos show the calamity as Russia invades Ukraine</a> NPR: Kyiv and Kharkiv are among the many cities that were attacked by rockets. 
  <p class="updated_time"> 11:07 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/ukraine-what-happens-next.html">What Happens Next for Rest of World in Ukraine Crisis</a> NYT: Europe faces a new refugee crisis, and harsh economic penalties to punish Russia are expected to reverberate worldwide. 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/ukraine-russia-whats-next.html">Ukraine Crisis: What Happens Next for the Rest of the World?</a> NYT: Europe faces a new refugee crisis, and harsh economic penalties to punish Russia are expected to reverberate worldwide. 
  <p class="updated_time"> 11:05 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/eastern-ukraine-scenes-russia.html">Scenes From Eastern Ukraine as Russia Strikes</a> NYT: Residents of the country’s Donetsk region, accustomed to conflict and violence, are desperate after Russia launched military attacks. 
  <p class="updated_time"> 11:05 AM CT, Feb. 24 </p> 
@@ -25,9 +33,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:50 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60514698?at_medium=RSS&at_campaign=KARANGA">Noor Muqaddam: Diplomat's daughter beheaded for spurning proposal</a> BBC: A man is sentenced to death for raping and murdering Noor Muqaddam at his home in Islamabad. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden is expected to announce new sanctions after Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House could also target banks and export controls, which would cut Russia off from critical technology like semiconductors. 
+ <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden is expected to announce new sanctions as Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House could also target banks and export controls, which would cut Russia off from critical technology like semiconductors. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008225573/kyiv-ukraine-russia-bombing.html">After Attack on Ukraine, Residents Flee West</a> NYT: Families fleeing Thursday’s attack in Kyiv were stuck in traffic for miles on the capital’s longest avenue, as they tried to escape the advancement of Russian troops. 
+ <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/russia-ukraine-pentagon.html">Pentagon Offers Grim Assessment of Early Stages of Russian Invasion</a> NYT: Russian military forces are moving to decapitate the Ukrainian government in Kyiv, the Pentagon said. 
  <p class="updated_time"> 10:07 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
  <p class="updated_time"> 10:04 AM CT, Feb. 24 </p> 
@@ -66,6 +76,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/kharkiv-russia.html">Why is Kharkiv, Ukraine’s Second-Largest City, a Major Target of Russia</a> NYT: In the Kremlin’s view, the city demonstrates the folly of Ukraine trying to live apart from Russia. 
  <p class="updated_time"> 06:35 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/pakistans-leader-is-in-moscow-to-meet-with-putin-about-a-gas-pipeline.html">Pakistan’s leader is in Moscow to meet with Putin about a gas pipeline.</a> NYT: Prime Minister Imran Khan’s long-planned visit began hours before Russian forces attacked Ukraine. 
+ <p class="updated_time"> 06:30 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/biden-expected-to-detail-harsh-sanctions-on-russia-after-putin-attacks-ukraine-11645711417">Biden Expected to Detail Harsh Sanctions on Russia After Putin Attacks Ukraine</a> WSJ: President Biden convened a meeting of his National Security Council in the White House Situation Room, and he is planning to participate in a virtual meeting with leaders of the Group of Seven countries. 
  <p class="updated_time"> 06:29 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60492860?at_medium=RSS&at_campaign=KARANGA">How hard will it be to defend Ukraine from Russian invasion?</a> BBC: Ukraine is outgunned and outnumbered - and the invasion by Russian forces threatens to be bloody. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
@@ -82,16 +94,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60509373?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My mother said war has started' - resident fleeing capital</a> BBC: People in Kyiv speak to the BBC as they leave the city for other parts of the country. 
  <p class="updated_time"> 05:18 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/navalny-russia-ukraine.html">Navalny Condemns Putin's Invasion of Ukraine</a> NYT: The opposition politician accused the Russian leader of using the attack to divert attention away from the country’s own internal problems. 
- <p class="updated_time"> 05:11 AM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/biden-expected-to-detail-harsh-sanctions-on-russia-after-putin-attacks-ukraine-11645711417">Biden Expected to Detail Harsh Sanctions on Russia After Putin Attacks Ukraine</a> WSJ: President Biden convened a meeting of his National Security Council in the White House Situation Room, and he is planning to participate in a virtual meeting with leaders of the Group of Seven countries. 
  <p class="updated_time"> 04:51 AM CT, Feb. 24 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-scrambles-prospects-for-global-economy-11645699066">Russian Invasion Scrambles Prospects for Global Economy</a> WSJ: The attack on Ukraine heaps fresh risks on a global economy struggling with soaring inflation, supply-chain snarls and a rocky recovery from the pandemic. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60508121?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions and gunfire heard after Russia launches invasion</a> BBC: Russian forces launch a major military assault, with reports of missile strikes and explosions near major cities. 
  <p class="updated_time"> 04:12 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1081252187/bitcoin-cryptocurrency-china-us">How the U.S. benefits when China turns its back on Bitcoin</a> NPR: Until the middle of last year, most cryptocurrency mining took place in China. Then authorities pulled the plug. So Chinese bitcoin miners began moving their gear to U.S. towns like Kearney, Nebraska. 
- <p class="updated_time"> 04:01 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/poland-covid-restrictions.html">Poland Will Lift Most Remaining Covid Restrictions </a> NYT: The move is a turnaround for the Eastern European nation, which was among a handful of countries in the region that were hit especially hard by earlier variants. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082449712/ukraine-russia-putin-biden-invasion-diplomacy">The strategy behind Russia's sarcastic tone toward the West</a> NPR: Sarcasm isn't a typical approach to diplomacy, but it is one that Russia often takes. While it may seem humorous in the moment, the larger strategy affects how people view the conflict in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
@@ -124,8 +132,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-ukraine-mercenaries.html">Russian Mercenaries Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
  <p class="updated_time"> 09:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
- <p class="updated_time"> 07:59 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The measures, coinciding with new U.S. moves, were designed to hurt individuals but not average Russians. But more will follow if Russia fully invades Ukraine. 
  <p class="updated_time"> 07:17 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/asia/china-xi-jinping-world.html">How China and Xi Jinping Have Turned on the Outside World</a> NYT: Global engagement has helped the nation prosper. But now, its leader seems intent on recasting the meeting of minds and cultures as a zero-sum clash. 
  <p class="updated_time"> 06:50 PM CT, Feb. 23 </p> 
@@ -142,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: Man arrested over hostage standoff dies</a> BBC: A 27-year-old man who launched a hostage situation at an Apple store has died in hospital. 
  <p class="updated_time"> 04:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/arts/chess-magnus-carlsen-rameshbabu-praggnanandhaa.html">Rameshbabu Praggnanandhaa Defeats Chess World Champion Magnus Carlsen</a> NYT: While it did not affect the reigning champion’s title, Rameshbabu Praggnanandhaa of India defeated Carlsen in the middle of the night during a rapid online tournament, stunning the chess world. 
- <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/business/economy/russia-ukraine-global-us-economy.html">The US Economy and The Russian-Ukraine Conflict: What Does it Mean?</a> NYT: A Russian invasion of Ukraine could push up oil and food prices globally at a time of already-high inflation. In the U.S., it will drive up uncertainty. 
  <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">How Colombian Feminists Decriminalized Abortion </a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
  <p class="updated_time"> 04:19 PM CT, Feb. 23 </p> 
@@ -180,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082498160/wildfires-will-increase-and-worsen-globally-u-n-warns">Wildfires will increase and worsen globally, U.N. warns</a> NPR: The study being released on Wednesday warns of spikes in unhealthy smoke pollution and other problems coming from the increased threat of catastrophic wildfires. 
  <p class="updated_time"> 04:00 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082370619/migration-climate-change-disaster">The first step to preparing for surging climate migration? Defining it</a> NPR: Anywhere from tens of millions to a billion people could become climate migrants by 2050, according to a report from the RAND Corporation. The number varies widely depending on the definition used. 
- <p class="updated_time"> 10:46 PM CT, Feb. 22 </p> 
- <a href="https://www.npr.org/2022/02/22/1082483555/tongas-internet-restored-5-weeks-after-big-eruption">Tonga's internet is restored 5 weeks after big volcanic eruption</a> NPR: The restoration of the internet comes as the South Pacific island nation grapples with its first outbreak of the coronavirus. 
  <p class="updated_time"> 08:20 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60412126?at_medium=RSS&at_campaign=KARANGA">Why Kenyan music is drowned out by Nigerian sounds</a> BBC: A Kenyan proposal hopes to cut the airplay time for foreign music to allow local artists to thrive. 
  <p class="updated_time"> 06:32 PM CT, Feb. 22 </p> 
@@ -203,14 +205,18 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 11:50 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/biden-foreign-policy-doctrine-stress-test-00011385">The Biden foreign policy doctrine comes under a stress test</a> Politico: The White House and allies believe the Republican disagreements over Ukraine have given them some political wiggle room. 
+ <p class="updated_time"> 11:25 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/business/economy/russia-ukraine-global-us-economy.html">The US Economy and The Russian-Ukraine Conflict: What Does it Mean?</a> NYT: The Russian attack on Ukraine could push up oil and food prices globally at a time of already-high inflation. In the U.S., it will drive up uncertainty. 
  <p class="updated_time"> 11:23 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/24/1082795427/photos-show-the-calamity-as-russia-invades-ukraine">Photos show the calamity as Russia invades Ukraine</a> NPR: Kyiv and Kharkiv are among the many cities that were attacked by rockets. 
  <p class="updated_time"> 11:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/kevin-mcarthy-speaker.html">Courting G.O.P.’s Mainstream and Extreme, McCarthy Plots Rise to Speaker</a> NYT: The top House Republican is attempting a series of political contortions to try to secure his place in a party that has shifted under his feet. 
  <p class="updated_time"> 11:07 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/ukraine-what-happens-next.html">What Happens Next for Rest of World in Ukraine Crisis</a> NYT: Europe faces a new refugee crisis, and harsh economic penalties to punish Russia are expected to reverberate worldwide. 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/ukraine-russia-whats-next.html">Ukraine Crisis: What Happens Next for the Rest of the World?</a> NYT: Europe faces a new refugee crisis, and harsh economic penalties to punish Russia are expected to reverberate worldwide. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden is expected to announce new sanctions after Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House could also target banks and export controls, which would cut Russia off from critical technology like semiconductors. 
+ <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/russia-ukraine-pentagon.html">Pentagon Offers Grim Assessment of Early Stages of Russian Invasion</a> NYT: Russian military forces are moving to decapitate the Ukrainian government in Kyiv, the Pentagon said. 
  <p class="updated_time"> 10:28 AM CT, Feb. 24 </p> 
  <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
  <p class="updated_time"> 10:25 AM CT, Feb. 24 </p> 
@@ -269,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/biden-supreme-court-contenders-00011050">How a 1990 law Biden helped pass gives us a clue about his SCOTUS pick</a> Politico: Then-Sen. Biden wanted judges to move faster on their case work. The plan he helped write may prove newly relevant. 
  <p class="updated_time"> 04:47 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/truck-convoy-dc.html">A Truck Caravan With Far-Right Links Heads to Washington, D.C.</a> NYT: Many backers of the caravan, planned as an American version of the past month’s chaotic Canadian protest, have connections to the violent attack on the Capitol in January 2021. 
- <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/business/economy/russia-ukraine-global-us-economy.html">The US Economy and The Russian-Ukraine Conflict: What Does it Mean?</a> NYT: A Russian invasion of Ukraine could push up oil and food prices globally at a time of already-high inflation. In the U.S., it will drive up uncertainty. 
  <p class="updated_time"> 04:02 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082637172/trudeau-revokes-emergency-powers-after-canada-blockades-end">Trudeau revokes emergency powers after Canada blockades end</a> NPR: On Friday, authorities launched the largest police operation in Canadian history, arresting at least 191 people and towing about about 80 vehicles until the streets in front of Parliament were clear. 
  <p class="updated_time"> 03:59 PM CT, Feb. 23 </p> 
@@ -309,8 +313,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082335518/florida-has-become-the-gops-favorite-destination-and-not-just-for-its-beaches">Florida has become the GOP's favorite destination, and not just for its beaches</a> NPR: Florida has become go-to for Republican politicians holding meetings and fundraisers. Part of it is the relaxed COVID restrictions, but warm weather and political winds are big draws, too. 
  <p class="updated_time"> 11:22 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/23/1082484747/national-guard-to-help-d-c-control-traffic-for-truck-convoys">National Guard will help D.C. control traffic for truck convoys</a> NPR: The move comes in response to anticipated trucker convoys that aim to stage protests against pandemic restrictions. 
- <p class="updated_time"> 10:51 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/republican-candidates-split-over-ukraine-russia-crisis.html">Republican Candidates Split Over Ukraine-Russia Crisis</a> NYT: In Ohio, two Republicans running for Senate have taken sharply different positions, offering a clear view of the party’s rift over foreign policy. 
  <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082478790/trump-praises-putin-as-savvy-amid-new-escalations-on-russia-ukraine-border">Trump praises Putin as 'savvy' amid new escalations on Russia-Ukraine border</a> NPR: The former president lauded the Russian strongman for his recent declarations on Ukraine, while criticizing U.S. President Biden as "man that has no concept of what he's doing." 
  <p class="updated_time"> 07:54 PM CT, Feb. 22 </p> 
