@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:33 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 08:54 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Dozens of Ukrainian soldiers are killed as the government vowed an “all-out defense.” NATO’s secretary general condemned the “reckless and unprovoked attack” by Russia. 
- <p class="updated_time"> 08:14 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 08:53 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/russian-helicopter-attack-video.html">See Video of Russian Helicopters Attacking an Airport Near Kyiv</a> NYT: Footage verified by The Times shows the most intense fighting seen so far near Ukraine’s capital, Kyiv. 
+ <p class="updated_time"> 08:44 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
+ <p class="updated_time"> 08:35 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/europe-protests-ukraine-russia.html">European Protests Call for End to Russian Invasion of Ukraine</a> NYT: Demonstrators gathered in several European capitals to voice support for Ukraine. 
+ <p class="updated_time"> 08:35 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/us-troops-poland-ukraine-russia.html">U.S. Troops in Poland Prepare for Arrival of Refugees From Ukraine</a> NYT: Polish officials say their border is open and they are ready to provide shelter to anyone fleeing the conflict. 
+ <p class="updated_time"> 08:20 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia's attack in maps</a> BBC: Russia has launched a major offensive on three fronts. 
  <p class="updated_time"> 07:25 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
  <p class="updated_time"> 07:25 AM CT, Feb. 24 </p> 
@@ -22,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/russia-sanctions-european-union.html">EU Considering Omitting Putin for Now as it Weighs New Russia Sanctions</a> NYT: Some members, including Germany, advocated not including him so that dialogue was still possible with Russia’s top leadership. 
  <p class="updated_time"> 07:06 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60504334?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What we know about the invasion</a> BBC: Russia has launched a large-scale military attack on its southern neighbour - here's what we know. 
- <p class="updated_time"> 07:03 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/us-troops-poland-ukraine-russia.html">U.S. Troops in Poland Prepare for Arrival of Refugees From Ukraine</a> NYT: Processing centers near the border will help deal with tens of thousands of people, including Americans, who are expected to flee neighboring Ukraine. 
  <p class="updated_time"> 07:01 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
  <p class="updated_time"> 06:56 AM CT, Feb. 24 </p> 
@@ -60,12 +66,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60508121?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions and gunfire heard after Russia launches invasion</a> BBC: Russian forces launch a major military assault, with reports of missile strikes and explosions near major cities. 
  <p class="updated_time"> 04:12 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1081252187/bitcoin-cryptocurrency-china-us">How the U.S. benefits when China turns its back on Bitcoin</a> NPR: Until the middle of last year, most cryptocurrency mining took place in China. Then authorities pulled the plug. So Chinese bitcoin miners began moving their gear to U.S. towns like Kearney, Nebraska. 
- <p class="updated_time"> 04:01 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/poland-covid-restrictions.html">Poland Will Lift Most Remaining Covid Restrictions </a> NYT: The move is a turnaround for the Eastern European nation, which was among a handful of countries in the region that were hit especially hard by earlier variants. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082449712/ukraine-russia-putin-biden-invasion-diplomacy">The strategy behind Russia's sarcastic tone towards the West</a> NPR: Sarcasm isn't a typical approach to diplomacy, but it is one that Russia often takes. While it may seem humorous in the moment, the larger strategy affects how people view the conflict in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
+ <p class="updated_time"> 03:44 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: The measures are expected to target Russian banks and debt and ban exports of technology critical to industry. 
  <p class="updated_time"> 03:22 AM CT, Feb. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
  <p class="updated_time"> 03:22 AM CT, Feb. 24 </p> 
@@ -86,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Eve of War, No Exodus From Ukraine, Only Anxiety and Disbelief</a> NYT: When Russian troops moved into eastern Ukraine, some began to travel westward, filled with doubt about the future but saying they planned — or hoped — to return. 
  <p class="updated_time"> 11:52 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/24/1082716731/emergency-u-n-meeting-is-interrupted-by-russias-invasion-of-ukraine">Emergency U.N. meeting is interrupted by Russia's invasion of Ukraine</a> NPR: The urgent U.N. Security Council meeting was meant as an eleventh hour effort to dissuade Russia from sending troops into Ukraine. But the message became moot even as it was being delivered. 
- <p class="updated_time"> 11:50 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: The measures are expected to target Russian banks and debt and ban exports of technology critical to industry. 
  <p class="updated_time"> 11:03 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russia-invasion.html">Putin Announces Start to ‘Military Operation’ Against Ukraine</a> NYT: “The invasion has begun,” Ukraine’s Interior Ministry said. Putin says he seeks “demilitarization” of Ukraine but has no plans to occupy it. 
  <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
@@ -187,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:53 AM CT, Feb. 24 </p> 
+ <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
  <p class="updated_time"> 08:29 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/kevin-mcarthy-speaker.html">Courting G.O.P.’s Mainstream and Extreme, McCarthy Plots Rise to Speaker</a> NYT: The top House Republican is attempting a series of political contortions to try to secure his place in a party that has shifted under his feet. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
@@ -195,8 +201,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082749756/additional-global-sanctions-will-be-a-blow-to-putin-sen-klobuchar-says">Additional global sanctions will be a blow to Putin, Sen. Klobuchar says</a> NPR: NPR's Rachel Martin talks to Democratic Sen. Amy Klobuchar of Minnesota about Russia's invasion of Ukraine, and how Congress plans to punish Russian President Vladimir Putin. 
  <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/24/war-in-europe-00011319"> War in Europe</a> Politico Playbook: And Rick Scott kicks off an ad campaign for his policy platform. 
- <p class="updated_time"> 06:07 AM CT, Feb. 24 </p> 
- <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
@@ -213,10 +217,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/24/lawmakers-of-both-parties-condemn-russias-invasion-00011313">Lawmakers of both parties condemn Russia's invasion</a> Politico: “﻿Putin must be made to rue the day," one senator said. 
  <p class="updated_time"> 12:33 AM CT, Feb. 24 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 11:03 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russia-invasion.html">Putin Announces Start to ‘Military Operation’ Against Ukraine</a> NYT: “The invasion has begun,” Ukraine’s Interior Ministry said. Putin says he seeks “demilitarization” of Ukraine but has no plans to occupy it. 
  <p class="updated_time"> 11:01 PM CT, Feb. 23 </p> 
  <a href="https://subscriber.politicopro.com/article/2022/02/explosions-in-ukraine-follow-putins-declaration-of-a-special-military-operation-00011238">Russia attacks Ukraine</a> Politico: Russia launched a widespread invasion of Ukraine following months of failed Western diplomatic entreaties aimed at de-escalation. 
- <p class="updated_time"> 10:47 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/united-nations-russia-ukraine-00011239">U.S. ambassador pleads for peace at United Nations</a> Politico: But her statement coincided with Vladimir Putin's invasion declaration. 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
  <p class="updated_time"> 10:11 PM CT, Feb. 23 </p> 
@@ -277,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/biden-pledge-black-woman-supreme-court-00010935">Why Obama didn't nominate a Black woman to the Supreme Court before Biden</a> Politico: Biden's campaign promise to nominate the first Black woman came after several potential Black justices were passed over under Obama. 
  <p class="updated_time"> 12:44 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/scotts-rescue-america-plan-falls-flat-00011004">Scott’s ‘Rescue America’ plan falls flat</a> Politico: Privately, officials from some top GOP campaigns mocked the plan, questioning why the Florida senator released it in the first place. 
- <p class="updated_time"> 12:01 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/22/business/minerals-electric-vehicles-supply.html">The U.S. is planning to boost supply of minerals needed for electric vehicles.</a> NYT: The White House effort is part of a push to reduce America’s dependence on foreign products, particularly those from China. 
  <p class="updated_time"> 10:31 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/north-carolina-cawthorn-constitution-insurrectionists-00010944">North Carolina officials reject Cawthorn claim that Constitution’s insurrectionist ban no longer applies</a> Politico: The case is an important early test for those seeking to impose consequences on members of Congress who embraced false claims about the 2020 election results. 
  <p class="updated_time"> 07:35 AM CT, Feb. 23 </p> 
