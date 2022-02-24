@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:33 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Dozens of Ukrainian soldiers are killed as the government vowed an “all-out defense.” NATO’s secretary general condemned the “reckless and unprovoked attack” by Russia. 
  <p class="updated_time"> 07:33 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
@@ -49,7 +49,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:12 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/eastern-ukraine-scenes-russia.html">Scenes From Eastern Ukraine as Russia Strikes</a> NYT: Residents of the country’s Donetsk region, accustomed to conflict and violence, are desperate after Russia launched military attacks. 
  <p class="updated_time"> 05:53 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506712?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kyiv residents seek shelter as blasts hit</a> BBC: People take cover in air raid shelters as Ukraine's capital is hit by the first bombs since World War Two. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506712?at_medium=RSS&at_campaign=KARANGA">'I'm very scared' - Kyiv residents wake to war</a> BBC: People take cover in air raid shelters as Ukraine's capital is hit by the first bombs since World War Two. 
  <p class="updated_time"> 05:45 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60509373?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My mother said war has started' - resident fleeing capital</a> BBC: Russia has launched a major military assault on Ukraine, with reports of missile strikes and explosions. 
  <p class="updated_time"> 05:18 AM CT, Feb. 24 </p> 
@@ -66,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
  <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
- <p class="updated_time"> 03:16 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/taiwan-china-ukraine.html">Some in Taiwan See Parallels to Ukraine</a> NYT: Some analysts worry that a weak global response to Ukraine could embolden China’s Communist Party to ramp up pressure on self-governed Taiwan. 
  <p class="updated_time"> 02:52 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/biden-russia-ukraine-sanctions.html">Biden Plans to Announce ‘Severe Sanctions’ Against Russia Today</a> NYT: Mr. Biden vowed to punish Moscow for “a premeditated war that will bring a catastrophic loss of life and human suffering.” 
  <p class="updated_time"> 02:42 AM CT, Feb. 24 </p> 
@@ -367,8 +365,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/senate-races-the-shutdown-clock-as-friday-cliff-nears-00009895">Senate clears funding patch to kick shutdown cliff into March</a> Politico: Democrats agreed to Republican demands to hold certain amendment votes to avoid a government shutdown that would kick in at midnight Friday. 
  <p class="updated_time"> 09:00 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/news/2022/02/17/blinken-to-deliver-remarks-on-russian-threat-to-peace-and-security-at-u-n-security-council-00009733">U.S. sounds new alarms on Ukraine and details Russian invasion plan</a> Politico: The remarks from top U.S. officials come as the United States has seen no de-escalation of troops at the Ukranian border. 
- <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
