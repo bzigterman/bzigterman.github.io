@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:03 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: In Dire Assessment, Pentagon Calls Russian Troops ‘Ready to Go’</a> NYT: Volodymyr Zelensky appealed directly to the Russian people in a speech early Thursday in Kyiv. The U.N. Security Council is holding an emergency meeting. 
+ <p class="updated_time"> 09:25 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin Orders ‘Special Military Operation’ in Ukraine</a> NYT: The Russian president, who called on Ukrainian troops to lay down their arms, addressed his nation at 5:50 a.m. in Moscow, while the U.N. Security Council was meeting in New York. 
+ <p class="updated_time"> 09:16 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
  <p class="updated_time"> 08:50 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: President Zelensky warns Russia: We will defend ourselves</a> BBC: In a national address, Ukraine's president says his attempts to speak to Vladimir Putin were rejected. 
- <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
  <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/poland-covid-restrictions.html">Poland will lift most remaining restrictions on March 1.</a> NYT: The move is a turnaround for the Eastern European nation, which was among a handful of countries in the region that were hit especially hard by earlier variants. 
  <p class="updated_time"> 08:21 PM CT, Feb. 23 </p> 
@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/arts/chess-magnus-carlsen-rameshbabu-praggnanandhaa.html">Rameshbabu Praggnanandhaa Defeats Chess World Champion Magnus Carlsen</a> NYT: While it did not affect the reigning champion’s title, Rameshbabu Praggnanandhaa of India defeated Carlsen in the middle of the night during a rapid online tournament, stunning the chess world. 
  <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">How Colombian Feminists Decriminalized Abortion </a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
+ <p class="updated_time"> 04:20 PM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Putin Announces Special Military Operation in Eastern Ukraine</a> WSJ: Kremlin says move follows appeals for help from leaders of Russian-controlled breakaway regions. 
  <p class="updated_time"> 04:19 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/middleeast/iraj-pezeshkzad-dead.html">Iraj Pezeshkzad, Author of Classic Iranian Novel, Dies at 94</a> NYT: The satirical “My Uncle Napoleon” became a cultural touchstone that held up a mirror to his country, before the 1979 revolution sent the author into exile in Paris. 
  <p class="updated_time"> 04:02 PM CT, Feb. 23 </p> 
@@ -46,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082630125/ukraine-crisis-pushes-up-oil-prices">Ukraine crisis drives up global energy prices</a> NPR: The Russian military buildup that's threatening Ukraine is also driving up global energy prices. Oil has come close to $100 per barrel, a price not seen since 2014. 
  <p class="updated_time"> 03:59 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082630104/pakistan-appoints-first-female-supreme-court-judge">Pakistan appoints 1st woman Supreme Court judge</a> NPR: A female judge was appointed to Pakistan's Supreme Court for the first time in the country's history, amid protests by male lawyers. 
- <p class="updated_time"> 03:51 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Ukraine President Urges Russian Citizens to Oppose War</a> WSJ: Ukraine declared a state of emergency and called on its citizens to leave Russia immediately because of a growing threat of a full-scale invasion. 
  <p class="updated_time"> 03:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">For Many Russians, a Deep Unease Over Gathering Specter of War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 03:37 PM CT, Feb. 23 </p> 
@@ -60,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Edge of War, No Exodus From Ukraine but Anxiety Grows</a> NYT: With Russian troops in eastern Ukraine, foreboding mixes with disbelief. But on one train journey, some leaving Kyiv say they plan to return. 
  <p class="updated_time"> 02:46 PM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">U.S., Europe Ramp Up Sanctions on Russia</a> WSJ: The EU has targeted Russia’s defense minister and the Internet Research Agency, as the West responds to Moscow’s recognition of two separatist regions in eastern Ukraine and the deployment of Russian forces into the area. 
- <p class="updated_time"> 02:43 PM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60497653?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia crisis: What's Putin's next move?</a> BBC: The Russian leader has been keeping the world guessing. The BBC's Moscow correspondent looks for clues. 
  <p class="updated_time"> 02:42 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60498965?at_medium=RSS&at_campaign=KARANGA">Why are black Americans being punished for their hair?</a> BBC: Many black people in the US are embracing their natural curls. But now there’s a backlash. 
  <p class="updated_time"> 02:29 PM CT, Feb. 23 </p> 
@@ -93,7 +91,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:13 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
- <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Ukrainian government and banking websites are hit by cyberattacks</a> NPR: A number of important websites in Ukraine — from those of large banks to the Ministry of Defence — were struck by denial-of-service attacks Wednesday. 
+ <a href="https://www.npr.org/2022/02/23/1082510234/ukraine-state-of-emergency-russia-sanctions">Putin announces Russian military operation in Ukraine </a> NPR: Putin's announcement came as diplomats implored the Russian president to pull back from Ukraine's borders and avoid a war that will affect the rest of the world. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 06:05 AM CT, Feb. 23 </p> 
@@ -180,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html">The Limits of a Europe Whole and Free</a> NYT: Vladimir Putin sets down a marker in Ukraine. Does the West have the means to stop him? 
  <p class="updated_time"> 03:42 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082401614/biden-announces-sanctions-as-russian-troops-move-into-ukraine">Biden announces sanctions as Russian troops move into Ukraine</a> NPR: As Russian troops move into separatist regions in eastern Ukraine, President Biden gives his latest remarks on what measures the United States and its allies are planning to take. 
- <p class="updated_time"> 12:19 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html">US Troops in Poland Brace for Possible Ukrainian Evacuees.</a> NYT: The Biden administration has repeatedly said U.S. troops will not fight in Ukraine or rescue Americans trapped there by a Russian attack. 
  <p class="updated_time"> 09:37 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/us-russia-sanctions.html">White House Weighs How Hard to Hit Putin With Sanctions</a> NYT: Early indications suggested the Biden administration would hold some punishments back in hopes of preventing a broader attack. 
  <p class="updated_time"> 07:46 AM CT, Feb. 22 </p> 
@@ -199,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:11 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/russia-invasion-ukraine-00011238">Putin declares ‘special military operation’ in Ukraine in apparent declaration of war</a> Politico: The Russian leader rebuked months of Western diplomatic entreaties. 
  <p class="updated_time"> 09:40 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/canadian-defense-minister-russia-00011215">Anand: Canada's response will match rising Russian escalation</a> Politico: “Should Russia further invade Ukraine, it will be met with severe coordinated economic sanctions,” the defense minister said. 
  <p class="updated_time"> 08:21 PM CT, Feb. 23 </p> 
@@ -243,8 +241,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Being Interviewed</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to appearing, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 03:21 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/doj-shuts-down-china-focused-anti-espionage-program-00011065">DOJ shuts down China-focused anti-espionage program</a> Politico: The China Initiative is being cast aside largely because of perceptions that it unfairly painted Chinese Americans and U.S. residents of Chinese origin as disloyal. 
- <p class="updated_time"> 03:12 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/russian-forces-on-ukraine-border-literally-ready-to-go-now-u-s-official-warns-00011064">Russian forces on Ukraine border ‘literally ready to go now,’ U.S. official warns</a> Politico: The new comments underscore how immediate the Biden administration thinks the threat is. 
  <p class="updated_time"> 03:09 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082593735/justice-department-china-initiative">The Justice Department is ending its controversial China Initiative</a> NPR: The initiative aimed to counter China's theft of American secrets and technology, but critics said it created a climate of fear among Asian Americans. 
  <p class="updated_time"> 03:02 PM CT, Feb. 23 </p> 
