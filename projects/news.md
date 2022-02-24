@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:39 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 03:47 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 03:46 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-russia-attack-why.html">The Invasion of Ukraine: How Russia Attacked and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
+ <p class="updated_time"> 03:44 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/eu-russia-sanctions.html">E.U. Plans Tougher Sanctions on Russia but Aims to Protect Its Own Interests</a> NYT: Diplomats said several European Union members were concerned about certain sectors of Russia’s economy that could be penalized. 
  <p class="updated_time"> 03:36 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
  <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
@@ -34,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082716731/emergency-u-n-meeting-is-interrupted-by-russias-invasion-of-ukraine">Emergency U.N. meeting is interrupted by Russia's invasion of Ukraine</a> NPR: The urgent U.N. Security Council meeting was meant as an eleventh hour effort to dissuade Russia from sending troops into Ukraine. But the message became moot even as it was being delivered. 
  <p class="updated_time"> 11:06 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">The Ukraine Crisis: What to Know About Why Russia Attacked</a> NYT: Here’s why Ukraine’s relevance extends far beyond its borders. 
+ <p class="updated_time"> 11:03 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russia-invasion.html">Putin Announces Start to ‘Military Operation’ Against Ukraine</a> NYT: “The invasion has begun,” Ukraine’s Interior Ministry said. Putin says he seeks “demilitarization” of Ukraine but has no plans to occupy it. 
  <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">Many Russians Feel a Deep Unease Over Going to War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
