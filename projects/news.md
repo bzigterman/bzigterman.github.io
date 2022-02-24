@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:44 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 01:48 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
  <p class="updated_time"> 01:35 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60492916?at_medium=RSS&at_campaign=KARANGA">Nkosana Makate: The South African taking on Vodacom</a> BBC: South African Nkosana Makate is in line for a huge pay out after a 14-year court battle with Vodacom. 
