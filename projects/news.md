@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 03:55 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Russia Invades Ukraine From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
  <p class="updated_time"> 03:46 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-russia-attack-why.html">The Invasion of Ukraine: How Russia Attacked and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
  <p class="updated_time"> 03:44 AM CT, Feb. 24 </p> 
@@ -40,6 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">The Ukraine Crisis: What to Know About Why Russia Attacked</a> NYT: Here’s why Ukraine’s relevance extends far beyond its borders. 
  <p class="updated_time"> 11:03 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russia-invasion.html">Putin Announces Start to ‘Military Operation’ Against Ukraine</a> NYT: “The invasion has begun,” Ukraine’s Interior Ministry said. Putin says he seeks “demilitarization” of Ukraine but has no plans to occupy it. 
+ <p class="updated_time"> 10:48 PM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian troops and tanks pushed into Ukraine and airstrikes hit the country’s capital and more than a dozen other cities after President Vladimir Putin said he ordered a military operation to “demilitarize and de-Nazify Ukraine.” 
  <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">Many Russians Feel a Deep Unease Over Going to War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
@@ -56,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russia-attack-on-ukraine-threatens-european-gas-supplies-11645679190">Russia Attack on Ukraine Threatens European Gas Supplies</a> WSJ: Natural-gas prices rose around the world as Russia’s new military push against Ukraine poses another threat to Europe’s already tenuous supply of natural gas. 
  <p class="updated_time"> 09:10 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60502647?at_medium=RSS&at_campaign=KARANGA">Australia floods: Surfers save elderly man from raging current</a> BBC: Drone footage shows the elderly man being dragged towards the sea, after a lagoon burst its banks. 
- <p class="updated_time"> 09:06 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian troops and tanks pushed into Ukraine and airstrikes hit the country’s capital and more than a dozen other cities after President Vladimir Putin said he ordered a military operation to “demilitarize and de-Nazify Ukraine.” 
  <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/poland-covid-restrictions.html">Poland Will Lift Most Remaining Restrictions on March 1.</a> NYT: The move is a turnaround for the Eastern European nation, which was among a handful of countries in the region that were hit especially hard by earlier variants. 
  <p class="updated_time"> 07:59 PM CT, Feb. 23 </p> 
