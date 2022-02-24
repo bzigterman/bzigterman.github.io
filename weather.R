@@ -232,7 +232,8 @@ Currently:
 sep = ""
 )
 
-write_lines(web_text,"projects/weather.md")
+write_lines(web_text,"projects/weather.md", append = FALSE)
+
 
 
 
