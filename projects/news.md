@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Biden Vows Putin Will Pay for Ukraine Invasion</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said, announcing new sanctions in his first public remarks since Russia’s assault began. 
+ <p class="updated_time"> 03:21 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/eastern-ukraine-scenes-russia.html">Scenes From Eastern Ukraine as Russia Strikes</a> NYT: After Russia attacked, Ukrainians piled into cars, buses and trains in a frantic retreat west toward safety in Poland. “All Ukraine is exploding!” 
  <p class="updated_time"> 03:16 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-invasion-russia-putin-nuclear-war-nato.html">Beyond Ukraine, America’s ‘Empire of Lies’ Is Putin’s Target</a> NYT: The Russian leader is consumed by revanchist fury and convinced of a relentless Western plot against Moscow. 
- <p class="updated_time"> 03:14 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Biden Vows Putin Will Pay for Ukraine Invasion</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said, announcing new sanctions in his first public remarks since Russia’s assault began. 
+ <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
+ <a href="https://www.npr.org/2022/02/24/1082918786/u-s-and-eu-to-punish-russia-with-new-economic-sanctions">U.S. and EU to punish Russia with new economic sanctions</a> NPR: The U.S. and EU are planning more sanctions on Russia, aimed at crippling its economy by targeting banks, oil and gas sectors. But it's uncertain the new sanctions will affect Russia President Putin. 
  <p class="updated_time"> 03:14 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082902551/ukraine-russia-sanctions">The U.S. keeps turning to sanctions despite their mixed record</a> NPR: President Biden announced more sanctions on Russia's military and economy over its invasion of Ukraine. Sanctions have become a favored tool in presidents' arsenals, but they don't always work. 
  <p class="updated_time"> 03:14 PM CT, Feb. 24 </p> 
@@ -28,6 +32,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-refugees-united-states.html">Refugee Resettlement Leaders Urge Biden to Welcome Ukrainians</a> NYT: The U.S. refugee program is already under pressure to absorb more than 70,000 evacuees from Afghanistan who arrived last year. 
  <p class="updated_time"> 02:45 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/sanctions-on-russia-biden.html">Biden Says Putin Will 'Bear the Consequences,' Announces New Sanctions</a> NYT: Mr. Biden said the United States would cut off Russia’s largest banks and largest companies from the western financial markets, freeze assets of Russian elites and restrict exports of technology to Russia. 
+ <p class="updated_time"> 02:27 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? A Full Guide</a> NYT: Here’s a guide to the causes behind a conflict that has just become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 02:13 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/us-troops-russia-ukraine-military.html">The Pentagon Orders Another 7,000 US Troops to Europe</a> NYT: The deployment will bring to 14,000 the number of American troops that President Biden has ordered to Europe since the Ukraine crisis began. 
  <p class="updated_time"> 02:13 PM CT, Feb. 24 </p> 
@@ -79,8 +85,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:17 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60510551?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia invasion: Europe prepares for wave of refugees</a> BBC: Roads out of Ukraine's major cities are jammed as many pack up and flee Russia's military invasion. 
  <p class="updated_time"> 11:05 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/eastern-ukraine-scenes-russia.html">Scenes From Eastern Ukraine as Russia Strikes</a> NYT: Residents of the country’s Donetsk region, accustomed to conflict and violence, are desperate after Russia launched military attacks. 
- <p class="updated_time"> 11:05 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/queen-elizabeth-covid.html">Queen Elizabeth Cancels Virtual Events for 2nd Time Since Covid Test</a> NYT: The 95-year-old queen would be “continuing with light duties,” Buckingham Palace said, and she has no other engagements scheduled this week. 
  <p class="updated_time"> 11:01 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60507016?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict world reaction: Sanctions, refugees and fears of war</a> BBC: Outrage in the West, and China balks at the word invasion. How Ukraine is shaking the globe. 
@@ -94,6 +98,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008225573/kyiv-ukraine-russia-bombing.html">After Attack on Ukraine, Residents Flee West</a> NYT: Families fleeing Thursday’s attack in Kyiv were stuck in traffic for miles on the capital’s longest avenue, as they tried to escape the advancement of Russian troops. 
  <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/pentagon-russia-ukraine.html">Pentagon Offers Grim Assessment of Early Stages of Russian Invasion</a> NYT: Russian military forces are moving to decapitate the Ukrainian government in Kyiv, the Pentagon said. 
+ <p class="updated_time"> 10:26 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Invades Ukraine, Aims to Oust Leadership</a> WSJ: Airstrikes hit cities, tanks roll in and casualties mount in what President Biden calls an unprovoked attack, as West pledges further action against Moscow. 
  <p class="updated_time"> 10:07 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
  <p class="updated_time"> 09:54 AM CT, Feb. 24 </p> 
@@ -108,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/biden-sanctions-russia.html">Biden Vows to 'Hold Russia Accountable' and Congress Calls for Sanctions</a> NYT: The Russian invasion of Ukraine set off a rare moment of bipartisanship, as lawmakers furiously denounced the attack and called on Mr. Biden to swiftly enact new, debilitating sanctions on Russia. 
  <p class="updated_time"> 08:53 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/russian-helicopter-attack-video.html">See Video of Russian Helicopters Attacking an Airport Near Kyiv</a> NYT: Footage verified by The Times shows the most intense fighting seen so far near Ukraine’s capital, Kyiv. 
- <p class="updated_time"> 08:44 AM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Invades Ukraine, Aims to Oust Leadership</a> WSJ: Airstrikes hit cities, tanks roll in and casualties mount in what President Biden calls an unprovoked attack, as West pledges further action against Moscow. 
  <p class="updated_time"> 08:35 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/us-troops-poland-ukraine-russia.html">U.S. Troops in Poland Prepare for Arrival of Refugees From Ukraine</a> NYT: Polish officials say their border is open and they are ready to provide shelter to anyone fleeing the conflict. 
  <p class="updated_time"> 07:25 AM CT, Feb. 24 </p> 
@@ -166,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">Why Many Russians Feel a Deep Unease Over Going to War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
- <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 10:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-ukraine-mercenaries.html">Russian Mercenaries Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
  <p class="updated_time"> 07:17 PM CT, Feb. 23 </p> 
@@ -186,8 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/middleeast/iraj-pezeshkzad-dead.html">Iraj Pezeshkzad, Author of Classic Iranian Novel, Dies at 94</a> NYT: The satirical “My Uncle Napoleon” became a cultural touchstone that held up a mirror to his country, before the 1979 revolution sent the author into exile in Paris. 
  <p class="updated_time"> 04:02 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082637172/trudeau-revokes-emergency-powers-after-canada-blockades-end">Trudeau revokes emergency powers after Canada blockades end</a> NPR: On Friday, authorities launched the largest police operation in Canadian history, arresting at least 191 people and towing about about 80 vehicles until the streets in front of Parliament were clear. 
- <p class="updated_time"> 03:59 PM CT, Feb. 23 </p> 
- <a href="https://www.npr.org/2022/02/23/1082630125/ukraine-crisis-pushes-up-oil-prices">Ukraine crisis drives up global energy prices</a> NPR: The Russian military buildup that's threatening Ukraine is also driving up global energy prices. Oil has come close to $100 per barrel, a price not seen since 2014. 
  <p class="updated_time"> 02:29 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60501397?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia crisis: The soldiers on the front line</a> BBC: Soldiers scan for snipers and fear being hurt or killed as military activity in the area increases. 
 
