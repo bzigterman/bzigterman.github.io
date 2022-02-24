@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:14 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Says Russia Has Begun Its Invasion</a> NYT: Several Ukrainian cities were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 11:45 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Russia Begins Invasion of Ukraine From Land and Sea</a> NYT: Several Ukrainian cities were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 11:16 PM CT, Feb. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia announces special military operation in Donbas</a> BBC: Vladimir Putin threatened any nations that "interfere" would draw "consequences they have never seen". 
  <p class="updated_time"> 11:06 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">The Ukraine Crisis: What to Know About Why Russia Attacked</a> NYT: Here’s why Ukraine’s relevance extends far beyond its borders. 
  <p class="updated_time"> 11:02 PM CT, Feb. 23 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 10:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-ukraine-mercenaries.html">Russian Mercenaries Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
- <p class="updated_time"> 10:24 PM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia announces special military operation in Donbas</a> BBC: Vladimir Putin threatened any nations that "interfere" would draw "consequences they have never seen". 
  <p class="updated_time"> 09:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
  <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
@@ -39,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:14 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html">White House Prepares Curbs on Russia’s Access to U.S. Technology</a> NYT: Biden administration officials have warned Russia that it could face further restrictions on technology that is critical to its economy and military. 
  <p class="updated_time"> 06:14 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Russia Begins Military Operation in Ukraine</a> WSJ: Biden calls move an unprovoked, unjustified attack, pledging further action against Russia. 
+ <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Russia Begins Military Operation in Ukraine</a> WSJ: Biden calls move an unprovoked attack, pledging further action against Moscow. Initial wave of strikes targets military installations, airfields and government facilities across country, Kyiv says. 
  <p class="updated_time"> 06:01 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60500307?at_medium=RSS&at_campaign=KARANGA">Why China matters in the Ukraine conflict</a> BBC: Beijing does billions of dollars of trade and business with both Kyiv and Moscow. 
  <p class="updated_time"> 05:43 PM CT, Feb. 23 </p> 
@@ -126,8 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/fast-spreading-covid-19-omicron-type-revives-questions-about-opening-up-11645616471">Fast-Spreading Omicron Type Revives Questions About Opening Up</a> WSJ: A more infectious type of the Omicron variant has surged to account for more than a third of global Covid-19 cases sequenced recently, adding to the debate about whether countries are ready for full reopening. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60489660?at_medium=RSS&at_campaign=KARANGA">Australia floods: Woman killed as flash floods hit east coast</a> BBC: Flash floods hit multiple states, with some areas receiving up to 400mm of rain in 24 hours. 
- <p class="updated_time"> 11:26 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-ukraine-sanctions.html">Sanctions on Russia pose new threat to a fragile global economy.</a> NYT: Armed conflict could exacerbate supply chain disruptions and drive food, gas and other prices higher. 
  <p class="updated_time"> 11:21 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraine-breakaway-regions-conflict-russia.html">Ukraine Enclaves Long Steeped in Conflict Face New Peril</a> NYT: A decision by Russia to recognize two separatist territories and order in troops raises the risks of intensified fighting in an already fraught region where violence has defined life for nearly a decade. 
  <p class="updated_time"> 11:05 PM CT, Feb. 22 </p> 
@@ -191,6 +189,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:41 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/lawmakers-of-both-parties-condemn-russias-invasion-00011313">Lawmakers of both parties condemn Russia's invasion</a> Politico: “﻿Putin must be made to rue the day," one senator said. 
  <p class="updated_time"> 10:47 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/united-nations-russia-ukraine-00011239">U.S. ambassador pleads for peace at United Nations</a> Politico: But her statement coincided with Vladimir Putin's invasion declaration. 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
