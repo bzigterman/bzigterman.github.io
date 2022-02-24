@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:23 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 03:39 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 03:36 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
  <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
  <p class="updated_time"> 03:16 AM CT, Feb. 24 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid News: Several Parts of U.S. Ease Mask Rules</a> NYT: Los Angeles County, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
  <p class="updated_time"> 02:42 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-war-military.html">Ukraine's Military Is Outgunned by Russia Despite West's Support</a> NYT: The country’s forces “will hold up as long as there are bullets,” a top general said in December. But, he added, “without delivery of reserves, there’s not an army in the world that can hold out.” 
- <p class="updated_time"> 02:26 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
  <p class="updated_time"> 02:15 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
  <p class="updated_time"> 01:35 AM CT, Feb. 24 </p> 
@@ -42,6 +42,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 10:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-ukraine-mercenaries.html">Russian Mercenaries Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
+ <p class="updated_time"> 10:25 PM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-invasion-ukraine-nato-unity-europe-11645484383">Russian Invasion of Ukraine Forges New Unity for NATO</a> WSJ: The end of the Cold War and years of relative peace in Europe left NATO without a clear mission. Russian aggression has given the alliance a new unity of purpose. 
  <p class="updated_time"> 09:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
  <p class="updated_time"> 09:22 PM CT, Feb. 23 </p> 
@@ -66,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60501607?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: 'Everyone is scared', say families evacuated to Russia</a> BBC: Some families arriving in Russia from eastern Ukraine told the BBC they were afraid, and worried about food and accommodation. 
  <p class="updated_time"> 05:37 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082602594/ukraine-crisis-draws-new-resolve-from-bipartisan-lawmakers-with-some-gop-critics">Ukraine crisis draws new resolve from bipartisan lawmakers — with some GOP critics</a> NPR: Congressional lawmakers are sounding a new bipartisan tone against a rising threat led by Russian President Vladimir Putin. Still, there is GOP divide on how President Biden should move forward. 
- <p class="updated_time"> 05:19 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-crisis-kicks-off-new-superpower-struggle-among-u-s-russia-and-china-11645629753">Ukraine Crisis Kicks Off New Superpower Struggle Among U.S., Russia and China</a> WSJ: Beijing and Moscow now hold a stronger hand in confronting the West than during the Cold War. 
  <p class="updated_time"> 05:14 PM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: Measures are expected to target Russian banks and debt, ban exports of technology critical to industry. 
  <p class="updated_time"> 05:09 PM CT, Feb. 23 </p> 
