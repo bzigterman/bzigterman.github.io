@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:04 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 03:23 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
+ <p class="updated_time"> 03:16 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/taiwan-china-ukraine.html">Some in Taiwan See Parallels to Ukraine</a> NYT: Some analysts worry that a weak global response to Ukraine could embolden China’s Communist Party to ramp up pressure on self-governed Taiwan. 
  <p class="updated_time"> 02:57 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60504334?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What we know about the invasion</a> BBC: Russia has launched a large-scale military attack on its southern neighbour - here's what we know. 
  <p class="updated_time"> 02:52 AM CT, Feb. 24 </p> 
@@ -45,7 +49,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:10 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60502647?at_medium=RSS&at_campaign=KARANGA">Australia floods: Surfers save elderly man from raging current</a> BBC: Drone footage shows the elderly man being dragged towards the sea, after a lagoon burst its banks. 
  <p class="updated_time"> 09:06 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: President Biden called the move an unprovoked attack, pledging further action against Moscow. An initial wave of strikes targeted military installations, airfields and government facilities across the country, Kyiv said. 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian troops and tanks pushed into Ukraine and airstrikes hit the country’s capital and more than a dozen other cities after President Vladimir Putin said he ordered a military operation to “demilitarize and de-Nazify Ukraine.” 
  <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/poland-covid-restrictions.html">Poland Will Lift Most Remaining Restrictions on March 1.</a> NYT: The move is a turnaround for the Eastern European nation, which was among a handful of countries in the region that were hit especially hard by earlier variants. 
  <p class="updated_time"> 07:59 PM CT, Feb. 23 </p> 
@@ -126,10 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-60493197?at_medium=RSS&at_campaign=KARANGA">Migrants clash with police in Mexico border town</a> BBC: More than 20 people were injured in the confrontation in Tapachula, on Mexico's southern border. 
  <p class="updated_time"> 05:13 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60490247?at_medium=RSS&at_campaign=KARANGA">Inventing Anna: Fake heiress drama tops Netflix ratings</a> BBC: The drama sets a record for the most hours viewed for an English-language series in a single week. 
- <p class="updated_time"> 04:51 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/taiwan-china-ukraine.html">Some in Taiwan See Parallels to Ukraine</a> NYT: Some analysts worry that a weak global response to Ukraine could embolden China’s Communist Party to ramp up pressure on self-governed Taiwan. 
- <p class="updated_time"> 04:31 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/ukraines-president-calls-up-reserves-urging-ukrainians-to-fight-for-their-country.html">Ukraine’s president calls up reserves, urging his compatriots to fight for their country.</a> NYT: Volodymyr Zelensky said his government would work to “raise the preparedness of the Ukrainian army to all possible changes in the operational situation.” 
  <p class="updated_time"> 04:05 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082498160/wildfires-will-increase-and-worsen-globally-u-n-warns">Wildfires will increase and worsen globally, U.N. warns</a> NPR: The study being released on Wednesday warns of spikes in unhealthy smoke pollution and other problems coming from the increased threat of catastrophic wildfires. 
  <p class="updated_time"> 04:00 AM CT, Feb. 23 </p> 
@@ -191,6 +191,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 12:41 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/lawmakers-of-both-parties-condemn-russias-invasion-00011313">Lawmakers of both parties condemn Russia's invasion</a> Politico: “﻿Putin must be made to rue the day," one senator said. 
  <p class="updated_time"> 12:33 AM CT, Feb. 24 </p> 
@@ -302,7 +304,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:55 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html">Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</a> NYT: Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there. 
  <p class="updated_time"> 07:54 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html">Putin Insulated Russia’s Economy. Will Biden’s Sanctions Hold Him Back in Ukraine?</a> NYT: President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia. 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html">Will Biden’s Sanctions Halt a Russian Invasion of Ukraine?</a> NYT: President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia. 
  <p class="updated_time"> 07:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/biden-supreme-court-candidates.html">Biden Interviews 3 Supreme Court Candidates as His Search Narrows</a> NYT: The White House says the president is on track to decide on a nominee to fill the seat vacated by Justice Stephen G. Breyer by the end of February. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
