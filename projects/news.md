@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:24 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Several Ukrainian cities were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
- <p class="updated_time"> 12:07 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces attack after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
+ <p class="updated_time"> 01:44 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 01:35 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60492916?at_medium=RSS&at_campaign=KARANGA">Nkosana Makate: The South African taking on Vodacom</a> BBC: South African Nkosana Makate is in line for a huge pay out after a 14-year court battle with Vodacom. 
+ <p class="updated_time"> 01:34 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
  <p class="updated_time"> 11:59 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Eve of War, No Exodus From Ukraine, Only Anxiety and Disbelief</a> NYT: When Russian troops moved into eastern Ukraine, some began to travel westward, filled with doubt about the future but saying they planned — or hoped — to return. 
  <p class="updated_time"> 11:52 PM CT, Feb. 23 </p> 
