@@ -200,6 +200,8 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 ## Champaign 5-Day Forecast
 
+",now_html,"
+
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/champaign_weather.png\"
           media=\"(min-width: 750px)\">
@@ -212,8 +214,6 @@ Currently:
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
-
-",now_html,"
 
 ## Severe Thunderstorm Outlook
 
