@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:45 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 10:55 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Ukraine Says Russia Has Begun Its Invasion</a> NYT: Several Ukrainian cities were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 10:55 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
+ <p class="updated_time"> 10:51 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">The Ukraine Crisis: What to Know About Why Russia Attacked</a> NYT: Here’s why Ukraine’s relevance extends far beyond its borders. 
+ <p class="updated_time"> 10:51 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Eve of War, No Exodus From Ukraine, Only Anxiety and Disbelief</a> NYT: When Russian troops moved into eastern Ukraine, some began to travel westward, filled with doubt about the future but saying they planned — or hoped — to return. 
  <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">Many Russians Feel a Deep Unease Over Going to War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
@@ -20,12 +26,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-ukraine-mercenaries.html">Russian Mercenaries Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
  <p class="updated_time"> 10:24 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia announces special military operation in Donbas</a> BBC: Vladimir Putin threatened any nations that "interfere" would draw "consequences they have never seen". 
- <p class="updated_time"> 10:15 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Edge of War, No Exodus From Ukraine but Anxiety Grows</a> NYT: With Russian troops in eastern Ukraine, foreboding mixes with disbelief. But on one train journey, some leaving Kyiv say they plan to return. 
  <p class="updated_time"> 09:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
- <p class="updated_time"> 09:29 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
  <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/poland-covid-restrictions.html">Poland will lift most remaining restrictions on March 1.</a> NYT: The move is a turnaround for the Eastern European nation, which was among a handful of countries in the region that were hit especially hard by earlier variants. 
  <p class="updated_time"> 07:59 PM CT, Feb. 23 </p> 
@@ -50,6 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: Man arrested over hostage standoff dies</a> BBC: A 27-year-old man who launched a hostage situation at an Apple store has died in hospital. 
  <p class="updated_time"> 04:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/arts/chess-magnus-carlsen-rameshbabu-praggnanandhaa.html">Rameshbabu Praggnanandhaa Defeats Chess World Champion Magnus Carlsen</a> NYT: While it did not affect the reigning champion’s title, Rameshbabu Praggnanandhaa of India defeated Carlsen in the middle of the night during a rapid online tournament, stunning the chess world. 
+ <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/business/economy/russia-ukraine-global-us-economy.html">What Russia's Conflict in Ukraine Means for the U.S. Economy</a> NYT: A Russian invasion of Ukraine could push up oil and food prices globally at a time of already-high inflation. In the U.S., it will drive up uncertainty. 
  <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">How Colombian Feminists Decriminalized Abortion </a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
  <p class="updated_time"> 04:19 PM CT, Feb. 23 </p> 
@@ -118,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/australia/new-zealand-protest-vaccine.html">New Zealand  Antivaccine Protest Gets More Violent</a> NYT: An occupation in the capital demonstrates the dangerous influence that American disinformation is having on otherwise stable democracies. 
  <p class="updated_time"> 01:18 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60489203?at_medium=RSS&at_campaign=KARANGA">Chetan Kumar: Indian actor arrested for tweet on Karnataka hijab row judge</a> BBC: Chetan Kumar was held for criticising a judge who is hearing pleas against a ban on hijabs in schools. 
- <p class="updated_time"> 12:47 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/australia/federal-election-dark-money.html">‘Dark Money’ Suddenly Dominates Australia’s Election</a> NYT: Chinese financing, unreported donations, payouts from coal barons: The new political season is shining an unaccustomed light on a culture of opacity. 
  <p class="updated_time"> 12:41 AM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/fast-spreading-covid-19-omicron-type-revives-questions-about-opening-up-11645616471">Fast-Spreading Omicron Type Revives Questions About Opening Up</a> WSJ: A more infectious type of the Omicron variant has surged to account for more than a third of global Covid-19 cases sequenced recently, adding to the debate about whether countries are ready for full reopening. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
@@ -168,16 +170,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/world/europe/kyiv-ukraine-military-casualties.html">In Kyiv, a Soldier’s Funeral and Vows of Defiance</a> NYT: Ukrainians have been preparing for a possible military escalation by Russia for months. They were somber but largely defiant. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082345068/why-luhansk-and-donetsk-are-key-to-understanding-the-latest-escalation-in-ukrain">Why Luhansk and Donetsk are key to understanding the latest escalation in Ukraine</a> NPR: The rebel-controlled territories, which comprise a larger eastern Ukraine region called Donbas that borders Russia, have been led by pro-Russia separatists for nearly a decade. 
- <p class="updated_time"> 04:57 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/eu-sanctions-russia-ukraine.html">Europe Sanctions Russia Over Ukraine Crisis, Coordinating Squeeze With the U.S.</a> NYT: The European Union, acting in tandem with the United States and Britain, hopes to restrain Moscow by keeping bigger penalties in reserve. 
  <p class="updated_time"> 04:42 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60486318?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Key moments in Russia's military build-up</a> BBC: As Vladimir Putin orders troops into eastern Ukraine, here's a look at how things got to this point. 
  <p class="updated_time"> 04:24 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html">The Limits of a Europe Whole and Free</a> NYT: Vladimir Putin sets down a marker in Ukraine. Does the West have the means to stop him? 
  <p class="updated_time"> 03:42 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082401614/biden-announces-sanctions-as-russian-troops-move-into-ukraine">Biden announces sanctions as Russian troops move into Ukraine</a> NPR: As Russian troops move into separatist regions in eastern Ukraine, President Biden gives his latest remarks on what measures the United States and its allies are planning to take. 
- <p class="updated_time"> 09:37 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/europe/us-russia-sanctions.html">White House Weighs How Hard to Hit Putin With Sanctions</a> NYT: Early indications suggested the Biden administration would hold some punishments back in hopes of preventing a broader attack. 
  <p class="updated_time"> 07:46 AM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60480155?at_medium=RSS&at_campaign=KARANGA">USA women's soccer team strike equal pay deal</a> BBC: United States forward Alex Morgan says an agreement with governing body US Soccer over equal pay is a "monumental step forward". 
  <p class="updated_time"> 05:29 AM CT, Feb. 22 </p> 
@@ -198,7 +196,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
  <p class="updated_time"> 10:11 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/russia-invasion-ukraine-00011238">Explosions in Ukraine follow Putin’s declaration of a ‘special military operation’</a> Politico: Russia launched a widespread invasion of Ukraine following months of failed Western diplomatic entreaties aimed at de-escalation. 
+ <a href="https://www.politico.com/news/2022/02/23/russia-invasion-ukraine-00011238">Russia attacks Ukraine</a> Politico: Russian President Vladimir Putin announced a “special military operation” against Ukraine, and with those words declared that his eight-year war has reached a point of dramatic escalation. 
  <p class="updated_time"> 09:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
  <p class="updated_time"> 09:40 PM CT, Feb. 23 </p> 
@@ -229,6 +227,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/biden-supreme-court-contenders-00011050">How a 1990 law Biden helped pass gives us a clue about his SCOTUS pick</a> Politico: Then-Sen. Biden wanted judges to move faster on their case work. The plan he helped write may prove newly relevant. 
  <p class="updated_time"> 04:47 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/truck-convoy-dc.html">A Truck Caravan With Far-Right Links Heads to Washington, D.C.</a> NYT: Many backers of the caravan, planned as an American version of the past month’s chaotic Canadian protest, have connections to the violent attack on the Capitol in January 2021. 
+ <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/business/economy/russia-ukraine-global-us-economy.html">What Russia's Conflict in Ukraine Means for the U.S. Economy</a> NYT: A Russian invasion of Ukraine could push up oil and food prices globally at a time of already-high inflation. In the U.S., it will drive up uncertainty. 
  <p class="updated_time"> 04:37 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/pentagon-fitness-tracker-covid-00011099">The Pentagon is working on an algorithm to detect Covid early</a> Politico: Preliminary results from an experiment using fitness trackers show promise. 
  <p class="updated_time"> 04:37 PM CT, Feb. 23 </p> 
@@ -303,8 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html">Will Biden’s Sanctions Halt a Russian Invasion of Ukraine?</a> NYT: President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia. 
  <p class="updated_time"> 07:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/biden-supreme-court-candidates.html">Biden Interviews 3 Supreme Court Candidates as His Search Narrows</a> NYT: The White House says the president is on track to decide on a nominee to fill the seat vacated by Justice Stephen G. Breyer by the end of February. 
- <p class="updated_time"> 05:48 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/business/economy/fed-interest-rates.html">Fed Officials Firm Up Plans for Swift Pullback of Economic Help</a> NYT: Officials have been preparing investors for a series of steady rate increases and a prompt start to Federal Reserve balance sheet shrinking. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
  <a href="https://www.cnn.com/2022/02/22/politics/biden-potential-supreme-court-nominees/index.html">Biden has met with at least three potential Supreme Court nominees; announcement expected soon</a> CNN: President Joe Biden has met with three potential Supreme Court nominees -- including Ketanji Brown Jackson, Leondra Kruger and J. Michelle Childs, multiple sources tell CNN. 
  <p class="updated_time"> 03:18 PM CT, Feb. 22 </p> 
