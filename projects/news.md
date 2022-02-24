@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:22 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 08:33 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Dozens of Ukrainian soldiers are killed as the government vowed an “all-out defense.” NATO’s secretary general condemned the “reckless and unprovoked attack” by Russia. 
  <p class="updated_time"> 08:14 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
@@ -187,6 +187,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:29 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/kevin-mcarthy-speaker.html">Courting G.O.P.’s Mainstream and Extreme, McCarthy Plots Rise to Speaker</a> NYT: The top House Republican is attempting a series of political contortions to try to secure his place in a party that has shifted under his feet. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/24/washington-wakes-to-assault-on-ukraine-00011325">Washington wakes to assault on Ukraine</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:25 AM CT, Feb. 24 </p> 
@@ -205,8 +207,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082736173/fla-gov-desantis-wants-lawmakers-to-dismantle-a-minority-voting-district">Fla. Gov. DeSantis wants lawmakers to dismantle a minority voting district</a> NPR: Florida Republican Gov. Ron DeSantis and the Republican-controlled legislature appear to be headed for a showdown over maps. Florida is redrawing its congressional districts. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082175753/senate-democrats-want-to-fight-inflation-but-there-are-limits-to-what-they-can-d">Senate Democrats want to fight inflation, but there are limits to what they can do</a> NPR: Some are looking to a gas tax holiday to bring relief to consumers faced with skyrocketing prices. 
- <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/kevin-mcarthy-speaker.html">Courting G.O.P.’s Mainstream and Extreme, McCarthy Plots Rise to Speaker</a> NYT: The top House Republican is attempting a series of political contortions to try to secure his place in a party that has shifted under his feet. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/democrats-midterm-agenda.html">Vulnerable Democrats, Seeking Distance From the Left, Offer a Midterm Agenda</a> NYT: The plan aims to inoculate Democrats in conservative-leaning states from Republican attacks on cultural issues, underscoring how successful the G.O.P. has been at weaponizing them. 
  <p class="updated_time"> 12:41 AM CT, Feb. 24 </p> 
