@@ -105,7 +105,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:09 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60498535?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia's reputation as aggressor 'invented' - foreign ministry</a> BBC: The idea that Russia is to blame for the crisis in Ukraine is an invention by the West, Russia's foreign ministry says. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
- <a href="https://www.npr.org/2022/02/23/1082510234/russia-ukraine-updates">Explosions are heard in Ukraine after Putin announces a Russian invasion</a> NPR: Putin's announcement came as diplomats implored the Russian president to pull back from Ukraine's borders and avoid a war that will affect the rest of the world. 
+ <a href="https://www.npr.org/2022/02/23/1082510234/russia-ukraine-updates">Russia invades Ukraine; explosions are heard in Kyiv and other cities</a> NPR: Putin's announcement came as diplomats implored the Russian president to pull back from Ukraine's borders and avoid a war that will affect the rest of the world. 
  <p class="updated_time"> 07:05 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/us-russia-ukraine-sanctions.html">U.S. and Allies Impose Sanctions on Russia as Biden Condemns ‘Invasion’ of Ukraine</a> NYT: President Biden warned President Vladimir V. Putin of Russia that more sanctions would follow if he did not withdraw his forces and engage in diplomatic efforts to resolve the crisis. 
  <p class="updated_time"> 06:05 AM CT, Feb. 23 </p> 
