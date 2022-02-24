@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:36 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin Orders ‘Special Military Operation’ in Ukraine</a> NYT: The Russian president, who called on Ukrainian troops to lay down their arms, addressed his nation at 5:50 a.m. in Moscow, while the U.N. Security Council was meeting in New York. 
+ <p class="updated_time"> 09:46 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin Orders ‘Special Military Operation’ in Ukraine</a> NYT: The Russian president called on Ukrainian troops to lay down their arms in a speech at 5:50 a.m. in Moscow. The U.N. Security Council was meeting in New York. President Biden condemned the action and said he would speak to the American public on Thursday. 
+ <p class="updated_time"> 09:41 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">Many Russians Feel a Deep Unease Over Going to War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 09:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
  <p class="updated_time"> 08:50 PM CT, Feb. 23 </p> 
@@ -48,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082630125/ukraine-crisis-pushes-up-oil-prices">Ukraine crisis drives up global energy prices</a> NPR: The Russian military buildup that's threatening Ukraine is also driving up global energy prices. Oil has come close to $100 per barrel, a price not seen since 2014. 
  <p class="updated_time"> 03:59 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082630104/pakistan-appoints-first-female-supreme-court-judge">Pakistan appoints 1st woman Supreme Court judge</a> NPR: A female judge was appointed to Pakistan's Supreme Court for the first time in the country's history, amid protests by male lawyers. 
- <p class="updated_time"> 03:39 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">For Many Russians, a Deep Unease Over Gathering Specter of War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 03:37 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60501045?at_medium=RSS&at_campaign=KARANGA">Breonna Taylor: Officer was reckless during deadly raid, prosecutors say</a> BBC: Ms Taylor was killed during a police raid and her death triggered widespread racial justice rallies. 
  <p class="updated_time"> 03:30 PM CT, Feb. 23 </p> 
@@ -162,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60474342?at_medium=RSS&at_campaign=KARANGA">Hong Kong: What went wrong with its Covid plan?</a> BBC: The city saw early success with its zero Covid policy, but Omicron has brought it to its knees. 
  <p class="updated_time"> 06:09 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: "Bullets are flying everywhere". Gun crime in NYC is up by a third - will a new action plan help? 
- <p class="updated_time"> 05:38 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/asia/pakistan-afghanistan-taliban.html">To Preserve Its Own Stability, Pakistan Must Stabilize Afghanistan First</a> NYT: Analysts say that the Taliban takeover has sparked a spike in terror attacks that have put the Pakistani government in a difficult position as it tries to support Afghanistan’s new government. 
  <p class="updated_time"> 05:11 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/kyiv-ukraine-military-casualties.html">In Kyiv, a Soldier’s Funeral and Vows of Defiance</a> NYT: Ukrainians have been preparing for a possible military escalation by Russia for months. They were somber but largely defiant. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
@@ -196,7 +194,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 10:11 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/russia-invasion-ukraine-00011238">Putin declares ‘special military operation’ in Ukraine in apparent declaration of war</a> Politico: The Russian leader rebuked months of Western diplomatic entreaties. 
+ <a href="https://www.politico.com/news/2022/02/23/russia-invasion-ukraine-00011238">Explosions in Ukraine follow Putin’s declaration of a ‘special military operation’</a> Politico: Russia launched a widespread invasion of Ukraine following months of failed Western diplomatic entreaties aimed at de-escalation. 
  <p class="updated_time"> 09:40 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/canadian-defense-minister-russia-00011215">Anand: Canada's response will match rising Russian escalation</a> Politico: “Should Russia further invade Ukraine, it will be met with severe coordinated economic sanctions,” the defense minister said. 
  <p class="updated_time"> 08:21 PM CT, Feb. 23 </p> 
