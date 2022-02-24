@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:25 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 09:36 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Putin Orders ‘Special Military Operation’ in Ukraine</a> NYT: The Russian president, who called on Ukrainian troops to lay down their arms, addressed his nation at 5:50 a.m. in Moscow, while the U.N. Security Council was meeting in New York. 
- <p class="updated_time"> 09:16 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
+ <p class="updated_time"> 09:29 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
  <p class="updated_time"> 08:50 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60497510?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: President Zelensky warns Russia: We will defend ourselves</a> BBC: In a national address, Ukraine's president says his attempts to speak to Vladimir Putin were rejected. 
  <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
