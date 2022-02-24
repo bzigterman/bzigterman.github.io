@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:23 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Putin’s Forces Attack Ukraine</a> NYT: Ukraine’s government said it faced “a full-scale attack from multiple directions.” World leaders condemned President Vladimir Putin’s actions. 
+ <p class="updated_time"> 05:44 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land and Sea</a> NYT: Ukraine’s government said it faced “a full-scale attack from multiple directions.” President Biden said he would deliver an address on Thursday, and world leaders condemned President Vladimir Putin’s actions. 
  <p class="updated_time"> 05:18 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/navalny-russia-ukraine.html">Navalny Condemns Putin's Invasion of Ukraine</a> NYT: The opposition politician accused the Russian leader of using the attack to divert attention away from the country’s own internal problems. 
  <p class="updated_time"> 05:13 AM CT, Feb. 24 </p> 
@@ -58,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082716731/emergency-u-n-meeting-is-interrupted-by-russias-invasion-of-ukraine">Emergency U.N. meeting is interrupted by Russia's invasion of Ukraine</a> NPR: The urgent U.N. Security Council meeting was meant as an eleventh hour effort to dissuade Russia from sending troops into Ukraine. But the message became moot even as it was being delivered. 
  <p class="updated_time"> 11:50 PM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: Measures are expected to target Russian banks and debt, ban exports of technology critical to industry. 
- <p class="updated_time"> 11:37 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-scrambles-prospects-for-global-economy-11645699066">Russian Invasion Scrambles Prospects for Global Economy</a> WSJ: The attack on Ukraine heaps fresh risks on a global economy struggling with soaring inflation, supply-chain snarls and a rocky recovery from the pandemic. 
  <p class="updated_time"> 11:03 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russia-invasion.html">Putin Announces Start to ‘Military Operation’ Against Ukraine</a> NYT: “The invasion has begun,” Ukraine’s Interior Ministry said. Putin says he seeks “demilitarization” of Ukraine but has no plans to occupy it. 
  <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
@@ -120,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60501397?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia crisis: The soldiers on the front line</a> BBC: Soldiers scan for snipers and fear being hurt or killed as military activity in the area increases. 
  <p class="updated_time"> 02:13 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging 'false flag' incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
- <p class="updated_time"> 02:09 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/climate/climate-change-un-wildfire-report.html">Climate Change Could Increase Risk of Wildfires 50% by Century's End</a> NYT: Worsening heat and dryness could lead to a 50 percent rise in off-the-charts fires, according to a United Nations report. 
  <p class="updated_time"> 01:49 PM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/canadas-trudeau-revokes-use-of-emergency-powers-11645651455">Canada's Trudeau Revokes Use of Emergency Powers</a> WSJ: Prime Minister Justin Trudeau said his government no longer required emergency powers to deal with protests against Covid-19 restrictions, amid mounting criticism from civil-liberties groups and some Canadian politicians. 
  <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
@@ -191,6 +187,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/24/war-in-europe-00011319"> War in Europe</a> Politico Playbook: And Rick Scott kicks off an ad campaign for his policy platform. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
@@ -227,6 +225,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/prosecutors-trump-criminal-probe-resign-00011175">Prosecutors in charge of Trump criminal probe have resigned</a> Politico: The resignations throw the future of the probe in doubt. 
  <p class="updated_time"> 06:59 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/florida-senate-approves-desantis-controversial-pick-for-surgeon-general-00011135">Florida Senate approves DeSantis' controversial pick for surgeon general</a> Politico: The Senate voted 24-15 in favor of Ladapo after about 40 minutes of debate, mostly from Democrats who criticized the Harvard-trained medical doctor for not fully supporting Covid-19 vaccines. 
+ <p class="updated_time"> 06:50 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/trudeau-revokes-emergency-powers-convoy-00011158">Trudeau revokes controversial emergency powers</a> Politico: Lawmakers will study the decision to expand enforcement powers against the convoy blockade. 
  <p class="updated_time"> 06:35 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/bob-beckel-dead.html">Bob Beckel, Liberal Operative Who Became a Fixture on Fox, Dies at 73</a> NYT: He ran Walter Mondale’s 1984 presidential campaign, and later became a curmudgeonly pundit on conservative TV. 
  <p class="updated_time"> 06:21 PM CT, Feb. 23 </p> 
@@ -363,8 +363,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720"> Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
- <p class="updated_time"> 05:31 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/news/2022/02/17/senators-unveil-their-attempt-at-a-symbolic-reprimand-for-russia-00009692">Senate passes symbolic Russia rebuke as Ukraine threat looms</a> Politico: The bipartisan and nonbinding resolution comes as the U.S. ambassador to the United Nations warns "evidence on the ground is that Russia is moving toward an imminent invasion." 
 
 
 </details>
