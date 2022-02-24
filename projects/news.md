@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:06 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 08:22 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Dozens of Ukrainian soldiers are killed as the government vowed an “all-out defense.” NATO’s secretary general condemned the “reckless and unprovoked attack” by Russia. 
- <p class="updated_time"> 07:33 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 08:14 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
  <p class="updated_time"> 07:25 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
+ <p class="updated_time"> 07:25 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
  <p class="updated_time"> 07:23 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA">In pictures: Destruction and fear as war hits Ukraine</a> BBC: Russian forces have crossed Ukraine's borders, bombing military targets near big cities. 
  <p class="updated_time"> 07:17 AM CT, Feb. 24 </p> 
@@ -64,16 +66,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082449712/ukraine-russia-putin-biden-invasion-diplomacy">The strategy behind Russia's sarcastic tone towards the West</a> NPR: Sarcasm isn't a typical approach to diplomacy, but it is one that Russia often takes. While it may seem humorous in the moment, the larger strategy affects how people view the conflict in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
+ <p class="updated_time"> 03:22 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
+ <p class="updated_time"> 03:22 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-invasion-ukraine-nato-unity-europe-11645484383">NATO Chief Condemns Russia's 'Brutal Act of War' Against Ukraine</a> WSJ: Jens Stoltenberg said he would convene a summit of alliance leaders following an activation of defense plans, responding to an invasion that has given NATO a new unity of purpose 
  <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
  <p class="updated_time"> 02:52 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/biden-russia-ukraine-sanctions.html">Biden Plans to Announce ‘Severe Sanctions’ Against Russia Today</a> NYT: Mr. Biden vowed to punish Moscow for “a premeditated war that will bring a catastrophic loss of life and human suffering.” 
  <p class="updated_time"> 02:42 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-war-military.html">Ukraine's Military Is Outgunned by Russia Despite West's Support</a> NYT: The country’s forces “will hold up as long as there are bullets,” a top general said in December. But, he added, “without delivery of reserves, there’s not an army in the world that can hold out.” 
- <p class="updated_time"> 02:38 AM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
- <p class="updated_time"> 01:46 AM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-invasion-ukraine-nato-unity-europe-11645484383">NATO Chief Condemns Russia's 'Brutal Act of War' Against Ukraine</a> WSJ: Jens Stoltenberg said he would convene a summit of alliance leaders following an activation of defense plans, responding to an invasion that has given NATO a new unity of purpose 
  <p class="updated_time"> 01:35 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60492916?at_medium=RSS&at_campaign=KARANGA">Nkosana Makate: The South African set to make millions from Vodacom</a> BBC: South African Nkosana Makate is in line for a huge pay-out after a 14-year court battle with Vodacom. 
  <p class="updated_time"> 01:20 AM CT, Feb. 24 </p> 
@@ -108,8 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60501187?at_medium=RSS&at_campaign=KARANGA">Ukrainians put on united front as Russia crisis mounts</a> BBC: As the future of the country hangs in the balance, Ukrainians put on a united front. 
  <p class="updated_time"> 06:14 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html">White House Prepares Curbs on Russia’s Access to U.S. Technology</a> NYT: Biden administration officials have warned Russia that it could face further restrictions on technology that is critical to its economy and military. 
- <p class="updated_time"> 06:01 PM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60500307?at_medium=RSS&at_campaign=KARANGA">Why China matters in the Ukraine conflict</a> BBC: Beijing does billions of dollars of trade and business with both Kyiv and Moscow. 
  <p class="updated_time"> 05:43 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-60501607?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: 'Everyone is scared', say families evacuated to Russia</a> BBC: Some families arriving in Russia from eastern Ukraine told the BBC they were afraid, and worried about food and accommodation. 
  <p class="updated_time"> 05:37 PM CT, Feb. 23 </p> 
@@ -156,18 +156,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Where are Russia's troops?</a> BBC: Up to 190,000 troops are positioned near Ukraine's borders. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082510234/russia-ukraine-updates">Russia invades Ukraine as explosions are heard in Kyiv and other cities</a> NPR: The Russian invasion stirs international condemnation, roils global markets and a promise by Ukraine's president to defend the country. 
- <p class="updated_time"> 06:05 AM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60493197?at_medium=RSS&at_campaign=KARANGA">Migrants clash with police in Mexico border town</a> BBC: More than 20 people were injured in the confrontation in Tapachula, on Mexico's southern border. 
  <p class="updated_time"> 05:13 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60490247?at_medium=RSS&at_campaign=KARANGA">Inventing Anna: Fake heiress drama tops Netflix ratings</a> BBC: The drama sets a record for the most hours viewed for an English-language series in a single week. 
  <p class="updated_time"> 04:05 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082498160/wildfires-will-increase-and-worsen-globally-u-n-warns">Wildfires will increase and worsen globally, U.N. warns</a> NPR: The study being released on Wednesday warns of spikes in unhealthy smoke pollution and other problems coming from the increased threat of catastrophic wildfires. 
  <p class="updated_time"> 04:00 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082370619/migration-climate-change-disaster">The first step to preparing for surging climate migration? Defining it</a> NPR: Anywhere from tens of millions to a billion people could become climate migrants by 2050, according to a report from the RAND Corporation. The number varies widely depending on the definition used. 
- <p class="updated_time"> 01:18 AM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60489203?at_medium=RSS&at_campaign=KARANGA">Chetan Kumar: Indian actor arrested for tweet on Karnataka hijab row judge</a> BBC: Chetan Kumar was held for criticising a judge who is hearing pleas against a ban on hijabs in schools. 
- <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60489660?at_medium=RSS&at_campaign=KARANGA">Australia floods: Woman killed as flash floods hit east coast</a> BBC: Flash floods hit multiple states, with some areas receiving up to 400mm of rain in 24 hours. 
  <p class="updated_time"> 10:46 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082483555/tongas-internet-restored-5-weeks-after-big-eruption">Tonga's internet is restored 5 weeks after big volcanic eruption</a> NPR: The restoration of the internet comes as the South Pacific island nation grapples with its first outbreak of the coronavirus. 
  <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
@@ -199,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082749756/additional-global-sanctions-will-be-a-blow-to-putin-sen-klobuchar-says">Additional global sanctions will be a blow to Putin, Sen. Klobuchar says</a> NPR: NPR's Rachel Martin talks to Democratic Sen. Amy Klobuchar of Minnesota about Russia's invasion of Ukraine, and how Congress plans to punish Russian President Vladimir Putin. 
  <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/24/war-in-europe-00011319"> War in Europe</a> Politico Playbook: And Rick Scott kicks off an ad campaign for his policy platform. 
+ <p class="updated_time"> 06:07 AM CT, Feb. 24 </p> 
+ <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
@@ -319,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082332205/leading-republican-echoes-trumps-american-carnage-message-for-the-midterms">Leading Republican echoes Trump's American Carnage message for the midterms</a> NPR: Florida Sen. Rick Scott, who leads the party's Senate campaign operation, claims "the hour for America is late" in a new outline for his midterm campaign message that leans heavily into culture wars. 
  <p class="updated_time"> 01:13 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082283039/the-irs-is-allowing-taxpayers-to-opt-out-of-facial-recognition-to-verify-account">The IRS is allowing taxpayers to opt out of facial recognition to verify accounts</a> NPR: The tax collecting agency has backed away from requiring all users with individual accounts to submit selfies to a private company. 
- <p class="updated_time"> 11:01 AM CT, Feb. 22 </p> 
- <a href="https://www.cnn.com/2022/02/22/politics/arizona-election-changes-ctzn/index.html">Arizona is ground zero for election changes</a> CNN: A version of this story appeared in the CITIZEN BY CNN newsletter. To get it in your inbox, sign up for free here. 
  <p class="updated_time"> 07:26 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/22/nein-to-nord-stream-2-00010540">Nein to Nord Stream 2</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:33 AM CT, Feb. 22 </p> 
