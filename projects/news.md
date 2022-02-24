@@ -8,18 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:57 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Russia Begins Invasion of Ukraine From Land and Sea</a> NYT: Several Ukrainian cities were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 12:15 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Several Ukrainian cities were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 12:07 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia announces special military operation in Donbas</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
+ <p class="updated_time"> 11:59 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Eve of War, No Exodus From Ukraine, Only Anxiety and Disbelief</a> NYT: When Russian troops moved into eastern Ukraine, some began to travel westward, filled with doubt about the future but saying they planned — or hoped — to return. 
  <p class="updated_time"> 11:52 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/24/1082716731/emergency-u-n-meeting-is-interrupted-by-russias-invasion-of-ukraine">Emergency U.N. meeting is interrupted by Russia's invasion of Ukraine</a> NPR: The urgent U.N. Security Council meeting was meant as an eleventh hour effort to dissuade Russia from sending troops into Ukraine. But the message became moot even as it was being delivered. 
- <p class="updated_time"> 11:16 PM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia announces special military operation in Donbas</a> BBC: Vladimir Putin threatened any nations that "interfere" would draw "consequences they have never seen". 
  <p class="updated_time"> 11:06 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/article/ukraine-russia-putin.html">The Ukraine Crisis: What to Know About Why Russia Attacked</a> NYT: Here’s why Ukraine’s relevance extends far beyond its borders. 
  <p class="updated_time"> 11:02 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
- <p class="updated_time"> 10:51 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Eve of War, No Exodus From Ukraine, Only Anxiety and Disbelief</a> NYT: When Russian troops moved into eastern Ukraine, some began to travel westward, filled with doubt about the future but saying they planned — or hoped — to return. 
  <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">Many Russians Feel a Deep Unease Over Going to War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
@@ -50,6 +50,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082602594/ukraine-crisis-draws-new-resolve-from-bipartisan-lawmakers-with-some-gop-critics">Ukraine crisis draws new resolve from bipartisan lawmakers — with some GOP critics</a> NPR: Congressional lawmakers are sounding a new bipartisan tone against a rising threat led by Russian President Vladimir Putin. Still, there is GOP divide on how President Biden should move forward. 
  <p class="updated_time"> 05:19 PM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraine-crisis-kicks-off-new-superpower-struggle-among-u-s-russia-and-china-11645629753">Ukraine Crisis Kicks Off New Superpower Struggle Among U.S., Russia and China</a> WSJ: Beijing and Moscow now hold a stronger hand in confronting the West than during the Cold War. 
+ <p class="updated_time"> 05:14 PM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: Measures are expected to target Russian banks and debt, ban exports of technology critical to industry. 
+ <p class="updated_time"> 05:09 PM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/nicaragua-convicts-seven-of-president-ortegas-opponents-in-mass-trial-11645675796">Nicaragua Convicts Seven of President Ortega's Opponents</a> WSJ: A judge convicted the political and business leaders, including three would-be presidential candidates, on a charge akin to treason, with prosecutors requesting sentences from eight to 13 years in prison. 
  <p class="updated_time"> 05:05 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60486726?at_medium=RSS&at_campaign=KARANGA">Amsterdam Apple store: Man arrested over hostage standoff dies</a> BBC: A 27-year-old man who launched a hostage situation at an Apple store has died in hospital. 
  <p class="updated_time"> 04:56 PM CT, Feb. 23 </p> 
@@ -70,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60501045?at_medium=RSS&at_campaign=KARANGA">Breonna Taylor: Officer was reckless during deadly raid, prosecutors say</a> BBC: Ms Taylor was killed during a police raid and her death triggered widespread racial justice rallies. 
  <p class="updated_time"> 03:07 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-target.html">The Potentially Grim Fate of a Ukrainian Town Called ‘Happiness’</a> NYT: If Russia invades, military analysts say, the border settlement’s Russian-sympathizing citizenry and its prize power plant make it a likely starting point. 
- <p class="updated_time"> 02:46 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/eu-to-sanction-russian-defense-minister-internet-research-agency-11645615176">U.S., Europe Ramp Up Sanctions on Russia</a> WSJ: The EU has targeted Russia’s defense minister and the Internet Research Agency, as the West responds to Moscow’s recognition of two separatist regions in eastern Ukraine and the deployment of Russian forces into the area. 
  <p class="updated_time"> 02:42 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60498965?at_medium=RSS&at_campaign=KARANGA">Why are black Americans being punished for their hair?</a> BBC: Many black people in the US are embracing their natural curls. But now there’s a backlash. 
  <p class="updated_time"> 02:29 PM CT, Feb. 23 </p> 
