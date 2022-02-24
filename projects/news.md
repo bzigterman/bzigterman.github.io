@@ -8,14 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:20 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 06:49 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Explosions are heard across Ukraine as Russia attacks from multiple directions. President Volodymyr Zelensky of Ukraine declares martial law. 
+ <p class="updated_time"> 06:39 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
+ <p class="updated_time"> 06:36 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/queen-elizabeth-covid.html">Queen Elizabeth Cancels Virtual Events for 2nd Time Since Covid Test</a> NYT: The 95-year-old queen would be “continuing with light duties,” Buckingham Palace said, and she has no other engagements scheduled this week. 
+ <p class="updated_time"> 06:35 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/pakistans-leader-is-in-moscow-to-meet-with-putin-about-a-gas-pipeline.html">Pakistan’s leader is in Moscow to meet with Putin about a gas pipeline.</a> NYT: Prime Minister Imran Khan’s long-planned visit began hours before Russian forces attacked Ukraine. 
+ <p class="updated_time"> 06:29 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60492860?at_medium=RSS&at_campaign=KARANGA">How hard will it be to defend Ukraine from Russian invasion?</a> BBC: Ukraine is outgunned and outnumbered - and the invasion by Russian forces threatens to be bloody. 
+ <p class="updated_time"> 06:26 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA">In pictures: Destruction and fear as war hits Ukraine</a> BBC: Russian forces have crossed Ukraine's borders, bombing military targets near big cities. 
+ <p class="updated_time"> 06:23 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-60508861?at_medium=RSS&at_campaign=KARANGA">In full: UK PM makes statement on Ukraine invasion</a> BBC: The PM also addresses Russian people and says he doesn't believe the attack is being done in their name. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/japan-russia-sanctions.html">Japan Moves to Enact Sanctions Against Russia</a> NYT: Japan was previously reluctant to impose sanctions. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/un-security-council-russia-ukraine.html">As U.N. Security Council Met to Stop Military Action by Putin, Russia Attacked Ukraine</a> NYT: The United States said the Council would meet on Thursday to vote on a resolution condemning Russia’s actions. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60509493?at_medium=RSS&at_campaign=KARANGA">BBC Ukraine editor: There is no safe place anymore</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes shock and panic in the capital, Kyiv. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60509493?at_medium=RSS&at_campaign=KARANGA">BBC Ukraine editor: There is no safe place any more</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes shock and panic in the capital, Kyiv. 
  <p class="updated_time"> 06:12 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/roman-era-london-mosaics.html">Roman Mosaics Point to Rowdy London District’s High-End Side</a> NYT: The discovery of the two mosaics in Southwark, across the Thames from the City of London, has been greeted by archaeologists as “exceptional.” 
  <p class="updated_time"> 06:12 AM CT, Feb. 24 </p> 
@@ -32,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60509373?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My mother said war has started' - resident fleeing capital</a> BBC: Russia has launched a major military assault on Ukraine, with reports of missile strikes and explosions. 
  <p class="updated_time"> 05:18 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/navalny-russia-ukraine.html">Navalny Condemns Putin's Invasion of Ukraine</a> NYT: The opposition politician accused the Russian leader of using the attack to divert attention away from the country’s own internal problems. 
- <p class="updated_time"> 04:40 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
  <p class="updated_time"> 04:34 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
  <p class="updated_time"> 04:33 AM CT, Feb. 24 </p> 
@@ -50,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082449712/ukraine-russia-putin-biden-invasion-diplomacy">The strategy behind Russia's sarcastic tone towards the West</a> NPR: Sarcasm isn't a typical approach to diplomacy, but it is one that Russia often takes. While it may seem humorous in the moment, the larger strategy affects how people view the conflict in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
- <p class="updated_time"> 03:56 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA">In pictures: Destruction and fear as war hits Ukraine</a> BBC: Russian forces have crossed Ukraine's borders, bombing military targets near big cities. 
  <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
  <p class="updated_time"> 03:16 AM CT, Feb. 24 </p> 
@@ -60,6 +68,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/biden-russia-ukraine-sanctions.html">Biden Plans to Announce ‘Severe Sanctions’ Against Russia Today</a> NYT: Mr. Biden vowed to punish Moscow for “a premeditated war that will bring a catastrophic loss of life and human suffering.” 
  <p class="updated_time"> 02:42 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-war-military.html">Ukraine's Military Is Outgunned by Russia Despite West's Support</a> NYT: The country’s forces “will hold up as long as there are bullets,” a top general said in December. But, he added, “without delivery of reserves, there’s not an army in the world that can hold out.” 
+ <p class="updated_time"> 01:46 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-invasion-ukraine-nato-unity-europe-11645484383">NATO Chief Condemns Russia's 'Brutal Act of War' Against Ukraine</a> WSJ: Jens Stoltenberg said he would convene a summit of alliance leaders following an activation of defense plans, responding to an invasion that has given NATO a new unity of purpose 
  <p class="updated_time"> 01:35 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60492916?at_medium=RSS&at_campaign=KARANGA">Nkosana Makate: The South African set to make millions from Vodacom</a> BBC: South African Nkosana Makate is in line for a huge pay-out after a 14-year court battle with Vodacom. 
  <p class="updated_time"> 01:20 AM CT, Feb. 24 </p> 
@@ -73,7 +83,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:52 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/24/1082716731/emergency-u-n-meeting-is-interrupted-by-russias-invasion-of-ukraine">Emergency U.N. meeting is interrupted by Russia's invasion of Ukraine</a> NPR: The urgent U.N. Security Council meeting was meant as an eleventh hour effort to dissuade Russia from sending troops into Ukraine. But the message became moot even as it was being delivered. 
  <p class="updated_time"> 11:50 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: Measures are expected to target Russian banks and debt, ban exports of technology critical to industry. 
+ <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: The measures are expected to target Russian banks and debt and ban exports of technology critical to industry. 
  <p class="updated_time"> 11:03 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russia-invasion.html">Putin Announces Start to ‘Military Operation’ Against Ukraine</a> NYT: “The invasion has begun,” Ukraine’s Interior Ministry said. Putin says he seeks “demilitarization” of Ukraine but has no plans to occupy it. 
  <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
@@ -84,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/putin-speech-russia-ukraine.html">Putin's Speech, Annotated: A Close Look at the Russian Leader's Ukraine Address</a> NYT: In an impassioned address about Ukraine, Russia’s leader laid bare grievances old and new. We took at look at what it might mean. 
  <p class="updated_time"> 10:29 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-ukraine-mercenaries.html">Russian Mercenaries Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
- <p class="updated_time"> 10:25 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-invasion-ukraine-nato-unity-europe-11645484383">Russian Invasion of Ukraine Forges New Unity for NATO</a> WSJ: The end of the Cold War and years of relative peace in Europe left NATO without a clear mission. Russian aggression has given the alliance a new unity of purpose. 
  <p class="updated_time"> 09:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
  <p class="updated_time"> 09:22 PM CT, Feb. 23 </p> 
@@ -134,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging 'false flag' incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
  <p class="updated_time"> 01:49 PM CT, Feb. 23 </p> 
  <a href="https://www.wsj.com/articles/canadas-trudeau-revokes-use-of-emergency-powers-11645651455">Canada's Trudeau Revokes Use of Emergency Powers</a> WSJ: Prime Minister Justin Trudeau said his government no longer required emergency powers to deal with protests against Covid-19 restrictions, amid mounting criticism from civil-liberties groups and some Canadian politicians. 
- <p class="updated_time"> 12:34 PM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-60496122?at_medium=RSS&at_campaign=KARANGA">Putin has gone ‘full tonto’ over actions in Ukraine - Ben Wallace</a> BBC: Defence Secretary Ben Wallace says Putin has made the mistake of having no allies in his actions. 
  <p class="updated_time"> 12:26 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60492051?at_medium=RSS&at_campaign=KARANGA">US trucker convoys prompt National Guard deployment in Washington</a> BBC: Hundreds of unarmed troops will man traffic posts from Saturday ahead of the convoy's arrival. 
  <p class="updated_time"> 12:19 PM CT, Feb. 23 </p> 
@@ -144,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082549969/phil-mickelson-saudi-arabiagolf">Phil Mickelson apologizes for controversial comments about a Saudi-backed golf league</a> NPR: The six-time major winner said he "used words I sincerely regret" in an interview about a Saudi-financed golf league in which he brushed aside human rights violations by the Saudi regime. 
  <p class="updated_time"> 11:31 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/uk-coronavirus-restrictions-vulnerable.html">For Some in U.K., End of Covid Restrictions Threatens More Isolation</a> NYT: Prime Minister Boris Johnson is abolishing Covid regulations to move “back towards normality.” But people at high risk from the disease say the move will constrict their lives instead. 
- <p class="updated_time"> 11:23 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/china-russia-ukraine-sanctions.html">China Criticizes Sanctions Against Russia as Ineffective</a> NYT: Beijing said the penalties could hurt average people and its own interests. 
  <p class="updated_time"> 10:11 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60158694?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Where are Russia's troops?</a> BBC: Up to 190,000 troops are positioned near Ukraine's borders. 
  <p class="updated_time"> 07:54 AM CT, Feb. 23 </p> 
@@ -160,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082370619/migration-climate-change-disaster">The first step to preparing for surging climate migration? Defining it</a> NPR: Anywhere from tens of millions to a billion people could become climate migrants by 2050, according to a report from the RAND Corporation. The number varies widely depending on the definition used. 
  <p class="updated_time"> 03:59 AM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-europe-refugees.html">Europe Prepares for Ukraine Refugees as Aid Groups Warn of Crisis</a> NYT: “If war breaks out, the consequences for the Ukrainian people — and for Europe — cannot be overstated,” said one humanitarian official. 
- <p class="updated_time"> 02:44 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/sports/russia-ukraine-football.html">How Sanctions on Russia Could Affect Champions League and Top Soccer Clubs</a> NYT: The most vocal opposition has come from Britain, which could supply one or both of the final’s participants. 
  <p class="updated_time"> 01:18 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60489203?at_medium=RSS&at_campaign=KARANGA">Chetan Kumar: Indian actor arrested for tweet on Karnataka hijab row judge</a> BBC: Chetan Kumar was held for criticising a judge who is hearing pleas against a ban on hijabs in schools. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
@@ -184,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60484459?at_medium=RSS&at_campaign=KARANGA">New York crime: Will more police flatten a wave of gun violence?</a> BBC: "Bullets are flying everywhere". Gun crime in NYC is up by a third - will a new action plan help? 
  <p class="updated_time"> 04:24 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/russia-putin-ukraine-europe-cold-war-nato.html">The Limits of a Europe Whole and Free</a> NYT: Vladimir Putin sets down a marker in Ukraine. Does the West have the means to stop him? 
- <p class="updated_time"> 05:29 AM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-60473918?at_medium=RSS&at_campaign=KARANGA">Petrópolis: A perfect storm of weather extremes and deep inequality</a> BBC: Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday. 
  <p class="updated_time"> 06:03 PM CT, Feb. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60408913?at_medium=RSS&at_campaign=KARANGA">Japanese internment camps: How a long-lost kimono unearthed a family secret</a> BBC: The US imprisoned Japanese Americans 80 years ago - now the younger generation are asking questions. 
 
@@ -195,6 +195,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/24/washington-wakes-to-assault-on-ukraine-00011325">Washington wakes to assault on Ukraine</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/24/war-in-europe-00011319"> War in Europe</a> Politico Playbook: And Rick Scott kicks off an ad campaign for his policy platform. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
@@ -369,8 +371,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/17/blinken-to-deliver-remarks-on-russian-threat-to-peace-and-security-at-u-n-security-council-00009733">U.S. sounds new alarms on Ukraine and details Russian invasion plan</a> Politico: The remarks from top U.S. officials come as the United States has seen no de-escalation of troops at the Ukranian border. 
  <p class="updated_time"> 07:40 AM CT, Feb. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/17/cr-stars-in-pre-recess-rerun-00009726">CR stars in pre-recess rerun</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:27 AM CT, Feb. 17 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/17/operation-stop-greitens-goes-awry-00009720"> Operation ‘Stop Greitens’ goes awry</a> Politico Playbook: And a bipartisan group of senators push for a symbolic reprimand of Russia. 
 
 
 </details>
