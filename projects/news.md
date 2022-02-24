@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:47 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/kentucky-coronavirus-cases-covid.html">Cases Decline in Kentucky but Hospitalizations and Positivity Rate Remain High</a> NYT: Only 56 percent of state residents are vaccinated, well below the national average. “We would like to see all of those numbers get better,” Gov. Andy Beshear said this week. 
+ <p class="updated_time"> 04:41 PM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60512531?at_medium=RSS&at_campaign=KARANGA">Ex-police officers guilty in George Floyd death</a> BBC: Tou Thao, J Alexander Kueng and Thomas Lane were convicted of denying George Floyd his civil rights. 
  <p class="updated_time"> 04:34 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Biden Vows Putin Will Pay for Ukraine Invasion</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said, announcing new sanctions in his first public remarks since Russia’s assault began. 
  <p class="updated_time"> 04:25 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082919477/for-ukrainian-americans-unity-against-putin-has-solidified-their-bonds">For Ukrainian-Americans, unity against Putin has solidified their bonds</a> NPR: Ukrainian-Americans were previously split by generation and religious identity. One Harvard scholar says that the past decade of actions by Russian President Putin has made the community more united. 
  <p class="updated_time"> 04:24 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/sanctions-on-russia-biden.html">Biden Says Putin Will 'Bear the Consequences,' Announces New Sanctions</a> NYT: Mr. Biden said the United States would cut off Russia’s largest banks and largest companies from the western financial markets, freeze assets of Russian elites and restrict exports of technology to Russia. 
- <p class="updated_time"> 04:16 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60512531?at_medium=RSS&at_campaign=KARANGA">Ex-police officers guilty in George Floyd death</a> BBC: Tou Thao, J Alexander Kueng and Thomas Lane were convicted of denying George Floyd his civil rights. 
  <p class="updated_time"> 04:16 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082926832/russia-faces-the-nuclear-option-of-being-ousted-from-the-swift-banking-system">Russia faces the 'nuclear option' of being ousted from the SWIFT banking system</a> NPR: SWIFT underpins the global financial system, handling millions of secure messages every day. Cutting Russia off from the SWIFT could have a major impact on its economy, experts say. 
  <p class="updated_time"> 04:14 PM CT, Feb. 24 </p> 
@@ -37,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082918751/the-latest-on-russias-attacks-on-ukraine">The latest on Russia's multidirectional assault on Ukraine</a> NPR: The latest on the fighting in Ukraine after Russia launched an invasion of the country. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082918737/russian-americans-react-to-russian-invasion-in-ukraine">Russian Americans react to Russian invasion in Ukraine</a> NPR: We hear Russian American reactions to Russia's invasion in Ukraine. 
+ <a href="https://www.npr.org/2022/02/24/1082918737/russian-americans-react-to-russian-invasion-in-ukraine">Russian Americans react to Russian invasion in Ukraine</a> NPR: Russians and Ukrainians living in the U.S. are watching events unfold with a mix of worry and inevitability. Russians in particular see a divide between young and old. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082918651/sen-warner-on-u-s-response-to-russian-invasion-of-ukraine">Sen. Warner on U.S. response to Russian invasion of Ukraine</a> NPR: NPR's Ayesha Rascoe speaks with Sen. Mark Warner, chairman of the intelligence committee, about the latest on the Russian invasion of Ukraine, and how the U.S. plans to respond. 
  <p class="updated_time"> 03:14 PM CT, Feb. 24 </p> 
@@ -81,7 +83,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:28 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA">In pictures: Destruction and fear as war hits Ukraine</a> BBC: Russian forces have crossed Ukraine's borders, bombing military targets near big cities. 
  <p class="updated_time"> 12:27 PM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082806285/ukraine-ambassador-russia-security-council">TRANSCRIPT: Ukraine's U.N. ambassador pleads for Russia to stop war</a> NPR: Ukraine's U.N. Ambassador Sergiy Kyslytsya delivered a charged address at the Security Council, demanding the Russian representative phone Moscow to call off the war. 
+ <a href="https://www.npr.org/2022/02/24/1082806285/ukraine-ambassador-russia-security-council">Read the impassioned plea from Ukraine's U.N. ambassador to Russia to stop the war</a> NPR: Ukraine's U.N. Ambassador Sergiy Kyslytsya delivered a charged address at the Security Council, demanding the Russian representative phone Moscow to call off the war. 
  <p class="updated_time"> 12:18 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1073015013/ukraine-russia-invasion-war-diplomacy">In Ukraine, the road to war was paved by the failure of diplomacy</a> NPR: The invasion of Ukraine occurred despite weeks of diplomatic efforts, including calls between President Biden and Russian President Vladimir Putin and European leaders' visits to Putin in Moscow. 
  <p class="updated_time"> 12:13 PM CT, Feb. 24 </p> 
@@ -94,6 +96,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082832978/ukraine-kyiv-residents-flee">With Ukraine under attack, Kyiv's residents rush to stock up and reach safety</a> NPR: Many Ukrainians had been maintaining a state of calm as warning signs grew of a Russian invasion. But Russia's wide-scale attack on Ukraine has dramatically changed the mood in the nation's capital. 
  <p class="updated_time"> 11:43 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-expats-invasion-protest.html">Ukrainians Abroad Talk of Shock and Disbelief as Homeland Is Invaded</a> NYT: Across Europe, Ukrainian expatriates looked on in horror at the scenes of destruction back home, and expressed feelings of hopelessness. 
+ <p class="updated_time"> 11:40 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Invades Ukraine, Aims to Oust Leadership</a> WSJ: Airstrikes hit cities, tanks roll in and casualties mount in what President Biden calls an unprovoked attack, as West pledges further action against Moscow. 
  <p class="updated_time"> 11:37 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60507209?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis and Africa: The effects on oil, students and bread</a> BBC: The war in Ukraine could threaten the economies and the stability of some African states. 
  <p class="updated_time"> 11:36 AM CT, Feb. 24 </p> 
@@ -114,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008225573/kyiv-ukraine-russia-bombing.html">After Attack on Ukraine, Residents Flee West</a> NYT: Families fleeing Thursday’s attack in Kyiv were stuck in traffic for miles on the capital’s longest avenue, as they tried to escape the advancement of Russian troops. 
  <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/pentagon-russia-ukraine.html">Pentagon Offers Grim Assessment of Early Stages of Russian Invasion</a> NYT: Russian military forces are moving to decapitate the Ukrainian government in Kyiv, the Pentagon said. 
- <p class="updated_time"> 10:26 AM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Invades Ukraine, Aims to Oust Leadership</a> WSJ: Airstrikes hit cities, tanks roll in and casualties mount in what President Biden calls an unprovoked attack, as West pledges further action against Moscow. 
  <p class="updated_time"> 10:07 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
  <p class="updated_time"> 09:54 AM CT, Feb. 24 </p> 
@@ -174,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60501632?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Sirens heard during BBC reporter's broadcast in Kyiv</a> BBC: Nick Beake reports from Kyiv after President Putin announces a 'military operation' in Ukraine's eastern Donbas region. 
  <p class="updated_time"> 11:03 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russia-invasion.html">Putin Announces Start to ‘Military Operation’ Against Ukraine</a> NYT: “The invasion has begun,” Ukraine’s Interior Ministry said. Putin says he seeks “demilitarization” of Ukraine but has no plans to occupy it. 
- <p class="updated_time"> 10:39 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/russia-ukraine-war-putin.html">Why Many Russians Feel a Deep Unease Over Going to War</a> NYT: After months of tuning out American warnings that Vladimir Putin was preparing to invade Ukraine, Russians now realize that “this is not a game.” 
  <p class="updated_time"> 10:34 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
  <p class="updated_time"> 07:17 PM CT, Feb. 23 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/rights-violations-police-george-floyd-killing-00011582">3 former cops convicted of rights violations in Floyd killing</a> Politico: The videotaped killing sparked protests in Minneapolis that spread around the globe as part of reckoning over racial injustice. 
  <p class="updated_time"> 05:00 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/putin-was-playing-biden-all-along-00011555">Putin was playing Biden all along</a> Politico: The U.S. president and his aides thought they could manage Putin. Their calculations were dead wrong. 
  <p class="updated_time"> 04:25 PM CT, Feb. 24 </p> 
@@ -201,8 +203,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/us/politics/sanctions-on-russia-biden.html">Biden Says Putin Will 'Bear the Consequences,' Announces New Sanctions</a> NYT: Mr. Biden said the United States would cut off Russia’s largest banks and largest companies from the western financial markets, freeze assets of Russian elites and restrict exports of technology to Russia. 
  <p class="updated_time"> 03:53 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/biden-squeeze-russia-putin-technology-00011501">How Biden plans to squeeze Putin's global access to high tech</a> Politico: Export controls announced Thursday are designed to undermine Russia's defense, maritime and aerospace industries, the president said. 
- <p class="updated_time"> 03:44 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/miami-dade-mayor-daniella-levine-cava-shifts-away-from-crisis-and-into-pandemic-safety-00011449">Miami-Dade mayor says city is moving from crisis to Covid-19 'safety mode'</a> Politico: Daniella Levine Cava is the first woman to be elected mayor in Miami. 
  <p class="updated_time"> 03:37 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/this-madness-has-to-stop-canada-slaps-russia-with-sanctions-00011480">‘This madness has to stop’ — Canada slaps Russia with more sanctions</a> Politico: Foreign Affairs Minister Mélanie Joly: “We want to make sure to put maximum pressure on Vladimir Putin's regime." 
  <p class="updated_time"> 03:36 PM CT, Feb. 24 </p> 
