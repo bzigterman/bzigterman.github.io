@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Dozens of Ukrainian soldiers are killed as the government vowed an “all-out defense.” NATO’s secretary general condemned the “reckless and unprovoked attack” by Russia. 
+ <p class="updated_time"> 09:45 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Dozens of Ukrainian soldiers are killed as the government vowed an “all-out defense.” Putin warns the world that Russia “remains one of the most powerful nuclear states.” NATO’s secretary general condemned the “reckless and unprovoked attack.” 
+ <p class="updated_time"> 09:44 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/russia-ukraine-putin-personality.html">Russians Now See a New Side to Putin: Dragging Them Into War</a> NYT: The autocrat who has steered Russia for 21 years was embraced by many Russians for what they saw as his rationality and astute risk management. That image has been upended. 
+ <p class="updated_time"> 09:44 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008225573/kyiv-ukraine-russia-bombing.html">After Attack on Ukraine, Residents Flee West</a> NYT: Families fleeing Thursday’s attack in Kyiv were stuck in traffic for miles on the capital’s longest avenue, as they tried to escape the advancement of Russian troops. 
+ <p class="updated_time"> 09:42 AM CT, Feb. 24 </p> 
+ <a href="https://www.npr.org/2022/02/24/1082794434/russia-gazprom-logo-soccer">A German soccer team is removing a Russian logo from jerseys over the Ukraine attacks</a> NPR: The logo of Russian state-owned energy giant Gazprom is being removed. The team said the logo will be replaced by lettering reading "Schalke 04" instead following what it called "recent developments." 
  <p class="updated_time"> 09:30 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Putin’s Forces Attack Ukraine</a> NYT: Ukraine’s government said it faced “a full-scale attack from multiple directions.” World leaders condemned President Vladimir Putin’s actions. 
  <p class="updated_time"> 09:27 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60507016?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict world reaction: Sanctions, refugees and fears of war</a> BBC: Outrage in the West, and China balks at the word invasion. How Ukraine is shaking the globe. 
- <p class="updated_time"> 09:24 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008225573/kyiv-ukraine-russia-bombing.html">After Attack on Ukraine, Residents Flee West</a> NYT: Families fleeing Thursday’s attack in Kyiv were stuck in traffic for miles on the capital’s longest avenue, as they tried to escape the advancement of Russian troops. 
  <p class="updated_time"> 09:16 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
  <p class="updated_time"> 09:14 AM CT, Feb. 24 </p> 
@@ -79,9 +83,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:44 AM CT, Feb. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-sanctions-us-allies-ukraine-invasion-11645670173">U.S., Allies Poised to Hit Russia With Broad Sanctions for Ukraine Invasion</a> WSJ: The measures are expected to target Russian banks and debt and ban exports of technology critical to industry. 
  <p class="updated_time"> 03:22 AM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
- <p class="updated_time"> 03:22 AM CT, Feb. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-invasion-ukraine-nato-unity-europe-11645484383">NATO Chief Condemns Russia's 'Brutal Act of War' Against Ukraine</a> WSJ: Jens Stoltenberg said he would convene a summit of alliance leaders following an activation of defense plans, responding to an invasion that has given NATO a new unity of purpose 
+ <p class="updated_time"> 03:22 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
  <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
  <p class="updated_time"> 02:52 AM CT, Feb. 24 </p> 
@@ -172,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082483555/tongas-internet-restored-5-weeks-after-big-eruption">Tonga's internet is restored 5 weeks after big volcanic eruption</a> NPR: The restoration of the internet comes as the South Pacific island nation grapples with its first outbreak of the coronavirus. 
  <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082478790/trump-praises-putin-as-savvy-amid-new-escalations-on-russia-ukraine-border">Trump praises Putin as 'savvy' amid new escalations on Russia-Ukraine border</a> NPR: The former president lauded the Russian strongman for his recent declarations on Ukraine, while criticizing U.S. President Biden as "man that has no concept of what he's doing." 
- <p class="updated_time"> 08:35 PM CT, Feb. 22 </p> 
- <a href="https://www.npr.org/2022/02/22/1082478789/archaeologists-find-a-9-000-year-old-shrine-in-the-desert-in-jordan">Archaeologists find a 9,000-year-old shrine in the desert in Jordan</a> NPR: Researchers said the find "sheds an entire new light on the symbolism, artistic expression as well as spiritual culture of these hitherto unknown Neolithic populations." 
  <p class="updated_time"> 08:20 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60412126?at_medium=RSS&at_campaign=KARANGA">Why Kenyan music is drowned out by Nigerian sounds</a> BBC: A Kenyan proposal hopes to cut the airplay time for foreign music to allow local artists to thrive. 
  <p class="updated_time"> 06:32 PM CT, Feb. 22 </p> 
@@ -195,6 +197,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:49 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/russian-oil-shock-looms-over-fed-fight-against-inflation-00011052">Russia oil shock looms over Fed inflation fight</a> Politico: The Fed is already expected to begin a campaign of interest rate increases next month in a bid to remove its support for economic growth amid a blistering job market and rapidly rising prices. 
+ <p class="updated_time"> 09:38 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/business/media/sarah-palin-lawyers-new-york-times.html">Sarah Palin Will Seek New Trial in New York Times Libel Case</a> NYT: Lawyers have told a federal judge that they will file several motions scrutinizing the timing of his announcement that he intended to dismiss the case for lack of evidence. 
  <p class="updated_time"> 08:56 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/zelenskyy-russia-path-of-evil-00011327">Zelenskyy: ‘Russia is on the path of evil’</a> Politico: The Ukrainian president said his country “is being attacked from the air, from the north to the south.” 
  <p class="updated_time"> 08:53 AM CT, Feb. 24 </p> 
@@ -241,8 +245,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082602594/ukraine-crisis-draws-new-resolve-from-bipartisan-lawmakers-with-some-gop-critics">Ukraine crisis draws new resolve from bipartisan lawmakers — with some GOP critics</a> NPR: Congressional lawmakers are sounding a new bipartisan tone against a rising threat led by Russian President Vladimir Putin. Still, there is GOP divide on how President Biden should move forward. 
  <p class="updated_time"> 05:33 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/china-trump-justice-department.html">Justice Dept. to End Trump-Era Initiative to Deter Chinese Threats</a> NYT: The agency will instead introduce a broader strategy meant to address threats from a slate of hostile nations. 
- <p class="updated_time"> 05:20 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/business/media/sarah-palin-lawyers-new-york-times.html">Sarah Palin Will Seek New Trial in New York Times Libel Case</a> NYT: Lawyers have told a federal judge that they will file several motions scrutinizing the timing of his announcement that he intended to dismiss the case for lack of evidence. 
  <p class="updated_time"> 05:02 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/north-carolina-maps-democrats.html">North Carolina Court Imposes New District Map, Eliminating G.O.P. Edge</a> NYT: The map appears to split the state’s 14 congressional districts roughly equally between Republicans and Democrats, with two seats seen as tossups. 
  <p class="updated_time"> 04:47 PM CT, Feb. 23 </p> 
