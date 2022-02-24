@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:52 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 03:04 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 02:57 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60504334?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What we know about the invasion</a> BBC: Russia has launched a large-scale military attack on its southern neighbour - here's what we know. 
  <p class="updated_time"> 02:52 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/biden-russia-ukraine-sanctions.html">Biden Plans to Announce ‘Severe Sanctions’ Against Russia Today</a> NYT: Mr. Biden vowed to punish Moscow for “a premeditated war that will bring a catastrophic loss of life and human suffering.” 
  <p class="updated_time"> 02:49 AM CT, Feb. 24 </p> 
