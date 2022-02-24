@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:45 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 08:21 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
+ <p class="updated_time"> 08:21 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Live Updates: Pentagon Says Russian Invasion of Ukraine Appears Imminent</a> NYT: President Volodymyr Zelensky of Ukraine appealed directly to the Russian people to avert war. The Kremlin said leaders of two breakaway areas in Ukraine had requested protection. 
- <p class="updated_time"> 07:38 PM CT, Feb. 23 </p> 
+ <p class="updated_time"> 07:59 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/eu-sanctions-putin-russia-ukraine.html">European Sanctions Target Putin’s Inner Circle</a> NYT: The measures, coinciding with new U.S. moves, were designed to hurt individuals but not average Russians. But more will follow if Russia fully invades Ukraine. 
  <p class="updated_time"> 07:17 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/asia/china-xi-jinping-world.html">How China and Xi Jinping Have Turned on the Outside World</a> NYT: Global engagement has helped the nation prosper. But now, its leader seems intent on recasting the meeting of minds and cultures as a zero-sum clash. 
  <p class="updated_time"> 07:03 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/covid-19-tests-cases-vaccine">Covid Live Updates: Los Angeles County Lifts Mask Mandate in Public Indoor Spaces</a> NYT: The county, home to 10 million people, became one of the latest in the United States to ease restrictions. Sanofi and GSK said their vaccine is highly effective at protecting against severe disease. 
- <p class="updated_time"> 06:51 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
  <p class="updated_time"> 06:50 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60501187?at_medium=RSS&at_campaign=KARANGA">Ukrainians put on united front as Russia crisis mounts</a> BBC: As the future of the country hangs in the balance, Ukrainians put on a united front. 
  <p class="updated_time"> 06:14 PM CT, Feb. 23 </p> 
@@ -180,8 +180,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/22/1082401614/biden-announces-sanctions-as-russian-troops-move-into-ukraine">Biden announces sanctions as Russian troops move into Ukraine</a> NPR: As Russian troops move into separatist regions in eastern Ukraine, President Biden gives his latest remarks on what measures the United States and its allies are planning to take. 
  <p class="updated_time"> 12:19 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/usa-soldiers-ukraine.html">US Troops in Poland Brace for Possible Ukrainian Evacuees.</a> NYT: The Biden administration has repeatedly said U.S. troops will not fight in Ukraine or rescue Americans trapped there by a Russian attack. 
- <p class="updated_time"> 11:20 AM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/world/asia/hong-kong-coronavirus-testing.html">Hong Kong Will Require Its Residents to Get Tested in March</a> NYT: Residents will have to take three tests over a short period, starting in March. 
  <p class="updated_time"> 09:37 AM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/world/europe/us-russia-sanctions.html">White House Weighs How Hard to Hit Putin With Sanctions</a> NYT: Early indications suggested the Biden administration would hold some punishments back in hopes of preventing a broader attack. 
  <p class="updated_time"> 08:15 AM CT, Feb. 22 </p> 
@@ -201,22 +199,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:21 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
+ <p class="updated_time"> 08:16 PM CT, Feb. 23 </p> 
+ <a href="https://www.nytimes.com/2022/02/23/business/strategic-petroleum-reserve-spr.html">White House Weighs Release of More Oil From Strategic Reserve</a> NYT: America’s emergency stockpile was tapped in November, seemingly to little effect. 
  <p class="updated_time"> 07:22 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/prosecutors-trump-criminal-probe-resign-00011175">Prosecutors in charge of Trump criminal probe have resigned</a> Politico: The resignations throw the future of the probe in doubt. 
  <p class="updated_time"> 06:59 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/florida-senate-approves-desantis-controversial-pick-for-surgeon-general-00011135">Florida Senate approves DeSantis' controversial pick for surgeon general</a> Politico: The Senate voted 24-15 in favor of Ladapo after about 40 minutes of debate, mostly from Democrats who criticized the Harvard-trained medical doctor for not fully supporting Covid-19 vaccines. 
  <p class="updated_time"> 06:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
- <p class="updated_time"> 06:51 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/politics/biden-russia-sanctions-nord-stream-2.html">New U.S. Sanctions Target Russian Company Behind Nord Stream 2</a> NYT: The move by President Biden came as administration officials warned that a Russian military assault on Ukraine could be imminent. 
  <p class="updated_time"> 06:50 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/trudeau-revokes-emergency-powers-convoy-00011158">Trudeau revokes controversial emergency powers</a> Politico: Lawmakers will study the decision to expand enforcement powers against the convoy blockade. 
  <p class="updated_time"> 06:35 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/bob-beckel-dead.html">Bob Beckel, Liberal Operative Who Became a Fixture on Fox, Dies at 73</a> NYT: He ran Walter Mondale’s 1984 presidential campaign, and later became a curmudgeonly pundit on conservative TV. 
  <p class="updated_time"> 06:21 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/david-mccormick-maga-gop.html">How Rep. David McCormick Is Attempting a MAGA Makeover</a> NYT: David McCormick, a Republican candidate for Senate in Pennsylvania, is trying to reinvent himself as a Trump stalwart. It’s a work in progress. 
- <p class="updated_time"> 05:51 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/business/strategic-petroleum-reserve-spr.html">White House Weighs Release of More Oil From Strategic Reserve</a> NYT: America’s emergency stockpile was tapped in November, seemingly to little effect. 
  <p class="updated_time"> 05:37 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082602594/ukraine-crisis-draws-new-resolve-from-bipartisan-lawmakers-with-some-gop-critics">Ukraine crisis draws new resolve from bipartisan lawmakers — with some GOP critics</a> NPR: Congressional lawmakers are sounding a new bipartisan tone against a rising threat led by Russian President Vladimir Putin. Still, there is GOP divide on how President Biden should move forward. 
  <p class="updated_time"> 05:33 PM CT, Feb. 23 </p> 
