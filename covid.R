@@ -51,7 +51,7 @@ champaign_total_deaths <- format(round(signif(tail(idph_cases_champaign$Deaths, 
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
 champaign_dead_last_month <- format(round(signif(tail(idph_cases_champaign$monthlydead,1),3)),big.mark=",")
 champaign_avg_new_cases <- format(round(signif(tail(idph_cases_champaign$avg_new_cases,1),3)),big.mark=",")
-champaign_pct_fully_vaccinated <- round(100*tail(idph_vax_champaign$PctVaccinatedPopulation,1), digits = 1)
+champaign_pct_fully_vaccinated <- round(100*tail(idph_vax_champaign$PctFullyVaccinatedPopulation,1), digits = 1)
 champaign_avg_new_vaccine_doses <- 
   format(round(signif(tail(idph_vax_champaign$AdministeredCountRollAvg,1),3)),big.mark=",")
 champaign_weekday <- wday(tail(idph_cases_champaign$Date,1), label = TRUE, abbr = FALSE)
@@ -59,7 +59,7 @@ champaign_month_ago_hospitalized <-
   format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
 champaign_month_ago_deaths <- format(round(signif(tail(lag(idph_cases_champaign$monthlydead, 14),1),3)),big.mark=",")
 champaign_month_ago_cases <- format(round(signif(tail(lag(idph_cases_champaign$avg_new_cases, 14),1),3)),big.mark=",")
-champaign_month_ago_vaccinated <- round(100*tail(lag(idph_vax_champaign$PctVaccinatedPopulation, 13),1), digits = 1)
+champaign_month_ago_vaccinated <- round(100*tail(lag(idph_vax_champaign$PctFullyVaccinatedPopulation, 13),1), digits = 1)
 champaign_month_ago_new_doses <- 
   format(round(signif(tail(lag(idph_vax_champaign$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
 champaign_case_pct_change <- round(100*(tail(idph_cases_champaign$avg_new_cases,1)-tail(lag(idph_cases_champaign$avg_new_cases, 14),1))/tail(lag(idph_cases_champaign$avg_new_cases, 14),1), digits = 0)
@@ -90,12 +90,12 @@ idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
          monthlydead, avg_new_cases, avg_hospitalized, 
          AdministeredCountRollAvg,
          PersonsFullyVaccinated,
-         PctVaccinatedPopulation) %>%
-  mutate(PctVaccinatedPopulation = PctVaccinatedPopulation*100) %>%
+         PctFullyVaccinatedPopulation) %>%
+  mutate(PctFullyVaccinatedPopulation = PctFullyVaccinatedPopulation*100) %>%
   fill(avg_hospitalized, .direction = "down") %>%
   fill(AdministeredCountRollAvg, .direction = "down") %>%
   fill(PersonsFullyVaccinated, .direction = "down") %>%
-  fill(PctVaccinatedPopulation, .direction = "down")
+  fill(PctFullyVaccinatedPopulation, .direction = "down")
 
 idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
   pivot_longer(!Date,
@@ -108,7 +108,7 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
     "monthlydead" = "Monthly Deaths",
     "AdministeredCountRollAvg" = "New Vaccine Doses",
     "PersonsFullyVaccinated" = "Fully Vaccinated",
-    "PctVaccinatedPopulation" = "Pct. Fully Vaccinated",
+    "PctFullyVaccinatedPopulation" = "Pct. Fully Vaccinated",
     .ordered = TRUE
   )) %>%
   mutate(values = signif(values, 3))
@@ -246,13 +246,13 @@ idph_hosp <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COV
 il_hosp <- format(round(signif(tail(idph_hosp$TotalInUseBedsCOVID,1),3)),big.mark=",")
 il_avg_new_deaths <- format(round(signif(tail(idph_cases_il$avg_new_deaths,1),3)),big.mark=",")
 il_avg_new_cases <- format(round(signif(tail(idph_cases_il$avg_new_cases,1),3)),big.mark=",")
-il_pct_fully_vaccinated <- round(100*tail(idph_vax_il$PctVaccinatedPopulation,1), digits = 1)
+il_pct_fully_vaccinated <- round(100*tail(idph_vax_il$PctFullyVaccinatedPopulation,1), digits = 1)
 il_avg_new_vaccine_doses <- format(round(signif(tail(idph_vax_il$AdministeredCountRollAvg,1),3)),big.mark=",")
 il_weekday <- wday(tail(idph_cases_il$Date,1), label = TRUE, abbr = FALSE)
 il_month_ago_avg_new_deaths <- format(round(signif(tail(lag(idph_cases_il$avg_new_deaths, 14),1),3)),big.mark=",")
 il_month_ago_hosp <- format(round(signif(tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1),3)),big.mark=",")
 il_month_ago_cases <- format(round(signif(tail(lag(idph_cases_il$avg_new_cases, 14),1),3)),big.mark=",")
-il_month_ago_vaccinated <- round(100*tail(lag(idph_vax_il$PctVaccinatedPopulation, 13),1), digits = 1)
+il_month_ago_vaccinated <- round(100*tail(lag(idph_vax_il$PctFullyVaccinatedPopulation, 13),1), digits = 1)
 il_month_ago_new_doses <- format(round(signif(tail(lag(idph_vax_il$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
 
 il_case_pct_change <- round(100*(tail(idph_cases_il$avg_new_cases,1)-tail(lag(idph_cases_il$avg_new_cases, 14),1))/tail(lag(idph_cases_il$avg_new_cases, 14),1), digits = 0)
@@ -295,12 +295,12 @@ il_combined <- full_join(idph_cases_il, idph_vax_il) %>%
          avg_new_deaths, avg_new_cases, TotalInUseBedsCOVID, 
          AdministeredCountRollAvg,
          PersonsFullyVaccinated,
-         PctVaccinatedPopulation) %>%
-  mutate(PctVaccinatedPopulation = PctVaccinatedPopulation*100) %>%
+         PctFullyVaccinatedPopulation) %>%
+  mutate(PctFullyVaccinatedPopulation = PctFullyVaccinatedPopulation*100) %>%
   fill(TotalInUseBedsCOVID, .direction = "down") %>%
   fill(AdministeredCountRollAvg, .direction = "down") %>%
   fill(PersonsFullyVaccinated, .direction = "down") %>%
-  fill(PctVaccinatedPopulation, .direction = "down")
+  fill(PctFullyVaccinatedPopulation, .direction = "down")
 
 il_combined_longer <- il_combined %>%
   pivot_longer(!Date,
@@ -313,7 +313,7 @@ il_combined_longer <- il_combined %>%
     "avg_new_deaths" = "Deaths",
     "AdministeredCountRollAvg" = "New Vaccine Doses",
     "PersonsFullyVaccinated" = "Fully Vaccinated",
-    "PctVaccinatedPopulation" = "Pct. Fully Vaccinated",
+    "PctFullyVaccinatedPopulation" = "Pct. Fully Vaccinated",
     .ordered = TRUE
   )) %>%
   mutate(values = signif(values, 3))
