@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:48 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 02:31 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/23/world/russia-ukraine">Ukraine Live Updates: Russia Begins Invasion From Land and Sea</a> NYT: Areas across Ukraine were under attack on Thursday morning. President Biden condemned President Vladimir Putin’s actions, saying he would speak to the American people on Thursday. 
+ <p class="updated_time"> 02:27 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/biden-russia-ukraine-sanctions.html">Biden Plans to Announce ‘Severe Sanctions’ Against Russia Today</a> NYT: Mr. Biden vowed to punish Moscow for “a premeditated war that will bring a catastrophic loss of life and human suffering.” 
+ <p class="updated_time"> 02:26 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
+ <p class="updated_time"> 02:15 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
  <p class="updated_time"> 01:35 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60492916?at_medium=RSS&at_campaign=KARANGA">Nkosana Makate: The South African taking on Vodacom</a> BBC: South African Nkosana Makate is in line for a huge pay out after a 14-year court battle with Vodacom. 
- <p class="updated_time"> 01:34 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
  <p class="updated_time"> 11:59 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-russian-troops.html">On Eve of War, No Exodus From Ukraine, Only Anxiety and Disbelief</a> NYT: When Russian troops moved into eastern Ukraine, some began to travel westward, filled with doubt about the future but saying they planned — or hoped — to return. 
  <p class="updated_time"> 11:52 PM CT, Feb. 23 </p> 
@@ -32,8 +36,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/europe/russian-ukraine-mercenaries.html">Russian Mercenaries Covertly Entered Separatist Areas of Ukraine</a> NYT: Two senior European security officials say that the paramilitary fighters are inside the rebel territories of Ukraine to lay the groundwork for war. 
  <p class="updated_time"> 09:56 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
+ <p class="updated_time"> 09:22 PM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-attack-on-ukraine-threatens-european-gas-supplies-11645679190">Russia Attack on Ukraine Threatens European Gas Supplies</a> WSJ: Natural-gas prices rose around the world as Russia’s new military push against Ukraine poses another threat to Europe’s already tenuous supply of natural gas. 
  <p class="updated_time"> 09:10 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60502647?at_medium=RSS&at_campaign=KARANGA">Australia floods: Surfers save elderly man from raging current</a> BBC: Drone footage shows the elderly man being dragged towards the sea, after a lagoon burst its banks. 
+ <p class="updated_time"> 09:06 PM CT, Feb. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: President Biden called the move an unprovoked attack, pledging further action against Moscow. An initial wave of strikes targeted military installations, airfields and government facilities across the country, Kyiv said. 
  <p class="updated_time"> 08:37 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/europe/poland-covid-restrictions.html">Poland Will Lift Most Remaining Restrictions on March 1.</a> NYT: The move is a turnaround for the Eastern European nation, which was among a handful of countries in the region that were hit especially hard by earlier variants. 
  <p class="updated_time"> 07:59 PM CT, Feb. 23 </p> 
@@ -44,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60501187?at_medium=RSS&at_campaign=KARANGA">Ukrainians put on united front as Russia crisis mounts</a> BBC: As the future of the country hangs in the balance, Ukrainians put on a united front. 
  <p class="updated_time"> 06:14 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/business/economy/export-controls-russia-us.html">White House Prepares Curbs on Russia’s Access to U.S. Technology</a> NYT: Biden administration officials have warned Russia that it could face further restrictions on technology that is critical to its economy and military. 
- <p class="updated_time"> 06:14 PM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-shifts-to-war-footing-tells-citizens-to-leave-russia-11645616181">Russia Begins Military Operation in Ukraine</a> WSJ: Biden calls move an unprovoked attack, pledging further action against Moscow. Initial wave of strikes targets military installations, airfields and government facilities across country, Kyiv says. 
  <p class="updated_time"> 06:01 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60500307?at_medium=RSS&at_campaign=KARANGA">Why China matters in the Ukraine conflict</a> BBC: Beijing does billions of dollars of trade and business with both Kyiv and Moscow. 
  <p class="updated_time"> 05:43 PM CT, Feb. 23 </p> 
@@ -83,7 +89,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:29 PM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60501397?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia crisis: The soldiers on the front line</a> BBC: Soldiers scan for snipers and fear being hurt or killed as military activity in the area increases. 
  <p class="updated_time"> 02:13 PM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging "false flag" incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
+ <a href="https://www.bbc.co.uk/news/60470089?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Is Russia staging 'false flag' incidents?</a> BBC: US officials have warned of "false flag" incidents - what's the evidence? 
  <p class="updated_time"> 02:09 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/climate/climate-change-un-wildfire-report.html">Climate Change Could Increase Risk of Wildfires 50% by Century's End</a> NYT: Worsening heat and dryness could lead to a 50 percent rise in off-the-charts fires, according to a United Nations report. 
  <p class="updated_time"> 01:49 PM CT, Feb. 23 </p> 
@@ -130,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/australia/new-zealand-protest-vaccine.html">New Zealand  Antivaccine Protest Gets More Violent</a> NYT: An occupation in the capital demonstrates the dangerous influence that American disinformation is having on otherwise stable democracies. 
  <p class="updated_time"> 01:18 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60489203?at_medium=RSS&at_campaign=KARANGA">Chetan Kumar: Indian actor arrested for tweet on Karnataka hijab row judge</a> BBC: Chetan Kumar was held for criticising a judge who is hearing pleas against a ban on hijabs in schools. 
- <p class="updated_time"> 12:41 AM CT, Feb. 23 </p> 
- <a href="https://www.wsj.com/articles/fast-spreading-covid-19-omicron-type-revives-questions-about-opening-up-11645616471">Fast-Spreading Omicron Type Revives Questions About Opening Up</a> WSJ: A more infectious type of the Omicron variant has surged to account for more than a third of global Covid-19 cases sequenced recently, adding to the debate about whether countries are ready for full reopening. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60489660?at_medium=RSS&at_campaign=KARANGA">Australia floods: Woman killed as flash floods hit east coast</a> BBC: Flash floods hit multiple states, with some areas receiving up to 400mm of rain in 24 hours. 
  <p class="updated_time"> 11:21 PM CT, Feb. 22 </p> 
@@ -298,7 +302,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:55 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/business/energy-environment/russia-ukraine-oil-gas.html">Russia’s Moves in Ukraine Unsettle Energy Companies and Prices</a> NYT: Oil and gas prices are up, and Western energy giants with operations and investments in Russia could find it harder to keep doing business there. 
  <p class="updated_time"> 07:54 PM CT, Feb. 22 </p> 
- <a href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html">Will Biden’s Sanctions Halt a Russian Invasion of Ukraine?</a> NYT: President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia. 
+ <a href="https://www.nytimes.com/2022/02/22/us/politics/russia-biden-sanctions-ukraine.html">Putin Insulated Russia’s Economy. Will Biden’s Sanctions Hold Him Back in Ukraine?</a> NYT: President Vladimir V. Putin has learned from earlier U.S.-led sanctions, and his allies could benefit from a more isolated Russia. 
  <p class="updated_time"> 07:32 PM CT, Feb. 22 </p> 
  <a href="https://www.nytimes.com/2022/02/22/us/politics/biden-supreme-court-candidates.html">Biden Interviews 3 Supreme Court Candidates as His Search Narrows</a> NYT: The White House says the president is on track to decide on a nominee to fill the seat vacated by Justice Stephen G. Breyer by the end of February. 
  <p class="updated_time"> 05:06 PM CT, Feb. 22 </p> 
