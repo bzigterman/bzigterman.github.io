@@ -1832,11 +1832,11 @@ html {
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">2.6M</td>
 <td class="gt_row gt_right">1.7M</td>
-<td class="gt_row gt_right">&minus;34%</td></tr>
+<td class="gt_row gt_right">&minus;33%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">10.9K</td>
 <td class="gt_row gt_right gt_striped">9.4K</td>
-<td class="gt_row gt_right gt_striped">&minus;14%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;13%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">20.3M</td>
 <td class="gt_row gt_right">33.4M</td>
@@ -1882,7 +1882,7 @@ As of Wednesday, the 14-day percent change in average new deaths was:
   
 - -39% in Illinois
 - -27% in the United States
-- -14% worldwide
+- -13% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
