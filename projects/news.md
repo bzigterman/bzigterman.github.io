@@ -8,10 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:49 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Explosions are heard across Ukraine as Russia attacks from multiple directions. President Volodymyr Zelensky of Ukraine declares martial law. 
- <p class="updated_time"> 06:39 AM CT, Feb. 24 </p> 
+ <p class="updated_time"> 07:17 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Russia Attacks Ukraine From Land, Air and Sea</a> NYT: Dozens of Ukrainian soldiers are killed, as the government vowed an “all-out defense.” NATO’s secretary general condemned the “reckless and unprovoked attack” by Russia. 
+ <p class="updated_time"> 07:17 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/eu-sanctions-russia-putin.html">As E.U. Weighs New Sanctions on Russia, It’s Considering Omitting Putin for Now</a> NYT: Some members, including Germany, advocated not including him so that dialogue was still possible with Russia’s top leadership. 
+ <p class="updated_time"> 07:06 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
+ <p class="updated_time"> 07:06 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60504334?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What we know about the invasion</a> BBC: Russia has launched a large-scale military attack on its southern neighbour - here's what we know. 
+ <p class="updated_time"> 07:03 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/us-troops-poland-ukraine-russia.html">U.S. Troops in Poland Prepare for Arrival of Refugees From Ukraine</a> NYT: Processing centers near the border will help deal with tens of thousands of people, including Americans, who are expected to flee neighboring Ukraine. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60503037?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian forces invade after Putin TV declaration</a> BBC: Explosions are heard near major Ukrainian cities after Russia launched its pre-dawn attack. 
+ <p class="updated_time"> 06:56 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60507016?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict world reaction: Sanctions, refugees and fears of war</a> BBC: Outrage in the West, and China balks at the word invasion. How Ukraine is shaking the globe. 
+ <p class="updated_time"> 06:56 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60505322?at_medium=RSS&at_campaign=KARANGA">Watch: Russian missile hits airport in western Ukraine</a> BBC: A missile sparks a fireball as it hits Ivano-Frankivsk International Airport in western Ukraine. 
+ <p class="updated_time"> 06:55 AM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60508171?at_medium=RSS&at_campaign=KARANGA">Nicaragua court convicts government critics of 'conspiracy'</a> BBC: Three of the seven defendants had planned to run against President Ortega in the 2021 election. 
+ <p class="updated_time"> 06:54 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
+ <p class="updated_time"> 06:43 AM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/kharkiv-russia.html">Why is Kharkiv, Ukraine’s Second-Largest City, a Major Target of Russia</a> NYT: In the Kremlin’s view, the city demonstrates the folly of Ukraine trying to live apart from Russia. 
  <p class="updated_time"> 06:36 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/queen-elizabeth-covid.html">Queen Elizabeth Cancels Virtual Events for 2nd Time Since Covid Test</a> NYT: The 95-year-old queen would be “continuing with light duties,” Buckingham Palace said, and she has no other engagements scheduled this week. 
  <p class="updated_time"> 06:35 AM CT, Feb. 24 </p> 
@@ -20,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60492860?at_medium=RSS&at_campaign=KARANGA">How hard will it be to defend Ukraine from Russian invasion?</a> BBC: Ukraine is outgunned and outnumbered - and the invasion by Russian forces threatens to be bloody. 
  <p class="updated_time"> 06:26 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA">In pictures: Destruction and fear as war hits Ukraine</a> BBC: Russian forces have crossed Ukraine's borders, bombing military targets near big cities. 
- <p class="updated_time"> 06:23 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-60508861?at_medium=RSS&at_campaign=KARANGA">In full: UK PM makes statement on Ukraine invasion</a> BBC: The PM also addresses Russian people and says he doesn't believe the attack is being done in their name. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/japan-russia-sanctions.html">Japan Moves to Enact Sanctions Against Russia</a> NYT: Japan was previously reluctant to impose sanctions. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
@@ -32,22 +48,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/roman-era-london-mosaics.html">Roman Mosaics Point to Rowdy London District’s High-End Side</a> NYT: The discovery of the two mosaics in Southwark, across the Thames from the City of London, has been greeted by archaeologists as “exceptional.” 
  <p class="updated_time"> 06:12 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/eastern-ukraine-scenes-russia.html">Scenes From Eastern Ukraine as Russia Strikes</a> NYT: Residents of the country’s Donetsk region, accustomed to conflict and violence, are desperate after Russia launched military attacks. 
- <p class="updated_time"> 06:08 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/us-troops-poland-ukraine-russia.html">U.S. Troops in Poland Prepare for Arrival of Refugees From Ukraine</a> NYT: Processing centers near the border will help deal with tens of thousands of people, including Americans, who are expected to flee neighboring Ukraine. 
- <p class="updated_time"> 06:02 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60507016?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict world reaction: Sanctions, refugees and fears of war</a> BBC: Outrage in the West, and China balks at the word invasion. How Ukraine is shaking the globe. 
  <p class="updated_time"> 05:53 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506712?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kyiv residents seek shelter as blasts hit</a> BBC: People take cover in air raid shelters as Ukraine's capital is hit by the first bombs since World War Two. 
- <p class="updated_time"> 05:46 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
  <p class="updated_time"> 05:45 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60509373?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My mother said war has started' - resident fleeing capital</a> BBC: Russia has launched a major military assault on Ukraine, with reports of missile strikes and explosions. 
  <p class="updated_time"> 05:18 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/navalny-russia-ukraine.html">Navalny Condemns Putin's Invasion of Ukraine</a> NYT: The opposition politician accused the Russian leader of using the attack to divert attention away from the country’s own internal problems. 
- <p class="updated_time"> 04:34 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/how-russia-attacked-ukraine.html">How Russia's Attack on Ukraine Is Unfolding</a> NYT: As President Vladimir V. Putin of Russia said on television that he had decided “to carry out a special military operation” in Ukraine, explosions were reported across the country. 
- <p class="updated_time"> 04:33 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60504334?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What we know about the invasion</a> BBC: Russia has launched a large-scale military attack on its southern neighbour - here's what we know. 
  <p class="updated_time"> 04:33 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/eu-russia-sanctions.html">E.U. Plans Tougher Sanctions on Russia but Aims to Protect Its Own Interests</a> NYT: Diplomats said several European Union members were concerned about certain sectors of Russia’s economy that could be penalized. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
@@ -62,20 +68,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
  <p class="updated_time"> 03:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/australia/terry-gibbs-carol-lisle-outback-couple.html">Sad Coda for Lovelorn Octogenarians Who Absconded Through Outback</a> NYT: Terry Gibbs was apprehended after abducting his longtime partner from her nursing home and setting out on a 3,000-mile journey. Seven weeks later, they died two days apart. 
- <p class="updated_time"> 03:16 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/taiwan-china-ukraine.html">Some in Taiwan See Parallels to Ukraine</a> NYT: Some analysts worry that a weak global response to Ukraine could embolden China’s Communist Party to ramp up pressure on self-governed Taiwan. 
  <p class="updated_time"> 02:52 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/biden-russia-ukraine-sanctions.html">Biden Plans to Announce ‘Severe Sanctions’ Against Russia Today</a> NYT: Mr. Biden vowed to punish Moscow for “a premeditated war that will bring a catastrophic loss of life and human suffering.” 
  <p class="updated_time"> 02:42 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-war-military.html">Ukraine's Military Is Outgunned by Russia Despite West's Support</a> NYT: The country’s forces “will hold up as long as there are bullets,” a top general said in December. But, he added, “without delivery of reserves, there’s not an army in the world that can hold out.” 
+ <p class="updated_time"> 02:01 AM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
  <p class="updated_time"> 01:46 AM CT, Feb. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-invasion-ukraine-nato-unity-europe-11645484383">NATO Chief Condemns Russia's 'Brutal Act of War' Against Ukraine</a> WSJ: Jens Stoltenberg said he would convene a summit of alliance leaders following an activation of defense plans, responding to an invasion that has given NATO a new unity of purpose 
  <p class="updated_time"> 01:35 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60492916?at_medium=RSS&at_campaign=KARANGA">Nkosana Makate: The South African set to make millions from Vodacom</a> BBC: South African Nkosana Makate is in line for a huge pay-out after a 14-year court battle with Vodacom. 
  <p class="updated_time"> 01:20 AM CT, Feb. 24 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-scrambles-prospects-for-global-economy-11645699066">Russian Invasion Scrambles Prospects for Global Economy</a> WSJ: The attack on Ukraine heaps fresh risks on a global economy struggling with soaring inflation, supply-chain snarls and a rocky recovery from the pandemic. 
- <p class="updated_time"> 01:07 AM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Attacks Ukraine, Drawing Broad Condemnation</a> WSJ: Russian armored columns pushed into Ukraine and airstrikes hit the country’s capital and dozens of other cities after President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
  <p class="updated_time"> 12:19 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60501632?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Sirens heard during BBC reporter's broadcast in Kyiv</a> BBC: Nick Beake reports from Kyiv after President Putin announces a 'military operation' in Ukraine's eastern Donbas region. 
  <p class="updated_time"> 11:59 PM CT, Feb. 23 </p> 
@@ -162,14 +166,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082498160/wildfires-will-increase-and-worsen-globally-u-n-warns">Wildfires will increase and worsen globally, U.N. warns</a> NPR: The study being released on Wednesday warns of spikes in unhealthy smoke pollution and other problems coming from the increased threat of catastrophic wildfires. 
  <p class="updated_time"> 04:00 AM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082370619/migration-climate-change-disaster">The first step to preparing for surging climate migration? Defining it</a> NPR: Anywhere from tens of millions to a billion people could become climate migrants by 2050, according to a report from the RAND Corporation. The number varies widely depending on the definition used. 
- <p class="updated_time"> 03:59 AM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/world/europe/ukraine-europe-refugees.html">Europe Prepares for Ukraine Refugees as Aid Groups Warn of Crisis</a> NYT: “If war breaks out, the consequences for the Ukrainian people — and for Europe — cannot be overstated,” said one humanitarian official. 
  <p class="updated_time"> 01:18 AM CT, Feb. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60489203?at_medium=RSS&at_campaign=KARANGA">Chetan Kumar: Indian actor arrested for tweet on Karnataka hijab row judge</a> BBC: Chetan Kumar was held for criticising a judge who is hearing pleas against a ban on hijabs in schools. 
  <p class="updated_time"> 11:52 PM CT, Feb. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60489660?at_medium=RSS&at_campaign=KARANGA">Australia floods: Woman killed as flash floods hit east coast</a> BBC: Flash floods hit multiple states, with some areas receiving up to 400mm of rain in 24 hours. 
- <p class="updated_time"> 11:05 PM CT, Feb. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-60488623?at_medium=RSS&at_campaign=KARANGA">K-pop: BTS agency Hybe grows profits by 31%</a> BBC: The Korean entertainment group saw high revenues from selling content such as games and comics. 
  <p class="updated_time"> 10:46 PM CT, Feb. 22 </p> 
  <a href="https://www.npr.org/2022/02/22/1082483555/tongas-internet-restored-5-weeks-after-big-eruption">Tonga's internet is restored 5 weeks after big volcanic eruption</a> NPR: The restoration of the internet comes as the South Pacific island nation grapples with its first outbreak of the coronavirus. 
  <p class="updated_time"> 08:53 PM CT, Feb. 22 </p> 
@@ -202,7 +202,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/mike-lee-trump-primary-utah-00010146">The red state Senate race where loyalty to Trump is proving costly</a> Politico: Utah Sen. Mike Lee faces a groundswell of opposition. His relationship with Donald Trump is at the center of it. 
+ <a href="https://www.politico.com/news/2022/02/24/mike-lee-trump-primary-utah-00010146">Hard pivot toward Trump proves costly for red-state ally</a> Politico: Utah Sen. Mike Lee faces a groundswell of opposition. His relationship with Donald Trump is at the center of it. 
  <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/raffensperger-georgia-reelection-conservative-media-00011224">Georgia election official on Trump's enemies list takes his case to MAGA media</a> Politico: Secretary of State Brad Raffensperger has been on a conservative media tour trying to shore up his cred for a tough reelection challenge. 
  <p class="updated_time"> 04:12 AM CT, Feb. 24 </p> 
