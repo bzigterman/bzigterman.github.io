@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:19 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 04:32 PM CT, Feb. 25 </p> 
+ <a href="https://www.npr.org/2022/02/25/1083130131/thousands-rush-to-enlist-in-ukraines-army-to-fight-the-russian-invasion">Thousands rush to enlist in Ukraine's army to fight the Russian invasion</a> NPR: On Thursday, Volodymyr Omelyan and his family awoke to the sound of missile blasts nearby. By Friday, he had said goodbye to his wife and children and enlisted to fight. 
+ <p class="updated_time"> 04:24 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Kyiv Rocked by Explosions for Second Night</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
+ <p class="updated_time"> 04:19 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
  <p class="updated_time"> 04:17 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/china-russia-ukraine-sovereignty.html">Russia's Invasion of Ukraine Tests China's 'Sovereignty' Rhetoric </a> NYT: China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position. 
  <p class="updated_time"> 04:15 PM CT, Feb. 25 </p> 
@@ -32,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/maryland-school-masks.html">Maryland Lifts Statewide School Mask Mandate</a> NYT: The decision gives local school districts the power to decide whether to require face coverings. 
  <p class="updated_time"> 03:01 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/middleeast/iran-film-asghar-farhadi.html">An Iranian Director’s Rule: ‘Always Focus on Ordinary People’</a> NYT: Asghar Farhadi, who has won two Oscars, says stories about the rich and famous “are not part of my emotional bank.” 
- <p class="updated_time"> 02:55 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
  <p class="updated_time"> 02:40 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/eu-russian-sanctions.html">European Leaders Agree to a Second Wave of Russia Sanctions</a> NYT: The E.U. agreed to freeze the assets of President Putin and foreign minister Sergey Lavrov, while other measures will hit Russia’s access to technology 
  <p class="updated_time"> 02:26 PM CT, Feb. 25 </p> 
@@ -164,26 +166,22 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60516704?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Frontline Ukraine city holds breath amid attack</a> BBC: People in Kostyantynivka are no strangers to war, but Russia's attack has left them fearing for the future. 
  <p class="updated_time"> 04:25 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082919477/for-ukrainian-americans-unity-against-putin-has-solidified-their-bonds">For Ukrainian-Americans, unity against Putin has solidified their bonds</a> NPR: Ukrainian-Americans were previously split by generation and religious identity. One Harvard scholar says that the past decade of actions by Russian President Putin has made the community more united. 
- <p class="updated_time"> 04:24 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/sanctions-on-russia-biden.html">Biden Says Putin Will 'Bear the Consequences,' Announces New Sanctions</a> NYT: Mr. Biden said the United States would cut off Russia’s largest banks and largest companies from the western financial markets, freeze assets of Russian elites and restrict exports of technology to Russia. 
  <p class="updated_time"> 04:16 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082926832/russia-faces-the-nuclear-option-of-being-ousted-from-the-swift-banking-system">Russia faces expulsion from a key tool used in the global banking system</a> NPR: SWIFT underpins the global financial system, handling millions of secure messages every day. Cutting Russia off from SWIFT could have a major impact on its economy, experts say. 
  <p class="updated_time"> 04:03 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/us-putin-nuclear-war-nato.html">Beyond Ukraine, Putin Eyes What He Calls America's 'Empire of Lies'</a> NYT: The Russian leader is consumed by revanchist fury and convinced of a relentless Western plot against Moscow. 
  <p class="updated_time"> 03:54 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukrainians-fleeing.html">'I abandoned everything and left': Ukranians Flee Russian Advance</a> NYT: Civilians tried to escape eastern Ukraine, sharing jammed highways with military convoys, leaving homes, pets and belongings behind in a search for safety. 
+ <p class="updated_time"> 03:41 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/americas/stealth-omicron-ba2-variant.html">What to Know About Omicron's New BA.2 Variant</a> NYT: As the highly contagious Omicron variant of the coronavirus has become dominant worldwide, more attention is being paid to a less common Omicron subvariant that appears to be even more transmissible. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082918786/u-s-and-eu-to-punish-russia-with-new-economic-sanctions">U.S. and EU to punish Russia with new economic sanctions</a> NPR: The U.S. and EU are planning more sanctions on Russia, aimed at crippling its economy by targeting banks, oil and gas sectors. But it's uncertain the new sanctions will affect Russia President Putin. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082918751/the-latest-on-russias-attacks-on-ukraine">The latest on Russia's multidirectional assault on Ukraine</a> NPR: The latest on the fighting in Ukraine after Russia launched an invasion of the country. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082918737/russian-americans-react-to-russian-invasion-in-ukraine">Russian Americans react to Russian invasion in Ukraine</a> NPR: Russians and Ukrainians living in the U.S. are watching events unfold with a mix of worry and inevitability. Russians in particular see a divide between young and old. 
- <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082918651/sen-warner-on-u-s-response-to-russian-invasion-of-ukraine">Sen. Warner says a direct NATO-Russia conflict would be 'uncharted territory'</a> NPR: NPR's Ayesha Rascoe speaks with Sen. Mark Warner, chairman of the intelligence committee, about the latest on the Russian invasion of Ukraine, and how the U.S. plans to respond. 
  <p class="updated_time"> 03:14 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/putin-russia-ukraine.html">Russians Now See a New Side to Putin: Dragging Them Into War</a> NYT: The autocrat who has steered Russia for 22 years was embraced by many Russians for what they saw as his rationality and astute risk management. That image has been upended. 
- <p class="updated_time"> 02:13 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/us-troops-russia-ukraine-military.html">The Pentagon Orders Another 7,000 US Troops to Europe</a> NYT: The deployment will bring to 14,000 the number of American troops that President Biden has ordered to Europe since the Ukraine crisis began. 
  <p class="updated_time"> 01:30 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
  <p class="updated_time"> 12:47 PM CT, Feb. 24 </p> 
@@ -267,8 +265,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 08:19 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">‘Putin Chose This War’: Biden Denounces Russia’s Actions in Ukraine</a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
- <p class="updated_time"> 07:43 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/jim-inhofe-senate-retirement.html">James Inhofe, Oklahoma Senator, Is Said to Plan an Early Retirement</a> NYT: The 87-year-old Republican has told people that he will step down at the end of the year, four years before his term is up. His seat is likely to stay in G.O.P. hands. 
  <p class="updated_time"> 07:25 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/roger-stone-jan-6-panel.html">Roger Stone Sues Jan. 6 Panel to Block Access to Phone Data</a> NYT: The political operative and close ally of former President Donald J. Trump joined at least 19 other witnesses who have gone to court to stonewall the inquiry. 
  <p class="updated_time"> 06:49 PM CT, Feb. 24 </p> 
