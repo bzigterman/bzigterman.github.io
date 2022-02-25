@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:57 AM CT, Feb. 25 </p> 
+ <p class="updated_time"> 07:24 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: Foreign Minister Sergey V. Lavrov made clear that Russia would not negotiate until Ukraine stopped fighting. Ukraine’s leaders told Kyiv residents to “prepare Molotov cocktails” to defend the capital. 
+ <p class="updated_time"> 07:13 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: Russia says the move is a response to the UK's 'unfriendly' decision to ban Aeroflot from the UK. 
+ <p class="updated_time"> 07:04 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60525995?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Missile strikes, tanks and buildings hit in Kyiv</a> BBC: Russia continues its full-scale assault on Ukraine, with troops said to be in the capital. 
+ <p class="updated_time"> 07:03 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/covid-vaccination-rate.html">U.S. First Time Vaccination Rates Are At a New Low</a> NYT: As the country is on course to live with the coronavirus, the vaccination drive is vanishing. 
+ <p class="updated_time"> 07:01 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kyiv braces for Russian assault</a> BBC: The Ministry of Defence made the call as Russian forces reached the northern outskirts of Kyiv. 
  <p class="updated_time"> 06:43 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60525725?at_medium=RSS&at_campaign=KARANGA">BBC Ukraine editor: My surreal escape from Kyiv</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes her decision to leave the capital for safety in the countryside. 
  <p class="updated_time"> 06:31 AM CT, Feb. 25 </p> 
@@ -20,14 +28,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60521995?at_medium=RSS&at_campaign=KARANGA">Kenyan schoolgirl jailed over Moi Girls Schools fire deaths</a> BBC: Ten girls died in the 2017 fire started by a student trying to get a transfer to another school. 
  <p class="updated_time"> 06:09 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/sergey-lavrov-ukraine-talks.html">Russia Says It Won't Enter Talks Until Ukraine Stops Fighting</a> NYT: Russia’s foreign minister, Sergey Lavrov, made clear that Russia was seeking to topple the democratically elected government of Ukraine. 
- <p class="updated_time"> 06:01 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kyiv braces for Russian assault</a> BBC: The Ministry of Defence made the call as Russian forces reached the northern outskirts of Kyiv. 
  <p class="updated_time"> 05:54 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60521822?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What is Swift and why are leaders divided on banning Russia?</a> BBC: The UK wants Russia banned from the Swift financial network, but other countries are resisting. 
  <p class="updated_time"> 05:53 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html">Russia Confirms It Controls Chernobyl Plant</a> NYT: Russia’s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility’s personnel hostage. 
- <p class="updated_time"> 05:43 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: Russia says the move is a response to the UK's 'unfriendly' decision to ban Aeroflot from the UK. 
  <p class="updated_time"> 05:35 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60522450?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents spend night sheltering in basements and metro stations</a> BBC: Ukrainians tell the BBC how they spent the night sheltering from explosions and missile strikes. 
  <p class="updated_time"> 05:29 AM CT, Feb. 25 </p> 
@@ -46,20 +50,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60514228?at_medium=RSS&at_campaign=KARANGA">Russian forces seize Chernobyl nuclear power plant</a> BBC: The power plant, the site of a 1986 nuclear disaster, has been taken over by Russian troops. 
  <p class="updated_time"> 02:17 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/americas/white-house-releases-a-plan-to-help-people-with-special-vulnerabilities-to-covid-19.html">The White House releases a plan to help people who are especially vulnerable to Covid-19.</a> NYT: The plan involves making masks and tests more accessible, but has been criticized by some disability advocates for not going far enough to protect the most vulnerable. 
- <p class="updated_time"> 01:40 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60521068?at_medium=RSS&at_campaign=KARANGA">WATCH: Huge explosion seen in sky over Ukraine's capital Kyiv</a> BBC: A large explosion in the sky is captured on camera on the second day of Russia's assault. 
+ <p class="updated_time"> 02:15 AM CT, Feb. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital, Bombing Intensifies</a> WSJ: Russian forces moved by air and land to attack Kyiv, while the capital’s defenders dug into positions along its forested edge and prepared to blow up bridges. 
+ <p class="updated_time"> 02:13 AM CT, Feb. 25 </p> 
+ <a href="https://www.wsj.com/articles/eu-to-cut-70-of-russias-banking-system-off-from-global-markets-11645760548">EU to Hit Putin, Russian Foreign Minister With Sanctions</a> WSJ: The European Union plans to hit Russian President Vladimir Putin and Foreign Minister Sergei Lavrov with sanctions, a senior EU official said, as the bloc readies a second package of sanctions on Russia over Ukraine. 
  <p class="updated_time"> 01:26 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083001481/hundreds-arrested-as-shocked-russians-protest-ukraine-attack">Hundreds are arrested as shocked Russians protest Ukraine attack</a> NPR: Celebrities and other public figures joined people in dozens of cities in condemning Russia's invasion of Ukraine. 
- <p class="updated_time"> 12:47 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital, Bombing Intensifies</a> WSJ: Russian forces moved by air and land to attack Kyiv, while the capital’s defenders dug into positions along its forested edge and prepared to blow up bridges. 
  <p class="updated_time"> 12:21 AM CT, Feb. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-allies-roll-out-fresh-sanctions-on-russia-amid-debate-over-how-hard-to-hit-11645742424">U.S., Allies Roll Out Fresh Sanctions Amid Debate Over How Hard to Hit</a> WSJ: Russia’s assault on Ukraine triggered a surge of calls on Thursday for Western allies to cut Russia off completely from the global financial system, but fear of collateral damage is quashing the idea for now. 
  <p class="updated_time"> 12:10 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082998313/woman-found-chained-in-chinese-village-is-victim-of-trafficking-authorities-say">Woman found chained in Chinese village is victim of trafficking, authorities say</a> NPR: The 44-year-old woman who was filmed in a TikTok video, had been sold at least three times, Chinese officials said. 
  <p class="updated_time"> 12:09 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60499385?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Why Biden won't send troops to Ukraine</a> BBC: The US president has ruled out any military involvement, so what's different this time? 
- <p class="updated_time"> 12:02 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/eu-to-cut-70-of-russias-banking-system-off-from-global-markets-11645760548">EU to Cut 70% of Russia's Banking System Off From Global Markets</a> WSJ: The EU will formally sign off on sanctions Friday that will cut 70% of Russia’s banking system off from international financial markets, European Commission President Ursula von der Leyen said. 
  <p class="updated_time"> 11:56 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/25/1082992947/ukraine-support-help">Want to support the people in Ukraine? Here's how you can help</a> NPR: Several organizations are asking for assistance in helping people affected by the Russian invasion. 
  <p class="updated_time"> 11:39 PM CT, Feb. 24 </p> 
@@ -192,8 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/london-roman-mosaics.html">Roman Mosaics Point to Rowdy London District’s High-End Side</a> NYT: The discovery of the two mosaics in Southwark, across the Thames from the City of London, has been greeted by archaeologists as “exceptional.” 
  <p class="updated_time"> 05:53 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506712?at_medium=RSS&at_campaign=KARANGA">'I'm very scared' - Kyiv residents wake to war</a> BBC: People take cover in air raid shelters as Ukraine's capital is hit by the first bombs since World War Two. 
- <p class="updated_time"> 05:18 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/navalny-russia-ukraine.html">Navalny Condemns Putin's Invasion of Ukraine</a> NYT: The opposition politician accused the Russian leader of using the attack to divert attention away from the country’s own internal problems. 
 
 
 </details>
@@ -381,8 +381,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/18/capitol-riot-panel-interview-katrina-pierson-00010154">Jan. 6 panel interviewed Ellipse rally organizer Katrina Pierson</a> Politico: Pierson in her committee interview did not invoke her right to not self-incriminate, known as pleading the Fifth, a source told POLITICO. 
  <p class="updated_time"> 09:12 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/news/2022/02/18/jim-hagedorn-00010113">GOP congressman dies after battle with kidney cancer</a> Politico: Rep. Jim Hagedorn was first diagnosed with stage 4 kidney cancer in 2019. 
- <p class="updated_time"> 07:16 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
