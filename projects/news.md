@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Kyiv Rocked by Explosions for Second Night</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
+ <p class="updated_time"> 04:35 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-attack-photos.html">See Photos on the Ground in Ukraine </a> NYT: Photographers spread around Ukraine captured a populace struggling with uncertainty and fear in the face of a military invasion. 
  <p class="updated_time"> 04:32 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083130131/thousands-rush-to-enlist-in-ukraines-army-to-fight-the-russian-invasion">Thousands rush to enlist in Ukraine's army to fight the Russian invasion</a> NPR: On Thursday, Volodymyr Omelyan and his family awoke to the sound of missile blasts nearby. By Friday, he had said goodbye to his wife and children and enlisted to fight. 
- <p class="updated_time"> 04:24 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Kyiv Rocked by Explosions for Second Night</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 04:19 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
  <p class="updated_time"> 04:17 PM CT, Feb. 25 </p> 
@@ -56,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/canada-putin-chrystia-freeland.html">Canadian Leader Says Putin Ranks Among 'Reviled' Dictators</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
  <p class="updated_time"> 12:35 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60522454?at_medium=RSS&at_campaign=KARANGA">Snake Island: Ukraine says soldiers killed after refusing to surrender</a> BBC: Ukraine says the soldiers died defending a tiny island after refusing to surrender to a Russian ship. 
- <p class="updated_time"> 12:29 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-attack-photos.html">See Photos on the Ground in Ukraine </a> NYT: Photographers spread around Ukraine captured a populace struggling with uncertainty and fear in the face of a military invasion. 
  <p class="updated_time"> 12:16 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
  <p class="updated_time"> 12:00 PM CT, Feb. 25 </p> 
@@ -193,6 +193,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:33 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/texas-primary-ballot-rejections.html">Ballot Rejections in Texas Spike After New Voting Law</a> NYT: Ahead of Tuesday’s primary, about 30 percent of absentee ballots were rejected in the state’s most populous counties. In 2020, the statewide rejection rate was less than 1 percent. 
  <p class="updated_time"> 04:12 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/u-s-will-sanction-putin-lavrov-and-other-russian-officials-00011995">U.S. will sanction Putin, Lavrov and other Russian officials</a> Politico: “In alignment with the decision by our European allies, the United States will join them in sanctioning President Putin and Foreign Minister Lavrov and members of the Russian national security team,” White House press secretary Jen Psaki said. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
@@ -200,7 +202,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:03 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/business/economy/inflation-pce-index.html">A Key Inflation Gauge Is Still Rising, and War Could Make It Worse</a> NYT: The Federal Reserve’s preferred measure is at a four-decade high. Rising gas prices tied to Russia’s invasion of Ukraine could push it up further. 
  <p class="updated_time"> 03:53 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden’s Strategy for Dealing With Russia Is Containment for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden Targets Russia With Strategy of Containment, Updated for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
  <p class="updated_time"> 03:36 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/latino-politics-jessica-cisneros.html">Progressive Jessica Cisneros Challenges Rep. Cuellar in Texas</a> NYT: In her second run for Congress, Jessica Cisneros has moved from pitching progressive policies to attacking the incumbent Democrat, Representative Henry Cuellar. 
  <p class="updated_time"> 03:23 PM CT, Feb. 25 </p> 
@@ -289,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/02/24/1082248921/postal-service-reform-act-medicare">Plan to fix Postal Service shifts retirees to Medicare, along with billions in costs</a> NPR: Some lawmakers worry that pushing future post office retirees' health costs to Medicare could hurt the health program's outlook. 
  <p class="updated_time"> 01:55 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/citizens-flee-as-russia-bombs-ukraine-00011393">On the ground in Kyiv: Citizens flee as Russia bombs the city</a> Politico: Ukrainians fled burning buildings, helped neighbors and watched firefighters flight blazes caused by Russian missiles. 
- <p class="updated_time"> 01:04 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/politics/putin-ukraine-nuclear-weapons.html">Putin Spins a Conspiracy Theory That Ukraine Is on a Path to Nuclear Weapons</a> NYT: Russia’s president has made such arguments before, but usually as asides — not as the justification for urgent action in Ukraine. 
  <p class="updated_time"> 11:50 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/biden-foreign-policy-doctrine-stress-test-00011385">Biden faces another global crisis. This one resonates differently at home.</a> Politico: The White House and allies believe the Republican disagreements over Ukraine have given them some political wiggle room. 
  <p class="updated_time"> 11:23 AM CT, Feb. 24 </p> 
