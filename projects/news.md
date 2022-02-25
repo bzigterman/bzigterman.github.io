@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:07 AM CT, Feb. 25 </p> 
+ <p class="updated_time"> 04:20 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: Russia says the move is a response to the UK's 'unfriendly' decision to ban Aeroflot from the UK. 
+ <p class="updated_time"> 04:16 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Ukrainian Officials Report Missile Attacks in Kyiv</a> NYT: Ukraine’s president denounced Russia in a televised address: “They say that civilian objects are not a target for them. It is a lie. They do not distinguish in which areas to operate.” 
  <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-china-russia-ukraine.html">Biden Officials Repeatedly Urged China to Help Avert War in Ukraine</a> NYT: Americans presented Chinese officials with intelligence on Russia’s troop buildup in hopes that President Xi Jinping would step in, but were repeatedly rebuffed. 
- <p class="updated_time"> 03:56 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: Russia says the move is a response to the UK's 'unfriendly' decision to ban Aeroflot from the UK. 
  <p class="updated_time"> 03:37 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
  <p class="updated_time"> 03:35 AM CT, Feb. 25 </p> 
@@ -208,7 +208,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: Lawmakers have plenty they could add to a bill helping counter a Russian invasion. What that vehicle is, and when it can pass, remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/kevin-mccarthy-primary-texas-00011683">McCarthy wades into contested primary to shape his potential majority</a> Politico: Kevin McCarthy and a rabble-rousing set of House Republicans have lined up on opposite sides of a big primary in Texas. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">Josh and Ted's exceptionalist adventure</a> Politico: One denies he's planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
+ <p class="updated_time"> 04:14 AM CT, Feb. 25 </p> 
+ <a href="https://www.npr.org/2022/02/25/1083003287/republicans-dominate-texas-politics-despite-the-states-changing-demographics">Republicans dominate Texas politics despite the state's changing demographics</a> NPR: In Texas, early voting is well underway ahead of Tuesday's primary election. Democrats haven't won a statewide election in Texas for decades, despite many attempts to "turn Texas blue." 
  <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082626791/u-s-judges-are-narrowing-voting-protections-some-fear-lasting-damage">U.S. judges are narrowing voting protections. Some fear lasting damage</a> NPR: The Supreme Court has been dismantling key provisions of the landmark Voting Rights Act of 1965. The justices have taken another case on the issue next term. 
  <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
@@ -219,10 +223,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/24/trial-campaign-donations-hillary-clinton-2016-00011691">Trial opens for men accused of funneling millions to back Hillary Clinton in 2016 presidential race</a> Politico: Prosecutors say campaigns were unaware of efforts to disguise true sources of funds, which flowed to GOP coffers after Trump won. 
  <p class="updated_time"> 10:30 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-supreme-court-nominee.html">Biden Tells Advisers He Has Chosen His Supreme Court Nominee</a> NYT: President Biden’s decision ended a monthlong search to replace Justice Stephen G. Breyer, who is retiring. An announcement could come as soon as Friday. 
- <p class="updated_time"> 10:25 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/russian-forces-ukraine-kyiv-00011700">Russian forces converge on Ukraine’s capital</a> Politico: Kyiv was under bombardment in the pre-dawn hours of Friday morning, with Biden administration officials telling lawmakers the city was being encircled by Russian troops. 
- <p class="updated_time"> 10:20 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/tulsi-gabbard-cpac-message-00011694">Gabbard's message to CPAC: Can't we all just get along?</a> Politico: The 2020 Democratic presidential hopeful will make a plea for unity at the conference for GOP activists. 
  <p class="updated_time"> 10:13 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/us-troops-deploy-europe.html">Pentagon Orders 7,000 More Troops to Europe</a> NYT: Military officials gave a grim assessment of the toll on Ukraine, saying that Russian forces were moving to decapitate the government in Kyiv. 
  <p class="updated_time"> 09:13 PM CT, Feb. 24 </p> 
@@ -241,8 +241,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/24/white-house-condemns-russia-chernobyl-00011641">White House condemns Russia over report of hostage-taking at Chernobyl nuclear site</a> Politico: Press secretary Jen Psaki said the U.S. is “outraged” and requests their release. 
  <p class="updated_time"> 06:49 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082969036/florida-house-passes-controversial-measure-dubbed-the-dont-say-gay-bill-by-criti">Florida House passes controversial measure dubbed the 'Don't Say Gay' bill by critics</a> NPR: Opponents of the measure say it will hurt LGBTQ youth, who already face higher rates of bullying, but the Republican sponsor says it's meant to protect children and keep parents informed. 
- <p class="updated_time"> 06:29 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/social-media-platforms-russia-ukraine-disinformation-00011559">Social media platforms on the defensive as Russian-based disinformation about Ukraine spreads</a> Politico: Kremlin-backed falsehoods are spreading across the world's largest tech platforms and putting the companies' content policies to the test. 
  <p class="updated_time"> 06:15 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/cpac-ukraine-putin.html">How CPAC Went From 'City Upon a Hill' to 'Anti-Anti-Putin'</a> NYT: An annual meeting of conservatives was a launchpad for Ronald Reagan’s American idealism. Today, it’s a platform for a very different view of the world. 
  <p class="updated_time"> 05:49 PM CT, Feb. 24 </p> 
@@ -251,8 +249,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/24/rights-violations-police-george-floyd-killing-00011582">3 former cops convicted of rights violations in Floyd killing</a> Politico: The videotaped killing sparked protests in Minneapolis that spread around the globe as part of reckoning over racial injustice. 
  <p class="updated_time"> 05:24 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082954761/republicans-are-condemning-putin-for-the-invasion-of-ukraine-and-criticizing-bid">Republicans are condemning Putin for the invasion of Ukraine — and criticizing Biden</a> NPR: However, the GOP has not reached full consensus on the Kremlin's actions, with former President Donald Trump remaining an outlier in the party he ostensibly leads. 
- <p class="updated_time"> 05:00 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/putin-was-playing-biden-all-along-00011555">Putin was playing Biden all along</a> Politico: The U.S. president and his aides thought they could manage Putin. Their calculations were dead wrong. 
  <p class="updated_time"> 04:24 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/sanctions-on-russia-biden.html">Biden Says Putin Will 'Bear the Consequences,' Announces New Sanctions</a> NYT: Mr. Biden said the United States would cut off Russia’s largest banks and largest companies from the western financial markets, freeze assets of Russian elites and restrict exports of technology to Russia. 
  <p class="updated_time"> 03:53 PM CT, Feb. 24 </p> 
@@ -291,14 +287,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/us/politics/somalia-shabab-us-airstrike.html">US Carries Out First Airstrike in Somalia Since August</a> NYT: The strike targeted Al Shabab militants who had attacked allied Somali security forces. 
  <p class="updated_time"> 12:38 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/oakland-mayor-defund-police-00011387">Oakland mayor: Defund the police push went ‘too far’</a> Politico: But she noted that investments in housing, public health and behavioral health would drive down crime rates. 
- <p class="updated_time"> 11:50 AM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/biden-foreign-policy-doctrine-stress-test-00011385">Biden faces another global crisis. This one resonates differently at home.</a> Politico: The White House and allies believe the Republican disagreements over Ukraine have given them some political wiggle room. 
  <p class="updated_time"> 11:23 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/24/1082795427/photos-show-the-calamity-as-russia-invades-ukraine">Photos show the calamity as Russia invades Ukraine</a> NPR: Kyiv and Kharkiv are among the many cities that were attacked by rockets. 
  <p class="updated_time"> 11:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/kevin-mcarthy-speaker.html">Courting G.O.P.’s Mainstream and Extreme, McCarthy Plots Rise to Speaker</a> NYT: The top House Republican is attempting a series of political contortions to try to secure his place in a party that has shifted under his feet. 
- <p class="updated_time"> 10:56 AM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/for-battered-south-jersey-democrats-little-to-love-in-new-legislative-districts-00010990">For battered South Jersey Democrats, there's little to love in the new legislative district map</a> Politico: The new map of New Jersey's 40 legislative districts presents a difficult challenge for Senate President Steve Sweeney and his fellow South Jersey Democrats. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden announces new sanctions as Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House targets banks and export controls, which would cut Russia off from critical technology such as semiconductors. 
  <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
@@ -351,8 +343,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/23/1082630139/trump-praises-putins-moves">Trump praises Putin's moves as 'savvy'</a> NPR: Former President Trump praised Russian President Putin after the Kremlin recognized the independence of two breakaway, Russian separatist-controlled regions in eastern Ukraine. 
  <p class="updated_time"> 03:38 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Being Interviewed</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to appearing, but investigators regard her as an important witness to what he was doing and saying during the riot. 
- <p class="updated_time"> 03:09 PM CT, Feb. 23 </p> 
- <a href="https://www.npr.org/2022/02/23/1082593735/justice-department-china-initiative">The Justice Department is ending its controversial China Initiative</a> NPR: The initiative aimed to counter China's theft of American secrets and technology, but critics said it created a climate of fear among Asian Americans. 
+ <p class="updated_time"> 03:02 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/biden-troops-russia-ukraine-00011049">The line Biden won’t cross on Ukraine</a> Politico: The president says he won’t send American troops to battle Russian forces in Ukraine. That, some critics say, is a stance Russia will exploit and China will remember. 
  <p class="updated_time"> 02:37 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/who-is-j-michelle-childs-bio-facts-background-political-views-00007234">J. Michelle Childs: Who is she? Bio, facts, background and political views</a> Politico: The South Carolina judge has bipartisan support from her home-state lawmakers. 
  <p class="updated_time"> 02:36 PM CT, Feb. 23 </p> 
@@ -391,12 +383,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/18/shutdown-siren-silenced-for-now-00010095">Shutdown siren… silenced (for now)</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:15 AM CT, Feb. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/18/exclusive-the-secret-history-of-pences-jan-6-argument-00010081"> Exclusive: The secret history of Pence’s Jan. 6 argument</a> Politico Playbook: And Kevin McCarthy endorses Liz Cheney's challenger. 
- <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/congress-sanctions-russias-aggression-00010051">Why Congress' sanctions push cooled even as Russia's aggression didn't</a> Politico: President Joe Biden got deference this month — a stark contrast with Donald Trump, whose approach to Moscow got handcuffed early. 
- <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/the-white-house-throws-cold-water-on-a-restaurant-industry-bailout-00009940">The White House throws cold water on a restaurant industry bailout</a> Politico: Lawmakers and allies are begging for cash amid a lingering pandemic. But the politics aren't in their favor. 
- <p class="updated_time"> 04:30 AM CT, Feb. 18 </p> 
- <a href="https://www.politico.com/news/2022/02/18/gop-senators-steer-clear-of-trump-00010006">GOP senators steer clear of Trump as rift deepens</a> Politico: Senate Republicans want the former president's supporters, but some are avoiding him in a bid to make the midterms a referendum on Joe Biden’s leadership. 
 
 
 </details>
