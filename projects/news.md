@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:51 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
- <p class="updated_time"> 08:48 PM CT, Feb. 24 </p> 
+ <p class="updated_time"> 09:12 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Russians Advance on Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said, announcing new sanctions in his first public remarks since Russia’s assault began. 
+ <p class="updated_time"> 08:57 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 08:23 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/russia-ukraine-invasion-putin-biden.html">Russia Batters Ukraine With Artillery Strikes as West Condemns Invasion</a> NYT: Russian special forces and airborne troops were pushing toward Ukraine’s capital, Kyiv. President Biden announced severe new sanctions as Vladimir Putin remained resolute about his decision to invade. 
  <p class="updated_time"> 08:19 PM CT, Feb. 24 </p> 
@@ -201,7 +201,7 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:13 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/cdc-relaunching-covid-tracker-eased-mandates-00011680">CDC relaunching Covid tracker with an eye on eased mandates</a> Politico: The shift comes weeks after state and local officials began forging ahead with their own plans to drop mask measures and vaccination requirements. 
- <p class="updated_time"> 08:51 PM CT, Feb. 24 </p> 
+ <p class="updated_time"> 08:57 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 08:19 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">Biden Denounces Putin's Actions in Ukraine </a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
