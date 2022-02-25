@@ -8,20 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:56 PM CT, Feb. 24 </p> 
+ <p class="updated_time"> 11:39 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/australia/covid-drove-more-australians-away-from-cities-will-they-go-back.html">Covid Drove More Australians Away From Cities. Will They Go Back?</a> NYT: As restrictions ease, will the appeal of fewer people, a lower risk of transmission and more personal space prove to be enduring? 
+ <p class="updated_time"> 11:38 PM CT, Feb. 24 </p> 
+ <a href="https://www.npr.org/2022/02/25/1082996885/in-phone-call-china-plays-a-balancing-act-over-russias-invasion-of-ukraine">In phone call, China plays a balancing act over Russia's invasion of Ukraine</a> NPR: In a phone call with his Russian counterpart, China's Foreign Minister Wang Yi emphasizes dialogue and negotiation in the Russia-Ukraine crisis. 
+ <p class="updated_time"> 11:32 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Explosion Is Reported Over Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said in announcing new sanctions. Russia advances on Kyiv. 
+ <p class="updated_time"> 11:30 PM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
+ <p class="updated_time"> 11:10 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/russia-ukraine-invasion-putin-biden.html">Russia Batters Ukraine With Artillery Strikes as West Condemns Invasion</a> NYT: Explosions were reported over Kyiv, the capital. Several countries announced severe new sanctions, as Vladimir Putin remained resolute about his decision to invade. 
  <p class="updated_time"> 10:16 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
  <p class="updated_time"> 10:14 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-expats-invasion-protest.html">Ukrainians Abroad Talk of Shock and Disbelief as Homeland Is Invaded</a> NYT: Across Europe, Ukrainian expatriates looked on in horror at the scenes of destruction back home, and expressed feelings of hopelessness. 
  <p class="updated_time"> 10:03 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-attack-photos.html">See Photos on the Ground in Ukraine </a> NYT: Photographers spread around Ukraine captured a populace struggling with newfound uncertainty and fear in the face of a national military invasion. 
- <p class="updated_time"> 09:21 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
  <p class="updated_time"> 08:57 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
- <p class="updated_time"> 08:23 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/russia-ukraine-invasion-putin-biden.html">Russia Batters Ukraine With Artillery Strikes as West Condemns Invasion</a> NYT: Russian special forces and airborne troops were pushing toward Ukraine’s capital, Kyiv. President Biden announced severe new sanctions as Vladimir Putin remained resolute about his decision to invade. 
  <p class="updated_time"> 08:19 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">Biden Denounces Putin's Actions in Ukraine </a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
  <p class="updated_time"> 08:16 PM CT, Feb. 24 </p> 
@@ -138,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60510551?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia invasion: Europe prepares for wave of refugees</a> BBC: Roads out of Ukraine's major cities are jammed as many pack up and flee Russia's military invasion. 
  <p class="updated_time"> 10:50 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60514698?at_medium=RSS&at_campaign=KARANGA">Noor Muqaddam: Diplomat's daughter beheaded for spurning proposal</a> BBC: A man is sentenced to death for raping and murdering the woman at his home in Pakistan's capital. 
- <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden announces new sanctions as Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House targets banks and export controls, which would cut Russia off from critical technology such as semiconductors. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008225573/kyiv-ukraine-russia-bombing.html">After Attack on Ukraine, Residents Flee West</a> NYT: Families fleeing Thursday’s attack in Kyiv were stuck in traffic for miles on the capital’s longest avenue, as they tried to escape the advancement of Russian troops. 
  <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
