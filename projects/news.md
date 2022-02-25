@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:23 AM CT, Feb. 25 </p> 
+ <p class="updated_time"> 03:32 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60514228?at_medium=RSS&at_campaign=KARANGA">Russian forces seize Chernobyl nuclear power plant</a> BBC: The power plant, the site of a 1986 nuclear disaster, has been taken over by Russian troops. 
+ <p class="updated_time"> 03:30 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Ukrainian Officials Report Missile Attacks in Kyiv</a> NYT: Ukraine’s president denounced Russia in a televised address: “They say that civilian objects are not a target for them. It is a lie. They do not distinguish in which areas to operate.” 
+ <p class="updated_time"> 03:21 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: The move follows the UK's decision to ban Russia's national airline Aeroflot from landing in the UK. 
  <p class="updated_time"> 03:20 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/eu-russian-sanctions.html">European Leaders Agree to a Second Wave of Russia Sanctions</a> NYT: The new measures will hit Russia’s access to technology and its elite’s abilities to travel and save money in Europe, but omitted other steps harder to agree on. 
  <p class="updated_time"> 03:17 AM CT, Feb. 25 </p> 
@@ -60,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/white-house-pandemic-strategy.html">The White House Is Mulling a New Pandemic Strategy </a> NYT: President Biden’s coronavirus response team is evaluating a 136-page blueprint by a team of outside experts who have spent much of this week meeting behind closed doors with White House officials. 
  <p class="updated_time"> 05:59 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? A Full Guide</a> NYT: Here’s a guide to the causes behind a conflict that has just become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
- <p class="updated_time"> 05:51 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60514228?at_medium=RSS&at_campaign=KARANGA">Russian forces seize Chernobyl nuclear power plant</a> BBC: The power plant, the site of a 1986 nuclear disaster, has been taken over by Russian troops. 
  <p class="updated_time"> 05:38 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/kentucky-coronavirus-cases-covid.html">Cases Decline in Kentucky but Hospitalizations and Positivity Rate Remain High</a> NYT: Only 56 percent of state residents are vaccinated, well below the national average. “We would like to see all of those numbers get better,” Gov. Andy Beshear said this week. 
  <p class="updated_time"> 05:24 PM CT, Feb. 24 </p> 
@@ -196,8 +198,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/world/asia/china-xi-jinping-world.html">How China and Xi Jinping Have Turned on the Outside World</a> NYT: Global engagement has helped the nation prosper. But now, its leader seems intent on recasting the meeting of minds and cultures as a zero-sum clash. 
  <p class="updated_time"> 04:45 PM CT, Feb. 23 </p> 
  <a href="https://www.nytimes.com/2022/02/23/world/americas/colombia-abortion.html">How Colombian Feminists Decriminalized Abortion </a> NYT: As the United States faces growing restrictions on abortion, activists in Latin America are increasingly relying on one another to knock down barriers in the region. 
- <p class="updated_time"> 02:29 PM CT, Feb. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60501397?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia crisis: The soldiers on the front line</a> BBC: Soldiers scan for snipers and fear being hurt or killed as military activity in the area increases. 
 
 
 </details>
@@ -205,6 +205,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: Lawmakers have plenty they could add to a bill helping counter a Russian invasion. What that vehicle is, and when it can pass, remains unclear. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">Josh and Ted's exceptionalist adventure</a> Politico: One denies he's planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
  <p class="updated_time"> 10:45 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/trial-campaign-donations-hillary-clinton-2016-00011691">Trial opens for men accused of funneling millions to back Hillary Clinton in 2016 presidential race</a> Politico: Prosecutors say campaigns were unaware of efforts to disguise true sources of funds, which flowed to GOP coffers after Trump won. 
  <p class="updated_time"> 10:30 PM CT, Feb. 24 </p> 
