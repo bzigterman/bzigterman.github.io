@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:41 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 01:50 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: It was unclear whether Russia would engage in talks with Ukraine’s leadership. The E.U. sanctioned Mr. Putin, amid growing pressure to isolate him and Russia. 
+ <p class="updated_time"> 01:46 PM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60528132?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Biden nominates Ketanji Brown Jackson to top court</a> BBC: Judge Ketanji Brown Jackson said she was "humbled by the extraordinary honour" of her nomination. 
+ <p class="updated_time"> 01:46 PM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60520933?at_medium=RSS&at_campaign=KARANGA">Russia stripped of Champions League final</a> BBC: The 2022 Champions League final will be played in Paris after Russia is stripped of the match following the nation's invasion of Ukraine. 
  <p class="updated_time"> 01:22 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/middleeast/in-north-africa-ukraine-war-strains-economies-weakened-by-pandemic.html">Ukraine War Strains North Africa Economies</a> NYT: Egypt imports most of its wheat from Russia and Ukraine, and is looking for alternative suppliers. And Tunisia was struggling to pay for grain imports even before the conflict. 
- <p class="updated_time"> 01:21 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60528132?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Biden nominates Ketanji Brown Jackson to top court</a> BBC: If confirmed, Judge Ketanji Brown Jackson will be the first black woman to serve on the top court. 
  <p class="updated_time"> 01:11 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083029733/afghan-refugees-resettlement-housing-jobs">The next challenge for Afghan refugees is finding affordable housing and jobs</a> NPR: Afghan refugees have left their first destination in the U.S.: military bases. Now they're resettling in communities around the country. But finding affordable housing makes the transition difficult. 
  <p class="updated_time"> 01:04 PM CT, Feb. 25 </p> 
@@ -52,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1083095335/eurovision-russia-banned">Changing course, Eurovision organizers say no Russian act will compete this year</a> NPR: Organizers cited concerns that "the inclusion of a Russian entry in this year's Contest would bring the competition into disrepute" in light of Russia's invasion of Ukraine. 
  <p class="updated_time"> 11:24 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60525996?at_medium=RSS&at_campaign=KARANGA">Ukraine: Woman confronts armed Russian soldier</a> BBC: The woman angrily asks the soldier, seen holding a large machine gun, why he has come to the city. 
- <p class="updated_time"> 11:02 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60520933?at_medium=RSS&at_campaign=KARANGA">Russia stripped of Champions League final</a> BBC: The 2022 Champions League final will be played in Paris after Russia is stripped of the match following the nation's invasion of Ukraine. 
  <p class="updated_time"> 10:47 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60528828?at_medium=RSS&at_campaign=KARANGA">Chernobyl: Radiation spike at nuclear plant seized by Russian forces</a> BBC: But a disaster at the defunct nuclear power plant there is "extremely unlikely", experts say. 
  <p class="updated_time"> 10:40 AM CT, Feb. 25 </p> 
@@ -201,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 02:10 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/nato-deploy-troops-eastern-flank-ukraine-00011902">NATO deploys troops to eastern flank as Russian attack escalates in Ukraine</a> Politico: It is the first time the treaty's response force has been used for collective security, NATO Secretary General Jens Stoltenberg said. 
+ <p class="updated_time"> 01:50 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/ketanji-brown-jackson-supreme-court.html">Ketanji Brown Jackson Chosen as Biden's Pick for Supreme Court</a> NYT: If confirmed, Judge Jackson, who won support from three Republicans in the Senate when elevated to a federal appeals court last year, would become the first Black woman on the Supreme Court. 
  <p class="updated_time"> 12:45 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/business/sec-short-selling.html">The S.E.C. Wants to Increase the Public’s View Into Big Short-Selling Activity</a> NYT: The Securities and Exchange Commission is proposing new disclosure requirements for large short sellers. Officials say it could help them sort out market disruptions. 
  <p class="updated_time"> 12:42 PM CT, Feb. 25 </p> 
@@ -271,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/white-house-pandemic-strategy.html">The White House Is Mulling a New Pandemic Strategy </a> NYT: President Biden’s coronavirus response team is evaluating a 136-page blueprint by a team of outside experts who have spent much of this week meeting behind closed doors with White House officials. 
  <p class="updated_time"> 05:24 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082954761/republicans-are-condemning-putin-for-the-invasion-of-ukraine-and-criticizing-bid">Republicans are condemning Putin for the invasion of Ukraine — and criticizing Biden</a> NPR: However, the GOP has not reached full consensus on the Kremlin's actions, with former President Donald Trump remaining an outlier in the party he ostensibly leads. 
- <p class="updated_time"> 04:24 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/sanctions-on-russia-biden.html">Biden Says Putin Will 'Bear the Consequences,' Announces New Sanctions</a> NYT: Mr. Biden said the United States would cut off Russia’s largest banks and largest companies from the western financial markets, freeze assets of Russian elites and restrict exports of technology to Russia. 
  <p class="updated_time"> 03:36 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/inhofe-to-retire-from-senate-teeing-up-special-election-in-oklahoma-00011534">Inhofe to retire from Senate, teeing up special election in Oklahoma</a> Politico: The 87-year-old Oklahoma Republican is expected to announce his retirement, likely triggering a special election to replace him this fall. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
