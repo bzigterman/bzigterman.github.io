@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:57 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: Foreign Minister Sergey V. Lavrov made clear that Russia would not negotiate until Ukraine stopped fighting. Ukraine’s leaders told Kyiv residents to “prepare Molotov cocktails” to defend the capital. 
+ <p class="updated_time"> 06:43 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60525725?at_medium=RSS&at_campaign=KARANGA">BBC Ukraine editor: My surreal escape from Kyiv</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes her decision to leave the capital for safety in the countryside. 
  <p class="updated_time"> 06:31 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
- <p class="updated_time"> 06:30 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: Foreign Minister Sergey V. Lavrov made clear that Russia would not negotiate until Ukraine stopped fighting. Ukraine’s leaders told Kyiv residents to “prepare Molotov cocktails” to defend the capital. 
  <p class="updated_time"> 06:29 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60525815?at_medium=RSS&at_campaign=KARANGA">Ukraine: BBC Ukrainian journalist - 'My home has been bombed'</a> BBC: BBC Ukrainian's Olga Malchevska finds out her family home in Kyiv has been devastated. 
+ <p class="updated_time"> 06:10 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60521995?at_medium=RSS&at_campaign=KARANGA">Kenyan schoolgirl jailed over Moi Girls Schools fire deaths</a> BBC: Ten girls died in the 2017 fire started by a student trying to get a transfer to another school. 
  <p class="updated_time"> 06:09 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/sergey-lavrov-ukraine-talks.html">Russia Says It Won't Enter Talks Until Ukraine Stops Fighting</a> NYT: Russia’s foreign minister, Sergey Lavrov, made clear that Russia was seeking to topple the democratically elected government of Ukraine. 
  <p class="updated_time"> 06:01 AM CT, Feb. 25 </p> 
@@ -134,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/putin-russia-ukraine.html">Russians Now See a New Side to Putin: Dragging Them Into War</a> NYT: The autocrat who has steered Russia for 22 years was embraced by many Russians for what they saw as his rationality and astute risk management. That image has been upended. 
  <p class="updated_time"> 03:11 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/business/economy/interest-rates-russia-ukraine.html">Federal Reserve Isn't Likely to Change Course After Ukraine Invasion</a> NYT: Central bankers are poised to raise interest rates in March. The Russian invasion of Ukraine poses a risk to economic growth but will likely exacerbate inflation. 
- <p class="updated_time"> 02:40 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60514226?at_medium=RSS&at_campaign=KARANGA">Florida House of Representatives passes 'Don't Say Gay' bill</a> BBC: The legislation restricts classroom discussion around sexual orientation and gender identity. 
  <p class="updated_time"> 02:13 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/us-troops-russia-ukraine-military.html">The Pentagon Orders Another 7,000 US Troops to Europe</a> NYT: The deployment will bring to 14,000 the number of American troops that President Biden has ordered to Europe since the Ukraine crisis began. 
  <p class="updated_time"> 02:13 PM CT, Feb. 24 </p> 
