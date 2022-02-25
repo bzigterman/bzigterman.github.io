@@ -8,22 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:45 PM CT, Feb. 24 </p> 
+ <p class="updated_time"> 08:23 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/russia-ukraine-invasion-putin-biden.html">Russia Batters Ukraine With Artillery Strikes as West Condemns Invasion</a> NYT: Russian special forces and airborne troops were pushing toward Ukraine’s capital, Kyiv. President Biden announced severe new sanctions as Vladimir Putin remained resolute about his decision to invade. 
+ <p class="updated_time"> 08:19 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">Biden Denounces Putin's Actions in Ukraine </a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
+ <p class="updated_time"> 08:18 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Russians Advance on Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said, announcing new sanctions in his first public remarks since Russia’s assault began. 
+ <p class="updated_time"> 08:16 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-refugees-united-states.html">Refugee Resettlement Leaders Urge Biden to Welcome Ukrainians</a> NYT: The U.S. refugee program is already under pressure to absorb more than 70,000 evacuees from Afghanistan who arrived last year. 
+ <p class="updated_time"> 08:11 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 07:45 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/trump-putin-russia-ukraine.html">Trump Praises Putin, Leaving Republicans in a Bind</a> NYT: G.O.P. leaders, while condemning Russia’s invasion of Ukraine, were silent on comments made by the former president. Some figures on the right amplified them. 
  <p class="updated_time"> 07:33 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/intelligence-putin-biden-ukraine-leverage.html">Accurate U.S. intelligence did not stop Putin, but it gave Biden big advantages.</a> NYT: The depth and quality of the intelligence strengthened the president’s hand in persuading allies to form a unified front against Moscow. 
  <p class="updated_time"> 07:33 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/putin-ukraine-speech.html">Read Putin's Speech and His Case for War in Ukraine</a> NYT: For the second time in days, President Vladimir V. Putin addressed Russians about his aims in Ukraine. A close look at his speech offers hints to what may lie ahead. 
- <p class="updated_time"> 07:25 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 07:02 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-attack-photos.html">See Photos From On the Ground in Ukraine</a> NYT: Photographers spread around Ukraine captured a populace struggling with newfound uncertainty and fear in the face of a national military invasion. 
- <p class="updated_time"> 06:37 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/russia-ukraine-invasion-putin-biden.html">Russia Batters Ukraine With Artillery Strikes as West Condemns Invasion</a> NYT: Russian special forces and airborne troops were pushing toward Ukraine’s capital, Kyiv. President Biden announced severe new sanctions as Vladimir Putin remained resolute about his decision to invade. 
- <p class="updated_time"> 06:34 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">Biden Denounces Putin's Actions in Ukraine </a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
  <p class="updated_time"> 06:21 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59995097?at_medium=RSS&at_campaign=KARANGA">Noor Muqaddam: The high society beheading that stunned a nation</a> BBC: The murder of Noor Muqaddam by the son of one of Pakistan's richest families stunned the country. 
  <p class="updated_time"> 06:19 PM CT, Feb. 24 </p> 
@@ -82,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/putin-russia-ukraine.html">Russians Now See a New Side to Putin: Dragging Them Into War</a> NYT: The autocrat who has steered Russia for 22 years was embraced by many Russians for what they saw as his rationality and astute risk management. That image has been upended. 
  <p class="updated_time"> 03:11 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/business/economy/interest-rates-russia-ukraine.html">Federal Reserve Isn't Likely to Change Course After Ukraine Invasion</a> NYT: Central bankers are poised to raise interest rates in March. The Russian invasion of Ukraine poses a risk to economic growth but will likely exacerbate inflation. 
- <p class="updated_time"> 02:59 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-refugees-united-states.html">Refugee Resettlement Leaders Urge Biden to Welcome Ukrainians</a> NYT: The U.S. refugee program is already under pressure to absorb more than 70,000 evacuees from Afghanistan who arrived last year. 
  <p class="updated_time"> 02:40 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60514226?at_medium=RSS&at_campaign=KARANGA">Florida House of Representatives passes 'Don't Say Gay' bill</a> BBC: The legislation restricts classroom discussion around sexual orientation and gender identity. 
  <p class="updated_time"> 02:13 PM CT, Feb. 24 </p> 
@@ -110,8 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60513632?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Shock and support on the streets of Moscow</a> BBC: The BBC talks to Russians in Moscow and Rostov to find out what they think of the assault on Ukraine. 
  <p class="updated_time"> 12:42 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/kyiv-ukraine-residents.html">‘I Fear for My Kids.’ Ukrainians in Kyiv Flee the Capital.</a> NYT: Chernihiv lies in the path of advancing Russian forces and sits in the path of the only road down from the border to Kyiv. 
- <p class="updated_time"> 12:28 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/trump-russia.html">As Russia Attacked Ukraine, Trump Again Praised Putin and Ridiculed Biden.</a> NYT: In a speech to donors and on Fox News, the former president claimed the crisis would not have happened if he were still in the White House. 
  <p class="updated_time"> 12:28 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA">In pictures: Destruction and fear as war hits Ukraine</a> BBC: Russian forces have crossed Ukraine's borders, bombing military targets near big cities. 
  <p class="updated_time"> 12:27 PM CT, Feb. 24 </p> 
@@ -201,22 +199,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:19 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">Biden Denounces Putin's Actions in Ukraine </a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
+ <p class="updated_time"> 08:11 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 07:45 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/trump-putin-russia-ukraine.html">Trump Praises Putin, Leaving Republicans in a Bind</a> NYT: G.O.P. leaders, while condemning Russia’s invasion of Ukraine, were silent on comments made by the former president. Some figures on the right amplified them. 
  <p class="updated_time"> 07:43 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/jim-inhofe-senate-retirement.html">James Inhofe, Oklahoma Senator, Is Said to Plan an Early Retirement</a> NYT: The 87-year-old Republican has told people that he will step down at the end of the year, four years before his term is up. His seat is likely to stay in G.O.P. hands. 
  <p class="updated_time"> 07:33 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/intelligence-putin-biden-ukraine-leverage.html">Accurate U.S. intelligence did not stop Putin, but it gave Biden big advantages.</a> NYT: The depth and quality of the intelligence strengthened the president’s hand in persuading allies to form a unified front against Moscow. 
- <p class="updated_time"> 07:25 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 07:07 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/us-troops-deploy-europe.html">Pentagon Orders 7,000 More Troops to Europe</a> NYT: Military officials gave a grim assessment of the toll on Ukraine, saying that Russian forces were moving to decapitate the government in Kyiv. 
  <p class="updated_time"> 07:07 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/white-house-condemns-russia-chernobyl-00011641">White House condemns Russia over report of hostage-taking at Chernobyl nuclear site</a> Politico: Press secretary Jen Psaki said the U.S. is “outraged” and requests their release. 
  <p class="updated_time"> 06:49 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082969036/florida-house-passes-controversial-measure-dubbed-the-dont-say-gay-bill-by-criti">Florida House passes controversial measure dubbed the 'Don't Say Gay' bill by critics</a> NPR: Opponents of the measure say it will hurt LGBTQ youth, who already face higher rates of bullying, but the Republican sponsor says it's meant to protect children and keep parents informed. 
- <p class="updated_time"> 06:34 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">Biden Denounces Putin's Actions in Ukraine </a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
  <p class="updated_time"> 06:29 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/social-media-platforms-russia-ukraine-disinformation-00011559">Social media platforms on the defensive as Russian-based disinformation about Ukraine spreads</a> Politico: Kremlin-backed falsehoods are spreading across the world's largest tech platforms and putting the companies' content policies to the test. 
  <p class="updated_time"> 06:15 PM CT, Feb. 24 </p> 
@@ -333,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/us/politics/china-trump-justice-department.html">Justice Dept. to End Trump-Era Initiative to Deter Chinese Threats</a> NYT: The agency will instead introduce a broader strategy meant to address threats from a slate of hostile nations. 
  <p class="updated_time"> 04:55 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/biden-supreme-court-contenders-00011050">How a 1990 law Biden helped pass gives us a clue about his SCOTUS pick</a> Politico: Then-Sen. Biden wanted judges to move faster on their case work. The plan he helped write may prove newly relevant. 
- <p class="updated_time"> 04:37 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/texas-governor-orders-probe-of-abusive-procedures-for-transgender-children-00011057">Abbott orders Texas probe of medical procedures for transgender children</a> Politico: “Any parent or guardian who loves and supports their child and is taking them to a licensed healthcare provider is not engaging in child abuse,” said an ACLU of Texas staff attorney. 
  <p class="updated_time"> 04:02 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082637172/trudeau-revokes-emergency-powers-after-canada-blockades-end">Trudeau revokes emergency powers after Canada blockades end</a> NPR: On Friday, authorities launched the largest police operation in Canadian history, arresting at least 191 people and towing about about 80 vehicles until the streets in front of Parliament were clear. 
  <p class="updated_time"> 03:59 PM CT, Feb. 23 </p> 
@@ -343,6 +339,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Being Interviewed</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to appearing, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 03:09 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082593735/justice-department-china-initiative">The Justice Department is ending its controversial China Initiative</a> NPR: The initiative aimed to counter China's theft of American secrets and technology, but critics said it created a climate of fear among Asian Americans. 
+ <p class="updated_time"> 03:02 PM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/biden-troops-russia-ukraine-00011049">The line Biden won’t cross on Ukraine</a> Politico: The president says he won’t send American troops to battle Russian forces in Ukraine. That, some critics say, is a stance Russia will exploit and China will remember. 
  <p class="updated_time"> 02:51 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082579779/interior-department-derogatory-term">The U.S. looks to replace a derogatory name used hundreds of times on federal lands</a> NPR: The Department of the Interior wants the public to comment on name replacements for the more than 660 geographic features that contain a racial slur referring to Native Americans. 
  <p class="updated_time"> 02:37 PM CT, Feb. 23 </p> 
