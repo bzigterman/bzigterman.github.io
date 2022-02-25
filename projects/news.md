@@ -8,9 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:50 AM CT, Feb. 25 </p> 
+ <p class="updated_time"> 04:07 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Ukrainian Officials Report Missile Attacks in Kyiv</a> NYT: Ukraine’s president denounced Russia in a televised address: “They say that civilian objects are not a target for them. It is a lie. They do not distinguish in which areas to operate.” 
- <p class="updated_time"> 03:41 AM CT, Feb. 25 </p> 
+ <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/us-china-russia-ukraine.html">Biden Officials Repeatedly Urged China to Help Avert War in Ukraine</a> NYT: Americans presented Chinese officials with intelligence on Russia’s troop buildup in hopes that President Xi Jinping would step in, but were repeatedly rebuffed. 
+ <p class="updated_time"> 03:56 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: Russia says the move is a response to the UK's 'unfriendly' decision to ban Aeroflot from the UK. 
  <p class="updated_time"> 03:37 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
@@ -179,8 +181,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:35 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/pakistans-leader-is-in-moscow-to-meet-with-putin-about-a-gas-pipeline.html">Pakistan’s leader is in Moscow to meet with Putin about a gas pipeline.</a> NYT: Prime Minister Imran Khan’s long-planned visit began hours before Russian forces attacked Ukraine. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/japan-russia-sanctions.html">Japan Moves to Enact Sanctions Against Russia</a> NYT: Japan was previously reluctant to impose sanctions. 
- <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/un-security-council-russia-ukraine.html">As U.N. Security Council Met to Stop Military Action by Putin, Russia Attacked Ukraine</a> NYT: The United States said the Council would meet on Thursday to vote on a resolution condemning Russia’s actions. 
  <p class="updated_time"> 06:16 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60509493?at_medium=RSS&at_campaign=KARANGA">BBC Ukraine editor: There is no safe place any more</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes shock and panic in the capital, Kyiv. 
@@ -209,6 +209,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: Lawmakers have plenty they could add to a bill helping counter a Russian invasion. What that vehicle is, and when it can pass, remains unclear. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">Josh and Ted's exceptionalist adventure</a> Politico: One denies he's planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
+ <a href="https://www.npr.org/2022/02/25/1082626791/u-s-judges-are-narrowing-voting-protections-some-fear-lasting-damage">U.S. judges are narrowing voting protections. Some fear lasting damage</a> NPR: The Supreme Court has been dismantling key provisions of the landmark Voting Rights Act of 1965. The justices have taken another case on the issue next term. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/latino-politics-jessica-cisneros.html">Progressive Jessica Cisneros Challenges Rep. Cuellar in Texas</a> NYT: In her second run for Congress, Jessica Cisneros has moved from pitching progressive policies to attacking the incumbent Democrat, Representative Henry Cuellar. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/us-china-russia-ukraine.html">Biden Officials Repeatedly Urged China to Help Avert War in Ukraine</a> NYT: Americans presented Chinese officials with intelligence on Russia’s troop buildup in hopes that President Xi Jinping would step in, but were repeatedly rebuffed. 
  <p class="updated_time"> 10:45 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/trial-campaign-donations-hillary-clinton-2016-00011691">Trial opens for men accused of funneling millions to back Hillary Clinton in 2016 presidential race</a> Politico: Prosecutors say campaigns were unaware of efforts to disguise true sources of funds, which flowed to GOP coffers after Trump won. 
  <p class="updated_time"> 10:30 PM CT, Feb. 24 </p> 
@@ -285,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/us/politics/somalia-shabab-us-airstrike.html">US Carries Out First Airstrike in Somalia Since August</a> NYT: The strike targeted Al Shabab militants who had attacked allied Somali security forces. 
  <p class="updated_time"> 12:38 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/oakland-mayor-defund-police-00011387">Oakland mayor: Defund the police push went ‘too far’</a> Politico: But she noted that investments in housing, public health and behavioral health would drive down crime rates. 
- <p class="updated_time"> 11:56 AM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/bob-beckel-dead.html">Bob Beckel, Liberal Operative Who Became a Fixture on Fox, Dies at 73</a> NYT: He ran Walter Mondale’s 1984 presidential campaign, and later became a curmudgeonly pundit on conservative TV. 
  <p class="updated_time"> 11:50 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/biden-foreign-policy-doctrine-stress-test-00011385">Biden faces another global crisis. This one resonates differently at home.</a> Politico: The White House and allies believe the Republican disagreements over Ukraine have given them some political wiggle room. 
  <p class="updated_time"> 11:23 AM CT, Feb. 24 </p> 
@@ -335,8 +339,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/prosecutors-trump-criminal-probe-resign-00011175">Prosecutors in charge of Trump criminal probe have resigned</a> Politico: The resignations throw the future of the probe in doubt. 
  <p class="updated_time"> 06:59 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/florida-senate-approves-desantis-controversial-pick-for-surgeon-general-00011135">Florida Senate approves DeSantis' controversial pick for surgeon general</a> Politico: The Senate voted 24-15 in favor of Ladapo after about 40 minutes of debate, mostly from Democrats who criticized the Harvard-trained medical doctor for not fully supporting Covid-19 vaccines. 
- <p class="updated_time"> 06:21 PM CT, Feb. 23 </p> 
- <a href="https://www.nytimes.com/2022/02/23/us/politics/david-mccormick-maga-gop.html">How David McCormick Is Attempting a MAGA Makeover</a> NYT: David McCormick, a Republican candidate for Senate in Pennsylvania, is trying to reinvent himself as a Trump stalwart. It’s a work in progress. 
  <p class="updated_time"> 05:37 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082602594/ukraine-crisis-draws-new-resolve-from-bipartisan-lawmakers-with-some-gop-critics">Ukraine crisis draws new resolve from bipartisan lawmakers — with some GOP critics</a> NPR: Congressional lawmakers are sounding a new bipartisan tone against a rising threat led by Russian President Vladimir Putin. Still, there is GOP divide on how President Biden should move forward. 
  <p class="updated_time"> 05:33 PM CT, Feb. 23 </p> 
@@ -351,8 +353,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/23/us/politics/ivanka-trump-jan-6-committee.html">Ivanka Trump in Talks With Jan. 6 Panel About Being Interviewed</a> NYT: Former President Donald J. Trump’s eldest daughter has yet to commit to appearing, but investigators regard her as an important witness to what he was doing and saying during the riot. 
  <p class="updated_time"> 03:09 PM CT, Feb. 23 </p> 
  <a href="https://www.npr.org/2022/02/23/1082593735/justice-department-china-initiative">The Justice Department is ending its controversial China Initiative</a> NPR: The initiative aimed to counter China's theft of American secrets and technology, but critics said it created a climate of fear among Asian Americans. 
- <p class="updated_time"> 02:51 PM CT, Feb. 23 </p> 
- <a href="https://www.npr.org/2022/02/23/1082579779/interior-department-derogatory-term">The U.S. looks to replace a derogatory name used hundreds of times on federal lands</a> NPR: The Department of the Interior wants the public to comment on name replacements for the more than 660 geographic features that contain a racial slur referring to Native Americans. 
  <p class="updated_time"> 02:37 PM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/who-is-j-michelle-childs-bio-facts-background-political-views-00007234">J. Michelle Childs: Who is she? Bio, facts, background and political views</a> Politico: The South Carolina judge has bipartisan support from her home-state lawmakers. 
  <p class="updated_time"> 02:36 PM CT, Feb. 23 </p> 
