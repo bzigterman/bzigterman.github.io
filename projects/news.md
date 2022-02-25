@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:27 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 03:48 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Kyiv Rocked by Explosions for Second Night</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
+ <p class="updated_time"> 03:42 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/nyc-schools-mask-mandate.html">New York City Schools Will Lift Outdoor Mask Mandate</a> NYT: Masking inside the city’s public schools will still be required, as is the case across the state, but not outside on school grounds. 
  <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden’s Strategy for Dealing With Russia Is Containment for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
  <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
@@ -54,8 +56,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/business/economy/inflation-pce-index.html">A Key Inflation Gauge Is Still Rising, and War Could Make It Worse</a> NYT: The Federal Reserve’s preferred measure is at a four-decade high. Rising gas prices tied to Russia’s invasion of Ukraine could push it up further. 
  <p class="updated_time"> 12:16 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
- <p class="updated_time"> 12:13 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/nyc-schools-mask-mandate.html">New York City Schools Will Lift Outdoor Mask Mandate</a> NYT: Masking inside the city’s public schools will still be required, as is the case across the state, but not outside on school grounds. 
  <p class="updated_time"> 12:00 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/technology/pro-russia-pro-putin-sentiment-spreads-online.html">‘I’ll Stand on the Side of Russia’: Pro-Putin Sentiment Spreads Online</a> NYT: After marinating in conspiracy theories and Donald J. Trump’s Russia stance, some online discourse about Vladimir Putin has grown more complimentary. 
  <p class="updated_time"> 12:00 PM CT, Feb. 25 </p> 
@@ -168,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-zelensky-speech.html">Volodymyr Zelensky, Ukraine's Actor President, Steps Into Wartime Role</a> NYT: Even as doubts have lingered about his preparedness to lead, Volodymyr Zelensky, a former actor, gave the performance of his life as Russian forces prepared to invade. 
  <p class="updated_time"> 04:25 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082919477/for-ukrainian-americans-unity-against-putin-has-solidified-their-bonds">For Ukrainian-Americans, unity against Putin has solidified their bonds</a> NPR: Ukrainian-Americans were previously split by generation and religious identity. One Harvard scholar says that the past decade of actions by Russian President Putin has made the community more united. 
- <p class="updated_time"> 04:24 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/sanctions-on-russia-biden.html">Biden Says Putin Will 'Bear the Consequences,' Announces New Sanctions</a> NYT: Mr. Biden said the United States would cut off Russia’s largest banks and largest companies from the western financial markets, freeze assets of Russian elites and restrict exports of technology to Russia. 
  <p class="updated_time"> 04:16 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082926832/russia-faces-the-nuclear-option-of-being-ousted-from-the-swift-banking-system">Russia faces expulsion from a key tool used in the global banking system</a> NPR: SWIFT underpins the global financial system, handling millions of secure messages every day. Cutting Russia off from SWIFT could have a major impact on its economy, experts say. 
  <p class="updated_time"> 04:03 PM CT, Feb. 24 </p> 
@@ -203,8 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/u-s-will-sanction-putin-lavrov-and-other-russian-officials-00011995">U.S. will sanction Putin, Lavrov and other Russian officials</a> Politico: “In alignment with the decision by our European allies, the United States will join them in sanctioning President Putin and Foreign Minister Lavrov and members of the Russian national security team,” White House press secretary Jen Psaki said. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
- <p class="updated_time"> 03:31 PM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/culture-wars-ukraine-cpac-00011717">At CPAC, Ukraine takes a back seat to the culture wars</a> Politico: The annual conservative political gathering offered a stark indicator of how far foreign policy has fallen on the Republican agenda. 
+ <p class="updated_time"> 03:36 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/latino-politics-jessica-cisneros.html">Progressive Jessica Cisneros Challenges Rep. Cuellar in Texas</a> NYT: In her second run for Congress, Jessica Cisneros has moved from pitching progressive policies to attacking the incumbent Democrat, Representative Henry Cuellar. 
  <p class="updated_time"> 03:23 PM CT, Feb. 25 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
@@ -263,8 +261,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1083003224/morning-news-brief">News brief: Ukraine invasion, U.S, intelligence, GOP criticizes Biden</a> NPR: The Russian invasion of Ukraine continues to unfold. U.S. intelligence didn't prevent the invasion, so what role should the U.S. play now? The GOP criticizes Biden over his response to the invasion. 
  <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082626791/u-s-judges-are-narrowing-voting-protections-some-fear-lasting-damage">U.S. judges are narrowing voting protections. Some fear lasting damage</a> NPR: The Supreme Court has been dismantling key provisions of the landmark Voting Rights Act of 1965. The justices have taken another case on the issue next term. 
- <p class="updated_time"> 04:00 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/latino-politics-jessica-cisneros.html">Progressive Jessica Cisneros Challenges Rep. Cuellar in Texas</a> NYT: In her second run for Congress, Jessica Cisneros has moved from pitching progressive policies to attacking the incumbent Democrat, Representative Henry Cuellar. 
  <p class="updated_time"> 10:25 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/russian-forces-ukraine-kyiv-00011700">Russian forces converge on Ukraine’s capital</a> Politico: Kyiv was under bombardment in the pre-dawn hours of Friday morning, with Biden administration officials telling lawmakers the city was being encircled by Russian troops. 
  <p class="updated_time"> 10:13 PM CT, Feb. 24 </p> 
