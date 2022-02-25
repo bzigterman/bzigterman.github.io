@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:43 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: Russia says the move is a response to the UK's 'unfriendly' decision to ban Aeroflot from the UK. 
+ <p class="updated_time"> 05:40 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kyiv braces for Russian assault</a> BBC: The Ministry of Defence made the call as Russian forces reached the northern outskirts of Kyiv. 
  <p class="updated_time"> 05:30 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: Foreign Minister Sergey V. Lavrov made clear that Russia would not negotiate until Ukraine stopped fighting. Ukraine’s leaders told Kyiv residents to “prepare Molotov cocktails” to defend the capital. 
  <p class="updated_time"> 05:29 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia's attack in maps</a> BBC: Russia has launched a major offensive on three fronts. 
  <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html">Nils van der Poel Gives Away His Medal to Protest Beijing’s Abuses</a> NYT: In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China. 
- <p class="updated_time"> 04:54 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-60505417?at_medium=RSS&at_campaign=KARANGA">Russia bans British airlines from its airspace</a> BBC: Russia says the move is a response to the UK's 'unfriendly' decision to ban Aeroflot from the UK. 
- <p class="updated_time"> 04:43 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kyiv braces for Russian assault</a> BBC: The Ministry of Defence made the call as Russian forces reached the northern outskirts of Kyiv. 
  <p class="updated_time"> 04:41 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083006841/world-leaders-fine-tune-punitive-measures-against-russia">World leaders fine-tune punitive measures against Russia</a> NPR: A growing number of world leaders are preparing responses to Russia's invasion of Ukraine that include both sanctions and humanitarian aid. 
  <p class="updated_time"> 04:34 AM CT, Feb. 25 </p> 
@@ -295,6 +295,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/02/24/1082795427/photos-show-the-calamity-as-russia-invades-ukraine">Photos show the calamity as Russia invades Ukraine</a> NPR: Kyiv and Kharkiv are among the many cities that were attacked by rockets. 
  <p class="updated_time"> 11:21 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/kevin-mcarthy-speaker.html">Courting G.O.P.’s Mainstream and Extreme, McCarthy Plots Rise to Speaker</a> NYT: The top House Republican is attempting a series of political contortions to try to secure his place in a party that has shifted under his feet. 
+ <p class="updated_time"> 10:56 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/for-battered-south-jersey-democrats-little-to-love-in-new-legislative-districts-00010990">For battered South Jersey Democrats, there's little to love in the new legislative district map</a> Politico: The new map of New Jersey's 40 legislative districts presents a difficult challenge for Senate President Steve Sweeney and his fellow South Jersey Democrats. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden announces new sanctions as Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House targets banks and export controls, which would cut Russia off from critical technology such as semiconductors. 
  <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
