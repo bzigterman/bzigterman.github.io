@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:51 PM CT, Feb. 24 </p> 
+ <p class="updated_time"> 10:56 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Explosion Is Reported Over Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said in announcing new sanctions. Russia advances on Kyiv. 
  <p class="updated_time"> 10:16 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
@@ -43,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:51 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60514228?at_medium=RSS&at_campaign=KARANGA">Russian forces seize Chernobyl nuclear power plant</a> BBC: The power plant, the site of a 1986 nuclear disaster, has been taken over by Russian troops. 
  <p class="updated_time"> 05:40 PM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Bombs Ukrainian Capital, Kyiv</a> WSJ: Central Kyiv was rocked by explosions after Russian President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Ukrainian Capital Rocked by Explosions</a> WSJ: Central Kyiv was rocked by explosions after Russian President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
  <p class="updated_time"> 05:38 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/kentucky-coronavirus-cases-covid.html">Cases Decline in Kentucky but Hospitalizations and Positivity Rate Remain High</a> NYT: Only 56 percent of state residents are vaccinated, well below the national average. “We would like to see all of those numbers get better,” Gov. Andy Beshear said this week. 
  <p class="updated_time"> 05:24 PM CT, Feb. 24 </p> 
