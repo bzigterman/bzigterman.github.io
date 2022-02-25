@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:12 PM CT, Feb. 24 </p> 
+ <p class="updated_time"> 09:35 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Russians Advance on Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said, announcing new sanctions in his first public remarks since Russia’s assault began. 
+ <p class="updated_time"> 09:21 PM CT, Feb. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
  <p class="updated_time"> 08:57 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 08:23 PM CT, Feb. 24 </p> 
@@ -30,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-59995097?at_medium=RSS&at_campaign=KARANGA">Noor Muqaddam: The high society beheading that stunned a nation</a> BBC: The murder of Noor Muqaddam by the son of one of Pakistan's richest families stunned the country. 
  <p class="updated_time"> 06:19 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-60518268?at_medium=RSS&at_campaign=KARANGA">Ukraine invaded: Anti-war protests in Russian cities lead to arrests</a> BBC: Russian police make hundreds of arrests after crowds demonstrate in support of Ukraine. 
- <p class="updated_time"> 06:15 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
  <p class="updated_time"> 06:01 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/white-house-pandemic-strategy.html">The White House Is Mulling a New Pandemic Strategy </a> NYT: President Biden’s coronavirus response team is evaluating a 136-page blueprint by a team of outside experts who have spent much of this week meeting behind closed doors with White House officials. 
  <p class="updated_time"> 05:59 PM CT, Feb. 24 </p> 
@@ -199,6 +199,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:25 PM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/russian-forces-ukraine-kyiv-00011700">Russian forces converge on Ukraine’s capital</a> Politico: Kyiv was under bombardment in the pre-dawn hours of Friday morning, with Biden administration officials telling lawmakers the city was being encircled by Russian troops. 
+ <p class="updated_time"> 10:20 PM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/tulsi-gabbard-cpac-message-00011694">Gabbard's message to CPAC: Can't we all just get along?</a> Politico: The 2020 Democratic presidential hopeful will make a plea for unity at the conference for GOP activists. 
  <p class="updated_time"> 09:13 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/cdc-relaunching-covid-tracker-eased-mandates-00011680">CDC relaunching Covid tracker with an eye on eased mandates</a> Politico: The shift comes weeks after state and local officials began forging ahead with their own plans to drop mask measures and vaccination requirements. 
  <p class="updated_time"> 08:57 PM CT, Feb. 24 </p> 
@@ -301,8 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/mike-lee-trump-primary-utah-00010146">Hard pivot toward Trump proves costly for red-state ally</a> Politico: Utah Sen. Mike Lee faces a groundswell of opposition. His relationship with Donald Trump is at the center of it. 
- <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/raffensperger-georgia-reelection-conservative-media-00011224">Georgia election official on Trump's enemies list takes his case to MAGA media</a> Politico: Secretary of State Brad Raffensperger has been on a conservative media tour trying to shore up his cred for a tough reelection challenge. 
  <p class="updated_time"> 04:12 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082736173/fla-gov-desantis-wants-lawmakers-to-dismantle-a-minority-voting-district">Fla. Gov. DeSantis wants lawmakers to dismantle a minority voting district</a> NPR: Florida Republican Gov. Ron DeSantis and the Republican-controlled legislature appear to be headed for a showdown over maps. Florida is redrawing its congressional districts. 
  <p class="updated_time"> 04:00 AM CT, Feb. 24 </p> 
