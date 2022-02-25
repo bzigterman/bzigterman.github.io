@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 PM CT, Feb. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Explosion Is Reported Over Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said in announcing new sanctions. Russia advances on Kyiv. 
  <p class="updated_time"> 10:16 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/greece-turkey-migrants-deaths.html">Surviving Migrants at Greek Border Say They Were Left to Die</a> NYT: The four men recalled a night of exhaustion, cold and fear when 19 died after being forced across the Turkish border. 
- <p class="updated_time"> 10:15 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Explosion Is Reported Over Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said in announcing new sanctions. Russia advances on Kyiv. 
  <p class="updated_time"> 10:14 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-expats-invasion-protest.html">Ukrainians Abroad Talk of Shock and Disbelief as Homeland Is Invaded</a> NYT: Across Europe, Ukrainian expatriates looked on in horror at the scenes of destruction back home, and expressed feelings of hopelessness. 
  <p class="updated_time"> 10:03 PM CT, Feb. 24 </p> 
@@ -42,14 +42,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? A Full Guide</a> NYT: Here’s a guide to the causes behind a conflict that has just become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 05:51 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60514228?at_medium=RSS&at_campaign=KARANGA">Russian forces seize Chernobyl nuclear power plant</a> BBC: The power plant, the site of a 1986 nuclear disaster, has been taken over by Russian troops. 
+ <p class="updated_time"> 05:40 PM CT, Feb. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Bombs Ukrainian Capital, Kyiv</a> WSJ: Central Kyiv was rocked by explosions after Russian President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
  <p class="updated_time"> 05:38 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/kentucky-coronavirus-cases-covid.html">Cases Decline in Kentucky but Hospitalizations and Positivity Rate Remain High</a> NYT: Only 56 percent of state residents are vaccinated, well below the national average. “We would like to see all of those numbers get better,” Gov. Andy Beshear said this week. 
  <p class="updated_time"> 05:24 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082954761/republicans-are-condemning-putin-for-the-invasion-of-ukraine-and-criticizing-bid">Republicans are condemning Putin for the invasion of Ukraine — and criticizing Biden</a> NPR: However, the GOP has not reached full consensus on the Kremlin's actions, with former President Donald Trump remaining an outlier in the party he ostensibly leads. 
  <p class="updated_time"> 05:20 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/russia-protests-putin.html">Thousands of Russians Protest President Putin’s Assault on Ukraine</a> NYT: At the demonstrations, many people said they felt depressed and broken by the news of Russian military action. 
- <p class="updated_time"> 05:16 PM CT, Feb. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-attacks-ukraine-drawing-broad-condemnation-11645682406">Russia Bombs Ukrainian Capital, Kyiv</a> WSJ: Central Kyiv was rocked by explosions after Russian President Vladimir Putin ordered an offensive that he said was aimed at toppling the government. 
  <p class="updated_time"> 05:14 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60516704?at_medium=RSS&at_campaign=KARANGA">Russia invasion: Frontline Ukraine city holds breath amid attack</a> BBC: People in Kostyantynivka are no strangers to war, but Russia's attack has left them fearing for the future. 
  <p class="updated_time"> 05:09 PM CT, Feb. 24 </p> 
