@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:14 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Ukrainian Officials Report Multiple Missile Attacks in Kyiv</a> NYT: “They say that civilian objects are not a target for them,” Ukraine’s president said in a televised address. “It is a lie, they do not distinguish in which areas to operate.” 
+ <p class="updated_time"> 02:19 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
+ <p class="updated_time"> 02:17 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/24/world/americas/white-house-releases-a-plan-to-help-people-with-special-vulnerabilities-to-covid-19.html">The White House releases a plan to help people who are especially vulnerable to Covid-19.</a> NYT: The plan involves making masks and tests more accessible, but has been criticized by some disability advocates for not going far enough to protect the most vulnerable. 
+ <p class="updated_time"> 02:16 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Ukrainian Officials Report Missile Attacks in Kyiv</a> NYT: Ukraine’s president denounced Russia in a televised address: “They say that civilian objects are not a target for them. It is a lie, they do not distinguish in which areas to operate.” 
+ <p class="updated_time"> 01:40 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60521068?at_medium=RSS&at_campaign=KARANGA">WATCH: Huge explosion seen in sky over Ukraine's capital Kyiv</a> BBC: A large explosion in the sky is captured on camera on the second day of Russia's assault. 
+ <p class="updated_time"> 01:26 AM CT, Feb. 25 </p> 
+ <a href="https://www.npr.org/2022/02/25/1083001481/hundreds-arrested-as-shocked-russians-protest-ukraine-attack">Hundreds are arrested as shocked Russians protest Ukraine attack</a> NPR: Celebrities and other public figures joined people in dozens of cities in condemning Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:10 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082998313/woman-found-chained-in-chinese-village-is-victim-of-trafficking-authorities-say">Woman found chained in Chinese village is victim of trafficking, authorities say</a> NPR: The 44-year-old woman who was filmed in a TikTok video, had been sold at least three times, Chinese officials said. 
  <p class="updated_time"> 12:09 AM CT, Feb. 25 </p> 
@@ -20,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/australia/covid-drove-more-australians-away-from-cities-will-they-go-back.html">Covid Drove More Australians Away From Cities. Will They Go Back?</a> NYT: As restrictions ease, will the appeal of fewer people, a lower risk of transmission and more personal space prove to be enduring? 
  <p class="updated_time"> 11:38 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/25/1082996885/in-phone-call-china-plays-a-balancing-act-over-russias-invasion-of-ukraine">In phone call, China plays a balancing act over Russia's invasion of Ukraine</a> NPR: In a phone call with his Russian counterpart, China's Foreign Minister Wang Yi emphasizes dialogue and negotiation in the Russia-Ukraine crisis. 
- <p class="updated_time"> 11:30 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
  <p class="updated_time"> 11:10 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/russia-ukraine-invasion-putin-biden.html">Russia Batters Ukraine With Artillery Strikes as West Condemns Invasion</a> NYT: Explosions were reported over Kyiv, the capital. Several countries announced severe new sanctions, as Vladimir Putin remained resolute about his decision to invade. 
  <p class="updated_time"> 10:16 PM CT, Feb. 24 </p> 
@@ -112,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082857170/russia-ukraine-eurovision-song-contest-2022">Russia will still participate in Eurovision 2022, despite Ukraine invasion — for now</a> NPR: The organizers of the Eurovision Song Contest 2022 say they will allow Russia to participate in this year's competition, despite the invasion of Ukraine, but that they will "monitor the situation." 
  <p class="updated_time"> 02:03 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/ukraine-russia-whats-next.html">Ukraine Crisis: What Happens Next for the Rest of the World?</a> NYT: Europe faces a new refugee crisis, and harsh economic penalties to punish Russia are expected to reverberate worldwide. 
- <p class="updated_time"> 01:32 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60499386?at_medium=RSS&at_campaign=KARANGA">George Floyd’s death: What did other three officers do?</a> BBC: These ex-officers are charged with violating George Floyd's civil rights. What did they do that day? 
  <p class="updated_time"> 01:30 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
  <p class="updated_time"> 01:12 PM CT, Feb. 24 </p> 
@@ -130,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-60505277?at_medium=RSS&at_campaign=KARANGA">In pictures: Destruction and fear as war hits Ukraine</a> BBC: Russian forces have crossed Ukraine's borders, bombing military targets near big cities. 
  <p class="updated_time"> 12:27 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082806285/ukraine-ambassador-russia-security-council">Read the impassioned plea from Ukraine's U.N. ambassador to Russia to stop the war</a> NPR: Ukraine's U.N. Ambassador Sergiy Kyslytsya delivered a charged address at the Security Council, demanding the Russian representative phone Moscow to call off the war. 
- <p class="updated_time"> 12:18 PM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1073015013/ukraine-russia-invasion-war-diplomacy">In Ukraine, the road to war was paved by the failure of diplomacy</a> NPR: The invasion of Ukraine occurred despite weeks of diplomatic efforts, including calls between President Biden and Russian President Vladimir Putin and European leaders' visits to Putin in Moscow. 
  <p class="updated_time"> 12:13 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60508121?at_medium=RSS&at_campaign=KARANGA">Ukraine violence: Missiles, helicopters and gunfire</a> BBC: Footage from Ukraine as Russia attacks shows explosions, a fireball at an airport and a helicopter under fire. 
  <p class="updated_time"> 12:01 PM CT, Feb. 24 </p> 
