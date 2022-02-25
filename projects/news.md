@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:31 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 02:40 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/eu-russian-sanctions.html">European Leaders Agree to a Second Wave of Russia Sanctions</a> NYT: The E.U. agreed to freeze the assets of President Putin and foreign minister Sergey Lavrov, while other measures will hit Russia’s access to technology 
+ <p class="updated_time"> 02:36 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: Russia comes under increasing pressure as the E.U. sanctions President Putin, and an official says the U.S. will follow suit. NATO leaders said more troops would be sent to eastern members. The capital is under attack for a second night. 
  <p class="updated_time"> 02:28 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
@@ -26,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/60520933?at_medium=RSS&at_campaign=KARANGA">Russia stripped of Champions League final</a> BBC: The 2022 Champions League final will be played in Paris after Russia is stripped of the match following the nation's invasion of Ukraine. 
  <p class="updated_time"> 01:11 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083029733/afghan-refugees-resettlement-housing-jobs">The next challenge for Afghan refugees is finding affordable housing and jobs</a> NPR: Afghan refugees have left their first destination in the U.S.: military bases. Now they're resettling in communities around the country. But finding affordable housing makes the transition difficult. 
- <p class="updated_time"> 01:04 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/eu-russian-sanctions.html">European Leaders Agree to a Second Wave of Russia Sanctions</a> NYT: The E.U. agreed to freeze the assets of President Putin and foreign minister Sergey Lavrov, while other measures will hit Russia’s access to technology. 
  <p class="updated_time"> 01:02 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60527346?at_medium=RSS&at_campaign=KARANGA">Ukraine's Zelensky asks citizens to resist and Europe to do more</a> BBC: Ukraine's president tells Europe it has the "strength to stop this aggression" and calls for action. 
  <p class="updated_time"> 01:02 PM CT, Feb. 25 </p> 
@@ -279,6 +279,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/white-house-pandemic-strategy.html">The White House Is Mulling a New Pandemic Strategy </a> NYT: President Biden’s coronavirus response team is evaluating a 136-page blueprint by a team of outside experts who have spent much of this week meeting behind closed doors with White House officials. 
  <p class="updated_time"> 05:24 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082954761/republicans-are-condemning-putin-for-the-invasion-of-ukraine-and-criticizing-bid">Republicans are condemning Putin for the invasion of Ukraine — and criticizing Biden</a> NPR: However, the GOP has not reached full consensus on the Kremlin's actions, with former President Donald Trump remaining an outlier in the party he ostensibly leads. 
+ <p class="updated_time"> 05:00 PM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/putin-was-playing-biden-all-along-00011555">Putin was playing Biden all along</a> Politico: The U.S. president and his aides thought they could manage Putin. Their calculations were dead wrong. 
  <p class="updated_time"> 03:36 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/inhofe-to-retire-from-senate-teeing-up-special-election-in-oklahoma-00011534">Inhofe to retire from Senate, teeing up special election in Oklahoma</a> Politico: The 87-year-old Oklahoma Republican is expected to announce his retirement, likely triggering a special election to replace him this fall. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
@@ -299,6 +301,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/02/24/1082795427/photos-show-the-calamity-as-russia-invades-ukraine">Photos show the growing toll of Russia's invasion of Ukraine</a> NPR: Kyiv and Kharkiv are among the many cities that were attacked by rockets. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden announces new sanctions as Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House targets banks and export controls, which would cut Russia off from critical technology such as semiconductors. 
+ <p class="updated_time"> 10:25 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/nord-stream-lobbying-russia-invasion-00011355">Nord Stream 2’s lobbyists dump the account after Russia invasion</a> Politico: The decision comes amid a wave of new sanctions from Biden, including those targeting the national gas pipeline. 
  <p class="updated_time"> 08:58 AM CT, Feb. 24 </p> 
  <a href="https://www.cnn.com/2022/02/24/politics/inside-white-house-during-ukraine-attack/index.html">How Putin's attack on Ukraine unfolded inside the White House</a> CNN: President Joe Biden was working the phones with top national security officials in the moments before and after his Russian counterpart Vladimir Putin announced he was launching a military intervention in Ukraine, the grim fulfillment of Biden's predictions stretching back weeks. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
