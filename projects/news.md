@@ -8,9 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:39 AM CT, Feb. 25 </p> 
+ <p class="updated_time"> 03:23 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: Ukrainian Officials Report Missile Attacks in Kyiv</a> NYT: Ukraine’s president denounced Russia in a televised address: “They say that civilian objects are not a target for them. It is a lie. They do not distinguish in which areas to operate.” 
- <p class="updated_time"> 02:19 AM CT, Feb. 25 </p> 
+ <p class="updated_time"> 03:20 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/eu-russian-sanctions.html">European Leaders Agree to a Second Wave of Russia Sanctions</a> NYT: The new measures will hit Russia’s access to technology and its elite’s abilities to travel and save money in Europe, but omitted other steps harder to agree on. 
+ <p class="updated_time"> 03:17 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60513116?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fighting rages near Kyiv after Russia invasion</a> BBC: The Russian assault is being fought on several fronts after it attacked from the east, north and south. 
  <p class="updated_time"> 02:17 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/americas/white-house-releases-a-plan-to-help-people-with-special-vulnerabilities-to-covid-19.html">The White House releases a plan to help people who are especially vulnerable to Covid-19.</a> NYT: The plan involves making masks and tests more accessible, but has been criticized by some disability advocates for not going far enough to protect the most vulnerable. 
