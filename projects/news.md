@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:37 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 04:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Kyiv Rocked by Explosions for Second Night</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 04:35 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-attack-photos.html">See Photos on the Ground in Ukraine </a> NYT: Photographers spread around Ukraine captured a populace struggling with uncertainty and fear in the face of a military invasion. 
@@ -66,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60530513?at_medium=RSS&at_campaign=KARANGA">Eurovision: Russia banned from competing at 2022 Song Contest</a> BBC: The organisers said the inclusion of Russia could bring the competition into disrepute. 
  <p class="updated_time"> 11:47 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083095335/eurovision-russia-banned">Changing course, Eurovision organizers say no Russian act will compete this year</a> NPR: Organizers cited concerns that "the inclusion of a Russian entry in this year's Contest would bring the competition into disrepute" in light of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 11:47 AM CT, Feb. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kyiv Prepares to Fight</a> WSJ: Russian forces attacked by land and air on Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender. 
  <p class="updated_time"> 11:24 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60525996?at_medium=RSS&at_campaign=KARANGA">Ukraine: Woman confronts armed Russian soldier</a> BBC: The woman angrily asks the soldier, seen holding a large machine gun, why he has come to the city. 
  <p class="updated_time"> 10:47 AM CT, Feb. 25 </p> 
@@ -73,7 +75,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:40 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60529874?at_medium=RSS&at_campaign=KARANGA">Ukraine: Scottish expat in shock and tears over fleeing Kyiv with family</a> BBC: Stuart McKenzie tells the BBC about leaving Kyiv - his home of almost 30 years - with his children. 
  <p class="updated_time"> 10:40 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60529879?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Gunshots heard at Kyiv train station as crowds flee</a> BBC: Crowds of people are gathering at Kyiv station to try and board trains as Russian troops advance. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60529879?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Warning shots fired to control crowds at Kyiv station</a> BBC: Ukrainian guards try to disperse crowds of people attempting to board trains and flee the capital. 
  <p class="updated_time"> 10:10 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082893801/russias-invasion-of-ukraine-may-cause-havoc-for-wheat-importing-mideast-nations">Russia's invasion of Ukraine may cause havoc for wheat-importing Mideast nations</a> NPR: Last year, the region imported more than 36 million metric tons of wheat, mostly from Russia and Ukraine. The concern is that Russia's war in Ukraine could disrupt supplies and drive up prices. 
  <p class="updated_time"> 10:05 AM CT, Feb. 25 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378">Ukraine's Leader Zelensky Is 'Target Number One' for Putin</a> WSJ: Russia’s invasion of Ukraine aims to overthrow the leadership in Kyiv, but President Volodymyr Zelensky remains defiant. 
  <p class="updated_time"> 08:46 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/books/andrey-kurkov-ukraine-war.html">A Humorous Ukrainian Writer, With Nothing to Laugh About</a> NYT: Andrey Kurkov wrote about fighting between Russia and Ukraine long before Thursday’s invasion. But now, more than ever, he wants to explain it to the world. 
- <p class="updated_time"> 08:27 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kremlin Agrees to Talks</a> WSJ: Russian forces moved by air and land to attack Kyiv and the capital’s defenders dug into positions and deployed for urban combat, while Moscow signaled openness to holding talks with Ukraine’s government. 
  <p class="updated_time"> 08:22 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/covid-vaccination-rate.html">U.S. First Time Vaccination Rates Are At a New Low</a> NYT: As the country is on course to live with the coronavirus, the vaccination drive is vanishing. 
  <p class="updated_time"> 07:50 AM CT, Feb. 25 </p> 
