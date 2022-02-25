@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:34 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Explosion Is Reported Over Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said in announcing new sanctions. Russia advances on Kyiv. 
  <p class="updated_time"> 12:10 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082998313/woman-found-chained-in-chinese-village-is-victim-of-trafficking-authorities-say">Woman found chained in Chinese village is victim of trafficking, authorities say</a> NPR: The 44-year-old woman who was filmed in a TikTok video, had been sold at least three times, Chinese officials said. 
- <p class="updated_time"> 12:08 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/24/world/russia-ukraine-news">Live Updates: As Explosion Is Reported Over Kyiv, Ukraine’s President Says He’s Target No. 1</a> NYT: “Putin chose this war, and now he and his country will bear the consequences,” President Biden said in announcing new sanctions. Russia advances on Kyiv. 
+ <p class="updated_time"> 12:09 AM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60499385?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Why Biden won't send troops to Ukraine</a> BBC: The US president has ruled out any military involvement, so what's different this time? 
  <p class="updated_time"> 11:56 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/25/1082992947/ukraine-support-help">Want to support the people in Ukraine? Here's how you can help</a> NPR: Here are organizations asking for assistance to help people in Ukraine. 
  <p class="updated_time"> 11:39 PM CT, Feb. 24 </p> 
@@ -142,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/africa-who-covid-vaccine.html">Covid Vaccinations Expand in Africa, Thanks to New Supply Process</a> NYT: Since January, the countries have been able to request the Covid vaccines they need from the W.H.O. directly, and in what quantity and when. 
  <p class="updated_time"> 11:17 AM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60510551?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia invasion: Europe prepares for wave of refugees</a> BBC: Roads out of Ukraine's major cities are jammed as many pack up and flee Russia's military invasion. 
- <p class="updated_time"> 10:50 AM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60514698?at_medium=RSS&at_campaign=KARANGA">Noor Muqaddam: Diplomat's daughter beheaded for spurning proposal</a> BBC: A man is sentenced to death for raping and murdering the woman at his home in Pakistan's capital. 
  <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008225573/kyiv-ukraine-russia-bombing.html">After Attack on Ukraine, Residents Flee West</a> NYT: Families fleeing Thursday’s attack in Kyiv were stuck in traffic for miles on the capital’s longest avenue, as they tried to escape the advancement of Russian troops. 
  <p class="updated_time"> 10:32 AM CT, Feb. 24 </p> 
