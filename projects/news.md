@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:41 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: It was unclear whether Russia would engage in talks with Ukraine’s leadership. The E.U. sanctioned Mr. Putin, amid growing pressure to isolate him and Russia. 
  <p class="updated_time"> 01:22 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/middleeast/in-north-africa-ukraine-war-strains-economies-weakened-by-pandemic.html">Ukraine War Strains North Africa Economies</a> NYT: Egypt imports most of its wheat from Russia and Ukraine, and is looking for alternative suppliers. And Tunisia was struggling to pay for grain imports even before the conflict. 
  <p class="updated_time"> 01:21 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60528132?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Biden nominates Ketanji Brown Jackson to top court</a> BBC: If confirmed, Judge Ketanji Brown Jackson will be the first black woman to serve on the top court. 
- <p class="updated_time"> 01:15 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: It was unclear whether Russia would engage in talks with Ukraine’s leadership. The E.U. sanctioned Mr. Putin, amid growing pressure to isolate him and Russia. 
  <p class="updated_time"> 01:11 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083029733/afghan-refugees-resettlement-housing-jobs">The next challenge for Afghan refugees is finding affordable housing and jobs</a> NPR: Afghan refugees have left their first destination in the U.S.: military bases. Now they're resettling in communities around the country. But finding affordable housing makes the transition difficult. 
  <p class="updated_time"> 01:04 PM CT, Feb. 25 </p> 
@@ -78,12 +78,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/books/andrey-kurkov-ukraine-war.html">A Humorous Ukrainian Writer, With Nothing to Laugh About</a> NYT: Andrey Kurkov wrote about fighting between Russia and Ukraine long before Thursday’s invasion. But now, more than ever, he wants to explain it to the world. 
  <p class="updated_time"> 08:28 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/middleeast/iran-film-asghar-farhadi.html">An Iranian Director’s Rule: ‘Always Focus on Ordinary People.’</a> NYT: Asghar Farhadi, who has won two Oscars, says stories about the rich and famous “are not part of my emotional bank.” 
+ <p class="updated_time"> 08:27 AM CT, Feb. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kremlin Agrees to Talks</a> WSJ: Russian forces moved by air and land to attack Kyiv and the capital’s defenders dug into positions and deployed for urban combat, while Moscow signaled openness to holding talks with Ukraine’s government. 
  <p class="updated_time"> 08:22 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/covid-vaccination-rate.html">U.S. First Time Vaccination Rates Are At a New Low</a> NYT: As the country is on course to live with the coronavirus, the vaccination drive is vanishing. 
  <p class="updated_time"> 07:50 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60527158?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fleeing family's car breaks down between two armies</a> BBC: Frightened Ukrainians are having to decide whether to stay in Kyiv or seek safety elsewhere. 
- <p class="updated_time"> 07:27 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kremlin Agrees to Talks</a> WSJ: Russian forces moved by air and land to attack Kyiv and the capital’s defenders dug into positions and deployed for urban combat, while Moscow signaled openness to holding talks with Ukraine’s government. 
  <p class="updated_time"> 07:04 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60525995?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Missile strikes, tanks and buildings hit in Kyiv</a> BBC: Russia continues its full-scale assault on Ukraine, with troops said to be in the capital. 
  <p class="updated_time"> 06:43 AM CT, Feb. 25 </p> 
