@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:03 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russian Troops Enter Kyiv as Moscow Pushes to Topple Ukraine’s Government</a> NYT: The U.S. plans to sanction President Putin, adding to the increasing pressure on Russia. NATO leaders said more troops would be deployed. Kyiv is under attack for a second night. 
+ <p class="updated_time"> 03:27 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Kyiv Rocked by Explosions for Second Night</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
+ <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden’s Strategy for Dealing With Russia Is Containment for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
+ <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60520933?at_medium=RSS&at_campaign=KARANGA">Russia stripped of Champions League final</a> BBC: The 2022 Champions League final will be played in Paris after Russia is stripped of the match following the nation's invasion of Ukraine. 
  <p class="updated_time"> 03:02 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/maryland-school-masks.html">Maryland Lifts Statewide School Mask Mandate</a> NYT: The decision gives local school districts the power to decide whether to require face coverings. 
  <p class="updated_time"> 03:01 PM CT, Feb. 25 </p> 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/kharkiv-ukraine-military.html">As Troops Battle Outside Kharkiv, Residents Shelter Underground</a> NYT: Ukrainian troops dug in around the nation’s second-largest city a day after a fight to push back advancing Russian forces. 
  <p class="updated_time"> 01:53 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60528132?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Biden nominates Ketanji Brown Jackson to top court</a> BBC: Judge Ketanji Brown Jackson said she was "humbled by the extraordinary honour" of her nomination. 
- <p class="updated_time"> 01:46 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60520933?at_medium=RSS&at_campaign=KARANGA">Russia stripped of Champions League final</a> BBC: The 2022 Champions League final will be played in Paris after Russia is stripped of the match following the nation's invasion of Ukraine. 
  <p class="updated_time"> 01:11 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083029733/afghan-refugees-resettlement-housing-jobs">The next challenge for Afghan refugees is finding affordable housing and jobs</a> NPR: Afghan refugees have left their first destination in the U.S.: military bases. Now they're resettling in communities around the country. But finding affordable housing makes the transition difficult. 
  <p class="updated_time"> 01:02 PM CT, Feb. 25 </p> 
@@ -70,6 +72,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60529879?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Gunshots heard at Kyiv train station as crowds flee</a> BBC: Crowds of people are gathering at Kyiv station to try and board trains as Russian troops advance. 
  <p class="updated_time"> 10:10 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082893801/russias-invasion-of-ukraine-may-cause-havoc-for-wheat-importing-mideast-nations">Russia's invasion of Ukraine may cause havoc for wheat-importing Mideast nations</a> NPR: Last year, the region imported more than 36 million metric tons of wheat, mostly from Russia and Ukraine. The concern is that Russia's war in Ukraine could disrupt supplies and drive up prices. 
+ <p class="updated_time"> 10:05 AM CT, Feb. 25 </p> 
+ <a href="https://www.wsj.com/articles/eu-to-cut-70-of-russias-banking-system-off-from-global-markets-11645760548">EU Hits Putin, Russian Foreign Minister With Sanctions</a> WSJ: Any assets owned in the EU by Putin and his longtime foreign minister, Sergei Lavrov, will be frozen. The second sanctions package will cut Russian banks out of international markets. 
  <p class="updated_time"> 10:04 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/trump-putin-russia-ukraine.html">Trump Praises Putin, Leaving Republicans in a Bind</a> NYT: G.O.P. leaders, while condemning Russia’s invasion of Ukraine, were silent on comments made by the former president. Some figures on the right amplified them. 
  <p class="updated_time"> 09:39 AM CT, Feb. 25 </p> 
@@ -114,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1083006841/world-leaders-fine-tune-punitive-measures-against-russia">World leaders fine-tune punitive measures against Russia</a> NPR: A growing number of world leaders are preparing responses to Russia's invasion of Ukraine that include both sanctions and humanitarian aid. 
  <p class="updated_time"> 04:18 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-covid.html">As Ukrainians Flee Russian Assault, Coronavirus Rides Along  </a> NYT: The fighting in Ukraine’s east is forcing a hurried mass migration that leaves little room for pandemic considerations. 
- <p class="updated_time"> 02:44 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/eu-to-cut-70-of-russias-banking-system-off-from-global-markets-11645760548">EU to Hit Putin, Russian Foreign Minister With Sanctions</a> WSJ: The European Union plans to hit the Russian president and Foreign Minister Sergei Lavrov with sanctions, a senior EU official said, as the bloc readies a second package of sanctions on Russia over Ukraine. 
  <p class="updated_time"> 02:17 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/americas/white-house-releases-a-plan-to-help-people-with-special-vulnerabilities-to-covid-19.html">The White House releases a plan to help people who are especially vulnerable to Covid-19.</a> NYT: The plan involves making masks and tests more accessible, but has been criticized by some disability advocates for not going far enough to protect the most vulnerable. 
  <p class="updated_time"> 02:06 AM CT, Feb. 25 </p> 
@@ -188,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/us/politics/us-troops-russia-ukraine-military.html">The Pentagon Orders Another 7,000 US Troops to Europe</a> NYT: The deployment will bring to 14,000 the number of American troops that President Biden has ordered to Europe since the Ukraine crisis began. 
  <p class="updated_time"> 01:30 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
- <p class="updated_time"> 12:59 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/us/politics/somalia-shabab-us-airstrike.html">US Carries Out First Airstrike in Somalia Since August</a> NYT: The strike targeted Al Shabab militants who had attacked allied Somali security forces. 
  <p class="updated_time"> 12:47 PM CT, Feb. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60513632?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Shock and support on the streets of Moscow</a> BBC: The BBC talks to Russians in Moscow and Rostov to find out what they think of the assault on Ukraine. 
 
@@ -199,10 +199,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:12 PM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/u-s-will-sanction-putin-lavrov-and-other-russian-officials-00011995">U.S. will sanction Putin, Lavrov and other Russian officials</a> Politico: “In alignment with the decision by our European allies, the United States will join them in sanctioning President Putin and Foreign Minister Lavrov and members of the Russian national security team,” White House press secretary Jen Psaki said. 
+ <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/culture-wars-ukraine-cpac-00011717">At CPAC, Ukraine takes a back seat to the culture wars</a> Politico: The annual conservative political gathering offered a stark indicator of how far foreign policy has fallen on the Republican agenda. 
+ <p class="updated_time"> 03:23 PM CT, Feb. 25 </p> 
+ <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
+ <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden’s Strategy for Dealing With Russia Is Containment for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
  <p class="updated_time"> 02:56 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/ketanji-brown-jackson-supreme-court.html">Ketanji Brown Jackson Chosen as Biden's Pick for Supreme Court</a> NYT: If confirmed, Judge Jackson, who won support from three Republicans in the Senate when elevated to a federal appeals court last year, would become the first Black woman on the Supreme Court. 
  <p class="updated_time"> 02:51 PM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-nomination-00011947">Jackson hopes nomination 'will inspire future generations of Americans'</a> Politico: Jackson was long rumored the leading contender to replace Justice Stephen Breyer. 
+ <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-nomination-00011947">Jackson hopes nomination ‘will inspire future generations of Americans’</a> Politico: Jackson was long rumored the leading contender to replace Justice Stephen Breyer. 
  <p class="updated_time"> 02:44 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/business/sec-short-selling.html">The S.E.C. Wants to Increase the Public’s View Into Big Short-Selling Activity</a> NYT: The Securities and Exchange Commission is proposing new disclosure requirements for large short sellers. Officials say it could help them sort out market disruptions. 
  <p class="updated_time"> 02:26 PM CT, Feb. 25 </p> 
