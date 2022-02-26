@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and  paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 01:06 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Ukrainian Resistance Stalls Russian Invasion</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed. But the Russian priority remained the capture of Kyiv. 
- <p class="updated_time"> 01:03 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Ukrainian civilian volunteers, lightly organized into paramilitary groups, are taking the fight to the Russian army in Kyiv. 
  <p class="updated_time"> 12:52 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on Three Cities in Face of Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault, while Moscow said it had merely “paused” for peace negotiations. 
  <p class="updated_time"> 12:46 PM CT, Feb. 26 </p> 
