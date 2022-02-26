@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:41 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 10:52 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Ukrainian Resistance Stalls Russian Invasion</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed. But the Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 10:48 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on Three Cities in Face of Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault, while Moscow said it had merely “paused” for peace negotiations. 
  <p class="updated_time"> 10:39 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 10:24 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/volodymyr-zelensky-ukraine-russia.html">Volodymyr Zelensky Tries to Rally His People as Battle for Kyiv Rages</a> NYT: “We have withstood and successfully repelled enemy attacks,” President Volodymyr Zelensky said in the video. “The fighting continues in many cities and districts of our state, but we know that we protect the country, the land, the future of children.” 
  <p class="updated_time"> 10:13 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60540340?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Thousands of people try to force their way onto a train to Poland</a> BBC: Fergal Keane describes the scenes from a packed platform, as a mother and child are caught in the crush. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60540340?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Thousands of people try to force their way onto a train to Poland</a> BBC: Fergal Keane described the scenes from a packed platform, as a mother and child are caught in the crush. 
  <p class="updated_time"> 10:10 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 10:07 AM CT, Feb. 26 </p> 
@@ -91,7 +93,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:53 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60537594?at_medium=RSS&at_campaign=KARANGA">Ukraine Crisis: Fleeing under the cover of darkness</a> BBC: The BBC's Fergal Keane watches a "constant procession" of cars and people. 
  <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">What You Need to Know About Facial Recognition at Airports</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
+ <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">Facial Recognition at Airports: What You Need to Know</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
  <p class="updated_time"> 03:35 AM CT, Feb. 26 </p> 
@@ -142,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60495437?at_medium=RSS&at_campaign=KARANGA">Pakistan: Hundreds defy banned Basant kite flying festival</a> BBC: Despite a police crackdown, hundreds continue to fly kites to celebrate the festival of Basant. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60533425?at_medium=RSS&at_campaign=KARANGA">Ukraine: What happens next?</a> BBC: The gloves are off - so what might happen next? What can the West do to deter Vladimir Putin? 
- <p class="updated_time"> 04:35 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/ukraine-attack-photos.html">See Photos on the Ground in Ukraine </a> NYT: Photographers spread around Ukraine captured a populace struggling with uncertainty and fear in the face of a military invasion. 
  <p class="updated_time"> 04:30 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/science/chernobyl-ukraine.html">Chernobyl Plant Is Unharmed Despite Russian Invasion of Ukraine, Scientists Say</a> NYT: The nation’s 15 operating reactors have also been assessed as safe — at least for the moment. 
  <p class="updated_time"> 04:15 PM CT, Feb. 25 </p> 
