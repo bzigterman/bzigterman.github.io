@@ -971,9 +971,15 @@ Community transmission levels are calculated by the CDC based on new cases per c
 ",better_usa_table_html,"
 
 <picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png\"
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_levels.png\"
           media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total_mobile.png\" alt=\"\" />
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_level_mobile.png\" alt=\"\" />
+</picture>
+
+<picture>
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission_mobile.png\" alt=\"\" />
 </picture>
 
 <picture>
@@ -983,9 +989,9 @@ Community transmission levels are calculated by the CDC based on new cases per c
 </picture>
 
 <picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png\"
+  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png\"
           media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission_mobile.png\" alt=\"\" />
+  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total_mobile.png\" alt=\"\" />
 </picture>
 
 ## World
