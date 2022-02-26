@@ -8,26 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Ukraine’s Forces Slow Russian Advance as Fighting Rages in Kyiv</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had stalled. But the Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 04:10 PM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
+ <p class="updated_time"> 03:56 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
+ <p class="updated_time"> 03:53 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
+ <p class="updated_time"> 03:37 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and  paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
+ <p class="updated_time"> 03:37 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 03:35 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 03:33 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
- <p class="updated_time"> 03:28 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Ukraine’s Forces Slow Russian Advance as Fighting Rages in Kyiv</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had stalled. But the Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 03:20 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60541752?at_medium=RSS&at_campaign=KARANGA">Germany to send weapons directly to Ukraine</a> BBC: The move reverses Germany's long-standing policy banning weapon exports to conflict zones. 
- <p class="updated_time"> 03:17 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
- <p class="updated_time"> 03:16 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
- <p class="updated_time"> 03:13 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:36 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
- <p class="updated_time"> 02:34 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and  paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540341?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The women making Molotov cocktails to defend their city</a> BBC: The BBC's Sarah Rainsford visits Dnipro, where women are making Molotov cocktails to defend the city. 
  <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
@@ -50,14 +52,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 12:14 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts social media access</a> BBC: Connectivity watchers accuse Moscow of "limiting the free flow of information at a time of crisis". 
+ <p class="updated_time"> 11:17 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU Leaders Weigh Cutting Russia Out of Swift</a> WSJ: Officials said there was growing momentum behind the bloc agreeing to cut Russia out of a crucial global payments system, marking a shift in sentiment after two rounds of Western sanctions. 
  <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-sanctions-money-assets.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
+ <p class="updated_time"> 10:40 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200">Ukrainian Forces Repel Russian Attack on Kyiv</a> WSJ: Thousands of civilians take up arms to help defend the capital, while Russian forces face fierce resistance throughout Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538567?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents answer call to defend nation</a> BBC: Patriotic Ukrainians know they will face Russian soldiers soon - and are preparing for the day. 
  <p class="updated_time"> 10:24 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/volodymyr-zelensky-ukraine-russia.html">Volodymyr Zelensky Tries to Rally His People as Battle for Kyiv Rages</a> NYT: “We have withstood and successfully repelled enemy attacks,” President Volodymyr Zelensky said in the video. “The fighting continues in many cities and districts of our state, but we know that we protect the country, the land, the future of children.” 
- <p class="updated_time"> 10:18 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200">Ukrainian Forces Repel Russian Attack on Kyiv</a> WSJ: Thousands of civilians take up arms to help defend the capital, while Russian forces face fierce resistance throughout Ukraine. 
  <p class="updated_time"> 10:13 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540340?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Thousands of people try to force their way onto a train to Poland</a> BBC: Fergal Keane described the scenes from a packed platform, as a mother and child are caught in the crush. 
  <p class="updated_time"> 10:07 AM CT, Feb. 26 </p> 
@@ -66,8 +70,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 09:39 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: More countries issue airspace ban on Russian planes</a> BBC: Estonia, Latvia and Slovenia join Bulgaria, Poland, the Czech Republic and the UK in announcing curbs. 
- <p class="updated_time"> 09:20 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
  <p class="updated_time"> 09:15 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083291122/russia-ukraine-facebook-twitter">Facebook, YouTube and Twitter limit ads over Russia's invasion of Ukraine</a> NPR: The moves come as U.S. tech platforms are under pressure to take a stronger stance against Russia and limit disinformation. 
  <p class="updated_time"> 09:12 AM CT, Feb. 26 </p> 
@@ -80,12 +82,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60539113?at_medium=RSS&at_campaign=KARANGA">Ukraine: Is Russia's invasion going as expected?</a> BBC: Military plans never survive the first contact with the enemy - and Russia is facing the same problem. 
  <p class="updated_time"> 08:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/article/russia-us-ukraine-sanctions.html">Sanctions Aim to Put Pressure on Russia After Invasion</a> NYT: Several countries and the European Union have imposed a variety of sanctions in response to Vladimir V. Putin’s decision to invade Ukraine. 
+ <p class="updated_time"> 08:49 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-assessment-finds-russian-advance-frustrated-by-stiffer-than-expected-ukrainian-resistance-11645900195">U.S. Assessment Finds Russian Advance Frustrated by Stiffer-Than-Expected Ukrainian Resistance</a> WSJ: The Russian push into Kyiv has been slowed by Ukrainian antiair and antitank weapons, a U.S. official said. Meanwhile, the State Department has authorized up to $350 million in immediate military aid to Ukraine. 
  <p class="updated_time"> 08:36 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60536824?at_medium=RSS&at_campaign=KARANGA">In pictures: Kyiv under attack</a> BBC: Russian forces continue a military assault on neighbouring Ukraine, as fighting reaches the streets in the capital. 
  <p class="updated_time"> 08:22 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008227906/ukraine-civilians-military-video.html">‘I’m Ready’: Ukraine’s Civilians Take Up Arms</a> NYT: Volunteer fighters armed with assault rifles patrolled central Kyiv on Friday, ready to defend their country. 
  <p class="updated_time"> 08:12 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539193?at_medium=RSS&at_campaign=KARANGA">Zelensky's defiant response to invasion... in 100 seconds</a> BBC: Ukrainian's President Volodymyr Zelensky is standing firm against Russian aggression. 
+ <p class="updated_time"> 07:34 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/ordinary-ukrainians-rally-to-defend-homeland-from-russia-11645900464">Ordinary Ukrainians Rally to Defend Homeland From Russia</a> WSJ: Thousands of Ukrainian civilian fighters volunteer their service, including many from abroad, as authorities in Kyiv distribute rifles and others assemble Molotov cocktails and coordinate support. 
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
  <p class="updated_time"> 07:25 AM CT, Feb. 26 </p> 
@@ -132,16 +138,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">Facial Recognition at Airports: What You Need to Know</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
- <p class="updated_time"> 03:33 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/pakistans-leader-went-ahead-with-russia-visit-despite-push-to-isolate-putin-over-ukraine-11645885990">Pakistan's Leader Went Ahead With Russia Visit Despite Push to Isolate Putin</a> WSJ: Shortly after the full-scale Russian invasion began, Pakistani Prime Minister Imran Khan met with the Russian president in the Kremlin, shaking hands in front of the cameras and sitting right next to him for talks. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">The U.S. sanctions on Russian oligarchs miss the richest of the rich</a> NPR: The sanctions may do little to dim the jet-setting lifestyles of Russia's ultra-rich and infamous – much less force a withdrawal of tanks and troops. 
- <p class="updated_time"> 02:00 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/australian-leader-casts-himself-as-china-hawk-in-re-election-bid-11645880400">Australian Leader Casts Himself as China Hawk in Re-Election Bid</a> WSJ: Prime Minister Scott Morrison is promoting his record on national security and the strength of the economy, betting that will shift voters’ focus away from frustration over his response to the Covid-19 pandemic. 
  <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083275522/indonesia-earthquake-search-victims">Searchers dig into the rubble after an earthquake hit Indonesia</a> NPR: A strong earthquake shook Sumatra island, killing eight people, injuring 86 and leaving thousands displaced. 
- <p class="updated_time"> 12:29 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/for-europe-russia-sanctions-will-sting-11645874957">For Europe, Russia Sanctions Will Sting</a> WSJ: Russia’s invasion of Ukraine threatens to set back Europe’s economic recovery from the Covid-19 pandemic, as sanctions, tensions and energy prices weigh on businesses and households. 
  <p class="updated_time"> 12:15 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/north-south-korea-russia-us-ukraine.html">On Both Sides of Korean Peninsula, Eyes on Washington's Response to Russia</a> NYT: North Korea might decide it’s time to resume weapons tests, to gain more diplomatic leverage with Washington. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
@@ -225,6 +225,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083332592/rep-adam-kinzinger-says-politicizing-russia-ukraine-crisis-hurts-washington">Rep. Adam Kinzinger says politicizing Russia-Ukraine crisis hurts Washington</a> NPR: NPR's Michel Martin speaks with Rep. Adam Kinzinger (R-Ill.) about the Russian invasion of Ukraine and President Biden's reaction to it. 
  <p class="updated_time"> 03:31 PM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/biden-putin-invasion-opposite-effect-nato-00012091">Biden: Putin's invasion creating 'opposite effect' to its intent</a> Politico: The president further described “complete unanimity” within NATO as the U.S. and its allies levied harsh sanctions on Russia and increasingly stepped up aid to Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Feb. 26 </p> 
@@ -363,8 +365,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/02/24/1082248921/postal-service-reform-act-medicare">Plan to fix Postal Service shifts retirees to Medicare, along with billions in costs</a> NPR: Some lawmakers worry that pushing future post office retirees' health costs to Medicare could hurt the health program's outlook. 
  <p class="updated_time"> 11:23 AM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/24/1082795427/photos-show-the-calamity-as-russia-invades-ukraine">Photos: The sobering cost of Russia's invasion of Ukraine</a> NPR: On Thursday, Feb. 24, Russia started its invasion of Ukraine, targeting cities all over the country. The assault has suddenly and dramatically upended everyday lives across Ukraine. 
- <p class="updated_time"> 10:46 AM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden announces new sanctions as Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House targets banks and export controls, which would cut Russia off from critical technology such as semiconductors. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/24/washington-wakes-to-assault-on-ukraine-00011325">Washington wakes to assault on Ukraine</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
