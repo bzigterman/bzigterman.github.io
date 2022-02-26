@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
+ <p class="updated_time"> 03:33 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 03:28 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Ukraine’s Forces Slow Russian Advance as Fighting Rages in Kyiv</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had stalled. But the Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 03:20 PM CT, Feb. 26 </p> 
@@ -18,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 03:13 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
- <p class="updated_time"> 03:12 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:36 PM CT, Feb. 26 </p> 
@@ -58,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200">Ukrainian Forces Repel Russian Attack on Kyiv</a> WSJ: Thousands of civilians take up arms to help defend the capital, while Russian forces face fierce resistance throughout Ukraine. 
  <p class="updated_time"> 10:13 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540340?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Thousands of people try to force their way onto a train to Poland</a> BBC: Fergal Keane described the scenes from a packed platform, as a mother and child are caught in the crush. 
- <p class="updated_time"> 10:10 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 10:07 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083297655/ukrainians-adjust-to-the-new-reality-of-war">Ukrainians adjust to the new reality of war </a> NPR: Ukrainian reporter Andriy Kulykov speaks with NPR about the developments overnight in Kyiv and how citizens are feeling toward the U.S. and President Biden now that Russian troops are advancing. 
  <p class="updated_time"> 10:03 AM CT, Feb. 26 </p> 
@@ -69,7 +69,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:20 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
  <p class="updated_time"> 09:15 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083291122/russia-ukraine-facebook-twitter">Facebook, Instagram and Twitter limit ads over Russia's invasion of Ukraine</a> NPR: Meta, Facebook's parent company, says the decision comes in response to Russia's invasion of Ukraine. Twitter says it is temporarily pausing ads in Ukraine and Russia. 
+ <a href="https://www.npr.org/2022/02/26/1083291122/russia-ukraine-facebook-twitter">Facebook, YouTube and Twitter limit ads over Russia's invasion of Ukraine</a> NPR: The moves come as U.S. tech platforms are under pressure to take a stronger stance against Russia and limit disinformation. 
  <p class="updated_time"> 09:12 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/maryland-school-masks.html">Maryland Lifts Statewide School Mask Mandate</a> NYT: The decision gives local school districts the power to decide whether to require face coverings. 
  <p class="updated_time"> 09:05 AM CT, Feb. 26 </p> 
