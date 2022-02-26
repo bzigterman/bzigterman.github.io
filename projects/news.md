@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:21 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Ukrainian Fighters Battle to Hold Kyiv</a> NYT: The Ukrainian capital is transformed into a battle zone, and President Volodymyr Zelensky warns against false reports of his demise. NATO leaders said more troops would be deployed. 
- <p class="updated_time"> 03:19 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 03:47 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Ukrainian Fighters Battle to Hold Kyiv</a> NYT: The Ukrainian capital is transformed into a battle zone, and President Volodymyr Zelensky warns against false reports of his demise. NATO leaders said more troops would be deployed. 
+ <p class="updated_time"> 03:37 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close in on Kyiv but meet strong resistance</a> BBC: The Ukrainian military says that an army unit in the capital has managed to repel Russian forces. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">US sanctions on Russian oligarchs miss richest of rich</a> NPR: U.S. sanctions target Russian President Vladmir Putin and a handful of associates, but the list is just as notable for who isn't on it, many of the top names from Forbes' list of the richest Russians. 
