@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:13 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: An All-Out Russian Attack Is Imminent, Ukraine’s President Says</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/russia-companies-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: Thousands of European companies that have operations in Russia may face collateral damage as Western sanctions aim to penalize Russia’s economy. 
- <p class="updated_time"> 11:00 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: An All-Out Russian Attack Is Imminent, Ukraine’s President Says</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 10:44 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/kharkiv-ukraine-military.html">As Troops Battle Outside Kharkiv, Residents Shelter Underground</a> NYT: Ukrainian troops dug in around the nation’s second-largest city a day after a fight to push back advancing Russian forces. 
  <p class="updated_time"> 10:36 PM CT, Feb. 25 </p> 
@@ -62,6 +62,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60384689?at_medium=RSS&at_campaign=KARANGA">The Assam woman who fought to win back her Indian citizenship</a> BBC: Sefali Rani Das, from India's Assam state, says the years-long struggle has left her traumatised. 
  <p class="updated_time"> 06:16 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/china-russia-ukraine-sovereignty.html">‘Abrupt Changes’: China Caught in a Bind Over Russia’s Invasion of Ukraine</a> NYT: China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position. 
+ <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kyiv Prepares to Fight</a> WSJ: Russian forces attacked by land and air Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender. 
  <p class="updated_time"> 06:05 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083213601/russian-warship-tells-ukrainian-soldiers-to-surrender-they-profanely-refuse">Russian warship tells Ukrainian soldiers to surrender. They profanely refuse</a> NPR: Ukrainian ambassador to the U.S. says all 13 defenders on the island were killed during the fighting. Zelenskyy hails them as heroes of Ukraine. 
  <p class="updated_time"> 06:01 PM CT, Feb. 25 </p> 
@@ -92,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/business/economy/inflation-pce-index.html">A Key Inflation Gauge Is Still Rising, and War Could Make It Worse</a> NYT: The Federal Reserve’s preferred measure is at a four-decade high. Rising gas prices tied to Russia’s invasion of Ukraine could push it up further. 
  <p class="updated_time"> 03:55 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/article/russia-us-ukraine-sanctions.html">Sanctions Aim to Put Pressure on Russia After Invasion</a> NYT: Several countries and the European Union have imposed a variety of sanctions in response to Vladimir V. Putin’s decision to invade Ukraine. 
- <p class="updated_time"> 03:30 PM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kyiv Prepares to Fight</a> WSJ: Russian forces attacked by land and air on Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender. 
  <p class="updated_time"> 03:25 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083155890/if-russias-invasion-of-ukraine-feels-familiar-look-to-broadway-in-the-60s">If Russia's invasion of Ukraine feels familiar, look to Broadway in the 60s</a> NPR: Why should Americans care about Ukraine? An answer from 1960s Broadway. 
  <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
@@ -205,7 +205,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:22 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-diplomacy.html">State Dept. Says Moscow’s Ukraine Diplomacy Was a ‘Pretense’</a> NYT: Officials in the Biden administration met repeatedly with Russian emissaries as the threat of an invasion of Ukraine grew more apparent. 
  <p class="updated_time"> 09:22 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-sanctions-afghanistan.html">U.S. Eases Sanctions to Allow Routine Transactions With Afghan Government</a> NYT: The move allows financial dealings with civil servants at government institutions, even if those ministries are now overseen by Taliban members. 
