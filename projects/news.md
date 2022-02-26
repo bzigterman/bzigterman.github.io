@@ -8,24 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:57 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Ukrainian Resistance Stalls Russian Invasion</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed. But the Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 12:53 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Ukrainian civilian volunteers, lightly organized into paramilitary groups, are taking the fight to the Russian army in Kyiv. 
+ <p class="updated_time"> 12:52 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on Three Cities in Face of Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault, while Moscow said it had merely “paused” for peace negotiations. 
  <p class="updated_time"> 12:46 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Ukrainian Resistance Stalls Russian Invasion</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed. But the Russian priority remained the capture of Kyiv. 
- <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
+ <p class="updated_time"> 12:43 PM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60539122?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kyiv imposes curfew amid sabotage fears</a> BBC: Citizens of the capital are told to stay indoors until Monday morning as Russian forces close in. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
- <p class="updated_time"> 12:27 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-paramilitary-civilian.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Ukrainian civilian volunteers, lightly organized into paramilitary groups, are taking the fight to the Russian army in Kyiv. 
  <p class="updated_time"> 12:24 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 12:14 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts social media access</a> BBC: Connectivity watchers accuse Moscow of "limiting the free flow of information at a time of crisis". 
  <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-sanctions-money-assets.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
- <p class="updated_time"> 10:48 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on Three Cities in Face of Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault, while Moscow said it had merely “paused” for peace negotiations. 
  <p class="updated_time"> 10:34 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538567?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents answer call to defend nation</a> BBC: Patriotic Ukrainians know they will face Russian soldiers soon - and are preparing for the day. 
  <p class="updated_time"> 10:24 AM CT, Feb. 26 </p> 
@@ -40,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 09:39 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: More countries issue airspace ban on Russian planes</a> BBC: Estonia, Latvia and Slovenia join Bulgaria, Poland, the Czech Republic and the UK in announcing curbs. 
- <p class="updated_time"> 09:25 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Missiles hit Kyiv as fight for capital looms</a> BBC: Ukraine's defiant president says the country's army "broke" Russia's plan to block the city. 
  <p class="updated_time"> 09:20 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
  <p class="updated_time"> 09:15 AM CT, Feb. 26 </p> 
@@ -217,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:37 PM CT, Feb. 26 </p> 
+ <a href="https://www.politico.com/news/2022/02/26/how-biden-decided-on-ketanji-brown-jackson-00012088">'He loved every minute of this’— How Biden decided on Ketanji Brown Jackson</a> Politico: The president has been contemplating this moment for years. When the time came, he moved with haste. 
  <p class="updated_time"> 12:46 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
@@ -313,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1082979837/a-majority-say-bidens-first-year-was-a-failure-a-new-poll-finds">A majority says Biden's first year was a failure, a new poll finds</a> NPR: President Biden is at just 39% approval. "These are sort of rock-bottom numbers," said the director of the survey, which was conducted before Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:50 AM CT, Feb. 25 </p> 
  <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
- <p class="updated_time"> 09:13 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/trump-rick-scott-majority-leader-00011792">Trump tries to recruit Rick Scott for majority leader</a> Politico: The former president despises the current Senate GOP leader, Mitch McConnell, and vice versa. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/25/washington-weighs-ukraine-aid-00011723">Washington weighs Ukraine aid</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:28 AM CT, Feb. 25 </p> 
