@@ -8,9 +8,15 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:56 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Ukrainian Resistance Stalls Russian Invasion</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed. But the Russian priority remained the capture of Kyiv. 
- <p class="updated_time"> 02:42 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 03:15 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Ukraine’s Forces Slow Russian Advance as Fighting Rages in Kyiv</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had stalled. But the Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 03:13 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
+ <p class="updated_time"> 03:12 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
+ <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
+ <p class="updated_time"> 02:58 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 02:36 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
@@ -18,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and  paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540341?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The women making Molotov cocktails to defend their city</a> BBC: The BBC's Sarah Rainsford visits Dnipro, where women are making Molotov cocktails to defend the city. 
- <p class="updated_time"> 02:06 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
  <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/26/1083312750/people-fleeing-ukraine-cross-into-romania">People fleeing Ukraine cross into Romania</a> NPR: As Russia invades their country, Ukrainians fleeing conflict are crossing into bordering nations. Satellite images show miles of cars and trucks waiting to cross into Romania. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
@@ -30,8 +34,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60540903?at_medium=RSS&at_campaign=KARANGA">Swift payments crackdown on Russia edges closer</a> BBC: Germany, the main opponent of excluding Russia from the Swift banking system, now says it favours curbs. 
  <p class="updated_time"> 01:08 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539104?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Children on their own, parents stay behind</a> BBC: Mothers and grandmothers lead their children into the unknown as men aged 18 - 60 must stay behind. 
- <p class="updated_time"> 12:46 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
  <p class="updated_time"> 12:43 PM CT, Feb. 26 </p> 
@@ -115,8 +117,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:44 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/russia-facebook-access.html">Russia Will Limit Access to Facebook, A Major Platform for Dissent</a> NYT: Since President Vladimir V. Putin launched his attack on Ukraine, many Russians have taken to social media to express their anger. 
  <p class="updated_time"> 05:44 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/sergey-lavrov-ukraine-talks.html">Russia Says It Won't Enter Talks Until Ukraine Stops Fighting</a> NYT: Russia’s foreign minister, Sergey Lavrov, made clear that Russia was seeking to topple the democratically elected government of Ukraine. 
- <p class="updated_time"> 05:44 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html">Russia Confirms It Controls Chernobyl Plant</a> NYT: Russia’s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility’s personnel hostage. 
  <p class="updated_time"> 05:43 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
@@ -164,6 +164,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 07:55 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Residents take to sheltering in basements for fear of Russian attacks in the Ukrainian city of Dnipro. 
+ <p class="updated_time"> 07:53 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/canada/canada-covifenz-vaccine-mrna.html">Canada Approves a Second Vaccine Made Without mRNA Technology</a> NYT: The clearance given to a plant-based offering developed by Medicago of Quebec City only covers people ages 18 to 64. 
  <p class="updated_time"> 06:28 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60523534?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 19 - 25 February 2022</a> BBC: A selection of powerful images from all over the globe, taken in the last seven days. 
  <p class="updated_time"> 06:26 PM CT, Feb. 25 </p> 
@@ -210,8 +212,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60525725?at_medium=RSS&at_campaign=KARANGA">BBC Ukrainian editor: My son and I packed, and just left Kyiv</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes her decision to leave the capital for the countryside. 
  <p class="updated_time"> 05:35 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60522450?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents spend night sheltering in basements and metro stations</a> BBC: Ukrainians tell the BBC how they spent the night sheltering from explosions and missile strikes. 
- <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html">Nils van der Poel Gives Away His Medal to Protest Beijing’s Abuses</a> NYT: In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China. 
  <p class="updated_time"> 12:09 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60499385?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Why Biden won't send troops to Ukraine</a> BBC: The US president has ruled out any military involvement, so what's different this time? 
 
@@ -223,14 +223,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:31 PM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/biden-putin-invasion-opposite-effect-nato-00012091">Biden: Putin's invasion creating 'opposite effect' to its intent</a> Politico: The president further described “complete unanimity” within NATO as the U.S. and its allies levied harsh sanctions on Russia and increasingly stepped up aid to Ukraine. 
+ <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off in New Conflict</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:34 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Russia and China Cemented Economic Ties Before Ukraine Invasion</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 02:15 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ketanji-brown-jackson-supreme-court.html">As a Public Defender, Supreme Court Nominee Helped Clients Others Avoided</a> NYT: Ambitious lawyers usually become prosecutors. Ketanji Brown Jackson worked on behalf of criminal defendants and Guantánamo detainees. 
  <p class="updated_time"> 01:37 PM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/how-biden-decided-on-ketanji-brown-jackson-00012088">'He loved every minute of this’— How Biden decided on Ketanji Brown Jackson</a> Politico: The president has been contemplating this moment for years. When the time came, he moved with haste. 
- <p class="updated_time"> 12:46 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off in New Confrontation</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
  <p class="updated_time"> 12:15 PM CT, Feb. 26 </p> 
