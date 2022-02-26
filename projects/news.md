@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
+ <p class="updated_time"> 11:44 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: An All-Out Russian Attack Is Imminent, Ukraine’s President Says</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 11:33 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/26/1083270999/street-fighting-begins-in-kyiv-as-people-are-urged-to-seek-shelter">Street fighting begins in Kyiv as people are urged to seek shelter</a> NPR: Russian troops stormed toward Ukraine's capital early Saturday as the country's president refused an American offer to evacuate, insisting that he would stay. "The fight is here," he said. 
  <p class="updated_time"> 11:21 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close on Kyiv but meet strong resistance</a> BBC: The Ukrainian military claims that an army unit in the capital has managed to repel Russian forces. 
- <p class="updated_time"> 11:13 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: An All-Out Russian Attack Is Imminent, Ukraine’s President Says</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: Thousands of European companies that have operations in Russia may face collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 10:44 PM CT, Feb. 25 </p> 
@@ -40,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Some residents have taken to sheltering in basements for fear of Russian attacks in the city of Dnipro. 
  <p class="updated_time"> 07:53 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/canada/canada-covifenz-vaccine-mrna.html">Canada Approves a Second Vaccine Made Without mRNA Technology</a> NYT: The clearance given to a plant-based offering developed by Medicago of Quebec City only covers people ages 18 to 64. 
- <p class="updated_time"> 07:45 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
  <p class="updated_time"> 07:18 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/chrystia-freeland-vladimir-putin.html">A Canadian Leader with Ukrainian Roots Ranks Putin as One of Most ‘Reviled European Dictators.’</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
  <p class="updated_time"> 07:15 PM CT, Feb. 25 </p> 
@@ -192,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-sanctions-russia-ukraine.html">Biden Hits Russia With Broad Sanctions for Putin’s War in Ukraine</a> NYT: The penalties will affect Russia’s biggest banks, its weapons industry, its largest energy company and families close to President Vladimir V. Putin. The country’s stock market has plummeted. 
  <p class="updated_time"> 08:19 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/us/politics/biden-putin-sanctions-ukraine.html">Biden Denounces Putin's Actions in Ukraine </a> NYT: President Biden announced new sanctions but conceded that they would not immediately prevent President Vladimir V. Putin of Russia from continuing his military assault. 
- <p class="updated_time"> 06:01 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/white-house-pandemic-strategy.html">The White House Is Mulling a New Pandemic Strategy </a> NYT: President Biden’s coronavirus response team is evaluating a 136-page blueprint by a team of outside experts who have spent much of this week meeting behind closed doors with White House officials. 
  <p class="updated_time"> 05:59 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? A Full Guide</a> NYT: Here’s a guide to the causes behind a conflict that has just become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
  <p class="updated_time"> 01:30 PM CT, Feb. 24 </p> 
