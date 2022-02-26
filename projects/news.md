@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:52 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 11:14 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Ukrainian Resistance Stalls Russian Invasion</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed. But the Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-wealth-sanctions.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
  <p class="updated_time"> 10:48 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on Three Cities in Face of Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault, while Moscow said it had merely “paused” for peace negotiations. 
  <p class="updated_time"> 10:39 AM CT, Feb. 26 </p> 
@@ -68,6 +70,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/greece-ferry-fire.html">8 Found Dead After Ferry Fire Off Greece as Grim Search Continues</a> NYT: The blaze aboard the Euroferry Olympia burned for most of a week. Hundreds of passengers were rescued, but at least three more are believed missing. 
  <p class="updated_time"> 05:53 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60536618?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'No war please' message from Russian tennis star Rublev</a> BBC: Andrey Rublev writes a plea for peace on a camera lens at the Dubai Tennis Championship. 
+ <p class="updated_time"> 05:53 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/russian-state-media-bolster-putins-narrative-for-ukraine-invasion-11645874643">Russian State Media Bolster Putin's Narrative for Ukraine Invasion</a> WSJ: Media outlets are amplifying the Russian president’s claims that Kyiv is the aggressor and that Russia is acting to protect its security. 
  <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
  <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
@@ -88,6 +92,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html">Russia Confirms It Controls Chernobyl Plant</a> NYT: Russia’s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility’s personnel hostage. 
  <p class="updated_time"> 05:43 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
+ <p class="updated_time"> 05:15 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200">Ukrainian Forces Repel Russian Attack on Kyiv</a> WSJ: Thousands of civilians take up arms to help defend the capital, while Russian forces face fierce resistance throughout Ukraine. 
  <p class="updated_time"> 05:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/canada/ottawa-trucker-protests.html">With Trucks and Protesters Gone, What's Next For Ottawa?</a> NYT: Streets remained blocked in Ottawa, and many issues, including compensation for those who lost income during the protests, are unresolved. 
  <p class="updated_time"> 04:53 AM CT, Feb. 26 </p> 
@@ -96,12 +102,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">Facial Recognition at Airports: What You Need to Know</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
- <p class="updated_time"> 03:35 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-looks-to-new-measures-to-punish-russia-for-ukraine-invasion-11645833689">U.S. Looks to New Measures to Punish Russia for Ukraine Invasion</a> WSJ: Penalties unveiled include sanctioning Vladimir Putin, a rare move by Washington aimed at punishing the Russian leader. 
+ <p class="updated_time"> 03:33 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/pakistans-leader-went-ahead-with-russia-visit-despite-push-to-isolate-putin-over-ukraine-11645885990">Pakistan's Leader Went Ahead With Russia Visit Despite Push to Isolate Putin</a> WSJ: Shortly after the full-scale Russian invasion began, Pakistani Prime Minister Imran Khan met with the Russian president in the Kremlin, shaking hands in front of the cameras and sitting right next to him for talks. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">The U.S. sanctions on Russian oligarchs miss the richest of the rich</a> NPR: The sanctions may do little to dim the jet-setting lifestyles of Russia's ultra-rich and infamous – much less force a withdrawal of tanks and troops. 
+ <p class="updated_time"> 02:00 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/australian-leader-casts-himself-as-china-hawk-in-re-election-bid-11645880400">Australian Leader Casts Himself as China Hawk in Re-Election Bid</a> WSJ: Prime Minister Scott Morrison is promoting his record on national security and the strength of the economy, betting that will shift voters’ focus away from frustration over his response to the Covid-19 pandemic. 
  <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083275522/indonesia-earthquake-search-victims">Searchers dig into the rubble after an earthquake hit Indonesia</a> NPR: A strong earthquake shook Sumatra island, killing eight people, injuring 86 and leaving thousands displaced. 
+ <p class="updated_time"> 12:29 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/for-europe-russia-sanctions-will-sting-11645874957">For Europe, Russia Sanctions Will Sting</a> WSJ: Russia’s invasion of Ukraine threatens to set back Europe’s economic recovery from the Covid-19 pandemic, as sanctions, tensions and energy prices weigh on businesses and households. 
  <p class="updated_time"> 12:15 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/north-south-korea-russia-us-ukraine.html">On Both Sides of Korean Peninsula, Eyes on Washington's Response to Russia</a> NYT: North Korea might decide it’s time to resume weapons tests, to gain more diplomatic leverage with Washington. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
@@ -128,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 07:55 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Residents take to sheltering in basements for fear of Russian attacks in the Ukrainian city of Dnipro. 
- <p class="updated_time"> 06:58 PM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kyiv Prepares to Fight</a> WSJ: Russian forces attacked by land and air Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender. 
  <p class="updated_time"> 06:56 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083210202/russia-chernobyl-ukraine">Why Russia's capture of Chernobyl might not be the biggest nuclear concern in Ukraine</a> NPR: Russia's capture of the Chernobyl nuclear plant raised alarms across the international community, with many world leaders wondering if Russia chose to seize the area for a specific reason. 
  <p class="updated_time"> 06:28 PM CT, Feb. 25 </p> 
@@ -164,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-china-russia-ukraine.html">Biden Officials Repeatedly Urged China to Help Avert War in Ukraine</a> NYT: Americans presented Chinese officials with intelligence on Russia’s troop buildup in hopes that President Xi Jinping would step in, but were repeatedly rebuffed. 
  <p class="updated_time"> 01:53 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60528132?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Biden nominates Ketanji Brown Jackson to top court</a> BBC: Judge Ketanji Brown Jackson said she was "humbled by the extraordinary honour" of her nomination. 
- <p class="updated_time"> 01:34 PM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/children-and-belongings-in-tow-ukrainians-throng-borders-fleeing-russian-invasion-11645828606">Ukrainians Throng Borders Fleeing Russian Invasion</a> WSJ: Tens of thousands of Ukrainians have already crossed into Poland and other neighboring countries in an exodus that the United Nations says could grow to four million. 
  <p class="updated_time"> 12:43 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60527138?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugees rush to borders to flee Russia's war</a> BBC: BBC correspondents talk to Ukrainians heading to the five countries on their western border. 
  <p class="updated_time"> 12:35 PM CT, Feb. 25 </p> 
@@ -176,8 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/technology/russia-supporters.html">‘I’ll Stand on the Side of Russia’: Pro-Putin Sentiment Spreads Online</a> NYT: After marinating in conspiracy theories and Donald J. Trump’s Russia stance, some online discourse about Vladimir Putin has grown more complimentary. 
  <p class="updated_time"> 12:00 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60530513?at_medium=RSS&at_campaign=KARANGA">Eurovision: Russia banned from competing at 2022 Song Contest</a> BBC: The organisers said the inclusion of Russia could bring the competition into disrepute. 
- <p class="updated_time"> 11:48 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/putin-invaded-ukraine-west-misread-russia-11645822427">How the West Misread Vladimir Putin</a> WSJ: For years, the former KGB officer railed against U.S. domination, assailed the post-Cold War order and sent repeated signals that he intended to widen Russia’s sphere of influence. Nonetheless, until recently few imagined he would launch a full-scale invasion of Ukraine. 
  <p class="updated_time"> 10:47 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60528828?at_medium=RSS&at_campaign=KARANGA">Chernobyl: Radiation spike at nuclear plant seized by Russian forces</a> BBC: But a disaster at the defunct nuclear power plant there is "extremely unlikely", experts say. 
  <p class="updated_time"> 09:39 AM CT, Feb. 25 </p> 
@@ -186,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/pope-knee-pain.html">Pope Francis Told to Sit Out Ceremonies Because of Knee Pain</a> NYT: A doctor recommended that Francis should take “a period of greater rest.” 
  <p class="updated_time"> 09:00 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/science/pacific-spiny-lumpsucker-fish.html">The Pacific Spiny Lumpsucker Is Armed to the Teeth</a> NYT: The diminutive predator is a terrible swimmer but thrives in the intertidal zone thanks to odd evolutionary adaptation. 
- <p class="updated_time"> 08:59 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/once-a-comic-ukrainian-president-transforms-into-wartime-leader-11645794378">Ukraine's Leader Zelensky Is 'Target Number One' for Putin</a> WSJ: Russia’s invasion of Ukraine aims to overthrow the leadership in Kyiv, but President Volodymyr Zelensky remains defiant. 
  <p class="updated_time"> 08:46 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/books/andrey-kurkov-ukraine-war.html">A Humorous Ukrainian Writer, With Nothing to Laugh About</a> NYT: Andrey Kurkov wrote about fighting between Russia and Ukraine long before Thursday’s invasion. But now, more than ever, he wants to explain it to the world. 
  <p class="updated_time"> 08:22 AM CT, Feb. 25 </p> 
@@ -200,8 +202,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html">Nils van der Poel Gives Away His Medal to Protest Beijing’s Abuses</a> NYT: In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China. 
  <p class="updated_time"> 02:17 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/americas/white-house-releases-a-plan-to-help-people-with-special-vulnerabilities-to-covid-19.html">The White House releases a plan to help people who are especially vulnerable to Covid-19.</a> NYT: The plan involves making masks and tests more accessible, but has been criticized by some disability advocates for not going far enough to protect the most vulnerable. 
- <p class="updated_time"> 02:06 AM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/china-orders-hong-kong-to-get-covid-19-under-control-before-xis-july-visit-11645794395">China Orders Hong Kong to Get Covid-19 Under Control Before Xi's July Visit</a> WSJ: Hong Kong’s leader, Carrie Lam, was summoned to a meeting on the mainland where she got a direct order sent from Xi Jinping: Get the outbreak under control ahead of planned visit by the Chinese leader to the city. 
  <p class="updated_time"> 12:09 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60499385?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Why Biden won't send troops to Ukraine</a> BBC: The US president has ruled out any military involvement, so what's different this time? 
  <p class="updated_time"> 11:39 PM CT, Feb. 24 </p> 
