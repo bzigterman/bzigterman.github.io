@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:33 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 07:39 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russian Fighters Close In on 3 Cities in Ukraine</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
@@ -213,6 +213,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:42 AM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083283287/georgia-republicans-will-choose-between-candidates-that-supported-or-denounced-t">Georgia Republicans will choose between candidates that supported or denounced Trump</a> NPR: The GOP primary for Georgia's top election office includes a candidate who was pressured by former President Donald Trump to overturn his 2020 defeat and another who supports Trump's election lies. 
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
  <p class="updated_time"> 07:20 AM CT, Feb. 26 </p> 
@@ -341,10 +343,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082918758/bidens-plans-to-hold-moscow-accountable-for-invasion-of-ukraine">Biden's plans to hold Moscow accountable for invasion of Ukraine</a> NPR: President Biden announced a suite of new sanctions aimed at Russia's biggest banks and said Western leaders are determined to hold Moscow accountable for attacking Ukraine. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082918665/texans-face-challenges-in-casting-ballots-under-new-voting-law">Texans face challenges in casting ballots under new voting law</a> NPR: Voters in Texas are facing new obstacles as they try to vote absentee in the state's primary election after Texas joined more than a dozen other states in enacting voting restrictions last year. 
+ <p class="updated_time"> 02:36 PM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/ukraine-trump-impeachment-00011406">How the Ukraine invasion connects to Trump's first impeachment — and where the players are now</a> Politico: The former president is sounding off about Russia's attacks barely two years after he faced charges of abusing his power by withholding aid for Kyiv. 
  <p class="updated_time"> 02:01 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/02/24/1082248921/postal-service-reform-act-medicare">Plan to fix Postal Service shifts retirees to Medicare, along with billions in costs</a> NPR: Some lawmakers worry that pushing future post office retirees' health costs to Medicare could hurt the health program's outlook. 
- <p class="updated_time"> 01:04 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/russian-invasion-decapitating-ukraine-government-00011404">Pentagon sending 7,000 more troops to Germany as fighting rages in Ukraine</a> Politico: The forces will deploy in the coming days but won't be going to Ukraine, the president says. 
  <p class="updated_time"> 01:02 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/russia-sanctions-ukraine-invasion-00011431">New U.S. sanctions on Russia mainly hit banks, miss energy sector</a> Politico: Biden said he was hitting Putin's economy hard in a White House speech, where he also announced a troops deployment to NATO's eastern front. 
  <p class="updated_time"> 11:23 AM CT, Feb. 24 </p> 
@@ -353,8 +355,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082776912/biden-russia-ukraine-invasion-live">Biden announces new sanctions as Russia attacks Ukraine</a> NPR: The next round of sanctions from the White House targets banks and export controls, which would cut Russia off from critical technology such as semiconductors. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/24/washington-wakes-to-assault-on-ukraine-00011325">Washington wakes to assault on Ukraine</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:25 AM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082749756/additional-global-sanctions-will-be-a-blow-to-putin-sen-klobuchar-says">Additional global sanctions will be a blow to Putin, Sen. Klobuchar says</a> NPR: NPR's Rachel Martin talks to Democratic Sen. Amy Klobuchar of Minnesota about Russia's invasion of Ukraine, and how Congress plans to punish Russian President Vladimir Putin. 
  <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/24/war-in-europe-00011319"> War in Europe</a> Politico Playbook: And Rick Scott kicks off an ad campaign for his policy platform. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
