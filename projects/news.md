@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:02 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 07:33 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russian Fighters Close In on 3 Cities in Ukraine</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
+ <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
+ <p class="updated_time"> 07:25 AM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083283265/russia-vetoes-u-n-security-council-resolution-denouncing-ukraine-invasion">Russia vetoes U.N. Security Council resolution denouncing Ukraine invasion</a> NPR: The U.N. Security Council vote last night highlights where diplomatic pressure stands against Russia. 
+ <p class="updated_time"> 07:25 AM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083283258/ukrainian-journalists-paints-a-picture-of-the-country-under-siege">Ukrainian journalists paints a picture of the country under siege</a> NPR: Scott Simon speaks with Ukrainian radio journalist Andriy Kulykov about what he's seen in Kyiv. 
+ <p class="updated_time"> 07:21 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts social media access</a> BBC: Connectivity watchers accuse Moscow of "limiting the free flow of information at a time of crisis". 
  <p class="updated_time"> 06:59 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283223/what-is-natos-role-in-responding-to-the-russia-ukraine-conflict">What is NATO's role in responding to the Russia-Ukraine conflict?</a> NPR: The world is watching how NATO members respond to Russia's attack on Ukraine. Former NATO ambassador Ivo Daalder talks with Scott Simon about NATO's role in the crisis. 
  <p class="updated_time"> 06:59 AM CT, Feb. 26 </p> 
@@ -27,7 +35,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/putin-russia-ukraine-army.html">Putin Claims Russia Has Been Fighting ‘Nationalist Groups,’ Not The Ukrainian Army</a> NYT: Russian state television aired brief remarks by Mr. Putin as he spoke by video to his Security Council. 
  <p class="updated_time"> 05:48 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech-giants.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
+ <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 05:48 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: European companies that have operations in Russia are preparing for collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 05:46 AM CT, Feb. 26 </p> 
@@ -43,7 +51,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:43 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
  <p class="updated_time"> 05:36 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close in on Kyiv but meet strong resistance</a> BBC: Ukraine's defiant president says the country's army "broke" Russia's plan to block the capital. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Missiles hit Kyiv as fight for capital looms</a> BBC: Ukraine's defiant president says the country's army "broke" Russia's plan to block the city. 
  <p class="updated_time"> 05:33 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
  <p class="updated_time"> 05:00 AM CT, Feb. 26 </p> 
@@ -112,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008227906/ukraine-civilians-military-video.html">‘I’m Ready’: Ukraine’s Civilians Take Up Arms</a> NYT: Volunteer fighters armed with assault rifles patrolled central Kyiv on Friday, ready to defend their country. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60533425?at_medium=RSS&at_campaign=KARANGA">Ukraine: What happens next?</a> BBC: The gloves are off - so what might happen next? What can the West do to deter Vladimir Putin? 
- <p class="updated_time"> 05:29 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts access to Facebook</a> BBC: The platform was limited after it refused to stop fact-checking content from some Russian media outlets. 
  <p class="updated_time"> 05:28 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60532716?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugees from Ukraine arriving at Polish border speak to BBC</a> BBC: One family included a 10-year-old child, who has been travelling with her mother from Kyiv for two days. 
  <p class="updated_time"> 04:35 PM CT, Feb. 25 </p> 
@@ -164,12 +170,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60530513?at_medium=RSS&at_campaign=KARANGA">Eurovision: Russia banned from competing at 2022 Song Contest</a> BBC: The organisers said the inclusion of Russia could bring the competition into disrepute. 
  <p class="updated_time"> 11:48 AM CT, Feb. 25 </p> 
  <a href="https://www.wsj.com/articles/putin-invaded-ukraine-west-misread-russia-11645822427">How the West Misread Vladimir Putin</a> WSJ: For years, the former KGB officer railed against U.S. domination, assailed the post-Cold War order and sent repeated signals that he intended to widen Russia’s sphere of influence. Nonetheless, until recently few imagined he would launch a full-scale invasion of Ukraine. 
- <p class="updated_time"> 11:47 AM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083095335/eurovision-russia-banned">Changing course, Eurovision organizers say no Russian act will compete this year</a> NPR: Organizers cited concerns that "the inclusion of a Russian entry in this year's Contest would bring the competition into disrepute" in light of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:47 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60528828?at_medium=RSS&at_campaign=KARANGA">Chernobyl: Radiation spike at nuclear plant seized by Russian forces</a> BBC: But a disaster at the defunct nuclear power plant there is "extremely unlikely", experts say. 
- <p class="updated_time"> 10:10 AM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1082893801/russias-invasion-of-ukraine-may-cause-havoc-for-wheat-importing-mideast-nations">Russia's invasion of Ukraine may cause havoc for wheat-importing Mideast nations</a> NPR: Last year, the region imported more than 36 million metric tons of wheat, mostly from Russia and Ukraine. The concern is that Russia's war in Ukraine could disrupt supplies and drive up prices. 
  <p class="updated_time"> 09:39 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60521822?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What is Swift and why are leaders divided on banning Russia?</a> BBC: The UK wants Russia banned from the Swift financial network, but other countries are resisting. 
  <p class="updated_time"> 09:15 AM CT, Feb. 25 </p> 
@@ -190,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60522450?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents spend night sheltering in basements and metro stations</a> BBC: Ukrainians tell the BBC how they spent the night sheltering from explosions and missile strikes. 
  <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html">Nils van der Poel Gives Away His Medal to Protest Beijing’s Abuses</a> NYT: In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China. 
- <p class="updated_time"> 04:41 AM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083006841/world-leaders-fine-tune-punitive-measures-against-russia">World leaders fine-tune punitive measures against Russia</a> NPR: A growing number of world leaders are preparing responses to Russia's invasion of Ukraine that include both sanctions and humanitarian aid. 
  <p class="updated_time"> 02:17 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/americas/white-house-releases-a-plan-to-help-people-with-special-vulnerabilities-to-covid-19.html">The White House releases a plan to help people who are especially vulnerable to Covid-19.</a> NYT: The plan involves making masks and tests more accessible, but has been criticized by some disability advocates for not going far enough to protect the most vulnerable. 
  <p class="updated_time"> 02:06 AM CT, Feb. 25 </p> 
@@ -213,6 +213,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
+ <p class="updated_time"> 07:20 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Before Ukraine Invasion, Russia and China Cemented Economic Ties</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/china-sees-strategic-advantage-in-russias-ukraine-invasion-00012032">China sees strategic advantage in Russia’s Ukraine invasion</a> Politico: The Chinese government has made clear that it will remain a strategic ally of Russia despite President Vladimir Putin being viewed globally as the aggressor in the war. 
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
@@ -229,8 +233,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/democrats-biden-supreme-court-nominee.html">How the Process For Confirming a Supreme Court Justice Works</a> NYT: Despite the goal of speedy approval, the outbreak of war in Ukraine could shift the timetable and the Senate’s attention. 
  <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1082842946/this-wont-be-the-first-state-of-the-union-speech-given-during-a-crisis">This won't be the first State of the Union speech given during a crisis </a> NPR: Even when under maximum pressure, presidents have viewed the speech as a unique opportunity to make their case to the rest of the government, to the nation as a whole and to the wider world as well. 
- <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Before Ukraine Invasion, Russia and China Cemented Economic Ties</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 09:22 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-sanctions-afghanistan.html">U.S. Eases Sanctions to Allow Routine Transactions With Afghan Government</a> NYT: The move allows financial dealings with civil servants at government institutions, even if those ministries are now overseen by Taliban members. 
  <p class="updated_time"> 09:09 PM CT, Feb. 25 </p> 
@@ -279,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/business/sec-short-selling.html">The S.E.C. Wants to Increase the Public’s View Into Big Short-Selling Activity</a> NYT: The Securities and Exchange Commission is proposing new disclosure requirements for large short sellers. Officials say it could help them sort out market disruptions. 
  <p class="updated_time"> 02:26 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-china-russia-ukraine.html">Biden Officials Repeatedly Urged China to Help Avert War in Ukraine</a> NYT: Americans presented Chinese officials with intelligence on Russia’s troop buildup in hopes that President Xi Jinping would step in, but were repeatedly rebuffed. 
- <p class="updated_time"> 02:10 PM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/nato-deploy-troops-eastern-flank-ukraine-00011902">NATO deploys troops to eastern flank as Russian attack escalates in Ukraine</a> Politico: It is the first time the treaty's response force has been used for collective security, NATO Secretary General Jens Stoltenberg said. 
  <p class="updated_time"> 02:06 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-ketanji-jackson.html">How Biden Chose Ketanji Brown Jackson as His Supreme Court Nominee</a> NYT: Judge Jackson’s ability to garner Republican votes made her an attractive candidate, but President Biden’s advisers said that he wanted to choose someone in the mold of the justice she would be replacing. 
  <p class="updated_time"> 12:54 PM CT, Feb. 25 </p> 
@@ -299,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
  <p class="updated_time"> 09:13 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/trump-rick-scott-majority-leader-00011792">Trump tries to recruit Rick Scott for majority leader</a> Politico: The former president despises the current Senate GOP leader, Mitch McConnell, and vice versa. 
- <p class="updated_time"> 09:08 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/grave-concern-invasion-puts-spotlight-on-ukraine-nuclear-reactors-00011650">‘Grave concern’: Invasion puts spotlight on Ukraine nuclear reactors</a> Politico: Experts warned yesterday of unprecedented risks to Ukraine’s reactors after Russian forces seized control of the Chernobyl nuclear plant. The country is Europe’s second-largest nuclear power producer. 
  <p class="updated_time"> 08:21 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/supreme-court-jackson-future.html">Judge Ketanji Brown Jackson: A Groundbreaking Pick Unlikely to Reshape the Supreme Court</a> NYT: Judge Ketanji Brown Jackson’s replacement of Justice Stephen G. Breyer substitutes a liberal for a liberal and would not shift the basic dynamic of the court. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
@@ -314,13 +312,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/vladimir-putin-war-reaction-00011703">Putin’s new war, inside and out</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to Ukrainian journalist Nataliya Gumenyuk and Russian journalist Uliana Pavlova about Vladimir Putin’s invasion of Ukraine and the reaction in both countries. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: At least $10 billion in emergency funding is likely to be included in a package to aid Ukraine, with the majority of that money going toward helping refugees, Sen. Chris Coons said. 
- <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/kevin-mccarthy-primary-texas-00011683">The primary foreshadowing the future of the GOP</a> Politico: Kevin McCarthy and a rabble-rousing set of House Republicans have lined up on opposite sides of a big primary in Texas. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/gallery/2022/02/25/nations-cartoonists-week-in-politics-00011643">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: At least $10 billion in emergency funding is likely to be included in a package to aid Ukraine, with the majority of that money going toward helping refugees, Sen. Chris Coons said. 
  <p class="updated_time"> 04:14 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083003287/republicans-dominate-texas-politics-despite-the-states-changing-demographics">Republicans dominate Texas politics despite the state's changing demographics</a> NPR: In Texas, early voting is well underway ahead of Tuesday's primary election. Democrats haven't won a statewide election in Texas for decades, despite many attempts to "turn Texas blue." 
  <p class="updated_time"> 04:14 AM CT, Feb. 25 </p> 
@@ -361,8 +359,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/24/war-in-europe-00011319"> War in Europe</a> Politico Playbook: And Rick Scott kicks off an ad campaign for his policy platform. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
- <p class="updated_time"> 04:12 AM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082736173/fla-gov-desantis-wants-lawmakers-to-dismantle-a-minority-voting-district">Fla. Gov. DeSantis wants lawmakers to dismantle a minority voting district</a> NPR: Florida Republican Gov. Ron DeSantis and the Republican-controlled legislature appear to be headed for a showdown over maps. Florida is redrawing its congressional districts. 
  <p class="updated_time"> 12:41 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/lawmakers-of-both-parties-condemn-russias-invasion-00011313">Lawmakers of both parties condemn Russia's invasion</a> Politico: “﻿Putin must be made to rue the day," one senator said. 
  <p class="updated_time"> 10:11 PM CT, Feb. 23 </p> 
