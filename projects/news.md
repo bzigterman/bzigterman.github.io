@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:38 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 01:01 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: An All-Out Russian Attack Is Imminent, Ukraine’s President Says</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 12:32 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close on Kyiv but meet strong resistance</a> BBC: The Ukrainian military claims that an army unit in the capital has managed to repel Russian forces. 
@@ -17,7 +17,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
  <p class="updated_time"> 11:33 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/26/1083270999/street-fighting-begins-in-kyiv-as-people-are-urged-to-seek-shelter">Street fighting begins in Kyiv as people are urged to seek shelter</a> NPR: Russian troops stormed toward Ukraine's capital early Saturday as the country's president refused an American offer to evacuate, insisting that he would stay. "The fight is here," he said. 
+ <a href="https://www.npr.org/2022/02/26/1083270999/street-fighting-begins-in-kyiv-as-people-are-urged-to-seek-shelter">Street fighting begins in Kyiv as people are urged to seek shelter</a> NPR: Russian troops moved on Ukraine's capital early Saturday as the country's president refused an American offer to evacuate, insisting that he would stay. "The fight is here," he said. 
  <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: Thousands of European companies that have operations in Russia may face collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 10:44 PM CT, Feb. 25 </p> 
@@ -41,7 +41,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 07:55 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Some residents have taken to sheltering in basements for fear of Russian attacks in the city of Dnipro. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Residents take to sheltering in basements for fear of Russian attacks in the Ukrainian city of Dnipro. 
  <p class="updated_time"> 07:53 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/canada/canada-covifenz-vaccine-mrna.html">Canada Approves a Second Vaccine Made Without mRNA Technology</a> NYT: The clearance given to a plant-based offering developed by Medicago of Quebec City only covers people ages 18 to 64. 
  <p class="updated_time"> 07:18 PM CT, Feb. 25 </p> 
