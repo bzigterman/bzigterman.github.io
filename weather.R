@@ -34,7 +34,13 @@ champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
   mutate(snow = {if("snow.1h" %in% names(.)) ifelse(is.na(snow.1h),
                                                     0,snow.1h) else 0})
 champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
-  mutate(utc_time = as_datetime(dt))
+  mutate(utc_time = as_datetime(dt)) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  filter(central_time > now(tzone = "America/Chicago")+days(5))  %>%
+  mutate(rain = {if("rain" %in% names(.)) ifelse(is.na(rain),
+                                                    0,rain) else 0}) %>%
+  mutate(snow = {if("snow" %in% names(.)) ifelse(is.na(snow),
+                                                    0,snow) else 0})
 
 ## historical ----
 url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
@@ -115,6 +121,9 @@ champaign_forecast_tidy <- champaign_forecast %>%
 champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   full_join(champaign_hourly)
 
+#rain_check <- max(champaign_history_and_forecast$rain) == min(champaign_history_and_forecast$rain)
+#snow_check <- max(champaign_history_and_forecast$snow) == min(champaign_history_and_forecast$snow)
+
 champaign_forecast_longer <- champaign_history_and_forecast %>%
   pivot_longer(cols = c(temp, pressure,
                         humidity,
@@ -131,7 +140,9 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
                                "humidity" = "Humidity",
                                "wind_speed" = "Wind",
                                "clouds" = "Clouds",
-                               "pressure" = "Pressure")) 
+                               "pressure" = "Pressure")) #%>%
+#  if (rain_check) {filter(names != "Rain")} %>%
+#  if (snow_check) {filter(names != "Snow")}
 
 # facet ----
 ggplot(champaign_forecast_longer,
