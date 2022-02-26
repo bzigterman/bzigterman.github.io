@@ -8,6 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:53 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russian Fighters Close In on 3 Cities in Ukraine</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
+ <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
+ <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/putin-russia-ukraine-army.html">Putin Claims Russia Has Been Fighting ‘Nationalist Groups,’ Not The Ukrainian Army</a> NYT: Russian state television aired brief remarks by Mr. Putin as he spoke by video to his Security Council. 
+ <p class="updated_time"> 05:48 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech-giants.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
+ <p class="updated_time"> 05:48 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: European companies that have operations in Russia are preparing for collateral damage as Western sanctions aim to penalize Russia’s economy. 
+ <p class="updated_time"> 05:46 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/chrystia-freeland-vladimir-putin.html">A Canadian Leader with Ukrainian Roots Ranks Putin as One of Most ‘Reviled European Dictators.’</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
  <p class="updated_time"> 05:45 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/militias-russia-ukraine.html">Far-Right Militias in Europe Plan to Confront Russian Forces</a> NYT: The apparent mobilization of far-right groups could be problematic for the Ukrainian government 
  <p class="updated_time"> 05:44 AM CT, Feb. 26 </p> 
@@ -16,26 +28,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/sergey-lavrov-ukraine-talks.html">Russia Says It Won't Enter Talks Until Ukraine Stops Fighting</a> NYT: Russia’s foreign minister, Sergey Lavrov, made clear that Russia was seeking to topple the democratically elected government of Ukraine. 
  <p class="updated_time"> 05:44 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html">Russia Confirms It Controls Chernobyl Plant</a> NYT: Russia’s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility’s personnel hostage. 
- <p class="updated_time"> 05:36 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russian Fighters Close In on 3 Cities in Ukraine</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
+ <p class="updated_time"> 05:43 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
  <p class="updated_time"> 05:36 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close in on Kyiv but meet strong resistance</a> BBC: Ukraine's defiant president says the country's army "broke" Russia's plan to block the capital. 
  <p class="updated_time"> 05:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/canada/ottawa-trucker-protests.html">With Trucks and Protesters Gone, What's Next For Ottawa?</a> NYT: Streets remained blocked in Ottawa, and many issues, including compensation for those who lost income during the protests, are unresolved. 
  <p class="updated_time"> 04:53 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60537594?at_medium=RSS&at_campaign=KARANGA">Ukraine Crisis: Fleeing under the cover of darkness</a> BBC: The BBC's Fergal Keane watches a "constant procession" of cars and people. 
- <p class="updated_time"> 04:36 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
  <p class="updated_time"> 04:01 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/africa/south-africa-amazon.html">New Amazon Headquarters Sparks Feud Among Indigenous South Africans</a> NYT: The development, still under construction, sits on sacred land in Cape Town. But some Indigenous leaders have allied with the developers, prompting a debate over who speaks for First Nations people. 
- <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech-giants.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">What You Need to Know About Facial Recognition at Airports</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/missile-hits-building-kyiv-video.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
- <p class="updated_time"> 03:49 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: European companies that have operations in Russia are preparing for collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">US sanctions on Russian oligarchs miss richest of rich</a> NPR: U.S. sanctions target Russian President Vladmir Putin and a handful of associates, but the list is just as notable for who isn't on it, many of the top names from Forbes' list of the richest Russians. 
  <p class="updated_time"> 02:37 AM CT, Feb. 26 </p> 
@@ -72,10 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Residents take to sheltering in basements for fear of Russian attacks in the Ukrainian city of Dnipro. 
  <p class="updated_time"> 07:53 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/canada/canada-covifenz-vaccine-mrna.html">Canada Approves a Second Vaccine Made Without mRNA Technology</a> NYT: The clearance given to a plant-based offering developed by Medicago of Quebec City only covers people ages 18 to 64. 
- <p class="updated_time"> 07:18 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/chrystia-freeland-vladimir-putin.html">A Canadian Leader with Ukrainian Roots Ranks Putin as One of Most ‘Reviled European Dictators.’</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
- <p class="updated_time"> 07:15 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/putin-russia-ukraine-army.html">Putin Claims Russia Has Been Fighting ‘Nationalist Groups,’ Not The Ukrainian Army</a> NYT: Russian state television aired brief remarks by Mr. Putin as he spoke by video to his Security Council. 
  <p class="updated_time"> 06:59 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60499391?at_medium=RSS&at_campaign=KARANGA">CPAC: US conservatives talk Ukraine, Putin and Biden</a> BBC: US conservatives are angry with their own president but divided over how to confront Russia's leader. 
  <p class="updated_time"> 06:58 PM CT, Feb. 25 </p> 
@@ -108,8 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1083130131/thousands-rush-to-enlist-in-ukraines-army-to-fight-the-russian-invasion">Thousands rush to enlist in Ukraine's army to fight the Russian invasion</a> NPR: On Thursday, Volodymyr Omelyan and his family awoke to the sound of missile blasts nearby. By Friday, he had said goodbye to his wife and children and enlisted to fight. 
  <p class="updated_time"> 04:30 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/science/chernobyl-ukraine.html">Chernobyl Plant Is Unharmed Despite Russian Invasion of Ukraine, Scientists Say</a> NYT: The nation’s 15 operating reactors have also been assessed as safe — at least for the moment. 
- <p class="updated_time"> 04:19 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
  <p class="updated_time"> 04:15 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/middleeast/in-north-africa-ukraine-war-strains-economies-weakened-by-pandemic.html">Ukraine War Strains North Africa Economies</a> NYT: Egypt imports most of its wheat from Russia and Ukraine, and is looking for alternative suppliers. And Tunisia was struggling to pay for grain imports even before the conflict. 
  <p class="updated_time"> 04:10 PM CT, Feb. 25 </p> 
@@ -207,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:47 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-diplomacy.html">State Dept. Says Moscow’s Ukraine Diplomacy Was a ‘Pretense’</a> NYT: Officials in the Biden administration met repeatedly with Russian emissaries as the threat of an invasion of Ukraine grew more apparent. 
  <p class="updated_time"> 05:42 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/ketanji-brown-jackson-republicans.html">As Democrats Cheer Jackson Pick, Republicans Pledge Respectful Review</a> NYT: The showdown over Judge Ketanji Brown Jackson’s nomination could be less toxic than other recent Supreme Court confirmations. 
  <p class="updated_time"> 05:38 AM CT, Feb. 26 </p> 
@@ -215,8 +217,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/26/1082842946/this-wont-be-the-first-state-of-the-union-speech-given-during-a-crisis">This won't be the first State of the Union speech given during a crisis </a> NPR: Even when under maximum pressure, presidents have viewed the speech as a unique opportunity to make their case to the rest of the government, to the nation as a whole and to the wider world as well. 
  <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Before Ukraine Invasion, Russia and China Cemented Economic Ties</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
- <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-diplomacy.html">State Dept. Says Moscow’s Ukraine Diplomacy Was a ‘Pretense’</a> NYT: Officials in the Biden administration met repeatedly with Russian emissaries as the threat of an invasion of Ukraine grew more apparent. 
  <p class="updated_time"> 09:22 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-sanctions-afghanistan.html">U.S. Eases Sanctions to Allow Routine Transactions With Afghan Government</a> NYT: The move allows financial dealings with civil servants at government institutions, even if those ministries are now overseen by Taliban members. 
  <p class="updated_time"> 09:09 PM CT, Feb. 25 </p> 
