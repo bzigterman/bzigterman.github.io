@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:17 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 04:36 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
+ <p class="updated_time"> 04:33 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Ukrainian Fighters Battle to Hold Kyiv</a> NYT: The Ukrainian capital is transformed into a battle zone, and President Volodymyr Zelensky warns against false reports of his demise. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 04:01 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/africa/south-africa-amazon.html">New Amazon Headquarters Sparks Feud Among Indigenous South Africans</a> NYT: The development, still under construction, sits on sacred land in Cape Town. But some Indigenous leaders have allied with the developers, prompting a debate over who speaks for First Nations people. 
@@ -24,6 +26,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close in on Kyiv but meet strong resistance</a> BBC: The Ukrainian military says that an army unit in the capital has managed to repel Russian forces. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">US sanctions on Russian oligarchs miss richest of rich</a> NPR: U.S. sanctions target Russian President Vladmir Putin and a handful of associates, but the list is just as notable for who isn't on it, many of the top names from Forbes' list of the richest Russians. 
+ <p class="updated_time"> 02:37 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60536553?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: President Zelensky - We will defend our state</a> BBC: Ukrainian President Volodymyr Zelensky posts a video of himself walking around the streets of Kyiv on Twitter. 
  <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083275522/searchers-dig-in-indonesia-earthquake-rubble-for-victims">Searchers dig in Indonesia earthquake rubble for victims</a> NPR: Searchers in Indonesia continue to dig in the rubble for more victims Saturday, a day after a strong earthquake shook Sumatra island, killing eight people, injuring 86 and leaving thousands displaced. 
  <p class="updated_time"> 12:15 AM CT, Feb. 26 </p> 
@@ -150,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1083095335/eurovision-russia-banned">Changing course, Eurovision organizers say no Russian act will compete this year</a> NPR: Organizers cited concerns that "the inclusion of a Russian entry in this year's Contest would bring the competition into disrepute" in light of Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:47 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60528828?at_medium=RSS&at_campaign=KARANGA">Chernobyl: Radiation spike at nuclear plant seized by Russian forces</a> BBC: But a disaster at the defunct nuclear power plant there is "extremely unlikely", experts say. 
- <p class="updated_time"> 10:40 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60529879?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Warning shots fired to control crowds at Kyiv station</a> BBC: Ukrainian guards try to disperse crowds of people attempting to board trains and flee the capital. 
  <p class="updated_time"> 10:10 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082893801/russias-invasion-of-ukraine-may-cause-havoc-for-wheat-importing-mideast-nations">Russia's invasion of Ukraine may cause havoc for wheat-importing Mideast nations</a> NPR: Last year, the region imported more than 36 million metric tons of wheat, mostly from Russia and Ukraine. The concern is that Russia's war in Ukraine could disrupt supplies and drive up prices. 
  <p class="updated_time"> 10:04 AM CT, Feb. 25 </p> 
@@ -174,8 +176,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60525725?at_medium=RSS&at_campaign=KARANGA">BBC Ukrainian editor: My son and I packed, and just left Kyiv</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes her decision to leave the capital for the countryside. 
  <p class="updated_time"> 05:35 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60522450?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents spend night sheltering in basements and metro stations</a> BBC: Ukrainians tell the BBC how they spent the night sheltering from explosions and missile strikes. 
- <p class="updated_time"> 05:29 AM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
  <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html">Nils van der Poel Gives Away His Medal to Protest Beijing’s Abuses</a> NYT: In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China. 
  <p class="updated_time"> 04:41 AM CT, Feb. 25 </p> 
