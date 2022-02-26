@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:52 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 08:15 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Russia Presses Ahead With Ukraine Invasion</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
@@ -37,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:48 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 05:48 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: European companies that have operations in Russia are preparing for collateral damage as Western sanctions aim to penalize Russia’s economy. 
+ <a href="https://www.nytimes.com/2022/02/26/business/sanctions-russia-ukraine-companies.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: European companies that have operations in Russia are preparing for collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 05:46 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/chrystia-freeland-vladimir-putin.html">A Canadian Leader with Ukrainian Roots Ranks Putin as One of Most ‘Reviled European Dictators.’</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
  <p class="updated_time"> 05:45 AM CT, Feb. 26 </p> 
@@ -65,9 +65,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">What You Need to Know About Facial Recognition at Airports</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/missile-hits-building-kyiv-video.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">U.S. sanctions on Russian oligarchs miss the richest of the rich</a> NPR: U.S. sanctions target Russian President Vladmir Putin and a handful of associates, but the list is just as notable for who isn't on it, many of the top names from Forbes' list of the richest Russians. 
+ <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">The U.S. sanctions on Russian oligarchs miss the richest of the rich</a> NPR: The sanctions may do little to dim the jet-setting lifestyles of Russia's ultra-rich and infamous – much less force a withdrawal of tanks and troops. 
  <p class="updated_time"> 02:37 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60536553?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: President Zelensky - We will defend our state</a> BBC: Ukrainian President Volodymyr Zelensky posts a video of himself walking around the streets of Kyiv on Twitter. 
  <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
@@ -98,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 07:55 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Residents take to sheltering in basements for fear of Russian attacks in the Ukrainian city of Dnipro. 
- <p class="updated_time"> 07:53 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/canada/canada-covifenz-vaccine-mrna.html">Canada Approves a Second Vaccine Made Without mRNA Technology</a> NYT: The clearance given to a plant-based offering developed by Medicago of Quebec City only covers people ages 18 to 64. 
  <p class="updated_time"> 06:58 PM CT, Feb. 25 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-capital-rocked-by-explosions-as-russia-intensifies-attack-11645771768">Russian Forces Close In on Ukraine's Capital as Kyiv Prepares to Fight</a> WSJ: Russian forces attacked by land and air Friday, while Ukrainian soldiers and civilians dug in to defend the capital. Ukraine’s president vowed not to surrender. 
  <p class="updated_time"> 06:56 PM CT, Feb. 25 </p> 
