@@ -8,30 +8,42 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:15 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 08:05 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Russia Will Launch An All-Out Attack Tonight, Ukraine’s President Says</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
- <p class="updated_time"> 07:13 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 08:02 PM CT, Feb. 25 </p> 
+ <a href="https://www.npr.org/2022/02/25/1083252456/russia-vetoes-un-security-council-resolution-that-denounces-its-invasion-of-ukra">Russia vetoes UN Security Council resolution that denounces its invasion of Ukraine</a> NPR: "You can veto this resolution but you cannot veto our voices," the U.S. ambassador to the UN told her Russian counterpart following the vote. 
+ <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/us-russia-military.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
+ <p class="updated_time"> 07:55 PM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Some residents have taken to sheltering in basements for fear of Russian attacks in the city of Dnipro. 
+ <p class="updated_time"> 07:54 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-russia-kyiv-fighting.html">Ukraine Prepares for Russian Attack on Kyiv</a> NYT: President Volodymyr Zelensky warned in a video address that Russian “sabotage groups” had entered Kyiv with the aim of decapitating his government by “destroying the head of state.” 
+ <p class="updated_time"> 07:53 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/canada/canada-covifenz-vaccine-mrna.html">Canada Approves a Second Vaccine Made Without mRNA Technology</a> NYT: The clearance given to a plant-based offering developed by Medicago of Quebec City only covers people ages 18 to 64. 
+ <p class="updated_time"> 07:45 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
+ <p class="updated_time"> 07:29 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-zelensky-kyiv-video.html">With Bravado and an Actor’s Flair, Zelensky Says He’s Staying in Kyiv</a> NYT: The 44-year-old president of Ukraine videotaped himself in Kyiv as Russian forces closed in on the capital, vowing to fight them to the end. 
- <p class="updated_time"> 07:12 PM CT, Feb. 25 </p> 
+ <p class="updated_time"> 07:18 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/chrystia-freeland-vladimir-putin.html">A Canadian Leader with Ukrainian Roots Ranks Putin as One of Most ‘Reviled European Dictators.’</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
+ <p class="updated_time"> 07:15 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/russia-facebook-access.html">Russia Will Limit Access to Facebook, A Major Platform for Dissent</a> NYT: Since President Vladimir V. Putin launched his attack on Ukraine, many Russians have taken to social media to express their anger. 
+ <p class="updated_time"> 07:15 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/putin-russia-ukraine-army.html">Putin Claims Russia Has Been Fighting ‘Nationalist Groups,’ Not The Ukrainian Army</a> NYT: Russian state television aired brief remarks by Mr. Putin as he spoke by video to his Security Council. 
+ <p class="updated_time"> 07:15 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html">Russia Confirms It Controls Chernobyl Plant</a> NYT: Russia’s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility’s personnel hostage. 
  <p class="updated_time"> 07:10 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/sergey-lavrov-ukraine-talks.html">Russia Says It Won't Enter Talks Until Ukraine Stops Fighting</a> NYT: Russia’s foreign minister, Sergey Lavrov, made clear that Russia was seeking to topple the democratically elected government of Ukraine. 
  <p class="updated_time"> 07:02 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/militias-russia-ukraine.html">Far-Right Militias in Europe Plan to Confront Russian Forces</a> NYT: The apparent mobilization of far-right groups could be problematic for the Ukrainian government 
  <p class="updated_time"> 06:56 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083210202/russia-chernobyl-ukraine">Why Russia's capture of Chernobyl might not be the biggest nuclear concern in Ukraine</a> NPR: Russia's capture of the Chernobyl nuclear plant raised alarms across the international community, with many world leaders wondering if Russia chose to seize the area for a specific reason. 
- <p class="updated_time"> 06:53 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-russia-kyiv-fighting.html">Ukraine Prepares for Russian Attack on Kyiv</a> NYT: President Volodymyr Zelensky warned in a video address that Russian “sabotage groups” had entered Kyiv with the aim of decapitating his government by “destroying the head of state.” 
- <p class="updated_time"> 06:45 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/canada/canada-covifenz-vaccine-mrna.html">Canada Approves a Second Vaccine Made Without mRNA Technology</a> NYT: The clearance given to a plant-based offering developed by Medicago of Quebec City only covers people ages 18 to 64. 
- <p class="updated_time"> 06:35 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/us-russia-military.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 06:28 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60523534?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 19 - 25 February 2022</a> BBC: A selection of powerful images from all over the globe, taken in the last seven days. 
  <p class="updated_time"> 06:26 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60530171?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: West imposes sanctions on Russia's Putin and Lavrov</a> BBC: The US, EU, UK and Canada freeze the assets of the Russian president and his foreign minister over Ukraine. 
  <p class="updated_time"> 06:26 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60533647?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Watch key moments from day two</a> BBC: Watch key moments from Friday - from early morning explosions to a defiant message from Ukraine's president. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60533647?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Watch key moments from day two</a> BBC: Watch how Friday unfolded, from early morning explosions to a defiant message from Ukraine's president. 
  <p class="updated_time"> 06:25 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60384689?at_medium=RSS&at_campaign=KARANGA">The Assam woman who fought to win back her Indian citizenship</a> BBC: Sefali Rani Das, from India's Assam state, says the years-long struggle has left her traumatised. 
  <p class="updated_time"> 06:16 PM CT, Feb. 25 </p> 
@@ -40,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1083213601/russian-warship-tells-ukrainian-soldiers-to-surrender-they-profanely-refuse">Russian warship tells Ukrainian soldiers to surrender. They profanely refuse</a> NPR: Ukrainian ambassador to the U.S. says all 13 defenders on the island were killed during the fighting. Zelenskyy hails them as heroes of Ukraine. 
  <p class="updated_time"> 06:01 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60495437?at_medium=RSS&at_campaign=KARANGA">Pakistan: Hundreds defy banned Basant kite flying festival</a> BBC: Despite a police crackdown, hundreds continue to fly kites to celebrate the festival of Basant. 
- <p class="updated_time"> 05:38 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008227906/ukraine-civilians-military-video.html">‘I’m Ready’: Ukraine’s Civilians Take Up Arms</a> NYT: Volunteer fighters armed with assault rifles patrolled central Kyiv on Friday, ready to defend their country. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
@@ -92,16 +102,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/children-and-belongings-in-tow-ukrainians-throng-borders-fleeing-russian-invasion-11645828606">Ukrainians Throng Borders Fleeing Russian Invasion</a> WSJ: Tens of thousands of Ukrainians have already crossed into Poland and other neighboring countries in an exodus that the United Nations says could grow to four million. 
  <p class="updated_time"> 01:11 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083029733/afghan-refugees-resettlement-housing-jobs">The next challenge for Afghan refugees is finding affordable housing and jobs</a> NPR: Afghan refugees have left their first destination in the U.S.: military bases. Now they're resettling in communities around the country. But finding affordable housing makes the transition difficult. 
- <p class="updated_time"> 01:02 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/russia-facebook-access.html">Russia Will Limit Access to Facebook, A Major Platform for Dissent</a> NYT: Since President Vladimir V. Putin launched his attack on Ukraine, many Russians have taken to social media to express their anger. 
  <p class="updated_time"> 01:01 PM CT, Feb. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-looks-to-new-measures-to-punish-russia-for-ukraine-invasion-11645833689">U.S. Looks to New Measures to Punish Russia for Ukraine Invasion</a> WSJ: Penalties unveiled include sanctioning Vladimir Putin, a rare move by Washington aimed at punishing the Russian leader. 
  <p class="updated_time"> 12:56 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60532311?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: President Zelensky vows to defend independence</a> BBC: The president filmed himself surrounded by his advisers on the streets of Kyiv. 
  <p class="updated_time"> 12:43 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60527138?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugees rush to borders to flee Russia's war</a> BBC: BBC correspondents talk to Ukrainians heading to the five countries on their western border. 
- <p class="updated_time"> 12:39 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/canada-putin-chrystia-freeland.html">Canadian Leader with Ukrainian Roots Says Putin Ranks Among 'Reviled' Dictators</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
  <p class="updated_time"> 12:35 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60522454?at_medium=RSS&at_campaign=KARANGA">Snake Island: Ukraine says soldiers killed after refusing to surrender</a> BBC: Ukraine says the soldiers died defending a tiny island after refusing to surrender to a Russian ship. 
  <p class="updated_time"> 12:16 PM CT, Feb. 25 </p> 
@@ -140,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60527158?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Fleeing family's car breaks down between two armies</a> BBC: Frightened Ukrainians are having to decide whether to stay in Kyiv or seek safety elsewhere. 
  <p class="updated_time"> 06:43 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60525725?at_medium=RSS&at_campaign=KARANGA">BBC Ukrainian editor: My son and I packed, and just left Kyiv</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes her decision to leave the capital for the countryside. 
- <p class="updated_time"> 05:53 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html">Russia Confirms It Controls Chernobyl Plant</a> NYT: Russia’s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility’s personnel hostage. 
  <p class="updated_time"> 05:35 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60522450?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents spend night sheltering in basements and metro stations</a> BBC: Ukrainians tell the BBC how they spent the night sheltering from explosions and missile strikes. 
  <p class="updated_time"> 05:29 AM CT, Feb. 25 </p> 
@@ -182,20 +186,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/24/world/white-house-pandemic-strategy.html">The White House Is Mulling a New Pandemic Strategy </a> NYT: President Biden’s coronavirus response team is evaluating a 136-page blueprint by a team of outside experts who have spent much of this week meeting behind closed doors with White House officials. 
  <p class="updated_time"> 05:59 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/article/russia-ukraine-nato-europe.html">What Does Russia Want in Ukraine? A Full Guide</a> NYT: Here’s a guide to the causes behind a conflict that has just become a major military clash, and what’s at stake for Russia, the U.S. and NATO. 
- <p class="updated_time"> 05:38 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/kentucky-coronavirus-cases-covid.html">Cases Decline in Kentucky but Hospitalizations and Positivity Rate Remain High</a> NYT: Only 56 percent of state residents are vaccinated, well below the national average. “We would like to see all of those numbers get better,” Gov. Andy Beshear said this week. 
  <p class="updated_time"> 05:24 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082954761/republicans-are-condemning-putin-for-the-invasion-of-ukraine-and-criticizing-bid">Republicans are condemning Putin for the invasion of Ukraine — and criticizing Biden</a> NPR: However, the GOP has not reached full consensus on the Kremlin's actions, with former President Donald Trump remaining an outlier in the party he ostensibly leads. 
  <p class="updated_time"> 04:25 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082919477/for-ukrainian-americans-unity-against-putin-has-solidified-their-bonds">For Ukrainian-Americans, unity against Putin has solidified their bonds</a> NPR: Ukrainian-Americans were previously split by generation and religious identity. One Harvard scholar says that the past decade of actions by Russian President Putin has made the community more united. 
- <p class="updated_time"> 04:16 PM CT, Feb. 24 </p> 
- <a href="https://www.npr.org/2022/02/24/1082926832/russia-faces-the-nuclear-option-of-being-ousted-from-the-swift-banking-system">Russia faces expulsion from a key tool used in the global banking system</a> NPR: SWIFT underpins the global financial system, handling millions of secure messages every day. Cutting Russia off from SWIFT could have a major impact on its economy, experts say. 
- <p class="updated_time"> 03:54 PM CT, Feb. 24 </p> 
- <a href="https://www.nytimes.com/2022/02/24/world/europe/ukrainians-fleeing.html">'I abandoned everything and left': Ukranians Flee Russian Advance</a> NYT: Civilians tried to escape eastern Ukraine, sharing jammed highways with military convoys, leaving homes, pets and belongings behind in a search for safety. 
  <p class="updated_time"> 01:30 PM CT, Feb. 24 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/europe/why-russia-attacked-ukraine.html">How Russia Attacked Ukraine and What Happens Next</a> NYT: Explosions thundered in Ukrainian cities shortly after President Vladimir V. Putin declared the start of a “special military operation.” 
- <p class="updated_time"> 12:47 PM CT, Feb. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60513632?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Shock and support on the streets of Moscow</a> BBC: The BBC talks to Russians in Moscow and Rostov to find out what they think of the assault on Ukraine. 
 
 
 </details>
@@ -203,10 +199,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:07 PM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/white-house-congress-ukraine-aid-00012071">White House asks Congress for extra $6.4B to help Ukraine</a> Politico: The Biden administration is seeking $3.5 billion in additional military funding, plus $2.9 billion for humanitarian and security assistance. 
+ <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/us-russia-military.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 07:38 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/nato-ukraine-russia-zelenskyy-00012068">NATO rushing to resupply Ukraine by land; no-fly zone all but ruled out</a> Politico: The new overland option is something that “we’re prepared to do for weeks, for months, whatever it takes,” one diplomat from a NATO country told POLITICO. 
- <p class="updated_time"> 06:35 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/us-russia-military.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 06:35 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/russia-crypto-sanctions-00011886">Russia's hidden tool to undermine sanctions</a> Politico: Rapidly evolving digital markets have created new ways to subvert heavy-duty penalties that were designed to cut off wealthy Russians and state-backed institutions from the U.S. financial system in the aftermath of the invasion of Ukraine. 
  <p class="updated_time"> 06:34 PM CT, Feb. 25 </p> 
@@ -223,8 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/kimberly-guilfoyle-january-6-committee.html">Jan. 6 Panel Threatens to Force Guilfoyle to Testify After She Ends Interview</a> NYT: Kimberly Guilfoyle, the fiancée of former President Donald J. Trump’s eldest son, cut short an interview when she learned that House members on the panel were participating. 
  <p class="updated_time"> 06:00 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/putins-threat-of-consequences-heightens-worries-about-americans-electricity-00011977">Putin’s threat of ‘consequences’ heightens worries about Americans’ electricity</a> Politico: The U.S. power grid is a key potential target for a Russian cyberattack as tensions increase over Moscow's invasion of Ukraine. That could bring an escalation from the Biden administration and NATO. 
- <p class="updated_time"> 05:59 PM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/ron-desantis-republicans-wait-your-turn-00012024">Republicans’ 2024 advice to DeSantis: Wait your turn</a> Politico: "If there was no Trump, there would be DeSantis and everyone else." 
  <p class="updated_time"> 04:57 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden Targets Russia With Strategy of Containment, Updated for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
  <p class="updated_time"> 04:33 PM CT, Feb. 25 </p> 
