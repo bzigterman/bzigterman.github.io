@@ -8,8 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:40 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 09:15 AM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083291122/russia-ukraine-facebook-twitter">Facebook and Twitter limit ads over Russia's invasion of Ukraine</a> NPR: Meta, Facebook's parent company, says the decision comes in response to Russia's invasion of Ukraine. Twitter says it is temporarily pausing ads in Ukraine and Russia. 
+ <p class="updated_time"> 09:15 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Russia Presses Ahead With Ukraine Invasion</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
+ <p class="updated_time"> 09:05 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/africa/south-africa-amazon.html">New Amazon Headquarters Sparks Feud Among Indigenous South Africans</a> NYT: The development, still under construction, sits on sacred land in Cape Town. But some Indigenous leaders have allied with the developers, prompting a debate over who speaks for First Nations people. 
+ <p class="updated_time"> 09:04 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
+ <p class="updated_time"> 09:03 AM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1082964072/russia-ukraine-nato-article-5">A part of the NATO treaty could turn Russia's invasion of Ukraine into a wider war</a> NPR: Article 5 of the North Atlantic Treaty means that an attack on one member state is determined to be an attack on all. Ukraine is not part of the alliance — but some of its neighbors are. 
+ <p class="updated_time"> 08:55 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60539113?at_medium=RSS&at_campaign=KARANGA">Ukraine: Is Russia's invasion going as expected?</a> BBC: Military plans never survive the first contact with the enemy - and Russia is facing the same problem. 
+ <p class="updated_time"> 08:53 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/article/russia-us-ukraine-sanctions.html">Sanctions Aim to Put Pressure on Russia After Invasion</a> NYT: Several countries and the European Union have imposed a variety of sanctions in response to Vladimir V. Putin’s decision to invade Ukraine. 
+ <p class="updated_time"> 08:45 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
  <p class="updated_time"> 08:36 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60536824?at_medium=RSS&at_campaign=KARANGA">In pictures: Kyiv under attack</a> BBC: Russian forces continue a military assault on neighbouring Ukraine, as fighting reaches the streets in the capital. 
  <p class="updated_time"> 08:22 AM CT, Feb. 26 </p> 
@@ -58,14 +72,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
  <p class="updated_time"> 05:36 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Missiles hit Kyiv as fight for capital looms</a> BBC: Ukraine's defiant president says the country's army "broke" Russia's plan to block the city. 
- <p class="updated_time"> 05:33 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
  <p class="updated_time"> 05:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/canada/ottawa-trucker-protests.html">With Trucks and Protesters Gone, What's Next For Ottawa?</a> NYT: Streets remained blocked in Ottawa, and many issues, including compensation for those who lost income during the protests, are unresolved. 
  <p class="updated_time"> 04:53 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60537594?at_medium=RSS&at_campaign=KARANGA">Ukraine Crisis: Fleeing under the cover of darkness</a> BBC: The BBC's Fergal Keane watches a "constant procession" of cars and people. 
- <p class="updated_time"> 04:01 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/africa/south-africa-amazon.html">New Amazon Headquarters Sparks Feud Among Indigenous South Africans</a> NYT: The development, still under construction, sits on sacred land in Cape Town. But some Indigenous leaders have allied with the developers, prompting a debate over who speaks for First Nations people. 
  <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">What You Need to Know About Facial Recognition at Airports</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
@@ -136,10 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/asia/bappi-lahiri-dead.html">Bappi Lahiri, India’s ‘Disco King,’ Dies at 69</a> NYT: He helped popularize the genre with some of the country’s biggest hits of all time, including “I Am a Disco Dancer.” 
  <p class="updated_time"> 04:03 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/business/economy/inflation-pce-index.html">A Key Inflation Gauge Is Still Rising, and War Could Make It Worse</a> NYT: The Federal Reserve’s preferred measure is at a four-decade high. Rising gas prices tied to Russia’s invasion of Ukraine could push it up further. 
- <p class="updated_time"> 03:55 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/article/russia-us-ukraine-sanctions.html">Sanctions Aim to Put Pressure on Russia After Invasion</a> NYT: Several countries and the European Union have imposed a variety of sanctions in response to Vladimir V. Putin’s decision to invade Ukraine. 
- <p class="updated_time"> 03:25 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083155890/if-russias-invasion-of-ukraine-feels-familiar-look-to-broadway-in-the-60s">If Russia's invasion of Ukraine feels familiar, look to Broadway in the '60s</a> NPR: Why should Americans care about Ukraine? An answer from 1960s Broadway. 
  <p class="updated_time"> 03:21 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60520933?at_medium=RSS&at_campaign=KARANGA">Russia stripped of Champions League final</a> BBC: The 2022 Champions League final will be played in Paris after Russia is stripped of the match following the nation's invasion of Ukraine. 
  <p class="updated_time"> 03:01 PM CT, Feb. 25 </p> 
@@ -152,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60528132?at_medium=RSS&at_campaign=KARANGA">Supreme Court: Biden nominates Ketanji Brown Jackson to top court</a> BBC: Judge Ketanji Brown Jackson said she was "humbled by the extraordinary honour" of her nomination. 
  <p class="updated_time"> 01:34 PM CT, Feb. 25 </p> 
  <a href="https://www.wsj.com/articles/children-and-belongings-in-tow-ukrainians-throng-borders-fleeing-russian-invasion-11645828606">Ukrainians Throng Borders Fleeing Russian Invasion</a> WSJ: Tens of thousands of Ukrainians have already crossed into Poland and other neighboring countries in an exodus that the United Nations says could grow to four million. 
- <p class="updated_time"> 01:11 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083029733/afghan-refugees-resettlement-housing-jobs">The next challenge for Afghan refugees is finding affordable housing and jobs</a> NPR: Afghan refugees have left their first destination in the U.S.: military bases. Now they're resettling in communities around the country. But finding affordable housing makes the transition difficult. 
  <p class="updated_time"> 12:43 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60527138?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugees rush to borders to flee Russia's war</a> BBC: BBC correspondents talk to Ukrainians heading to the five countries on their western border. 
  <p class="updated_time"> 12:35 PM CT, Feb. 25 </p> 
@@ -190,8 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60522450?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents spend night sheltering in basements and metro stations</a> BBC: Ukrainians tell the BBC how they spent the night sheltering from explosions and missile strikes. 
  <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html">Nils van der Poel Gives Away His Medal to Protest Beijing’s Abuses</a> NYT: In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China. 
- <p class="updated_time"> 04:18 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-covid.html">As Ukrainians Flee Russian Assault, Coronavirus Rides Along  </a> NYT: The fighting in Ukraine’s east is forcing a hurried mass migration that leaves little room for pandemic considerations. 
  <p class="updated_time"> 02:17 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/24/world/americas/white-house-releases-a-plan-to-help-people-with-special-vulnerabilities-to-covid-19.html">The White House releases a plan to help people who are especially vulnerable to Covid-19.</a> NYT: The plan involves making masks and tests more accessible, but has been criticized by some disability advocates for not going far enough to protect the most vulnerable. 
  <p class="updated_time"> 02:06 AM CT, Feb. 25 </p> 
@@ -211,6 +213,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
+ <p class="updated_time"> 09:04 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 07:42 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283287/georgia-republicans-will-choose-between-candidates-that-supported-or-denounced-t">Georgia Republicans will choose between candidates that supported or denounced Trump</a> NPR: The GOP primary for Georgia's top election office includes a candidate who was pressured by former President Donald Trump to overturn his 2020 defeat and another who supports Trump's election lies. 
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
@@ -279,8 +285,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-nomination-00011947">Jackson hopes nomination ‘will inspire future generations of Americans’</a> Politico: Jackson was long rumored the leading contender to replace Justice Stephen Breyer. 
  <p class="updated_time"> 02:44 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/business/sec-short-selling.html">The S.E.C. Wants to Increase the Public’s View Into Big Short-Selling Activity</a> NYT: The Securities and Exchange Commission is proposing new disclosure requirements for large short sellers. Officials say it could help them sort out market disruptions. 
- <p class="updated_time"> 02:26 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/us-china-russia-ukraine.html">Biden Officials Repeatedly Urged China to Help Avert War in Ukraine</a> NYT: Americans presented Chinese officials with intelligence on Russia’s troop buildup in hopes that President Xi Jinping would step in, but were repeatedly rebuffed. 
  <p class="updated_time"> 02:06 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-ketanji-jackson.html">How Biden Chose Ketanji Brown Jackson as His Supreme Court Nominee</a> NYT: Judge Jackson’s ability to garner Republican votes made her an attractive candidate, but President Biden’s advisers said that he wanted to choose someone in the mold of the justice she would be replacing. 
  <p class="updated_time"> 12:54 PM CT, Feb. 25 </p> 
