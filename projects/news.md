@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:13 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 05:27 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russian Fighters Close In on 3 Cities in Ukraine</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
  <p class="updated_time"> 05:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/canada/ottawa-trucker-protests.html">With Trucks and Protesters Gone, What's Next For Ottawa?</a> NYT: Streets remained blocked in Ottawa, and many issues, including compensation for those who lost income during the protests, are unresolved. 
@@ -236,7 +236,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:35 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/russia-crypto-sanctions-00011886">Russia's hidden tool to undermine sanctions</a> Politico: Rapidly evolving digital markets have created new ways to subvert heavy-duty penalties that were designed to cut off wealthy Russians and state-backed institutions from the U.S. financial system in the aftermath of the invasion of Ukraine. 
  <p class="updated_time"> 06:21 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Will Senators Do?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Now?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/judge-ketanji-brown-jackson-supreme-court-donald-trump-00012026">That time Jackson shredded Trump in a federal court ruling</a> Politico: Liberals like what they see and conservatives express fears, but much of the jockeying about the nominee isn't really about her judicial record. 
  <p class="updated_time"> 06:00 PM CT, Feb. 25 </p> 
