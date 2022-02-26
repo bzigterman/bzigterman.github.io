@@ -70,6 +70,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">What You Need to Know About Facial Recognition at Airports</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
+ <p class="updated_time"> 03:35 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-looks-to-new-measures-to-punish-russia-for-ukraine-invasion-11645833689">U.S. Looks to New Measures to Punish Russia for Ukraine Invasion</a> WSJ: Penalties unveiled include sanctioning Vladimir Putin, a rare move by Washington aimed at punishing the Russian leader. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">The U.S. sanctions on Russian oligarchs miss the richest of the rich</a> NPR: The sanctions may do little to dim the jet-setting lifestyles of Russia's ultra-rich and infamous – much less force a withdrawal of tanks and troops. 
  <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
@@ -113,7 +115,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:16 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/china-russia-ukraine-sovereignty.html">‘Abrupt Changes’: China Caught in a Bind Over Russia’s Invasion of Ukraine</a> NYT: China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position. 
  <p class="updated_time"> 06:05 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083213601/russian-warship-tells-ukrainian-soldiers-to-surrender-they-profanely-refuse">Russian warship tells Ukrainian soldiers to surrender. They profanely refuse</a> NPR: Ukrainian ambassador to the U.S. says all 13 defenders on the island were killed during the fighting. Zelenskyy hails them as heroes of Ukraine. 
+ <a href="https://www.npr.org/2022/02/25/1083213601/russian-warship-tells-ukrainian-soldiers-to-surrender-they-profanely-refuse">A Russian warship tells Ukrainian soldiers to surrender. They profanely refuse</a> NPR: The Ukrainian ambassador to the U.S. says all 13 defenders on the island were killed during the fighting. President Volodymyr Zelenskyy hails them as heroes of Ukraine. 
  <p class="updated_time"> 06:01 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60495437?at_medium=RSS&at_campaign=KARANGA">Pakistan: Hundreds defy banned Basant kite flying festival</a> BBC: Despite a police crackdown, hundreds continue to fly kites to celebrate the festival of Basant. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/children-and-belongings-in-tow-ukrainians-throng-borders-fleeing-russian-invasion-11645828606">Ukrainians Throng Borders Fleeing Russian Invasion</a> WSJ: Tens of thousands of Ukrainians have already crossed into Poland and other neighboring countries in an exodus that the United Nations says could grow to four million. 
  <p class="updated_time"> 01:11 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083029733/afghan-refugees-resettlement-housing-jobs">The next challenge for Afghan refugees is finding affordable housing and jobs</a> NPR: Afghan refugees have left their first destination in the U.S.: military bases. Now they're resettling in communities around the country. But finding affordable housing makes the transition difficult. 
- <p class="updated_time"> 01:01 PM CT, Feb. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-looks-to-new-measures-to-punish-russia-for-ukraine-invasion-11645833689">U.S. Looks to New Measures to Punish Russia for Ukraine Invasion</a> WSJ: Penalties unveiled include sanctioning Vladimir Putin, a rare move by Washington aimed at punishing the Russian leader. 
  <p class="updated_time"> 12:43 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60527138?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugees rush to borders to flee Russia's war</a> BBC: BBC correspondents talk to Ukrainians heading to the five countries on their western border. 
  <p class="updated_time"> 12:35 PM CT, Feb. 25 </p> 
@@ -214,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
  <p class="updated_time"> 07:20 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Before Ukraine Invasion, Russia and China Cemented Economic Ties</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
+ <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Russia and China Cemented Economic Ties Before Ukraine Invasion</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/china-sees-strategic-advantage-in-russias-ukraine-invasion-00012032">China sees strategic advantage in Russia’s Ukraine invasion</a> Politico: The Chinese government has made clear that it will remain a strategic ally of Russia despite President Vladimir Putin being viewed globally as the aggressor in the war. 
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
