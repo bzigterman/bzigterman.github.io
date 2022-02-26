@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 05:54 PM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/26/1083314709/antiwar-protesters-take-to-the-streets-around-the-world-in-support-of-ukraine">Antiwar protesters take to the streets around the world in support of Ukraine</a> NPR: In cities across continents, protesters are standing in solidarity against the Russian invasion of Ukraine and condemning Russian President Vladimir Putin. 
+ <p class="updated_time"> 05:52 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s critics call for boycotts of Russian vodka.</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
@@ -166,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/sanctions-on-russia-putin.html">How the U.S. and Europe Are Targeting Putin With Sanctions</a> NYT: The new penalties are a provocative step given how rarely governments, including the United States, take aim at foreign leaders. 
  <p class="updated_time"> 08:09 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden Targets Russia With Strategy of Containment, Updated for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
- <p class="updated_time"> 08:02 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083252456/russia-vetoes-un-security-council-resolution-that-denounces-its-invasion-of-ukra">Russia vetoes UN Security Council resolution that denounces its invasion of Ukraine</a> NPR: "You can veto this resolution but you cannot veto our voices," the U.S. ambassador to the UN told her Russian counterpart following the vote. 
  <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 07:55 PM CT, Feb. 25 </p> 
