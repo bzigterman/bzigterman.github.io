@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:28 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 09:45 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Russia Presses Ahead With Ukraine Invasion</a> NYT: The war is prompting protests and forcing countries and companies to pick sides in the growing conflict. An apartment building is hit by a missile in Kyiv, injuring at least a half dozen people. 
+ <p class="updated_time"> 09:43 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-war-economy.html">Russia's War With Ukraine Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
+ <p class="updated_time"> 09:39 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: More countries issue airspace ban on Russian planes</a> BBC: Estonia, Latvia and Slovenia join Bulgaria, Poland, the Czech Republic and the UK in announcing curbs. 
  <p class="updated_time"> 09:25 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Missiles hit Kyiv as fight for capital looms</a> BBC: Ukraine's defiant president says the country's army "broke" Russia's plan to block the city. 
- <p class="updated_time"> 09:20 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: More countries issue airspace ban on Russian planes</a> BBC: Estonia, Latvia and Slovenia join Bulgaria, Poland, the Czech Republic and the UK in announcing curbs. 
  <p class="updated_time"> 09:20 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
  <p class="updated_time"> 09:18 AM CT, Feb. 26 </p> 
@@ -41,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:25 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283265/russia-vetoes-u-n-security-council-resolution-denouncing-ukraine-invasion">Russia vetoes U.N. Security Council resolution denouncing Ukraine invasion</a> NPR: The U.N. Security Council vote last night highlights where diplomatic pressure stands against Russia. 
  <p class="updated_time"> 07:25 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083283258/ukrainian-journalists-paints-a-picture-of-the-country-under-siege">Ukrainian journalists paints a picture of the country under siege</a> NPR: Scott Simon speaks with Ukrainian radio journalist Andriy Kulykov about what he's seen in Kyiv. 
+ <a href="https://www.npr.org/2022/02/26/1083283258/ukrainian-journalists-paints-a-picture-of-the-country-under-siege">Ukrainian journalist paints a picture of the country under siege</a> NPR: Scott Simon speaks with Ukrainian radio journalist Andriy Kulykov about what he's seen in Kyiv. 
  <p class="updated_time"> 07:21 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts social media access</a> BBC: Connectivity watchers accuse Moscow of "limiting the free flow of information at a time of crisis". 
  <p class="updated_time"> 06:59 AM CT, Feb. 26 </p> 
