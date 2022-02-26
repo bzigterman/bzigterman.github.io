@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:41 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 12:46 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
+ <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Fighting in Kyiv as Ukrainian Resistance Stalls Russian Invasion</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed. But the Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
  <p class="updated_time"> 12:27 PM CT, Feb. 26 </p> 
@@ -18,14 +22,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 12:14 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts social media access</a> BBC: Connectivity watchers accuse Moscow of "limiting the free flow of information at a time of crisis". 
- <p class="updated_time"> 11:36 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
  <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-sanctions-money-assets.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
  <p class="updated_time"> 10:48 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on Three Cities in Face of Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault, while Moscow said it had merely “paused” for peace negotiations. 
- <p class="updated_time"> 10:39 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 10:34 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538567?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents answer call to defend nation</a> BBC: Patriotic Ukrainians know they will face Russian soldiers soon - and are preparing for the day. 
  <p class="updated_time"> 10:24 AM CT, Feb. 26 </p> 
@@ -217,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:46 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
  <p class="updated_time"> 12:26 PM CT, Feb. 26 </p> 
@@ -227,8 +229,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/leonard-peltier-clemency-native-american.html">Supporters Seek Clemency for Leonard Peltier, Native American Activist</a> NYT: Leonard Peltier, sentenced to two life terms 45 years ago in the shooting of two F.B.I. agents, is now 77 and in poor health. 
  <p class="updated_time"> 11:49 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ketanji-brown-jackson-supreme-court.html">As a Public Defender, Supreme Court Nominee Helped Clients Others Avoided</a> NYT: Ambitious lawyers usually become prosecutors. Ketanji Brown Jackson worked on behalf of criminal defendants and Guantánamo detainees. 
- <p class="updated_time"> 10:39 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 10:03 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
