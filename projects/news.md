@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 PM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close on Kyiv but meet strong resistance</a> BBC: The Ukrainian military claims that an army unit in the capital has managed to repel Russian forces. 
  <p class="updated_time"> 11:13 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: An All-Out Russian Attack Is Imminent, Ukraine’s President Says</a> NYT: The U.S. plans to impose sanctions on President Vladimir Putin as more governments and financial institutions seek to isolate Russia. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/26/business/russia-companies-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: Thousands of European companies that have operations in Russia may face collateral damage as Western sanctions aim to penalize Russia’s economy. 
+ <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: Thousands of European companies that have operations in Russia may face collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 10:44 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/kharkiv-ukraine-military.html">As Troops Battle Outside Kharkiv, Residents Shelter Underground</a> NYT: Ukrainian troops dug in around the nation’s second-largest city a day after a fight to push back advancing Russian forces. 
- <p class="updated_time"> 10:36 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close on Kyiv but meet strong resistance</a> BBC: The Ukrainian military claims that an army unit in the capital has managed to repel Russian forces. 
  <p class="updated_time"> 10:24 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/empire-state-building-eiffel-tower-ukraine-russia.html">Empire State Building, Eiffel Tower Use Lights to Show Ukraine Support</a> NYT: The landmarks include the World Trade Center, the Eiffel Tower and more. 
  <p class="updated_time"> 09:59 PM CT, Feb. 25 </p> 
@@ -123,7 +123,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:16 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
  <p class="updated_time"> 12:00 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/technology/pro-russia-pro-putin-sentiment-spreads-online.html">‘I’ll Stand on the Side of Russia’: Pro-Putin Sentiment Spreads Online</a> NYT: After marinating in conspiracy theories and Donald J. Trump’s Russia stance, some online discourse about Vladimir Putin has grown more complimentary. 
+ <a href="https://www.nytimes.com/2022/02/25/technology/russia-supporters.html">‘I’ll Stand on the Side of Russia’: Pro-Putin Sentiment Spreads Online</a> NYT: After marinating in conspiracy theories and Donald J. Trump’s Russia stance, some online discourse about Vladimir Putin has grown more complimentary. 
  <p class="updated_time"> 12:00 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60530513?at_medium=RSS&at_campaign=KARANGA">Eurovision: Russia banned from competing at 2022 Song Contest</a> BBC: The organisers said the inclusion of Russia could bring the competition into disrepute. 
  <p class="updated_time"> 11:48 AM CT, Feb. 25 </p> 
@@ -270,7 +270,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:41 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/supreme-court-ketanji-brown-jackson-reaction.html">What Senators Are Saying About Ketanji Brown Jackson, Biden's Supreme Court Pick</a> NYT: With backers calling the judge a “slam-dunk” for the Supreme Court, Republicans said they would give her a fair hearing. 
  <p class="updated_time"> 12:00 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/technology/pro-russia-pro-putin-sentiment-spreads-online.html">‘I’ll Stand on the Side of Russia’: Pro-Putin Sentiment Spreads Online</a> NYT: After marinating in conspiracy theories and Donald J. Trump’s Russia stance, some online discourse about Vladimir Putin has grown more complimentary. 
+ <a href="https://www.nytimes.com/2022/02/25/technology/russia-supporters.html">‘I’ll Stand on the Side of Russia’: Pro-Putin Sentiment Spreads Online</a> NYT: After marinating in conspiracy theories and Donald J. Trump’s Russia stance, some online discourse about Vladimir Putin has grown more complimentary. 
  <p class="updated_time"> 11:13 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/delta-russia-aeroflot-airlines-00011841">Delta suspends its agreement with Russia's Aeroflot airlines</a> Politico: The latest ban for Aeroflot customers comes as companies leverage more restrictions on Russian businesses amid the Ukraine crisis. 
  <p class="updated_time"> 11:00 AM CT, Feb. 25 </p> 
