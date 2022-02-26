@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 03:56 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Ukrainian Fighters Battle to Hold Kyiv</a> NYT: The Ukrainian capital is transformed into a battle zone, and President Volodymyr Zelensky warns against false reports of his demise. NATO leaders said more troops would be deployed. 
+ <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/world/europe/missile-hits-building-kyiv-video.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
+ <p class="updated_time"> 03:49 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: European companies that have operations in Russia are preparing for collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 03:37 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534959?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians close in on Kyiv but meet strong resistance</a> BBC: The Ukrainian military says that an army unit in the capital has managed to repel Russian forces. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">US sanctions on Russian oligarchs miss richest of rich</a> NPR: U.S. sanctions target Russian President Vladmir Putin and a handful of associates, but the list is just as notable for who isn't on it, many of the top names from Forbes' list of the richest Russians. 
- <p class="updated_time"> 02:49 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/missile-hits-building-kyiv-video.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
  <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083275522/searchers-dig-in-indonesia-earthquake-rubble-for-victims">Searchers dig in Indonesia earthquake rubble for victims</a> NPR: Searchers in Indonesia continue to dig in the rubble for more victims Saturday, a day after a strong earthquake shook Sumatra island, killing eight people, injuring 86 and leaving thousands displaced. 
  <p class="updated_time"> 12:15 AM CT, Feb. 26 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
  <p class="updated_time"> 11:33 PM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/26/1083270999/street-fighting-begins-in-kyiv-as-people-are-urged-to-seek-shelter">Fierce fighting in Kyiv, elsewhere in Ukraine as President urges resistance</a> NPR: Russian troops moved on Ukraine's capital early Saturday as the country's president refused an American offer to evacuate, insisting that he would stay. "The fight is here," he said. 
- <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/26/business/companies-russia-ukraine-invasion.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: Thousands of European companies that have operations in Russia may face collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 10:44 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/kharkiv-ukraine-military.html">As Troops Battle Outside Kharkiv, Residents Shelter Underground</a> NYT: Ukrainian troops dug in around the nation’s second-largest city a day after a fight to push back advancing Russian forces. 
  <p class="updated_time"> 10:24 PM CT, Feb. 25 </p> 
@@ -207,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Before Ukraine Invasion, Russia and China Cemented Economic Ties</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 11:01 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-diplomacy.html">State Dept. Says Moscow’s Ukraine Diplomacy Was a ‘Pretense’</a> NYT: Officials in the Biden administration met repeatedly with Russian emissaries as the threat of an invasion of Ukraine grew more apparent. 
  <p class="updated_time"> 09:22 PM CT, Feb. 25 </p> 
@@ -245,8 +247,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/u-s-will-sanction-putin-lavrov-and-other-russian-officials-00011995">U.S. will sanction Putin, Lavrov and other Russian officials</a> Politico: “In alignment with the decision by our European allies, the United States will join them in sanctioning President Putin and Foreign Minister Lavrov and members of the Russian national security team,” White House press secretary Jen Psaki said. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
- <p class="updated_time"> 04:03 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/business/economy/inflation-pce-index.html">A Key Inflation Gauge Is Still Rising, and War Could Make It Worse</a> NYT: The Federal Reserve’s preferred measure is at a four-decade high. Rising gas prices tied to Russia’s invasion of Ukraine could push it up further. 
  <p class="updated_time"> 03:45 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/americans-can-take-off-masks-cdc-covid-00011943">CDC says most Americans can now take off masks as Covid cases plummet</a> Politico: The announcement comes after weeks of deliberation about what metrics officials should use in deciding when and how to ease public health restrictions. 
  <p class="updated_time"> 03:36 PM CT, Feb. 25 </p> 
