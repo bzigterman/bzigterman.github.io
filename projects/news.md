@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:18 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 05:31 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 05:08 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-60542433?at_medium=RSS&at_campaign=KARANGA">West to cut some Russian banks off from Swift</a> BBC: The EU, US and allies will cut off a number of Russian banks from main global payment system Swift. 
@@ -52,14 +52,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
  <p class="updated_time"> 12:24 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
+ <p class="updated_time"> 12:19 PM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200">Ukrainian Forces Repel Russian Attack on Kyiv</a> WSJ: Thousands of civilians take up arms to help defend the capital, while Russian forces face fierce resistance throughout Ukraine. 
  <p class="updated_time"> 12:14 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts social media access</a> BBC: Connectivity watchers accuse Moscow of "limiting the free flow of information at a time of crisis". 
  <p class="updated_time"> 11:23 AM CT, Feb. 26 </p> 
  <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU, U.K., Canada, U.S. Plan to Cut Some Russian Banks From Swift</a> WSJ: Group will also take measures to paralyze the activities of Russia’s central bank in the latest response to the Kremlin’s attack on Ukraine. 
  <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-sanctions-money-assets.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
- <p class="updated_time"> 10:40 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200">Ukrainian Forces Repel Russian Attack on Kyiv</a> WSJ: Thousands of civilians take up arms to help defend the capital, while Russian forces face fierce resistance throughout Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538567?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents answer call to defend nation</a> BBC: Patriotic Ukrainians know they will face Russian soldiers soon - and are preparing for the day. 
  <p class="updated_time"> 10:24 AM CT, Feb. 26 </p> 
@@ -227,14 +227,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:26 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083332599/the-alabama-leaders-challenging-gop-drawn-map-that-critics-say-disfavors-black-v">The Alabama leaders challenging GOP-drawn map that critics say disfavors Black voters</a> NPR: NPR's Michel Martin speaks with lawmakers and an activist in Montgomery, Ala., to learn more about the battle over voting rights and gerrymandering in the state. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083332592/rep-adam-kinzinger-says-politicizing-russia-ukraine-crisis-hurts-washington">Rep. Adam Kinzinger says politicizing Russia-Ukraine crisis hurts Washington</a> NPR: NPR's Michel Martin speaks with Rep. Adam Kinzinger (R-Ill.) about the Russian invasion of Ukraine and President Biden's reaction to it. 
  <p class="updated_time"> 03:31 PM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/biden-putin-invasion-opposite-effect-nato-00012091">Biden: Putin's invasion creating 'opposite effect' to its intent</a> Politico: The president further described “complete unanimity” within NATO as the U.S. and its allies levied harsh sanctions on Russia and increasingly stepped up aid to Ukraine. 
- <p class="updated_time"> 03:22 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off in New Conflict</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:34 PM CT, Feb. 26 </p> 
