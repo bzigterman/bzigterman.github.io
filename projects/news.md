@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:00 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 05:18 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 05:08 PM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60542433?at_medium=RSS&at_campaign=KARANGA">West to cut some Russian banks off from Swift</a> BBC: The EU, US and allies will cut off a number of Russian banks from main global payment system Swift. 
  <p class="updated_time"> 05:00 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
- <p class="updated_time"> 04:50 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-60542433?at_medium=RSS&at_campaign=KARANGA">West to cut some Russian banks off from Swift</a> BBC: The EU, US and allies will cut off a number of Russian banks from main global payment system Swift. 
  <p class="updated_time"> 04:22 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 04:10 PM CT, Feb. 26 </p> 
@@ -149,7 +149,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
  <p class="updated_time"> 11:33 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/26/1083270999/ukraine-russia-swift-sanctions">U.S. and EU plan to boot select Russian banks from the SWIFT bank messaging system</a> NPR: The U.S. and European countries are ramping up sanctions against Russia by moving to cut off certain Russian banks from the key bank messaging system. 
+ <a href="https://www.npr.org/2022/02/26/1083270999/ukraine-russia-swift-sanctions">Select Russian banks are being booted off the SWIFT bank messaging system</a> NPR: The U.S. and European allies are ramping up sanctions against Russia by moving to cut off certain Russian banks from the key bank messaging system. 
  <p class="updated_time"> 10:44 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/kharkiv-ukraine-military.html">As Troops Battle Outside Kharkiv, Residents Shelter Underground</a> NYT: Ukrainian troops dug in around the nation’s second-largest city a day after a fight to push back advancing Russian forces. 
  <p class="updated_time"> 10:24 PM CT, Feb. 25 </p> 
@@ -363,8 +363,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082918758/bidens-plans-to-hold-moscow-accountable-for-invasion-of-ukraine">Biden's plans to hold Moscow accountable for invasion of Ukraine</a> NPR: President Biden announced a suite of new sanctions aimed at Russia's biggest banks and said Western leaders are determined to hold Moscow accountable for attacking Ukraine. 
  <p class="updated_time"> 03:15 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/2022/02/24/1082918665/texans-face-challenges-in-casting-ballots-under-new-voting-law">Texans face challenges in casting ballots under new voting law</a> NPR: Voters in Texas are facing new obstacles as they try to vote absentee in the state's primary election after Texas joined more than a dozen other states in enacting voting restrictions last year. 
- <p class="updated_time"> 02:36 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/ukraine-trump-impeachment-00011406">How the Ukraine invasion connects to Trump's first impeachment — and where the players are now</a> Politico: The former president is sounding off about Russia's attacks barely two years after he faced charges of abusing his power by withholding aid for Kyiv. 
  <p class="updated_time"> 02:01 PM CT, Feb. 24 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/02/24/1082248921/postal-service-reform-act-medicare">Plan to fix Postal Service shifts retirees to Medicare, along with billions in costs</a> NPR: Some lawmakers worry that pushing future post office retirees' health costs to Medicare could hurt the health program's outlook. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
