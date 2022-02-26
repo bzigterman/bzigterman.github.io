@@ -8,8 +8,13 @@ Here's some of my best work:
 
 ## Law360
 
+### 2022
+
+* February 25: [The Big Picture: COVID Coverage Cases In Fed. Appeals Court](https://www.law360.com/insurance-authority/property/articles/1455259/the-big-picture-covid-coverage-cases-in-fed-appeals-court)
+
 ### 2021
 
+* October 29: [COVID-19 Case Tracker](https://www.law360.com/insurance-authority/covid-map)
 * June 30: [Judge Shucks Fla. Oyster Bar's COVID-19 Coverage Suit
 ](https://www.law360.com/insurance/articles/1399058/judge-shucks-fla-oyster-bar-s-covid-19-coverage-suit)
 
