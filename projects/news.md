@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:33 AM CT, Feb. 26 </p> 
+ <p class="updated_time"> 02:46 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war">Live Updates: Ukrainian Fighters Battle to Hold Kyiv</a> NYT: The Ukrainian capital is transformed into a battle zone as Volodymyr Zelensky, the president, warned against false reports of his demise. NATO leaders said more troops would be deployed. 
  <p class="updated_time"> 02:15 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/missile-hits-building-in-kyiv-video.html">Missile Hits a Kyiv Residential Building [Video]</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
