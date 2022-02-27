@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008230025/ukraine-volunteers.html">‘I Just Want to Live in Our Country’: Civilians Join the Fight in Kyiv</a> NYT: Julia, a teacher and Ukrainian volunteer, wept as she waited to be deployed to fight Russian troops around Kyiv on Saturday. 
  <p class="updated_time"> 04:36 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine Agrees to Talks with Russia, as Putin Places Nuclear Forces on Alert</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
  <p class="updated_time"> 04:35 PM CT, Feb. 27 </p> 
@@ -215,6 +217,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:38 PM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/nyc-to-end-vaccine-requirements-school-mask-mandate-on-march-7-00012158">NYC to end school mask mandate, vaccine requirements on March 7</a> Politico: Adams set the target date after Hochul announced the lifting of a statewide mask mandate for schools, leaving it up to local districts to decide whether to keep their face covering rules. 
+ <p class="updated_time"> 04:46 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
  <p class="updated_time"> 04:30 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/trump-speech-cpac-fact-check.html">At CPAC, Trump Misleads About Biden, a Russian Pipeline and Gas Prices</a> NYT: The former president made inaccurate claims about his border wall, the Biden administration and a Russian pipeline, among other topics. 
  <p class="updated_time"> 04:24 PM CT, Feb. 27 </p> 
@@ -223,8 +229,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083379284/montgomery-ala-mayor-on-leading-the-city-through-the-voting-rights-battle">Montgomery, Ala., mayor on leading the city through the voting rights battle</a> NPR: NPR's Michel Martin speaks with Steven Reed, the first Black mayor of Montgomery, Ala. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083379277/sen-sullivan-supports-sending-more-military-aid-to-ukraine">Sen. Sullivan supports sending more military aid to Ukraine</a> NPR: NPR's Michel Martin speaks with Sen. Dan Sullivan (R-Alaska) about the Russian invasion of Ukraine. 
- <p class="updated_time"> 03:33 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
  <p class="updated_time"> 03:11 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/kyivs-mayor-klitschko-encircled-but-full-of-fight-00012152">Kyiv’s mayor: ‘We are encircled’ but full of fight</a> Politico: “We show our character, our knowledge, our values," Vitali Klitschko said. 
  <p class="updated_time"> 03:03 PM CT, Feb. 27 </p> 
@@ -271,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/cpac-trump-gop-presidential-contenders-00012097">At CPAC, Trump delivers a reminder of his muscle</a> Politico: CPAC offered a powerful rejoinder to those who believe the former president's influence over the GOP is waning. 
  <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
- <p class="updated_time"> 06:32 AM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/north-korea-fires-ballistic-missile-in-resumption-of-testing-00012103">North Korea fires ballistic missile in resumption of testing</a> Politico: The missile launch was the eighth of its kind this year. 
  <p class="updated_time"> 06:08 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 06:00 AM CT, Feb. 27 </p> 
