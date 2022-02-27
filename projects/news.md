@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:27 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 08:50 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
@@ -32,6 +32,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 04:10 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
+ <p class="updated_time"> 03:54 PM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU, U.K., Canada, U.S. Plan to Cut Some Russian Banks From Swift</a> WSJ: Group will also take measures to paralyze the activities of Russia’s central bank in the latest response to the Kremlin’s attack on Ukraine. 
  <p class="updated_time"> 03:35 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 03:33 PM CT, Feb. 26 </p> 
@@ -42,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:36 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
- <p class="updated_time"> 02:27 PM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU, U.K., Canada, U.S. Plan to Cut Some Russian Banks From Swift</a> WSJ: Group will also take measures to paralyze the activities of Russia’s central bank in the latest response to the Kremlin’s attack on Ukraine. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540341?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The women making Molotov cocktails to defend their city</a> BBC: The BBC's Sarah Rainsford visits Dnipro, where women are making Molotov cocktails to defend the city. 
  <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
@@ -214,8 +214,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/science/pacific-spiny-lumpsucker-fish.html">The Pacific Spiny Lumpsucker Is Armed to the Teeth</a> NYT: The diminutive predator is a terrible swimmer but thrives in the intertidal zone thanks to odd evolutionary adaptation. 
  <p class="updated_time"> 08:46 AM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/books/andrey-kurkov-ukraine-war.html">A Humorous Ukrainian Writer, With Nothing to Laugh About</a> NYT: Andrey Kurkov wrote about fighting between Russia and Ukraine long before Thursday’s invasion. But now, more than ever, he wants to explain it to the world. 
- <p class="updated_time"> 08:22 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/covid-vaccination-rate.html">U.S. First Time Vaccination Rates Are At a New Low</a> NYT: As the country is on course to live with the coronavirus, the vaccination drive is vanishing. 
  <p class="updated_time"> 06:43 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60525725?at_medium=RSS&at_campaign=KARANGA">BBC Ukrainian editor: My son and I packed, and just left Kyiv</a> BBC: Marta Shokalo, of the BBC Ukrainian Service, describes her decision to leave the capital for the countryside. 
  <p class="updated_time"> 05:35 AM CT, Feb. 25 </p> 
@@ -229,10 +227,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:50 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Europe Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
  <p class="updated_time"> 08:26 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">At CPAC, Ukraine and Policy Take a Back Seat to Cultural Grievances</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
- <p class="updated_time"> 06:31 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Key Allies Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
  <p class="updated_time"> 05:39 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
