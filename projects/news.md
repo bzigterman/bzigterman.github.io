@@ -8,9 +8,13 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:01 PM CT, Feb. 27 </p> 
+ <p class="updated_time"> 12:27 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine Agrees to Talks with Russia, as Putin Places Nuclear Forces on Alert</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
- <p class="updated_time"> 12:00 PM CT, Feb. 27 </p> 
+ <p class="updated_time"> 12:22 PM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60543995?at_medium=RSS&at_campaign=KARANGA">How badly will Russia be hit by new sanctions?</a> BBC: The latest financial measures against Russia for invading Ukraine had been seen as a 'last resort'. 
+ <p class="updated_time"> 12:08 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-military-budget-russia-ukraine.html">Germany Announces Increase in Defense Spending Amid Russia's Ukraine Invasion</a> NYT: Chancellor Olaf Scholz announced a major increase to Germany’s defense budget, a shift in longstanding policy. 
+ <p class="updated_time"> 12:04 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/us-putin-nuclear-alert.html">US Deflects Putin’s Nuclear Alert as Another Effort at Escalation</a> NYT: Both countries have various levels of alert, and it was unclear how Putin’s wording would be implemented by Russian nuclear forces. 
  <p class="updated_time"> 11:51 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: The ban on all Russian-registered planes is in response to the Kremlin's invasion of Ukraine. 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 09:42 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083363518/ukrainian-soldiers-who-profanely-told-off-russian-warship-may-be-alive-officials">Ukrainian soldiers who profanely told off Russian warship may be alive, officials say</a> NPR: Last week, a Russian warship approached Snake Island and asked the Ukrainian forces there to surrender. The response from Ukraine was simple: "Russian warship. Go f*** yourself." 
- <p class="updated_time"> 09:37 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-military-budget-russia-ukraine.html">Germany Announces Increase in Defense Spending Amid Russia's Ukraine Invasion</a> NYT: Chancellor Olaf Scholz announced a major increase to Germany’s defense budget, a shift in longstanding policy. 
  <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
  <p class="updated_time"> 09:10 AM CT, Feb. 27 </p> 
@@ -70,16 +72,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60530082?at_medium=RSS&at_campaign=KARANGA">Should the West arm a Ukrainian resistance?</a> BBC: Western nations are debating how far they should support a possible Ukrainian insurgency. 
  <p class="updated_time"> 05:37 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and troops are now in northern districts of the capital Kyiv. 
- <p class="updated_time"> 04:49 AM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-60543995?at_medium=RSS&at_campaign=KARANGA">How badly will Russia be hit by new sanctions?</a> BBC: The latest financial measures against Russia for invading Ukraine had been seen as a 'last resort'. 
+ <p class="updated_time"> 05:21 AM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216">Ukrainian Forces Hold Kyiv as Talks With Russia Are Planned</a> WSJ: Ukrainian forces defended the capital on the fourth day of Russia’s invasion and engaged in urban combat in Ukraine’s second-largest city as Western governments stepped up their sanctions against Moscow. 
  <p class="updated_time"> 03:02 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60521822?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What is Swift and why is banning Russia so significant?</a> BBC: Some Russian banks will be banned from the Swift financial network but what impact will this have? 
  <p class="updated_time"> 02:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 01:44 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083353689/russian-troops-enter-ukraines-2nd-largest-city-kharkiv-as-invasion-continues">After a night of heavy fighting, Ukrainian officials say they still control Kharkiv</a> NPR: Street fighting broke out early Sunday in Kharkiv as Russian troops pushed into Ukraine's second-largest city, according to a regional official as the capital, Kiev, continued to hold out. 
+ <p class="updated_time"> 01:00 AM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/hong-kongs-covid-19-regime-sparks-rush-for-exit-by-spooked-residents-11645963200">Hong Kong's Covid-19 Regime Sparks Rush for Exit by Spooked Residents</a> WSJ: School closures, mandatory tests and the threat of isolation in government facilities prove the final straw after two years of stringent pandemic controls that still failed to halt an Omicron outbreak in the city. 
  <p class="updated_time"> 12:49 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60540342?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Protests held across the globe</a> BBC: From London to Buenos Aires, thousands are gathering to protest Russia's invasion of Ukraine. 
+ <p class="updated_time"> 12:47 AM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/germany-to-raise-defense-spending-above-2-of-gdp-11645959425">Germany to Raise Defense Spending Above 2% of GDP</a> WSJ: The nation will boost defense spending and create a strategic natural-gas reserve, Chancellor Olaf Scholz said, marking a significant shift in reaction to Russia’s war in Ukraine. 
  <p class="updated_time"> 12:42 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083352647/north-korea-fires-ballistic-missile-in-resumption-of-testing">North Korea fires ballistic missile in resumption of testing </a> NPR: North Korea launched a ballistic missile into the sea on Sunday, its neighbors said. It was the eighth of its kind this year and comes as U.S. attention is focused on the Russian invasion of Ukraine. 
  <p class="updated_time"> 11:14 PM CT, Feb. 26 </p> 
@@ -102,8 +108,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/26/1083314709/protests-world-ukraine-russia">Antiwar protesters take to the streets around the world in support of Ukraine</a> NPR: In cities across continents, protesters are standing in solidarity against the Russian invasion of Ukraine and condemning Russian President Vladimir Putin. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
- <p class="updated_time"> 03:54 PM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU, U.K., Canada, U.S. Plan to Cut Some Russian Banks From Swift</a> WSJ: Group will also take measures to paralyze the activities of Russia’s central bank in the latest response to the Kremlin’s attack on Ukraine. 
  <p class="updated_time"> 03:20 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60541752?at_medium=RSS&at_campaign=KARANGA">Germany to send weapons directly to Ukraine</a> BBC: The move reverses Germany's long-standing policy banning weapon exports to conflict zones. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
@@ -120,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60539104?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Children on their own, parents stay behind</a> BBC: Mothers and grandmothers lead their children into the unknown as men aged 18 - 60 must stay behind. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
- <p class="updated_time"> 12:19 PM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-assault-on-ukraine-presses-forward-as-street-battles-rage-in-kyiv-11645864200">Ukrainian Forces Repel Russian Attack on Kyiv</a> WSJ: Thousands of civilians take up arms to help defend the capital, while Russian forces face fierce resistance throughout Ukraine. 
  <p class="updated_time"> 12:14 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60533083?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russia restricts social media access</a> BBC: Connectivity watchers accuse Moscow of "limiting the free flow of information at a time of crisis". 
  <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008227906/ukraine-civilians-military-video.html">‘I’m Ready’: Ukraine’s Civilians Take Up Arms</a> NYT: Volunteer fighters armed with assault rifles patrolled central Kyiv on Friday, ready to defend their country. 
  <p class="updated_time"> 08:12 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539193?at_medium=RSS&at_campaign=KARANGA">Zelensky's defiant response to invasion... in 100 seconds</a> BBC: Ukrainian's President Volodymyr Zelensky is standing firm against Russian aggression. 
- <p class="updated_time"> 07:34 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/ordinary-ukrainians-rally-to-defend-homeland-from-russia-11645900464">Ordinary Ukrainians Rally to Defend Homeland From Russia</a> WSJ: Thousands of Ukrainian civilian fighters volunteer their service, including many from abroad, as authorities in Kyiv distribute rifles and others assemble Molotov cocktails and coordinate support. 
  <p class="updated_time"> 06:52 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538563?at_medium=RSS&at_campaign=KARANGA">BBC Russian reporter in Kyiv: The day the war began</a> BBC: BBC Russian's Ilya Barabanov describes waking up in Kiev on the morning Russia invaded Ukraine. 
  <p class="updated_time"> 06:32 AM CT, Feb. 26 </p> 
@@ -160,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60536618?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'No war please' message from Russian tennis star Rublev</a> BBC: Andrey Rublev writes a plea for peace on a camera lens at the Dubai Tennis Championship. 
  <p class="updated_time"> 05:47 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-diplomacy.html">State Dept. Says Moscow’s Ukraine Diplomacy Was a ‘Pretense’</a> NYT: Officials in the Biden administration met repeatedly with Russian emissaries as the threat of an invasion of Ukraine grew more apparent. 
- <p class="updated_time"> 05:46 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/chrystia-freeland-vladimir-putin.html">A Canadian Leader with Ukrainian Roots Ranks Putin as One of Most ‘Reviled European Dictators.’</a> NYT: Canada has a large population with Ukrainian roots, including Chrystia Freeland, the deputy prime minister, whose interest in Ukrainian independence dates to the Soviet era. 
  <p class="updated_time"> 05:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/canada/ottawa-trucker-protests.html">With Trucks and Protesters Gone, What's Next For Ottawa?</a> NYT: Streets remained blocked in Ottawa, and many issues, including compensation for those who lost income during the protests, are unresolved. 
  <p class="updated_time"> 04:53 AM CT, Feb. 26 </p> 
@@ -221,6 +219,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
  <p class="updated_time"> 12:21 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/un-thomas-greenfield-russia-pain-00012128">Russia ‘will feel the pain,’ Thomas-Greenfield says</a> Politico: “We will escalate as the Russians escalate," America's ambassador to the U.N. said. 
  <p class="updated_time"> 12:00 PM CT, Feb. 27 </p> 
