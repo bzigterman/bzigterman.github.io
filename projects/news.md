@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
  <p class="updated_time"> 03:05 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: The latest Western intelligence reports indicated that the Russian advance had been slowed, if only temporarily, by intense resistance from Ukrainian troops and civilian volunteers. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 03:02 AM CT, Feb. 27 </p> 
@@ -69,7 +71,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/26/1083312750/people-fleeing-ukraine-cross-into-romania">People fleeing Ukraine cross into Romania</a> NPR: As Russia invades their country, Ukrainians fleeing conflict are crossing into bordering nations. Satellite images show miles of cars and trucks waiting to cross into Romania. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Ukraine's Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Ukraine's Volodymyr Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
  <p class="updated_time"> 01:38 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
  <p class="updated_time"> 01:08 PM CT, Feb. 26 </p> 
@@ -94,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60540340?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Thousands of people try to force their way onto a train to Poland</a> BBC: Fergal Keane described the scenes from a packed platform, as a mother and child are caught in the crush. 
  <p class="updated_time"> 10:07 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083297655/ukrainians-adjust-to-the-new-reality-of-war">Ukrainians adjust to the new reality of war </a> NPR: Ukrainian reporter Andriy Kulykov speaks with NPR about the developments overnight in Kyiv and how citizens are feeling toward the U.S. and President Biden now that Russian troops are advancing. 
- <p class="updated_time"> 09:39 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: More countries issue airspace ban on Russian planes</a> BBC: Estonia, Latvia and Slovenia join Bulgaria, Poland, the Czech Republic and the UK in announcing curbs. 
  <p class="updated_time"> 09:15 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083291122/russia-ukraine-facebook-twitter">Facebook, YouTube and Twitter limit ads over Russia's invasion of Ukraine</a> NPR: The moves come as U.S. tech platforms are under pressure to take a stronger stance against Russia and limit disinformation. 
  <p class="updated_time"> 09:12 AM CT, Feb. 26 </p> 
@@ -250,7 +250,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:15 PM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/russian-troops-invading-ukraine-00012089">Half of Russian troops amassed around Ukraine now invading, U.S. says</a> Politico: Moscow called on “all units” to move into Ukraine in the coming days, as NATO begins a rapid resupply effort to deliver weapons. 
  <p class="updated_time"> 11:51 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/leonard-peltier-clemency-native-american.html">Supporters Seek Clemency for Leonard Peltier, Native American Activist</a> NYT: Leonard Peltier, sentenced to two life terms 45 years ago in the shooting of two F.B.I. agents, is now 77 and in poor health. 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/leonard-peltier-clemency-native-american.html">Supporters Seek Clemency for Native American Activist Convicted in Killings</a> NYT: Leonard Peltier, sentenced to two life terms 45 years ago in the shooting of two F.B.I. agents, is now 77 and in poor health. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
  <p class="updated_time"> 09:39 AM CT, Feb. 26 </p> 
@@ -339,8 +339,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/25/scoop-trump-tries-to-recruit-scott-for-majority-leader-00011720"> Scoop: Trump tries to recruit Scott for majority leader</a> Politico Playbook: And Russian forces enter Kyiv. 
  <p class="updated_time"> 06:01 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/house-democrats-donald-trump-investigation-00011686">House Dems step up investigation into Trump’s handling of sensitive records</a> Politico: Rep. Carolyn Maloney is asking the National Archives to provide information about top Trump advisers’ discussions about preserving and storing White House records. 
- <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/trump-classified-information.html">House Panel Widens Investigation of Trump’s Handling of Documents</a> NYT: The Oversight Committee asked the National Archives to detail material the former president took with him when he left office, including classified documents and anything he “destroyed” or “mutilated.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
