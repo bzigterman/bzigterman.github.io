@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:51 PM CT, Feb. 27 </p> 
+ <p class="updated_time"> 01:03 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine Agrees to Talks with Russia, as Putin Places Nuclear Forces on Alert</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
+ <p class="updated_time"> 12:55 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/volodymyr-zelensky-ukraine-russia.html">How Zelensky Rallied Ukrainians, and the World, Against Putin</a> NYT: Mr. Zelensky’s decision to remain in the capital, Kyiv, while it’s under Russian attack has moved many. 
  <p class="updated_time"> 12:22 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60543995?at_medium=RSS&at_campaign=KARANGA">How badly will Russia be hit by new sanctions?</a> BBC: The latest financial measures against Russia for invading Ukraine had been seen as a 'last resort'. 
  <p class="updated_time"> 12:08 PM CT, Feb. 27 </p> 
@@ -40,6 +42,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/south-korea-records-its-deadliest-day-of-the-pandemic.html">South Korea Records Deadliest Day of Pandemic</a> NYT: A grim milestone is reached a few days after the nation topped 170,000 new cases in a single day. 
+ <p class="updated_time"> 07:57 AM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-sanctions-over-ukraine-largely-spare-energy-sector-vital-to-europe-11645970890">Russia Sanctions Over Ukraine Largely Spare Energy Sector, Vital to Europe</a> WSJ: Exemptions let Europe keep buying Russian gas and oil, moderating prices while maintaining a major revenue stream for Moscow. 
  <p class="updated_time"> 07:45 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361185/some-ukrainians-are-returning-from-abroad-to-help-military-efforts-in-their-coun">Some Ukrainians are returning from abroad to help military efforts in their country</a> NPR: Some Ukrainians who crossed the border into Poland are returning to Ukraine to enlist in the military and fight Russian invaders. 
  <p class="updated_time"> 07:27 AM CT, Feb. 27 </p> 
@@ -56,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083361108/russia-continues-to-advance-on-kyiv-in-attempt-to-topple-ukrainian-government">Russia continues to advance on Kyiv in attempt to topple Ukrainian government</a> NPR: Ukraine is on guard for another Russian offensive today. 
  <p class="updated_time"> 06:34 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60546011?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Citizen volunteers take up arms to fight Russian invasion</a> BBC: Thousands of Ukrainian citizens are volunteering to fight, including many with no military experience. 
- <p class="updated_time"> 06:15 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
  <p class="updated_time"> 06:13 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083359982/snl-cold-open-ukraine-chorus">SNL offers a 'Prayer for Ukraine' in its cold open</a> NPR: "Saturday Night Live" normally kicks off each show with some humor, but the comedy sketch series opened with a tribute performance to Ukraine, which is dealing with an invasion from Russia. 
  <p class="updated_time"> 06:08 AM CT, Feb. 27 </p> 
@@ -80,6 +82,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 01:44 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083353689/russian-troops-enter-ukraines-2nd-largest-city-kharkiv-as-invasion-continues">After a night of heavy fighting, Ukrainian officials say they still control Kharkiv</a> NPR: Street fighting broke out early Sunday in Kharkiv as Russian troops pushed into Ukraine's second-largest city, according to a regional official as the capital, Kiev, continued to hold out. 
+ <p class="updated_time"> 01:00 AM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/as-omicron-surges-covid-contact-tracers-face-an-unexpected-problem-much-less-work-11645963201">As Omicron Surges, Contact Tracers Face an Unexpected Problem: Much Less Work</a> WSJ: For the past two years, contact tracers have skipped meals, power napped at their desks and sprinted to the sites of Covid-19 cases at all hours. Now Omicron is here, many are doing a lot less, despite facing more cases than ever. 
  <p class="updated_time"> 01:00 AM CT, Feb. 27 </p> 
  <a href="https://www.wsj.com/articles/hong-kongs-covid-19-regime-sparks-rush-for-exit-by-spooked-residents-11645963200">Hong Kong's Covid-19 Regime Sparks Rush for Exit by Spooked Residents</a> WSJ: School closures, mandatory tests and the threat of isolation in government facilities prove the final straw after two years of stringent pandemic controls that still failed to halt an Omicron outbreak in the city. 
  <p class="updated_time"> 12:49 AM CT, Feb. 27 </p> 
@@ -112,8 +116,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60541752?at_medium=RSS&at_campaign=KARANGA">Germany to send weapons directly to Ukraine</a> BBC: The move reverses Germany's long-standing policy banning weapon exports to conflict zones. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
- <p class="updated_time"> 02:58 PM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11645918029">North Korea Launches Suspected Ballistic Missile</a> WSJ: Pyongyang restarted weapons tests after nearly a month of inaction. The single missile traveled around 185 miles before splashing into the waters between Korea and Japan. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540341?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The women making Molotov cocktails to defend their city</a> BBC: The BBC's Sarah Rainsford visits Dnipro, where women are making Molotov cocktails to defend the city. 
  <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
@@ -168,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">Facial Recognition at Airports: What You Need to Know</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
- <p class="updated_time"> 03:00 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-energy-dominance-ties-wests-hands-in-ukraine-war-11645884001">Russia's Energy Dominance Ties West's Hands in Ukraine War</a> WSJ: Europe gets about 40% of its natural-gas imports from Russia, making it hard to sanction a sector that is a vital source of revenue for Moscow. 
  <p class="updated_time"> 12:15 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/north-south-korea-russia-us-ukraine.html">On Both Sides of Korean Peninsula, Eyes on Washington's Response to Russia</a> NYT: North Korea might decide it’s time to resume weapons tests, to gain more diplomatic leverage with Washington. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
