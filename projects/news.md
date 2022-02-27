@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:04 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: The latest Western intelligence reports indicated that the Russian advance had been slowed, if only temporarily, by intense resistance from Ukrainian troops and civilian volunteers. The Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 05:04 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russian Forces Press Toward Cities, as Ukraine Stiffens Resistance</a> NYT: Ukrainian troops and civilian volunteers battled to keep control of Kharkiv, the second-largest city. The Russian priority remained the capture of Kyiv, which observed a daylong curfew as explosions were heard from the outskirts. 
+ <p class="updated_time"> 04:57 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
  <p class="updated_time"> 04:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
- <p class="updated_time"> 03:38 AM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
  <p class="updated_time"> 03:02 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60521822?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What is Swift and why is banning Russia so significant?</a> BBC: Some Russian banks will be banned from the Swift financial network but what impact will this have? 
  <p class="updated_time"> 02:00 AM CT, Feb. 27 </p> 
