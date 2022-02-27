@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 AM CT, Feb. 27 </p> 
+ <a href="https://www.npr.org/2022/02/27/1083353689/russian-troops-enter-ukraines-2nd-largest-city-kharkiv-as-invasion-continues">Russian troops enter Ukraine's 2nd largest city Kharkiv as invasion continues</a> NPR: Street fighting broke out early Sunday in Kharkiv as Russian troops pushed into Ukraine's second-largest city, according to a regional official as the capital, Kiev, continued to hold out. 
  <p class="updated_time"> 01:28 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: Intense street fighting continued across the capital on Sunday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 01:15 AM CT, Feb. 27 </p> 
@@ -154,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russias-energy-dominance-ties-wests-hands-in-ukraine-war-11645884001">Russia's Energy Dominance Ties West's Hands in Ukraine War</a> WSJ: Europe gets about 40% of its natural-gas imports from Russia, making it hard to sanction a sector that is a vital source of revenue for Moscow. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">The U.S. sanctions on Russian oligarchs miss the richest of the rich</a> NPR: The sanctions may do little to dim the jet-setting lifestyles of Russia's ultra-rich and infamous – much less force a withdrawal of tanks and troops. 
- <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083275522/indonesia-earthquake-search-victims">Searchers dig into the rubble after an earthquake hit Indonesia</a> NPR: A strong earthquake shook Sumatra island, killing eight people, injuring 86 and leaving thousands displaced. 
  <p class="updated_time"> 12:15 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/north-south-korea-russia-us-ukraine.html">On Both Sides of Korean Peninsula, Eyes on Washington's Response to Russia</a> NYT: North Korea might decide it’s time to resume weapons tests, to gain more diplomatic leverage with Washington. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
