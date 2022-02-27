@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:48 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 07:53 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 07:40 PM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60542433?at_medium=RSS&at_campaign=KARANGA">West to cut some Russian banks off from Swift</a> BBC: The EU, US and allies will block a number of Russian banks from the main global payment system, Swift. 
+ <p class="updated_time"> 07:38 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
+ <p class="updated_time"> 07:25 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and  paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
+ <p class="updated_time"> 06:56 PM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60506765?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: How Russia forged closer ties with Africa</a> BBC: Russia has rebuilt military and diplomatic links with the continent in its search for new allies. 
  <p class="updated_time"> 06:42 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: It was the North’s eighth missile test of the year, after a hiatus of several weeks. Few details were immediately available. 
- <p class="updated_time"> 06:34 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-60542433?at_medium=RSS&at_campaign=KARANGA">West to cut some Russian banks off from Swift</a> BBC: The EU, US and allies will cut off a number of Russian banks from main global payment system Swift. 
- <p class="updated_time"> 06:03 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
  <p class="updated_time"> 05:54 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083314709/protests-world-ukraine-russia">Antiwar protesters take to the streets around the world in support of Ukraine</a> NPR: In cities across continents, protesters are standing in solidarity against the Russian invasion of Ukraine and condemning Russian President Vladimir Putin. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 04:10 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60536030?at_medium=RSS&at_campaign=KARANGA">Poland boycotts Russia World Cup game over invasion</a> BBC: Poland will boycott their World Cup play-off against Russia in March because of the invasion of Ukraine, with captain Robert Lewandowski saying "we can't pretend that nothing is happening". 
- <p class="updated_time"> 03:37 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and  paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 03:35 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 03:33 PM CT, Feb. 26 </p> 
@@ -40,6 +42,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:36 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
+ <p class="updated_time"> 02:27 PM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU, U.K., Canada, U.S. Plan to Cut Some Russian Banks From Swift</a> WSJ: Group will also take measures to paralyze the activities of Russia’s central bank in the latest response to the Kremlin’s attack on Ukraine. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540341?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The women making Molotov cocktails to defend their city</a> BBC: The BBC's Sarah Rainsford visits Dnipro, where women are making Molotov cocktails to defend the city. 
  <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
@@ -50,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
  <p class="updated_time"> 01:33 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540903?at_medium=RSS&at_campaign=KARANGA">Swift payments crackdown on Russia edges closer</a> BBC: Germany, the main opponent of excluding Russia from the Swift banking system, now says it favours curbs. 
- <p class="updated_time"> 01:10 PM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU, U.K., Canada, U.S. to Cut Some Russian Banks From Swift</a> WSJ: Group will also take measures to paralyze the activities of Russia’s central bank in the latest response to the Kremlin’s attack on Ukraine. 
  <p class="updated_time"> 01:08 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539104?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Children on their own, parents stay behind</a> BBC: Mothers and grandmothers lead their children into the unknown as men aged 18 - 60 must stay behind. 
  <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
@@ -155,7 +157,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
  <p class="updated_time"> 11:33 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/26/1083270999/ukraine-russia-swift-sanctions">Select Russian banks are being booted off the SWIFT bank messaging system</a> NPR: The U.S. and European allies are ramping up sanctions against Russia by moving to cut off certain Russian banks from the key bank messaging system. 
+ <a href="https://www.npr.org/2022/02/26/1083270999/ukraine-russia-swift-sanctions">Select Russian banks are being booted off the SWIFT bank messaging system</a> NPR: The U.S. and European allies are ramping up sanctions against Russia that include moving to cut off certain Russian banks from the key bank messaging system. 
  <p class="updated_time"> 10:44 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/kharkiv-ukraine-military.html">As Troops Battle Outside Kharkiv, Residents Shelter Underground</a> NYT: Ukrainian troops dug in around the nation’s second-largest city a day after a fight to push back advancing Russian forces. 
  <p class="updated_time"> 10:24 PM CT, Feb. 25 </p> 
@@ -268,6 +270,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/25/biden-going-easy-russia-energy-00011822">Why Biden is going easy on Russia's energy industry</a> Politico: U.S. and European dependence on Russian oil and gas is tempering the push for harsh sanctions on Russian President Vladimir Putin's regime. 
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
+ <a href="https://www.politico.com/news/2022/02/26/china-sees-strategic-advantage-in-russias-ukraine-invasion-00012032">China sees strategic advantage in Russia’s Ukraine invasion</a> Politico: The Chinese government has made clear that it will remain a strategic ally of Russia despite President Vladimir Putin being viewed globally as the aggressor in the war. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/soggy-salad-has-replaced-mystery-meat-at-nyc-schools-on-vegan-fridays-00011730">Soggy salad has replaced mystery meat at NYC schools on Vegan Fridays</a> Politico: The program's problems are reflective of broader challenges to bring healthier food to public school students across the nation. 
  <p class="updated_time"> 06:59 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283216/week-in-politics-biden-sanctions-russia-first-black-woman-named-to-supreme-court">Week in politics: Biden sanctions Russia; first Black woman named to Supreme Court</a> NPR: The Biden administration responds to Russia's invasion of Ukraine, and the president announces his historic pick to replace Justice Stephen Breyer on the Supreme Court. 
@@ -343,8 +347,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/house-democrats-donald-trump-investigation-00011686">House Dems step up investigation into Trump’s handling of sensitive records</a> Politico: Rep. Carolyn Maloney is asking the National Archives to provide information about top Trump advisers’ discussions about preserving and storing White House records. 
  <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/vladimir-putin-war-reaction-00011703">Putin’s new war, inside and out</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to Ukrainian journalist Nataliya Gumenyuk and Russian journalist Uliana Pavlova about Vladimir Putin’s invasion of Ukraine and the reaction in both countries. 
- <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/kevin-mccarthy-primary-texas-00011683">The primary foreshadowing the future of the GOP</a> Politico: Kevin McCarthy and a rabble-rousing set of House Republicans have lined up on opposite sides of a big primary in Texas. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
