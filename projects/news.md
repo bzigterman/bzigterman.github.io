@@ -8,22 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:23 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/nyregion/new-york-mask-mandate-schools.html">New York Ends Its Mask Mandate for Schools</a> NYT: Gov. Kathy Hochul announced an end to the statewide mandate, but empowered school districts to determine their own mask policies. 
+ <p class="updated_time"> 04:05 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine Agrees to Talks with Russia, as Putin Places Nuclear Forces on Alert</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
+ <p class="updated_time"> 04:03 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-russia-preparation-fight.html">‘I’m a Soldier Now.’ Even in Untouched Villages, Ukrainians Prepare to Fight</a> NYT: In cities and towns in Central Ukraine that have not yet heard the boom of Russian artillery fire, residents spent the weekend preparing furiously for the possibly of an attack. 
+ <p class="updated_time"> 04:01 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-uk-expat-fighters.html">Ukrainians in Britain Take Up the Cause Back Home</a> NYT: Whether vowing to kill Russians or offering medical supplies, Ukrainian citizens are too impatient to sit idly by. 
+ <p class="updated_time"> 04:00 PM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: The ban on all Russian-registered planes is in response to the Kremlin's invasion of Ukraine. 
+ <p class="updated_time"> 03:55 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
+ <p class="updated_time"> 03:46 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/nyregion/new-york-mask-mandate-schools.html">New York Ends Its Mask Mandate for Schools</a> NYT: Gov. Kathy Hochul said the statewide mandate would end on Wednesday, but empowered local officials to determine their own mask policies. 
+ <p class="updated_time"> 03:35 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities has drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
+ <p class="updated_time"> 03:29 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/european-union-ukrainian-refugees-asylum.html">EU Will Ask States to Grant Asylum to Ukrainian Refugees for Up to 3 Years</a> NYT: More than 300,000 people have fled into the European Union since Russia invaded Ukraine on Thursday, the bloc said, and it is expecting millions more. 
  <p class="updated_time"> 03:22 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-russia-hungary-orban.html">Ukraine War Forces Hungary’s Orban Into Political Contortions</a> NYT: The pro-Russia, anti-immigrant Hungarian prime minister, who denounced any sanctions against Russia just weeks ago, has been forced to reverse himself as an election looms. 
- <p class="updated_time"> 03:22 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine Agrees to Talks with Russia, as Putin Places Nuclear Forces on Alert</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
- <p class="updated_time"> 03:19 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/the-european-union-will-ask-states-to-grant-asylum-to-ukrainian-refugees-for-up-to-3-years.html">The European Union will ask states to grant asylum to Ukrainian refugees for up to 3 years.</a> NYT: More than 300,000 people have fled into the European Union since Russia invaded Ukraine on Thursday, the bloc said, and it is expecting millions more. 
  <p class="updated_time"> 02:34 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60549132?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugee's tearful description of why she fled</a> BBC: Zhanna Gavrilenko spoke to the BBC's Mark Lowen near the Ukrainian-Polish border. 
  <p class="updated_time"> 02:15 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60549916?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin's war prompts dramatic German U-turn</a> BBC: Germany's new chancellor announces a massive increase in military spending as anti-war crowds gather. 
  <p class="updated_time"> 02:03 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/bp-oil-rosneft.html">BP to 'Exit' Stake in Russian Oil Giant Rosneft</a> NYT: Russian holdings may become toxic for the Western oil industry. 
- <p class="updated_time"> 02:03 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities has drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
  <p class="updated_time"> 01:49 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: The E.U. and Canada barred Russian planes in response to the invasion of Ukraine. 
  <p class="updated_time"> 12:55 PM CT, Feb. 27 </p> 
@@ -36,10 +44,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-military-budget-russia-ukraine.html">Germany Announces Increase in Defense Spending Amid Russia's Ukraine Invasion</a> NYT: Chancellor Olaf Scholz announced a major increase to Germany’s defense budget, a shift in longstanding policy. 
  <p class="updated_time"> 12:04 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/us-putin-nuclear-alert.html">US Deflects Putin’s Nuclear Alert as Another Effort at Escalation</a> NYT: Both countries have various levels of alert, and it was unclear how Putin’s wording would be implemented by Russian nuclear forces. 
- <p class="updated_time"> 11:51 AM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: The ban on all Russian-registered planes is in response to the Kremlin's invasion of Ukraine. 
  <p class="updated_time"> 11:38 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
+ <p class="updated_time"> 10:51 AM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216">Ukrainian Forces Hold Kyiv as Talks With Russia Are Planned</a> WSJ: Russian troops faced fierce resistance in Ukraine, while Western responses against Moscow mounted and Putin put nuclear forces on alert. 
  <p class="updated_time"> 10:50 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083368793/ukraine-russia-negotiations-belarus">Ukrainian and Russian negotiators agree to hold talks in Belarus</a> NPR: Ukrainian President Volodymyr Zelensky's office said a delegation of the Ukrainian government will meet for talks with Russian officials near the Pripyat River in Belarus. 
  <p class="updated_time"> 10:25 AM CT, Feb. 27 </p> 
@@ -56,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/asia/australia-flood-queensland.html">Flooding in Brisbane and Northeast Australia Leaves at Least 7 Dead</a> NYT: Several days of downpours have pummeled Queensland, with flooding worsening in the state capital, Brisbane. The state premier described the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 08:29 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
- <p class="updated_time"> 08:26 AM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216">Ukrainian Forces Hold Kyiv as Talks With Russia Are Planned</a> WSJ: Ukrainian forces defended the capital on the fourth day of Russia’s invasion and engaged in urban combat in Ukraine’s second-largest city as Western governments stepped up their sanctions against Moscow. 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/south-korea-records-its-deadliest-day-of-the-pandemic.html">South Korea Records Deadliest Day of Pandemic</a> NYT: A grim milestone is reached a few days after the nation topped 170,000 new cases in a single day. 
  <p class="updated_time"> 07:57 AM CT, Feb. 27 </p> 
@@ -66,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083361185/some-ukrainians-are-returning-from-abroad-to-help-military-efforts-in-their-coun">Some Ukrainians are returning from abroad to help military efforts in their country</a> NPR: Some Ukrainians who crossed the border into Poland are returning to Ukraine to enlist in the military and fight Russian invaders. 
  <p class="updated_time"> 07:27 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361164/ukrainians-continue-to-flee-to-neighboring-countries">Ukrainians continue to flee to neighboring countries</a> NPR: Sarah McCammon talks to writer Kateryna Babkina about making her way to the Polish border from her home in Kyiv after Russia's attack. 
- <p class="updated_time"> 07:16 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 07:02 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60543994?at_medium=RSS&at_campaign=KARANGA">Russia central bank urges calm amid cash run fears</a> BBC: The Bank of Russia says it has enough liquidity to 'function smoothly' despite new sanctions. 
  <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
@@ -162,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60539193?at_medium=RSS&at_campaign=KARANGA">Zelensky's defiant response to invasion... in 100 seconds</a> BBC: Ukrainian's President Volodymyr Zelensky is standing firm against Russian aggression. 
  <p class="updated_time"> 06:52 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538563?at_medium=RSS&at_campaign=KARANGA">BBC Russian reporter in Kyiv: The day the war began</a> BBC: BBC Russian's Ilya Barabanov describes waking up in Kiev on the morning Russia invaded Ukraine. 
- <p class="updated_time"> 06:32 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/kyiv-attack-invasion.html">Ukraine Girds for Kyiv Attack Amid Signs of Slowing Russian Advance</a> NYT: President Volodymyr Zelensky warned in a video address that Russian “sabotage groups” had entered Kyiv with the aim of decapitating his government by “destroying the head of state.” 
  <p class="updated_time"> 06:10 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/greece-ferry-fire.html">8 Found Dead After Ferry Fire Off Greece as Grim Search Continues</a> NYT: The blaze aboard the Euroferry Olympia burned for most of a week. Hundreds of passengers were rescued, but at least three more are believed missing. 
  <p class="updated_time"> 05:47 AM CT, Feb. 26 </p> 
@@ -186,8 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/united-nations-russia-withdraw-ukraine.html">Russia Vetoes UN Security Council Resolution Calling on it to Withdraw from Ukraine</a> NYT: Eleven countries voted in favor of the U.S.-backed measure, and three abstained. 
  <p class="updated_time"> 08:34 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/zelensky-speech-video.html">In Video, a Defiant President Zelensky Says, ‘We Are Here’</a> NYT: The 44-year-old president of Ukraine videotaped himself in Kyiv as Russian forces closed in on the capital, vowing to fight them to the end. 
- <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 07:55 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60534641?at_medium=RSS&at_campaign=KARANGA">Ukraine: The mother putting on a smile despite fears for her family</a> BBC: Residents take to sheltering in basements for fear of Russian attacks in the Ukrainian city of Dnipro. 
  <p class="updated_time"> 07:53 PM CT, Feb. 25 </p> 
@@ -213,10 +213,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:24 PM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/un-general-assembly-emergency-session-russian-invasion-00012155">U.N. General Assembly to meet in rare emergency session on Russian invasion</a> Politico: It will be only the 11th such session in history. 
+ <p class="updated_time"> 03:33 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
  <p class="updated_time"> 03:11 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/kyivs-mayor-klitschko-encircled-but-full-of-fight-00012152">Kyiv’s mayor: ‘We are encircled’ but full of fight</a> Politico: “We show our character, our knowledge, our values," Vitali Klitschko said. 
- <p class="updated_time"> 03:07 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
  <p class="updated_time"> 03:03 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/psaki-biden-state-of-the-union-00012136">State of the Union address will be different, Psaki acknowledges</a> Politico: The Russia-Ukraine war will alter what the president will talk about. 
  <p class="updated_time"> 02:54 PM CT, Feb. 27 </p> 
@@ -256,11 +258,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361115/politics-chat-congress-unifies-in-denouncing-russia-supreme-court-nominee-chosen">Politics chat: Congress unifies in denouncing Russia; Supreme Court nominee chosen</a> NPR: America's political leaders have been denouncing Russia for its attack on Ukraine, with the occasional notable exception of  former President Donald Trump. 
  <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
+ <a href="https://www.politico.com/news/2022/02/27/cpac-gop-senate-candidates-00012096">How Orlando became the center of the universe for GOP Senate hopefuls</a> Politico: More than a dozen Republican candidates took time out this week for a Florida campaign detour. 
  <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/cpac-trump-gop-presidential-contenders-00012097">At CPAC, Trump delivers a reminder of his muscle</a> Politico: CPAC offered a powerful rejoinder to those who believe the former president's influence over the GOP is waning. 
  <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/cpac-gop-senate-candidates-00012096">How Orlando became the center of the universe for GOP Senate hopefuls</a> Politico: More than a dozen Republican candidates took time out this week for a Florida campaign detour. 
+ <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
  <p class="updated_time"> 06:32 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/north-korea-fires-ballistic-missile-in-resumption-of-testing-00012103">North Korea fires ballistic missile in resumption of testing</a> Politico: The missile launch was the eighth of its kind this year. 
  <p class="updated_time"> 06:08 AM CT, Feb. 27 </p> 
@@ -317,14 +319,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Will Senators Do?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/judge-ketanji-brown-jackson-supreme-court-donald-trump-00012026">That time Jackson shredded Trump in a federal court ruling</a> Politico: Liberals like what they see and conservatives express fears, but much of the jockeying about the nominee isn't really about her judicial record. 
- <p class="updated_time"> 05:59 PM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/ron-desantis-republicans-wait-your-turn-00012024">Republicans’ 2024 advice to DeSantis: Wait your turn</a> Politico: "If there was no Trump, there would be DeSantis and everyone else." 
  <p class="updated_time"> 04:33 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/texas-primary-ballot-rejections.html">Ballot Rejections in Texas Spike After New Voting Law</a> NYT: Ahead of Tuesday’s primary, about 30 percent of absentee ballots were rejected in the state’s most populous counties. In 2020, the statewide rejection rate was less than 1 percent. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
- <p class="updated_time"> 03:31 PM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/culture-wars-ukraine-cpac-00011717">At CPAC, Ukraine takes a back seat to the culture wars</a> Politico: The annual conservative political gathering offered a stark indicator of how far foreign policy has fallen on the Republican agenda. 
  <p class="updated_time"> 03:23 PM CT, Feb. 25 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
  <p class="updated_time"> 11:00 AM CT, Feb. 25 </p> 
