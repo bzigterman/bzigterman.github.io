@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:32 AM CT, Feb. 27 </p> 
+ <p class="updated_time"> 03:38 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
  <p class="updated_time"> 03:05 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: The latest Western intelligence reports indicated that the Russian advance had been slowed, if only temporarily, by intense resistance from Ukrainian troops and civilian volunteers. The Russian priority remained the capture of Kyiv. 
