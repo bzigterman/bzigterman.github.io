@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:06 AM CT, Feb. 27 </p> 
+ <p class="updated_time"> 01:17 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: Intense street fighting continued across the capital on Sunday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 01:15 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Fighting breaks out in Ukraine's second city Kharkiv</a> BBC: Local officials say light vehicles have entered the city, which is home to 1.4 million. 
  <p class="updated_time"> 12:49 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60540342?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Protests held across the globe</a> BBC: From London to Buenos Aires, thousands are gathering to protest Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:42 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083352647/north-korea-fires-ballistic-missile-in-resumption-of-testing">North Korea fires ballistic missile in resumption of testing </a> NPR: North Korea launched a ballistic missile into the sea on Sunday, its neighbors said. It was the eighth of its kind this year and comes as U.S. attention is focused on the Russian invasion of Ukraine. 
- <p class="updated_time"> 12:09 AM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions rock Kyiv and Ukraine second city Kharkiv</a> BBC: Reports say missiles hit a gas pipeline and a nine-storey building in Kharkiv, south of the capital. 
  <p class="updated_time"> 11:14 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/27/1083349928/russia-hits-ukraine-fuel-supplies-and-airfields-in-fresh-attacks">Russia hits Ukraine fuel supplies and airfields in fresh attacks</a> NPR: The latest wave of attacks targeted Ukrainian airfields and fuel supplies as the Russian invasion appears to have been blunted by fierce resistance even as the U.S. and EU send Ukraine more weapons. 
  <p class="updated_time"> 10:47 PM CT, Feb. 26 </p> 
@@ -226,7 +226,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:31 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">At CPAC, Ukraine and Policy Take a Back Seat to Cultural Grievances</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 10:50 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Europe Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
  <p class="updated_time"> 05:39 PM CT, Feb. 26 </p> 
@@ -339,6 +339,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/25/scoop-trump-tries-to-recruit-scott-for-majority-leader-00011720"> Scoop: Trump tries to recruit Scott for majority leader</a> Politico Playbook: And Russian forces enter Kyiv. 
  <p class="updated_time"> 06:01 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/house-democrats-donald-trump-investigation-00011686">House Dems step up investigation into Trump’s handling of sensitive records</a> Politico: Rep. Carolyn Maloney is asking the National Archives to provide information about top Trump advisers’ discussions about preserving and storing White House records. 
+ <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/trump-classified-information.html">House Panel Widens Investigation of Trump’s Handling of Documents</a> NYT: The Oversight Committee asked the National Archives to detail material the former president took with him when he left office, including classified documents and anything he “destroyed” or “mutilated.” 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
