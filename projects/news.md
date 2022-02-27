@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: The latest Western intelligence reports indicated that the Russian advance had been slowed, if only temporarily, by intense resistance from Ukrainian troops and civilian volunteers. The Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 03:38 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
- <p class="updated_time"> 03:05 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: The latest Western intelligence reports indicated that the Russian advance had been slowed, if only temporarily, by intense resistance from Ukrainian troops and civilian volunteers. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 03:02 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60521822?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What is Swift and why is banning Russia so significant?</a> BBC: Some Russian banks will be banned from the Swift financial network but what impact will this have? 
  <p class="updated_time"> 02:00 AM CT, Feb. 27 </p> 
@@ -134,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60536618?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'No war please' message from Russian tennis star Rublev</a> BBC: Andrey Rublev writes a plea for peace on a camera lens at the Dubai Tennis Championship. 
  <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
- <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/putin-russia-ukraine-army.html">Putin Claims Russia Has Been Fighting ‘Nationalist Groups,’ Not The Ukrainian Army</a> NYT: Russian state television aired brief remarks by Mr. Putin as he spoke by video to his Security Council. 
  <p class="updated_time"> 05:48 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/sanctions-russia-ukraine-companies.html">Russia Ties May Hurt Thousands of European Companies</a> NYT: European companies that have operations in Russia are preparing for collateral damage as Western sanctions aim to penalize Russia’s economy. 
  <p class="updated_time"> 05:47 AM CT, Feb. 26 </p> 
