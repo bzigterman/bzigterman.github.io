@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:12 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: As Ukraine Resists Russian Advance, World Rallies in Support</a> NYT: President Volodymyr Zelensky of Ukraine agreed to talks with Russia, as Ukrainians fought to retain control of key cities. President Vladimir Putin placed Russia’s nuclear forces on alert, further raising tensions. 
+ <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/omicron-surge-pandemic-warning.html">Experts warn that the end of the Omicron surge is not the end of the pandemic.</a> NYT: Many caution that new variants could still emerge and the country is ill equipped for yet another wave. 
+ <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/asia/south-korea-records-its-deadliest-day-of-the-pandemic.html">South Korea Records Deadliest Day of Pandemic</a> NYT: A grim milestone is reached a few days after the nation topped 170,000 new cases in a single day. 
+ <p class="updated_time"> 08:22 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Zelensky Agrees to Talks, as Putin Places Nuclear Forces on Alert</a> NYT: President Volodymyr Zelensky of Ukraine agreed to a meeting “without preconditions,” even as his country’s military and citizens resisted Russia’s invasion and the world rallied in support. 
  <p class="updated_time"> 08:05 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/australia-flood-queensland.html">Flooding in Brisbane and Northeast Australia Leaves at Least 7 Dead</a> NYT: Several days of downpours have pummeled Queensland, with flooding worsening in the state capital, Brisbane. The state premier described the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 07:45 AM CT, Feb. 27 </p> 
@@ -76,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: Flight data suggested that the missile launched Sunday was less powerful than the last one the North tested, four weeks ago. 
  <p class="updated_time"> 10:24 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60542523?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Terrified but coping, residents of Dnipro jolt into action</a> BBC: In Dnipro, teachers prepare Molotov cocktails while volunteers coordinate a huge aid stockpile. 
- <p class="updated_time"> 10:10 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/asia/south-korea-records-its-deadliest-day-of-the-pandemic.html">South Korea Records Deadliest Day of Pandemic</a> NYT: A grim milestone is reached a few days after the nation topped 170,000 new cases in a single day. 
  <p class="updated_time"> 09:07 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
@@ -206,8 +208,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60533425?at_medium=RSS&at_campaign=KARANGA">Ukraine: What happens next?</a> BBC: The gloves are off - so what might happen next? What can the West do to deter Vladimir Putin? 
  <p class="updated_time"> 04:15 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/middleeast/in-north-africa-ukraine-war-strains-economies-weakened-by-pandemic.html">Ukraine War Strains North Africa Economies</a> NYT: Egypt imports most of its wheat from Russia and Ukraine, and is looking for alternative suppliers. And Tunisia was struggling to pay for grain imports even before the conflict. 
- <p class="updated_time"> 04:10 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/nyregion/nyc-schools-mask-mandate.html">New York City Schools Will Lift Outdoor Mask Mandate</a> NYT: Masking inside the city’s public schools will still be required, as is the case across the state, but not outside on school grounds. 
  <p class="updated_time"> 04:03 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/bappi-lahiri-dead.html">Bappi Lahiri, India’s ‘Disco King,’ Dies at 69</a> NYT: He helped popularize the genre with some of the country’s biggest hits of all time, including “I Am a Disco Dancer.” 
  <p class="updated_time"> 03:01 PM CT, Feb. 25 </p> 
@@ -225,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 08:56 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-fence-biden-state-union-address-00012105">Capitol fence will return ahead of Biden’s State of the Union address</a> Politico: Fencing ringed the Capitol for weeks after the Jan. 6 insurrection, and some fencing returned ahead of a rally last September. 
- <p class="updated_time"> 08:40 AM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/russia-putin-nuclear-weaponry-00012108">Putin puts Russia’s nuclear deterrent forces on alert</a> Politico: His order raised the stakes anew. 
  <p class="updated_time"> 07:58 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/kremlin-israel-has-offered-to-mediate-peace-00012104">Kremlin: Israel has offered to mediate peace</a> Politico: Prime Minister Naftali Bennett said he would mediate. 
  <p class="updated_time"> 07:24 AM CT, Feb. 27 </p> 
@@ -264,7 +262,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:34 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Russia and China Cemented Economic Ties Before Ukraine Invasion</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 02:15 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/ketanji-brown-jackson-supreme-court.html">As a Public Defender, Supreme Court Nominee Helped Clients Others Avoided</a> NYT: Ambitious lawyers usually become prosecutors. Ketanji Brown Jackson worked on behalf of criminal defendants and Guantánamo detainees. 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/ketanji-brown-jackson-supreme-court.html">As a Public Defender, Ketanji Brown Jackson Helped Clients Others Avoided</a> NYT: Ambitious lawyers usually become prosecutors. Ketanji Brown Jackson worked on behalf of criminal defendants and Guantánamo detainees. 
  <p class="updated_time"> 01:37 PM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/how-biden-decided-on-ketanji-brown-jackson-00012088">'He loved every minute of this’— How Biden decided on Ketanji Brown Jackson</a> Politico: The president has been contemplating this moment for years. When the time came, he moved with haste. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
