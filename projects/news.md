@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Zelensky Agrees to Talks, as Putin Places Nuclear Forces on Alert</a> NYT: President Volodymyr Zelensky of Ukraine agreed to a meeting “without preconditions,” even as his country’s military and citizens resisted Russia’s invasion and the world rallied in support. 
+ <p class="updated_time"> 10:25 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kharkiv residents describe intense battle to defend city</a> BBC: Local officials say the city, home to 1.4 million, is now rid of Russian troops after fierce clashes. 
  <p class="updated_time"> 10:13 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/putin-xi-jinping-russia-china.html">Ties That Bind Putin and Xi Tested by Russia's Ukraine Invasion</a> NYT: The two autocrats have brought their countries closer together than ever. But for China, the costs of Russia’s adventurism could be high. 
- <p class="updated_time"> 10:10 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Zelensky Agrees to Talks, as Putin Places Nuclear Forces on Alert</a> NYT: President Volodymyr Zelensky of Ukraine agreed to a meeting “without preconditions,” even as his country’s military and citizens resisted Russia’s invasion and the world rallied in support. 
  <p class="updated_time"> 10:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/technology/russia-censorship-tech.html">Russia Intensifies Censorship Campaign, Pressuring Tech Giants</a> NYT: Google, Apple and others were warned that they must comply with a new law, which would make them more vulnerable to the Kremlin’s censorship demands. 
  <p class="updated_time"> 09:42 AM CT, Feb. 27 </p> 
@@ -20,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-military-budget-russia-ukraine.html">Germany Announces Increase in Defense Spending Amid Russia's Ukraine Invasion</a> NYT: Chancellor Olaf Scholz announced a major increase to Germany’s defense budget, a shift in longstanding policy. 
  <p class="updated_time"> 09:34 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: Belgium, Canada, Denmark, France, Iceland, Italy and the Netherlands joined at least a dozen European countries in barring Russian planes in response to the invasion of Ukraine. 
- <p class="updated_time"> 09:34 AM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kharkiv fighting 'like Star Wars above your head'</a> BBC: Local officials say the city, home to 1.4 million, is now rid of Russian troops after fierce clashes. 
  <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
  <p class="updated_time"> 09:10 AM CT, Feb. 27 </p> 
@@ -88,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
- <p class="updated_time"> 07:40 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-60542433?at_medium=RSS&at_campaign=KARANGA">West to cut some Russian banks off from Swift</a> BBC: The EU, US and allies will block a number of Russian banks from the main global payment system, Swift. 
  <p class="updated_time"> 07:38 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
  <p class="updated_time"> 06:56 PM CT, Feb. 26 </p> 
@@ -204,6 +202,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60495437?at_medium=RSS&at_campaign=KARANGA">Pakistan: Hundreds defy banned Basant kite flying festival</a> BBC: Despite a police crackdown, hundreds continue to fly kites to celebrate the festival of Basant. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60533425?at_medium=RSS&at_campaign=KARANGA">Ukraine: What happens next?</a> BBC: The gloves are off - so what might happen next? What can the West do to deter Vladimir Putin? 
+ <p class="updated_time"> 05:28 PM CT, Feb. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60532716?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugees from Ukraine arriving at Polish border speak to BBC</a> BBC: One family included a 10-year-old child, who has been travelling with her mother from Kyiv for two days. 
  <p class="updated_time"> 04:15 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/middleeast/in-north-africa-ukraine-war-strains-economies-weakened-by-pandemic.html">Ukraine War Strains North Africa Economies</a> NYT: Egypt imports most of its wheat from Russia and Ukraine, and is looking for alternative suppliers. And Tunisia was struggling to pay for grain imports even before the conflict. 
  <p class="updated_time"> 04:03 PM CT, Feb. 25 </p> 
@@ -219,8 +219,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:43 AM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/mitt-romney-russia-remains-geopolitical-foe-00012124">Romney: 10 years later, Russia remains ‘geopolitical foe’</a> Politico: The former GOP presidential candidate says his widely mocked views from 2012 are more relevant than ever. 
+ <p class="updated_time"> 11:25 AM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/cotton-trump-vladimir-putin-00012123">Cotton declines to berate Trump for praising Putin</a> Politico: The Arkansas senator deflected repeated questions about the former president from George Stephanopoulos. 
  <p class="updated_time"> 11:13 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/27/your-guide-through-a-blizzard-of-news-in-ukraine-00012118"> Your guide through a blizzard of news in Ukraine</a> Politico Playbook: And Trump remains the star of the show at CPAC. 
+ <p class="updated_time"> 10:22 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/us/politics/jan-6-trial-guy-wesley-reffitt.html">First Jan. 6 Trial to Open, Allowing Prosecutors to Set Out Broad Case</a> NYT: The Justice Department will have its first opportunity in a courtroom to show how the violent chaos that erupted at the Capitol last year disrupted the peaceful transfer of power. 
  <p class="updated_time"> 10:16 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/ukraine-russia-peace-talks-thomas-greenfield-00012111">Thomas-Greenfield says U.S. ‘looks forward’ to outcome of Ukraine-Russia peace talks</a> Politico: Ukrainian President Volodymyr Zelenskyy had previously said Ukraine was ready for peace talks. 
  <p class="updated_time"> 10:00 AM CT, Feb. 27 </p> 
@@ -289,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/biden-going-easy-russia-energy-00011822">Why Biden is going easy on Russia's energy industry</a> Politico: U.S. and European dependence on Russian oil and gas is tempering the push for harsh sanctions on Russian President Vladimir Putin's regime. 
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/china-sees-strategic-advantage-in-russias-ukraine-invasion-00012032">China sees strategic advantage in Russia’s Ukraine invasion</a> Politico: The Chinese government has made clear that it will remain a strategic ally of Russia despite President Vladimir Putin being viewed globally as the aggressor in the war. 
- <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
- <a href="https://www.politico.com/news/2022/02/26/soggy-salad-has-replaced-mystery-meat-at-nyc-schools-on-vegan-fridays-00011730">Soggy salad has replaced mystery meat at NYC schools on Vegan Fridays</a> Politico: The program's problems are reflective of broader challenges to bring healthier food to public school students across the nation. 
  <p class="updated_time"> 06:59 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283216/week-in-politics-biden-sanctions-russia-first-black-woman-named-to-supreme-court">Week in politics: Biden sanctions Russia; first Black woman named to Supreme Court</a> NPR: The Biden administration responds to Russia's invasion of Ukraine, and the president announces his historic pick to replace Justice Stephen Breyer on the Supreme Court. 
  <p class="updated_time"> 05:47 AM CT, Feb. 26 </p> 
@@ -310,7 +314,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:02 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/canada-sanctions-putin-lavrov-regime-00012030">Canada sanctions Putin, Lavrov in bid to 'suffocate' regime</a> Politico: Prime Minister Justin Trudeau urges allies to support Russia's removal from SWIFT. 
  <p class="updated_time"> 06:21 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Now?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Will Senators Do?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/judge-ketanji-brown-jackson-supreme-court-donald-trump-00012026">That time Jackson shredded Trump in a federal court ruling</a> Politico: Liberals like what they see and conservatives express fears, but much of the jockeying about the nominee isn't really about her judicial record. 
  <p class="updated_time"> 06:00 PM CT, Feb. 25 </p> 
@@ -323,20 +327,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/u-s-will-sanction-putin-lavrov-and-other-russian-officials-00011995">U.S. will sanction Putin, Lavrov and other Russian officials</a> Politico: “In alignment with the decision by our European allies, the United States will join them in sanctioning President Putin and Foreign Minister Lavrov and members of the Russian national security team,” White House press secretary Jen Psaki said. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
- <p class="updated_time"> 03:45 PM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/americans-can-take-off-masks-cdc-covid-00011943">CDC says most Americans can now take off masks as Covid cases plummet</a> Politico: The announcement comes after weeks of deliberation about what metrics officials should use in deciding when and how to ease public health restrictions. 
  <p class="updated_time"> 03:31 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/culture-wars-ukraine-cpac-00011717">At CPAC, Ukraine takes a back seat to the culture wars</a> Politico: The annual conservative political gathering offered a stark indicator of how far foreign policy has fallen on the Republican agenda. 
  <p class="updated_time"> 03:23 PM CT, Feb. 25 </p> 
  <a href="https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html">How the Supreme Court confirmation process works</a> CNN: The decision by Supreme Court Justice Stephen Breyer to retire will ignite a much-watched confirmation process in which President Joe Biden will attempt to place another liberal on the high court. Here's how the process to replace him could play out. 
- <p class="updated_time"> 02:44 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/business/sec-short-selling.html">The S.E.C. Wants to Increase the Public’s View Into Big Short-Selling Activity</a> NYT: The Securities and Exchange Commission is proposing new disclosure requirements for large short sellers. Officials say it could help them sort out market disruptions. 
  <p class="updated_time"> 02:06 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-ketanji-jackson.html">How Biden Chose Ketanji Brown Jackson as His Supreme Court Nominee</a> NYT: Judge Jackson’s ability to garner Republican votes made her an attractive candidate, but President Biden’s advisers said that he wanted to choose someone in the mold of the justice she would be replacing. 
  <p class="updated_time"> 12:54 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ftcs-top-economist-resigned-amid-dispute-over-pharma-study-00011878">FTC’s top economist resigned amid dispute over pharma study</a> Politico: Marta Wosinska, the FTC’s Bureau of Economics director, resigned on Feb. 16, a day before the FTC planned to vote on a study into pharmacy benefit managers. 
- <p class="updated_time"> 11:13 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/delta-russia-aeroflot-airlines-00011841">Delta suspends its agreement with Russia's Aeroflot airlines</a> Politico: The latest ban for Aeroflot customers comes as companies leverage more restrictions on Russian businesses amid the Ukraine crisis. 
  <p class="updated_time"> 11:00 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1082979837/a-majority-say-bidens-first-year-was-a-failure-a-new-poll-finds">A majority says Biden's first year was a failure, a new poll finds</a> NPR: President Biden is at just 39% approval. "These are sort of rock-bottom numbers," said the director of the survey, which was conducted before Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:50 AM CT, Feb. 25 </p> 
