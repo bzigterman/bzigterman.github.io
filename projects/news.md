@@ -8,6 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:12 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: As Ukraine Resists Russian Advance, World Rallies in Support</a> NYT: President Volodymyr Zelensky of Ukraine agreed to talks with Russia, as Ukrainians fought to retain control of key cities. President Vladimir Putin placed Russia’s nuclear forces on alert, further raising tensions. 
+ <p class="updated_time"> 08:05 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/asia/australia-flood-queensland.html">Flooding in Brisbane and Northeast Australia Leaves at Least 7 Dead</a> NYT: Several days of downpours have pummeled Queensland, with flooding worsening in the state capital, Brisbane. The state premier described the wild weather as “waves of water just coming down.” 
+ <p class="updated_time"> 07:45 AM CT, Feb. 27 </p> 
+ <a href="https://www.npr.org/2022/02/27/1083361185/some-ukrainians-are-returning-from-abroad-to-help-military-efforts-in-their-coun">Some Ukrainians are returning from abroad to help military efforts in their country</a> NPR: Some Ukrainians who crossed the border into Poland are returning to Ukraine to enlist in the military and fight Russian invaders. 
+ <p class="updated_time"> 07:43 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">European Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: France, Belgium, Denmark, Iceland, Italy and the Netherlands joined at least a dozen European countries in barring Russian planes in response to the invasion of Ukraine. 
  <p class="updated_time"> 07:27 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361164/ukrainians-continue-to-flee-to-neighboring-countries">Ukrainians continue to flee to neighboring countries</a> NPR: Sarah McCammon talks to writer Kateryna Babkina about making her way to the Polish border from her home in Kyiv after Russia's attack. 
  <p class="updated_time"> 07:26 AM CT, Feb. 27 </p> 
@@ -15,9 +23,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:16 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 07:12 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">European Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: France, Belgium, Denmark, Iceland, Italy and the Netherlands joined at least a dozen European countries in barring Russian planes in response to the invasion of Ukraine. 
- <p class="updated_time"> 07:12 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
+ <p class="updated_time"> 07:02 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60543994?at_medium=RSS&at_campaign=KARANGA">Russia central bank urges calm amid cash run fears</a> BBC: The Bank of Russia says it has enough liquidity to 'function smoothly' despite new sanctions. 
  <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361129/analyzing-the-state-of-russias-military">Analyzing the state of Russia's military</a> NPR: Sarah McCammon speaks with CNA Research Program Director Michael Kofman about Russia's military strategy and capability in Ukraine. 
  <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
@@ -46,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60530082?at_medium=RSS&at_campaign=KARANGA">Should the West arm a Ukrainian resistance?</a> BBC: Western nations are debating how far they should support a possible Ukrainian insurgency. 
  <p class="updated_time"> 06:01 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/militias-russia-ukraine.html">Far-Right Militias in Europe Plan to Confront Russian Forces</a> NYT: The apparent mobilization of far-right groups could be problematic for the Ukrainian government 
- <p class="updated_time"> 05:39 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/asia/australia-flood-queensland.html">Flash Flooding Thumps Northeastern Australia, Leaving at Least 7 Dead</a> NYT: Several days of torrential downpours have pummeled towns and cities in Queensland. The state premier described the wild weather as a “rain bomb” with “waves of water just coming down.” 
  <p class="updated_time"> 05:37 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and troops are now in northern districts of the capital Kyiv. 
  <p class="updated_time"> 04:49 AM CT, Feb. 27 </p> 
@@ -144,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/ordinary-ukrainians-rally-to-defend-homeland-from-russia-11645900464">Ordinary Ukrainians Rally to Defend Homeland From Russia</a> WSJ: Thousands of Ukrainian civilian fighters volunteer their service, including many from abroad, as authorities in Kyiv distribute rifles and others assemble Molotov cocktails and coordinate support. 
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
- <p class="updated_time"> 07:25 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083283265/russia-vetoes-u-n-security-council-resolution-denouncing-ukraine-invasion">Russia vetoes U.N. Security Council resolution denouncing Ukraine invasion</a> NPR: The U.N. Security Council vote last night highlights where diplomatic pressure stands against Russia. 
  <p class="updated_time"> 06:52 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538563?at_medium=RSS&at_campaign=KARANGA">BBC Russian reporter in Kyiv: The day the war began</a> BBC: BBC Russian's Ilya Barabanov describes waking up in Kiev on the morning Russia invaded Ukraine. 
  <p class="updated_time"> 06:32 AM CT, Feb. 26 </p> 
@@ -219,6 +223,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:56 AM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/capitol-fence-biden-state-union-address-00012105">Capitol fence will return ahead of Biden’s State of the Union address</a> Politico: Fencing ringed the Capitol for weeks after the Jan. 6 insurrection, and some fencing returned ahead of a rally last September. 
+ <p class="updated_time"> 08:40 AM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/russia-putin-nuclear-weaponry-00012108">Putin puts Russia’s nuclear deterrent forces on alert</a> Politico: His order raised the stakes anew. 
  <p class="updated_time"> 07:58 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/kremlin-israel-has-offered-to-mediate-peace-00012104">Kremlin: Israel has offered to mediate peace</a> Politico: Prime Minister Naftali Bennett said he would mediate. 
  <p class="updated_time"> 07:24 AM CT, Feb. 27 </p> 
@@ -228,11 +236,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361115/politics-chat-congress-unifies-in-denouncing-russia-supreme-court-nominee-chosen">Politics chat: Congress unifies in denouncing Russia; Supreme Court nominee chosen</a> NPR: America's political leaders have been denouncing Russia for its attack on Ukraine, with the occasional notable exception of  former President Donald Trump. 
  <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/cpac-trump-gop-presidential-contenders-00012097">At CPAC, Trump delivers a reminder of his muscle</a> Politico: CPAC offered a powerful rejoinder to those who believe the former president's influence over the GOP is waning. 
  <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/cpac-gop-senate-candidates-00012096">How Orlando became the center of the universe for GOP Senate hopefuls</a> Politico: More than a dozen Republican candidates took time out this week for a Florida campaign detour. 
- <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
  <p class="updated_time"> 06:32 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/north-korea-fires-ballistic-missile-in-resumption-of-testing-00012103">North Korea fires ballistic missile in resumption of testing</a> Politico: The missile launch was the eighth of its kind this year. 
  <p class="updated_time"> 06:08 AM CT, Feb. 27 </p> 
@@ -357,8 +365,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/24/1082969036/florida-house-passes-controversial-measure-dubbed-the-dont-say-gay-bill-by-criti">Florida House passes controversial measure dubbed the 'Don't Say Gay' bill by critics</a> NPR: Opponents of the measure say it will hurt LGBTQ youth, who already face higher rates of bullying, but the Republican sponsor says it's meant to protect children and keep parents informed. 
  <p class="updated_time"> 03:36 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/inhofe-to-retire-from-senate-teeing-up-special-election-in-oklahoma-00011534">Inhofe to retire from Senate, teeing up special election in Oklahoma</a> Politico: The 87-year-old Oklahoma Republican is expected to announce his retirement, likely triggering a special election to replace him this fall. 
- <p class="updated_time"> 02:36 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/ukraine-trump-impeachment-00011406">How the Ukraine invasion connects to Trump's first impeachment — and where the players are now</a> Politico: The former president is sounding off about Russia's attacks barely two years after he faced charges of abusing his power by withholding aid for Kyiv. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/24/washington-wakes-to-assault-on-ukraine-00011325">Washington wakes to assault on Ukraine</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
@@ -367,8 +373,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 12:41 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/lawmakers-of-both-parties-condemn-russias-invasion-00011313">Lawmakers of both parties condemn Russia's invasion</a> Politico: “﻿Putin must be made to rue the day," one senator said. 
- <p class="updated_time"> 04:55 PM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/news/2022/02/23/biden-supreme-court-contenders-00011050">How a 1990 law Biden helped pass gives us a clue about his SCOTUS pick</a> Politico: Then-Sen. Biden wanted judges to move faster on their case work. The plan he helped write may prove newly relevant. 
  <p class="updated_time"> 07:35 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/23/sanctions-split-gop-00010910">Sanctions split GOP</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Feb. 23 </p> 
