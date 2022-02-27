@@ -1367,15 +1367,15 @@ html {
 <td class="gt_row gt_right">1.8K</td>
 <td class="gt_row gt_right">&minus;24%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">430.0K</td>
-<td class="gt_row gt_right gt_striped">171.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;60%</td></tr>
+<td class="gt_row gt_right gt_striped">431.0K</td>
+<td class="gt_row gt_right gt_striped">182.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;58%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">214.0M</td>
 <td class="gt_row gt_right">215.0M</td>
 <td class="gt_row gt_right">+0%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right gt_striped">64.3</td>
+<td class="gt_row gt_right gt_striped">64.4</td>
 <td class="gt_row gt_right gt_striped">64.6</td>
 <td class="gt_row gt_right gt_striped">+0%</td></tr>
   </tbody>
@@ -1842,19 +1842,19 @@ html {
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">10.8K</td>
 <td class="gt_row gt_right gt_striped">8.7K</td>
-<td class="gt_row gt_right gt_striped">&minus;20%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;19%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">22.2M</td>
-<td class="gt_row gt_right">29.5M</td>
-<td class="gt_row gt_right">+33%</td></tr>
+<td class="gt_row gt_right">22.3M</td>
+<td class="gt_row gt_right">27.2M</td>
+<td class="gt_row gt_right">+22%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">4.3B</td>
 <td class="gt_row gt_right gt_striped">4.4B</td>
 <td class="gt_row gt_right gt_striped">+2%</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">54.2</td>
-<td class="gt_row gt_right">55.5</td>
-<td class="gt_row gt_right">+2%</td></tr>
+<td class="gt_row gt_right">55.6</td>
+<td class="gt_row gt_right">+3%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
@@ -1888,7 +1888,7 @@ As of Saturday, the 14-day percent change in average new deaths was:
   
 - -39% in Illinois
 - -24% in the United States
-- -20% worldwide
+- -19% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
