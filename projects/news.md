@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:38 PM CT, Feb. 27 </p> 
+ <p class="updated_time"> 02:15 PM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60549916?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin's war prompts dramatic German U-turn</a> BBC: Germany's new chancellor announces a massive increase in military spending as anti-war crowds gather. 
+ <p class="updated_time"> 02:15 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine Agrees to Talks with Russia, as Putin Places Nuclear Forces on Alert</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
+ <p class="updated_time"> 02:03 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/bp-oil-rosneft.html">BP to 'Exit' Stake in Russian Oil Giant Rosneft</a> NYT: Russian holdings may become toxic for the Western oil industry. 
+ <p class="updated_time"> 02:03 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities has drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
+ <p class="updated_time"> 01:54 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/new-york-mask-mandate-schools.html">New York Ends Its Mask Mandate for Schools</a> NYT: Gov. Kathy Hochul’s decision heralds a return to normalcy, as the state reports its lowest positivity rate since November. 
+ <p class="updated_time"> 01:49 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: The E.U. and Canada barred Russian planes in response to the invasion of Ukraine. 
  <p class="updated_time"> 12:55 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/volodymyr-zelensky-ukraine-russia.html">How Zelensky Rallied Ukrainians, and the World, Against Putin</a> NYT: Mr. Zelensky’s decision to remain in the capital, Kyiv, while it’s under Russian attack has moved many. 
  <p class="updated_time"> 12:44 PM CT, Feb. 27 </p> 
@@ -22,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/us-putin-nuclear-alert.html">US Deflects Putin’s Nuclear Alert as Another Effort at Escalation</a> NYT: Both countries have various levels of alert, and it was unclear how Putin’s wording would be implemented by Russian nuclear forces. 
  <p class="updated_time"> 11:51 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: The ban on all Russian-registered planes is in response to the Kremlin's invasion of Ukraine. 
- <p class="updated_time"> 11:47 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: The E.U. and Canada barred Russian planes in response to the invasion of Ukraine. 
  <p class="updated_time"> 11:38 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 10:50 AM CT, Feb. 27 </p> 
@@ -114,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/26/1083314709/protests-world-ukraine-russia">Antiwar protesters take to the streets around the world in support of Ukraine</a> NPR: In cities across continents, protesters are standing in solidarity against the Russian invasion of Ukraine and condemning Russian President Vladimir Putin. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
- <p class="updated_time"> 03:20 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60541752?at_medium=RSS&at_campaign=KARANGA">Germany to send weapons directly to Ukraine</a> BBC: The move reverses Germany's long-standing policy banning weapon exports to conflict zones. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
@@ -180,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/united-nations-russia-withdraw-ukraine.html">Russia Vetoes UN Security Council Resolution Calling on it to Withdraw from Ukraine</a> NYT: Eleven countries voted in favor of the U.S.-backed measure, and three abstained. 
  <p class="updated_time"> 08:34 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/zelensky-speech-video.html">In Video, a Defiant President Zelensky Says, ‘We Are Here’</a> NYT: The 44-year-old president of Ukraine videotaped himself in Kyiv as Russian forces closed in on the capital, vowing to fight them to the end. 
- <p class="updated_time"> 08:34 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/sanctions-on-russia-putin.html">How the U.S. and Europe Are Targeting Putin With Sanctions</a> NYT: The new penalties are a provocative step given how rarely governments, including the United States, take aim at foreign leaders. 
  <p class="updated_time"> 08:09 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html">Biden Targets Russia With Strategy of Containment, Updated for a New Era</a> NYT: President Biden’s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China. 
  <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
@@ -198,16 +202,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60384689?at_medium=RSS&at_campaign=KARANGA">The Assam woman who fought to win back her Indian citizenship</a> BBC: Sefali Rani Das, from India's Assam state, says the years-long struggle has left her traumatised. 
  <p class="updated_time"> 06:16 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/china-russia-ukraine-sovereignty.html">‘Abrupt Changes’: China Caught in a Bind Over Russia’s Invasion of Ukraine</a> NYT: China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position. 
- <p class="updated_time"> 06:01 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60495437?at_medium=RSS&at_campaign=KARANGA">Pakistan: Hundreds defy banned Basant kite flying festival</a> BBC: Despite a police crackdown, hundreds continue to fly kites to celebrate the festival of Basant. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60533425?at_medium=RSS&at_campaign=KARANGA">Ukraine: What happens next?</a> BBC: The gloves are off - so what might happen next? What can the West do to deter Vladimir Putin? 
- <p class="updated_time"> 05:28 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60532716?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Refugees from Ukraine arriving at Polish border speak to BBC</a> BBC: One family included a 10-year-old child, who has been travelling with her mother from Kyiv for two days. 
- <p class="updated_time"> 04:15 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/middleeast/in-north-africa-ukraine-war-strains-economies-weakened-by-pandemic.html">Ukraine War Strains North Africa Economies</a> NYT: Egypt imports most of its wheat from Russia and Ukraine, and is looking for alternative suppliers. And Tunisia was struggling to pay for grain imports even before the conflict. 
- <p class="updated_time"> 04:03 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/asia/bappi-lahiri-dead.html">Bappi Lahiri, India’s ‘Disco King,’ Dies at 69</a> NYT: He helped popularize the genre with some of the country’s biggest hits of all time, including “I Am a Disco Dancer.” 
  <p class="updated_time"> 05:35 AM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60522450?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents spend night sheltering in basements and metro stations</a> BBC: Ukrainians tell the BBC how they spent the night sheltering from explosions and missile strikes. 
  <p class="updated_time"> 12:09 AM CT, Feb. 25 </p> 
@@ -219,8 +215,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:11 PM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/kyivs-mayor-klitschko-encircled-but-full-of-fight-00012152">Kyiv’s mayor: ‘We are encircled’ but full of fight</a> Politico: “We show our character, our knowledge, our values," Vitali Klitschko said. 
+ <p class="updated_time"> 03:03 PM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/psaki-biden-state-of-the-union-00012136">State of the Union address will be different, Psaki acknowledges</a> Politico: The Russia-Ukraine war will alter what the president will talk about. 
+ <p class="updated_time"> 02:54 PM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/canada-russia-cash-freeze-freeland-00012139">Behind the push to freeze Moscow’s foreign cash</a> Politico: Ahead of the latest sanctions, Canada’s Chrystia Freeland worked with her Ukrainian counterparts to win over skeptics. 
  <p class="updated_time"> 02:07 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/cpac-straw-poll-trump-desantis-00012138">Donald Trump wins CPAC straw poll</a> Politico: The former president fared better than he had in 2021. 
+ <p class="updated_time"> 01:49 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
  <p class="updated_time"> 12:21 PM CT, Feb. 27 </p> 
@@ -267,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/ketanji-brown-jackson-republicans.html">As Democrats Cheer Jackson Pick, Republicans Pledge Respectful Review</a> NYT: The showdown over Judge Ketanji Brown Jackson’s nomination could be less toxic than other recent Supreme Court confirmations. 
  <p class="updated_time"> 11:38 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/trump-speech-cpac-fact-check.html">At CPAC, Trump Misleads About Biden, a Russian Pipeline and Gas Prices</a> NYT: The former president made inaccurate claims about his border wall, the Biden administration and a Russian pipeline, among other topics. 
- <p class="updated_time"> 11:31 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083332599/the-alabama-leaders-challenging-gop-drawn-map-that-critics-say-disfavors-black-v">Alabama leaders say their maps don't disfavor Black voters, but activists disagree</a> NPR: NPR's Michel Martin speaks with lawmakers and an activist in Montgomery, Ala., to learn more about the battle over voting rights and gerrymandering in the state. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
@@ -291,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/leonard-peltier-clemency-native-american.html">Supporters Seek Clemency for Native American Activist Convicted in Killings</a> NYT: Leonard Peltier, sentenced to two life terms 45 years ago in the shooting of two F.B.I. agents, is now 77 and in poor health. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
- <p class="updated_time"> 09:39 AM CT, Feb. 26 </p> 
- <a href="https://www.politico.com/news/2022/02/26/senators-demand-answers-from-abbott-on-infant-formula-recall-00012073">Senators demand answers from Abbott on infant formula recall</a> Politico: The lawmakers are also seeking all internal documents and communications about complaints from consumers. 
  <p class="updated_time"> 07:42 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283287/georgia-republicans-will-choose-between-candidates-that-supported-or-denounced-t">Georgia Republicans will choose between candidates that supported or denounced Trump</a> NPR: The GOP primary for Georgia's top election office includes a candidate who was pressured by former President Donald Trump to overturn his 2020 defeat and another who supports Trump's election lies. 
  <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
