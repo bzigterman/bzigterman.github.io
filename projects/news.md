@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: Intense street fighting continued across the capital on Sunday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 12:09 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine: Explosions rock Kyiv and Ukraine second city Kharkiv</a> BBC: Reports say missiles hit a gas pipeline and a nine-storey building in Kharkiv, south of the capital. 
  <p class="updated_time"> 11:14 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/27/1083349928/russia-hits-ukraine-fuel-supplies-and-airfields-in-fresh-attacks">Russia hits Ukraine fuel supplies and airfields in fresh attacks</a> NPR: The latest wave of attacks targeted Ukrainian airfields and fuel supplies as the Russian invasion appears to have been blunted by fierce resistance even as the U.S. and EU send Ukraine more weapons. 
- <p class="updated_time"> 11:02 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 10:47 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60539104?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Children on their own, parents stay behind</a> BBC: Mothers and grandmothers lead their children into the unknown as men aged 18 - 60 must stay behind. 
  <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
- <p class="updated_time"> 12:43 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539122?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kyiv imposes curfew amid sabotage fears</a> BBC: Citizens of the capital are told to stay indoors until Monday morning as Russian forces close in. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
  <p class="updated_time"> 12:24 PM CT, Feb. 26 </p> 
@@ -96,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/26/1082964072/russia-ukraine-nato-article-5">A part of the NATO treaty could turn Russia's invasion of Ukraine into a wider war</a> NPR: Article 5 of the North Atlantic Treaty means that an attack on one member state is determined to be an attack on all. Ukraine is not part of the alliance — but some of its neighbors are. 
  <p class="updated_time"> 08:55 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539113?at_medium=RSS&at_campaign=KARANGA">Ukraine: Is Russia's invasion going as expected?</a> BBC: Military plans never survive the first contact with the enemy - and Russia is facing the same problem. 
- <p class="updated_time"> 08:53 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/article/russia-us-ukraine-sanctions.html">Sanctions Aim to Put Pressure on Russia After Invasion</a> NYT: Several countries and the European Union have imposed a variety of sanctions in response to Vladimir V. Putin’s decision to invade Ukraine. 
  <p class="updated_time"> 08:36 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60536824?at_medium=RSS&at_campaign=KARANGA">In pictures: Kyiv under attack</a> BBC: Russian forces continue a military assault on neighbouring Ukraine, as fighting reaches the streets in the capital. 
  <p class="updated_time"> 08:22 AM CT, Feb. 26 </p> 
@@ -227,10 +225,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:31 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">At CPAC, Ukraine and Policy Take a Back Seat to Cultural Grievances</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 10:50 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Europe Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
- <p class="updated_time"> 08:26 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">At CPAC, Ukraine and Policy Take a Back Seat to Cultural Grievances</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 05:39 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
