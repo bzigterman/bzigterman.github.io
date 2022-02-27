@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 AM CT, Feb. 27 </p> 
+ <p class="updated_time"> 01:28 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv Overnight, but Ukraine Says It Still Holds Capital</a> NYT: Intense street fighting continued across the capital on Sunday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 01:15 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Fighting breaks out in Ukraine's second city Kharkiv</a> BBC: Local officials say light vehicles have entered the city, which is home to 1.4 million. 
