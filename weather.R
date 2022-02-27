@@ -121,9 +121,6 @@ champaign_forecast_tidy <- champaign_forecast %>%
 champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   full_join(champaign_hourly)
 
-#rain_check <- max(champaign_history_and_forecast$rain) == min(champaign_history_and_forecast$rain)
-#snow_check <- max(champaign_history_and_forecast$snow) == min(champaign_history_and_forecast$snow)
-
 champaign_forecast_longer <- champaign_history_and_forecast %>%
   pivot_longer(cols = c(temp, pressure,
                         humidity,
@@ -140,9 +137,7 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
                                "humidity" = "Humidity",
                                "wind_speed" = "Wind",
                                "clouds" = "Clouds",
-                               "pressure" = "Pressure")) #%>%
-#  if (rain_check) {filter(names != "Rain")} %>%
-#  if (snow_check) {filter(names != "Snow")}
+                               "pressure" = "Pressure"))
 
 # facet ----
 ggplot(champaign_forecast_longer,
