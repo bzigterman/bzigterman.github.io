@@ -8,20 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:11 AM CT, Feb. 27 </p> 
+ <p class="updated_time"> 09:34 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Zelensky Agrees to Talks, as Putin Places Nuclear Forces on Alert</a> NYT: President Volodymyr Zelensky of Ukraine agreed to a meeting “without preconditions,” even as his country’s military and citizens resisted Russia’s invasion and the world rallied in support. 
+ <p class="updated_time"> 09:34 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: Belgium, Canada, Denmark, France, Iceland, Italy and the Netherlands joined at least a dozen European countries in barring Russian planes in response to the invasion of Ukraine. 
+ <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
  <p class="updated_time"> 09:11 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/putin-xi-jinping-russia-china.html">Ties That Bind Putin and Xi Tested by Russia's Ukraine Invasion</a> NYT: The two autocrats have brought their countries closer together than ever. But for China, the costs of Russia’s adventurism could be high. 
  <p class="updated_time"> 09:10 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/australia-flood-queensland.html">Flooding in Brisbane and Northeast Australia Leaves at Least 7 Dead</a> NYT: Several days of downpours have pummeled Queensland, with flooding worsening in the state capital, Brisbane. The state premier described the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 08:33 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
- <p class="updated_time"> 08:33 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: Belgium, Canada, Denmark, France, Iceland, Italy and the Netherlands joined at least a dozen European countries in barring Russian planes in response to the invasion of Ukraine. 
  <p class="updated_time"> 08:29 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
- <p class="updated_time"> 08:28 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/south-korea-records-its-deadliest-day-of-the-pandemic.html">South Korea Records Deadliest Day of Pandemic</a> NYT: A grim milestone is reached a few days after the nation topped 170,000 new cases in a single day. 
  <p class="updated_time"> 07:45 AM CT, Feb. 27 </p> 
@@ -106,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:58 PM CT, Feb. 26 </p> 
  <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11645918029">North Korea Launches Suspected Ballistic Missile</a> WSJ: Pyongyang restarted weapons tests after nearly a month of inaction. The single missile traveled around 185 miles before splashing into the waters between Korea and Japan. 
- <p class="updated_time"> 02:36 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540341?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The women making Molotov cocktails to defend their city</a> BBC: The BBC's Sarah Rainsford visits Dnipro, where women are making Molotov cocktails to defend the city. 
  <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
@@ -227,6 +225,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/ukraine-russia-peace-talks-thomas-greenfield-00012111">Thomas-Greenfield says U.S. ‘looks forward’ to outcome of Ukraine-Russia peace talks</a> Politico: Ukrainian President Volodymyr Zelenskyy had previously said Ukraine was ready for peace talks. 
  <p class="updated_time"> 09:45 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/pentagon-moscow-backchannel-escalation-00012107">Pentagon wants Moscow back channels to prevent nuclear escalation</a> Politico: As the U.S. and NATO rush weapons into Ukraine, DoD officials want more military channels to Putin’s top leaders. But Russia’s not picking up the phone. 
+ <p class="updated_time"> 09:33 AM CT, Feb. 27 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:56 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-fence-biden-state-union-address-00012105">Capitol fence will return ahead of Biden’s State of the Union address</a> Politico: Fencing ringed the Capitol for weeks after the Jan. 6 insurrection, and some fencing returned ahead of a rally last September. 
  <p class="updated_time"> 07:58 AM CT, Feb. 27 </p> 
@@ -251,6 +251,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1082821390/texas-election-workers-provide-practical-and-emotional-support-to-confused-voter">Texas election workers provide practical and emotional support to confused voters</a> NPR: Tuesday is the first statewide election in Texas since it enacted a sweeping new voting law. Some elections officials say the law has left voters unsure how and if they will be able to participate. 
  <p class="updated_time"> 05:57 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/ketanji-brown-jackson-republicans.html">As Democrats Cheer Jackson Pick, Republicans Pledge Respectful Review</a> NYT: The showdown over Judge Ketanji Brown Jackson’s nomination could be less toxic than other recent Supreme Court confirmations. 
+ <p class="updated_time"> 11:38 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/us/politics/trump-speech-cpac-fact-check.html">At CPAC, Trump Misleads About Biden, a Russian Pipeline and Gas Prices</a> NYT: The former president made inaccurate claims about his border wall, the Biden administration and a Russian pipeline, among other topics. 
  <p class="updated_time"> 11:31 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 10:50 PM CT, Feb. 26 </p> 
@@ -266,7 +268,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:34 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Russia and China Cemented Economic Ties Before Ukraine Invasion</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 02:15 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/ketanji-brown-jackson-supreme-court.html">As a Public Defender, Supreme Court Nominee Helped Clients Others Avoided</a> NYT: Ambitious lawyers usually become prosecutors. Ketanji Brown Jackson worked on behalf of criminal defendants and Guantánamo detainees. 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/ketanji-brown-jackson-supreme-court.html">As a Public Defender, Ketanji Brown Jackson Helped Clients Others Avoided</a> NYT: Ambitious lawyers usually become prosecutors. Ketanji Brown Jackson worked on behalf of criminal defendants and Guantánamo detainees. 
  <p class="updated_time"> 01:37 PM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/26/how-biden-decided-on-ketanji-brown-jackson-00012088">'He loved every minute of this’— How Biden decided on Ketanji Brown Jackson</a> Politico: The president has been contemplating this moment for years. When the time came, he moved with haste. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
@@ -308,7 +310,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:02 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/canada-sanctions-putin-lavrov-regime-00012030">Canada sanctions Putin, Lavrov in bid to 'suffocate' regime</a> Politico: Prime Minister Justin Trudeau urges allies to support Russia's removal from SWIFT. 
  <p class="updated_time"> 06:21 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Will Senators Do?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Now?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/judge-ketanji-brown-jackson-supreme-court-donald-trump-00012026">That time Jackson shredded Trump in a federal court ruling</a> Politico: Liberals like what they see and conservatives express fears, but much of the jockeying about the nominee isn't really about her judicial record. 
  <p class="updated_time"> 06:00 PM CT, Feb. 25 </p> 
@@ -333,10 +335,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-ketanji-jackson.html">How Biden Chose Ketanji Brown Jackson as His Supreme Court Nominee</a> NYT: Judge Jackson’s ability to garner Republican votes made her an attractive candidate, but President Biden’s advisers said that he wanted to choose someone in the mold of the justice she would be replacing. 
  <p class="updated_time"> 12:54 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ftcs-top-economist-resigned-amid-dispute-over-pharma-study-00011878">FTC’s top economist resigned amid dispute over pharma study</a> Politico: Marta Wosinska, the FTC’s Bureau of Economics director, resigned on Feb. 16, a day before the FTC planned to vote on a study into pharmacy benefit managers. 
- <p class="updated_time"> 12:42 PM CT, Feb. 25 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 12:41 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/supreme-court-ketanji-brown-jackson-reaction.html">What Senators Are Saying About Ketanji Brown Jackson, Biden's Supreme Court Pick</a> NYT: With backers calling the judge a “slam-dunk” for the Supreme Court, Republicans said they would give her a fair hearing. 
  <p class="updated_time"> 11:13 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/delta-russia-aeroflot-airlines-00011841">Delta suspends its agreement with Russia's Aeroflot airlines</a> Politico: The latest ban for Aeroflot customers comes as companies leverage more restrictions on Russian businesses amid the Ukraine crisis. 
  <p class="updated_time"> 11:00 AM CT, Feb. 25 </p> 
