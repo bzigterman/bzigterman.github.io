@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:50 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 11:14 PM CT, Feb. 26 </p> 
+ <a href="https://www.npr.org/2022/02/27/1083349928/russia-hits-ukraine-fuel-supplies-and-airfields-in-fresh-attacks">Russia hits Ukraine fuel supplies and airfields in fresh attacks</a> NPR: The latest wave of attacks targeted Ukrainian airfields and fuel supplies as the Russian invasion appears to have been blunted by fierce resistance even as the U.S. and EU send Ukraine more weapons. 
+ <p class="updated_time"> 11:02 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
  <p class="updated_time"> 10:47 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
@@ -46,6 +48,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60541752?at_medium=RSS&at_campaign=KARANGA">Germany to send weapons directly to Ukraine</a> BBC: The move reverses Germany's long-standing policy banning weapon exports to conflict zones. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
+ <p class="updated_time"> 02:58 PM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-unidentified-projectile-off-its-east-coast-south-korea-says-11645918029">North Korea Launches Suspected Ballistic Missile</a> WSJ: Pyongyang restarted weapons tests after nearly a month of inaction. The single missile traveled around 185 miles before splashing into the waters between Korea and Japan. 
  <p class="updated_time"> 02:36 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
@@ -94,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60539113?at_medium=RSS&at_campaign=KARANGA">Ukraine: Is Russia's invasion going as expected?</a> BBC: Military plans never survive the first contact with the enemy - and Russia is facing the same problem. 
  <p class="updated_time"> 08:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/article/russia-us-ukraine-sanctions.html">Sanctions Aim to Put Pressure on Russia After Invasion</a> NYT: Several countries and the European Union have imposed a variety of sanctions in response to Vladimir V. Putin’s decision to invade Ukraine. 
- <p class="updated_time"> 08:49 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-assessment-finds-russian-advance-frustrated-by-stiffer-than-expected-ukrainian-resistance-11645900195">U.S. Assessment Finds Russian Advance Frustrated by Stiffer-Than-Expected Ukrainian Resistance</a> WSJ: The Russian push into Kyiv has been slowed by Ukrainian antiair and antitank weapons, a U.S. official said. Meanwhile, the State Department has authorized up to $350 million in immediate military aid to Ukraine. 
  <p class="updated_time"> 08:36 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60536824?at_medium=RSS&at_campaign=KARANGA">In pictures: Kyiv under attack</a> BBC: Russian forces continue a military assault on neighbouring Ukraine, as fighting reaches the streets in the capital. 
  <p class="updated_time"> 08:22 AM CT, Feb. 26 </p> 
@@ -122,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/greece-ferry-fire.html">8 Found Dead After Ferry Fire Off Greece as Grim Search Continues</a> NYT: The blaze aboard the Euroferry Olympia burned for most of a week. Hundreds of passengers were rescued, but at least three more are believed missing. 
  <p class="updated_time"> 05:53 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60536618?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'No war please' message from Russian tennis star Rublev</a> BBC: Andrey Rublev writes a plea for peace on a camera lens at the Dubai Tennis Championship. 
- <p class="updated_time"> 05:53 AM CT, Feb. 26 </p> 
- <a href="https://www.wsj.com/articles/russian-state-media-bolster-putins-narrative-for-ukraine-invasion-11645874643">Russian State Media Bolster Putin's Narrative for Ukraine Invasion</a> WSJ: Media outlets are amplifying the Russian president’s claims that Kyiv is the aggressor and that Russia is acting to protect its security. 
  <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/eurovision-russia.html">Eurovision Bars Russia From This Year’s Song Contest</a> NYT: “The inclusion of a Russian entry in this year’s contest would bring the competition into disrepute,” the organizers said on Friday. 
  <p class="updated_time"> 05:51 AM CT, Feb. 26 </p> 
@@ -148,6 +148,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">Facial Recognition at Airports: What You Need to Know</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
  <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
+ <p class="updated_time"> 03:00 AM CT, Feb. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-energy-dominance-ties-wests-hands-in-ukraine-war-11645884001">Russia's Energy Dominance Ties West's Hands in Ukraine War</a> WSJ: Europe gets about 40% of its natural-gas imports from Russia, making it hard to sanction a sector that is a vital source of revenue for Moscow. 
  <p class="updated_time"> 02:51 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083276850/us-sanctions-on-russian-oligarchs-miss-richest-of-rich">The U.S. sanctions on Russian oligarchs miss the richest of the rich</a> NPR: The sanctions may do little to dim the jet-setting lifestyles of Russia's ultra-rich and infamous – much less force a withdrawal of tanks and troops. 
  <p class="updated_time"> 01:36 AM CT, Feb. 26 </p> 
@@ -162,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/kharkiv-ukraine-military.html">As Troops Battle Outside Kharkiv, Residents Shelter Underground</a> NYT: Ukrainian troops dug in around the nation’s second-largest city a day after a fight to push back advancing Russian forces. 
  <p class="updated_time"> 10:24 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/empire-state-building-eiffel-tower-ukraine-russia.html">Empire State Building, Eiffel Tower Use Lights to Show Ukraine Support</a> NYT: The landmarks include the World Trade Center, the Eiffel Tower and more. 
- <p class="updated_time"> 09:59 PM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083255054/tiktok-sees-a-surge-of-misleading-videos-that-claim-to-show-the-invasion-of-ukra">TikTok sees a surge of misleading videos that claim to show the invasion of Ukraine </a> NPR: A flurry of conflict-themed videos has inundated TikTok, sending countless videos depicting military action unrelated to the war in Ukraine to millions of viewers. 
  <p class="updated_time"> 09:32 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/united-nations-russia-withdraw-ukraine.html">Russia Vetoes UN Security Council Resolution Calling on it to Withdraw from Ukraine</a> NYT: Eleven countries voted in favor of the U.S.-backed measure, and three abstained. 
  <p class="updated_time"> 08:34 PM CT, Feb. 25 </p> 
