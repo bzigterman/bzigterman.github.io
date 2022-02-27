@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:18 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Zelensky Agrees to Talks, as Putin Places Nuclear Forces on Alert</a> NYT: President Volodymyr Zelensky of Ukraine agreed to a meeting “without preconditions,” even as his country’s military and citizens resisted Russia’s invasion and the world rallied in support. 
  <p class="updated_time"> 10:50 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083368793/ukraine-russia-negotiations-belarus">Ukrainian and Russian negotiators agree to hold talks in Belarus</a> NPR: Ukrainian President Volodymyr Zelensky's office said a delegation of the Ukrainian government will meet for talks with Russian officials near the Pripyat River in Belarus. 
- <p class="updated_time"> 10:45 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Zelensky Agrees to Talks, as Putin Places Nuclear Forces on Alert</a> NYT: President Volodymyr Zelensky of Ukraine agreed to a meeting “without preconditions,” even as his country’s military and citizens resisted Russia’s invasion and the world rallied in support. 
  <p class="updated_time"> 10:25 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kharkiv residents describe intense battle to defend city</a> BBC: Local officials say the city, home to 1.4 million, is now rid of Russian troops after fierce clashes. 
  <p class="updated_time"> 10:13 AM CT, Feb. 27 </p> 
