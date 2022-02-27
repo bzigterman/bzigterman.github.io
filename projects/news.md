@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:53 PM CT, Feb. 26 </p> 
+ <p class="updated_time"> 08:27 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/02/26/world/ukraine-russia-war">Live Updates: Russia Bombards Kyiv in Renewed Night Assault</a> NYT: There was intense street fighting across the capital on Saturday, and the latest Western intelligence reports indicated that the Russian advance had been slowed, if only for the moment. The Russian priority remained the capture of Kyiv. 
+ <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 07:40 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-60542433?at_medium=RSS&at_campaign=KARANGA">West to cut some Russian banks off from Swift</a> BBC: The EU, US and allies will block a number of Russian banks from the main global payment system, Swift. 
  <p class="updated_time"> 07:38 PM CT, Feb. 26 </p> 
@@ -26,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 05:39 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
- <p class="updated_time"> 05:00 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 04:22 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 04:10 PM CT, Feb. 26 </p> 
@@ -52,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
  <p class="updated_time"> 01:38 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
- <p class="updated_time"> 01:33 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60540903?at_medium=RSS&at_campaign=KARANGA">Swift payments crackdown on Russia edges closer</a> BBC: Germany, the main opponent of excluding Russia from the Swift banking system, now says it favours curbs. 
  <p class="updated_time"> 01:08 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539104?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Children on their own, parents stay behind</a> BBC: Mothers and grandmothers lead their children into the unknown as men aged 18 - 60 must stay behind. 
  <p class="updated_time"> 12:44 PM CT, Feb. 26 </p> 
@@ -136,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/world/europe/militias-russia-ukraine.html">Far-Right Militias in Europe Plan to Confront Russian Forces</a> NYT: The apparent mobilization of far-right groups could be problematic for the Ukrainian government 
  <p class="updated_time"> 05:44 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/russia-facebook-access.html">Russia Will Limit Access to Facebook, A Major Platform for Dissent</a> NYT: Since President Vladimir V. Putin launched his attack on Ukraine, many Russians have taken to social media to express their anger. 
- <p class="updated_time"> 05:44 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html">Russia Confirms It Controls Chernobyl Plant</a> NYT: Russia’s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility’s personnel hostage. 
  <p class="updated_time"> 05:43 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russian troops are in northern districts of the capital Kyiv. 
  <p class="updated_time"> 05:00 AM CT, Feb. 26 </p> 
@@ -233,14 +229,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:26 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">At CPAC, Ukraine and Policy Take a Back Seat to Cultural Grievances</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 06:31 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Key Allies Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
  <p class="updated_time"> 05:39 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
- <p class="updated_time"> 05:26 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083332599/the-alabama-leaders-challenging-gop-drawn-map-that-critics-say-disfavors-black-v">The Alabama leaders challenging GOP-drawn map that critics say disfavors Black voters</a> NPR: NPR's Michel Martin speaks with lawmakers and an activist in Montgomery, Ala., to learn more about the battle over voting rights and gerrymandering in the state. 
+ <a href="https://www.npr.org/2022/02/26/1083332599/the-alabama-leaders-challenging-gop-drawn-map-that-critics-say-disfavors-black-v">Alabama leaders say their maps don't disfavor Black voters, but activists disagree</a> NPR: NPR's Michel Martin speaks with lawmakers and an activist in Montgomery, Ala., to learn more about the battle over voting rights and gerrymandering in the state. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083332592/rep-adam-kinzinger-says-politicizing-russia-ukraine-crisis-hurts-washington">Rep. Adam Kinzinger says politicizing Russia-Ukraine crisis hurts Washington</a> NPR: NPR's Michel Martin speaks with Rep. Adam Kinzinger (R-Ill.) about the Russian invasion of Ukraine and President Biden's reaction to it. 
  <p class="updated_time"> 03:31 PM CT, Feb. 26 </p> 
@@ -337,6 +333,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1082979837/a-majority-say-bidens-first-year-was-a-failure-a-new-poll-finds">A majority says Biden's first year was a failure, a new poll finds</a> NPR: President Biden is at just 39% approval. "These are sort of rock-bottom numbers," said the director of the survey, which was conducted before Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:50 AM CT, Feb. 25 </p> 
  <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
+ <p class="updated_time"> 10:49 AM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/scotus-ketanji-brown-jackson-environmental-law-00011799">Supreme Court nominee Jackson fits Breyer mold on environmental law</a> Politico: If confirmed, Jackson likely will have at least one high-profile environmental case waiting to welcome her to the high court this fall. 
  <p class="updated_time"> 08:55 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-is-the-first-black-woman-selected-for-the-nations-top-court-00011793">Ketanji Brown Jackson is the first Black woman selected for the nation’s top court</a> Politico: Jackson, 51, has long been considered the leading contender for the post. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
@@ -345,8 +343,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/25/scoop-trump-tries-to-recruit-scott-for-majority-leader-00011720"> Scoop: Trump tries to recruit Scott for majority leader</a> Politico Playbook: And Russian forces enter Kyiv. 
  <p class="updated_time"> 06:01 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/house-democrats-donald-trump-investigation-00011686">House Dems step up investigation into Trump’s handling of sensitive records</a> Politico: Rep. Carolyn Maloney is asking the National Archives to provide information about top Trump advisers’ discussions about preserving and storing White House records. 
- <p class="updated_time"> 05:00 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/vladimir-putin-war-reaction-00011703">Putin’s new war, inside and out</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to Ukrainian journalist Nataliya Gumenyuk and Russian journalist Uliana Pavlova about Vladimir Putin’s invasion of Ukraine and the reaction in both countries. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
