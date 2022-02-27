@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:30 AM CT, Feb. 27 </p> 
+ <p class="updated_time"> 11:51 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: The ban on all Russian-registered planes is in response to the Kremlin's invasion of Ukraine. 
+ <p class="updated_time"> 11:50 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine Agrees to Talks with Russia, as Putin Places Nuclear Forces on Alert</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
+ <p class="updated_time"> 11:47 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: The E.U. and Canada barred Russian planes in response to the invasion of Ukraine. 
+ <p class="updated_time"> 11:38 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 10:50 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083368793/ukraine-russia-negotiations-belarus">Ukrainian and Russian negotiators agree to hold talks in Belarus</a> NPR: Ukrainian President Volodymyr Zelensky's office said a delegation of the Ukrainian government will meet for talks with Russian officials near the Pripyat River in Belarus. 
  <p class="updated_time"> 10:25 AM CT, Feb. 27 </p> 
@@ -22,14 +28,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083363518/ukrainian-soldiers-who-profanely-told-off-russian-warship-may-be-alive-officials">Ukrainian soldiers who profanely told off Russian warship may be alive, officials say</a> NPR: Last week, a Russian warship approached Snake Island and asked the Ukrainian forces there to surrender. The response from Ukraine was simple: "Russian warship. Go f*** yourself." 
  <p class="updated_time"> 09:37 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-military-budget-russia-ukraine.html">Germany Announces Increase in Defense Spending Amid Russia's Ukraine Invasion</a> NYT: Chancellor Olaf Scholz announced a major increase to Germany’s defense budget, a shift in longstanding policy. 
- <p class="updated_time"> 09:34 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: Belgium, Canada, Denmark, France, Iceland, Italy and the Netherlands joined at least a dozen European countries in barring Russian planes in response to the invasion of Ukraine. 
  <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
  <p class="updated_time"> 09:10 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/australia-flood-queensland.html">Flooding in Brisbane and Northeast Australia Leaves at Least 7 Dead</a> NYT: Several days of downpours have pummeled Queensland, with flooding worsening in the state capital, Brisbane. The state premier described the wild weather as “waves of water just coming down.” 
- <p class="updated_time"> 08:33 AM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russian planes face near-total airspace ban to west</a> BBC: An EU official says most countries on the continent are expected to limit access to Russian airlines. 
  <p class="updated_time"> 08:29 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
@@ -73,7 +75,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 01:44 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083353689/russian-troops-enter-ukraines-2nd-largest-city-kharkiv-as-invasion-continues">Russian troops enter Ukraine's 2nd largest city Kharkiv as invasion continues</a> NPR: Street fighting broke out early Sunday in Kharkiv as Russian troops pushed into Ukraine's second-largest city, according to a regional official as the capital, Kiev, continued to hold out. 
+ <a href="https://www.npr.org/2022/02/27/1083353689/russian-troops-enter-ukraines-2nd-largest-city-kharkiv-as-invasion-continues">After a night of heavy fighting, Ukrainian officials say they still control Kharkiv</a> NPR: Street fighting broke out early Sunday in Kharkiv as Russian troops pushed into Ukraine's second-largest city, according to a regional official as the capital, Kiev, continued to hold out. 
  <p class="updated_time"> 12:49 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60540342?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Protests held across the globe</a> BBC: From London to Buenos Aires, thousands are gathering to protest Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:42 AM CT, Feb. 27 </p> 
@@ -100,8 +102,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 03:54 PM CT, Feb. 26 </p> 
  <a href="https://www.wsj.com/articles/eu-leaders-weigh-cutting-russia-out-of-global-payment-system-swift-11645888337">EU, U.K., Canada, U.S. Plan to Cut Some Russian Banks From Swift</a> WSJ: Group will also take measures to paralyze the activities of Russia’s central bank in the latest response to the Kremlin’s attack on Ukraine. 
- <p class="updated_time"> 03:35 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 03:20 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60541752?at_medium=RSS&at_campaign=KARANGA">Germany to send weapons directly to Ukraine</a> BBC: The move reverses Germany's long-standing policy banning weapon exports to conflict zones. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
@@ -385,8 +385,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/21/politics/student-debt-what-matters/index.html">What Biden is doing (and not doing) on student debt</a> CNN: There have been good and bad headlines related to student loans in recent days. 
  <p class="updated_time"> 01:17 PM CT, Feb. 20 </p> 
  <a href="https://www.politico.com/news/2022/02/20/ted-cruz-durham-trump-watergate-00010396">Cruz says Trump may be proved right on spying talk</a> Politico: The Texas senator was addressing a recent court filing by John Durham. 
- <p class="updated_time"> 11:45 AM CT, Feb. 20 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/20/harris-declares-unity-while-zelenskyy-accuses-appeasement-00010389"> Harris declares ‘unity,’ while Zelenskyy accuses ‘appeasement’</a> Politico Playbook: And Democrats try to recalibrate for the midterms. 
 
 
 </details>
