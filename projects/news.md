@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:07 AM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1071104956/2022-winter-games-paralympics-china-disability">China is a Paralympics star, but its people with disabilities face high hurdles</a> NPR: China has dominated the medal count at the last five Paralympic Games. That's in stark contrast with the low level of disability access in Chinese society. 
+ <p class="updated_time"> 07:05 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: U.S. Sharply Escalates Sanctions Against Russia as Fighting Continues</a> NYT: The Treasury Department announced a freeze on Russian Central Bank assets. Delegations from Kyiv and Moscow were meeting for talks in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second largest city. 
  <p class="updated_time"> 06:44 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
- <p class="updated_time"> 06:43 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukraine and Russia Talk, but Fighting Continues</a> NYT: Delegations from Kyiv and Moscow were meeting in Belarus, but President Volodymyr Zelensky expressed little hope that talks would end the fighting. Russia showed no sign of de-escalating even as its economy staggered under sanctions. 
  <p class="updated_time"> 06:24 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html">Climate Change's Effects Outpacing Ability to Adapt, I.P.C.C. Warns</a> NYT: Countries aren’t doing nearly enough to protect against the disasters to come as the planet keeps heating up, a major new scientific report concludes. 
  <p class="updated_time"> 06:19 AM CT, Feb. 28 </p> 
@@ -162,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083361108/russia-continues-to-advance-on-kyiv-in-attempt-to-topple-ukrainian-government">Russia continues to advance on Kyiv in attempt to topple Ukrainian government</a> NPR: Ukraine is on guard for another Russian offensive today. 
  <p class="updated_time"> 06:34 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60546011?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Citizen volunteers take up arms to fight Russian invasion</a> BBC: Thousands of Ukrainian citizens are volunteering to fight, including many with no military experience. 
- <p class="updated_time"> 06:13 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083359982/snl-cold-open-ukraine-chorus">SNL offers a 'Prayer for Ukraine' in its cold open</a> NPR: "Saturday Night Live" normally kicks off each show with some humor, but the comedy sketch series opened with a tribute performance to Ukraine, which is dealing with an invasion from Russia. 
  <p class="updated_time"> 06:07 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
  <p class="updated_time"> 06:02 AM CT, Feb. 27 </p> 
@@ -234,7 +234,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/meta-belarus-hacking-campaign-ukraine-00012214">Meta takes action against Belarus-linked hacking campaign targeting Ukrainians</a> Politico: Meta’s actions mark a step toward addressing disinformation and make both Russians and Ukrainians somewhat safer online 
  <p class="updated_time"> 06:30 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/us-escalates-sanctions-with-a-freeze-on-russian-central-bank-assets.html">U.S. escalates sanctions with a freeze on Russian central bank assets.</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/us-sanctions-russia-central-bank.html">US Escalates Sanctions With a Freeze on Russian Central Bank Assets</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
@@ -281,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083379284/montgomery-ala-mayor-on-leading-the-city-through-the-voting-rights-battle">Montgomery, Ala., mayor on leading the city through the voting rights battle</a> NPR: NPR's Michel Martin speaks with Steven Reed, the first Black mayor of Montgomery, Ala. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083379277/sen-sullivan-supports-sending-more-military-aid-to-ukraine">Sen. Sullivan supports sending more military aid to Ukraine</a> NPR: NPR's Michel Martin speaks with Sen. Dan Sullivan (R-Alaska) about the Russian invasion of Ukraine. 
- <p class="updated_time"> 03:11 PM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/kyivs-mayor-klitschko-encircled-but-full-of-fight-00012152">Kyiv’s mayor: ‘We are encircled’ but full of fight</a> Politico: “We show our character, our knowledge, our values," Vitali Klitschko said. 
  <p class="updated_time"> 03:03 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/psaki-biden-state-of-the-union-00012136">State of the Union address will be different, Psaki acknowledges</a> Politico: The Russia-Ukraine war will alter what the president will talk about. 
  <p class="updated_time"> 02:54 PM CT, Feb. 27 </p> 
