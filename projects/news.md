@@ -8,9 +8,13 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:08 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 04:31 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Refugees Flood Out of Ukraine</a> NYT: The U.N. is looking for aid to help about half a million people who have left the country as attacks intensify. Delegations from Kyiv and Moscow failed to make progress in Belarus, but more talks are planned in the coming days. 
- <p class="updated_time"> 04:04 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 04:30 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/mars-europe-rover.html">Mission to Mars with Russia now “very unlikely,” European Space Agency says</a> NYT: The ExoMars mission, postponed in 2020 because of the pandemic and technical issues, may miss its window to launch this year because of sanctions imposed against Russia over the invasion of Ukraine. 
+ <p class="updated_time"> 04:24 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581139/magpies-unexpected-reaction-to-gps-trackers-may-have-revealed-altruism-in-the-bi">Magpies' unexpected reaction to GPS trackers may have revealed altruism in the birds</a> NPR: Researchers tried to attach tracking devices to magpies for a study. But the magpies helped each other to remove them — a possible sign, the scientists say, of altruism in the birds. 
+ <p class="updated_time"> 04:22 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581132/putins-invasion-of-ukraine-may-be-putting-russias-alliance-with-china-to-the-tes">Putin's invasion of Ukraine may be putting Russia's alliance with China to the test</a> NPR: Ahead of Russia's invasion of Ukraine, China was widely seen as one of Moscow's few allies. But the recent actions of President Vladmir Putin now has China trying to distance itself from Russia. 
@@ -55,7 +59,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:37 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fighting escalates despite ceasefire talks</a> BBC: The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Russia and Ukraine. 
  <p class="updated_time"> 02:29 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083550554/toyota-stops-production-in-japan-after-a-cyberattack-hits-one-of-its-suppliers">Toyota stops production in Japan after a cyberattack hits one of its suppliers</a> NPR: The suspected attack forced Toyota, one of the world's largest auto manufacturers, to suspend operations at 14 of its Japanese plants on Tuesday, affecting the production of about 13,000 vehicles. 
+ <a href="https://www.npr.org/2022/02/28/1083550554/toyota-stops-production-in-japan-after-a-cyberattack-hits-one-of-its-suppliers">Toyota stops production in Japan after a cyberattack hits one of its suppliers</a> NPR: The suspected attack forced Toyota, one of the world's largest auto manufacturers, to suspend operations at 14 of its Japanese plants, affecting the production of about 13,000 vehicles. 
  <p class="updated_time"> 02:22 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-Turn, Germany Ups Military Spending and Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Feb. 28 </p> 
@@ -74,14 +78,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/ukraine-russia-talks-belarus.html">Initial Talks Between Russia and Ukraine Yield No Resolution </a> NYT: Russia’s delegation leader said the next meeting would take place once more along the Ukraine-Belarus border in the “coming days.” 
  <p class="updated_time"> 12:37 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083478065/russias-central-bank-doubles-a-key-interest-rate-as-sanctions-spark-economic-tur">Russia's central bank doubles a key interest rate as sanctions spark economic turmoil</a> NPR: Russia's ruble collapsed on Monday as sanctions hit, forcing President Vladimir Putin to hold an emergency meeting with his economic advisers. 
- <p class="updated_time"> 12:16 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083446525/after-russias-invasion-of-ukraine-jerusalems-putin-pub-is-now-just-named-pub">After Russia's invasion of Ukraine, Jerusalem's Putin Pub is now just named Pub</a> NPR: Israel is keeping good ties with ally Putin, as well as with Ukraine. But the owners of Jerusalem's Putin Pub, a bar for Russian-speaking immigrants, erased his name when Russia invaded Ukraine. 
+ <p class="updated_time"> 11:30 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</a> WSJ: Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv. 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60559574?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What are the nuclear risks?</a> BBC: Russia's nuclear forces are on "special alert" - what does that mean and how worried should we be? 
  <p class="updated_time"> 11:14 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/travel/panama-azuero-spider-monkeys.html">In Search of Panama’s Elusive Spider Monkeys</a> NYT: Environmental initiatives in the Azuero Peninsula offer hope for the future of a critically endangered subspecies. 
- <p class="updated_time"> 11:00 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</a> WSJ: Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv. 
  <p class="updated_time"> 10:49 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/australia/australia-flood-queensland.html">Floods Engulf Brisbane and Kill at Least 9 in Northeastern Australia</a> NYT: Days of downpours have pummeled Queensland and New South Wales, with the authorities describing the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 10:30 AM CT, Feb. 28 </p> 
@@ -172,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60543995?at_medium=RSS&at_campaign=KARANGA">How badly will Russia be hit by new sanctions?</a> BBC: The latest financial measures against Russia for invading Ukraine had been seen as a 'last resort'. 
  <p class="updated_time"> 12:04 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/us-putin-nuclear-alert.html">US Deflects Putin’s Nuclear Alert as Another Effort at Escalation</a> NYT: Both countries have various levels of alert, and it was unclear how Putin’s wording would be implemented by Russian nuclear forces. 
- <p class="updated_time"> 11:38 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
  <p class="updated_time"> 10:13 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/putin-xi-jinping-russia-china.html">Ties That Bind Putin and Xi Tested by Russia's Ukraine Invasion</a> NYT: The two autocrats have brought their countries closer together than ever. But for China, the costs of Russia’s adventurism could be high. 
  <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
@@ -210,15 +210,15 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581009/south-carolina-rep-jim-clyburn-shares-his-view-of-bidens-presidency">South Carolina Rep. Jim Clyburn shares his view of Biden's presidency</a> NPR: NPR's Sacha Pfeiffer talks with Democratic Rep. Jim Clyburn of South Carolina about President Biden's State of the Union address on Tuesday. 
  <p class="updated_time"> 03:27 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">Some Texas Hispanics Drawn to Republicans Share Immigration Grievances</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">How Immigration Politics Drives Some Hispanic Voters to the G.O.P. in Texas</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
  <p class="updated_time"> 03:09 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">McConnell speaks out against Greene and Gosar's appearance at white nationalist event</a> Politico: The two House conservatives attended a weekend conference organized by Nick Fuentes, a far-right fringe figure who asked attendees to give Russia "a round of applause." 
+ <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 02:51 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/supreme-court-climate-change.html">Supreme Court Considers Limiting E.P.A.’s Ability to Address Climate Change</a> NYT: Members of the court’s conservative majority voiced skepticism that Congress had authorized the agency to decide what they said were major political and economic questions. 
  <p class="updated_time"> 02:42 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/house-races-texas-00012422">Six House races to watch in Texas</a> Politico: The Democratic primaries will be a test of progressive strength. 
+ <a href="https://www.politico.com/news/2022/02/28/house-races-texas-00012422">6 House races to watch in Texas</a> Politico: The Democratic primaries will be a test of progressive strength. 
  <p class="updated_time"> 02:30 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/florida-democrat-deutch-announces-he-wont-run-for-reelection-00012397">Florida Democrat Deutch announces he won’t run for reelection</a> Politico: He is the 31st House Democrat to announce that they will not run for reelection. 
  <p class="updated_time"> 02:19 PM CT, Feb. 28 </p> 
@@ -238,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/feinsteins-husband-richard-blum-dies-00012347">Feinstein's husband, Richard Blum, dies</a> Politico: Blum's death follows a long battle with cancer. 
  <p class="updated_time"> 12:09 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/politics/redistricting-partisan-divide.html">‘Blood Red’: How Lopsided New District Lines Are Deepening America’s Divide</a> NYT: Competitive districts are disappearing in Texas and beyond. Consider the case of a once-rising Republican star, Dan Crenshaw, in the Houston suburbs. 
+ <a href="https://www.nytimes.com/2022/02/27/us/politics/redistricting-partisan-divide.html">How Lopsided New District Lines Deepen the U.S. Partisan Divide</a> NYT: Competitive districts are disappearing in Texas and beyond. Consider the case of a once-rising Republican star, Dan Crenshaw, in the Houston suburbs. 
  <p class="updated_time"> 12:08 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/twitter-label-state-affiliated-russia-media-00012351">Twitter to label all state-affiliated Russia media</a> Politico: The latest steps come as Russian disinformation spreads. 
  <p class="updated_time"> 11:12 AM CT, Feb. 28 </p> 
@@ -262,8 +262,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/trucker-crypto-crackdown-in-canada-fuels-gop-backlash-in-u-s-00011401">Trucker crypto crackdown in Canada fuels GOP backlash in U.S.</a> Politico: At least one House GOP lawmaker has introduced a bill to prevent a similar government clampdown in the U.S. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/east-coast-weed-race-00010151">Get ready for the Northeast to become cannabis country</a> Politico: New Jersey is likely to start sales first, but New York is poised to become the nation’s weed capital. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/covid-vaccine-exemption-hospital-00011951">Health workers’ vaccine mandate undone by religious exemptions</a> Politico: Several hospital executives said they believe they have to approve the religious exemptions for their employees. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/first-january6-trial-reffitt-00012216">First Capitol riot trial opens in D.C.</a> Politico: This is the first test of the Justice Department’s effort to transform its Jan. 6 manhunt into convincing arguments. 
@@ -277,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/us/politics/jan-6-trial-guy-wesley-reffitt.html">First Jan. 6 Trial, of Guy Wesley Reffitt, Starts Monday</a> NYT: The Justice Department will have its first opportunity in a courtroom to show how the violent chaos that erupted at the Capitol last year disrupted the peaceful transfer of power. 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
- <p class="updated_time"> 07:58 PM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/gallery/2022/02/27/photo-protests-russian-invasion-00012171">Photos: Protests against the Russian invasion</a> Politico: In Russia, in the United States and in numerous other countries, people gathered Sunday to demonstrate against Russia's vicious invasion of neighboring Ukraine. 
  <p class="updated_time"> 06:50 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/biden-ukraine-covid-supreme-court.html">10 Consequential Days: How Biden Navigated War, Covid and the Supreme Court</a> NYT: The dizzying events of the past week have pushed to the sidelines the congressional squabbling over President Biden’s domestic agenda, and are already redefining the arc of his presidency. 
  <p class="updated_time"> 06:43 PM CT, Feb. 27 </p> 
