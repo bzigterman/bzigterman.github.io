@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:00 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
- <p class="updated_time"> 03:59 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 04:08 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Refugees Flood Out of Ukraine</a> NYT: The U.N. is looking for aid to help about half a million people who have left the country as attacks intensify. Delegations from Kyiv and Moscow failed to make progress in Belarus, but more talks are planned in the coming days. 
+ <p class="updated_time"> 04:04 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581132/putins-invasion-of-ukraine-may-be-putting-russias-alliance-with-china-to-the-tes">Putin's invasion of Ukraine may be putting Russia's alliance with China to the test</a> NPR: Ahead of Russia's invasion of Ukraine, China was widely seen as one of Moscow's few allies. But the recent actions of President Vladmir Putin now has China trying to distance itself from Russia. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083580981/why-ukrainians-are-being-treated-differently-than-refugees-from-other-countries">Why Ukrainians are being treated differently than refugees from other countries</a> NPR: As neighboring countries let in Ukrainian refugees, Africans living and studying in Ukraine say they're facing discrimination at border crossings. Media coverage of the invasion is part of the reason. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083580974/in-an-effort-to-choke-russian-economy-new-sanctions-target-russias-central-bank">In an effort to choke Russian economy, new sanctions target Russia's central bank </a> NPR: The U.S. and its allies are taking additional steps to squeeze the Russian economy in response to the invasion of Ukraine. Russia's currency has fallen, which will mean higher prices for Russians. 
+ <p class="updated_time"> 03:30 PM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: 'There are no dollars - I don't know what to do!'</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 03:10 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html">Russian Forces Hit Harder in Ukraine After a Fumbled Start</a> NYT: After days of miscalculation about Ukraine’s resolve to fight, Russian forces are turning toward an old pattern of opening fire on cities and mounting sieges. 
  <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
@@ -53,7 +55,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:37 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fighting escalates despite ceasefire talks</a> BBC: The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Russia and Ukraine. 
  <p class="updated_time"> 02:29 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083550554/toyota-stops-production-in-japan-after-a-cyberattack-hits-one-of-its-suppliers">Toyota stops production in Japan after a cyberattack hits one of its suppliers</a> NPR: The suspected attack forced Toyota, one of the world's largest auto manufacturers, to suspend operations at 14 of its Japanese plants on Tuesday, impacting the production of about 13,000 vehicles. 
+ <a href="https://www.npr.org/2022/02/28/1083550554/toyota-stops-production-in-japan-after-a-cyberattack-hits-one-of-its-suppliers">Toyota stops production in Japan after a cyberattack hits one of its suppliers</a> NPR: The suspected attack forced Toyota, one of the world's largest auto manufacturers, to suspend operations at 14 of its Japanese plants on Tuesday, affecting the production of about 13,000 vehicles. 
  <p class="updated_time"> 02:22 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-Turn, Germany Ups Military Spending and Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Feb. 28 </p> 
@@ -78,6 +80,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60559574?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What are the nuclear risks?</a> BBC: Russia's nuclear forces are on "special alert" - what does that mean and how worried should we be? 
  <p class="updated_time"> 11:14 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/travel/panama-azuero-spider-monkeys.html">In Search of Panama’s Elusive Spider Monkeys</a> NYT: Environmental initiatives in the Azuero Peninsula offer hope for the future of a critically endangered subspecies. 
+ <p class="updated_time"> 11:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</a> WSJ: Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv. 
  <p class="updated_time"> 10:49 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/australia/australia-flood-queensland.html">Floods Engulf Brisbane and Kill at Least 9 in Northeastern Australia</a> NYT: Days of downpours have pummeled Queensland and New South Wales, with the authorities describing the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 10:30 AM CT, Feb. 28 </p> 
@@ -96,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 08:46 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/taliban-halts-further-evacuations-rejecting-u-s-precondition-for-lifting-sanctions-11646077567">Taliban Halts Evacuations, Rejecting U.S. Precondition for Lifting Sanctions</a> WSJ: Afghans will no longer be allowed to leave the country without a good reason, and women will be barred from traveling without a chaperone, as thousands who helped the U.S. war effort are still trying to escape. 
- <p class="updated_time"> 08:28 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</a> WSJ: Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv. 
  <p class="updated_time"> 08:12 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-citizens-russian-army-fight.html">Ukrainian Citizens Prepare to Fight Russian Army</a> NYT: In cities and towns in Central Ukraine that have not yet heard the boom of Russian artillery fire, residents spent the weekend preparing furiously for the possibly of an attack. 
  <p class="updated_time"> 07:58 AM CT, Feb. 28 </p> 
@@ -158,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008230025/ukraine-volunteers.html">‘I Just Want to Live in Our Country’: Civilians Join the Fight in Kyiv</a> NYT: Julia, a teacher and Ukrainian volunteer, wept as she waited to be deployed to fight Russian troops around Kyiv on Saturday. 
  <p class="updated_time"> 04:35 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60549023?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day four</a> BBC: The EU is sending arms to Ukraine and banning Russian flights. Here's what you need to know after Day Four of the war. 
- <p class="updated_time"> 04:00 PM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: Russian planes will now be unable to land in, take off from or fly over any EU nation. 
  <p class="updated_time"> 03:22 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-russia-hungary-orban.html">Ukraine War Forces Hungary’s Orban Into Political Contortions</a> NYT: The pro-Russia, anti-immigrant Hungarian prime minister, who denounced any sanctions against Russia just weeks ago, has been forced to reverse himself as an election looms. 
  <p class="updated_time"> 02:34 PM CT, Feb. 27 </p> 
@@ -199,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581132/putins-invasion-of-ukraine-may-be-putting-russias-alliance-with-china-to-the-tes">Putin's invasion of Ukraine may be putting Russia's alliance with China to the test</a> NPR: Ahead of Russia's invasion of Ukraine, China was widely seen as one of Moscow's few allies. But the recent actions of President Vladmir Putin now has China trying to distance itself from Russia. 
  <p class="updated_time"> 03:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/refugees-ukraine-russia-00012499">500,000+ refugees have fled Ukraine since Russia waged war</a> Politico: The mass exodus of refugees from Ukraine to the eastern edge of the European Union shows no signs of stopping. 
  <p class="updated_time"> 03:36 PM CT, Feb. 28 </p> 
@@ -273,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1082872714/1st-trial-of-a-u-s-capitol-riot-defendant-opens-monday-in-d-c">1st trial of a U.S. Capitol riot defendant opens Monday in D.C.</a> NPR: The trial, at a courthouse just down the street from the site of the Jan. 6, 2021, insurrection, is a milestone in the Capitol riot investigation. 
  <p class="updated_time"> 11:17 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/jan-6-trial-guy-wesley-reffitt.html">First Jan. 6 Trial, of Guy Wesley Reffitt, Starts Monday</a> NYT: The Justice Department will have its first opportunity in a courtroom to show how the violent chaos that erupted at the Capitol last year disrupted the peaceful transfer of power. 
- <p class="updated_time"> 09:45 PM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/jan6-committee-alex-jones-shroyer-00012200">Jan. 6 select committee zeroes in on another Alex Jones associate</a> Politico: The panel has subpoenaed records for Annette Shroyer, the mother of Jones employee Owen Shroyer. 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
  <p class="updated_time"> 07:58 PM CT, Feb. 27 </p> 
@@ -331,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/leonard-peltier-clemency-native-american.html">Supporters Seek Clemency for Leonard Peltier, Native American Activist</a> NYT: Leonard Peltier, sentenced to two life terms 45 years ago in the shooting of two F.B.I. agents, is now 77 and in poor health. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
- <p class="updated_time"> 07:42 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083283287/georgia-republicans-will-choose-between-candidates-that-supported-or-denounced-t">Georgia Republicans will choose between candidates that supported or denounced Trump</a> NPR: The GOP primary for Georgia's top election office includes a candidate who was pressured by former President Donald Trump to overturn his 2020 defeat and another who supports Trump's election lies. 
  <p class="updated_time"> 05:47 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-diplomacy.html">State Dept. Says Moscow’s Ukraine Diplomacy Was a ‘Pretense’</a> NYT: Officials in the Biden administration met repeatedly with Russian emissaries as the threat of an invasion of Ukraine grew more apparent. 
  <p class="updated_time"> 09:22 PM CT, Feb. 25 </p> 
