@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:50 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: As Ukraine and Russia Prepare to Talk, Fighting Rages On</a> NYT: President Volodymyr Zelensky agreed to send a delegation to discuss an end to the conflict, but said he feared Monday’s talks would not result in peace as Russian forces massed outside Kyiv and the value of ruble plummeted overnight. 
- <p class="updated_time"> 03:35 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummeted 30% against the US dollar after Western countries imposed new sanctions. 
+ <p class="updated_time"> 04:24 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummets 30% against the US dollar after Western countries imposed new sanctions. 
+ <p class="updated_time"> 04:20 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
+ <p class="updated_time"> 04:06 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: As Ukraine and Russia Prepare to Talk, Fighting Rages On</a> NYT: A Ukrainian delegation arrived at the Belarus border for talks with Russia, but President Volodymyr Zelensky expressed little optimism that they would end the fighting. Russia showed little sign of de-escalating even as its economy staggered under sanctions, sending the ruble plummeting. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/germany-covid-far-right-protests.html">In Germany, Threats Grow as Far Right and Pandemic Protestors Merge</a> NYT: In the former Communist East, security officials worry that a long-running movement against Covid restrictions is becoming an incubator of political violence. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/travel/panama-azuero-spider-monkeys.html">In Search of Panama’s Elusive Spider Monkeys</a> NYT: Environmental initiatives in the Azuero Peninsula offer hope for the future of a critically endangered subspecies. 
  <p class="updated_time"> 03:27 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/asia/singapore-gay-sex-law.html">Singapore’s Latest Ruling on Gay Sex Is ‘Cold Comfort,’ Activists Say</a> NYT: Plaintiffs had hoped the Court of Appeal would overturn the colonial-era law. Instead, the top court said it was not “an architect of social policy” and that any change was up to Parliament. 
  <p class="updated_time"> 03:15 AM CT, Feb. 28 </p> 
@@ -54,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-citizens-russian-army-fight.html">Ukrainian Citizens Prepare to Fight Russian Army</a> NYT: In cities and towns in Central Ukraine that have not yet heard the boom of Russian artillery fire, residents spent the weekend preparing furiously for the possibly of an attack. 
  <p class="updated_time"> 08:07 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60551140?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Would Putin press the nuclear button?</a> BBC: "Would never do" isn't a phrase that applies to Vladimir Putin, the BBC's Steve Rosenberg believes. 
- <p class="updated_time"> 08:06 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president is open to all members of Congress. 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
  <p class="updated_time"> 06:58 PM CT, Feb. 27 </p> 
@@ -148,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60546011?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Citizen volunteers take up arms to fight Russian invasion</a> BBC: Thousands of Ukrainian citizens are volunteering to fight, including many with no military experience. 
  <p class="updated_time"> 06:13 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083359982/snl-cold-open-ukraine-chorus">SNL offers a 'Prayer for Ukraine' in its cold open</a> NPR: "Saturday Night Live" normally kicks off each show with some humor, but the comedy sketch series opened with a tribute performance to Ukraine, which is dealing with an invasion from Russia. 
- <p class="updated_time"> 06:08 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 06:07 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
  <p class="updated_time"> 06:02 AM CT, Feb. 27 </p> 
@@ -166,8 +170,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/as-omicron-surges-covid-contact-tracers-face-an-unexpected-problem-much-less-work-11645963201">As Omicron Surges, Contact Tracers Face an Unexpected Problem: Much Less Work</a> WSJ: For the past two years, contact tracers have skipped meals, power napped at their desks and sprinted to the sites of Covid-19 cases at all hours. Now Omicron is here, many are doing a lot less, despite facing more cases than ever. 
  <p class="updated_time"> 12:49 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60540342?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Protests held across the globe</a> BBC: From London to Buenos Aires, thousands are gathering to protest Russia's invasion of Ukraine. 
- <p class="updated_time"> 12:42 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083352647/north-korea-fires-ballistic-missile-in-resumption-of-testing">North Korea fires ballistic missile in resumption of testing </a> NPR: North Korea launched a ballistic missile into the sea on Sunday, its neighbors said. It was the eighth of its kind this year and comes as U.S. attention is focused on the Russian invasion of Ukraine. 
  <p class="updated_time"> 10:47 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
@@ -212,6 +214,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60538563?at_medium=RSS&at_campaign=KARANGA">BBC Russian reporter in Kyiv: The day the war began</a> BBC: BBC Russian's Ilya Barabanov describes waking up in Kiev on the morning Russia invaded Ukraine. 
  <p class="updated_time"> 06:10 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/greece-ferry-fire.html">8 Found Dead After Ferry Fire Off Greece as Grim Search Continues</a> NYT: The blaze aboard the Euroferry Olympia burned for most of a week. Hundreds of passengers were rescued, but at least three more are believed missing. 
+ <p class="updated_time"> 04:53 AM CT, Feb. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60537594?at_medium=RSS&at_campaign=KARANGA">Ukraine Crisis: Fleeing under the cover of darkness</a> BBC: The BBC's Fergal Keane watches a "constant procession" of cars and people. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
  <p class="updated_time"> 06:16 PM CT, Feb. 25 </p> 
@@ -229,6 +233,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/u-s-russia-ukraine-protests-sanctions-00012173">The West finally throws a punch in its face-off with Russia</a> Politico: A rash of weekend moves on sanctions, airspace, military aid and more showed that the United States and its allies aren’t afraid to escalate when it comes to helping Ukraine. 
+ <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
  <p class="updated_time"> 11:17 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/jan-6-trial-guy-wesley-reffitt.html">First Jan. 6 Trial, of Guy Wesley Reffitt, Starts Monday</a> NYT: The Justice Department will have its first opportunity in a courtroom to show how the violent chaos that erupted at the Capitol last year disrupted the peaceful transfer of power. 
  <p class="updated_time"> 09:45 PM CT, Feb. 27 </p> 
@@ -365,8 +373,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: At least $10 billion in emergency funding is likely to be included in a package to aid Ukraine, with the majority of that money going toward helping refugees, Sen. Chris Coons said. 
  <p class="updated_time"> 04:14 AM CT, Feb. 25 </p> 
  <a href="https://www.npr.org/2022/02/25/1083003287/republicans-dominate-texas-politics-despite-the-states-changing-demographics">Republicans dominate Texas politics despite the state's changing demographics</a> NPR: In Texas, early voting is well underway ahead of Tuesday's primary election. Democrats haven't won a statewide election in Texas for decades, despite many attempts to "turn Texas blue." 
- <p class="updated_time"> 04:14 AM CT, Feb. 25 </p> 
- <a href="https://www.npr.org/2022/02/25/1083003224/morning-news-brief">News brief: Ukraine invasion, U.S, intelligence, GOP criticizes Biden</a> NPR: The Russian invasion of Ukraine continues to unfold. U.S. intelligence didn't prevent the invasion, so what role should the U.S. play now? The GOP criticizes Biden over his response to the invasion. 
  <p class="updated_time"> 03:36 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/inhofe-to-retire-from-senate-teeing-up-special-election-in-oklahoma-00011534">Inhofe to retire from Senate, teeing up special election in Oklahoma</a> Politico: The 87-year-old Oklahoma Republican is expected to announce his retirement, likely triggering a special election to replace him this fall. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
