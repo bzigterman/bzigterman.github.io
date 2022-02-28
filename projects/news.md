@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:44 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides held talks. 
- <p class="updated_time"> 11:42 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 11:55 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
- <p class="updated_time"> 11:42 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 11:49 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa ban all Russian clubs and national teams</a> BBC: Football's world governing body Fifa and Europe's governing body Uefa have suspended Russian clubs and national teams from all competitions. 
+ <p class="updated_time"> 11:48 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides held talks. 
  <p class="updated_time"> 11:33 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-talks-belarus.html">Russia and Ukraine Hold Talks in Belarus</a> NYT: Delegates to return from talks in Belarus for consultations with their governments. 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
@@ -64,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Hold Talks as Russian Shelling Kills Civilians in Eastern City</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
- <p class="updated_time"> 03:57 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-is-levying-sanctions-against-russias-central-bank-11646052061">U.S. Levies Sanctions Against Russia Central Bank</a> WSJ: The moves are being coordinated with allies and aim to prevent Moscow from using its emergency reserve currencies to protect the economy from the Western pressure campaign. 
  <p class="updated_time"> 03:27 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/asia/singapore-gay-sex-law.html">Singapore’s Latest Ruling on Gay Sex Is ‘Cold Comfort,’ Activists Say</a> NYT: Plaintiffs had hoped the Court of Appeal would overturn the colonial-era law. Instead, the top court said it was not “an architect of social policy” and that any change was up to Parliament. 
  <p class="updated_time"> 03:26 AM CT, Feb. 28 </p> 
@@ -80,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/in-some-african-nations-armed-police-enforce-covid-19-vaccinations-11646056306">In Some African Nations, Armed Police Enforce Covid-19 Vaccinations</a> WSJ: Countries in some parts of the world have offered a variety of incentives or threats to convince people to get inoculated, but some African nations are taking a more aggressive stance. 
  <p class="updated_time"> 02:06 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/indias-gdp-grew-5-4-in-third-quarter-11646053570">India's GDP Grew 5.4% in Latest Quarter</a> WSJ: Weak consumer confidence and a lackluster job market weighed on the country’s economic recovery. 
- <p class="updated_time"> 02:05 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/russias-invasion-of-ukraine-changed-the-world-in-days-11646053550">Russia's Invasion of Ukraine Changed the World in Days</a> WSJ: The war in Ukraine has redrawn the security landscape of Europe in less than a week, remaking the post-Cold War order and splitting Russia away from the West once more. 
  <p class="updated_time"> 01:40 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 01:33 AM CT, Feb. 28 </p> 
@@ -205,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/feinsteins-husband-richard-blum-dies-00012347">Feinstein's husband, Richard Blum, dies</a> Politico: Blum's death follows a long battle with cancer. 
  <p class="updated_time"> 12:08 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/twitter-label-state-affiliated-russia-media-00012351">Twitter to label all state-affiliated Russia media</a> Politico: The latest steps come as Russian disinformation spreads. 
  <p class="updated_time"> 11:12 AM CT, Feb. 28 </p> 
@@ -265,8 +263,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083379284/montgomery-ala-mayor-on-leading-the-city-through-the-voting-rights-battle">Montgomery, Ala., mayor on leading the city through the voting rights battle</a> NPR: NPR's Michel Martin speaks with Steven Reed, the first Black mayor of Montgomery, Ala. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083379277/sen-sullivan-supports-sending-more-military-aid-to-ukraine">Sen. Sullivan supports sending more military aid to Ukraine</a> NPR: NPR's Michel Martin speaks with Sen. Dan Sullivan (R-Alaska) about the Russian invasion of Ukraine. 
- <p class="updated_time"> 03:03 PM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/psaki-biden-state-of-the-union-00012136">State of the Union address will be different, Psaki acknowledges</a> Politico: The Russia-Ukraine war will alter what the president will talk about. 
  <p class="updated_time"> 02:54 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/canada-russia-cash-freeze-freeland-00012139">Behind the push to freeze Moscow’s foreign cash</a> Politico: Ahead of the latest sanctions, Canada’s Chrystia Freeland worked with her Ukrainian counterparts to win over skeptics. 
  <p class="updated_time"> 02:07 PM CT, Feb. 27 </p> 
