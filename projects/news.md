@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:39 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 05:44 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukraine and Russia Talk, but Fighting Continues</a> NYT: Delegations from Kyiv and Moscow were meeting in Belarus, but President Volodymyr Zelensky expressed little hope that talks would end the fighting. Russia showed no sign of de-escalating even as its economy staggered under sanctions. 
+ <p class="updated_time"> 05:36 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60554820?at_medium=RSS&at_campaign=KARANGA">Search for bodies after gunmen attack Mexico wake</a> BBC: Armed men reportedly shot dead a group of mourners but their bodies appear to have been removed. 
  <p class="updated_time"> 05:27 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russias-currency-sanctions.html">The Ruble Dropped to Record Levels Against Dollar </a> NYT: The ruble dropped to record lows against the dollar, stirring fears of inflation and bank runs, and the central bank raised a key interest rate sharply. 
  <p class="updated_time"> 05:18 AM CT, Feb. 28 </p> 
@@ -60,6 +62,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-war-russia.html">Ukraine Agrees to Talks With Russia, but Fighting Still Rages</a> NYT: Putin, accusing the West of “aggressive statements,” puts nuclear forces on alert. Kyiv remains in Russian cross-hairs as Ukrainians push back. 
  <p class="updated_time"> 12:07 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
+ <p class="updated_time"> 12:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/impacts-of-climate-change-now-severe-and-widespread-u-n-panel-says-11646046000">Impacts of Climate Change Now Severe and Widespread, U.N. Panel Says</a> WSJ: Based on 34,000 studies, a new report says major weather events are more common and severe than previously predicted. 
  <p class="updated_time"> 11:57 PM CT, Feb. 27 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-return-home-to-fight-russia-i-have-to-go-11646045875">Ukrainians Return Home to Fight Russia: 'I Have to Go'</a> WSJ: Ukrainians from across Europe—part of a huge diaspora that has spread across the continent in the three decades since the former Soviet republic gained independence—are streaming back to their home country to pick up arms in their fight against Russia. 
  <p class="updated_time"> 11:28 PM CT, Feb. 27 </p> 
