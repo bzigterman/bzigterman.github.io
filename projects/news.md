@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:08 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 06:44 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
+ <p class="updated_time"> 06:43 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukraine and Russia Talk, but Fighting Continues</a> NYT: Delegations from Kyiv and Moscow were meeting in Belarus, but President Volodymyr Zelensky expressed little hope that talks would end the fighting. Russia showed no sign of de-escalating even as its economy staggered under sanctions. 
- <p class="updated_time"> 06:00 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummets 30% against the US dollar after Western countries imposed new sanctions. 
+ <p class="updated_time"> 06:24 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html">Climate Change's Effects Outpacing Ability to Adapt, I.P.C.C. Warns</a> NYT: Countries aren’t doing nearly enough to protect against the disasters to come as the planet keeps heating up, a major new scientific report concludes. 
+ <p class="updated_time"> 06:19 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummets to a record low against the US dollar after Western countries imposed new sanctions. 
+ <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60551688?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Half a million flee as fighting rages</a> BBC: Hundreds of casualties are reported as major cities remain under attack from Russian forces. 
  <p class="updated_time"> 05:36 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60554820?at_medium=RSS&at_campaign=KARANGA">Search for bodies after gunmen attack Mexico wake</a> BBC: Armed men reportedly shot dead a group of mourners but their bodies appear to have been removed. 
  <p class="updated_time"> 05:27 AM CT, Feb. 28 </p> 
@@ -20,14 +26,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russia-stock-market.html">Russia's Stock Market Closes and Ruble Crashes as Sanctions Hit</a> NYT: The hectic moves were the first signs that Western sanctions were shaking the foundations of Russia’s economy. 
  <p class="updated_time"> 05:00 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60525591?at_medium=RSS&at_campaign=KARANGA">Climate change: IPCC report warns of ‘irreversible’ impacts of global warming</a> BBC: IPCC scientists outline a harrowing summary of climate impacts already hurting people and species. 
- <p class="updated_time"> 05:00 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html">Climate Change's Effects Outpacing Ability to Adapt, I.P.C.C. Warns</a> NYT: Countries aren’t doing nearly enough to protect against the disasters to come as the planet keeps heating up, a major new scientific report concludes. 
  <p class="updated_time"> 04:49 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60536824?at_medium=RSS&at_campaign=KARANGA">In pictures: Kyiv under attack</a> BBC: Russian forces continue a military assault on neighbouring Ukraine, as fighting reaches the streets in the capital. 
  <p class="updated_time"> 04:47 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083423348/europe-welcomes-ukrainian-refugees-but-others-less-so">Europe welcomes Ukrainian refugees but others, less so</a> NPR: The hospitality greeting Ukrainians fleeing the violence in their native country has highlighted the stark differences in treatment given to migrants and refugees from the Middle East and Africa. 
- <p class="updated_time"> 04:35 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60551688?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Cities on high alert after night of shelling</a> BBC: Major outposts in the north are still under Ukrainian control despite overnight attacks by Russia. 
  <p class="updated_time"> 04:28 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
@@ -50,18 +52,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and troops are now in northern districts of the capital Kyiv. 
  <p class="updated_time"> 02:11 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
- <p class="updated_time"> 01:49 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
  <p class="updated_time"> 01:40 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 01:33 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083385057/boycotts-russian-effects">Boycotts of Russian products and groups spread, but the effects may be limited</a> NPR: Russian vodka is being pulled from many shelves and the country's soccer team may find few willing opponents in the near term. But for the most part, experts say, the protests are largely symbolic. 
+ <p class="updated_time"> 01:30 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
  <p class="updated_time"> 01:06 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60552110?at_medium=RSS&at_campaign=KARANGA">Australia floods: Eight dead in ‘unprecedented’ weather emergency</a> BBC: Residents were trapped on rooftops as floodwaters rose much quicker than expected. 
  <p class="updated_time"> 01:04 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-war-russia.html">Ukraine Agrees to Talks With Russia, but Fighting Still Rages</a> NYT: Putin, accusing the West of “aggressive statements,” puts nuclear forces on alert. Kyiv remains in Russian cross-hairs as Ukrainians push back. 
- <p class="updated_time"> 12:07 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
  <p class="updated_time"> 12:00 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/impacts-of-climate-change-now-severe-and-widespread-u-n-panel-says-11646046000">Impacts of Climate Change Now Severe and Widespread, U.N. Panel Says</a> WSJ: Based on 34,000 studies, a new report says major weather events are more common and severe than previously predicted. 
  <p class="updated_time"> 11:57 PM CT, Feb. 27 </p> 
@@ -229,8 +229,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/meta-belarus-hacking-campaign-ukraine-00012214">Meta takes action against Belarus-linked hacking campaign targeting Ukrainians</a> Politico: Meta’s actions mark a step toward addressing disinformation and make both Russians and Ukrainians somewhat safer online 
+ <p class="updated_time"> 06:30 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/us-escalates-sanctions-with-a-freeze-on-russian-central-bank-assets.html">U.S. escalates sanctions with a freeze on Russian central bank assets.</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
@@ -297,6 +301,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/cotton-trump-vladimir-putin-00012123">Cotton declines to berate Trump for praising Putin</a> Politico: The Arkansas senator deflected repeated questions about the former president from George Stephanopoulos. 
  <p class="updated_time"> 11:13 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/27/your-guide-through-a-blizzard-of-news-in-ukraine-00012118"> Your guide through a blizzard of news in Ukraine</a> Politico Playbook: And Trump remains the star of the show at CPAC. 
+ <p class="updated_time"> 10:16 AM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/ukraine-russia-peace-talks-thomas-greenfield-00012111">Thomas-Greenfield says U.S. ‘looks forward’ to outcome of Ukraine-Russia peace talks</a> Politico: Ukrainian President Volodymyr Zelenskyy had previously said Ukraine was ready for peace talks. 
  <p class="updated_time"> 10:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Europe Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
  <p class="updated_time"> 09:45 AM CT, Feb. 27 </p> 
@@ -319,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/26/1083332599/the-alabama-leaders-challenging-gop-drawn-map-that-critics-say-disfavors-black-v">Alabama leaders say their maps don't disfavor Black voters, but activists disagree</a> NPR: NPR's Michel Martin speaks with lawmakers and an activist in Montgomery, Ala., to learn more about the battle over voting rights and gerrymandering in the state. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083332592/rep-adam-kinzinger-says-politicizing-russia-ukraine-crisis-hurts-washington">Rep. Adam Kinzinger says politicizing Russia-Ukraine crisis hurts Washington</a> NPR: NPR's Michel Martin speaks with Rep. Adam Kinzinger (R-Ill.) about the Russian invasion of Ukraine and President Biden's reaction to it. 
- <p class="updated_time"> 03:31 PM CT, Feb. 26 </p> 
- <a href="https://www.politico.com/news/2022/02/26/biden-putin-invasion-opposite-effect-nato-00012091">Biden: Putin's invasion creating 'opposite effect' to its intent</a> Politico: The president further described “complete unanimity” within NATO as the U.S. and its allies levied harsh sanctions on Russia and increasingly stepped up aid to Ukraine. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:34 PM CT, Feb. 26 </p> 
@@ -349,8 +353,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-sanctions-afghanistan.html">U.S. Eases Sanctions to Allow Routine Transactions With Afghan Government</a> NYT: The move allows financial dealings with civil servants at government institutions, even if those ministries are now overseen by Taliban members. 
  <p class="updated_time"> 09:09 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/kimberly-guilfoyle-january-6-committee.html">Jan. 6 Panel Threatens to Force Kimberly Guilfoyle to Testify</a> NYT: Kimberly Guilfoyle, the fiancée of former President Donald J. Trump’s eldest son, cut short an interview when she learned that House members on the panel were participating. 
- <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 06:21 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Will Senators Do?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
