@@ -8,20 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:31 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 04:49 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
+ <p class="updated_time"> 04:44 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Refugees Flood Out of Ukraine</a> NYT: The U.N. is looking for aid to help about half a million people who have left the country as attacks intensify. Delegations from Kyiv and Moscow failed to make progress in Belarus, but more talks are planned in the coming days. 
- <p class="updated_time"> 04:30 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/mars-europe-rover.html">Mission to Mars with Russia now “very unlikely,” European Space Agency says</a> NYT: The ExoMars mission, postponed in 2020 because of the pandemic and technical issues, may miss its window to launch this year because of sanctions imposed against Russia over the invasion of Ukraine. 
+ <p class="updated_time"> 04:44 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/arts/design/maria-primachenko-paintings-destroyed-ukraine.html">Treasured Paintings Burned in Russian Invasion, Ukrainian Officials Say</a> NYT: Roughly 25 works by the painter Maria Primachenko were destroyed at a museum in Ivankiv, Ukraine’s Ministry of Foreign Affairs said. 
+ <p class="updated_time"> 04:41 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/mars-europe-rover.html">Planned Europe-Russia Joint Mars Mission Called “Very Unlikely”</a> NYT: The ExoMars mission, postponed in 2020 because of the pandemic and technical issues, may miss its window to launch this year because of sanctions imposed against Russia over the invasion of Ukraine. 
+ <p class="updated_time"> 04:39 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html">Ukraine War Tests the Power of Tech Giants</a> NYT: Google, Meta, Twitter, Telegram and others are levers in the conflict, caught between demands from Ukraine, Russia, the European Union and the U.S. 
+ <p class="updated_time"> 04:38 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-khan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
+ <p class="updated_time"> 04:35 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083598057/icc-ukraine-investigation">The ICC says it will open an investigation into alleged war crimes in Ukraine</a> NPR: The International Criminal Court's top prosecutor said there was "reasonable basis to believe" that war crimes may have been committed in Ukraine, where 8 years of conflict preceded Russia's invasion. 
  <p class="updated_time"> 04:24 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581139/magpies-unexpected-reaction-to-gps-trackers-may-have-revealed-altruism-in-the-bi">Magpies' unexpected reaction to GPS trackers may have revealed altruism in the birds</a> NPR: Researchers tried to attach tracking devices to magpies for a study. But the magpies helped each other to remove them — a possible sign, the scientists say, of altruism in the birds. 
- <p class="updated_time"> 04:22 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581132/putins-invasion-of-ukraine-may-be-putting-russias-alliance-with-china-to-the-tes">Putin's invasion of Ukraine may be putting Russia's alliance with China to the test</a> NPR: Ahead of Russia's invasion of Ukraine, China was widely seen as one of Moscow's few allies. But the recent actions of President Vladmir Putin now has China trying to distance itself from Russia. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581125/the-latest-from-the-pentagon-on-russia">The latest from the Pentagon on Russia </a> NPR: Pentagon officials say Russia could be poised to step up bombing in Ukraine. The United States and NATO are sending more weapons to Ukraine. 
- <p class="updated_time"> 03:52 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-khan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
  <p class="updated_time"> 03:50 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency sinks to a record low against the dollar after Western countries impose new sanctions. 
  <p class="updated_time"> 03:37 PM CT, Feb. 28 </p> 
@@ -55,8 +61,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:45 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
  <p class="updated_time"> 02:37 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/arts/design/maria-primachenko-paintings-destroyed-ukraine.html">Treasured Paintings Burned in Russian Invasion, Ukrainian Officials Say</a> NYT: Roughly 25 works by the painter Maria Primachenko were destroyed at a museum in Ivankiv, Ukraine’s Ministry of Foreign Affairs said. 
- <p class="updated_time"> 02:37 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fighting escalates despite ceasefire talks</a> BBC: The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Russia and Ukraine. 
  <p class="updated_time"> 02:29 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083550554/toyota-stops-production-in-japan-after-a-cyberattack-hits-one-of-its-suppliers">Toyota stops production in Japan after a cyberattack hits one of its suppliers</a> NPR: The suspected attack forced Toyota, one of the world's largest auto manufacturers, to suspend operations at 14 of its Japanese plants, affecting the production of about 13,000 vehicles. 
@@ -76,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083496491/russian-performers-speak-out-putin-ukraine">Some Russian performing artists are speaking out against Putin</a> NPR: A number of Russian stars from the performing arts world are using their voices and international platforms to denounce the invasion of Ukraine and speak up against Russian President Vladimir Putin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/ukraine-russia-talks-belarus.html">Initial Talks Between Russia and Ukraine Yield No Resolution </a> NYT: Russia’s delegation leader said the next meeting would take place once more along the Ukraine-Belarus border in the “coming days.” 
- <p class="updated_time"> 12:37 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083478065/russias-central-bank-doubles-a-key-interest-rate-as-sanctions-spark-economic-tur">Russia's central bank doubles a key interest rate as sanctions spark economic turmoil</a> NPR: Russia's ruble collapsed on Monday as sanctions hit, forcing President Vladimir Putin to hold an emergency meeting with his economic advisers. 
  <p class="updated_time"> 11:30 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</a> WSJ: Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv. 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
@@ -98,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/nyregion/new-york-mask-mandate-schools.html">New York Ends Its Mask Mandate for Schools</a> NYT: Gov. Kathy Hochul said the statewide mask mandate in schools would end on Wednesday, and Mayor Eric Adams planned to lift pandemic measures in the city on March 7. 
  <p class="updated_time"> 09:15 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html">Climate Change's Effects Outpacing Ability to Adapt, I.P.C.C. Warns</a> NYT: Countries aren’t doing nearly enough to protect against the disasters to come as the planet keeps heating up, a major new scientific report concludes. 
- <p class="updated_time"> 09:10 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 08:46 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/taliban-halts-further-evacuations-rejecting-u-s-precondition-for-lifting-sanctions-11646077567">Taliban Halts Evacuations, Rejecting U.S. Precondition for Lifting Sanctions</a> WSJ: Afghans will no longer be allowed to leave the country without a good reason, and women will be barred from traveling without a chaperone, as thousands who helped the U.S. war effort are still trying to escape. 
  <p class="updated_time"> 08:12 AM CT, Feb. 28 </p> 
@@ -188,8 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: Flight data suggested that the missile launched Sunday was less powerful than the last one the North tested, four weeks ago. 
- <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Ukraine's Volodymyr Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
 
@@ -242,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:08 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/twitter-label-state-affiliated-russia-media-00012351">Twitter to label all state-affiliated Russia media</a> Politico: The latest steps come as Russian disinformation spreads. 
  <p class="updated_time"> 11:12 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/us-closes-belarus-embassy-ukraine-attack-00012323">U.S. shuts down Belarus embassy amid attack on Ukraine</a> Politico: The State Department has issued a "do not travel" advisory for Belarus. 
+ <a href="https://www.politico.com/news/2022/02/28/us-closes-belarus-embassy-ukraine-attack-00012323">U.S. expels Russian U.N. diplomats, shuts embassy in Belarus</a> Politico: The latest American actions were in response to Russia's invasion and continuing assault on Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ketanji-brown-jackson-mcconnell-00012311">Ketanji Brown Jackson to meet with McConnell this week</a> Politico: Biden’s Supreme Court nominee is making the rounds on the Hill, including to some key Republican lawmakers. 
  <p class="updated_time"> 08:00 AM CT, Feb. 28 </p> 
@@ -263,8 +261,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/trucker-crypto-crackdown-in-canada-fuels-gop-backlash-in-u-s-00011401">Trucker crypto crackdown in Canada fuels GOP backlash in U.S.</a> Politico: At least one House GOP lawmaker has introduced a bill to prevent a similar government clampdown in the U.S. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/covid-vaccine-exemption-hospital-00011951">Health workers’ vaccine mandate undone by religious exemptions</a> Politico: Several hospital executives said they believe they have to approve the religious exemptions for their employees. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/first-january6-trial-reffitt-00012216">First Capitol riot trial opens in D.C.</a> Politico: This is the first test of the Justice Department’s effort to transform its Jan. 6 manhunt into convincing arguments. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
