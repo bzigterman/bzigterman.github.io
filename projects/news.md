@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:32 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/health/pfizer-vaccine-kids.html">Pfizer Shot Is Far Less Effective in 5- to 11-Year-Olds Than in Older Kids, New Data Show</a> NYT: While protection against hospitalization is still strong, the vaccine offered almost no protection against infection, even just a month after full vaccination. 
- <p class="updated_time"> 09:32 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 09:51 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: U.S. Sharply Escalates Sanctions Against Russia as Fighting Continues</a> NYT: The U.N. General Assembly is meeting to discuss the invasion of Ukraine. Delegations from Kyiv and Moscow held talks in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second largest city. 
+ <p class="updated_time"> 09:44 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/health/pfizer-vaccine-kids.html">Pfizer Shot Is Far Less Effective in 5- to 11-Year-Olds Than in Older Kids, New Data Show</a> NYT: While protection against hospitalization is still strong, the vaccine offered almost no protection against infection, even just a month after full vaccination. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/switzerland-russian-assets-freeze.html">Switzerland Says it Will Freeze Russian Assets</a> NYT: The decision came amid mounting public anger at Russia’s invasion of Ukraine. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
