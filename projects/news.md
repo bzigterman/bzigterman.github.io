@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:00 PM CT, Feb. 27 </p> 
+ <p class="updated_time"> 10:43 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Putin Places Nuclear Forces on Alert as Ukraine Agrees to Talks with Russia</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
+ <p class="updated_time"> 10:33 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities have drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
+ <p class="updated_time"> 10:28 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/kyrie-irving-covid.html">Why Kyrie Irving Still Won’t Play in Brooklyn if Some Covid Restrictions End Next Week</a> NYT: Barclays Center would remain under a private sector vaccine mandate that took effect in December. 
+ <p class="updated_time"> 10:03 PM CT, Feb. 27 </p> 
+ <a href="https://www.npr.org/2022/02/27/1083387627/metropolitan-opera-sever-ties-putin-ukraine-gergiev-netrebko">Metropolitan Opera says it will sever ties with Putin-allied artists</a> NPR: Star performers at the famed New York opera house, including soprano Anna Netrebko and conductor Valery Gergiev, have been closely associated with Russian President Vladimir Putin. 
+ <p class="updated_time"> 09:58 PM CT, Feb. 27 </p> 
+ <a href="https://www.npr.org/2022/02/27/1083380718/europe-and-the-u-s-move-to-isolate-russia-as-ukrainians-hold-off-invaders">Europe and the U.S. move to isolate Russia as Ukrainians fight to hold off invaders</a> NPR: Russian forces met stiff resistance over the weekend in their invasion of Ukraine. Meanwhile, the European Union is banning Russian planes and sending arms as refugees line up to escape the violence. 
  <p class="updated_time"> 08:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/zelensky-speech-video.html">In Video, a Defiant President Zelensky Says, ‘We Are Here’</a> NYT: The 44-year-old president of Ukraine videotaped himself in Kyiv as Russian forces closed in on the capital, vowing to fight them to the end. 
  <p class="updated_time"> 08:30 PM CT, Feb. 27 </p> 
@@ -30,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-military-budget-russia-ukraine.html">Germany Announces Increase in Defense Spending Amid Russia's Ukraine Invasion</a> NYT: Chancellor Olaf Scholz announced a major increase to Germany’s defense budget, a shift in longstanding policy. 
  <p class="updated_time"> 06:52 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60304123?at_medium=RSS&at_campaign=KARANGA">Sid Meier warns the games industry about monetisation</a> BBC: The creator of Civilization speaks to the BBC on the 30th anniversary of its release. 
+ <p class="updated_time"> 06:44 PM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60525591?at_medium=RSS&at_campaign=KARANGA">Climate change: UN report to show true scale of impacts</a> BBC: A landmark study on how global warming is altering our planet is set to be released later. 
  <p class="updated_time"> 06:42 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60415367?at_medium=RSS&at_campaign=KARANGA">The chefs using TikTok to reinvent their careers</a> BBC: Highly skilled chefs are quitting the restaurant sector and using social media to go solo. 
  <p class="updated_time"> 06:35 PM CT, Feb. 27 </p> 
@@ -52,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60549023?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day four</a> BBC: The EU is sending arms to Ukraine and banning Russian flights. Here's what you need to know after Day Four of the war. 
  <p class="updated_time"> 04:31 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
- <p class="updated_time"> 04:22 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities have drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083379270/biden-sanctions-spare-russias-energy-sector-what-that-means-for-opec-talks">Biden sanctions spare Russia's energy sector. What that means for OPEC talks</a> NPR: The ongoing crisis in Ukraine has created volatility on global oil markets. The oil cartel OPEC+ has a meeting this week to discuss their output. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
@@ -158,20 +166,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
  <p class="updated_time"> 06:56 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60506765?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: How Russia forged closer ties with Africa</a> BBC: Russia has rebuilt military and diplomatic links with the continent in its search for new allies. 
- <p class="updated_time"> 05:54 PM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083314709/protests-world-ukraine-russia">Antiwar protesters take to the streets around the world in support of Ukraine</a> NPR: In cities across continents, protesters are standing in solidarity against the Russian invasion of Ukraine and condemning Russian President Vladimir Putin. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
  <p class="updated_time"> 02:12 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540341?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The women making Molotov cocktails to defend their city</a> BBC: The BBC's Sarah Rainsford visits Dnipro, where women are making Molotov cocktails to defend the city. 
- <p class="updated_time"> 01:58 PM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/02/26/1083312750/people-fleeing-ukraine-cross-into-romania">People fleeing Ukraine cross into Romania</a> NPR: As Russia invades their country, Ukrainians fleeing conflict are crossing into bordering nations. Satellite images show miles of cars and trucks waiting to cross into Romania. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Ukraine's Volodymyr Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
- <p class="updated_time"> 01:08 PM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539104?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Children on their own, parents stay behind</a> BBC: Mothers and grandmothers lead their children into the unknown as men aged 18 - 60 must stay behind. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
  <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
@@ -200,12 +202,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60537594?at_medium=RSS&at_campaign=KARANGA">Ukraine Crisis: Fleeing under the cover of darkness</a> BBC: The BBC's Fergal Keane watches a "constant procession" of cars and people. 
  <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html">Facial Recognition at Airports: What You Need to Know</a> NYT: Customs officials aim to save time and increase security by ramping up the use of facial recognition. But what about privacy? A biometrics specialist weighs in. 
- <p class="updated_time"> 03:53 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/europe/ukraine-apartment-building-hit-kyiv.html">Video Shows Missile Hitting Kyiv Residential Building</a> NYT: The missile hit a building about 1.5 miles from Sikorsky Memorial Airport. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
- <p class="updated_time"> 06:26 PM CT, Feb. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60533647?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Watch key moments from day two</a> BBC: Watch how Friday unfolded, from early morning explosions to a defiant message from Ukraine's president. 
  <p class="updated_time"> 06:16 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/asia/china-russia-ukraine-sovereignty.html">‘Abrupt Changes’: China Caught in a Bind Over Russia’s Invasion of Ukraine</a> NYT: China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
@@ -223,6 +221,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:45 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/jan6-committee-alex-jones-shroyer-00012200">Jan. 6 select committee zeroes in on another Alex Jones associate</a> Politico: The panel has subpoenaed records for Annette Shroyer, the mother of Jones employee Owen Shroyer. 
+ <p class="updated_time"> 09:00 PM CT, Feb. 27 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
  <p class="updated_time"> 07:58 PM CT, Feb. 27 </p> 
@@ -273,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Europe Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
  <p class="updated_time"> 09:45 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/pentagon-moscow-backchannel-escalation-00012107">Pentagon wants Moscow back channels to prevent nuclear escalation</a> Politico: As the U.S. and NATO rush weapons into Ukraine, DoD officials want more military channels to Putin’s top leaders. But Russia’s not picking up the phone. 
- <p class="updated_time"> 09:33 AM CT, Feb. 27 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:56 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-fence-biden-state-union-address-00012105">Capitol fence will return ahead of Biden’s State of the Union address</a> Politico: Fencing ringed the Capitol for weeks after the Jan. 6 insurrection, and some fencing returned ahead of a rally last September. 
  <p class="updated_time"> 07:24 AM CT, Feb. 27 </p> 
