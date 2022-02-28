@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:21 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 01:34 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
  <p class="updated_time"> 01:18 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
@@ -56,6 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 09:05 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/germany-covid-far-right-protests.html">In Germany, Threats Grow as Far Right and Pandemic Protestors Merge</a> NYT: In the former Communist East, security officials worry that a long-running movement against Covid restrictions is becoming an incubator of political violence. 
+ <p class="updated_time"> 08:28 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</a> WSJ: Negotiators make some progress and return their capitals for consultations with plans to meet again in coming days, as Ukraine holds on to Kyiv. 
  <p class="updated_time"> 08:12 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-citizens-russian-army-fight.html">Ukrainian Citizens Prepare to Fight Russian Army</a> NYT: In cities and towns in Central Ukraine that have not yet heard the boom of Russian artillery fire, residents spent the weekend preparing furiously for the possibly of an attack. 
  <p class="updated_time"> 07:58 AM CT, Feb. 28 </p> 
@@ -76,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083423348/europe-welcomes-ukrainian-refugees-but-others-less-so">Europe welcomes Ukrainian refugees but others, less so</a> NPR: The hospitality greeting Ukrainians fleeing the violence in their native country has highlighted the stark differences in treatment given to migrants and refugees from the Middle East and Africa. 
  <p class="updated_time"> 04:28 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
- <p class="updated_time"> 04:26 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Hold Talks as Russian Shelling Kills Civilians in Eastern City</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
  <p class="updated_time"> 04:20 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
@@ -201,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:16 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/california-drop-school-mask-mandate-march-11-00012367">California to drop school mask mandate on March 11</a> Politico: Gov. Gavin Newsom's announcement caps weeks of speculation over when one of the nation's strictest states would allow districts to make masks optional in the classroom. 
  <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/supreme-court-justices-epa-climate-authority-00012368">Supreme Court justices lean toward hobbling EPA's climate authority</a> Politico: Depending on how broadly the high court rules in the case before it about EPA's authority, it could make it harder for the government to regulate a broad variety of issues. 
  <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
