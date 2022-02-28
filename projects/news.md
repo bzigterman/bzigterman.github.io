@@ -8,8 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:28 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 03:44 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
+ <p class="updated_time"> 03:37 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-economy-sanctions-ukraine.html">As Sanctions Batter Economy, Russians Face the Anxieties of a Costly War</a> NYT: The ruble plunged, the stock market was shuttered and foreign investors shed holdings in Russian companies, deepening the concern among citizens who had become accustomed to the perks of globalization. 
+ <p class="updated_time"> 03:36 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581097/samantha-power-on-meeting-with-refugees-crossing-out-of-ukraine">Samantha Power on meeting with refugees crossing out of Ukraine</a> NPR: NPR's Sacha Pfeiffer talks with Samantha Power of the United States Agency for International Development about the humanitarian and refugee crisis resulting from the Russian invasion of Ukraine. 
+ <p class="updated_time"> 03:33 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-khan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581090/many-fleeing-ukraine-were-still-rebuilding-their-lives-after-the-2014-russian-as">Many fleeing Ukraine were still rebuilding their lives after the 2014 Russian assault</a> NPR: A Ukrainian family fled their home and now are stuck on the Ukrainian side of the border with Poland in an endless line. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581083/un-diplomats-spoke-out-against-moscow-in-emergency-meeting">UN diplomats spoke out against Moscow in emergency meeting</a> NPR: Diplomats at the United Nations are calling for peace. They held an emergency meeting after Russia blocked a security council resolution calling on Russia to withdraw. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581054/russia-and-ukraine-met-in-1st-negotiations-since-the-invasion">Russia and Ukraine met in 1st negotiations since the invasion</a> NPR: Russians lined up at ATM machines but there are few other signs of reaction to Western economic sanctions. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083580995/some-effects-of-climate-change-are-irreversible-but-theres-still-hope">Some effects of climate change are irreversible, but there's still hope</a> NPR: NPR's Ari Shapiro talks with earth scientist Brian O'Neill about a new major United Nations report on climate change. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083580988/physical-evidence-indicates-that-the-coronavirus-emerged-at-wuhan-seafood-market">Physical evidence indicates that the coronavirus emerged at Wuhan seafood market</a> NPR: Scientists have solid, physical evidence indicating the COVID pandemic began at a seafood market in Wuhan, China. Data suggest the virus jumped from an animal at the market into people at least twice. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083580981/why-ukrainians-are-being-treated-differently-than-refugees-from-other-countries">Why Ukrainians are being treated differently than refugees from other countries</a> NPR: As neighboring countries let in Ukrainian refugees, Africans living and studying in Ukraine say they're facing discrimination at border crossings. Media coverage of the invasion is part of the reason. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083580974/in-an-effort-to-choke-russian-economy-new-sanctions-target-russias-central-bank">In an effort to choke Russian economy, new sanctions target Russia's central bank </a> NPR: The U.S. and its allies are taking additional steps to squeeze the Russian economy in response to the invasion of Ukraine. Russia's currency has fallen, which will mean higher prices for Russians. 
  <p class="updated_time"> 03:10 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html">After a Fumbled Start, Russian Forces Hit Harder in Ukraine</a> NYT: After days of miscalculation about Ukraine’s resolve to fight, Russian forces are turning toward an old pattern of opening fire on cities and mounting sieges. 
  <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
@@ -94,16 +114,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
  <p class="updated_time"> 04:20 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
- <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
  <p class="updated_time"> 03:15 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60553124?at_medium=RSS&at_campaign=KARANGA">Ukrainian sailor in Majorca tried to sink yacht of Russian boss</a> BBC: The man told a judge in Majorca that he had wanted to retaliate for the invasion of Ukraine. 
  <p class="updated_time"> 03:01 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/kyrie-irving-covid.html">Why Kyrie Irving Still Won’t Play in Brooklyn if Some Covid Restrictions End Next Week</a> NYT: Barclays Center would remain under a private-sector vaccine mandate that took effect in December. 
  <p class="updated_time"> 02:51 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/in-some-african-nations-armed-police-enforce-covid-19-vaccinations-11646056306">In Some African Nations, Armed Police Enforce Covid-19 Vaccinations</a> WSJ: Countries in some parts of the world have offered a variety of incentives or threats to convince people to get inoculated, but some African nations are taking a more aggressive stance. 
- <p class="updated_time"> 01:33 AM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083385057/boycotts-russian-effects">Boycotts of Russian products and groups spread, but the effects may be limited</a> NPR: Russian vodka is being pulled from many shelves and the country's soccer team may find few willing opponents in the near term. But for the most part, experts say, the protests are largely symbolic. 
  <p class="updated_time"> 01:06 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60552110?at_medium=RSS&at_campaign=KARANGA">Australia floods: Eight dead in ‘unprecedented’ weather emergency</a> BBC: Residents were trapped on rooftops as floodwaters rose much quicker than expected. 
  <p class="updated_time"> 01:04 AM CT, Feb. 28 </p> 
@@ -114,10 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/ukrainians-return-home-to-fight-russia-i-have-to-go-11646045875">Ukrainians Return Home to Fight: 'I Have to Go'</a> WSJ: Ukrainians from across Europe—part of a huge diaspora that has spread across the continent in the three decades since the former Soviet republic gained independence—are streaming back to their home country to pick up arms in their fight against Russia. 
  <p class="updated_time"> 10:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities have drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
- <p class="updated_time"> 10:03 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/sections/deceptivecadence/2022/02/27/1083387627/metropolitan-opera-sever-ties-putin-ukraine-gergiev-netrebko">Metropolitan Opera is among those severing ties with Putin-allied artists</a> NPR: Star performers at the famed New York opera house, including soprano Anna Netrebko and conductor Valery Gergiev, have been closely associated with Russian President Vladimir Putin. 
- <p class="updated_time"> 09:58 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083380718/europe-and-the-u-s-move-to-isolate-russia-as-ukrainians-hold-off-invaders">Russians and Ukrainians meet as sanctions rattle Russia</a> NPR: Russia's central bank sharply raised a benchmark interest rate to combat steep losses in the ruble's value as sanctions crimp Russian economic activity. 
  <p class="updated_time"> 08:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/zelensky-speech-video.html">In Video, a Defiant President Zelensky Says, ‘We Are Here’</a> NYT: The 44-year-old president of Ukraine videotaped himself in Kyiv as Russian forces closed in on the capital, vowing to fight them to the end. 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
@@ -146,10 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008230025/ukraine-volunteers.html">‘I Just Want to Live in Our Country’: Civilians Join the Fight in Kyiv</a> NYT: Julia, a teacher and Ukrainian volunteer, wept as she waited to be deployed to fight Russian troops around Kyiv on Saturday. 
  <p class="updated_time"> 04:35 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60549023?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day four</a> BBC: The EU is sending arms to Ukraine and banning Russian flights. Here's what you need to know after Day Four of the war. 
- <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083379270/biden-sanctions-spare-russias-energy-sector-what-that-means-for-opec-talks">Biden sanctions spare Russia's energy sector. What that means for OPEC talks</a> NPR: The ongoing crisis in Ukraine has created volatility on global oil markets. The oil cartel OPEC+ has a meeting this week to discuss their output. 
- <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083379263/swift-ban-prevents-russia-from-moving-money-easily-it-also-has-unintended-effect">SWIFT ban prevents Russia from moving money easily. It also has unintended effects</a> NPR: NPR's Michel Martin speaks with Professor Scheherazade Rehman of George Washington University, about the international banking messaging system known as SWIFT. 
  <p class="updated_time"> 04:00 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: Russian planes will now be unable to land in, take off from or fly over any EU nation. 
  <p class="updated_time"> 03:22 PM CT, Feb. 27 </p> 
@@ -164,14 +172,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60543995?at_medium=RSS&at_campaign=KARANGA">How badly will Russia be hit by new sanctions?</a> BBC: The latest financial measures against Russia for invading Ukraine had been seen as a 'last resort'. 
  <p class="updated_time"> 12:04 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/us-putin-nuclear-alert.html">US Deflects Putin’s Nuclear Alert as Another Effort at Escalation</a> NYT: Both countries have various levels of alert, and it was unclear how Putin’s wording would be implemented by Russian nuclear forces. 
- <p class="updated_time"> 11:38 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
- <p class="updated_time"> 10:50 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083368793/ukraine-russia-negotiations-belarus">Ukrainian and Russian negotiators agree to hold talks in Belarus</a> NPR: Ukrainian President Volodymyr Zelensky's office said a delegation of the Ukrainian government will meet for talks with Russian officials near the Pripyat River in Belarus. 
  <p class="updated_time"> 10:13 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/putin-xi-jinping-russia-china.html">Ties That Bind Putin and Xi Tested by Russia's Ukraine Invasion</a> NYT: The two autocrats have brought their countries closer together than ever. But for China, the costs of Russia’s adventurism could be high. 
- <p class="updated_time"> 09:42 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083363518/ukrainian-soldiers-who-profanely-told-off-russian-warship-may-be-alive-officials">Ukrainian soldiers who profanely told off Russian warship may be alive, officials say</a> NPR: Last week, a Russian warship approached Snake Island and asked the Ukrainian forces there to surrender. The response from Ukraine was simple: "Russian warship. Go f*** yourself." 
  <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
@@ -184,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: Flight data suggested that the missile launched Sunday was less powerful than the last one the North tested, four weeks ago. 
- <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
@@ -203,6 +203,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/refugees-ukraine-russia-00012499">500,000+ refugees have fled Ukraine since Russia waged war</a> Politico: The mass exodus of refugees from Ukraine to the eastern edge of the European Union shows no signs of stopping. 
+ <p class="updated_time"> 03:36 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083536401/doctors-worst-fears-about-the-texas-abortion-law-are-coming-true">Doctors' worst fears about the Texas abortion law are coming true</a> NPR: It's been 6 months since Texas passed a law banning most abortions. Doctors and patients are feeling frustration and disbelief as they navigate in the new legal environment. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581083/un-diplomats-spoke-out-against-moscow-in-emergency-meeting">UN diplomats spoke out against Moscow in emergency meeting</a> NPR: Diplomats at the United Nations are calling for peace. They held an emergency meeting after Russia blocked a security council resolution calling on Russia to withdraw. 
+ <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581009/south-carolina-rep-jim-clyburn-shares-his-view-of-bidens-presidency">South Carolina Rep. Jim Clyburn shares his view of Biden's presidency</a> NPR: NPR's Sacha Pfeiffer talks with Democratic Rep. Jim Clyburn of South Carolina about President Biden's State of the Union address on Tuesday. 
  <p class="updated_time"> 03:27 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">Some Texas Hispanics Drawn to Republicans Share Immigration Grievances</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
  <p class="updated_time"> 03:09 PM CT, Feb. 28 </p> 
@@ -239,6 +245,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/us-closes-belarus-embassy-ukraine-attack-00012323">U.S. shuts down Belarus embassy amid attack on Ukraine</a> Politico: The State Department has issued a "do not travel" advisory for Belarus. 
  <p class="updated_time"> 10:34 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ketanji-brown-jackson-mcconnell-00012311">Ketanji Brown Jackson to meet with McConnell this week</a> Politico: Biden’s Supreme Court nominee is making the rounds on the Hill, including to some key Republican lawmakers. 
+ <p class="updated_time"> 08:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/ruble-sanctions-russian-banks-00012260">Ruble plummets as sanctions bite, sending Russians to banks</a> Politico: The Russian currency plunged about 30 percent against the U.S. dollar Monday after Western nations announced moves against some Russian banks. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
@@ -327,14 +335,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
  <p class="updated_time"> 07:42 AM CT, Feb. 26 </p> 
  <a href="https://www.npr.org/2022/02/26/1083283287/georgia-republicans-will-choose-between-candidates-that-supported-or-denounced-t">Georgia Republicans will choose between candidates that supported or denounced Trump</a> NPR: The GOP primary for Georgia's top election office includes a candidate who was pressured by former President Donald Trump to overturn his 2020 defeat and another who supports Trump's election lies. 
- <p class="updated_time"> 07:32 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083283273/will-the-current-sanctions-actually-push-russia-to-withdraw-from-ukraine">Will the current sanctions actually push Russia to withdraw from Ukraine?</a> NPR: Scott Simon speaks to businessman Bill Browder, a vocal critic of Russian President Vladimir Putin, about sanctions on Russia. 
- <p class="updated_time"> 06:59 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083283216/week-in-politics-biden-sanctions-russia-first-black-woman-named-to-supreme-court">Week in politics: Biden sanctions Russia; first Black woman named to Supreme Court</a> NPR: The Biden administration responds to Russia's invasion of Ukraine, and the president announces his historic pick to replace Justice Stephen Breyer on the Supreme Court. 
  <p class="updated_time"> 05:47 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-russia-diplomacy.html">State Dept. Says Moscow’s Ukraine Diplomacy Was a ‘Pretense’</a> NYT: Officials in the Biden administration met repeatedly with Russian emissaries as the threat of an invasion of Ukraine grew more apparent. 
- <p class="updated_time"> 04:00 AM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1082842946/this-wont-be-the-first-state-of-the-union-speech-given-during-a-crisis">This won't be the first State of the Union speech given during a crisis </a> NPR: Even when under maximum pressure, presidents have viewed the speech as a unique opportunity to make their case to the rest of the government, to the nation as a whole and to the wider world as well. 
  <p class="updated_time"> 09:22 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-sanctions-afghanistan.html">U.S. Eases Sanctions to Allow Routine Transactions With Afghan Government</a> NYT: The move allows financial dealings with civil servants at government institutions, even if those ministries are now overseen by Taliban members. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
