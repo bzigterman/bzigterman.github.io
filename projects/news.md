@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:13 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 01:21 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
+ <p class="updated_time"> 01:18 PM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
+ <p class="updated_time"> 01:17 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083528087/ukraine-european-union">Ukraine wants to join the EU. Here's how that would work</a> NPR: Ukrainian President Volodymyr Zelenskyy has applied for Ukraine to join the European Union, after appealing to its leaders for immediate entry. Gaining membership is a complex process. 
  <p class="updated_time"> 01:08 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 01:03 PM CT, Feb. 28 </p> 
@@ -18,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/ukraine-russia-talks-belarus.html">Initial Talks Between Russia and Ukraine Yield No Resolution </a> NYT: Russia’s delegation leader said the next meeting would take place once more along the Ukraine-Belarus border in the “coming days.” 
  <p class="updated_time"> 12:58 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/arts/design/maria-primachenko-paintings-destroyed-ukraine.html">Treasured Paintings Burned in Russian Invasion, Ukrainian Officials Say</a> NYT: Roughly 25 works by the painter Maria Primachenko were destroyed at a museum in Ivankiv, Ukraine’s Ministry of Foreign Affairs said. 
- <p class="updated_time"> 12:49 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
  <p class="updated_time"> 12:37 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083478065/russias-central-bank-doubles-a-key-interest-rate-as-sanctions-spark-economic-tur">Russia's central bank doubles a key interest rate as sanctions spark economic turmoil</a> NPR: Russia's ruble collapsed on Monday as sanctions hit, forcing President Vladimir Putin to hold an emergency meeting with his economic advisers. 
  <p class="updated_time"> 12:35 PM CT, Feb. 28 </p> 
@@ -107,7 +109,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities have drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
  <p class="updated_time"> 10:03 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083387627/metropolitan-opera-sever-ties-putin-ukraine-gergiev-netrebko">Metropolitan Opera says it will sever ties with Putin-allied artists</a> NPR: Star performers at the famed New York opera house, including soprano Anna Netrebko and conductor Valery Gergiev, have been closely associated with Russian President Vladimir Putin. 
+ <a href="https://www.npr.org/sections/deceptivecadence/2022/02/27/1083387627/metropolitan-opera-sever-ties-putin-ukraine-gergiev-netrebko">Metropolitan Opera says it will sever ties with Putin-allied artists</a> NPR: Star performers at the famed New York opera house, including soprano Anna Netrebko and conductor Valery Gergiev, have been closely associated with Russian President Vladimir Putin. 
  <p class="updated_time"> 09:58 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083380718/europe-and-the-u-s-move-to-isolate-russia-as-ukrainians-hold-off-invaders">Russians and Ukrainians meet as sanctions rattle Russia</a> NPR: Russia's central bank sharply raised a benchmark interest rate to combat steep losses in the ruble's value as sanctions crimp Russian economic activity. 
  <p class="updated_time"> 08:33 PM CT, Feb. 27 </p> 
@@ -172,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/asia/south-korea-records-its-deadliest-day-of-the-pandemic.html">South Korea Records Deadliest Day of Pandemic</a> NYT: A grim milestone is reached a few days after the nation topped 170,000 new cases in a single day. 
  <p class="updated_time"> 07:45 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361185/some-ukrainians-are-returning-from-abroad-to-help-military-efforts-in-their-coun">Some Ukrainians are returning from abroad to help military efforts in their country</a> NPR: Some Ukrainians who crossed the border into Poland are returning to Ukraine to enlist in the military and fight Russian invaders. 
- <p class="updated_time"> 07:27 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083361164/ukrainians-continue-to-flee-to-neighboring-countries">Ukrainians continue to flee to neighboring countries</a> NPR: Sarah McCammon talks to writer Kateryna Babkina about making her way to the Polish border from her home in Kyiv after Russia's attack. 
  <p class="updated_time"> 06:07 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
  <p class="updated_time"> 06:02 AM CT, Feb. 27 </p> 
@@ -201,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/supreme-court-justices-epa-climate-authority-00012368">Supreme Court justices lean toward hobbling EPA's climate authority</a> Politico: Depending on how broadly the high court rules in the case before it about EPA's authority, it could make it harder for the government to regulate a broad variety of issues. 
  <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/cecilia-rouse-russia-ukraine-us-economy-00012371">Cecilia Rouse says Russian invasion of Ukraine has 'clouded' economic outlook for U.S.</a> Politico: Cecilia Rouse, in an interview with POLITICO’s Women Rule, said Russia’s aggression “generates some risk” for the U.S. and the global economy as the West piles on sanctions to punish the Kremlin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
@@ -234,13 +236,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/u-s-russia-ukraine-protests-sanctions-00012173">The West finally throws a punch in its face-off with Russia</a> Politico: A rash of weekend moves on sanctions, airspace, military aid and more showed that the United States and its allies aren’t afraid to escalate when it comes to helping Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/biden-covid-fight-next-chapter-00012079">Biden wants to declare a new chapter in the Covid fight. He’s trigger shy.</a> Politico: The president and his team recognize political realities. They also don’t want to repeat the missteps of last July 4. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/congress-texas-democratic-left-00012185">The left gears up to grow its numbers in Congress</a> Politico: Progressives are looking to a trio of Texas candidates this week to jump-start a transformation of the Democratic Party in Washington. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/trucker-crypto-crackdown-in-canada-fuels-gop-backlash-in-u-s-00011401">Trucker crypto crackdown in Canada fuels GOP backlash in U.S.</a> Politico: At least one House GOP lawmaker has introduced a bill to prevent a similar government clampdown in the U.S. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/east-coast-weed-race-00010151">Get ready for the Northeast to become cannabis country</a> Politico: New Jersey is likely to start sales first, but New York is poised to become the nation’s weed capital. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/biden-covid-fight-next-chapter-00012079">Biden wants to declare a new chapter in the Covid fight. He’s trigger shy.</a> Politico: The president and his team recognize political realities. They also don’t want to repeat the missteps of last July 4. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/covid-vaccine-exemption-hospital-00011951">Health workers’ vaccine mandate undone by religious exemptions</a> Politico: Several hospital executives said they believe they have to approve the religious exemptions for their employees. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
@@ -263,8 +265,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/us/politics/biden-ukraine-covid-supreme-court.html">10 Consequential Days: How Biden Navigated War, Covid and the Supreme Court</a> NYT: The dizzying events of the past week have pushed to the sidelines the congressional squabbling over President Biden’s domestic agenda, and are already redefining the arc of his presidency. 
  <p class="updated_time"> 06:43 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-leaders-rescind-mask-mandate-sotu-00012167">Capitol leaders rescind mask mandate ahead of State of the Union</a> Politico: The Office of the Attending Physician said it was following the Centers for Disease Control and Prevention's new guidelines on masking. 
- <p class="updated_time"> 05:38 PM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/nyc-to-end-vaccine-requirements-school-mask-mandate-on-march-7-00012158">NYC to end school mask mandate, vaccine requirements on March 7</a> Politico: Adams set the target date after Hochul announced the lifting of a statewide mask mandate for schools, leaving it up to local districts to decide whether to keep their face covering rules. 
  <p class="updated_time"> 04:46 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
  <p class="updated_time"> 04:30 PM CT, Feb. 27 </p> 
