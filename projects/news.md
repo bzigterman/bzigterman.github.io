@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 09:32 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/health/pfizer-vaccine-kids.html">Pfizer Shot Is Far Less Effective in 5- to 11-Year-Olds Than in Older Kids, New Data Show</a> NYT: While protection against hospitalization is still strong, the vaccine offered almost no protection against infection, even just a month after full vaccination. 
+ <p class="updated_time"> 09:32 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: U.S. Sharply Escalates Sanctions Against Russia as Fighting Continues</a> NYT: The U.N. General Assembly is meeting to discuss the invasion of Ukraine. Delegations from Kyiv and Moscow held talks in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second largest city. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/switzerland-russian-assets-freeze.html">Switzerland Says it Will Freeze Russian Assets</a> NYT: The decision came amid mounting public anger at Russia’s invasion of Ukraine. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/nyregion/new-york-mask-mandate-schools.html">New York Ends Its Mask Mandate for Schools</a> NYT: Gov. Kathy Hochul said the statewide mask mandate in schools would end on Wednesday, and Mayor Eric Adams planned to lift pandemic measures in the city on March 7. 
  <p class="updated_time"> 09:24 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides hold talks. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides hold talks. 
  <p class="updated_time"> 09:17 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency sinks to a record low against the dollar after Western countries impose new sanctions. 
  <p class="updated_time"> 09:15 AM CT, Feb. 28 </p> 
@@ -48,6 +50,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083423348/europe-welcomes-ukrainian-refugees-but-others-less-so">Europe welcomes Ukrainian refugees but others, less so</a> NPR: The hospitality greeting Ukrainians fleeing the violence in their native country has highlighted the stark differences in treatment given to migrants and refugees from the Middle East and Africa. 
  <p class="updated_time"> 04:28 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
+ <p class="updated_time"> 04:26 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
@@ -56,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/asia/singapore-gay-sex-law.html">Singapore’s Latest Ruling on Gay Sex Is ‘Cold Comfort,’ Activists Say</a> NYT: Plaintiffs had hoped the Court of Appeal would overturn the colonial-era law. Instead, the top court said it was not “an architect of social policy” and that any change was up to Parliament. 
  <p class="updated_time"> 03:26 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/populist-embrace-of-putin-cools-after-ukraine-invasion-11646038429">Populist Embrace of Putin Cools After Ukraine Invasion</a> WSJ: Europe’s populists saw the Russian president as a kindred spirit, but that admiration is now running up against reality, and some populists are rushing to distance themselves. 
- <p class="updated_time"> 03:21 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
  <p class="updated_time"> 03:15 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60553124?at_medium=RSS&at_campaign=KARANGA">Ukrainian sailor in Majorca tried to sink yacht of Russian boss</a> BBC: The man told a judge in Majorca that he had wanted to retaliate for the invasion of Ukraine. 
  <p class="updated_time"> 03:04 AM CT, Feb. 28 </p> 
@@ -176,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
- <p class="updated_time"> 07:38 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-ukraine-invasion-kyiv-kharkiv-kherson.html">Russia Advances on 3 Ukrainian Cities, but Meets Fierce Resistance</a> NYT: Ukraine’s leader said his forces had “repelled” the Russian army’s assault. Moscow claimed it had merely “paused” for the possibility of peace negotiations. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
