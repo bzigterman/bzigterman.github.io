@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:55 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 12:11 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
- <p class="updated_time"> 11:49 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa ban all Russian clubs and national teams</a> BBC: Football's world governing body Fifa and Europe's governing body Uefa have suspended Russian clubs and national teams from all competitions. 
+ <p class="updated_time"> 12:08 PM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa following the country's invasion of Ukraine. 
  <p class="updated_time"> 11:48 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides held talks. 
  <p class="updated_time"> 11:33 AM CT, Feb. 28 </p> 
@@ -203,6 +203,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/feinsteins-husband-richard-blum-dies-00012347">Feinstein's husband, Richard Blum, dies</a> Politico: Blum's death follows a long battle with cancer. 
+ <p class="updated_time"> 12:09 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/us/politics/redistricting-partisan-divide.html">‘Blood Red’: How Lopsided New District Lines Are Deepening America’s Divide</a> NYT: Competitive districts are disappearing in Texas and beyond. Consider the case of a once-rising Republican star, Dan Crenshaw, in the Houston suburbs. 
  <p class="updated_time"> 12:08 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/twitter-label-state-affiliated-russia-media-00012351">Twitter to label all state-affiliated Russia media</a> Politico: The latest steps come as Russian disinformation spreads. 
  <p class="updated_time"> 11:12 AM CT, Feb. 28 </p> 
@@ -271,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/us/politics/cpac-trump-republicans.html">CPAC Focuses on Culture Grievances and Trump</a> NYT: The annual gathering of American conservatives reflected the G.O.P’s shift away from policy issues that had traditionally animated the party. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
- <p class="updated_time"> 12:00 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/politics/redistricting-partisan-divide.html">‘Blood Red’: How Lopsided New District Lines Are Deepening America’s Divide</a> NYT: Competitive districts are disappearing in Texas and beyond. Consider the case of a once-rising Republican star, Dan Crenshaw, in the Houston suburbs. 
  <p class="updated_time"> 11:43 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/mitt-romney-russia-remains-geopolitical-foe-00012124">Romney: 10 years later, Russia remains ‘geopolitical foe’</a> Politico: The former GOP presidential candidate says his widely mocked views from 2012 are more relevant than ever. 
  <p class="updated_time"> 11:25 AM CT, Feb. 27 </p> 
