@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:54 PM CT, Feb. 27 </p> 
+ <p class="updated_time"> 11:36 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Putin Places Nuclear Forces on Alert as Ukraine Agrees to Talks With Russia</a> NYT: Civilians joined Ukraine’s outgunned military in the country’s desperate bid to stop Russia’s offensive, winning increased support from other countries. The E.U. said it would ban all Russian aircraft and finance the donation of weapons to Ukraine. 
+ <p class="updated_time"> 11:33 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-war-russia.html">Ukraine Agrees to Talks With Russia, but Fighting Still Rages</a> NYT: Putin, accusing the West of “aggressive statements,” puts nuclear forces on alert. Kyiv remains in Russian cross-hairs as Ukrainians push back. 
+ <p class="updated_time"> 11:28 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-turn, Germany Ups Military Spending, Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face, amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 10:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-villages-russia-war.html">Once Sleepy and Picturesque, Ukrainian Villages Mobilize for War</a> NYT: While Russian assaults on Ukrainian cities have drawn most of the attention in the war’s early days, civilians in country towns have joined the fight, putting aside the routines of daily village life. 
  <p class="updated_time"> 10:28 PM CT, Feb. 27 </p> 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60551140?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Would Putin press the nuclear button?</a> BBC: "Would never do" isn't a phrase that applies to Vladimir Putin, the BBC's Steve Rosenberg believes. 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
- <p class="updated_time"> 07:33 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-war-russia.html">Ukraine Agrees to Talks With Russia, but Fighting Still Rages</a> NYT: Putin, accusing the West of “aggressive statements,” puts nuclear forces on alert. Kyiv remains in Russian cross-hairs as Ukrainians push back. 
  <p class="updated_time"> 07:15 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/australia/australia-flood-queensland.html">‘Rain Bomb’ Hits Northeastern Australia, Killing at Least 8</a> NYT: Days of downpours have pummeled Queensland, with flooding worsening in the state capital, Brisbane. The state premier described the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 06:58 PM CT, Feb. 27 </p> 
@@ -46,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-uk-expat-fighters.html">Ukrainians in Britain Take Up the Cause Back Home</a> NYT: Whether vowing to kill Russians or offering medical supplies, Ukrainian citizens are too impatient to sit idly by. 
  <p class="updated_time"> 06:33 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60519542?at_medium=RSS&at_campaign=KARANGA">UP elections: Dalit icon Mayawati fighting for her legacy</a> BBC: Mayawati, one of India's prominent politicians, has been in the political wilderness for a decade. 
- <p class="updated_time"> 06:30 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-turn, Germany Ups Military Spending, Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face, amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 06:01 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60549130?at_medium=RSS&at_campaign=KARANGA">Ukraine: The people fleeing a war, but having to leave loved ones behind</a> BBC: The BBC met three mothers in the Polish border town Przemyśl, who all have loved ones left in Ukraine. 
  <p class="updated_time"> 05:34 PM CT, Feb. 27 </p> 
@@ -102,6 +102,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083363518/ukrainian-soldiers-who-profanely-told-off-russian-warship-may-be-alive-officials">Ukrainian soldiers who profanely told off Russian warship may be alive, officials say</a> NPR: Last week, a Russian warship approached Snake Island and asked the Ukrainian forces there to surrender. The response from Ukraine was simple: "Russian warship. Go f*** yourself." 
  <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
+ <p class="updated_time"> 09:17 AM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
  <p class="updated_time"> 08:29 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
@@ -217,6 +219,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:17 PM CT, Feb. 27 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/us/politics/jan-6-trial-guy-wesley-reffitt.html">First Jan. 6 Trial, of Guy Wesley Reffitt, Starts Monday</a> NYT: The Justice Department will have its first opportunity in a courtroom to show how the violent chaos that erupted at the Capitol last year disrupted the peaceful transfer of power. 
  <p class="updated_time"> 09:45 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/jan6-committee-alex-jones-shroyer-00012200">Jan. 6 select committee zeroes in on another Alex Jones associate</a> Politico: The panel has subpoenaed records for Annette Shroyer, the mother of Jones employee Owen Shroyer. 
  <p class="updated_time"> 09:00 PM CT, Feb. 27 </p> 
@@ -263,8 +267,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/cotton-trump-vladimir-putin-00012123">Cotton declines to berate Trump for praising Putin</a> Politico: The Arkansas senator deflected repeated questions about the former president from George Stephanopoulos. 
  <p class="updated_time"> 11:13 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/27/your-guide-through-a-blizzard-of-news-in-ukraine-00012118"> Your guide through a blizzard of news in Ukraine</a> Politico Playbook: And Trump remains the star of the show at CPAC. 
- <p class="updated_time"> 10:59 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/politics/jan-6-trial-guy-wesley-reffitt.html">First Jan. 6 Trial, of Guy Wesley Reffitt, Starts Monday</a> NYT: The Justice Department will have its first opportunity in a courtroom to show how the violent chaos that erupted at the Capitol last year disrupted the peaceful transfer of power. 
  <p class="updated_time"> 10:16 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/ukraine-russia-peace-talks-thomas-greenfield-00012111">Thomas-Greenfield says U.S. ‘looks forward’ to outcome of Ukraine-Russia peace talks</a> Politico: Ukrainian President Volodymyr Zelenskyy had previously said Ukraine was ready for peace talks. 
  <p class="updated_time"> 10:00 AM CT, Feb. 27 </p> 
@@ -330,7 +332,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:58 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/russia-attacks-ukraine.html">Russia’s Assault in Ukraine Slows After an Aggressive Start</a> NYT: The invading forces have faced stiff resistance, but President Vladimir V. Putin of Russia could quickly send in more troops, Pentagon officials said. 
  <p class="updated_time"> 06:21 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Will Senators Do?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
+ <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Now?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/judge-ketanji-brown-jackson-supreme-court-donald-trump-00012026">That time Jackson shredded Trump in a federal court ruling</a> Politico: Liberals like what they see and conservatives express fears, but much of the jockeying about the nominee isn't really about her judicial record. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
