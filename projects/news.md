@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 06:08 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukraine and Russia Talk, but Fighting Continues</a> NYT: Delegations from Kyiv and Moscow were meeting in Belarus, but President Volodymyr Zelensky expressed little hope that talks would end the fighting. Russia showed no sign of de-escalating even as its economy staggered under sanctions. 
+ <p class="updated_time"> 06:00 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummets 30% against the US dollar after Western countries imposed new sanctions. 
  <p class="updated_time"> 05:36 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60554820?at_medium=RSS&at_campaign=KARANGA">Search for bodies after gunmen attack Mexico wake</a> BBC: Armed men reportedly shot dead a group of mourners but their bodies appear to have been removed. 
  <p class="updated_time"> 05:27 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russias-currency-sanctions.html">The Ruble Dropped to Record Levels Against Dollar </a> NYT: The ruble dropped to record lows against the dollar, stirring fears of inflation and bank runs, and the central bank raised a key interest rate sharply. 
  <p class="updated_time"> 05:18 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russia-stock-market.html">Russia's Stock Market Closes and Ruble Crashes as Sanctions Hit</a> NYT: The hectic moves were the first signs that Western sanctions were shaking the foundations of Russia’s economy. 
- <p class="updated_time"> 05:10 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummets 30% against the US dollar after Western countries imposed new sanctions. 
  <p class="updated_time"> 05:00 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60525591?at_medium=RSS&at_campaign=KARANGA">Climate change: IPCC report warns of ‘irreversible’ impacts of global warming</a> BBC: IPCC scientists outline a harrowing summary of climate impacts already hurting people and species. 
  <p class="updated_time"> 05:00 AM CT, Feb. 28 </p> 
@@ -65,7 +65,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:00 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/impacts-of-climate-change-now-severe-and-widespread-u-n-panel-says-11646046000">Impacts of Climate Change Now Severe and Widespread, U.N. Panel Says</a> WSJ: Based on 34,000 studies, a new report says major weather events are more common and severe than previously predicted. 
  <p class="updated_time"> 11:57 PM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-return-home-to-fight-russia-i-have-to-go-11646045875">Ukrainians Return Home to Fight Russia: 'I Have to Go'</a> WSJ: Ukrainians from across Europe—part of a huge diaspora that has spread across the continent in the three decades since the former Soviet republic gained independence—are streaming back to their home country to pick up arms in their fight against Russia. 
+ <a href="https://www.wsj.com/articles/ukrainians-return-home-to-fight-russia-i-have-to-go-11646045875">Ukrainians Return Home to Fight: 'I Have to Go'</a> WSJ: Ukrainians from across Europe—part of a huge diaspora that has spread across the continent in the three decades since the former Soviet republic gained independence—are streaming back to their home country to pick up arms in their fight against Russia. 
  <p class="updated_time"> 11:28 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-turn, Germany Ups Military Spending, Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face, amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 10:33 PM CT, Feb. 27 </p> 
@@ -229,6 +229,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/meta-belarus-hacking-campaign-ukraine-00012214">Meta takes action against Belarus-linked hacking campaign targeting Ukrainians</a> Politico: Meta’s actions mark a step toward addressing disinformation and make both Russians and Ukrainians somewhat safer online 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
@@ -295,8 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/cotton-trump-vladimir-putin-00012123">Cotton declines to berate Trump for praising Putin</a> Politico: The Arkansas senator deflected repeated questions about the former president from George Stephanopoulos. 
  <p class="updated_time"> 11:13 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/27/your-guide-through-a-blizzard-of-news-in-ukraine-00012118"> Your guide through a blizzard of news in Ukraine</a> Politico Playbook: And Trump remains the star of the show at CPAC. 
- <p class="updated_time"> 10:16 AM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/ukraine-russia-peace-talks-thomas-greenfield-00012111">Thomas-Greenfield says U.S. ‘looks forward’ to outcome of Ukraine-Russia peace talks</a> Politico: Ukrainian President Volodymyr Zelenskyy had previously said Ukraine was ready for peace talks. 
  <p class="updated_time"> 10:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/eu-us-swift-russia.html">U.S. and Europe Will Bar Some Russian Banks From SWIFT</a> NYT: The move, along with new restrictions on Russia’s central bank, represented a significant escalation in the effort to impose severe economic costs on Russia for its invasion of Ukraine. 
  <p class="updated_time"> 09:45 AM CT, Feb. 27 </p> 
@@ -363,6 +363,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/25/1082979837/a-majority-say-bidens-first-year-was-a-failure-a-new-poll-finds">A majority says Biden's first year was a failure, a new poll finds</a> NPR: President Biden is at just 39% approval. "These are sort of rock-bottom numbers," said the director of the survey, which was conducted before Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:50 AM CT, Feb. 25 </p> 
  <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
+ <p class="updated_time"> 10:49 AM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/scotus-ketanji-brown-jackson-environmental-law-00011799">Supreme Court nominee Jackson fits Breyer mold on environmental law</a> Politico: If confirmed, Jackson likely will have at least one high-profile environmental case waiting to welcome her to the high court this fall. 
  <p class="updated_time"> 08:55 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-is-the-first-black-woman-selected-for-the-nations-top-court-00011793">Ketanji Brown Jackson is the first Black woman selected for the nation’s top court</a> Politico: Jackson, 51, has long been considered the leading contender for the post. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
