@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:57 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 03:20 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
+ <p class="updated_time"> 03:10 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html">After a Fumbled Start, Russian Forces Hit Harder in Ukraine</a> NYT: After days of miscalculation about Ukraine’s resolve to fight, Russian forces are turning toward an old pattern of opening fire on cities and mounting sieges. 
+ <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 02:53 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/germany-covid-far-right-protests.html">In Germany, Threats Grow as Far Right and Pandemic Protestors Merge</a> NYT: In the former Communist East, security officials worry that a long-running movement against Covid restrictions is becoming an incubator of political violence. 
  <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
@@ -49,7 +53,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:14 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/travel/panama-azuero-spider-monkeys.html">In Search of Panama’s Elusive Spider Monkeys</a> NYT: Environmental initiatives in the Azuero Peninsula offer hope for the future of a critically endangered subspecies. 
  <p class="updated_time"> 10:49 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/australia/australia-flood-queensland.html">‘Rain Bomb’ Hits Northeastern Australia, Killing at Least 8</a> NYT: Days of downpours have pummeled Queensland and New South Wales, with the authorities describing the wild weather as “waves of water just coming down.” 
+ <a href="https://www.nytimes.com/2022/02/27/world/australia/australia-flood-queensland.html">Floods Engulf Brisbane and Kill at Least 9 in Northeastern Australia</a> NYT: Days of downpours have pummeled Queensland and New South Wales, with the authorities describing the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 10:30 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60560769?at_medium=RSS&at_campaign=KARANGA">Are other countries safe? Your questions answered</a> BBC: Two of the BBC's reporters on the ground, Lyse Doucet and Mark Lowen, answer your questions on the situation. 
  <p class="updated_time"> 10:14 AM CT, Feb. 28 </p> 
@@ -64,6 +68,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html">Climate Change's Effects Outpacing Ability to Adapt, I.P.C.C. Warns</a> NYT: Countries aren’t doing nearly enough to protect against the disasters to come as the planet keeps heating up, a major new scientific report concludes. 
  <p class="updated_time"> 09:10 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
+ <p class="updated_time"> 08:46 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/taliban-halts-further-evacuations-rejecting-u-s-precondition-for-lifting-sanctions-11646077567">Taliban Halts Evacuations, Rejecting U.S. Precondition for Lifting Sanctions</a> WSJ: Afghans will no longer be allowed to leave the country without a good reason, and women will be barred from traveling without a chaperone, as thousands who helped the U.S. war effort are still trying to escape. 
  <p class="updated_time"> 08:28 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Fail to Agree on Cease-Fire, as Moscow Shelling Kills Civilians</a> WSJ: Negotiators make some progress and return to their capitals with plans to meet again in coming days, Russian reinforcements stream in and Ukraine holds Kyiv. 
  <p class="updated_time"> 08:12 AM CT, Feb. 28 </p> 
@@ -86,6 +92,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083423348/europe-welcomes-ukrainian-refugees-but-others-less-so">Europe welcomes Ukrainian refugees but others, less so</a> NPR: The hospitality greeting Ukrainians fleeing the violence in their native country has highlighted the stark differences in treatment given to migrants and refugees from the Middle East and Africa. 
  <p class="updated_time"> 04:28 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
+ <p class="updated_time"> 04:20 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
  <p class="updated_time"> 03:15 AM CT, Feb. 28 </p> 
@@ -94,8 +102,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/kyrie-irving-covid.html">Why Kyrie Irving Still Won’t Play in Brooklyn if Some Covid Restrictions End Next Week</a> NYT: Barclays Center would remain under a private-sector vaccine mandate that took effect in December. 
  <p class="updated_time"> 02:51 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/in-some-african-nations-armed-police-enforce-covid-19-vaccinations-11646056306">In Some African Nations, Armed Police Enforce Covid-19 Vaccinations</a> WSJ: Countries in some parts of the world have offered a variety of incentives or threats to convince people to get inoculated, but some African nations are taking a more aggressive stance. 
- <p class="updated_time"> 02:06 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/indias-gdp-grew-5-4-in-third-quarter-11646053570">India's GDP Grew 5.4% in Latest Quarter</a> WSJ: Weak consumer confidence and a lackluster job market weighed on the country’s economic recovery. 
  <p class="updated_time"> 01:33 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083385057/boycotts-russian-effects">Boycotts of Russian products and groups spread, but the effects may be limited</a> NPR: Russian vodka is being pulled from many shelves and the country's soccer team may find few willing opponents in the near term. But for the most part, experts say, the protests are largely symbolic. 
  <p class="updated_time"> 01:06 AM CT, Feb. 28 </p> 
@@ -168,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083363518/ukrainian-soldiers-who-profanely-told-off-russian-warship-may-be-alive-officials">Ukrainian soldiers who profanely told off Russian warship may be alive, officials say</a> NPR: Last week, a Russian warship approached Snake Island and asked the Ukrainian forces there to surrender. The response from Ukraine was simple: "Russian warship. Go f*** yourself." 
  <p class="updated_time"> 09:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
- <p class="updated_time"> 09:17 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/south-korea-records-its-deadliest-day-of-the-pandemic.html">South Korea Records Deadliest Day of Pandemic</a> NYT: A grim milestone is reached a few days after the nation topped 170,000 new cases in a single day. 
  <p class="updated_time"> 06:07 AM CT, Feb. 27 </p> 
@@ -178,18 +182,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60530082?at_medium=RSS&at_campaign=KARANGA">Should the West arm a Ukrainian resistance?</a> BBC: Western nations are debating how far they should support a possible Ukrainian insurgency. 
  <p class="updated_time"> 02:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
- <p class="updated_time"> 10:47 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: Flight data suggested that the missile launched Sunday was less powerful than the last one the North tested, four weeks ago. 
- <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Ukraine's Volodymyr Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
- <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
  <p class="updated_time"> 09:05 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/africa/south-africa-amazon.html">New Amazon Headquarters Sparks Feud Among Indigenous South Africans</a> NYT: The development, still under construction, sits on sacred land in Cape Town. But some Indigenous leaders have allied with the developers, prompting a debate over who speaks for First Nations people. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
@@ -203,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/refugees-ukraine-russia-00012499">500,000+ refugees have fled Ukraine since Russia waged war</a> Politico: The mass exodus of refugees from Ukraine to the eastern edge of the European Union shows no signs of stopping. 
+ <p class="updated_time"> 03:09 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">McConnell speaks out against Greene and Gosar's appearance at white nationalist event</a> Politico: The two House conservatives attended a weekend conference organized by Nick Fuentes, a far-right fringe figure who asked attendees to give Russia "a round of applause." 
  <p class="updated_time"> 02:51 PM CT, Feb. 28 </p> 
@@ -337,8 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/26/1082842946/this-wont-be-the-first-state-of-the-union-speech-given-during-a-crisis">This won't be the first State of the Union speech given during a crisis </a> NPR: Even when under maximum pressure, presidents have viewed the speech as a unique opportunity to make their case to the rest of the government, to the nation as a whole and to the wider world as well. 
  <p class="updated_time"> 09:22 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/us/politics/us-sanctions-afghanistan.html">U.S. Eases Sanctions to Allow Routine Transactions With Afghan Government</a> NYT: The move allows financial dealings with civil servants at government institutions, even if those ministries are now overseen by Taliban members. 
- <p class="updated_time"> 06:21 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/us/politics/biden-supreme-court-pick-black-woman.html">Biden Made a Historic Supreme Court Pick. What Will Senators Do?</a> NYT: Nominating the first Black woman is both bold and politically savvy, Democrats told us. Republicans are divided over how much of a fight to put up. 
  <p class="updated_time"> 06:15 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/judge-ketanji-brown-jackson-supreme-court-donald-trump-00012026">That time Jackson shredded Trump in a federal court ruling</a> Politico: Liberals like what they see and conservatives express fears, but much of the jockeying about the nominee isn't really about her judicial record. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
