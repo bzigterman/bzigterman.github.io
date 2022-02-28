@@ -8,14 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
+ <p class="updated_time"> 03:59 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Refugees Flood Out of Ukraine</a> NYT: The U.N. is looking for aid to help about half a million people who have left the country as attacks intensify. Delegations from Kyiv and Moscow failed to make progress in Belarus, but more talks are planned in the coming days. 
+ <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581132/putins-invasion-of-ukraine-may-be-putting-russias-alliance-with-china-to-the-tes">Putin's invasion of Ukraine may be putting Russia's alliance with China to the test</a> NPR: Ahead of Russia's invasion of Ukraine, China was widely seen as one of Moscow's few allies. But the recent actions of President Vladmir Putin now has China trying to distance itself from Russia. 
+ <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083581125/the-latest-from-the-pentagon-on-russia">The latest from the Pentagon on Russia </a> NPR: Pentagon officials say Russia could be poised to step up bombing in Ukraine. The United States and NATO are sending more weapons to Ukraine. 
+ <p class="updated_time"> 03:52 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-khan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
  <p class="updated_time"> 03:50 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
+ <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency sinks to a record low against the dollar after Western countries impose new sanctions. 
  <p class="updated_time"> 03:37 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-economy-sanctions-ukraine.html">As Sanctions Batter Economy, Russians Face the Anxieties of a Costly War</a> NYT: The ruble plunged, the stock market was shuttered and foreign investors shed holdings in Russian companies, deepening the concern among citizens who had become accustomed to the perks of globalization. 
  <p class="updated_time"> 03:36 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581097/samantha-power-on-meeting-with-refugees-crossing-out-of-ukraine">Samantha Power on meeting with refugees crossing out of Ukraine</a> NPR: NPR's Sacha Pfeiffer talks with Samantha Power of the United States Agency for International Development about the humanitarian and refugee crisis resulting from the Russian invasion of Ukraine. 
- <p class="updated_time"> 03:33 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-khan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581090/many-fleeing-ukraine-were-still-rebuilding-their-lives-after-the-2014-russian-as">Many fleeing Ukraine were still rebuilding their lives after the 2014 Russian assault</a> NPR: A Ukrainian family fled their home and now are stuck on the Ukrainian side of the border with Poland in an endless line. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
@@ -31,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083580974/in-an-effort-to-choke-russian-economy-new-sanctions-target-russias-central-bank">In an effort to choke Russian economy, new sanctions target Russia's central bank </a> NPR: The U.S. and its allies are taking additional steps to squeeze the Russian economy in response to the invasion of Ukraine. Russia's currency has fallen, which will mean higher prices for Russians. 
  <p class="updated_time"> 03:10 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html">After a Fumbled Start, Russian Forces Hit Harder in Ukraine</a> NYT: After days of miscalculation about Ukraine’s resolve to fight, Russian forces are turning toward an old pattern of opening fire on cities and mounting sieges. 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html">Russian Forces Hit Harder in Ukraine After a Fumbled Start</a> NYT: After days of miscalculation about Ukraine’s resolve to fight, Russian forces are turning toward an old pattern of opening fire on cities and mounting sieges. 
  <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 02:53 PM CT, Feb. 28 </p> 
@@ -46,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fighting escalates despite ceasefire talks</a> BBC: The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Russia and Ukraine. 
  <p class="updated_time"> 02:29 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083550554/toyota-stops-production-in-japan-after-a-cyberattack-hits-one-of-its-suppliers">Toyota stops production in Japan after a cyberattack hits one of its suppliers</a> NPR: The suspected attack forced Toyota, one of the world's largest auto manufacturers, to suspend operations at 14 of its Japanese plants on Tuesday, impacting the production of about 13,000 vehicles. 
- <p class="updated_time"> 02:26 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency sinks to a record low against the dollar after Western countries impose new sanctions. 
  <p class="updated_time"> 02:22 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-Turn, Germany Ups Military Spending and Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Feb. 28 </p> 
@@ -100,16 +106,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60558621?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Videos show locals confronting Russian forces</a> BBC: Videos from social media show tanks retreating and locals telling soldiers to go back to Russia. 
  <p class="updated_time"> 07:16 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-iran-split-over-key-nuclear-issues-as-deal-deadline-nears-11646072181">U.S., Iran Split on Key Issues in Nuclear Talks</a> WSJ: With a deadline to reach an agreement fast approaching, diplomats worry that the crisis in Ukraine could augment Tehran’s leverage in negotiations to restore the 2015 pact. 
- <p class="updated_time"> 07:07 AM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1071104956/2022-winter-games-paralympics-china-disability">China is a Paralympics star, but its people with disabilities face high hurdles</a> NPR: China has dominated the medal count at the last five Paralympic Games. That's in stark contrast with the low level of disability access in Chinese society. 
  <p class="updated_time"> 06:44 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
  <p class="updated_time"> 05:18 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russia-stock-market.html">Russia's Stock Market Closes and Ruble Crashes as Sanctions Hit</a> NYT: The hectic moves were the first signs that Western sanctions were shaking the foundations of Russia’s economy. 
  <p class="updated_time"> 05:00 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60525591?at_medium=RSS&at_campaign=KARANGA">Climate change: IPCC report warns of ‘irreversible’ impacts of global warming</a> BBC: IPCC scientists outline a harrowing summary of climate impacts already hurting people and species. 
- <p class="updated_time"> 04:47 AM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083423348/europe-welcomes-ukrainian-refugees-but-others-less-so">Europe welcomes Ukrainian refugees but others, less so</a> NPR: The hospitality greeting Ukrainians fleeing the violence in their native country has highlighted the stark differences in treatment given to migrants and refugees from the Middle East and Africa. 
  <p class="updated_time"> 04:28 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
  <p class="updated_time"> 04:20 AM CT, Feb. 28 </p> 
@@ -186,8 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: Flight data suggested that the missile launched Sunday was less powerful than the last one the North tested, four weeks ago. 
- <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
