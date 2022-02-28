@@ -8,14 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:32 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 01:13 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
- <p class="updated_time"> 12:28 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
- <p class="updated_time"> 12:16 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083446525/after-russias-invasion-of-ukraine-jerusalems-putin-pub-is-now-just-named-pub">After Russia's invasion of Ukraine, Jerusalem's Putin Pub is now just named Pub</a> NPR: Israel is keeping good ties with Putin, a close ally, and Ukraine. But the owners of Jerusalem's Putin Pub, a bar for Russian-speaking immigrants, yanked Putin's name when Russia invaded Ukraine. 
- <p class="updated_time"> 12:08 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 01:08 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
+ <p class="updated_time"> 01:03 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083496491/russian-performers-speak-out-putin-ukraine">Some Russian performing artists are speaking out against Putin</a> NPR: A number of Russian stars from the performing arts world are using their voices and international platforms to denounce the invasion of Ukraine and speak up against Russian President Vladimir Putin. 
+ <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/ukraine-russia-talks-belarus.html">Initial Talks Between Russia and Ukraine Yield No Resolution </a> NYT: Russia’s delegation leader said the next meeting would take place once more along the Ukraine-Belarus border in the “coming days.” 
+ <p class="updated_time"> 12:58 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/arts/design/maria-primachenko-paintings-destroyed-ukraine.html">Treasured Paintings Burned in Russian Invasion, Ukrainian Officials Say</a> NYT: Roughly 25 works by the painter Maria Primachenko were destroyed at a museum in Ivankiv, Ukraine’s Ministry of Foreign Affairs said. 
+ <p class="updated_time"> 12:49 PM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
+ <p class="updated_time"> 12:37 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083478065/russias-central-bank-doubles-a-key-interest-rate-as-sanctions-spark-economic-tur">Russia's central bank doubles a key interest rate as sanctions spark economic turmoil</a> NPR: Russia's ruble collapsed on Monday as sanctions hit, forcing President Vladimir Putin to hold an emergency meeting with his economic advisers. 
+ <p class="updated_time"> 12:35 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
+ <p class="updated_time"> 12:16 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/02/28/1083446525/after-russias-invasion-of-ukraine-jerusalems-putin-pub-is-now-just-named-pub">After Russia's invasion of Ukraine, Jerusalem's Putin Pub is now just named Pub</a> NPR: Israel is keeping good ties with ally Putin, as well as with Ukraine. But the owners of Jerusalem's Putin Pub, a bar for Russian-speaking immigrants, erased his name when Russia invaded Ukraine. 
  <p class="updated_time"> 11:48 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides held talks. 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
@@ -50,6 +60,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60555650?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Nigeria condemns treatment of Africans</a> BBC: Nigeria condemns reports that citizens of African countries have been stopped from leaving Ukraine. 
  <p class="updated_time"> 07:37 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60558621?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Videos show locals confronting Russian forces</a> BBC: Videos from social media show tanks retreating and locals telling soldiers to go back to Russia. 
+ <p class="updated_time"> 07:16 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-iran-split-over-key-nuclear-issues-as-deal-deadline-nears-11646072181">U.S., Iran Split on Key Issues in Nuclear Talks</a> WSJ: With a deadline to reach an agreement fast approaching, diplomats worry that the crisis in Ukraine could augment Tehran’s leverage in negotiations to restore the 2015 pact. 
  <p class="updated_time"> 07:07 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1071104956/2022-winter-games-paralympics-china-disability">China is a Paralympics star, but its people with disabilities face high hurdles</a> NPR: China has dominated the medal count at the last five Paralympic Games. That's in stark contrast with the low level of disability access in Chinese society. 
  <p class="updated_time"> 06:44 AM CT, Feb. 28 </p> 
@@ -64,12 +76,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
  <p class="updated_time"> 04:26 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Ukraine and Russia Hold Talks as Russian Shelling Kills Civilians in Eastern City</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
+ <p class="updated_time"> 04:20 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
  <p class="updated_time"> 03:27 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/asia/singapore-gay-sex-law.html">Singapore’s Latest Ruling on Gay Sex Is ‘Cold Comfort,’ Activists Say</a> NYT: Plaintiffs had hoped the Court of Appeal would overturn the colonial-era law. Instead, the top court said it was not “an architect of social policy” and that any change was up to Parliament. 
- <p class="updated_time"> 03:26 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/populist-embrace-of-putin-cools-after-ukraine-invasion-11646038429">Populist Embrace of Putin Cools After Ukraine Invasion</a> WSJ: Europe’s populists saw the Russian president as a kindred spirit, but that admiration is now running up against reality, and some populists are rushing to distance themselves. 
  <p class="updated_time"> 03:15 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60553124?at_medium=RSS&at_campaign=KARANGA">Ukrainian sailor in Majorca tried to sink yacht of Russian boss</a> BBC: The man told a judge in Majorca that he had wanted to retaliate for the invasion of Ukraine. 
  <p class="updated_time"> 03:01 AM CT, Feb. 28 </p> 
@@ -80,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/in-some-african-nations-armed-police-enforce-covid-19-vaccinations-11646056306">In Some African Nations, Armed Police Enforce Covid-19 Vaccinations</a> WSJ: Countries in some parts of the world have offered a variety of incentives or threats to convince people to get inoculated, but some African nations are taking a more aggressive stance. 
  <p class="updated_time"> 02:06 AM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/indias-gdp-grew-5-4-in-third-quarter-11646053570">India's GDP Grew 5.4% in Latest Quarter</a> WSJ: Weak consumer confidence and a lackluster job market weighed on the country’s economic recovery. 
- <p class="updated_time"> 01:40 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 01:33 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083385057/boycotts-russian-effects">Boycotts of Russian products and groups spread, but the effects may be limited</a> NPR: Russian vodka is being pulled from many shelves and the country's soccer team may find few willing opponents in the near term. But for the most part, experts say, the protests are largely symbolic. 
  <p class="updated_time"> 01:06 AM CT, Feb. 28 </p> 
@@ -164,10 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083361185/some-ukrainians-are-returning-from-abroad-to-help-military-efforts-in-their-coun">Some Ukrainians are returning from abroad to help military efforts in their country</a> NPR: Some Ukrainians who crossed the border into Poland are returning to Ukraine to enlist in the military and fight Russian invaders. 
  <p class="updated_time"> 07:27 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361164/ukrainians-continue-to-flee-to-neighboring-countries">Ukrainians continue to flee to neighboring countries</a> NPR: Sarah McCammon talks to writer Kateryna Babkina about making her way to the Polish border from her home in Kyiv after Russia's attack. 
- <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083361129/analyzing-the-state-of-russias-military">Analyzing the state of Russia's military</a> NPR: Sarah McCammon speaks with CNA Research Program Director Michael Kofman about Russia's military strategy and capability in Ukraine. 
- <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083361122/u-s-and-european-allies-move-to-cut-russian-banks-off-from-swift">U.S. and European allies move to cut Russian banks off from SWIFT</a> NPR: U.S. and European authorities tightened sanctions on Russia by moving to cut off certain Russian banks from SWIFT, the Society for Worldwide Interbank Financial Telecommunication. 
  <p class="updated_time"> 06:07 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
  <p class="updated_time"> 06:02 AM CT, Feb. 27 </p> 
@@ -178,18 +184,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: Flight data suggested that the missile launched Sunday was less powerful than the last one the North tested, four weeks ago. 
- <p class="updated_time"> 09:07 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/ukraine-russia-civilian-military.html">Ukrainian Civilians Arm Themselves to Fight the Russian Army in Kyiv</a> NYT: Civilian volunteers and paramilitary groups are taking the fight to the Russian army in Kyiv, Ukraine’s capital. 
  <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Ukraine's Volodymyr Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
- <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
- <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-sanctions-money-assets.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
  <p class="updated_time"> 09:05 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/africa/south-africa-amazon.html">New Amazon Headquarters Sparks Feud Among Indigenous South Africans</a> NYT: The development, still under construction, sits on sacred land in Cape Town. But some Indigenous leaders have allied with the developers, prompting a debate over who speaks for First Nations people. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
@@ -203,6 +203,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/cecilia-rouse-russia-ukraine-us-economy-00012371">Cecilia Rouse says Russian invasion of Ukraine has 'clouded' economic outlook for U.S.</a> Politico: Cecilia Rouse, in an interview with POLITICO’s Women Rule, said Russia’s aggression “generates some risk” for the U.S. and the global economy as the West piles on sanctions to punish the Kremlin. 
+ <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 12:58 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
+ <p class="updated_time"> 12:56 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Russia and China Cemented Economic Ties Before Ukraine Invasion</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/feinsteins-husband-richard-blum-dies-00012347">Feinstein's husband, Richard Blum, dies</a> Politico: Blum's death follows a long battle with cancer. 
  <p class="updated_time"> 12:25 PM CT, Feb. 28 </p> 
@@ -249,8 +255,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/us/politics/jan-6-trial-guy-wesley-reffitt.html">First Jan. 6 Trial, of Guy Wesley Reffitt, Starts Monday</a> NYT: The Justice Department will have its first opportunity in a courtroom to show how the violent chaos that erupted at the Capitol last year disrupted the peaceful transfer of power. 
  <p class="updated_time"> 09:45 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/jan6-committee-alex-jones-shroyer-00012200">Jan. 6 select committee zeroes in on another Alex Jones associate</a> Politico: The panel has subpoenaed records for Annette Shroyer, the mother of Jones employee Owen Shroyer. 
- <p class="updated_time"> 09:00 PM CT, Feb. 27 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
  <p class="updated_time"> 07:58 PM CT, Feb. 27 </p> 
@@ -297,8 +301,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083361122/u-s-and-european-allies-move-to-cut-russian-banks-off-from-swift">U.S. and European allies move to cut Russian banks off from SWIFT</a> NPR: U.S. and European authorities tightened sanctions on Russia by moving to cut off certain Russian banks from SWIFT, the Society for Worldwide Interbank Financial Telecommunication. 
  <p class="updated_time"> 07:01 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083361115/politics-chat-congress-unifies-in-denouncing-russia-supreme-court-nominee-chosen">Politics chat: Congress unifies in denouncing Russia; Supreme Court nominee chosen</a> NPR: America's political leaders have been denouncing Russia for its attack on Ukraine, with the occasional notable exception of  former President Donald Trump. 
- <p class="updated_time"> 06:08 AM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/26/us/politics/ukraine-europe-refugees.html">For Ukraine’s Refugees, Europe Opens Doors That Were Shut to Others</a> NYT: Thousands of Ukrainians will end up in countries led by nationalist governments that have been reluctant to welcome refugees in the past. 
  <p class="updated_time"> 06:00 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1082821390/texas-election-workers-provide-practical-and-emotional-support-to-confused-voter">Texas election workers provide practical and emotional support to confused voters</a> NPR: Tuesday is the first statewide election in Texas since it enacted a sweeping new voting law. Some elections officials say the law has left voters unsure how and if they will be able to participate. 
  <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
@@ -307,8 +309,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/26/1083332592/rep-adam-kinzinger-says-politicizing-russia-ukraine-crisis-hurts-washington">Rep. Adam Kinzinger says politicizing Russia-Ukraine crisis hurts Washington</a> NPR: NPR's Michel Martin speaks with Rep. Adam Kinzinger (R-Ill.) about the Russian invasion of Ukraine and President Biden's reaction to it. 
  <p class="updated_time"> 03:05 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/biden-putin-russia-us-ukraine.html">Biden and Putin, Children of the Cold War, Face Off Over Ukraine</a> NYT: Not since John F. Kennedy and Nikita S. Khrushchev confronted each other over Berlin and Cuba have an American president and Russian leader gone eyeball to eyeball in quite such a dramatic fashion. 
- <p class="updated_time"> 02:34 PM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/business/china-russia-ukraine.html">Russia and China Cemented Economic Ties Before Ukraine Invasion</a> NYT: Facing a wary United States and worried about depending on imports by sea, China is buying more energy and food from its northern neighbor. 
  <p class="updated_time"> 02:15 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/politics/ketanji-brown-jackson-supreme-court.html">As a Public Defender, Ketanji Brown Jackson Helped Clients Others Avoided</a> NYT: Ambitious lawyers usually become prosecutors. Ketanji Brown Jackson worked on behalf of criminal defendants and Guantánamo detainees. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
