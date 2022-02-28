@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:34 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 01:42 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
+ <p class="updated_time"> 01:39 PM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides held talks. 
+ <p class="updated_time"> 01:38 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/asia/afghan-evacuation-kabul.html">The One Item They Had to Take When These 6 Afghans Fled</a> NYT: More than 120,000 people were airlifted out of Afghanistan last August, most with just a few hours to gather their belongings. Here are some of the keepsakes they chose. 
  <p class="updated_time"> 01:18 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
  <p class="updated_time"> 01:17 PM CT, Feb. 28 </p> 
@@ -28,14 +32,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
  <p class="updated_time"> 12:16 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083446525/after-russias-invasion-of-ukraine-jerusalems-putin-pub-is-now-just-named-pub">After Russia's invasion of Ukraine, Jerusalem's Putin Pub is now just named Pub</a> NPR: Israel is keeping good ties with ally Putin, as well as with Ukraine. But the owners of Jerusalem's Putin Pub, a bar for Russian-speaking immigrants, erased his name when Russia invaded Ukraine. 
- <p class="updated_time"> 11:48 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides held talks. 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60559574?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What are the nuclear risks?</a> BBC: Russia's nuclear forces are on "special alert" - what does that mean and how worried should we be? 
  <p class="updated_time"> 11:14 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/travel/panama-azuero-spider-monkeys.html">In Search of Panama’s Elusive Spider Monkeys</a> NYT: Environmental initiatives in the Azuero Peninsula offer hope for the future of a critically endangered subspecies. 
- <p class="updated_time"> 10:57 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/asia/afghan-evacuation-kabul.html">The One Item They Had to Take When These 6 Afghans Fled</a> NYT: More than 120,000 people were airlifted out of Afghanistan last August, most with just a few hours to gather their belongings. Here are some of the keepsakes they chose. 
  <p class="updated_time"> 10:49 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/australia/australia-flood-queensland.html">‘Rain Bomb’ Hits Northeastern Australia, Killing at Least 8</a> NYT: Days of downpours have pummeled Queensland and New South Wales, with the authorities describing the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 10:30 AM CT, Feb. 28 </p> 
@@ -201,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:30 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/florida-democrat-deutch-announces-he-wont-run-for-reelection-00012397">Florida Democrat Deutch announces he won’t run for reelection</a> Politico: He is the 31st House Democrat to announce that they will not run for reelection. 
  <p class="updated_time"> 02:16 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/california-drop-school-mask-mandate-march-11-00012367">California to drop school mask mandate on March 11</a> Politico: Gov. Gavin Newsom's announcement caps weeks of speculation over when one of the nation's strictest states would allow districts to make masks optional in the classroom. 
  <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
