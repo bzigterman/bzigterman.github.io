@@ -8,16 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:59 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 10:34 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: U.S. Sharply Escalates Sanctions Against Russia as Fighting Continues</a> NYT: The U.N. General Assembly is meeting to discuss the invasion of Ukraine. Delegations from Kyiv and Moscow held talks in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second largest city. 
+ <p class="updated_time"> 10:20 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-talks-belarus.html">Russia and Ukraine Hold Talks in Belarus</a> NYT: There were only modest hopes that the talks would help end fighting in Ukraine. 
+ <p class="updated_time"> 10:19 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa to suspend Russia as IOC calls for athletes' suspension</a> BBC: Football's world governing body Fifa is set to suspend Russia as the IOC recommends Russian and Belarusian athletes are banned from participating in any international sport. 
+ <p class="updated_time"> 10:15 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides hold talks. 
+ <p class="updated_time"> 10:14 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60554959?at_medium=RSS&at_campaign=KARANGA">Snake Island: Ukraine says troops who swore at Russian warship are alive</a> BBC: The 13 troops were believed to have died defending Snake Island after cursing a Russian warship. 
+ <p class="updated_time"> 10:12 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/asia/afghan-evacuation-kabul.html">The One Item They Had to Take When These 6 Afghans Fled</a> NYT: More than 120,000 people were airlifted out of Afghanistan last August, most with just a few hours to gather their belongings. Here are some of the keepsakes they chose. 
  <p class="updated_time"> 09:44 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/health/pfizer-vaccine-kids.html">Pfizer Shot Is Far Less Effective in 5- to 11-Year-Olds Than in Older Kids, New Data Show</a> NYT: While protection against hospitalization is still strong, the vaccine offered almost no protection against infection, even just a month after full vaccination. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/switzerland-russian-assets-freeze.html">Switzerland Says it Will Freeze Russian Assets</a> NYT: The decision came amid mounting public anger at Russia’s invasion of Ukraine. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/nyregion/new-york-mask-mandate-schools.html">New York Ends Its Mask Mandate for Schools</a> NYT: Gov. Kathy Hochul said the statewide mask mandate in schools would end on Wednesday, and Mayor Eric Adams planned to lift pandemic measures in the city on March 7. 
- <p class="updated_time"> 09:24 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Dozens killed in attack on Kharkiv, officials say</a> BBC: The attack on Kharkiv came on the fifth day of Russia's invasion as officials from both sides hold talks. 
  <p class="updated_time"> 09:17 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency sinks to a record low against the dollar after Western countries impose new sanctions. 
  <p class="updated_time"> 09:15 AM CT, Feb. 28 </p> 
@@ -38,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60551688?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Half a million flee as fighting rages</a> BBC: Hundreds of casualties are reported as major cities remain under attack from Russian forces. 
- <p class="updated_time"> 05:36 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60554820?at_medium=RSS&at_campaign=KARANGA">Search for bodies after gunmen attack Mexico wake</a> BBC: Armed men reportedly shot dead a group of mourners but their bodies appear to have been removed. 
  <p class="updated_time"> 05:27 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russias-currency-sanctions.html">The Ruble Dropped to Record Levels Against Dollar </a> NYT: The ruble dropped to record lows against the dollar, stirring fears of inflation and bank runs, and the central bank raised a key interest rate sharply. 
  <p class="updated_time"> 05:18 AM CT, Feb. 28 </p> 
@@ -132,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083379263/swift-ban-prevents-russia-from-moving-money-easily-it-also-has-unintended-effect">SWIFT ban prevents Russia from moving money easily. It also has unintended effects</a> NPR: NPR's Michel Martin speaks with Professor Scheherazade Rehman of George Washington University, about the international banking messaging system known as SWIFT. 
  <p class="updated_time"> 04:00 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60539303?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: EU shuts airspace to Russian planes</a> BBC: Russian planes will now be unable to land in, take off from or fly over any EU nation. 
- <p class="updated_time"> 03:58 PM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60548685?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Russia told not to compete under national flag</a> BBC: Fifa orders Russia to complete upcoming matches without their flag, anthem and as the Football Union of Russia in neutral territory. 
  <p class="updated_time"> 03:22 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-russia-hungary-orban.html">Ukraine War Forces Hungary’s Orban Into Political Contortions</a> NYT: The pro-Russia, anti-immigrant Hungarian prime minister, who denounced any sanctions against Russia just weeks ago, has been forced to reverse himself as an election looms. 
  <p class="updated_time"> 02:34 PM CT, Feb. 27 </p> 
@@ -172,6 +176,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083361108/russia-continues-to-advance-on-kyiv-in-attempt-to-topple-ukrainian-government">Russia continues to advance on Kyiv in attempt to topple Ukrainian government</a> NPR: Ukraine is on guard for another Russian offensive today. 
  <p class="updated_time"> 06:07 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russia-putin-matteo-salvini-marine-le-pen.html">Putin’s Aggression Leaves His Right-Wing Fan Club Squirming</a> NYT: The Russian strongman has for years been idolized by a Who’s Who of populist, nationalist leaders. They are now stumbling over what to say. 
+ <p class="updated_time"> 06:02 AM CT, Feb. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60530082?at_medium=RSS&at_campaign=KARANGA">Should the West arm a Ukrainian resistance?</a> BBC: Western nations are debating how far they should support a possible Ukrainian insurgency. 
  <p class="updated_time"> 02:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 10:47 PM CT, Feb. 26 </p> 
@@ -188,12 +194,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-59667938?at_medium=RSS&at_campaign=KARANGA">Ukraine's Volodymyr Zelensky: The comedian president who is rising to the moment</a> BBC: Ukraine's president had no experience of politics when when elected in 2019, but has emerged as a convincing war leader. 
  <p class="updated_time"> 12:32 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/us/demetrios-papademetriou-dead.html">Demetrios Papademetriou, Top Immigration Scholar, Dies at 75</a> NYT: He designed the “Grand Bargain,” an ambitious plan for Mexican immigrants to gain legal status in the U.S., but it collapsed after the terrorist attacks of 9/11. 
- <p class="updated_time"> 11:06 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-sanctions-money-assets.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
  <p class="updated_time"> 09:05 AM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/africa/south-africa-amazon.html">New Amazon Headquarters Sparks Feud Among Indigenous South Africans</a> NYT: The development, still under construction, sits on sacred land in Cape Town. But some Indigenous leaders have allied with the developers, prompting a debate over who speaks for First Nations people. 
- <p class="updated_time"> 08:55 AM CT, Feb. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60539113?at_medium=RSS&at_campaign=KARANGA">Ukraine: Is Russia's invasion going as expected?</a> BBC: Military plans never survive the first contact with the enemy - and Russia is facing the same problem. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
 
@@ -219,10 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/u-s-russia-ukraine-protests-sanctions-00012173">The West finally throws a punch in its face-off with Russia</a> Politico: A rash of weekend moves on sanctions, airspace, military aid and more showed that the United States and its allies aren’t afraid to escalate when it comes to helping Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/congress-texas-democratic-left-00012185">The left gears up to grow its numbers in Congress</a> Politico: Progressives are looking to a trio of Texas candidates this week to jump-start a transformation of the Democratic Party in Washington. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/biden-covid-fight-next-chapter-00012079">Biden wants to declare a new chapter in the Covid fight. He’s trigger shy.</a> Politico: The president and his team recognize political realities. They also don’t want to repeat the missteps of last July 4. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/covid-vaccine-exemption-hospital-00011951">Want a Covid-19 vaccine exemption? It can be as easy as copy and paste.</a> Politico: Several hospital executives said they believe they have to approve the religious exemptions for their employees. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/trucker-crypto-crackdown-in-canada-fuels-gop-backlash-in-u-s-00011401">Trucker crypto crackdown in Canada fuels GOP backlash in U.S.</a> Politico: At least one House GOP lawmaker has introduced a bill to prevent a similar government clampdown in the U.S. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
