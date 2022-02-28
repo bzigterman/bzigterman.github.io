@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:07 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/02/27/world/russia-ukraine-war">Live Updates: Ukraine and Russia Talk, but Fighting Continues</a> NYT: Delegations from Kyiv and Moscow met in Belarus, but President Volodymyr Zelensky expressed little hope that talks would end the fighting. Russia showed no sign of de-escalating even as its economy staggered under sanctions. 
- <p class="updated_time"> 05:07 AM CT, Feb. 28 </p> 
+ <p class="updated_time"> 05:39 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukraine and Russia Talk, but Fighting Continues</a> NYT: Delegations from Kyiv and Moscow were meeting in Belarus, but President Volodymyr Zelensky expressed little hope that talks would end the fighting. Russia showed no sign of de-escalating even as its economy staggered under sanctions. 
+ <p class="updated_time"> 05:27 AM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russias-currency-sanctions.html">The Ruble Dropped to Record Levels Against Dollar </a> NYT: The ruble dropped to record lows against the dollar, stirring fears of inflation and bank runs, and the central bank raised a key interest rate sharply. 
+ <p class="updated_time"> 05:18 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russia-stock-market.html">Russia's Stock Market Closes and Ruble Crashes as Sanctions Hit</a> NYT: The hectic moves were the first signs that Western sanctions were shaking the foundations of Russia’s economy. 
+ <p class="updated_time"> 05:10 AM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummets 30% against the US dollar after Western countries imposed new sanctions. 
  <p class="updated_time"> 05:00 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60525591?at_medium=RSS&at_campaign=KARANGA">Climate change: IPCC report warns of ‘irreversible’ impacts of global warming</a> BBC: IPCC scientists outline a harrowing summary of climate impacts already hurting people and species. 
  <p class="updated_time"> 05:00 AM CT, Feb. 28 </p> 
@@ -24,10 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60551688?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Cities on high alert after night of shelling</a> BBC: Major outposts in the north are still under Ukrainian control despite overnight attacks by Russia. 
  <p class="updated_time"> 04:28 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60555720?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mother cries describing fleeing with 10-month-old baby</a> BBC: Liza Grach emotionally recounts escaping to Germany with her child - but without her husband. 
- <p class="updated_time"> 04:24 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60550992?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia doubles interest rate after rouble slumps</a> BBC: The Russian currency plummets 30% against the US dollar after Western countries imposed new sanctions. 
- <p class="updated_time"> 04:20 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1082947381/state-of-the-union-biden">What you need to know ahead of Biden's first State of the Union address</a> NPR: Top issues to expect in President Biden's address are his response to concerns about rising inflation and fatigue about the pandemic as well as steps taken to threaten Russia's financial stability. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
@@ -50,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-56720589?at_medium=RSS&at_campaign=KARANGA">Why is Russia invading Ukraine and what does Putin want?</a> BBC: What you should know about the reasons given for Russia's military assault on Ukraine. 
  <p class="updated_time"> 01:49 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
- <p class="updated_time"> 01:48 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/ruble-russias-currency-sanctions.html">The Ruble Dropped to Record Levels Against Dollar </a> NYT: The ruble dropped to record lows against the dollar, stirring fears of inflation and bank runs, and the central bank raised a key interest rate sharply. 
  <p class="updated_time"> 01:40 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 01:33 AM CT, Feb. 28 </p> 
@@ -60,6 +58,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-60552110?at_medium=RSS&at_campaign=KARANGA">Australia floods: Eight dead in ‘unprecedented’ weather emergency</a> BBC: Residents were trapped on rooftops as floodwaters rose much quicker than expected. 
  <p class="updated_time"> 01:04 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-war-russia.html">Ukraine Agrees to Talks With Russia, but Fighting Still Rages</a> NYT: Putin, accusing the West of “aggressive statements,” puts nuclear forces on alert. Kyiv remains in Russian cross-hairs as Ukrainians push back. 
+ <p class="updated_time"> 12:07 AM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-and-moscow-hold-talks-as-ukrainian-troops-repel-russian-attacks-11646046458">Kyiv and Moscow Hold Talks as Ukrainian Troops Repel Russian Attacks</a> WSJ: Prospects for a cease-fire in talks held in Belarus are uncertain as Russia continues its invasion and Ukraine mobilizes more defenders. 
+ <p class="updated_time"> 11:57 PM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-return-home-to-fight-russia-i-have-to-go-11646045875">Ukrainians Return Home to Fight Russia: 'I Have to Go'</a> WSJ: Ukrainians from across Europe—part of a huge diaspora that has spread across the continent in the three decades since the former Soviet republic gained independence—are streaming back to their home country to pick up arms in their fight against Russia. 
  <p class="updated_time"> 11:28 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-turn, Germany Ups Military Spending, Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face, amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 10:33 PM CT, Feb. 27 </p> 
@@ -67,7 +69,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:03 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083387627/metropolitan-opera-sever-ties-putin-ukraine-gergiev-netrebko">Metropolitan Opera says it will sever ties with Putin-allied artists</a> NPR: Star performers at the famed New York opera house, including soprano Anna Netrebko and conductor Valery Gergiev, have been closely associated with Russian President Vladimir Putin. 
  <p class="updated_time"> 09:58 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083380718/europe-and-the-u-s-move-to-isolate-russia-as-ukrainians-hold-off-invaders">Sanctions rattle Russia as delegations arrive for cease-fire negotiations </a> NPR: Russia's central bank sharply raises a benchmark interest rate to combat steep losses in the ruble's value as sanctions crimp Russian economic activity. 
+ <a href="https://www.npr.org/2022/02/27/1083380718/europe-and-the-u-s-move-to-isolate-russia-as-ukrainians-hold-off-invaders">Russians and Ukrainians meet as sanctions rattle Russia</a> NPR: Russia's central bank sharply raised a benchmark interest rate to combat steep losses in the ruble's value as sanctions crimp Russian economic activity. 
+ <p class="updated_time"> 09:53 PM CT, Feb. 27 </p> 
+ <a href="https://www.wsj.com/articles/populist-embrace-of-putin-cools-after-ukraine-invasion-11646038429">Populist Embrace of Putin Cools After Ukraine Invasion</a> WSJ: Europe’s populists saw the Russian president as a kindred spirit, but that admiration is now running up against reality, and some populists are rushing to distance themselves. 
  <p class="updated_time"> 08:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/zelensky-speech-video.html">In Video, a Defiant President Zelensky Says, ‘We Are Here’</a> NYT: The 44-year-old president of Ukraine videotaped himself in Kyiv as Russian forces closed in on the capital, vowing to fight them to the end. 
  <p class="updated_time"> 08:30 PM CT, Feb. 27 </p> 
@@ -116,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/europe-airspace-russia-planes.html">More Countries Close Airspace to Russian Planes Over Ukraine Invasion</a> NYT: The E.U. and Canada barred Russian planes in response to the invasion of Ukraine. 
  <p class="updated_time"> 01:01 PM CT, Feb. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-sanctions-swift-banks-11646006310">Behind the Sweeping Russia Sanctions: Zelensky's Plea and a Mounting Crisis</a> WSJ: Following months of groundwork, frenzied late-night phone calls and a potent pressure campaign from Ukrainian leaders, the U.S. and Europe banded together to impose what is shaping up to be the biggest coordinated package ever levied against a major economy. 
- <p class="updated_time"> 12:56 PM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/as-war-reshapes-europe-germany-rearms-to-counter-threat-from-russia-11645991750">As War Reshapes Europe, Germany Pivots on Defense, Aid</a> WSJ: Chancellor’s shake-up of a German foreign policy that has long relied on trade and diplomatic dialogue, while playing down the need for military strength, shows how Vladimir Putin’s war on Ukraine is sending shock waves throughout Europe. 
  <p class="updated_time"> 12:55 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/volodymyr-zelensky-ukraine-russia.html">How Zelensky Rallied Ukrainians, and the World, Against Putin</a> NYT: Mr. Zelensky’s decision to remain in the capital, Kyiv, while it’s under Russian attack has moved many. 
  <p class="updated_time"> 12:22 PM CT, Feb. 27 </p> 
@@ -128,12 +130,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russia-stumbles-in-biggest-test-of-its-military-force-11646000303">Russia Stumbles in Biggest Test of Its Military Force</a> WSJ: Initial setbacks spur fears that Russians will step up firepower. 
  <p class="updated_time"> 11:38 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/middleeast/refugees-ukraine-middle-east.html">Middle East Sympathizes With Ukrainian Refugees</a> NYT: Many in the region took to social media to express sympathy for Ukrainians forced to flee, though their warm welcome in Europe evoked a tinge of bitterness over the treatment of Arab and Muslim migrants. 
- <p class="updated_time"> 10:51 AM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraines-defenders-hold-kyiv-battle-for-kharkiv-after-night-of-russian-attacks-11645957216">Ukrainian Forces Hold Kyiv as Talks With Russia Are Planned</a> WSJ: Russian troops faced fierce resistance in Ukraine, while Western responses against Moscow mounted and Putin put nuclear forces on alert. 
  <p class="updated_time"> 10:50 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083368793/ukraine-russia-negotiations-belarus">Ukrainian and Russian negotiators agree to hold talks in Belarus</a> NPR: Ukrainian President Volodymyr Zelensky's office said a delegation of the Ukrainian government will meet for talks with Russian officials near the Pripyat River in Belarus. 
- <p class="updated_time"> 10:45 AM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/nepal-parliament-approves-500-million-in-u-s-aid-despite-chinas-objections-11645998357">Nepal Approves $500 Million in U.S. Aid Despite China's Objections</a> WSJ: Nepal’s Parliament approved a $500 million U.S. government aid program despite objections from China and protests by locals who worry about a potential scuffle for influence between Washington and Beijing . 
  <p class="updated_time"> 10:25 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60543087?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Kharkiv residents describe intense battle to defend city</a> BBC: Local officials say the city, home to 1.4 million, is now rid of Russian troops after fierce clashes. 
  <p class="updated_time"> 10:13 AM CT, Feb. 27 </p> 
@@ -144,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/uk-ukraine-liz-truss.html">Liz Truss Says She Would Support Britons Fighting for Ukraine</a> NYT: Britain’s foreign secretary said people should “absolutely” go to Ukraine and fight “if that is what they want do to.” 
  <p class="updated_time"> 09:17 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/cdc-guidelines-online-tool.html">Find the C.D.C.'s New Pandemic Guidance for Your Area</a> NYT: The guidance is not binding, so local requirements may still apply. The federal mask requirement on mass transit and air travel is set to expire on March 18. 
- <p class="updated_time"> 09:12 AM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-looks-to-make-china-pay-for-close-ties-to-russia-in-ukraine-crisis-11645992755">U.S. Looks to Make China Pay for Close Ties to Russia in Ukraine Crisis</a> WSJ: The U.S. wants to pry China from its tight partnership with Russia. One step, U.S. officials said, is making Beijing feel pain over Russia’s invasion of Ukraine. 
  <p class="updated_time"> 08:29 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-ukraine-advisers.html">Putin Seems to Sideline Advisers on Ukraine, Taking a Political Risk</a> NYT: Authoritarian leaders rely on elite support to govern. Jeopardizing those relationships in wartime could be risky, experts say. 
  <p class="updated_time"> 08:25 AM CT, Feb. 27 </p> 
@@ -172,10 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60521822?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What is Swift and why is banning Russia so significant?</a> BBC: Some Russian banks will be banned from the Swift financial network but what impact will this have? 
  <p class="updated_time"> 02:00 AM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
- <p class="updated_time"> 01:00 AM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/hong-kongs-covid-19-regime-sparks-rush-for-exit-by-spooked-residents-11645963200">Hong Kong's Covid-19 Regime Sparks Rush for Exit by Spooked Residents</a> WSJ: School closures, mandatory tests and the threat of isolation in government facilities prove the final straw after two years of stringent pandemic controls that still failed to halt an Omicron outbreak in the city. 
- <p class="updated_time"> 01:00 AM CT, Feb. 27 </p> 
- <a href="https://www.wsj.com/articles/as-omicron-surges-covid-contact-tracers-face-an-unexpected-problem-much-less-work-11645963201">As Omicron Surges, Contact Tracers Face an Unexpected Problem: Much Less Work</a> WSJ: For the past two years, contact tracers have skipped meals, power napped at their desks and sprinted to the sites of Covid-19 cases at all hours. Now Omicron is here, many are doing a lot less, despite facing more cases than ever. 
  <p class="updated_time"> 12:49 AM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60540342?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Protests held across the globe</a> BBC: From London to Buenos Aires, thousands are gathering to protest Russia's invasion of Ukraine. 
  <p class="updated_time"> 10:47 PM CT, Feb. 26 </p> 
@@ -206,6 +198,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/26/world/europe/putin-sanctions-money-assets.html">Putin Faces Sanctions, but His Assets Remain an Enigma</a> NYT: On paper, the Russian president appears to own very little. Yet estimates put his hidden wealth well over $100 billion. 
  <p class="updated_time"> 10:34 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538567?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kyiv residents answer call to defend nation</a> BBC: Patriotic Ukrainians know they will face Russian soldiers soon - and are preparing for the day. 
+ <p class="updated_time"> 10:24 AM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/2022/02/26/world/europe/volodymyr-zelensky-ukraine-russia.html">Volodymyr Zelensky Tries to Rally His People as Battle for Kyiv Rages</a> NYT: “We have withstood and successfully repelled enemy attacks,” President Volodymyr Zelensky said in the video. “The fighting continues in many cities and districts of our state, but we know that we protect the country, the land, the future of children.” 
  <p class="updated_time"> 10:13 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60540340?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Thousands of people try to force their way onto a train to Poland</a> BBC: Fergal Keane described the scenes from a packed platform, as a mother and child are caught in the crush. 
  <p class="updated_time"> 09:05 AM CT, Feb. 26 </p> 
@@ -216,12 +210,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60539193?at_medium=RSS&at_campaign=KARANGA">Zelensky's defiant response to invasion... in 100 seconds</a> BBC: Ukrainian's President Volodymyr Zelensky is standing firm against Russian aggression. 
  <p class="updated_time"> 06:52 AM CT, Feb. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60538563?at_medium=RSS&at_campaign=KARANGA">BBC Russian reporter in Kyiv: The day the war began</a> BBC: BBC Russian's Ilya Barabanov describes waking up in Kiev on the morning Russia invaded Ukraine. 
- <p class="updated_time"> 06:10 AM CT, Feb. 26 </p> 
- <a href="https://www.nytimes.com/2022/02/26/world/europe/greece-ferry-fire.html">8 Found Dead After Ferry Fire Off Greece as Grim Search Continues</a> NYT: The blaze aboard the Euroferry Olympia burned for most of a week. Hundreds of passengers were rescued, but at least three more are believed missing. 
  <p class="updated_time"> 11:47 PM CT, Feb. 25 </p> 
  <a href="https://www.nytimes.com/2022/02/25/world/europe/ukrainian-refugees-poland.html">At the Polish Border, Tens of Thousands of Ukrainian Refugees</a> NYT: They have been warmly welcomed in a country whose border guards last year beat back mostly Afghan and Middle Eastern migrants with batons. 
- <p class="updated_time"> 06:16 PM CT, Feb. 25 </p> 
- <a href="https://www.nytimes.com/2022/02/25/world/asia/china-russia-ukraine-sovereignty.html">‘Abrupt Changes’: China Caught in a Bind Over Russia’s Invasion of Ukraine</a> NYT: China has presented itself as a defender of sovereign independence. But its reluctance to denounce Russia’s aggression forces it into an awkward position. 
  <p class="updated_time"> 05:37 PM CT, Feb. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60533425?at_medium=RSS&at_campaign=KARANGA">Ukraine: What happens next?</a> BBC: The gloves are off - so what might happen next? What can the West do to deter Vladimir Putin? 
  <p class="updated_time"> 05:35 AM CT, Feb. 25 </p> 
@@ -235,6 +225,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/u-s-russia-ukraine-protests-sanctions-00012173">The West finally throws a punch in its face-off with Russia</a> Politico: A rash of weekend moves on sanctions, airspace, military aid and more showed that the United States and its allies aren’t afraid to escalate when it comes to helping Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
