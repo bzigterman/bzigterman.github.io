@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:20 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 03:28 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Initial Talks End Between Russia and Ukraine</a> NYT: Delegations from Kyiv and Moscow met in Belarus, even as Ukraine said dozens were killed in a Russian rocket attack in Kharkiv, Ukraine’s second-largest city. The Treasury Department announced a freeze on Russian Central Bank assets. 
  <p class="updated_time"> 03:10 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html">After a Fumbled Start, Russian Forces Hit Harder in Ukraine</a> NYT: After days of miscalculation about Ukraine’s resolve to fight, Russian forces are turning toward an old pattern of opening fire on cities and mounting sieges. 
@@ -184,6 +184,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/americas/brazil-obesity.html">Brazil, Land of the Thong, Embraces Its Heavier Self</a> NYT: A country known for beach bodies is confronting soaring obesity rates with new laws that enshrine protections for people who are overweight. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/asia/north-korea-missile-launch.html">North Korea Launches a Ballistic Missile, South Korea Says</a> NYT: Flight data suggested that the missile launched Sunday was less powerful than the last one the North tested, four weeks ago. 
+ <p class="updated_time"> 08:21 PM CT, Feb. 26 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008229484/ukraine-missile-strike-apartment.html">‘No City in Ukraine Is Safe’: Family Escapes Missile Strike in Kyiv</a> NYT: After days in a bomb shelter, a family returned to their home in Kyiv for breakfast, and witnessed a missile strike on a neighboring apartment building. 
  <p class="updated_time"> 05:41 PM CT, Feb. 26 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-vodka-brands-boycott.html">Putin’s Critics Call for Boycotts of Russian Vodka</a> NYT: The governors of New Hampshire and Ohio announced measures aimed halting the sales of Russian-made and Russian-branded spirits. 
  <p class="updated_time"> 01:52 PM CT, Feb. 26 </p> 
@@ -201,6 +203,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/refugees-ukraine-russia-00012499">500,000+ refugees have fled Ukraine since Russia waged war</a> Politico: The mass exodus of refugees from Ukraine to the eastern edge of the European Union shows no signs of stopping. 
+ <p class="updated_time"> 03:27 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">Some Texas Hispanics Drawn to Republicans Share Immigration Grievances</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
  <p class="updated_time"> 03:09 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
@@ -217,8 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/california-drop-school-mask-mandate-march-11-00012367">California to drop school mask mandate after March 11</a> Politico: Gov. Gavin Newsom's announcement caps weeks of speculation over when one of the nation's strictest states would allow districts to make masks optional in the classroom. 
  <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/supreme-court-justices-epa-climate-authority-00012368">Supreme Court justices lean toward hobbling EPA's climate authority</a> Politico: Depending on how broadly the high court rules in the case before it about EPA's authority, it could make it harder for the government to regulate a broad variety of issues. 
- <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">Some Texas Hispanics Drawn to Republicans Share Immigration Grievances</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
  <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/cecilia-rouse-russia-ukraine-us-economy-00012371">Cecilia Rouse says Russian invasion of Ukraine has 'clouded' economic outlook for U.S.</a> Politico: Cecilia Rouse, in an interview with POLITICO’s Women Rule, said Russia’s aggression “generates some risk” for the U.S. and the global economy as the West piles on sanctions to punish the Kremlin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
@@ -237,8 +239,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/us-closes-belarus-embassy-ukraine-attack-00012323">U.S. shuts down Belarus embassy amid attack on Ukraine</a> Politico: The State Department has issued a "do not travel" advisory for Belarus. 
  <p class="updated_time"> 10:34 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ketanji-brown-jackson-mcconnell-00012311">Ketanji Brown Jackson to meet with McConnell this week</a> Politico: Biden’s Supreme Court nominee is making the rounds on the Hill, including to some key Republican lawmakers. 
- <p class="updated_time"> 08:00 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/ruble-sanctions-russian-banks-00012260">Ruble plummets as sanctions bite, sending Russians to banks</a> Politico: The Russian currency plunged about 30 percent against the U.S. dollar Monday after Western nations announced moves against some Russian banks. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
