@@ -38,9 +38,9 @@ champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   filter(central_time > now(tzone = "America/Chicago")+days(5))  %>%
   mutate(rain = {if("rain" %in% names(.)) ifelse(is.na(rain),
-                                                    0,rain) else 0}) %>%
+                                                 0,rain) else 0}) %>%
   mutate(snow = {if("snow" %in% names(.)) ifelse(is.na(snow),
-                                                    0,snow) else 0})
+                                                 0,snow) else 0})
 
 ## historical ----
 url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
@@ -125,7 +125,7 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
   select(central_time,temp, humidity,
          wind_speed, clouds,
          pop, rain, snow) %>%
-    select(where(~ any(. != 0))) %>%
+  select(where(~ any(. != 0))) %>%
   pivot_longer(cols = !central_time,
                names_to = "names",
                values_to = "values") %>%
