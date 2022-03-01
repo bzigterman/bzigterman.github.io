@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:00 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 12:29 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083644721/ukraine-russian-soldiers-road-signs-billboards">Ukrainians are removing and altering road signs to confuse and insult Russian forces</a> NPR: Ukrainian agencies are working to remove road signs to try to frustrate Russian soldiers, while other public signs are laced with expletives toward the invading troops. 
+ <p class="updated_time"> 12:25 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-refugee-discrimination.html">Africans Say Ukrainian Authorities Hindered Them From Fleeing</a> NYT: Africans and other foreigners in Ukraine say border guards made them endure long waits and even beat them, while letting Ukrainians through quickly. Ukraine denied discriminating. 
+ <p class="updated_time"> 12:23 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
- <p class="updated_time"> 11:50 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">Battered by the Pandemic, London’s Underground Is Hit by a Worker Strike</a> NYT: Transport workers started the first of two 24-hour strikes planned for this week amid concerns over long-term financing of the rail system, unfilled posts and pensions. 
+ <p class="updated_time"> 12:05 PM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60576443?at_medium=RSS&at_campaign=KARANGA">No-fly zone: What it means and why the West won't act</a> BBC: Ukraine has asked Western powers to consider imposing a no-fly zone to stop Russian air assaults. 
+ <p class="updated_time"> 12:03 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">Workers Strike in a London Underground Already Battered by the Pandemic</a> NYT: Transport workers started the first of two 24-hour strikes planned for this week amid concerns over unfilled posts, pensions and the long-term financing of the rail system. 
  <p class="updated_time"> 11:48 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60532627?at_medium=RSS&at_campaign=KARANGA">What Americans think of President Biden's Ukraine response</a> BBC: "This shows America is weak" - Philadelphians weigh-in on the US response to the war in Ukraine. 
  <p class="updated_time"> 11:47 AM CT, Mar. 01 </p> 
@@ -56,6 +62,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</a> WSJ: Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory. 
  <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60570831?at_medium=RSS&at_campaign=KARANGA">Newly elected Honduras government to ban open-pit mining</a> BBC: Honduras exports gold, silver, zinc and lead but the new government says the industry is "harmful". 
+ <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/as-russia-sanctions-intensify-several-oligarchs-speak-out-against-ukraine-war-11646154428">As Russia Sanctions Intensify, Several Oligarchs Speak Out Against War</a> WSJ: A parade of Russian businessmen burnished their antiwar stances in recent days as Western governments tightened a noose around Kremlin-connected businesses and property. 
  <p class="updated_time"> 05:30 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60571615?at_medium=RSS&at_campaign=KARANGA">Syria shopping centre blaze kills 11</a> BBC: The entire six-storey building went up in flames, killing security guards and staff. 
  <p class="updated_time"> 05:23 AM CT, Mar. 01 </p> 
@@ -78,18 +86,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/chinas-outreach-to-russian-economy-extends-only-so-far-11646145595">China's Outreach to Russian Economy Extends Only So Far</a> WSJ: China is Russia’s largest trading partner, making it a closely watched factor as the U.S. and its allies seek to hobble the Russian economy over Vladimir Putin’s attack on Ukraine. 
  <p class="updated_time"> 03:33 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60568298?at_medium=RSS&at_campaign=KARANGA">Building hit by missile in Kharkiv's Freedom Square</a> BBC: Video show a deadly Russian strike in Ukraine's second city, Kharkiv. 
- <p class="updated_time"> 02:50 AM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/zelensky-renews-call-for-help-eu-membership-prove-you-are-with-us-11646142628">Zelensky Renews Call for Help, EU Membership: 'Prove You Are With Us'</a> WSJ: Ukrainian President Volodymyr Zelensky reiterated a recent call for the European Union to grant Ukraine membership, telling the bloc’s leaders that his compatriots are dying to achieve freedom and equality. 
- <p class="updated_time"> 02:36 AM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/war-in-ukraine-disrupts-ships-around-the-globe-11646138737">War in Ukraine Disrupts Ships Around the Globe</a> WSJ: Hundreds of vessels are trapped at ports, cargo is being derailed, and freight rates are surging. Container ship operators Maersk and MSC said they would suspend cargo services to Russian ports. 
  <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Starlink Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083662498/russia-eyes-sanctions-workarounds-in-energy-gold-crypto">Russia eyes sanctions workarounds in energy, gold, crypto</a> NPR: Observers say Russia will likely turn closer to China to make up for supplies of goods and services lost due to sanctions. 
  <p class="updated_time"> 11:45 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659633/thousands-evacuate-worst-australian-floods-in-decades">Thousands evacuate worst Australian floods in decades</a> NPR: Local authorities have placed up to 300,000 people under evacuation warnings in one of the country's worst flooding incidents. 
- <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60567192?at_medium=RSS&at_campaign=KARANGA">Australia floods: Residents and horses trapped on bridge overnight</a> BBC: Record-breaking fatal floods declared disaster zone as rescue operation continues. 
  <p class="updated_time"> 10:39 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
  <p class="updated_time"> 10:35 PM CT, Feb. 28 </p> 
@@ -122,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083616770/russia-is-using-controversial-cluster-munitions-in-ukraine-humanitarian-groups-s">Russia is using controversial 'cluster munitions' in Ukraine, humanitarian groups say</a> NPR: Once fired, cluster munitions open in midair and rain down dozens or even hundreds of smaller submunitions, or "bomblets," over a large area the size of one or several football fields. 
  <p class="updated_time"> 06:23 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-parliament-ukraine-invasion.html">A Few Members of Russia's Parliament Speak Out Against War</a> NYT: In a rare show of dissent, three deputies of the State Duma have expressed regret about the attack. 
- <p class="updated_time"> 06:19 PM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-allies-are-ramping-up-sanctions-on-russia-but-one-country-is-sitting-out-11646111946">U.S., Allies Are Ramping Up Sanctions on Russia, but One Country Is Sitting Out</a> WSJ: New Zealand, a close U.S. ally, has been limited in how far it can go punishing Russia over its invasion of Ukraine. 
  <p class="updated_time"> 06:08 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60565970?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Russia’s nuclear threat</a> BBC: Ros Atkins looks at the history of nuclear tensions and deals between the US and Russia. 
  <p class="updated_time"> 06:01 PM CT, Feb. 28 </p> 
@@ -152,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083581090/many-fleeing-ukraine-were-still-rebuilding-their-lives-after-the-2014-russian-as">Many fleeing Ukraine were still rebuilding their lives after the 2014 Russian assault</a> NPR: A Ukrainian family fled their home and now are stuck on the Ukrainian side of the border with Poland in an endless line. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581083/un-diplomats-spoke-out-against-moscow-in-emergency-meeting">UN diplomats spoke out against Moscow in emergency meeting</a> NPR: Diplomats at the United Nations are calling for peace. They held an emergency meeting after Russia blocked a security council resolution calling on Russia to withdraw. 
- <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083581054/russia-and-ukraine-met-in-1st-negotiations-since-the-invasion">Russia and Ukraine met in 1st negotiations since the invasion</a> NPR: Russians lined up at ATM machines but there are few other signs of reaction to Western economic sanctions. 
  <p class="updated_time"> 02:53 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/germany-covid-far-right-protests.html">In Germany, Threats Grow as Far Right and Pandemic Protestors Merge</a> NYT: In the former Communist East, security officials worry that a long-running movement against Covid restrictions is becoming an incubator of political violence. 
  <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
@@ -178,14 +176,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/switzerland-russian-assets-freeze.html">Switzerland Says it Will Freeze Russian Assets</a> NYT: The decision came amid mounting public anger at Russia’s invasion of Ukraine. 
  <p class="updated_time"> 09:15 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html">Climate Change's Effects Outpacing Ability to Adapt, I.P.C.C. Warns</a> NYT: Countries aren’t doing nearly enough to protect against the disasters to come as the planet keeps heating up, a major new scientific report concludes. 
- <p class="updated_time"> 08:46 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/taliban-halts-further-evacuations-rejecting-u-s-precondition-for-lifting-sanctions-11646077567">Taliban Halts Evacuations, Rejecting U.S. Precondition for Lifting Sanctions</a> WSJ: Afghans will no longer be allowed to leave the country without a good reason, and women will be barred from traveling without a chaperone, as thousands who helped the U.S. war effort are still trying to escape. 
  <p class="updated_time"> 08:12 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-citizens-russian-army-fight.html">Ukrainian Citizens Prepare to Fight Russian Army</a> NYT: In cities and towns in Central Ukraine that have not yet heard the boom of Russian artillery fire, residents spent the weekend preparing furiously for the possibly of an attack. 
  <p class="updated_time"> 07:37 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60558621?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Videos show locals confronting Russian forces</a> BBC: Videos from social media show tanks retreating and locals telling soldiers to go back to Russia. 
- <p class="updated_time"> 07:16 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-iran-split-over-key-nuclear-issues-as-deal-deadline-nears-11646072181">U.S., Iran Split on Key Issues in Nuclear Talks</a> WSJ: With a deadline to reach an agreement fast approaching, diplomats worry that the crisis in Ukraine could augment Tehran’s leverage in negotiations to restore the 2015 pact. 
  <p class="updated_time"> 06:44 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
  <p class="updated_time"> 05:18 AM CT, Feb. 28 </p> 
@@ -194,16 +188,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
  <p class="updated_time"> 03:01 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/kyrie-irving-covid.html">Why Kyrie Irving Still Won’t Play in Brooklyn if Some Covid Restrictions End Next Week</a> NYT: Barclays Center would remain under a private-sector vaccine mandate that took effect in December. 
- <p class="updated_time"> 02:51 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/in-some-african-nations-armed-police-enforce-covid-19-vaccinations-11646056306">In Some African Nations, Armed Police Enforce Covid-19 Vaccinations</a> WSJ: Countries in some parts of the world have offered a variety of incentives or threats to convince people to get inoculated, but some African nations are taking a more aggressive stance. 
  <p class="updated_time"> 01:04 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-war-russia.html">Ukraine Agrees to Talks With Russia, but Fighting Still Rages</a> NYT: Putin, accusing the West of “aggressive statements,” puts nuclear forces on alert. Kyiv remains in Russian cross-hairs as Ukrainians push back. 
- <p class="updated_time"> 12:00 AM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/impacts-of-climate-change-now-severe-and-widespread-u-n-panel-says-11646046000">Impacts of Climate Change Now Severe and Widespread, U.N. Panel Says</a> WSJ: Based on 34,000 studies, a new report says major weather events are more common and severe than previously predicted. 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
- <p class="updated_time"> 06:58 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/european-union-ukrainian-refugees-asylum.html">EU Will Ask States to Grant Asylum to Ukrainian Refugees for Up to 3 Years</a> NYT: More than 300,000 people have fled into the European Union since Russia invaded Ukraine on Thursday, the bloc said, and it is expecting millions more. 
  <p class="updated_time"> 06:52 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60304123?at_medium=RSS&at_campaign=KARANGA">Sid Meier warns the games industry about monetisation</a> BBC: The creator of Civilization speaks to the BBC on the 30th anniversary of its release. 
  <p class="updated_time"> 06:42 PM CT, Feb. 27 </p> 
@@ -223,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:03 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/business-groups-russia-oligarch-ties-00012826">Business groups quickly take down their Russian oligarch ties</a> Politico: Names are disappearing from websites, and people are stepping down from boards in the wake of aggressive sanctions. 
  <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/wisconsin-republicans-embrace-election-decertification-00012793">Wisconsin GOP's 2020 report embraces fringe election decertification theory</a> Politico: Former state Supreme Court Justice Michael Gableman for months has been conducting a probe of the 2020 election. 
  <p class="updated_time"> 11:53 AM CT, Mar. 01 </p> 
@@ -291,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/new-york-republicans-talk-inclusion-with-a-diverse-slate-at-convention-00012542">New York Republicans talk inclusion with a diverse slate at convention</a> Politico: Within the first few hours of the GOP’s gathering, a stand-out message was that New York Republicans are not the monolithic party of exclusion their Democratic counterparts paint them as. 
  <p class="updated_time"> 08:36 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/house-lynching-hate-crime.html">House Passes Bill to Make Lynching a Hate Crime</a> NYT: Lawmakers in both parties hailed the action as historic, but a separate bill to outlaw discrimination based on a person’s natural hair failed amid Republican opposition. 
- <p class="updated_time"> 08:24 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/u-s-officials-russian-escalation-in-ukraine-could-lead-to-humanitarian-crisis-00012548">U.S. officials: Russian escalation in Ukraine could lead to humanitarian crisis</a> Politico: Over the last several days, as many as 520,000 people have fled Ukraine, according to the United Nations. 
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">As Tanks Rolled Into Ukraine, So Did Malware. Then Microsoft Entered the War.</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
  <p class="updated_time"> 06:58 PM CT, Feb. 28 </p> 
@@ -319,6 +307,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083581009/south-carolina-rep-jim-clyburn-shares-his-view-of-bidens-presidency">South Carolina Rep. Jim Clyburn shares his view of Biden's presidency</a> NPR: NPR's Sacha Pfeiffer talks with Democratic Rep. Jim Clyburn of South Carolina about President Biden's State of the Union address on Tuesday. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
+ <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/cecilia-rouse-russia-ukraine-us-economy-00012371">Cecilia Rouse says Russian invasion of Ukraine has 'clouded' economic outlook for U.S.</a> Politico: Cecilia Rouse, in an interview with POLITICO’s Women Rule, said Russia’s aggression “generates some risk” for the U.S. and the global economy as the West piles on sanctions to punish the Kremlin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
