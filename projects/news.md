@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:08 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 08:21 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. At least seven people were killed, officials said, raising fears that Russia was increasingly targeting civilian areas of Ukraine. 
+ <p class="updated_time"> 08:20 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/asia/ukraine-taiwan-china-russia.html">War in Ukraine Hits Home for Taiwanese</a> NYT: Many in Taiwan see parallels with Ukraine. “We must use this time of peace to prepare for the worst,” says a nonprofit working to promote civil defense. 
+ <p class="updated_time"> 08:17 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 07:49 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 07:38 AM CT, Mar. 01 </p> 
@@ -20,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
  <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-italy-sanctions.html">Italy Takes a Risk in Joining Sanctions on Russia Over Ukraine</a> NYT: The two countries have had strong economic ties for decades, but the invasion of Ukraine has spurred the government in Rome to realign with European allies — at an outsize cost. 
- <p class="updated_time"> 06:42 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60570831?at_medium=RSS&at_campaign=KARANGA">Newly elected Honduras government to ban open-pit mining</a> BBC: Honduras exports gold, silver, zinc and lead but the new government says the industry is "harmful". 
  <p class="updated_time"> 05:44 AM CT, Mar. 01 </p> 
@@ -34,8 +36,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-invasion-questions.html">What Questions Do You Have About Russia’s Invasion of Ukraine?</a> NYT: New York Times reporters will answer reader questions about the war, the world’s response and the effects of sanctions against Russia. 
  <p class="updated_time"> 04:52 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60564123?at_medium=RSS&at_campaign=KARANGA">How many nuclear weapons does Russia have?</a> BBC: A look at Russia's nuclear arsenal and basic guide to nuclear weapons and their destructive power 
- <p class="updated_time"> 04:40 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/asia/ukraine-taiwan-china-russia.html">War in Ukraine Hits Home for Taiwanese</a> NYT: Many in Taiwan see parallels with Ukraine. “We must use this time of peace to prepare for the worst,” says a nonprofit working to promote civil defense. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/south-korea-diversity-muslims.html">Mosque Dispute Becomes Flash Point in South Korean Identity Politics</a> NYT: A mosque dispute in a conservative city has forced some South Koreans to confront what it means to live in an increasingly diverse society. 
  <p class="updated_time"> 03:52 AM CT, Mar. 01 </p> 
@@ -240,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083585797/the-challenges-biden-faces-in-his-state-of-the-union-address">The challenges Biden faces in his State of the Union address</a> NPR: As President Biden is set to make his first State of the Union speech, he and the country face pressing issues, from Russia's invasion of Ukraine to inflation and the continuing pandemic. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">With Midterms in Mind, G.O.P. Tests Attacks on Democrats in New York</a> NYT: The Republican State Convention gave party leaders a chance to test messages about crime, inflation and Democratic leadership. 
+ <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">At NY Republican Convention, G.O.P. Tests Attacks on Democrats</a> NYT: The Republican State Convention is giving party leaders a chance to test messages about crime, inflation and Democratic leadership. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Primary Day in Texas Will Offer Preview of Midterm Battles Ahead</a> NYT: Texas is holding the first primary election of 2022 on Tuesday. Some of the dynamics at play include the intensity of Donald Trump’s continued hold on the Republican electorate. 
  <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
