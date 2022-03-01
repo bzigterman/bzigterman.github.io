@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:39 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. An unknown number of people were killed and wounded, the city’s mayor said. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. At least seven people were killed, officials said, raising fears that Russia was increasingly targeting civilian areas of Ukraine. 
+ <p class="updated_time"> 06:42 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60570831?at_medium=RSS&at_campaign=KARANGA">Newly elected Honduras government to ban open-pit mining</a> BBC: Honduras exports gold, silver, zinc and lead but the new government says the industry is "harmful". 
  <p class="updated_time"> 05:44 AM CT, Mar. 01 </p> 
@@ -35,7 +37,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:48 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659975/oil-majors-pull-out-of-once-promising-russia">Major oil companies pull out of once-promising Russia </a> NPR: Announcements from Shell and BP will further hit Russia's tanking economy — and batter its image as a go-to place for oil and gas investments. 
  <p class="updated_time"> 03:33 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60568298?at_medium=RSS&at_campaign=KARANGA">Building hit by missile in Kharkiv's Freedom Square</a> BBC: Video show a strike targeting government offices in central Kharkiv, Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60568298?at_medium=RSS&at_campaign=KARANGA">Building hit by missile in Kharkiv's Freedom Square</a> BBC: Video show a deadly Russian strike in Ukraine's second city, Kharkiv. 
  <p class="updated_time"> 02:22 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
@@ -201,8 +203,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:58 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-pummels-ukraines-second-largest-city-00012688">Russia pummels Ukraine’s No. 2 city and convoy nears Kyiv</a> Politico: With the Kremlin increasingly isolated by tough economic sanctions that have tanked the ruble currency, Russian troops advanced on Ukraine’s two biggest cities. 
+ <p class="updated_time"> 06:57 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
  <p class="updated_time"> 05:22 AM CT, Mar. 01 </p> 
@@ -227,8 +233,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083606263/texas-primary-election-results">Results: Key Texas primary elections</a> NPR: Texas kicks off the 2022 midterm elections. There are notable primaries for governor and attorney general, and in key congressional districts. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083585797/the-challenges-biden-faces-in-his-state-of-the-union-address">The challenges Biden faces in his State of the Union address</a> NPR: As President Biden is set to make his first State of the Union speech, he and the country face pressing issues, from Russia's invasion of Ukraine to inflation and the continuing pandemic. 
- <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">With Midterms in Mind, G.O.P. Tests Attacks on Democrats in New York</a> NYT: The Republican State Convention gave party leaders a chance to test messages about crime, inflation and Democratic leadership. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
@@ -268,7 +272,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581132/putins-invasion-of-ukraine-may-be-putting-russias-alliance-with-china-to-the-tes">Putin's invasion of Ukraine may be putting Russia's alliance with China to the test</a> NPR: Ahead of Russia's invasion of Ukraine, China was widely seen as one of Moscow's few allies. But the recent actions of President Vladmir Putin now has China trying to distance itself from Russia. 
  <p class="updated_time"> 03:36 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083536401/doctors-worst-fears-about-the-texas-abortion-law-are-coming-true">Doctors' worst fears about the Texas abortion law are coming true</a> NPR: It's been 6 months since Texas passed a law banning most abortions. Doctors and patients are feeling frustration and disbelief as they navigate in the new legal environment. 
+ <a href="https://www.npr.org/2022/02/28/1083536401/texas-abortion-law-6-months">Doctors' worst fears about the Texas abortion law are coming true</a> NPR: It's been six months since Texas passed a law banning almost all abortions after about six weeks of pregnancy. Doctors and patients are feeling frustrated as they navigate the new legal environment. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581083/un-diplomats-spoke-out-against-moscow-in-emergency-meeting">UN diplomats spoke out against Moscow in emergency meeting</a> NPR: Diplomats at the United Nations are calling for peace. They held an emergency meeting after Russia blocked a security council resolution calling on Russia to withdraw. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
