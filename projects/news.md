@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:48 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083659975/oil-majors-pull-out-of-once-promising-russia">Oil majors pull out of once-promising Russia </a> NPR: Announcements from Shell, BP, and Norwegian producer Equinor will further hit Russia's tanking economy - and batter its image as a go-to place for oil and gas investments. 
+ <p class="updated_time"> 03:47 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 03:33 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60568298?at_medium=RSS&at_campaign=KARANGA">Building hit by missile in Kharkiv's Freedom Square</a> BBC: Video show a strike targeting government offices in central Kharkiv, Ukraine. 
  <p class="updated_time"> 03:30 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 02:22 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
- <p class="updated_time"> 02:10 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083580995/some-effects-of-climate-change-are-irreversible-but-theres-still-hope">Some effects of climate change are irreversible, but there's still hope</a> NPR: NPR's Ari Shapiro talks with earth scientist Brian O'Neill about a new major United Nations report on climate change. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083580988/physical-evidence-indicates-that-the-coronavirus-emerged-at-wuhan-seafood-market">Physical evidence indicates that the coronavirus emerged at Wuhan seafood market</a> NPR: Scientists have solid, physical evidence indicating the COVID pandemic began at a seafood market in Wuhan, China. Data suggest the virus jumped from an animal at the market into people at least twice. 
- <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083580981/why-ukrainians-are-being-treated-differently-than-refugees-from-other-countries">Why Ukrainians are being treated differently than refugees from other countries</a> NPR: As neighboring countries let in Ukrainian refugees, Africans living and studying in Ukraine say they're facing discrimination at border crossings. Media coverage of the invasion is part of the reason. 
  <p class="updated_time"> 03:30 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
