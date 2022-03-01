@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:56 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
+ <p class="updated_time"> 09:52 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/zelensky-russia-kharkiv-video.html">Zelensky Denounces Russia's Shelling of Kharkiv</a> NYT: “Today, Russian troops shelled Kharkiv using rocket artillery,” President Volodymyr Zelensky said in a video posted on his Facebook page. “This is, without any doubt, a military crime. A peaceful city. Peaceful residential neighborhoods. Not a single military object in sight.” 
  <p class="updated_time"> 09:43 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-war-kharkiv.html">Russian Rocket Kills Civilians as First Talks Show No Progress</a> NYT: The deadly rocket assault on a residential area of Ukraine’s second-largest city signaled an escalation of Russian tactics, and overshadowed efforts at diplomacy. 
- <p class="updated_time"> 09:40 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 09:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/28/1083650286/satellite-images-show-40-mile-long-russian-military-convoy-nearing-kyiv">Satellite images show 40-mile-long Russian military convoy nearing Kyiv</a> NPR: New photos show that the convoy is considerably longer than the 17 miles initially reported and heading toward the Ukrainian capital. 
  <p class="updated_time"> 09:31 PM CT, Feb. 28 </p> 
@@ -228,7 +230,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:15 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/democratic-governors-election.html">Democratic Governors Look to Biden for a Political Reset</a> NYT: At a weekend fund-raising retreat, a group of governors worried about voters’ frustrations with Democrats. They hoped President Biden’s State of the Union speech would be a pivot point. 
  <p class="updated_time"> 06:06 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/republicans-extremism.html">G.O.P. Leaders Condemn Lawmakers’ Appearance at White Nationalist Conference</a> NYT: The participation of Representatives Marjorie Taylor Greene and Paul Gosar at a far-right event renewed calls for Republican leaders to root out extremism in their party. 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/republicans-extremism-marjorie-taylor-greene.html">G.O.P. Lawmakers' Appearance at White Nationalist Conference Draws Rebuke</a> NYT: The participation of Representatives Marjorie Taylor Greene and Paul Gosar at a far-right event renewed calls for Republican leaders to root out extremism in their party. 
  <p class="updated_time"> 06:05 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/biden-state-of-the-union.html">In State of the Union, Biden Will Focus on Economy and Russia</a> NYT: The speech was originally going to center primarily on the president’s domestic agenda. But the war in Europe has forced the White House to change gears. 
  <p class="updated_time"> 06:05 PM CT, Feb. 28 </p> 
