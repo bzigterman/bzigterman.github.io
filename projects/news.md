@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:56 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 10:00 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 09:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/zelensky-russia-kharkiv-video.html">Zelensky Denounces Russia's Shelling of Kharkiv</a> NYT: “Today, Russian troops shelled Kharkiv using rocket artillery,” President Volodymyr Zelensky said in a video posted on his Facebook page. “This is, without any doubt, a military crime. A peaceful city. Peaceful residential neighborhoods. Not a single military object in sight.” 
@@ -201,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/ukraine-pleads-congress-more-aid-weapons-00012654">Ukraine pleads with Congress for more aid and weapons</a> Politico: As a Russian convoy heads for Kyiv, the Ukrainian ambassador told senators the military was running out of missiles. 
  <p class="updated_time"> 10:27 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/california-lawmakers-push-pension-funds-to-divest-of-russian-assets-00012438">California lawmakers push pension funds to divest of Russian assets</a> Politico: CalPERS and CalSSTRS are the two largest public pension funds in the United States. 
  <p class="updated_time"> 09:25 PM CT, Feb. 28 </p> 
@@ -255,8 +257,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/florida-democrat-deutch-announces-he-wont-run-for-reelection-00012397">Florida Democrat Deutch announces he won’t run for reelection</a> Politico: He is the 31st House Democrat to announce that they will not run for reelection. 
  <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/supreme-court-justices-epa-climate-authority-00012368">Supreme Court justices lean toward hobbling EPA's climate authority</a> Politico: Depending on how broadly the high court rules in the case before it about EPA's authority, it could make it harder for the government to regulate a broad variety of issues. 
- <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/cecilia-rouse-russia-ukraine-us-economy-00012371">Cecilia Rouse says Russian invasion of Ukraine has 'clouded' economic outlook for U.S.</a> Politico: Cecilia Rouse, in an interview with POLITICO’s Women Rule, said Russia’s aggression “generates some risk” for the U.S. and the global economy as the West piles on sanctions to punish the Kremlin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
