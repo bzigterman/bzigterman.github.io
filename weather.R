@@ -122,8 +122,7 @@ champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   full_join(champaign_hourly)
 
 champaign_forecast_longer <- champaign_history_and_forecast %>%
-  pivot_longer(cols = c(temp, pressure,
-                        humidity,
+  pivot_longer(cols = c(temp, humidity,
                         wind_speed,clouds,
                         pop,rain,snow),
                names_to = "names",
@@ -136,8 +135,7 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
                                "snow" = "Snow",
                                "humidity" = "Humidity",
                                "wind_speed" = "Wind",
-                               "clouds" = "Clouds",
-                               "pressure" = "Pressure"))
+                               "clouds" = "Clouds"))
 
 # facet ----
 ggplot(champaign_forecast_longer,
