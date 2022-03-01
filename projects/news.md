@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:30 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 12:52 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 12:13 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
@@ -105,7 +105,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083580974/in-an-effort-to-choke-russian-economy-new-sanctions-target-russias-central-bank">In an effort to choke Russian economy, new sanctions target Russia's central bank </a> NPR: The U.S. and its allies are taking additional steps to squeeze the Russian economy in response to the invasion of Ukraine. Russia's currency has fallen, which will mean higher prices for Russians. 
  <p class="updated_time"> 03:30 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: 'There are no dollars - I don't know what to do!'</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 02:53 PM CT, Feb. 28 </p> 
