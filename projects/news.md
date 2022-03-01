@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:52 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
+ <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083662498/russia-eyes-sanctions-workarounds-in-energy-gold-crypto">Russia eyes sanctions workarounds in energy, gold, crypto</a> NPR: Observers say Russia will likely turn closer to China to make up for supplies of goods and services lost due to sanctions. 
+ <p class="updated_time"> 01:03 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv attack was a war crime, says President Zelensky</a> BBC: President Volodymyr Zelensky spoke out after dozens of civilians were reportedly killed in Kharkiv. 
  <p class="updated_time"> 12:13 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 11:45 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659633/thousands-evacuate-worst-australian-floods-in-decades">Thousands evacuate worst Australian floods in decades</a> NPR: Local authorities have placed up to 300,000 people under evacuation warnings in one of the country's worst flooding incidents. 
  <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60567192?at_medium=RSS&at_campaign=KARANGA">Australia floods: Residents and horses trapped on bridge overnight</a> BBC: Record-breaking fatal floods declared disaster zone as rescue operation continues. 
+ <p class="updated_time"> 10:43 PM CT, Feb. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 10:39 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
  <p class="updated_time"> 10:35 PM CT, Feb. 28 </p> 
@@ -36,8 +42,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60393076?at_medium=RSS&at_campaign=KARANGA">The Nigerians hoping to check out of their country</a> BBC: Frustration among the middles-class is pushing many to want to leave, writes Adaobi Tricia Nwaubani. 
  <p class="updated_time"> 07:08 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60552273?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why India is not criticising Russia over invasion</a> BBC: India has been under pressure to condemn Russia's invasion but has so far been reluctant to do so. 
- <p class="updated_time"> 07:04 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fighting escalates despite ceasefire talks</a> BBC: The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Russia and Ukraine. 
  <p class="updated_time"> 07:00 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/biden-ukraine-visas.html">Biden Administration Faces Pressure to Let Ukrainians Stay in U.S.</a> NYT: Senator Richard J. Durbin, Democrat of Illinois, has called on the administration to offer Temporary Protected Status to Ukrainians who are on short-term visas or have no documentation. 
  <p class="updated_time"> 06:56 PM CT, Feb. 28 </p> 
@@ -102,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083580988/physical-evidence-indicates-that-the-coronavirus-emerged-at-wuhan-seafood-market">Physical evidence indicates that the coronavirus emerged at Wuhan seafood market</a> NPR: Scientists have solid, physical evidence indicating the COVID pandemic began at a seafood market in Wuhan, China. Data suggest the virus jumped from an animal at the market into people at least twice. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083580981/why-ukrainians-are-being-treated-differently-than-refugees-from-other-countries">Why Ukrainians are being treated differently than refugees from other countries</a> NPR: As neighboring countries let in Ukrainian refugees, Africans living and studying in Ukraine say they're facing discrimination at border crossings. Media coverage of the invasion is part of the reason. 
- <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083580974/in-an-effort-to-choke-russian-economy-new-sanctions-target-russias-central-bank">In an effort to choke Russian economy, new sanctions target Russia's central bank </a> NPR: The U.S. and its allies are taking additional steps to squeeze the Russian economy in response to the invasion of Ukraine. Russia's currency has fallen, which will mean higher prices for Russians. 
  <p class="updated_time"> 03:30 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
@@ -188,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60549130?at_medium=RSS&at_campaign=KARANGA">Ukraine: The families fleeing a war, but having to leave loved ones behind</a> BBC: On the Polish border, the BBC meets women whose families had to split because of the war. 
  <p class="updated_time"> 05:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/south-korea-pyeongchang-olympics.html">Pyeongchang Still Awaits Its Olympic Payoff</a> NYT: One of South Korea’s poorest regions hoped that hosting the 2018 Games would bring tourists and prosperity. It hasn’t really happened. 
- <p class="updated_time"> 05:09 PM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-60549131?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Western aid and Ukraine's military</a> BBC: The EU says it will begin shipping arms to Ukraine, the first time it has done so in a conflict. 
  <p class="updated_time"> 03:22 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-russia-hungary-orban.html">Ukraine War Forces Hungary’s Orban Into Political Contortions</a> NYT: The pro-Russia, anti-immigrant Hungarian prime minister, who denounced any sanctions against Russia just weeks ago, has been forced to reverse himself as an election looms. 
  <p class="updated_time"> 10:25 PM CT, Feb. 26 </p> 
