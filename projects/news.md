@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:20 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 05:25 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">What Happened on Day 5 of Russia’s Invasion of Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine called for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
+ <p class="updated_time"> 05:23 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html">Ukraine War Tests the Power of Tech Giants</a> NYT: Google, Meta, Twitter, Telegram and others are levers in the conflict, caught between demands from Ukraine, Russia, the European Union and the U.S. 
  <p class="updated_time"> 05:20 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-invasion-questions.html">What Questions Do You Have About Russia’s Invasion of Ukraine?</a> NYT: New York Times reporters will answer reader questions about the war, the world’s response and the effects of sanctions against Russia. 
  <p class="updated_time"> 04:59 AM CT, Mar. 01 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60552273?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why India is not criticising Russia over invasion</a> BBC: India has been under pressure to condemn Russia's invasion but has so far been reluctant to do so. 
  <p class="updated_time"> 07:00 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/biden-ukraine-visas.html">Biden Administration Faces Pressure to Let Ukrainians Stay in U.S.</a> NYT: Senator Richard J. Durbin, Democrat of Illinois, has called on the administration to offer Temporary Protected Status to Ukrainians who are on short-term visas or have no documentation. 
- <p class="updated_time"> 06:56 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/volodymyr-zelensky-ukraine-russia.html">How Zelensky Rallied Ukrainians, and the World, Against Putin</a> NYT: Mr. Zelensky’s decision to remain in the capital, Kyiv, while it’s under Russian attack has moved many. 
  <p class="updated_time"> 06:52 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60544034?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh elections: 'We Muslims are treated like the sacrificial goat'</a> BBC: Muslims in India's most polarised state say they are living like "second-class citizens". 
  <p class="updated_time"> 06:47 PM CT, Feb. 28 </p> 
@@ -84,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60565970?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Russia’s nuclear threat</a> BBC: Ros Atkins looks at the history of nuclear tensions and deals between the US and Russia. 
  <p class="updated_time"> 06:01 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/disability-sport/60508602?at_medium=RSS&at_campaign=KARANGA">The new wave of India's female Para-athletes forcing a shift in perspective</a> BBC: A new wave of Indian female Para-athletes are enjoying international success and forcing a change in attitudes in their home country. 
- <p class="updated_time"> 05:59 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html">Ukraine War Tests the Power of Tech Giants</a> NYT: Google, Meta, Twitter, Telegram and others are levers in the conflict, caught between demands from Ukraine, Russia, the European Union and the U.S. 
  <p class="updated_time"> 05:57 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
  <p class="updated_time"> 05:18 PM CT, Feb. 28 </p> 
@@ -207,6 +205,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
+ <p class="updated_time"> 05:22 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/texas-primary-candidates-midterms.html">What We’re Watching in Tuesday’s Texas Primary Election</a> NYT: The first election night of the 2022 midterms has some famous names and crowded primary races. Here’s a rundown. 
  <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">Florida GOP splits amid DeSantis’ push to upend redistricting</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
@@ -265,8 +267,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/us/politics/republicans-extremism-marjorie-taylor-greene.html">G.O.P. Lawmakers' Appearance at White Nationalist Conference Draws Rebuke</a> NYT: The participation of Representatives Marjorie Taylor Greene and Paul Gosar at a far-right event renewed calls for Republican leaders to root out extremism in their party. 
  <p class="updated_time"> 06:05 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/biden-state-of-the-union.html">In State of the Union, Biden Will Focus on Economy and Russia</a> NYT: The speech was originally going to center primarily on the president’s domestic agenda. But the war in Europe has forced the White House to change gears. 
- <p class="updated_time"> 06:05 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/texas-primary-candidates-midterms.html">What We’re Watching in Tuesday’s Texas Primary Election</a> NYT: The first election night of the 2022 midterms has some famous names and crowded primary races. Here’s a rundown. 
  <p class="updated_time"> 05:45 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/supreme-court-climate-change.html">Supreme Court Considers Limiting E.P.A.’s Ability to Address Climate Change</a> NYT: Members of the court’s conservative majority voiced skepticism that Congress had authorized the agency to decide what they said were major political and economic questions. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
