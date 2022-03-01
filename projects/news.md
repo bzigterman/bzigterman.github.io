@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
  <p class="updated_time"> 11:50 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">Battered by the Pandemic, London’s Underground Is Hit by a Worker Strike</a> NYT: Transport workers started the first of two 24-hour strikes planned for this week amid concerns over long-term financing of the rail system, unfilled posts and pensions. 
- <p class="updated_time"> 11:49 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
+ <p class="updated_time"> 11:48 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60532627?at_medium=RSS&at_campaign=KARANGA">What Americans think of President Biden's Ukraine response</a> BBC: "This shows America is weak" - Philadelphians weigh-in on the US response to the war in Ukraine. 
  <p class="updated_time"> 11:47 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/wales-scotland-move-covid-restrictions.html">Wales and Scotland Move to Relax Some Covid Restrictions</a> NYT: Various masking and vaccination rules will ease, though the approach is more gradual than England’s. 
  <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
@@ -22,7 +24,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60577667?at_medium=RSS&at_campaign=KARANGA">Ukraine: Polish communities help people fleeing war</a> BBC: Communities across Poland, and particularly along the border, are rallying to help people who have fled Ukraine. 
  <p class="updated_time"> 11:38 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
- <p class="updated_time"> 11:36 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 11:37 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/investors-ukraine-russia-markets.html">War in Ukraine Has Investors Thinking About a Second Cold War</a> NYT: Military conflicts have not been a major factor in market movements for decades. But Russia’s invasion of Ukraine has put global relations back on investors’ minds. 
  <p class="updated_time"> 11:19 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
@@ -221,10 +223,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/wisconsin-republicans-embrace-election-decertification-00012793">Wisconsin GOP's 2020 report embraces fringe election decertification theory</a> Politico: Former state Supreme Court Justice Michael Gableman for months has been conducting a probe of the 2020 election. 
+ <p class="updated_time"> 11:53 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/texas-child-abuse-trans-youth.html">Texas Investigating Over Medical Treatments for Trans Youth, Lawsuit Says</a> NYT: The investigations by the state’s Department of Family and Protective Services started last week with an employee of the agency, according to the suit, after Gov. Greg Abbott called for such inquiries. 
+ <p class="updated_time"> 11:50 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">State of the Union Address Tonight: When Is It and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
  <p class="updated_time"> 11:38 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
- <p class="updated_time"> 11:37 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">State of the Union Address Tonight: When Is It and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
  <p class="updated_time"> 11:19 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
@@ -285,6 +291,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/new-york-republicans-talk-inclusion-with-a-diverse-slate-at-convention-00012542">New York Republicans talk inclusion with a diverse slate at convention</a> Politico: Within the first few hours of the GOP’s gathering, a stand-out message was that New York Republicans are not the monolithic party of exclusion their Democratic counterparts paint them as. 
  <p class="updated_time"> 08:36 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/house-lynching-hate-crime.html">House Passes Bill to Make Lynching a Hate Crime</a> NYT: Lawmakers in both parties hailed the action as historic, but a separate bill to outlaw discrimination based on a person’s natural hair failed amid Republican opposition. 
+ <p class="updated_time"> 08:24 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/u-s-officials-russian-escalation-in-ukraine-could-lead-to-humanitarian-crisis-00012548">U.S. officials: Russian escalation in Ukraine could lead to humanitarian crisis</a> Politico: Over the last several days, as many as 520,000 people have fled Ukraine, according to the United Nations. 
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">As Tanks Rolled Into Ukraine, So Did Malware. Then Microsoft Entered the War.</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
  <p class="updated_time"> 06:58 PM CT, Feb. 28 </p> 
@@ -311,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083581009/south-carolina-rep-jim-clyburn-shares-his-view-of-bidens-presidency">South Carolina Rep. Jim Clyburn shares his view of Biden's presidency</a> NPR: NPR's Sacha Pfeiffer talks with Democratic Rep. Jim Clyburn of South Carolina about President Biden's State of the Union address on Tuesday. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
- <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/cecilia-rouse-russia-ukraine-us-economy-00012371">Cecilia Rouse says Russian invasion of Ukraine has 'clouded' economic outlook for U.S.</a> Politico: Cecilia Rouse, in an interview with POLITICO’s Women Rule, said Russia’s aggression “generates some risk” for the U.S. and the global economy as the West piles on sanctions to punish the Kremlin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
@@ -339,8 +345,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1082934438/supreme-court-to-hear-a-case-that-could-limit-the-epas-power-to-fight-climate-ch">Supreme Court to hear a case that could limit the EPA's power to fight climate change</a> NPR: The outcome of the case could also hamstring the authority of all agencies, from the EPA to the Securities and Exchange Commission to Federal Reserve Board. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1082872714/1st-trial-of-a-u-s-capitol-riot-defendant-opens-monday-in-d-c">1st trial of a U.S. Capitol riot defendant opens Monday in D.C.</a> NPR: The trial, at a courthouse just down the street from the site of the Jan. 6, 2021, insurrection, is a milestone in the Capitol riot investigation. 
- <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
  <p class="updated_time"> 06:43 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-leaders-rescind-mask-mandate-sotu-00012167">Capitol leaders rescind mask mandate ahead of State of the Union</a> Politico: The Office of the Attending Physician said it was following the Centers for Disease Control and Prevention's new guidelines on masking. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
@@ -357,8 +361,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
- <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
- <a href="https://www.politico.com/news/2022/02/25/biden-going-easy-russia-energy-00011822">Why Biden is going easy on Russia's energy industry</a> Politico: U.S. and European dependence on Russian oil and gas is tempering the push for harsh sanctions on Russian President Vladimir Putin's regime. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
