@@ -1355,21 +1355,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">178.0K</td>
-<td class="gt_row gt_right">66.0K</td>
-<td class="gt_row gt_right">&minus;63%</td></tr>
+<td class="gt_row gt_right">153.0K</td>
+<td class="gt_row gt_right">69.5K</td>
+<td class="gt_row gt_right">&minus;55%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">74.4K</td>
+<td class="gt_row gt_right gt_striped">72.1K</td>
 <td class="gt_row gt_right gt_striped">43.8K</td>
-<td class="gt_row gt_right gt_striped">&minus;41%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;39%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">2.4K</td>
-<td class="gt_row gt_right">1.8K</td>
-<td class="gt_row gt_right">&minus;25%</td></tr>
+<td class="gt_row gt_right">2.3K</td>
+<td class="gt_row gt_right">1.9K</td>
+<td class="gt_row gt_right">&minus;17%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">424.0K</td>
+<td class="gt_row gt_right gt_striped">404.0K</td>
 <td class="gt_row gt_right gt_striped">201.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;53%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;50%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">214.0M</td>
 <td class="gt_row gt_right">215.0M</td>
@@ -1381,7 +1381,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   
@@ -1836,17 +1836,17 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">2.3M</td>
+<td class="gt_row gt_right">2.2M</td>
 <td class="gt_row gt_right">1.6M</td>
-<td class="gt_row gt_right">&minus;33%</td></tr>
+<td class="gt_row gt_right">&minus;30%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">10.7K</td>
-<td class="gt_row gt_right gt_striped">8.6K</td>
-<td class="gt_row gt_right gt_striped">&minus;20%</td></tr>
+<td class="gt_row gt_right gt_striped">9.2K</td>
+<td class="gt_row gt_right gt_striped">&minus;14%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">25.4M</td>
+<td class="gt_row gt_right">25.9M</td>
 <td class="gt_row gt_right">23.0M</td>
-<td class="gt_row gt_right">&minus;9%</td></tr>
+<td class="gt_row gt_right">&minus;11%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">4.3B</td>
 <td class="gt_row gt_right gt_striped">4.4B</td>
@@ -1858,7 +1858,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   
@@ -1867,12 +1867,12 @@ html {
 
 ## Case Acceleration
 
-As of Sunday, the 14-day percent change in average new cases was:
+As of Monday, the 14-day percent change in average new cases was:
   
 - -73% in Champaign County
 - -58% in Illinois
-- -63% in the United States
-- -33% worldwide
+- -55% in the United States
+- -30% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -1884,11 +1884,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Sunday, the 14-day percent change in average new deaths was:
+As of Monday, the 14-day percent change in average new deaths was:
   
 - -33% in Illinois
-- -25% in the United States
-- -20% worldwide
+- -17% in the United States
+- -14% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
