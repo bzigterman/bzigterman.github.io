@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:35 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
+ <p class="updated_time"> 05:20 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">What Happened on Day 5 of Russia’s Invasion of Ukraine</a> NYT: President Volodymyr Zelensky of Ukraine called for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
+ <p class="updated_time"> 05:20 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-invasion-questions.html">What Questions Do You Have About Russia’s Invasion of Ukraine?</a> NYT: New York Times reporters will answer reader questions about the war, the world’s response and the effects of sanctions against Russia. 
+ <p class="updated_time"> 04:59 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia bombs Kharkiv's Freedom Square and opera house</a> BBC: Russian missiles hit the the cultural heart of Ukraine's second city in what officials said was a "barbaric" attack. 
+ <p class="updated_time"> 04:40 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/asia/ukraine-taiwan-china-russia.html">War in Ukraine Hits Home for Taiwanese</a> NYT: Many in Taiwan see parallels with Ukraine. “We must use this time of peace to prepare for the worst,” says a nonprofit working to promote civil defense. 
  <p class="updated_time"> 04:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
@@ -25,11 +31,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:22 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Starlink Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083662498/russia-eyes-sanctions-workarounds-in-energy-gold-crypto">Russia eyes sanctions workarounds in energy, gold, crypto</a> NPR: Observers say Russia will likely turn closer to China to make up for supplies of goods and services lost due to sanctions. 
- <p class="updated_time"> 01:03 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv attack was a war crime, says President Zelensky</a> BBC: President Volodymyr Zelensky spoke out after dozens of civilians were reportedly killed in Kharkiv. 
  <p class="updated_time"> 11:45 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659633/thousands-evacuate-worst-australian-floods-in-decades">Thousands evacuate worst Australian floods in decades</a> NPR: Local authorities have placed up to 300,000 people under evacuation warnings in one of the country's worst flooding incidents. 
  <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
@@ -84,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/technology/ukraine-russia-social-media.html">Ukraine War Tests the Power of Tech Giants</a> NYT: Google, Meta, Twitter, Telegram and others are levers in the conflict, caught between demands from Ukraine, Russia, the European Union and the U.S. 
  <p class="updated_time"> 05:57 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
- <p class="updated_time"> 05:21 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-invasion-questions.html">What Questions Do You Have About Russia’s Invasion of Ukraine?</a> NYT: New York Times reporters will answer reader questions about the war, the world’s response and the effects of sanctions against Russia. 
  <p class="updated_time"> 05:18 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-economy-sanctions-ukraine.html">Russians Face Sanctions and Anxieties of a Costly War</a> NYT: The ruble plunged, the stock market was shuttered and foreign investors shed holdings in Russian companies, deepening the concern among citizens who had become accustomed to the perks of globalization. 
  <p class="updated_time"> 05:10 PM CT, Feb. 28 </p> 
@@ -205,10 +207,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">Florida GOP splits amid DeSantis’ push to upend redistricting</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/what-to-watch-texas-primaries-00012619">What to watch for in Texas’ primaries</a> Politico: The first primaries of 2022 highlight conflict over the future of both parties. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-reset-biden-democrats-00012567">More like Reset of the Union: Dems hope for a pivot as Biden readies his speech</a> Politico: Congressional Democrats want the president to tout the party’s achievements without sounding tone-deaf about everyday economic issues. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/kyiv-ukraine-kabul-afghanistan-conflicts-00012551">2 wars in 6 months: An Afghan family stuck in the hell of Ukraine's conflict</a> Politico: In the wave of families leaving Ukraine, the Safis are desperate for a way out. 
  <p class="updated_time"> 04:05 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083664596/the-texas-primary-is-the-first-election-of-the-2022-midterms">The Texas primary is the first election of the 2022 midterms</a> NPR: It's primary day in Texas. Voters there will decide who to nominate for governor, attorney general and a host of other offices. 
  <p class="updated_time"> 04:05 AM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083664540/state-of-the-union-speech-is-a-chance-for-biden-to-show-he-s-got-a-handle-on-cri">State of the Union speech is a chance for Biden to show he's got a handle on crises</a> NPR: President Biden is set to give his State of the Union speech Tuesday night — at a moment when the White House is tackling the Ukraine crisis, soaring inflation and the lingering pandemic. 
+ <a href="https://www.npr.org/2022/03/01/1083664540/state-of-the-union-speech-is-a-chance-for-biden-to-show-he-s-got-a-handle-on-cri">State of the Union speech is a chance for Biden to show he's got a handle on crises</a> NPR: President Biden is set to give his Tuesday night address at a moment when the White House is tackling the Ukraine crisis, soaring inflation and the lingering pandemic. 
+ <p class="updated_time"> 04:05 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083664505/morning-news-brief">News brief: Russian military convoy, sanctions fallout, State of the Union</a> NPR: Satellite images show a convoy of Russian forces headed to Kyiv. The world is watching to see how sanctions impact Russia. President Biden will give his State of the Union address Tuesday night. 
  <p class="updated_time"> 04:01 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083228514/4-races-to-watch-in-the-texas-primary">4 races to watch in the Texas primary</a> NPR: Texas holds the first primaries of the midterms on Tuesday. Here are four races to watch — two congressional contests and two contests in which statewide Republicans have primary challengers. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
@@ -243,14 +255,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/us/politics/capitol-security-sotu-truck-convoy.html">Bracing for Biden and Protests, Officials Fortify the Capitol</a> NYT: A security fence, National Guard troops and more police surround the Capitol in preparation for the State of the Union address and a possible truck convoy of protesters. 
  <p class="updated_time"> 06:58 PM CT, Feb. 28 </p> 
  <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
- <p class="updated_time"> 06:51 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/senate-abortion-rights-bill-00012553">Democrats’ signature abortion rights bill falls short as SCOTUS ruling looms</a> Politico: The 46-48 vote comes just a few months before the Supreme Court is to rule on half-century old protections for the procedure and before the midterm elections. 
  <p class="updated_time"> 06:19 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/biden-state-of-the-union-2022-00012470">State of the Union 2022: What to know ahead of Biden's speech</a> Politico: The president's address comes at a time of international chaos and domestic dysfunction. 
  <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/richard-blum-dead.html">Richard Blum, Political Donor and Husband of Senator Feinstein, Dies at 86</a> NYT: As a financier, he amassed a fortune that he spent on Democrats, helping to propel his wife from San Francisco mayor to a long career in the Senate. 
- <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/ukrainian-pilots-arrive-in-poland-to-pick-up-donated-fighter-jets-00012560">Ukrainian pilots arrive in Poland to pick up donated fighter jets</a> Politico: The Ukrainian parliament on Monday tweeted that Europe was sending 70 fighter planes to Ukraine. 
  <p class="updated_time"> 06:15 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/democratic-governors-election.html">Democratic Governors Look to Biden for a Political Reset</a> NYT: At a weekend fund-raising retreat, a group of governors worried about voters’ frustrations with Democrats. They hoped President Biden’s State of the Union speech would be a pivot point. 
  <p class="updated_time"> 06:06 PM CT, Feb. 28 </p> 
@@ -277,8 +285,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 02:42 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/house-races-texas-00012422">6 House races to watch in Texas</a> Politico: The Democratic primaries will be a test of progressive strength. 
- <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/supreme-court-justices-epa-climate-authority-00012368">Supreme Court justices lean toward hobbling EPA's climate authority</a> Politico: Depending on how broadly the high court rules in the case before it about EPA's authority, it could make it harder for the government to regulate a broad variety of issues. 
+ <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/cecilia-rouse-russia-ukraine-us-economy-00012371">Cecilia Rouse says Russian invasion of Ukraine has 'clouded' economic outlook for U.S.</a> Politico: Cecilia Rouse, in an interview with POLITICO’s Women Rule, said Russia’s aggression “generates some risk” for the U.S. and the global economy as the West piles on sanctions to punish the Kremlin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
@@ -287,8 +295,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/us/politics/redistricting-partisan-divide.html">How Lopsided New District Lines Deepen the U.S. Partisan Divide</a> NYT: Competitive districts are disappearing in Texas and beyond. Consider the case of a once-rising Republican star, Dan Crenshaw, in the Houston suburbs. 
  <p class="updated_time"> 12:08 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/twitter-label-state-affiliated-russia-media-00012351">Twitter to label all state-affiliated Russia media</a> Politico: The latest steps come as Russian disinformation spreads. 
- <p class="updated_time"> 11:12 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/us-closes-belarus-embassy-ukraine-attack-00012323">U.S. expels Russian U.N. diplomats, shuts embassy in Belarus</a> Politico: The latest American actions were in response to Russia's invasion and continuing assault on Ukraine. 
  <p class="updated_time"> 10:34 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ketanji-brown-jackson-mcconnell-00012311">Ketanji Brown Jackson to meet with McConnell this week</a> Politico: Biden’s Supreme Court nominee is making the rounds on the Hill, including to some key Republican lawmakers. 
  <p class="updated_time"> 08:00 AM CT, Feb. 28 </p> 
@@ -299,12 +305,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/meta-belarus-hacking-campaign-ukraine-00012214">Meta takes action against Belarus-linked hacking campaign targeting Ukrainians</a> Politico: Meta’s actions mark a step toward addressing disinformation and make both Russians and Ukrainians somewhat safer online 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/u-s-russia-ukraine-protests-sanctions-00012173">The West finally throws a punch in its face-off with Russia</a> Politico: A rash of weekend moves on sanctions, airspace, military aid and more showed that the United States and its allies aren’t afraid to escalate when it comes to helping Ukraine. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/biden-covid-fight-next-chapter-00012079">Biden wants to declare a new chapter in the Covid fight. He’s trigger shy.</a> Politico: The president and his team recognize political realities. They also don’t want to repeat the missteps of last July 4. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/trucker-crypto-crackdown-in-canada-fuels-gop-backlash-in-u-s-00011401">Trucker crypto crackdown in Canada fuels GOP backlash in U.S.</a> Politico: At least one House GOP lawmaker has introduced a bill to prevent a similar government clampdown in the U.S. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/first-january6-trial-reffitt-00012216">First Capitol riot trial opens in D.C.</a> Politico: This is the first test of the Justice Department’s effort to transform its Jan. 6 manhunt into convincing arguments. 
  <p class="updated_time"> 04:00 AM CT, Feb. 28 </p> 
@@ -325,6 +325,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083379284/montgomery-ala-mayor-on-leading-the-city-through-the-voting-rights-battle">Montgomery, Ala., mayor on leading the city through the voting rights battle</a> NPR: NPR's Michel Martin speaks with Steven Reed, the first Black mayor of Montgomery, Ala. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083379277/sen-sullivan-supports-sending-more-military-aid-to-ukraine">Sen. Sullivan supports sending more military aid to Ukraine</a> NPR: NPR's Michel Martin speaks with Sen. Dan Sullivan (R-Alaska) about the Russian invasion of Ukraine. 
+ <p class="updated_time"> 02:07 PM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/cpac-straw-poll-trump-desantis-00012138">Donald Trump wins CPAC straw poll</a> Politico: The former president fared better than he had in 2021. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
  <p class="updated_time"> 11:43 AM CT, Feb. 27 </p> 
@@ -337,10 +339,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/pentagon-moscow-backchannel-escalation-00012107">Pentagon wants Moscow back channels to prevent nuclear escalation</a> Politico: As the U.S. and NATO rush weapons into Ukraine, DoD officials want more military channels to Putin’s top leaders. But Russia’s not picking up the phone. 
  <p class="updated_time"> 08:56 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-fence-biden-state-union-address-00012105">Capitol fence will return ahead of Biden’s State of the Union address</a> Politico: Fencing ringed the Capitol for weeks after the Jan. 6 insurrection, and some fencing returned ahead of a rally last September. 
- <p class="updated_time"> 07:24 AM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083361157/co-chair-of-senate-ukraine-caucus-calls-for-stricter-sanctions-against-russia">Co-chair of Senate Ukraine Caucus calls for stricter sanctions against Russia</a> NPR: Sarah McCammon asks Sen. Dick Durbin, D-Ill., about the crisis in Ukraine and the American government's response. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 27 </p> 
+ <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
+ <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/biden-going-easy-russia-energy-00011822">Why Biden is going easy on Russia's energy industry</a> Politico: U.S. and European dependence on Russian oil and gas is tempering the push for harsh sanctions on Russian President Vladimir Putin's regime. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
@@ -348,11 +352,15 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:28 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/25/scoop-trump-tries-to-recruit-scott-for-majority-leader-00011720"> Scoop: Trump tries to recruit Scott for majority leader</a> Politico Playbook: And Russian forces enter Kyiv. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/kevin-mccarthy-primary-texas-00011683">The primary foreshadowing the future of the GOP</a> Politico: Kevin McCarthy and a rabble-rousing set of House Republicans have lined up on opposite sides of a big primary in Texas. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: At least $10 billion in emergency funding is likely to be included in a package to aid Ukraine, with the majority of that money going toward helping refugees, Sen. Chris Coons said. 
  <p class="updated_time"> 03:36 PM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/inhofe-to-retire-from-senate-teeing-up-special-election-in-oklahoma-00011534">Inhofe to retire from Senate, teeing up special election in Oklahoma</a> Politico: The 87-year-old Oklahoma Republican is expected to announce his retirement, likely triggering a special election to replace him this fall. 
+ <p class="updated_time"> 11:50 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/biden-foreign-policy-doctrine-stress-test-00011385">Biden faces another global crisis. This one resonates differently at home.</a> Politico: The White House and allies believe the Republican disagreements over Ukraine have given them some political wiggle room. 
  <p class="updated_time"> 07:39 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/24/washington-wakes-to-assault-on-ukraine-00011325">Washington wakes to assault on Ukraine</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:31 AM CT, Feb. 24 </p> 
