@@ -8,6 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
+ <p class="updated_time"> 02:47 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/russian-convoy-ukraine.html">40-Mile Long Russian Convoy Outside Kyiv Raises Alarm</a> NYT: Satellite imagery has shown a Russian military convoy stretching 40 miles on a roadway north of Ukraine’s capital, Kyiv. Experts say it probably indicates a shift to siege tactics. 
+ <p class="updated_time"> 02:40 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083694731/u-s-russian-cultural-organizations-ukraine">U.S. Russian cultural organizations fear boycotts over the war</a> NPR: Some U.S.-based institutions have publicly denounced Russia's invasion of Ukraine to show they don't represent the Russian government. 
  <p class="updated_time"> 02:25 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083686606/ukraine-russia-civilian-casualties-syria">Russia showed its playbook in Syria. Here's what it may mean for civilians in Ukraine</a> NPR: The lessons of Moscow's involvement in Syria's civil war stand as a specter of the heavy-handed playbook experts fear could be used on an even larger and more deadly scale in Ukraine. 
  <p class="updated_time"> 02:19 PM CT, Mar. 01 </p> 
@@ -16,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/congo-cobalt-mining-china.html">Chinese Company Removed as Operator of Cobalt Mine in Congo</a> NYT: A court has given the Congolese control of one of the world’s largest sources of cobalt while allegations against the mine’s Chinese owners are investigated. 
  <p class="updated_time"> 02:14 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
- <p class="updated_time"> 02:12 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
  <p class="updated_time"> 02:01 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60557081?at_medium=RSS&at_campaign=KARANGA">Russian oligarch Fridman warns sanctions will not stop war</a> BBC: But Mikhail Fridman avoids criticising President Putin as it could be risky for himself and staff. 
  <p class="updated_time"> 01:33 PM CT, Mar. 01 </p> 
@@ -124,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60565971?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'How much longer until this is over?'</a> BBC: Burning buildings and cars destroyed in Donetsk after the separatist-controlled city is shelled. 
  <p class="updated_time"> 09:43 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-war-kharkiv.html">Russian Rocket Kills Civilians as First Talks Show No Progress</a> NYT: The deadly rocket assault on a residential area of Ukraine’s second-largest city signaled an escalation of Russian tactics, and overshadowed efforts at diplomacy. 
- <p class="updated_time"> 09:31 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/02/28/1083650286/satellite-images-show-40-mile-long-russian-military-convoy-nearing-kyiv">Satellite images show 40-mile-long Russian military convoy nearing Kyiv</a> NPR: New photos show that the convoy is considerably longer than the 17 miles initially reported and heading toward the Ukrainian capital. 
  <p class="updated_time"> 09:25 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/us-sanctions-russia-central-bank.html">US Escalates Sanctions With a Freeze on Russian Central Bank Assets</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
  <p class="updated_time"> 08:20 PM CT, Feb. 28 </p> 
@@ -188,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/state-of-the-union-mask-mandate.html">Capitol's Mask Mandate Being Lifted in Time for State of the Union</a> NYT: This year’s address from the president, unlike last year’s, is open to all members of Congress. 
  <p class="updated_time"> 03:01 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/kyrie-irving-covid.html">Why Kyrie Irving Still Won’t Play in Brooklyn if Some Covid Restrictions End Next Week</a> NYT: Barclays Center would remain under a private-sector vaccine mandate that took effect in December. 
- <p class="updated_time"> 01:04 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-war-russia.html">Ukraine Agrees to Talks With Russia, but Fighting Still Rages</a> NYT: Putin, accusing the West of “aggressive statements,” puts nuclear forces on alert. Kyiv remains in Russian cross-hairs as Ukrainians push back. 
  <p class="updated_time"> 08:02 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/putin-nuclear-alert-biden-deescalation.html">Putin Declares a Nuclear Alert, and Biden Seeks De-escalation</a> NYT: When the Russian leader ordered his nuclear forces into “special combat readiness,” the U.S. could have gone on high alert. Instead, the administration tried not to inflame him. 
  <p class="updated_time"> 06:52 PM CT, Feb. 27 </p> 
@@ -207,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/california-john-eastman-2020-election-trump-00012889">California State Bar probes Trump-connected attorney over 2020 election role</a> Politico: Attorney John Eastman is the subject of a California ethics investigation. 
  <p class="updated_time"> 03:12 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/multiple-jan-6-calls-between-trump-and-lawyer-on-texas-election-lawsuit-panel-reveals-00012896">'Multiple' Jan. 6 calls between Trump and lawyer on Texas election lawsuit, panel reveals</a> Politico: The new information was included in a new round of Jan. 6 committee subpoenas, which targeted a grab-bag of prominent Trump allies and minor players. 
  <p class="updated_time"> 02:52 PM CT, Mar. 01 </p> 
@@ -315,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 12:46 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/feinsteins-husband-richard-blum-dies-00012347">Feinstein's husband, Richard Blum, dies</a> Politico: Blum's death follows a long battle with cancer. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
