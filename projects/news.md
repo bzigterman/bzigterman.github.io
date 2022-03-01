@@ -8,14 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:54 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 01:27 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
- <p class="updated_time"> 12:54 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 01:27 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-european-union-membership.html">Why Joining the E.U. May Not Be Easy for Ukraine</a> NYT: Russia’s invasion of Ukraine is helping to focus minds in Brussels. But the country has big hurdles to overcome before it can join the E.U., the world’s biggest trading bloc. 
+ <p class="updated_time"> 01:24 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
+ <p class="updated_time"> 01:21 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083677765/putin-denazify-ukraine-russia-history">Putin says he wants to 'denazify' Ukraine. Here's how that claim distorts history</a> NPR: Scholars dismiss the Russian leader's claims as a "mythical use of history." For one: Ukraine overwhelmingly elected a Jewish president, and has a relatively small right-wing movement. 
+ <p class="updated_time"> 01:14 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/business/investors-ukraine-russia-markets.html">War in Ukraine Has Investors Thinking About a Second Cold War</a> NYT: Military conflicts have not been a major factor in market movements for decades. But Russia’s invasion of Ukraine has put global relations back on investors’ minds. 
+ <p class="updated_time"> 01:01 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083696555/russia-ukraine-war-putin-nuclear-escalation-risk">As Russia's Ukraine war intensifies, some warn nuclear escalation is possible</a> NPR: Russian President Vladimir Putin gave orders to his nation's nuclear forces over the weekend, but their exact meaning is unclear. Russia has more nuclear weapons than any other nation. 
+ <p class="updated_time"> 01:01 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083733700/russias-40-mile-convoy-has-stalled-on-its-way-to-kyiv-a-u-s-official-says">Russia's 40-mile convoy has stalled on its way to Kyiv, a U.S. official says</a> NPR: The convoy is apparently being hampered by fuel and food shortages, the official says. The news comes as Russia continues to concentrate attacks on Ukraine's largest cities: Kyiv and Kharkiv. 
+ <p class="updated_time"> 12:54 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083733323/russia-bombards-a-kyiv-tv-tower-and-the-babyn-yar-holocaust-memorial-site">Russia bombards a Kyiv TV tower and the Babyn Yar Holocaust memorial site </a> NPR: Ukraine's State Emergency Service said five people were killed and another five injured in the attack on the city's main television and radio tower, and that TV channels won't work "for some time." 
  <p class="updated_time"> 12:51 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083697896/iea-oil-emergency-reserves-stockpiles-ukraine-russia-war">The U.S. and 30 other nations are releasing oil from reserves to try to calm markets</a> NPR: Oil-consuming nations will bring 60 million barrels of crude out of storage and onto global markets. It's supposed to calm oil prices down, but global crude went up on the news. 
  <p class="updated_time"> 12:48 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083686062/russias-invasion-of-ukrainian-has-already-changed-the-world-as-we-know-it">Russia's invasion of Ukrainian has already changed the world as we know it</a> NPR: Journalist Anne Applebaum has been covering the war in Ukraine for The Atlantic. "I don't think that we will ever again smugly assume that borders in Europe can't be changed by force," she says. 
+ <a href="https://www.npr.org/2022/03/01/1083686062/russias-invasion-of-ukrainian-has-already-changed-the-world-as-we-know-it">Russia's invasion of Ukraine has already changed the world as we know it</a> NPR: Journalist Anne Applebaum has been covering the war in Ukraine for The Atlantic. "I don't think that we will ever again smugly assume that borders in Europe can't be changed by force," she says. 
  <p class="updated_time"> 12:46 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-refugee-discrimination.html">Africans Say Ukrainian Authorities Hindered Them From Fleeing</a> NYT: Africans and other foreigners in Ukraine say border guards made them endure long waits and even beat them, while letting Ukrainians through quickly. Ukraine denied discriminating. 
  <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
@@ -30,16 +42,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60532627?at_medium=RSS&at_campaign=KARANGA">What Americans think of President Biden's Ukraine response</a> BBC: "This shows America is weak" - Philadelphians weigh-in on the US response to the war in Ukraine. 
  <p class="updated_time"> 11:47 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/wales-scotland-move-covid-restrictions.html">Wales and Scotland Move to Relax Some Covid Restrictions</a> NYT: Various masking and vaccination rules will ease, though the approach is more gradual than England’s. 
+ <p class="updated_time"> 11:46 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60579847?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kyiv TV tower struck by Russian missile</a> BBC: Authorities say five people were killed in the Russian attack on the civilian-run tower in the capital. 
  <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-turkey-putin-erdogan.html">Ukraine Invasion Increases Friction Between Erdogan and Putin</a> NYT: The Turkish and Russian leaders have found themselves on opposite sides of a host of armed conflicts. In Ukraine, the stakes may be higher than ever. 
  <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ship-sinks-luxury-cars.html">After Burning for Days, a Ship Carrying Thousands of Luxury Cars Sinks</a> NYT: The ship, the Felicity Ace, was carrying about 4,000 vehicles, including Bentleys and Porsches, when it caught fire on Feb. 16. On Tuesday morning, it sank. 
  <p class="updated_time"> 11:41 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60577667?at_medium=RSS&at_campaign=KARANGA">Ukraine: Polish communities help people fleeing war</a> BBC: Communities across Poland, and particularly along the border, are rallying to help people who have fled Ukraine. 
- <p class="updated_time"> 11:38 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
- <p class="updated_time"> 11:37 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/business/investors-ukraine-russia-markets.html">War in Ukraine Has Investors Thinking About a Second Cold War</a> NYT: Military conflicts have not been a major factor in market movements for decades. But Russia’s invasion of Ukraine has put global relations back on investors’ minds. 
  <p class="updated_time"> 11:19 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 10:42 AM CT, Mar. 01 </p> 
@@ -60,12 +70,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
  <p class="updated_time"> 08:17 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
+ <p class="updated_time"> 07:59 AM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</a> WSJ: Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory. 
+ <p class="updated_time"> 07:52 AM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/u-s-rushes-arms-to-ukraine-as-russian-forces-escalate-attacks-11646160746">U.S. Rushes Arms to Ukraine as Russian Forces Escalate Attacks</a> WSJ: With time potentially running out for Kyiv, the U.S. and its allies confront limited supply routes and challenges providing the right weapons. 
  <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
- <p class="updated_time"> 06:18 AM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/u-s-iea-agree-to-release-60-million-barrels-from-oil-stockpiles-amid-ukraine-turmoil-11646151424">U.S., IEA Agree to Release 60 Million Barrels From Oil Stockpiles</a> WSJ: The move by members of the International Energy Agency represents another coordinated effort to counter Russia amid its invasion of Ukraine as oil prices trade at eight-year highs. 
- <p class="updated_time"> 06:16 AM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</a> WSJ: Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory. 
  <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60570831?at_medium=RSS&at_campaign=KARANGA">Newly elected Honduras government to ban open-pit mining</a> BBC: Honduras exports gold, silver, zinc and lead but the new government says the industry is "harmful". 
  <p class="updated_time"> 05:30 AM CT, Mar. 01 </p> 
@@ -144,14 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
  <p class="updated_time"> 04:35 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083598057/icc-ukraine-investigation">The ICC says it will open an investigation into alleged war crimes in Ukraine</a> NPR: The International Criminal Court's top prosecutor said there is "reasonable basis to believe" war crimes may have been committed in Ukraine, where eight years of conflict preceded Russia's invasion. 
- <p class="updated_time"> 04:24 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083581139/magpies-unexpected-reaction-to-gps-trackers-may-have-revealed-altruism-in-the-bi">Magpies' unexpected reaction to GPS trackers may have revealed altruism in the birds</a> NPR: Researchers tried to attach tracking devices to magpies for a study. But the magpies helped each other to remove them — a possible sign, the scientists say, of altruism in the birds. 
- <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083581132/putins-invasion-of-ukraine-may-be-putting-russias-alliance-with-china-to-the-tes">Putin's invasion of Ukraine may be putting Russia's alliance with China to the test</a> NPR: Ahead of Russia's invasion of Ukraine, China was widely seen as one of Moscow's few allies. But the recent actions of President Vladmir Putin now has China trying to distance itself from Russia. 
- <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083581125/the-latest-from-the-pentagon-on-russia">The latest from the Pentagon on Russia </a> NPR: Pentagon officials say Russia could be poised to step up bombing in Ukraine. The United States and NATO are sending more weapons to Ukraine. 
- <p class="updated_time"> 03:36 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083581097/samantha-power-on-meeting-with-refugees-crossing-out-of-ukraine">Samantha Power on meeting with refugees crossing out of Ukraine</a> NPR: NPR's Sacha Pfeiffer talks with Samantha Power of the United States Agency for International Development about the humanitarian and refugee crisis resulting from the Russian invasion of Ukraine. 
  <p class="updated_time"> 02:53 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/germany-covid-far-right-protests.html">In Germany, Threats Grow as Far Right and Pandemic Protestors Merge</a> NYT: In the former Communist East, security officials worry that a long-running movement against Covid restrictions is becoming an incubator of political violence. 
  <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
@@ -178,8 +180,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/climate/climate-change-ipcc-report.html">Climate Change's Effects Outpacing Ability to Adapt, I.P.C.C. Warns</a> NYT: Countries aren’t doing nearly enough to protect against the disasters to come as the planet keeps heating up, a major new scientific report concludes. 
  <p class="updated_time"> 08:12 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-citizens-russian-army-fight.html">Ukrainian Citizens Prepare to Fight Russian Army</a> NYT: In cities and towns in Central Ukraine that have not yet heard the boom of Russian artillery fire, residents spent the weekend preparing furiously for the possibly of an attack. 
- <p class="updated_time"> 07:37 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60558621?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Videos show locals confronting Russian forces</a> BBC: Videos from social media show tanks retreating and locals telling soldiers to go back to Russia. 
  <p class="updated_time"> 06:44 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/middleeast/israel-ukraine-russia.html">War in Ukraine Forces Israel Into a Delicate Balancing Act</a> NYT: Israel is a strong ally of the United States, and its leaders have a good relationship with Volodymyr Zelensky, Ukraine’s Jewish president. But Israel also doesn’t want to provoke Russia. 
  <p class="updated_time"> 05:18 AM CT, Feb. 28 </p> 
@@ -196,8 +196,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60304123?at_medium=RSS&at_campaign=KARANGA">Sid Meier warns the games industry about monetisation</a> BBC: The creator of Civilization speaks to the BBC on the 30th anniversary of its release. 
  <p class="updated_time"> 06:42 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60415367?at_medium=RSS&at_campaign=KARANGA">The chefs using TikTok to reinvent their careers</a> BBC: Highly skilled chefs are quitting the restaurant sector and using social media to go solo. 
- <p class="updated_time"> 06:35 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-uk-expat-fighters.html">Ukrainians in Britain Take Up the Cause Back Home</a> NYT: Whether vowing to kill Russians or offering medical supplies, Ukrainian citizens are too impatient to sit idly by. 
  <p class="updated_time"> 06:33 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60519542?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: BSP chief Mayawati fighting for her legacy in elections</a> BBC: Mayawati, one of India's prominent politicians, has been in the political wilderness for a decade. 
  <p class="updated_time"> 05:33 PM CT, Feb. 27 </p> 
@@ -213,18 +211,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
  <p class="updated_time"> 01:35 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/canada-icc-russia-war-crimes-00012803">Canada wants ICC probe of Russia for alleged war crimes</a> Politico: Joly: 'Canada will petition the International Criminal Court of justice against Russia.' 
+ <p class="updated_time"> 01:24 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
  <p class="updated_time"> 01:03 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/business-groups-russia-oligarch-ties-00012826">Business groups quickly take down their Russian oligarch ties</a> Politico: Names are disappearing from websites, and people are stepping down from boards in the wake of aggressive sanctions. 
+ <p class="updated_time"> 12:58 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 12:40 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/texas-child-abuse-trans-youth.html">Texas Investigating Over Medical Treatments for Trans Youth, Lawsuit Says</a> NYT: The investigations by the state’s Department of Family and Protective Services started last week with an employee of the agency, according to the suit, after Gov. Greg Abbott called for such inquiries. 
  <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/wisconsin-republicans-embrace-election-decertification-00012793">Wisconsin GOP's 2020 report embraces fringe election decertification theory</a> Politico: Former state Supreme Court Justice Michael Gableman for months has been conducting a probe of the 2020 election. 
  <p class="updated_time"> 11:50 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">State of the Union Address Tonight: When Is It and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
- <p class="updated_time"> 11:38 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
- <p class="updated_time"> 11:19 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russian-military-convoy-nears-kyiv-00012759">40-mile Russian military convoy nears Kyiv</a> Politico: Russian forces launched a missile attack on Ukraine's second-largest city on Tuesday. 
  <p class="updated_time"> 11:06 AM CT, Mar. 01 </p> 
