@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:25 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083686606/ukraine-russia-civilian-casualties-syria">Russia showed its playbook in Syria. Here's what it may mean for civilians in Ukraine</a> NPR: The lessons of Moscow's involvement in Syria's civil war stand as a specter of the heavy-handed playbook experts fear could be used on an even larger and more deadly scale in Ukraine. 
  <p class="updated_time"> 02:19 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60579640?at_medium=RSS&at_campaign=KARANGA">Ship carrying 4,000 luxury cars sinks off the Azores</a> BBC: A ship carrying thousands of luxury cars has sunk nearly two weeks after it caught fire. 
  <p class="updated_time"> 02:18 PM CT, Mar. 01 </p> 
@@ -138,8 +140,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/biden-ukraine-visas.html">Biden Administration Faces Pressure to Let Ukrainians Stay in U.S.</a> NYT: Senator Richard J. Durbin, Democrat of Illinois, has called on the administration to offer Temporary Protected Status to Ukrainians who are on short-term visas or have no documentation. 
  <p class="updated_time"> 06:52 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60544034?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh elections: 'We Muslims are treated like the sacrificial goat'</a> BBC: Muslims in India's most polarised state say they are living like "second-class citizens". 
- <p class="updated_time"> 06:48 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083633239/facebook-and-tiktok-block-russian-state-media-in-europe">Facebook and TikTok block Russian state media in Europe</a> NPR: Kremlin-backed news outlets RT and Sputnik have become flashpoints for social media companies that are under pressure to curb the spread of Russian propaganda and disinformation. 
  <p class="updated_time"> 06:47 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/us-russian-diplomats-un.html">U.S. Expels 12 Russian Diplomats for Spying </a> NYT: The move is part of a larger effort to isolate Russia diplomatically and economically since it invaded Ukraine last week. 
  <p class="updated_time"> 06:23 PM CT, Feb. 28 </p> 
@@ -211,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/multiple-jan-6-calls-between-trump-and-lawyer-on-texas-election-lawsuit-panel-reveals-00012896">'Multiple' Jan. 6 calls between Trump and lawyer on Texas election lawsuit, panel reveals</a> Politico: The new information was included in a new round of Jan. 6 committee subpoenas, which targeted a grab-bag of prominent Trump allies and minor players. 
  <p class="updated_time"> 02:52 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/ukrainian-ambassador-state-of-the-union-00012857">Ukrainian ambassador to attend Biden's State of the Union</a> Politico: Ambassador Oksana Markarova will be among the guests of first lady Jill Biden, the White House announced. 
+ <p class="updated_time"> 02:41 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Inflation Will Loom Over Tonight’s State of the Union</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
  <p class="updated_time"> 02:27 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083627839/iowa-gov-reynolds-will-likely-tout-her-covid-response-in-state-of-the-union-rebu">Iowa Gov. Reynolds will likely tout her COVID response in State of the Union rebuttal</a> NPR: Iowa Republican Gov. Kim Reynolds' response to the pandemic, with few restrictions, has gotten her national attention. 
  <p class="updated_time"> 02:20 PM CT, Mar. 01 </p> 
@@ -241,8 +243,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/russian-military-convoy-nears-kyiv-00012759">40-mile Russian military convoy nears Kyiv</a> Politico: Russian forces launched a missile attack on Ukraine's second-largest city on Tuesday. 
  <p class="updated_time"> 11:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/capitol-security-sotu-truck-convoy.html">Bracing for Biden and Protests, Officials Fortify the Capitol</a> NYT: A security fence, National Guard troops and more police surround the Capitol in preparation for the State of the Union address and a possible truck convoy of protesters. 
- <p class="updated_time"> 10:13 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">Some Texas Hispanics Drawn to Republicans Share Immigration Grievances</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
  <p class="updated_time"> 10:13 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">A Sneak Peek at the Country’s Midterm Battles: Primary Day in Texas</a> NYT: Texas is holding the first primary election of 2022 on Tuesday. Some of the dynamics at play include the intensity of Donald Trump’s continued hold on the Republican electorate. 
  <p class="updated_time"> 09:18 AM CT, Mar. 01 </p> 
