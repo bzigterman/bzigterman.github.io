@@ -240,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:05 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/biden-state-of-the-union.html">In State of the Union, Biden Will Focus on Economy and Russia</a> NYT: The speech was originally going to center primarily on the president’s domestic agenda. But the war in Europe has forced the White House to change gears. 
  <p class="updated_time"> 06:05 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/texas-primary-candidates-midterms.html">Texas Primary Election: What to Watch</a> NYT: The first election night of the 2022 midterms has some famous names and crowded primary races. Here’s a rundown. 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/texas-primary-candidates-midterms.html">What We’re Watching in Tuesday’s Texas Primary Election</a> NYT: The first election night of the 2022 midterms has some famous names and crowded primary races. Here’s a rundown. 
  <p class="updated_time"> 05:45 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/supreme-court-climate-change.html">Supreme Court Considers Limiting E.P.A.’s Ability to Address Climate Change</a> NYT: Members of the court’s conservative majority voiced skepticism that Congress had authorized the agency to decide what they said were major political and economic questions. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
@@ -252,7 +252,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581009/south-carolina-rep-jim-clyburn-shares-his-view-of-bidens-presidency">South Carolina Rep. Jim Clyburn shares his view of Biden's presidency</a> NPR: NPR's Sacha Pfeiffer talks with Democratic Rep. Jim Clyburn of South Carolina about President Biden's State of the Union address on Tuesday. 
  <p class="updated_time"> 03:27 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">Some Texas Hispanics Drawn to Republicans Share Immigration Grievances</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">How Immigration Politics Drives Some Hispanic Voters to the G.O.P. in Texas</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
  <p class="updated_time"> 03:09 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
