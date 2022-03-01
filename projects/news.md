@@ -8,6 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:53 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. At least seven people were killed, officials said, raising fears that Russia was increasingly targeting civilian areas of Ukraine. 
+ <p class="updated_time"> 07:49 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 07:38 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 07:38 AM CT, Mar. 01 </p> 
@@ -16,16 +20,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
  <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-italy-sanctions.html">Italy Takes a Risk in Joining Sanctions on Russia Over Ukraine</a> NYT: The two countries have had strong economic ties for decades, but the invasion of Ukraine has spurred the government in Rome to realign with European allies — at an outsize cost. 
- <p class="updated_time"> 07:31 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. At least seven people were killed, officials said, raising fears that Russia was increasingly targeting civilian areas of Ukraine. 
  <p class="updated_time"> 06:42 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60570831?at_medium=RSS&at_campaign=KARANGA">Newly elected Honduras government to ban open-pit mining</a> BBC: Honduras exports gold, silver, zinc and lead but the new government says the industry is "harmful". 
  <p class="updated_time"> 05:44 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia bombs Kharkiv's Freedom Square and opera house</a> BBC: Missiles hit the the cultural heart of the city, targeting an opera house, concert hall and offices. 
- <p class="updated_time"> 05:30 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 05:30 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60571615?at_medium=RSS&at_campaign=KARANGA">Syria shopping centre blaze kills 11</a> BBC: The entire six-storey building went up in flames, killing security guards and staff. 
  <p class="updated_time"> 05:23 AM CT, Mar. 01 </p> 
