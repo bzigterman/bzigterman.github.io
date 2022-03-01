@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:12 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 05:38 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: In Kharkiv, at least seven people were killed, officials said, by what appeared to be a rocket attack. In Kyiv, the capital’s main TV tower was hit by a projectile. And a 40-mile convoy raised fears of a siege. 
+ <p class="updated_time"> 05:33 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083766901/yellowstone-150-park-history">Yellowstone turns 150. Here's a peek into the national park's history</a> NPR: Yellowstone became the first national park in the U.S. on March 1, 1872, and it helped usher in the broader national park movement. The park stretches into Wyoming, Montana, and Idaho. 
  <p class="updated_time"> 05:06 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration-wave.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 04:48 PM CT, Mar. 01 </p> 
@@ -92,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60577667?at_medium=RSS&at_campaign=KARANGA">Ukraine: Polish communities help people fleeing war</a> BBC: Communities across Poland, and particularly along the border, are rallying to help people who have fled Ukraine. 
  <p class="updated_time"> 11:19 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
- <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/03/01/1083680444/ukrainians-are-fleeing-to-poland-but-some-are-returning-home-for-their-families">Ukrainians are fleeing to Poland, but some are returning home for their families</a> NPR: Thousands of Ukrainians have arrived in Poland after the country declared its borders open to refugees escaping the Russian incursion. But some are returning to Ukraine to find family or to fight. 
  <p class="updated_time"> 11:09 AM CT, Mar. 01 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</a> WSJ: Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory. 
  <p class="updated_time"> 11:08 AM CT, Mar. 01 </p> 
@@ -213,20 +213,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:15 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-manchin-00012989">Biden throws a line to Joe Manchin and hopes he bites</a> Politico: The president will emphasize deficit reduction in his State of the Union address. Officials say it’s not part of a larger philosophical shift. 
  <p class="updated_time"> 05:33 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-putin-russia-sotu-00012975">‘Putin was wrong. We were ready’: Biden will condemn Russian leader in address</a> Politico: The president will say in his State of the Union speech that the attack on Ukraine was “premeditated and unprovoked,” according to excerpts released by the White House. 
+ <p class="updated_time"> 05:29 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-union-ukraine-ambassador.html">Ukraine’s U.N. Ambassador Will Be at Biden's State of the Union Address</a> NYT: Ambassador Oksana Markarova will be seated in Jill Biden’s box, along with a whistle-blower from Facebook, a steelworker union member and other guests. 
+ <p class="updated_time"> 05:23 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">At NY Republican Convention, G.O.P. Tests Attacks on Democrats</a> NYT: The Republican State Convention is giving party leaders a chance to test messages about crime, inflation and Democratic leadership. 
  <p class="updated_time"> 05:07 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Primary Day in Texas Will Offer Preview of Midterm Battles Ahead</a> NYT: Texas is just the first piece of the primary puzzle. For Republicans, it will provide a tangible measure of former President Donald J. Trump’s continued grip on the party. 
  <p class="updated_time"> 04:42 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:37 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/ukraine-biden-senators-russian-energy-exports-00012752">Ukraine presses Biden, senators to hit Russian energy exports</a> Politico: Andriy Kobolyev's meetings with lawmakers come after Ukraine Foreign Minister Dmytro Kuleba on Tuesday criticized oil companies that had not yet completely severed ties with Russia. 
  <p class="updated_time"> 04:30 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Finds Few Buyers Even at Deep Discounts</a> NYT: Some European buyers, shippers, banks and insurers have grown leery of doing business with the country in recent days. 
- <p class="updated_time"> 04:29 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">At NY Republican Convention, G.O.P. Tests Attacks on Democrats</a> NYT: The Republican State Convention is giving party leaders a chance to test messages about crime, inflation and Democratic leadership. 
- <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-union-ukraine-ambassador.html">Ukraine’s U.N. Ambassador Will Be at Biden's State of the Union Address</a> NYT: Ambassador Oksana Markarova will be seated in Jill Biden’s box, along with a whistle-blower from Facebook, a steelworker union member and other guests. 
  <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/media/sarah-palin-new-york-times-trial.html">Judge Says Sarah Palin ‘Failed to Prove Her Case’ Against The Times</a> NYT: In a written opinion explaining his decision to dismiss Ms. Palin’s defamation case, Judge Jed S. Rakoff also stated his faith in the integrity of the jury. 
  <p class="updated_time"> 04:20 PM CT, Mar. 01 </p> 
@@ -272,7 +274,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/wisconsin-republicans-embrace-election-decertification-00012793">Wisconsin GOP's 2020 report embraces fringe election decertification theory</a> Politico: Former state Supreme Court Justice Michael Gableman for months has been conducting a probe of the 2020 election. 
  <p class="updated_time"> 11:50 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">State of the Union Address Tonight: When Is It and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">What Time Is the State of the Union Address and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
  <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russian-military-convoy-nears-kyiv-00012759">40-mile Russian military convoy nears Kyiv</a> Politico: Russian forces launched a missile attack on Ukraine's second-largest city on Tuesday. 
  <p class="updated_time"> 11:06 AM CT, Mar. 01 </p> 
@@ -328,7 +330,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/richard-blum-dead.html">Richard Blum, Political Donor and Husband of Senator Feinstein, Dies at 86</a> NYT: As a financier, he amassed a fortune that he spent on Democrats, helping to propel his wife from San Francisco mayor to a long career in the Senate. 
  <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/ukrainian-pilots-arrive-in-poland-to-pick-up-donated-fighter-jets-00012560">European plan to donate fighter jets to Ukraine collapses</a> Politico: Ukrainian pilots are headed to Poland after other countries pledged to donate used planes. 
+ <a href="https://www.politico.com/news/2022/02/28/ukrainian-pilots-arrive-in-poland-to-pick-up-donated-fighter-jets-00012560">European plan to donate fighter jets to Ukraine collapses</a> Politico: The dissolution of the deal comes as European countries lined up Monday to announce new weapons packages for Ukraine, from anti-armor and anti-air rockets to artillery and medical supplies. 
  <p class="updated_time"> 06:15 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/democratic-governors-election.html">Democratic Governors Look to Biden for a Political Reset</a> NYT: At a weekend fund-raising retreat, a group of governors worried about voters’ frustrations with Democrats. They hoped President Biden’s State of the Union speech would be a pivot point. 
  <p class="updated_time"> 06:06 PM CT, Feb. 28 </p> 
@@ -352,9 +354,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/first-january6-trial-reffitt-00012216">First Capitol riot trial opens in D.C.</a> Politico: This is the first test of the Justice Department’s effort to transform its Jan. 6 manhunt into convincing arguments. 
- <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/u-s-russia-ukraine-protests-sanctions-00012173">The West finally throws a punch in its face-off with Russia</a> Politico: A rash of weekend moves on sanctions, airspace, military aid and more showed that the United States and its allies aren’t afraid to escalate when it comes to helping Ukraine. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/biden-covid-fight-next-chapter-00012079">Biden wants to declare a new chapter in the Covid fight. He’s trigger shy.</a> Politico: The president and his team recognize political realities. They also don’t want to repeat the missteps of last July 4. 
  <p class="updated_time"> 06:43 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-leaders-rescind-mask-mandate-sotu-00012167">Capitol leaders rescind mask mandate ahead of State of the Union</a> Politico: The Office of the Attending Physician said it was following the Centers for Disease Control and Prevention's new guidelines on masking. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
