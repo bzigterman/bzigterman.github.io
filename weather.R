@@ -122,9 +122,11 @@ champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   full_join(champaign_hourly)
 
 champaign_forecast_longer <- champaign_history_and_forecast %>%
-  pivot_longer(cols = c(temp, humidity,
-                        wind_speed,clouds,
-                        pop,rain,snow),
+  select(central_time,temp, humidity,
+         wind_speed, clouds,
+         pop, rain, snow) %>%
+    select(where(~ any(. != 0))) %>%
+  pivot_longer(cols = !central_time,
                names_to = "names",
                values_to = "values") %>%
   select(central_time,names,values) %>%
