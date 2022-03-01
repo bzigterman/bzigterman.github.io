@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:49 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 02:59 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
  <p class="updated_time"> 02:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russian-convoy-ukraine.html">40-Mile Long Russian Convoy Outside Kyiv Raises Alarm</a> NYT: Satellite imagery has shown a Russian military convoy stretching 40 miles on a roadway north of Ukraine’s capital, Kyiv. Experts say it probably indicates a shift to siege tactics. 
@@ -209,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/california-john-eastman-2020-election-trump-00012889">California State Bar probes Trump-connected attorney over 2020 election role</a> Politico: Attorney John Eastman is the subject of a California ethics investigation. 
+ <p class="updated_time"> 03:29 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/bidens-approval-rating-drops-ahead-of-state-of-the-union-00012875">Biden's approval rating drops ahead of State of the Union</a> Politico: While 41 percent of Americans approve of the job Biden is doing, 56 percent disapprove, according to a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 03:12 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/multiple-jan-6-calls-between-trump-and-lawyer-on-texas-election-lawsuit-panel-reveals-00012896">'Multiple' Jan. 6 calls between Trump and lawyer on Texas election lawsuit, panel reveals</a> Politico: The new information was included in a new round of Jan. 6 committee subpoenas, which targeted a grab-bag of prominent Trump allies and minor players. 
  <p class="updated_time"> 02:52 PM CT, Mar. 01 </p> 
