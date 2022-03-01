@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:28 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 11:36 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60567192?at_medium=RSS&at_campaign=KARANGA">Australia floods: Residents and horses trapped on bridge overnight</a> BBC: Record-breaking fatal floods declared disaster zone as rescue operation continues. 
@@ -201,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:30 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/russia-convoy-kyiv-ukraine-00012670">40-mile Russian convoy threatens Kyiv</a> Politico: Both sides looked to resume talks in the coming days aimed at stopping the fighting. 
  <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ukraine-pleads-congress-more-aid-weapons-00012654">Ukraine pleads with Congress for more aid and weapons</a> Politico: As a Russian convoy heads for Kyiv, the Ukrainian ambassador told senators the military was running out of missiles. 
  <p class="updated_time"> 10:27 PM CT, Feb. 28 </p> 
