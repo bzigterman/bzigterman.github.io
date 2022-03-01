@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:59 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Refugees Flee Ukraine as Russia Strikes Civilians</a> NYT: The U.N. is looking for aid to help about half a million people who have left the country as attacks intensify. Delegations from Kyiv and Moscow failed to make progress in Belarus, but more talks are planned. 
- <p class="updated_time"> 08:59 PM CT, Feb. 28 </p> 
+ <p class="updated_time"> 09:28 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-war-kharkiv.html">Russian Rocket Kills Civilians as First Talks Show No Progress</a> NYT: The deadly rocket assault on a residential area of Ukraine’s second-largest city signaled an escalation of Russian tactics, and overshadowed efforts at diplomacy. 
+ <p class="updated_time"> 09:28 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: The U.N. is looking for aid to help about half a million people who have left the country as attacks intensify. Delegations from Kyiv and Moscow failed to make progress in Belarus, but more talks are planned. 
+ <p class="updated_time"> 09:25 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/us-sanctions-russia-central-bank.html">US Escalates Sanctions With a Freeze on Russian Central Bank Assets</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
  <p class="updated_time"> 08:20 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-military.html">Russian Forces Hit Harder in Ukraine After a Fumbled Start</a> NYT: After days of miscalculation about Ukraine’s resolve to fight, Russian forces are turning toward an old pattern of opening fire on cities and mounting sieges. 
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
@@ -19,7 +21,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:42 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60393076?at_medium=RSS&at_campaign=KARANGA">The Nigerians hoping to check out of their country</a> BBC: Frustration among the middles-class is pushing many to want to leave, writes Adaobi Tricia Nwaubani. 
  <p class="updated_time"> 07:08 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60552273?at_medium=RSS&at_campaign=KARANGA">Why India is not criticising Russia over Ukraine</a> BBC: India has been under pressure to condemn Russia's invasion but has so far been reluctant to do so. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60552273?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why India is not criticising Russia over invasion</a> BBC: India has been under pressure to condemn Russia's invasion but has so far been reluctant to do so. 
  <p class="updated_time"> 07:04 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60560465?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fighting escalates despite ceasefire talks</a> BBC: The cities of Kharkiv and Chernihiv suffer fierce shelling despite talks between Russia and Ukraine. 
  <p class="updated_time"> 07:00 PM CT, Feb. 28 </p> 
@@ -65,7 +67,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:38 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
  <p class="updated_time"> 04:35 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083598057/icc-ukraine-investigation">The ICC says it will open an investigation into alleged war crimes in Ukraine</a> NPR: The International Criminal Court's top prosecutor said there was "reasonable basis to believe" that war crimes may have been committed in Ukraine, where 8 years of conflict preceded Russia's invasion. 
+ <a href="https://www.npr.org/2022/02/28/1083598057/icc-ukraine-investigation">The ICC says it will open an investigation into alleged war crimes in Ukraine</a> NPR: The International Criminal Court's top prosecutor said there is "reasonable basis to believe" war crimes may have been committed in Ukraine, where eight years of conflict preceded Russia's invasion. 
  <p class="updated_time"> 04:24 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581139/magpies-unexpected-reaction-to-gps-trackers-may-have-revealed-altruism-in-the-bi">Magpies' unexpected reaction to GPS trackers may have revealed altruism in the birds</a> NPR: Researchers tried to attach tracking devices to magpies for a study. But the magpies helped each other to remove them — a possible sign, the scientists say, of altruism in the birds. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
@@ -197,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:25 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/us-sanctions-russia-central-bank.html">US Escalates Sanctions With a Freeze on Russian Central Bank Assets</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
  <p class="updated_time"> 09:01 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/new-york-republicans-talk-inclusion-with-a-diverse-slate-at-convention-00012542">New York Republicans talk inclusion with a diverse slate at convention</a> Politico: Within the first few hours of the GOP’s gathering, a stand-out message was that New York Republicans are not the monolithic party of exclusion their Democratic counterparts paint them as. 
  <p class="updated_time"> 08:36 PM CT, Feb. 28 </p> 
@@ -245,8 +249,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 02:30 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/florida-democrat-deutch-announces-he-wont-run-for-reelection-00012397">Florida Democrat Deutch announces he won’t run for reelection</a> Politico: He is the 31st House Democrat to announce that they will not run for reelection. 
- <p class="updated_time"> 02:19 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/us-sanctions-russia-central-bank.html">US Escalates Sanctions With a Freeze on Russian Central Bank Assets</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
  <p class="updated_time"> 01:48 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/supreme-court-justices-epa-climate-authority-00012368">Supreme Court justices lean toward hobbling EPA's climate authority</a> Politico: Depending on how broadly the high court rules in the case before it about EPA's authority, it could make it harder for the government to regulate a broad variety of issues. 
  <p class="updated_time"> 01:11 PM CT, Feb. 28 </p> 
