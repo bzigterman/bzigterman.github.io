@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:55 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
+ <p class="updated_time"> 03:52 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 03:48 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659975/oil-majors-pull-out-of-once-promising-russia">Oil majors pull out of once-promising Russia </a> NPR: Announcements from Shell, BP, and Norwegian producer Equinor will further hit Russia's tanking economy - and batter its image as a go-to place for oil and gas investments. 
  <p class="updated_time"> 03:47 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 03:33 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60568298?at_medium=RSS&at_campaign=KARANGA">Building hit by missile in Kharkiv's Freedom Square</a> BBC: Video show a strike targeting government offices in central Kharkiv, Ukraine. 
- <p class="updated_time"> 03:30 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 02:22 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
@@ -33,7 +35,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:35 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60565971?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'How much longer until this is over?'</a> BBC: Burning buildings and cars destroyed in Donetsk after the separatist-controlled city is shelled. 
  <p class="updated_time"> 10:27 PM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/as-russian-bombs-turn-kyiv-into-a-warzone-residents-scramble-to-escape-11646126841">As Russian Bombs Turn Kyiv Into a Warzone, Residents Scramble to Escape</a> WSJ: Russia’s attacks on Ukraine’s capital—aimed at decapitating the pro-Western Ukrainian government—have left the city’s residents caught in a life-or-death choice between remaining in the city and escaping to safety. 
+ <a href="https://www.wsj.com/articles/as-russian-bombs-turn-kyiv-into-a-warzone-residents-scramble-to-escape-11646126841">As Russian Bombs Turn Kyiv Into a War Zone, Residents Scramble to Escape</a> WSJ: Russia’s attacks on Ukraine’s capital—aimed at decapitating the pro-Western Ukrainian government—have left the city’s residents caught in a life-or-death choice between remaining in the city and escaping to safety. 
  <p class="updated_time"> 09:51 PM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russian Forces Target Ukrainian Civilian Areas as Missile Hits Central Kharkiv</a> WSJ: The bombardment of Ukraine’s second-largest city came as Moscow, frustrated in its plans for a quick victory, switched to a new strategy in an attempt to demoralize Ukrainian resistance. 
  <p class="updated_time"> 09:43 PM CT, Feb. 28 </p> 
@@ -114,8 +116,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083580995/some-effects-of-climate-change-are-irreversible-but-theres-still-hope">Some effects of climate change are irreversible, but there's still hope</a> NPR: NPR's Ari Shapiro talks with earth scientist Brian O'Neill about a new major United Nations report on climate change. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083580988/physical-evidence-indicates-that-the-coronavirus-emerged-at-wuhan-seafood-market">Physical evidence indicates that the coronavirus emerged at Wuhan seafood market</a> NPR: Scientists have solid, physical evidence indicating the COVID pandemic began at a seafood market in Wuhan, China. Data suggest the virus jumped from an animal at the market into people at least twice. 
- <p class="updated_time"> 03:30 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 02:59 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/26/world/europe/russian-economy-ukraine-war.html">Russia's War With Ukraine Is Already Costing Russian Economy</a> NYT: Despite the Kremlin’s efforts to obscure the offensive in Ukraine, the costs of the war were already evident in both economic and social turmoil. 
  <p class="updated_time"> 02:53 PM CT, Feb. 28 </p> 
@@ -203,6 +203,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083606263/texas-primary-election-results">Results: Key Texas primary elections</a> NPR: Texas kicks off the 2022 midterm elections. There are notable primaries for governor and attorney general, and in key congressional districts. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083585797/the-challenges-biden-faces-in-his-state-of-the-union-address">The challenges Biden faces in his State of the Union address</a> NPR: As President Biden is set to make his first State of the Union speech, he and the country face pressing issues, from Russia's invasion of Ukraine to inflation and the continuing pandemic. 
  <p class="updated_time"> 12:30 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-convoy-kyiv-ukraine-00012670">40-mile Russian convoy threatens Kyiv</a> Politico: Both sides looked to resume talks in the coming days aimed at stopping the fighting. 
  <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
@@ -333,10 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083361115/politics-chat-congress-unifies-in-denouncing-russia-supreme-court-nominee-chosen">Politics chat: Congress unifies in denouncing Russia; Supreme Court nominee chosen</a> NPR: America's political leaders have been denouncing Russia for its attack on Ukraine, with the occasional notable exception of  former President Donald Trump. 
  <p class="updated_time"> 06:00 AM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1082821390/texas-election-workers-provide-practical-and-emotional-support-to-confused-voter">Texas election workers provide practical and emotional support to confused voters</a> NPR: Tuesday is the first statewide election in Texas since it enacted a sweeping new voting law. Some elections officials say the law has left voters unsure how and if they will be able to participate. 
- <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083332599/the-alabama-leaders-challenging-gop-drawn-map-that-critics-say-disfavors-black-v">Alabama leaders say their maps don't disfavor Black voters, but activists disagree</a> NPR: NPR's Michel Martin speaks with lawmakers and an activist in Montgomery, Ala., to learn more about the battle over voting rights and gerrymandering in the state. 
- <p class="updated_time"> 04:14 PM CT, Feb. 26 </p> 
- <a href="https://www.npr.org/2022/02/26/1083332592/rep-adam-kinzinger-says-politicizing-russia-ukraine-crisis-hurts-washington">Rep. Adam Kinzinger says politicizing Russia-Ukraine crisis hurts Washington</a> NPR: NPR's Michel Martin speaks with Rep. Adam Kinzinger (R-Ill.) about the Russian invasion of Ukraine and President Biden's reaction to it. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
