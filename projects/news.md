@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:50 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 11:16 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking in front of an administrative building in Kharkiv. At least seven people were killed, officials said. In Kyiv, the capital’s main TV tower was hit by a projectile. 
+ <p class="updated_time"> 11:07 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia bombs Kharkiv's Freedom Square and opera house</a> BBC: Missiles hit the the cultural heart of the city, targeting an opera house, concert hall and offices. 
  <p class="updated_time"> 10:49 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
  <p class="updated_time"> 10:42 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war-families.html">Ukraine War Splits Families That Have Roots on Both Sides</a> NYT: Because of their countries’ complex and intertwined history, many Ukrainians and Russians have relatives who are standing on opposite sides of the conflict. 
- <p class="updated_time"> 10:34 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia bombs Kharkiv's Freedom Square and opera house</a> BBC: Missiles hit the the cultural heart of the city, targeting an opera house, concert hall and offices. 
  <p class="updated_time"> 10:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/movies/gerard-depardieu-ukraine-war.html">Gérard Depardieu, Friend of Putin, Denounces ‘Fratricidal War’</a> NYT: “Stop the weapons and negotiate,” the French actor and staunch Russia ally told a news agency. 
  <p class="updated_time"> 09:59 AM CT, Mar. 01 </p> 
@@ -221,6 +221,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russian-military-convoy-nears-kyiv-00012759">40-mile Russian military convoy nears Kyiv</a> Politico: Russian forces launched a missile attack on Ukraine's second-largest city on Tuesday. 
+ <p class="updated_time"> 11:06 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/capitol-security-sotu-truck-convoy.html">Bracing for Biden and Protests, Officials Fortify the Capitol</a> NYT: A security fence, National Guard troops and more police surround the Capitol in preparation for the State of the Union address and a possible truck convoy of protesters. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/theater/potus-broadway-selina-fillinger.html">Julianne Hough and Vanessa Williams to Star in Broadway Farce 'POTUS'</a> NYT: “POTUS,” by Selina Fillinger, will star Julianne Hough, Vanessa Williams, Rachel Dratch, Lea DeLaria, Lilli Cooper, Suzy Nakamura and Julie White. 
  <p class="updated_time"> 10:49 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
  <p class="updated_time"> 10:13 AM CT, Mar. 01 </p> 
@@ -279,8 +283,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/u-s-officials-russian-escalation-in-ukraine-could-lead-to-humanitarian-crisis-00012548">U.S. officials: Russian escalation in Ukraine could lead to humanitarian crisis</a> Politico: Over the last several days, as many as 520,000 people have fled Ukraine, according to the United Nations. 
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">As Tanks Rolled Into Ukraine, So Did Malware. Then Microsoft Entered the War.</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
- <p class="updated_time"> 07:11 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/capitol-security-sotu-truck-convoy.html">Bracing for Biden and Protests, Officials Fortify the Capitol</a> NYT: A security fence, National Guard troops and more police surround the Capitol in preparation for the State of the Union address and a possible truck convoy of protesters. 
  <p class="updated_time"> 06:58 PM CT, Feb. 28 </p> 
  <a href="https://www.cnn.com/2022/02/24/europe/ukraine-russia-conflict-explainer-2-cmd-intl/index.html">What does Putin want in Ukraine? The conflict explained</a> CNN: After months of military buildup and brinkmanship on its border with Ukraine, Russia invaded its ex-Soviet neighbor with a multi-pronged attack, threatening to destabilize Europe and draw in the United States. 
  <p class="updated_time"> 06:19 PM CT, Feb. 28 </p> 
@@ -337,8 +339,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/us/politics/biden-ukraine-covid-supreme-court.html">10 Consequential Days: How Biden Navigated War, Covid and the Supreme Court</a> NYT: The dizzying events of the past week have pushed to the sidelines the congressional squabbling over President Biden’s domestic agenda, and are already redefining the arc of his presidency. 
  <p class="updated_time"> 06:43 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-leaders-rescind-mask-mandate-sotu-00012167">Capitol leaders rescind mask mandate ahead of State of the Union</a> Politico: The Office of the Attending Physician said it was following the Centers for Disease Control and Prevention's new guidelines on masking. 
- <p class="updated_time"> 04:46 PM CT, Feb. 27 </p> 
- <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
  <p class="updated_time"> 11:43 AM CT, Feb. 27 </p> 
