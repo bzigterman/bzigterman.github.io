@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:00 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 07:25 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. At least seven people were killed, officials said, raising fears that Russia was increasingly targeting civilian areas of Ukraine. 
  <p class="updated_time"> 06:42 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
@@ -205,6 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:14 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083664589/ukrainians-arent-getting-u-s-intelligence-on-russia-fast-enough-sasse-says">Ukrainians aren't getting U.S. intelligence on Russia fast enough, Sasse says</a> NPR: NPR's Steve Inskeep talks to Republican Sen. Ben Sasse of Nebraska about the U.S. response to the Russian invasion of Ukraine. He is a member of the Senate Intelligence Committee. 
  <p class="updated_time"> 06:58 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-pummels-ukraines-second-largest-city-00012688">Russia pummels Ukraine’s No. 2 city and convoy nears Kyiv</a> Politico: With the Kremlin increasingly isolated by tough economic sanctions that have tanked the ruble currency, Russian troops advanced on Ukraine’s two biggest cities. 
  <p class="updated_time"> 06:57 AM CT, Mar. 01 </p> 
@@ -323,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083379284/montgomery-ala-mayor-on-leading-the-city-through-the-voting-rights-battle">Montgomery, Ala., mayor on leading the city through the voting rights battle</a> NPR: NPR's Michel Martin speaks with Steven Reed, the first Black mayor of Montgomery, Ala. 
- <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083379277/sen-sullivan-supports-sending-more-military-aid-to-ukraine">Sen. Sullivan supports sending more military aid to Ukraine</a> NPR: NPR's Michel Martin speaks with Sen. Dan Sullivan (R-Alaska) about the Russian invasion of Ukraine. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
  <p class="updated_time"> 11:43 AM CT, Feb. 27 </p> 
@@ -375,8 +375,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/23/south-texas-star-left-progressive-00010774">The left's South Texas star isn't the progressive they warned you about</a> Politico: As liberal challenger Jessica Cisneros looks to oust Rep. Henry Cuellar next week, her success would mean a lot more than just an insurgent progressive against a conservative incumbent. 
  <p class="updated_time"> 10:08 AM CT, Feb. 22 </p> 
  <a href="https://www.cnn.com/2022/02/22/politics/omicron-covid-pandemic-disruptions/index.html">Omicron continued to disrupt work and families' lives even as Covid-19 cases dropped</a> CNN: Millions of Americans remained out of work because they or a loved one were sick with coronavirus symptoms in late January and early February, even as the number of cases of the Omicron variant of Covid-19 fell. 
- <p class="updated_time"> 07:26 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/22/nein-to-nord-stream-2-00010540">Nein to Nord Stream 2</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
