@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 01:49 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
+ <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083662498/russia-eyes-sanctions-workarounds-in-energy-gold-crypto">Russia eyes sanctions workarounds in energy, gold, crypto</a> NPR: Observers say Russia will likely turn closer to China to make up for supplies of goods and services lost due to sanctions. 
  <p class="updated_time"> 01:03 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv attack was a war crime, says President Zelensky</a> BBC: President Volodymyr Zelensky spoke out after dozens of civilians were reportedly killed in Kharkiv. 
- <p class="updated_time"> 12:13 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 11:45 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659633/thousands-evacuate-worst-australian-floods-in-decades">Thousands evacuate worst Australian floods in decades</a> NPR: Local authorities have placed up to 300,000 people under evacuation warnings in one of the country's worst flooding incidents. 
  <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
