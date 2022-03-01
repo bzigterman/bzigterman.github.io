@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:18 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 05:12 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosions Shake Kyiv and Ukraine’s Second-Largest City</a> NYT: In Kharkiv, at least seven people were killed, officials said, by what appeared to be a rocket attack. In Kyiv, the capital’s main TV tower was hit by a projectile. And a 40-mile convoy raised fears of a siege. 
+ <p class="updated_time"> 05:06 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration-wave.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
+ <p class="updated_time"> 04:48 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war-families.html">Ukraine War Splits Families That Have Roots on Both Sides</a> NYT: Because of their countries’ complex and intertwined history, many Ukrainians and Russians have relatives who are standing on opposite sides of the conflict. 
+ <p class="updated_time"> 04:47 PM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple to halt sales and limit services in Russia</a> BBC: Apple is the latest firm to stop selling products in Russia and will limit Apple Pay and other services. 
+ <p class="updated_time"> 04:44 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/russia-ukraine-war-outrage.html">A Surge of Unifying Moral Outrage Over Russia’s War</a> NYT: Ukrainians take to social media, and taboos are tumbling as countries abandon neutrality and people abandon indifference to support their cause. 
+ <p class="updated_time"> 04:42 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-nuclear-power-plant.html">Many nuclear power reactors in Ukraine are no longer producing electricity.</a> NYT: Six of the 15 reactors in the country appear to be offline at the moment, with one site close to Russian troop movements reporting half of its reactors are down. 
  <p class="updated_time"> 04:01 PM CT, Mar. 01 </p> 
@@ -20,10 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083775486/africans-and-south-asians-are-having-an-especially-difficult-time-leaving-ukrain">Africans and South Asians are having an especially difficult time leaving Ukraine</a> NPR: Africans and South Asians studying and working in Ukraine have had added difficulty leaving the country because of discriminatory treatment by local authorities. 
  <p class="updated_time"> 03:53 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60576450?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day six</a> BBC: TV tower attacked in Kiev and horror in Kharkiv. Here's what you need to know after day six of the war. 
- <p class="updated_time"> 03:45 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration-wave.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
- <p class="updated_time"> 03:45 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/russia-ukraine-war-outrage.html">A Surge of Unifying Moral Outrage Over Russia’s War</a> NYT: Ukrainians take to social media, and taboos are tumbling as countries abandon neutrality and people abandon indifference to support their cause. 
  <p class="updated_time"> 03:44 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/investors-ukraine-russia-markets.html">War in Ukraine Has Investors Thinking About a Second Cold War</a> NYT: Military conflicts have not been a major factor in market movements for decades. But Russia’s invasion of Ukraine has put global relations back on investors’ minds. 
  <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
@@ -74,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60576443?at_medium=RSS&at_campaign=KARANGA">No-fly zone: What it means and why the West won't act</a> BBC: Ukraine has asked Western powers to consider imposing a no-fly zone to stop Russian air assaults. 
  <p class="updated_time"> 12:03 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">Workers Strike in a London Underground Already Battered by the Pandemic</a> NYT: Transport workers started the first of two 24-hour strikes planned for this week amid concerns over unfilled posts, pensions and the long-term financing of the rail system. 
- <p class="updated_time"> 11:48 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60532627?at_medium=RSS&at_campaign=KARANGA">What Americans think of President Biden's Ukraine response</a> BBC: "This shows America is weak" - Philadelphians weigh-in on the US response to the war in Ukraine. 
  <p class="updated_time"> 11:47 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/wales-scotland-move-covid-restrictions.html">Wales and Scotland Move to Relax Some Covid Restrictions</a> NYT: Various masking and vaccination rules will ease, though the approach is more gradual than England’s. 
  <p class="updated_time"> 11:46 AM CT, Mar. 01 </p> 
@@ -94,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</a> WSJ: Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory. 
  <p class="updated_time"> 11:08 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60574277?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin's miscalculations could see him strike harder</a> BBC: The Russian leader has always refused to back down in the past, says the BBC's John Simpson. 
- <p class="updated_time"> 10:42 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war-families.html">Ukraine War Splits Families That Have Roots on Both Sides</a> NYT: Because of their countries’ complex and intertwined history, many Ukrainians and Russians have relatives who are standing on opposite sides of the conflict. 
  <p class="updated_time"> 10:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/movies/gerard-depardieu-ukraine-war.html">Gérard Depardieu, Friend of Putin, Denounces ‘Fratricidal War’</a> NYT: “Stop the weapons and negotiate,” the French actor and staunch Russia ally told a news agency. 
  <p class="updated_time"> 09:25 AM CT, Mar. 01 </p> 
@@ -182,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/asia/afghan-evacuation-kabul.html">The One Item They Had to Take When These 6 Afghans Fled</a> NYT: More than 120,000 people were airlifted out of Afghanistan last August, most with just a few hours to gather their belongings. Here are some of the keepsakes they chose. 
  <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60561850?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kharkiv and Chernihiv cities hit by heavy shelling</a> BBC: Dozens of people have been killed in Russian missile strikes on Kharkiv, Ukrainian officials say. 
- <p class="updated_time"> 01:57 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/asia/singapore-gay-sex-law.html">Singapore’s Latest Ruling on Gay Sex Is ‘Cold Comfort,’ Activists Say</a> NYT: Plaintiffs had hoped the Court of Appeal would overturn the colonial-era law. Instead, the top court said it was not “an architect of social policy” and that any change was up to Parliament. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/ukraine-russia-talks-belarus.html">Initial Talks Between Russia and Ukraine Yield No Resolution </a> NYT: Russia’s delegation leader said the next meeting would take place once more along the Ukraine-Belarus border in the “coming days.” 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
@@ -213,12 +213,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:33 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/biden-putin-russia-sotu-00012975">‘Putin was wrong. We were ready’: Biden will condemn Russian leader in address</a> Politico: The president will say in his State of the Union speech that the attack on Ukraine was “premeditated and unprovoked,” according to excerpts released by the White House. 
+ <p class="updated_time"> 05:07 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Primary Day in Texas Will Offer Preview of Midterm Battles Ahead</a> NYT: Texas is just the first piece of the primary puzzle. For Republicans, it will provide a tangible measure of former President Donald J. Trump’s continued grip on the party. 
+ <p class="updated_time"> 04:42 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:37 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/ukraine-biden-senators-russian-energy-exports-00012752">Ukraine presses Biden, senators to hit Russian energy exports</a> Politico: Andriy Kobolyev's meetings with lawmakers come after Ukraine Foreign Minister Dmytro Kuleba on Tuesday criticized oil companies that had not yet completely severed ties with Russia. 
+ <p class="updated_time"> 04:30 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Finds Few Buyers Even at Deep Discounts</a> NYT: Some European buyers, shippers, banks and insurers have grown leery of doing business with the country in recent days. 
+ <p class="updated_time"> 04:29 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">At NY Republican Convention, G.O.P. Tests Attacks on Democrats</a> NYT: The Republican State Convention is giving party leaders a chance to test messages about crime, inflation and Democratic leadership. 
+ <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-union-ukraine-ambassador.html">Ukraine’s U.N. Ambassador Will Be at Biden's State of the Union Address</a> NYT: Ambassador Oksana Markarova will be seated in Jill Biden’s box, along with a whistle-blower from Facebook, a steelworker union member and other guests. 
+ <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/business/media/sarah-palin-new-york-times-trial.html">Judge Says Sarah Palin ‘Failed to Prove Her Case’ Against The Times</a> NYT: In a written opinion explaining his decision to dismiss Ms. Palin’s defamation case, Judge Jed S. Rakoff also stated his faith in the integrity of the jury. 
  <p class="updated_time"> 04:20 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/texas-child-abuse-trans-youth.html">Texas Investigates Parents Over Care for Transgender Youth, Suit Says</a> NYT: The investigations by the state’s Department of Family and Protective Services started last week with an employee of the agency, according to the suit, after Gov. Greg Abbott called for such inquiries. 
- <p class="updated_time"> 04:16 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Texas Primaries Will Preview Midterm Battles Ahead</a> NYT: Texas is just the first piece of the primary puzzle. For Republicans, it will provide a tangible measure of former President Donald J. Trump’s continued grip on the party. 
  <p class="updated_time"> 04:07 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083775561/guests-from-biden-s-joint-address-assess-his-progress-1-year-later">Guests from Biden's Joint Address assess his progress 1 year later</a> NPR: NPR's Ari Shapiro speaks with Tatiana Washington, a gun violence prevention advocate, and Javier Quiroz Castro, a DACA recipient and COVID-19 unit nurse, about progress during Biden's first year. 
  <p class="updated_time"> 04:05 PM CT, Mar. 01 </p> 
@@ -233,8 +245,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083775472/the-1st-primaries-of-2022-midterms-begin-in-texas">The 1st primaries of 2022 midterms begin in Texas</a> NPR: Voters head to the polls in Texas for the state's primary in the first midterm election of 2022. A governor's race is on the ballot, as is the second-largest congressional delegation in the U.S. 
  <p class="updated_time"> 03:31 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-social-media.html">Biden Will Call for More Limits on Social Media in State of the Union Address</a> NYT: Mr. Biden will ask Congress to ban targeted ads aimed at children on social media sites, among other measures. 
- <p class="updated_time"> 03:31 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Finds Few Buyers Even at Deep Discounts</a> NYT: Some European buyers, shippers, banks and insurers have grown leery of doing business with the country in recent days. 
  <p class="updated_time"> 03:29 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/bidens-approval-rating-drops-ahead-of-state-of-the-union-00012875">Biden’s approval rating drops ahead of State of the Union</a> Politico: While 41 percent of Americans approve of the job Biden is doing, 56 percent disapprove, according to a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
@@ -242,9 +252,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:15 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Inflation Will Loom Over Tonight’s State of the Union</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
  <p class="updated_time"> 03:12 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/multiple-jan-6-calls-between-trump-and-lawyer-on-texas-election-lawsuit-panel-reveals-00012896">'Multiple' Jan. 6 calls between Trump and lawyer on Texas election lawsuit, panel reveals</a> Politico: The new information was included in a new round of Jan. 6 committee subpoenas, which targeted a grab-bag of prominent Trump allies and minor players. 
- <p class="updated_time"> 03:02 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-union-ukraine-ambassador.html">Here's Who Will Be at Biden's State of the Union Address Tonight</a> NYT: Ambassador Oksana Markarova will be seated in Jill Biden’s box, along with a whistle-blower from Facebook, a steelworker union member and other guests. 
+ <a href="https://www.politico.com/news/2022/03/01/multiple-jan-6-calls-between-trump-and-lawyer-on-texas-election-lawsuit-panel-reveals-00012896">‘Multiple’ Jan. 6 calls between Trump and lawyer on Texas election lawsuit, panel reveals</a> Politico: The new information was included in a new round of Jan. 6 committee subpoenas, which targeted a grab-bag of prominent Trump allies and minor players. 
  <p class="updated_time"> 02:52 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/ukrainian-ambassador-state-of-the-union-00012857">Ukrainian ambassador to attend Biden's State of the Union</a> Politico: Ambassador Oksana Markarova will be among the guests of first lady Jill Biden, the White House announced. 
  <p class="updated_time"> 02:27 PM CT, Mar. 01 </p> 
@@ -263,16 +271,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/business-groups-russia-oligarch-ties-00012826">Business groups quickly take down their Russian oligarch ties</a> Politico: Names are disappearing from websites, and people are stepping down from boards in the wake of aggressive sanctions. 
  <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/wisconsin-republicans-embrace-election-decertification-00012793">Wisconsin GOP's 2020 report embraces fringe election decertification theory</a> Politico: Former state Supreme Court Justice Michael Gableman for months has been conducting a probe of the 2020 election. 
- <p class="updated_time"> 12:04 PM CT, Mar. 01 </p> 
- <a href="https://www.cnn.com/2022/03/01/politics/texas-primary-election-polls-follow-online/index.html">How to watch the Texas primary election</a> CNN: It's Election Day in Texas, where voters in the Lone Star State are heading to the polls in the first primary of the 2022 election cycle. The primary races will set the scene for several key races up and down the Texas ballot this year, including the Lone Star State's gubernatorial and attorney general elections. Tuesday's primary is the first election to be held under Texas' new elections law, which made significant changes to voting procedures in the state. 
  <p class="updated_time"> 11:50 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">State of the Union Address Tonight: When Is It and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
  <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russian-military-convoy-nears-kyiv-00012759">40-mile Russian military convoy nears Kyiv</a> Politico: Russian forces launched a missile attack on Ukraine's second-largest city on Tuesday. 
  <p class="updated_time"> 11:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/capitol-security-sotu-truck-convoy.html">Bracing for Biden and Protests, Officials Fortify the Capitol</a> NYT: A security fence, National Guard troops and more police surround the Capitol in preparation for the State of the Union address and a possible truck convoy of protesters. 
- <p class="updated_time"> 09:18 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">At NY Republican Convention, G.O.P. Tests Attacks on Democrats</a> NYT: The Republican State Convention is giving party leaders a chance to test messages about crime, inflation and Democratic leadership. 
  <p class="updated_time"> 08:04 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-white-house-russia-putin-00012696">How the Russia-Ukraine conflict has fundamentally changed Biden’s presidency</a> Politico: The president’s days are jam packed. But they’ve grown frantic and extremely Russia-focused as his State of the Union speech approaches. 
  <p class="updated_time"> 08:00 AM CT, Mar. 01 </p> 
@@ -283,6 +287,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083664589/ukrainians-arent-getting-u-s-intelligence-on-russia-fast-enough-sasse-says">Ukrainians aren't getting U.S. intelligence on Russia fast enough, Sasse says</a> NPR: NPR's Steve Inskeep talks to Republican Sen. Ben Sasse of Nebraska about the U.S. response to the Russian invasion of Ukraine. He is a member of the Senate Intelligence Committee. 
  <p class="updated_time"> 06:57 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
+ <p class="updated_time"> 06:39 AM CT, Mar. 01 </p> 
+ <a href="https://www.cnn.com/2022/03/01/politics/texas-2022-primary-election-voting/index.html">5 things to watch in the Texas primary election</a> CNN: Texas kicks off the 2022 midterm elections Tuesday with the nation's first primaries. 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
  <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
@@ -306,7 +312,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ukraine-pleads-congress-more-aid-weapons-00012654">Ukraine pleads with Congress for more aid and weapons</a> Politico: As a Russian convoy heads for Kyiv, the Ukrainian ambassador told senators the military was running out of missiles. 
  <p class="updated_time"> 10:27 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/california-lawmakers-push-pension-funds-to-divest-of-russian-assets-00012438">California lawmakers push pension funds to divest of Russian assets</a> Politico: CalPERS and CalSSTRS are the two largest public pension funds in the United States. 
+ <a href="https://www.politico.com/news/2022/02/28/california-lawmakers-push-pension-funds-to-divest-of-russian-assets-00012438">California lawmakers push pension funds to divest of Russian assets</a> Politico: CalPERS and CalSTRS are the two largest public pension funds in the United States. 
  <p class="updated_time"> 10:24 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/abortion-rights-measure-senate.html">Republicans Block Abortion Rights Measure in Senate</a> NYT: With a Supreme Court ruling looming, both parties expect the issue to resonate in this year’s midterm elections. 
  <p class="updated_time"> 09:01 PM CT, Feb. 28 </p> 
