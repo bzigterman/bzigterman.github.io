@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia bombs Kharkiv's Freedom Square and opera house</a> BBC: Missiles hit the the heart of Ukraine's second city in what officials said was a "barbaric" attack. 
- <p class="updated_time"> 05:34 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 06:39 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. An unknown number of people were killed and wounded, the city’s mayor said. 
+ <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60570831?at_medium=RSS&at_campaign=KARANGA">Newly elected Honduras government to ban open-pit mining</a> BBC: Honduras exports gold, silver, zinc and lead but the new government says the industry is "harmful". 
+ <p class="updated_time"> 05:44 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60567162?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia bombs Kharkiv's Freedom Square and opera house</a> BBC: Missiles hit the the cultural heart of the city, targeting an opera house, concert hall and offices. 
  <p class="updated_time"> 05:30 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
  <p class="updated_time"> 05:30 AM CT, Mar. 01 </p> 
@@ -40,12 +42,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Starlink Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083662498/russia-eyes-sanctions-workarounds-in-energy-gold-crypto">Russia eyes sanctions workarounds in energy, gold, crypto</a> NPR: Observers say Russia will likely turn closer to China to make up for supplies of goods and services lost due to sanctions. 
+ <p class="updated_time"> 01:16 AM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russian Forces Target Ukrainian Civilian Areas as Missile Hits Central Kharkiv</a> WSJ: The bombardment of Ukraine’s second-largest city came as Moscow, frustrated in its plans for a quick victory, switched to a new strategy in an attempt to demoralize Ukrainian resistance. 
  <p class="updated_time"> 11:45 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659633/thousands-evacuate-worst-australian-floods-in-decades">Thousands evacuate worst Australian floods in decades</a> NPR: Local authorities have placed up to 300,000 people under evacuation warnings in one of the country's worst flooding incidents. 
  <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60567192?at_medium=RSS&at_campaign=KARANGA">Australia floods: Residents and horses trapped on bridge overnight</a> BBC: Record-breaking fatal floods declared disaster zone as rescue operation continues. 
- <p class="updated_time"> 11:02 PM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russian Forces Target Ukrainian Civilian Areas as Missile Hits Central Kharkiv</a> WSJ: The bombardment of Ukraine’s second-largest city came as Moscow, frustrated in its plans for a quick victory, switched to a new strategy in an attempt to demoralize Ukrainian resistance. 
  <p class="updated_time"> 10:39 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
  <p class="updated_time"> 10:35 PM CT, Feb. 28 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60565970?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Russia’s nuclear threat</a> BBC: Ros Atkins looks at the history of nuclear tensions and deals between the US and Russia. 
  <p class="updated_time"> 06:01 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/disability-sport/60508602?at_medium=RSS&at_campaign=KARANGA">The new wave of India's female Para-athletes forcing a shift in perspective</a> BBC: A new wave of Indian female Para-athletes are enjoying international success and forcing a change in attitudes in their home country. 
- <p class="updated_time"> 05:57 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/sport/athletics/60560567?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Fifa and Uefa suspend all Russian clubs and national teams</a> BBC: Russian football clubs and national teams have been suspended from all competitions by Fifa and Uefa after the country's invasion of Ukraine. 
  <p class="updated_time"> 05:18 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-economy-sanctions-ukraine.html">Russians Face Sanctions and Anxieties of a Costly War</a> NYT: The ruble plunged, the stock market was shuttered and foreign investors shed holdings in Russian companies, deepening the concern among citizens who had become accustomed to the perks of globalization. 
  <p class="updated_time"> 05:10 PM CT, Feb. 28 </p> 
@@ -201,12 +201,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:58 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/russia-pummels-ukraines-second-largest-city-00012688">Russia pummels Ukraine’s No. 2 city and convoy nears Kyiv</a> Politico: With the Kremlin increasingly isolated by tough economic sanctions that have tanked the ruble currency, Russian troops advanced on Ukraine’s two biggest cities. 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
  <p class="updated_time"> 05:22 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/texas-primary-candidates-midterms.html">What We’re Watching in Tuesday’s Texas Primary Election</a> NYT: The first election night of the 2022 midterms has some famous names and crowded primary races. Here’s a rundown. 
  <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">Florida GOP splits amid DeSantis’ push to upend redistricting</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
+ <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">DeSantis sends Florida Democrats to redistricting purgatory</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/what-to-watch-texas-primaries-00012619">What to watch for in Texas’ primaries</a> Politico: The first primaries of 2022 highlight conflict over the future of both parties. 
  <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
@@ -226,13 +228,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083585797/the-challenges-biden-faces-in-his-state-of-the-union-address">The challenges Biden faces in his State of the Union address</a> NPR: As President Biden is set to make his first State of the Union speech, he and the country face pressing issues, from Russia's invasion of Ukraine to inflation and the continuing pandemic. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">With Midterms in Mind, G.O.P. Tests Attacks on Democrats in New York</a> NYT: The Republican State Convention gave party leaders a chance to test messages about crime, inflation and Democratic leadership. 
- <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/nyregion/republicans-midterm-election-ny.html">With Midterms in Mind, G.O.P. Tests Attacks on Democrats in New York</a> NYT: The Republican State Convention gave party leaders a chance to test messages about crime, inflation and Democratic leadership. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Primary Day in Texas Will Offer Preview of Midterm Battles Ahead</a> NYT: Texas is holding the first primary election of 2022 on Tuesday. Some of the dynamics at play include the intensity of Donald Trump’s continued hold on the Republican electorate. 
- <p class="updated_time"> 12:30 AM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/russia-convoy-kyiv-ukraine-00012670">40-mile Russian convoy threatens Kyiv</a> Politico: Both sides looked to resume talks in the coming days aimed at stopping the fighting. 
  <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ukraine-pleads-congress-more-aid-weapons-00012654">Ukraine pleads with Congress for more aid and weapons</a> Politico: As a Russian convoy heads for Kyiv, the Ukrainian ambassador told senators the military was running out of missiles. 
  <p class="updated_time"> 10:27 PM CT, Feb. 28 </p> 
@@ -262,7 +262,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:06 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/republicans-extremism-marjorie-taylor-greene.html">G.O.P. Lawmakers' Appearance at White Nationalist Conference Draws Rebuke</a> NYT: The participation of Representatives Marjorie Taylor Greene and Paul Gosar at a far-right event renewed calls for Republican leaders to root out extremism in their party. 
  <p class="updated_time"> 06:05 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/biden-state-of-the-union.html">In State of the Union, Biden Will Focus on Economy and Russia</a> NYT: The speech was originally going to center primarily on the president’s domestic agenda. But the war in Europe has forced the White House to change gears. 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/biden-state-of-the-union.html">In State of the Union, Biden Will Focus on Economy and Global Response to Russia</a> NYT: The speech was originally going to center primarily on the president’s domestic agenda. But the war in Europe has forced the White House to change gears. 
  <p class="updated_time"> 05:45 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/supreme-court-climate-change.html">Supreme Court Considers Limiting E.P.A.’s Ability to Address Climate Change</a> NYT: Members of the court’s conservative majority voiced skepticism that Congress had authorized the agency to decide what they said were major political and economic questions. 
  <p class="updated_time"> 03:57 PM CT, Feb. 28 </p> 
@@ -274,7 +274,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581009/south-carolina-rep-jim-clyburn-shares-his-view-of-bidens-presidency">South Carolina Rep. Jim Clyburn shares his view of Biden's presidency</a> NPR: NPR's Sacha Pfeiffer talks with Democratic Rep. Jim Clyburn of South Carolina about President Biden's State of the Union address on Tuesday. 
  <p class="updated_time"> 03:27 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">How Immigration Politics Drives Some Hispanic Voters to the G.O.P. in Texas</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/border-grievance-politics.html">Some Texas Hispanics Drawn to Republicans Share Immigration Grievances</a> NYT: Former President Donald J. Trump’s brand of populism has been widely viewed as an appeal to white voters. But similar grievances have resonated in the Rio Grande Valley in a profound way. 
  <p class="updated_time"> 03:09 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/biden-white-house-mask-mandate.html">White House Lifts Mask Mandate Ahead of State of the Union</a> NYT: The move takes effect Tuesday, in time for President Biden’s State of the Union address. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
@@ -321,8 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/27/1083379284/montgomery-ala-mayor-on-leading-the-city-through-the-voting-rights-battle">Montgomery, Ala., mayor on leading the city through the voting rights battle</a> NPR: NPR's Michel Martin speaks with Steven Reed, the first Black mayor of Montgomery, Ala. 
  <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
  <a href="https://www.npr.org/2022/02/27/1083379277/sen-sullivan-supports-sending-more-military-aid-to-ukraine">Sen. Sullivan supports sending more military aid to Ukraine</a> NPR: NPR's Michel Martin speaks with Sen. Dan Sullivan (R-Alaska) about the Russian invasion of Ukraine. 
- <p class="updated_time"> 02:07 PM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/cpac-straw-poll-trump-desantis-00012138">Donald Trump wins CPAC straw poll</a> Politico: The former president fared better than he had in 2021. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
  <p class="updated_time"> 11:43 AM CT, Feb. 27 </p> 
@@ -339,8 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
- <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
- <a href="https://www.politico.com/news/2022/02/25/biden-going-easy-russia-energy-00011822">Why Biden is going easy on Russia's energy industry</a> Politico: U.S. and European dependence on Russian oil and gas is tempering the push for harsh sanctions on Russian President Vladimir Putin's regime. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
@@ -377,10 +373,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/22/politics/omicron-covid-pandemic-disruptions/index.html">Omicron continued to disrupt work and families' lives even as Covid-19 cases dropped</a> CNN: Millions of Americans remained out of work because they or a loved one were sick with coronavirus symptoms in late January and early February, even as the number of cases of the Omicron variant of Covid-19 fell. 
  <p class="updated_time"> 07:26 AM CT, Feb. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/22/nein-to-nord-stream-2-00010540">Nein to Nord Stream 2</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:33 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/22/todays-conundrum-whats-an-invasion-00010498"> Today’s conundrum: What’s an ‘invasion’?</a> Politico Playbook: And Congress steps up the sanctions pressure. 
- <p class="updated_time"> 06:01 AM CT, Feb. 22 </p> 
- <a href="https://www.politico.com/news/2022/02/22/rick-scott-gop-agenda-00010431">Rick Scott pushes own GOP agenda as McConnell holds off</a> Politico: The first-term senator's plan includes a mix of longtime Republican positions as well as culture war politics that define many GOP voters in Trump’s wing of the party. 
 
 
 </details>
