@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:24 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 09:31 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1080917901/most-endangered-sites-world-monument-watch">Sites in Beirut, Benghazi and Brownsville, Texas, make a most-endangered list</a> NPR: Beirut's historic city center and the traditional territory of the Carrizo Comecrudo Tribe of Texas are among 25 places listed by World Monument Watch as in urgent need of preservation. 
+ <p class="updated_time"> 09:28 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. At least seven people were killed, officials said, raising fears that Russia was increasingly targeting civilian areas of Ukraine. 
+ <p class="updated_time"> 09:25 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
+ <p class="updated_time"> 09:23 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 09:20 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-italy-sanctions.html">Italy Takes a Risk in Joining Sanctions on Russia Over Ukraine</a> NYT: The two countries have had strong economic ties for decades, but the invasion of Ukraine has spurred the government in Rome to realign with European allies — at an outsize cost. 
  <p class="updated_time"> 09:16 AM CT, Mar. 01 </p> 
@@ -22,10 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
  <p class="updated_time"> 08:17 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
- <p class="updated_time"> 07:49 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
- <p class="updated_time"> 07:38 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
  <p class="updated_time"> 06:07 AM CT, Mar. 01 </p> 
@@ -128,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/02/28/1083581083/un-diplomats-spoke-out-against-moscow-in-emergency-meeting">UN diplomats spoke out against Moscow in emergency meeting</a> NPR: Diplomats at the United Nations are calling for peace. They held an emergency meeting after Russia blocked a security council resolution calling on Russia to withdraw. 
  <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/02/28/1083581054/russia-and-ukraine-met-in-1st-negotiations-since-the-invasion">Russia and Ukraine met in 1st negotiations since the invasion</a> NPR: Russians lined up at ATM machines but there are few other signs of reaction to Western economic sanctions. 
- <p class="updated_time"> 03:31 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083580995/some-effects-of-climate-change-are-irreversible-but-theres-still-hope">Some effects of climate change are irreversible, but there's still hope</a> NPR: NPR's Ari Shapiro talks with earth scientist Brian O'Neill about a new major United Nations report on climate change. 
  <p class="updated_time"> 02:53 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/germany-covid-far-right-protests.html">In Germany, Threats Grow as Far Right and Pandemic Protestors Merge</a> NYT: In the former Communist East, security officials worry that a long-running movement against Covid restrictions is becoming an incubator of political violence. 
  <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
@@ -303,8 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/twitter-label-state-affiliated-russia-media-00012351">Twitter to label all state-affiliated Russia media</a> Politico: The latest steps come as Russian disinformation spreads. 
  <p class="updated_time"> 10:34 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ketanji-brown-jackson-mcconnell-00012311">Ketanji Brown Jackson to meet with McConnell this week</a> Politico: Biden’s Supreme Court nominee is making the rounds on the Hill, including to some key Republican lawmakers. 
- <p class="updated_time"> 08:00 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/ruble-sanctions-russian-banks-00012260">Ruble plummets as sanctions bite, sending Russians to banks</a> Politico: The Russian currency plunged about 30 percent against the U.S. dollar Monday after Western nations announced moves against some Russian banks. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
@@ -347,6 +345,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
  <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/news/2022/02/25/biden-going-easy-russia-energy-00011822">Why Biden is going easy on Russia's energy industry</a> Politico: U.S. and European dependence on Russian oil and gas is tempering the push for harsh sanctions on Russian President Vladimir Putin's regime. 
+ <p class="updated_time"> 05:59 PM CT, Feb. 25 </p> 
+ <a href="https://www.politico.com/news/2022/02/25/ron-desantis-republicans-wait-your-turn-00012024">Republicans’ 2024 advice to DeSantis: Wait your turn</a> Politico: "If there was no Trump, there would be DeSantis and everyone else." 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
