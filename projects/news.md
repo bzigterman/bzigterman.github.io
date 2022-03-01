@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:45 PM CT, Feb. 28 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083659633/thousands-evacuate-worst-australian-floods-in-decades">Thousands evacuate worst Australian floods in decades</a> NPR: Local authorities have placed up to 300,000 people under evacuation warnings in one of the country's worst flooding incidents. 
  <p class="updated_time"> 11:36 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
@@ -112,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/asia/afghan-evacuation-kabul.html">The One Item They Had to Take When These 6 Afghans Fled</a> NYT: More than 120,000 people were airlifted out of Afghanistan last August, most with just a few hours to gather their belongings. Here are some of the keepsakes they chose. 
  <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60561850?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kharkiv and Chernihiv cities hit by heavy shelling</a> BBC: Dozens of people have been killed in Russian missile strikes on Kharkiv, Ukrainian officials say. 
- <p class="updated_time"> 02:29 PM CT, Feb. 28 </p> 
- <a href="https://www.npr.org/2022/02/28/1083550554/toyota-stops-production-in-japan-after-a-cyberattack-hits-one-of-its-suppliers">Toyota stops production in Japan after a cyberattack hits one of its suppliers</a> NPR: The suspected attack forced Toyota, one of the world's largest auto manufacturers, to suspend operations at 14 of its Japanese plants, affecting the production of about 13,000 vehicles. 
  <p class="updated_time"> 02:22 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/europe/germany-ukraine-russia.html">In Foreign Policy U-Turn, Germany Ups Military Spending and Arms Ukraine</a> NYT: Germany agrees to strengthen its military in the latest foreign policy about-face amid pressure from allies and horror at Russia’s attack on Ukraine. 
  <p class="updated_time"> 02:20 PM CT, Feb. 28 </p> 
