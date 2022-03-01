@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:24 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 04:35 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 04:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
@@ -55,7 +55,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">Tech Companies Help Defend Ukraine Against Cyberattacks</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
  <p class="updated_time"> 07:42 PM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60393076?at_medium=RSS&at_campaign=KARANGA">The Nigerians hoping to check out of their country</a> BBC: Frustration among the middle-class is pushing many to want to leave, writes Adaobi Tricia Nwaubani. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60393076?at_medium=RSS&at_campaign=KARANGA">The Nigerians hoping to check out of their country</a> BBC: Frustration among the middle class is pushing many to want to leave, writes Adaobi Tricia Nwaubani. 
  <p class="updated_time"> 07:08 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60552273?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why India is not criticising Russia over invasion</a> BBC: India has been under pressure to condemn Russia's invasion but has so far been reluctant to do so. 
  <p class="updated_time"> 07:00 PM CT, Feb. 28 </p> 
