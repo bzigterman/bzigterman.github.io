@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:00 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 03:33 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60568298?at_medium=RSS&at_campaign=KARANGA">Building hit by missile in Kharkiv's Freedom Square</a> BBC: Video show a strike targeting government offices in central Kharkiv, Ukraine. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/02/28/world/ukraine-russia-war">Live Updates: Ukrainians Flee as Russia Bombards Civilians</a> NYT: President Volodymyr Zelensky called on Monday for an international tribunal to investigate Russia for war crimes. Delegations from Kyiv and Moscow failed to make progress in Belarus. 
  <p class="updated_time"> 02:22 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
@@ -28,6 +30,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-global-reaction.html">Invasion Brings Russia Global Repudiation With Cold War Echoes</a> NYT: From culture to commerce, sports to travel, the world is shunning Russia in myriad ways to protest President Vladimir V. Putin’s invasion of Ukraine. 
  <p class="updated_time"> 10:35 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60565971?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'How much longer until this is over?'</a> BBC: Burning buildings and cars destroyed in Donetsk after the separatist-controlled city is shelled. 
+ <p class="updated_time"> 10:27 PM CT, Feb. 28 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-bombs-turn-kyiv-into-a-warzone-residents-scramble-to-escape-11646126841">As Russian Bombs Turn Kyiv Into a Warzone, Residents Scramble to Escape</a> WSJ: Russia’s attacks on Ukraine’s capital—aimed at decapitating the pro-Western Ukrainian government—have left the city’s residents caught in a life-or-death choice between remaining in the city and escaping to safety. 
  <p class="updated_time"> 09:51 PM CT, Feb. 28 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russian Forces Target Ukrainian Civilian Areas as Missile Hits Central Kharkiv</a> WSJ: The bombardment of Ukraine’s second-largest city came as Moscow, frustrated in its plans for a quick victory, switched to a new strategy in an attempt to demoralize Ukrainian resistance. 
  <p class="updated_time"> 09:43 PM CT, Feb. 28 </p> 
@@ -126,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
  <p class="updated_time"> 01:57 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/asia/singapore-gay-sex-law.html">Singapore’s Latest Ruling on Gay Sex Is ‘Cold Comfort,’ Activists Say</a> NYT: Plaintiffs had hoped the Court of Appeal would overturn the colonial-era law. Instead, the top court said it was not “an architect of social policy” and that any change was up to Parliament. 
- <p class="updated_time"> 01:25 PM CT, Feb. 28 </p> 
- <a href="https://www.wsj.com/articles/russias-ruble-financial-markets-are-hammered-by-sanctions-11646038133">The West's Sanctions Barrage Severs Russia's Economy From Much of the World</a> WSJ: In just days, the country has been all-but-unplugged from a global system that powered its transition from a closed, government-controlled economy to a relatively modern one that yielded Western goods, foreign travel and a middle-class lifestyle. 
  <p class="updated_time"> 01:08 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/27/business/china-russia-ukraine-invasion.html">Why the Chinese Internet Is Cheering Russia’s Invasion</a> NYT: As the world overwhelmingly condemns the assault on Ukraine, online opinion in China is mostly pro-Russia, pro-war and pro-Putin. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
@@ -188,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/27/world/europe/ukraine-uk-expat-fighters.html">Ukrainians in Britain Take Up the Cause Back Home</a> NYT: Whether vowing to kill Russians or offering medical supplies, Ukrainian citizens are too impatient to sit idly by. 
  <p class="updated_time"> 06:33 PM CT, Feb. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60519542?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh: BSP chief Mayawati fighting for her legacy in elections</a> BBC: Mayawati, one of India's prominent politicians, has been in the political wilderness for a decade. 
- <p class="updated_time"> 06:01 PM CT, Feb. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60549130?at_medium=RSS&at_campaign=KARANGA">Ukraine: The families fleeing a war, but having to leave loved ones behind</a> BBC: On the Polish border, the BBC meets women whose families had to split because of the war. 
  <p class="updated_time"> 05:33 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/world/asia/south-korea-pyeongchang-olympics.html">Pyeongchang Still Awaits Its Olympic Payoff</a> NYT: One of South Korea’s poorest regions hoped that hosting the 2018 Games would bring tourists and prosperity. It hasn’t really happened. 
  <p class="updated_time"> 03:22 PM CT, Feb. 27 </p> 
