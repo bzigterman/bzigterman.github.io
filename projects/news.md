@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:53 AM CT, Mar. 01 </p> 
+ <p class="updated_time"> 08:08 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Explosion Shakes Ukraine’s Second-Largest City</a> NYT: Video showed what appeared to be a rocket striking directly in front of an administrative building in Kharkiv, a day after Russian forces shelled the city. At least seven people were killed, officials said, raising fears that Russia was increasingly targeting civilian areas of Ukraine. 
  <p class="updated_time"> 07:49 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60566286?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Disney, Warner, Sony halt release of films in Russia</a> BBC: The moves come as major corporations cut business links with Russia after its invasion of Ukraine. 
@@ -44,12 +44,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083659975/oil-majors-pull-out-of-once-promising-russia">Major oil companies pull out of once-promising Russia </a> NPR: Announcements from Shell and BP will further hit Russia's tanking economy — and batter its image as a go-to place for oil and gas investments. 
  <p class="updated_time"> 03:33 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60568298?at_medium=RSS&at_campaign=KARANGA">Building hit by missile in Kharkiv's Freedom Square</a> BBC: Video show a deadly Russian strike in Ukraine's second city, Kharkiv. 
+ <p class="updated_time"> 03:02 AM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russian Forces Target Ukrainian Civilian Areas as Missile Hits Central Kharkiv</a> WSJ: The bombardment of Ukraine’s second-largest city came as Moscow, frustrated in its plans for a quick victory, switched to a new strategy in an attempt to demoralize Ukrainian resistance. 
  <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Starlink Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 01:39 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083662498/russia-eyes-sanctions-workarounds-in-energy-gold-crypto">Russia eyes sanctions workarounds in energy, gold, crypto</a> NPR: Observers say Russia will likely turn closer to China to make up for supplies of goods and services lost due to sanctions. 
- <p class="updated_time"> 01:16 AM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russian Forces Target Ukrainian Civilian Areas as Missile Hits Central Kharkiv</a> WSJ: The bombardment of Ukraine’s second-largest city came as Moscow, frustrated in its plans for a quick victory, switched to a new strategy in an attempt to demoralize Ukrainian resistance. 
  <p class="updated_time"> 11:45 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/2022/03/01/1083659633/thousands-evacuate-worst-australian-floods-in-decades">Thousands evacuate worst Australian floods in decades</a> NPR: Local authorities have placed up to 300,000 people under evacuation warnings in one of the country's worst flooding incidents. 
  <p class="updated_time"> 11:07 PM CT, Feb. 28 </p> 
@@ -64,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-war-kharkiv.html">Russian Rocket Kills Civilians as First Talks Show No Progress</a> NYT: The deadly rocket assault on a residential area of Ukraine’s second-largest city signaled an escalation of Russian tactics, and overshadowed efforts at diplomacy. 
  <p class="updated_time"> 09:31 PM CT, Feb. 28 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/02/28/1083650286/satellite-images-show-40-mile-long-russian-military-convoy-nearing-kyiv">Satellite images show 40-mile-long Russian military convoy nearing Kyiv</a> NPR: New photos show that the convoy is considerably longer than the 17 miles initially reported and heading toward the Ukrainian capital. 
- <p class="updated_time"> 09:31 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/asia/putin-xi-jinping-russia-china.html">Ties That Bind Putin and Xi Tested by Russia's Ukraine Invasion</a> NYT: The two autocrats have brought their countries closer together than ever. But for China, the costs of Russia’s adventurism could be high. 
  <p class="updated_time"> 09:25 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/us-sanctions-russia-central-bank.html">US Escalates Sanctions With a Freeze on Russian Central Bank Assets</a> NYT: The action is likely to fuel rapid inflation in Russia as it wages war in Ukraine. 
  <p class="updated_time"> 08:20 PM CT, Feb. 28 </p> 
@@ -78,6 +76,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60552273?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why India is not criticising Russia over invasion</a> BBC: India has been under pressure to condemn Russia's invasion but has so far been reluctant to do so. 
  <p class="updated_time"> 07:00 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/biden-ukraine-visas.html">Biden Administration Faces Pressure to Let Ukrainians Stay in U.S.</a> NYT: Senator Richard J. Durbin, Democrat of Illinois, has called on the administration to offer Temporary Protected Status to Ukrainians who are on short-term visas or have no documentation. 
+ <p class="updated_time"> 06:56 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/27/world/europe/volodymyr-zelensky-ukraine-russia.html">How Zelensky Rallied Ukrainians, and the World, Against Putin</a> NYT: Mr. Zelensky’s decision to remain in the capital, Kyiv, while it’s under Russian attack has moved many. 
  <p class="updated_time"> 06:52 PM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60544034?at_medium=RSS&at_campaign=KARANGA">Uttar Pradesh elections: 'We Muslims are treated like the sacrificial goat'</a> BBC: Muslims in India's most polarised state say they are living like "second-class citizens". 
  <p class="updated_time"> 06:47 PM CT, Feb. 28 </p> 
@@ -148,8 +148,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60559574?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What are the nuclear risks?</a> BBC: Russia's nuclear forces are on "special alert" - what does that mean and how worried should we be? 
  <p class="updated_time"> 11:14 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/travel/panama-azuero-spider-monkeys.html">In Search of Panama’s Elusive Spider Monkeys</a> NYT: Environmental initiatives in the Azuero Peninsula offer hope for the future of a critically endangered subspecies. 
- <p class="updated_time"> 10:49 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/27/world/australia/australia-flood-queensland.html">Floods Engulf Brisbane and Kill 9 in Northeastern Australia</a> NYT: Days of downpours have pummeled Queensland and New South Wales, with the authorities describing the wild weather as “waves of water just coming down.” 
  <p class="updated_time"> 09:44 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/health/pfizer-vaccine-kids.html">Pfizer Shot Is Far Less Effective in 5- to 11-Year-Olds Than in Older Kids, New Data Show</a> NYT: While protection against hospitalization is still strong, the vaccine offered almost no protection against infection, even just a month after full vaccination. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
@@ -207,6 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 08:04 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-white-house-russia-putin-00012696">Inside Biden’s scramble and gamble to handle Putin</a> Politico: The president’s days are jam packed. But they’ve grown frantic and extremely Russia-focused as his State of the Union speech approaches. 
+ <p class="updated_time"> 08:00 AM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1082601953/state-of-the-union-live-updates">Watch: President Biden will deliver his State of the Union on Tuesday night</a> NPR: President Biden will deliver his first State of the Union address on Tuesday amid a high-stress period for the nation: a growing fatigue over the pandemic and Russia's continued invasion of Ukraine. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:14 AM CT, Mar. 01 </p> 
@@ -321,8 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/capitol-leaders-rescind-mask-mandate-sotu-00012167">Capitol leaders rescind mask mandate ahead of State of the Union</a> Politico: The Office of the Attending Physician said it was following the Centers for Disease Control and Prevention's new guidelines on masking. 
  <p class="updated_time"> 04:46 PM CT, Feb. 27 </p> 
  <a href="https://www.nytimes.com/2022/02/27/us/politics/bill-barr-trump-january-6.html">Barr Rebukes Trump as ‘Off the Rails’ in New Memoir</a> NYT: William P. Barr’s memoir of his time as attorney general under George H.W. Bush and then again under Donald J. Trump defends his more recent leadership of the Justice Department. 
- <p class="updated_time"> 04:13 PM CT, Feb. 27 </p> 
- <a href="https://www.npr.org/2022/02/27/1083379284/montgomery-ala-mayor-on-leading-the-city-through-the-voting-rights-battle">Montgomery, Ala., mayor on leading the city through the voting rights battle</a> NPR: NPR's Michel Martin speaks with Steven Reed, the first Black mayor of Montgomery, Ala. 
  <p class="updated_time"> 02:07 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/cpac-straw-poll-trump-desantis-00012138">Donald Trump wins CPAC straw poll</a> Politico: The former president fared better than he had in 2021. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
