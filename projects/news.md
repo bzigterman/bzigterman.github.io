@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083872077/u-n-set-to-hold-vote-that-would-demand-russia-end-war-in-ukraine">U.N. set to hold vote that would demand Russia end war in Ukraine </a> NPR: The General Assembly is expected to overwhelmingly support a nonbinding resolution that demands Russia immediately remove its forces from Ukraine. 
+ <p class="updated_time"> 04:07 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Russian Forces Claim to Control Key Ukrainian Port City</a> NYT: Ukraine’s military disputed the claim and said it was still battling to hold Kherson, in the south of the country. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
- <p class="updated_time"> 03:47 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Russian Forces Claim to Control Key Ukrainian Port City</a> NYT: Ukraine’s military disputed the claim and said it was still battling to hold Kherson, in the south of the country. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 03:44 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585633?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv university ablaze after Russian missile hit</a> BBC: Video shows firefighters tackling a blaze at the Karazin National University in Ukraine's second city. 
  <p class="updated_time"> 03:33 AM CT, Mar. 02 </p> 
@@ -118,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083696555/russia-ukraine-war-putin-nuclear-escalation-risk">As Russia's Ukraine war intensifies, some warn nuclear escalation is possible</a> NPR: Russian President Vladimir Putin gave orders to his nation's nuclear forces over the weekend, but their exact meaning is unclear. Russia has more nuclear weapons than any other nation. 
  <p class="updated_time"> 01:01 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083733700/russias-40-mile-convoy-has-stalled-on-its-way-to-kyiv-a-u-s-official-says">Russia's 40-mile convoy has stalled on its way to Kyiv, a U.S. official says</a> NPR: The convoy is apparently being hampered by fuel and food shortages, the official says. The news comes as Russia continues to concentrate attacks on Ukraine's largest cities: Kyiv and Kharkiv. 
- <p class="updated_time"> 12:54 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083733323/russia-bombards-a-kyiv-tv-tower-and-the-babyn-yar-holocaust-memorial-site">Russia bombards a Kyiv TV tower and the Babyn Yar Holocaust memorial site </a> NPR: Ukraine's State Emergency Service said five people were killed and another five injured in the attack on the city's main television and radio tower, and that TV channels won't work "for some time." 
  <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-war-civilians-11646173427">Food Shortages, Last Goodbyes: Ukrainians Face Their New Reality</a> WSJ: Russia began a new, bloodier phase of the war and the capital Kyiv is bracing for the indiscriminate shelling of civilian neighborhoods. 
  <p class="updated_time"> 12:05 PM CT, Mar. 01 </p> 
@@ -211,6 +211,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083881268/texas-primary-is-an-early-test-of-new-voting-rules-republicans-passed-in-many-st">Texas primary is an early test of new voting rules Republicans passed in many states</a> NPR: In the Texas primary, Republican Gov. Greg Abbott and Democratic nominee Beto O'Rourke easily won their primaries. Attorney General Ken Paxton will head to a GOP runoff against George P. Bush. 
+ <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083881254/biden-addresses-issues-such-as-ukraine-and-inflation-in-state-of-the-union-speec">Biden addresses issues, such as Ukraine and inflation, in State of the Union speech</a> NPR: NPR's A Martinez talks to NPR White House correspondent Scott Detrow and Michelle Singletary, personal finance columnist for The Washington Post, about President Biden's State of the Union address. 
+ <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083881233/state-of-the-union-gave-biden-a-chance-to-reset-his-presidency-how-did-he-do">State of the Union gave Biden a chance to reset his presidency. How did he do?</a> NPR: NPR's A Martinez talks Democratic strategist Karen Finney and Republican strategist Scott Jennings, about how effective President Biden's speech was in addressing both foreign and domestic issues. 
+ <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083881198/morning-news-brief">News brief: Biden speech, Ukrainians return home to fight Russia, Texas primary</a> NPR: Biden's State of the Union speech addresses Ukraine, inflation and other topics. A view of the Russia-Ukraine crisis from western Ukraine. A wrap up of some of the races in the Texas primary. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-will-cite-tremendous-progress-against-an-unpredictable-virus.html">Biden announces initiative to pair coronavirus tests with treatment.</a> NYT: The “test to treat” initiative will enable Americans to get tested at pharmacies and, if they are positive for the virus, get antiviral treatments free on the spot, the president said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
@@ -313,26 +321,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/business/media/sarah-palin-new-york-times-trial.html">Judge Says Sarah Palin ‘Failed to Prove Her Case’ Against The Times</a> NYT: In a written opinion explaining his decision to dismiss Ms. Palin’s defamation case, Judge Jed S. Rakoff also stated his faith in the integrity of the jury. 
  <p class="updated_time"> 04:20 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/texas-child-abuse-trans-youth.html">Texas Investigates Parents Over Care for Transgender Youth, Suit Says</a> NYT: The investigations by the state’s Department of Family and Protective Services started last week with an employee of the agency, according to the suit, after Gov. Greg Abbott called for such inquiries. 
- <p class="updated_time"> 04:07 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083775561/guests-from-biden-s-joint-address-assess-his-progress-1-year-later">Guests from Biden's Joint Address assess his progress 1 year later</a> NPR: NPR's Ari Shapiro speaks with Tatiana Washington, a gun violence prevention advocate, and Javier Quiroz Castro, a DACA recipient and COVID-19 unit nurse, about progress during Biden's first year. 
  <p class="updated_time"> 04:05 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/white-house-blueprint-next-covid-phase-00012954">White House to unveil blueprint for the next Covid phase</a> Politico: The document will be put out after the State of the Union address and chart a more cautiously optimistic path forward. 
  <p class="updated_time"> 03:52 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/supreme-court-pill-mills.html">Supreme Court Hears Case of Doctors Accused of Running Pill Mills</a> NYT: Drawing on childhood grammar lessons, the justices considered whether the doctors were entitled to argue that they had acted in good faith. 
  <p class="updated_time"> 03:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/california-john-eastman-2020-election-trump-00012889">California State Bar probes Trump-connected attorney over 2020 election role</a> Politico: Attorney John Eastman is the subject of a California ethics investigation. 
- <p class="updated_time"> 03:32 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083775472/the-1st-primaries-of-2022-midterms-begin-in-texas">The 1st primaries of 2022 midterms begin in Texas</a> NPR: Voters head to the polls in Texas for the state's primary in the first midterm election of 2022. A governor's race is on the ballot, as is the second-largest congressional delegation in the U.S. 
  <p class="updated_time"> 03:31 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-social-media.html">Biden Will Call for More Limits on Social Media in State of the Union Address</a> NYT: Mr. Biden will ask Congress to ban targeted ads aimed at children on social media sites, among other measures. 
  <p class="updated_time"> 03:29 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/bidens-approval-rating-drops-ahead-of-state-of-the-union-00012875">Biden’s approval rating drops ahead of State of the Union</a> Politico: While 41 percent of Americans approve of the job Biden is doing, 56 percent disapprove, according to a new POLITICO/Morning Consult poll. 
- <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083775428/president-biden-to-deliver-his-1st-state-of-the-union-address">President Biden to deliver his 1st State of the Union address</a> NPR: President Biden delivers the State of the Union address Tuesday. He will talk about how inflation is hampering the country's economic progress, the status of the pandemic and the war in Ukraine. 
  <p class="updated_time"> 03:12 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/multiple-jan-6-calls-between-trump-and-lawyer-on-texas-election-lawsuit-panel-reveals-00012896">‘Multiple’ Jan. 6 calls between Trump and lawyer on Texas election lawsuit, panel reveals</a> Politico: The new information was included in a new round of Jan. 6 committee subpoenas, which targeted a grab-bag of prominent Trump allies and minor players. 
- <p class="updated_time"> 02:27 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083627839/iowa-gov-reynolds-will-likely-tout-her-covid-response-in-state-of-the-union-rebu">Iowa Gov. Reynolds will likely tout her COVID response in State of the Union rebuttal</a> NPR: Iowa Republican Gov. Kim Reynolds' response to the pandemic, with few restrictions, has gotten her national attention. 
  <p class="updated_time"> 02:20 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/theater/potus-broadway-selina-fillinger.html">Julianne Hough and Vanessa Williams to Star in Broadway Farce 'POTUS'</a> NYT: “POTUS,” by Selina Fillinger, will star Julianne Hough, Vanessa Williams, Rachel Dratch, Lea DeLaria, Lilli Cooper, Suzy Nakamura and Julie White. 
  <p class="updated_time"> 01:53 PM CT, Mar. 01 </p> 
