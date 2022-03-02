@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:45 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">First Ukraine City Falls as Russia Strikes More Civilian Targets</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
+ <p class="updated_time"> 05:41 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60529926?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What sanctions could West still impose on Russia?</a> BBC: The measures are tougher than anything Vladimir Putin has faced. But more could be coming. 
  <p class="updated_time"> 05:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/justice-dept-russia-oligarchs.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
- <p class="updated_time"> 05:35 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war.html">First Ukraine City Falls as Russia Strikes More Civilian Targets</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 05:35 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60532631?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Guy Reffitt accused of being 'tip of spear' in 6 January mob</a> BBC: Guy Reffitt is the first 6 January defendant to stand trial. He has pleaded not guilty on all charges. 
  <p class="updated_time"> 05:34 PM CT, Mar. 02 </p> 
@@ -209,6 +211,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:47 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-rehires-national-security-staff-member.html">Biden Rehires National Security Staff Member Pushed Out Under Trump</a> NYT: The National Security Council confirmed that Ellen Knight, who told of improper pressure from Trump administration officials, was returning to help manage classified information. 
+ <p class="updated_time"> 05:44 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083927209/jan-6-riot-defendant-was-tip-of-this-mobs-spear-prosecutor-tells-jury">Jan. 6 riot defendant was "tip of this mob's spear," prosecutor tells jury </a> NPR: Prosecutors laid out their case against Guy Reffitt, who is the first defendant connected to the Jan. 6 Capitol insurrection to face trial. His attorney described the case as based on "hype." 
  <p class="updated_time"> 05:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/justice-dept-russia-oligarchs.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
@@ -311,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1083881233/state-of-the-union-gave-biden-a-chance-to-reset-his-presidency-how-did-he-do">State of the Union gave Biden a chance to reset his presidency. How did he do?</a> NPR: NPR's A Martinez talks Democratic strategist Karen Finney and Republican strategist Scott Jennings, about how effective President Biden's speech was in addressing both foreign and domestic issues. 
  <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083881268/texas-primary-is-an-early-test-of-new-voting-rules-republicans-passed-in-many-st">Texas primary is an early test of new voting rules Republicans passed in many states</a> NPR: In the Texas primary, Republican Gov. Greg Abbott and Democratic nominee Beto O'Rourke easily won their primaries. Attorney General Ken Paxton will head to a GOP runoff against George P. Bush. 
- <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083881198/morning-news-brief">News brief: Biden speech, Ukrainian civilian casualties, Texas primary</a> NPR: Biden's State of the Union speech addresses Ukraine, inflation and other topics. A view of the Russia-Ukraine crisis from western Ukraine. A wrap up of some of the races in the Texas primary. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/texas-primary-takeaways.html">Takeaways From the Texas Primary Elections</a> NYT: Republicans’ turnout swamped Democrats’, while progressives claimed wins in the first elections of the 2022 midterms. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
