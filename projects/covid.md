@@ -1356,7 +1356,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">138.0K</td>
-<td class="gt_row gt_right">61.9K</td>
+<td class="gt_row gt_right">62.3K</td>
 <td class="gt_row gt_right">&minus;55%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">68.7K</td>
@@ -1364,8 +1364,8 @@ html {
 <td class="gt_row gt_right gt_striped">&minus;43%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">2.3K</td>
-<td class="gt_row gt_right">1.9K</td>
-<td class="gt_row gt_right">&minus;19%</td></tr>
+<td class="gt_row gt_right">1.8K</td>
+<td class="gt_row gt_right">&minus;20%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">390.0K</td>
 <td class="gt_row gt_right gt_striped">185.0K</td>
@@ -1842,7 +1842,7 @@ html {
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">10.3K</td>
 <td class="gt_row gt_right gt_striped">8.3K</td>
-<td class="gt_row gt_right gt_striped">&minus;19%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;20%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">25.5M</td>
 <td class="gt_row gt_right">24.8M</td>
@@ -1887,7 +1887,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Tuesday, the 14-day percent change in average new deaths was:
   
 - -26% in Illinois
-- -19% in the United States
+- -20% in the United States
 - -20% worldwide
 
 <picture>
