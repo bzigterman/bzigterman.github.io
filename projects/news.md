@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:14 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
  <p class="updated_time"> 08:58 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
- <p class="updated_time"> 08:57 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
  <p class="updated_time"> 08:46 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60582210?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden vows 'freedom will triumph over tyranny'</a> BBC: "He has no idea what's coming," the US president says of economic retaliation against Vladimir Putin. 
  <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
@@ -209,8 +209,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-masks-00013054">The masks come off at Biden’s State of the Union address</a> Politico: Most attendees left their face coverings at home in accordance with the masks-optional guidance issued by the Capitol’s attending physician this week. 
  <p class="updated_time"> 09:24 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/supreme-court-justices-biden-state-of-the-union-00013043">These are the Supreme Court justices who showed up for Biden’s State of the Union</a> Politico: Justices Stephen Breyer, Elena Kagan, Brett Kavanaugh, Amy Coney Barrett and Chief Justice John Roberts were at the Capitol for the president’s speech. 
+ <p class="updated_time"> 09:14 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Biden Says Fighting Inflation Is ‘Top Priority’ as Prices Bite Consumers</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
+ <p class="updated_time"> 09:13 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Full Transcript of Biden’s State of the Union Address</a> NYT: President Biden delivered his annual State of the Union address. The following is a transcript of his remarks, as released by the White House. 
  <p class="updated_time"> 09:05 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-commerce-secretary-gina-raimondo-00013027">State of the Union’s designated survivor: Commerce Secretary Gina Raimondo</a> Politico: Presidents typically pick a top official to keep the government running in the event of a disaster that wipes out the line of presidential succession. 
+ <p class="updated_time"> 09:04 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083854104/biden-state-of-the-union-full-text-2022">Read President Biden's full State of the Union remarks</a> NPR: Read President Biden's first State of the Union address, according to prepared remarks from the White House. 
+ <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
  <p class="updated_time"> 08:57 PM CT, Mar. 01 </p> 
@@ -219,12 +227,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Abbott and O’Rourke Win Their Texas Primaries</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
  <p class="updated_time"> 08:54 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/capitol-state-of-the-union.html">At the Capitol, a New Normal Greets Biden</a> NYT: President Biden’s address unfolded in a Capitol still grappling with a pandemic and the aftermath of a deadly riot, and now confronting a war in Ukraine. 
- <p class="updated_time"> 08:41 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Biden Says Fighting Inflation Is ‘Top Priority’ as Prices Bite Consumers</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
  <p class="updated_time"> 08:37 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-panel-subpoenas.html">Jan. 6 Panel Subpoenas Lawyers Who Worked to Overturn Trump’s Loss</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
- <p class="updated_time"> 08:34 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Prepared Text of Biden’s State of the Union Address</a> NYT: President Biden is delivering his annual State of the Union address. The following is the prepared text of his remarks, as released by the White House. 
  <p class="updated_time"> 08:34 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083849185/state-of-the-union-two-women-history-made">For the 1st time, 2 women are seated behind the president during a State of the Union</a> NPR: Vice President Kamala Harris and House Speaker Nancy Pelosi sat behind Biden during his joint address to Congress last year, but that speech was not an official State of the Union address. 
  <p class="updated_time"> 08:24 PM CT, Mar. 01 </p> 
@@ -289,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:14 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083664589/ukrainians-arent-getting-u-s-intelligence-on-russia-fast-enough-sasse-says">Ukrainians aren't getting U.S. intelligence on Russia fast enough, Sasse says</a> NPR: NPR's Steve Inskeep talks to Republican Sen. Ben Sasse of Nebraska about the U.S. response to the Russian invasion of Ukraine. He is a member of the Senate Intelligence Committee. 
- <p class="updated_time"> 06:57 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
  <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
@@ -301,10 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083664540/state-of-the-union-speech-is-a-chance-for-biden-to-show-he-s-got-a-handle-on-cri">State of the Union speech is a chance for Biden to show he's got a handle on crises</a> NPR: President Biden is set to give his Tuesday night address at a moment when the White House is tackling the Ukraine crisis, soaring inflation and the lingering pandemic. 
  <p class="updated_time"> 04:05 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083664505/morning-news-brief">News brief: Russian military convoy, sanctions fallout, State of the Union</a> NPR: Satellite images show a convoy of Russian forces headed to Kyiv. The world is watching to see how sanctions impact Russia. President Biden will give his State of the Union address Tuesday night. 
- <p class="updated_time"> 04:01 AM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083228514/4-races-to-watch-in-the-texas-primary">4 races to watch in the Texas primary</a> NPR: Texas holds the first primaries of the midterms on Tuesday. Here are four races to watch — two congressional contests and two contests in which statewide Republicans have primary challengers. 
- <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">As Tanks Rolled Into Ukraine, So Did Malware. Then Microsoft Entered the War.</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
