@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:47 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 12:49 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: Surrounded, Key City Waits ‘for a Miracle’</a> NYT: Russia claimed to have seized the city, the Black Sea port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 12:44 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
@@ -21,7 +21,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:21 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-refugees-eu.html">E.U. Expected to Grant Blanket Protection to Ukrainian Refugees</a> NYT: Under the measure, which would apply to all Ukrainian nationals, refugees would be granted the right to live, study and work across the 27-member bloc for up to three years. 
  <p class="updated_time"> 12:04 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/arts/music/valery-gergiev-anna-netrebko-putin-ukraine.html">Valery Gergiev and Anna Netrebko's Putin Ties Threaten Their Careers</a> NYT: The Russian conductor Valery Gergiev and the diva Anna Netrebko have lost engagements because of their ties to Putin, as geopolitics and music collide once again. 
+ <a href="https://www.nytimes.com/2022/03/02/arts/music/ukraine-putin-valery-gergiev-anna-netrebko.html">Valery Gergiev and Anna Netrebko's Putin Ties Threaten Their Careers</a> NYT: The Russian conductor Valery Gergiev and the diva Anna Netrebko have lost engagements because of their ties to Putin, as geopolitics and music collide once again. 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60592658?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: EA removes Russian teams from Fifa 22 game</a> BBC: The games publisher says it "stands in solidarity with the Ukrainian people". 
  <p class="updated_time"> 11:51 AM CT, Mar. 02 </p> 
@@ -190,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-war-kharkiv.html">Russian Rocket Kills Civilians as First Talks Show No Progress</a> NYT: The deadly rocket assault on a residential area of Ukraine’s second-largest city signaled an escalation of Russian tactics, and overshadowed efforts at diplomacy. 
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">Tech Companies Help Defend Ukraine Against Cyberattacks</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
- <p class="updated_time"> 07:00 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/biden-ukraine-visas.html">Biden Administration Faces Pressure to Let Ukrainians Stay in U.S.</a> NYT: Senator Richard J. Durbin, Democrat of Illinois, has called on the administration to offer Temporary Protected Status to Ukrainians who are on short-term visas or have no documentation. 
  <p class="updated_time"> 06:47 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/us-russian-diplomats-un.html">U.S. Expels 12 Russian Diplomats for Spying </a> NYT: The move is part of a larger effort to isolate Russia diplomatically and economically since it invaded Ukraine last week. 
  <p class="updated_time"> 06:23 PM CT, Feb. 28 </p> 
@@ -216,7 +214,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
  <p class="updated_time"> 11:48 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/gas-pipelines-cyber-risk-00011898">Gas pipelines pose a growing cyber risk for U.S. power supply</a> Politico: Nearly 40 percent of the nation's electricity comes from plants burning natural gas, almost all of it arriving by pipelines whose systems offer a ripe target for sabotage. 
+ <a href="https://www.politico.com/news/2022/03/02/gas-pipelines-cyber-risk-00011898">Russian hacking threat hovers over U.S. gas pipelines</a> Politico: Nearly 40 percent of the nation's electricity comes from plants burning natural gas, almost all of it arriving by pipelines whose systems offer a ripe target for sabotage. 
  <p class="updated_time"> 11:44 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/economy/sarah-bloom-raskin-biden-fed.html">Biden’s Fed Nominees Are Frozen as One Faces Republican Questions</a> NYT: Sarah Bloom Raskin, his choice for the Federal Reserve’s head of bank oversight, has faced staunch G.O.P. opposition over her climate views. Yet her private sector work is holding up her nomination. 
  <p class="updated_time"> 11:39 AM CT, Mar. 02 </p> 
@@ -343,8 +341,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-social-media.html">Biden Will Call for More Limits on Social Media in State of the Union Address</a> NYT: Mr. Biden will ask Congress to ban targeted ads aimed at children on social media sites, among other measures. 
  <p class="updated_time"> 01:53 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over Republican agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
- <p class="updated_time"> 01:35 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/canada-icc-russia-war-crimes-00012803">Canada wants ICC probe of Russia for alleged war crimes</a> Politico: Joly: 'Canada will petition the International Criminal Court of justice against Russia.' 
  <p class="updated_time"> 01:03 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/business-groups-russia-oligarch-ties-00012826">Business groups quickly take down their Russian oligarch ties</a> Politico: Names are disappearing from websites, and people are stepping down from boards in the wake of aggressive sanctions. 
  <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
