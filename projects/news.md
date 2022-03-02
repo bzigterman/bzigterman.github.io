@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 01:40 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: Surrounded, Key City Waits ‘for a Miracle’</a> NYT: Russia claimed to have seized the city, the Black Sea port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
@@ -208,7 +208,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins her congressional charm offensive</a> Politico: The Supreme Court nominee met with the Senate majority and minority leaders Wednesday, and is set to sit with Judiciary Committee leaders in the afternoon. 
  <p class="updated_time"> 01:08 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/trump-hotels-ceo-eric-danziger.html">Trump Hotel C.E.O. Leaves a Shrinking Brand</a> NYT: Eric Danziger was the only outsider to lead the Trump hotel group. His departure, for family reasons, comes as the Trumps pursue a future beyond hotels. 
+ <a href="https://www.nytimes.com/2022/03/02/business/trump-hotel-eric-danziger.html">Trump Hotel C.E.O. Leaves a Shrinking Brand</a> NYT: Eric Danziger was the only outsider to lead the Trump hotel group. His departure, for family reasons, comes as the Trumps pursue a future beyond hotels. 
  <p class="updated_time"> 01:08 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083927329/federal-reserve-interest-rates-inflation-ukraine-russia">The Federal Reserve is ready to raise interest rates soon despite the war in Ukraine</a> NPR: Fed Chair Jerome Powell says the central bank is prepared to begin raising interest rates this month to fight inflation despite economic uncertainty after Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Mar. 02 </p> 
@@ -236,7 +236,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/03/02/1083792436/why-billions-in-medicaid-funds-for-people-with-disabilities-are-being-held-up">Why billions in Medicaid funds for people with disabilities are being held up</a> NPR: Almost a year after the American Rescue Plan Act allocated up to $25 billion to home and community-based services run by Medicaid, many states have yet to access the funds due to delays and red tape. 
  <p class="updated_time"> 09:30 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083905865/the-white-house-has-a-new-plan-for-covid-19-aimed-at-getting-things-back-to-norm">The White House has a new plan for COVID-19 aimed at getting things back to normal</a> NPR: If you think you might have COVID, you'll be able to get tested at a pharmacy and treated with antiviral drugs right away, under the next phase of the pandemic plan. 
+ <a href="https://www.npr.org/2022/03/02/1083905865/the-white-house-has-a-new-plan-for-covid-19-aimed-at-getting-things-back-to-norm">The White House has a new plan for COVID-19 aimed at getting things back to normal</a> NPR: If you think you might have COVID and are at high risk, you may be able to get tested at a clinic and treated with antiviral drugs right away, under the next phase of the pandemic plan. 
  <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html">The State of the Union: Together, if Only for a Few Minutes</a> NYT: President Biden brought a cheerleading tone to a normal-ish address for very abnormal times. 
  <p class="updated_time"> 08:22 AM CT, Mar. 02 </p> 
