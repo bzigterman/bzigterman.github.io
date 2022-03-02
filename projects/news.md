@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: Surrounded, Key City Waits ‘for a Miracle’</a> NYT: Russia claimed to have seized the city, the Black Sea port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 12:44 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
+ <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
  <p class="updated_time"> 12:33 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention. 
  <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
- <p class="updated_time"> 12:28 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
- <p class="updated_time"> 12:26 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
  <p class="updated_time"> 12:21 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-refugees-eu.html">E.U. Expected to Grant Blanket Protection to Ukrainian Refugees</a> NYT: Under the measure, which would apply to all Ukrainian nationals, refugees would be granted the right to live, study and work across the 27-member bloc for up to three years. 
  <p class="updated_time"> 12:04 PM CT, Mar. 02 </p> 
@@ -67,11 +69,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:35 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
  <p class="updated_time"> 06:53 AM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/as-russian-invasion-in-ukraine-widens-the-wests-options-shrink-11646243596">As Russian Invasion Widens, the West's Options Shrink</a> WSJ: The U.S. and its NATO allies are coming under increasing pressure to do more to help Ukraine, even as they face diminishing options for doing so. 
+ <a href="https://www.wsj.com/articles/as-russian-invasion-in-ukraine-widens-the-wests-options-shrink-11646243596">As Russian Invasion Widens, the West's Options Shrink</a> WSJ: The U.S. and its NATO allies are coming under pressure to do more to help Ukraine, even as they face diminishing options for doing so. 
  <p class="updated_time"> 06:29 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60583926?at_medium=RSS&at_campaign=KARANGA">Are Russia's attacks war crimes?</a> BBC: As Russia's invasion of Ukraine continues, does what we’re witnessing amount to war crimes? 
- <p class="updated_time"> 06:10 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
  <p class="updated_time"> 06:08 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-war-end-putin-sanctions-troops-11646240527">How Might the War in Ukraine End? Five Factors Will Shape the Outcome</a> WSJ: Russian forces have performed poorly thus far, but Ukraine’s military is expected to eventually crack. What then? 
  <p class="updated_time"> 06:04 AM CT, Mar. 02 </p> 
@@ -211,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins her congressional charm offensive</a> Politico: The Supreme Court nominee met with the Senate majority and minority leaders Wednesday, and is set to sit with Judiciary Committee leaders in the afternoon. 
  <p class="updated_time"> 12:46 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/russia-space-chief-hacking-satellites-war-00013211">Russia's space chief says hacking satellites 'a cause for war'</a> Politico: Yet Dmitry Rogozin denied a report that a cyber group had shut down satellite operations. 
+ <p class="updated_time"> 12:37 PM CT, Mar. 02 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
  <p class="updated_time"> 11:48 AM CT, Mar. 02 </p> 
@@ -241,8 +243,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Not Worth the Trouble, Some Traders Conclude</a> NYT: European buyers, shippers, banks and insurers have grown leery of doing business with Russia in recent days, even at deep discounts. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:08 AM CT, Mar. 02 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:21 AM CT, Mar. 02 </p> 
  <a href="https://www.cnn.com/2022/03/02/politics/texas-2022-primary-election-takeaways/index.html">6 takeaways from the Texas primaries</a> CNN: Two of the biggest names in Texas politics could be headed to overtime in their efforts to fend off primary challengers. 
  <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
@@ -329,8 +329,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/steve-sisolak-nevada-accosted.html">Nevada Gov. Steve Sisolak Is Accosted by Man Who Threatens to Hang Him</a> NYT: The governor was dining with his wife and daughter at a Las Vegas restaurant when a man asked him for a photo together before going into a profanity-laced rant. 
  <p class="updated_time"> 07:30 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/texas-primary-results-2022-00013001">Cuellar pulled into runoff after primary brawl</a> Politico: The Democratic congressman is facing a challenge from the left in South Texas, headlining the first contests of the 2022 midterms. 
- <p class="updated_time"> 06:15 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-manchin-00012989">Biden throws a line to Joe Manchin and hopes he bites</a> Politico: The president will emphasize deficit reduction in his State of the Union address. Officials say it’s not part of a larger philosophical shift. 
  <p class="updated_time"> 06:10 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/abbott-sued-texas-transgender-care-investigation-order-00012917">Abbott sued over Texas transgender care investigation order</a> Politico: Civil rights groups, a clinical psychologist and the family of a Texas child protection worker have sued Gov. Greg Abbott and the state. 
  <p class="updated_time"> 06:00 PM CT, Mar. 01 </p> 
