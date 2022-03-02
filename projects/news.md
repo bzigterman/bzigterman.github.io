@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:02 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 09:11 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 09:02 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">In Odessa, Ukrainians build defenses and wait for attacks.</a> NYT: Residents of Ukraine’s critical port on the Black Sea are bracing as Russian naval and ground forces approach.  “Every day they make it seem like today is the day,” the mayor said. 
@@ -50,14 +50,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/hong-kong-covid.html">Hong Kong, Buckling Under Covid, Leaves Its Most Vulnerable in the Cold</a> NYT: Poor residents have been forced to choose between infecting their families or sleeping outdoors because of cramped living quarters and a lack of isolation facilities. 
+ <p class="updated_time"> 03:53 AM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/amid-ukraine-war-airlines-plot-detours-around-russia-as-flight-bans-intensify-11646232786">Airlines Plot Detours Around Russia</a> WSJ: Longer routes that avoid Russian airspace are likely to translate into higher fares and cargo rates, further disrupting already strained global supply chains. 
  <p class="updated_time"> 03:44 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585633?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv university ablaze after Russian missile hit</a> BBC: Video shows firefighters tackling a blaze at the Karazin National University in Ukraine's second city. 
  <p class="updated_time"> 03:33 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60584602?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Crowd surround car with Russian markings</a> BBC: Watch as a crowd in the north-eastern city of Kupiansk try to stop the vehicle from leaving. 
  <p class="updated_time"> 03:25 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-diplomatic-push-for-ukraine-falters-in-a-middle-east-influenced-by-russia-11646214130">U.S. Diplomatic Push for Ukraine Falters in a Middle East Influenced by Russia</a> WSJ: From the Persian Gulf’s oil-rich monarchies to Israel, U.S. allies and partners are staying neutral or tempering their criticism of Moscow in a revealing sign of Russia’s growing influence in the region. 
+ <p class="updated_time"> 03:16 AM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-weighs-methods-for-relaxing-zero-covid-19-grip-bubbles-drugs-and-new-messaging-11646230580">China Weighs Methods for Relaxing Zero-Covid-19 Grip</a> WSJ: The world’s strictest pandemic-control regime likely won’t be relaxed until next year, but experimental opening measures could come as soon as summer. 
  <p class="updated_time"> 02:34 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/beijings-careful-line-on-conflict-clouds-outlook-for-its-citizens-in-ukraine-11646217353">Beijing's Careful Line on Conflict Clouds Outlook for Its Citizens in Ukraine</a> WSJ: After playing down U.S. warnings of a Russian invasion, China is struggling to evacuate its citizens—while fighting a perception in Ukraine that it has sided with Moscow. 
+ <p class="updated_time"> 02:09 AM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-eying-taiwan-gets-lesson-from-ukraines-stiff-resistance-11646226559">China, Eying Taiwan, Gets Lesson From Ukraine's Stiff Resistance</a> WSJ: Analysts say it is unlikely that Beijing, having seen Russia’s troubles in Ukraine, would give up the option of absorbing Taiwan by force. Instead, Moscow’s slow progress shows the value of overwhelming initial strikes that some assume China would make in any assault on the island. 
  <p class="updated_time"> 01:58 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60583924?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Walkout at UN as Russian foreign minister Sergey Lavrov speaks</a> BBC: Watch the moment diplomats in Geneva turned their backs on Sergey Lavrov as he spoke via video link. 
  <p class="updated_time"> 01:43 AM CT, Mar. 02 </p> 
@@ -202,8 +208,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/mars-russia-europe-rover.html">Planned Europe-Russia Joint Mars Mission Called “Very Unlikely”</a> NYT: The ExoMars mission, postponed in 2020 because of the pandemic and technical issues, may miss its window to launch this year because of sanctions imposed against Russia over the invasion of Ukraine. 
  <p class="updated_time"> 04:38 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
- <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/asia/afghan-evacuation-kabul.html">The One Item They Had to Take When These 6 Afghans Fled</a> NYT: More than 120,000 people were airlifted out of Afghanistan last August, most with just a few hours to gather their belongings. Here are some of the keepsakes they chose. 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60559574?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What are the nuclear risks?</a> BBC: Russia's nuclear forces are on "special alert" - what does that mean and how worried should we be? 
 
@@ -213,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:21 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: The Federal Reserve chair said the central bank was likely to raise interest rates at its meeting this month, even with geopolitical upheaval. 
  <p class="updated_time"> 08:27 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
