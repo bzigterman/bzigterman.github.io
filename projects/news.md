@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:36 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 03:47 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Russian Forces Claim to Control Key Ukrainian Port City</a> NYT: Ukraine’s military disputed the claim and said it was still battling to hold Kherson, in the south of the country. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 03:44 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60585633?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv university ablaze after Russian missile hit</a> BBC: Video shows firefighters tackling a blaze at the Karazin National University in Ukraine's second city. 
  <p class="updated_time"> 03:33 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60584602?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Crowd surround car believed to be Russian</a> BBC: Watch as a crowd in the north-eastern city of Kupiansk try to stop the vehicle from leaving. 
  <p class="updated_time"> 02:44 AM CT, Mar. 02 </p> 
@@ -32,14 +34,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
  <p class="updated_time"> 10:52 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
+ <p class="updated_time"> 10:41 PM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Ukraine's Kharkiv Front Line Holds Despite Bombardment</a> WSJ: Russian forces resumed airstrikes on Ukraine’s second-largest city and continued pounding other cities as they sought to break the will of Ukraine’s resistance on the seventh day of the war. 
  <p class="updated_time"> 10:17 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60582210?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden threatens to punish Putin over invasion</a> BBC: The US president calls Russia's president a "dictator" and vows to punish him over the Ukraine invasion. 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html">Russia Escalates Attacks on Ukraine as Refugee Numbers Surge</a> NYT: There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor. 
  <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
- <p class="updated_time"> 08:51 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60517569?at_medium=RSS&at_campaign=KARANGA">Standing ovation for Ukrainian ambassador at Biden's State of the Union address</a> BBC: President Biden says the US stands with Ukraine and must send a message to the rest of the world. 
  <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 08:10 PM CT, Mar. 01 </p> 
