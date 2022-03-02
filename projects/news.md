@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:43 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 07:53 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 07:50 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
  <p class="updated_time"> 07:35 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
  <p class="updated_time"> 06:46 AM CT, Mar. 02 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
- <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/28/arts/design/russian-artists-ukraine-venice-biennale.html">Russian Artists Speak Out Against War, but Fear Reprisals</a> NYT: Two Russian artists have pulled out of the Venice Biennale and thousands are signing antiwar petitions. 
  <p class="updated_time"> 05:30 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60571615?at_medium=RSS&at_campaign=KARANGA">Syria shopping centre blaze kills 11</a> BBC: The entire six-storey building went up in flames, killing security guards and staff. 
  <p class="updated_time"> 05:23 AM CT, Mar. 01 </p> 
@@ -319,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-ukraine-midterms.html">As Biden Speaks, Ukraine Crisis Escalates and Midterm Elections Start</a> NYT: As President Biden delivers his first formal State of the Union address, Russia’s invasion of Ukraine escalates and the midterms begin in earnest in Texas. 
  <p class="updated_time"> 05:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/wisconsin-republicans-election-report.html">Wisconsin Republicans’ Election Report Endorses Debunked Legal Theories</a> NYT: A former State Supreme Court justice leading an investigation into the 2020 election said lawmakers should “take a very hard look” at trying to decertify President Biden’s victory in Wisconsin. 
- <p class="updated_time"> 05:23 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/new-york-republicans-giuliani-trump-convention-00012885">‘Screw the Republicans’: New York’s GOP forgets Trump and angers Giuliani at convention</a> Politico: Former President Donald Trump was little mentioned during the festivities on Long Island as Republicans in New York look to win their first statewide seat since 2002. 
  <p class="updated_time"> 04:42 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:37 PM CT, Mar. 01 </p> 
@@ -331,6 +329,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/business/media/sarah-palin-new-york-times-trial.html">Judge Says Sarah Palin ‘Failed to Prove Her Case’ Against The Times</a> NYT: In a written opinion explaining his decision to dismiss Ms. Palin’s defamation case, Judge Jed S. Rakoff also stated his faith in the integrity of the jury. 
  <p class="updated_time"> 04:20 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/texas-child-abuse-trans-youth.html">Texas Investigates Parents Over Care for Transgender Youth, Suit Says</a> NYT: The investigations by the state’s Department of Family and Protective Services started last week with an employee of the agency, according to the suit, after Gov. Greg Abbott called for such inquiries. 
+ <p class="updated_time"> 04:05 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/white-house-blueprint-next-covid-phase-00012954">White House to unveil blueprint for the next Covid phase</a> Politico: The document will be put out after the State of the Union address and chart a more cautiously optimistic path forward. 
  <p class="updated_time"> 03:52 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/supreme-court-pill-mills.html">Supreme Court Hears Case of Doctors Accused of Running Pill Mills</a> NYT: Drawing on childhood grammar lessons, the justices considered whether the doctors were entitled to argue that they had acted in good faith. 
  <p class="updated_time"> 03:31 PM CT, Mar. 01 </p> 
