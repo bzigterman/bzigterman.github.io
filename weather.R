@@ -135,9 +135,9 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
                                "pop" = "Precip%",
                                "rain" = "Rain",
                                "snow" = "Snow",
-                               "humidity" = "Humidity",
+                               "clouds" = "Clouds",
                                "wind_speed" = "Wind",
-                               "clouds" = "Clouds"))
+                               "humidity" = "Humidity"))
 
 # facet ----
 ggplot(champaign_forecast_longer,
