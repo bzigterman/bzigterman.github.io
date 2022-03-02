@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:03 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 05:19 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 05:19 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
+ <p class="updated_time"> 05:03 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
  <p class="updated_time"> 05:02 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 04:49 PM CT, Mar. 02 </p> 
@@ -22,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-shelters.html">15,000 Are Sheltering in Kyiv’s Subway</a> NYT: People sleep three or four to a mattress and plastic food bags litter the scene, while mothers search endlessly on their phones for news of the war. 
  <p class="updated_time"> 04:25 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
- <p class="updated_time"> 04:14 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
  <p class="updated_time"> 04:13 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:09 PM CT, Mar. 02 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60571737?at_medium=RSS&at_campaign=KARANGA">Ukraine: Watching the war on Russian TV - a whole different story</a> BBC: The war in Ukraine has led to outrage in the West, but in Russia TV viewers see a very different story. 
  <p class="updated_time"> 07:12 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60559014?at_medium=RSS&at_campaign=KARANGA">Ukraine's tech community rises to challenges of war</a> BBC: From an app to alert people to sirens, to organising supplies, tech firms are helping the war effort. 
- <p class="updated_time"> 06:29 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/asia/south-korea-diversity-muslims.html">Mosque Dispute Becomes Flash Point in South Korean Identity Politics</a> NYT: A mosque dispute in a conservative city has forced some South Koreans to confront what it means to live in an increasingly diverse society. 
  <p class="updated_time"> 06:19 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russia-troops-pentagon.html">Some Russian Troops Are Surrendering Rather Than Fighting, Pentagon Says</a> NYT: A significant number of the Russian troops are young conscripts who are poorly trained and ill-prepared for the all-out assault, a senior official said. 
  <p class="updated_time"> 05:57 PM CT, Mar. 01 </p> 
@@ -210,7 +210,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:18 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/uae-ukrainians-visa-free-travel-00013370">UAE will continue to allow Ukrainians visa-free travel</a> Politico: The gas and oil-rich Middle East state has walked a fine line between Russia interests and its U.S. and Ukraine ties. 
  <p class="updated_time"> 05:06 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/first-jan-6-trial-opening-arguments.html">Prosecutors Open Arguments in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
  <p class="updated_time"> 05:02 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, U.S. Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
@@ -254,7 +254,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246">Dems agonize over Manchin's wish list: Taxes, prescription drugs, climate cash</a> Politico: "And the social issues, we basically have to deal with those" afterward, the West Virginia centrist said in a post-State of the Union interview. 
  <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins her congressional charm offensive</a> Politico: The Supreme Court nominee met with the Senate majority and minority leaders Wednesday, and is set to sit with Judiciary Committee leaders in the afternoon. 
+ <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins speedy confirmation blitz</a> Politico: The Supreme Court nominee met with senators Wednesday as Democrats scheduled her first confirmation hearing for March 21. 
  <p class="updated_time"> 01:08 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083927329/federal-reserve-interest-rates-inflation-ukraine-russia">The Federal Reserve is ready to raise interest rates soon despite the war in Ukraine</a> NPR: Fed Chair Jerome Powell says the central bank is prepared to begin raising interest rates this month to fight inflation despite economic uncertainty after Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:46 PM CT, Mar. 02 </p> 
@@ -271,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/prosecutors-first-jan-6-trial-00013197">‘The tip of this mob’s spear’: Prosecutors begin first Jan. 6 trial</a> Politico: The trial is one of the most significant tests of the government’s yearlong investigation into the Capitol attack. 
  <p class="updated_time"> 10:56 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/biden-covid-plan-00013186">Biden wants to move U.S. past Covid. Here's his plan to do it</a> Politico: The strategy represents a major milestone for the president after a first year consumed by the pandemic. 
- <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
  <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
@@ -327,6 +325,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/capitol-state-of-the-union.html">At the Capitol, Biden Confronts a New Normal</a> NYT: President Biden’s address unfolded in a Capitol still grappling with a pandemic and the aftermath of a deadly riot, and now facing a war in Ukraine. 
  <p class="updated_time"> 10:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Unity in a Foreign Policy Crisis, but Questions Still to be Answered</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
+ <p class="updated_time"> 10:27 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
+ <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/biden-tough-russia-ukraine-00013058">Biden promises punishment for Putin, pledges to lessen impact on U.S.</a> Politico: The Russian president, he said, “badly miscalculated” in invading Ukraine. 
  <p class="updated_time"> 09:26 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-transcript-full-text-00013009">Full text: Biden State of the Union 2022 transcript</a> Politico: President Joe Biden delivered his first State of the Union address on March 1. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
@@ -335,8 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/canada-g-7-russia-ukraine-sanctions-00012938">Canada: G-7 set to launch more sanctions against Russia's 'failing kleptocracy'</a> Politico: Freeland: "If you make war on the rules-based international order, we're going to cut you out of the global economy." 
  <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/u-s-bans-russian-flights-00013007">U.S. bans all Russian flights from its airspace</a> Politico: The U.S. airline industry had already been withdrawing from serving Russia. 
- <p class="updated_time"> 07:49 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/exxon-russia-ukraine-energy-00013003">Exxon to leave Russian energy project, halt new investments in the country</a> Politico: Exxon, the operator of the Sakhalin-1 LNG project will start a “carefully managed” exit, the company said in a press release. 
  <p class="updated_time"> 07:42 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/gina-raimondo-sotu-designated-survivor.html">State of the Union Designated Survivor Is Gina Raimondo</a> NYT: The official is designated to watch the speech from afar in the event catastrophe strikes the Capitol while most of the government leaders are inside. 
  <p class="updated_time"> 07:39 PM CT, Mar. 01 </p> 
