@@ -131,13 +131,13 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
                values_to = "values") %>%
   select(central_time,names,values) %>%
   mutate(names = recode_factor(names, 
-                               "temp" = "°F",
-                               "pop" = "Precip%",
-                               "rain" = "Rain",
-                               "snow" = "Snow",
-                               "clouds" = "Clouds",
+                               "temp"       = "°F",
+                               "pop"        = "Precip%",
+                               "rain"       = "Rain",
+                               "snow"       = "Snow",
+                               "clouds"     = "Clouds",
                                "wind_speed" = "Wind",
-                               "humidity" = "Humidity"))
+                               "humidity"   = "Humidity"))
 
 # facet ----
 ggplot(champaign_forecast_longer,
