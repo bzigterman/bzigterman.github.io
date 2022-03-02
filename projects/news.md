@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/australia/new-zealand-protest-vaccine.html">New Zealand Police Move to End Protest, and Violence Erupts</a> NYT: Fires and violence at a protest opposing vaccine mandates were a rare sight in a country known for its relative serenity and stability. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: The battles for Kyiv and Kharkiv</a> BBC: Russia urges people to leave Kyiv before air strikes as its paratroopers land in second-city Kharkiv. 
  <p class="updated_time"> 04:25 AM CT, Mar. 02 </p> 
@@ -202,8 +204,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/ukraine-russia-talks-belarus.html">Initial Talks Between Russia and Ukraine Yield No Resolution </a> NYT: Russia’s delegation leader said the next meeting would take place once more along the Ukraine-Belarus border in the “coming days.” 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60559574?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What are the nuclear risks?</a> BBC: Russia's nuclear forces are on "special alert" - what does that mean and how worried should we be? 
- <p class="updated_time"> 09:44 AM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/health/pfizer-vaccine-kids.html">Pfizer Shot Is Far Less Effective in 5- to 11-Year-Olds Than in Older Kids, New Data Show</a> NYT: While protection against hospitalization is still strong, the vaccine offered almost no protection against infection, even just a month after full vaccination. 
 
 
 </details>
