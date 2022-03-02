@@ -8,8 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:13 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 08:48 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 08:44 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/03/02/1083314101/photos-record-breaking-floods-devastate-eastern-australia">Photos: Record-breaking floods devastate eastern Australia</a> NPR: Thousands have been ordered to evacuate as the southeast coast of Australia experiences the worst flood in decades. 
+ <p class="updated_time"> 08:26 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
+ <p class="updated_time"> 08:19 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/also-at-stake-in-ukraine-the-future-of-two-orthodox-churches.html">Also at Stake in Ukraine: the Future of Two Orthodox Churches</a> NYT: The Russian church hopes to reunite with the independent Ukrainian branch under a single patriarch in Moscow that would allow it to control the holiest sites of Orthodoxy in the Slavic world. 
+ <p class="updated_time"> 08:14 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60590515?at_medium=RSS&at_campaign=KARANGA">Plastic pollution: Green light for 'historic' global treaty</a> BBC: Nearly 200 countries agree to start negotiations on a global treaty to tackle the plastic "crisis". 
  <p class="updated_time"> 08:12 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple, Nike and Google join brands limiting services</a> BBC: Customers won't be able to use Apple Pay, while sportswear firm Nike is no longer taking online orders. 
  <p class="updated_time"> 08:12 AM CT, Mar. 02 </p> 
@@ -18,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 07:53 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/indian-student-ukraine-death.html">Death of Indian Student in Ukraine Shows Plight of Thousands</a> NYT: Naveen Shekharappa was killed when he left a bunker in Kharkiv to fetch food, officials and his family members said. 
- <p class="updated_time"> 07:50 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
  <p class="updated_time"> 07:35 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
  <p class="updated_time"> 06:29 AM CT, Mar. 02 </p> 
@@ -44,6 +50,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60585633?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv university ablaze after Russian missile hit</a> BBC: Video shows firefighters tackling a blaze at the Karazin National University in Ukraine's second city. 
  <p class="updated_time"> 03:33 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60584602?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Crowd surround car with Russian markings</a> BBC: Watch as a crowd in the north-eastern city of Kupiansk try to stop the vehicle from leaving. 
+ <p class="updated_time"> 03:25 AM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-diplomatic-push-for-ukraine-falters-in-a-middle-east-influenced-by-russia-11646214130">U.S. Diplomatic Push for Ukraine Falters in a Middle East Influenced by Russia</a> WSJ: From the Persian Gulf’s oil-rich monarchies to Israel, U.S. allies and partners are staying neutral or tempering their criticism of Moscow in a revealing sign of Russia’s growing influence in the region. 
  <p class="updated_time"> 02:34 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/beijings-careful-line-on-conflict-clouds-outlook-for-its-citizens-in-ukraine-11646217353">Beijing's Careful Line on Conflict Clouds Outlook for Its Citizens in Ukraine</a> WSJ: After playing down U.S. warnings of a Russian invasion, China is struggling to evacuate its citizens—while fighting a perception in Ukraine that it has sided with Moscow. 
  <p class="updated_time"> 01:58 AM CT, Mar. 02 </p> 
@@ -58,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Ukraine's Kharkiv Front Line Holds Despite Bombardment</a> WSJ: Russian forces resumed airstrikes on Ukraine’s second-largest city and continued pounding other cities as they sought to break the will of Ukraine’s resistance on the seventh day of the war. 
  <p class="updated_time"> 12:18 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083873339/new-zealand-protesters-set-fires-as-police-break-up-camp">New Zealand protesters set fires as police break up camp</a> NPR: The police action was the most significant use of force to date by authorities against the protesters, who oppose coronavirus vaccine mandates. 
- <p class="updated_time"> 12:16 AM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-diplomatic-push-for-ukraine-falters-in-a-middle-east-influenced-by-russia-11646214130">U.S. Diplomatic Push for Ukraine Falters in a Middle East Influenced by Russia</a> WSJ: From the Persian Gulf’s oil-rich monarchies to Israel, U.S. allies and partners are staying neutral or tempering their criticism of Moscow in a revealing sign of Russia’s growing influence in the region. 
  <p class="updated_time"> 12:00 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/foreign-refugees-fleeing-ukraine-say-they-were-held-for-days-at-border-11646218800">Black, Asian and Middle Eastern Refugees Fleeing Ukraine Are Blocked at Border</a> WSJ: People from Africa, South Asia and the Middle East say they were pulled aside, as guards prioritized Ukrainians. 
  <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
@@ -128,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083694731/u-s-russian-cultural-organizations-ukraine">U.S. Russian cultural organizations fear boycotts over the war</a> NPR: Some U.S.-based institutions have publicly denounced Russia's invasion of Ukraine to show they don't represent the Russian government. 
  <p class="updated_time"> 02:25 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083686606/ukraine-russia-civilian-casualties-syria">Russia showed its playbook in Syria. Here's what it may mean for civilians in Ukraine</a> NPR: The lessons of Moscow's involvement in Syria's civil war stand as a specter of the heavy-handed playbook experts fear could be used on an even larger and more deadly scale in Ukraine. 
- <p class="updated_time"> 02:19 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60579640?at_medium=RSS&at_campaign=KARANGA">Ship carrying 4,000 luxury cars sinks off the Azores</a> BBC: A ship carrying thousands of luxury cars has sunk nearly two weeks after it caught fire. 
  <p class="updated_time"> 02:18 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/congo-cobalt-mining-china.html">Chinese Company Removed as Operator of Cobalt Mine in Congo</a> NYT: A court has given the Congolese control of one of the world’s largest sources of cobalt while allegations against the mine’s Chinese owners are investigated. 
  <p class="updated_time"> 01:33 PM CT, Mar. 01 </p> 
@@ -138,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083677765/putin-denazify-ukraine-russia-history">Putin's claim of fighting against Ukraine 'neo-Nazis' distorts history, scholars say</a> NPR: Scholars dismiss the Russian leader's claims as a "mythical use of history." For one: Ukraine overwhelmingly elected a Jewish president, and has a relatively small right-wing movement. 
  <p class="updated_time"> 01:01 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083696555/russia-ukraine-war-putin-nuclear-escalation-risk">As Russia's Ukraine war intensifies, some warn nuclear escalation is possible</a> NPR: Russian President Vladimir Putin gave orders to his nation's nuclear forces over the weekend, but their exact meaning is unclear. Russia has more nuclear weapons than any other nation. 
- <p class="updated_time"> 01:01 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083733700/russias-40-mile-convoy-has-stalled-on-its-way-to-kyiv-a-u-s-official-says">Russia's 40-mile convoy has stalled on its way to Kyiv, a U.S. official says</a> NPR: The convoy is apparently being hampered by fuel and food shortages, the official says. The news comes as Russia continues to concentrate attacks on Ukraine's largest cities: Kyiv and Kharkiv. 
  <p class="updated_time"> 12:05 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60576443?at_medium=RSS&at_campaign=KARANGA">No-fly zone: What it means and why the West won't act</a> BBC: Ukraine has asked Western powers to consider imposing a no-fly zone to stop Russian air assaults. 
  <p class="updated_time"> 12:03 PM CT, Mar. 01 </p> 
@@ -209,6 +211,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:27 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
+ <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html">The State of the Union: Together, if Only for a Few Minutes</a> NYT: President Biden brought a cheerleading tone to a normal-ish address for very abnormal times. 
+ <p class="updated_time"> 08:22 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/style/at-the-state-of-the-union-dressing-for-ukrainian-solidarity.html">At the State of the Union, Dressing for Ukrainian Solidarity</a> NYT: Red, white (yellow) and blue were on display as President Biden addressed Congress. 
+ <p class="updated_time"> 08:14 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-will-cite-tremendous-progress-against-an-unpredictable-virus.html">Biden announces initiative to pair coronavirus tests with treatment.</a> NYT: The “test to treat” initiative will enable Americans to get tested at pharmacies and, if they are positive for the virus, get antiviral treatments free on the spot, the president said. 
  <p class="updated_time"> 08:01 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Not Worth the Trouble, Some Traders Conclude</a> NYT: European buyers, shippers, banks and insurers have grown leery of doing business with Russia in recent days, even at deep discounts. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
@@ -240,11 +250,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083881198/morning-news-brief">News brief: Biden speech, Ukrainian civilian casualties, Texas primary</a> NPR: Biden's State of the Union speech addresses Ukraine, inflation and other topics. A view of the Russia-Ukraine crisis from western Ukraine. A wrap up of some of the races in the Texas primary. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-will-cite-tremendous-progress-against-an-unpredictable-virus.html">Biden announces initiative to pair coronavirus tests with treatment.</a> NYT: The “test to treat” initiative will enable Americans to get tested at pharmacies and, if they are positive for the virus, get antiviral treatments free on the spot, the president said. 
- <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/texas-primary-takeaways.html">Takeaways From the Texas Primary Elections</a> NYT: Republicans’ turnout swamped Democrats’, while progressives claimed wins in the first elections of the 2022 midterms. 
- <p class="updated_time"> 03:32 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 01:54 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083785432/biden-state-of-the-union-recap">5 takeaways from Biden's State of the Union address</a> NPR: The president painted an optimistic view of life amid the pandemic in front of a Congress that appeared to be more unified than in recent years. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
