@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:29 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 03:10 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Russian Forces Move to Encircle Key Ukrainian Cities</a> NYT: Explosions struck the capital, Kyiv, and Russian troops are laying siege to Kharkiv. In his first State of the Union address, President Biden said that Moscow would “pay a price” for the invasion. 
+ <p class="updated_time"> 02:44 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: The battles for Kyiv and Kharkiv</a> BBC: Russia urges people to leave Kyiv before air strikes as its paratroopers land in second-city Kharkiv. 
  <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 12:18 AM CT, Mar. 02 </p> 
@@ -38,6 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083844823/exxonmobil-joins-business-exodus-from-russia-after-decades-of-close-ties">ExxonMobil joins business exodus from Russia after decades of close ties</a> NPR: The American oil and gas giant is "beginning the process to discontinue operations" at the Sakhalin-1 project off Russia's eastern coast. The company also says it won't make new investments in Russia. 
  <p class="updated_time"> 07:45 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-european-union-membership.html">Why Joining the E.U. May Not Be Easy for Ukraine</a> NYT: Russia’s invasion of Ukraine is helping to focus minds in Brussels. But the country has big hurdles to overcome before it can join the E.U., the world’s biggest trading bloc. 
+ <p class="updated_time"> 07:45 PM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/new-zealand-police-battle-protesters-to-end-occupation-of-parliament-grounds-11646203516">New Zealand Police Battle Protesters to End Occupation of Parliament Grounds</a> WSJ: Authorities met resistance as they tore down tents and towed away vehicles in an area dubbed “Freedom Village.” 
  <p class="updated_time"> 07:13 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60571737?at_medium=RSS&at_campaign=KARANGA">Ukraine: Watching the war on Russian TV - a whole different story</a> BBC: The war in Ukraine has led to outrage in the West, but in Russia TV viewers see a very different story. 
  <p class="updated_time"> 07:12 PM CT, Mar. 01 </p> 
@@ -64,8 +68,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:26 PM CT, Mar. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-expected-to-ban-russian-flights-from-american-airspace-11646178615">U.S. to Ban Russian Flights From American Airspace</a> WSJ: The move follows similar prohibitions by European and Canadian authorities. 
- <p class="updated_time"> 04:20 PM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-target-ukrainian-civilian-areas-as-missile-hits-central-kharkiv-11646124675">Russia Targets Ukrainian Civilian Areas in Tactical Shift and Strikes Kyiv TV Tower</a> WSJ: Moscow bombards Kharkiv, Ukraine’s second-largest city, as it switches to a new strategy in a bid to demoralize Ukrainian resistance after failing to achieve a quick victory. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-nuclear-power-plant.html">Many Ukrainian Nuclear Power Reactors No Longer Produce Electricity</a> NYT: Six of the 15 reactors in the country appear to be offline at the moment, with one site close to Russian troop movements reporting half of its reactors are down. 
  <p class="updated_time"> 04:01 PM CT, Mar. 01 </p> 
@@ -120,10 +122,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ship-sinks-luxury-cars.html">After Burning for Days, a Ship Carrying Thousands of Luxury Cars Sinks</a> NYT: The ship, the Felicity Ace, was carrying about 4,000 vehicles, including Bentleys and Porsches, when it caught fire on Feb. 16. On Tuesday morning, it sank. 
  <p class="updated_time"> 11:41 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60577667?at_medium=RSS&at_campaign=KARANGA">Ukraine: Polish communities help people fleeing war</a> BBC: Communities across Poland, and particularly along the border, are rallying to help people who have fled Ukraine. 
- <p class="updated_time"> 11:19 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking Russia's invasion</a> BBC: Russia launched its attack on Thursday and large numbers of troops are now close to the capital Kyiv. 
  <p class="updated_time"> 11:08 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60574277?at_medium=RSS&at_campaign=KARANGA">Ukraine: Putin's miscalculations could see him strike harder</a> BBC: The Russian leader has always refused to back down in the past, says the BBC's John Simpson. 
+ <p class="updated_time"> 10:42 AM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-scrambles-to-maintain-oil-sales-life-blood-of-economy-11646156655">Russia Scrambles to Maintain Oil Sales, Lifeblood of Economy</a> WSJ: Refiners outside the country are balking at buying Russian oil, and banks are refusing to finance shipments of Russian commodities, fearing the impact of financial sanctions. 
  <p class="updated_time"> 10:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/movies/gerard-depardieu-ukraine-war.html">Gérard Depardieu, Friend of Putin, Denounces ‘Fratricidal War’</a> NYT: “Stop the weapons and negotiate,” the French actor and staunch Russia ally told a news agency. 
  <p class="updated_time"> 09:20 AM CT, Mar. 01 </p> 
@@ -134,6 +136,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
+ <p class="updated_time"> 08:41 AM CT, Mar. 01 </p> 
+ <a href="https://www.wsj.com/articles/finlands-drift-toward-nato-membership-accelerated-by-russias-ukraine-invasion-11646163699">Finland's Drift Toward NATO Accelerated by War on Ukraine</a> WSJ: Finnish political parties gathered to discuss joining NATO, in another sign of the tectonic shifts in Europe’s security landscape prompted by Russia’s invasion of Ukraine. 
  <p class="updated_time"> 07:52 AM CT, Mar. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-rushes-arms-to-ukraine-as-russian-forces-escalate-attacks-11646160746">U.S. Rushes Arms to Ukraine as Russian Forces Escalate Attacks</a> WSJ: With time potentially running out for Kyiv, the U.S. and its allies confront limited supply routes and challenges providing the right weapons. 
  <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
@@ -148,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-invasion-questions.html">What Questions Do You Have About Russia’s Invasion of Ukraine?</a> NYT: New York Times reporters will answer reader questions about the war, the world’s response and the effects of sanctions against Russia. 
  <p class="updated_time"> 04:52 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60564123?at_medium=RSS&at_campaign=KARANGA">How many nuclear weapons does Russia have?</a> BBC: A look at Russia's nuclear arsenal and basic guide to nuclear weapons and their destructive power 
- <p class="updated_time"> 04:09 AM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/in-a-kyiv-hospital-children-pay-the-price-of-russias-invasion-11646147353">In a Kyiv Hospital, Children Pay the Price of Russia's Invasion</a> WSJ: As Russia pours new forces into Ukraine in its attempt to capture the capital and decapitate its democratically elected government, doctors are bracing for an influx of casualties—children and adults alike. 
  <p class="updated_time"> 03:52 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 03:33 AM CT, Mar. 01 </p> 
