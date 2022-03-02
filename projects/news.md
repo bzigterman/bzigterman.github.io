@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:38 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 11:51 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
  <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
@@ -228,7 +228,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:10 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-length-00013073">Biden’s known for being long-winded. Here’s how long his first State of the Union was.</a> Politico: Bill Clinton still holds the record for the longest State of the Union speech. 
  <p class="updated_time"> 10:49 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-panel-subpoenas.html">Jan. 6 Panel Subpoenas Lawyers Who Worked to Overturn Trump’s Loss</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Panel Subpoenas Trump's Lawyers</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-00013072">Biden to America: ‘We’re going to be OK’</a> Politico: The president didn’t imagine that this was going to be his first State of the Union address. But when life gives you lemons ... 
  <p class="updated_time"> 10:32 PM CT, Mar. 01 </p> 
@@ -239,6 +239,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Unity in a Foreign Policy Crisis, but Questions Still to be Answered</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
  <p class="updated_time"> 10:27 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
+ <p class="updated_time"> 10:18 PM CT, Mar. 01 </p> 
+ <a href="https://www.cnn.com/2022/03/01/politics/state-of-the-union-2022-winners-losers/index.html">Hits and misses from Joe Biden's State of the Union</a> CNN: President Joe Biden delivered his first State of the Union address on Tuesday night, a speech that came amid Russia's invasion of Ukraine and lagging poll numbers in advance of the 2022 midterm elections. 
  <p class="updated_time"> 10:14 PM CT, Mar. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
@@ -247,6 +249,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083855975/republican-response-iowa-kim-reynolds-text-state-of-the-union">Read Iowa Gov. Kim Reynolds' Republican response to the State of the Union</a> NPR: Iowa Gov. Kim Reynolds delivers the Republican response to President Biden's first State of the Union address. 
  <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
+ <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
+ <a href="https://www.cnn.com/2022/03/01/politics/gallery/state-of-the-union-biden-first-address/index.html">In pictures: Biden's first State of the Union address</a> CNN: President Joe Biden is delivering his first State of the Union address on Tuesday night, and he is expected to use his biggest platform of the year to blast Russian President Vladimir Putin for invading Ukraine. 
  <p class="updated_time"> 09:59 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083865116/nancy-pelosi-inkstand-state-of-the-union-2022">What we know about the inkstand in front of Nancy Pelosi during the State of the Union</a> NPR: The inkstand is the oldest surviving artifact of the House of Representatives, dating back to the early 1800s. 
  <p class="updated_time"> 09:34 PM CT, Mar. 01 </p> 
