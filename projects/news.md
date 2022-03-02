@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:11 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 02:29 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Russian Forces Move to Encircle Key Ukrainian Cities</a> NYT: Explosions struck the capital, Kyiv, and Russian troops are laying siege to Kharkiv. In his first State of the Union address, President Biden said that Moscow would “pay a price” for the invasion. 
  <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
@@ -205,10 +205,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:20 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Abbott and O’Rourke Win Their Texas Primaries</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
  <p class="updated_time"> 01:54 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083785432/biden-state-of-the-union-recap">5 takeaways from Biden's State of the Union address</a> NPR: The president painted an optimistic view of life amid the pandemic in front of a much more unified-looking Congress than in past years. 
- <p class="updated_time"> 12:37 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Abbott and O’Rourke Win Their Texas Primaries</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 12:27 AM CT, Mar. 02 </p> 
@@ -355,6 +355,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">DeSantis sends Florida Democrats to redistricting purgatory</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ukraine-pleads-congress-more-aid-weapons-00012654">Ukraine pleads with Congress for more aid and weapons</a> Politico: As a Russian convoy heads for Kyiv, the Ukrainian ambassador told senators the military was running out of missiles. 
+ <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
+ <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">As Tanks Rolled Into Ukraine, So Did Malware. Then Microsoft Entered the War.</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
  <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ukrainian-pilots-arrive-in-poland-to-pick-up-donated-fighter-jets-00012560">European plan to donate fighter jets to Ukraine collapses</a> Politico: The dissolution of the deal comes as European countries lined up Monday to announce new weapons packages for Ukraine, from anti-armor and anti-air rockets to artillery and medical supplies. 
  <p class="updated_time"> 05:45 PM CT, Feb. 28 </p> 
