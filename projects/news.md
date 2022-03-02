@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:22 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
+ <p class="updated_time"> 11:31 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-turkey-putin-erdogan.html">Ukraine Invasion Increases Friction Between Erdogan and Putin</a> NYT: The Turkish and Russian leaders have found themselves on opposite sides of a host of armed conflicts. In Ukraine, the stakes may be higher than ever. 
+ <p class="updated_time"> 11:30 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
  <p class="updated_time"> 11:16 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
@@ -109,8 +113,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:46 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60579847?at_medium=RSS&at_campaign=KARANGA">Moment Kyiv's TV tower was hit by missile</a> BBC: Authorities say five people were killed in the Russian attack on the civilian-run tower in the capital. 
  <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-turkey-putin-erdogan.html">Ukraine Invasion Increases Friction Between Erdogan and Putin</a> NYT: The Turkish and Russian leaders have found themselves on opposite sides of a host of armed conflicts. In Ukraine, the stakes may be higher than ever. 
- <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ship-sinks-luxury-cars.html">After Burning for Days, a Ship Carrying Thousands of Luxury Cars Sinks</a> NYT: The ship, the Felicity Ace, was carrying about 4,000 vehicles, including Bentleys and Porsches, when it caught fire on Feb. 16. On Tuesday morning, it sank. 
  <p class="updated_time"> 11:41 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60577667?at_medium=RSS&at_campaign=KARANGA">Ukraine: Polish communities help people fleeing war</a> BBC: Communities across Poland, and particularly along the border, are rallying to help people who have fled Ukraine. 
@@ -128,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
- <p class="updated_time"> 08:17 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 07:52 AM CT, Mar. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-rushes-arms-to-ukraine-as-russian-forces-escalate-attacks-11646160746">U.S. Rushes Arms to Ukraine as Russian Forces Escalate Attacks</a> WSJ: With time potentially running out for Kyiv, the U.S. and its allies confront limited supply routes and challenges providing the right weapons. 
  <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
@@ -203,12 +203,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 11:59 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-reactions-00013093">Congress returns to normal-ish for Biden’s speech — with cheers, jeers and viral moments</a> Politico: A Russian war and economic angst didn't stop mostly maskless lawmakers from resuming some time-honored State of the Union traditions. Including heckling. 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-reactions-00013093">Congress returns to normal-ish for Biden’s speech — with cheers, jeers and viral moments</a> Politico: A Russian war and economic angst didn’t stop mostly maskless lawmakers from resuming some time-honored State of the Union traditions. Including heckling. 
  <p class="updated_time"> 11:43 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/reynolds-ukraine-russia-state-of-the-union-00013083">Iowa Gov. Reynolds stands by Ukraine in critique of Biden</a> Politico: Russia's invasion of Ukraine has exposed faultlines among Republicans, complicating their efforts to counter-message Biden's handling of the issue. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
+ <p class="updated_time"> 11:28 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
+ <p class="updated_time"> 11:28 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/kim-reynolds-state-of-the-union.html">Kim Reynolds Delivers Republican Rebuttal to State of the Union</a> NYT: The governor’s speech foreshadowed Republican arguments ahead of the midterm elections. 
  <p class="updated_time"> 11:19 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/02/1083868623/democrat-rep-rashida-tlaib-delivers-a-response-to-bidens-state-of-the-union">Democrat Rep. Rashida Tlaib delivers a response to Biden's State of the Union</a> NPR: Her speech detailed a progressive political vision for the future, from lowering prescription drug costs to making major investments in tackling climate change and enshrining abortion access. 
  <p class="updated_time"> 11:14 PM CT, Mar. 01 </p> 
@@ -219,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 11:10 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-length-00013073">Biden’s known for being long-winded. Here’s how long his first State of the Union was.</a> Politico: Bill Clinton still holds the record for the longest State of the Union speech. 
- <p class="updated_time"> 10:59 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 10:49 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-panel-subpoenas.html">Jan. 6 Panel Subpoenas Lawyers Who Worked to Overturn Trump’s Loss</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
@@ -233,8 +237,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Biden Emphasizes Unity in Foreign Policy Crisis</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
  <p class="updated_time"> 10:27 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
- <p class="updated_time"> 10:22 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/kim-reynolds-state-of-the-union.html">Kim Reynolds Delivers Republican Rebuttal to State of the Union</a> NYT: The governor’s speech foreshadowed Republican arguments ahead of the midterm elections. 
  <p class="updated_time"> 10:14 PM CT, Mar. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
