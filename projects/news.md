@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:49 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 01:01 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: Surrounded, Key City Waits ‘for a Miracle’</a> NYT: Russia claimed to have seized the city, the Black Sea port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
- <p class="updated_time"> 12:44 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 12:59 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
@@ -194,8 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/us-russian-diplomats-un.html">U.S. Expels 12 Russian Diplomats for Spying </a> NYT: The move is part of a larger effort to isolate Russia diplomatically and economically since it invaded Ukraine last week. 
  <p class="updated_time"> 06:23 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-parliament-ukraine-invasion.html">A Few Members of Russia's Parliament Speak Out Against War</a> NYT: In a rare show of dissent, three deputies of the State Duma have expressed regret about the attack. 
- <p class="updated_time"> 05:10 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/arts/design/miami-ukrainian-art-show.html">In Miami, a Ukrainian Art Show Becomes Unintentionally Timely</a> NYT: A Kyiv couple stage a socially charged exhibition in South Florida as their Voloshyn Gallery back home becomes a bomb shelter. 
 
 
 </details>
@@ -207,6 +205,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246">Manchin lays out a Dem bill he can back: Taxes, prescription drugs, climate cash</a> Politico: "And the social issues, we basically have to deal with those" afterward, the West Virginia centrist said in a post-State of the Union interview. 
  <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins her congressional charm offensive</a> Politico: The Supreme Court nominee met with the Senate majority and minority leaders Wednesday, and is set to sit with Judiciary Committee leaders in the afternoon. 
+ <p class="updated_time"> 01:08 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083927329/federal-reserve-interest-rates-inflation-ukraine-russia">The Federal Reserve is ready to raise interest rates soon despite the war in Ukraine</a> NPR: Fed Chair Jerome Powell says the central bank is prepared to begin raising interest rates this month to fight inflation despite economic uncertainty after Russia's invasion of Ukraine. 
+ <p class="updated_time"> 12:53 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Federal Reserve Chair Jerome Powell said he supports a quarter-point increase at the March meeting. 
  <p class="updated_time"> 12:46 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/russia-space-chief-hacking-satellites-war-00013211">Russia's space chief says hacking satellites 'a cause for war'</a> Politico: Yet Dmitry Rogozin denied a report that a cyber group had shut down satellite operations. 
  <p class="updated_time"> 12:37 PM CT, Mar. 02 </p> 
@@ -225,8 +227,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/biden-covid-plan-00013186">Biden wants to move U.S. past Covid. Here's his plan to do it</a> Politico: The strategy represents a major milestone for the president after a first year consumed by the pandemic. 
  <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
- <p class="updated_time"> 09:49 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Federal Reserve Chair Jerome Powell said he supports a quarter-point increase at the March meeting. 
  <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
@@ -315,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/canada-g-7-russia-ukraine-sanctions-00012938">Canada: G-7 set to launch more sanctions against Russia's 'failing kleptocracy'</a> Politico: Freeland: "If you make war on the rules-based international order, we're going to cut you out of the global economy." 
  <p class="updated_time"> 08:34 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083849185/state-of-the-union-two-women-history-made">For the 1st time, 2 women are seated behind the president during a State of the Union</a> NPR: Vice President Kamala Harris and House Speaker Nancy Pelosi sat behind Biden during his joint address to Congress last year, but that speech was not an official State of the Union address. 
- <p class="updated_time"> 08:04 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1082974551/beto-orourke-wins-texas-governors-primary-setting-up-potential-race-against-abbo">Texas Gov. Abbott and Beto O'Rourke are set for an election clash after primary wins</a> NPR: Both Republican Gov. Greg Abbott and Democratic nominee Beto O'Rourke easily won their primaries. Texas hasn't elected a Democratic governor in more than three decades. 
  <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/u-s-bans-russian-flights-00013007">U.S. bans all Russian flights from its airspace</a> Politico: The U.S. airline industry had already been withdrawing from serving Russia. 
  <p class="updated_time"> 07:49 PM CT, Mar. 01 </p> 
