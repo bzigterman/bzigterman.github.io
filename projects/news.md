@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:14 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Russian Forces Claim to Control Key Ukrainian Port City</a> NYT: Ukraine’s military disputed the claim and said it was still battling to hold Kherson, in the south of the country. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 05:21 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple, Nike and Google join brands limiting services</a> BBC: Customers won't be able to use Apple Pay, while sportswear firm Nike is no longer taking online orders. 
+ <p class="updated_time"> 05:17 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: Russian Forces Claim to Control Key Ukrainian Port City</a> NYT: Ukraine’s military disputed the claim and said it was still battling to hold Kherson, in the south of the country. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 04:41 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/australia/new-zealand-protest-vaccine.html">New Zealand Police Move to End Protest, and Violence Erupts</a> NYT: Fires and violence at a protest opposing vaccine mandates were a rare sight in a country known for its relative serenity and stability. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60571737?at_medium=RSS&at_campaign=KARANGA">Ukraine: Watching the war on Russian TV - a whole different story</a> BBC: The war in Ukraine has led to outrage in the West, but in Russia TV viewers see a very different story. 
  <p class="updated_time"> 07:12 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60559014?at_medium=RSS&at_campaign=KARANGA">Ukraine's tech community rises to challenges of war</a> BBC: From an app to alert people to sirens, to organising supplies, tech firms are helping the war effort. 
- <p class="updated_time"> 06:53 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple to halt sales and limit services in Russia</a> BBC: Apple is the latest firm to stop selling products in Russia and will limit Apple Pay and other services. 
  <p class="updated_time"> 06:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/south-korea-diversity-muslims.html">Mosque Dispute Becomes Flash Point in South Korean Identity Politics</a> NYT: A mosque dispute in a conservative city has forced some South Koreans to confront what it means to live in an increasingly diverse society. 
  <p class="updated_time"> 06:19 PM CT, Mar. 01 </p> 
@@ -200,8 +200,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/asia/pakistan-energy-inflation.html">Pakistan Will Cut Energy Prices to Offset Rising Costs After Invasion</a> NYT: Critics said the move by Prime Minister Imran Khan was aimed at stemming increasing criticism of his handling of the economy and would provide only temporary relief. 
  <p class="updated_time"> 02:49 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/asia/afghan-evacuation-kabul.html">The One Item They Had to Take When These 6 Afghans Fled</a> NYT: More than 120,000 people were airlifted out of Afghanistan last August, most with just a few hours to gather their belongings. Here are some of the keepsakes they chose. 
- <p class="updated_time"> 01:01 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/ukraine-russia-talks-belarus.html">Initial Talks Between Russia and Ukraine Yield No Resolution </a> NYT: Russia’s delegation leader said the next meeting would take place once more along the Ukraine-Belarus border in the “coming days.” 
  <p class="updated_time"> 11:19 AM CT, Feb. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60559574?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: What are the nuclear risks?</a> BBC: Russia's nuclear forces are on "special alert" - what does that mean and how worried should we be? 
 
@@ -250,7 +248,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:10 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-length-00013073">Biden’s known for being long-winded. Here’s how long his first State of the Union was.</a> Politico: Bill Clinton still holds the record for the longest State of the Union speech. 
  <p class="updated_time"> 10:49 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Panel Subpoenas Trump's Lawyers</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Panel Subpoenas Lawyers Who Worked to Overturn Trump’s Loss</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-00013072">Biden to America: ‘We’re going to be OK’</a> Politico: The president didn’t imagine that this was going to be his first State of the Union address. But when life gives you lemons ... 
  <p class="updated_time"> 10:32 PM CT, Mar. 01 </p> 
