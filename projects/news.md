@@ -8,7 +8,15 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 05:36 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/justice-dept-russia-oligarchs.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
+ <p class="updated_time"> 05:35 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war.html">First Ukraine City Falls as Russia Strikes More Civilian Targets</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
+ <p class="updated_time"> 05:35 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60532631?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Guy Reffitt accused of being 'tip of spear' in 6 January mob</a> BBC: Guy Reffitt is the first 6 January defendant to stand trial. He has pleaded not guilty on all charges. 
+ <p class="updated_time"> 05:34 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/health/covid-smell.html">How the Coronavirus Steals the Sense of Smell</a> NYT: The virus does not infect nerve cells that detect odors, researchers have found. Instead, it attacks nearby supporting cells. 
+ <p class="updated_time"> 05:31 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 05:19 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
@@ -106,8 +114,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-italy-sanctions.html">Italy Takes a Risk in Joining Sanctions on Russia Over Ukraine</a> NYT: The two countries have had strong economic ties for decades, but the invasion of Ukraine has spurred the government in Rome to realign with European allies — at an outsize cost. 
  <p class="updated_time"> 09:56 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60592931?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: We need support from our allies, say Klitschko brothers</a> BBC: The mayor of Kyiv and his brother, both renowned boxers, spoke to the BBC from Kyiv. 
- <p class="updated_time"> 09:51 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple, Nike and Google join brands limiting services</a> BBC: Customers won't be able to use Apple Pay, while sportswear firm Nike is no longer taking online orders. 
  <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 09:23 AM CT, Mar. 02 </p> 
@@ -190,8 +196,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ship-sinks-luxury-cars.html">After Burning for Days, a Ship Carrying Thousands of Luxury Cars Sinks</a> NYT: The ship, the Felicity Ace, was carrying about 4,000 vehicles, including Bentleys and Porsches, when it caught fire on Feb. 16. On Tuesday morning, it sank. 
  <p class="updated_time"> 10:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/movies/gerard-depardieu-ukraine-war.html">Gérard Depardieu, Friend of Putin, Denounces ‘Fratricidal War’</a> NYT: “Stop the weapons and negotiate,” the French actor and staunch Russia ally told a news agency. 
- <p class="updated_time"> 09:16 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/asia/ukraine-taiwan-china-russia.html">War in Ukraine Hits Home for Taiwanese</a> NYT: Many in Taiwan see parallels with Ukraine. “We must use this time of peace to prepare for the worst,” says a nonprofit working to promote civil defense. 
  <p class="updated_time"> 09:14 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
@@ -205,12 +209,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:36 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/justice-dept-russia-oligarchs.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
  <p class="updated_time"> 05:18 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/uae-ukrainians-visa-free-travel-00013370">UAE will continue to allow Ukrainians visa-free travel</a> Politico: The gas and oil-rich Middle East state has walked a fine line between Russia interests and its U.S. and Ukraine ties. 
  <p class="updated_time"> 05:06 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments Against Defendant in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
  <p class="updated_time"> 05:02 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, U.S. Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
@@ -324,7 +330,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:31 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/capitol-state-of-the-union.html">At the Capitol, Biden Confronts a New Normal</a> NYT: President Biden’s address unfolded in a Capitol still grappling with a pandemic and the aftermath of a deadly riot, and now facing a war in Ukraine. 
  <p class="updated_time"> 10:29 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Unity in a Foreign Policy Crisis, but Questions Still to be Answered</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Biden Emphasizes Unity in Foreign Policy Crisis</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
  <p class="updated_time"> 10:27 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
