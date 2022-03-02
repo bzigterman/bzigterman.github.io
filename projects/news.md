@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:54 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 03:10 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 03:10 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
+ <p class="updated_time"> 03:06 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
+ <p class="updated_time"> 03:05 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-shelters.html">15,000 Are Sheltering in Kyiv’s Subway</a> NYT: People sleep three or four to a mattress and plastic food bags litter the scene, while mothers search endlessly on their phones for news of the war. 
+ <p class="updated_time"> 03:02 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1084004438/roman-abramovich-chelsea-sell">Russian billionaire Roman Abramovich will put Chelsea Football Club up for sale</a> NPR: A close associate of Vladimir Putin, Abramovich was under intense pressure from British politicians. He said proceeds from the Premier League team sale will benefit "all victims" of the Ukraine war. 
+ <p class="updated_time"> 02:58 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1084003929/putin-taekwondo-black-belt">World Taekwondo strips Russia's Vladimir Putin of his honorary black belt </a> NPR: Russian President Vladimir Putin received the honorary black belt back in Nov. 2013 from World Taekwondo, the international governing body of the sport. He is known to be a fan of martial arts. 
  <p class="updated_time"> 02:53 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
- <p class="updated_time"> 02:45 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
- <p class="updated_time"> 02:42 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-kyiv-subway-underground-russia-war.html">15,000 Are Sheltering in Kyiv’s Subway</a> NYT: People sleep three or four to a mattress and plastic food bags litter the scene, while mothers search endlessly on their phones for news of the war. 
  <p class="updated_time"> 02:32 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083968591/russia-ukraine-deaths-war">Russia confirms casualties in Ukraine ahead of the next round of talks</a> NPR: For the first time, Russia's Defense Ministry has announced casualties, saying 498 troops have died. Delegations from Ukraine and Russia are preparing for a second round of talks, expected Thursday. 
  <p class="updated_time"> 02:03 PM CT, Mar. 02 </p> 
@@ -69,7 +75,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 09:36 AM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Russia Batters Ukraine's No. 2 City, But Kyiv Offensive Stalls</a> WSJ: Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps. 
+ <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Russia Batters Ukraine's No. 2 City, as Kyiv Offensive Stalls</a> WSJ: Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps. 
  <p class="updated_time"> 09:35 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083694848/sanctions-russia-ukraine-economy-war">How everyday Russians are feeling the impact from sanctions</a> NPR: Rising prices, stranded tourists and lines at ATMs are just some of the ways ordinary Russians are seeing repercussions from sanctions and restrictions imposed on their country for invading Ukraine. 
  <p class="updated_time"> 09:23 AM CT, Mar. 02 </p> 
@@ -160,14 +166,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-oligarchs-uk.html">U.K. Moves to Tighten Laws on Oligarchs. Critics Say It’s Too Late.</a> NYT: With most of the Western world uniting against Russia’s invasion of Ukraine, Britain is trying to plug loopholes for wealthy Russians to which it has long turned a blind eye. 
  <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083775456/foreign-policy-expert-argues-russia-wont-stop-until-it-has-conquered-ukraine">Foreign policy expert argues Russia won't stop until it has conquered Ukraine</a> NPR: NPR's Sacha Pfeiffer speaks with Angela Stent, a senior fellow at the Brookings Institution, about what could be guiding Putin's decision-making in Ukraine. 
- <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083775435/the-latest-on-the-attacks-in-ukraine">The latest on the attacks in Ukraine</a> NPR: Russian forces appear to be escalating attacks on urban areas of Ukraine as 680,000 people have fled their homes. Sanctions are piling up, and the West is supplying more military hardware to Ukraine. 
  <p class="updated_time"> 03:23 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/middleeast/israel-palestinians-evictions.html">Palestinians Threatened With Eviction Can Stay in Their Homes — for Now</a> NYT: Israel’s high court stayed the eviction of four Palestinian families from their East Jerusalem homes. The eviction threat had stoked tensions that led to war in Gaza. 
  <p class="updated_time"> 02:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russian-convoy-ukraine.html">Miles-Long Russian Convoy Outside Kyiv Signals Tactical Shift</a> NYT: Satellite imagery has shown a Russian military convoy stretching 40 miles on a roadway north of Ukraine’s capital, Kyiv. Experts say it probably indicates a shift to siege tactics. 
- <p class="updated_time"> 02:40 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083694731/u-s-russian-cultural-organizations-ukraine">U.S. Russian cultural organizations fear boycotts over the war</a> NPR: Some U.S.-based institutions have publicly denounced Russia's invasion of Ukraine to show they don't represent the Russian government. 
  <p class="updated_time"> 02:18 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/congo-cobalt-mining-china.html">Chinese Company Removed as Operator of Cobalt Mine in Congo</a> NYT: A court has given the Congolese control of one of the world’s largest sources of cobalt while allegations against the mine’s Chinese owners are investigated. 
  <p class="updated_time"> 12:05 PM CT, Mar. 01 </p> 
@@ -190,10 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/elon-musk-satellite-internet-ukraine.html">Starlink Satellite Internet Terminals, Sent by Elon Musk, Arrive in Ukraine</a> NYT: Responding to a plea by a Ukrainian official, Mr. Musk delivered an unknown number of his Starlink terminals, which offer online connection via orbiting satellites, bypassing conventional providers. 
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">Tech Companies Help Defend Ukraine Against Cyberattacks</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
- <p class="updated_time"> 06:47 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/us-russian-diplomats-un.html">U.S. Expels 12 Russian Diplomats for Spying </a> NYT: The move is part of a larger effort to isolate Russia diplomatically and economically since it invaded Ukraine last week. 
- <p class="updated_time"> 06:23 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-parliament-ukraine-invasion.html">A Few Members of Russia's Parliament Speak Out Against War</a> NYT: In a rare show of dissent, three deputies of the State Duma have expressed regret about the attack. 
 
 
 </details>
@@ -205,6 +203,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/what-the-feds-powell-thinks-about-inflation-and-ukraine-00013277">What the Fed's Powell thinks about inflation and Ukraine</a> Politico: Jerome Powell said the Fed is likely to raise its benchmark federal funds rate a quarter percentage point when it meets later this month. 
  <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/u-s-russians-putin-regime-change-00013249">The U.S. is pushing Russians to defy Putin. But don’t call it regime change.</a> Politico: U.S. officials fighting Kremlin propaganda see opportunities in the anti-war sentiment among Russians, including spy recruitment. 
+ <p class="updated_time"> 03:06 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
+ <p class="updated_time"> 03:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/vaccine-mandate-health-workers.html">In Symbolic Vote, Senate Rejects Vaccine Mandate for Health Workers</a> NYT: Republicans forced the vote even though the measure has no chance of enactment, as part of an election-year effort to use pandemic precautions as a political weapon against Democrats. 
  <p class="updated_time"> 01:50 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/economy/sarah-bloom-raskin-biden-fed.html">Biden’s Fed Nominees Are Frozen as One Faces Republican Questions</a> NYT: Sarah Bloom Raskin, his choice for the Federal Reserve’s head of bank oversight, has faced staunch G.O.P. opposition over her climate views. Yet her private sector work is holding up her nomination. 
  <p class="updated_time"> 01:49 PM CT, Mar. 02 </p> 
