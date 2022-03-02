@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:08 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 11:22 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
+ <p class="updated_time"> 11:16 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
  <p class="updated_time"> 10:56 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
  <p class="updated_time"> 10:36 PM CT, Mar. 01 </p> 
@@ -44,8 +46,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-refugee-discrimination.html">Africans Say Ukrainian Authorities Hindered Them From Fleeing</a> NYT: Africans and other foreigners in Ukraine say border guards made them endure long waits and even beat them, while letting Ukrainians through quickly. Ukraine denied discriminating. 
  <p class="updated_time"> 05:56 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/zelensky-ukraine-war-outrage.html">How Ukrainians Are Using Social Media to Speak Out About the War</a> NYT: Ukrainians take to social media, and taboos are tumbling as countries abandon neutrality and people abandon indifference to support their cause. 
- <p class="updated_time"> 05:38 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
  <p class="updated_time"> 05:33 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083766901/yellowstone-150-park-history">Yellowstone turns 150. Here's a peek into the national park's history</a> NPR: Yellowstone became the first national park in the U.S. on March 1, 1872, and it helped usher in the broader national park movement. The park stretches into Wyoming, Montana, and Idaho. 
  <p class="updated_time"> 04:48 PM CT, Mar. 01 </p> 
@@ -204,23 +204,27 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 11:59 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-reactions-00013093">Congress returns to normal-ish for Biden's speech — with cheers, jeers and viral moments</a> Politico: A Russian war and economic angst didn't stop mostly maskless lawmakers from resuming some time-honored State of the Union traditions. Including heckling. 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-reactions-00013093">Congress returns to normal-ish for Biden’s speech — with cheers, jeers and viral moments</a> Politico: A Russian war and economic angst didn't stop mostly maskless lawmakers from resuming some time-honored State of the Union traditions. Including heckling. 
  <p class="updated_time"> 11:43 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/reynolds-ukraine-russia-state-of-the-union-00013083">Iowa Gov. Reynolds stands by Ukraine in critique of Biden</a> Politico: Russia's invasion of Ukraine has exposed faultlines among Republicans, complicating their efforts to counter-message Biden's handling of the issue. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
+ <p class="updated_time"> 11:19 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083868623/democrat-rep-rashida-tlaib-delivers-a-response-to-bidens-state-of-the-union">Democrat Rep. Rashida Tlaib delivers a response to Biden's State of the Union</a> NPR: Her speech detailed a progressive political vision for the future, from lowering prescription drug costs to making major investments in tackling climate change and enshrining abortion access. 
+ <p class="updated_time"> 11:14 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Biden Says Fighting Inflation Is ‘Top Priority’ as Prices Bite Consumers</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
+ <p class="updated_time"> 11:14 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Full Transcript of Biden’s State of the Union Address</a> NYT: President Biden spoke about the war in Ukraine, the coronavirus pandemic, the economy and more in his State of the Union address. The following is a transcript of his remarks. 
+ <p class="updated_time"> 11:11 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 11:10 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-length-00013073">Biden’s known for being long-winded. Here’s how long his first State of the Union was.</a> Politico: Bill Clinton still holds the record for the longest State of the Union speech. 
  <p class="updated_time"> 10:59 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 10:49 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-panel-subpoenas.html">Jan. 6 Panel Subpoenas Lawyers Who Worked to Overturn Trump’s Loss</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
- <p class="updated_time"> 10:47 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Full Transcript of Biden’s State of the Union Address</a> NYT: President Biden spoke about the war in Ukraine, the coronavirus pandemic, the economy and more in his State of the Union address. The following is a transcript of his remarks. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-00013072">Biden to America: ‘We’re going to be OK’</a> Politico: The president didn’t imagine that this was going to be his first State of the Union address. But when life gives you lemons ... 
- <p class="updated_time"> 10:41 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Biden Says Fighting Inflation Is ‘Top Priority’ as Prices Bite Consumers</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
  <p class="updated_time"> 10:32 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083866989/boebert-heckled-biden-afghanistan-state-of-the-union">Boebert heckled Biden about deaths in Afghanistan while he mentioned his son's cancer</a> NPR: Colorado Rep. Lauren Boebert heckled President Biden during his State of the Union speech as he was describing the death of his son Beau Biden, an Iraq War veteran who succumbed to brain cancer. 
  <p class="updated_time"> 10:31 PM CT, Mar. 01 </p> 
@@ -234,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:14 PM CT, Mar. 01 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/biden-tough-russia-ukraine-00013058">Biden promises punishment for Putin, pledges to lessen impact on U.S.</a> Politico: The Russian president, he said, "badly miscalculated" in invading Ukraine. 
+ <a href="https://www.politico.com/news/2022/03/01/biden-tough-russia-ukraine-00013058">Biden promises punishment for Putin, pledges to lessen impact on U.S.</a> Politico: The Russian president, he said, “badly miscalculated” in invading Ukraine. 
  <p class="updated_time"> 10:12 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083855975/republican-response-iowa-kim-reynolds-text-state-of-the-union">Read Iowa Gov. Kim Reynolds' Republican response to the State of the Union</a> NPR: Iowa Gov. Kim Reynolds delivers the Republican response to President Biden's first State of the Union address. 
  <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
@@ -249,8 +253,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/supreme-court-justices-biden-state-of-the-union-00013043">These are the Supreme Court justices who showed up for Biden’s State of the Union</a> Politico: Justices Stephen Breyer, Elena Kagan, Brett Kavanaugh, Amy Coney Barrett and Chief Justice John Roberts were at the Capitol for the president’s speech. 
  <p class="updated_time"> 09:04 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083854104/biden-state-of-the-union-full-text-2022">Read President Biden's full State of the Union remarks</a> NPR: Read President Biden's first State of the Union address, according to prepared remarks from the White House. 
- <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
  <p class="updated_time"> 08:49 PM CT, Mar. 01 </p> 
@@ -339,8 +341,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1082601953/state-of-the-union-live-updates">Watch: President Biden delivers his State of the Union on Tuesday night</a> NPR: Biden is delivering his first State of the Union address on Tuesday amid a high-stress period for the nation: a growing fatigue over the pandemic and Russia's continued invasion of Ukraine. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:14 AM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083664589/ukrainians-arent-getting-u-s-intelligence-on-russia-fast-enough-sasse-says">Ukrainians aren't getting U.S. intelligence on Russia fast enough, Sasse says</a> NPR: NPR's Steve Inskeep talks to Republican Sen. Ben Sasse of Nebraska about the U.S. response to the Russian invasion of Ukraine. He is a member of the Senate Intelligence Committee. 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
  <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
@@ -355,6 +355,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:59 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/meta-belarus-hacking-campaign-ukraine-00012214">Meta takes action against Belarus-linked hacking campaign targeting Ukrainians</a> Politico: Meta’s actions mark a step toward addressing disinformation and make both Russians and Ukrainians somewhat safer online 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
  <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
