@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:42 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention and could move to disrupt the flow of arms through Poland. 
+ <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
+ <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 09:35 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083694848/sanctions-russia-ukraine-economy-war">How everyday Russians are feeling the impact from sanctions</a> NPR: Rising prices, stranded tourists and lines at ATMs are just some of the ways ordinary Russians are seeing repercussions from sanctions and restrictions imposed on their country for invading Ukraine. 
  <p class="updated_time"> 09:23 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
- <p class="updated_time"> 09:11 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 09:02 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">In Odessa, Ukrainians build defenses and wait for attacks.</a> NYT: Residents of Ukraine’s critical port on the Black Sea are bracing as Russian naval and ground forces approach.  “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 08:59 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-orthodox-church.html">Also at Stake in Ukraine: the Future of Two Orthodox Churches</a> NYT: The Russian church hopes to reunite with the independent Ukrainian branch under a single patriarch in Moscow that would allow it to control the holiest sites of Orthodoxy in the Slavic world. 
- <p class="updated_time"> 08:58 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention and could move to disrupt the flow of arms through Poland. 
  <p class="updated_time"> 08:44 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/02/1083314101/photos-record-breaking-floods-devastate-eastern-australia">Photos: Record-breaking floods devastate eastern Australia</a> NPR: Thousands have been ordered to evacuate as the southeast coast of Australia experiences the worst flood in decades. 
  <p class="updated_time"> 08:26 AM CT, Mar. 02 </p> 
@@ -42,6 +46,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html">Russia Escalates Attacks on Ukraine as Refugee Numbers Surge</a> NYT: There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor. 
  <p class="updated_time"> 04:41 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/australia/new-zealand-protest-vaccine.html">New Zealand Police Move to End Protest, and Violence Erupts</a> NYT: Fires and violence at a protest opposing vaccine mandates were a rare sight in a country known for its relative serenity and stability. 
+ <p class="updated_time"> 04:40 AM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Ukraine's Kharkiv Front Line Holds Despite Bombardment</a> WSJ: Russian forces pounded Ukraine’s second-largest city with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled and Ukrainian officials said the invasion’s civilian death toll has reached 2,000. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: The battles for Kyiv and Kharkiv</a> BBC: Russia urges people to leave Kyiv before air strikes as its paratroopers land in second-city Kharkiv. 
  <p class="updated_time"> 04:21 AM CT, Mar. 02 </p> 
@@ -72,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 12:50 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/sahel-based-militants-edging-south-toward-west-africas-most-stable-and-prosperous-states-11646221800">Militants Are Edging South Toward West Africa's Most Stable and Prosperous States</a> WSJ: The Islamist militants who have rampaged through the heart of West Africa in recent years are now spreading toward the Gulf of Guinea coast, including some of the continent’s most stable and prosperous countries, according to African and U.S. officials. 
- <p class="updated_time"> 12:37 AM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Ukraine's Kharkiv Front Line Holds Despite Bombardment</a> WSJ: Russian forces resumed airstrikes on Ukraine’s second-largest city and continued pounding other cities as they sought to break the will of Ukraine’s resistance on the seventh day of the war. 
  <p class="updated_time"> 12:18 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083873339/new-zealand-protesters-set-fires-as-police-break-up-camp">New Zealand protesters set fires as police break up camp</a> NPR: The police action was the most significant use of force to date by authorities against the protesters, who oppose coronavirus vaccine mandates. 
  <p class="updated_time"> 12:00 AM CT, Mar. 02 </p> 
@@ -118,8 +122,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083766901/yellowstone-150-park-history">Yellowstone turns 150. Here's a peek into the national park's history</a> NPR: Yellowstone became the first national park in the U.S. on March 1, 1872, and it helped usher in the broader national park movement. The park stretches into Wyoming, Montana, and Idaho. 
  <p class="updated_time"> 04:48 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war-families.html">Ukraine War Splits Families That Have Roots on Both Sides</a> NYT: Because of their countries’ complex and intertwined history, many Ukrainians and Russians have relatives who are standing on opposite sides of the conflict. 
- <p class="updated_time"> 04:42 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Casualties Expose a Potential Flaw in Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-nuclear-power-plant.html">Many Ukrainian Nuclear Power Reactors No Longer Produce Electricity</a> NYT: Six of the 15 reactors in the country appear to be offline at the moment, with one site close to Russian troop movements reporting half of its reactors are down. 
  <p class="updated_time"> 04:01 PM CT, Mar. 01 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083743653/ukraine-european-union">Ukraine proves that Europe's way of life is worth a cost, EU Parliament head says</a> NPR: "This must be our 'whatever it takes' moment," European Parliament President Roberta Metsola says. Metsola says the EU will work with Ukraine toward its goal goal of joining the union. 
  <p class="updated_time"> 01:21 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083677765/putin-denazify-ukraine-russia-history">Putin's claim of fighting against Ukraine 'neo-Nazis' distorts history, scholars say</a> NPR: Scholars dismiss the Russian leader's claims as a "mythical use of history." For one: Ukraine overwhelmingly elected a Jewish president, and has a relatively small right-wing movement. 
- <p class="updated_time"> 01:01 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083696555/russia-ukraine-war-putin-nuclear-escalation-risk">As Russia's Ukraine war intensifies, some warn nuclear escalation is possible</a> NPR: Russian President Vladimir Putin gave orders to his nation's nuclear forces over the weekend, but their exact meaning is unclear. Russia has more nuclear weapons than any other nation. 
  <p class="updated_time"> 12:05 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60576443?at_medium=RSS&at_campaign=KARANGA">No-fly zone: What it means and why the West won't act</a> BBC: Ukraine has asked Western powers to consider imposing a no-fly zone to stop Russian air assaults. 
  <p class="updated_time"> 12:03 PM CT, Mar. 01 </p> 
@@ -217,12 +217,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
+ <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
+ <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Federal Reserve Chair Jerome Powell said he supports a quarter-point increase at the March meeting. 
+ <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/03/02/1083792436/why-billions-in-medicaid-funds-for-people-with-disabilities-are-being-held-up">Why billions in Medicaid funds for people with disabilities are being held up</a> NPR: Almost a year after the American Rescue Plan Act allocated up to $25 billion to home and community-based services run by Medicaid, many states have yet to access the funds due to delays and red tape. 
+ <p class="updated_time"> 09:35 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 09:30 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083905865/the-white-house-has-a-new-plan-for-covid-19-aimed-at-getting-things-back-to-norm">The White House has a new plan for COVID-19 aimed at getting things back to normal</a> NPR: If you think you might have COVID, you'll be able to get tested at a pharmacy and treated with antiviral drugs right away, under the next phase of the pandemic plan. 
- <p class="updated_time"> 09:21 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: The Federal Reserve chair said the central bank was likely to raise interest rates at its meeting this month, even with geopolitical upheaval. 
- <p class="updated_time"> 08:27 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html">The State of the Union: Together, if Only for a Few Minutes</a> NYT: President Biden brought a cheerleading tone to a normal-ish address for very abnormal times. 
  <p class="updated_time"> 08:22 AM CT, Mar. 02 </p> 
@@ -327,8 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/gina-raimondo-sotu-designated-survivor.html">State of the Union Designated Survivor Is Gina Raimondo</a> NYT: The official is designated to watch the speech from afar in the event catastrophe strikes the Capitol while most of the government leaders are inside. 
  <p class="updated_time"> 07:39 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/steve-sisolak-nevada-accosted.html">Nevada Gov. Steve Sisolak Is Accosted by Man Who Threatens to Hang Him</a> NYT: The governor was dining with his wife and daughter at a Las Vegas restaurant when a man asked him for a photo together before going into a profanity-laced rant. 
- <p class="updated_time"> 07:34 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083845000/state-of-the-union-covid">State of the Union attendance required a COVID test. 6 legislators tested positive</a> NPR: To attend Tuesday evening's speech, guests — even those who are fully vaccinated — are required to produce a negative test. Attendees will not be required to wear masks. 
  <p class="updated_time"> 07:30 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/texas-primary-results-2022-00013001">Cuellar pulled into runoff after primary brawl</a> Politico: The Democratic congressman is facing a challenge from the left in South Texas, headlining the first contests of the 2022 midterms. 
  <p class="updated_time"> 06:15 PM CT, Mar. 01 </p> 
@@ -339,8 +343,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-ukraine-midterms.html">As Biden Speaks, Ukraine Crisis Escalates and Midterm Elections Start</a> NYT: As President Biden delivers his first formal State of the Union address, Russia’s invasion of Ukraine escalates and the midterms begin in earnest in Texas. 
  <p class="updated_time"> 05:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/wisconsin-republicans-election-report.html">Wisconsin Republicans’ Election Report Endorses Debunked Legal Theories</a> NYT: A former State Supreme Court justice leading an investigation into the 2020 election said lawmakers should “take a very hard look” at trying to decertify President Biden’s victory in Wisconsin. 
- <p class="updated_time"> 04:42 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:37 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/ukraine-biden-senators-russian-energy-exports-00012752">Ukraine presses Biden, senators to hit Russian energy exports</a> Politico: Andriy Kobolyev's meetings with lawmakers come after Ukraine Foreign Minister Dmytro Kuleba on Tuesday criticized oil companies that had not yet completely severed ties with Russia. 
  <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
