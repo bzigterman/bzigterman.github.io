@@ -7,7 +7,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 
 ## Champaign 5-Day Forecast
 
-<p class="updated_time"> Latest data: 02:01 PM CT, March 02</p>
+<p class="updated_time"> Latest data: 02:23 PM CT, March 02</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -18,8 +18,8 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 Currently:
 
 - 65°
-- broken clouds
-- 61% humidity
+- clear sky
+- 60% humidity
 - 10 mph wind
 
 ## Severe Thunderstorm Outlook
