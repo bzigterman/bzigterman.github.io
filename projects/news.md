@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:01 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: Surrounded, Key City Waits ‘for a Miracle’</a> NYT: Russia claimed to have seized the city, the Black Sea port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
- <p class="updated_time"> 12:59 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 01:15 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, U.S. Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of knowledge about President Vladimir V. Putin’s war plans or intentions. 
+ <p class="updated_time"> 01:13 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
+ <p class="updated_time"> 01:11 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: Surrounded, Key City Waits ‘for a Miracle’</a> NYT: Russia claimed to have seized the city, the Black Sea port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
  <p class="updated_time"> 12:33 PM CT, Mar. 02 </p> 
@@ -26,6 +28,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60592658?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: EA removes Russian teams from Fifa 22 game</a> BBC: The games publisher says it "stands in solidarity with the Ukrainian people". 
  <p class="updated_time"> 11:51 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60593201?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mum in Poland takes in fleeing families</a> BBC: Joanna is opening her home in Poland to Ukraine refugees seeking shelter after reaching the border. 
+ <p class="updated_time"> 11:42 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60593203?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: ‘I’m water fasting with my wife so that my child can eat’</a> BBC: Hussain is in Kherson, Ukraine, and says he has to fast to be able to feed his child due to diminishing supplies. 
  <p class="updated_time"> 11:15 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60582788?at_medium=RSS&at_campaign=KARANGA">Western Australia: Isolated state reopens two years into the pandemic</a> BBC: Australia's last closed-border state finally allows back travellers two years into the pandemic. 
  <p class="updated_time"> 11:02 AM CT, Mar. 02 </p> 
@@ -83,7 +87,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:36 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/putin-sees-a-west-united-on-ukrainebut-what-about-china-and-india-11646234045">As West Unites on Ukraine, What About China and India?</a> WSJ: Where the two most populous countries land is a key question for Russian President Vladimir Putin and his country’s economy. 
  <p class="updated_time"> 04:21 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083872077/u-n-set-to-hold-vote-that-would-demand-russia-end-war-in-ukraine">The U.N. approves a resolution demanding Russia end the invasion of Ukraine</a> NPR: The General Assembly overwhelmingly supported a non-binding resolution that demands Russia immediately remove its forces from Ukraine. 
+ <a href="https://www.npr.org/2022/03/02/1083872077/u-n-set-to-hold-vote-that-would-demand-russia-end-war-in-ukraine">The U.N. approves a resolution demanding that Russia end the invasion of Ukraine</a> NPR: The General Assembly overwhelmingly supported a nonbinding resolution that demands that Russia immediately remove its forces from Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
@@ -96,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/china-eying-taiwan-gets-lesson-from-ukraines-stiff-resistance-11646226559">China, Eying Taiwan, Gets Lesson From Ukraine's Stiff Resistance</a> WSJ: Analysts say it is unlikely that Beijing, having seen Russia’s troubles in Ukraine, would give up the option of absorbing Taiwan by force. Instead, Moscow’s slow progress shows the value of overwhelming initial strikes that some assume China would make in any assault on the island. 
  <p class="updated_time"> 01:58 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60583924?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Walkout at UN as Russian foreign minister Sergey Lavrov speaks</a> BBC: Watch the moment diplomats in Geneva turned their backs on Sergey Lavrov as he spoke via video link. 
- <p class="updated_time"> 01:43 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60580037?at_medium=RSS&at_campaign=KARANGA">Tanzania: Ukrainian tourists stranded in Zanzibar want to return home</a> BBC: Around 1,000 Ukrainian tourists are stranded in Tanzania's semi-autonomous islands of Zanzibar. 
  <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 12:18 AM CT, Mar. 02 </p> 
@@ -145,7 +147,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:55 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083775493/big-oil-companies-cut-business-ties-with-russia">Big oil companies cut business ties with Russia</a> NPR: BP, Equinor and Shell have all announced they are terminating their ties to the Russian oil industry — a move that will cost them billions of dollars. 
  <p class="updated_time"> 03:55 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083775486/africans-and-south-asians-are-having-an-especially-difficult-time-leaving-ukrain">Africans and South Asians are having an especially difficult time leaving Ukraine</a> NPR: Africans and South Asians studying and working in Ukraine have had added difficulty leaving the country because of discriminatory treatment by local authorities. 
+ <a href="https://www.npr.org/2022/03/01/1083775486/africans-and-south-asians-are-having-an-especially-difficult-time-leaving-ukrain">African students say they're facing discrimination as they try to leave Ukraine</a> NPR: Africans and South Asians studying and working in Ukraine have had added difficulty leaving the country because of discriminatory treatment by local authorities. 
  <p class="updated_time"> 03:44 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/investors-ukraine-russia-markets.html">War in Ukraine Has Investors Thinking About a Second Cold War</a> NYT: Military conflicts have not been a major factor in market movements for decades. But Russia’s invasion of Ukraine has put global relations back on investors’ minds. 
  <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
@@ -180,8 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
- <p class="updated_time"> 05:20 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-ukraine-invasion-questions.html">What Questions Do You Have About Russia’s Invasion of Ukraine?</a> NYT: New York Times reporters will answer reader questions about the war, the world’s response and the effects of sanctions against Russia. 
  <p class="updated_time"> 03:52 AM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
  <p class="updated_time"> 01:47 AM CT, Mar. 01 </p> 
@@ -203,8 +203,12 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246">Manchin lays out a Dem bill he can back: Taxes, prescription drugs, climate cash</a> Politico: "And the social issues, we basically have to deal with those" afterward, the West Virginia centrist said in a post-State of the Union interview. 
+ <p class="updated_time"> 01:21 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, U.S. Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins her congressional charm offensive</a> Politico: The Supreme Court nominee met with the Senate majority and minority leaders Wednesday, and is set to sit with Judiciary Committee leaders in the afternoon. 
+ <p class="updated_time"> 01:08 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/business/trump-hotels-ceo-eric-danziger.html">Trump Hotel C.E.O. Leaves a Shrinking Brand</a> NYT: Eric Danziger was the only outsider to lead the Trump hotel group. His departure, for family reasons, comes as the Trumps pursue a future beyond hotels. 
  <p class="updated_time"> 01:08 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083927329/federal-reserve-interest-rates-inflation-ukraine-russia">The Federal Reserve is ready to raise interest rates soon despite the war in Ukraine</a> NPR: Fed Chair Jerome Powell says the central bank is prepared to begin raising interest rates this month to fight inflation despite economic uncertainty after Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Mar. 02 </p> 
