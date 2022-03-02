@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:03 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
+ <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 12:18 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083873339/new-zealand-protesters-set-fires-as-police-break-up-camp">New Zealand protesters set fires as police break up camp</a> NPR: The police action was the most significant use of force to date by authorities against the protesters, who oppose coronavirus vaccine mandates. 
- <p class="updated_time"> 12:06 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
  <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 11:31 PM CT, Mar. 01 </p> 
@@ -20,14 +22,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
  <p class="updated_time"> 10:56 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
- <p class="updated_time"> 10:36 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 10:17 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60582210?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden vows 'freedom will triumph over tyranny'</a> BBC: "He has no idea what's coming," the US president says of economic retaliation against Vladimir Putin. 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html">Russia Escalates Attacks on Ukraine as Refugee Numbers Surge</a> NYT: There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor. 
  <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
+ <p class="updated_time"> 08:51 PM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60517569?at_medium=RSS&at_campaign=KARANGA">Standing ovation for Ukrainian ambassador at Biden's State of the Union address</a> BBC: President Biden says the US stands with Ukraine and must send a message to the rest of the world. 
  <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 08:10 PM CT, Mar. 01 </p> 
@@ -196,8 +198,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/health/pfizer-vaccine-kids.html">Pfizer Shot Is Far Less Effective in 5- to 11-Year-Olds Than in Older Kids, New Data Show</a> NYT: While protection against hospitalization is still strong, the vaccine offered almost no protection against infection, even just a month after full vaccination. 
  <p class="updated_time"> 09:26 AM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/switzerland-russian-assets-freeze.html">Switzerland Says it Will Freeze Russian Assets</a> NYT: The decision came amid mounting public anger at Russia’s invasion of Ukraine. 
- <p class="updated_time"> 07:37 AM CT, Feb. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60558621?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Videos show locals confronting Russian forces</a> BBC: Videos from social media show tanks retreating and locals telling soldiers to go back to Russia. 
 
 
 </details>
@@ -205,6 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:37 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Abbott and O’Rourke Win Their Texas Primaries</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 12:27 AM CT, Mar. 02 </p> 
@@ -221,8 +223,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/reynolds-ukraine-russia-state-of-the-union-00013083">Iowa Gov. Reynolds stands by Ukraine in critique of Biden</a> Politico: Russia's invasion of Ukraine has exposed faultlines among Republicans, complicating their efforts to counter-message Biden's handling of the issue. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
- <p class="updated_time"> 11:20 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Abbott and O’Rourke Win Their Texas Primaries</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
  <p class="updated_time"> 11:19 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/02/1083868623/democrat-rep-rashida-tlaib-delivers-a-response-to-bidens-state-of-the-union">Democrat Rep. Rashida Tlaib delivers a response to Biden's State of the Union</a> NPR: Her speech detailed a progressive political vision for the future, from lowering prescription drug costs to making major investments in tackling climate change and enshrining abortion access. 
  <p class="updated_time"> 11:14 PM CT, Mar. 01 </p> 
