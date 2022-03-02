@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:29 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 07:43 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 07:35 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
  <p class="updated_time"> 06:46 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple, Nike and Google join brands limiting services</a> BBC: Customers won't be able to use Apple Pay, while sportswear firm Nike is no longer taking online orders. 
  <p class="updated_time"> 06:29 AM CT, Mar. 02 </p> 
@@ -60,8 +62,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
  <p class="updated_time"> 10:56 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
- <p class="updated_time"> 10:52 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
  <p class="updated_time"> 10:17 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60582210?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden threatens to punish Putin over invasion</a> BBC: The US president calls Russia's president a "dictator" and vows to punish him over the Ukraine invasion. 
  <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
