@@ -8,28 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:06 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 12:33 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention. 
+ <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
+ <p class="updated_time"> 12:28 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 12:26 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich says he plans to sell club</a> BBC: Chelsea owner Roman Abramovich says he plans to sell the Premier League club. 
+ <p class="updated_time"> 12:21 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-refugees-eu.html">E.U. Expected to Grant Blanket Protection to Ukrainian Refugees</a> NYT: Under the measure, which would apply to all Ukrainian nationals, refugees would be granted the right to live, study and work across the 27-member bloc for up to three years. 
  <p class="updated_time"> 12:04 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/music/valery-gergiev-anna-netrebko-putin-ukraine.html">Valery Gergiev and Anna Netrebko's Putin Ties Threaten Their Careers</a> NYT: The Russian conductor Valery Gergiev and the diva Anna Netrebko have lost engagements because of their ties to Putin, as geopolitics and music collide once again. 
+ <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60592658?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: EA removes Russian teams from Fifa 22 game</a> BBC: The games publisher says it "stands in solidarity with the Ukrainian people". 
  <p class="updated_time"> 11:51 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60593201?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mum in Poland takes in fleeing families</a> BBC: Joanna is opening her home in Poland to Ukraine refugees seeking shelter after reaching the border. 
- <p class="updated_time"> 11:38 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
- <p class="updated_time"> 11:30 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/eu-protection-ukraine-refugees.html">The E.U. is expected to grant blanket protection to Ukrainian refugees.</a> NYT: Under the measure, which would apply to all Ukrainian nationals, refugees would be granted the right to live, study and work across the 27-member bloc for up to three years. 
  <p class="updated_time"> 11:15 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60582788?at_medium=RSS&at_campaign=KARANGA">Western Australia: Isolated state reopens two years into the pandemic</a> BBC: Australia's last closed-border state finally allows back travellers two years into the pandemic. 
- <p class="updated_time"> 11:07 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60592658?at_medium=RSS&at_campaign=KARANGA">EA removes Russian team from Fifa 22</a> BBC: The games publisher says it "stands in solidarity with the Ukrainian people". 
  <p class="updated_time"> 11:02 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/australia/new-zealand-protest-vaccine.html">New Zealand Police Move to End Protest, and Violence Erupts</a> NYT: Fires and violence at a protest opposing vaccine mandates were a rare sight in a country known for its relative serenity and stability. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Ukrainian city of Mariupol 'near to humanitarian catastrophe' after bombardment</a> BBC: The deputy mayor of Mariupol says he believes hundreds of people have died in the Russian onslaught. 
  <p class="updated_time"> 10:55 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-orthodox-church.html">Also at Stake in Ukraine: the Future of Two Orthodox Churches</a> NYT: The Russian church hopes to reunite with the independent Ukrainian branch under a single patriarch in Moscow that would allow it to control the holiest sites of Orthodoxy in the Slavic world. 
- <p class="updated_time"> 10:45 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention and could move to disrupt the flow of arms through Poland. 
  <p class="updated_time"> 10:45 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083911717/russian-police-jail-kids-who-took-flowers-and-no-to-war-signs-to-ukraines-embass">Russian police jail kids who took flowers and 'No to War' signs to Ukraine's embassy</a> NPR: The children were still clutching their flowers as they sat in custody. Police reportedly threatened mothers with losing their parental rights. 
  <p class="updated_time"> 10:43 AM CT, Mar. 02 </p> 
@@ -56,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 08:44 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/02/1083314101/photos-record-breaking-floods-devastate-eastern-australia">Photos: Record-breaking floods devastate eastern Australia</a> NPR: Thousands have been ordered to evacuate as the southeast coast of Australia experiences the worst flood in decades. 
- <p class="updated_time"> 08:30 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60585081?at_medium=RSS&at_campaign=KARANGA">Chelsea: Roman Abramovich future in doubt after Swiss billionaire claims he has been offered chance to buy club</a> BBC: Roman Abramovich's future as Chelsea owner is in doubt after a Swiss billionaire claims he has been offered the chance to buy the club. 
  <p class="updated_time"> 08:26 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
  <p class="updated_time"> 08:14 AM CT, Mar. 02 </p> 
@@ -66,6 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/indian-student-ukraine-death.html">Death of Indian Student in Ukraine Shows Plight of Thousands</a> NYT: Naveen Shekharappa was killed when he left a bunker in Kharkiv to fetch food, officials and his family members said. 
  <p class="updated_time"> 07:35 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
+ <p class="updated_time"> 06:53 AM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-invasion-in-ukraine-widens-the-wests-options-shrink-11646243596">As Russian Invasion Widens, the West's Options Shrink</a> WSJ: The U.S. and its NATO allies are coming under increasing pressure to do more to help Ukraine, even as they face diminishing options for doing so. 
  <p class="updated_time"> 06:29 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60583926?at_medium=RSS&at_campaign=KARANGA">Are Russia's attacks war crimes?</a> BBC: As Russia's invasion of Ukraine continues, does what we’re witnessing amount to war crimes? 
  <p class="updated_time"> 06:10 AM CT, Mar. 02 </p> 
@@ -81,7 +83,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:36 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/putin-sees-a-west-united-on-ukrainebut-what-about-china-and-india-11646234045">As West Unites on Ukraine, What About China and India?</a> WSJ: Where the two most populous countries land is a key question for Russian President Vladimir Putin and his country’s economy. 
  <p class="updated_time"> 04:21 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083872077/u-n-set-to-hold-vote-that-would-demand-russia-end-war-in-ukraine">The U.N. approves a resolution demanding Russia end the invasion of Ukraine </a> NPR: The General Assembly overwhelmingly supported a non-binding resolution that demands Russia immediately remove its forces from Ukraine. 
+ <a href="https://www.npr.org/2022/03/02/1083872077/u-n-set-to-hold-vote-that-would-demand-russia-end-war-in-ukraine">The U.N. approves a resolution demanding Russia end the invasion of Ukraine</a> NPR: The General Assembly overwhelmingly supported a non-binding resolution that demands Russia immediately remove its forces from Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60585633?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv university ablaze after Russian missile hit</a> BBC: Video shows firefighters tackling a blaze at the Karazin National University in Ukraine's second city. 
  <p class="updated_time"> 03:33 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60584602?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Crowd surround car with Russian markings</a> BBC: Watch as a crowd in the north-eastern city of Kupiansk try to stop the vehicle from leaving. 
- <p class="updated_time"> 03:25 AM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-diplomatic-push-for-ukraine-falters-in-a-middle-east-influenced-by-russia-11646214130">U.S. Diplomatic Push for Ukraine Falters in a Middle East Influenced by Russia</a> WSJ: From the Persian Gulf’s oil-rich monarchies to Israel, U.S. allies and partners are staying neutral or tempering their criticism of Moscow in a revealing sign of Russia’s growing influence in the region. 
  <p class="updated_time"> 02:09 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/china-eying-taiwan-gets-lesson-from-ukraines-stiff-resistance-11646226559">China, Eying Taiwan, Gets Lesson From Ukraine's Stiff Resistance</a> WSJ: Analysts say it is unlikely that Beijing, having seen Russia’s troubles in Ukraine, would give up the option of absorbing Taiwan by force. Instead, Moscow’s slow progress shows the value of overwhelming initial strikes that some assume China would make in any assault on the island. 
  <p class="updated_time"> 01:58 AM CT, Mar. 02 </p> 
@@ -205,6 +205,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246">Manchin lays out a Dem bill he can back: Taxes, prescription drugs, climate cash</a> Politico: "And the social issues, we basically have to deal with those" afterward, the West Virginia centrist said in a post-State of the Union interview. 
+ <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins her congressional charm offensive</a> Politico: The Supreme Court nominee met with the Senate majority and minority leaders Wednesday, and is set to sit with Judiciary Committee leaders in the afternoon. 
  <p class="updated_time"> 12:46 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/russia-space-chief-hacking-satellites-war-00013211">Russia's space chief says hacking satellites 'a cause for war'</a> Politico: Yet Dmitry Rogozin denied a report that a cyber group had shut down satellite operations. 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
@@ -212,7 +216,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:48 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/gas-pipelines-cyber-risk-00011898">Gas pipelines pose a growing cyber risk for U.S. power supply</a> Politico: Nearly 40 percent of the nation's electricity comes from plants burning natural gas, almost all of it arriving by pipelines whose systems offer a ripe target for sabotage. 
  <p class="updated_time"> 11:44 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/economy/sarah-bloom-raskin-federal-reserve-nominee-biden.html">Biden’s Fed Nominees Are Frozen as One Faces Republican Questions</a> NYT: Sarah Bloom Raskin, his choice for the Federal Reserve’s head of bank oversight, has faced staunch G.O.P. opposition over her climate views. Yet her private sector work is holding up her nomination. 
+ <a href="https://www.nytimes.com/2022/03/02/business/economy/sarah-bloom-raskin-biden-fed.html">Biden’s Fed Nominees Are Frozen as One Faces Republican Questions</a> NYT: Sarah Bloom Raskin, his choice for the Federal Reserve’s head of bank oversight, has faced staunch G.O.P. opposition over her climate views. Yet her private sector work is holding up her nomination. 
  <p class="updated_time"> 11:39 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Oath Keeper charged with seditious conspiracy for Jan. 6 attack poised to plead guilty</a> Politico: James was a member of the Oath Keeper's leadership who repeatedly messaged with other Oath Keepers about planning for Jan. 6. 
  <p class="updated_time"> 11:09 AM CT, Mar. 02 </p> 
@@ -239,8 +243,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:08 AM CT, Mar. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 06:24 AM CT, Mar. 02 </p> 
- <a href="https://www.cnn.com/2022/03/01/politics/state-of-the-union-2022-winners-losers/index.html">Hits and misses from Joe Biden's State of the Union</a> CNN: President Joe Biden delivered his first State of the Union address on Tuesday night, a speech that came amid Russia's invasion of Ukraine and lagging poll numbers in advance of the 2022 midterm elections. 
+ <p class="updated_time"> 06:21 AM CT, Mar. 02 </p> 
+ <a href="https://www.cnn.com/2022/03/02/politics/texas-2022-primary-election-takeaways/index.html">6 takeaways from the Texas primaries</a> CNN: Two of the biggest names in Texas politics could be headed to overtime in their efforts to fend off primary challengers. 
  <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
  <p class="updated_time"> 05:00 AM CT, Mar. 02 </p> 
