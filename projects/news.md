@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:51 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 12:06 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
  <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
@@ -205,6 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
+ <p class="updated_time"> 12:06 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 11:59 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-reactions-00013093">Congress returns to normal-ish for Biden’s speech — with cheers, jeers and viral moments</a> Politico: A Russian war and economic angst didn’t stop mostly maskless lawmakers from resuming some time-honored State of the Union traditions. Including heckling. 
  <p class="updated_time"> 11:44 PM CT, Mar. 01 </p> 
@@ -215,8 +217,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/reynolds-ukraine-russia-state-of-the-union-00013083">Iowa Gov. Reynolds stands by Ukraine in critique of Biden</a> Politico: Russia's invasion of Ukraine has exposed faultlines among Republicans, complicating their efforts to counter-message Biden's handling of the issue. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
- <p class="updated_time"> 11:28 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 11:19 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/02/1083868623/democrat-rep-rashida-tlaib-delivers-a-response-to-bidens-state-of-the-union">Democrat Rep. Rashida Tlaib delivers a response to Biden's State of the Union</a> NPR: Her speech detailed a progressive political vision for the future, from lowering prescription drug costs to making major investments in tackling climate change and enshrining abortion access. 
  <p class="updated_time"> 11:14 PM CT, Mar. 01 </p> 
@@ -249,8 +249,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083855975/republican-response-iowa-kim-reynolds-text-state-of-the-union">Read Iowa Gov. Kim Reynolds' Republican response to the State of the Union</a> NPR: Iowa Gov. Kim Reynolds delivers the Republican response to President Biden's first State of the Union address. 
  <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
- <p class="updated_time"> 10:04 PM CT, Mar. 01 </p> 
- <a href="https://www.cnn.com/2022/03/01/politics/gallery/state-of-the-union-biden-first-address/index.html">In pictures: Biden's first State of the Union address</a> CNN: President Joe Biden is delivering his first State of the Union address on Tuesday night, and he is expected to use his biggest platform of the year to blast Russian President Vladimir Putin for invading Ukraine. 
  <p class="updated_time"> 09:59 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083865116/nancy-pelosi-inkstand-state-of-the-union-2022">What we know about the inkstand in front of Nancy Pelosi during the State of the Union</a> NPR: The inkstand is the oldest surviving artifact of the House of Representatives, dating back to the early 1800s. 
  <p class="updated_time"> 09:34 PM CT, Mar. 01 </p> 
