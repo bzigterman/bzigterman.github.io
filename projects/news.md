@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:20 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 07:29 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 06:46 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple, Nike and Google join brands limiting services</a> BBC: Customers won't be able to use Apple Pay, while sportswear firm Nike is no longer taking online orders. 
@@ -34,6 +34,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60585633?at_medium=RSS&at_campaign=KARANGA">Ukraine: Kharkiv university ablaze after Russian missile hit</a> BBC: Video shows firefighters tackling a blaze at the Karazin National University in Ukraine's second city. 
  <p class="updated_time"> 03:33 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60584602?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Crowd surround car with Russian markings</a> BBC: Watch as a crowd in the north-eastern city of Kupiansk try to stop the vehicle from leaving. 
+ <p class="updated_time"> 02:34 AM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/beijings-careful-line-on-conflict-clouds-outlook-for-its-citizens-in-ukraine-11646217353">Beijing's Careful Line on Conflict Clouds Outlook for Its Citizens in Ukraine</a> WSJ: After playing down U.S. warnings of a Russian invasion, China is struggling to evacuate its citizens—while fighting a perception in Ukraine that it has sided with Moscow. 
  <p class="updated_time"> 01:58 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60583924?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Walkout at UN as Russian foreign minister Sergey Lavrov speaks</a> BBC: Watch the moment diplomats in Geneva turned their backs on Sergey Lavrov as he spoke via video link. 
  <p class="updated_time"> 01:43 AM CT, Mar. 02 </p> 
@@ -50,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-s-diplomatic-push-for-ukraine-falters-in-a-middle-east-influenced-by-russia-11646214130">U.S. Diplomatic Push for Ukraine Falters in a Middle East Influenced by Russia</a> WSJ: From the Persian Gulf’s oil-rich monarchies to Israel, U.S. allies and partners are staying neutral or tempering their criticism of Moscow in a revealing sign of Russia’s growing influence in the region. 
  <p class="updated_time"> 12:00 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/foreign-refugees-fleeing-ukraine-say-they-were-held-for-days-at-border-11646218800">Black, Asian and Middle Eastern Refugees Fleeing Ukraine Are Blocked at Border</a> WSJ: People from Africa, South Asia and the Middle East say they were pulled aside, as guards prioritized Ukrainians. 
- <p class="updated_time"> 11:35 PM CT, Mar. 01 </p> 
- <a href="https://www.wsj.com/articles/beijings-careful-line-on-conflict-clouds-outlook-for-its-citizens-in-ukraine-11646217353">Beijing's Careful Line on Conflict Clouds Outlook for Its Citizens in Ukraine</a> WSJ: After playing down U.S. warnings of a Russian invasion, China is struggling to evacuate its citizens—while fighting a perception in Ukraine that it has sided with Moscow. 
  <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 11:31 PM CT, Mar. 01 </p> 
@@ -240,7 +240,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:32 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 01:54 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083785432/biden-state-of-the-union-recap">5 takeaways from Biden's State of the Union address</a> NPR: The president painted an optimistic view of life amid the pandemic in front of a much more unified-looking Congress than in past years. 
+ <a href="https://www.npr.org/2022/03/02/1083785432/biden-state-of-the-union-recap">5 takeaways from Biden's State of the Union address</a> NPR: The president painted an optimistic view of life amid the pandemic in front of a Congress that appeared to be more unified than in recent years. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 12:27 AM CT, Mar. 02 </p> 
@@ -299,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1082974551/beto-orourke-wins-texas-governors-primary-setting-up-potential-race-against-abbo">Texas Gov. Abbott and Beto O'Rourke are set for an election clash after primary wins</a> NPR: Both Republican Gov. Greg Abbott and Democratic nominee Beto O'Rourke easily won their primaries. Texas hasn't elected a Democratic governor in more than three decades. 
  <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/u-s-bans-russian-flights-00013007">U.S. bans all Russian flights from its airspace</a> Politico: The U.S. airline industry had already been withdrawing from serving Russia. 
- <p class="updated_time"> 07:58 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/roku-boots-rt-from-its-global-platform-00013014">Roku boots RT from its global platform</a> Politico: The internet TV and streaming service becomes the latest to disassociate itself from the Russia state-controlled network. 
  <p class="updated_time"> 07:49 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/exxon-russia-ukraine-energy-00013003">Exxon to leave Russian energy project, halt new investments in the country</a> Politico: Exxon, the operator of the Sakhalin-1 LNG project will start a “carefully managed” exit, the company said in a press release. 
  <p class="updated_time"> 07:42 PM CT, Mar. 01 </p> 
@@ -397,8 +395,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
  <p class="updated_time"> 12:41 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/lawmakers-of-both-parties-condemn-russias-invasion-00011313">Lawmakers of both parties condemn Russia's invasion</a> Politico: “﻿Putin must be made to rue the day," one senator said. 
- <p class="updated_time"> 07:35 AM CT, Feb. 23 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/23/sanctions-split-gop-00010910">Sanctions split GOP</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
