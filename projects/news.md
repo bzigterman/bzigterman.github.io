@@ -8,26 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:16 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Updates: Russian Planes Will Be Banned From U.S. Airspace</a> NYT: Explosions struck the capital, Kyiv, near a memorial for a massacre of Jews in World War II, as well as in Ukraine’s second largest city, Kharkiv. President Zelensky accused Russia of war crimes for targeting civilians. 
+ <p class="updated_time"> 08:58 PM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
+ <p class="updated_time"> 08:57 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
+ <p class="updated_time"> 08:46 PM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60582210?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Biden vows 'freedom will triumph over tyranny'</a> BBC: "He has no idea what's coming," the US president says of economic retaliation against Vladimir Putin. 
+ <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 08:10 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083844823/exxonmobil-joins-business-exodus-from-russia-after-decades-of-close-ties">ExxonMobil joins business exodus from Russia after decades of close ties</a> NPR: The American oil and gas giant is "beginning the process to discontinue operations" at the Sakhalin-1 project off Russia's eastern coast. The company also says it won't make new investments in Russia. 
- <p class="updated_time"> 07:56 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60579247?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia's Kharkiv attacks are war crimes, says Zelensky</a> BBC: The Ukrainian president asks the EU to prove it is with his country, while accusing Russia of terrorism. 
  <p class="updated_time"> 07:45 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-european-union-membership.html">Why Joining the E.U. May Not Be Easy for Ukraine</a> NYT: Russia’s invasion of Ukraine is helping to focus minds in Brussels. But the country has big hurdles to overcome before it can join the E.U., the world’s biggest trading bloc. 
  <p class="updated_time"> 07:13 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60571737?at_medium=RSS&at_campaign=KARANGA">Ukraine: Watching the war on Russian TV - a whole different story</a> BBC: The war in Ukraine has led to outrage in the West, but in Russia TV viewers see a very different story. 
  <p class="updated_time"> 07:12 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60559014?at_medium=RSS&at_campaign=KARANGA">Ukraine's tech community rises to challenges of war</a> BBC: From an app to alert people to sirens, to organising supplies, tech firms are helping the war effort. 
- <p class="updated_time"> 07:08 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 06:59 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html">Russia Escalates Attacks on Ukraine as Refugee Numbers Surge</a> NYT: There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor. 
  <p class="updated_time"> 06:53 PM CT, Mar. 01 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple to halt sales and limit services in Russia</a> BBC: Apple is the latest firm to stop selling products in Russia and will limit Apple Pay and other services. 
- <p class="updated_time"> 06:32 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60582210?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: West was ready for Russian invasion, says Biden</a> BBC: Vladimir Putin thought Nato wouldn't respond but he was wrong, Biden will tell Congress in his annual speech. 
  <p class="updated_time"> 06:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/south-korea-diversity-muslims.html">Mosque Dispute Becomes Flash Point in South Korean Identity Politics</a> NYT: A mosque dispute in a conservative city has forced some South Koreans to confront what it means to live in an increasingly diverse society. 
  <p class="updated_time"> 06:19 PM CT, Mar. 01 </p> 
@@ -205,14 +205,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:38 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-masks-00013054">The masks come off at Biden’s State of the Union address</a> Politico: Most attendees left their face coverings at home in accordance with the masks-optional guidance issued by the Capitol’s attending physician this week. 
+ <p class="updated_time"> 09:24 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/supreme-court-justices-biden-state-of-the-union-00013043">These are the Supreme Court justices who showed up for Biden’s State of the Union</a> Politico: Justices Stephen Breyer, Elena Kagan, Brett Kavanaugh, Amy Coney Barrett and Chief Justice John Roberts were at the Capitol for the president’s speech. 
  <p class="updated_time"> 09:05 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-commerce-secretary-gina-raimondo-00013027">State of the Union’s designated survivor: Commerce Secretary Gina Raimondo</a> Politico: Presidents typically pick a top official to keep the government running in the event of a disaster that wipes out the line of presidential succession. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
- <p class="updated_time"> 08:26 PM CT, Mar. 01 </p> 
+ <p class="updated_time"> 08:57 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-will-cite-tremendous-progress-against-an-unpredictable-virus.html">Biden administration plans to release new coronavirus strategy on Wednesday.</a> NYT: The plan is expected to be a lengthy document intended to usher the nation into what some are calling a “new normal,” where Americans will learn to live with the virus. 
+ <p class="updated_time"> 08:56 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Abbott and O’Rourke Win Their Texas Primaries</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
+ <p class="updated_time"> 08:54 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/capitol-state-of-the-union.html">At the Capitol, a New Normal Greets Biden</a> NYT: President Biden’s address unfolded in a Capitol still grappling with a pandemic and the aftermath of a deadly riot, and now confronting a war in Ukraine. 
- <p class="updated_time"> 08:25 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Primary Day in Texas Will Offer Preview of Midterm Battles Ahead</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
+ <p class="updated_time"> 08:41 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Biden Says Fighting Inflation Is ‘Top Priority’ as Prices Bite Consumers</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
+ <p class="updated_time"> 08:37 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-panel-subpoenas.html">Jan. 6 Panel Subpoenas Lawyers Who Worked to Overturn Trump’s Loss</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
+ <p class="updated_time"> 08:34 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Prepared Text of Biden’s State of the Union Address</a> NYT: President Biden is delivering his annual State of the Union address. The following is the prepared text of his remarks, as released by the White House. 
+ <p class="updated_time"> 08:34 PM CT, Mar. 01 </p> 
+ <a href="https://www.npr.org/2022/03/01/1083849185/state-of-the-union-two-women-history-made">For the 1st time, 2 women are seated behind the president during a State of the Union</a> NPR: Vice President Kamala Harris and House Speaker Nancy Pelosi sat behind Biden during his joint address to Congress last year, but that speech was not an official State of the Union address. 
  <p class="updated_time"> 08:24 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-ukraine-invasion.html">In His First Address, Biden Focuses on Global Unity Against Russia's Invasion</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 08:04 PM CT, Mar. 01 </p> 
@@ -224,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:34 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083845000/state-of-the-union-covid">State of the Union attendance required a COVID test. 5 legislators tested positive</a> NPR: To attend tonight's speech, guests — even those who are fully vaccinated — are required to produce a negative test. Attendees will not be required to wear masks tonight. 
  <p class="updated_time"> 07:30 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/texas-primary-results-2022-00013001">Texas primaries kick off year of change for both parties</a> Politico: Republicans and Democrats competing to set the future course of their parties are on the ballot in Texas Tuesday night. 
+ <a href="https://www.politico.com/news/2022/03/01/texas-primary-results-2022-00013001">Cuellar in danger as Texas primary votes roll in</a> Politico: The Democratic congressman is facing a primary from the left in South Texas, headlining the first contests of the 2022 midterms. 
  <p class="updated_time"> 07:11 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083817494/arizona-state-senate-censures-lawmaker-who-threatened-rivals-with-violence">Arizona State Senate censures lawmaker who threatened rivals with violence </a> NPR: State Sen. Wendy Rogers, a Republican, spoke at a conference organized by a far-right group and later used anti-Semitic tropes to describe Ukraine's leader. 
  <p class="updated_time"> 06:47 PM CT, Mar. 01 </p> 
@@ -233,8 +247,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-ukraine-midterms.html">As Biden Speaks, Ukraine Crisis Escalates and Midterm Elections Start</a> NYT: As President Biden delivers his first formal State of the Union address, Russia’s invasion of Ukraine escalates and the midterms begin in earnest in Texas. 
  <p class="updated_time"> 05:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/wisconsin-republicans-election-report.html">Wisconsin Republicans’ Election Report Endorses Debunked Legal Theories</a> NYT: A former State Supreme Court justice leading an investigation into the 2020 election said lawmakers should “take a very hard look” at trying to decertify President Biden’s victory in Wisconsin. 
- <p class="updated_time"> 05:33 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/biden-putin-russia-sotu-00012975">‘Putin was wrong. We were ready’: Biden will condemn Russian leader in address</a> Politico: The president will say in his State of the Union speech that the attack on Ukraine was “premeditated and unprovoked,” according to excerpts released by the White House. 
  <p class="updated_time"> 05:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-union-ukraine-ambassador.html">Ukraine’s U.N. Ambassador Will Be at Biden's State of the Union Address</a> NYT: Ambassador Oksana Markarova will be seated in Jill Biden’s box, along with a whistle-blower from Facebook, a steelworker union member and other guests. 
  <p class="updated_time"> 05:23 PM CT, Mar. 01 </p> 
@@ -259,8 +271,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/bidens-approval-rating-drops-ahead-of-state-of-the-union-00012875">Biden’s approval rating drops ahead of State of the Union</a> Politico: While 41 percent of Americans approve of the job Biden is doing, 56 percent disapprove, according to a new POLITICO/Morning Consult poll. 
  <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083775428/president-biden-to-deliver-his-1st-state-of-the-union-address">President Biden to deliver his 1st State of the Union address</a> NPR: President Biden delivers the State of the Union address Tuesday. He will talk about how inflation is hampering the country's economic progress, the status of the pandemic and the war in Ukraine. 
- <p class="updated_time"> 03:15 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Inflation Will Loom Over Tonight’s State of the Union</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
  <p class="updated_time"> 02:27 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083627839/iowa-gov-reynolds-will-likely-tout-her-covid-response-in-state-of-the-union-rebu">Iowa Gov. Reynolds will likely tout her COVID response in State of the Union rebuttal</a> NPR: Iowa Republican Gov. Kim Reynolds' response to the pandemic, with few restrictions, has gotten her national attention. 
  <p class="updated_time"> 02:20 PM CT, Mar. 01 </p> 
@@ -269,10 +279,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over Republican agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
  <p class="updated_time"> 01:24 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/economy/ukraine-russia-supply-chains.html">Ukrainian Invasion Adds to Chaos for Global Supply Chains</a> NYT: Russia’s military incursion is severing key supply chains and setting off a scramble among global companies to comply with new sanctions. 
+ <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/wisconsin-republicans-embrace-election-decertification-00012793">Wisconsin GOP's 2020 report embraces fringe election decertification theory</a> Politico: Former state Supreme Court Justice Michael Gableman for months has been conducting a probe of the 2020 election. 
  <p class="updated_time"> 11:50 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">What Time Is the State of the Union Address and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
  <p class="updated_time"> 08:00 AM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1082601953/state-of-the-union-live-updates">Watch: President Biden will deliver his State of the Union on Tuesday night</a> NPR: Biden will deliver his first State of the Union address on Tuesday amid a high-stress period for the nation: a growing fatigue over the pandemic and Russia's continued invasion of Ukraine. 
+ <a href="https://www.npr.org/2022/03/01/1082601953/state-of-the-union-live-updates">Watch: President Biden delivers his State of the Union on Tuesday night</a> NPR: Biden is delivering his first State of the Union address on Tuesday amid a high-stress period for the nation: a growing fatigue over the pandemic and Russia's continued invasion of Ukraine. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:14 AM CT, Mar. 01 </p> 
@@ -282,7 +294,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
  <p class="updated_time"> 04:30 AM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-reset-biden-democrats-00012567">More like Reset of the Union: Dems hope for a pivot as Biden readies his speech</a> Politico: Congressional Democrats want the president to tout the party’s achievements without sounding tone-deaf about everyday economic issues. 
+ <a href="https://www.politico.com/news/2022/03/01/what-to-watch-texas-primaries-00012619">What to watch for in Texas’ primaries</a> Politico: The first primaries of 2022 highlight conflict over the future of both parties. 
  <p class="updated_time"> 04:05 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083664596/the-texas-primary-is-the-first-election-of-the-2022-midterms">The Texas primary is the first election of the 2022 midterms</a> NPR: It's primary day in Texas. Voters there will decide who to nominate for governor, attorney general and a host of other offices. 
  <p class="updated_time"> 04:05 AM CT, Mar. 01 </p> 
@@ -291,10 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083664505/morning-news-brief">News brief: Russian military convoy, sanctions fallout, State of the Union</a> NPR: Satellite images show a convoy of Russian forces headed to Kyiv. The world is watching to see how sanctions impact Russia. President Biden will give his State of the Union address Tuesday night. 
  <p class="updated_time"> 04:01 AM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083228514/4-races-to-watch-in-the-texas-primary">4 races to watch in the Texas primary</a> NPR: Texas holds the first primaries of the midterms on Tuesday. Here are four races to watch — two congressional contests and two contests in which statewide Republicans have primary challengers. 
- <p class="updated_time"> 04:00 AM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083606263/texas-primary-election-results">Results: Key Texas primary elections</a> NPR: Texas kicks off the 2022 midterm elections. There are notable primaries for governor and attorney general, and in key congressional districts. 
- <p class="updated_time"> 08:36 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/us/politics/house-lynching-hate-crime.html">House Passes Bill to Make Lynching a Hate Crime</a> NYT: Lawmakers in both parties hailed the action as historic, but a separate bill to outlaw discrimination based on a person’s natural hair failed amid Republican opposition. 
  <p class="updated_time"> 07:52 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/us/politics/ukraine-russia-microsoft.html">As Tanks Rolled Into Ukraine, So Did Malware. Then Microsoft Entered the War.</a> NYT: After years of talks about the need for public-private partnerships to combat cyberattacks, the war in Ukraine is stress-testing the system. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
@@ -305,6 +313,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/covid-vaccine-exemption-hospital-00011951">Health workers’ vaccine mandate undone by religious exemptions</a> Politico: Several hospital executives said they believe they have to approve the religious exemptions for their employees. 
  <p class="updated_time"> 06:43 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-leaders-rescind-mask-mandate-sotu-00012167">Capitol leaders rescind mask mandate ahead of State of the Union</a> Politico: The Office of the Attending Physician said it was following the Centers for Disease Control and Prevention's new guidelines on masking. 
  <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
@@ -339,6 +349,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/24/war-in-europe-00011319"> War in Europe</a> Politico Playbook: And Rick Scott kicks off an ad campaign for his policy platform. 
  <p class="updated_time"> 04:31 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/congress-is-eyeing-a-bipartisan-climate-trade-policy-thanks-to-trump-00009490">Congress is eyeing a bipartisan climate trade policy — thanks to Trump</a> Politico: Trump advanced a combative trade policy that wielded tariffs as a weapon, opening the door for Republicans to consider a protectionist trade policy linked to addressing climate change. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 24 </p> 
+ <a href="https://www.politico.com/news/2022/02/24/raffensperger-georgia-reelection-conservative-media-00011224">Georgia election official on Trump's enemies list takes his case to MAGA media</a> Politico: Secretary of State Brad Raffensperger has been on a conservative media tour trying to shore up his cred for a tough reelection challenge. 
  <p class="updated_time"> 12:41 AM CT, Feb. 24 </p> 
  <a href="https://www.politico.com/news/2022/02/24/lawmakers-of-both-parties-condemn-russias-invasion-00011313">Lawmakers of both parties condemn Russia's invasion</a> Politico: “﻿Putin must be made to rue the day," one senator said. 
  <p class="updated_time"> 05:02 PM CT, Feb. 23 </p> 
@@ -351,6 +363,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/23/gop-pans-bidens-first-taste-of-sanctions-00010906"> GOP pans Biden’s first taste of sanctions</a> Politico Playbook: And Biden reportedly interviews SCOTUS contenders. 
  <p class="updated_time"> 06:01 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/squad-member-to-deliver-response-to-biden-sotu-00010877">Squad member to deliver response to Biden SOTU</a> Politico: Michigan Rep. Rashida Tlaib will give the speech on behalf of the left-wing group Working Families Party. 
+ <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
+ <a href="https://www.politico.com/news/2022/02/23/states-push-15-week-abortion-bans-00010782">States push 15-week abortion bans as the right argues over a post-Roe strategy</a> Politico: Legislators say they’re taking what they see as a politically and legally safer approach, even if it means the vast majority of abortions in their states could still take place. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
  <a href="https://www.politico.com/news/2022/02/23/states-vaccine-passports-covid-00010802">More GOP states now wagering on vaccine ‘passports’ technology</a> Politico: The technology had been touted by supporters as a way to facilitate safer reopening after pandemic-related shutdowns. 
  <p class="updated_time"> 04:30 AM CT, Feb. 23 </p> 
