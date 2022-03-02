@@ -211,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:52 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083132197/texas-28th-district-cisneros-cuellar">Closely watched South Texas Democratic primary heads to a runoff</a> NPR: The primary battle between longtime Democratic Rep. Henry Cuellar, a fixture of South Texas politics, and progressive challenger Jessica Cisneros will continue on to a May runoff. 
  <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083881268/texas-primary-is-an-early-test-of-new-voting-rules-republicans-passed-in-many-st">Texas primary is an early test of new voting rules Republicans passed in many states</a> NPR: In the Texas primary, Republican Gov. Greg Abbott and Democratic nominee Beto O'Rourke easily won their primaries. Attorney General Ken Paxton will head to a GOP runoff against George P. Bush. 
  <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
@@ -279,8 +281,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083849185/state-of-the-union-two-women-history-made">For the 1st time, 2 women are seated behind the president during a State of the Union</a> NPR: Vice President Kamala Harris and House Speaker Nancy Pelosi sat behind Biden during his joint address to Congress last year, but that speech was not an official State of the Union address. 
  <p class="updated_time"> 08:04 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1082974551/beto-orourke-wins-texas-governors-primary-setting-up-potential-race-against-abbo">Texas Gov. Abbott and Beto O'Rourke are set for an election clash after primary wins</a> NPR: Both Republican Gov. Greg Abbott and Democratic nominee Beto O'Rourke easily won their primaries. Texas hasn't elected a Democratic governor in more than three decades. 
+ <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/u-s-bans-russian-flights-00013007">U.S. bans all Russian flights from its airspace</a> Politico: The U.S. airline industry had already been withdrawing from serving Russia. 
  <p class="updated_time"> 07:58 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/roku-boots-rt-from-its-global-platform-00013014">Roku boots RT from its global platform</a> Politico: The internet TV and streaming service becomes the latest to disassociate itself from the Russia state-controlled network. 
+ <p class="updated_time"> 07:49 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/exxon-russia-ukraine-energy-00013003">Exxon to leave Russian energy project, halt new investments in the country</a> Politico: Exxon, the operator of the Sakhalin-1 LNG project will start a “carefully managed” exit, the company said in a press release. 
  <p class="updated_time"> 07:42 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/gina-raimondo-sotu-designated-survivor.html">State of the Union Designated Survivor Is Gina Raimondo</a> NYT: The official is designated to watch the speech from afar in the event catastrophe strikes the Capitol while most of the government leaders are inside. 
  <p class="updated_time"> 07:39 PM CT, Mar. 01 </p> 
@@ -291,10 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/texas-primary-results-2022-00013001">Cuellar in danger as Texas primary votes roll in</a> Politico: The Democratic congressman is facing a primary from the left in South Texas, headlining the first contests of the 2022 midterms. 
  <p class="updated_time"> 07:11 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083817494/arizona-state-senate-censures-lawmaker-who-threatened-rivals-with-violence">Arizona State Senate censures lawmaker who threatened rivals with violence</a> NPR: State Sen. Wendy Rogers, a Republican, spoke at a conference organized by a far-right group and later used antisemitic tropes to describe Ukraine's leader. 
- <p class="updated_time"> 06:47 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083833182/a-preview-of-the-state-of-the-union-address">A preview of the State of the Union address</a> NPR: Ahead of President Biden's State of the Union address, NPR's Ari Shapiro previews the State of the Union address with NPR reporters and correspondents. 
- <p class="updated_time"> 06:15 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-manchin-00012989">Biden throws a line to Joe Manchin and hopes he bites</a> Politico: The president will emphasize deficit reduction in his State of the Union address. Officials say it’s not part of a larger philosophical shift. 
  <p class="updated_time"> 06:10 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/abbott-sued-texas-transgender-care-investigation-order-00012917">Abbott sued over Texas transgender care investigation order</a> Politico: Civil rights groups, a clinical psychologist and the family of a Texas child protection worker have sued Gov. Greg Abbott and the state. 
  <p class="updated_time"> 06:00 PM CT, Mar. 01 </p> 
@@ -305,6 +307,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/new-york-republicans-giuliani-trump-convention-00012885">‘Screw the Republicans’: New York’s GOP forgets Trump and angers Giuliani at convention</a> Politico: Former President Donald Trump was little mentioned during the festivities on Long Island as Republicans in New York look to win their first statewide seat since 2002. 
  <p class="updated_time"> 04:42 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
+ <p class="updated_time"> 04:37 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/ukraine-biden-senators-russian-energy-exports-00012752">Ukraine presses Biden, senators to hit Russian energy exports</a> Politico: Andriy Kobolyev's meetings with lawmakers come after Ukraine Foreign Minister Dmytro Kuleba on Tuesday criticized oil companies that had not yet completely severed ties with Russia. 
  <p class="updated_time"> 04:30 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Finds Few Buyers Even at Deep Discounts</a> NYT: Some European buyers, shippers, banks and insurers have grown leery of doing business with the country in recent days. 
  <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
@@ -337,12 +341,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/watch-state-of-the-union-biden.html">What Time Is the State of the Union Address and How to Watch</a> NYT: His speech to a joint session of Congress will be streaming on nytimes.com. 
  <p class="updated_time"> 11:14 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russian-military-convoy-nears-kyiv-00012759">40-mile Russian military convoy nears Kyiv</a> Politico: Russian forces launched a missile attack on Ukraine's second-largest city on Tuesday. 
+ <p class="updated_time"> 08:04 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/biden-white-house-russia-putin-00012696">How the Russia-Ukraine conflict has fundamentally changed Biden’s presidency</a> Politico: The president’s days are jam packed. But they’ve grown frantic and extremely Russia-focused as his State of the Union speech approaches. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
- <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">DeSantis sends Florida Democrats to redistricting purgatory</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 10:53 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ukraine-pleads-congress-more-aid-weapons-00012654">Ukraine pleads with Congress for more aid and weapons</a> Politico: As a Russian convoy heads for Kyiv, the Ukrainian ambassador told senators the military was running out of missiles. 
  <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
@@ -377,8 +381,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/state-of-the-union-biden-clinton-00012078">The backdrop of Biden’s State of the Union is crazy. But it won’t be the craziest.</a> Politico: Behold, an oral history of the speech Clinton gave to Congress while its members weighed impeaching him. 
  <p class="updated_time"> 09:56 AM CT, Feb. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
- <p class="updated_time"> 07:00 AM CT, Feb. 26 </p> 
- <a href="https://www.politico.com/news/2022/02/25/biden-going-easy-russia-energy-00011822">Why Biden is going easy on Russia's energy industry</a> Politico: U.S. and European dependence on Russian oil and gas is tempering the push for harsh sanctions on Russian President Vladimir Putin's regime. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
