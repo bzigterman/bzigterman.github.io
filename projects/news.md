@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 03:53 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 03:50 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1084046601/ea-russian-teams-fifa-nhl">EA is cutting Russian teams from its FIFA and NHL games over the Ukraine invasion</a> NPR: "We stand with the people of Ukraine and join the voices around the world calling for peace," EA said in a statement. 
  <p class="updated_time"> 03:42 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083999375/companies-exodus-russia-exxon-bp-apple-wework">One by one, global companies are cutting their ties to Russia</a> NPR: Companies ranging from GM to UPS are exiting or reducing their operations in Russia as wide-ranging sanctions make it all but impossible to operate in the country. 
  <p class="updated_time"> 03:41 PM CT, Mar. 02 </p> 
@@ -122,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html">Russia Escalates Attacks on Ukraine as Refugee Numbers Surge</a> NYT: There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor. 
  <p class="updated_time"> 04:36 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/putin-sees-a-west-united-on-ukrainebut-what-about-china-and-india-11646234045">As West Unites on Ukraine, What About China and India?</a> WSJ: Where the two most populous countries land is a key question for Russian President Vladimir Putin and his country’s economy. 
- <p class="updated_time"> 04:21 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083872077/u-n-set-to-hold-vote-that-would-demand-russia-end-war-in-ukraine">The U.N. approves a resolution demanding that Russia end the invasion of Ukraine</a> NPR: The General Assembly overwhelmingly supported a nonbinding resolution that demands that Russia immediately remove its forces from Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
@@ -203,6 +203,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:51 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/desantis-bully-masks-students-00013348">DeSantis called a ‘bully’ after he scolds students for wearing masks</a> Politico: Some of the students, visiting from a local Hillsborough County high school, took off their masks at the governor’s urging while others opted to keep them on their faces. 
+ <p class="updated_time"> 04:49 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/illinois-ex-house-speaker-racketeering-madigan-00013358">Illinois' ex-House speaker charged with racketeering</a> Politico: Michael Madigan, the former speaker of the Illinois House and for decades one of the nation’s most powerful legislators, has been charged with racketeering and bribery. 
+ <p class="updated_time"> 04:45 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/former-russian-oligarch-consultant-advising-adams-00013230">Former consultant for Russian oligarchs advising Adams on global affairs</a> Politico: Ed Mermelstein has worked as a foreign investment attorney and high-end real estate consultant. 
+ <p class="updated_time"> 03:53 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Jerome Powell, the Federal Reserve chair, said he would support a quarter-point increase at the March meeting. 
+ <p class="updated_time"> 03:49 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1084033868/advocates-are-applauding-bidens-plan-to-prioritize-mental-health-crisis">Advocates are applauding Biden's plan to prioritize mental health crisis</a> NPR: Health care providers and advocates say Biden's mental health plan is the first time in decades that the federal government is showing leadership in addressing the nation's mental health crisis. 
  <p class="updated_time"> 03:40 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/vaccine-mandate-health-workers.html">In Symbolic Vote, Senate Rejects Vaccine Mandate for Health Workers</a> NYT: Republicans forced the vote even though the measure has no chance of enactment, as part of an election-year effort to use pandemic precautions as a political weapon against Democrats. 
  <p class="updated_time"> 03:37 PM CT, Mar. 02 </p> 
@@ -215,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084033796/un-general-assembly-calls-on-russia-to-pull-its-troops-out-of-ukraine">UN General Assembly calls on Russia to pull its troops out of Ukraine</a> NPR: The United Nations General Assembly has passed a resolution condemning Russia's invasion of Ukraine. The resolution deplores Russia's aggression and criticizes Belarus for its involvement. 
  <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033789/president-bidens-new-covid-plan-puts-the-focus-on-testing-and-treatment">President Biden's new COVID plan puts the focus on testing and treatment</a> NPR: The White House has unveiled its new plan for getting back to normal after the pandemic. It relies more on testing and treating COVID cases rather than on restrictions. 
- <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Federal Reserve Chair Jerome Powell said he supports a quarter-point increase at the March meeting. 
  <p class="updated_time"> 03:31 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 03:20 PM CT, Mar. 02 </p> 
@@ -299,10 +307,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Full Transcript of Biden’s State of the Union Address</a> NYT: The president spoke about the war in Ukraine, the coronavirus pandemic, the economy and more in his State of the Union speech. 
  <p class="updated_time"> 11:44 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/kim-reynolds-state-of-the-union.html">Kim Reynolds Delivers Republican Rebuttal to State of the Union</a> NYT: The governor’s speech foreshadowed Republican arguments ahead of the midterm elections. 
- <p class="updated_time"> 11:19 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/02/1083868623/democrat-rep-rashida-tlaib-delivers-a-response-to-bidens-state-of-the-union">Democrat Rep. Rashida Tlaib delivers a response to Biden's State of the Union</a> NPR: Her speech detailed a progressive political vision for the future, from lowering prescription drug costs to making major investments in tackling climate change and enshrining abortion access. 
- <p class="updated_time"> 11:10 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-length-00013073">Biden’s known for being long-winded. Here’s how long his first State of the Union was.</a> Politico: Bill Clinton still holds the record for the longest State of the Union speech. 
  <p class="updated_time"> 10:49 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Panel Subpoenas Trump's Lawyers</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
@@ -311,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/capitol-state-of-the-union.html">At the Capitol, Biden Confronts a New Normal</a> NYT: President Biden’s address unfolded in a Capitol still grappling with a pandemic and the aftermath of a deadly riot, and now facing a war in Ukraine. 
  <p class="updated_time"> 10:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Unity in a Foreign Policy Crisis, but Questions Still to be Answered</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
- <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/biden-tough-russia-ukraine-00013058">Biden promises punishment for Putin, pledges to lessen impact on U.S.</a> Politico: The Russian president, he said, “badly miscalculated” in invading Ukraine. 
  <p class="updated_time"> 09:38 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-masks-00013054">The masks come off at Biden’s State of the Union address</a> Politico: Most attendees left their face coverings at home in accordance with the masks-optional guidance issued by the Capitol’s attending physician this week. 
  <p class="updated_time"> 09:26 PM CT, Mar. 01 </p> 
@@ -323,26 +325,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-commerce-secretary-gina-raimondo-00013027">State of the Union’s designated survivor: Commerce Secretary Gina Raimondo</a> Politico: Presidents typically pick a top official to keep the government running in the event of a disaster that wipes out the line of presidential succession. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
- <p class="updated_time"> 08:49 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/canada-g-7-russia-ukraine-sanctions-00012938">Canada: G-7 set to launch more sanctions against Russia's 'failing kleptocracy'</a> Politico: Freeland: "If you make war on the rules-based international order, we're going to cut you out of the global economy." 
  <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/u-s-bans-russian-flights-00013007">U.S. bans all Russian flights from its airspace</a> Politico: The U.S. airline industry had already been withdrawing from serving Russia. 
- <p class="updated_time"> 07:49 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/exxon-russia-ukraine-energy-00013003">Exxon to leave Russian energy project, halt new investments in the country</a> Politico: Exxon, the operator of the Sakhalin-1 LNG project will start a “carefully managed” exit, the company said in a press release. 
  <p class="updated_time"> 07:42 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/gina-raimondo-sotu-designated-survivor.html">State of the Union Designated Survivor Is Gina Raimondo</a> NYT: The official is designated to watch the speech from afar in the event catastrophe strikes the Capitol while most of the government leaders are inside. 
  <p class="updated_time"> 07:39 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/steve-sisolak-nevada-accosted.html">Nevada Gov. Steve Sisolak Is Accosted by Man Who Threatens to Hang Him</a> NYT: The governor was dining with his wife and daughter at a Las Vegas restaurant when a man asked him for a photo together before going into a profanity-laced rant. 
  <p class="updated_time"> 07:30 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/texas-primary-results-2022-00013001">Cuellar pulled into runoff after primary brawl</a> Politico: The Democratic congressman is facing a challenge from the left in South Texas, headlining the first contests of the 2022 midterms. 
- <p class="updated_time"> 06:10 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/abbott-sued-texas-transgender-care-investigation-order-00012917">Abbott sued over Texas transgender care investigation order</a> Politico: Civil rights groups, a clinical psychologist and the family of a Texas child protection worker have sued Gov. Greg Abbott and the state. 
  <p class="updated_time"> 06:00 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-ukraine-midterms.html">As Biden Speaks, Ukraine Crisis Escalates and Midterm Elections Start</a> NYT: As President Biden delivers his first formal State of the Union address, Russia’s invasion of Ukraine escalates and the midterms begin in earnest in Texas. 
  <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/media/sarah-palin-new-york-times-trial.html">Judge Says Sarah Palin ‘Failed to Prove Her Case’ Against The Times</a> NYT: In a written opinion explaining his decision to dismiss Ms. Palin’s defamation case, Judge Jed S. Rakoff also stated his faith in the integrity of the jury. 
- <p class="updated_time"> 03:52 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/supreme-court-pill-mills.html">Supreme Court Hears Case of Doctors Accused of Running Pill Mills</a> NYT: Drawing on childhood grammar lessons, the justices considered whether the doctors were entitled to argue that they had acted in good faith. 
  <p class="updated_time"> 01:53 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over Republican agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
