@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:53 AM CT, Mar. 02 </p> 
+ <p class="updated_time"> 08:13 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: As Russians Surround Key City, Mayor Is ‘Waiting for a Miracle’</a> NYT: Russia claimed to have seized the city, the southern port of Kherson, but Ukrainian officials said the battle was ongoing. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 08:12 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple, Nike and Google join brands limiting services</a> BBC: Customers won't be able to use Apple Pay, while sportswear firm Nike is no longer taking online orders. 
+ <p class="updated_time"> 08:12 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Russian forces claim control of key port city and begin to surround others</a> BBC: Russia's defence ministry said its forces had captured the port city of Kherson on Wednesday. 
+ <p class="updated_time"> 08:04 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
+ <p class="updated_time"> 07:53 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/indian-student-ukraine-death.html">Death of Indian Student in Ukraine Shows Plight of Thousands</a> NYT: Naveen Shekharappa was killed when he left a bunker in Kharkiv to fetch food, officials and his family members said. 
  <p class="updated_time"> 07:50 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
  <p class="updated_time"> 07:35 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60551905?at_medium=RSS&at_campaign=KARANGA">Ukraine: Indian students living in fear of shelling in Kharkiv</a> BBC: A day after shelling killed an Indian student, his friends recount the horror of trying to escape Ukraine. 
- <p class="updated_time"> 06:46 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60579641?at_medium=RSS&at_campaign=KARANGA">Apple, Nike and Google join brands limiting services</a> BBC: Customers won't be able to use Apple Pay, while sportswear firm Nike is no longer taking online orders. 
  <p class="updated_time"> 06:29 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60583926?at_medium=RSS&at_campaign=KARANGA">Are Russia's attacks war crimes?</a> BBC: As Russia's invasion of Ukraine continues, does what we’re witnessing amount to war crimes? 
  <p class="updated_time"> 06:10 AM CT, Mar. 02 </p> 
@@ -188,8 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/02/28/world/europe/russia-economy-sanctions-ukraine.html">Russians Face Sanctions and Anxieties of a Costly War</a> NYT: The ruble plunged, the stock market was shuttered and foreign investors shed holdings in Russian companies, deepening the concern among citizens who had become accustomed to the perks of globalization. 
  <p class="updated_time"> 05:10 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/arts/design/miami-ukrainian-art-show.html">In Miami, a Ukrainian Art Show Becomes Unintentionally Timely</a> NYT: A Kyiv couple stage a socially charged exhibition in South Florida as their Voloshyn Gallery back home becomes a bomb shelter. 
- <p class="updated_time"> 04:44 PM CT, Feb. 28 </p> 
- <a href="https://www.nytimes.com/2022/02/28/arts/design/maria-primachenko-paintings-destroyed-ukraine.html">Treasured Paintings Burned in Russian Invasion, Ukrainian Officials Say</a> NYT: Roughly 25 works by the painter Maria Primachenko were destroyed at a museum in Ivankiv, Ukraine’s Ministry of Foreign Affairs said. 
  <p class="updated_time"> 04:41 PM CT, Feb. 28 </p> 
  <a href="https://www.nytimes.com/2022/02/28/world/europe/mars-russia-europe-rover.html">Planned Europe-Russia Joint Mars Mission Called “Very Unlikely”</a> NYT: The ExoMars mission, postponed in 2020 because of the pandemic and technical issues, may miss its window to launch this year because of sanctions imposed against Russia over the invasion of Ukraine. 
  <p class="updated_time"> 04:38 PM CT, Feb. 28 </p> 
@@ -205,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:01 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Not Worth the Trouble, Some Traders Conclude</a> NYT: European buyers, shippers, banks and insurers have grown leery of doing business with Russia in recent days, even at deep discounts. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:08 AM CT, Mar. 02 </p> 
@@ -323,14 +329,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/us/politics/russia-ukraine-war-deaths.html">Russian Troop Deaths Expose a Potential Weakness of Putin’s Strategy</a> NYT: Videos and photos show the bodies of soldiers left behind on the battlefield, officials say, and the charred remains of tanks and armored vehicles. 
  <p class="updated_time"> 04:37 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/ukraine-biden-senators-russian-energy-exports-00012752">Ukraine presses Biden, senators to hit Russian energy exports</a> Politico: Andriy Kobolyev's meetings with lawmakers come after Ukraine Foreign Minister Dmytro Kuleba on Tuesday criticized oil companies that had not yet completely severed ties with Russia. 
- <p class="updated_time"> 04:30 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/business/energy-environment/russia-oil-price.html">Russian Oil Finds Few Buyers Even at Deep Discounts</a> NYT: Some European buyers, shippers, banks and insurers have grown leery of doing business with the country in recent days. 
  <p class="updated_time"> 04:23 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/business/media/sarah-palin-new-york-times-trial.html">Judge Says Sarah Palin ‘Failed to Prove Her Case’ Against The Times</a> NYT: In a written opinion explaining his decision to dismiss Ms. Palin’s defamation case, Judge Jed S. Rakoff also stated his faith in the integrity of the jury. 
  <p class="updated_time"> 04:20 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/texas-child-abuse-trans-youth.html">Texas Investigates Parents Over Care for Transgender Youth, Suit Says</a> NYT: The investigations by the state’s Department of Family and Protective Services started last week with an employee of the agency, according to the suit, after Gov. Greg Abbott called for such inquiries. 
- <p class="updated_time"> 04:05 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/white-house-blueprint-next-covid-phase-00012954">White House to unveil blueprint for the next Covid phase</a> Politico: The document will be put out after the State of the Union address and chart a more cautiously optimistic path forward. 
  <p class="updated_time"> 03:52 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/supreme-court-pill-mills.html">Supreme Court Hears Case of Doctors Accused of Running Pill Mills</a> NYT: Drawing on childhood grammar lessons, the justices considered whether the doctors were entitled to argue that they had acted in good faith. 
  <p class="updated_time"> 03:31 PM CT, Mar. 01 </p> 
