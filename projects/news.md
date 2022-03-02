@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:18 AM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1083873339/new-zealand-protesters-set-fires-as-police-break-up-camp">New Zealand protesters set fires as police break up camp</a> NPR: The police action was the most significant use of force to date by authorities against the protesters, who oppose coronavirus vaccine mandates. 
  <p class="updated_time"> 12:06 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/01/world/ukraine-russia-war">Live Ukraine Updates: Biden Announces Russian Planes Will Be Banned From U.S. Airspace</a> NYT: President Biden condemned President Vladimir V. Putin of Russia in his first State of the Union speech, saying he would “pay a price” for the invasion.  Explosions struck the capital, Kyiv, as well as in Ukraine’s second largest city, Kharkiv. 
  <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
@@ -100,8 +102,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/01/1083733700/russias-40-mile-convoy-has-stalled-on-its-way-to-kyiv-a-u-s-official-says">Russia's 40-mile convoy has stalled on its way to Kyiv, a U.S. official says</a> NPR: The convoy is apparently being hampered by fuel and food shortages, the official says. The news comes as Russia continues to concentrate attacks on Ukraine's largest cities: Kyiv and Kharkiv. 
  <p class="updated_time"> 12:54 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/01/1083733323/russia-bombards-a-kyiv-tv-tower-and-the-babyn-yar-holocaust-memorial-site">Russia bombards a Kyiv TV tower and the Babyn Yar Holocaust memorial site </a> NPR: Ukraine's State Emergency Service said five people were killed and another five injured in the attack on the city's main television and radio tower, and that TV channels won't work "for some time." 
- <p class="updated_time"> 12:51 PM CT, Mar. 01 </p> 
- <a href="https://www.npr.org/2022/03/01/1083697896/iea-oil-emergency-reserves-stockpiles-ukraine-russia-war">The U.S. and 30 other nations are releasing oil from reserves to try to calm markets</a> NPR: Oil-consuming nations will bring 60 million barrels of crude out of storage and onto global markets. It's supposed to calm oil prices down, but global crude went up on the news. 
  <p class="updated_time"> 12:30 PM CT, Mar. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-war-civilians-11646173427">Food Shortages, Last Goodbyes: Ukrainians Face Their New Reality</a> WSJ: Russia began a new, bloodier phase of the war and the capital Kyiv is bracing for the indiscriminate shelling of civilian neighborhoods. 
  <p class="updated_time"> 12:05 PM CT, Mar. 01 </p> 
@@ -130,6 +130,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
+ <p class="updated_time"> 08:06 AM CT, Mar. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60567585?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Indian student killed as he tried to buy food</a> BBC: Naveen S Gyanagoudar was among thousands of Indians trapped in Ukraine by Russia's invasion. 
  <p class="updated_time"> 07:52 AM CT, Mar. 01 </p> 
  <a href="https://www.wsj.com/articles/u-s-rushes-arms-to-ukraine-as-russian-forces-escalate-attacks-11646160746">U.S. Rushes Arms to Ukraine as Russian Forces Escalate Attacks</a> WSJ: With time potentially running out for Kyiv, the U.S. and its allies confront limited supply routes and challenges providing the right weapons. 
  <p class="updated_time"> 07:33 AM CT, Mar. 01 </p> 
@@ -205,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
+ <p class="updated_time"> 12:27 AM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Full Transcript of Biden’s State of the Union Address</a> NYT: The president spoke about the war in Ukraine, the coronavirus pandemic, the economy and more in his State of the Union speech. 
  <p class="updated_time"> 12:06 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-putin-state-of-the-union.html">Biden Focuses on Global Unity Against Russia's Invasion in State of the Union</a> NYT: President Biden delivered his first State of the Union address amid spiraling inflation at home and an escalating war in Europe. 
  <p class="updated_time"> 11:59 PM CT, Mar. 01 </p> 
@@ -217,12 +221,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/reynolds-ukraine-russia-state-of-the-union-00013083">Iowa Gov. Reynolds stands by Ukraine in critique of Biden</a> Politico: Russia's invasion of Ukraine has exposed faultlines among Republicans, complicating their efforts to counter-message Biden's handling of the issue. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
+ <p class="updated_time"> 11:20 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/us/politics/texas-primary-midterms-democrats-gop.html">Abbott and O’Rourke Win Their Texas Primaries</a> NYT: In the Texas race for governor, Gov. Greg Abbott overcame several opponents on his right, and Beto O’Rourke sailed to the Democratic nomination. 
  <p class="updated_time"> 11:19 PM CT, Mar. 01 </p> 
  <a href="https://www.npr.org/2022/03/02/1083868623/democrat-rep-rashida-tlaib-delivers-a-response-to-bidens-state-of-the-union">Democrat Rep. Rashida Tlaib delivers a response to Biden's State of the Union</a> NPR: Her speech detailed a progressive political vision for the future, from lowering prescription drug costs to making major investments in tackling climate change and enshrining abortion access. 
  <p class="updated_time"> 11:14 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/inflation-biden-state-of-the-union.html">Biden Says Fighting Inflation Is ‘Top Priority’ as Prices Bite Consumers</a> NYT: Timing is not in the president’s favor as elections that could cost his party control of Congress approach, and inflation has yet to fade. 
- <p class="updated_time"> 11:14 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Full Transcript of Biden’s State of the Union Address</a> NYT: President Biden spoke about the war in Ukraine, the coronavirus pandemic, the economy and more in his State of the Union address. The following is a transcript of his remarks. 
  <p class="updated_time"> 11:11 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/mitch-landrieu-infrastructure-biden.html">As Infrastructure Money Flows, Mitch Landrieu Must Straddle Partisan Divide</a> NYT: Much of the funding is left up to state leaders, some of whom have already pushed back on the federal government’s goals. Mr. Landrieu will be key to resolving those differences. 
  <p class="updated_time"> 11:10 PM CT, Mar. 01 </p> 
