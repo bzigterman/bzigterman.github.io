@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:44 AM CT, Mar. 03 </p> 
+ <p class="updated_time"> 08:04 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Flee Ukraine as Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 07:55 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Russia's Ukraine Invasion: What Happened in the First Week of the War</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
  <p class="updated_time"> 07:32 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60600986?at_medium=RSS&at_campaign=KARANGA">Russia: Long queues of people wanting to withdraw money in Moscow</a> BBC: People in the Russian capital are trying to take out currency, as fears continue over financial sanctions. 
  <p class="updated_time"> 07:31 AM CT, Mar. 03 </p> 
@@ -50,6 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
  <p class="updated_time"> 03:20 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60595993?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian declared legally single in divorce with Ye</a> BBC: The famous couple were married nearly eight years ago and share four children. 
+ <p class="updated_time"> 03:08 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Russian Forces Advance in Southern Ukraine Ahead of Talks</a> WSJ: Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks. 
  <p class="updated_time"> 02:59 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60599579?at_medium=RSS&at_campaign=KARANGA">Neighbours: TV soap will end this summer, producers confirm</a> BBC: The Australian TV soap's future has been uncertain since Channel 5 dropped it from its schedules. 
  <p class="updated_time"> 02:56 AM CT, Mar. 03 </p> 
@@ -68,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/canadas-trudeau-faces-fallout-after-trucker-protest-11646312401">Canada's Trudeau Faces Fallout After Trucker Protest</a> WSJ: Prime minister’s approval ratings fall with public and lawmakers put off by divisive language about demonstrations against Covid-19 mandates. 
  <p class="updated_time"> 02:00 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/venezuela-asks-wall-street-to-help-lift-u-s-sanctions-so-oil-can-flow-11646312401">Venezuela Asks Wall Street to Help Lift U.S. Sanctions so Oil Can Flow</a> WSJ: The regime is encouraging debtholders to pressure the Biden administration, which is wary of fast-rising oil prices caused by the war in Ukraine. 
- <p class="updated_time"> 12:37 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Russian Forces Advance in Southern Ukraine Ahead of Talks</a> WSJ: Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks. 
  <p class="updated_time"> 12:19 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/design/china-france-gold-ingots.html">Gold Ingots From 18th-Century Shipwreck Returned to France</a> NYT: The Chinese ingots, illegally harvested from a French frigate that sank while returning from Nanjing, were seized by U.S. investigators when they were put up for auction in California. 
  <p class="updated_time"> 12:17 AM CT, Mar. 03 </p> 
@@ -176,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 07:45 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-european-union-membership.html">Why Joining the E.U. May Not Be Easy for Ukraine</a> NYT: Russia’s invasion of Ukraine is helping to focus minds in Brussels. But the country has big hurdles to overcome before it can join the E.U., the world’s biggest trading bloc. 
- <p class="updated_time"> 06:19 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/russia-troops-pentagon.html">Some Russian Troops Are Surrendering Rather Than Fighting, Pentagon Says</a> NYT: A significant number of the Russian troops are young conscripts who are poorly trained and ill-prepared for the all-out assault, a senior official said. 
  <p class="updated_time"> 05:57 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-refugee-discrimination.html">Africans Say Ukrainian Authorities Hindered Them From Fleeing</a> NYT: Africans and other foreigners in Ukraine say border guards made them endure long waits and even beat them, while letting Ukrainians through quickly. Ukraine denied discriminating. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
@@ -277,8 +277,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/uae-ukrainians-visa-free-travel-00013370">UAE will continue to allow Ukrainians visa-free travel</a> Politico: The gas and oil-rich Middle East state has walked a fine line between Russia interests and its U.S. and Ukraine ties. 
  <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-primaries-cuellar-progressive-left-00013331">Texas delivers a mixed message to the left</a> Politico: Progressives are off to a more promising start than in 2021, but were unable to deliver a knockout blow to the incumbent Democrat they’ve been targeting for years. 
- <p class="updated_time"> 04:51 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/desantis-bully-masks-students-00013348">DeSantis called a ‘bully’ after he scolds students for wearing masks</a> Politico: Some of the students, visiting from a local Hillsborough County high school, took off their masks at the governor’s urging while others opted to keep them on their faces. 
  <p class="updated_time"> 04:12 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/03/02/1084006754/heres-what-experts-say-biden-gets-right-in-his-new-mental-health-plan">Here's what experts say Biden gets right in his new mental health plan</a> NPR: Mental health advocates applaud the proposals, which they say offer much-needed federal leadership on a growing national crisis. But they worry about getting sustainable funding for the efforts. 
  <p class="updated_time"> 04:05 PM CT, Mar. 02 </p> 
@@ -311,6 +309,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Feds net first guilty plea in Jan. 6 seditious conspiracy case</a> Politico: Oath Keeper Joshua James admitted to the explosive charge in connection with the 2021 attack on the Capitol. 
  <p class="updated_time"> 11:09 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/prosecutors-first-jan-6-trial-00013197">‘The tip of this mob’s spear’: Prosecutors begin first Jan. 6 trial</a> Politico: The trial is one of the most significant tests of the government’s yearlong investigation into the Capitol attack. 
+ <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
  <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html">The State of the Union: Together, if Only for a Few Minutes</a> NYT: President Biden brought a cheerleading tone to a normal-ish address for very abnormal times. 
  <p class="updated_time"> 08:22 AM CT, Mar. 02 </p> 
@@ -343,14 +343,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
  <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/u-s-bans-russian-flights-00013007">U.S. bans all Russian flights from its airspace</a> Politico: The U.S. airline industry had already been withdrawing from serving Russia. 
+ <p class="updated_time"> 06:15 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-manchin-00012989">Biden throws a line to Joe Manchin and hopes he bites</a> Politico: The president will emphasize deficit reduction in his State of the Union address. Officials say it’s not part of a larger philosophical shift. 
  <p class="updated_time"> 01:53 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over Republican agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
- <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/ukrainian-pilots-arrive-in-poland-to-pick-up-donated-fighter-jets-00012560">European plan to donate fighter jets to Ukraine collapses</a> Politico: The dissolution of the deal comes as European countries lined up Monday to announce new weapons packages for Ukraine, from anti-armor and anti-air rockets to artillery and medical supplies. 
+ <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">DeSantis sends Florida Democrats to redistricting purgatory</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
