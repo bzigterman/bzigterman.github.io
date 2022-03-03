@@ -8,22 +8,40 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:16 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and army fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
+ <p class="updated_time"> 06:40 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60532631?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Guy Reffitt accused of being 'tip of spear' in 6 January mob</a> BBC: Guy Reffitt is the first 6 January defendant to stand trial. He has pleaded not guilty on all charges. 
+ <p class="updated_time"> 06:31 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
+ <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60573261?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Who's in Putin's inner circle and running the war?</a> BBC: Russia's president cuts an isolated figure but he relies on an inner circle when he makes key decisions. 
+ <p class="updated_time"> 06:27 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-un-invasion-condemn.html">U.N. General Assembly Approves Resolution Condemning Russia’s Invasion</a> NYT: The four-page document calls for an immediate halt to the conflict, urges diplomatic negotiations for a peaceful resolution and says Russia’s territorial gain through force will not be recognized. 
+ <p class="updated_time"> 06:26 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian troops take control of key city of Kherson - mayor</a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
+ <p class="updated_time"> 06:16 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
+ <p class="updated_time"> 06:15 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
+ <p class="updated_time"> 06:05 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60591107?at_medium=RSS&at_campaign=KARANGA">Oil-producing nations stick to their plan despite Ukraine</a> BBC: Countries that export oil plan to pump more crude in to the market - but not much. 
+ <p class="updated_time"> 06:01 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60596789?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Kharkiv family desperate to treat daughter's cancer</a> BBC: Polina and her family are trying to flee Kharkiv after spending days sheltering in their basement. 
+ <p class="updated_time"> 05:56 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-shelters.html">15,000 Are Sheltering in Kyiv’s Subway</a> NYT: People sleep three or four to a mattress and plastic food bags litter the scene, while mothers search endlessly on their phones for news of the war. 
  <p class="updated_time"> 05:45 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">First Ukraine City Falls as Russia Strikes More Civilian Targets</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 05:41 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60529926?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What sanctions could West still impose on Russia?</a> BBC: The measures are tougher than anything Vladimir Putin has faced. But more could be coming. 
- <p class="updated_time"> 05:36 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/justice-dept-russia-oligarchs.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
- <p class="updated_time"> 05:35 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60532631?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Guy Reffitt accused of being 'tip of spear' in 6 January mob</a> BBC: Guy Reffitt is the first 6 January defendant to stand trial. He has pleaded not guilty on all charges. 
  <p class="updated_time"> 05:34 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/covid-smell.html">How the Coronavirus Steals the Sense of Smell</a> NYT: The virus does not infect nerve cells that detect odors, researchers have found. Instead, it attacks nearby supporting cells. 
- <p class="updated_time"> 05:31 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 05:19 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
- <p class="updated_time"> 05:03 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
  <p class="updated_time"> 05:02 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 04:49 PM CT, Mar. 02 </p> 
@@ -32,10 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/arts/design/china-france-gold-ingots.html">Gold Ingots From 18th-Century Shipwreck Returned to France</a> NYT: The Chinese ingots, illegally harvested from a French frigate that sank while returning from Nanjing, were seized by U.S. investigators when they were put up for auction in California. 
  <p class="updated_time"> 04:39 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-casualties.html">A War the Kremlin Tried to Disguise Becomes a Hard Reality for Russians</a> NYT: Moscow posted a death toll from its attack on Ukraine for the first time, and Russians who long avoided politics are now grappling with the fact that their country is fighting a deadly conflict. 
- <p class="updated_time"> 04:37 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-shelters.html">15,000 Are Sheltering in Kyiv’s Subway</a> NYT: People sleep three or four to a mattress and plastic food bags litter the scene, while mothers search endlessly on their phones for news of the war. 
- <p class="updated_time"> 04:25 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
  <p class="updated_time"> 04:13 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:09 PM CT, Mar. 02 </p> 
@@ -49,7 +63,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:50 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084046601/ea-russian-teams-fifa-nhl">EA is cutting Russian teams from its FIFA and NHL games over the Ukraine invasion</a> NPR: "We stand with the people of Ukraine and join the voices around the world calling for peace," EA said in a statement. 
  <p class="updated_time"> 03:42 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083999375/companies-exodus-russia-exxon-bp-apple-wework">One by one, global companies are cutting their ties to Russia</a> NPR: Companies ranging from GM to UPS are exiting or reducing their operations in Russia as wide-ranging sanctions make it all but impossible to operate in the country. 
+ <a href="https://www.npr.org/2022/03/02/1083999375/companies-exodus-russia-exxon-bp-apple-wework">One by one, global companies are cutting their ties to Russia</a> NPR: Companies ranging from General Motors to UPS are exiting or reducing their operations in Russia as wide-ranging sanctions make it all but impossible to operate in the country. 
  <p class="updated_time"> 03:41 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033839/what-the-russian-invasion-is-like-for-villages-in-western-ukraine">What the Russian invasion is like for villages in western Ukraine</a> NPR: Even in the west of Ukraine, far from the Russian invasion, people are on edge and preparing to help in their own way. 
  <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
@@ -64,8 +78,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60595993?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian declared legally single in divorce with Ye</a> BBC: The famous couple were married nearly eight years ago and share four children. 
  <p class="updated_time"> 03:24 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/mayor-russian-troop-grenade.html">Video: Mayor of Konotop Asks His City Whether They Wish to Fight or Surrender</a> NYT: The mayor of Konotop, in northeastern Ukraine, said Russian soldiers had told him they would “raze the city to the ground with their artillery.” 
- <p class="updated_time"> 03:18 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-un-invasion-condemn.html">U.N. General Assembly Approves Resolution Condemning Russia’s Invasion</a> NYT: The four-page document calls for an immediate halt to the conflict, urges diplomatic negotiations for a peaceful resolution and says Russia’s territorial gain through force will not be recognized. 
  <p class="updated_time"> 03:16 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083972155/chess-tennis-soccer-russia-ukraine-sports">From chess to tennis, global sports organizations distance themselves from Russia</a> NPR: The International Chess Federation banned tournaments in Russia and Belarus. It's among several actions taken by sports organizations against Russia in response to the invasion of Ukraine. 
  <p class="updated_time"> 03:02 PM CT, Mar. 02 </p> 
@@ -76,6 +88,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1083968591/russia-ukraine-deaths-war">Russia confirms casualties in Ukraine ahead of the next round of talks</a> NPR: For the first time, Russia's Defense Ministry has announced casualties, saying 498 troops have died. Delegations from Ukraine and Russia are preparing for a second round of talks, expected Thursday. 
  <p class="updated_time"> 02:03 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084004561/ukraine-russia-updates-kyiv">A Ukrainian man who enlisted after Russia's invasion gives an update, a week later</a> NPR: "People are getting furious and people are ready to kill Russians," Volodymyr Omelyan told NPR on Wednesday. "Even civilians which never took any kind of gun in their hands." 
+ <p class="updated_time"> 01:55 PM CT, Mar. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Russia Batters Ukraine's No. 2 City, as Kyiv Offensive Stalls</a> WSJ: Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps. 
  <p class="updated_time"> 01:51 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60593988?at_medium=RSS&at_campaign=KARANGA">H&M temporarily suspends all sales in Russia</a> BBC: One of the world's biggest fashion retailers said it was deeply concerned about conflict in Ukraine. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
@@ -94,10 +108,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60592658?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: EA removes Russian teams from Fifa 22 game</a> BBC: The games publisher says it "stands in solidarity with the Ukrainian people". 
  <p class="updated_time"> 11:51 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60593201?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Mum in Poland takes in fleeing families</a> BBC: Joanna is opening her home in Poland to Ukraine refugees seeking shelter after reaching the border. 
- <p class="updated_time"> 11:45 AM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Russia Batters Ukraine's No. 2 City, as Kyiv Offensive Stalls</a> WSJ: Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps. 
  <p class="updated_time"> 11:42 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60593203?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: ‘I’m water fasting with my wife so that my child can eat’</a> BBC: Hussain is in Kherson, Ukraine, and says he has to fast to be able to feed his child due to diminishing supplies. 
+ <p class="updated_time"> 11:36 AM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60567193?at_medium=RSS&at_campaign=KARANGA">Crab.e.cam: The underwater crab videos captivating Australia</a> BBC: When an Australian fisherman tied a GoPro to his crab net, he never expected the footage to go viral. 
  <p class="updated_time"> 11:02 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/australia/new-zealand-protest-vaccine.html">New Zealand Police Move to End Protest, and Violence Erupts</a> NYT: Fires and violence at a protest opposing vaccine mandates were a rare sight in a country known for its relative serenity and stability. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
@@ -122,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 09:08 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-jews-under-putins-bombs-seethe-at-his-attempt-to-smear-ukraine-as-neo-nazi-11646251687">Ukrainian Jews, Under Putin's Bombs, Seethe at His Attempt to Smear Ukraine as Neo-Nazi</a> WSJ: To Ukrainian Jews and many Jewish leaders world-wide, Russian President Vladimir Putin’s false claims that Kyiv is controlled by American-sponsored neo-Nazis is an insult to the memory of the Holocaust, especially now that Moscow is indiscriminately shelling Ukrainian cities. 
- <p class="updated_time"> 08:26 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
  <p class="updated_time"> 07:53 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/indian-student-ukraine-death.html">Death of Indian Student in Ukraine Shows Plight of Thousands</a> NYT: Naveen Shekharappa was killed when he left a bunker in Kharkiv to fetch food, officials and his family members said. 
  <p class="updated_time"> 07:35 AM CT, Mar. 02 </p> 
@@ -146,10 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60584602?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Crowd surround car with Russian markings</a> BBC: Watch as a crowd in the north-eastern city of Kupiansk try to stop the vehicle from leaving. 
  <p class="updated_time"> 02:09 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/china-eying-taiwan-gets-lesson-from-ukraines-stiff-resistance-11646226559">China, Eying Taiwan, Gets Lesson From Ukraine's Stiff Resistance</a> WSJ: Analysts say it is unlikely that Beijing, having seen Russia’s troubles in Ukraine, would give up the option of absorbing Taiwan by force. Instead, Moscow’s slow progress shows the value of overwhelming initial strikes that some assume China would make in any assault on the island. 
- <p class="updated_time"> 01:58 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-60583924?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Walkout at UN as Russian foreign minister Sergey Lavrov speaks</a> BBC: Watch the moment diplomats in Geneva turned their backs on Sergey Lavrov as he spoke via video link. 
- <p class="updated_time"> 01:43 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60580037?at_medium=RSS&at_campaign=KARANGA">Tanzania: Ukrainian tourists stranded in Zanzibar want to return home</a> BBC: Around 1,000 Ukrainian tourists are stranded in Tanzania's semi-autonomous islands of Zanzibar. 
  <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 12:00 AM CT, Mar. 02 </p> 
@@ -166,10 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 07:45 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-european-union-membership.html">Why Joining the E.U. May Not Be Easy for Ukraine</a> NYT: Russia’s invasion of Ukraine is helping to focus minds in Brussels. But the country has big hurdles to overcome before it can join the E.U., the world’s biggest trading bloc. 
- <p class="updated_time"> 07:13 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60571737?at_medium=RSS&at_campaign=KARANGA">Ukraine: Watching the war on Russian TV - a whole different story</a> BBC: The war in Ukraine has led to outrage in the West, but in Russia TV viewers see a very different story. 
- <p class="updated_time"> 07:12 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60559014?at_medium=RSS&at_campaign=KARANGA">Ukraine's tech community rises to challenges of war</a> BBC: From an app to alert people to sirens, to organising supplies, tech firms are helping the war effort. 
  <p class="updated_time"> 06:19 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russia-troops-pentagon.html">Some Russian Troops Are Surrendering Rather Than Fighting, Pentagon Says</a> NYT: A significant number of the Russian troops are young conscripts who are poorly trained and ill-prepared for the all-out assault, a senior official said. 
  <p class="updated_time"> 05:57 PM CT, Mar. 01 </p> 
@@ -190,8 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/middleeast/israel-palestinians-evictions.html">Palestinians Threatened With Eviction Can Stay in Their Homes — for Now</a> NYT: Israel’s high court stayed the eviction of four Palestinian families from their East Jerusalem homes. The eviction threat had stoked tensions that led to war in Gaza. 
  <p class="updated_time"> 02:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russian-convoy-ukraine.html">Miles-Long Russian Convoy Outside Kyiv Signals Tactical Shift</a> NYT: Satellite imagery has shown a Russian military convoy stretching 40 miles on a roadway north of Ukraine’s capital, Kyiv. Experts say it probably indicates a shift to siege tactics. 
- <p class="updated_time"> 12:05 PM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60576443?at_medium=RSS&at_campaign=KARANGA">No-fly zone: What it means and why the West won't act</a> BBC: Ukraine has asked Western powers to consider imposing a no-fly zone to stop Russian air assaults. 
  <p class="updated_time"> 12:03 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">Workers Strike in a London Underground Already Battered by the Pandemic</a> NYT: Transport workers started the first of two 24-hour strikes planned for this week amid concerns over unfilled posts, pensions and the long-term financing of the rail system. 
  <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
@@ -202,8 +204,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
- <p class="updated_time"> 03:52 AM CT, Mar. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60558731?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Russians feel the pain of international sanctions</a> BBC: Russians are starting to feel the effect of sanctions aimed at punishing the country for invading Ukraine. 
 
 
 </details>
@@ -211,30 +211,44 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:47 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-rehires-national-security-staff-member.html">Biden Rehires National Security Staff Member Pushed Out Under Trump</a> NYT: The National Security Council confirmed that Ellen Knight, who told of improper pressure from Trump administration officials, was returning to help manage classified information. 
+ <p class="updated_time"> 07:42 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-greg-abbott-transgender-investigation-00013408">Texas judge blocks Gov. Abbott's transgender investigation order, for now</a> Politico: Judge Amy Clark Meachum granted a temporary restraining order to pause one active investigation and will convene a March 11 hearing on the broader fate of Abbott’s orders. 
+ <p class="updated_time"> 07:39 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/madigan-illinois-house-speaker-bribery-charge-00013413">‘The Madigan Enterprise’: Feds hit former Illinois House speaker with bribery</a> Politico: Michael Madigan operated a “criminal” organization to line his and his friends’ pockets, according to the indictment. 
+ <p class="updated_time"> 07:19 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/russia-ukraine-war-combat-00013416">Russians besiege Ukrainian ports as armored column stalls</a> Politico: Amid the carnage, Moscow’s international isolation deepened. 
+ <p class="updated_time"> 07:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
+ <p class="updated_time"> 07:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/white-house-applicants-weed-companies-00013390">Biden admin to applicants: Maybe don’t invest in weed companies</a> Politico: The new policy underscores how the business of weed, ever more legitimized, is forcing adjustments by the feds. 
+ <p class="updated_time"> 06:45 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/cisneros-cuellar-runoff.html">The Young Progressive Lawyer at the Center of a Marquee Texas Runoff</a> NYT: Jessica Cisneros had the backing of national progressive leaders, a cramped campaign headquarters and the help of her father. She’s now taking on Representative Henry Cuellar in a runoff in May. 
+ <p class="updated_time"> 06:36 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-covid-strategy.html">Biden’s New Covid Plan: Preparing for New Variants and Avoiding Shutdowns</a> NYT: The strategy is supposed to help the nation transition to what some are calling a “new normal,” but it will require funding from Congress. 
+ <p class="updated_time"> 06:29 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/ketanji-brown-jackson-supreme-court-confirmation.html">Judge Jackson Begins Making Her Own Case for High Court Seat</a> NYT: Democrats hope meeting the nominee will persuade some Republicans senators to support her historic nomination to the Supreme Court. 
+ <p class="updated_time"> 06:15 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
+ <p class="updated_time"> 06:09 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/ellen-knight-national-security-council-biden.html">Biden Rehires National Security Staff Member Pushed Out Under Trump</a> NYT: The National Security Council confirmed that Ellen Knight, who told of improper pressure from Trump administration officials, was returning to help manage classified information. 
+ <p class="updated_time"> 06:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-ukraine-russia-policy-support.html">Why Americans Might Not Rally Around Biden Over Ukraine</a> NYT: The days when voters put their partisan differences aside during a national security crisis appear to be over. 
  <p class="updated_time"> 05:44 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083927209/jan-6-riot-defendant-was-tip-of-this-mobs-spear-prosecutor-tells-jury">Jan. 6 riot defendant was "tip of this mob's spear," prosecutor tells jury </a> NPR: Prosecutors laid out their case against Guy Reffitt, who is the first defendant connected to the Jan. 6 Capitol insurrection to face trial. His attorney described the case as based on "hype." 
- <p class="updated_time"> 05:36 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/justice-dept-russia-oligarchs.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
  <p class="updated_time"> 05:18 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/uae-ukrainians-visa-free-travel-00013370">UAE will continue to allow Ukrainians visa-free travel</a> Politico: The gas and oil-rich Middle East state has walked a fine line between Russia interests and its U.S. and Ukraine ties. 
  <p class="updated_time"> 05:06 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments Against Defendant in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
  <p class="updated_time"> 05:02 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, U.S. Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-primaries-cuellar-progressive-left-00013331">Texas delivers a mixed message to the left</a> Politico: Progressives are off to a more promising start than in 2021, but were unable to deliver a knockout blow to the incumbent Democrat they’ve been targeting for years. 
  <p class="updated_time"> 04:51 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/desantis-bully-masks-students-00013348">DeSantis called a ‘bully’ after he scolds students for wearing masks</a> Politico: Some of the students, visiting from a local Hillsborough County high school, took off their masks at the governor’s urging while others opted to keep them on their faces. 
- <p class="updated_time"> 04:49 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/illinois-ex-house-speaker-racketeering-madigan-00013358">Illinois' ex-House speaker charged with racketeering</a> Politico: Michael Madigan, the former speaker of the Illinois House and for decades one of the nation’s most powerful legislators, has been charged with racketeering and bribery. 
  <p class="updated_time"> 04:45 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/former-russian-oligarch-consultant-advising-adams-00013230">Former consultant for Russian oligarchs advising Adams on global affairs</a> Politico: Ed Mermelstein has worked as a foreign investment attorney and high-end real estate consultant. 
- <p class="updated_time"> 04:25 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
  <p class="updated_time"> 04:13 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:12 PM CT, Mar. 02 </p> 
@@ -275,10 +289,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
- <p class="updated_time"> 11:48 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/gas-pipelines-cyber-risk-00011898">Russian hacking threat hovers over U.S. gas pipelines</a> Politico: Nearly 40 percent of the nation's electricity comes from plants burning natural gas, almost all of it arriving by pipelines whose systems offer a ripe target for sabotage. 
  <p class="updated_time"> 11:39 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Oath Keeper charged with seditious conspiracy for Jan. 6 attack poised to plead guilty</a> Politico: James was a member of the Oath Keeper's leadership who repeatedly messaged with other Oath Keepers about planning for Jan. 6. 
+ <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Feds net first guilty plea in Jan. 6 seditious conspiracy case</a> Politico: Oath Keeper Joshua James admitted to the explosive charge in connection with the 2021 attack on the Capitol. 
  <p class="updated_time"> 11:09 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/prosecutors-first-jan-6-trial-00013197">‘The tip of this mob’s spear’: Prosecutors begin first Jan. 6 trial</a> Politico: The trial is one of the most significant tests of the government’s yearlong investigation into the Capitol attack. 
  <p class="updated_time"> 10:56 AM CT, Mar. 02 </p> 
@@ -323,16 +335,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 12:27 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html">Full Transcript of Biden’s State of the Union Address</a> NYT: The president spoke about the war in Ukraine, the coronavirus pandemic, the economy and more in his State of the Union speech. 
- <p class="updated_time"> 11:44 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/kim-reynolds-state-of-the-union.html">Kim Reynolds Delivers Republican Rebuttal to State of the Union</a> NYT: The governor’s speech foreshadowed Republican arguments ahead of the midterm elections. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
  <p class="updated_time"> 10:49 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/jan-6-subpoenas-trump.html">Jan. 6 Panel Subpoenas Trump's Lawyers</a> NYT: The House committee issued six subpoenas to people who worked on legal aspects of the former president’s bid to invalidate the 2020 election. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-00013072">Biden to America: ‘We’re going to be OK’</a> Politico: The president didn’t imagine that this was going to be his first State of the Union address. But when life gives you lemons ... 
- <p class="updated_time"> 10:31 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/capitol-state-of-the-union.html">At the Capitol, Biden Confronts a New Normal</a> NYT: President Biden’s address unfolded in a Capitol still grappling with a pandemic and the aftermath of a deadly riot, and now facing a war in Ukraine. 
  <p class="updated_time"> 10:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Biden Emphasizes Unity in Foreign Policy Crisis</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
  <p class="updated_time"> 10:27 PM CT, Mar. 01 </p> 
@@ -343,16 +351,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-transcript-full-text-00013009">Full text: Biden State of the Union 2022 transcript</a> Politico: President Joe Biden delivered his first State of the Union address on March 1. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
- <p class="updated_time"> 08:49 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/canada-g-7-russia-ukraine-sanctions-00012938">Canada: G-7 set to launch more sanctions against Russia's 'failing kleptocracy'</a> Politico: Freeland: "If you make war on the rules-based international order, we're going to cut you out of the global economy." 
  <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/u-s-bans-russian-flights-00013007">U.S. bans all Russian flights from its airspace</a> Politico: The U.S. airline industry had already been withdrawing from serving Russia. 
  <p class="updated_time"> 07:42 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/gina-raimondo-sotu-designated-survivor.html">State of the Union Designated Survivor Is Gina Raimondo</a> NYT: The official is designated to watch the speech from afar in the event catastrophe strikes the Capitol while most of the government leaders are inside. 
  <p class="updated_time"> 07:39 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/us/politics/steve-sisolak-nevada-accosted.html">Nevada Gov. Steve Sisolak Is Accosted by Man Who Threatens to Hang Him</a> NYT: The governor was dining with his wife and daughter at a Las Vegas restaurant when a man asked him for a photo together before going into a profanity-laced rant. 
- <p class="updated_time"> 06:00 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/state-of-the-union-biden-ukraine-midterms.html">As Biden Speaks, Ukraine Crisis Escalates and Midterm Elections Start</a> NYT: As President Biden delivers his first formal State of the Union address, Russia’s invasion of Ukraine escalates and the midterms begin in earnest in Texas. 
  <p class="updated_time"> 01:53 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over Republican agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
