@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:42 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 01:50 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 01:50 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/arts/television/lupin-netflix-theft.html">‘Lupin,’ Netflix’s French Heist Drama, Is the Victim of a Theft</a> NYT: Equipment valued at more than $300,000 was stolen from the set of the hit series during filming in a Paris suburb last week. 
- <p class="updated_time"> 01:34 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 01:29 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
  <p class="updated_time"> 01:25 PM CT, Mar. 03 </p> 
@@ -71,7 +71,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:08 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60603447?at_medium=RSS&at_campaign=KARANGA">Abdullah al-Howaiti: Saudi child 'offender' sentenced to death at retrial</a> BBC: Activists say Abdullah al-Howaiti had an alibi for a murder that happened when he was aged 14. 
  <p class="updated_time"> 08:26 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">Russian's War on Ukraine Has Created Over 1 Million Refugees In Just a Week</a> WSJ: In just a week since the war with Russia began, more than one million refugees have left Ukraine, mostly into Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
+ <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">Russian's War on Ukraine Has Created Over 1 Million Refugees in Just a Week</a> WSJ: Many people fleeing the country have headed to Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
  <p class="updated_time"> 08:07 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/60591017?at_medium=RSS&at_campaign=KARANGA">Anatomy of an attack: Is Russia using cluster bombs in Ukraine?</a> BBC: Evidence of one attack in the city of Kharkiv has led to allegations of war crimes against Russia. 
  <p class="updated_time"> 08:05 AM CT, Mar. 03 </p> 
@@ -211,8 +211,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
- <p class="updated_time"> 01:34 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 01:50 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
+ <p class="updated_time"> 01:42 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-kentucky-abortion.html">Supreme Court Lets Kentucky’s Attorney General Defend Abortion Law</a> NYT: After the state’s political landscape shifted in 2019, state officials of different parties disagreed about who should represent the state in the case. 
  <p class="updated_time"> 01:13 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/desantis-defends-scolding-students-over-masks-fundraises-00013818">DeSantis defends scolding students over masks — and fundraises off it</a> Politico: “Predictably, the leftist propagandists in our media had a meltdown and called me a ‘bully’ for allowing children to breathe fresh air," a campaign email reads. 
  <p class="updated_time"> 01:08 PM CT, Mar. 03 </p> 
@@ -329,8 +331,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084033847/bidens-top-economics-adviser-on-fighting-inflation">Biden's top economics adviser on fighting inflation</a> NPR: NPR's Ari Shapiro talks with Cecilia Rouse, chair of the Council of Economic Advisers, about Biden's State of the Union address and the impact of the war in Ukraine on the U.S. economy. 
  <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/u-s-russians-putin-regime-change-00013249">The U.S. is pushing Russians to defy Putin. But don’t call it regime change.</a> Politico: U.S. officials fighting Kremlin propaganda see opportunities in the anti-war sentiment among Russians, including spy recruitment. 
- <p class="updated_time"> 01:50 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/economy/sarah-bloom-raskin-biden-fed.html">Biden’s Fed Nominees Are Frozen as One Faces Republican Questions</a> NYT: Sarah Bloom Raskin, his choice for the Federal Reserve’s head of bank oversight, has faced staunch G.O.P. opposition over her climate views. Yet her private sector work is holding up her nomination. 
  <p class="updated_time"> 01:49 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/trump-hotel-eric-danziger.html">Trump Hotel C.E.O. Leaves a Shrinking Brand</a> NYT: Eric Danziger was the only outsider to lead the Trump hotel group. His departure, for family reasons, comes as the Trumps pursue a future beyond hotels. 
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
