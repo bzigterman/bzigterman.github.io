@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:55 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084246378/arts-organizations-putin-supporters">As performing artists denounce or stay allied with Putin, history offers some lessons</a> NPR: While Russian artists and institutions grapple with how they are viewed internationally, American cultural organizations make what amounts to foreign policy decisions. 
+ <p class="updated_time"> 02:54 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/medical-students-stranded-ukraine.html">Hundreds of Foreign Medical Students Stranded in Ukraine's Northeast</a> NYT: “It’s always one answer” for those trying to get out of the town of Sumy, said one of the students. “The roads are blocked and they are not safe.” 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
- <p class="updated_time"> 02:41 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 02:12 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60611470?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia agrees need to create humanitarian corridors</a> BBC: But the talks between Russian and Ukrainian negotiators yield only limited concrete progress. 
  <p class="updated_time"> 02:11 PM CT, Mar. 03 </p> 
@@ -182,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1083999375/companies-exodus-russia-exxon-bp-apple-wework">One by one, global companies are cutting their ties to Russia</a> NPR: Companies ranging from General Motors to UPS are exiting or reducing their operations in Russia as wide-ranging sanctions make it all but impossible to operate in the country. 
  <p class="updated_time"> 03:41 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033839/what-the-russian-invasion-is-like-for-villages-in-western-ukraine">What the Russian invasion is like for villages in western Ukraine</a> NPR: Even in the west of Ukraine, far from the Russian invasion, people are on edge and preparing to help in their own way. 
- <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084033831/president-captures-thwarted-fight-for-change-in-zimbabwe">'President' captures the thwarted fight for change in Zimbabwe</a> NPR: NPR's Ari Shapiro talks with Camilla Nielsson about her new documentary President. It follows the underdog opposition candidate throughout Zimbabwe's first election after the ouster of Robert Mugabe. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
  <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
@@ -202,8 +204,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60592931?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: We need support from our allies, say Klitschko brothers</a> BBC: The mayor of Kyiv and his brother, both renowned boxers, spoke to the BBC from Kyiv. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
- <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
 
 
 </details>
@@ -211,6 +211,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/senate-votes-to-end-covid-19-emergency-declaration-biden-threatens-veto-00013946">Senate votes to end Covid-19 emergency declaration, Biden threatens veto</a> Politico: The White House on Thursday called the GOP attempt to terminate the pandemic emergency declaration “a reckless and costly mistake.” 
+ <p class="updated_time"> 03:31 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/jackson-reffitt-takes-stand-jan-6-trial-father-00013958">Teenage son takes stand at Jan. 6 trial of father</a> Politico: Jackson Reffitt describes reporting his dad, Guy Reffitt, to the FBI two weeks before the Capitol attack. 
  <p class="updated_time"> 03:12 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/powell-says-russias-ukraine-invasion-could-speed-up-inflation-00013831">'People will feel that': Fed's Powell says war could fuel inflation</a> Politico: Powell, in testimony to the Senate Banking Committee, said Americans are going to see higher gas prices, while transportation and energy costs will also rise for businesses. 
  <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
@@ -249,8 +253,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/american-bridge-biden-ads-battleground-states-00013754">American Bridge drops $5M boosting Biden in key battlegrounds</a> Politico: The Democratic super PAC is kicking off its midterm advertising plans. 
  <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
- <p class="updated_time"> 11:09 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/white-house-slashes-covid-funding-request-00013756">Biden admin slashes Covid funding request amid GOP opposition</a> Politico: The new ask raises questions about when the White House will have to come back to Congress for more. 
  <p class="updated_time"> 10:33 AM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
@@ -355,8 +357,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/russia-crisis-international-space-station-00013000">Russia crisis could sink the International Space Station</a> Politico: Backing out of the international partnership could be catastrophic for NASA. 
  <p class="updated_time"> 04:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/social-media-goes-to-war-00012993">A hesitant tech industry wields its power against Putin</a> Politico: U.S. social media companies have been pressured to move off the sidelines to block Russian propaganda as the Ukraine war escalates. 
- <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
