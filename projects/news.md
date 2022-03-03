@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:32 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
@@ -20,6 +22,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084310503/how-president-zelenskyys-wartime-leadership-has-transformed-his-image">How President Zelenskyy's wartime leadership has transformed his image</a> NPR: NPR's Mary Louise Kelly talks with Emily Harding, who has been tracking the Russian invasion from the Center for Strategic and International Studies in Washington, on Zelenskyy's wartime leadership. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310496/residents-of-ukrainian-cities-describe-life-under-bombardment">Residents of Ukrainian cities describe life under bombardment</a> NPR: As the fighting in Ukraine enters a second week, Russian and Ukrainian forces are still battling over control of strategic cities. 
+ <p class="updated_time"> 03:22 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60606539?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day eight</a> BBC: A port city under relentless bombardment. Here's what you need to know after day eight of the war. 
  <p class="updated_time"> 03:19 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084151893/books-about-ukraine">Read these 6 books about Ukraine</a> NPR: The Russian invasion has sparked an interest in books about Ukraine. There are many out there. If you're not sure where to get started, we've got you covered. 
  <p class="updated_time"> 03:17 PM CT, Mar. 03 </p> 
@@ -28,8 +32,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/medical-students-stranded-ukraine.html">Hundreds of Foreign Medical Students Stranded in Ukraine's Northeast</a> NYT: “It’s always one answer” for those trying to get out of the town of Sumy, said one of the students. “The roads are blocked and they are not safe.” 
  <p class="updated_time"> 03:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
- <p class="updated_time"> 03:04 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 02:55 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/sections/deceptivecadence/2022/03/03/1084246378/arts-organizations-putin-supporters">As performing artists denounce or stay allied with Putin, history offers some lessons</a> NPR: While Russian artists and institutions grapple with how they are viewed internationally, American cultural organizations make what amounts to foreign policy decisions. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million people have fled Ukraine as Russia nears takeover of port city</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
- <p class="updated_time"> 09:41 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Russian troops take control of major city Kherson   </a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 07:47 PM CT, Mar. 02 </p> 
@@ -211,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:39 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084310538/pressure-is-on-to-wrap-up-iran-nuclear-deal-talks">Pressure is on to wrap up Iran nuclear deal talks</a> NPR: Talks over the Iran nuclear deal seem to be coming to a head — either with an agreement or without one. The aim is to bring the U.S. and Iran into compliance with the agreement Trump pulled out of. 
  <p class="updated_time"> 03:32 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/senate-votes-to-end-covid-19-emergency-declaration-biden-threatens-veto-00013946">Senate votes to end Covid-19 emergency declaration, Biden threatens veto</a> Politico: The White House on Thursday called the GOP attempt to terminate the pandemic emergency declaration “a reckless and costly mistake.” 
  <p class="updated_time"> 03:31 PM CT, Mar. 03 </p> 
@@ -333,8 +335,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1083927209/jan-6-riot-defendant-was-tip-of-this-mobs-spear-prosecutor-tells-jury">Jan. 6 riot defendant was 'tip of this mob's spear,' prosecutor tells jury </a> NPR: Prosecutors laid out their case against Guy Reffitt, who is the first defendant connected to the Jan. 6 Capitol insurrection to face trial. His attorney described the case as based on "hype." 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
- <p class="updated_time"> 04:12 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/03/02/1084006754/heres-what-experts-say-biden-gets-right-in-his-new-mental-health-plan">Here's what experts say Biden gets right in his new mental health plan</a> NPR: Mental health advocates applaud the proposals, which they say offer much-needed federal leadership on a growing national crisis. But they worry about getting sustainable funding for the efforts. 
  <p class="updated_time"> 04:05 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/vaccine-mandate-health-workers.html">In Symbolic Vote, Senate Rejects Vaccine Mandate for Health Workers</a> NYT: Republicans forced the vote even though the measure has no chance of enactment, as part of an election-year effort to use pandemic precautions as a political weapon against Democrats. 
  <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
@@ -405,8 +405,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
  <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: At least $10 billion in emergency funding is likely to be included in a package to aid Ukraine, with the majority of that money going toward helping refugees, Sen. Chris Coons said. 
- <p class="updated_time"> 03:36 PM CT, Feb. 24 </p> 
- <a href="https://www.politico.com/news/2022/02/24/inhofe-to-retire-from-senate-teeing-up-special-election-in-oklahoma-00011534">Inhofe to retire from Senate, teeing up special election in Oklahoma</a> Politico: The 87-year-old Oklahoma Republican is expected to announce his retirement, likely triggering a special election to replace him this fall. 
 
 
 </details>
