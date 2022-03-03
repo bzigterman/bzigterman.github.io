@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:48 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 11:07 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the port city of Kherson, Ukrainian officials said, a significant moment in the battle for the south. More than a million people have fled Ukraine since the war started, a U.N. official said. 
+ <p class="updated_time"> 11:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-orthodox-church.html">Also at Stake in Ukraine: the Future of Two Orthodox Churches</a> NYT: The Russian church hopes to reunite with the independent Ukrainian branch under a single patriarch in Moscow that would allow it to control the holiest sites of Orthodoxy in the Slavic world. 
+ <p class="updated_time"> 10:59 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention. 
+ <p class="updated_time"> 10:57 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1084101038/ban-of-russian-aircraft-from-u-s-airspace-has-gone-into-effect">Ban of Russian aircraft from U.S. airspace has gone into effect</a> NPR: The FAA's order prohibiting Russian flights from entering U.S. airspace is now in effect. Russia is expected to respond in kind, forcing airlines to take longer routes around the massive country 
  <p class="updated_time"> 10:47 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60598234?at_medium=RSS&at_campaign=KARANGA">Taiwan: Massive power outage affects five million households</a> BBC: The blackout reportedly happened after an accident at a power plant in southern Taiwan. 
  <p class="updated_time"> 10:33 PM CT, Mar. 02 </p> 
@@ -66,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-casualties.html">A War the Kremlin Tried to Disguise Becomes a Hard Reality for Russians</a> NYT: Moscow posted a death toll from its attack on Ukraine for the first time, and Russians who long avoided politics are now grappling with the fact that their country is fighting a deadly conflict. 
  <p class="updated_time"> 04:13 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
- <p class="updated_time"> 04:09 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-orthodox-church.html">Also at Stake in Ukraine: the Future of Two Orthodox Churches</a> NYT: The Russian church hopes to reunite with the independent Ukrainian branch under a single patriarch in Moscow that would allow it to control the holiest sites of Orthodoxy in the Slavic world. 
  <p class="updated_time"> 04:08 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084017897/russia-european-space-agency-mars-mission">A joint Europe-Russia mission to Mars is likely to be delayed because of sanctions</a> NPR: The mission, which had been set for this year, is a part of the ExoMars program to search for signs of life on Mars. It's likely to be delayed by nations' response to Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:58 PM CT, Mar. 02 </p> 
@@ -98,14 +102,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084003929/putin-taekwondo-black-belt">World Taekwondo strips Russia's Vladimir Putin of his honorary black belt </a> NPR: Russian President Vladimir Putin received the honorary black belt back in Nov. 2013 from World Taekwondo, the international governing body of the sport. He is known to be a fan of martial arts. 
  <p class="updated_time"> 02:32 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083968591/russia-ukraine-deaths-war">Russia confirms casualties in Ukraine ahead of the next round of talks</a> NPR: For the first time, Russia's Defense Ministry has announced casualties, saying 498 troops have died. Delegations from Ukraine and Russia are preparing for a second round of talks, expected Thursday. 
- <p class="updated_time"> 02:03 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084004561/ukraine-russia-updates-kyiv">A Ukrainian man who enlisted after Russia's invasion gives an update, a week later</a> NPR: "People are getting furious and people are ready to kill Russians," Volodymyr Omelyan told NPR on Wednesday. "Even civilians which never took any kind of gun in their hands." 
  <p class="updated_time"> 01:55 PM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Russia Batters Ukraine's No. 2 City, as Kyiv Offensive Stalls</a> WSJ: Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
- <p class="updated_time"> 12:33 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention. 
  <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
  <p class="updated_time"> 12:21 PM CT, Mar. 02 </p> 
