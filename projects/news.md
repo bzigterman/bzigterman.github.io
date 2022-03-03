@@ -8,18 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:55 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084246378/arts-organizations-putin-supporters">As performing artists denounce or stay allied with Putin, history offers some lessons</a> NPR: While Russian artists and institutions grapple with how they are viewed internationally, American cultural organizations make what amounts to foreign policy decisions. 
- <p class="updated_time"> 02:54 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
- <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 03:17 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
+ <p class="updated_time"> 03:16 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/medical-students-stranded-ukraine.html">Hundreds of Foreign Medical Students Stranded in Ukraine's Northeast</a> NYT: “It’s always one answer” for those trying to get out of the town of Sumy, said one of the students. “The roads are blocked and they are not safe.” 
+ <p class="updated_time"> 03:15 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 03:04 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
+ <p class="updated_time"> 03:04 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
+ <p class="updated_time"> 02:55 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/sections/deceptivecadence/2022/03/03/1084246378/arts-organizations-putin-supporters">As performing artists denounce or stay allied with Putin, history offers some lessons</a> NPR: While Russian artists and institutions grapple with how they are viewed internationally, American cultural organizations make what amounts to foreign policy decisions. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
  <p class="updated_time"> 02:12 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60611470?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia agrees need to create humanitarian corridors</a> BBC: But the talks between Russian and Ukrainian negotiators yield only limited concrete progress. 
- <p class="updated_time"> 02:11 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 02:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
@@ -36,8 +40,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084177384/russia-credit-rating-ruble">Russia's credit rating is cut to junk, and the dollar hits a new high vs. the ruble </a> NPR: Moody's cites multiple factors for the downgrade, from sanctions by the U.S., European Union and their allies to "significant concerns" that Russia might not be willing to pay its debts. 
  <p class="updated_time"> 01:10 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60608706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Drone shows extent of damage in Borodyanka</a> BBC: Footage shows how flats and Russian military vehicles were destroyed in Borodyanka. 
- <p class="updated_time"> 01:03 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
  <p class="updated_time"> 12:58 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084162255/biden-wants-more-covid-relief-funds-the-gop-wants-to-know-where-previous-relief-">Biden wants more COVID relief funds. The GOP wants to know where previous relief went</a> NPR: The White House has requested additional $22.5 billion in COVID relief but 35 GOP senators warned they won't support more until Biden provides an accounting of trillions in prior relief spending. 
  <p class="updated_time"> 12:54 PM CT, Mar. 03 </p> 
@@ -57,7 +59,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:21 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 12:18 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084177539/anna-netrebko-metropolitan-opera-russia-putin-ukraine">Anna Netrebko, a Russian star tied to Putin, is out at the Metropolitan Opera</a> NPR: The famed New York opera house said Thursday that the soprano will not appear there this season or next, after she declined to distance herself from Russian President Vladimir Putin. 
+ <a href="https://www.npr.org/sections/deceptivecadence/2022/03/03/1084177539/anna-netrebko-metropolitan-opera-russia-putin-ukraine">Anna Netrebko, a Russian star tied to Putin, is out at the Metropolitan Opera</a> NPR: The famed New York opera house said Thursday that the soprano will not appear there this season or next, after she declined to distance herself from Russian President Vladimir Putin. 
  <p class="updated_time"> 12:15 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
  <p class="updated_time"> 11:48 AM CT, Mar. 03 </p> 
@@ -217,14 +219,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/jackson-reffitt-takes-stand-jan-6-trial-father-00013958">Teenage son takes stand at Jan. 6 trial of father</a> Politico: Jackson Reffitt describes reporting his dad, Guy Reffitt, to the FBI two weeks before the Capitol attack. 
  <p class="updated_time"> 03:12 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/powell-says-russias-ukraine-invasion-could-speed-up-inflation-00013831">'People will feel that': Fed's Powell says war could fuel inflation</a> Politico: Powell, in testimony to the Senate Banking Committee, said Americans are going to see higher gas prices, while transportation and energy costs will also rise for businesses. 
+ <p class="updated_time"> 03:09 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/business/economy/federal-reserve-powell-inflation.html">Federal Reserve Chair Pledges to Bring Inflation Under Control</a> NYT: Jerome H. Powell, the head of the Federal Reserve, told lawmakers the Fed was prepared to prevent a rerun of 1970s inflation. 
  <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/uc-berkeley-will-be-forced-to-slash-enrollment-under-state-supreme-court-ruling-00013923">UC Berkeley prepares to slash enrollment after California Supreme Court ruling</a> Politico: The decision by the Supreme Court justices to reject UC Berkeley’s application for a stay in the case means the school will need to shrink its student population before the fall semester begins. 
  <p class="updated_time"> 02:34 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-ukraine-russia-policy-support.html">Why Americans Might Not Rally Around Biden Over Ukraine</a> NYT: The days when voters put their partisan differences aside during a national security crisis appear to be over. 
  <p class="updated_time"> 02:19 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084278181/transgender-girls-and-women-now-barred-from-female-sports-in-iowa">Transgender girls and women now barred from female sports in Iowa</a> NPR: The ban takes effect immediately. The ban applies to K-12 schools and community colleges as well as colleges and universities that are part of the NCAA or NAIA. 
- <p class="updated_time"> 02:14 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/business/economy/federal-reserve-powell-inflation.html">Federal Reserve Chair Pledges to Bring Inflation Under Control</a> NYT: Jerome H. Powell, the head of the Federal Reserve, told lawmakers the Fed was prepared to prevent a rerun of 1970s inflation. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 02:01 PM CT, Mar. 03 </p> 
