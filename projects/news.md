@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:32 AM CT, Mar. 03 </p> 
+ <p class="updated_time"> 01:53 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the port city of Kherson, Ukrainian officials said, a significant moment in the battle for the south. More than a million people have fled Ukraine since the war started, a U.N. official said. 
  <p class="updated_time"> 01:17 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60599579?at_medium=RSS&at_campaign=KARANGA">Neighbours will end this summer, producers confirm</a> BBC: The Australian soap's future has been uncertain since Channel 5 dropped it from its schedules. 
