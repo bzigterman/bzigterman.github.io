@@ -44,6 +44,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60596629?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why has Russia's 64km convoy near Kyiv stopped moving?</a> BBC: Russian forces advancing on the Ukrainian capital appear to have stalled, US and UK officials say. 
  <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
+ <p class="updated_time"> 06:24 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-n-report-shows-iran-has-almost-enough-highly-enriched-uranium-for-a-nuclear-bomb-11646316141">U.N. Report Shows Iran Has Almost Enough Highly Enriched Uranium for a Nuclear Bomb</a> WSJ: The Islamic Republic, which says its nuclear program is purely peaceful,  significantly increased its stockpiles as talks to revive a deal with the U.S. and other world powers advanced. 
  <p class="updated_time"> 06:21 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 05:56 AM CT, Mar. 03 </p> 
@@ -78,8 +80,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
- <p class="updated_time"> 03:47 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/u-n-report-shows-iran-has-almost-enough-highly-enriched-uranium-for-a-nuclear-bomb-11646316141">U.N. Report Shows Iran Has Almost Enough Highly Enriched Uranium for a Nuclear Bomb</a> WSJ: The Islamic Republic, which says its nuclear program is purely peaceful,  significantly increased its stockpiles as talks to revive a deal with the U.S. and other world powers advanced. 
  <p class="updated_time"> 03:30 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/sanctions-will-hurt-russia-but-are-unlikely-to-deter-its-aggression-in-ukraine-11646314400">Will Sanctions Force Putin to Back Down in Ukraine? History Suggests It's Unlikely</a> WSJ: The imposition of strict economic sanctions has a mixed track record, often falling short of causing a dramatic change in behavior, particularly in authoritarian countries like Russia, according to most analysts who study them. 
  <p class="updated_time"> 03:20 AM CT, Mar. 03 </p> 
