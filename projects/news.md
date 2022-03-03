@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 04:29 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
@@ -26,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 04:08 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
- <p class="updated_time"> 04:04 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 03:58 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310587/former-nato-commander-says-a-no-fly-zone-over-ukraine-must-be-on-the-table">Former NATO commander says a no-fly zone over Ukraine must be on the table</a> NPR: NPR's Sacha Pfeiffer speaks with retired U.S. Air Force general Philip Breedlove about calls for a no-fly zone over Ukraine — and why that could push Russia and the democratic West closer to war. 
  <p class="updated_time"> 03:58 PM CT, Mar. 03 </p> 
@@ -213,12 +213,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
+ <p class="updated_time"> 04:47 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/business/energy-environment/lukoil-russia-oil-ukraine.html">Lukoil, a Russian Oil Company, Calls for an End to the Ukraine War</a> NYT: The company, which has more than 200 gas stations in the U.S., acted as lawmakers in Washington were seeking to block Russian oil imports. 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
+ <p class="updated_time"> 04:36 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-ukraine-pandemic-aid.html">White House Requests $32.5 Billion for Pandemic and Ukraine Aid</a> NYT: The emergency spending would support the federal response to the coronavirus and provide military and humanitarian aid for Ukraine. 
  <p class="updated_time"> 04:29 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
- <p class="updated_time"> 04:28 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-ukraine-pandemic-aid.html">White House Requests $32.5 Billion for Pandemic and Ukraine Aid</a> NYT: The emergency spending would support the federal response to the coronavirus and provide military and humanitarian aid for Ukraine. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084201542/ukraine-refugees-racism">Neighboring nations are giving Ukrainians a warm welcome. Some see a double standard </a> NPR: The embrace of those fleeing the Russian invasion is far different from the cold shoulder refugees from the Middle East and Africa have received. Race, culture and politics are all part of the story. 
  <p class="updated_time"> 04:24 PM CT, Mar. 03 </p> 
@@ -229,8 +231,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/melania-trump-fund-raiser-postponed.html">Melania Trump Event Postponed Because of Fund-Raising Issues</a> NYT: Florida regulators found that a company working on the charitable event had not registered properly. The former first lady’s office said it would be rescheduled. 
- <p class="updated_time"> 03:52 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/business/energy-environment/lukoil-russia-oil-ukraine.html">Lukoil, a Russian Oil Company, Calls for an End to the Ukraine War</a> NYT: The company, which has more than 200 gas stations in the U.S., acted as lawmakers in Washington were seeking to block Russian oil imports. 
  <p class="updated_time"> 03:39 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310538/pressure-is-on-to-wrap-up-iran-nuclear-deal-talks">Pressure is on to wrap up Iran nuclear deal talks</a> NPR: Talks over the Iran nuclear deal seem to be coming to a head — either with an agreement or without one. The aim is to bring the U.S. and Iran into compliance with the agreement Trump pulled out of. 
  <p class="updated_time"> 03:32 PM CT, Mar. 03 </p> 
@@ -321,16 +321,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-covid-strategy.html">Biden’s New Covid Plan: Preparing for New Variants and Avoiding Shutdowns</a> NYT: The strategy is supposed to help the nation transition to what some are calling a “new normal,” but it will require funding from Congress. 
  <p class="updated_time"> 08:04 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/doj-hack-reporting-bill-fbi-less-safe-00013420">DOJ says hack reporting bill ‘makes us less safe’</a> Politico: The Justice Department is the only major institution criticizing the bill, which appears to be on a glide path to passage after winning unanimous Senate approval on Tuesday. 
- <p class="updated_time"> 07:46 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments Against Guy Reffitt in First Jan. 6 Trial </a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
  <p class="updated_time"> 07:44 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084063758/clubhouse-sxsw-conference">Clubhouse says it won't be attending SXSW 2022 because of Texas' trans rights</a> NPR: Instead of attending SXSW 2022, the popular audio-only social app says it will hold its panel "The Power of Voice" on its platform, a spokesperson said. 
- <p class="updated_time"> 07:42 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-greg-abbott-transgender-investigation-00013408">‘Government overreach at its worst’: Biden slams Texas transgender investigations</a> Politico: The interjection from Biden and the U.S. HHS arrived hours after a Texas judge temporarily blocked Abbott’s administration from one investigation. 
  <p class="updated_time"> 07:34 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/cisneros-cuellar-runoff.html">The Young Progressive Lawyer at the Center of a Marquee Texas Runoff</a> NYT: Jessica Cisneros had the backing of national progressive leaders, a cramped campaign headquarters and the help of her father. She’s now taking on Representative Henry Cuellar in a runoff in May. 
  <p class="updated_time"> 07:13 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-pivot-moderate-agenda.html">As Biden Pivots, Democrats Seek to Salvage His Domestic Agenda</a> NYT: The president repackaged his sweeping domestic policy plan with more centrist language, but it remained unclear whether Congress would resurrect key elements of his agenda. 
+ <p class="updated_time"> 07:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/white-house-applicants-weed-companies-00013390">Biden admin to applicants: Maybe don’t invest in weed companies</a> Politico: The new policy underscores how the business of weed, ever more legitimized, is forcing adjustments by the feds. 
  <p class="updated_time"> 06:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/ellen-knight-national-security-council-biden.html">Biden Rehires National Security Staff Member Pushed Out Under Trump</a> NYT: The National Security Council confirmed that Ellen Knight, who told of improper pressure from Trump administration officials, was returning to help manage classified information. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
@@ -365,8 +363,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-00013072">Biden to America: ‘We’re going to be OK’</a> Politico: The president didn’t imagine that this was going to be his first State of the Union address. But when life gives you lemons ... 
  <p class="updated_time"> 10:27 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
- <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/biden-tough-russia-ukraine-00013058">Biden promises punishment for Putin, pledges to lessen impact on U.S.</a> Politico: The Russian president, he said, “badly miscalculated” in invading Ukraine. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
  <p class="updated_time"> 06:15 PM CT, Mar. 01 </p> 
