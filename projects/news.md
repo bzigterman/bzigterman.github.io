@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:21 AM CT, Mar. 03 </p> 
+ <p class="updated_time"> 09:36 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
+ <p class="updated_time"> 09:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Flee Ukraine as Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Here's How the Russia-Ukraine War Is Evolving</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
@@ -17,7 +19,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:01 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/french-volunteers-ukraine.html">French Volunteers Plan to Head to Ukraine to Join its New Foreign Legion</a> NYT: And Ukraine is welcoming them and other volunteers with open arms. 
  <p class="updated_time"> 08:07 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/60591017?at_medium=RSS&at_campaign=KARANGA">Ukraine: Is Russia using cluster bombs?</a> BBC: Evidence of one attack in the city of Kharkiv has led to allegations of war crimes against Russia. 
+ <a href="https://www.bbc.co.uk/news/60591017?at_medium=RSS&at_campaign=KARANGA">Anatomy of an attack: Is Russia using cluster bombs?</a> BBC: Evidence of one attack in the city of Kharkiv has led to allegations of war crimes against Russia. 
  <p class="updated_time"> 07:32 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60600986?at_medium=RSS&at_campaign=KARANGA">Russia: Long queues of people wanting to withdraw money in Moscow</a> BBC: People in the Russian capital are trying to take out currency, as fears continue over financial sanctions. 
  <p class="updated_time"> 07:31 AM CT, Mar. 03 </p> 
@@ -95,7 +97,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:59 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention. 
  <p class="updated_time"> 10:57 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084101038/ban-of-russian-aircraft-from-u-s-airspace-has-gone-into-effect">Ban of Russian aircraft from U.S. airspace has gone into effect</a> NPR: The FAA's order prohibiting Russian flights from entering U.S. airspace is now in effect. Russia is expected to respond in kind, forcing airlines to take longer routes around the massive country 
+ <a href="https://www.npr.org/2022/03/02/1084101038/ban-of-russian-aircraft-from-u-s-airspace-has-gone-into-effect">A ban of Russian aircraft from U.S. airspace has gone into effect</a> NPR: The FAA's order prohibiting Russian flights from entering U.S. airspace is now in effect. Russia is expected to respond in kind, forcing airlines to take longer routes around the massive country 
  <p class="updated_time"> 10:01 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
@@ -176,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/business/hong-kong-covid.html">Hong Kong, Buckling Under Covid, Leaves Its Most Vulnerable in the Cold</a> NYT: Poor residents have been forced to choose between infecting their families or sleeping outdoors because of cramped living quarters and a lack of isolation facilities. 
  <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
- <p class="updated_time"> 11:31 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-turkey-putin-erdogan.html">Ukraine Invasion Increases Friction Between Erdogan and Putin</a> NYT: The Turkish and Russian leaders have found themselves on opposite sides of a host of armed conflicts. In Ukraine, the stakes may be higher than ever. 
  <p class="updated_time"> 11:16 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
  <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
