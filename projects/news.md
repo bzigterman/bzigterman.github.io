@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian troops take control of key city of Kherson - mayor</a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
  <p class="updated_time"> 09:18 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Sergey Melnik from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 07:40 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
- <p class="updated_time"> 07:39 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian troops take control of key city of Kherson - mayor</a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
  <p class="updated_time"> 07:16 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
@@ -299,8 +299,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Feds net first guilty plea in Jan. 6 seditious conspiracy case</a> Politico: Oath Keeper Joshua James admitted to the explosive charge in connection with the 2021 attack on the Capitol. 
  <p class="updated_time"> 11:09 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/prosecutors-first-jan-6-trial-00013197">‘The tip of this mob’s spear’: Prosecutors begin first Jan. 6 trial</a> Politico: The trial is one of the most significant tests of the government’s yearlong investigation into the Capitol attack. 
- <p class="updated_time"> 10:56 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/biden-covid-plan-00013186">Biden wants to move U.S. past Covid. Here's his plan to do it</a> Politico: The strategy represents a major milestone for the president after a first year consumed by the pandemic. 
  <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/03/02/1083792436/why-billions-in-medicaid-funds-for-people-with-disabilities-are-being-held-up">Why billions in Medicaid funds for people with disabilities are being held up</a> NPR: Almost a year after the American Rescue Plan Act allocated up to $25 billion to home and community-based services run by Medicaid, many states have yet to access the funds due to delays and red tape. 
  <p class="updated_time"> 09:30 AM CT, Mar. 02 </p> 
