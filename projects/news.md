@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:41 AM CT, Mar. 03 </p> 
+ <p class="updated_time"> 10:00 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Flee Ukraine as Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 10:00 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/arts/music/anna-netrebko-met-opera-ukraine.html">Anna Netrebko, Diva With Putin Ties, Is Out at the Metropolitan Opera</a> NYT: The Met said she would not appear for two seasons, and possibly more, after declining to comply with its demand that she repudiate her public support for Putin. 
+ <p class="updated_time"> 09:52 AM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60606515?at_medium=RSS&at_campaign=KARANGA">Ukraine: Estonian cargo ship sinks after blast in Black Sea</a> BBC: Four crew members of the Helt are missing after an explosion near the Ukrainian port of Odesa. 
  <p class="updated_time"> 09:36 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
  <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
@@ -22,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/60591017?at_medium=RSS&at_campaign=KARANGA">Anatomy of an attack: Is Russia using cluster bombs?</a> BBC: Evidence of one attack in the city of Kharkiv has led to allegations of war crimes against Russia. 
  <p class="updated_time"> 07:32 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60600986?at_medium=RSS&at_campaign=KARANGA">Russia: Long queues of people wanting to withdraw money in Moscow</a> BBC: People in the Russian capital are trying to take out currency, as fears continue over financial sanctions. 
- <p class="updated_time"> 07:31 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">London Underground Is Again Shut Down by Worker Strike</a> NYT: Transport workers have walked out amid concerns over unfilled posts, pensions and the long-term financing of the rail system. 
  <p class="updated_time"> 07:10 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60596629?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why has Russia's 64km convoy near Kyiv stopped moving?</a> BBC: Russian forces advancing on the Ukrainian capital appear to have stalled, US and UK officials say. 
  <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
@@ -88,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/arts/design/china-france-gold-ingots.html">Gold Ingots From 18th-Century Shipwreck Returned to France</a> NYT: The Chinese ingots, illegally harvested from a French frigate that sank while returning from Nanjing, were seized by U.S. investigators when they were put up for auction in California. 
  <p class="updated_time"> 12:17 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
- <p class="updated_time"> 11:56 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-60597751?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia faces war crimes investigation</a> BBC: The International Criminal Court's prosecutor opens an inquiry, after Russia is accused of bombing civilians. 
  <p class="updated_time"> 11:21 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 11:00 PM CT, Mar. 02 </p> 
