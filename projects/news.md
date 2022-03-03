@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:07 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 11:26 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the port city of Kherson, Ukrainian officials said, a significant moment in the battle for the south. More than a million people have fled Ukraine since the war started, a U.N. official said. 
+ <p class="updated_time"> 11:21 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 11:00 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-orthodox-church.html">Also at Stake in Ukraine: the Future of Two Orthodox Churches</a> NYT: The Russian church hopes to reunite with the independent Ukrainian branch under a single patriarch in Moscow that would allow it to control the holiest sites of Orthodoxy in the Slavic world. 
  <p class="updated_time"> 10:59 PM CT, Mar. 02 </p> 
@@ -36,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Sergey Melnik from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 07:40 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
- <p class="updated_time"> 07:16 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and army fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:40 PM CT, Mar. 02 </p> 
@@ -201,12 +201,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:21 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
+ <p class="updated_time"> 11:12 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/trump-criminal-charges-jan-6.html">Jan. 6 Committee Lays Out Potential Criminal Charges Against Trump</a> NYT: In a court filing, the panel said there was enough evidence to suggest that the former president might have engaged in a criminal conspiracy as he fought to remain in office. 
  <p class="updated_time"> 10:40 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/autherine-lucy-foster-alabama-dies-00013455">Autherine Lucy Foster, first Black student at University of Alabama, dies</a> Politico: Her death came less than a week after university officials dedicated the campus building where she briefly attended classes in her honor. 
  <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million refugees have now fled Ukraine since the start of the war, U.N. says</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
- <p class="updated_time"> 09:22 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/trump-criminal-charges-jan-6.html">Jan. 6 Committee Lays Out Potential Criminal Charges Against Trump</a> NYT: In a court filing, the panel said there was enough evidence to suggest that the former president might have engaged in a criminal conspiracy as he fought to remain in office. 
  <p class="updated_time"> 09:07 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, U.S. Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 09:03 PM CT, Mar. 02 </p> 
@@ -233,8 +235,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/us/politics/cisneros-cuellar-runoff.html">The Young Progressive Lawyer at the Center of a Marquee Texas Runoff</a> NYT: Jessica Cisneros had the backing of national progressive leaders, a cramped campaign headquarters and the help of her father. She’s now taking on Representative Henry Cuellar in a runoff in May. 
  <p class="updated_time"> 07:19 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/russia-ukraine-war-combat-00013416">Russians besiege Ukrainian ports as armored column stalls</a> Politico: Amid the carnage, Moscow’s international isolation deepened. 
- <p class="updated_time"> 07:16 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 07:13 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-pivot-moderate-agenda.html">As Biden Pivots, Democrats Seek to Salvage His Domestic Agenda</a> NYT: The president repackaged his sweeping domestic policy plan with more centrist language, but it remained unclear whether Congress would resurrect key elements of his agenda. 
  <p class="updated_time"> 07:00 PM CT, Mar. 02 </p> 
