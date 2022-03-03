@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 12:54 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/war-crimes-russia-ukraine-icc.html">I.C.C. Prosecutor Fast-Tracks War Crimes Investigation in Ukraine</a> NYT: The prosecutor said the investigation would encompass “allegations of war crimes, crimes against humanity or genocide committed” in Ukraine. 
+ <p class="updated_time"> 12:47 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084195089/russian-oligarch-yacht-seized-france">France seizes its first yacht as the West pledges to crack down on Russian oligarchs</a> NPR: France says it seized a yacht belonging to Igor Sechin, an oil executive and close ally of Russian President Vladimir Putin, after the U.S. and European Union sanctioned a slew of Russian oligarchs. 
  <p class="updated_time"> 12:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
- <p class="updated_time"> 12:41 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 12:40 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084205316/russian-cats-banned-international-competition">The 'United Nations of cat federations' bans Russian cats from its competitions</a> NPR: The Fédération Internationale Féline is temporarily placing restrictions on cats that were bred in Russia or belong to exhibitors who live there, in response to its attack on Ukraine. 
  <p class="updated_time"> 12:37 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Ukraine War Disrupts the Quiet World of Chess</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. Elite players there have condemned the invasion. 
  <p class="updated_time"> 12:35 PM CT, Mar. 03 </p> 
@@ -90,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/china-russia-xi-putin-ukraine-war-11646279098">China Declared Its Russia Friendship Had 'No Limits.' It's Having Second Thoughts.</a> WSJ: Xi Jinping wanted Vladimir Putin to join in a united front against the U.S., and he got it Feb. 4. Now the Ukraine war threatens to undo Beijing’s yearslong effort to become a world leader. 
  <p class="updated_time"> 04:34 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60600983?at_medium=RSS&at_campaign=KARANGA">Ukraine: Pensioner arrested at anti-war protest in Russia</a> BBC: Elderly activist Yelena Osipova is detained after protesting against Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:31 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/zelensky-ukraine-war-outrage.html">How Ukrainians Are Using Social Media to Speak Out About the War</a> NYT: Ukrainians take to social media, and taboos are tumbling as countries abandon neutrality and people abandon indifference to support their cause. 
  <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 03:20 AM CT, Mar. 03 </p> 
@@ -129,7 +133,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 07:47 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Sergey Melnik from Zhytomyr walks through rubble after his area was hit by an air strike. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Serhiy Melnyk from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
@@ -164,10 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084033817/russian-attacks-have-disrupted-ukraines-supply-chain-which-may-cause-food-shorta">Russian attacks have disrupted Ukraine's supply chain, which may cause food shortages</a> NPR: Humanitarian groups fear that severed supply chains at the Ukrainian border and within the nation could lead to food and fuel shortages. A Ukrainian supermarket chain paints a more optimistic picture. 
  <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033803/the-war-in-ukraine-hasnt-gone-well-for-russia-but-it-has-more-weapons-it-can-dep">The war in Ukraine hasn't gone well for Russia. But it has more weapons it can deploy</a> NPR: The early days of Russia's war with Ukraine haven't gone well on the battlefield, in the global information war, or on the economic front. But Russia still has weapons it can unleash. 
- <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084033796/un-general-assembly-calls-on-russia-to-pull-its-troops-out-of-ukraine">UN General Assembly calls on Russia to pull its troops out of Ukraine</a> NPR: The United Nations General Assembly has passed a resolution condemning Russia's invasion of Ukraine. The resolution deplores Russia's aggression and criticizes Belarus for its involvement. 
- <p class="updated_time"> 03:16 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083972155/chess-tennis-soccer-russia-ukraine-sports">From chess to tennis, global sports organizations distance themselves from Russia</a> NPR: The International Chess Federation banned tournaments in Russia and Belarus. It's among several actions taken by sports organizations against Russia in response to the invasion of Ukraine. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
  <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
