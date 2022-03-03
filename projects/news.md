@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:53 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the port city of Kherson, Ukrainian officials said, a significant moment in the battle for the south. More than a million people have fled Ukraine since the war started, a U.N. official said. 
+ <p class="updated_time"> 02:12 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: Russia’s Siege of Key Ukrainian Cities Fuels Humanitarian Crisis</a> NYT: More than a million people have fled Ukraine since the war started, a U.N. official said. Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 02:11 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 01:17 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60599579?at_medium=RSS&at_campaign=KARANGA">Neighbours will end this summer, producers confirm</a> BBC: The Australian soap's future has been uncertain since Channel 5 dropped it from its schedules. 
  <p class="updated_time"> 12:19 AM CT, Mar. 03 </p> 
@@ -190,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ship-sinks-luxury-cars.html">After Burning for Days, a Ship Carrying Thousands of Luxury Cars Sinks</a> NYT: The ship, the Felicity Ace, was carrying about 4,000 vehicles, including Bentleys and Porsches, when it caught fire on Feb. 16. On Tuesday morning, it sank. 
  <p class="updated_time"> 10:06 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/movies/gerard-depardieu-ukraine-war.html">Gérard Depardieu, Friend of Putin, Denounces ‘Fratricidal War’</a> NYT: “Stop the weapons and negotiate,” the French actor and staunch Russia ally told a news agency. 
- <p class="updated_time"> 09:14 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/lavrov-speech-un.html">Diplomats Walk Out of Lavrov’s U.N. Speech</a> NYT: Sergey Lavrov accused Ukraine of seeking to acquire nuclear weapons, an unsubstantiated claim that Moscow has used as justification for its invasion. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/asia/india-russia-united-states-ukraine.html">As World Rebukes Russia, India Tries to Stay Above the Fray</a> NYT: A nation isolated in a hostile region increasingly dominated by China, its challenge is to engage the West while not abandoning ties with an old ally. 
 
