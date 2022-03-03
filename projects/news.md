@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:32 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 09:41 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian troops take control of key city of Kherson - mayor</a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
  <p class="updated_time"> 09:18 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
@@ -226,7 +226,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:44 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084063758/clubhouse-sxsw-conference">Clubhouse says it won't be attending SXSW 2022 because of Texas' trans rights</a> NPR: Instead of attending SXSW 2022, the popular audio-only social app says it will hold its panel "The Power of Voice" on its platform, a spokesperson said. 
  <p class="updated_time"> 07:42 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-greg-abbott-transgender-investigation-00013408">Texas judge blocks Gov. Abbott's transgender investigation order, for now</a> Politico: Judge Amy Clark Meachum granted a temporary restraining order to pause one active investigation and will convene a March 11 hearing on the broader fate of Abbott’s orders. 
+ <a href="https://www.politico.com/news/2022/03/02/texas-greg-abbott-transgender-investigation-00013408">Texas judge blocks Gov. Abbott's transgender investigation order, for now</a> Politico: The interjection from Biden and the U.S. HHS arrived hours after a Texas judge temporarily blocked Abbott’s administration from one investigation. 
  <p class="updated_time"> 07:39 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/madigan-illinois-house-speaker-bribery-charge-00013413">‘The Madigan Enterprise’: Feds hit former Illinois House speaker with bribery</a> Politico: Michael Madigan operated a “criminal” organization to line his and his friends’ pockets, according to the indictment. 
  <p class="updated_time"> 07:34 PM CT, Mar. 02 </p> 
