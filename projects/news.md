@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:51 AM CT, Mar. 03 </p> 
+ <p class="updated_time"> 07:25 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Flee Ukraine as Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
@@ -17,11 +17,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:03 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60603226?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why so many African and Indian students were in the country</a> BBC: The thousands of foreign students who have fled the conflict are wondering what to do next. 
  <p class="updated_time"> 05:56 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60601235?at_medium=RSS&at_campaign=KARANGA">Mariupol under siege: 'We are being completely cut off'</a> BBC: Residents of a key Ukrainian port city tell the BBC they are being cut off by relentless Russian shelling. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60601235?at_medium=RSS&at_campaign=KARANGA">Mariupol under siege: 'We are being completely cut off'</a> BBC: Residents of the south-eastern city tell the BBC they are being cut off by relentless Russian shelling. 
  <p class="updated_time"> 05:48 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60601710?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Suspect handed over to Haiti</a> BBC: The suspect, who was part of President Moïse's security team, was arrested in the Dominican Republic. 
  <p class="updated_time"> 05:44 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60601034?at_medium=RSS&at_campaign=KARANGA">Ukrainian mothers resort to giving birth in hospital basements</a> BBC: As Russia's invasion continues, Ukrainian hospitals are forced to move their maternity wards underground. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60601034?at_medium=RSS&at_campaign=KARANGA">mothers resort to giving birth in hospital basements</a> BBC: As Russia's invasion continues, Ukrainian hospitals are forced to move their maternity wards underground. 
  <p class="updated_time"> 05:27 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/indian-student-ukraine-death.html">Death of Indian Student in Ukraine Shows Plight of Thousands</a> NYT: Naveen Shekharappa was killed when he left a bunker in Kharkiv to fetch food, officials and his family members said. 
  <p class="updated_time"> 05:26 AM CT, Mar. 03 </p> 
@@ -197,6 +197,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 07:56 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:20 AM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084113700/jan-6-panels-evidence-suggests-trump-broke-laws-trying-to-overturn-the-election">Jan. 6 panel's evidence suggests Trump broke laws trying to overturn the election</a> NPR: NPR's A Martinez talks to Democratic Rep. Adam Schiff of California, a member of the committee, about the panel's 221-page court filing, and where the investigation is headed from here. 
+ <p class="updated_time"> 07:14 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Jerome Powell, the Federal Reserve chair, said he would support a quarter-point increase at the March meeting. 
  <p class="updated_time"> 06:34 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/trump-criminal-charges-jan-6.html">Jan. 6 Committee Lays Out Potential Criminal Charges Against Trump</a> NYT: In a court filing, the panel said there was enough evidence to suggest that the former president might have engaged in a criminal conspiracy as he fought to remain in office. 
  <p class="updated_time"> 06:28 AM CT, Mar. 03 </p> 
@@ -277,8 +281,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/03/02/1084006754/heres-what-experts-say-biden-gets-right-in-his-new-mental-health-plan">Here's what experts say Biden gets right in his new mental health plan</a> NPR: Mental health advocates applaud the proposals, which they say offer much-needed federal leadership on a growing national crisis. But they worry about getting sustainable funding for the efforts. 
  <p class="updated_time"> 04:05 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/vaccine-mandate-health-workers.html">In Symbolic Vote, Senate Rejects Vaccine Mandate for Health Workers</a> NYT: Republicans forced the vote even though the measure has no chance of enactment, as part of an election-year effort to use pandemic precautions as a political weapon against Democrats. 
- <p class="updated_time"> 03:53 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Jerome Powell, the Federal Reserve chair, said he would support a quarter-point increase at the March meeting. 
  <p class="updated_time"> 03:49 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033868/advocates-are-applauding-bidens-plan-to-prioritize-mental-health-crisis">Advocates are applauding Biden's plan to prioritize mental health crisis</a> NPR: Health care providers and advocates say Biden's mental health plan is the first time in decades that the federal government is showing leadership in addressing the nation's mental health crisis. 
  <p class="updated_time"> 03:37 PM CT, Mar. 02 </p> 
@@ -289,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084033824/election-officials-and-lawmakers-are-responding-to-voter-fraud-narrative-differe">Election officials and lawmakers are responding to voter fraud narrative differently</a> NPR: State legislatures are considering election security bills in reaction to false narratives about voter fraud. But local election officials have a different security concern: increased harassment. 
  <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033796/un-general-assembly-calls-on-russia-to-pull-its-troops-out-of-ukraine">UN General Assembly calls on Russia to pull its troops out of Ukraine</a> NPR: The United Nations General Assembly has passed a resolution condemning Russia's invasion of Ukraine. The resolution deplores Russia's aggression and criticizes Belarus for its involvement. 
- <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084033789/president-bidens-new-covid-plan-puts-the-focus-on-testing-and-treatment">President Biden's new COVID plan puts the focus on testing and treatment</a> NPR: The White House has unveiled its new plan for getting back to normal after the pandemic. It relies more on testing and treating COVID cases rather than on restrictions. 
  <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/u-s-russians-putin-regime-change-00013249">The U.S. is pushing Russians to defy Putin. But don’t call it regime change.</a> Politico: U.S. officials fighting Kremlin propaganda see opportunities in the anti-war sentiment among Russians, including spy recruitment. 
  <p class="updated_time"> 01:50 PM CT, Mar. 02 </p> 
