@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:31 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 01:29 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
+ <p class="updated_time"> 01:25 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-un-invasion-condemn.html">U.N. General Assembly Approves Resolution Condemning Russia’s Invasion</a> NYT: The four-page document calls for an immediate halt to the conflict, urges diplomatic negotiations for a peaceful resolution and says Russia’s territorial gain through force will not be recognized. 
  <p class="updated_time"> 01:17 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084177384/russia-credit-rating-ruble">Russia's credit rating is cut to junk, and the dollar hits a new high vs. the ruble </a> NPR: Moody's cites multiple factors for the downgrade, from sanctions by the U.S., European Union and their allies to "significant concerns" that Russia might not be willing to pay its debts. 
- <p class="updated_time"> 01:17 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 01:10 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60608706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Drone shows extent of damage in Borodyanka</a> BBC: Drone footage shows the extent of destruction to flats as well as Russian military vehicles in Borodyanka. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60608706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Drone shows extent of damage in Borodyanka</a> BBC: Footage shows how flats and Russian military vehicles were destroyed in Borodyanka. 
  <p class="updated_time"> 01:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
  <p class="updated_time"> 12:58 PM CT, Mar. 03 </p> 
@@ -64,6 +68,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Here's How the Russia-Ukraine War Is Evolving</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
  <p class="updated_time"> 09:08 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60603447?at_medium=RSS&at_campaign=KARANGA">Abdullah al-Howaiti: Saudi child 'offender' sentenced to death at retrial</a> BBC: Activists say Abdullah al-Howaiti had an alibi for a murder that happened when he was aged 14. 
+ <p class="updated_time"> 08:26 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">Russian's War on Ukraine Has Created Over 1 Million Refugees In Just a Week</a> WSJ: In just a week since the war with Russia began, more than one million refugees have left Ukraine, mostly into Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
  <p class="updated_time"> 08:07 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/60591017?at_medium=RSS&at_campaign=KARANGA">Anatomy of an attack: Is Russia using cluster bombs in Ukraine?</a> BBC: Evidence of one attack in the city of Kharkiv has led to allegations of war crimes against Russia. 
  <p class="updated_time"> 08:05 AM CT, Mar. 03 </p> 
@@ -82,8 +88,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60601235?at_medium=RSS&at_campaign=KARANGA">Mariupol under siege: 'We are being completely cut off'</a> BBC: Residents of the south-eastern city tell the BBC they are being cut off by relentless Russian shelling. 
  <p class="updated_time"> 05:48 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60601710?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Suspect handed over to Haiti</a> BBC: The suspect, who was part of President Moïse's security team, was arrested in the Dominican Republic. 
- <p class="updated_time"> 05:46 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">At Ukrainian Border, Overwhelmed Guards, Volunteers Confront Exodus of Refugees Fleeing War</a> WSJ: In just a week since the war with Russia began, more than one million refugees have left Ukraine, mostly into Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
  <p class="updated_time"> 05:44 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60601034?at_medium=RSS&at_campaign=KARANGA">Mothers resort to giving birth in hospital basements</a> BBC: As Russia's invasion continues, Ukrainian hospitals are forced to move their maternity wards underground. 
  <p class="updated_time"> 05:27 AM CT, Mar. 03 </p> 
@@ -94,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/mayor-russian-troop-grenade.html">Video: Mayor of Konotop Asks His City Whether They Wish to Fight or Surrender</a> NYT: The mayor of Konotop, in northeastern Ukraine, said Russian soldiers had told him they would “raze the city to the ground with their artillery.” 
- <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-un-invasion-condemn.html">U.N. General Assembly Approves Resolution Condemning Russia’s Invasion</a> NYT: The four-page document calls for an immediate halt to the conflict, urges diplomatic negotiations for a peaceful resolution and says Russia’s territorial gain through force will not be recognized. 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
  <p class="updated_time"> 05:14 AM CT, Mar. 03 </p> 
@@ -198,8 +200,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 11:16 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
- <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-nuclear-power-plant.html">Many Ukrainian Nuclear Power Reactors No Longer Produce Electricity</a> NYT: Six of the 15 reactors in the country appear to be offline at the moment, with one site close to Russian troop movements reporting half of its reactors are down. 
 
@@ -210,7 +210,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel's blockbuster</a> Politico: Despite House investigators' extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
+ <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
  <p class="updated_time"> 01:13 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/desantis-defends-scolding-students-over-masks-fundraises-00013818">DeSantis defends scolding students over masks — and fundraises off it</a> Politico: “Predictably, the leftist propagandists in our media had a meltdown and called me a ‘bully’ for allowing children to breathe fresh air," a campaign email reads. 
  <p class="updated_time"> 01:08 PM CT, Mar. 03 </p> 
@@ -258,7 +258,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:28 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084121540/the-jan-6-panel-says-trump-likely-broke-laws-in-trying-to-overturn-the-election">The Jan. 6 panel says Trump likely broke laws in trying to overturn the election </a> NPR: In a court filing, the select committee says evidence "provides, at minimum, a good-faith basis for concluding" that Trump broke the law with his efforts to obstruct the counting of electoral votes. 
  <p class="updated_time"> 06:21 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, U.S. Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/03/how-gas-prices-could-crush-biden-and-the-democrats-00013533"> How gas prices could crush Biden and the Democrats</a> Politico Playbook: And Russia moves in on key Ukrainian cities. 
  <p class="updated_time"> 05:00 AM CT, Mar. 03 </p> 
