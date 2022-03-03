@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:11 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 10:33 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 10:33 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 10:01 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 10:00 PM CT, Mar. 02 </p> 
@@ -70,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084017897/russia-european-space-agency-mars-mission">A joint Europe-Russia mission to Mars is likely to be delayed because of sanctions</a> NPR: The mission, which had been set for this year, is a part of the ExoMars program to search for signs of life on Mars. It's likely to be delayed by nations' response to Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:58 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033875/how-the-memory-of-nazi-atrocities-has-come-to-play-a-role-in-russias-war">How the memory of Nazi atrocities has come to play a role in Russia's war</a> NPR: Putin's claim that he is fighting a Nazi regime in Ukraine is a falsehood based on historical memory. 
- <p class="updated_time"> 03:54 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 03:50 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084046601/ea-russian-teams-fifa-nhl">EA is cutting Russian teams from its FIFA and NHL games over the Ukraine invasion</a> NPR: "We stand with the people of Ukraine and join the voices around the world calling for peace," EA said in a statement. 
  <p class="updated_time"> 03:42 PM CT, Mar. 02 </p> 
@@ -158,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 12:00 AM CT, Mar. 02 </p> 
  <a href="https://www.wsj.com/articles/foreign-refugees-fleeing-ukraine-say-they-were-held-for-days-at-border-11646218800">Black, Asian and Middle Eastern Refugees Fleeing Ukraine Are Blocked at Border</a> WSJ: People from Africa, South Asia and the Middle East say they were pulled aside, as guards prioritized Ukrainians. 
- <p class="updated_time"> 11:33 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/queen-elizabeth-covid-free.html">Queen Elizabeth Resumes Work After Coronavirus Scare</a> NYT: The British monarch is feeling well enough to return to her duties, Buckingham Palace said, easing concerns about the 95-year-old’s health. 
  <p class="updated_time"> 11:31 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-turkey-putin-erdogan.html">Ukraine Invasion Increases Friction Between Erdogan and Putin</a> NYT: The Turkish and Russian leaders have found themselves on opposite sides of a host of armed conflicts. In Ukraine, the stakes may be higher than ever. 
  <p class="updated_time"> 11:16 PM CT, Mar. 01 </p> 
@@ -226,7 +224,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:04 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/doj-hack-reporting-bill-fbi-less-safe-00013420">DOJ says hack reporting bill ‘makes us less safe’</a> Politico: The Justice Department is the only major institution criticizing the bill, which appears to be on a glide path to passage after winning unanimous Senate approval on Tuesday. 
  <p class="updated_time"> 07:46 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments Against Defendant in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/jan-6-trial-opening-arguments.html">Prosecutors Open Arguments in First Jan. 6 Trial</a> NYT: Guy Reffitt recorded himself as he entered the Capitol with zip ties and a pistol. “We’re taking the Capitol before the day is over, ripping them out by their hair,” he said. 
  <p class="updated_time"> 07:44 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084063758/clubhouse-sxsw-conference">Clubhouse says it won't be attending SXSW 2022 because of Texas' trans rights</a> NPR: Instead of attending SXSW 2022, the popular audio-only social app says it will hold its panel "The Power of Voice" on its platform, a spokesperson said. 
  <p class="updated_time"> 07:42 PM CT, Mar. 02 </p> 
