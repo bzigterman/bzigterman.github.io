@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:09 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 02:39 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 02:14 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
+ <p class="updated_time"> 02:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60611470?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia agrees need to create humanitarian corridors</a> BBC: But the talks between Russian and Ukrainian negotiators yield only limited concrete progress. 
+ <p class="updated_time"> 02:11 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 02:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
- <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 01:56 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take Kherson but Kyiv advance slows</a> BBC: Russia takes control of its first major city as the assault on the country intensifies. 
- <p class="updated_time"> 01:49 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60611470?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia agrees need to create humanitarian corridors</a> BBC: Ukraine's chief negotiator says an understanding was reached on safely evacuating fleeing civilians. 
  <p class="updated_time"> 01:40 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60611985?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Telling my children why dad joined the war - Kyiv mother</a> BBC: Olena Gnes says it is important for her children to know their father joined Ukraine's defence unit. 
  <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
@@ -74,6 +76,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/french-volunteers-ukraine.html">French Volunteers Plan to Head to Ukraine to Join its New Foreign Legion</a> NYT: And Ukraine is welcoming them and other volunteers with open arms. 
  <p class="updated_time"> 10:12 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-military-strategy-russia.html">Ukrainian Forces Use Home-Turf Knowledge to Stymie Russia</a> NYT: Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, said Ukraine’s military was “fighting with extraordinary skill and courage.” 
+ <p class="updated_time"> 09:14 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/french-president-emmanuel-macron-declares-run-for-re-election-11646335861">France's Macron Declares Run for Re-Election</a> WSJ: The announcement kicks off a campaign that has been overshadowed by the war in Ukraine, a conflict in which the president’s diplomatic efforts have lifted his political standing. 
  <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Here's How the Russia-Ukraine War Is Evolving</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
  <p class="updated_time"> 09:08 AM CT, Mar. 03 </p> 
@@ -124,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Hundreds Held After New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084112625/neutral-finland-sweden-warm-to-idea-of-nato-membership">Neutral Finns and Swedes reconsider idea of NATO membership</a> NPR: A change in public opinion in steadfastly neutral Finland and Sweden has taken place since Russia's invasion of Ukraine. 
- <p class="updated_time"> 02:18 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/in-china-fewer-are-willing-to-splurge-as-economic-worries-mount-11646313507">In China, Fewer Are Willing to Splurge as Economic Worries Mount</a> WSJ: From canceled vacation trips to cutting back on dining out, Chinese consumers have remained cautious, refusing to spend like Westerners during the Covid-19 era. 
  <p class="updated_time"> 02:00 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/venezuela-asks-wall-street-to-help-lift-u-s-sanctions-so-oil-can-flow-11646312401">Venezuela Pushes for Lift in U.S. Sanctions So Oil Can Flow</a> WSJ: The regime is encouraging debtholders to pressure the Biden administration, which is wary of fast-rising oil prices caused by the war in Ukraine. 
  <p class="updated_time"> 12:19 AM CT, Mar. 03 </p> 
@@ -152,6 +154,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Serhiy Melnyk from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
+ <p class="updated_time"> 06:46 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/philadelphia-drops-its-mask-mandate.html">Philadelphia drops its mask mandate.</a> NYT: As the Omicron wave continues to subside, a growing number of cities and states are relaxing their pandemic restrictions. 
  <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60573261?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Who's in Putin's inner circle and running the war?</a> BBC: Russia's president cuts an isolated figure but he relies on an inner circle when he makes key decisions. 
  <p class="updated_time"> 06:16 PM CT, Mar. 02 </p> 
@@ -196,14 +200,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/asia/afghanistan-taliban-resistance.html">Taliban Search Operation Echoes Resented U.S. Tactics in Afghanistan</a> NYT: An intrusive sweep that has spanned several provinces risks alienating Afghans and fueling the insurgency the new government is trying to stop. 
  <p class="updated_time"> 09:56 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60592931?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: We need support from our allies, say Klitschko brothers</a> BBC: The mayor of Kyiv and his brother, both renowned boxers, spoke to the BBC from Kyiv. 
- <p class="updated_time"> 05:45 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html">Russia Escalates Attacks on Ukraine as Refugee Numbers Surge</a> NYT: There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
  <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
- <p class="updated_time"> 11:16 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
 
 
 </details>
@@ -211,9 +211,15 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/powell-says-russias-ukraine-invasion-could-speed-up-inflation-00013831">'People will feel that': Fed's Powell says war could fuel inflation</a> Politico: Powell, in testimony to the Senate Banking Committee, said Americans are going to see higher gas prices, while transportation and energy costs will also rise for businesses. 
  <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/uc-berkeley-will-be-forced-to-slash-enrollment-under-state-supreme-court-ruling-00013923">UC Berkeley prepares to slash enrollment after California Supreme Court ruling</a> Politico: The decision by the Supreme Court justices to reject UC Berkeley’s application for a stay in the case means the school will need to shrink its student population before the fall semester begins. 
- <p class="updated_time"> 02:06 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 02:34 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-ukraine-russia-policy-support.html">Why Americans Might Not Rally Around Biden Over Ukraine</a> NYT: The days when voters put their partisan differences aside during a national security crisis appear to be over. 
+ <p class="updated_time"> 02:19 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084278181/transgender-girls-and-women-now-barred-from-female-sports-in-iowa">Transgender girls and women now barred from female sports in Iowa</a> NPR: The ban takes effect immediately. The ban applies to K-12 schools and community colleges as well as colleges and universities that are part of the NCAA or NAIA. 
+ <p class="updated_time"> 02:14 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/federal-reserve-powell-inflation.html">Federal Reserve Chair Pledges to Bring Inflation Under Control</a> NYT: Jerome H. Powell, the head of the Federal Reserve, told lawmakers the Fed was prepared to prevent a rerun of 1970s inflation. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
@@ -317,8 +323,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
  <p class="updated_time"> 06:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/ellen-knight-national-security-council-biden.html">Biden Rehires National Security Staff Member Pushed Out Under Trump</a> NYT: The National Security Council confirmed that Ellen Knight, who told of improper pressure from Trump administration officials, was returning to help manage classified information. 
- <p class="updated_time"> 06:00 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-ukraine-russia-policy-support.html">Why Americans Might Not Rally Around Biden Over Ukraine</a> NYT: The days when voters put their partisan differences aside during a national security crisis appear to be over. 
  <p class="updated_time"> 05:44 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1083927209/jan-6-riot-defendant-was-tip-of-this-mobs-spear-prosecutor-tells-jury">Jan. 6 riot defendant was 'tip of this mob's spear,' prosecutor tells jury </a> NPR: Prosecutors laid out their case against Guy Reffitt, who is the first defendant connected to the Jan. 6 Capitol insurrection to face trial. His attorney described the case as based on "hype." 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
@@ -331,8 +335,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084033868/advocates-are-applauding-bidens-plan-to-prioritize-mental-health-crisis">Advocates are applauding Biden's plan to prioritize mental health crisis</a> NPR: Health care providers and advocates say Biden's mental health plan is the first time in decades that the federal government is showing leadership in addressing the nation's mental health crisis. 
  <p class="updated_time"> 03:37 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033861/many-say-washington-is-a-swamp-the-reality-is-more-complex">Many say Washington is a swamp. The reality is more complex</a> NPR: Politicians running for office often call Washington a swamp filled with inefficient bureaucrats and leeches. But many in the capital have devoted themselves to making government a tool for good. 
- <p class="updated_time"> 03:37 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084033847/bidens-top-economics-adviser-on-fighting-inflation">Biden's top economics adviser on fighting inflation</a> NPR: NPR's Ari Shapiro talks with Cecilia Rouse, chair of the Council of Economic Advisers, about Biden's State of the Union address and the impact of the war in Ukraine on the U.S. economy. 
  <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/u-s-russians-putin-regime-change-00013249">The U.S. is pushing Russians to defy Putin. But don’t call it regime change.</a> Politico: U.S. officials fighting Kremlin propaganda see opportunities in the anti-war sentiment among Russians, including spy recruitment. 
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
