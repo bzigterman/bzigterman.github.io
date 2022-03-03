@@ -8,20 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:11 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 10:01 PM CT, Mar. 02 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
+ <p class="updated_time"> 10:00 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60598234?at_medium=RSS&at_campaign=KARANGA">Taiwan: Massive blackout leaves many without power</a> BBC: The blackout reportedly happened after an accident at a power plant in southern Taiwan. 
+ <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million refugees have now fled Ukraine since the start of the war, U.N. says</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
  <p class="updated_time"> 09:53 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60597751?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia faces war crimes investigation</a> BBC: The International Criminal Court's prosecutor opens an inquiry, after Russia is accused of bombing civilians. 
  <p class="updated_time"> 09:41 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian troops take control of key city of Kherson - mayor</a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
- <p class="updated_time"> 09:18 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
- <p class="updated_time"> 09:08 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60598234?at_medium=RSS&at_campaign=KARANGA">Taiwan: Massive blackout leaves many without power</a> BBC: Authorities say they are still investigating the cause of the widespread power cuts. 
  <p class="updated_time"> 09:07 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
- <p class="updated_time"> 08:15 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 07:47 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Sergey Melnik from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 07:40 PM CT, Mar. 02 </p> 
@@ -122,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/australia/new-zealand-protest-vaccine.html">New Zealand Police Move to End Protest, and Violence Erupts</a> NYT: Fires and violence at a protest opposing vaccine mandates were a rare sight in a country known for its relative serenity and stability. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Ukrainian city of Mariupol 'near to humanitarian catastrophe' after bombardment</a> BBC: The deputy mayor of Mariupol says he believes hundreds of people have died in the Russian onslaught. 
- <p class="updated_time"> 10:45 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083911717/russian-police-jail-kids-who-took-flowers-and-no-to-war-signs-to-ukraines-embass">Russian police jail kids who took flowers and 'No to War' signs to Ukraine's embassy</a> NPR: The children were still clutching their flowers as they sat in custody. Police reportedly threatened mothers with losing their parental rights. 
  <p class="updated_time"> 10:43 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/asia/afghanistan-taliban-resistance.html">Taliban Search Operation Echoes Resented U.S. Tactics in Afghanistan</a> NYT: An intrusive sweep that has spanned several provinces risks alienating Afghans and fueling the insurgency the new government is trying to stop. 
  <p class="updated_time"> 10:32 AM CT, Mar. 02 </p> 
@@ -207,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 10:40 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/autherine-lucy-foster-alabama-dies-00013455">Autherine Lucy Foster, first Black student at University of Alabama, dies</a> Politico: Her death came less than a week after university officials dedicated the campus building where she briefly attended classes in her honor. 
+ <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
+ <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million refugees have now fled Ukraine since the start of the war, U.N. says</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
  <p class="updated_time"> 09:22 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/trump-criminal-charges-jan-6.html">Jan. 6 Committee Lays Out Potential Criminal Charges Against Trump</a> NYT: In a court filing, the panel said there was enough evidence to suggest that the former president might have engaged in a criminal conspiracy as he fought to remain in office. 
  <p class="updated_time"> 09:07 PM CT, Mar. 02 </p> 
@@ -216,7 +218,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:58 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan6-trump-obstruction-justice-00013440">Jan. 6 committee says Trump violated multiple laws in effort to overturn election</a> Politico: The select panel suggested its evidence supported findings that the former president violated multiple laws by attempting to prevent Congress from certifying his defeat. 
  <p class="updated_time"> 08:57 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084098799/trump-select-committee-capitol-insurrection-conspiracy">Jan. 6 panel concludes Trump likely broke laws in trying to overturn election</a> NPR: In a court filing, the select committee says evidence "provides, at minimum, a good-faith basis for concluding" that Trump broke the law with his efforts to obstruct the counting of electoral votes. 
+ <a href="https://www.npr.org/2022/03/02/1084098799/trump-select-committee-capitol-insurrection-conspiracy">Jan. 6 panel says it has evidence Trump broke laws in trying to overturn the election</a> NPR: The Democratic-led House select committee says it "has a good-faith basis for concluding that the President and members of his Campaign engaged in a criminal conspiracy to defraud the United States." 
  <p class="updated_time"> 08:54 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-covid-strategy.html">Biden’s New Covid Plan: Preparing for New Variants and Avoiding Shutdowns</a> NYT: The strategy is supposed to help the nation transition to what some are calling a “new normal,” but it will require funding from Congress. 
  <p class="updated_time"> 08:24 PM CT, Mar. 02 </p> 
@@ -323,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/social-media-goes-to-war-00012993">A hesitant tech industry wields its power against Putin</a> Politico: U.S. social media companies have been pressured to move off the sidelines to block Russian propaganda as the Ukraine war escalates. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
- <p class="updated_time"> 04:08 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083881254/biden-addresses-issues-such-as-ukraine-and-inflation-in-state-of-the-union-speec">Biden addresses issues, such as Ukraine and inflation, in State of the Union speech</a> NPR: NPR's A Martinez talks to NPR White House correspondent Scott Detrow and Michelle Singletary, personal finance columnist for The Washington Post, about President Biden's State of the Union address. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/texas-primary-takeaways.html">Takeaways From Texas's 2022 Primary Elections</a> NYT: Republicans’ turnout swamped Democrats’, while progressives claimed wins in the first elections of the 2022 midterms. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
