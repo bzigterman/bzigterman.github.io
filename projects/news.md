@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:39 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
- <p class="updated_time"> 02:14 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
+ <p class="updated_time"> 02:41 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 02:12 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60611470?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia agrees need to create humanitarian corridors</a> BBC: But the talks between Russian and Ukrainian negotiators yield only limited concrete progress. 
  <p class="updated_time"> 02:11 PM CT, Mar. 03 </p> 
