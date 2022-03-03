@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:33 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 10:48 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the strategically important city of Kherson, Ukrainian officials said, in a significant moment in the battle for the country’s south. Explosions struck the capital, Kyiv, and Russian troops continued to lay siege to Kharkiv. 
+ <p class="updated_time"> 10:47 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60598234?at_medium=RSS&at_campaign=KARANGA">Taiwan: Massive power outage affects five million households</a> BBC: The blackout reportedly happened after an accident at a power plant in southern Taiwan. 
  <p class="updated_time"> 10:33 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 10:01 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
- <p class="updated_time"> 10:00 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60598234?at_medium=RSS&at_campaign=KARANGA">Taiwan: Massive blackout leaves many without power</a> BBC: The blackout reportedly happened after an accident at a power plant in southern Taiwan. 
  <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million refugees have now fled Ukraine since the start of the war, U.N. says</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
  <p class="updated_time"> 09:53 PM CT, Mar. 02 </p> 
@@ -128,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/asia/afghanistan-taliban-resistance.html">Taliban Search Operation Echoes Resented U.S. Tactics in Afghanistan</a> NYT: An intrusive sweep that has spanned several provinces risks alienating Afghans and fueling the insurgency the new government is trying to stop. 
  <p class="updated_time"> 10:32 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: The battles for Kyiv and Kharkiv</a> BBC: Russia urges people to leave Kyiv before air strikes as its paratroopers land in second-city Kharkiv. 
- <p class="updated_time"> 09:58 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-italy-sanctions.html">Italy Takes a Risk in Joining Sanctions on Russia Over Ukraine</a> NYT: The two countries have had strong economic ties for decades, but the invasion of Ukraine has spurred the government in Rome to realign with European allies — at an outsize cost. 
  <p class="updated_time"> 09:56 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60592931?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: We need support from our allies, say Klitschko brothers</a> BBC: The mayor of Kyiv and his brother, both renowned boxers, spoke to the BBC from Kyiv. 
  <p class="updated_time"> 09:39 AM CT, Mar. 02 </p> 
@@ -228,7 +226,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:44 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084063758/clubhouse-sxsw-conference">Clubhouse says it won't be attending SXSW 2022 because of Texas' trans rights</a> NPR: Instead of attending SXSW 2022, the popular audio-only social app says it will hold its panel "The Power of Voice" on its platform, a spokesperson said. 
  <p class="updated_time"> 07:42 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-greg-abbott-transgender-investigation-00013408">Texas judge blocks Gov. Abbott's transgender investigation order, for now</a> Politico: The interjection from Biden and the U.S. HHS arrived hours after a Texas judge temporarily blocked Abbott’s administration from one investigation. 
+ <a href="https://www.politico.com/news/2022/03/02/texas-greg-abbott-transgender-investigation-00013408">‘Government overreach at its worst’: Biden slams Texas transgender investigations</a> Politico: The interjection from Biden and the U.S. HHS arrived hours after a Texas judge temporarily blocked Abbott’s administration from one investigation. 
  <p class="updated_time"> 07:39 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/madigan-illinois-house-speaker-bribery-charge-00013413">‘The Madigan Enterprise’: Feds hit former Illinois House speaker with bribery</a> Politico: Michael Madigan operated a “criminal” organization to line his and his friends’ pockets, according to the indictment. 
  <p class="updated_time"> 07:34 PM CT, Mar. 02 </p> 
