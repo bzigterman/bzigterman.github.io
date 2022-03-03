@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:55 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: Russia’s Siege of Key Ukrainian Cities Fuels Humanitarian Crisis</a> NYT: More than a million people have fled Ukraine since the war started, a U.N. official said. Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 03:20 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60595993?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian declared legally single in divorce with Ye</a> BBC: The famous couple were married nearly eight years ago and share four children. 
- <p class="updated_time"> 03:17 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: Russia’s Siege of Key Ukrainian Cities Fuels Humanitarian Crisis</a> NYT: More than a million people have fled Ukraine since the war started, a U.N. official said. Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 02:59 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60599579?at_medium=RSS&at_campaign=KARANGA">Neighbours: TV soap will end this summer, producers confirm</a> BBC: The Australian TV soap's future has been uncertain since Channel 5 dropped it from its schedules. 
  <p class="updated_time"> 02:56 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: The battles for Kyiv and Kharkiv</a> BBC: Russia takes control of its first major city as the assault on the country intensifies. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Huge New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
+ <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Hundreds Held After New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084112625/neutral-finland-sweden-warm-to-idea-of-nato-membership">Neutral Finns and Swedes reconsider idea of NATO membership</a> NPR: A change in public opinion in steadfastly neutral Finland and Sweden has taken place since Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:11 AM CT, Mar. 03 </p> 
@@ -189,7 +189,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russian-convoy-ukraine.html">Miles-Long Russian Convoy Outside Kyiv Signals Tactical Shift</a> NYT: Satellite imagery has shown a Russian military convoy stretching 40 miles on a roadway north of Ukraine’s capital, Kyiv. Experts say it probably indicates a shift to siege tactics. 
  <p class="updated_time"> 12:03 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">Workers Strike in a London Underground Already Battered by the Pandemic</a> NYT: Transport workers started the first of two 24-hour strikes planned for this week amid concerns over unfilled posts, pensions and the long-term financing of the rail system. 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">London Underground Is Again Shut Down by Worker Strike</a> NYT: Transport workers have walked out amid concerns over unfilled posts, pensions and the long-term financing of the rail system. 
  <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ship-sinks-luxury-cars.html">After Burning for Days, a Ship Carrying Thousands of Luxury Cars Sinks</a> NYT: The ship, the Felicity Ace, was carrying about 4,000 vehicles, including Bentleys and Porsches, when it caught fire on Feb. 16. On Tuesday morning, it sank. 
  <p class="updated_time"> 09:01 AM CT, Mar. 01 </p> 
@@ -201,6 +201,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1082841586/georgias-race-to-oversee-voting-pits-an-election-denier-against-an-election-defe">Georgia's race to oversee voting pits an election denier against an election defender</a> NPR: Georgia Secretary of State Brad Raffensperger, who denied entreaties to overturn the 2020 race, faces a primary challenge from one of the nation's preeminent election deniers, Rep. Jody Hice, R-Ga. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/magazine/rashida-tlaib.html">What Rashida Tlaib Represents</a> NYT: She changed the Israeli-Palestinian debate in Congress by reminding her colleagues of the human stakes. It’s a burden she would rather not carry. 
  <p class="updated_time"> 11:21 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 11:12 PM CT, Mar. 02 </p> 
@@ -315,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
  <p class="updated_time"> 05:00 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/russia-crisis-international-space-station-00013000">Russia crisis could sink the International Space Station</a> Politico: Backing out of the international partnership could be catastrophic for NASA. 
- <p class="updated_time"> 04:52 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1083132197/texas-28th-district-cisneros-cuellar">Closely watched South Texas Democratic primary heads to a runoff</a> NPR: The primary battle between longtime Democratic Rep. Henry Cuellar, a fixture of South Texas politics, and progressive challenger Jessica Cisneros will continue on to a May runoff. 
  <p class="updated_time"> 04:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/social-media-goes-to-war-00012993">A hesitant tech industry wields its power against Putin</a> Politico: U.S. social media companies have been pressured to move off the sidelines to block Russian propaganda as the Ukraine war escalates. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
@@ -331,8 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-00013072">Biden to America: ‘We’re going to be OK’</a> Politico: The president didn’t imagine that this was going to be his first State of the Union address. But when life gives you lemons ... 
- <p class="updated_time"> 10:29 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/us/politics/sotu-biden-putin-ukraine.html">Biden Emphasizes Unity in Foreign Policy Crisis</a> NYT: President Biden emphasized allies’ resolve in his State of the Union address, but acknowledged Russia may not be deterred from further efforts to reconstitute the Soviet bloc. 
  <p class="updated_time"> 10:27 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
