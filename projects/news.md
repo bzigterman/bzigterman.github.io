@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:04 AM CT, Mar. 03 </p> 
+ <p class="updated_time"> 08:55 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Flee Ukraine as Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 08:07 AM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/60591017?at_medium=RSS&at_campaign=KARANGA">Ukraine: Is Russia using cluster bombs?</a> BBC: Evidence of one attack in the city of Kharkiv has led to allegations of war crimes against Russia. 
  <p class="updated_time"> 07:55 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Russia's Ukraine Invasion: What Happened in the First Week of the War</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
  <p class="updated_time"> 07:32 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60600986?at_medium=RSS&at_campaign=KARANGA">Russia: Long queues of people wanting to withdraw money in Moscow</a> BBC: People in the Russian capital are trying to take out currency, as fears continue over financial sanctions. 
  <p class="updated_time"> 07:31 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/uk-london-tube-strike.html">London Underground Is Again Shut Down by Worker Strike</a> NYT: Transport workers have walked out amid concerns over unfilled posts, pensions and the long-term financing of the rail system. 
+ <p class="updated_time"> 07:10 AM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60596629?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why has Russia's 64km convoy near Kyiv stopped moving?</a> BBC: Russian forces advancing on the Ukrainian capital appear to have stalled, US and UK officials say. 
  <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 06:21 AM CT, Mar. 03 </p> 
@@ -50,10 +54,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
+ <p class="updated_time"> 03:47 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/u-n-report-shows-iran-has-almost-enough-highly-enriched-uranium-for-a-nuclear-bomb-11646316141">U.N. Report Shows Iran Has Almost Enough Highly Enriched Uranium for a Nuclear Bomb</a> WSJ: The Islamic Republic, which says its nuclear program is purely peaceful,  significantly increased its stockpiles as talks to revive a deal with the U.S. and other world powers advanced. 
+ <p class="updated_time"> 03:43 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Russian Forces Advance in Southern Ukraine Ahead of Talks</a> WSJ: Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/sanctions-will-hurt-russia-but-are-unlikely-to-deter-its-aggression-in-ukraine-11646314400">Will Sanctions Force Putin to Back Down in Ukraine? History Suggests It's Unlikely</a> WSJ: The imposition of strict economic sanctions has a mixed track record, often falling short of causing a dramatic change in behavior, particularly in authoritarian countries like Russia, according to most analysts who study them. 
  <p class="updated_time"> 03:20 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60595993?at_medium=RSS&at_campaign=KARANGA">Kim Kardashian declared legally single in divorce with Ye</a> BBC: The famous couple were married nearly eight years ago and share four children. 
- <p class="updated_time"> 03:08 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Russian Forces Advance in Southern Ukraine Ahead of Talks</a> WSJ: Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks. 
  <p class="updated_time"> 02:59 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60599579?at_medium=RSS&at_campaign=KARANGA">Neighbours: TV soap will end this summer, producers confirm</a> BBC: The Australian TV soap's future has been uncertain since Channel 5 dropped it from its schedules. 
  <p class="updated_time"> 02:56 AM CT, Mar. 03 </p> 
@@ -62,10 +70,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Hundreds Held After New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084112625/neutral-finland-sweden-warm-to-idea-of-nato-membership">Neutral Finns and Swedes reconsider idea of NATO membership</a> NPR: A change in public opinion in steadfastly neutral Finland and Sweden has taken place since Russia's invasion of Ukraine. 
- <p class="updated_time"> 02:33 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/sanctions-will-hurt-russia-but-are-unlikely-to-deter-its-aggression-in-ukraine-11646314400">Sanctions Will Hurt Russia but Are Unlikely to Deter Its Aggression in Ukraine</a> WSJ: The imposition of strict economic sanctions has a mixed track record, often falling short of causing a dramatic change in behavior, particularly in authoritarian countries like Russia, according to most analysts who study them. 
  <p class="updated_time"> 02:21 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/russian-oligarch-igor-sechins-yacht-is-seized-in-france-as-it-prepares-to-depart-11646313685">Russian Oligarch's Yacht Is Seized in France as It Prepares to Depart</a> WSJ: French authorities said they seized a yacht belonging to a company majority owned by Rosneft CEO Igor Sechin, who was among a group of individuals sanctioned by the European Union. 
+ <a href="https://www.wsj.com/articles/russian-oligarch-igor-sechins-yacht-is-seized-in-france-as-it-prepares-to-depart-11646313685">A Global Hunt for Russian Oligarchs' Yachts Has Begun</a> WSJ: French authorities said they seized a yacht belonging to a company majority owned by Rosneft CEO Igor Sechin, who was among a group of individuals sanctioned by the European Union. 
  <p class="updated_time"> 02:18 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/in-china-fewer-are-willing-to-splurge-as-economic-worries-mount-11646313507">In China, Fewer Are Willing to Splurge as Economic Worries Mount</a> WSJ: From canceled vacation trips to cutting back on dining out, Chinese consumers have remained cautious, refusing to spend like Westerners during the Covid-19 era. 
  <p class="updated_time"> 02:00 AM CT, Mar. 03 </p> 
@@ -91,7 +97,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million people have fled Ukraine as Russia nears takeover of port city</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
  <p class="updated_time"> 09:41 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian troops take control of key city of Kherson - mayor</a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Russian troops take control of major city Kherson   </a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 07:58 PM CT, Mar. 02 </p> 
@@ -154,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/australia/new-zealand-protest-vaccine.html">New Zealand Police Move to End Protest, and Violence Erupts</a> NYT: Fires and violence at a protest opposing vaccine mandates were a rare sight in a country known for its relative serenity and stability. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Ukrainian city of Mariupol 'near to humanitarian catastrophe' after bombardment</a> BBC: The deputy mayor of Mariupol says he believes hundreds of people have died in the Russian onslaught. 
- <p class="updated_time"> 10:48 AM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-worries-sudan-is-close-to-leasing-russia-a-red-sea-base-11646255126">U.S. Worries Sudan Is Close to Leasing Russia a Red Sea Base</a> WSJ: As the African nation, under military control after coup last year, seeks fresh investment, officials suggest they could give Moscow a 25-year lease in Port Sudan. 
  <p class="updated_time"> 10:43 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/asia/afghanistan-taliban-resistance.html">Taliban Search Operation Echoes Resented U.S. Tactics in Afghanistan</a> NYT: An intrusive sweep that has spanned several provinces risks alienating Afghans and fueling the insurgency the new government is trying to stop. 
  <p class="updated_time"> 09:56 AM CT, Mar. 02 </p> 
@@ -188,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/middleeast/israel-palestinians-evictions.html">Palestinians Threatened With Eviction Can Stay in Their Homes — for Now</a> NYT: Israel’s high court stayed the eviction of four Palestinian families from their East Jerusalem homes. The eviction threat had stoked tensions that led to war in Gaza. 
  <p class="updated_time"> 02:47 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russian-convoy-ukraine.html">Miles-Long Russian Convoy Outside Kyiv Signals Tactical Shift</a> NYT: Satellite imagery has shown a Russian military convoy stretching 40 miles on a roadway north of Ukraine’s capital, Kyiv. Experts say it probably indicates a shift to siege tactics. 
- <p class="updated_time"> 11:44 AM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ship-sinks-luxury-cars.html">After Burning for Days, a Ship Carrying Thousands of Luxury Cars Sinks</a> NYT: The ship, the Felicity Ace, was carrying about 4,000 vehicles, including Bentleys and Porsches, when it caught fire on Feb. 16. On Tuesday morning, it sank. 
 
 
 </details>
@@ -197,6 +199,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:46 AM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084131154/van-taylor-tania-joya-drops-texas-reelection">U.S. Rep. Van Taylor drops his Texas reelection bid and admits to an affair</a> NPR: The announcement followed reports that he had been in a relationship with the widow of an American-born recruiter for the Islamic State. 
  <p class="updated_time"> 07:56 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Mar. 03 </p> 
@@ -289,8 +293,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084033847/bidens-top-economics-adviser-on-fighting-inflation">Biden's top economics adviser on fighting inflation</a> NPR: NPR's Ari Shapiro talks with Cecilia Rouse, chair of the Council of Economic Advisers, about Biden's State of the Union address and the impact of the war in Ukraine on the U.S. economy. 
  <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033824/election-officials-and-lawmakers-are-responding-to-voter-fraud-narrative-differe">Election officials and lawmakers are responding to voter fraud narrative differently</a> NPR: State legislatures are considering election security bills in reaction to false narratives about voter fraud. But local election officials have a different security concern: increased harassment. 
- <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084033796/un-general-assembly-calls-on-russia-to-pull-its-troops-out-of-ukraine">UN General Assembly calls on Russia to pull its troops out of Ukraine</a> NPR: The United Nations General Assembly has passed a resolution condemning Russia's invasion of Ukraine. The resolution deplores Russia's aggression and criticizes Belarus for its involvement. 
  <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/u-s-russians-putin-regime-change-00013249">The U.S. is pushing Russians to defy Putin. But don’t call it regime change.</a> Politico: U.S. officials fighting Kremlin propaganda see opportunities in the anti-war sentiment among Russians, including spy recruitment. 
  <p class="updated_time"> 01:50 PM CT, Mar. 02 </p> 
