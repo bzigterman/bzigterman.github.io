@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:40 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 11:21 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
- <p class="updated_time"> 11:21 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 11:19 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60607782?at_medium=RSS&at_campaign=KARANGA">Young girl returned after kidnapping by man she met on Roblox</a> BBC: US police said: "We're truly lucky we found this young girl and she was alive." 
  <p class="updated_time"> 11:00 AM CT, Mar. 03 </p> 
@@ -192,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
  <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
- <p class="updated_time"> 07:45 PM CT, Mar. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-european-union-membership.html">Why Joining the E.U. May Not Be Easy for Ukraine</a> NYT: Russia’s invasion of Ukraine is helping to focus minds in Brussels. But the country has big hurdles to overcome before it can join the E.U., the world’s biggest trading bloc. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-nuclear-power-plant.html">Many Ukrainian Nuclear Power Reactors No Longer Produce Electricity</a> NYT: Six of the 15 reactors in the country appear to be offline at the moment, with one site close to Russian troop movements reporting half of its reactors are down. 
  <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
@@ -209,12 +207,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/timken-senate-ohio-00013759">Trump endorsement casts long shadow over Ohio Senate race</a> Politico: Mar-a-Lago is watching closely as former state GOP Chair Jane Timken balances between the establishment and MAGA wings. 
  <p class="updated_time"> 12:10 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/russia-ukraine-crisis-where-things-stand-00013728">Russia-Ukraine crisis: Where things stand after 1 week of war</a> Politico: Here’s a guide to everything you need to know about the invasion. 
  <p class="updated_time"> 11:57 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/canada-strips-russia-belarus-trade-status-00013758">Canada strips Russia, Belarus of trade status in latest sanctions salvo</a> Politico: A new 35 percent tariff will be applied to all exports from the two countries. 
  <p class="updated_time"> 11:45 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/american-bridge-biden-ads-battleground-states-00013754">American Bridge drops $5M boosting Biden in key battlegrounds</a> Politico: The Democratic super PAC is kicking off its midterm advertising plans. 
+ <p class="updated_time"> 11:43 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Russia Tried to Isolate Itself, but Financial Ties Called Its Bluff</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
  <p class="updated_time"> 11:09 AM CT, Mar. 03 </p> 
@@ -235,8 +237,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084113700/jan-6-panels-evidence-suggests-trump-broke-laws-trying-to-overturn-the-election">Jan. 6 panel's evidence suggests Trump broke laws trying to overturn the election</a> NPR: NPR's A Martinez talks to Democratic Rep. Adam Schiff of California, a member of the committee, about the panel's 221-page court filing, and where the investigation is headed from here. 
- <p class="updated_time"> 07:14 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/jerome-powell-interest-rates.html">Powell Says Rates Are Headed Higher, Even as Ukraine Poses Uncertainty</a> NYT: Jerome Powell, the Federal Reserve chair, said he would support a quarter-point increase at the March meeting. 
  <p class="updated_time"> 06:34 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/trump-criminal-charges-jan-6.html">Jan. 6 Committee Lays Out Potential Criminal Charges Against Trump</a> NYT: In a court filing, the panel said there was enough evidence to suggest that the former president might have engaged in a criminal conspiracy as he fought to remain in office. 
  <p class="updated_time"> 06:28 AM CT, Mar. 03 </p> 
@@ -303,8 +303,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1083927209/jan-6-riot-defendant-was-tip-of-this-mobs-spear-prosecutor-tells-jury">Jan. 6 riot defendant was 'tip of this mob's spear,' prosecutor tells jury </a> NPR: Prosecutors laid out their case against Guy Reffitt, who is the first defendant connected to the Jan. 6 Capitol insurrection to face trial. His attorney described the case as based on "hype." 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
- <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-primaries-cuellar-progressive-left-00013331">Texas delivers a mixed message to the left</a> Politico: Progressives are off to a more promising start than in 2021, but were unable to deliver a knockout blow to the incumbent Democrat they’ve been targeting for years. 
  <p class="updated_time"> 04:12 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/03/02/1084006754/heres-what-experts-say-biden-gets-right-in-his-new-mental-health-plan">Here's what experts say Biden gets right in his new mental health plan</a> NPR: Mental health advocates applaud the proposals, which they say offer much-needed federal leadership on a growing national crisis. But they worry about getting sustainable funding for the efforts. 
  <p class="updated_time"> 04:05 PM CT, Mar. 02 </p> 
@@ -327,8 +325,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins speedy confirmation blitz</a> Politico: The Supreme Court nominee met with senators Wednesday as Democrats scheduled her first confirmation hearing for March 21. 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
- <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
+ <p class="updated_time"> 11:39 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Feds net first guilty plea in Jan. 6 seditious conspiracy case</a> Politico: Oath Keeper Joshua James admitted to the explosive charge in connection with the 2021 attack on the Capitol. 
  <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html">The State of the Union: Together, if Only for a Few Minutes</a> NYT: President Biden brought a cheerleading tone to a normal-ish address for very abnormal times. 
  <p class="updated_time"> 08:22 AM CT, Mar. 02 </p> 
