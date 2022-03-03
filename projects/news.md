@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:39 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084310545/sanctions-on-russia-may-prevent-attacks-down-the-road-that-doesnt-help-ukraine-n">Sanctions on Russia may prevent attacks down the road. That doesn't help Ukraine now</a> NPR: A full-blown financial crisis can be devastating for a country. Banks fail, business go under and people lose their jobs. Sanctions on Russia could tip the country into that kind of economic collapse. 
+ <p class="updated_time"> 03:39 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084310538/pressure-is-on-to-wrap-up-iran-nuclear-deal-talks">Pressure is on to wrap up Iran nuclear deal talks</a> NPR: Talks over the Iran nuclear deal seem to be coming to a head — either with an agreement or without one. The aim is to bring the U.S. and Iran into compliance with the agreement Trump pulled out of. 
  <p class="updated_time"> 03:32 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
- <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084310517/the-rocket-part-hurtling-toward-the-moon-is-far-from-the-only-junk-littering-the">The rocket part hurtling toward the moon is far from the only junk littering the sky</a> NPR: A mysterious rocket booster is about to crash into the moon, highlighting the ever-growing issue of space debris. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310510/in-el-salvador-many-worry-the-presidents-bitcoin-push-might-bring-economic-ruin">El Salvador's president is taking a massive risk on Bitcoin</a> NPR: El Salvador's president is taking a billion-dollar risk on Bitcoin — with the country's treasury. Among the plans: a crypto trade zone near a dormant volcano. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
@@ -34,6 +36,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
  <p class="updated_time"> 02:55 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/sections/deceptivecadence/2022/03/03/1084246378/arts-organizations-putin-supporters">As performing artists denounce or stay allied with Putin, history offers some lessons</a> NPR: While Russian artists and institutions grapple with how they are viewed internationally, American cultural organizations make what amounts to foreign policy decisions. 
+ <p class="updated_time"> 02:52 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60607790?at_medium=RSS&at_campaign=KARANGA">Biden imposes sanctions on Russian oligarchs, 'Putin's cronies'</a> BBC: President Putin's spokesman is one of the latest Russians targeted in the new round of sanctions. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
  <p class="updated_time"> 02:12 PM CT, Mar. 03 </p> 
@@ -80,10 +84,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60607782?at_medium=RSS&at_campaign=KARANGA">Young girl returned after kidnapping by man she met on Roblox</a> BBC: US police said: "We're truly lucky we found this young girl and she was alive." 
  <p class="updated_time"> 11:00 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/putin-macron-call.html">After Putin-Macron Call, France Sees Russia Wanting 'All Ukraine'</a> NYT: On the call, the Russian president said that his goal, “the demilitarization and neutral status of Ukraine,” would be achieved “no matter what,” according to the Kremlin. 
- <p class="updated_time"> 10:54 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60606515?at_medium=RSS&at_campaign=KARANGA">Ukraine: Estonian cargo ship sinks after blast in Black Sea</a> BBC: All six-crew members of the Helt have been saved after an explosion near Ukraine's port of Odesa. 
  <p class="updated_time"> 10:48 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/arts/music/anna-netrebko-met-opera-ukraine.html">Anna Netrebko, Diva With Putin Ties, Is Out at the Metropolitan Opera</a> NYT: The Met said she would not appear for two seasons, and possibly more, after declining to comply with its demand that she repudiate her public support for Putin. 
+ <p class="updated_time"> 10:46 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">Russia's War on Ukraine Has Created Over 1 Million Refugees in Just a Week</a> WSJ: Many people fleeing the country have headed to Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
  <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60607649?at_medium=RSS&at_campaign=KARANGA">Deep in Ukraine forests, amateurs prepare for Russia fight</a> BBC: Deep in the forests outside Ukraine's capital Kyiv amateur fighters prepare for the battlefield. 
  <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
@@ -92,8 +96,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/council-of-europe-russia-suspension.html">Council of Europe Suspends Russia for Its Attack on Ukraine</a> NYT: Marija Pejcinovic Buric, the institution’s secretary general, calls the invasion ‘a dark hour for Europe and everything it stands for.’ 
  <p class="updated_time"> 10:29 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/french-volunteers-ukraine.html">French Volunteers Plan to Head to Ukraine to Join its New Foreign Legion</a> NYT: And Ukraine is welcoming them and other volunteers with open arms. 
- <p class="updated_time"> 10:27 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">Russian's War on Ukraine Has Created Over 1 Million Refugees in Just a Week</a> WSJ: Many people fleeing the country have headed to Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
  <p class="updated_time"> 10:12 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-military-strategy-russia.html">Ukrainian Forces Use Home-Turf Knowledge to Stymie Russia</a> NYT: Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, said Ukraine’s military was “fighting with extraordinary skill and courage.” 
  <p class="updated_time"> 09:14 AM CT, Mar. 03 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084101038/ban-of-russian-aircraft-from-u-s-airspace-has-gone-into-effect">A ban of Russian aircraft from U.S. airspace has gone into effect</a> NPR: The FAA's order prohibiting Russian flights from entering U.S. airspace is now in effect. Russia is expected to respond in kind, forcing airlines to take longer routes around the massive country 
  <p class="updated_time"> 10:01 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
- <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million people have fled Ukraine as Russia nears takeover of port city</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 07:47 PM CT, Mar. 02 </p> 
