@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:08 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 01:17 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084177384/russia-credit-rating-ruble">Russia's credit rating is cut to junk, and the dollar hits a new high vs. the ruble </a> NPR: Moody's cites multiple factors for the downgrade, from sanctions by the U.S., European Union and their allies to "significant concerns" that Russia might not be willing to pay its debts. 
+ <p class="updated_time"> 01:17 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 01:10 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60608706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Drone shows extent of damage in Borodyanka</a> BBC: Drone footage shows the extent of destruction to flats as well as Russian military vehicles in Borodyanka. 
  <p class="updated_time"> 01:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
  <p class="updated_time"> 12:58 PM CT, Mar. 03 </p> 
@@ -32,6 +36,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 12:18 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084177539/anna-netrebko-metropolitan-opera-russia-putin-ukraine">Anna Netrebko, a Russian star tied to Putin, is out at the Metropolitan Opera</a> NPR: The famed New York opera house said Thursday that the soprano will not appear there this season or next, after she declined to distance herself from Russian President Vladimir Putin. 
+ <p class="updated_time"> 12:15 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
  <p class="updated_time"> 11:48 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
  <p class="updated_time"> 11:43 AM CT, Mar. 03 </p> 
@@ -52,8 +58,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/council-of-europe-russia-suspension.html">Council of Europe Suspends Russia for Its Attack on Ukraine</a> NYT: Marija Pejcinovic Buric, the institution’s secretary general, calls the invasion ‘a dark hour for Europe and everything it stands for.’ 
  <p class="updated_time"> 10:29 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/french-volunteers-ukraine.html">French Volunteers Plan to Head to Ukraine to Join its New Foreign Legion</a> NYT: And Ukraine is welcoming them and other volunteers with open arms. 
- <p class="updated_time"> 10:20 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60601196?at_medium=RSS&at_campaign=KARANGA">Hungary could host Ukraine-Russia peace talks - Viktor Orban</a> BBC: The war can only be stopped by negotiations, peace talks and ceasefire, the prime minister says. 
  <p class="updated_time"> 10:12 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-military-strategy-russia.html">Ukrainian Forces Use Home-Turf Knowledge to Stymie Russia</a> NYT: Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, said Ukraine’s military was “fighting with extraordinary skill and courage.” 
  <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
@@ -168,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084033839/what-the-russian-invasion-is-like-for-villages-in-western-ukraine">What the Russian invasion is like for villages in western Ukraine</a> NPR: Even in the west of Ukraine, far from the Russian invasion, people are on edge and preparing to help in their own way. 
  <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084033831/president-captures-thwarted-fight-for-change-in-zimbabwe">'President' captures the thwarted fight for change in Zimbabwe</a> NPR: NPR's Ari Shapiro talks with Camilla Nielsson about her new documentary President. It follows the underdog opposition candidate throughout Zimbabwe's first election after the ouster of Robert Mugabe. 
- <p class="updated_time"> 03:32 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084033817/russian-attacks-have-disrupted-ukraines-supply-chain-which-may-cause-food-shorta">Russian attacks have disrupted Ukraine's supply chain, which may cause food shortages</a> NPR: Humanitarian groups fear that severed supply chains at the Ukrainian border and within the nation could lead to food and fuel shortages. A Ukrainian supermarket chain paints a more optimistic picture. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
  <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
@@ -192,12 +194,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war.html">Russia Escalates Attacks on Ukraine as Refugee Numbers Surge</a> NYT: There was no sign of possible de-escalation on the sixth day of the invasion, as Russia appeared determined to toughen its tactics against a defiant neighbor. 
  <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/health/cdc-contact-tracing.html">C.D.C. Updates Contact-Tracing and Case Investigation Guidance</a> NYT: “The updated guidance is in response to changes in the nature of the pandemic and the increasing availability of new tools to prevent transmission and mitigate illness,” the agency said. 
- <p class="updated_time"> 04:00 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/hong-kong-covid.html">Hong Kong, Buckling Under Covid, Leaves Its Most Vulnerable in the Cold</a> NYT: Poor residents have been forced to choose between infecting their families or sleeping outdoors because of cramped living quarters and a lack of isolation facilities. 
  <p class="updated_time"> 12:51 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008231492/kyiv-ukraine-civilian-army.html">‘There Will Be a Battle’: A Family Prepares for War in Kyiv</a> NYT: As the war in Ukraine moves closer to the capital, some families are facing a difficult choice: Stay home or take up arms. 
  <p class="updated_time"> 11:16 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/kyiv-babyn-yar-holocaust-memorial.html">Jewish Groups Condemn Strike Near Babyn Yar Holocaust Memorial</a> NYT: It was not clear what damage was done to the memorial but it is close to a radio and television tower in Kyiv that was hit by a projectile. 
+ <p class="updated_time"> 08:29 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-war-migration.html">Ukraine War Sets Off Europe’s Fastest Migration in Decades</a> NYT: At least 660,000 people, mostly women and children, fled Ukraine in the five days after Russia invaded — the most intense wave of European migration since at least the 1990s. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-nuclear-power-plant.html">Many Ukrainian Nuclear Power Reactors No Longer Produce Electricity</a> NYT: Six of the 15 reactors in the country appear to be offline at the moment, with one site close to Russian troop movements reporting half of its reactors are down. 
 
