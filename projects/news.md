@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: Russia’s Siege of Key Ukrainian Cities Fuels Humanitarian Crisis</a> NYT: More than a million people have fled Ukraine since the war started, a U.N. official said. Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 04:34 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60600983?at_medium=RSS&at_campaign=KARANGA">Ukraine: Pensioner arrested at anti-war protest in Russia</a> BBC: Elderly activist Yelena Osipova is detained after protesting against Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/zelensky-ukraine-war-outrage.html">How Ukrainians Are Using Social Media to Speak Out About the War</a> NYT: Ukrainians take to social media, and taboos are tumbling as countries abandon neutrality and people abandon indifference to support their cause. 
- <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Live Updates: Russia’s Siege of Key Ukrainian Cities Fuels Humanitarian Crisis</a> NYT: More than a million people have fled Ukraine since the war started, a U.N. official said. Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:03 AM CT, Mar. 03 </p> 
@@ -201,6 +201,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/murkowski-russian-energy-americans-00013386">Murkowski: Blocking Russian oil to stop Putin is worth the 'hurt' to Americans</a> Politico: Targeting Russian energy is the “most significant” tool left for the U.S. to deploy, Sen. Lisa Murkowski said. 
+ <p class="updated_time"> 04:31 AM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/corruption-or-socialism-gop-takes-aim-at-south-texas-either-way-00013393">‘Corruption’ or ‘socialism’: GOP takes aim at South Texas either way</a> Politico: National Republicans are vowing to go all in to defeat what they see as a weakened opponent either way. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/toke-lahoma-becomes-a-target-for-lawmakers-00009898">Toke-lahoma becomes a target for lawmakers</a> Politico: More than 100 marijuana-related bills have been filed, many seeking to restrict Oklahoma's booming medical program. 
  <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:04 AM CT, Mar. 03 </p> 
@@ -259,8 +265,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
  <p class="updated_time"> 05:18 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/uae-ukrainians-visa-free-travel-00013370">UAE will continue to allow Ukrainians visa-free travel</a> Politico: The gas and oil-rich Middle East state has walked a fine line between Russia interests and its U.S. and Ukraine ties. 
- <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-primaries-cuellar-progressive-left-00013331">Texas delivers a mixed message to the left</a> Politico: Progressives are off to a more promising start than in 2021, but were unable to deliver a knockout blow to the incumbent Democrat they’ve been targeting for years. 
  <p class="updated_time"> 04:51 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/desantis-bully-masks-students-00013348">DeSantis called a ‘bully’ after he scolds students for wearing masks</a> Politico: Some of the students, visiting from a local Hillsborough County high school, took off their masks at the governor’s urging while others opted to keep them on their faces. 
  <p class="updated_time"> 04:45 PM CT, Mar. 02 </p> 
@@ -305,6 +309,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Feds net first guilty plea in Jan. 6 seditious conspiracy case</a> Politico: Oath Keeper Joshua James admitted to the explosive charge in connection with the 2021 attack on the Capitol. 
  <p class="updated_time"> 11:09 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/prosecutors-first-jan-6-trial-00013197">‘The tip of this mob’s spear’: Prosecutors begin first Jan. 6 trial</a> Politico: The trial is one of the most significant tests of the government’s yearlong investigation into the Capitol attack. 
+ <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
  <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/03/02/1083792436/why-billions-in-medicaid-funds-for-people-with-disabilities-are-being-held-up">Why billions in Medicaid funds for people with disabilities are being held up</a> NPR: Almost a year after the American Rescue Plan Act allocated up to $25 billion to home and community-based services run by Medicaid, many states have yet to access the funds due to delays and red tape. 
  <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
@@ -337,8 +343,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
  <p class="updated_time"> 10:13 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/biden-tough-russia-ukraine-00013058">Biden promises punishment for Putin, pledges to lessen impact on U.S.</a> Politico: The Russian president, he said, “badly miscalculated” in invading Ukraine. 
- <p class="updated_time"> 09:26 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-transcript-full-text-00013009">Full text: Biden State of the Union 2022 transcript</a> Politico: President Joe Biden delivered his first State of the Union address on March 1. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
  <p class="updated_time"> 08:01 PM CT, Mar. 01 </p> 
@@ -351,6 +355,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
+ <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">DeSantis sends Florida Democrats to redistricting purgatory</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 06:16 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/ukrainian-pilots-arrive-in-poland-to-pick-up-donated-fighter-jets-00012560">European plan to donate fighter jets to Ukraine collapses</a> Politico: The dissolution of the deal comes as European countries lined up Monday to announce new weapons packages for Ukraine, from anti-armor and anti-air rockets to artillery and medical supplies. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
