@@ -66,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Sergey Melnik from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
- <p class="updated_time"> 06:46 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/philadelphia-drops-its-mask-mandate.html">Philadelphia drops its mask mandate.</a> NYT: As the Omicron wave continues to subside, a growing number of cities and states are relaxing their pandemic restrictions. 
  <p class="updated_time"> 06:40 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60532631?at_medium=RSS&at_campaign=KARANGA">Capitol riots: Guy Reffitt accused of being 'tip of spear' in 6 January mob</a> BBC: Guy Reffitt is the first 6 January defendant to stand trial. He has pleaded not guilty on all charges. 
  <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
@@ -182,6 +180,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/01/world/europe/russia-troops-pentagon.html">Some Russian Troops Are Surrendering Rather Than Fighting, Pentagon Says</a> NYT: A significant number of the Russian troops are young conscripts who are poorly trained and ill-prepared for the all-out assault, a senior official said. 
  <p class="updated_time"> 05:57 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-refugee-discrimination.html">Africans Say Ukrainian Authorities Hindered Them From Fleeing</a> NYT: Africans and other foreigners in Ukraine say border guards made them endure long waits and even beat them, while letting Ukrainians through quickly. Ukraine denied discriminating. 
+ <p class="updated_time"> 04:48 PM CT, Mar. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-russia-war-families.html">Ukraine War Splits Families That Have Roots on Both Sides</a> NYT: Because of their countries’ complex and intertwined history, many Ukrainians and Russians have relatives who are standing on opposite sides of the conflict. 
  <p class="updated_time"> 04:08 PM CT, Mar. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/01/world/europe/ukraine-nuclear-power-plant.html">Many Ukrainian Nuclear Power Reactors No Longer Produce Electricity</a> NYT: Six of the 15 reactors in the country appear to be offline at the moment, with one site close to Russian troop movements reporting half of its reactors are down. 
  <p class="updated_time"> 03:25 PM CT, Mar. 01 </p> 
@@ -211,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 04:04 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084113686/with-covid-easing-the-white-house-has-a-plan-for-things-to-return-to-normal">With COVID easing, the White House has a plan for things to return to normal</a> NPR: Recognizing COVID-19 will never be eradicated, the strategic plan by the Biden administration aims to manage future outbreaks with improved surveillance, testing and treatment. 
+ <p class="updated_time"> 04:04 AM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084113672/morning-news-brief">News brief: Russian military strategy, Jan. 6 panel, post pandemic plan </a> NPR: A review of Russia's strategy in Ukraine. The Jan. 6 panel says it has evidence Trump broke laws trying to overturn the election. As COVID eases, Biden has a plan to get things back to normal. 
  <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1082841586/georgias-race-to-oversee-voting-pits-an-election-denier-against-an-election-defe">Georgia's race to oversee voting pits an election denier against an election defender</a> NPR: Georgia Secretary of State Brad Raffensperger, who denied entreaties to overturn the 2020 race, faces a primary challenge from one of the nation's preeminent election deniers, Rep. Jody Hice, R-Ga. 
  <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
@@ -311,8 +313,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/prosecutors-first-jan-6-trial-00013197">‘The tip of this mob’s spear’: Prosecutors begin first Jan. 6 trial</a> Politico: The trial is one of the most significant tests of the government’s yearlong investigation into the Capitol attack. 
  <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
- <p class="updated_time"> 09:37 AM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/03/02/1083792436/why-billions-in-medicaid-funds-for-people-with-disabilities-are-being-held-up">Why billions in Medicaid funds for people with disabilities are being held up</a> NPR: Almost a year after the American Rescue Plan Act allocated up to $25 billion to home and community-based services run by Medicaid, many states have yet to access the funds due to delays and red tape. 
  <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html">The State of the Union: Together, if Only for a Few Minutes</a> NYT: President Biden brought a cheerleading tone to a normal-ish address for very abnormal times. 
  <p class="updated_time"> 08:22 AM CT, Mar. 02 </p> 
