@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:39 AM CT, Mar. 03 </p> 
+ <p class="updated_time"> 05:55 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Flee Ukraine as Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 05:44 AM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60601034?at_medium=RSS&at_campaign=KARANGA">Ukrainian mothers resort to giving birth in hospital basements</a> BBC: As Russia's invasion continues, Ukrainian hospitals are forced to move their maternity wards underground. 
  <p class="updated_time"> 05:27 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/indian-student-ukraine-death.html">Death of Indian Student in Ukraine Shows Plight of Thousands</a> NYT: Naveen Shekharappa was killed when he left a bunker in Kharkiv to fetch food, officials and his family members said. 
  <p class="updated_time"> 05:26 AM CT, Mar. 03 </p> 
@@ -46,6 +48,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084112625/neutral-finland-sweden-warm-to-idea-of-nato-membership">Neutral Finns and Swedes reconsider idea of NATO membership</a> NPR: A change in public opinion in steadfastly neutral Finland and Sweden has taken place since Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:11 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
+ <p class="updated_time"> 12:37 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Russian Forces Advance in Southern Ukraine Ahead of Talks</a> WSJ: Russia deepened its military offensive in southern Ukraine, penetrating the city of Kherson, as the campaign stalled in the north of the country and the two sides prepared to resume cease-fire talks. 
  <p class="updated_time"> 12:19 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/design/china-france-gold-ingots.html">Gold Ingots From 18th-Century Shipwreck Returned to France</a> NYT: The Chinese ingots, illegally harvested from a French frigate that sank while returning from Nanjing, were seized by U.S. investigators when they were put up for auction in California. 
  <p class="updated_time"> 12:17 AM CT, Mar. 03 </p> 
@@ -72,8 +76,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 09:07 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
- <p class="updated_time"> 07:58 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60598004?at_medium=RSS&at_campaign=KARANGA">Ukraine: Our children say 'they must kill'</a> BBC: A mother in Kyiv shares what it is like to look after children in a country hit by war. 
  <p class="updated_time"> 07:47 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Sergey Melnik from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
@@ -126,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084004438/roman-abramovich-chelsea-sell">Russian billionaire Roman Abramovich will put Chelsea Football Club up for sale</a> NPR: A close associate of Vladimir Putin, Abramovich was under intense pressure from British politicians. He said proceeds from the Premier League team sale will benefit "all victims" of the Ukraine war. 
  <p class="updated_time"> 02:58 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084003929/putin-taekwondo-black-belt">World Taekwondo strips Russia's Vladimir Putin of his honorary black belt </a> NPR: Russian President Vladimir Putin received the honorary black belt back in Nov. 2013 from World Taekwondo, the international governing body of the sport. He is known to be a fan of martial arts. 
- <p class="updated_time"> 01:55 PM CT, Mar. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-resumes-kharkiv-bombardment-in-bid-to-break-ukrainian-resistance-11646208607">Russia Batters Ukraine's No. 2 City, as Kyiv Offensive Stalls</a> WSJ: Russian forces pounded Kharkiv with airstrikes in a bid to break the will of the country’s resistance as Moscow’s offensive toward Kyiv stalled amid fierce Ukrainian counterattacks and logistics mishaps. 
  <p class="updated_time"> 12:36 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/travel/st-barts-hotel-development.html">Billionaires Battle Over a Hotel and Quality of Life on St. Barts</a> NYT: A legal feud over a hotel in St. Barts pits development against fragile nature on this tropical Arcadia for the ultrarich. It might also signal a turning point in the hyper-development of the island. 
  <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
