@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:51 PM CT, Mar. 02 </p> 
+ <p class="updated_time"> 12:17 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/02/world/ukraine-russia-war">Ukraine Live Updates: First Key Southern City Falls, Ukrainian Officials Say</a> NYT: Russian troops seized the port city of Kherson, Ukrainian officials said, a significant moment in the battle for the south. More than a million people have fled Ukraine since the war started, a U.N. official said. 
+ <p class="updated_time"> 12:17 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
+ <p class="updated_time"> 11:56 PM CT, Mar. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60597751?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia faces war crimes investigation</a> BBC: The International Criminal Court's prosecutor opens an inquiry, after Russia is accused of bombing civilians. 
  <p class="updated_time"> 11:21 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 11:00 PM CT, Mar. 02 </p> 
@@ -26,8 +30,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million refugees have now fled Ukraine since the start of the war, U.N. says</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
- <p class="updated_time"> 09:53 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-60597751?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia faces war crimes investigation</a> BBC: The International Criminal Court's prosecutor opens an inquiry, after Russia is accused of bombing civilians. 
  <p class="updated_time"> 09:41 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60597367?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian troops take control of key city of Kherson - mayor</a> BBC: The port of Kherson is the first major city to be taken by Russia since it launched its invasion. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
@@ -36,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 07:47 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Sergey Melnik from Zhytomyr walks through rubble after his area was hit by an air strike. 
- <p class="updated_time"> 07:40 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and army fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:40 PM CT, Mar. 02 </p> 
