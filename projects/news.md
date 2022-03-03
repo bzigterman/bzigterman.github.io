@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:06 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 05:30 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
+ <p class="updated_time"> 05:14 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
+ <p class="updated_time"> 05:01 PM CT, Mar. 03 </p> 
+ <a href="https://www.npr.org/2022/03/03/1084303033/hollywood-refuses-to-open-biggest-films-in-russia">Hollywood refuses to open biggest films in Russia </a> NPR: Disney, Sony, Warner Bros., Paramount and Universal are pausing the theatrical releases of their films in Russia 
  <p class="updated_time"> 04:59 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
- <p class="updated_time"> 04:56 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
- <p class="updated_time"> 04:54 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Ukraine and Russia Agree to Civilian ‘Corridors’ as Fighting Rages</a> NYT: As Ukraine’s humanitarian crisis grew, Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-60608699?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on...Russian gas and oil</a> BBC: Ros Atkins looks at how Russian gas and oil connects to war in Ukraine, and EU efforts to cut ties with Russia. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
@@ -88,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/war-crimes-russia-ukraine-icc.html">I.C.C. Prosecutor Fast-Tracks War Crimes Investigation in Ukraine</a> NYT: The prosecutor said the investigation would encompass “allegations of war crimes, crimes against humanity or genocide committed” in Ukraine. 
  <p class="updated_time"> 12:47 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084195089/russian-oligarch-yacht-seized-france">France seizes its first yacht as the West pledges to crack down on Russian oligarchs</a> NPR: France says it seized a yacht belonging to Igor Sechin, an oil executive and close ally of Russian President Vladimir Putin, after the U.S. and European Union sanctioned a slew of Russian oligarchs. 
- <p class="updated_time"> 12:40 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084205316/russian-cats-banned-international-competition">The 'United Nations of cat federations' bans Russian cats from its competitions</a> NPR: The Fédération Internationale Féline is temporarily placing restrictions on cats that were bred in Russia or belong to exhibitors who live there, in response to its attack on Ukraine. 
  <p class="updated_time"> 12:37 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Ukraine War Disrupts the Quiet World of Chess</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. Elite players there have condemned the invasion. 
  <p class="updated_time"> 11:48 AM CT, Mar. 03 </p> 
@@ -113,7 +113,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/french-volunteers-ukraine.html">French Volunteers Plan to Head to Ukraine to Help Fight Against Russia</a> NYT: And Ukraine is welcoming them and other volunteers with open arms. 
  <p class="updated_time"> 10:12 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-military-strategy-russia.html">Ukrainian Forces Use Home-Turf Knowledge to Stymie Russia</a> NYT: Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, said Ukraine’s military was “fighting with extraordinary skill and courage.” 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-military-strategy-russia.html">Ukrainian Forces Use Home-Turf Knowledge to Stall Russia</a> NYT: Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, said Ukraine’s military was “fighting with extraordinary skill and courage.” 
  <p class="updated_time"> 09:14 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/french-president-emmanuel-macron-declares-run-for-re-election-11646335861">France's Macron Declares Run for Re-Election</a> WSJ: The announcement kicks off a campaign that has been overshadowed by the war in Ukraine, a conflict in which the president’s diplomatic efforts have lifted his political standing. 
  <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
@@ -211,12 +211,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:14 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/us-health-officials-tech-covid.html">Top U.S. health officials say they intend to offer other nations tech that might be used against Covid.</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them, he said. 
- <p class="updated_time"> 04:56 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them, he said. 
  <p class="updated_time"> 04:47 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/energy-environment/lukoil-russia-oil-ukraine.html">Lukoil, a Russian Oil Company, Calls for an End to the Ukraine War</a> NYT: The company, which has more than 200 gas stations in the U.S., acted as lawmakers in Washington were seeking to block Russian oil imports. 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
@@ -252,7 +252,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 02:01 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/doug-ducey-arizona-senate.html">Arizona Gov. Doug Ducey Confirms He Will Not Run for Senate</a> NYT: Senator Mitch McConnell had been trying to recruit Gov. Doug Ducey of Arizona to run, but former President Donald J. Trump had warned him against it. 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/doug-ducey-arizona-senate.html">Ducey Confirms He Will Not Run for Senate, Despite McConnell’s Wooing</a> NYT: Senator Mitch McConnell had been trying to recruit Gov. Doug Ducey of Arizona to run, but former President Donald J. Trump had warned him against it. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
  <p class="updated_time"> 01:42 PM CT, Mar. 03 </p> 
@@ -278,7 +278,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/lawmakers-funding-deal-ukraine-request-00013548">Lawmakers hammer out funding deal with boosted Ukraine request</a> Politico: The White House revamped its emergency funding ask Thursday morning, looking for $10 billion to help Ukraine. 
  <p class="updated_time"> 10:12 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-military-strategy-russia.html">Ukrainian Forces Use Home-Turf Knowledge to Stymie Russia</a> NYT: Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, said Ukraine’s military was “fighting with extraordinary skill and courage.” 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-military-strategy-russia.html">Ukrainian Forces Use Home-Turf Knowledge to Stall Russia</a> NYT: Gen. Mark A. Milley, the chairman of the Joint Chiefs of Staff, said Ukraine’s military was “fighting with extraordinary skill and courage.” 
  <p class="updated_time"> 10:11 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/ducey-senate-arizona-00013739">Ducey won't run for Senate in Arizona</a> Politico: The GOP governor had been recruited by national party leaders but was also a target of abuse from Donald Trump. 
  <p class="updated_time"> 10:04 AM CT, Mar. 03 </p> 
@@ -319,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/02/1084098799/trump-select-committee-capitol-insurrection-conspiracy">Jan. 6 panel says it has evidence Trump broke laws in trying to overturn the election</a> NPR: The Democratic-led House select committee says it "has a good-faith basis for concluding that the President and members of his Campaign engaged in a criminal conspiracy to defraud the United States." 
  <p class="updated_time"> 08:54 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/biden-covid-strategy.html">Biden’s New Covid Plan: Preparing for New Variants and Avoiding Shutdowns</a> NYT: The strategy is supposed to help the nation transition to what some are calling a “new normal,” but it will require funding from Congress. 
- <p class="updated_time"> 08:04 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/doj-hack-reporting-bill-fbi-less-safe-00013420">DOJ says hack reporting bill ‘makes us less safe’</a> Politico: The Justice Department is the only major institution criticizing the bill, which appears to be on a glide path to passage after winning unanimous Senate approval on Tuesday. 
  <p class="updated_time"> 07:44 PM CT, Mar. 02 </p> 
  <a href="https://www.npr.org/2022/03/02/1084063758/clubhouse-sxsw-conference">Clubhouse says it won't be attending SXSW 2022 because of Texas' trans rights</a> NPR: Instead of attending SXSW 2022, the popular audio-only social app says it will hold its panel "The Power of Voice" on its platform, a spokesperson said. 
  <p class="updated_time"> 07:34 PM CT, Mar. 02 </p> 
