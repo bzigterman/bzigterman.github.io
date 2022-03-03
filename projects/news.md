@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:33 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 12:45 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
+ <p class="updated_time"> 12:41 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
+ <p class="updated_time"> 12:37 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Ukraine War Disrupts the Quiet World of Chess</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. Elite players there have condemned the invasion. 
+ <p class="updated_time"> 12:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-cia-black-sites-guantanamo.html">C.I.A. Black Sites Are State Secrets, the Supreme Court Rules</a> NYT: A Guantánamo detainee had sought information from two former government contractors to aid in a Polish criminal inquiry into a facility there. 
  <p class="updated_time"> 12:27 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Ukraine War Disrupts the Quiet World of Chess</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. Elite players there have condemned the invasion. 
- <p class="updated_time"> 12:27 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1083931647/russia-ukraine-invasion-michael-kimmage">Putin's war is a nightmare for the Ukrainian people and for Russia, an expert warns</a> NPR: Putin acted out of hubris and "didn't get the politics of Ukraine right" when he decided to invade, says Michael Kimmage, an academic who formerly served at the State Department. 
- <p class="updated_time"> 12:21 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: 1 Million Have Fled Ukraine; Russia Bombards Key Cities</a> NYT: Russian troops were gaining ground in critical parts of the south and threatening to cut off Ukraine’s access to the Black Sea. 
  <p class="updated_time"> 12:21 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 12:18 PM CT, Mar. 03 </p> 
@@ -24,8 +26,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
  <p class="updated_time"> 11:43 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
- <p class="updated_time"> 11:21 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
  <p class="updated_time"> 11:19 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60607782?at_medium=RSS&at_campaign=KARANGA">Young girl returned after kidnapping by man she met on Roblox</a> BBC: US police said: "We're truly lucky we found this young girl and she was alive." 
  <p class="updated_time"> 11:00 AM CT, Mar. 03 </p> 
@@ -213,7 +213,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/supreme-court-guantanamo-bay-secrets-00013863">High court sides with government in Gitmo state secrets case</a> Politico: The Supreme Court on Thursday ruled for the U.S. government in a case involving a Guantanamo Bay detainee seeking what the government said is secret information. 
  <p class="updated_time"> 12:38 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/they-still-have-an-awful-lot-of-capability-russia-stalled-in-northern-ukraine-slogs-on-with-assault-00013793">‘They still have an awful lot of capability’: Russia, stalled in northern Ukraine, slogs on with assault</a> Politico: Russian forces are “trying every single day” to seize Kyiv. 
- <p class="updated_time"> 12:22 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 12:37 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/doug-ducey-arizona-senate.html">Arizona Gov. Doug Ducey Confirms He Will Not Run for Senate</a> NYT: Senator Mitch McConnell had been trying to recruit Gov. Doug Ducey of Arizona to run, but former President Donald J. Trump had warned him against it. 
+ <p class="updated_time"> 12:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-cia-black-sites-guantanamo.html">C.I.A. Black Sites Are State Secrets, the Supreme Court Rules</a> NYT: A Guantánamo detainee had sought information from two former government contractors to aid in a Polish criminal inquiry into a facility there. 
  <p class="updated_time"> 12:12 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/timken-senate-ohio-00013759">Trump endorsement casts long shadow over Ohio Senate race</a> Politico: Mar-a-Lago is watching closely as former state GOP Chair Jane Timken balances between the establishment and MAGA wings. 
@@ -335,8 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
  <p class="updated_time"> 11:39 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/oath-keeper-to-plead-guilty-january-6-00013208">Feds net first guilty plea in Jan. 6 seditious conspiracy case</a> Politico: Oath Keeper Joshua James admitted to the explosive charge in connection with the 2021 attack on the Capitol. 
- <p class="updated_time"> 08:23 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/arts/television/state-of-the-union-president-biden.html">The State of the Union: Together, if Only for a Few Minutes</a> NYT: President Biden brought a cheerleading tone to a normal-ish address for very abnormal times. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Mar. 02 </p> 
