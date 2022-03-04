@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:36 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 11:46 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to establishing civilian “corridors” as fighting continued. 
+ <p class="updated_time"> 11:39 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian attack on nuclear power plant condemned by world leaders</a> BBC: A fire at Europe's largest nuclear power plant after Russian shelling endangered "all of Europe". 
  <p class="updated_time"> 11:36 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the complex. People in military vehicles appeared to be firing at buildings in the power plant. The blaze later went out. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/what-to-read-about-the-russia-ukraine-war.html">What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
- <p class="updated_time"> 11:05 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian attack on nuclear power plant condemned by world leaders</a> BBC: A fire at Europe's largest nuclear power plant after Russian shelling endangered "all of Europe". 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
@@ -313,6 +313,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084113700/jan-6-panels-evidence-suggests-trump-broke-laws-trying-to-overturn-the-election">Jan. 6 panel's evidence suggests Trump broke laws trying to overturn the election</a> NPR: NPR's A Martinez talks to Democratic Rep. Adam Schiff of California, a member of the committee, about the panel's 221-page court filing, and where the investigation is headed from here. 
+ <p class="updated_time"> 06:34 AM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/us/politics/trump-criminal-charges-jan-6.html">Jan. 6 Committee Lays Out Potential Criminal Charges Against Trump</a> NYT: In a court filing, the panel said there was enough evidence to suggest that the former president might have engaged in a criminal conspiracy as he fought to remain in office. 
  <p class="updated_time"> 06:28 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084121540/the-jan-6-panel-says-trump-likely-broke-laws-in-trying-to-overturn-the-election">The Jan. 6 panel says Trump likely broke laws in trying to overturn the election </a> NPR: In a court filing, the select committee says evidence "provides, at minimum, a good-faith basis for concluding" that Trump broke the law with his efforts to obstruct the counting of electoral votes. 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
