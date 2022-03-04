@@ -8,14 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:07 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and in Kyiv, residents abandoned their cars at the main train station as they tried to flee ahead of a feared assault. Anxiety over a captured nuclear plant eased when a raging fire was extinguished. 
+ <p class="updated_time"> 11:03 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/monique-hanotte-dead.html">Monique Hanotte, Savior of Allied Airmen, Dies at 101</a> NYT: Using her knowledge of the Belgium-France border and quick thinking, she guided dozens of downed Allied airmen to safety during World War II. 
+ <p class="updated_time"> 10:52 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
+ <p class="updated_time"> 10:52 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/lindsey-graham-putin-russia.html">Lindsey Graham Says of Putin: Someone in Russia Should ‘Take This Guy Out’</a> NYT: The comments drew sharp rebukes from other Republicans. 
+ <p class="updated_time"> 10:44 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html">Russia-Ukraine War Helped Ease Rift Between Britain and the E.U.</a> NYT: The crisis in Ukraine is beginning to narrow the chasm opened up by Brexit. 
  <p class="updated_time"> 10:30 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: BBC suspends its journalists' work in Russia</a> BBC: The temporary suspension comes in response to a new Russian law which threatens reporters with prison. 
  <p class="updated_time"> 10:28 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">Scores Dead in Pakistan After Mosque Attack</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in Peshawar, in northwestern Pakistan. 
- <p class="updated_time"> 10:23 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
- <p class="updated_time"> 10:16 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 09:47 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-russia-nato.html">NATO Rejects Intervening in Ukraine, Including No-Fly Zone </a> NYT: The alliance will not engage Russian forces in the air or on the ground in Ukraine to avoid the risk of a wider European war, the secretary-general says. 
  <p class="updated_time"> 09:23 AM CT, Mar. 04 </p> 
@@ -42,14 +48,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">Calls for peace and inclusion dominated the Winter Paralympics opening ceremony</a> NPR: Hundreds of athletes are competing in Beijing in this year's events, which run through March 13. The opening ceremony kicked off on Friday, with the world focused on Russia's invasion of Ukraine. 
  <p class="updated_time"> 06:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084161024/the-battle-for-ukraine-could-test-the-limits-of-closer-ties-between-china-and-ru">The battle for Ukraine could test the limits of closer ties between China and Russia</a> NPR: The Cold War rivals have grown much closer in recent years. But China's ties to Russia are now becoming a bigger liability than Beijing expected. 
+ <p class="updated_time"> 05:33 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nuclear-plant-fire.html">Fire at Ukraine Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
  <p class="updated_time"> 04:44 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084453424/at-least-30-killed-after-mosque-bombed-in-northwest-pakistan">A suicide bombing at a mosque in Pakistan kills at least 30</a> NPR: The bombing was the latest act of violence in majority Sunni Muslim Pakistan, where minority Shiite Muslims have come under repeated attacks. 
  <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
- <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
@@ -160,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/u-n-report-shows-iran-has-almost-enough-highly-enriched-uranium-for-a-nuclear-bomb-11646316141">Iran, U.S. Close to Reviving Iranian Nuclear Deal</a> WSJ: Talks advance in Vienna while U.N. atomic agency reports Iran has almost enough near-weapons-grade nuclear fuel for a bomb. 
  <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
- <p class="updated_time"> 06:21 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
  <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
@@ -188,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60573261?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Who's in Putin's inner circle and running the war?</a> BBC: Russia's president cuts an isolated figure but he relies on an inner circle when he makes key decisions. 
  <p class="updated_time"> 06:15 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
- <p class="updated_time"> 05:56 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-shelters.html">15,000 Are Sheltering in Kyiv’s Subway</a> NYT: People sleep three or four to a mattress and plastic food bags litter the scene, while mothers search endlessly on their phones for news of the war. 
  <p class="updated_time"> 05:41 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60529926?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What sanctions could West still impose on Russia?</a> BBC: The measures are tougher than anything Vladimir Putin has faced. But more could be coming. 
  <p class="updated_time"> 05:34 PM CT, Mar. 02 </p> 
@@ -207,6 +209,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:37 AM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/news/2022/03/04/adams-mask-mandate-schools-indoor-venues-00014208">Adams to lift school mask mandate, vaccine requirement for indoor venues</a> Politico: The mayor cited a low coronavirus case rate of 1.8 percent alongside a high vaccination rate. 
+ <p class="updated_time"> 11:09 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084463809/biden-approval-poll-ukraine-economy">Biden gets bounce after the State of the Union, an NPR/PBS NewsHour/Marist poll shows</a> NPR: After Tuesday's speech, the president saw a significant jump with Democrats and independents, as he may be seeing a rally-around-the-Ukrainian-flag moment. 
  <p class="updated_time"> 10:32 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/irs-aims-to-hire-10-000-workers-to-reduce-crippling-mail-backlog-00014193">IRS aims to hire 10,000 workers to reduce crippling mail backlog</a> Politico: “It is clear that understaffing in these areas contributes to the backlog in processing of tax returns and taxpayer correspondence." --Treasury union National President Tony Reardon 
  <p class="updated_time"> 10:26 AM CT, Mar. 04 </p> 
@@ -251,8 +259,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448605/a-son-takes-the-stand-against-his-father-in-the-first-trial-related-to-jan-6-rio">A son takes the stand against his father in the first trial related to Jan. 6 riot</a> NPR: The trial of accused Capitol rioter Guy Reffitt continued Thursday with intense video from Jan. 6, and testimony from his son, Jackson, who turned his father in to the FBI. 
- <p class="updated_time"> 04:03 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
@@ -307,12 +313,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/powell-says-russias-ukraine-invasion-could-speed-up-inflation-00013831">'People will feel that': Fed's Powell says war could fuel inflation</a> Politico: Powell, in testimony to the Senate Banking Committee, said Americans are going to see higher gas prices, while transportation and energy costs will also rise for businesses. 
  <p class="updated_time"> 03:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/federal-reserve-powell-inflation.html">Federal Reserve Chair Pledges to Bring Inflation Under Control</a> NYT: Jerome H. Powell, the head of the Federal Reserve, told lawmakers the Fed was prepared to prevent a rerun of 1970s inflation. 
- <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/uc-berkeley-will-be-forced-to-slash-enrollment-under-state-supreme-court-ruling-00013923">UC Berkeley prepares to slash enrollment after California Supreme Court ruling</a> Politico: The court's decision to reject UC Berkeley’s application for a stay in the case means the school will likely need to shrink its student population before the fall semester begins. 
  <p class="updated_time"> 02:19 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084278181/transgender-girls-and-women-now-barred-from-female-sports-in-iowa">Transgender girls and women now barred from female sports in Iowa</a> NPR: The ban takes effect immediately. The ban applies to K-12 schools and community colleges as well as colleges and universities that are part of the NCAA or NAIA. 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
- <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">Takeaways from the House's January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
+ <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 02:01 PM CT, Mar. 03 </p> 
@@ -321,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
  <p class="updated_time"> 01:42 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-kentucky-abortion.html">Supreme Court Lets Kentucky’s Attorney General Defend Abortion Law</a> NYT: After the state’s political landscape shifted in 2019, state officials of different parties disagreed about who should represent the state in the case. 
- <p class="updated_time"> 01:13 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/desantis-defends-scolding-students-over-masks-fundraises-00013818">DeSantis defends scolding students over masks — and fundraises off it</a> Politico: “Predictably, the leftist propagandists in our media had a meltdown and called me a ‘bully’ for allowing children to breathe fresh air," a campaign email reads. 
  <p class="updated_time"> 12:58 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084162255/biden-wants-more-covid-relief-funds-the-gop-wants-to-know-where-previous-relief-">Biden wants more COVID relief funds. The GOP wants to know where previous relief went</a> NPR: The White House has requested $22.5 billion in additional COVID relief, but 35 GOP senators warned they won't support more until Biden provides an accounting of trillions in prior relief spending. 
  <p class="updated_time"> 12:38 PM CT, Mar. 03 </p> 
@@ -335,8 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/lawmakers-funding-deal-ukraine-request-00013548">Lawmakers hammer out funding deal with boosted Ukraine request</a> Politico: The White House revamped its emergency funding ask Thursday morning, looking for $10 billion to help Ukraine. 
  <p class="updated_time"> 10:04 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/hispanic-women-winners-texas-2022-primary-00013546">Hispanic women emerge as big winners in Texas GOP primary</a> Politico: When the dust clears after the May 24 runoffs, as many as 8 Latinos — including 6 women — could be Republican congressional nominees. 
- <p class="updated_time"> 08:46 AM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084131154/van-taylor-tania-joya-drops-texas-reelection">U.S. Rep. Van Taylor drops his Texas reelection bid and admits to an affair</a> NPR: The announcement followed reports that he had been in a relationship with the widow of an American-born recruiter for the Islamic State. 
  <p class="updated_time"> 07:56 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
