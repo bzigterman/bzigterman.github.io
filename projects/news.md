@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:58 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 10:30 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 10:28 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">Scores Dead in Pakistan After Mosque Attack</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in Peshawar, in northwestern Pakistan. 
+ <p class="updated_time"> 10:23 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
+ <p class="updated_time"> 10:16 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 09:47 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-russia-nato.html">NATO Rejects Intervening in Ukraine, Including No-Fly Zone </a> NYT: The alliance will not engage Russian forces in the air or on the ground in Ukraine to avoid the risk of a wider European war, the secretary-general says. 
- <p class="updated_time"> 09:45 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
- <p class="updated_time"> 09:36 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
  <p class="updated_time"> 09:23 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60621796?at_medium=RSS&at_campaign=KARANGA">Russian anger as Senator Lindsey Graham calls for Putin's assassination</a> BBC: Lindsey Graham says only way Russia's invasion of Ukraine ends is for someone "to take this guy out". 
  <p class="updated_time"> 08:48 AM CT, Mar. 04 </p> 
@@ -34,8 +36,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60616946?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families run for cover as Russian air strikes hit Chernihiv</a> BBC: Residents of Chernihiv and other cities say apartments, hospitals and schools are being destroyed. 
  <p class="updated_time"> 07:07 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
- <p class="updated_time"> 06:52 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">At Least 57 Dead in Pakistan After Mosque Attack</a> NYT: At least 57 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in Peshawar, in northwestern Pakistan. 
+ <p class="updated_time"> 06:37 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60524865?at_medium=RSS&at_campaign=KARANGA">Premier League: China's rights holder will not show games over Ukraine support</a> BBC: China's rights holders have pulled Premier League coverage for this weekend over support for Ukraine. 
  <p class="updated_time"> 06:08 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">Calls for peace and inclusion dominated the Winter Paralympics opening ceremony</a> NPR: Hundreds of athletes are competing in Beijing in this year's events, which run through March 13. The opening ceremony kicked off on Friday, with the world focused on Russia's invasion of Ukraine. 
  <p class="updated_time"> 06:00 AM CT, Mar. 04 </p> 
@@ -124,8 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 03:11 PM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/russian-lawmakers-take-aim-at-independent-coverage-of-ukraine-invasion-11646341167">Russian Lawmakers Take Aim at Independent Coverage of Ukraine Invasion</a> WSJ: A bill expected to be considered Friday would punish anyone who publishes what is deemed to be false information about Russian operations. 
- <p class="updated_time"> 02:52 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60607790?at_medium=RSS&at_campaign=KARANGA">Biden imposes sanctions on Russian oligarchs, 'Putin's cronies'</a> BBC: President Putin's spokesman is one of the latest Russians targeted in the new round of sanctions. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
  <p class="updated_time"> 02:09 PM CT, Mar. 03 </p> 
@@ -211,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/irs-aims-to-hire-10-000-workers-to-reduce-crippling-mail-backlog-00014193">IRS aims to hire 10,000 workers to reduce crippling mail backlog</a> Politico: “It is clear that understaffing in these areas contributes to the backlog in processing of tax returns and taxpayer correspondence." --Treasury union National President Tony Reardon 
  <p class="updated_time"> 10:26 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/ukraine-funneling-weapons-military-aid-00014189">The Ukraine ‘rat line’: How the U.S. and British are funneling weapons to kill Russians</a> Politico: The decision to ship the supplies by road into Ukraine has emerged as a remarkable wartime improvisation, made necessary by the inability to fly aid into the country. 
+ <p class="updated_time"> 10:25 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084514764/supreme-court-boston-bomber-death-sentence">Supreme Court reimposes death sentence for Boston bomber</a> NPR: The Supreme Court was reviewing the decision of a federal appeals court in Boston that overturned the death sentence imposed on Dzokhar Tsarnaev. The 2013 attack killed three people. 
  <p class="updated_time"> 10:24 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/white-house-endorses-cyber-incident-reporting-bill-00014177">White House endorses cyber incident reporting bill that DOJ criticized</a> Politico: The White House’s statement late Thursday came just a day after senior leaders of the Justice Department and the FBI sharply criticized the bill for not requiring hack reports to go jointly to CISA and the bureau. 
  <p class="updated_time"> 09:50 AM CT, Mar. 04 </p> 
@@ -234,7 +236,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/this-guy-is-pretty-combative-russias-space-chief-launches-his-own-war-on-the-west-00014055">‘This guy is pretty combative’: Russia’s space chief launches his own war on the West</a> Politico: Dmitry Rogozin, a longtime nationalist leader and Putin ally, is blasting away at one of the last vestiges of U.S.-Russia cooperation. 
  <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/an-insiders-look-into-putins-long-game-00014108">An insider’s look into Putin’s long game</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to CNN’s Matthew Chance about agenda-setting reporting on Russia’s war on Ukraine and former national security adviser Tom Donilon about the relationship between information and Putin’s invasion. 
+ <a href="https://www.politico.com/news/2022/03/04/an-insiders-look-into-putins-long-game-00014108">Exclusive: Matthew Chance's take on Putin</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to CNN’s Matthew Chance about agenda-setting reporting on Russia’s war on Ukraine and former national security adviser Tom Donilon about the relationship between information and Putin’s invasion. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
@@ -281,6 +283,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-temporary-protected-status-immigration.html">U.S. Grants Temporary Protected Status to Some Ukrainians</a> NYT: The designation gives Ukrainians who were in the United States without legal documentation as of March 1 permission to stay and work for 18 months. 
  <p class="updated_time"> 06:13 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/melania-trump-fund-raiser-postponed.html">Melania Trump Event Postponed Because of Fund-Raising Issues</a> NYT: Florida regulators found that a company working on the charitable event had not registered properly. The former first lady’s office said it would be rescheduled. 
+ <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:47 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/energy-environment/lukoil-russia-oil-ukraine.html">Lukoil, a Russian Oil Company, Calls for an End to the Ukraine War</a> NYT: The company, which has more than 200 gas stations in the U.S., acted as lawmakers in Washington were seeking to block Russian oil imports. 
  <p class="updated_time"> 04:36 PM CT, Mar. 03 </p> 
@@ -319,8 +323,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-kentucky-abortion.html">Supreme Court Lets Kentucky’s Attorney General Defend Abortion Law</a> NYT: After the state’s political landscape shifted in 2019, state officials of different parties disagreed about who should represent the state in the case. 
  <p class="updated_time"> 01:13 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/desantis-defends-scolding-students-over-masks-fundraises-00013818">DeSantis defends scolding students over masks — and fundraises off it</a> Politico: “Predictably, the leftist propagandists in our media had a meltdown and called me a ‘bully’ for allowing children to breathe fresh air," a campaign email reads. 
- <p class="updated_time"> 01:08 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/supreme-court-guantanamo-bay-secrets-00013863">High court sides with government in Gitmo state secrets case</a> Politico: The Supreme Court on Thursday ruled for the U.S. government in a case involving a Guantanamo Bay detainee seeking what the government said is secret information. 
  <p class="updated_time"> 12:58 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084162255/biden-wants-more-covid-relief-funds-the-gop-wants-to-know-where-previous-relief-">Biden wants more COVID relief funds. The GOP wants to know where previous relief went</a> NPR: The White House has requested $22.5 billion in additional COVID relief, but 35 GOP senators warned they won't support more until Biden provides an accounting of trillions in prior relief spending. 
  <p class="updated_time"> 12:38 PM CT, Mar. 03 </p> 
@@ -337,8 +339,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084131154/van-taylor-tania-joya-drops-texas-reelection">U.S. Rep. Van Taylor drops his Texas reelection bid and admits to an affair</a> NPR: The announcement followed reports that he had been in a relationship with the widow of an American-born recruiter for the Islamic State. 
  <p class="updated_time"> 07:56 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:20 AM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084113700/jan-6-panels-evidence-suggests-trump-broke-laws-trying-to-overturn-the-election">Jan. 6 panel's evidence suggests Trump broke laws trying to overturn the election</a> NPR: NPR's A Martinez talks to Democratic Rep. Adam Schiff of California, a member of the committee, about the panel's 221-page court filing, and where the investigation is headed from here. 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/03/how-gas-prices-could-crush-biden-and-the-democrats-00013533"> How gas prices could crush Biden and the Democrats</a> Politico Playbook: And Russia moves in on key Ukrainian cities. 
  <p class="updated_time"> 05:00 AM CT, Mar. 03 </p> 
