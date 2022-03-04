@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:51 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 09:16 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
+ <p class="updated_time"> 09:11 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 08:58 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 08:48 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
- <p class="updated_time"> 08:42 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
  <p class="updated_time"> 08:34 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Chess Distances Itself From Russia</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. 
  <p class="updated_time"> 08:32 AM CT, Mar. 04 </p> 
@@ -26,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60617108?at_medium=RSS&at_campaign=KARANGA">Pakistan bombing kills dozens in Shia mosque in Peshawar</a> BBC: A bombing inside a Shia mosque in the city of Peshawar kills more than 50 people and wounds many more. 
  <p class="updated_time"> 08:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60616946?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families run for cover as Russian air strikes hit Chernihiv</a> BBC: Residents of Chernihiv and other cities say apartments, hospitals and schools are being destroyed. 
- <p class="updated_time"> 07:43 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 07:07 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 06:52 AM CT, Mar. 04 </p> 
@@ -42,12 +42,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084453424/at-least-30-killed-after-mosque-bombed-in-northwest-pakistan">A suicide bombing at a mosque in Pakistan kills at least 30</a> NPR: The bombing was the latest act of violence in majority Sunni Muslim Pakistan, where minority Shiite Muslims have come under repeated attacks. 
  <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
+ <p class="updated_time"> 04:09 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615753?at_medium=RSS&at_campaign=KARANGA">WATCH: Russian TV staff walk off set after final broadcast</a> BBC: Channel TV Rain stops operating after coming under pressure over its coverage of the war in Ukraine. 
- <p class="updated_time"> 02:25 AM CT, Mar. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take nuclear plant but Kyiv advance slows</a> BBC: Russia seizes power plant in Ukraine as the assault on the country intensifies. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
@@ -205,6 +205,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
+ <p class="updated_time"> 09:11 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 08:52 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/jobs-february-economy-00014160">U.S. added 678,000 jobs in February in sign of economic health</a> Politico: The Labor Department’s report also showed that the unemployment rate dropped from 4 percent to 3.8 percent. 
  <p class="updated_time"> 08:17 AM CT, Mar. 04 </p> 
@@ -239,8 +243,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1083494267/some-deride-d-c-as-a-swamp-to-others-its-an-idealistic-place-to-do-good">Some deride D.C. as a swamp. To others, it's an idealistic place to do good</a> NPR: Sure, there are some in Washington hoping to enrich themselves with federal contracts and to corruptly influence policy, but many are drawn, as one resident says, to make the world a better place. 
- <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 12:12 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084440962/florida-republicans-send-15-week-abortion-ban-to-governor">Abortions after 15 weeks are one signature away from being banned in Florida</a> NPR: The measure in Florida comes as Republicans across the country move to tighten access to the procedure. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
@@ -297,6 +299,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/uc-berkeley-will-be-forced-to-slash-enrollment-under-state-supreme-court-ruling-00013923">UC Berkeley prepares to slash enrollment after California Supreme Court ruling</a> Politico: The court's decision to reject UC Berkeley’s application for a stay in the case means the school will likely need to shrink its student population before the fall semester begins. 
  <p class="updated_time"> 02:19 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084278181/transgender-girls-and-women-now-barred-from-female-sports-in-iowa">Transgender girls and women now barred from female sports in Iowa</a> NPR: The ban takes effect immediately. The ban applies to K-12 schools and community colleges as well as colleges and universities that are part of the NCAA or NAIA. 
+ <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
+ <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">Takeaways from the House's January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 02:01 PM CT, Mar. 03 </p> 
@@ -345,8 +349,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:21 AM CT, Mar. 02 </p> 
- <a href="https://www.cnn.com/2022/03/02/politics/texas-2022-primary-election-takeaways/index.html">6 takeaways from the Texas primaries</a> CNN: Two of the biggest names in Texas politics could be headed to overtime in their efforts to fend off primary challengers. 
  <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
