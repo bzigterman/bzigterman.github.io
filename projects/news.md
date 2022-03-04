@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:34 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 04:44 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 04:40 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/aclu-ice-covid-vaccine-booster.html">A.C.L.U. Lawsuit Accuses I.C.E. Jailers of Denying Detainees Vaccines</a> NYT: One of the plaintiffs is Anna Sorokin, a Russian immigrant who for several years presented herself as a German heiress named Anna Delvey. She received a booster shot on Thursday, two days after the suit was filed. 
+ <p class="updated_time"> 04:37 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/kyiv-train-station-rumors.html">In Kyiv’s Railway Station, Rumors, Near-Stampedes and Frustration</a> NYT: As Russian forces begin to encircle the Ukrainian capital, tens of thousands are clambering for a way out that may soon be closed off. 
  <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion in Ukraine. 
  <p class="updated_time"> 04:04 PM CT, Mar. 04 </p> 
@@ -35,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627249/ukrainian-rabbis-try-to-offer-safety-and-shelter">Ukrainian rabbis try to offer safety and shelter</a> NPR: All over Ukraine, the attacks from Russia are taking a toll on the people. The Jewish community is turning to their rabbis for shelter and security. 
  <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627242/thousands-remain-separated-from-their-families-5-years-after-trumps-travel-ban">Thousands remain separated from their families 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
+ <a href="https://www.npr.org/2022/03/04/1084627242/hundreds-of-families-remain-separated-5-years-after-trumps-travel-ban">Hundreds of families remain separated 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
  <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627235/how-ukraines-private-sector-has-shifted-to-help-in-the-war-effort">How Ukraine's businesses and citizens are pitching in to help in the war effort</a> NPR: Ternopil, a town in western Ukraine, is preparing for war: from its training hospital to its milk factories, everyone is gearing up to help or assist in the war effort. 
  <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
