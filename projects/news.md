@@ -36,6 +36,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60615752?at_medium=RSS&at_campaign=KARANGA">Former president of Ukraine sends defiant message to Putin</a> BBC: "You cannot kill Ukrainian soul" says Petro Poroshenko, the former president of Ukraine. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
+ <p class="updated_time"> 11:52 PM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/history-ukraine-russia-war-books.html">Here's What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
@@ -72,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084414196/russian-troops-are-attacking-zaporizhzhia-nuclear-power-plant">Russian troops are attacking Zaporizhzhia Nuclear Power Plant</a> NPR: Russian troops appear to be at the entrance of Ukraine's Zaporizhzhia Nuclear Power Plant and are engaged in active combat. Footage shows what looks like a fire in one of its administrative buildings. 
  <p class="updated_time"> 06:20 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60603406?at_medium=RSS&at_campaign=KARANGA">Ukraine: The race to save the country's artistic treasures</a> BBC: As the Russian invasion continues, efforts to protect Ukraine's cultural heritage are stepped up. 
- <p class="updated_time"> 06:12 PM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</a> WSJ: A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky. 
  <p class="updated_time"> 06:08 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60612255?at_medium=RSS&at_campaign=KARANGA">Ukraine: On board a Nato surveillance plane monitoring Russian activity</a> BBC: The BBC has been given rare access to a surveillance flight on the Polish border with Ukraine and Belarus. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
@@ -108,6 +108,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084310503/how-president-zelenskyys-wartime-leadership-has-transformed-his-image">How President Zelenskyy's wartime leadership has transformed his image</a> NPR: NPR's Mary Louise Kelly talks with Emily Harding, who has been tracking the Russian invasion from the Center for Strategic and International Studies in Washington, on Zelenskyy's wartime leadership. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310496/residents-of-ukrainian-cities-describe-life-under-bombardment">Residents of Ukrainian cities describe life under bombardment</a> NPR: As the fighting in Ukraine enters a second week, Russian and Ukrainian forces are still battling over control of strategic cities. 
+ <p class="updated_time"> 03:11 PM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/russian-lawmakers-take-aim-at-independent-coverage-of-ukraine-invasion-11646341167">Russian Lawmakers Take Aim at Independent Coverage of Ukraine Invasion</a> WSJ: A bill expected to be considered Friday would punish anyone who publishes what is deemed to be false information about Russian operations. 
  <p class="updated_time"> 02:52 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60607790?at_medium=RSS&at_campaign=KARANGA">Biden imposes sanctions on Russian oligarchs, 'Putin's cronies'</a> BBC: President Putin's spokesman is one of the latest Russians targeted in the new round of sanctions. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
@@ -136,10 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/putin-macron-call.html">After Putin-Macron Call, France Sees Russia Wanting 'All Ukraine'</a> NYT: On the call, the Russian president said that his goal, “the demilitarization and neutral status of Ukraine,” would be achieved “no matter what,” according to the Kremlin. 
  <p class="updated_time"> 10:48 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/arts/music/anna-netrebko-met-opera-ukraine.html">Anna Netrebko, Diva With Putin Ties, Is Out at the Metropolitan Opera</a> NYT: The Met said she would not appear for two seasons, and possibly more, after declining to comply with its demand that she repudiate her public support for Putin. 
- <p class="updated_time"> 10:46 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">Russia's War on Ukraine Has Created Over 1 Million Refugees in Just a Week</a> WSJ: Many people fleeing the country have headed to Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
- <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/putin-thought-ukraine-would-fall-quickly-an-airport-battle-proved-him-wrong-11646343121">Putin Thought Ukraine Would Fall Quickly. An Airport Battle Proved Him Wrong.</a> WSJ: Russia wanted to use Hostomel Airport outside Kyiv to bring troops directly to the capital. A band of Ukrainian soldiers fought to keep the Russians from using the landing strip, forcing them to move soldiers and supplies over land. 
  <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/council-of-europe-russia-suspension.html">Council of Europe Suspends Russia for Its Attack on Ukraine</a> NYT: Marija Pejcinovic Buric, the institution’s secretary general, calls the invasion ‘a dark hour for Europe and everything it stands for.’ 
  <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
@@ -156,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
- <p class="updated_time"> 04:40 AM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/china-russia-xi-putin-ukraine-war-11646279098">China Declared Its Russia Friendship Had 'No Limits.' It's Having Second Thoughts.</a> WSJ: Xi Jinping wanted Vladimir Putin to join in a united front against the U.S., and he got it Feb. 4. Now the Ukraine war threatens to undo Beijing’s yearslong effort to become a world leader. 
  <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
@@ -222,9 +218,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084448605/a-son-takes-the-stand-against-his-father-in-the-first-trial-related-to-jan-6-rio">A son takes the stand against his father in the first trial related to Jan. 6 riot</a> NPR: The trial of accused Capitol rioter Guy Reffitt continued Thursday with intense video from Jan. 6, and testimony from his son, Jackson, who turned his father in to the FBI. 
- <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two audits showing there were no problems with the 2020 presidential election. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084448605/a-son-takes-the-stand-against-his-father-in-the-first-trial-related-to-jan-6-rio">A son takes the stand against his father in the first trial related to Jan. 6 riot</a> NPR: The trial of accused Capitol rioter Guy Reffitt continued Thursday with intense video from Jan. 6, and testimony from his son, Jackson, who turned his father in to the FBI. 
  <p class="updated_time"> 04:03 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
