@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as it clamped down on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 02:29 PM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084580235/russia-blocks-facebook-twitter">Russia blocks access to Facebook </a> NPR: Russia has cut off access to Facebook inside the country in response to the tech giant's blocking of state-backed media outlets in the European Union. 
+ <p class="updated_time"> 02:26 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html">Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent</a> NYT: The step could signal further restrictions against other tech companies such as Google, which owns YouTube, and Twitter. Both have also been under pressure by the Russian government. 
+ <p class="updated_time"> 02:25 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian City, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikov’s, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
  <p class="updated_time"> 02:01 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
- <p class="updated_time"> 02:00 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as it clamped down on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
  <p class="updated_time"> 01:54 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Steps Up Censorship With Law Against ‘False Information’</a> NYT: Calling the war in Ukraine a “war” in social media, print or broadcast will be a crime punishable by up to 15 years in jail. Russia also blocked access to foreign news sites. 
  <p class="updated_time"> 01:47 PM CT, Mar. 04 </p> 
@@ -28,8 +34,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 01:25 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084571029/ukraine-refugees-germany-flee-russia-invasion">Ukrainians fleeing war, and volunteers to help them, fill a Berlin train station</a> NPR: At Berlin's main train station, hundreds of volunteers distribute food, hot drinks, diapers, toys, warm coats and a helping hand to the Ukrainians disembarking daily. 
- <p class="updated_time"> 01:24 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian City, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikov’s, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
  <p class="updated_time"> 01:23 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-sanctions-ukraine.html">With Sanctions, U.S. and Europe Aim to Punish Putin and Fuel Russian Unrest</a> NYT: The Biden administration and European officials are crushing the Russian economy and stirring mass anxiety to pressure President Vladimir V. Putin to end his war in Ukraine. 
  <p class="updated_time"> 12:56 PM CT, Mar. 04 </p> 
@@ -158,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
  <p class="updated_time"> 04:13 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310580/china-erases-thousands-of-social-media-accounts-for-vulgarity-negativity-and-mor">China erases thousands of social media accounts for vulgarity, negativity and more</a> NPR: China is reshaping popular culture by taking down tens of thousand of celebrities, bloggers and influencers it deems immoral. The reasons are sometimes unclear, such as the figure not being patriotic. 
- <p class="updated_time"> 03:58 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084310587/former-nato-commander-says-a-no-fly-zone-over-ukraine-must-be-on-the-table">Former NATO commander says a no-fly zone over Ukraine must be on the table</a> NPR: NPR's Sacha Pfeiffer speaks with retired U.S. Air Force general Philip Breedlove about calls for a no-fly zone over Ukraine — and why that could push Russia and the democratic West closer to war. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
@@ -188,8 +190,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Hundreds Held After New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
- <p class="updated_time"> 11:21 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
