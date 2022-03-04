@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:41 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
+ <p class="updated_time"> 10:53 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to civilian “corridors” as fighting continued. 
  <p class="updated_time"> 10:41 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the power complex near a line of military vehicles. People in the vehicles appeared to be firing at buildings in the power plant. 
@@ -48,8 +50,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</a> WSJ: A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
- <p class="updated_time"> 05:14 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 05:01 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084303033/hollywood-refuses-to-open-biggest-films-in-russia">Hollywood refuses to open biggest films in Russia </a> NPR: Disney, Sony, Warner Bros., Paramount and Universal are pausing the theatrical releases of their films in Russia 
  <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
@@ -213,6 +213,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 10:32 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/florida-abortion-ban-desantis-00014102">Florida lawmakers approve strictest abortion ban in state’s history</a> Politico: The bill provides no exceptions for victims of rape, incest or human trafficking. 
  <p class="updated_time"> 10:25 PM CT, Mar. 03 </p> 
@@ -241,8 +243,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/melania-trump-fund-raiser-postponed.html">Melania Trump Event Postponed Because of Fund-Raising Issues</a> NYT: Florida regulators found that a company working on the charitable event had not registered properly. The former first lady’s office said it would be rescheduled. 
  <p class="updated_time"> 06:00 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/georgia-secretary-of-state-race.html">In Georgia's Secretary of State Race, 2020 Is Still on the Ballot</a> NYT: A normally sleepy secretary of state race has become a critical barometer of Republicans’ views of the last election — and of Trump. 
- <p class="updated_time"> 05:14 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
