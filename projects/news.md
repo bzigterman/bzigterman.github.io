@@ -8,10 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: A fire set off by the fight over the plant was extinguished, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/fire-at-a-ukrainian-nuclear-plant-is-out-but-russian-troops-take-control-of-the-site.html">Fire at Ukrainian Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
+ <p class="updated_time"> 05:03 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 04:44 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084453424/at-least-30-killed-after-mosque-bombed-in-northwest-pakistan">At least 30 killed after mosque bombed in northwest Pakistan</a> NPR: The bombing was the latest act of violence in majority Sunni Muslim Pakistan, where minority Shiite Muslims have come under repeated attacks. 
  <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
+ <p class="updated_time"> 04:24 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60617108?at_medium=RSS&at_campaign=KARANGA">Pakistan bombing kills dozens in Shia mosque in Peshawar</a> BBC: A bombing inside a Shia mosque in the city of Peshawar kills at least 30 people and wounds many more. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
@@ -100,14 +108,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084310503/how-president-zelenskyys-wartime-leadership-has-transformed-his-image">How President Zelenskyy's wartime leadership has transformed his image</a> NPR: NPR's Mary Louise Kelly talks with Emily Harding, who has been tracking the Russian invasion from the Center for Strategic and International Studies in Washington, on Zelenskyy's wartime leadership. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310496/residents-of-ukrainian-cities-describe-life-under-bombardment">Residents of Ukrainian cities describe life under bombardment</a> NPR: As the fighting in Ukraine enters a second week, Russian and Ukrainian forces are still battling over control of strategic cities. 
- <p class="updated_time"> 03:22 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60606539?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day eight</a> BBC: Cities under relentless bombardment. Here's what you need to know after day eight of the war. 
  <p class="updated_time"> 02:52 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60607790?at_medium=RSS&at_campaign=KARANGA">Biden imposes sanctions on Russian oligarchs, 'Putin's cronies'</a> BBC: President Putin's spokesman is one of the latest Russians targeted in the new round of sanctions. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
- <p class="updated_time"> 02:12 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60611470?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia agrees need to create humanitarian corridors</a> BBC: But the talks between Russian and Ukrainian negotiators yield only limited concrete progress. 
  <p class="updated_time"> 02:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
@@ -150,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 06:21 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
- <p class="updated_time"> 05:26 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-refugees-eu.html">E.U. Expected to Grant Blanket Protection to Ukrainian Refugees</a> NYT: Under the measure, which would apply to all Ukrainian nationals, refugees would be granted the right to live, study and work across the 27-member bloc for up to three years. 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/mayor-russian-troop-grenade.html">Video: Mayor of Konotop Asks His City Whether They Wish to Fight or Surrender</a> NYT: The mayor of Konotop, in northeastern Ukraine, said Russian soldiers had told him they would “raze the city to the ground with their artillery.” 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
@@ -198,8 +200,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/arts/music/ukraine-putin-valery-gergiev-anna-netrebko.html">Valery Gergiev and Anna Netrebko's Putin Ties Threaten Their Careers</a> NYT: The Russian conductor Valery Gergiev and the diva Anna Netrebko have lost engagements because of their ties to Putin, as geopolitics and music collide once again. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Ukrainian city of Mariupol 'near to humanitarian catastrophe' after bombardment</a> BBC: The deputy mayor of Mariupol says he believes hundreds of people have died in the Russian onslaught. 
- <p class="updated_time"> 10:43 AM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/asia/afghanistan-taliban-resistance.html">Taliban Search Operation Echoes Resented U.S. Tactics in Afghanistan</a> NYT: An intrusive sweep that has spanned several provinces risks alienating Afghans and fueling the insurgency the new government is trying to stop. 
  <p class="updated_time"> 09:56 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-60592931?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: We need support from our allies, say Klitschko brothers</a> BBC: The mayor of Kyiv and his brother, both renowned boxers, spoke to the BBC from Kyiv. 
 
@@ -209,12 +209,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/03/04/can-a-wider-war-be-prevented-00014127"> Can a wider war be prevented?</a> Politico Playbook: And Donald Trump warms to Eric Greitens in Missouri. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump warms to Greitens, shaking up endorsement race in Missouri</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">U.S. tech giants don’t have much money on the line as they split from Russia</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/irs-filing-season-child-tax-credit-00012876">Fearing filing season chaos, IRS hits pause on web tool for Child Tax Credit</a> Politico: The decision has disappointed some advocates for low-income people, who fear it will mean some will face long waits for assistance or miss out on the payments altogether. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/cartoons/2022/03/04/the-nations-cartoonists-on-the-week-in-politics-00014016">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
@@ -283,6 +287,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084310531/jan-6-panel-says-it-has-evidence-trump-broke-the-law-in-effort-to-overturn-elect">Jan. 6 panel says it has evidence Trump broke the law in effort to overturn election</a> NPR: The House committee investigating Jan. 6 says it has evidence showing that former President Trump broke the law by trying to overturn the 2020 election. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310503/how-president-zelenskyys-wartime-leadership-has-transformed-his-image">How President Zelenskyy's wartime leadership has transformed his image</a> NPR: NPR's Mary Louise Kelly talks with Emily Harding, who has been tracking the Russian invasion from the Center for Strategic and International Studies in Washington, on Zelenskyy's wartime leadership. 
+ <p class="updated_time"> 03:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/powell-says-russias-ukraine-invasion-could-speed-up-inflation-00013831">'People will feel that': Fed's Powell says war could fuel inflation</a> Politico: Powell, in testimony to the Senate Banking Committee, said Americans are going to see higher gas prices, while transportation and energy costs will also rise for businesses. 
  <p class="updated_time"> 03:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/federal-reserve-powell-inflation.html">Federal Reserve Chair Pledges to Bring Inflation Under Control</a> NYT: Jerome H. Powell, the head of the Federal Reserve, told lawmakers the Fed was prepared to prevent a rerun of 1970s inflation. 
  <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
@@ -303,6 +309,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/supreme-court-guantanamo-bay-secrets-00013863">High court sides with government in Gitmo state secrets case</a> Politico: The Supreme Court on Thursday ruled for the U.S. government in a case involving a Guantanamo Bay detainee seeking what the government said is secret information. 
  <p class="updated_time"> 12:58 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084162255/biden-wants-more-covid-relief-funds-the-gop-wants-to-know-where-previous-relief-">Biden wants more COVID relief funds. The GOP wants to know where previous relief went</a> NPR: The White House has requested $22.5 billion in additional COVID relief, but 35 GOP senators warned they won't support more until Biden provides an accounting of trillions in prior relief spending. 
+ <p class="updated_time"> 12:38 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/they-still-have-an-awful-lot-of-capability-russia-stalled-in-northern-ukraine-slogs-on-with-assault-00013793">‘They still have an awful lot of capability’: Russia, stalled in northern Ukraine, slogs on with assault</a> Politico: Russian forces are “trying every single day” to seize Kyiv. 
+ <p class="updated_time"> 12:10 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/russia-ukraine-crisis-where-things-stand-00013728">Russia-Ukraine crisis: Where things stand after 1 week of war</a> Politico: Here’s a guide to everything you need to know about the invasion. 
  <p class="updated_time"> 11:57 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/canada-strips-russia-belarus-trade-status-00013758">Canada strips Russia, Belarus of trade status in latest sanctions salvo</a> Politico: A new 35 percent tariff will be applied to all exports from the two countries. 
  <p class="updated_time"> 11:45 AM CT, Mar. 03 </p> 
@@ -331,10 +341,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/white-house-applicants-weed-companies-00013390">Biden admin to applicants: Maybe don’t invest in weed companies</a> Politico: The new policy underscores how the business of weed, ever more legitimized, is forcing adjustments by the feds. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
- <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-primaries-cuellar-progressive-left-00013331">Texas delivers a mixed message to the left</a> Politico: Progressives are off to a more promising start than in 2021, but were unable to deliver a knockout blow to the incumbent Democrat they’ve been targeting for years. 
- <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/u-s-russians-putin-regime-change-00013249">The U.S. is pushing Russians to defy Putin. But don’t call it regime change.</a> Politico: U.S. officials fighting Kremlin propaganda see opportunities in the anti-war sentiment among Russians, including spy recruitment. 
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246">Dems agonize over Manchin's wish list: Taxes, prescription drugs, climate cash</a> Politico: "And the social issues, we basically have to deal with those" afterward, the West Virginia centrist said in a post-State of the Union interview. 
  <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
@@ -349,8 +355,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/03/02/politics/texas-2022-primary-election-takeaways/index.html">6 takeaways from the Texas primaries</a> CNN: Two of the biggest names in Texas politics could be headed to overtime in their efforts to fend off primary challengers. 
  <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
- <p class="updated_time"> 05:00 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/russia-crisis-international-space-station-00013000">Russia crisis could sink the International Space Station</a> Politico: Backing out of the international partnership could be catastrophic for NASA. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
