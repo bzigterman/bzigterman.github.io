@@ -116,8 +116,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html">Russia-Ukraine War Helped Ease Rift Between Britain and the E.U.</a> NYT: The crisis in Ukraine is beginning to narrow the chasm opened up by Brexit. 
  <p class="updated_time"> 10:30 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: BBC suspends its journalists' work in Russia</a> BBC: The temporary suspension comes in response to a new Russian law which threatens reporters with prison. 
+ <p class="updated_time"> 10:16 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-sanctions-banks-finance-11646428069">How the West Unplugged Russia From the World's Financial Systems</a> WSJ: In just one week, Western financial firms severed practically every artery of money between Russia and the rest of the globe. In some cases they went further than what sanctions required. 
+ <p class="updated_time"> 09:24 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-placed-on-global-watch-list-for-money-laundering-terrorism-financing-11646425480">U.A.E. Placed on Global Watch List for Money Laundering, Terror Financing</a> WSJ: The Middle East business hub is added to FATF’s ‘gray list’ of jurisdictions requiring increased monitoring. 
  <p class="updated_time"> 09:23 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60621796?at_medium=RSS&at_campaign=KARANGA">Russian anger as Senator Lindsey Graham calls for Putin's assassination</a> BBC: Lindsey Graham says only way Russia's invasion of Ukraine ends is for someone "to take this guy out". 
+ <p class="updated_time"> 08:58 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/associate-of-pope-francis-found-guilty-of-sexual-abuse-in-argentina-11646423924">Pope Francis Associate Found Guilty of Sexual Abuse in Argentina</a> WSJ: Bishop Gustavo Zanchetta was sentenced to 4½ years in prison in a case that has raised questions about the pope’s handling of sexual abuse at the highest level of the Catholic Church. 
  <p class="updated_time"> 08:32 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/movies/film-boycott-russia-ukraine.html">Russian Filmmakers and Other Artists Face Boycotts Over Ukraine</a> NYT: A Russian moviemaker with Ukrainian roots and relatives in Kyiv denounced the war. The Glasgow Film Festival dropped his film anyway. 
  <p class="updated_time"> 08:25 AM CT, Mar. 04 </p> 
@@ -132,16 +138,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615753?at_medium=RSS&at_campaign=KARANGA">WATCH: Russian TV staff walk off set after final broadcast</a> BBC: Channel TV Rain stops operating after coming under pressure over its coverage of the war in Ukraine. 
- <p class="updated_time"> 02:55 AM CT, Mar. 04 </p> 
- <a href="https://www.wsj.com/articles/in-taiwan-putins-war-in-ukraine-stirs-new-interest-in-self-defense-11646402103">In Taiwan, Ukraine War Stirs New Interest in Self-Defense</a> WSJ: The psychological impact of the war in Ukraine has hit hard in a small island democracy that, like Ukraine with Russia, lives under the cloud of conflict with a vastly more powerful authoritarian neighbor—China. 
  <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take nuclear plant but Kyiv advance slows</a> BBC: Russia seizes power plant in Ukraine as the assault on the country intensifies. 
  <p class="updated_time"> 02:04 AM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-city-prepares-for-battle-far-from-the-front-line-11646398522">A Ukrainian City Prepares for Battle Far From the Front Line</a> WSJ: The Russian onslaught on Ukraine has transformed Lviv into a fallback capital for the beleaguered government in Kyiv—and a desperate conduit for those who want to flee. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
- <p class="updated_time"> 01:00 AM CT, Mar. 04 </p> 
- <a href="https://www.wsj.com/articles/frances-far-right-outgrows-marine-le-pen-11646395200">France's Far Right Outgrows Marine Le Pen</a> WSJ: France’s Marine Le Pen is losing political ground on France’s far right, as more voters rally for anti-immigrant TV pundit Éric Zemmour ahead of presidential elections in April. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
@@ -219,6 +221,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:21 PM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/news/2022/03/04/pulitzer-winner-walter-mears-dies-aps-boy-on-the-bus-00014379">Pulitzer winner Walter Mears dies, AP’s ‘Boy on the Bus’</a> Politico: “I could produce a story as fast as I could type,” Mears once acknowledged — and he was a fast typist. 
+ <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
+ <p class="updated_time"> 05:22 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/title-42-migrant-families-ruling.html">U.S. Can’t Use Health Rule to Expel Migrant Families Facing Persecution, Court Says</a> NYT: An appeals court said the Biden administration could continue expelling migrant families under the pandemic-era rule, but not to countries where they would be persecuted. 
  <p class="updated_time"> 05:11 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/pence-trump-russia-ukraine-putin-00014359">Pence hits Trump: No room in GOP ‘for apologists for Putin’</a> Politico: Pence has been increasingly willing to challenge Trump — a dramatic departure from his deferential posture as vice president. 
  <p class="updated_time"> 04:53 PM CT, Mar. 04 </p> 
@@ -235,8 +243,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/psaki-shuts-down-lindsey-grahams-calls-to-assassinate-putin-00014337">White House says assassinating Putin is 'not the position' of the U.S. government</a> Politico: Lindsey Graham called for a Julius Caesar-style killing of Putin on Twitter late Thursday. 
  <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627242/hundreds-of-families-remain-separated-5-years-after-trumps-travel-ban">Hundreds of families remain separated 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
- <p class="updated_time"> 03:21 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 03:17 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084624868/the-white-house-says-its-considering-a-range-of-options-for-russian-oil-imports">The White House says it's considering a range of options for Russian oil imports</a> NPR: The White House emphasized the importance of maintaining a steady global energy supply amid Russia's war on Ukraine. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
@@ -321,8 +327,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-jan-6-criminal-case.html">Panel Suggests Trump Knew He Lost the Election, Eyeing Criminal Case</a> NYT: At the core of the theory of a possible criminal case against former President Donald J. Trump is the argument that he knew he had lost the election and sought to overturn it anyway. 
  <p class="updated_time"> 07:40 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/treasury-sanctions-russia-online-outlets-00013931">Treasury sanctions Russian online outlets for spreading disinformation</a> Politico: The move marks the strongest set of actions the U.S. government has taken against Russian-government operated media since the invasion. 
- <p class="updated_time"> 07:16 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/delauro-investigation-fda-formula-recall-00014047">DeLauro requests IG investigation into FDA's handling of infant formula recall</a> Politico: The request comes after POLITICO reported that FDA, CDC and Abbott were told of the first infant with a Cronobacter sakazakii infection in September. 
  <p class="updated_time"> 06:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/guy-reffitt-january-6-trial.html">‘Traitors Get Shot’: Son Testifies Against Father in Jan. 6 Trial</a> NYT: Guy Reffitt’s 19-year-old son took the stand against him in federal court in a remarkable tableau that captured how one family was split by the attack on the Capitol. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
@@ -333,8 +337,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
- <p class="updated_time"> 04:36 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-ukraine-pandemic-aid.html">White House Requests $32.5 Billion for Pandemic and Ukraine Aid</a> NYT: The emergency spending would support the federal response to the coronavirus and provide military and humanitarian aid for Ukraine. 
  <p class="updated_time"> 04:16 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
