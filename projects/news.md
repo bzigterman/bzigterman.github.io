@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:02 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: Although there was no immediate sign that radiation had leaked, the attack raised fears that Russia’s control of the facility could result in what Ukraine’s president called a catastrophe “worse than Chernobyl.” Across the country, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 04:26 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: There was no immediate sign that radiation had leaked. Across the country, Russian forces are laying siege to cities and trying to control vital ports. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
@@ -27,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/australia/what-to-read-about-the-russia-ukraine-war.html">What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
+ <a href="https://www.nytimes.com/2022/03/04/world/australia/history-ukraine-russia-war-books.html">Here's What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 11:01 PM CT, Mar. 03 </p> 
@@ -55,7 +55,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:30 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60608759?at_medium=RSS&at_campaign=KARANGA">Son of accused 6 January rioters testifies in court</a> BBC: “If you turn me in, you’re a traitor and traitors get shot,” Guy Reffitt is alleged to have told his son. 
  <p class="updated_time"> 07:10 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Russians seize nuclear plant after attack, Ukrainian officials say</a> NPR: The Ukrainian state company that runs the plant said the Russian attack had caused an unknown number of casualties. 
+ <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Russians seize nuclear plant after attack, Ukrainian officials say</a> NPR: The head of the U.N. atomic watchdog says there had been no release of radioactive material following a projectile hitting a building at the plant facility. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 07:06 PM CT, Mar. 03 </p> 
@@ -211,7 +211,13 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
+ <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084448605/a-son-takes-the-stand-against-his-father-in-the-first-trial-related-to-jan-6-rio">A son takes the stand against his father in the first trial related to Jan. 6 riot</a> NPR: The trial of accused Capitol rioter Guy Reffitt continued Thursday with intense video from Jan. 6, and testimony from his son, Jackson, who turned his father in to the FBI. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two audits showing there were no problems with the 2020 presidential election. 
+ <p class="updated_time"> 04:03 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
@@ -327,12 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/russia-ukraine-defense-strategy-pengtagon-00013449">Russia crisis forces Pentagon to rework defense strategy on the fly</a> Politico: The National Defense Strategy was supposed to be rolled out in February. 
  <p class="updated_time"> 04:31 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/corruption-or-socialism-gop-takes-aim-at-south-texas-either-way-00013393">‘Corruption’ or ‘socialism’: GOP takes aim at South Texas either way</a> Politico: National Republicans are vowing to go all in to defeat what they see as a weakened opponent either way. 
- <p class="updated_time"> 04:04 AM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084113686/with-covid-easing-the-white-house-has-a-plan-for-things-to-return-to-normal">With COVID easing, the White House has a plan for things to return to normal</a> NPR: Recognizing COVID-19 will never be eradicated, the strategic plan by the Biden administration aims to manage future outbreaks with improved surveillance, testing and treatment. 
- <p class="updated_time"> 04:04 AM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084113672/morning-news-brief">News brief: Russian military strategy, Jan. 6 panel, post pandemic plan </a> NPR: A review of Russia's strategy in Ukraine. The Jan. 6 panel says it has evidence Trump broke laws trying to overturn the election. As COVID eases, Biden has a plan to get things back to normal. 
- <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1082841586/georgias-race-to-oversee-voting-pits-an-election-denier-against-an-election-defe">Georgia's race to oversee voting pits an election denier against an election defender</a> NPR: Georgia Secretary of State Brad Raffensperger, who denied entreaties to overturn the 2020 race, faces a primary challenge from one of the nation's preeminent election deniers, Rep. Jody Hice, R-Ga. 
  <p class="updated_time"> 07:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/white-house-applicants-weed-companies-00013390">Biden admin to applicants: Maybe don’t invest in weed companies</a> Politico: The new policy underscores how the business of weed, ever more legitimized, is forcing adjustments by the feds. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
@@ -395,10 +395,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/02/25/washington-weighs-ukraine-aid-00011723">Washington weighs Ukraine aid</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:28 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/25/scoop-trump-tries-to-recruit-scott-for-majority-leader-00011720"> Scoop: Trump tries to recruit Scott for majority leader</a> Politico Playbook: And Russian forces enter Kyiv. 
- <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/josh-hawley-ted-cruz-president-00011390">‘If Trump doesn’t run, I think everybody runs’: Hawley and Cruz choose their paths</a> Politico: One denies he’s planning to run for president. The other acts open to the idea. Even in a Senate crowded with potential contenders, the two stick out. 
- <p class="updated_time"> 04:30 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/news/2022/02/25/congress-ukraine-help-bill-00011581">Congress wants to go further for Ukraine. It may be too late.</a> Politico: At least $10 billion in emergency funding is likely to be included in a package to aid Ukraine, with the majority of that money going toward helping refugees, Sen. Chris Coons said. 
 
 
 </details>
