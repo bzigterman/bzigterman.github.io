@@ -8,16 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:06 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
+ <p class="updated_time"> 02:04 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukrainian Officials Say</a> NYT: Ukraine accused Russia of attacking the Zaporizhzhia complex overnight, triggering a blaze and causing global alarm. There was no immediate indication of a rise in radiation levels. 
+ <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615752?at_medium=RSS&at_campaign=KARANGA">Former president of Ukraine sends defiant message to Putin</a> BBC: "You cannot kill Ukrainian soul" says Petro Poroshenko, the former president of Ukraine. 
- <p class="updated_time"> 01:27 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukrainian Officials Say</a> NYT: Ukraine accused Russia of attacking the Zaporizhzhia complex overnight, triggering a blaze and causing global alarm. There was no immediate indication of a rise in radiation levels. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
- <p class="updated_time"> 12:11 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the complex. People in military vehicles appeared to be firing at buildings in the power plant. The blaze was later extinguished. 
- <p class="updated_time"> 11:39 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian attack on nuclear power plant condemned by world leaders</a> BBC: A fire at Europe's largest nuclear power plant after Russian shelling endangered "all of Europe". 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/what-to-read-about-the-russia-ukraine-war.html">What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 08:14 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
+ <p class="updated_time"> 07:50 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60575866?at_medium=RSS&at_campaign=KARANGA">South African rap star dies aged 34</a> BBC: Riky Rick was one of South Africa's top rappers but there was always a hidden side to his fame. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084409254/tens-of-thousands-of-ukrainians-can-stay-in-the-u-s-without-fear-of-deportation">Tens of thousands of Ukrainians can stay in the U.S. without fear of deportation</a> NPR: The Biden administration will grant temporary protection from deportation to tens of thousands of Ukrainians who are already living in the U.S., the Department of Homeland Security announced. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
@@ -133,10 +135,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:46 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/at-ukrainian-border-overwhelmed-guards-volunteers-confront-exodus-of-refugees-fleeing-war-11646320646">Russia's War on Ukraine Has Created Over 1 Million Refugees in Just a Week</a> WSJ: Many people fleeing the country have headed to Poland. It has taken a procession of volunteers on both sides of the border to manage the continent’s biggest refugee crisis since World War II. 
  <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60607649?at_medium=RSS&at_campaign=KARANGA">Deep in Ukraine forests, amateurs prepare for Russia fight</a> BBC: Deep in the forests outside Ukraine's capital Kyiv amateur fighters prepare for the battlefield. 
- <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60603226?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why so many African and Indian students were in the country</a> BBC: The thousands of foreign students who have fled the conflict are wondering what to do next. 
- <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/putin-thought-ukraine-would-fall-quickly-an-airport-battle-proved-him-wrong-11646343121">Putin Thought Ukraine Would Fall Quickly. An Airport Battle Proved Him Wrong.</a> WSJ: Russia wanted to use Hostomel Airport outside Kyiv to bring troops directly to the capital. A band of Ukrainian soldiers fought to keep the Russians from using the landing strip, forcing them to move soldiers and supplies over land. 
  <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/council-of-europe-russia-suspension.html">Council of Europe Suspends Russia for Its Attack on Ukraine</a> NYT: Marija Pejcinovic Buric, the institution’s secretary general, calls the invasion ‘a dark hour for Europe and everything it stands for.’ 
@@ -160,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
  <p class="updated_time"> 04:40 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/china-russia-xi-putin-ukraine-war-11646279098">China Declared Its Russia Friendship Had 'No Limits.' It's Having Second Thoughts.</a> WSJ: Xi Jinping wanted Vladimir Putin to join in a united front against the U.S., and he got it Feb. 4. Now the Ukraine war threatens to undo Beijing’s yearslong effort to become a world leader. 
- <p class="updated_time"> 04:34 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60600983?at_medium=RSS&at_campaign=KARANGA">Ukraine: Pensioner arrested at anti-war protest in Russia</a> BBC: Elderly activist Yelena Osipova is detained after protesting against Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
