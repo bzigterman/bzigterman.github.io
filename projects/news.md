@@ -8,30 +8,30 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:00 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 07:23 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 07:08 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60609633?at_medium=RSS&at_campaign=KARANGA">How dangerous was the nuclear plant attack?</a> BBC: Russia's invasion of Ukraine poses serious safety concerns at its nuclear power plants. 
+ <p class="updated_time"> 07:07 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 06:58 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 06:52 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">At Least 57 Dead in Pakistan After Mosque Attack</a> NYT: At least 57 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in Peshawar, in northwestern Pakistan. 
  <p class="updated_time"> 06:08 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">The 2022 Winter Paralympics are starting now with an opening ceremony in Beijing</a> NPR: Around 700 athletes are competing in this year's events, which run through March 13. Here's what to expect and how to watch. 
- <p class="updated_time"> 06:06 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-60609633?at_medium=RSS&at_campaign=KARANGA">How dangerous was the nuclear plant attack?</a> BBC: Russia's invasion of Ukraine poses serious safety concerns at its nuclear power plants. 
  <p class="updated_time"> 06:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084161024/the-battle-for-ukraine-could-test-the-limits-of-closer-ties-between-china-and-ru">The battle for Ukraine could test the limits of closer ties between China and Russia</a> NPR: The Cold War rivals have grown much closer in recent years. But China's ties to Russia are now becoming a bigger liability than Beijing expected. 
  <p class="updated_time"> 05:56 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60616946?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families run for cover as Russian air strikes hit Chernihiv</a> BBC: Residents of Chernihiv and other cities say apartments, hospitals and schools are being destroyed. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/fire-at-a-ukrainian-nuclear-plant-is-out-but-russian-troops-take-control-of-the-site.html">Fire at Ukrainian Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/nuclear-plant-fire.html">Fire at Ukrainian Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
  <p class="updated_time"> 04:44 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084453424/at-least-30-killed-after-mosque-bombed-in-northwest-pakistan">At least 30 people are killed after a mosque is bombed in northwest Pakistan</a> NPR: The bombing was the latest act of violence in majority Sunni Muslim Pakistan, where minority Shiite Muslims have come under repeated attacks. 
  <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
  <p class="updated_time"> 04:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60617108?at_medium=RSS&at_campaign=KARANGA">Pakistan bombing kills dozens in Shia mosque in Peshawar</a> BBC: A bombing inside a Shia mosque in the city of Peshawar kills at least 30 people and wounds many more. 
- <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
@@ -75,7 +75,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:30 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60608759?at_medium=RSS&at_campaign=KARANGA">Son of accused 6 January rioters testifies in court</a> BBC: “If you turn me in, you’re a traitor and traitors get shot,” Guy Reffitt is alleged to have told his son. 
  <p class="updated_time"> 07:10 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Russians seize nuclear plant after attack, Ukrainian officials say</a> NPR: The head of the U.N. atomic watchdog says there was no release of radioactive material after a projectile hit a building at the plant facility. 
+ <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Russian forces in Ukraine attack and seize Europe's largest nuclear power plant</a> NPR: The head of the U.N. atomic watchdog says there was no release of radioactive material after a projectile hit a building at the plant facility. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 07:06 PM CT, Mar. 03 </p> 
@@ -387,8 +387,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/02/26/the-politics-of-the-jackson-pick-00012085"> The politics of the Jackson pick</a> Politico Playbook: And outnumbered Ukrainian forces hold Kyiv. 
  <p class="updated_time"> 04:07 PM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
- <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/25/washington-weighs-ukraine-aid-00011723">Washington weighs Ukraine aid</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
