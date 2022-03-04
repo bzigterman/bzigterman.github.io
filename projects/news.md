@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 03:04 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as part of a clampdown on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 02:55 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
  <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Founder of Anti-Vaccine Group Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
+ <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Founder of Anti-Covid-Vaccine Group Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
  <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Chess Distances Itself From Russia</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. 
- <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
  <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html">Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent</a> NYT: The step could signal further restrictions against other tech companies such as Google, which owns YouTube, and Twitter. Both have also been under pressure by the Russian government. 
  <p class="updated_time"> 02:29 PM CT, Mar. 04 </p> 
@@ -268,7 +268,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/cartoons/2022/03/04/the-nations-cartoonists-on-the-week-in-politics-00014016">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two audits showing there were no problems with the 2020 presidential election. 
+ <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two reviews showing there were no problems with the 2020 presidential election. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
