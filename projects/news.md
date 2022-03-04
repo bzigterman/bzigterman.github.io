@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:15 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 03:36 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: Across the country, Russian forces are pressing ahead, particularly in the south, laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 03:17 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
  <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take nuclear plant but Kyiv advance slows</a> BBC: Russia seizes power plant in Ukraine as the assault on the country intensifies. 
- <p class="updated_time"> 02:06 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
@@ -41,7 +41,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:14 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
  <p class="updated_time"> 07:50 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60575866?at_medium=RSS&at_campaign=KARANGA">South African rap star dies aged 34</a> BBC: Riky Rick was one of South Africa's top rappers but there was always a hidden side to his fame. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60575866?at_medium=RSS&at_campaign=KARANGA">Fans mourn South African rap star Riky Rick</a> BBC: Riky Rick was one of South Africa's top rappers but there was always a hidden side to his fame. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084409254/tens-of-thousands-of-ukrainians-can-stay-in-the-u-s-without-fear-of-deportation">Tens of thousands of Ukrainians can stay in the U.S. without fear of deportation</a> NPR: The Biden administration will grant temporary protection from deportation to tens of thousands of Ukrainians who are already living in the U.S., the Department of Homeland Security announced. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
@@ -311,8 +311,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084113700/jan-6-panels-evidence-suggests-trump-broke-laws-trying-to-overturn-the-election">Jan. 6 panel's evidence suggests Trump broke laws trying to overturn the election</a> NPR: NPR's A Martinez talks to Democratic Rep. Adam Schiff of California, a member of the committee, about the panel's 221-page court filing, and where the investigation is headed from here. 
- <p class="updated_time"> 06:34 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/us/politics/trump-criminal-charges-jan-6.html">Jan. 6 Committee Lays Out Potential Criminal Charges Against Trump</a> NYT: In a court filing, the panel said there was enough evidence to suggest that the former president might have engaged in a criminal conspiracy as he fought to remain in office. 
  <p class="updated_time"> 06:28 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084121540/the-jan-6-panel-says-trump-likely-broke-laws-in-trying-to-overturn-the-election">The Jan. 6 panel says Trump likely broke laws in trying to overturn the election </a> NPR: In a court filing, the select committee says evidence "provides, at minimum, a good-faith basis for concluding" that Trump broke the law with his efforts to obstruct the counting of electoral votes. 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
