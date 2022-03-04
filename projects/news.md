@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:55 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 03:15 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: Across the country, Russian forces are pressing ahead, particularly in the south, laying siege to cities and trying to control vital ports. 
  <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take nuclear plant but Kyiv advance slows</a> BBC: Russia seizes power plant in Ukraine as the assault on the country intensifies. 
