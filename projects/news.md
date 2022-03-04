@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:21 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 12:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and in Kyiv, residents abandoned their cars at the main train station as they tried to flee ahead of a feared assault. Anxiety over a captured nuclear plant eased when a raging fire was extinguished. 
+ <p class="updated_time"> 12:37 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60625925?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians living in Poland return home to aid war effort</a> BBC: The BBC's Mark Lowen is at the Polish border with Ukrainians hoping to aid Ukraine's war effort. 
+ <p class="updated_time"> 12:30 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
  <p class="updated_time"> 12:21 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Steps Up Censorship With Law Against ‘False Information’</a> NYT: Calling the war in Ukraine a “war” in social media, print or broadcast will be a crime punishable by up to 15 years in jail. Russia also blocked access to foreign news sites. 
+ <p class="updated_time"> 12:17 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60585720?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russians on boycotts, sanctions and cancellations</a> BBC: Russia is being hit by a global backlash after it invaded Ukraine. How does it feel to be shunned? 
  <p class="updated_time"> 12:16 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084548984/lindsey-graham-putin">Sen. Lindsey Graham's apparent call for Putin to be assassinated draws backlash</a> NPR: "The only way this ends is for somebody in Russia to take this guy out," the South Carolina Republican said. Democrats and Republicans denounced the suggestion. 
  <p class="updated_time"> 12:12 PM CT, Mar. 04 </p> 
@@ -26,12 +32,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60624642?at_medium=RSS&at_campaign=KARANGA">Supreme Court reimposes death penalty for Boston bomber</a> BBC: The US Supreme Court has reversed an earlier decision to void Dzhokhar Tsarnaev's death penalty. 
  <p class="updated_time"> 11:30 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60578293?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Russian soldiers killed my family while they fled'</a> BBC: The Fedko family was trying to flee fighting when Russian troops allegedly opened fire on their car. 
- <p class="updated_time"> 11:28 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
  <p class="updated_time"> 11:14 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60616800?at_medium=RSS&at_campaign=KARANGA">Freeman Mbowe: Tanzania's opposition leader finally released</a> BBC: The release of Freeman Mbowe could herald the end of political repression, analysts say. 
  <p class="updated_time"> 11:03 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/monique-hanotte-dead.html">Monique Hanotte, Savior of Allied Airmen, Dies at 101</a> NYT: Using her knowledge of the Belgium-France border and quick thinking, she guided dozens of downed Allied airmen to safety during World War II. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/business/economy/china-economy-congress-explained.html">China’s  Legislative Session to Focus on Economy </a> NYT: Russia’s invasion of Ukraine is likely to go almost unmentioned at an annual gathering of China’s legislature, as leaders focus on stabilizing economic growth. 
  <p class="updated_time"> 10:52 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/lindsey-graham-putin-russia.html">Lindsey Graham Says of Putin: Someone in Russia Should ‘Take This Guy Out’</a> NYT: The comments drew sharp rebukes from other Republicans. 
  <p class="updated_time"> 10:44 AM CT, Mar. 04 </p> 
@@ -160,8 +166,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/war-crimes-russia-ukraine-icc.html">I.C.C. Prosecutor Fast-Tracks War Crimes Investigation in Ukraine</a> NYT: The prosecutor said the investigation would encompass “allegations of war crimes, crimes against humanity or genocide committed” in Ukraine. 
  <p class="updated_time"> 11:48 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
- <p class="updated_time"> 11:29 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-60608702?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Reunions and warm welcomes for refugees at Berlin train station</a> BBC: Crowds of volunteers were there to help the new arrivals, with many offering the refugees rooms in their houses. 
  <p class="updated_time"> 11:00 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/putin-macron-call.html">After Putin-Macron Call, France Sees Russia Wanting 'All Ukraine'</a> NYT: On the call, the Russian president said that his goal, “the demilitarization and neutral status of Ukraine,” would be achieved “no matter what,” according to the Kremlin. 
  <p class="updated_time"> 10:48 AM CT, Mar. 03 </p> 
@@ -176,8 +180,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
- <p class="updated_time"> 04:28 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/business/us-ukraine-belarus-technology-restrictions.html">The U.S. extends technology restrictions to Belarus and the Russian oil industry.</a> NYT: The Biden administration said the measures would degrade the ability to wage war on Ukraine and would prevent Belarus from channeling forbidden goods to Russia. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Hundreds Held After New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
  <p class="updated_time"> 12:19 AM CT, Mar. 03 </p> 
@@ -230,13 +232,13 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:26 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/ukraine-funneling-weapons-military-aid-00014189">The Ukraine ‘rat line’: How the U.S. and British are funneling weapons to kill Russians</a> Politico: The decision to ship the supplies by road into Ukraine has emerged as a remarkable wartime improvisation, made necessary by the inability to fly aid into the country. 
  <p class="updated_time"> 10:25 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084514764/supreme-court-boston-bomber-death-sentence">Supreme Court reimposes death sentence for Boston bomber</a> NPR: The Supreme Court was reviewing the decision of a federal appeals court in Boston that overturned the death sentence imposed on Dzokhar Tsarnaev. The 2013 attack killed three people. 
+ <a href="https://www.npr.org/2022/03/04/1084514764/supreme-court-boston-bomber-death-sentence">Supreme Court reimposes death sentence for Boston bomber</a> NPR: The Supreme Court reversed a federal appeals court in Boston that had overturned Dzokhar Tsarnaev's death sentence. The 2013 attack killed three people. 
  <p class="updated_time"> 10:24 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/white-house-endorses-cyber-incident-reporting-bill-00014177">White House endorses cyber incident reporting bill that DOJ criticized</a> Politico: The White House’s statement late Thursday came just a day after senior leaders of the Justice Department and the FBI sharply criticized the bill for not requiring hack reports to go jointly to CISA and the bureau. 
  <p class="updated_time"> 09:29 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/supreme-court-death-sentence-boston-marathon-bomber.html">Supreme Court Restores Death Sentence for Boston Marathon Bomber</a> NYT: The Biden administration, which announced a moratorium on federal executions, has pursued the case against Dzhokhar Tsarnaev, who helped carry out the 2013 bombings. 
  <p class="updated_time"> 09:16 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">Decades of Neglect Leave I.R.S. in Tax Season ‘Chaos’</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
  <p class="updated_time"> 09:11 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 08:52 AM CT, Mar. 04 </p> 
@@ -323,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084278181/transgender-girls-and-women-now-barred-from-female-sports-in-iowa">Transgender girls and women now barred from female sports in Iowa</a> NPR: The ban takes effect immediately. The ban applies to K-12 schools and community colleges as well as colleges and universities that are part of the NCAA or NAIA. 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
- <p class="updated_time"> 02:01 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/doug-ducey-arizona-senate.html">Arizona Gov. Doug Ducey Confirms He Will Not Run for Senate</a> NYT: Senator Mitch McConnell had been trying to recruit Gov. Doug Ducey of Arizona to run, but former President Donald J. Trump had warned him against it. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
  <p class="updated_time"> 01:42 PM CT, Mar. 03 </p> 
