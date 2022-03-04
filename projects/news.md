@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:46 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 08:05 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
  <p class="updated_time"> 07:43 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
@@ -205,6 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:52 AM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/news/2022/03/04/jobs-february-economy-00014160">U.S. added 678,000 jobs in February in sign of economic health</a> Politico: The Labor Department’s report also showed that the unemployment rate dropped from 4 percent to 3.8 percent. 
  <p class="updated_time"> 07:37 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084299987/employers-jobs-february-labor-market-workers">The U.S. added 678,000 jobs in February. It's another sign of a hot labor market</a> NPR: U.S. employers added 678,000 jobs in February, as the unemployment rate fell to 3.8%, from 4% in January. The Federal Reserve hopes to curb inflation without stalling job growth. 
  <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
@@ -347,8 +349,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/03/02/politics/texas-2022-primary-election-takeaways/index.html">6 takeaways from the Texas primaries</a> CNN: Two of the biggest names in Texas politics could be headed to overtime in their efforts to fend off primary challengers. 
  <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
- <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
