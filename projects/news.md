@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to civilian “corridors” as fighting continued. 
+ <p class="updated_time"> 11:09 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the complex. People in military vehicles appeared to be firing at buildings in the power plant. The blaze later went out. 
+ <p class="updated_time"> 11:05 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian attack on nuclear power plant condemned by world leaders</a> BBC: A fire at Europe's largest nuclear power plant after Russian shelling endangered "all of Europe". 
+ <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
- <p class="updated_time"> 10:53 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to civilian “corridors” as fighting continued. 
- <p class="updated_time"> 10:41 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the power complex near a line of military vehicles. People in the vehicles appeared to be firing at buildings in the power plant. 
  <p class="updated_time"> 10:37 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
  <p class="updated_time"> 10:33 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
- <p class="updated_time"> 10:25 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 10:10 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
  <p class="updated_time"> 09:58 PM CT, Mar. 03 </p> 
@@ -44,10 +46,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084414196/russian-troops-are-attacking-zaporizhzhia-nuclear-power-plant">Russian troops are attacking Zaporizhzhia Nuclear Power Plant</a> NPR: Russian troops appear to be at the entrance of Ukraine's Zaporizhzhia Nuclear Power Plant and are engaged in active combat. Footage shows what looks like a fire in one of its administrative buildings. 
  <p class="updated_time"> 06:20 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60603406?at_medium=RSS&at_campaign=KARANGA">Ukraine: The race to save the country's artistic treasures</a> BBC: As the Russian invasion continues, efforts to protect Ukraine's cultural heritage are stepped up. 
+ <p class="updated_time"> 06:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</a> WSJ: A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky. 
  <p class="updated_time"> 06:08 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60612255?at_medium=RSS&at_campaign=KARANGA">Ukraine: On board a Nato spy plane monitoring Russian activity</a> BBC: The BBC has been given rare access to a surveillance flight on the Polish border with Ukraine and Belarus. 
- <p class="updated_time"> 05:31 PM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</a> WSJ: A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
  <p class="updated_time"> 05:01 PM CT, Mar. 03 </p> 
@@ -136,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/french-president-emmanuel-macron-declares-run-for-re-election-11646335861">France's Macron Declares Run for Re-Election</a> WSJ: The announcement kicks off a campaign that has been overshadowed by the war in Ukraine, a conflict in which the president’s diplomatic efforts have lifted his political standing. 
  <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Here's How the Russia-Ukraine War Is Evolving</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
- <p class="updated_time"> 09:08 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60603447?at_medium=RSS&at_campaign=KARANGA">Abdullah al-Howaiti: Saudi child 'offender' sentenced to death at retrial</a> BBC: Activists say Abdullah al-Howaiti had an alibi for a murder that happened when he was aged 14. 
  <p class="updated_time"> 09:04 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/u-n-report-shows-iran-has-almost-enough-highly-enriched-uranium-for-a-nuclear-bomb-11646316141">Iran, U.S. Close to Reviving Iranian Nuclear Deal</a> WSJ: Talks advance in Vienna while U.N. atomic agency reports Iran has almost enough near-weapons-grade nuclear fuel for a bomb. 
  <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
@@ -213,12 +213,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 10:32 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/florida-abortion-ban-desantis-00014102">Florida lawmakers approve strictest abortion ban in state’s history</a> Politico: The bill provides no exceptions for victims of rape, incest or human trafficking. 
- <p class="updated_time"> 10:25 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 09:43 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ken-duberstein-dead.html">Ken Duberstein, a Former Reagan Chief of Staff, Dies at 77</a> NYT: He helped revive the Reagan presidency in its last years and became a respected lobbyist in Washington. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
