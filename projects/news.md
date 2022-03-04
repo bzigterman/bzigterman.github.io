@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:36 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: Across the country, Russian forces are pressing ahead, particularly in the south, laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 03:48 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: Although there was no immediate sign that radiation had leaked, the attack raised fears that Russia’s control of the facility could result in what Ukraine’s president called a catastrophe “worse than Chernobyl.” Across the country, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60615753?at_medium=RSS&at_campaign=KARANGA">WATCH: Russian TV staff walk off set after final broadcast</a> BBC: Channel TV Rain stops operating after coming under pressure over its coverage of the war in Ukraine. 
  <p class="updated_time"> 03:17 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
  <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
@@ -110,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
- <p class="updated_time"> 01:40 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60611985?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Telling my children why dad joined the war - Kyiv mother</a> BBC: Olena Gnes says it is important for her children to know their father joined Ukraine's defence unit. 
  <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/arts/television/lupin-netflix-theft.html">‘Lupin,’ Netflix’s French Heist Drama, Is the Victim of a Theft</a> NYT: Equipment valued at more than $300,000 was stolen from the set of the hit series during filming in a Paris suburb last week. 
  <p class="updated_time"> 01:25 PM CT, Mar. 03 </p> 
