@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:29 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 11:36 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to establishing civilian “corridors” as fighting continued. 
- <p class="updated_time"> 11:09 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 11:36 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the complex. People in military vehicles appeared to be firing at buildings in the power plant. The blaze later went out. 
+ <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/australia/what-to-read-about-the-russia-ukraine-war.html">What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:05 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian attack on nuclear power plant condemned by world leaders</a> BBC: A fire at Europe's largest nuclear power plant after Russian shelling endangered "all of Europe". 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
@@ -39,7 +41,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:30 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60608759?at_medium=RSS&at_campaign=KARANGA">Son of accused 6 January rioters testifies in court</a> BBC: “If you turn me in, you’re a traitor and traitors get shot,” Guy Reffitt is alleged to have told his son. 
  <p class="updated_time"> 07:10 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">A contested Ukrainian nuclear plant is under attack by Russian forces</a> NPR: Security footage from the plant shows what appear to be Russian troops engaged in active combat on the site. Video also shows what appears to be a fire in one of the plant's administrative buildings. 
+ <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Fire burns at Ukrainian nuclear facility following Russian attack</a> NPR: Security footage from the plant showed what appeared to be a fire in one of the plant's administrative buildings. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 07:06 PM CT, Mar. 03 </p> 
@@ -170,8 +172,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/trains-russia-finland.html">High-Speed Trains Departing Russia for Finland Are Packed</a> NYT: Once starved for passengers, the trains are now full, and negotiations are underway between state-owned Finnish and Russian rail companies to increase the service. 
  <p class="updated_time"> 11:21 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russian-oligarchs-justice-department.html">Justice Dept. Announces Task Force to Go After Russian Oligarchs</a> NYT: The task force adds to the raft of actions that Western leaders have taken in recent days in an effort to undercut Vladimir V. Putin and the politically connected elite in Russia. 
- <p class="updated_time"> 11:00 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-orthodox-church.html">Also at Stake in Ukraine: the Future of Two Orthodox Churches</a> NYT: The Russian church hopes to reunite with the independent Ukrainian branch under a single patriarch in Moscow that would allow it to control the holiest sites of Orthodoxy in the Slavic world. 
  <p class="updated_time"> 10:59 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/nato-weapons-ukraine-russia.html">NATO Countries Pour Weapons Into Ukraine, Risking Conflict With Russia</a> NYT: Brussels is proud to be providing military aid, but Moscow may see it as a dangerous intervention. 
  <p class="updated_time"> 10:01 PM CT, Mar. 02 </p> 
