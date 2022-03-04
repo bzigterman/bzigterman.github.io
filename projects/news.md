@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:34 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukrainian Officials Say</a> NYT: Ukraine accused Russia of attacking the Zaporizhzhia complex overnight, triggering a blaze and causing global alarm. There was no immediate indication of a rise in radiation levels. 
+ <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take nuclear plant but Kyiv advance slows</a> BBC: Russia seizes power plant in Ukraine as the assault on the country intensifies. 
  <p class="updated_time"> 02:06 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
- <p class="updated_time"> 02:04 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukrainian Officials Say</a> NYT: Ukraine accused Russia of attacking the Zaporizhzhia complex overnight, triggering a blaze and causing global alarm. There was no immediate indication of a rise in radiation levels. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
@@ -47,7 +49,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:30 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60608759?at_medium=RSS&at_campaign=KARANGA">Son of accused 6 January rioters testifies in court</a> BBC: “If you turn me in, you’re a traitor and traitors get shot,” Guy Reffitt is alleged to have told his son. 
  <p class="updated_time"> 07:10 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Fire burns at Ukrainian nuclear facility following Russian attack</a> NPR: Security footage from the plant showed what appeared to be a fire in one of the plant's administrative buildings. 
+ <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Russians seize nuclear plant after attack, Ukrainian officials say</a> NPR: The Ukrainian state company that runs the plant said the Russian attack had caused an unknown number of casualties. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 07:06 PM CT, Mar. 03 </p> 
@@ -57,7 +59,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:12 PM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</a> WSJ: A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky. 
  <p class="updated_time"> 06:08 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60612255?at_medium=RSS&at_campaign=KARANGA">Ukraine: On board a Nato spy plane monitoring Russian activity</a> BBC: The BBC has been given rare access to a surveillance flight on the Polish border with Ukraine and Belarus. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60612255?at_medium=RSS&at_campaign=KARANGA">Ukraine: On board a Nato surveillance plane monitoring Russian activity</a> BBC: The BBC has been given rare access to a surveillance flight on the Polish border with Ukraine and Belarus. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
  <p class="updated_time"> 05:01 PM CT, Mar. 03 </p> 
@@ -108,10 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
  <p class="updated_time"> 02:03 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
- <p class="updated_time"> 01:56 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take Kherson but Kyiv advance slows</a> BBC: Russia takes control of its first major city as the assault on the country intensifies. 
- <p class="updated_time"> 01:51 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60532632?at_medium=RSS&at_campaign=KARANGA">Dramatic footage captures freezing labradoodle's river rescue</a> BBC: A labradoodle was stuck on drifting river ice in Michigan. Rescuers pulled the dog to safety. 
  <p class="updated_time"> 01:40 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60611985?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Telling my children why dad joined the war - Kyiv mother</a> BBC: Olena Gnes says it is important for her children to know their father joined Ukraine's defence unit. 
  <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
@@ -126,6 +124,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Ukraine War Disrupts the Quiet World of Chess</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. Elite players there have condemned the invasion. 
  <p class="updated_time"> 11:48 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
+ <p class="updated_time"> 11:29 AM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60608702?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Reunions and warm welcomes for refugees at Berlin train station</a> BBC: Crowds of volunteers were there to help the new arrivals, with many offering the refugees rooms in their houses. 
  <p class="updated_time"> 11:19 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60607782?at_medium=RSS&at_campaign=KARANGA">Young girl returned after kidnapping by man she met on Roblox</a> BBC: US police said: "We're truly lucky we found this young girl and she was alive." 
  <p class="updated_time"> 11:00 AM CT, Mar. 03 </p> 
