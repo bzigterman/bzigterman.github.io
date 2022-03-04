@@ -429,21 +429,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">82</td>
-<td class="gt_row gt_right">27</td>
-<td class="gt_row gt_right">&minus;67%</td></tr>
+<td class="gt_row gt_right">72</td>
+<td class="gt_row gt_right">25</td>
+<td class="gt_row gt_right">&minus;65%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">64</td>
+<td class="gt_row gt_right gt_striped">45</td>
 <td class="gt_row gt_right gt_striped">27</td>
-<td class="gt_row gt_right gt_striped">&minus;58%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;40%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">40</td>
-<td class="gt_row gt_right">22</td>
-<td class="gt_row gt_right">&minus;45%</td></tr>
+<td class="gt_row gt_right">20</td>
+<td class="gt_row gt_right">&minus;50%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">220</td>
-<td class="gt_row gt_right gt_striped">182</td>
-<td class="gt_row gt_right gt_striped">&minus;17%</td></tr>
+<td class="gt_row gt_right gt_striped">189</td>
+<td class="gt_row gt_right gt_striped">169</td>
+<td class="gt_row gt_right gt_striped">&minus;11%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">132,000</td>
 <td class="gt_row gt_right">133,000</td>
@@ -455,7 +455,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
@@ -892,21 +892,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">3.3K</td>
-<td class="gt_row gt_right">1.6K</td>
-<td class="gt_row gt_right">&minus;51%</td></tr>
+<td class="gt_row gt_right">3.0K</td>
+<td class="gt_row gt_right">1.5K</td>
+<td class="gt_row gt_right">&minus;50%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">1.6K</td>
-<td class="gt_row gt_right gt_striped">880</td>
-<td class="gt_row gt_right gt_striped">&minus;45%</td></tr>
+<td class="gt_row gt_right gt_striped">1.5K</td>
+<td class="gt_row gt_right gt_striped">840</td>
+<td class="gt_row gt_right gt_striped">&minus;44%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">65</td>
-<td class="gt_row gt_right">44</td>
-<td class="gt_row gt_right">&minus;33%</td></tr>
+<td class="gt_row gt_right">60</td>
+<td class="gt_row gt_right">39</td>
+<td class="gt_row gt_right">&minus;35%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">20K</td>
-<td class="gt_row gt_right gt_striped">13K</td>
-<td class="gt_row gt_right gt_striped">&minus;36%</td></tr>
+<td class="gt_row gt_right gt_striped">12K</td>
+<td class="gt_row gt_right gt_striped">&minus;37%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">8.1M</td>
 <td class="gt_row gt_right">8.1M</td>
@@ -918,7 +918,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   
@@ -1869,8 +1869,8 @@ html {
 
 As of Thursday, the 14-day percent change in average new cases was:
   
-- -67% in Champaign County
-- -51% in Illinois
+- -65% in Champaign County
+- -50% in Illinois
 - -53% in the United States
 - -24% worldwide
 
@@ -1886,7 +1886,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Thursday, the 14-day percent change in average new deaths was:
   
-- -33% in Illinois
+- -35% in Illinois
 - -31% in the United States
 - -29% worldwide
 
