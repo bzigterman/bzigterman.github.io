@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:48 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 04:02 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: Although there was no immediate sign that radiation had leaked, the attack raised fears that Russia’s control of the facility could result in what Ukraine’s president called a catastrophe “worse than Chernobyl.” Across the country, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615753?at_medium=RSS&at_campaign=KARANGA">WATCH: Russian TV staff walk off set after final broadcast</a> BBC: Channel TV Rain stops operating after coming under pressure over its coverage of the war in Ukraine. 
  <p class="updated_time"> 03:17 AM CT, Mar. 04 </p> 
@@ -100,8 +104,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60606539?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day eight</a> BBC: Cities under relentless bombardment. Here's what you need to know after day eight of the war. 
  <p class="updated_time"> 03:19 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084151893/books-about-ukraine">Read these 6 books about Ukraine</a> NPR: The Russian invasion has sparked an interest in books about Ukraine. There are many out there. If you're not sure where to get started, we've got you covered. 
- <p class="updated_time"> 02:55 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/sections/deceptivecadence/2022/03/03/1084246378/arts-organizations-putin-supporters">As performing artists denounce or stay allied with Putin, history offers some lessons</a> NPR: While Russian artists and institutions grapple with how they are viewed internationally, American cultural organizations make what amounts to foreign policy decisions. 
  <p class="updated_time"> 02:52 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60607790?at_medium=RSS&at_campaign=KARANGA">Biden imposes sanctions on Russian oligarchs, 'Putin's cronies'</a> BBC: President Putin's spokesman is one of the latest Russians targeted in the new round of sanctions. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
@@ -209,6 +211,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1083494267/some-deride-d-c-as-a-swamp-to-others-its-an-idealistic-place-to-do-good">Some deride D.C. as a swamp. To others, it's an idealistic place to do good</a> NPR: Sure, there are some in Washington hoping to enrich themselves with federal contracts and to corruptly influence policy, but many are drawn, as one resident says, to make the world a better place. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 12:12 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084440962/florida-republicans-send-15-week-abortion-ban-to-governor">Florida Republicans send 15-week abortion ban to governor</a> NPR: The measure in Florida comes as Republicans across the country move to tighten access to the procedure. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
@@ -243,8 +253,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/georgia-secretary-of-state-race.html">In Georgia's Secretary of State Race, 2020 Is Still on the Ballot</a> NYT: A normally sleepy secretary of state race has become a critical barometer of Republicans’ views of the last election — and of Trump. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
- <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them, he said. 
  <p class="updated_time"> 04:47 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/energy-environment/lukoil-russia-oil-ukraine.html">Lukoil, a Russian Oil Company, Calls for an End to the Ukraine War</a> NYT: The company, which has more than 200 gas stations in the U.S., acted as lawmakers in Washington were seeking to block Russian oil imports. 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
@@ -325,12 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084113672/morning-news-brief">News brief: Russian military strategy, Jan. 6 panel, post pandemic plan </a> NPR: A review of Russia's strategy in Ukraine. The Jan. 6 panel says it has evidence Trump broke laws trying to overturn the election. As COVID eases, Biden has a plan to get things back to normal. 
  <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1082841586/georgias-race-to-oversee-voting-pits-an-election-denier-against-an-election-defe">Georgia's race to oversee voting pits an election denier against an election defender</a> NPR: Georgia Secretary of State Brad Raffensperger, who denied entreaties to overturn the 2020 race, faces a primary challenge from one of the nation's preeminent election deniers, Rep. Jody Hice, R-Ga. 
- <p class="updated_time"> 04:00 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/magazine/rashida-tlaib.html">What Rashida Tlaib Represents</a> NYT: She changed the Israeli-Palestinian debate in Congress by reminding her colleagues of the human stakes. It’s a burden she would rather not carry. 
- <p class="updated_time"> 09:58 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084100763/1-million-refugees-fled-ukraine">A million people have fled Ukraine as Russia nears takeover of port city</a> NPR: The new total of refugees from Ukraine amounts to a little more than 2% of the country's total population of 44 million. 
- <p class="updated_time"> 08:57 PM CT, Mar. 02 </p> 
- <a href="https://www.npr.org/2022/03/02/1084098799/trump-select-committee-capitol-insurrection-conspiracy">Jan. 6 panel says it has evidence Trump broke laws in trying to overturn the election</a> NPR: The Democratic-led House select committee says it "has a good-faith basis for concluding that the President and members of his Campaign engaged in a criminal conspiracy to defraud the United States." 
  <p class="updated_time"> 07:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/white-house-applicants-weed-companies-00013390">Biden admin to applicants: Maybe don’t invest in weed companies</a> Politico: The new policy underscores how the business of weed, ever more legitimized, is forcing adjustments by the feds. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
