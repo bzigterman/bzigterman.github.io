@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:23 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 07:33 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
  <p class="updated_time"> 07:08 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-60609633?at_medium=RSS&at_campaign=KARANGA">How dangerous was the nuclear plant attack?</a> BBC: Russia's invasion of Ukraine poses serious safety concerns at its nuclear power plants. 
@@ -36,14 +36,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615753?at_medium=RSS&at_campaign=KARANGA">WATCH: Russian TV staff walk off set after final broadcast</a> BBC: Channel TV Rain stops operating after coming under pressure over its coverage of the war in Ukraine. 
+ <p class="updated_time"> 02:25 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take nuclear plant but Kyiv advance slows</a> BBC: Russia seizes power plant in Ukraine as the assault on the country intensifies. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615752?at_medium=RSS&at_campaign=KARANGA">Former president of Ukraine sends defiant message to Putin</a> BBC: "You cannot kill Ukrainian soul" says Petro Poroshenko, the former president of Ukraine. 
- <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
  <p class="updated_time"> 12:16 AM CT, Mar. 04 </p> 
@@ -53,7 +53,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 11:01 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-60613863?at_medium=RSS&at_campaign=KARANGA">Europe's largest nuclear plant shelled in Ukraine</a> BBC: Zaporizhzhia nuclear plant is hit during shelling in Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-60613863?at_medium=RSS&at_campaign=KARANGA">Europe's largest nuclear plant shelled in Ukraine</a> BBC: Security camera footage from the Zaporizhzhia nuclear plant appears to show a fire at the facility. 
  <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 10:33 PM CT, Mar. 03 </p> 
@@ -214,9 +214,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/an-insiders-look-into-putins-long-game-00014108">An insider’s look into Putin’s long game</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to CNN’s Matthew Chance about agenda-setting reporting on Russia’s war on Ukraine and former national security adviser Tom Donilon about the relationship between information and Putin’s invasion. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump warms to Greitens, shaking up endorsement race in Missouri</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
+ <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">U.S. tech giants don’t have much money on the line as they split from Russia</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
+ <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">How shunning Russia could offer the U.S. tech giants an easy win</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/irs-filing-season-child-tax-credit-00012876">Fearing filing season chaos, IRS hits pause on web tool for Child Tax Credit</a> Politico: The decision has disappointed some advocates for low-income people, who fear it will mean some will face long waits for assistance or miss out on the payments altogether. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
