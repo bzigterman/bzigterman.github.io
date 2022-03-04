@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:24 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 03:34 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as part of a clampdown on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084627249/ukrainian-rabbis-try-to-offer-safety-and-shelter">Ukrainian rabbis try to offer safety and shelter</a> NPR: All over Ukraine, the attacks from Russia are taking a toll on the people. The Jewish community is turning to their rabbis for shelter and security. 
+ <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084627242/thousands-remain-separated-from-their-families-5-years-after-trumps-travel-ban">Thousands remain separated from their families 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
+ <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084627235/how-ukraines-private-sector-has-shifted-to-help-in-the-war-effort">How Ukraine's private sector has shifted to help in the war effort</a> NPR: Ternopil, a town in western Ukraine, is preparing for war: from its training hospital to its milk factories, everyone is gearing up to help or assist in the war effort. 
+ <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084627222/power-plant-attack-and-civilian-casualties-the-latest-on-the-fight-in-ukraine">Power plant attack and civilian casualties: The latest on the fight in Ukraine</a> NPR: The Pentagon says it has no reason to doubt Russia's claim that it's in control of the Zaporizhzhia nuclear power plant as the invasion of Ukraine continues. There is no sign of radioactive leakage. 
+ <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
  <p class="updated_time"> 03:24 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html">Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent</a> NYT: The step could signal further restrictions against other tech companies such as Google, which owns YouTube, and Twitter. Both have also been under pressure by the Russian government. 
  <p class="updated_time"> 03:21 PM CT, Mar. 04 </p> 
@@ -38,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084580235/russia-blocks-facebook-twitter">Russia blocks access to Facebook </a> NPR: Russia has cut off access to Facebook inside the country in response to the tech giant's blocking of state-backed media outlets in the European Union. 
  <p class="updated_time"> 02:28 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60622478?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day nine</a> BBC: Europe’s largest nuclear plant seized. Here's what you need to know after day nine of the war. 
- <p class="updated_time"> 02:25 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian City, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikov’s, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
  <p class="updated_time"> 02:06 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60626777?at_medium=RSS&at_campaign=KARANGA">Facebook hits out at Russia blocking its platforms</a> BBC: The Russian communications regulator said on Friday that Facebook has been blocked in the country. 
  <p class="updated_time"> 02:01 PM CT, Mar. 04 </p> 
@@ -112,16 +120,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190">Ukraine's Special Forces Hold Off Russian Offensive on Kyiv's Front Lines</a> WSJ: Antitank weapons and antiaircraft missiles from the West have made make a big difference, as have the Russians’ Soviet-style tactics, Ukrainian officers say. 
  <p class="updated_time"> 06:08 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">Calls for peace and inclusion dominated the Winter Paralympics opening ceremony</a> NPR: Hundreds of athletes are competing in Beijing in this year's events, which run through March 13. The opening ceremony kicked off on Friday, with the world focused on Russia's invasion of Ukraine. 
- <p class="updated_time"> 06:00 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084161024/the-battle-for-ukraine-could-test-the-limits-of-closer-ties-between-china-and-ru">The battle for Ukraine could test the limits of closer ties between China and Russia</a> NPR: The Cold War rivals have grown much closer in recent years. But China's ties to Russia are now becoming a bigger liability than Beijing expected. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nuclear-plant-fire.html">Fire at Ukraine Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
- <p class="updated_time"> 04:44 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084453424/at-least-30-killed-after-mosque-bombed-in-northwest-pakistan">A suicide bombing at a mosque in Pakistan kills at least 30</a> NPR: The bombing was the latest act of violence in majority Sunni Muslim Pakistan, where minority Shiite Muslims have come under repeated attacks. 
  <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
- <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615753?at_medium=RSS&at_campaign=KARANGA">WATCH: Russian TV staff walk off set after final broadcast</a> BBC: Channel TV Rain stops operating after coming under pressure over its coverage of the war in Ukraine. 
  <p class="updated_time"> 02:55 AM CT, Mar. 04 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
  <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
- <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084409254/tens-of-thousands-of-ukrainians-can-stay-in-the-u-s-without-fear-of-deportation">Tens of thousands of Ukrainians can stay in the U.S. without fear of deportation</a> NPR: The Biden administration will grant temporary protection from deportation to tens of thousands of Ukrainians who are already living in the U.S., the Department of Homeland Security announced. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
@@ -217,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 03:40 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/psaki-shuts-down-lindsey-grahams-calls-to-assassinate-putin-00014337">White House says assassinating Putin is 'not the position' of the U.S. government</a> Politico: Lindsey Graham called for a Julius Caesar-style killing of Putin on Twitter late Thursday. 
+ <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084627242/thousands-remain-separated-from-their-families-5-years-after-trumps-travel-ban">Thousands remain separated from their families 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
  <p class="updated_time"> 03:21 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 03:17 PM CT, Mar. 04 </p> 
@@ -236,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 12:36 PM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/militia-member-testifies-january-6-00014243">Former militia member testifies at first Jan. 6 trial</a> Politico: Traveling companion of Capitol Riot defendant details talk of dragging Pelosi from building. 
+ <a href="https://www.politico.com/news/2022/03/04/militia-member-testifies-january-6-00014243">Traveling companion of Capitol riot defendant details talk of dragging Pelosi from building</a> Politico: The ex-militia member testified at the first Jan. 6 trial, which is reaching its conclusion. 
  <p class="updated_time"> 12:24 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ken-duberstein-dead.html">Ken Duberstein, a Former Reagan Chief of Staff, Dies at 77</a> NYT: He helped revive the Reagan presidency in its last years and became a respected lobbyist in Washington. 
  <p class="updated_time"> 12:16 PM CT, Mar. 04 </p> 
@@ -327,8 +329,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084201542/ukraine-refugees-racism">Race, culture and politics underpin how — or if — refugees are welcomed in Europe</a> NPR: The embrace of Ukrainians fleeing the Russian invasion is far different from the cold shoulder refugees from the Middle East and Africa have received. 
  <p class="updated_time"> 04:16 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 03:39 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084310538/pressure-is-on-to-wrap-up-iran-nuclear-deal-talks">Pressure is on to wrap up Iran nuclear deal talks</a> NPR: Talks over the Iran nuclear deal seem to be coming to a head — either with an agreement or without one. The aim is to bring the U.S. and Iran into compliance with the agreement Trump pulled out of. 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
