@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:03 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as it clamped down on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
- <p class="updated_time"> 01:01 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 01:16 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-sanctions-ukraine.html">With Sanctions, U.S. and Europe Aim to Punish Putin and Fuel Russian Unrest</a> NYT: The Biden administration and European officials are crushing the Russian economy and stirring mass anxiety to pressure President Vladimir V. Putin to end his war in Ukraine. 
+ <p class="updated_time"> 01:13 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as it clamped down on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
  <p class="updated_time"> 12:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 12:50 PM CT, Mar. 04 </p> 
@@ -213,7 +213,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:01 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 01:16 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
+ <p class="updated_time"> 01:16 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-sanctions-ukraine.html">With Sanctions, U.S. and Europe Aim to Punish Putin and Fuel Russian Unrest</a> NYT: The Biden administration and European officials are crushing the Russian economy and stirring mass anxiety to pressure President Vladimir V. Putin to end his war in Ukraine. 
  <p class="updated_time"> 12:36 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/militia-member-testifies-january-6-00014243">Former militia member testifies at first Jan. 6 trial</a> Politico: Traveling companion of Capitol Riot defendant details talk of dragging Pelosi from building. 
@@ -239,8 +241,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/supreme-court-death-sentence-boston-marathon-bomber.html">Supreme Court Restores Death Sentence for Boston Marathon Bomber</a> NYT: The Biden administration, which announced a moratorium on federal executions, has pursued the case against Dzhokhar Tsarnaev, who helped carry out the 2013 bombings. 
  <p class="updated_time"> 09:16 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">Decades of Neglect Leave I.R.S. in Tax Season ‘Chaos’</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
- <p class="updated_time"> 09:11 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 08:52 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/jobs-february-economy-00014160">U.S. added 678,000 jobs in February in sign of economic health</a> Politico: The Labor Department’s report also showed that the unemployment rate dropped from 4 percent to 3.8 percent. 
  <p class="updated_time"> 08:17 AM CT, Mar. 04 </p> 
