@@ -8,8 +8,6 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:26 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: There was no immediate sign that radiation had leaked. Across the country, Russian forces are laying siege to cities and trying to control vital ports. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
@@ -211,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump warms to Greitens, shaking up endorsement race in Missouri</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
@@ -249,20 +249,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/delauro-investigation-fda-formula-recall-00014047">DeLauro requests IG investigation into FDA's handling of infant formula recall</a> Politico: The request comes after POLITICO reported that FDA, CDC and Abbott were told of the first infant with a Cronobacter sakazakii infection in September. 
  <p class="updated_time"> 06:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/guy-reffitt-january-6-trial.html">Guy Reffitt’s Son Testifies Against Him in Jan. 6 Trial</a> NYT: Guy Reffitt’s 19-year-old son took the stand against him in federal court in a remarkable tableau that captured how one family was split by the attack on the Capitol. 
- <p class="updated_time"> 06:29 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/dhs-ukrainians-temporary-protected-status-00014046">DHS grants Ukrainians in U.S. temporary protected status for 18 months</a> Politico: The action came in response to Russia's war against Ukraine and amid reports of invading forces targeting civilians. 
  <p class="updated_time"> 06:26 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-temporary-protected-status-immigration.html">U.S. Grants Temporary Protected Status to Some Ukrainians</a> NYT: The designation gives Ukrainians who were in the United States without legal documentation as of March 1 permission to stay and work for 18 months. 
  <p class="updated_time"> 06:13 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/melania-trump-fund-raiser-postponed.html">Melania Trump Event Postponed Because of Fund-Raising Issues</a> NYT: Florida regulators found that a company working on the charitable event had not registered properly. The former first lady’s office said it would be rescheduled. 
  <p class="updated_time"> 06:00 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/georgia-secretary-of-state-race.html">In Georgia's Secretary of State Race, 2020 Is Still on the Ballot</a> NYT: A normally sleepy secretary of state race has become a critical barometer of Republicans’ views of the last election — and of Trump. 
- <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:47 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/energy-environment/lukoil-russia-oil-ukraine.html">Lukoil, a Russian Oil Company, Calls for an End to the Ukraine War</a> NYT: The company, which has more than 200 gas stations in the U.S., acted as lawmakers in Washington were seeking to block Russian oil imports. 
- <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
  <p class="updated_time"> 04:36 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-ukraine-pandemic-aid.html">White House Requests $32.5 Billion for Pandemic and Ukraine Aid</a> NYT: The emergency spending would support the federal response to the coronavirus and provide military and humanitarian aid for Ukraine. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
@@ -279,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084310531/jan-6-panel-says-it-has-evidence-trump-broke-the-law-in-effort-to-overturn-elect">Jan. 6 panel says it has evidence Trump broke the law in effort to overturn election</a> NPR: The House committee investigating Jan. 6 says it has evidence showing that former President Trump broke the law by trying to overturn the 2020 election. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310503/how-president-zelenskyys-wartime-leadership-has-transformed-his-image">How President Zelenskyy's wartime leadership has transformed his image</a> NPR: NPR's Mary Louise Kelly talks with Emily Harding, who has been tracking the Russian invasion from the Center for Strategic and International Studies in Washington, on Zelenskyy's wartime leadership. 
- <p class="updated_time"> 03:12 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/powell-says-russias-ukraine-invasion-could-speed-up-inflation-00013831">'People will feel that': Fed's Powell says war could fuel inflation</a> Politico: Powell, in testimony to the Senate Banking Committee, said Americans are going to see higher gas prices, while transportation and energy costs will also rise for businesses. 
  <p class="updated_time"> 03:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/economy/federal-reserve-powell-inflation.html">Federal Reserve Chair Pledges to Bring Inflation Under Control</a> NYT: Jerome H. Powell, the head of the Federal Reserve, told lawmakers the Fed was prepared to prevent a rerun of 1970s inflation. 
  <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
@@ -301,12 +293,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/supreme-court-guantanamo-bay-secrets-00013863">High court sides with government in Gitmo state secrets case</a> Politico: The Supreme Court on Thursday ruled for the U.S. government in a case involving a Guantanamo Bay detainee seeking what the government said is secret information. 
  <p class="updated_time"> 12:58 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084162255/biden-wants-more-covid-relief-funds-the-gop-wants-to-know-where-previous-relief-">Biden wants more COVID relief funds. The GOP wants to know where previous relief went</a> NPR: The White House has requested $22.5 billion in additional COVID relief, but 35 GOP senators warned they won't support more until Biden provides an accounting of trillions in prior relief spending. 
- <p class="updated_time"> 12:38 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/they-still-have-an-awful-lot-of-capability-russia-stalled-in-northern-ukraine-slogs-on-with-assault-00013793">‘They still have an awful lot of capability’: Russia, stalled in northern Ukraine, slogs on with assault</a> Politico: Russian forces are “trying every single day” to seize Kyiv. 
  <p class="updated_time"> 12:12 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/timken-senate-ohio-00013759">Trump endorsement casts long shadow over Ohio Senate race</a> Politico: Mar-a-Lago is watching closely as former state GOP Chair Jane Timken balances between the establishment and MAGA wings. 
- <p class="updated_time"> 12:10 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/russia-ukraine-crisis-where-things-stand-00013728">Russia-Ukraine crisis: Where things stand after 1 week of war</a> Politico: Here’s a guide to everything you need to know about the invasion. 
  <p class="updated_time"> 11:57 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/canada-strips-russia-belarus-trade-status-00013758">Canada strips Russia, Belarus of trade status in latest sanctions salvo</a> Politico: A new 35 percent tariff will be applied to all exports from the two countries. 
  <p class="updated_time"> 11:45 AM CT, Mar. 03 </p> 
@@ -337,6 +325,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/white-house-applicants-weed-companies-00013390">Biden admin to applicants: Maybe don’t invest in weed companies</a> Politico: The new policy underscores how the business of weed, ever more legitimized, is forcing adjustments by the feds. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
+ <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-primaries-cuellar-progressive-left-00013331">Texas delivers a mixed message to the left</a> Politico: Progressives are off to a more promising start than in 2021, but were unable to deliver a knockout blow to the incumbent Democrat they’ve been targeting for years. 
  <p class="updated_time"> 03:08 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/u-s-russians-putin-regime-change-00013249">The U.S. is pushing Russians to defy Putin. But don’t call it regime change.</a> Politico: U.S. officials fighting Kremlin propaganda see opportunities in the anti-war sentiment among Russians, including spy recruitment. 
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
@@ -345,6 +335,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins speedy confirmation blitz</a> Politico: The Supreme Court nominee met with senators Wednesday as Democrats scheduled her first confirmation hearing for March 21. 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
+ <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Mar. 02 </p> 
@@ -353,6 +345,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
  <p class="updated_time"> 05:00 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/russia-crisis-international-space-station-00013000">Russia crisis could sink the International Space Station</a> Politico: Backing out of the international partnership could be catastrophic for NASA. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/new-york-noncitizen-voting-00012970">New York is about to let noncitizens vote. It could reshape local politics forever.</a> Politico: About 800,000 green card holders and others authorized to work in the country will become eligible to vote for mayor, City Council and other local offices. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
@@ -363,14 +359,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-fund-police-00013065">Biden draws bipartisan applause for calls to ‘fund the police’</a> Politico: The moment during the president's State of the Union address was a significant display of unity in a divided Congress. 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
+ <p class="updated_time"> 06:15 PM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-manchin-00012989">Biden throws a line to Joe Manchin and hopes he bites</a> Politico: The president will emphasize deficit reduction in his State of the Union address. Officials say it’s not part of a larger philosophical shift. 
  <p class="updated_time"> 01:53 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over Republican agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
  <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
+ <p class="updated_time"> 04:31 AM CT, Mar. 01 </p> 
+ <a href="https://www.politico.com/news/2022/03/01/florida-gop-desantis-redistricting-00012021">DeSantis sends Florida Democrats to redistricting purgatory</a> Politico: A House redistricting panel on Friday advanced a new map that gives Republicans another two seats and dismantles the congressional seat held by Rep. Al Lawson, a Black Democrat from Tallahassee. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
+ <p class="updated_time"> 02:30 PM CT, Feb. 28 </p> 
+ <a href="https://www.politico.com/news/2022/02/28/florida-democrat-deutch-announces-he-wont-run-for-reelection-00012397">Florida Democrat Deutch announces he won’t run for reelection</a> Politico: He is the 31st House Democrat to announce that they will not run for reelection. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
