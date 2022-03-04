@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 09:29 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/paralympics-opening-ceremony.html">Paralympics President Rebukes Russia at Opening Ceremony</a> NYT: Andrew Parsons denounced Russia’s invasion of Ukraine, a notable act given the International Olympic Committee’s ban on protests and political messages. 
  <p class="updated_time"> 09:16 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
- <p class="updated_time"> 09:11 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
  <p class="updated_time"> 08:58 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 08:48 AM CT, Mar. 04 </p> 
@@ -33,7 +35,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:52 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">At Least 57 Dead in Pakistan After Mosque Attack</a> NYT: At least 57 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in Peshawar, in northwestern Pakistan. 
  <p class="updated_time"> 06:08 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">The 2022 Winter Paralympics are starting now with an opening ceremony in Beijing</a> NPR: Around 700 athletes are competing in this year's events, which run through March 13. Here's what to expect and how to watch. 
+ <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">Calls for peace and inclusion dominated the Winter Paralympics opening ceremony</a> NPR: Hundreds of athletes are competing in Beijing in this year's events, which run through March 13. The opening ceremony kicked off on Friday, with the world focused on Russia's invasion of Ukraine. 
  <p class="updated_time"> 06:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084161024/the-battle-for-ukraine-could-test-the-limits-of-closer-ties-between-china-and-ru">The battle for Ukraine could test the limits of closer ties between China and Russia</a> NPR: The Cold War rivals have grown much closer in recent years. But China's ties to Russia are now becoming a bigger liability than Beijing expected. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
@@ -42,7 +44,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084453424/at-least-30-killed-after-mosque-bombed-in-northwest-pakistan">A suicide bombing at a mosque in Pakistan kills at least 30</a> NPR: The bombing was the latest act of violence in majority Sunni Muslim Pakistan, where minority Shiite Muslims have come under repeated attacks. 
  <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
- <p class="updated_time"> 04:09 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
@@ -205,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:29 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/supreme-court-death-sentence-boston-marathon-bomber.html">Supreme Court Restores Death Sentence for Boston Marathon Bomber</a> NYT: The Biden administration, which announced a moratorium on federal executions, has pursued the case against Dzhokhar Tsarnaev, who helped carry out the 2013 bombings. 
  <p class="updated_time"> 09:16 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
  <p class="updated_time"> 09:11 AM CT, Mar. 04 </p> 
