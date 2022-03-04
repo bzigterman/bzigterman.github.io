@@ -8,32 +8,44 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to civilian “corridors” as fighting continued. 
+ <p class="updated_time"> 10:41 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the power complex near a line of military vehicles. People in the vehicles appeared to be firing at buildings in the power plant. 
+ <p class="updated_time"> 10:37 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
+ <p class="updated_time"> 10:33 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
+ <p class="updated_time"> 10:25 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
+ <p class="updated_time"> 10:10 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
  <p class="updated_time"> 09:58 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
- <p class="updated_time"> 09:56 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant, Europe’s largest. Earlier, Russian and Ukrainian officials agreed to civilian “corridors” as fighting continued. 
- <p class="updated_time"> 09:26 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Fire Breaks Out at Zaporizhzhia Nuclear Complex</a> NYT: Security camera footage showed a building ablaze inside the power complex near a line of military vehicles. People in the vehicles appeared to be firing at buildings in the power plant. 
  <p class="updated_time"> 09:21 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 09:19 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 08:14 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
- <p class="updated_time"> 08:10 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084409254/tens-of-thousands-of-ukrainians-can-stay-in-the-u-s-without-fear-of-deportation">Tens of thousands of Ukrainians can stay in the U.S. without fear of deportation</a> NPR: The Biden administration will grant temporary protection from deportation to tens of thousands of Ukrainians who are already living in the U.S., the Department of Homeland Security announced. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
+ <p class="updated_time"> 07:30 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60608759?at_medium=RSS&at_campaign=KARANGA">Son of accused 6 January rioters testifies in court</a> BBC: “If you turn me in, you’re a traitor and traitors get shot,” Guy Reffitt is alleged to have told his son. 
  <p class="updated_time"> 07:10 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">A contested Ukrainian nuclear plant is under attack by Russian forces</a> NPR: Security footage from the plant shows what appear to be Russian troops engaged in active combat on the site. Video also shows what appears to be a fire in one of the plant's administrative buildings. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 07:06 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084414196/russian-troops-are-attacking-zaporizhzhia-nuclear-power-plant">Russian troops are attacking Zaporizhzhia Nuclear Power Plant</a> NPR: Russian troops appear to be at the entrance of Ukraine's Zaporizhzhia Nuclear Power Plant and are engaged in active combat. Footage shows what looks like a fire in one of its administrative buildings. 
+ <p class="updated_time"> 06:20 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60603406?at_medium=RSS&at_campaign=KARANGA">Ukraine: The race to save the country's artistic treasures</a> BBC: As the Russian invasion continues, efforts to protect Ukraine's cultural heritage are stepped up. 
  <p class="updated_time"> 06:08 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60612255?at_medium=RSS&at_campaign=KARANGA">Ukraine: On board a Nato spy plane monitoring Russian activity</a> BBC: The BBC has been given rare access to a surveillance flight on the Polish border with Ukraine and Belarus. 
+ <p class="updated_time"> 05:31 PM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</a> WSJ: A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
  <p class="updated_time"> 05:14 PM CT, Mar. 03 </p> 
@@ -42,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/03/1084303033/hollywood-refuses-to-open-biggest-films-in-russia">Hollywood refuses to open biggest films in Russia </a> NPR: Disney, Sony, Warner Bros., Paramount and Universal are pausing the theatrical releases of their films in Russia 
  <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
- <p class="updated_time"> 04:46 PM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-advance-in-southern-ukraine-ahead-of-cease-fire-talks-11646307424">Ukraine Nuclear Power Plant Fire Raises Fears, Calls for Cease-Fire in Area</a> WSJ: A fire at a nuclear power plant in Ukraine raised concerns with the United Nations’ atomic agency and prompted a call between President Biden and Ukraine’s President Volodymyr Zelensky. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-60608699?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on...Russian gas and oil</a> BBC: Ros Atkins looks at how Russian gas and oil connects to war in Ukraine, and EU efforts to cut ties with Russia. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
@@ -76,8 +86,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60606539?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day eight</a> BBC: Cities under relentless bombardment. Here's what you need to know after day eight of the war. 
  <p class="updated_time"> 03:19 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084151893/books-about-ukraine">Read these 6 books about Ukraine</a> NPR: The Russian invasion has sparked an interest in books about Ukraine. There are many out there. If you're not sure where to get started, we've got you covered. 
- <p class="updated_time"> 03:17 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
  <p class="updated_time"> 02:55 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/sections/deceptivecadence/2022/03/03/1084246378/arts-organizations-putin-supporters">As performing artists denounce or stay allied with Putin, history offers some lessons</a> NPR: While Russian artists and institutions grapple with how they are viewed internationally, American cultural organizations make what amounts to foreign policy decisions. 
  <p class="updated_time"> 02:52 PM CT, Mar. 03 </p> 
@@ -118,6 +126,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60607649?at_medium=RSS&at_campaign=KARANGA">Deep in Ukraine forests, amateurs prepare for Russia fight</a> BBC: Deep in the forests outside Ukraine's capital Kyiv amateur fighters prepare for the battlefield. 
  <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60603226?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why so many African and Indian students were in the country</a> BBC: The thousands of foreign students who have fled the conflict are wondering what to do next. 
+ <p class="updated_time"> 10:32 AM CT, Mar. 03 </p> 
+ <a href="https://www.wsj.com/articles/putin-thought-ukraine-would-fall-quickly-an-airport-battle-proved-him-wrong-11646343121">Putin Thought Ukraine Would Fall Quickly. An Airport Battle Proved Him Wrong.</a> WSJ: Russia wanted to use Hostomel Airport outside Kyiv to bring troops directly to the capital. A band of Ukrainian soldiers fought to keep the Russians from using the landing strip, forcing them to move soldiers and supplies over land. 
  <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/council-of-europe-russia-suspension.html">Council of Europe Suspends Russia for Its Attack on Ukraine</a> NYT: Marija Pejcinovic Buric, the institution’s secretary general, calls the invasion ‘a dark hour for Europe and everything it stands for.’ 
  <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
@@ -130,16 +140,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60603447?at_medium=RSS&at_campaign=KARANGA">Abdullah al-Howaiti: Saudi child 'offender' sentenced to death at retrial</a> BBC: Activists say Abdullah al-Howaiti had an alibi for a murder that happened when he was aged 14. 
  <p class="updated_time"> 09:04 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/u-n-report-shows-iran-has-almost-enough-highly-enriched-uranium-for-a-nuclear-bomb-11646316141">Iran, U.S. Close to Reviving Iranian Nuclear Deal</a> WSJ: Talks advance in Vienna while U.N. atomic agency reports Iran has almost enough near-weapons-grade nuclear fuel for a bomb. 
- <p class="updated_time"> 07:10 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60596629?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why has Russia's 64km convoy near Kyiv stopped moving?</a> BBC: Russian forces advancing on the Ukrainian capital appear to have stalled, US and UK officials say. 
  <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 06:21 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
- <p class="updated_time"> 05:56 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60601235?at_medium=RSS&at_campaign=KARANGA">Mariupol under siege: 'We are being completely cut off'</a> BBC: Residents of the south-eastern city tell the BBC they are being cut off by relentless Russian shelling. 
- <p class="updated_time"> 05:48 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60601710?at_medium=RSS&at_campaign=KARANGA">Jovenel Moïse murder: Suspect handed over to Haiti</a> BBC: The suspect, who was part of President Moïse's security team, was arrested in the Dominican Republic. 
+ <p class="updated_time"> 05:44 AM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60601034?at_medium=RSS&at_campaign=KARANGA">Mothers resort to giving birth in hospital basements</a> BBC: As Russia's invasion continues, Ukrainian hospitals are forced to move their maternity wards underground. 
  <p class="updated_time"> 05:26 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-refugees-eu.html">E.U. Expected to Grant Blanket Protection to Ukrainian Refugees</a> NYT: Under the measure, which would apply to all Ukrainian nationals, refugees would be granted the right to live, study and work across the 27-member bloc for up to three years. 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
@@ -180,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/philadelphia-drops-its-mask-mandate.html">Philadelphia drops its mask mandate.</a> NYT: As the Omicron wave continues to subside, a growing number of cities and states are relaxing their pandemic restrictions. 
  <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60573261?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Who's in Putin's inner circle and running the war?</a> BBC: Russia's president cuts an isolated figure but he relies on an inner circle when he makes key decisions. 
- <p class="updated_time"> 06:16 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/asia/asia-russia-ukraine-war.html">Asian Nations' Mixed Reactions to the Ukraine Invasion</a> NYT: While most American allies in the region have fallen in line, authoritarian governments and those with weaker ties to the West have been more reluctant to act. 
  <p class="updated_time"> 06:15 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/climate/state-of-the-union-biden-ukraine-climate.html">Ukraine War and U.S. Politics Complicate Climate Change Fight</a> NYT: Climate change, a central part of Biden’s agenda, was barely mentioned in the State of the Union. And Europe is confronting its heavy reliance on Russian gas. 
  <p class="updated_time"> 05:56 PM CT, Mar. 02 </p> 
@@ -194,12 +198,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-scotland-60081503?at_medium=RSS&at_campaign=KARANGA">Brandon Lee: The model school pupil who was a 30-year-old imposter</a> BBC: A new film tells the tale of a man who posed as 17-year-old to return to his old high school. 
  <p class="updated_time"> 04:39 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/russia-ukraine-war-casualties.html">A War the Kremlin Tried to Disguise Becomes a Hard Reality for Russians</a> NYT: Moscow posted a death toll from its attack on Ukraine for the first time, and Russians who long avoided politics are now grappling with the fact that their country is fighting a deadly conflict. 
- <p class="updated_time"> 12:29 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
  <p class="updated_time"> 12:04 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/arts/music/ukraine-putin-valery-gergiev-anna-netrebko.html">Valery Gergiev and Anna Netrebko's Putin Ties Threaten Their Careers</a> NYT: The Russian conductor Valery Gergiev and the diva Anna Netrebko have lost engagements because of their ties to Putin, as geopolitics and music collide once again. 
- <p class="updated_time"> 11:36 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60567193?at_medium=RSS&at_campaign=KARANGA">Crab.e.cam: The underwater crab videos captivating Australia</a> BBC: When an Australian fisherman tied a GoPro to his crab net, he never expected the footage to go viral. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Ukrainian city of Mariupol 'near to humanitarian catastrophe' after bombardment</a> BBC: The deputy mayor of Mariupol says he believes hundreds of people have died in the Russian onslaught. 
  <p class="updated_time"> 10:43 AM CT, Mar. 02 </p> 
@@ -215,6 +215,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 10:32 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/florida-abortion-ban-desantis-00014102">Florida lawmakers approve strictest abortion ban in state’s history</a> Politico: The bill provides no exceptions for victims of rape, incest or human trafficking. 
+ <p class="updated_time"> 10:25 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 09:43 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ken-duberstein-dead.html">Ken Duberstein, a Former Reagan Chief of Staff, Dies at 77</a> NYT: He helped revive the Reagan presidency in its last years and became a respected lobbyist in Washington. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
@@ -223,8 +225,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-justice-department-january-6.html">Pressure on Justice Dept. as Jan. 6 Panel Lays Out Case Against Trump</a> NYT: Building a criminal case against the former president is very difficult for federal prosecutors, experts say, underlining the dilemma confronting the agency. 
  <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
- <p class="updated_time"> 08:10 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 07:48 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-jan-6-criminal-case.html">Panel Suggests Trump Knew He Lost the Election, Eyeing Criminal Case</a> NYT: At the core of the theory of a possible criminal case against former President Donald J. Trump is the argument that he knew he had lost the election and sought to overturn it anyway. 
  <p class="updated_time"> 07:40 PM CT, Mar. 03 </p> 
