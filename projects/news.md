@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:32 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 07:00 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 06:58 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
+ <p class="updated_time"> 06:52 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">At Least 57 Dead in Pakistan After Mosque Attack</a> NYT: At least 57 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in Peshawar, in northwestern Pakistan. 
  <p class="updated_time"> 06:08 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">The 2022 Winter Paralympics are starting now with an opening ceremony in Beijing</a> NPR: Around 700 athletes are competing in this year's events, which run through March 13. Here's what to expect and how to watch. 
- <p class="updated_time"> 06:05 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
+ <p class="updated_time"> 06:06 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60609633?at_medium=RSS&at_campaign=KARANGA">How dangerous was the nuclear plant attack?</a> BBC: Russia's invasion of Ukraine poses serious safety concerns at its nuclear power plants. 
  <p class="updated_time"> 06:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084161024/the-battle-for-ukraine-could-test-the-limits-of-closer-ties-between-china-and-ru">The battle for Ukraine could test the limits of closer ties between China and Russia</a> NPR: The Cold War rivals have grown much closer in recent years. But China's ties to Russia are now becoming a bigger liability than Beijing expected. 
  <p class="updated_time"> 05:56 AM CT, Mar. 04 </p> 
@@ -38,12 +42,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615752?at_medium=RSS&at_campaign=KARANGA">Former president of Ukraine sends defiant message to Putin</a> BBC: "You cannot kill Ukrainian soul" says Petro Poroshenko, the former president of Ukraine. 
+ <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
  <p class="updated_time"> 12:16 AM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/japan-sticks-to-russian-oil-and-gas-bucking-western-pullouts-11646392575">Japan Sticks to Russian Oil and Gas, Bucking Western Pullouts</a> WSJ: The Japanese government and local companies are sticking with their Russian energy deals, defying a pullout led by Western companies. 
- <p class="updated_time"> 11:52 PM CT, Mar. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/history-ukraine-russia-war-books.html">Here's What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
@@ -56,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
  <p class="updated_time"> 10:10 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
- <p class="updated_time"> 09:21 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 09:19 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
@@ -89,7 +91,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084201542/ukraine-refugees-racism">Race, culture and politics underpin how — or if — refugees are welcomed in Europe</a> NPR: The embrace of those fleeing the Russian invasion is far different from the cold shoulder refugees from the Middle East and Africa have received. Race, culture and politics are all part of the story. 
+ <a href="https://www.npr.org/2022/03/03/1084201542/ukraine-refugees-racism">Race, culture and politics underpin how — or if — refugees are welcomed in Europe</a> NPR: The embrace of Ukrainians fleeing the Russian invasion is far different from the cold shoulder refugees from the Middle East and Africa have received. 
  <p class="updated_time"> 04:22 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-cia-black-sites-guantanamo.html">C.I.A. Black Sites Are State Secrets, the Supreme Court Rules</a> NYT: A Guantánamo detainee had sought information from two former government contractors to aid in a Polish criminal inquiry into a facility there. 
  <p class="updated_time"> 04:16 PM CT, Mar. 03 </p> 
@@ -196,8 +198,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/arts/music/ukraine-putin-valery-gergiev-anna-netrebko.html">Valery Gergiev and Anna Netrebko's Putin Ties Threaten Their Careers</a> NYT: The Russian conductor Valery Gergiev and the diva Anna Netrebko have lost engagements because of their ties to Putin, as geopolitics and music collide once again. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Ukrainian city of Mariupol 'near to humanitarian catastrophe' after bombardment</a> BBC: The deputy mayor of Mariupol says he believes hundreds of people have died in the Russian onslaught. 
- <p class="updated_time"> 09:56 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-60592931?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: We need support from our allies, say Klitschko brothers</a> BBC: The mayor of Kyiv and his brother, both renowned boxers, spoke to the BBC from Kyiv. 
 
 
 </details>
@@ -211,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/04/can-a-wider-war-be-prevented-00014127"> Can a wider war be prevented?</a> Politico Playbook: And Donald Trump warms to Eric Greitens in Missouri. 
  <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/this-guy-is-pretty-combative-russias-space-chief-launches-his-own-war-on-the-west-00014055">‘This guy is pretty combative’: Russia’s space chief launches his own war on the West</a> Politico: Dmitry Rogozin, a longtime nationalist leader and Putin ally, is blasting away at one of the last vestiges of U.S.-Russia cooperation. 
+ <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/news/2022/03/04/an-insiders-look-into-putins-long-game-00014108">An insider’s look into Putin’s long game</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to CNN’s Matthew Chance about agenda-setting reporting on Russia’s war on Ukraine and former national security adviser Tom Donilon about the relationship between information and Putin’s invasion. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump warms to Greitens, shaking up endorsement race in Missouri</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
@@ -220,9 +222,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/cartoons/2022/03/04/the-nations-cartoonists-on-the-week-in-politics-00014016">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
- <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two audits showing there were no problems with the 2020 presidential election. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448605/a-son-takes-the-stand-against-his-father-in-the-first-trial-related-to-jan-6-rio">A son takes the stand against his father in the first trial related to Jan. 6 riot</a> NPR: The trial of accused Capitol rioter Guy Reffitt continued Thursday with intense video from Jan. 6, and testimony from his son, Jackson, who turned his father in to the FBI. 
  <p class="updated_time"> 04:03 AM CT, Mar. 04 </p> 
@@ -267,12 +269,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:47 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/business/energy-environment/lukoil-russia-oil-ukraine.html">Lukoil, a Russian Oil Company, Calls for an End to the Ukraine War</a> NYT: The company, which has more than 200 gas stations in the U.S., acted as lawmakers in Washington were seeking to block Russian oil imports. 
- <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
  <p class="updated_time"> 04:36 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-ukraine-pandemic-aid.html">White House Requests $32.5 Billion for Pandemic and Ukraine Aid</a> NYT: The emergency spending would support the federal response to the coronavirus and provide military and humanitarian aid for Ukraine. 
  <p class="updated_time"> 04:25 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084201542/ukraine-refugees-racism">Race, culture and politics underpin how — or if — refugees are welcomed in Europe</a> NPR: The embrace of those fleeing the Russian invasion is far different from the cold shoulder refugees from the Middle East and Africa have received. Race, culture and politics are all part of the story. 
+ <a href="https://www.npr.org/2022/03/03/1084201542/ukraine-refugees-racism">Race, culture and politics underpin how — or if — refugees are welcomed in Europe</a> NPR: The embrace of Ukrainians fleeing the Russian invasion is far different from the cold shoulder refugees from the Middle East and Africa have received. 
  <p class="updated_time"> 04:22 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-cia-black-sites-guantanamo.html">C.I.A. Black Sites Are State Secrets, the Supreme Court Rules</a> NYT: A Guantánamo detainee had sought information from two former government contractors to aid in a Polish criminal inquiry into a facility there. 
  <p class="updated_time"> 04:16 PM CT, Mar. 03 </p> 
@@ -311,16 +311,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/they-still-have-an-awful-lot-of-capability-russia-stalled-in-northern-ukraine-slogs-on-with-assault-00013793">‘They still have an awful lot of capability’: Russia, stalled in northern Ukraine, slogs on with assault</a> Politico: Russian forces are “trying every single day” to seize Kyiv. 
  <p class="updated_time"> 12:10 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/russia-ukraine-crisis-where-things-stand-00013728">Russia-Ukraine crisis: Where things stand after 1 week of war</a> Politico: Here’s a guide to everything you need to know about the invasion. 
- <p class="updated_time"> 11:57 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/canada-strips-russia-belarus-trade-status-00013758">Canada strips Russia, Belarus of trade status in latest sanctions salvo</a> Politico: A new 35 percent tariff will be applied to all exports from the two countries. 
  <p class="updated_time"> 11:45 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/american-bridge-biden-ads-battleground-states-00013754">American Bridge drops $5M boosting Biden in key battlegrounds</a> Politico: The Democratic super PAC is kicking off its midterm advertising plans. 
  <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/lawmakers-funding-deal-ukraine-request-00013548">Lawmakers hammer out funding deal with boosted Ukraine request</a> Politico: The White House revamped its emergency funding ask Thursday morning, looking for $10 billion to help Ukraine. 
- <p class="updated_time"> 10:11 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/ducey-senate-arizona-00013739">Ducey won't run for Senate in Arizona</a> Politico: The GOP governor had been recruited by national party leaders but was also a target of abuse from Donald Trump. 
  <p class="updated_time"> 10:04 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/hispanic-women-winners-texas-2022-primary-00013546">Hispanic women emerge as big winners in Texas GOP primary</a> Politico: When the dust clears after the May 24 runoffs, as many as 8 Latinos — including 6 women — could be Republican congressional nominees. 
  <p class="updated_time"> 08:46 AM CT, Mar. 03 </p> 
