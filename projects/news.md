@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60615752?at_medium=RSS&at_campaign=KARANGA">Former president of Ukraine sends defiant message to Putin</a> BBC: "You cannot kill Ukrainian soul" says Petro Poroshenko, the former president of Ukraine. 
  <p class="updated_time"> 01:27 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukrainian Officials Say</a> NYT: Ukraine accused Russia of attacking the Zaporizhzhia complex overnight, triggering a blaze and causing global alarm. There was no immediate indication of a rise in radiation levels. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
@@ -178,8 +180,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-russia-eastern-europe.html">Putin’s War to Bring Ukraine to Heel Unites Eastern Europe in Alarm</a> NYT: Many countries fear that the Russian leader’s efforts to turn back the clock and reclaim a sphere of influence lost at the end of the Cold War could spell disaster for them. 
  <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
- <p class="updated_time"> 07:47 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60597706?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'My daughter died here'</a> BBC: Serhiy Melnyk from Zhytomyr walks through rubble after his area was hit by an air strike. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:46 PM CT, Mar. 02 </p> 
