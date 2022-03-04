@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:41 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
+ <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 05:11 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-kyiv-train-station.html">In Kyiv’s Railway Station, Rumors, Near-Stampedes and Frustration</a> NYT: As Russian forces begin to encircle the Ukrainian capital, tens of thousands are clambering for a way out that may soon be closed off. 
  <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
- <p class="updated_time"> 04:58 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
  <p class="updated_time"> 04:40 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/aclu-ice-covid-vaccine-booster.html">A.C.L.U. Lawsuit Accuses I.C.E. Jailers of Denying Detainees Vaccines</a> NYT: One of the plaintiffs is Anna Sorokin, a Russian immigrant who for several years presented herself as a German heiress named Anna Delvey. She received a booster shot on Thursday, two days after the suit was filed. 
  <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
@@ -48,10 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627222/power-plant-attack-and-civilian-casualties-the-latest-on-the-fight-in-ukraine">Power plant attack and civilian casualties: The latest on the fight in Ukraine</a> NPR: The Pentagon says it has no reason to doubt Russia's claim that it's in control of the Zaporizhzhia nuclear power plant as the invasion of Ukraine continues. There is no sign of radioactive leakage. 
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
- <p class="updated_time"> 03:24 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html">Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent</a> NYT: The step could signal further restrictions against other tech companies such as Google, which owns YouTube, and Twitter. Both have also been under pressure by the Russian government. 
- <p class="updated_time"> 03:21 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 03:17 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084624868/the-white-house-says-its-considering-a-range-of-options-for-russian-oil-imports">The White House says it's considering a range of options for Russian oil imports</a> NPR: The White House emphasized the importance of maintaining a steady global energy supply amid Russia's war on Ukraine. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
@@ -90,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 12:50 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
- <p class="updated_time"> 12:48 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
  <p class="updated_time"> 12:37 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60625925?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians living in Poland return home to aid war effort</a> BBC: The BBC's Mark Lowen is at the Polish border with Ukrainians hoping to aid Ukraine's war effort. 
  <p class="updated_time"> 12:30 PM CT, Mar. 04 </p> 
