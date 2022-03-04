@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:15 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: A fire set off by the fight over the plant was extinguished, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 05:33 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: A fire set off in the fight for the plant was extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 05:31 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/fire-at-a-ukrainian-nuclear-plant-is-out-but-russian-troops-take-control-of-the-site.html">Fire at Ukrainian Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
  <p class="updated_time"> 05:03 AM CT, Mar. 04 </p> 
@@ -26,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 03:39 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60615753?at_medium=RSS&at_campaign=KARANGA">WATCH: Russian TV staff walk off set after final broadcast</a> BBC: Channel TV Rain stops operating after coming under pressure over its coverage of the war in Ukraine. 
- <p class="updated_time"> 03:17 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
  <p class="updated_time"> 02:24 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take nuclear plant but Kyiv advance slows</a> BBC: Russia seizes power plant in Ukraine as the assault on the country intensifies. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
@@ -154,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 06:21 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/us/politics/russia-ukraine-china.html">China Asked Russia to Delay Ukraine War Until After Olympics, Biden Officials Say</a> NYT: A Western intelligence report indicates that Chinese officials had some level of direct knowledge about President Vladimir V. Putin’s war plans or intentions. 
- <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/mayor-russian-troop-grenade.html">Video: Mayor of Konotop Asks His City Whether They Wish to Fight or Surrender</a> NYT: The mayor of Konotop, in northeastern Ukraine, said Russian soldiers had told him they would “raze the city to the ground with their artillery.” 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
  <p class="updated_time"> 04:40 AM CT, Mar. 03 </p> 
