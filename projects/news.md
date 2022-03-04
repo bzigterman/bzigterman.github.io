@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:39 PM CT, Mar. 03 </p> 
+ <p class="updated_time"> 09:58 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
+ <p class="updated_time"> 09:56 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant, Europe’s largest. Earlier, Russian and Ukrainian officials agreed to civilian “corridors” as fighting continued. 
  <p class="updated_time"> 09:26 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Fire Breaks Out at Zaporizhzhia Nuclear Complex</a> NYT: Security camera footage showed a building ablaze inside the power complex near a line of military vehicles. People in the vehicles appeared to be firing at buildings in the power plant. 
@@ -20,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
  <p class="updated_time"> 08:10 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/white-house-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
- <p class="updated_time"> 08:08 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084409254/tens-of-thousands-of-ukrainians-can-stay-in-the-u-s-without-fear-of-deportation">Tens of thousands of Ukrainians can stay in the U.S. without fear of deportation</a> NPR: The Biden administration will grant temporary protection from deportation to tens of thousands of Ukrainians who are already living in the U.S., the Department of Homeland Security announced. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
