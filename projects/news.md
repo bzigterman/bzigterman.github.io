@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:56 AM CT, Mar. 04 </p> 
+ <p class="updated_time"> 01:12 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Officials later said the blaze had been put out, and that there was no indication of a rise in radiation levels. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
@@ -106,6 +106,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 01:56 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Russians take Kherson but Kyiv advance slows</a> BBC: Russia takes control of its first major city as the assault on the country intensifies. 
+ <p class="updated_time"> 01:51 PM CT, Mar. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60532632?at_medium=RSS&at_campaign=KARANGA">Dramatic footage captures freezing labradoodle's river rescue</a> BBC: A labradoodle was stuck on drifting river ice in Michigan. Rescuers pulled the dog to safety. 
  <p class="updated_time"> 01:40 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60611985?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Telling my children why dad joined the war - Kyiv mother</a> BBC: Olena Gnes says it is important for her children to know their father joined Ukraine's defence unit. 
  <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
@@ -154,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/mayor-russian-troop-grenade.html">Video: Mayor of Konotop Asks His City Whether They Wish to Fight or Surrender</a> NYT: The mayor of Konotop, in northeastern Ukraine, said Russian soldiers had told him they would “raze the city to the ground with their artillery.” 
  <p class="updated_time"> 05:23 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/02/world/europe/ukraine-civilian-casualties.html">Ukrainian Civilian Casualties Rise, but Number Is Uncertain </a> NYT: As is often the case in war zones, tolls diverged. It was not immediately possible for The New York Times to provide an independent estimate. 
- <p class="updated_time"> 05:14 AM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60600984?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Reporter takes cover as blast lights up Kyiv's sky</a> BBC: Watch the moment a huge explosion happens just as Charlie D'Agata from CBS News finishes his report. 
  <p class="updated_time"> 04:40 AM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/china-russia-xi-putin-ukraine-war-11646279098">China Declared Its Russia Friendship Had 'No Limits.' It's Having Second Thoughts.</a> WSJ: Xi Jinping wanted Vladimir Putin to join in a united front against the U.S., and he got it Feb. 4. Now the Ukraine war threatens to undo Beijing’s yearslong effort to become a world leader. 
  <p class="updated_time"> 04:34 AM CT, Mar. 03 </p> 
