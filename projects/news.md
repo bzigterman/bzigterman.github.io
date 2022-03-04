@@ -8,24 +8,34 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:33 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as it clamped down on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook as part of a clampdown on domestic dissent. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Founder of Anti-Vaccine Group Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
+ <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Chess Distances Itself From Russia</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. 
+ <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
+ <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html">Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent</a> NYT: The step could signal further restrictions against other tech companies such as Google, which owns YouTube, and Twitter. Both have also been under pressure by the Russian government. 
  <p class="updated_time"> 02:29 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084580235/russia-blocks-facebook-twitter">Russia blocks access to Facebook </a> NPR: Russia has cut off access to Facebook inside the country in response to the tech giant's blocking of state-backed media outlets in the European Union. 
- <p class="updated_time"> 02:26 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-facebook-ukraine.html">Russia Blocks Facebook, as Kremlin Moves to Stifle Dissent</a> NYT: The step could signal further restrictions against other tech companies such as Google, which owns YouTube, and Twitter. Both have also been under pressure by the Russian government. 
+ <p class="updated_time"> 02:28 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60622478?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Your guide to understanding day nine</a> BBC: Europe’s largest nuclear plant seized. Here's what you need to know after day nine of the war. 
  <p class="updated_time"> 02:25 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian City, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikov’s, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
+ <p class="updated_time"> 02:06 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60626777?at_medium=RSS&at_campaign=KARANGA">Facebook hits out at Russia blocking its platforms</a> BBC: The Russian communications regulator said on Friday that Facebook has been blocked in the country. 
  <p class="updated_time"> 02:01 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
- <p class="updated_time"> 01:54 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Steps Up Censorship With Law Against ‘False Information’</a> NYT: Calling the war in Ukraine a “war” in social media, print or broadcast will be a crime punishable by up to 15 years in jail. Russia also blocked access to foreign news sites. 
  <p class="updated_time"> 01:47 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/03/04/1084230259/not-every-war-gets-the-same-coverage-as-russias-invasion-and-that-has-consequenc">Not every war gets the same coverage as Russia's invasion — and that has consequences</a> NPR: Ongoing wars in, say, Yemen or Ethiopia get minimal attention compared to the media focus on the fighting in Ukraine. And there are ramifications on the humanitarian front. 
  <p class="updated_time"> 01:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 01:37 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
+ <p class="updated_time"> 01:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/sport/cricket/60624556?at_medium=RSS&at_campaign=KARANGA">Adulation and scandal... but arguably cricket's best ever bowler</a> BBC: Why Shane Warne was one of cricket's greatest ever players, and also one of its most colourful characters. 
  <p class="updated_time"> 01:33 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-eu-moldova-georgia.html">Ukraine War Forces a Question: How Far East Does Europe Go?</a> NYT: After Russia invaded, Ukraine asked to join the European Union, quickly. Moldova and Georgia have asked too. Member states would rather not answer. 
  <p class="updated_time"> 01:32 PM CT, Mar. 04 </p> 
@@ -74,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-russia-nato.html">NATO Rejects Intervening in Ukraine, Including No-Fly Zone </a> NYT: The alliance will not engage Russian forces in the air or on the ground in Ukraine to avoid the risk of a wider European war, the secretary-general says. 
  <p class="updated_time"> 09:23 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60621796?at_medium=RSS&at_campaign=KARANGA">Russian anger as Senator Lindsey Graham calls for Putin's assassination</a> BBC: Lindsey Graham says only way Russia's invasion of Ukraine ends is for someone "to take this guy out". 
- <p class="updated_time"> 08:34 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/chess-russia-ukraine-war.html">Chess Distances Itself From Russia</a> NYT: The game’s international federation, FIDE, has canceled a major Moscow tournament, among other steps to distance itself from Russia, where chess has deep roots. 
  <p class="updated_time"> 08:32 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/movies/film-boycott-russia-ukraine.html">Russian Filmmakers and Other Artists Face Boycotts Over Ukraine</a> NYT: A Russian moviemaker with Ukrainian roots and relatives in Kyiv denounced the war. The Glasgow Film Festival dropped his film anyway. 
  <p class="updated_time"> 08:27 AM CT, Mar. 04 </p> 
@@ -112,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/a-ukrainian-city-prepares-for-battle-far-from-the-front-line-11646398522">A Ukrainian City Prepares for Battle Far From the Front Line</a> WSJ: The Russian onslaught on Ukraine has transformed Lviv into a fallback capital for the beleaguered government in Kyiv—and a desperate conduit for those who want to flee. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
- <p class="updated_time"> 01:42 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60615752?at_medium=RSS&at_campaign=KARANGA">Former president of Ukraine sends defiant message to Putin</a> BBC: "You cannot kill Ukrainian soul" says Petro Poroshenko, the former president of Ukraine. 
  <p class="updated_time"> 01:00 AM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/frances-far-right-outgrows-marine-le-pen-11646395200">France's Far Right Outgrows Marine Le Pen</a> WSJ: France’s Marine Le Pen is losing political ground on France’s far right, as more voters rally for anti-immigrant TV pundit Éric Zemmour ahead of presidential elections in April. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
@@ -132,8 +138,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
  <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
- <p class="updated_time"> 07:50 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60575866?at_medium=RSS&at_campaign=KARANGA">Fans mourn South African rap star Riky Rick</a> BBC: Riky Rick was one of South Africa's top rappers but there was always a hidden side to his fame. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084409254/tens-of-thousands-of-ukrainians-can-stay-in-the-u-s-without-fear-of-deportation">Tens of thousands of Ukrainians can stay in the U.S. without fear of deportation</a> NPR: The Biden administration will grant temporary protection from deportation to tens of thousands of Ukrainians who are already living in the U.S., the Department of Homeland Security announced. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
@@ -190,8 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
  <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Hundreds Held After New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
- <p class="updated_time"> 09:09 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/europe/kherson-ukraine-russia.html">Russian Forces Seize Kherson, the First Ukrainian City to Fall</a> NYT: Russian forces seized the southern city of Kherson and besieged other cities, with casualties and destruction mounting, as Western sanctions tightened their vise grip on Russia’s economy. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:46 PM CT, Mar. 02 </p> 
@@ -200,8 +202,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60573261?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Who's in Putin's inner circle and running the war?</a> BBC: Russia's president cuts an isolated figure but he relies on an inner circle when he makes key decisions. 
  <p class="updated_time"> 05:41 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-60529926?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What sanctions could West still impose on Russia?</a> BBC: The measures are tougher than anything Vladimir Putin has faced. But more could be coming. 
- <p class="updated_time"> 05:34 PM CT, Mar. 02 </p> 
- <a href="https://www.nytimes.com/2022/03/02/health/covid-smell.html">How the Coronavirus Steals the Sense of Smell</a> NYT: The virus does not infect nerve cells that detect odors, researchers have found. Instead, it attacks nearby supporting cells. 
  <p class="updated_time"> 04:55 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-60081503?at_medium=RSS&at_campaign=KARANGA">Brandon Lee: The model school pupil who was a 30-year-old imposter</a> BBC: A new film tells the tale of a man who posed as 17-year-old to return to his old high school. 
  <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
@@ -317,8 +317,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:39 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310538/pressure-is-on-to-wrap-up-iran-nuclear-deal-talks">Pressure is on to wrap up Iran nuclear deal talks</a> NPR: Talks over the Iran nuclear deal seem to be coming to a head — either with an agreement or without one. The aim is to bring the U.S. and Iran into compliance with the agreement Trump pulled out of. 
- <p class="updated_time"> 03:32 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/senate-votes-to-end-covid-19-emergency-declaration-biden-threatens-veto-00013946">Senate votes to end Covid-19 emergency declaration, Biden threatens veto</a> Politico: The White House on Thursday called the GOP attempt to terminate the pandemic emergency declaration “a reckless and costly mistake.” 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310531/jan-6-panel-says-it-has-evidence-trump-broke-the-law-in-effort-to-overturn-elect">Jan. 6 panel says it has evidence Trump broke the law in effort to overturn election</a> NPR: The House committee investigating Jan. 6 says it has evidence showing that former President Trump broke the law by trying to overturn the 2020 election. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
