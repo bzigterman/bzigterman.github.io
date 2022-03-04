@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:46 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to establishing civilian “corridors” as fighting continued. 
+ <p class="updated_time"> 12:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Officials later said the blaze had been put out, and that there was no indication of a rise in radiation levels. 
+ <p class="updated_time"> 11:57 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the complex. People in military vehicles appeared to be firing at buildings in the power plant. The blaze was later extinguished. 
  <p class="updated_time"> 11:39 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian attack on nuclear power plant condemned by world leaders</a> BBC: A fire at Europe's largest nuclear power plant after Russian shelling endangered "all of Europe". 
- <p class="updated_time"> 11:36 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the complex. People in military vehicles appeared to be firing at buildings in the power plant. The blaze later went out. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/what-to-read-about-the-russia-ukraine-war.html">What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
