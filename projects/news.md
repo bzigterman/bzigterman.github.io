@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:33 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russians Seize Europe’s Largest Nuclear Plant, Ukraine Says</a> NYT: A fire set off in the fight for the plant was extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
- <p class="updated_time"> 05:31 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60613438?at_medium=RSS&at_campaign=KARANGA">Ukraine nuclear plant: Russia in control after shelling</a> BBC: Authorities say the facility - the largest plant in Europe - is safe and radiation levels are normal. 
+ <p class="updated_time"> 06:32 AM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russians Seize Europe’s Largest Nuclear Plant, but Fire Is Out</a> NYT: The fire was started in fierce fighting for the plant but was later extinguished, a Ukrainian government agency said, and there was no immediate sign that radiation had leaked. Across Ukraine, Russian forces are laying siege to cities and trying to control vital ports. 
+ <p class="updated_time"> 06:08 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084458799/2022-beijing-winter-paralympics-opening-ceremony">The 2022 Winter Paralympics are starting now with an opening ceremony in Beijing</a> NPR: Around 700 athletes are competing in this year's events, which run through March 13. Here's what to expect and how to watch. 
+ <p class="updated_time"> 06:05 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
+ <p class="updated_time"> 06:00 AM CT, Mar. 04 </p> 
+ <a href="https://www.npr.org/2022/03/04/1084161024/the-battle-for-ukraine-could-test-the-limits-of-closer-ties-between-china-and-ru">The battle for Ukraine could test the limits of closer ties between China and Russia</a> NPR: The Cold War rivals have grown much closer in recent years. But China's ties to Russia are now becoming a bigger liability than Beijing expected. 
+ <p class="updated_time"> 05:56 AM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60616946?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families run for cover as Russian air strikes hit Chernihiv</a> BBC: Residents of Chernihiv and other cities say apartments, hospitals and schools are being destroyed. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/fire-at-a-ukrainian-nuclear-plant-is-out-but-russian-troops-take-control-of-the-site.html">Fire at Ukrainian Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
- <p class="updated_time"> 05:03 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia restricts access to BBC in media crackdown</a> BBC: Restrictions are placed on several broadcasters as a law makes it an offence to spread "fake" information. 
  <p class="updated_time"> 04:44 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084453424/at-least-30-killed-after-mosque-bombed-in-northwest-pakistan">At least 30 people are killed after a mosque is bombed in northwest Pakistan</a> NPR: The bombing was the latest act of violence in majority Sunni Muslim Pakistan, where minority Shiite Muslims have come under repeated attacks. 
  <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
@@ -36,6 +40,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60615752?at_medium=RSS&at_campaign=KARANGA">Former president of Ukraine sends defiant message to Putin</a> BBC: "You cannot kill Ukrainian soul" says Petro Poroshenko, the former president of Ukraine. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
+ <p class="updated_time"> 12:16 AM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/japan-sticks-to-russian-oil-and-gas-bucking-western-pullouts-11646392575">Japan Sticks to Russian Oil and Gas, Bucking Western Pullouts</a> WSJ: The Japanese government and local companies are sticking with their Russian energy deals, defying a pullout led by Western companies. 
  <p class="updated_time"> 11:52 PM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-shelling-of-ukrainian-nuclear-power-plant-sparks-alarm-11646377053">Russia's Shelling of Ukrainian Nuclear Power Plant Sparks Alarm</a> WSJ: Russian shelling in southern Ukraine caused a fire at Europe’s largest nuclear power plant before Russian troops moved into the facility, highlighting the increasingly indiscriminate nature of Moscow’s war while raising fears that it could lead to a global environmental disaster. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
@@ -46,8 +52,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60613863?at_medium=RSS&at_campaign=KARANGA">Europe's largest nuclear plant shelled in Ukraine</a> BBC: Zaporizhzhia nuclear plant is hit during shelling in Ukraine. 
  <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
- <p class="updated_time"> 10:37 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/02/world/americas/venezuela-maduro-chavez.html">Maduro Trades Old Guard for Slick Technocrats to Keep Power</a> NYT: A new generation of cosmopolitan Venezuelan officials has allowed President Nicolás Maduro to halt the economic collapse and remain in power, at the cost of fostering potential future challenges to his rule. 
  <p class="updated_time"> 10:33 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
  <p class="updated_time"> 10:10 PM CT, Mar. 03 </p> 
@@ -56,6 +60,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/02/world/europe/odessa-black-sea-ukraine-russia.html">Ukrainians Build Defenses and Wait for Attacks In Odessa </a> NYT: Residents of Odessa, Ukraine’s critical port on the Black Sea, are bracing as Russian naval and ground forces approach. “Every day they make it seem like today is the day,” the mayor said. 
  <p class="updated_time"> 09:19 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
+ <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 08:14 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
  <p class="updated_time"> 07:50 PM CT, Mar. 03 </p> 
@@ -67,7 +73,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:30 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60608759?at_medium=RSS&at_campaign=KARANGA">Son of accused 6 January rioters testifies in court</a> BBC: “If you turn me in, you’re a traitor and traitors get shot,” Guy Reffitt is alleged to have told his son. 
  <p class="updated_time"> 07:10 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Russians seize nuclear plant after attack, Ukrainian officials say</a> NPR: The head of the U.N. atomic watchdog says there had been no release of radioactive material following a projectile hitting a building at the plant facility. 
+ <a href="https://www.npr.org/2022/03/03/1084414241/a-contested-ukrainian-nuclear-plant-is-under-attack-by-russian-forces">Russians seize nuclear plant after attack, Ukrainian officials say</a> NPR: The head of the U.N. atomic watchdog says there was no release of radioactive material after a projectile hit a building at the plant facility. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 07:06 PM CT, Mar. 03 </p> 
@@ -104,10 +110,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.npr.org/2022/03/03/1084310510/in-el-salvador-many-worry-the-presidents-bitcoin-push-might-bring-economic-ruin">El Salvador's president is taking a massive risk on Bitcoin</a> NPR: El Salvador's president is taking a billion-dollar risk on Bitcoin — with the country's treasury. Among the plans: a crypto trade zone near a dormant volcano. 
- <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084310503/how-president-zelenskyys-wartime-leadership-has-transformed-his-image">How President Zelenskyy's wartime leadership has transformed his image</a> NPR: NPR's Mary Louise Kelly talks with Emily Harding, who has been tracking the Russian invasion from the Center for Strategic and International Studies in Washington, on Zelenskyy's wartime leadership. 
- <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
- <a href="https://www.npr.org/2022/03/03/1084310496/residents-of-ukrainian-cities-describe-life-under-bombardment">Residents of Ukrainian cities describe life under bombardment</a> NPR: As the fighting in Ukraine enters a second week, Russian and Ukrainian forces are still battling over control of strategic cities. 
  <p class="updated_time"> 03:11 PM CT, Mar. 03 </p> 
  <a href="https://www.wsj.com/articles/russian-lawmakers-take-aim-at-independent-coverage-of-ukraine-invasion-11646341167">Russian Lawmakers Take Aim at Independent Coverage of Ukraine Invasion</a> WSJ: A bill expected to be considered Friday would punish anyone who publishes what is deemed to be false information about Russian operations. 
  <p class="updated_time"> 02:52 PM CT, Mar. 03 </p> 
@@ -203,6 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/03/04/when-mtg-tells-you-to-dial-it-down-00014136">When MTG tells you to dial it down…</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/04/can-a-wider-war-be-prevented-00014127"> Can a wider war be prevented?</a> Politico Playbook: And Donald Trump warms to Eric Greitens in Missouri. 
  <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
@@ -341,8 +345,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins speedy confirmation blitz</a> Politico: The Supreme Court nominee met with senators Wednesday as Democrats scheduled her first confirmation hearing for March 21. 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
- <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Mar. 02 </p> 
@@ -391,8 +393,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/25/ketanji-brown-jackson-schumer-00011972">KBJ all the way: Supreme Court pick reinvigorates Schumer</a> Politico: The Senate majority leader failed to unify his caucus on major party priorities, twice. Confirming a Supreme Court nominee could be an easier win. 
  <p class="updated_time"> 07:14 AM CT, Feb. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/25/washington-weighs-ukraine-aid-00011723">Washington weighs Ukraine aid</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:28 AM CT, Feb. 25 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/25/scoop-trump-tries-to-recruit-scott-for-majority-leader-00011720"> Scoop: Trump tries to recruit Scott for majority leader</a> Politico Playbook: And Russian forces enter Kyiv. 
 
 
 </details>
