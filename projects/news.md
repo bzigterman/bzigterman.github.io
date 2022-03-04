@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:12 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to civilian “corridors” as fighting continued. 
+ <p class="updated_time"> 11:29 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/03/world/ukraine-russia-news-war">Live Ukraine Updates: Fire Breaks Out at Europe’s Largest Nuclear Complex During Attack</a> NYT: Ukraine accused Russia of deliberately firing on the Zaporizhzhia nuclear plant. Earlier, Russian and Ukrainian officials agreed to establishing civilian “corridors” as fighting continued. 
  <p class="updated_time"> 11:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">Zaporizhzhia Nuclear Power Plant Security Video Shows Fire and Nearby Fighting</a> NYT: Security camera footage showed a building ablaze inside the complex. People in military vehicles appeared to be firing at buildings in the power plant. The blaze later went out. 
  <p class="updated_time"> 11:05 PM CT, Mar. 03 </p> 
