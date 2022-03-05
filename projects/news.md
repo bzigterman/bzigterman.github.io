@@ -217,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:28 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/ken-duberstein-dead.html">Ken Duberstein, a Former Reagan Chief of Staff, Dies at 77</a> NYT: He helped revive the Reagan presidency in its last years and became a respected lobbyist in Washington. 
  <p class="updated_time"> 08:46 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/florida-voting-election-crimes-force.html">Florida Senate Passes Voting Bill to Create Election Crimes Agency</a> NYT: The bill would make Florida one of the first states to have a force dedicated to election crimes and voter fraud, despite such offenses being exceedingly rare. 
  <p class="updated_time"> 08:40 PM CT, Mar. 04 </p> 
@@ -262,13 +264,11 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:07 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 01:46 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">Decades of Neglect Leave I.R.S. in Tax Season ‘Chaos’</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
  <p class="updated_time"> 01:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 12:36 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/militia-member-testifies-january-6-00014243">Traveling companion of Capitol riot defendant details talk of dragging Pelosi from building</a> Politico: The ex-militia member testified at the first Jan. 6 trial, which is reaching its conclusion. 
- <p class="updated_time"> 12:24 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/ken-duberstein-dead.html">Ken Duberstein, a Former Reagan Chief of Staff, Dies at 77</a> NYT: He helped revive the Reagan presidency in its last years and became a respected lobbyist in Washington. 
  <p class="updated_time"> 12:16 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084548984/lindsey-graham-putin">Sen. Lindsey Graham's apparent call for Putin to be assassinated draws backlash</a> NPR: "The only way this ends is for somebody in Russia to take this guy out," the South Carolina Republican said. Democrats and Republicans denounced the suggestion. 
  <p class="updated_time"> 11:37 AM CT, Mar. 04 </p> 
