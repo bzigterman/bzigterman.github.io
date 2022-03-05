@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:55 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 02:10 PM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084762582/russia-ukraine-state-department-travel-advisory">The State Department tells Americans to leave Russia immediately</a> NPR: The new travel advisory was issued over heightened security concerns in the country as Russian military forces carry out an "unprovoked and unjustified attack" in Ukraine. 
+ <p class="updated_time"> 02:06 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
- <p class="updated_time"> 01:55 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-prime-minister-moscow-putin.html">Israeli prime minister visits Moscow for talks with Putin on Ukraine.</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
+ <p class="updated_time"> 02:03 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
  <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
@@ -36,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
+ <p class="updated_time"> 10:37 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60631433?at_medium=RSS&at_campaign=KARANGA">From Grozny to Aleppo to Ukraine, Russia meets resistance with more firepower</a> BBC: Russia answers resistance with big guns and sieges. Ukrainians pray that will not happen to them, writes the BBC's Jeremy Bowen in Kyiv. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
  <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
@@ -126,6 +130,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084709206/north-korea-fires-another-suspected-ballistic-missile-into-sea">North Korea fires another suspected ballistic missile into sea</a> NPR: Saturday's launch was North Korea's ninth round of weapons launches in 2022 as it attempts to pressure the Biden administration for concessions. 
  <p class="updated_time"> 07:19 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60615280?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Can China do more to stop Russia's war in Ukraine?</a> BBC: As Russia's invasion of Ukraine continues, many are looking to China's response. 
+ <p class="updated_time"> 06:36 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60622772?at_medium=RSS&at_campaign=KARANGA">European peace seems as fragile as ever</a> BBC: The shifting of European history's tectonic plates is not really that unexpected, explains Kevin Connolly. 
+ <p class="updated_time"> 06:34 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60593022?at_medium=RSS&at_campaign=KARANGA">Russia oligarchs: The mega-rich men facing global sanctions</a> BBC: President Putin has for years warned Russia's richest to protect themselves against sanctions. 
  <p class="updated_time"> 06:28 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
  <p class="updated_time"> 06:08 PM CT, Mar. 04 </p> 
@@ -152,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
  <p class="updated_time"> 03:43 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627299/a-hair-salon-becomes-a-beauty-shop-of-horrors-in-palestinian-thriller-hudas-salo">A hair salon becomes a beauty shop of horrors in Palestinian thriller 'Huda's Salon'</a> NPR: A visit to a hair salon in the West Bank turns nightmarish in Palestinian filmmaker Hany Abu-Assad's new thriller Huda's Salon. 
- <p class="updated_time"> 03:43 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627290/what-the-saudi-crown-princes-latest-interview-says-about-the-future-of-saudi-ara">What the Saudi crown prince's latest interview says about the future of Saudi Arabia</a> NPR: NPR's Ari Shapiro speaks with Graeme Wood, staff writer at The Atlantic, about his profile of Mohammed bin Salman, the crown prince of Saudi Arabia. 
  <p class="updated_time"> 03:42 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/bbc-russia-ukraine.html">BBC Suspends Operations in Russia After Censorship Law Is Passed</a> NYT:    
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
@@ -164,16 +170,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
  <p class="updated_time"> 01:37 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
- <p class="updated_time"> 01:33 PM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/60624556?at_medium=RSS&at_campaign=KARANGA">Adulation and scandal... but arguably cricket's best ever bowler</a> BBC: Why Shane Warne was one of cricket's greatest ever players, and also one of its most colourful characters. 
  <p class="updated_time"> 12:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 12:37 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60625925?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians living in Poland return home to aid war effort</a> BBC: The BBC's Mark Lowen is at the Polish border with Ukrainians hoping to aid Ukraine's war effort. 
- <p class="updated_time"> 12:17 PM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60585720?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russians on boycotts, sanctions and cancellations</a> BBC: Russia is being hit by a global backlash after it invaded Ukraine. How does it feel to be shunned? 
- <p class="updated_time"> 11:30 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60578293?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Russian soldiers killed my family while they fled'</a> BBC: The Fedko family was trying to flee fighting when Russian troops allegedly opened fire on their car. 
+ <p class="updated_time"> 12:04 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60617145?at_medium=RSS&at_campaign=KARANGA">Why doesn't Ukraine attack the Russian convoy? And other questions</a> BBC: Correspondents and experts answer questions from readers on the BBC News website 
  <p class="updated_time"> 11:14 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60625400?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kharkiv residents still sheltering underground a week on</a> BBC: The BBC's Sarah Rainsford reports from a metro station where people have been sheltering from attacks. 
  <p class="updated_time"> 11:03 AM CT, Mar. 04 </p> 
@@ -190,14 +192,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
- <p class="updated_time"> 10:10 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
- <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
 
 
 </details>
