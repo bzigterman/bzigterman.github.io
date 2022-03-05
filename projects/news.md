@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
  <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
- <p class="updated_time"> 01:13 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
  <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084743816/a-dilemma-for-ukrainians-should-i-stay-or-should-i-go">A dilemma for Ukrainians: should I stay or should I go?</a> NPR: Before the war, Ukrainian Rehina Solodovnik tutored Russian students online. The teaching has stopped, but she's still getting text messages. "I am so sorry for our government," one student said. 
+ <a href="https://www.npr.org/2022/03/05/1084743816/a-dilemma-for-ukrainians-should-i-stay-or-should-i-go">A dilemma for Ukrainians: Should I stay or should I go?</a> NPR: Before the war, Ukrainian Rehina Solodovnik tutored Russian students online. The teaching has stopped, but she's still getting text messages. "I am so sorry for our government," one student said. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
