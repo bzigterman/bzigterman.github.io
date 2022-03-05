@@ -8,14 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:53 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
+ <p class="updated_time"> 12:22 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
+ <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
+ <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
  <p class="updated_time"> 11:47 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
  <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine to provide direct aid to Ukrainians</a> NPR: As the idea spread, more than 61,000 nights were booked in two days, grossing nearly $2 million. Airbnb is waiving all host and guest fees in Ukraine for now. 
+ <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked in two days, grossing nearly $2 million. Airbnb is waiving all host and guest fees in Ukraine for now. 
  <p class="updated_time"> 11:37 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Russian Forces Pound Civilians, as Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
  <p class="updated_time"> 10:31 AM CT, Mar. 05 </p> 
@@ -52,8 +56,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084729579/russian-law-bans-journalists-from-calling-ukraine-conflict-a-war-or-an-invasion">Russian law bans journalists from calling Ukraine conflict a 'war' or an 'invasion'</a> NPR: In order to control what the Russian public knows about invasion of Ukraine, President Vladimir Putin has signed a law that imposes stiff sentences on journalists who air "false information." 
  <p class="updated_time"> 07:43 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729572/the-russian-ukraine-conflict-could-strengthen-neo-fascist-groups-in-both-countri">The Russian-Ukraine conflict could strengthen neo-fascist groups in both countries</a> NPR: Experts have roundly dismissed Russian President Vladimir Putin's suggestion that Nazism is prevalent in Ukraine. Still, they worry the war may strengthen neo-fascist groups in both countries. 
- <p class="updated_time"> 07:12 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
+ <p class="updated_time"> 07:21 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729537/chinas-two-sessions-meetings-commence-setting-the-political-agenda-for-the-year">China's 'Two Sessions' meetings commence, setting the political agenda for the year</a> NPR: Meetings this weekend in Beijing will give party leader Xi Peng a chance to persuade officials that he deserves a third term. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
@@ -62,12 +66,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084729509/the-russian-invasion-of-ukraine-enters-its-10th-day">The Russian invasion of Ukraine enters its 10th day</a> NPR: An attempted ceasefire in southern Ukraine was intended to allow for the evacuation of two cities. But Russian forces resumed their bombardment before all civilians could get out. 
  <p class="updated_time"> 06:52 AM CT, Mar. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
- <p class="updated_time"> 06:45 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
- <p class="updated_time"> 06:21 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed for eastern members of the European Union 
  <p class="updated_time"> 06:09 AM CT, Mar. 05 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-deal-threatened-by-russian-demands-over-ukraine-sanctions-11646487044">Iran Nuclear Deal Threatened by Russian Demands</a> WSJ: Russia said it wanted written guarantees that Ukraine-related sanctions won’t prevent it from trading broadly with Tehran under a revived pact. 
  <p class="updated_time"> 06:03 AM CT, Mar. 05 </p> 
@@ -211,10 +211,10 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 12:19 PM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/zelenskyy-plea-congress-aid-00014419">Zelenskyy's emotional, direct Zoom plea to Congress: No-fly zone, Russian oil ban, more military aid</a> Politico: The Ukrainian leader's online call with U.S. lawmakers Saturday drew hundreds of participants — and some requests that won't be easy to meet. 
+ <p class="updated_time"> 12:15 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/us/politics/zelensky-congress-no-fly-zone.html">Zelensky Asks for More Weapons and a No-Fly Zone in Meeting With Congress</a> NYT: The meeting, conducted via Zoom, was the first time President Volodymyr Zelensky of Ukraine had addressed both houses of Congress since Russia’s invasion began. 
  <p class="updated_time"> 11:13 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/russian-plane-due-to-land-in-dc-soon-to-pick-up-expelled-spies-00014418">Russian plane due to land in D.C. soon to pick up expelled ‘spies’</a> Politico: With airspace closed to Russian aircraft, Moscow has sent a diplomatic jet to Dulles to grab officials kicked out of the U.S. 
- <p class="updated_time"> 11:05 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/us/politics/zelensky-congress-no-fly-zone.html">Zelensky Asks for More Weapons and a No-Fly Zone in Meeting With Congress</a> NYT: The meeting, conducted via Zoom, was the first time President Volodymyr Zelensky of Ukraine had addressed both houses of Congress since Russia’s invasion began. 
  <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">U.S. and Allies Discuss Security of Ukraine’s Leaders Amid Fears for Zelensky’s Safety</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
