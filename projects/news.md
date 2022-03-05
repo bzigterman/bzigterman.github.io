@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:23 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 08:29 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
  <p class="updated_time"> 08:15 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1082258984/india-uttar-pradesh-elections-crime-police-muslims">India's ruling party says crime is down. Muslims say they've never felt less safe</a> NPR: India's Hindu nationalists say they've drastically cut crime in Uttar Pradesh, where key elections are underway. Human rights advocates say there's been a spike in police brutality against minorities. 
