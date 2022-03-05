@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:47 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
+ <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine to provide direct aid to Ukrainians</a> NPR: As the idea spread, more than 61,000 nights were booked in two days, grossing nearly $2 million. Airbnb is waiving all host and guest fees in Ukraine for now. 
+ <p class="updated_time"> 11:37 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Russian Forces Pound Civilians, as Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 11:36 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
- <p class="updated_time"> 10:57 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Russian Forces Pound Civilians, as Putin Calls Sanctions a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled humanitarian corridors meant for civilians to escape embattled cities, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 10:31 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
@@ -34,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: BBC suspends its journalists' work in Russia</a> BBC: The temporary suspension comes in response to a new Russian law which threatens reporters with prison. 
  <p class="updated_time"> 08:46 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60629175?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky slams Nato over rejection of no-fly zone</a> BBC: Zelensky said Nato has given Russia "a green light" to continue bombing Ukrainian towns and cities. 
- <p class="updated_time"> 08:45 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
  <p class="updated_time"> 08:37 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
  <p class="updated_time"> 08:36 AM CT, Mar. 05 </p> 
@@ -150,8 +152,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627283/pakistani-women-take-covid-vaccines-door-to-door-to-overcome-hesitancy-and-isola">Pakistani women take COVID vaccines door-to-door to overcome hesitancy and isolation</a> NPR: Pakistani women are taking the COVID-19 vaccine to people's doorsteps. Millions there haven't had their first dose. Most are vaccine-hesitant or women from conservative families who largely stay home. 
  <p class="updated_time"> 03:42 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/bbc-russia-ukraine.html">BBC Suspends Operations in Russia After Censorship Law Is Passed</a> NYT:    
- <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627249/ukrainian-rabbis-try-to-offer-safety-and-shelter">Ukrainian rabbis try to offer safety and shelter</a> NPR: All over Ukraine, the attacks from Russia are taking a toll on the people. The Jewish community is turning to their rabbis for shelter and security. 
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
