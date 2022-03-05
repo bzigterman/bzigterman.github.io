@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:43 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 11:16 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
+ <p class="updated_time"> 10:57 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Russian Forces Pound Civilians, as Putin Calls Sanctions a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled humanitarian corridors meant for civilians to escape embattled cities, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 10:31 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
@@ -58,12 +62,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
+ <p class="updated_time"> 06:09 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deal-threatened-by-russian-demands-over-ukraine-sanctions-11646487044">Iran Nuclear Deal Threatened by Russian Demands</a> WSJ: Russia said it wanted written guarantees that Ukraine-related sanctions won’t prevent it from trading broadly with Tehran under a revived pact. 
  <p class="updated_time"> 06:03 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60627841?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sky News journalist Stuart Ramsay and team shot at in ambush</a> BBC: Correspondent Stuart Ramsay and his crew miraculously survived after their car was fired on. 
  <p class="updated_time"> 06:01 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60629851?at_medium=RSS&at_campaign=KARANGA">Siege of Mariupol: Fresh Russian attacks throw evacuation into chaos</a> BBC: Mass evacuation postponed because of continued Russian shelling. 
  <p class="updated_time"> 05:57 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630351?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands of pro-Russia Serbs march in Belgrade</a> BBC: Flags and flares are paraded through the Serbian capital, as marchers show support for Moscow. 
+ <p class="updated_time"> 05:55 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed for eastern members of the European Union 
  <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
  <p class="updated_time"> 05:08 AM CT, Mar. 05 </p> 
@@ -76,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-eu-moldova-georgia.html">Ukraine War Forces a Question: How Far East Does Europe Go?</a> NYT: After Russia invaded, Ukraine asked to join the European Union, quickly. Moldova and Georgia have asked, too. Member states would rather not answer. 
  <p class="updated_time"> 04:48 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/movies/film-boycott-russia-ukraine.html">Russian Filmmakers and Other Artists Face Boycotts Over Ukraine</a> NYT: A Russian moviemaker with Ukrainian roots and relatives in Kyiv denounced the war. The Glasgow Film Festival dropped his film anyway. 
- <p class="updated_time"> 04:34 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Potential ceasefire in south as Russia advances on Kyiv</a> BBC: Russia allows civilians to leave Mariupol and Volnovakha after more heavy shelling overnight. 
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 04:18 AM CT, Mar. 05 </p> 
@@ -92,8 +98,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-war-hits-worlds-farmers-as-russia-cuts-fertilizer-supplies-hurting-brazil-11646487815">Ukraine War Hits Farmers as Russia Cuts Fertilizer Supplies, Hurting Brazil</a> WSJ: Brazil is the top importer of Russian fertilizer and the largest producer of soy, coffee and sugar. If its farmers have to pay significantly more for fertilizer, the cost of agricultural products is likely to climb, driving up global inflation. 
  <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
- <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deal-threatened-by-russian-demands-over-ukraine-sanctions-11646487044">Iran Nuclear Deal Threatened by Russian Demands</a> WSJ: Russia said it wanted written guarantees that Ukraine-related sanctions won’t prevent it from trading broadly with Tehran under a revived pact. 
  <p class="updated_time"> 01:51 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084723350/russia-offers-ceasefire-in-two-parts-of-ukraine-to-allow-civilians-to-leave">Evacuations are halted in an area of Ukraine where Russia had pledged a cease-fire</a> NPR: Ukrainian officials said the work to evacuate civilians from two cities had halted amid shelling, just hours after Russia announced the deal. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
@@ -158,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
  <p class="updated_time"> 01:37 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
- <p class="updated_time"> 01:36 PM CT, Mar. 04 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-of-ukraine-strains-u-s-s-strategic-ties-with-india-11646427835">Russian Invasion of Ukraine Strains U.S.'s Strategic Ties With India</a> WSJ: India’s decision to avoid taking sides on the war in Ukraine is putting the Biden administration in a bind as it weighs whether to cultivate even closer ties with New Delhi. 
  <p class="updated_time"> 01:33 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/60624556?at_medium=RSS&at_campaign=KARANGA">Adulation and scandal... but arguably cricket's best ever bowler</a> BBC: Why Shane Warne was one of cricket's greatest ever players, and also one of its most colourful characters. 
  <p class="updated_time"> 01:32 PM CT, Mar. 04 </p> 
@@ -200,8 +202,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
- <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/arts/television/lupin-netflix-theft.html">‘Lupin,’ Netflix’s French Heist Drama, Is the Victim of a Theft</a> NYT: Equipment valued at more than $300,000 was stolen from the set of the hit series during filming in a Paris suburb last week. 
 
 
 </details>
@@ -209,8 +209,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:19 PM CT, Mar. 05 </p> 
+ <a href="https://www.politico.com/news/2022/03/05/zelenskyy-plea-congress-aid-00014419">Zelenskyy's emotional, direct Zoom plea to Congress: No-fly zone, Russian oil ban, more military aid</a> Politico: The Ukrainian leader's online call with U.S. lawmakers Saturday drew hundreds of participants -- and some requests that won't be easy to meet. 
  <p class="updated_time"> 11:13 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/russian-plane-due-to-land-in-dc-soon-to-pick-up-expelled-spies-00014418">Russian plane due to land in D.C. soon to pick up expelled ‘spies’</a> Politico: With airspace closed to Russian aircraft, Moscow has sent a diplomatic jet to Dulles to grab officials kicked out of the U.S. 
+ <p class="updated_time"> 11:05 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/us/politics/zelensky-congress-no-fly-zone.html">Zelensky Asks for More Weapons and a No-Fly Zone in Meeting With Congress</a> NYT: The meeting, conducted via Zoom, was the first time President Volodymyr Zelensky of Ukraine had addressed both houses of Congress since Russia’s invasion began. 
  <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">U.S. and Allies Discuss Security of Ukraine’s Leaders Amid Fears for Zelensky’s Safety</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
@@ -321,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/guy-reffitt-january-6-trial.html">Guy Reffitt’s Son Testifies Against Him in Jan. 6 Trial</a> NYT: Guy Reffitt’s 19-year-old son took the stand against him in federal court in a remarkable tableau that captured how one family was split by the attack on the Capitol. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
- <p class="updated_time"> 06:26 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/ukraine-temporary-protected-status-immigration.html">U.S. Grants Temporary Protected Status to Some Ukrainians</a> NYT: The designation gives Ukrainians who were in the United States without legal documentation as of March 1 permission to stay and work for 18 months. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
