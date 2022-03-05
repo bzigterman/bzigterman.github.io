@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:48 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russia Announces Limited Cease-Fire for the Besieged City of Mariupol</a> NYT: Ukrainian officials have warned of a looming catastrophe in the coastal city. Russia said on Saturday that it would open “humanitarian corridors” to Mariupol and the smaller town of Volnovakha. Local officials confirmed that an effort to bring in relief was underway. 
+ <p class="updated_time"> 01:54 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russia Announces Limited Cease-Fire for Besieged City of Mariupol</a> NYT: Ukrainian officials have warned of a looming catastrophe in the coastal city. Russia said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials confirmed that an effort to bring in relief was underway. 
+ <p class="updated_time"> 01:51 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084723350/russia-offers-ceasefire-in-two-parts-of-ukraine-to-allow-civilians-to-leave">Russia offers ceasefire in two parts of Ukraine to allow civilians to leave</a> NPR: The Russian military will observe a ceasefire in two areas of Ukraine starting Saturday to allow civilians to evacuate, Russian state media reported. There was no immediate confirmation from Ukraine. 
  <p class="updated_time"> 12:12 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
@@ -90,8 +92,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627194/russia-is-forcing-media-organizations-to-scrub-their-websites-and-go-off-the-air">Russia is forcing media organizations to scrub their websites and go off the air</a> NPR: Media consumers in Russia are losing ways to learn about what's happening in Ukraine. Russia has shut down most independent media and passed a new law criminalizing reporting on the war. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627187/u-s-lawmakers-are-using-the-ukraine-crisis-to-push-for-domestic-energy-productio">U.S. lawmakers are using the Ukraine crisis to push for domestic energy production</a> NPR: The U.S. oil and gas industry and its backers are seizing on the war in Ukraine to promote domestic energy production. Opponents say it makes more sense to ramp up renewable energy. 
- <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627166/russian-forces-continue-attack-on-kyiv-and-seize-europes-biggest-nuclear-power-p">Russian forces continue attack on Kyiv and seize Europe's biggest nuclear power plant</a> NPR: As Russia's invasion of Ukraine enters its second week, Russian forces continue to pound the capital city of Kyiv. In the south, they've seized control of Europe's largest nuclear power plant. 
  <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
  <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
