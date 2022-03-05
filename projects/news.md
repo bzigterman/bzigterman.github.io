@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:41 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 06:20 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 05:54 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
+ <p class="updated_time"> 05:43 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/aclu-ice-covid-vaccine-booster.html">A.C.L.U. Lawsuit Accuses ICE Jailers of Denying Detainees Vaccines</a> NYT: One of the plaintiffs is Anna Sorokin, a Russian immigrant who for several years presented herself as a German heiress named Anna Delvey. She received a booster shot on Thursday, two days after the suit was filed. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
@@ -18,10 +22,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-kyiv-train-station.html">In Kyiv’s Railway Station, Rumors, Near-Stampedes and Frustration</a> NYT: As Russian forces begin to encircle the Ukrainian capital, tens of thousands are clambering for a way out that may soon be closed off. 
  <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
- <p class="updated_time"> 04:40 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/aclu-ice-covid-vaccine-booster.html">A.C.L.U. Lawsuit Accuses I.C.E. Jailers of Denying Detainees Vaccines</a> NYT: One of the plaintiffs is Anna Sorokin, a Russian immigrant who for several years presented herself as a German heiress named Anna Delvey. She received a booster shot on Thursday, two days after the suit was filed. 
  <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion in Ukraine. 
+ <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:04 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/fda-bharat-biotech-vaccine.html">FDA Rejects India-Made Bharat Biotech Vaccine For Those Under 18 </a> NYT: The vaccine, made by Bharat Biotech, is widely used in India. It has not been tested in the U.S., which has not authorized it for any age groups. 
  <p class="updated_time"> 03:58 PM CT, Mar. 04 </p> 
@@ -84,8 +86,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/cricket/60624556?at_medium=RSS&at_campaign=KARANGA">Adulation and scandal... but arguably cricket's best ever bowler</a> BBC: Why Shane Warne was one of cricket's greatest ever players, and also one of its most colourful characters. 
  <p class="updated_time"> 01:32 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-60609633?at_medium=RSS&at_campaign=KARANGA">How dangerous was the nuclear plant attack?</a> BBC: After Russia seizes two nuclear plant sites, experts weigh the risk to Ukraine and the world at large. 
- <p class="updated_time"> 01:30 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 12:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 12:50 PM CT, Mar. 04 </p> 
@@ -221,10 +221,14 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 06:21 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/pulitzer-winner-walter-mears-dies-aps-boy-on-the-bus-00014379">Pulitzer winner Walter Mears dies, AP’s ‘Boy on the Bus’</a> Politico: “I could produce a story as fast as I could type,” Mears once acknowledged — and he was a fast typist. 
+ <p class="updated_time"> 06:00 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/republicans-ukraine-putin.html">Republicans Sharpen Their Message on Ukraine</a> NYT: Party leaders think that tying President Biden’s handling of the war to his domestic woes could be a potent argument with voters in the fall. 
+ <p class="updated_time"> 05:59 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
+ <p class="updated_time"> 05:47 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/title-42-migrant-families-ruling.html">U.S. Can’t Use Health Rule to Expel Migrant Families Facing Persecution, Court Says</a> NYT: An appeals court said the Biden administration could continue expelling migrant families under the pandemic-era rule, but not to countries where they would be persecuted. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
- <p class="updated_time"> 05:22 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/title-42-migrant-families-ruling.html">U.S. Can’t Use Health Rule to Expel Migrant Families Facing Persecution, Court Says</a> NYT: An appeals court said the Biden administration could continue expelling migrant families under the pandemic-era rule, but not to countries where they would be persecuted. 
  <p class="updated_time"> 05:11 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/pence-trump-russia-ukraine-putin-00014359">Pence hits Trump: No room in GOP ‘for apologists for Putin’</a> Politico: Pence has been increasingly willing to challenge Trump — a dramatic departure from his deferential posture as vice president. 
  <p class="updated_time"> 04:53 PM CT, Mar. 04 </p> 
@@ -234,7 +238,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:27 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/desantis-florida-congressional-maps-00014213">GOP-led Florida Legislature approves new congressional maps that DeSantis vows to veto</a> Politico: Gov. Ron DeSantis’ position puts Republican leaders in an awkward spot. 
  <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion in Ukraine. 
+ <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/lindsey-graham-putin-russia.html">Lindsey Graham Says of Putin: Someone in Russia Should ‘Take This Guy Out’</a> NYT: The comments drew sharp rebukes from other Republicans. 
  <p class="updated_time"> 03:40 PM CT, Mar. 04 </p> 
@@ -265,8 +269,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084548984/lindsey-graham-putin">Sen. Lindsey Graham's apparent call for Putin to be assassinated draws backlash</a> NPR: "The only way this ends is for somebody in Russia to take this guy out," the South Carolina Republican said. Democrats and Republicans denounced the suggestion. 
  <p class="updated_time"> 11:37 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/adams-mask-mandate-schools-indoor-venues-00014208">Adams to lift school mask mandate, vaccine requirement for indoor venues</a> Politico: The mayor cited a low coronavirus case rate of 1.8 percent alongside a high vaccination rate. 
- <p class="updated_time"> 11:09 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/fauci-us-health-officials-tech-covid.html">U.S. Health Officials Plan to Share Covid Technology With Other Nations</a> NYT: Dr. Fauci would not be specific about which technologies will be included and could not say if Moderna’s powerful coronavirus vaccine — developed in partnership with N.I.H. scientists — would be among them. 
  <p class="updated_time"> 11:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084463809/biden-approval-poll-ukraine-economy">Biden gets a bounce after the State of the Union, NPR/PBS NewsHour/Marist poll shows</a> NPR: After Tuesday's speech, the president saw a significant jump with Democrats and independents, as he may be seeing a rally-around-the-Ukrainian-flag moment. 
  <p class="updated_time"> 10:32 AM CT, Mar. 04 </p> 
@@ -313,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084440962/florida-republicans-send-15-week-abortion-ban-to-governor">Abortions after 15 weeks are one signature away from being banned in Florida</a> NPR: The measure in Florida comes as Republicans across the country move to tighten access to the procedure. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
- <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/boebert-greene-republicans.html">In Greene and Boebert, Democrats See a Helpful Political Target</a> NYT: The antics of Representatives Marjorie Taylor Greene and Lauren Boebert, as well as recent stumbles by other Republicans, have drawn unflattering attention to their party. 
  <p class="updated_time"> 08:26 PM CT, Mar. 03 </p> 
