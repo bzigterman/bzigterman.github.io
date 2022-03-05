@@ -8,18 +8,28 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Limited Cease-Fire for Ukrainian City Collapses Amid Russian Shelling</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia had said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials said the effort had to be halted because of continued Russian shelling. 
+ <p class="updated_time"> 07:48 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729579/russian-law-bans-journalists-from-calling-ukraine-conflict-a-war-or-an-invasion">Russian law bans journalists from calling Ukraine conflict a 'war' or an 'invasion'</a> NPR: In order to control what the Russian public knows about invasion of Ukraine, President Vladimir Putin has signed a law that imposes stiff sentences on journalists who air "false information." 
+ <p class="updated_time"> 07:43 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729572/the-russian-ukraine-conflict-could-strengthen-neo-fascist-groups-in-both-countri">The Russian-Ukraine conflict could strengthen neo-fascist groups in both countries</a> NPR: Experts have roundly dismissed Russian President Vladimir Putin's suggestion that Nazism is prevalent in Ukraine. Still, they worry the war may strengthen neo-fascist groups in both countries. 
+ <p class="updated_time"> 07:12 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729537/chinas-two-sessions-meetings-commence-setting-the-political-agenda-for-the-year">China's 'Two Sessions' meetings commence, setting the political agenda for the year</a> NPR: Meetings this weekend in Beijing will give party leader Xi Peng a chance to persuade officials that he deserves a third term. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729516/week-in-politics-biden-leads-nato-in-denouncing-russias-invasion-of-ukraine">Week in politics: Biden leads NATO in denouncing Russia's invasion of Ukraine</a> NPR: President Biden succeeded in unifying NATO's response to Russia's invasion of Ukraine, which may give him more credibility to pursue his domestic agenda. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729509/the-russian-invasion-of-ukraine-enters-its-10th-day">The Russian invasion of Ukraine enters its 10th day</a> NPR: An attempted ceasefire in southern Ukraine was intended to allow for the evacuation of two cities. But Russian forces resumed their bombardment before all civilians could get out. 
  <p class="updated_time"> 06:45 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
- <p class="updated_time"> 06:36 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Limited Cease-Fire for Ukrainian City Collapses Amid Russian Shelling</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia had said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials said the effort had to be halted because of continued Russian shelling. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
  <p class="updated_time"> 06:01 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60629851?at_medium=RSS&at_campaign=KARANGA">Siege of Mariupol: Fresh Russian attacks throw evacuation into chaos</a> BBC: Mariupol authorities postpone a planned mass evacuation because of continued bombardment. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60629851?at_medium=RSS&at_campaign=KARANGA">Siege of Mariupol: Fresh Russian attacks throw evacuation into chaos</a> BBC: Mass evacuation postponed because of continued Russian shelling. 
  <p class="updated_time"> 05:57 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630351?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands of pro-Russia Serbs march in Belgrade</a> BBC: Flags and flares are paraded through the Serbian capital, as marchers show support for Moscow. 
- <p class="updated_time"> 05:55 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
  <p class="updated_time"> 05:05 AM CT, Mar. 05 </p> 
@@ -108,20 +118,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627242/hundreds-of-families-remain-separated-5-years-after-trumps-travel-ban">Hundreds of families remain separated 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
  <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627235/how-ukraines-private-sector-has-shifted-to-help-in-the-war-effort">How Ukraine's businesses and citizens are pitching in to help in the war effort</a> NPR: Ternopil, a town in western Ukraine, is preparing for war: from its training hospital to its milk factories, everyone is gearing up to help or assist in the war effort. 
- <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627222/power-plant-attack-and-civilian-casualties-the-latest-on-the-fight-in-ukraine">Power plant attack and civilian casualties: The latest on the fight in Ukraine</a> NPR: The Pentagon says it has no reason to doubt Russia's claim that it's in control of the Zaporizhzhia nuclear power plant as the invasion of Ukraine continues. There is no sign of radioactive leakage. 
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
- <p class="updated_time"> 03:17 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084624868/the-white-house-says-its-considering-a-range-of-options-for-russian-oil-imports">The White House says it's considering a range of options for Russian oil imports</a> NPR: The White House emphasized the importance of maintaining a steady global energy supply amid Russia's war on Ukraine. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-sanctions-ukraine.html">With Sanctions, U.S. and Europe Aim to Punish Putin and Fuel Russian Unrest</a> NYT: The Biden administration and European officials are crushing the Russian economy and stirring mass anxiety to pressure President Vladimir V. Putin to end his war in Ukraine. 
- <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627201/one-russian-anti-war-protester-on-why-shes-risking-arrest-to-speak-out">One Russian anti-war protester on why she's risking arrest to speak out</a> NPR: NPR's Mary Louise Kelly speaks with a protester in Moscow who is opposing Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627194/russia-is-forcing-media-organizations-to-scrub-their-websites-and-go-off-the-air">Russia is forcing media organizations to scrub their websites and go off the air</a> NPR: Media consumers in Russia are losing ways to learn about what's happening in Ukraine. Russia has shut down most independent media and passed a new law criminalizing reporting on the war. 
- <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627187/u-s-lawmakers-are-using-the-ukraine-crisis-to-push-for-domestic-energy-productio">U.S. lawmakers are using the Ukraine crisis to push for domestic energy production</a> NPR: The U.S. oil and gas industry and its backers are seizing on the war in Ukraine to promote domestic energy production. Opponents say it makes more sense to ramp up renewable energy. 
  <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
  <p class="updated_time"> 02:28 PM CT, Mar. 04 </p> 
@@ -200,6 +200,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729523/rioters-plea-guilty-this-week-as-jan-6-panel-alleges-trump-broke-the-law">Rioters plea guilty this week as Jan. 6 panel alleges Trump broke the law</a> NPR: Scott Simon speaks with independent journalist Marcy Wheeler, who covers national security, about the latest developments in the Jan. 6 insurrection trial. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729516/week-in-politics-biden-leads-nato-in-denouncing-russias-invasion-of-ukraine">Week in politics: Biden leads NATO in denouncing Russia's invasion of Ukraine</a> NPR: President Biden succeeded in unifying NATO's response to Russia's invasion of Ukraine, which may give him more credibility to pursue his domestic agenda. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/formula-recall-fda-abbott-nutrition-00014413">‘I almost lost my baby’: Parents demand answers from FDA</a> Politico: A recall of infant formula tied to two deaths came five months after the agency learned of the first hospitalized child, raising questions about the pace of the government's investigation. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/new-jersey-drivers-pump-gas-00014339">New Jersey drivers may have to learn to pump their own gas</a> Politico: New Jersey is the only state that requires fuel station employees to operate the pumps and prohibits consumers from doing so. Now the industry is pushing to repeal the law amid worker shortages and spiking oil prices. 
@@ -250,7 +254,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627173/republicans-are-looking-to-win-over-angry-parents-in-novembers-elections">Republicans are looking to win over angry parents in November's elections</a> NPR: Republicans believe COVID policies largely backed by Democrats are causing a schism among parents of school-age children — and that these "angry parents" will help the GOP win elections this year. 
  <p class="updated_time"> 02:57 PM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/eastman-delay-jan-6-committee-emails-00014320">Eastman urges delay in Jan. 6 committee’s push for his emails</a> Politico: In court filing, Eastman says a ruling against him would amount to a historic finding of "presidential criminality." 
+ <a href="https://www.politico.com/news/2022/03/04/eastman-delay-jan-6-committee-emails-00014320">Judge rejects Eastman effort to slow down Jan. 6 committee</a> Politico: "Dr. Eastman’s liberty is not at issue—only his emails," Judge David Carter rules. 
  <p class="updated_time"> 02:07 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 01:46 PM CT, Mar. 04 </p> 
@@ -293,10 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448605/a-son-takes-the-stand-against-his-father-in-the-first-trial-related-to-jan-6-rio">A son takes the stand against his father in the first trial related to Jan. 6 riot</a> NPR: The trial of accused Capitol rioter Guy Reffitt continued Thursday with intense video from Jan. 6, and testimony from his son, Jackson, who turned his father in to the FBI. 
- <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
- <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1083494267/some-deride-d-c-as-a-swamp-to-others-its-an-idealistic-place-to-do-good">Some deride D.C. as a swamp. To others, it's an idealistic place to do good</a> NPR: Sure, there are some in Washington hoping to enrich themselves with federal contracts and to corruptly influence policy, but many are drawn, as one resident says, to make the world a better place. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
