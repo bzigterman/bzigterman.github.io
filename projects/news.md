@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
+ <p class="updated_time"> 09:39 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60632974?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Citizens evacuate town of Irpin as homes are destroyed</a> BBC: Crowds are leaving the town of Irpin outside Kyiv as Russian shelling strikes residential areas. 
  <p class="updated_time"> 09:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
- <p class="updated_time"> 09:29 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 09:08 AM CT, Mar. 05 </p> 
@@ -80,6 +82,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: The humanitarian corridors were supposed to be the first tangible result of the talks between Russian and Ukrainian representatives in Belarus. Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 03:23 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
+ <p class="updated_time"> 02:43 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-hits-worlds-farmers-as-russia-cuts-fertilizer-supplies-hurting-brazil-11646487815">Ukraine War Hits Farmers as Russia Cuts Fertilizer Supplies, Hurting Brazil</a> WSJ: Brazil is the top importer of Russian fertilizer and the largest producer of soy, coffee and sugar. If its farmers have to pay significantly more for fertilizer, the cost of agricultural products is likely to climb, driving up global inflation. 
  <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
  <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
@@ -160,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60625925?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians living in Poland return home to aid war effort</a> BBC: The BBC's Mark Lowen is at the Polish border with Ukrainians hoping to aid Ukraine's war effort. 
  <p class="updated_time"> 12:17 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585720?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russians on boycotts, sanctions and cancellations</a> BBC: Russia is being hit by a global backlash after it invaded Ukraine. How does it feel to be shunned? 
- <p class="updated_time"> 11:30 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60624642?at_medium=RSS&at_campaign=KARANGA">Supreme Court reimposes death penalty for Boston bomber</a> BBC: The US Supreme Court has reversed an earlier decision to void Dzhokhar Tsarnaev's death penalty. 
  <p class="updated_time"> 11:30 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60578293?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Russian soldiers killed my family while they fled'</a> BBC: The Fedko family was trying to flee fighting when Russian troops allegedly opened fire on their car. 
  <p class="updated_time"> 11:14 AM CT, Mar. 04 </p> 
