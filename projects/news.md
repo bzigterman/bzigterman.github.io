@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:23 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
  <p class="updated_time"> 02:55 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russia Announces Limited Cease-Fire for Besieged Ukrainian City</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials confirmed that an effort to bring in relief was underway. 
  <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
  <p class="updated_time"> 01:51 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084723350/russia-offers-ceasefire-in-two-parts-of-ukraine-to-allow-civilians-to-leave">Russia offers ceasefire in two parts of Ukraine to allow civilians to leave</a> NPR: The Russian military will observe a ceasefire in two areas of Ukraine starting Saturday to allow civilians to evacuate, Russian state media reported. There was no immediate confirmation from Ukraine. 
- <p class="updated_time"> 12:12 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
  <p class="updated_time"> 11:28 PM CT, Mar. 04 </p> 
