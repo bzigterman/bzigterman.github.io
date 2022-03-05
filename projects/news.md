@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:42 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 09:41 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html">Russia-Ukraine War Helped Ease Rift Between Britain and the E.U.</a> NYT: The crisis in Ukraine is beginning to narrow the chasm opened up by Brexit. 
+ <p class="updated_time"> 09:40 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-eu-moldova-georgia.html">Ukraine War Forces a Question: How Far East Does Europe Go?</a> NYT: After Russia invaded, Ukraine asked to join the European Union, quickly. Moldova and Georgia have asked, too. Member states would rather not answer. 
+ <p class="updated_time"> 09:33 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-kyiv-train-station.html">In Kyiv’s Railway Station, Rumors, Near-Stampedes and Frustration</a> NYT: As Russian forces begin to encircle the Ukrainian capital, tens of thousands are clambering for a way out that may soon be closed off. 
  <p class="updated_time"> 08:51 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084709206/north-korea-fires-another-suspected-ballistic-missile-into-sea">North Korea fires another suspected ballistic missile into sea</a> NPR: Saturday's launch was North Korea's ninth round of weapons launches in 2022 as it attempts to pressure the Biden administration for concessions. 
- <p class="updated_time"> 08:40 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
  <p class="updated_time"> 08:18 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
  <p class="updated_time"> 08:14 PM CT, Mar. 04 </p> 
@@ -38,8 +44,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-propaganda-censorship.html">Last Vestiges of Russia’s Free Press Fall Under Kremlin Pressure</a> NYT: “Everything that’s not propaganda is being eliminated,” a Nobel Prize winning editor said as Russian authorities moved to control the narrative in the Ukraine war. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
- <p class="updated_time"> 05:11 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-kyiv-train-station.html">In Kyiv’s Railway Station, Rumors, Near-Stampedes and Frustration</a> NYT: As Russian forces begin to encircle the Ukrainian capital, tens of thousands are clambering for a way out that may soon be closed off. 
  <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
@@ -86,8 +90,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627187/u-s-lawmakers-are-using-the-ukraine-crisis-to-push-for-domestic-energy-productio">U.S. lawmakers are using the Ukraine crisis to push for domestic energy production</a> NPR: The U.S. oil and gas industry and its backers are seizing on the war in Ukraine to promote domestic energy production. Opponents say it makes more sense to ramp up renewable energy. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627166/russian-forces-continue-attack-on-kyiv-and-seize-europes-biggest-nuclear-power-p">Russian forces continue attack on Kyiv and seize Europe's biggest nuclear power plant</a> NPR: As Russia's invasion of Ukraine enters its second week, Russian forces continue to pound the capital city of Kyiv. In the south, they've seized control of Europe's largest nuclear power plant. 
- <p class="updated_time"> 03:09 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-eu-moldova-georgia.html">Ukraine War Forces a Question: How Far East Does Europe Go?</a> NYT: After Russia invaded, Ukraine asked to join the European Union, quickly. Moldova and Georgia have asked too. Member states would rather not answer. 
  <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
  <p class="updated_time"> 02:42 PM CT, Mar. 04 </p> 
@@ -124,8 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60616800?at_medium=RSS&at_campaign=KARANGA">Freeman Mbowe: Tanzania's opposition leader finally released</a> BBC: The release of Freeman Mbowe could herald the end of political repression, analysts say. 
  <p class="updated_time"> 11:03 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/monique-hanotte-dead.html">Monique Hanotte, Savior of Allied Airmen, Dies at 101</a> NYT: Using her knowledge of the Belgium-France border and quick thinking, she guided dozens of downed Allied airmen to safety during World War II. 
- <p class="updated_time"> 10:44 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html">Russia-Ukraine War Helped Ease Rift Between Britain and the E.U.</a> NYT: The crisis in Ukraine is beginning to narrow the chasm opened up by Brexit. 
  <p class="updated_time"> 10:30 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: BBC suspends its journalists' work in Russia</a> BBC: The temporary suspension comes in response to a new Russian law which threatens reporters with prison. 
  <p class="updated_time"> 10:16 AM CT, Mar. 04 </p> 
@@ -217,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:39 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/republicans-ukraine-putin.html">Republicans Sharpen Their Message on Ukraine</a> NYT: Party leaders think that tying President Biden’s handling of the war to his domestic woes could be a potent argument with voters in the fall. 
  <p class="updated_time"> 09:28 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/ken-duberstein-dead.html">Ken Duberstein, a Former Reagan Chief of Staff, Dies at 77</a> NYT: He helped revive the Reagan presidency in its last years and became a respected lobbyist in Washington. 
  <p class="updated_time"> 08:46 PM CT, Mar. 04 </p> 
@@ -231,8 +233,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
  <p class="updated_time"> 06:21 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/pulitzer-winner-walter-mears-dies-aps-boy-on-the-bus-00014379">Pulitzer winner Walter Mears dies, AP’s ‘Boy on the Bus’</a> Politico: “I could produce a story as fast as I could type,” Mears once acknowledged — and he was a fast typist. 
- <p class="updated_time"> 06:00 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/republicans-ukraine-putin.html">Republicans Sharpen Their Message on Ukraine</a> NYT: Party leaders think that tying President Biden’s handling of the war to his domestic woes could be a potent argument with voters in the fall. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 05:11 PM CT, Mar. 04 </p> 
