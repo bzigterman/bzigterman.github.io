@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:29 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 08:46 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
+ <p class="updated_time"> 08:37 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
+ <p class="updated_time"> 08:36 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60631835?at_medium=RSS&at_campaign=KARANGA">Zara, Paypal and Samsung suspend business in Russia over Ukraine invasion</a> BBC: Inditex, which owns Zara and several other major brands, will close all of its 502 stores in Russia. 
  <p class="updated_time"> 08:15 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1082258984/india-uttar-pradesh-elections-crime-police-muslims">India's ruling party says crime is down. Muslims say they've never felt less safe</a> NPR: India's Hindu nationalists say they've drastically cut crime in Uttar Pradesh, where key elections are underway. Human rights advocates say there's been a spike in police brutality against minorities. 
- <p class="updated_time"> 08:04 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60631835?at_medium=RSS&at_campaign=KARANGA">Zara, Paypal and Samsung suspend business in Russia over Ukraine invasion</a> BBC: Inditex, which owns Zara and several other major brands, will close all of its 502 stores in Russia. 
  <p class="updated_time"> 08:01 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084518775/ukrainian-art-gallery-miami">With the war, a Ukrainian art show gains new meaning</a> NPR: Gallery owners Julia and Max Voloshyn came to Miami five months ago to exhibit the work of Ukrainian artists. Now that Russia has invaded their homeland, they can't go back. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
