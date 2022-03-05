@@ -32,7 +32,18 @@ champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
   mutate(rain = {if("rain.1h" %in% names(.)) ifelse(is.na(rain.1h),
                                                     0,rain.1h) else 0}) %>%
   mutate(snow = {if("snow.1h" %in% names(.)) ifelse(is.na(snow.1h),
-                                                    0,snow.1h) else 0})
+                                                    0,snow.1h) else 0}) %>%
+  mutate(sunrise = as_datetime( paste(as_date(central_time)," ",
+                         hour(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                         minute(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                         second(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),
+                         sep = "")), tz = "America/Chicago" )%>%
+  mutate(sunset = as_datetime( paste(as_date(central_time)," ",
+                         hour(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                         minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                         second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
+                         sep = "")), tz = "America/Chicago")
+
 champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
   mutate(utc_time = as_datetime(dt)) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
@@ -40,7 +51,7 @@ champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
   mutate(rain = {if("rain" %in% names(.)) ifelse(is.na(rain),
                                                  0,rain) else 0}) %>%
   mutate(snow = {if("snow" %in% names(.)) ifelse(is.na(snow),
-                                                 0,snow) else 0})
+                                                 0,snow) else 0}) 
 
 ## historical ----
 url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
@@ -78,7 +89,17 @@ last_24 <- full_join(history_today, history_yesterday) %>%
   mutate(snow = {if("snow.1h" %in% names(.)) ifelse(is.na(snow.1h),
                                                     0,snow.1h) else 0}) %>%
   arrange(central_time) %>%
-  filter(central_time > now(tzone = "America/Chicago")-days(1))
+  filter(central_time > now(tzone = "America/Chicago")-days(1)) %>%
+  mutate(sunrise = as_datetime( paste(as_date(central_time)," ",
+                                      hour(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                      minute(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                      second(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),
+                                      sep = "")), tz = "America/Chicago" )%>%
+  mutate(sunset = as_datetime( paste(as_date(central_time)," ",
+                                     hour(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                     minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                     second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
+                                     sep = "")), tz = "America/Chicago")
 
 ## three-hours ----
 url = "https://api.openweathermap.org/data/2.5/forecast"
@@ -98,7 +119,17 @@ champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
   mutate(humidity = main.humidity) %>%
   mutate(pressure = main.pressure) %>%
   mutate(clouds = clouds.all) %>%
-  mutate(wind_speed = wind.speed)
+  mutate(wind_speed = wind.speed) %>%
+  mutate(sunrise = as_datetime( paste(as_date(central_time)," ",
+                                      hour(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                      minute(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                      second(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),
+                                      sep = "")), tz = "America/Chicago" )%>%
+  mutate(sunset = as_datetime( paste(as_date(central_time)," ",
+                                     hour(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                     minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                     second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
+                                     sep = "")), tz = "America/Chicago")
 
 # set variables ----
 champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
@@ -124,12 +155,12 @@ champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
 champaign_forecast_longer <- champaign_history_and_forecast %>%
   select(central_time,temp, humidity,
          wind_speed, clouds,
-         pop, rain, snow) %>%
+         pop, rain, snow, sunrise, sunset) %>%
   select(where(~ any(. != 0))) %>%
-  pivot_longer(cols = !central_time,
+  pivot_longer(cols = !c(central_time, sunrise, sunset),
                names_to = "names",
                values_to = "values") %>%
-  select(central_time,names,values) %>%
+  select(central_time, sunrise, sunset,names,values) %>%
   mutate(names = recode_factor(names, 
                                "temp"       = "°F",
                                "pop"        = "Precip%",
@@ -139,13 +170,24 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
                                "wind_speed" = "Wind",
                                "humidity"   = "Humidity"))
 
+daylight <- champaign_forecast_longer %>%
+  select(sunrise, sunset) %>%
+  unique() %>%
+  mutate(top = Inf) %>%
+  mutate(bottom = -Inf)
+
 # facet ----
-ggplot(champaign_forecast_longer,
-       aes(x = central_time,
-           y = values,
-           colour = names)) +
-  geom_line() +
-  geom_vline(xintercept = now()) +
+ggplot() +
+  geom_rect(data = daylight,
+            aes(xmin = sunrise, xmax = sunset,
+                ymin = bottom, ymax = top),
+            color = "white",
+            fill = "white") +
+  geom_line(data = champaign_forecast_longer,
+            aes(x = central_time,
+                y = values,
+                colour = names)) +
+  geom_vline(xintercept = now(tzone = "America/Chicago")) +
   facet_wrap(~ names, scales = "free_y",
              ncol = 1,
              strip.position = "left") +
@@ -155,13 +197,14 @@ ggplot(champaign_forecast_longer,
   scale_x_datetime(expand = c(0,0),
                    date_labels = "%a",
                    date_breaks = "1 day",
-                   position = "top") +
+                   position = "top",
+                   timezone = "America/Chicago") +
   scale_y_continuous(position = "right") +
   theme(axis.ticks.y = element_blank(),
         panel.grid = element_blank(),
-        panel.background = element_blank(),
+        panel.background = element_rect("grey97"),
         legend.position = "none",
-        panel.grid.major = element_line(colour = "grey93"),
+        panel.grid.major.x = element_line(colour = "grey90"),
         strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 
