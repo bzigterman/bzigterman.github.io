@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:22 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 12:36 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
+ <p class="updated_time"> 12:26 PM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
@@ -22,8 +24,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
- <p class="updated_time"> 10:31 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
  <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
