@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:44 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 09:47 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
  <p class="updated_time"> 09:39 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632974?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Citizens evacuate town of Irpin as homes are destroyed</a> BBC: Crowds are leaving the town of Irpin outside Kyiv as Russian shelling strikes residential areas. 
