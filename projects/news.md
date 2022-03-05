@@ -8,8 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:20 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 07:46 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
+ <p class="updated_time"> 07:34 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/business/economy/china-economy-congress-explained.html">China’s  Legislative Session to Focus on Economy </a> NYT: Russia’s invasion of Ukraine went unmentioned at the opening of an annual gathering of China’s legislature, as leaders focused on stabilizing economic growth. 
+ <p class="updated_time"> 07:32 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-military-advance-ukraine-war.html">Russia Seizes Nuclear Plant in Ukraine and Makes Gain in the South</a> NYT: The Russian military advance in Ukraine sowed more destruction and chaos, pointing to a worsening conflict, as the Kremlin also moved to restrict how it’s reported at home. 
+ <p class="updated_time"> 07:26 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: Its new budget mandates heavy government spending and lending, as Beijing seeks to project confidence in the face of global uncertainty. 
+ <p class="updated_time"> 07:10 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
+ <p class="updated_time"> 06:45 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-ukraine-no-fly-zone.html">Zelensky Criticizes Nato Over Its Rejection of a No-fly Zone</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
+ <p class="updated_time"> 06:28 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
+ <p class="updated_time"> 06:08 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-london-60612621?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: UK woman on husband barred from leaving Ukraine</a> BBC: Nicola's husband home was barred from returning home to London from Ukraine due to martial law. 
  <p class="updated_time"> 05:54 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 05:43 PM CT, Mar. 04 </p> 
@@ -92,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
  <p class="updated_time"> 12:37 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60625925?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians living in Poland return home to aid war effort</a> BBC: The BBC's Mark Lowen is at the Polish border with Ukrainians hoping to aid Ukraine's war effort. 
- <p class="updated_time"> 12:30 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
  <p class="updated_time"> 12:17 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60585720?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russians on boycotts, sanctions and cancellations</a> BBC: Russia is being hit by a global backlash after it invaded Ukraine. How does it feel to be shunned? 
  <p class="updated_time"> 11:55 AM CT, Mar. 04 </p> 
@@ -108,8 +120,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60616800?at_medium=RSS&at_campaign=KARANGA">Freeman Mbowe: Tanzania's opposition leader finally released</a> BBC: The release of Freeman Mbowe could herald the end of political repression, analysts say. 
  <p class="updated_time"> 11:03 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/monique-hanotte-dead.html">Monique Hanotte, Savior of Allied Airmen, Dies at 101</a> NYT: Using her knowledge of the Belgium-France border and quick thinking, she guided dozens of downed Allied airmen to safety during World War II. 
- <p class="updated_time"> 11:00 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/business/economy/china-economy-congress-explained.html">China’s  Legislative Session to Focus on Economy </a> NYT: Russia’s invasion of Ukraine is likely to go almost unmentioned at an annual gathering of China’s legislature, as leaders focus on stabilizing economic growth. 
  <p class="updated_time"> 10:44 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html">Russia-Ukraine War Helped Ease Rift Between Britain and the E.U.</a> NYT: The crisis in Ukraine is beginning to narrow the chasm opened up by Brexit. 
  <p class="updated_time"> 10:30 AM CT, Mar. 04 </p> 
@@ -126,8 +136,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/movies/film-boycott-russia-ukraine.html">Russian Filmmakers and Other Artists Face Boycotts Over Ukraine</a> NYT: A Russian moviemaker with Ukrainian roots and relatives in Kyiv denounced the war. The Glasgow Film Festival dropped his film anyway. 
  <p class="updated_time"> 08:25 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60617108?at_medium=RSS&at_campaign=KARANGA">Pakistan bombing kills dozens in Shia mosque in Peshawar</a> BBC: A bombing inside a Shia mosque in the city of Peshawar kills more than 50 people and wounds many more. 
- <p class="updated_time"> 08:24 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60616946?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families run for cover as Russian air strikes hit Chernihiv</a> BBC: Residents of Chernihiv and other cities say apartments, hospitals and schools are being destroyed. 
  <p class="updated_time"> 07:06 AM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190">Ukraine's Special Forces Hold Off Russian Offensive on Kyiv's Front Lines</a> WSJ: Antitank weapons and antiaircraft missiles from the West have made make a big difference, as have the Russians’ Soviet-style tactics, Ukrainian officers say. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
@@ -186,8 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/arts/television/lupin-netflix-theft.html">‘Lupin,’ Netflix’s French Heist Drama, Is the Victim of a Theft</a> NYT: Equipment valued at more than $300,000 was stolen from the set of the hit series during filming in a Paris suburb last week. 
  <p class="updated_time"> 12:54 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/war-crimes-russia-ukraine-icc.html">I.C.C. Prosecutor Fast-Tracks War Crimes Investigation in Ukraine</a> NYT: The prosecutor said the investigation would encompass “allegations of war crimes, crimes against humanity or genocide committed” in Ukraine. 
- <p class="updated_time"> 11:48 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/americas/brazil-carnival.html">In Glitter and Leotards, They Took a Stand: Brazil's Carnival Must Go On</a> NYT: After Brazil’s biggest party was effectively canceled for the second straight year, a group of artists rallied to play on despite police orders. 
  <p class="updated_time"> 11:00 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/putin-macron-call.html">After Putin-Macron Call, France Sees Russia Wanting 'All Ukraine'</a> NYT: On the call, the Russian president said that his goal, “the demilitarization and neutral status of Ukraine,” would be achieved “no matter what,” according to the Kremlin. 
  <p class="updated_time"> 10:48 AM CT, Mar. 03 </p> 
@@ -198,10 +204,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/french-volunteers-ukraine.html">French Volunteers Plan to Head to Ukraine to Help Fight Against Russia</a> NYT: And Ukraine is welcoming them and other volunteers with open arms. 
  <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Here's How the Russia-Ukraine War Is Evolving</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
- <p class="updated_time"> 06:30 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/australia/new-zealand-covid-omicron.html">As Cases Skyrocket, New Zealand Finally Faces Its Covid Reckoning</a> NYT: New Zealanders are anxious as they learn to live with the pandemic-related risk that has been a fact of life elsewhere for two years. 
- <p class="updated_time"> 02:44 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/asia/new-zealand-child-sexual-abuse.html">Hundreds Held After New Zealand-Led Investigation Into Images of Child Abuse</a> NYT: An international collaboration resulted in the rescue of dozens of children and exposed a secret global network used to share material on sexual abuse. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
@@ -219,12 +221,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/florida-voting-election-crimes-force.html">Florida Senate Passes Voting Bill to Create Election Crimes Agency</a> NYT: The bill would make Florida one of the first states to have a force dedicated to election crimes and voter fraud, despite such offenses being exceedingly rare. 
+ <p class="updated_time"> 06:56 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
  <p class="updated_time"> 06:21 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/pulitzer-winner-walter-mears-dies-aps-boy-on-the-bus-00014379">Pulitzer winner Walter Mears dies, AP’s ‘Boy on the Bus’</a> Politico: “I could produce a story as fast as I could type,” Mears once acknowledged — and he was a fast typist. 
  <p class="updated_time"> 06:00 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/republicans-ukraine-putin.html">Republicans Sharpen Their Message on Ukraine</a> NYT: Party leaders think that tying President Biden’s handling of the war to his domestic woes could be a potent argument with voters in the fall. 
- <p class="updated_time"> 05:59 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
  <p class="updated_time"> 05:47 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/title-42-migrant-families-ruling.html">U.S. Can’t Use Health Rule to Expel Migrant Families Facing Persecution, Court Says</a> NYT: An appeals court said the Biden administration could continue expelling migrant families under the pandemic-era rule, but not to countries where they would be persecuted. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
@@ -254,7 +258,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627173/republicans-are-looking-to-win-over-angry-parents-in-novembers-elections">Republicans are looking to win over angry parents in November's elections</a> NPR: Republicans believe COVID policies largely backed by Democrats are causing a schism among parents of school-age children — and that these "angry parents" will help the GOP win elections this year. 
  <p class="updated_time"> 02:57 PM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/eastman-delay-jan-6-committee-emails-00014320">Eastman urges delay in Jan. 6 committee’s push for his emails</a> Politico: In court filing, Eastman says a ruling against him would amount to a historic finding of ‘presidential criminality.’ 
+ <a href="https://www.politico.com/news/2022/03/04/eastman-delay-jan-6-committee-emails-00014320">Eastman urges delay in Jan. 6 committee’s push for his emails</a> Politico: In court filing, Eastman says a ruling against him would amount to a historic finding of "presidential criminality." 
  <p class="updated_time"> 02:07 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 01:46 PM CT, Mar. 04 </p> 
@@ -323,10 +327,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 07:48 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-jan-6-criminal-case.html">Panel Suggests Trump Knew He Lost the Election, Eyeing Criminal Case</a> NYT: At the core of the theory of a possible criminal case against former President Donald J. Trump is the argument that he knew he had lost the election and sought to overturn it anyway. 
- <p class="updated_time"> 07:40 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/treasury-sanctions-russia-online-outlets-00013931">Treasury sanctions Russian online outlets for spreading disinformation</a> Politico: The move marks the strongest set of actions the U.S. government has taken against Russian-government operated media since the invasion. 
  <p class="updated_time"> 06:55 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/guy-reffitt-january-6-trial.html">‘Traitors Get Shot’: Son Testifies Against Father in Jan. 6 Trial</a> NYT: Guy Reffitt’s 19-year-old son took the stand against him in federal court in a remarkable tableau that captured how one family was split by the attack on the Capitol. 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/guy-reffitt-january-6-trial.html">Guy Reffitt’s Son Testifies Against Him in Jan. 6 Trial</a> NYT: Guy Reffitt’s 19-year-old son took the stand against him in federal court in a remarkable tableau that captured how one family was split by the attack on the Capitol. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
  <p class="updated_time"> 06:26 PM CT, Mar. 03 </p> 
