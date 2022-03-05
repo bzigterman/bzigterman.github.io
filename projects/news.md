@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:30 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 11:36 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
@@ -210,7 +210,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:19 PM CT, Mar. 05 </p> 
- <a href="https://www.politico.com/news/2022/03/05/zelenskyy-plea-congress-aid-00014419">Zelenskyy's emotional, direct Zoom plea to Congress: No-fly zone, Russian oil ban, more military aid</a> Politico: The Ukrainian leader's online call with U.S. lawmakers Saturday drew hundreds of participants -- and some requests that won't be easy to meet. 
+ <a href="https://www.politico.com/news/2022/03/05/zelenskyy-plea-congress-aid-00014419">Zelenskyy's emotional, direct Zoom plea to Congress: No-fly zone, Russian oil ban, more military aid</a> Politico: The Ukrainian leader's online call with U.S. lawmakers Saturday drew hundreds of participants — and some requests that won't be easy to meet. 
  <p class="updated_time"> 11:13 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/russian-plane-due-to-land-in-dc-soon-to-pick-up-expelled-spies-00014418">Russian plane due to land in D.C. soon to pick up expelled ‘spies’</a> Politico: With airspace closed to Russian aircraft, Moscow has sent a diplomatic jet to Dulles to grab officials kicked out of the U.S. 
  <p class="updated_time"> 11:05 AM CT, Mar. 05 </p> 
@@ -333,6 +333,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
+ <p class="updated_time"> 12:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/timken-senate-ohio-00013759">Trump endorsement casts long shadow over Ohio Senate race</a> Politico: Mar-a-Lago is watching closely as former state GOP Chair Jane Timken balances between the establishment and MAGA wings. 
  <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
