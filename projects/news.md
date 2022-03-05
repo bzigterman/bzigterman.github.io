@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russia Announces Limited Cease-Fire for Besieged City of Mariupol</a> NYT: Ukrainian officials have warned of a looming catastrophe in the coastal city. Russia said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials confirmed that an effort to bring in relief was underway. 
+ <p class="updated_time"> 02:55 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russia Announces Limited Cease-Fire for Besieged Ukrainian City</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials confirmed that an effort to bring in relief was underway. 
  <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
  <p class="updated_time"> 01:51 AM CT, Mar. 05 </p> 
