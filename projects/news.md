@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:27 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 05:49 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 05:38 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/mastercard-visa-suspend-operations-russia.html">Mastercard and Visa Suspend Operations in Russia</a> NYT: Russian-issued cards will no longer work in other countries, and purchases from Russian vendors by cardholders in other countries will be cut off. 
  <p class="updated_time"> 04:37 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
  <p class="updated_time"> 04:30 PM CT, Mar. 05 </p> 
@@ -196,8 +198,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
- <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
 
 
 </details>
