@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:42 PM CT, Mar. 04 </p> 
+ <p class="updated_time"> 10:08 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/business/economy/china-economy-congress-explained.html">China’s  Legislative Session to Focus on Economy </a> NYT: Russia’s invasion of Ukraine went unmentioned at the opening of an annual gathering of China’s legislature, as leaders focused on stabilizing economic growth. 
+ <p class="updated_time"> 10:07 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Anxiety over a captured nuclear plant eased when a fire was extinguished. 
  <p class="updated_time"> 09:41 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html">Russia-Ukraine War Helped Ease Rift Between Britain and the E.U.</a> NYT: The crisis in Ukraine is beginning to narrow the chasm opened up by Brexit. 
@@ -20,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084709206/north-korea-fires-another-suspected-ballistic-missile-into-sea">North Korea fires another suspected ballistic missile into sea</a> NPR: Saturday's launch was North Korea's ninth round of weapons launches in 2022 as it attempts to pressure the Biden administration for concessions. 
  <p class="updated_time"> 08:18 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
- <p class="updated_time"> 08:14 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/business/economy/china-economy-congress-explained.html">China’s  Legislative Session to Focus on Economy </a> NYT: Russia’s invasion of Ukraine went unmentioned at the opening of an annual gathering of China’s legislature, as leaders focused on stabilizing economic growth. 
  <p class="updated_time"> 08:10 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Neutral but Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 07:32 PM CT, Mar. 04 </p> 
@@ -266,7 +266,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:07 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">A.T.F., Agency Crucial to Biden’s Gun Plan, Struggles to Push for Reform</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 01:46 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">Decades of Neglect Leave I.R.S. in Tax Season ‘Chaos’</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
  <p class="updated_time"> 01:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 12:36 PM CT, Mar. 04 </p> 
