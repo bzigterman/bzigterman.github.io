@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:14 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 09:30 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
+ <p class="updated_time"> 09:29 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
+ <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 09:08 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:06 AM CT, Mar. 05 </p> 
@@ -70,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/asia/auroville-india.html">Build a New City or New Humans? A Utopia in India Fights Over Future.</a> NYT: Backed by Prime Minister Narendra Modi, the new leadership of Auroville, an experimental commune, wants to create a model city. In the way stand trees, tree houses and a take-it-slow tradition. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
- <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/arts/music/russian-artists-putin.html">Too Close to Putin? Institutions Vet Artists, Uncomfortably.</a> NYT: Russia’s invasion of Ukraine has led arts organizations to reconsider who performs, forcing them to confront questions about free speech and policing political views. 
  <p class="updated_time"> 03:48 AM CT, Mar. 05 </p> 
@@ -144,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
  <p class="updated_time"> 02:01 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
- <p class="updated_time"> 01:45 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 01:37 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
  <p class="updated_time"> 01:36 PM CT, Mar. 04 </p> 
@@ -207,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/05/zelenskyy-presses-u-s-senators-as-ceasefire-collapses-00014415"> Zelenskyy presses U.S. senators as ceasefire collapses</a> Politico Playbook: And Russia clamps down on free speech. 
+ <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 09:08 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 07:59 AM CT, Mar. 05 </p> 
@@ -271,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/atf-biden-gun-reform.html">Dueling Messages Muddle Biden’s Agenda on Guns</a> NYT: Critics accuse the A.T.F.’s acting director, Marvin Richardson, of cozying up to gun industry leaders at a convention in Las Vegas and delaying enacting rules that would outlaw so-called ghost guns. 
  <p class="updated_time"> 01:46 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
- <p class="updated_time"> 01:45 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 12:36 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/militia-member-testifies-january-6-00014243">Traveling companion of Capitol riot defendant details talk of dragging Pelosi from building</a> Politico: The ex-militia member testified at the first Jan. 6 trial, which is reaching its conclusion. 
  <p class="updated_time"> 12:16 PM CT, Mar. 04 </p> 
