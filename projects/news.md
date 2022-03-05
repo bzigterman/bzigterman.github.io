@@ -200,8 +200,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/arts/music/anna-netrebko-met-opera-ukraine.html">Anna Netrebko, Diva With Putin Ties, Is Out at the Metropolitan Opera</a> NYT: The Met said she would not appear for two seasons, and possibly more, after declining to comply with its demand that she repudiate her public support for Putin. 
  <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/council-of-europe-russia-suspension.html">Council of Europe Suspends Russia for Its Attack on Ukraine</a> NYT: Marija Pejcinovic Buric, the institution’s secretary general, calls the invasion ‘a dark hour for Europe and everything it stands for.’ 
- <p class="updated_time"> 09:13 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-war.html">Here's How the Russia-Ukraine War Is Evolving</a> NYT: Europe’s largest ground war since World War II is moving toward an increasingly brutal phase. 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
