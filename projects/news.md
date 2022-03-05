@@ -8,10 +8,22 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/asia/build-a-new-city-or-new-humans-a-utopia-in-india-fights-over-future.html">Build a New City or New Humans? A Utopia in India Fights Over Future.</a> NYT: Backed by Prime Minister Narendra Modi, the new leadership of Auroville, an experimental commune, wants to create a model city. In the way stand trees, tree houses and a take-it-slow tradition. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russia Announces Limited Cease-Fire for Besieged Ukrainian City</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials confirmed that an effort to bring in relief was underway. 
+ <p class="updated_time"> 04:09 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/arts/music/russian-artists-putin.html">Too Close to Putin? Institutions Vet Artists, Uncomfortably.</a> NYT: Russia’s invasion of Ukraine has led arts organizations to reconsider who performs, forcing them to confront questions about free speech and policing political views. 
  <p class="updated_time"> 03:23 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
- <p class="updated_time"> 02:55 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Live Updates: Russia Announces Limited Cease-Fire for Besieged Ukrainian City</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials confirmed that an effort to bring in relief was underway. 
  <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
  <p class="updated_time"> 01:51 AM CT, Mar. 05 </p> 
@@ -166,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/africa/russia-ukraine-eritrea-africa.html">Shunned by Others, Russia Finds Friends in Africa</a> NYT: Africa’s largest arms dealer, Russia has ties to the continent that stretch back to the Cold War and helped Mr. Putin win rare support over the invasion of Ukraine. 
  <p class="updated_time"> 10:10 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
- <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
@@ -182,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-cia-black-sites-guantanamo.html">C.I.A. Black Sites Are State Secrets, the Supreme Court Rules</a> NYT: A Guantánamo detainee had sought information from two former government contractors to aid in a Polish criminal inquiry into a facility there. 
- <p class="updated_time"> 04:16 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/technology/ukraine-war-misinfo.html">In Ukraine’s Information War, a Blend of Fact and Fiction</a> NYT: Experts say stories like the Ghost of Kyiv and Snake Island, both of questionable veracity, are propaganda or morale boosters, or perhaps both. 
  <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
@@ -194,12 +202,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/business/economy/russia-sanctions-global-economy.html">Western Sanctions Show Russian Vulnerability in Global Economy</a> NYT: Even countries with limited trade relationships are intertwined in capital markets in today’s world. Could the Russia sanctions change that? 
  <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/arts/television/lupin-netflix-theft.html">‘Lupin,’ Netflix’s French Heist Drama, Is the Victim of a Theft</a> NYT: Equipment valued at more than $300,000 was stolen from the set of the hit series during filming in a Paris suburb last week. 
- <p class="updated_time"> 11:00 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/putin-macron-call.html">After Putin-Macron Call, France Sees Russia Wanting 'All Ukraine'</a> NYT: On the call, the Russian president said that his goal, “the demilitarization and neutral status of Ukraine,” would be achieved “no matter what,” according to the Kremlin. 
- <p class="updated_time"> 10:48 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/arts/music/anna-netrebko-met-opera-ukraine.html">Anna Netrebko, Diva With Putin Ties, Is Out at the Metropolitan Opera</a> NYT: The Met said she would not appear for two seasons, and possibly more, after declining to comply with its demand that she repudiate her public support for Putin. 
- <p class="updated_time"> 10:30 AM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/council-of-europe-russia-suspension.html">Council of Europe Suspends Russia for Its Attack on Ukraine</a> NYT: Marija Pejcinovic Buric, the institution’s secretary general, calls the invasion ‘a dark hour for Europe and everything it stands for.’ 
  <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
  <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
@@ -217,6 +219,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084640994/racial-justice-activists-say-bidens-state-of-the-union-address-missed-the-mark">Racial justice activists say Biden's State of the Union address missed the mark</a> NPR: In one of the most high-profile speeches of Biden's presidency, he did not emphasize issues of racial justice. 
  <p class="updated_time"> 09:48 PM CT, Mar. 04 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:39 PM CT, Mar. 04 </p> 
@@ -227,8 +233,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/florida-voting-election-crimes-force.html">Florida Senate Passes Voting Bill to Create Election Crimes Agency</a> NYT: The bill would make Florida one of the first states to have a force dedicated to election crimes and voter fraud, despite such offenses being exceedingly rare. 
  <p class="updated_time"> 08:40 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/russia-splinternet-facebook-twitter-00014408">The Russian ‘splinternet’ is here</a> Politico: Russia’s internet is increasingly cut off from the rest of the world as Facebook and Twitter face restrictions and U.S. tech companies leave the country. 
- <p class="updated_time"> 08:10 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Neutral but Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 07:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/title-42-migrant-families-ruling.html">U.S. Can’t Use Health Rule to Expel Migrant Families Facing Persecution, Court Says</a> NYT: An appeals court said the Biden administration could continue expelling migrant families under the pandemic-era rule, but not to countries where they would be persecuted. 
  <p class="updated_time"> 06:56 PM CT, Mar. 04 </p> 
@@ -315,8 +319,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084181233/past-u-s-policy-toward-russia-looms-over-how-biden-confronts-putin-on-ukraine">Past U.S. policy toward Russia looms over how Biden confronts Putin on Ukraine</a> NPR: Critics say the chaotic U.S. withdrawal from Afghanistan emboldened the Russian leader, but former U.S. officials say past U.S. responses to Russian incursions were a bigger problem. 
  <p class="updated_time"> 04:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1083494267/some-deride-d-c-as-a-swamp-to-others-its-an-idealistic-place-to-do-good">Some deride D.C. as a swamp. To others, it's an idealistic place to do good</a> NPR: Sure, there are some in Washington hoping to enrich themselves with federal contracts and to corruptly influence policy, but many are drawn, as one resident says, to make the world a better place. 
- <p class="updated_time"> 12:12 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084440962/florida-republicans-send-15-week-abortion-ban-to-governor">Abortions after 15 weeks are one signature away from being banned in Florida</a> NPR: The measure in Florida comes as Republicans across the country move to tighten access to the procedure. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
