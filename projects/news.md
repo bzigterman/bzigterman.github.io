@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:25 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 03:36 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 03:31 PM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084764302/putin-calls-sanctions-a-declaration-of-war-as-zelenskyy-pleads-for-more-aid">Putin calls sanctions a declaration of war as Zelenskyy pleads for more aid</a> NPR: Russian President Vladimir Putin also said that any attempt to install a no-fly zone in Ukraine would cause catastrophic consequences for Europe and the world. 
  <p class="updated_time"> 02:57 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 02:56 PM CT, Mar. 05 </p> 
@@ -160,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084321690/lgbtq-refugees-fleeing-ukraine-face-discrimination-in-countries-with-anti-gay-la">LGBTQ refugees fleeing Ukraine face discrimination in countries with anti-gay laws</a> NPR: LGBTQ people have always been under stress in Ukraine. As they flee their country, they're arriving in places that are even more punitive to their community. 
  <p class="updated_time"> 03:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
- <p class="updated_time"> 03:43 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627299/a-hair-salon-becomes-a-beauty-shop-of-horrors-in-palestinian-thriller-hudas-salo">A hair salon becomes a beauty shop of horrors in Palestinian thriller 'Huda's Salon'</a> NPR: A visit to a hair salon in the West Bank turns nightmarish in Palestinian filmmaker Hany Abu-Assad's new thriller Huda's Salon. 
  <p class="updated_time"> 03:42 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/bbc-russia-ukraine.html">BBC Suspends Operations in Russia After Censorship Law Is Passed</a> NYT:    
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
