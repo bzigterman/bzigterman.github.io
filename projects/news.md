@@ -217,6 +217,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:48 PM CT, Mar. 04 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:39 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/republicans-ukraine-putin.html">Republicans Sharpen Their Message on Ukraine</a> NYT: Party leaders think that tying President Biden’s handling of the war to his domestic woes could be a potent argument with voters in the fall. 
  <p class="updated_time"> 09:28 PM CT, Mar. 04 </p> 
@@ -333,8 +335,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
- <p class="updated_time"> 04:16 PM CT, Mar. 03 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
