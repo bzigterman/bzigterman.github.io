@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:47 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 01:00 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
- <p class="updated_time"> 12:26 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
+ <p class="updated_time"> 12:53 PM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084743816/a-dilemma-for-ukrainians-should-i-stay-or-should-i-go">A dilemma for Ukrainians: should I stay or should I go?</a> NPR: Before the war, Ukrainian Rehina Solodovnik tutored Russian students online. The teaching has stopped, but she's still getting text messages. "I am so sorry for our government," one student said. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627299/a-hair-salon-becomes-a-beauty-shop-of-horrors-in-palestinian-thriller-hudas-salo">A hair salon becomes a beauty shop of horrors in Palestinian thriller 'Huda's Salon'</a> NPR: A visit to a hair salon in the West Bank turns nightmarish in Palestinian filmmaker Hany Abu-Assad's new thriller Huda's Salon. 
  <p class="updated_time"> 03:43 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627290/what-the-saudi-crown-princes-latest-interview-says-about-the-future-of-saudi-ara">What the Saudi crown prince's latest interview says about the future of Saudi Arabia</a> NPR: NPR's Ari Shapiro speaks with Graeme Wood, staff writer at The Atlantic, about his profile of Mohammed bin Salman, the crown prince of Saudi Arabia. 
- <p class="updated_time"> 03:43 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627283/pakistani-women-take-covid-vaccines-door-to-door-to-overcome-hesitancy-and-isola">Pakistani women take COVID vaccines door-to-door to overcome hesitancy and isolation</a> NPR: Pakistani women are taking the COVID-19 vaccine to people's doorsteps. Millions there haven't had their first dose. Most are vaccine-hesitant or women from conservative families who largely stay home. 
  <p class="updated_time"> 03:42 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/bbc-russia-ukraine.html">BBC Suspends Operations in Russia After Censorship Law Is Passed</a> NYT:    
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
