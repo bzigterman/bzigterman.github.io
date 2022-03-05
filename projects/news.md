@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:05 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
+ <p class="updated_time"> 08:04 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60631835?at_medium=RSS&at_campaign=KARANGA">Zara, Paypal and Samsung suspend business in Russia over Ukraine invasion</a> BBC: Inditex, which owns Zara and several other major brands, will close all of its 502 stores in Russia. 
+ <p class="updated_time"> 08:01 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084518775/ukrainian-art-gallery-miami">With the war, a Ukrainian art show gains new meaning</a> NPR: Gallery owners Julia and Max Voloshyn came to Miami five months ago to exhibit the work of Ukrainian artists. Now that Russia has invaded their homeland, they can't go back. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Limited Cease-Fire for Ukrainian City Collapses Amid Russian Shelling</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia had said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials said the effort had to be halted because of continued Russian shelling. 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/aeroflot-russia-international-flights-suspended.html">Aeroflot, Russia's State Airline, Says it Will Suspend International Flights</a> NYT: Russia’s airline industry has been hit hard as countries around the world have imposed sanctions on the country for its invasion of Ukraine. 
  <p class="updated_time"> 07:48 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729579/russian-law-bans-journalists-from-calling-ukraine-conflict-a-war-or-an-invasion">Russian law bans journalists from calling Ukraine conflict a 'war' or an 'invasion'</a> NPR: In order to control what the Russian public knows about invasion of Ukraine, President Vladimir Putin has signed a law that imposes stiff sentences on journalists who air "false information." 
  <p class="updated_time"> 07:43 AM CT, Mar. 05 </p> 
@@ -62,6 +68,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: The humanitarian corridors were supposed to be the first tangible result of the talks between Russian and Ukrainian representatives in Belarus. Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
+ <p class="updated_time"> 11:30 PM CT, Mar. 04 </p> 
+ <a href="https://www.wsj.com/articles/europe-fears-it-could-be-too-late-to-shake-off-russian-gas-addiction-11646476200">Europe Fears It Could Be Too Late to Shake Off Russian Gas Addiction</a> WSJ: A decadeslong reliance on Moscow’s energy has left Europe unprepared if the taps are turned off. 
  <p class="updated_time"> 11:28 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60629175?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky slams Nato over rejection of no-fly zone</a> BBC: Zelensky said Nato has given Russia "a green light" to continue bombing Ukrainian towns and cities. 
  <p class="updated_time"> 10:08 PM CT, Mar. 04 </p> 
@@ -116,8 +124,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627249/ukrainian-rabbis-try-to-offer-safety-and-shelter">Ukrainian rabbis try to offer safety and shelter</a> NPR: All over Ukraine, the attacks from Russia are taking a toll on the people. The Jewish community is turning to their rabbis for shelter and security. 
  <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627242/hundreds-of-families-remain-separated-5-years-after-trumps-travel-ban">Hundreds of families remain separated 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
- <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627235/how-ukraines-private-sector-has-shifted-to-help-in-the-war-effort">How Ukraine's businesses and citizens are pitching in to help in the war effort</a> NPR: Ternopil, a town in western Ukraine, is preparing for war: from its training hospital to its milk factories, everyone is gearing up to help or assist in the war effort. 
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
@@ -140,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60609633?at_medium=RSS&at_campaign=KARANGA">How dangerous was the nuclear plant attack?</a> BBC: After Russia seizes two nuclear plant sites, experts weigh the risk to Ukraine and the world at large. 
  <p class="updated_time"> 12:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
- <p class="updated_time"> 12:50 PM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/sport/cricket/60622426?at_medium=RSS&at_campaign=KARANGA">Australia cricket legend Warne dies aged 52</a> BBC: Legendary Australia leg-spinner Shane Warne, one of the greatest cricketers of all time, dies of a suspected heart attack aged 52. 
  <p class="updated_time"> 12:37 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60625925?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians living in Poland return home to aid war effort</a> BBC: The BBC's Mark Lowen is at the Polish border with Ukrainians hoping to aid Ukraine's war effort. 
  <p class="updated_time"> 12:17 PM CT, Mar. 04 </p> 
@@ -184,8 +188,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/supreme-court-cia-black-sites-guantanamo.html">C.I.A. Black Sites Are State Secrets, the Supreme Court Rules</a> NYT: A Guantánamo detainee had sought information from two former government contractors to aid in a Polish criminal inquiry into a facility there. 
- <p class="updated_time"> 03:25 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/russian-soldier-text-ukraine.html">Information Battle Over Ukraine Intensifies</a> NYT: Text messages purporting to be from a Russian soldier to his mother, read publicly this week by Ukraine’s U.N. ambassador, underscore the contest underway to shape the war’s narrative. 
  <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
  <p class="updated_time"> 02:09 PM CT, Mar. 03 </p> 
@@ -199,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:59 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084729600/secretary-of-state-blinken-visits-poland-to-discuss-further-assistance-to-ukrain">Secretary of State Blinken visits Poland to discuss further assistance to Ukraine</a> NPR: Secretary of State Anthony Blinken is visiting Poland as Russia continues its assault on neighboring Ukraine. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729523/rioters-plea-guilty-this-week-as-jan-6-panel-alleges-trump-broke-the-law">Rioters plea guilty this week as Jan. 6 panel alleges Trump broke the law</a> NPR: Scott Simon speaks with independent journalist Marcy Wheeler, who covers national security, about the latest developments in the Jan. 6 insurrection trial. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
@@ -282,8 +286,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/04/can-a-wider-war-be-prevented-00014127"> Can a wider war be prevented?</a> Politico Playbook: And Donald Trump warms to Eric Greitens in Missouri. 
  <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/an-insiders-look-into-putins-long-game-00014108">Exclusive: Matthew Chance's take on Putin</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks to CNN’s Matthew Chance about agenda-setting reporting on Russia’s war on Ukraine and former national security adviser Tom Donilon about the relationship between information and Putin’s invasion. 
- <p class="updated_time"> 05:00 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/this-guy-is-pretty-combative-russias-space-chief-launches-his-own-war-on-the-west-00014055">‘This guy is pretty combative’: Russia’s space chief launches his own war on the West</a> Politico: Dmitry Rogozin, a longtime nationalist leader and Putin ally, is blasting away at one of the last vestiges of U.S.-Russia cooperation. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
@@ -295,8 +297,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two reviews showing there were no problems with the 2020 presidential election. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
- <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084448605/a-son-takes-the-stand-against-his-father-in-the-first-trial-related-to-jan-6-rio">A son takes the stand against his father in the first trial related to Jan. 6 riot</a> NPR: The trial of accused Capitol rioter Guy Reffitt continued Thursday with intense video from Jan. 6, and testimony from his son, Jackson, who turned his father in to the FBI. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
