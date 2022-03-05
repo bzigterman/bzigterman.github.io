@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:07 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Russia Announces Limited Cease-Fire for Besieged Ukrainian City</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials confirmed that an effort to bring in relief was underway. 
+ <p class="updated_time"> 05:25 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Limited Cease-Fire for Ukrainian City Collapses Amid Russian Shelling</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia had said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials said the effort had to be halted because of continued Russian shelling. 
+ <p class="updated_time"> 05:18 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 05:05 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russians still bombing Mariupol despite ceasefire - deputy mayor</a> BBC: Serhiy Orlov tells the BBC that attacks are still happening despite a ceasefire being agreed. 
- <p class="updated_time"> 05:05 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 05:00 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
  <p class="updated_time"> 04:51 AM CT, Mar. 05 </p> 
@@ -27,7 +27,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 04:18 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/asia/build-a-new-city-or-new-humans-a-utopia-in-india-fights-over-future.html">Build a New City or New Humans? A Utopia in India Fights Over Future.</a> NYT: Backed by Prime Minister Narendra Modi, the new leadership of Auroville, an experimental commune, wants to create a model city. In the way stand trees, tree houses and a take-it-slow tradition. 
+ <a href="https://www.nytimes.com/2022/03/05/world/asia/auroville-india.html">Build a New City or New Humans? A Utopia in India Fights Over Future.</a> NYT: Backed by Prime Minister Narendra Modi, the new leadership of Auroville, an experimental commune, wants to create a model city. In the way stand trees, tree houses and a take-it-slow tradition. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
