@@ -8,7 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:00 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
+ <p class="updated_time"> 01:13 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
  <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
@@ -48,8 +50,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
  <p class="updated_time"> 08:36 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60631835?at_medium=RSS&at_campaign=KARANGA">Zara, Paypal and Samsung suspend business in Russia over Ukraine invasion</a> BBC: Inditex, which owns Zara and several other major brands, will close all of its 502 stores in Russia. 
+ <p class="updated_time"> 08:17 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia. 
  <p class="updated_time"> 08:15 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1082258984/india-uttar-pradesh-elections-crime-police-muslims">India's ruling party says crime is down. Muslims say they've never felt less safe</a> NPR: India's Hindu nationalists say they've drastically cut crime in Uttar Pradesh, where key elections are underway. Human rights advocates say there's been a spike in police brutality against minorities. 
+ <p class="updated_time"> 08:06 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 08:01 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084518775/ukrainian-art-gallery-miami">With the war, a Ukrainian art show gains new meaning</a> NPR: Gallery owners Julia and Max Voloshyn came to Miami five months ago to exhibit the work of Ukrainian artists. Now that Russia has invaded their homeland, they can't go back. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
@@ -58,16 +64,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084729579/russian-law-bans-journalists-from-calling-ukraine-conflict-a-war-or-an-invasion">Russian law bans journalists from calling Ukraine conflict a 'war' or an 'invasion'</a> NPR: In order to control what the Russian public knows about invasion of Ukraine, President Vladimir Putin has signed a law that imposes stiff sentences on journalists who air "false information." 
  <p class="updated_time"> 07:43 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729572/the-russian-ukraine-conflict-could-strengthen-neo-fascist-groups-in-both-countri">The Russian-Ukraine conflict could strengthen neo-fascist groups in both countries</a> NPR: Experts have roundly dismissed Russian President Vladimir Putin's suggestion that Nazism is prevalent in Ukraine. Still, they worry the war may strengthen neo-fascist groups in both countries. 
- <p class="updated_time"> 07:21 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729537/chinas-two-sessions-meetings-commence-setting-the-political-agenda-for-the-year">China's 'Two Sessions' meetings commence, setting the political agenda for the year</a> NPR: Meetings this weekend in Beijing will give party leader Xi Peng a chance to persuade officials that he deserves a third term. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729516/week-in-politics-biden-leads-nato-in-denouncing-russias-invasion-of-ukraine">Week in politics: Biden leads NATO in denouncing Russia's invasion of Ukraine</a> NPR: President Biden succeeded in unifying NATO's response to Russia's invasion of Ukraine, which may give him more credibility to pursue his domestic agenda. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729509/the-russian-invasion-of-ukraine-enters-its-10th-day">The Russian invasion of Ukraine enters its 10th day</a> NPR: An attempted ceasefire in southern Ukraine was intended to allow for the evacuation of two cities. But Russian forces resumed their bombardment before all civilians could get out. 
- <p class="updated_time"> 06:52 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
  <p class="updated_time"> 06:09 AM CT, Mar. 05 </p> 
@@ -158,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-sanctions-ukraine.html">With Sanctions, U.S. and Europe Aim to Punish Putin and Fuel Russian Unrest</a> NYT: The Biden administration and European officials are crushing the Russian economy and stirring mass anxiety to pressure President Vladimir V. Putin to end his war in Ukraine. 
  <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
- <p class="updated_time"> 02:01 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
  <p class="updated_time"> 01:37 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
  <p class="updated_time"> 01:33 PM CT, Mar. 04 </p> 
@@ -200,8 +200,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
  <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60610840?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Before and after images reveal Russian destruction</a> BBC: These images show the aftermath of devastating Russian missile attacks on civilian areas across Ukraine. 
- <p class="updated_time"> 02:45 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008237946/hundreds-of-students-stranded-at-a-university-in-ukraine.html">Hundreds of Students Are Stranded at a University in Ukraine</a> NYT: Medical students at a university in Sumy, Ukraine, saw their school become a war zone overnight. They have no way to travel home and are stranded near the fighting. 
 
 
 </details>
