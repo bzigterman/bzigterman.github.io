@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:42 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 04:04 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 03:57 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/americas/us-venezuela-oil-russia.html">U.S. Officials Travel to Venezuela, a Russia Ally, as the West Isolates Putin</a> NYT: The trip is the highest-level visit by American officials to Caracas in years, driven by a desire to separate Russia from its remaining Latin American allies. 
+ <p class="updated_time"> 03:51 PM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084772001/covid-19-cases-soar-in-new-zealand-in-dramatic-shift">COVID-19 cases soar in New Zealand, in dramatic shift</a> NPR: New Zealand was once heralded for its handling of COVID-19. But these days, infections are rising and the government is having to cope with unrest from anti-vaccination protesters. 
  <p class="updated_time"> 03:31 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084764302/putin-calls-sanctions-a-declaration-of-war-as-zelenskyy-pleads-for-more-aid">Putin calls sanctions a declaration of war as Zelenskyy pleads for more aid</a> NPR: Russian President Vladimir Putin also said that any attempt to install a no-fly zone in Ukraine would cause catastrophic consequences for Europe and the world. 
  <p class="updated_time"> 02:57 PM CT, Mar. 05 </p> 
@@ -158,8 +162,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-russia-nato.html">NATO Rejects Intervening in Ukraine, Including No-Fly Zone </a> NYT: The alliance will not engage Russian forces in the air or on the ground in Ukraine to avoid the risk of a wider European war, the secretary-general says. 
  <p class="updated_time"> 03:53 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/lindsey-graham-putin-russia.html">Lindsey Graham Says of Putin: Someone in Russia Should ‘Take This Guy Out’</a> NYT: The comments drew sharp rebukes from other Republicans. 
- <p class="updated_time"> 03:51 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084321690/lgbtq-refugees-fleeing-ukraine-face-discrimination-in-countries-with-anti-gay-la">LGBTQ refugees fleeing Ukraine face discrimination in countries with anti-gay laws</a> NPR: LGBTQ people have always been under stress in Ukraine. As they flee their country, they're arriving in places that are even more punitive to their community. 
  <p class="updated_time"> 03:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
  <p class="updated_time"> 03:42 PM CT, Mar. 04 </p> 
@@ -190,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/australia/history-ukraine-russia-war-books.html">Here's What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
- <p class="updated_time"> 10:55 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-oil-ban-congress-ukraine.html">Lawmakers Push to Ban Russian Oil Imports, Amid White House Resistance</a> NYT: Republicans and Democrats on Capitol Hill are pursuing the ban to punish Russia for its invasion of Ukraine, but the White House is opposed, warning of energy price spikes. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
@@ -327,14 +327,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
- <p class="updated_time"> 12:12 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/timken-senate-ohio-00013759">Trump endorsement casts long shadow over Ohio Senate race</a> Politico: Mar-a-Lago is watching closely as former state GOP Chair Jane Timken balances between the establishment and MAGA wings. 
  <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/lawmakers-funding-deal-ukraine-request-00013548">Lawmakers hammer out funding deal with boosted Ukraine request</a> Politico: The White House revamped its emergency funding ask Thursday morning, looking for $10 billion to help Ukraine. 
- <p class="updated_time"> 10:11 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/ducey-senate-arizona-00013739">Ducey won't run for Senate in Arizona</a> Politico: The GOP governor had been recruited by national party leaders but was also a target of abuse from Donald Trump. 
  <p class="updated_time"> 07:56 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
