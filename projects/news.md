@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:04 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 04:42 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 04:37 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
+ <p class="updated_time"> 04:30 PM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084770677/russia-ukraine-war-what-happened-today-march-5">Russia-Ukraine war: What happened today (March 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:59 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-food-ukraine.html">Fast-Food Chains Stay Open in Russia, Mostly Quiet About Ukraine</a> NYT: Many fast-food chains are facing growing pressure on social media platforms and from large investors to halt operations in Russia. 
  <p class="updated_time"> 03:57 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/americas/us-venezuela-oil-russia.html">U.S. Officials Travel to Venezuela, a Russia Ally, as the West Isolates Putin</a> NYT: The trip is the highest-level visit by American officials to Caracas in years, driven by a desire to separate Russia from its remaining Latin American allies. 
+ <a href="https://www.nytimes.com/2022/03/05/world/americas/venezuela-russia-usa.html">US Officials Travel to Venezuela, a Russia Ally, as the West Isolates Putin</a> NYT: The trip is the highest-level visit by American officials to Caracas in years, driven by a desire to separate Russia from its remaining Latin American allies. 
  <p class="updated_time"> 03:51 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084772001/covid-19-cases-soar-in-new-zealand-in-dramatic-shift">COVID-19 cases soar in New Zealand, in dramatic shift</a> NPR: New Zealand was once heralded for its handling of COVID-19. But these days, infections are rising and the government is having to cope with unrest from anti-vaccination protesters. 
  <p class="updated_time"> 03:31 PM CT, Mar. 05 </p> 
@@ -46,6 +52,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
  <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked, grossing nearly $2 million. One host in Kyiv says the donations have helped pay staffers who have fled and buy food for elderly neighbors. 
+ <p class="updated_time"> 11:32 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
  <p class="updated_time"> 10:37 AM CT, Mar. 05 </p> 
@@ -74,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia. 
  <p class="updated_time"> 08:15 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1082258984/india-uttar-pradesh-elections-crime-police-muslims">India's ruling party says crime is down. Muslims say they've never felt less safe</a> NPR: India's Hindu nationalists say they've drastically cut crime in Uttar Pradesh, where key elections are underway. Human rights advocates say there's been a spike in police brutality against minorities. 
- <p class="updated_time"> 08:06 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 08:01 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084518775/ukrainian-art-gallery-miami">With the war, a Ukrainian art show gains new meaning</a> NPR: Gallery owners Julia and Max Voloshyn came to Miami five months ago to exhibit the work of Ukrainian artists. Now that Russia has invaded their homeland, they can't go back. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
@@ -115,8 +121,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:18 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/asia/auroville-india.html">Build a New City or New Humans? A Utopia in India Fights Over Future.</a> NYT: Backed by Prime Minister Narendra Modi, the new leadership of Auroville, an experimental commune, wants to create a model city. In the way stand trees, tree houses and a take-it-slow tradition. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
- <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/arts/music/russian-artists-putin.html">Too Close to Putin? Institutions Vet Artists, Uncomfortably.</a> NYT: Russia’s invasion of Ukraine has led arts organizations to reconsider who performs, forcing them to confront questions about free speech and policing political views. 
  <p class="updated_time"> 03:23 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
@@ -154,8 +158,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
- <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:04 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/fda-bharat-biotech-vaccine.html">FDA Rejects India-Made Bharat Biotech Vaccine For Those Under 18 </a> NYT: The vaccine, made by Bharat Biotech, is widely used in India. It has not been tested in the U.S., which has not authorized it for any age groups. 
  <p class="updated_time"> 03:58 PM CT, Mar. 04 </p> 
@@ -203,8 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:45 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/us/politics/ukraine-us-blinken-kuleba.html">Blinken Arrives in Poland to Gauge Additional U.S. Aid for Ukraine</a> NYT: The Russian invasion has pushed more than one million refugees to flee Ukraine for neighboring nations. 
+ <p class="updated_time"> 04:31 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/us/politics/blinken-ukraine.html">Blinken Arrives in Poland to Gauge Additional US Aid for Ukraine</a> NYT: The Russian invasion has pushed more than one million refugees to flee Ukraine for neighboring nations. 
  <p class="updated_time"> 12:19 PM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/zelenskyy-plea-congress-aid-00014419">Zelenskyy's emotional, direct Zoom plea to Congress: No-fly zone, Russian oil ban, more military aid</a> Politico: The Ukrainian leader's online call with U.S. lawmakers Saturday drew hundreds of participants — and some requests that won't be easy to meet. 
  <p class="updated_time"> 12:15 PM CT, Mar. 05 </p> 
