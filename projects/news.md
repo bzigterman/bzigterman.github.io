@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:22 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 06:45 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
+ <p class="updated_time"> 06:36 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Limited Cease-Fire for Ukrainian City Collapses Amid Russian Shelling</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia had said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials said the effort had to be halted because of continued Russian shelling. 
+ <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
  <p class="updated_time"> 06:01 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60629851?at_medium=RSS&at_campaign=KARANGA">Siege of Mariupol: Fresh Russian attacks throw evacuation into chaos</a> BBC: Mariupol authorities postpone a planned mass evacuation because of continued bombardment. 
  <p class="updated_time"> 05:57 AM CT, Mar. 05 </p> 
@@ -33,8 +37,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:18 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/asia/auroville-india.html">Build a New City or New Humans? A Utopia in India Fights Over Future.</a> NYT: Backed by Prime Minister Narendra Modi, the new leadership of Auroville, an experimental commune, wants to create a model city. In the way stand trees, tree houses and a take-it-slow tradition. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
- <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
@@ -45,8 +47,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
  <p class="updated_time"> 01:51 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084723350/russia-offers-ceasefire-in-two-parts-of-ukraine-to-allow-civilians-to-leave">Russia offers ceasefire in two parts of Ukraine to allow civilians to leave</a> NPR: The Russian military will observe a ceasefire in two areas of Ukraine starting Saturday to allow civilians to evacuate, Russian state media reported. There was no immediate confirmation from Ukraine. 
- <p class="updated_time"> 12:58 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084723350/russia-offers-ceasefire-in-two-parts-of-ukraine-to-allow-civilians-to-leave">Evacuations are halted in an area of Ukraine where Russia had pledged a cease-fire</a> NPR: Ukrainian officials said the work to evacuate civilians from two cities had halted amid shelling, just hours after Russia announced the deal. 
+ <p class="updated_time"> 01:44 AM CT, Mar. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: The humanitarian corridors were supposed to be the first tangible result of the talks between Russian and Ukrainian representatives in Belarus. Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
@@ -158,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: BBC suspends its journalists' work in Russia</a> BBC: The temporary suspension comes in response to a new Russian law which threatens reporters with prison. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nuclear-plant-fire.html">Fire at Ukraine Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
- <p class="updated_time"> 04:42 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60615754?at_medium=RSS&at_campaign=KARANGA">WATCH: 3D model shows extent of Russian military convoy</a> BBC: Sections of the 40-mile convoy are modelled in 3D using satellite imagery, showing its scale from above. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
@@ -199,6 +199,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.politico.com/news/2022/03/05/formula-recall-fda-abbott-nutrition-00014413">‘I almost lost my baby’: Parents demand answers from FDA</a> Politico: A recall of infant formula tied to two deaths came five months after the agency learned of the first hospitalized child, raising questions about the pace of the government's investigation. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.politico.com/news/2022/03/05/new-jersey-drivers-pump-gas-00014339">New Jersey drivers may have to learn to pump their own gas</a> Politico: New Jersey is the only state that requires fuel station employees to operate the pumps and prohibits consumers from doing so. Now the industry is pushing to repeal the law amid worker shortages and spiking oil prices. 
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
@@ -257,14 +261,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/militia-member-testifies-january-6-00014243">Traveling companion of Capitol riot defendant details talk of dragging Pelosi from building</a> Politico: The ex-militia member testified at the first Jan. 6 trial, which is reaching its conclusion. 
  <p class="updated_time"> 12:16 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084548984/lindsey-graham-putin">Sen. Lindsey Graham's apparent call for Putin to be assassinated draws backlash</a> NPR: "The only way this ends is for somebody in Russia to take this guy out," the South Carolina Republican said. Democrats and Republicans denounced the suggestion. 
- <p class="updated_time"> 11:37 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/adams-mask-mandate-schools-indoor-venues-00014208">Adams to lift school mask mandate, vaccine requirement for indoor venues</a> Politico: The mayor cited a low coronavirus case rate of 1.8 percent alongside a high vaccination rate. 
  <p class="updated_time"> 11:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084463809/biden-approval-poll-ukraine-economy">Biden gets a bounce after the State of the Union, NPR/PBS NewsHour/Marist poll shows</a> NPR: After Tuesday's speech, the president saw a significant jump with Democrats and independents, as he may be seeing a rally-around-the-Ukrainian-flag moment. 
  <p class="updated_time"> 10:32 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/irs-aims-to-hire-10-000-workers-to-reduce-crippling-mail-backlog-00014193">IRS aims to hire 10,000 workers to reduce crippling mail backlog</a> Politico: “It is clear that understaffing in these areas contributes to the backlog in processing of tax returns and taxpayer correspondence." --Treasury union National President Tony Reardon 
- <p class="updated_time"> 10:26 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/ukraine-funneling-weapons-military-aid-00014189">The Ukraine ‘rat line’: How the U.S. and British are funneling weapons to kill Russians</a> Politico: The decision to ship the supplies by road into Ukraine has emerged as a remarkable wartime improvisation, made necessary by the inability to fly aid into the country. 
  <p class="updated_time"> 10:25 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084514764/supreme-court-boston-bomber-death-sentence">The Supreme Court reimposes a death sentence for the Boston bomber</a> NPR: The Supreme Court reversed a federal appeals court in Boston that had overturned Dzhokhar Tsarnaev's death sentence. The 2013 attack killed three people. 
  <p class="updated_time"> 10:24 AM CT, Mar. 04 </p> 
@@ -283,8 +283,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/this-guy-is-pretty-combative-russias-space-chief-launches-his-own-war-on-the-west-00014055">‘This guy is pretty combative’: Russia’s space chief launches his own war on the West</a> Politico: Dmitry Rogozin, a longtime nationalist leader and Putin ally, is blasting away at one of the last vestiges of U.S.-Russia cooperation. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
- <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/irs-filing-season-child-tax-credit-00012876">Fearing filing season chaos, IRS hits pause on web tool for Child Tax Credit</a> Politico: The decision has disappointed some advocates for low-income people, who fear it will mean some will face long waits for assistance or miss out on the payments altogether. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/cartoons/2022/03/04/the-nations-cartoonists-on-the-week-in-politics-00014016">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
@@ -325,6 +323,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/lawmakers-funding-deal-ukraine-request-00013548">Lawmakers hammer out funding deal with boosted Ukraine request</a> Politico: The White House revamped its emergency funding ask Thursday morning, looking for $10 billion to help Ukraine. 
+ <p class="updated_time"> 10:11 AM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/ducey-senate-arizona-00013739">Ducey won't run for Senate in Arizona</a> Politico: The GOP governor had been recruited by national party leaders but was also a target of abuse from Donald Trump. 
  <p class="updated_time"> 07:56 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
@@ -343,10 +343,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins speedy confirmation blitz</a> Politico: The Supreme Court nominee met with senators Wednesday as Democrats scheduled her first confirmation hearing for March 21. 
  <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
+ <p class="updated_time"> 09:55 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-primary-election-results-takeaways-00013117">The establishment strikes back: 5 takeaways from the Texas primary</a> Politico: No incumbent Republican was toppled, which was no small feat in a primary where there was so much unrest. 
  <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
