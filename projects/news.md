@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:24 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 01:44 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Russia Announces Limited Cease-Fire for the Besieged City of Mariupol</a> NYT: Ukrainian officials have warned of a looming catastrophe in the coastal city. Russia said on Saturday that it would open “humanitarian corridors” to Mariupol and the smaller town of Volnovakha. Local officials confirmed that an effort to bring in relief was underway. 
  <p class="updated_time"> 12:12 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
