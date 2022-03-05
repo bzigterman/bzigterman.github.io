@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 05:27 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
  <p class="updated_time"> 04:37 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
