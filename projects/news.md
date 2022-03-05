@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
  <p class="updated_time"> 11:36 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Ukraine’s president criticized NATO for ruling out a no-fly zone over the country. 
  <p class="updated_time"> 11:36 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
- <p class="updated_time"> 11:19 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
+ <p class="updated_time"> 11:28 PM CT, Mar. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60629175?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky slams Nato over rejection of no-fly zone</a> BBC: Zelensky said Nato has given Russia "a green light" to continue bombing Ukrainian towns and cities. 
  <p class="updated_time"> 10:08 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/business/economy/china-economy-congress-explained.html">China’s  Legislative Session to Focus on Economy </a> NYT: Russia’s invasion of Ukraine went unmentioned at the opening of an annual gathering of China’s legislature, as leaders focused on stabilizing economic growth. 
  <p class="updated_time"> 09:41 PM CT, Mar. 04 </p> 
@@ -132,8 +134,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russia-ukraine-sanctions-banks-finance-11646428069">How the West Unplugged Russia From the World's Financial Systems</a> WSJ: In just one week, Western financial firms severed practically every artery of money between Russia and the rest of the globe. In some cases they went further than what sanctions required. 
  <p class="updated_time"> 09:24 AM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-placed-on-global-watch-list-for-money-laundering-terrorism-financing-11646425480">U.A.E. Placed on Global Watch List for Money Laundering, Terror Financing</a> WSJ: The Middle East business hub is added to FATF’s ‘gray list’ of jurisdictions requiring increased monitoring. 
- <p class="updated_time"> 09:23 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60621796?at_medium=RSS&at_campaign=KARANGA">Russian anger as Senator Lindsey Graham calls for Putin's assassination</a> BBC: Lindsey Graham says only way Russia's invasion of Ukraine ends is for someone "to take this guy out". 
  <p class="updated_time"> 08:58 AM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/associate-of-pope-francis-found-guilty-of-sexual-abuse-in-argentina-11646423924">Pope Francis Associate Found Guilty of Sexual Abuse in Argentina</a> WSJ: Bishop Gustavo Zanchetta was sentenced to 4½ years in prison in a case that has raised questions about the pope’s handling of sexual abuse at the highest level of the Catholic Church. 
  <p class="updated_time"> 08:32 AM CT, Mar. 04 </p> 
