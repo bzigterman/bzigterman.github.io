@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:15 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 03:25 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
  <p class="updated_time"> 02:57 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
@@ -31,7 +31,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084743816/a-dilemma-for-ukrainians-should-i-stay-or-should-i-go">A dilemma for Ukrainians: Should I stay or should I go?</a> NPR: Before the war, Ukrainian Rehina Solodovnik tutored Russian students online. The teaching has stopped, but she's still getting text messages. "I am so sorry for our government," one student said. 
+ <a href="https://www.npr.org/2022/03/05/1084743816/a-dilemma-for-ukrainians-should-i-stay-or-should-i-go">Nearly 1 million Ukrainians have fled. More than 40 million have stayed — for now</a> NPR: Before the war, Ukrainian Rehina Solodovnik tutored Russian students online. The teaching has stopped, but she's still getting text messages. "I am so sorry for our government," one student said. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
@@ -39,7 +39,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:47 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
  <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked in two days, grossing nearly $2 million. Airbnb is waiving all host and guest fees in Ukraine for now. 
+ <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked, grossing nearly $2 million. One host in Kyiv says the donations have helped pay staffers who have fled and buy food for elderly neighbors. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
  <p class="updated_time"> 10:37 AM CT, Mar. 05 </p> 
