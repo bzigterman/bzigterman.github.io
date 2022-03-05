@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:22 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 01:44 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a limited cease-fire collapsed within hours. 
+ <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
  <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
+ <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/sport/basketball/60633700?at_medium=RSS&at_campaign=KARANGA">Concern for basketball star detained in Russia</a> BBC: WNBA side Phoenix Mercury are concerned for Brittney Griner's "safety, physical and mental health" after she was detained in Russia on drug smuggling charges. 
+ <p class="updated_time"> 01:14 PM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60634735?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Residents under siege in Mariupol clear out shopping mall</a> BBC: Local officials say residents are in dire need of food, water and medicine due to Russia's blockade. 
  <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
  <p class="updated_time"> 12:53 PM CT, Mar. 05 </p> 
@@ -32,8 +38,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
  <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
- <p class="updated_time"> 10:00 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
  <p class="updated_time"> 09:39 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632974?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Citizens evacuate town of Irpin as homes are destroyed</a> BBC: Crowds are leaving the town of Irpin outside Kyiv as Russian shelling strikes residential areas. 
  <p class="updated_time"> 09:30 AM CT, Mar. 05 </p> 
@@ -122,8 +126,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60615280?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Can China do more to stop Russia's war in Ukraine?</a> BBC: As Russia's invasion of Ukraine continues, many are looking to China's response. 
  <p class="updated_time"> 06:28 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
- <p class="updated_time"> 06:16 PM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60626921?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukraine can absolutely win against Russia - Blinken</a> BBC: US Secretary of State Antony Blinken tells the BBC the Ukrainian people's defeat is not inevitable. 
  <p class="updated_time"> 06:08 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-60612621?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: UK woman on husband barred from leaving Ukraine</a> BBC: Nicola's husband home was barred from returning home to London from Ukraine due to martial law. 
  <p class="updated_time"> 05:54 PM CT, Mar. 04 </p> 
@@ -144,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/lindsey-graham-putin-russia.html">Lindsey Graham Says of Putin: Someone in Russia Should ‘Take This Guy Out’</a> NYT: The comments drew sharp rebukes from other Republicans. 
  <p class="updated_time"> 03:51 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084321690/lgbtq-refugees-fleeing-ukraine-face-discrimination-in-countries-with-anti-gay-la">LGBTQ refugees fleeing Ukraine face discrimination in countries with anti-gay laws</a> NPR: LGBTQ people have always been under stress in Ukraine. As they flee their country, they're arriving in places that are even more punitive to their community. 
- <p class="updated_time"> 03:50 PM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60626777?at_medium=RSS&at_campaign=KARANGA">Facebook hits out at Russia blocking its platforms</a> BBC: The Russian communications regulator said on Friday that Facebook has been blocked in the country. 
  <p class="updated_time"> 03:45 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
  <p class="updated_time"> 03:43 PM CT, Mar. 04 </p> 
@@ -164,8 +164,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
  <p class="updated_time"> 01:33 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/sport/cricket/60624556?at_medium=RSS&at_campaign=KARANGA">Adulation and scandal... but arguably cricket's best ever bowler</a> BBC: Why Shane Warne was one of cricket's greatest ever players, and also one of its most colourful characters. 
- <p class="updated_time"> 01:32 PM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-60609633?at_medium=RSS&at_campaign=KARANGA">How dangerous was the nuclear plant attack?</a> BBC: After Russia seizes two nuclear plant sites, experts weigh the risk to Ukraine and the world at large. 
  <p class="updated_time"> 12:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 12:37 PM CT, Mar. 04 </p> 
@@ -194,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60613433?at_medium=RSS&at_campaign=KARANGA">'It is terrible': For Ukraine's Jews and Roma, war revives old traumas</a> BBC: As thousands flee the Russian invasion, the conflict stirs dark memories of Europe's past. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
- <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
  <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
@@ -212,7 +208,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 12:15 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/zelensky-congress-no-fly-zone.html">Zelensky Asks for More Weapons and a No-Fly Zone in Meeting With Congress</a> NYT: The meeting, conducted via Zoom, was the first time President Volodymyr Zelensky of Ukraine had addressed both houses of Congress since Russia’s invasion began. 
  <p class="updated_time"> 11:13 AM CT, Mar. 05 </p> 
- <a href="https://www.politico.com/news/2022/03/05/russian-plane-due-to-land-in-dc-soon-to-pick-up-expelled-spies-00014418">Russian plane due to land in D.C. soon to pick up expelled ‘spies’</a> Politico: With airspace closed to Russian aircraft, Moscow has sent a diplomatic jet to Dulles to grab officials kicked out of the U.S. 
+ <a href="https://www.politico.com/news/2022/03/05/russian-plane-due-to-land-in-dc-soon-to-pick-up-expelled-spies-00014418">Russian plane lands in D.C. to pick up expelled ‘spies’</a> Politico: With airspace closed to Russian aircraft, Moscow sent a diplomatic jet to Dulles to grab officials kicked out of the U.S. 
  <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">U.S. and Allies Discuss Security of Ukraine’s Leaders Amid Fears for Zelensky’s Safety</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
