@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:50 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Ukraine’s president criticized NATO for ruling out a no-fly zone over the country. 
+ <p class="updated_time"> 12:53 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia said on Saturday that it was declaring a cease-fire and opening “humanitarian corridors” to let civilians leave two cities, but much about the order remained unclear. Ukraine’s president criticized NATO for ruling out a no-fly zone over the country. 
  <p class="updated_time"> 12:12 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
