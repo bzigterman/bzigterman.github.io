@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
+ <p class="updated_time"> 05:48 AM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60629851?at_medium=RSS&at_campaign=KARANGA">Siege of Mariupol: Fresh Russian attacks throw evacuation into chaos</a> BBC: Mariupol authorities postpone a planned mass evacuation because of continued bombardment. 
  <p class="updated_time"> 05:37 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Limited Cease-Fire for Ukrainian City Collapses Amid Russian Shelling</a> NYT: Ukrainian officials have warned of a looming catastrophe in Mariupol, a coastal city. Russia had said it would open “humanitarian corridors” to Mariupol and a smaller town. Local officials said the effort had to be halted because of continued Russian shelling. 
  <p class="updated_time"> 05:18 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 05:05 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russians still bombing Mariupol despite ceasefire - deputy mayor</a> BBC: Serhiy Orlov tells the BBC that attacks are still happening despite a ceasefire being agreed. 
- <p class="updated_time"> 05:00 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
  <p class="updated_time"> 04:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-military-advance-ukraine-war.html">Russia Seizes Nuclear Plant in Ukraine and Makes Gain in the South</a> NYT: The Russian military advance in Ukraine sowed more destruction and chaos, pointing to a worsening conflict, as the Kremlin also moved to restrict how it’s reported at home. 
  <p class="updated_time"> 04:50 AM CT, Mar. 05 </p> 
@@ -143,8 +145,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:30 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60578293?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Russian soldiers killed my family while they fled'</a> BBC: The Fedko family was trying to flee fighting when Russian troops allegedly opened fire on their car. 
  <p class="updated_time"> 11:14 AM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60616800?at_medium=RSS&at_campaign=KARANGA">Freeman Mbowe: Tanzania's opposition leader finally released</a> BBC: The release of Freeman Mbowe could herald the end of political repression, analysts say. 
- <p class="updated_time"> 11:14 AM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60625400?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Kharkiv residents still sheltering underground a week on</a> BBC: The BBC's Sarah Rainsford reports from a metro station where people have been sheltering from attacks. 
  <p class="updated_time"> 11:03 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/monique-hanotte-dead.html">Monique Hanotte, Savior of Allied Airmen, Dies at 101</a> NYT: Using her knowledge of the Belgium-France border and quick thinking, she guided dozens of downed Allied airmen to safety during World War II. 
@@ -184,8 +184,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
  <p class="updated_time"> 07:09 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/ukraine-refugees-exodus.html">On the Exodus West, Ukrainians Flee Hardship for an Uncertain Future</a> NYT: Many thousands of Ukrainians, fearful of the war, are leaving their homes on a slow journey west, enduring difficulties but also buoyed by the generosity of their countrymen. 
- <p class="updated_time"> 06:20 PM CT, Mar. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60603406?at_medium=RSS&at_campaign=KARANGA">Ukraine: The race to save the country's artistic treasures</a> BBC: As the Russian invasion continues, efforts to protect Ukraine's cultural heritage are stepped up. 
  <p class="updated_time"> 05:25 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/macron-presidency-campaign-france-ukraine.html">Emmanuel Macron Goes Low-Key, Finally Declaring Bid for Re-election</a> NYT: With a war raging in Europe, the incumbent French president leads in polls and is betting that the French won’t want to change horses in the midst of the Ukraine conflict. 
  <p class="updated_time"> 04:58 PM CT, Mar. 03 </p> 
@@ -200,16 +198,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-mykolaiv-black-sea.html">Russian Forces Advance on Mykolaiv in Bid for Ukraine's Coast</a> NYT: “The city is ready for war,” its mayor said. He said Ukrainian forces had been forced by shelling to retrench along the city’s perimeter. 
  <p class="updated_time"> 01:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/arts/television/lupin-netflix-theft.html">‘Lupin,’ Netflix’s French Heist Drama, Is the Victim of a Theft</a> NYT: Equipment valued at more than $300,000 was stolen from the set of the hit series during filming in a Paris suburb last week. 
- <p class="updated_time"> 06:58 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60586817?at_medium=RSS&at_campaign=KARANGA">Under attack, Ukraine's musicians become war reporters and military fundraisers</a> BBC: How Ukraine's musicians are countering Russian propaganda by documenting the invasion for their followers. 
- <p class="updated_time"> 06:30 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60573261?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Who's in Putin's inner circle and running the war?</a> BBC: Russia's president cuts an isolated figure but he relies on an inner circle when he makes key decisions. 
- <p class="updated_time"> 05:41 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-60529926?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: What sanctions could West still impose on Russia?</a> BBC: The measures are tougher than anything Vladimir Putin has faced. But more could be coming. 
- <p class="updated_time"> 04:55 PM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-60081503?at_medium=RSS&at_campaign=KARANGA">Brandon Lee: The model school pupil who was a 30-year-old imposter</a> BBC: A new film tells the tale of a man who posed as 17-year-old to return to his old high school. 
- <p class="updated_time"> 11:01 AM CT, Mar. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60585603?at_medium=RSS&at_campaign=KARANGA">Ukrainian city of Mariupol 'near to humanitarian catastrophe' after bombardment</a> BBC: The deputy mayor of Mariupol says he believes hundreds of people have died in the Russian onslaught. 
 
 
 </details>
