@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:16 AM CT, Mar. 05 </p> 
+ <p class="updated_time"> 11:30 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Ukrainians Slow Russia’s Advance, Putin Threatens Loss of Statehood</a> NYT: The Russian leader amped up his threats as outgunned Ukrainians continued to fight off his military. The mayor of the first major city to fall to Russia said people were protesting the occupation. And in one besieged city, a cease-fire collapsed within hours. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
@@ -62,6 +62,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
+ <p class="updated_time"> 06:21 AM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed for eastern members of the European Union 
  <p class="updated_time"> 06:09 AM CT, Mar. 05 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-deal-threatened-by-russian-demands-over-ukraine-sanctions-11646487044">Iran Nuclear Deal Threatened by Russian Demands</a> WSJ: Russia said it wanted written guarantees that Ukraine-related sanctions won’t prevent it from trading broadly with Tehran under a revived pact. 
  <p class="updated_time"> 06:03 AM CT, Mar. 05 </p> 
@@ -70,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60629851?at_medium=RSS&at_campaign=KARANGA">Siege of Mariupol: Fresh Russian attacks throw evacuation into chaos</a> BBC: Mass evacuation postponed because of continued Russian shelling. 
  <p class="updated_time"> 05:57 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630351?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands of pro-Russia Serbs march in Belgrade</a> BBC: Flags and flares are paraded through the Serbian capital, as marchers show support for Moscow. 
- <p class="updated_time"> 05:55 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed for eastern members of the European Union 
  <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
  <p class="updated_time"> 05:08 AM CT, Mar. 05 </p> 
@@ -333,8 +333,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
- <p class="updated_time"> 12:12 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/timken-senate-ohio-00013759">Trump endorsement casts long shadow over Ohio Senate race</a> Politico: Mar-a-Lago is watching closely as former state GOP Chair Jane Timken balances between the establishment and MAGA wings. 
  <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
