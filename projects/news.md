@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:15 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Ukraine’s president criticized NATO for ruling out a no-fly zone over the country. 
+ <p class="updated_time"> 12:12 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
- <p class="updated_time"> 11:36 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine">Ukraine Live Updates: Panic Grips Some Cities as Russia Tightens Cordon</a> NYT: Russia accelerated its push to cut Ukrainians off from the sea, and blocked access to Facebook at home as part of a clampdown on news and free speech. Ukraine’s president criticized NATO for ruling out a no-fly zone over the country. 
- <p class="updated_time"> 11:36 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
  <p class="updated_time"> 11:28 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60629175?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky slams Nato over rejection of no-fly zone</a> BBC: Zelensky said Nato has given Russia "a green light" to continue bombing Ukrainian towns and cities. 
  <p class="updated_time"> 10:08 PM CT, Mar. 04 </p> 
