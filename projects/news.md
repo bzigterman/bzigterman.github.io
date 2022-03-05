@@ -8,16 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 02:57 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
+ <p class="updated_time"> 02:56 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 02:51 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
- <p class="updated_time"> 02:46 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, As Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
  <p class="updated_time"> 02:23 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 02:10 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084762582/russia-ukraine-state-department-travel-advisory">The State Department tells Americans to leave Russia immediately</a> NPR: The new travel advisory was issued over heightened security concerns in the country as Russian military forces carry out an "unprovoked and unjustified attack" in Ukraine. 
- <p class="updated_time"> 02:03 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
  <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
@@ -184,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nuclear-plant-fire.html">Fire at Ukraine Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
  <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
- <p class="updated_time"> 12:49 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Hosts News Conference, Addressing Negotiations With Russia</a> NYT: In an animated briefing, Mr. Zelensky discussed the state of negotiations with Russia, voiced pride in his people, pleaded for a no-fly zone and spoke frankly about fear of dying. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/history-ukraine-russia-war-books.html">Here's What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
  <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
