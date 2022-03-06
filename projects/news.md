@@ -16,8 +16,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/americas/venezuela-russia-usa.html">US Officials Travel to Venezuela, a Russia Ally, as the West Isolates Putin</a> NYT: The trip is the highest-level visit by American officials to Caracas in years, driven by a desire to separate Russia from its remaining Latin American allies. 
  <p class="updated_time"> 07:02 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
+ <p class="updated_time"> 07:02 PM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60633888?at_medium=RSS&at_campaign=KARANGA">BBC Ukrainian editor: 'My mother called to say she'd managed to buy bread'</a> BBC: In the second week of war, the BBC's Ukrainian editor says empty shelves are an increasing reality. 
  <p class="updated_time"> 06:37 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60491095?at_medium=RSS&at_campaign=KARANGA">Why Indian fathers are embracing paternity leave</a> BBC: The pandemic and changing family structures have highlighted how young parents are struggling with childcare. 
+ <p class="updated_time"> 06:19 PM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/blogs-trending-60596133?at_medium=RSS&at_campaign=KARANGA">The young Ukrainians battling pro-Russian trolls</a> BBC: Conspiracy theories and trolls are adding to the chaos of war. 
  <p class="updated_time"> 06:02 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
  <p class="updated_time"> 04:37 PM CT, Mar. 05 </p> 
@@ -60,8 +64,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
  <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked, grossing nearly $2 million. One host in Kyiv says the donations have helped pay staffers who have fled and buy food for elderly neighbors. 
- <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
  <p class="updated_time"> 10:37 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60631433?at_medium=RSS&at_campaign=KARANGA">From Grozny to Aleppo to Ukraine, Russia meets resistance with more firepower</a> BBC: Russia answers resistance with big guns and sieges. Ukrainians pray that will not happen to them, writes the BBC's Jeremy Bowen in Kyiv. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
@@ -148,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-kyiv-train-station.html">In Kyiv’s Railway Station, Rumors, Near-Stampedes and Frustration</a> NYT: As Russian forces begin to encircle the Ukrainian capital, tens of thousands are clambering for a way out that may soon be closed off. 
  <p class="updated_time"> 08:51 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084709206/north-korea-fires-another-suspected-ballistic-missile-into-sea">North Korea fires another suspected ballistic missile into sea</a> NPR: Saturday's launch was North Korea's ninth round of weapons launches in 2022 as it attempts to pressure the Biden administration for concessions. 
- <p class="updated_time"> 07:19 PM CT, Mar. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60615280?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Can China do more to stop Russia's war in Ukraine?</a> BBC: As Russia's invasion of Ukraine continues, many are looking to China's response. 
  <p class="updated_time"> 06:36 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-60622772?at_medium=RSS&at_campaign=KARANGA">European peace seems as fragile as ever</a> BBC: The shifting of European history's tectonic plates is not really that unexpected, explains Kevin Connolly. 
  <p class="updated_time"> 06:34 PM CT, Mar. 04 </p> 
@@ -323,8 +323,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/boebert-greene-republicans.html">In Greene and Boebert, Democrats See a Helpful Political Target</a> NYT: The antics of Representatives Marjorie Taylor Greene and Lauren Boebert, as well as recent stumbles by other Republicans, have drawn unflattering attention to their party. 
  <p class="updated_time"> 08:26 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-justice-department-january-6.html">Pressure on Justice Dept. as Jan. 6 Panel Lays Out Case Against Trump</a> NYT: Building a criminal case against the former president is very difficult for federal prosecutors, experts say, underlining the dilemma confronting the agency. 
- <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
+ <p class="updated_time"> 07:48 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-jan-6-criminal-case.html">Panel Suggests Trump Knew He Lost the Election, Eyeing Criminal Case</a> NYT: At the core of the theory of a possible criminal case against former President Donald J. Trump is the argument that he knew he had lost the election and sought to overturn it anyway. 
  <p class="updated_time"> 06:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/guy-reffitt-january-6-trial.html">Guy Reffitt’s Son Testifies Against Him in Jan. 6 Trial</a> NYT: Guy Reffitt’s 19-year-old son took the stand against him in federal court in a remarkable tableau that captured how one family was split by the attack on the Capitol. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
