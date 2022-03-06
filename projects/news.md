@@ -8,24 +8,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:47 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 07:53 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 07:53 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/mastercard-visa-suspend-operations-russia.html">Mastercard and Visa Suspend Operations in Russia</a> NYT: Russian-issued cards will no longer work in other countries, and purchases from Russian vendors by cardholders in other countries will be cut off. 
+ <p class="updated_time"> 07:21 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/americas/venezuela-russia-usa.html">US Officials Travel to Venezuela, a Russia Ally, as the West Isolates Putin</a> NYT: The trip is the highest-level visit by American officials to Caracas in years, driven by a desire to separate Russia from its remaining Latin American allies. 
+ <p class="updated_time"> 07:02 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 06:37 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60491095?at_medium=RSS&at_campaign=KARANGA">Why Indian fathers are embracing paternity leave</a> BBC: The pandemic and changing family structures have highlighted how young parents are struggling with childcare. 
- <p class="updated_time"> 06:32 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
  <p class="updated_time"> 06:02 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
- <p class="updated_time"> 05:38 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/mastercard-visa-suspend-operations-russia.html">Mastercard and Visa Suspend Operations in Russia</a> NYT: Russian-issued cards will no longer work in other countries, and purchases from Russian vendors by cardholders in other countries will be cut off. 
  <p class="updated_time"> 04:37 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
  <p class="updated_time"> 04:30 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084770677/russia-ukraine-war-what-happened-today-march-5">Russia-Ukraine war: What happened today (March 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:59 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-food-ukraine.html">Fast-Food Chains Stay Open in Russia, Mostly Quiet About Ukraine</a> NYT: Many fast-food chains are facing growing pressure on social media platforms and from large investors to halt operations in Russia. 
- <p class="updated_time"> 03:57 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/americas/venezuela-russia-usa.html">US Officials Travel to Venezuela, a Russia Ally, as the West Isolates Putin</a> NYT: The trip is the highest-level visit by American officials to Caracas in years, driven by a desire to separate Russia from its remaining Latin American allies. 
  <p class="updated_time"> 03:51 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084772001/covid-19-cases-soar-in-new-zealand-in-dramatic-shift">COVID-19 cases soar in New Zealand, in dramatic shift</a> NPR: New Zealand was once heralded for its handling of COVID-19. But these days, infections are rising and the government is having to cope with unrest from anti-vaccination protesters. 
  <p class="updated_time"> 03:31 PM CT, Mar. 05 </p> 
@@ -323,6 +323,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/boebert-greene-republicans.html">In Greene and Boebert, Democrats See a Helpful Political Target</a> NYT: The antics of Representatives Marjorie Taylor Greene and Lauren Boebert, as well as recent stumbles by other Republicans, have drawn unflattering attention to their party. 
  <p class="updated_time"> 08:26 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-justice-department-january-6.html">Pressure on Justice Dept. as Jan. 6 Panel Lays Out Case Against Trump</a> NYT: Building a criminal case against the former president is very difficult for federal prosecutors, experts say, underlining the dilemma confronting the agency. 
+ <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 06:55 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/guy-reffitt-january-6-trial.html">Guy Reffitt’s Son Testifies Against Him in Jan. 6 Trial</a> NYT: Guy Reffitt’s 19-year-old son took the stand against him in federal court in a remarkable tableau that captured how one family was split by the attack on the Capitol. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
