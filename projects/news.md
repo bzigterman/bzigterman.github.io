@@ -8,12 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visited Moscow. 
+ <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 12:46 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60636337?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky urges Ukrainians to go on the offensive</a> BBC: In a rallying cry, the Ukrainian president says the country has withstood the invasion "together". 
  <p class="updated_time"> 12:33 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084794295/putin-says-ukraines-future-is-in-doubt-as-cease-fires-collapse">Putin says Ukraine's future is in doubt as cease-fires collapse</a> NPR: Vladimir Putin warned Saturday that Ukrainian statehood is in jeopardy and likened the West's sanctions on Russia to "declaring war" as Russian troops continued to shell encircled cities 
- <p class="updated_time"> 12:28 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visited Moscow. 
  <p class="updated_time"> 12:09 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 22 Injured, Querétaro Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
@@ -46,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084772001/covid-19-cases-soar-in-new-zealand-in-dramatic-shift">COVID-19 cases soar in New Zealand, in dramatic shift</a> NPR: New Zealand was once heralded for its handling of COVID-19. But these days, infections are rising and the government is having to cope with unrest from anti-vaccination protesters. 
  <p class="updated_time"> 03:31 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084764302/putin-calls-sanctions-a-declaration-of-war-as-zelenskyy-pleads-for-more-aid">Putin calls sanctions a declaration of war as Zelenskyy pleads for more aid</a> NPR: Russian President Vladimir Putin also said that any attempt to install a no-fly zone in Ukraine would cause catastrophic consequences for Europe and the world. 
- <p class="updated_time"> 02:57 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 02:56 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 02:23 PM CT, Mar. 05 </p> 
