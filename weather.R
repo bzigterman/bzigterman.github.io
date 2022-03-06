@@ -28,7 +28,7 @@ champaign_minutely <- fromJSON(champaign_weather_json, flatten = TRUE)$minutely 
   mutate(utc_time = as_datetime(dt))
 champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
   mutate(utc_time = as_datetime(dt))%>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
   mutate(rain = {if("rain.1h" %in% names(.)) ifelse(is.na(rain.1h),
                                                     0,rain.1h) else 0}) %>%
   mutate(snow = {if("snow.1h" %in% names(.)) ifelse(is.na(snow.1h),
@@ -46,7 +46,7 @@ champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
 
 champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
   mutate(utc_time = as_datetime(dt)) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
   filter(central_time > now(tzone = "America/Chicago")+days(5))  %>%
   mutate(rain = {if("rain" %in% names(.)) ifelse(is.na(rain),
                                                  0,rain) else 0}) %>%
@@ -68,7 +68,7 @@ champaign_weather_history <-
 history_today_json <- content(champaign_weather_history, as = "text")
 history_today <- fromJSON(history_today_json, flatten = TRUE)$hourly%>%
   mutate(utc_time = as_datetime(dt))  %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) 
+  mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) 
 
 
 champaign_weather_history <-
@@ -81,7 +81,7 @@ champaign_weather_history <-
 history_json <- content(champaign_weather_history, as = "text")
 history_yesterday <- fromJSON(history_json, flatten = TRUE)$hourly%>%
   mutate(utc_time = as_datetime(dt))  %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) 
+  mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) 
 
 last_24 <- full_join(history_today, history_yesterday) %>%
   mutate(rain = {if("rain.1h" %in% names(.)) ifelse(is.na(rain.1h),
@@ -114,7 +114,7 @@ champaign_forecast_json <- content(champaign_forecast_response, as = "text")
 champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
   mutate(temp = main.temp) %>%
   mutate(humidity = main.humidity) %>%
   mutate(pressure = main.pressure) %>%
@@ -141,7 +141,7 @@ champaign_wind_speed <- paste(round(champaign_current$wind_speed),"mph")
 champaign_forecast_tidy <- champaign_forecast %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
   mutate(utc_time = force_tz(datetime, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
   mutate(rain = {if("rain.3h" %in% names(.)) ifelse(is.na(rain.3h),
                                                     0,rain.3h/3) else 0}) %>%
   mutate(snow = {if("snow.3h" %in% names(.)) ifelse(is.na(snow.3h),
@@ -174,15 +174,17 @@ daylight <- champaign_forecast_longer %>%
   select(sunrise, sunset) %>%
   unique() %>%
   mutate(top = Inf) %>%
-  mutate(bottom = -Inf)
+  mutate(bottom = -Inf) %>%
+  mutate(sunrise = force_tz(sunrise, tzone = "America/Chicago")) %>%
+  mutate(sunset = force_tz(sunset, tzone = "America/Chicago"))
 
 # facet ----
 ggplot() +
   geom_rect(data = daylight,
             aes(xmin = sunrise, xmax = sunset,
                 ymin = bottom, ymax = top),
-            color = "white",
-            fill = "white") +
+            color = "grey99",
+            fill = "grey99") +
   geom_line(data = champaign_forecast_longer,
             aes(x = central_time,
                 y = values,
@@ -194,6 +196,8 @@ ggplot() +
   labs(caption = "Source: OpenWeather") +
   xlab(NULL) +
   ylab(NULL) +
+  coord_cartesian(xlim = c(min(champaign_forecast_longer$central_time),
+                           max(champaign_forecast_longer$central_time))) +
   scale_x_datetime(expand = c(0,0),
                    date_labels = "%a",
                    date_breaks = "1 day",
@@ -202,9 +206,9 @@ ggplot() +
   scale_y_continuous(position = "right") +
   theme(axis.ticks.y = element_blank(),
         panel.grid = element_blank(),
-        panel.background = element_rect("grey97"),
+        panel.background = element_rect("grey90"),
         legend.position = "none",
-        panel.grid.major.x = element_line(colour = "grey90"),
+        panel.grid.major.x = element_line(colour = "grey95"),
         strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 
