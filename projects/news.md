@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:34 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 12:46 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60636337?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky urges Ukrainians to go on the offensive</a> BBC: In a rallying cry, the Ukrainian president says the country has withstood the invasion "together". 
  <p class="updated_time"> 12:33 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084794295/putin-says-ukraines-future-is-in-doubt-as-cease-fires-collapse">Putin says Ukraine's future is in doubt as cease-fires collapse</a> NPR: Vladimir Putin warned Saturday that Ukrainian statehood is in jeopardy and likened the West's sanctions on Russia to "declaring war" as Russian troops continued to shell encircled cities 
