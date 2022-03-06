@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:49 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 06:47 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
+ <p class="updated_time"> 06:37 PM CT, Mar. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60491095?at_medium=RSS&at_campaign=KARANGA">Why Indian fathers are embracing paternity leave</a> BBC: The pandemic and changing family structures have highlighted how young parents are struggling with childcare. 
+ <p class="updated_time"> 06:32 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
+ <p class="updated_time"> 06:02 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
  <p class="updated_time"> 05:38 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/mastercard-visa-suspend-operations-russia.html">Mastercard and Visa Suspend Operations in Russia</a> NYT: Russian-issued cards will no longer work in other countries, and purchases from Russian vendors by cardholders in other countries will be cut off. 
  <p class="updated_time"> 04:37 PM CT, Mar. 05 </p> 
@@ -28,14 +34,14 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 02:56 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
- <p class="updated_time"> 02:51 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 02:23 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 02:10 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084762582/russia-ukraine-state-department-travel-advisory">The State Department tells Americans to leave Russia immediately</a> NPR: The new travel advisory was issued over heightened security concerns in the country as Russian military forces carry out an "unprovoked and unjustified attack" in Ukraine. 
  <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
+ <p class="updated_time"> 01:29 PM CT, Mar. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
  <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
@@ -54,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
  <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked, grossing nearly $2 million. One host in Kyiv says the donations have helped pay staffers who have fled and buy food for elderly neighbors. 
- <p class="updated_time"> 11:32 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-agree-to-open-corridors-for-civilians-to-evacuate-mariupol-11646470358">Ukraine, Russia Agreement on Evacuating Mariupol Civilians Collapses</a> WSJ: Russian President Vladimir Putin blamed Kyiv for the breakdown and said that Ukraine’s leadership “is putting under question the future existence of Ukrainian statehood”; Kyiv accused Moscow of violating the agreed-to cease-fire and resuming its attacks on residential areas. 
  <p class="updated_time"> 11:00 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ceasefire cut short in south as Russia advances on Kyiv</a> BBC: Planned evacuation of Mariupol and Volnovakha is aborted after ceasefire agreement falls apart. 
  <p class="updated_time"> 10:37 AM CT, Mar. 05 </p> 
@@ -178,8 +182,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
  <p class="updated_time"> 01:37 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/tesla-germany-assembly-plant.html">Tesla Wins Approval to Open European Assembly Plant</a> NYT: German authorities cleared the plant, which was built near Berlin, to open for production. Tesla plans to build 500,000 electric cars a year there. 
- <p class="updated_time"> 12:56 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/russia-ukraine-invasion-kremlin.html">Kremlin Vows Victory in Ukraine as Refugees Swell to One Million</a> NYT: Defiant Ukrainians slowed the invasion, but Russian forces gained ground in the south, and the Kremlin insisted the week-old campaign was “going according to plan.” 
  <p class="updated_time"> 12:37 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60625925?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians living in Poland return home to aid war effort</a> BBC: The BBC's Mark Lowen is at the Polish border with Ukrainians hoping to aid Ukraine's war effort. 
  <p class="updated_time"> 12:04 PM CT, Mar. 04 </p> 
@@ -205,6 +207,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 PM CT, Mar. 05 </p> 
+ <a href="https://www.politico.com/news/2022/03/05/mastercard-visa-suspend-operations-russia-00014425">Mastercard, Visa suspend operations in Russia after invasion</a> Politico: The suspensions are a follow-up to more limited moves earlier in the week to block financial institutions from the networks that serve as arteries for the payments system. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 05 </p> 
+ <a href="https://www.politico.com/news/2022/03/05/white-house-deal-fighter-jets-ukraine-00014424">White House weighs three-way deal to get fighter jets to Ukraine</a> Politico: Poland wants to donate its old MiGs to Ukraine. But there’s a catch — it needs U.S. jets. 
  <p class="updated_time"> 04:31 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/blinken-ukraine.html">Blinken Arrives in Poland to Gauge Additional U.S. Aid for Ukraine</a> NYT: The Russian invasion has pushed more than one million refugees to flee Ukraine for neighboring nations. 
  <p class="updated_time"> 12:19 PM CT, Mar. 05 </p> 
@@ -355,8 +361,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
- <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
