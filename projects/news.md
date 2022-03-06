@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:59 PM CT, Mar. 05 </p> 
+ <p class="updated_time"> 10:17 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 22 Injured, Querétaro Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
+ <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
+ <p class="updated_time"> 10:09 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visits Moscow. 
  <p class="updated_time"> 09:33 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/lviv-ukraine-war-russia.html">In Ukraine’s West, Lviv Makes Itself a Vital Rear Base</a> NYT: Spared direct attacks so far, the city has become a transit point for thousands of fleeing refugees and for men and supplies headed to the front lines. 
@@ -68,8 +72,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60631433?at_medium=RSS&at_campaign=KARANGA">From Grozny to Aleppo to Ukraine, Russia meets resistance with more firepower</a> BBC: Russia answers resistance with big guns and sieges. Ukrainians pray that will not happen to them, writes the BBC's Jeremy Bowen in Kyiv. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
- <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:39 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632974?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Citizens evacuate town of Irpin as homes are destroyed</a> BBC: Crowds are leaving the town of Irpin outside Kyiv as Russian shelling strikes residential areas. 
  <p class="updated_time"> 09:30 AM CT, Mar. 05 </p> 
@@ -196,8 +198,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/history-ukraine-russia-war-books.html">Here's What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
- <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 07:31 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/world/europe/melitopol-russian-troops-video-ukraine.html">Video: How Melitopol Is Coping With Presence of Russian Troops</a> NYT: ​​Videos verified by The New York Times show some residents of Melitopol meeting Russian troops with a mix of anger and scorn, and others lining up for aid in a central square. 
 
@@ -207,6 +207,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">U.S. and Allies Discuss Security of Ukraine’s Leaders Amid Fears for Zelensky’s Safety</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 07:04 PM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/mastercard-visa-suspend-operations-russia-00014425">Mastercard, Visa suspend operations in Russia after invasion</a> Politico: The suspensions are a follow-up to more limited moves earlier in the week to block financial institutions from the networks that serve as arteries for the payments system. 
  <p class="updated_time"> 07:01 PM CT, Mar. 05 </p> 
@@ -219,8 +221,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/us/politics/zelensky-congress-no-fly-zone.html">Zelensky Asks for More Weapons and a No-Fly Zone in Meeting With Congress</a> NYT: The meeting, conducted via Zoom, was the first time President Volodymyr Zelensky of Ukraine had addressed both houses of Congress since Russia’s invasion began. 
  <p class="updated_time"> 11:13 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/russian-plane-due-to-land-in-dc-soon-to-pick-up-expelled-spies-00014418">Russian plane lands in D.C. to pick up expelled ‘spies’</a> Politico: With airspace closed to Russian aircraft, Moscow sent a diplomatic jet to Dulles to grab officials kicked out of the U.S. 
- <p class="updated_time"> 10:15 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">U.S. and Allies Discuss Security of Ukraine’s Leaders Amid Fears for Zelensky’s Safety</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/05/zelenskyy-presses-u-s-senators-as-ceasefire-collapses-00014415"> Zelenskyy presses U.S. senators as ceasefire collapses</a> Politico Playbook: And Russia clamps down on free speech. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
