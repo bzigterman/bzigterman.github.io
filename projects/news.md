@@ -8,10 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
+ <p class="updated_time"> 03:58 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
+ <p class="updated_time"> 03:57 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 03:47 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637841?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky invites Elon Musk to visit</a> BBC: Ukraine's president was thanking the tech entrepreneur for supplying Starlink equipment to the country. 
- <p class="updated_time"> 03:27 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
@@ -194,8 +198,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/monique-hanotte-dead.html">Monique Hanotte, Savior of Allied Airmen, Dies at 101</a> NYT: Using her knowledge of the Belgium-France border and quick thinking, she guided dozens of downed Allied airmen to safety during World War II. 
  <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nuclear-plant-fire.html">Fire at Ukraine Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
- <p class="updated_time"> 01:50 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/03/world/europe/nuclear-plant-fire-zaporizhzhia-video.html">After Fire, Russian Troops Seize Zaporizhzhia Nuclear Power Plant</a> NYT: Security camera footage showed a building ablaze inside the complex amid fighting. The fire was later extinguished. A Ukrainian agency said that Russian forces had taken control of the site. 
  <p class="updated_time"> 11:35 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/australia/history-ukraine-russia-war-books.html">Here's What to Read About the Russia-Ukraine War</a> NYT: Our reporters have been covering the crisis, from documenting military movement and the refugee exodus on the ground to analyzing global geopolitical developments. 
 
@@ -205,6 +207,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084593495/election-year-do-nothing-congress-history">It's a cliché to call an election-year Congress do-nothing. The history doesn't match</a> NPR: There's no law against making laws in an election year. There are special challenges, but the hurdles may loom larger in lore than in reality. 
+ <p class="updated_time"> 03:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/us/politics/paxton-bush-primary-runoff.html">Indicted. Under F.B.I. Investigation. And Still Popular With Texas Republicans.</a> NYT: Ken Paxton, the Texas attorney general, earned the most votes in Tuesday’s G.O.P. primary. His embrace of Trumpism has helped him weather a series of allegations. 
  <p class="updated_time"> 02:35 AM CT, Mar. 06 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:00 AM CT, Mar. 06 </p> 
@@ -315,10 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">How shunning Russia could offer the U.S. tech giants an easy win</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two reviews showing there were no problems with the 2020 presidential election. 
- <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084448661/bidens-supreme-court-nominee-meets-with-senate-leaders-judiciary-panel-members">Biden's Supreme Court nominee meets with Senate leaders, judiciary panel members</a> NPR: The nomination of Ketanji Brown Jackson to the Supreme Court took its first steps in Congress this week. How did the meetings with Senate leaders go, and what comes next? 
- <p class="updated_time"> 11:04 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/biden-putin-sanctions.html">Washington’s Newest Worry: The Dangers of Cornering Putin</a> NYT: Surprised by the speed at which sanctions have been poured on Russia, Biden’s top aides suspect that Putin’s reaction will be to double down and lash out — and perhaps expand the war. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/boebert-greene-republicans.html">In Greene and Boebert, Democrats See a Helpful Political Target</a> NYT: The antics of Representatives Marjorie Taylor Greene and Lauren Boebert, as well as recent stumbles by other Republicans, have drawn unflattering attention to their party. 
  <p class="updated_time"> 08:26 PM CT, Mar. 03 </p> 
