@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:38 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 12:27 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. Police in Russia take 3,000 people into custody as protests against the invasion expand across the nation. 
- <p class="updated_time"> 12:21 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 12:02 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed on Putin, Russian Conductor Quits Bolshoi and French Post</a> NYT: Tugan Sokhiev, the Bolshoi’s music director, said he was “being asked to choose one cultural tradition” over another, at a moment Russian artists are under pressure to denounce Russia’s president. 
  <p class="updated_time"> 12:00 PM CT, Mar. 06 </p> 
@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
  <p class="updated_time"> 08:29 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
+ <p class="updated_time"> 07:42 AM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukrainians Protest Russian Occupation as Putin Pursues Offensive</a> WSJ: Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/03/06/1083769798/russias-war-on-ukraine-is-dire-for-world-hunger-but-there-are-solutions">Russia's war on Ukraine is dire for world hunger. But there are solutions</a> NPR: Both countries are huge suppliers of grains and other essential foods. And with widespread hunger and high food prices already, the war couldn't have come at a worse time. 
  <p class="updated_time"> 07:23 AM CT, Mar. 06 </p> 
@@ -58,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084800686/some-countries-are-choosing-to-maintain-their-ties-with-russia">Some countries are choosing to maintain their ties with Russia</a> NPR: While most countries have opposed Russia's invasion of Ukraine, many others are keeping their Russia ties intact. Their reasons range from practical matters — such as trade — to ideological. 
  <p class="updated_time"> 06:49 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia has attacked schools and hospitals, says deputy PM</a> BBC: Meanwhile, the UN says more than 1.5m people have now fled Ukraine since Russia invaded on 24 February. 
- <p class="updated_time"> 06:42 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukrainians Protest Russian Occupation as Putin Pursues Offensive</a> WSJ: Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again. 
  <p class="updated_time"> 06:39 AM CT, Mar. 06 </p> 
  <a href="https://www.wsj.com/articles/russian-artillery-kills-ukrainian-civilians-fleeing-kyiv-suburb-11646575238">Russian Artillery Kills Ukrainian Civilians Fleeing Kyiv Suburb</a> WSJ: Deaths are mounting from Russian strikes on residential areas in cities around Ukraine as the second cease-fire agreement fails. 
  <p class="updated_time"> 06:20 AM CT, Mar. 06 </p> 
@@ -216,7 +216,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 10:58 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/gallery/2022/03/06/photos-refugees-from-ukraine-00014430">Photos: Refugees from Ukraine</a> Politico: Russia's invasion of Ukraine has led to a massive displacement of the population of Ukraine, with civilians fleeing the devastating impact of the attack in numbers not seen in Europe in the 21st century. 
  <p class="updated_time"> 10:26 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/ukraine-no-fly-zone-00014437">Ukraine amps up calls for a no-fly zone: 'This is a terrorist state'</a> Politico: American and European leaders have been resistant to a no-fly zone, arguing that it would unleash a wider war. 
+ <a href="https://www.politico.com/news/2022/03/06/ukraine-no-fly-zone-00014437">West resists Ukrainian calls for a no-fly zone, but warms to other requests</a> Politico: American and European leaders have been resistant to a no-fly zone, arguing that it would unleash a wider war. 
  <p class="updated_time"> 10:09 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/kyiv-mayor-klitschko-russia-00014436">Kyiv's mayor: 'We defend our city, our houses, our families'</a> Politico: Vitaly Klitschko said his people were patriotic and defiant but still needed international help. 
  <p class="updated_time"> 09:45 AM CT, Mar. 06 </p> 
