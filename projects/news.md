@@ -8,8 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:31 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 08:52 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Evacuation of Key Ukrainian City Is Canceled Again</a> NYT: Efforts to evacuate civilians from the besieged port city of Mariupol were called off for the second straight day amid continued shelling by Russian forces, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 08:52 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">3 People Killed in Shelling by Russian Forces in Ukraine</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
+ <p class="updated_time"> 08:48 AM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60640204?at_medium=RSS&at_campaign=KARANGA">Protests across Russia see thousands detained</a> BBC: The detainments took place at 49 cities, from St Petersburg in the west to Vladivostok in the east. 
+ <p class="updated_time"> 08:36 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s passionate plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 08:29 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
@@ -100,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
  <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
- <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/basketball/60633700?at_medium=RSS&at_campaign=KARANGA">Concern for basketball star detained in Russia</a> BBC: WNBA side Phoenix Mercury are concerned for Brittney Griner's "safety, physical and mental health" after she was detained in Russia on drug smuggling charges. 
  <p class="updated_time"> 01:14 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60634735?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Residents under siege in Mariupol clear out shopping mall</a> BBC: Local officials say residents are in dire need of food, water and medicine due to Russia's blockade. 
  <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
@@ -126,12 +130,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 09:06 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/aclu-ice-covid-vaccine-booster.html">A.C.L.U. Lawsuit Accuses ICE Jailers of Denying Detainees Vaccines</a> NYT: One of the plaintiffs is Anna Sorokin, a Russian immigrant who for several years presented herself as a German heiress named Anna Delvey. She received a booster shot on Thursday, two days after the suit was filed. 
- <p class="updated_time"> 09:01 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60617365?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: BBC suspends its journalists' work in Russia</a> BBC: The temporary suspension comes in response to a new Russian law which threatens reporters with prison. 
  <p class="updated_time"> 08:37 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">A Welcome Steeped in History: Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
- <p class="updated_time"> 08:36 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60631835?at_medium=RSS&at_campaign=KARANGA">Zara, Paypal and Samsung suspend business in Russia over Ukraine invasion</a> BBC: Inditex, which owns Zara and several other major brands, will close all of its 502 stores in Russia. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/aeroflot-russia-international-flights-suspended.html">Aeroflot, Russia's State Airline, Says it Will Suspend International Flights</a> NYT: Russia’s airline industry has been hit hard as countries around the world have imposed sanctions on the country for its invasion of Ukraine. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
@@ -196,8 +196,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60617145?at_medium=RSS&at_campaign=KARANGA">Why doesn't Ukraine attack the Russian convoy? And other questions</a> BBC: Correspondents and experts answer questions from readers on the BBC News website 
  <p class="updated_time"> 11:03 AM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/monique-hanotte-dead.html">Monique Hanotte, Savior of Allied Airmen, Dies at 101</a> NYT: Using her knowledge of the Belgium-France border and quick thinking, she guided dozens of downed Allied airmen to safety during World War II. 
- <p class="updated_time"> 05:12 AM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/nuclear-plant-fire.html">Fire at Ukraine Nuclear Plant Is Out, but Russian Troops Take Control </a> NYT: International observers and Ukrainian officials said that as of 6 a.m. the facility was still able to function safely. 
 
 
 </details>
@@ -205,6 +203,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:45 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/blinken-putin-destined-to-lose-ukraine-00014434">Blinken: Putin is 'destined to lose' war against Ukraine</a> Politico: “Just winning a battle is not winning a war,” Secretary of State Antony Blinken said. 
+ <p class="updated_time"> 08:36 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s passionate plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 08:02 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/13/eric-adams-chocolate-milk-00013170">Eric Adams is after your child's chocolate milk</a> Politico: The man who calls himself New York’s first vegan mayor has a long and complicated history with chocolate milk, which he wanted banned from schools. 
  <p class="updated_time"> 07:25 AM CT, Mar. 06 </p> 
@@ -327,16 +329,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">How shunning Russia could offer the U.S. tech giants an easy win</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
- <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/boebert-greene-republicans.html">In Greene and Boebert, Democrats See a Helpful Political Target</a> NYT: The antics of Representatives Marjorie Taylor Greene and Lauren Boebert, as well as recent stumbles by other Republicans, have drawn unflattering attention to their party. 
  <p class="updated_time"> 08:26 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-justice-department-january-6.html">Pressure on Justice Dept. as Jan. 6 Panel Lays Out Case Against Trump</a> NYT: Building a criminal case against the former president is very difficult for federal prosecutors, experts say, underlining the dilemma confronting the agency. 
  <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
- <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
