@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:10 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 02:27 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: At least three family members, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
+ <p class="updated_time"> 02:19 PM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084818850/russia-ukraine-cease-fire-mariupol">A cease-fire to evacuate civilians from the Ukrainian city of Mariupol fails again</a> NPR: It was the second day in a row that a cease-fire to allow the evacuation of civilians from the port city fell apart. 
+ <p class="updated_time"> 02:18 PM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084818519/russia-protests-detainments">Thousands have been detained in anti-war protests across Russia</a> NPR: As of Sunday, an independent monitoring group reports over 4,500 were detained across 63 cities, including Moscow and St. Petersburg. 
  <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/article/what-is-nato.html">What is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
  <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
@@ -120,12 +124,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-food-ukraine.html">Fast-Food Chains Stay Open in Russia, Mostly Quiet About Ukraine</a> NYT: Many fast-food chains are facing growing pressure on social media platforms and from large investors to halt operations in Russia. 
  <p class="updated_time"> 03:51 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084772001/covid-19-cases-soar-in-new-zealand-in-dramatic-shift">COVID-19 cases soar in New Zealand, in dramatic shift</a> NPR: New Zealand was once heralded for its handling of COVID-19. But these days, infections are rising and the government is having to cope with unrest from anti-vaccination protesters. 
- <p class="updated_time"> 03:31 PM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084764302/putin-calls-sanctions-a-declaration-of-war-as-zelenskyy-pleads-for-more-aid">Putin calls sanctions a declaration of war as Zelenskyy pleads for more aid</a> NPR: Russian President Vladimir Putin also said that any attempt to install a no-fly zone in Ukraine would cause catastrophic consequences for Europe and the world. 
  <p class="updated_time"> 02:23 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
- <p class="updated_time"> 02:10 PM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084762582/russia-ukraine-state-department-travel-advisory">The State Department tells Americans to leave Russia immediately</a> NPR: The new travel advisory was issued over heightened security concerns in the country as Russian military forces carry out an "unprovoked and unjustified attack" in Ukraine. 
  <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
  <p class="updated_time"> 01:14 PM CT, Mar. 05 </p> 
