@@ -206,7 +206,7 @@ ggplot() +
   scale_y_continuous(position = "right") +
   theme(axis.ticks.y = element_blank(),
         panel.grid = element_blank(),
-        panel.background = element_rect("#ccd6e6"),
+        panel.background = element_rect("#DAE3ED"),
         legend.position = "none",
         panel.grid.major.x = element_line(colour = "grey95"),
         strip.background = element_blank(),
