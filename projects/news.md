@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:18 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 05:43 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
+ <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
  <p class="updated_time"> 03:57 AM CT, Mar. 06 </p> 
@@ -58,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084772001/covid-19-cases-soar-in-new-zealand-in-dramatic-shift">COVID-19 cases soar in New Zealand, in dramatic shift</a> NPR: New Zealand was once heralded for its handling of COVID-19. But these days, infections are rising and the government is having to cope with unrest from anti-vaccination protesters. 
  <p class="updated_time"> 03:31 PM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084764302/putin-calls-sanctions-a-declaration-of-war-as-zelenskyy-pleads-for-more-aid">Putin calls sanctions a declaration of war as Zelenskyy pleads for more aid</a> NPR: Russian President Vladimir Putin also said that any attempt to install a no-fly zone in Ukraine would cause catastrophic consequences for Europe and the world. 
- <p class="updated_time"> 02:56 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 02:23 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 02:10 PM CT, Mar. 05 </p> 
@@ -218,7 +218,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:04 PM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/mastercard-visa-suspend-operations-russia-00014425">Mastercard, Visa suspend operations in Russia after invasion</a> Politico: The suspensions are a follow-up to more limited moves earlier in the week to block financial institutions from the networks that serve as arteries for the payments system. 
  <p class="updated_time"> 07:01 PM CT, Mar. 05 </p> 
- <a href="https://www.politico.com/news/2022/03/05/white-house-deal-fighter-jets-ukraine-00014424">White House weighs three-way deal to get fighter jets to Ukraine</a> Politico: Poland wants to donate its old MiGs to Ukraine. But there’s a catch — it needs U.S. jets. 
+ <a href="https://www.politico.com/news/2022/03/05/white-house-deal-fighter-jets-ukraine-00014424">White House weighs 3-way deal to get fighter jets to Ukraine</a> Politico: Poland wants to donate its old MiGs to Ukraine. But there’s a catch — it needs U.S. jets. 
  <p class="updated_time"> 04:31 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/blinken-ukraine.html">Blinken Arrives in Poland to Gauge Additional U.S. Aid for Ukraine</a> NYT: The Russian invasion has pushed more than one million refugees to flee Ukraine for neighboring nations. 
  <p class="updated_time"> 12:19 PM CT, Mar. 05 </p> 
