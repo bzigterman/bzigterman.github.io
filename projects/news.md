@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:35 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 03:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
