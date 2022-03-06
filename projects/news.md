@@ -8,14 +8,14 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:52 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Evacuation of Key Ukrainian City Is Canceled Again</a> NYT: Efforts to evacuate civilians from the besieged port city of Mariupol were called off for the second straight day amid continued shelling by Russian forces, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 09:01 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 08:54 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 08:52 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">3 People Killed in Shelling by Russian Forces in Ukraine</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
  <p class="updated_time"> 08:48 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60640204?at_medium=RSS&at_campaign=KARANGA">Protests across Russia see thousands detained</a> BBC: The detainments took place at 49 cities, from St Petersburg in the west to Vladivostok in the east. 
- <p class="updated_time"> 08:36 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s passionate plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 08:29 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
@@ -205,8 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:45 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/blinken-putin-destined-to-lose-ukraine-00014434">Blinken: Putin is 'destined to lose' war against Ukraine</a> Politico: “Just winning a battle is not winning a war,” Secretary of State Antony Blinken said. 
- <p class="updated_time"> 08:36 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s passionate plea to American legislators for assistance in obtaining more lethal military aid. 
+ <p class="updated_time"> 08:54 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 08:02 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/13/eric-adams-chocolate-milk-00013170">Eric Adams is after your child's chocolate milk</a> Politico: The man who calls himself New York’s first vegan mayor has a long and complicated history with chocolate milk, which he wanted banned from schools. 
  <p class="updated_time"> 07:25 AM CT, Mar. 06 </p> 
@@ -397,8 +397,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/27/cotton-trump-vladimir-putin-00012123">Cotton declines to berate Trump for praising Putin</a> Politico: The Arkansas senator deflected repeated questions about the former president from George Stephanopoulos. 
  <p class="updated_time"> 11:13 AM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/02/27/your-guide-through-a-blizzard-of-news-in-ukraine-00012118"> Your guide through a blizzard of news in Ukraine</a> Politico Playbook: And Trump remains the star of the show at CPAC. 
- <p class="updated_time"> 08:56 AM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/capitol-fence-biden-state-union-address-00012105">Capitol fence will return ahead of Biden’s State of the Union address</a> Politico: Fencing ringed the Capitol for weeks after the Jan. 6 insurrection, and some fencing returned ahead of a rally last September. 
 
 
 </details>
