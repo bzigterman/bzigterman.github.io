@@ -8,16 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. Police in Russia take 3,000 people into custody as protests against the invasion expand across the nation. 
+ <p class="updated_time"> 02:10 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: At least three family members, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
+ <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/article/what-is-nato.html">What is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
+ <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
+ <p class="updated_time"> 01:56 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 01:49 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 01:39 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia has attacked schools and hospitals, says deputy PM</a> BBC: Meanwhile, the UN says more than 1.5m people have now fled Ukraine since Russia invaded on 24 February. 
  <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
- <p class="updated_time"> 01:04 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 01:03 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 26 injured as fans fight at Mexican match</a> BBC: At least 26 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
  <p class="updated_time"> 01:00 PM CT, Mar. 06 </p> 
@@ -138,8 +142,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
  <p class="updated_time"> 09:39 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632974?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Citizens evacuate town of Irpin as homes are destroyed</a> BBC: Crowds are leaving the town of Irpin outside Kyiv as Russian shelling strikes residential areas. 
- <p class="updated_time"> 09:30 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 09:06 AM CT, Mar. 05 </p> 
@@ -176,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60622772?at_medium=RSS&at_campaign=KARANGA">European peace seems as fragile as ever</a> BBC: The shifting of European history's tectonic plates is not really that unexpected, explains Kevin Connolly. 
  <p class="updated_time"> 06:34 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60593022?at_medium=RSS&at_campaign=KARANGA">Russia oligarchs: The mega-rich men facing global sanctions</a> BBC: President Putin has for years warned Russia's richest to protect themselves against sanctions. 
- <p class="updated_time"> 06:28 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
@@ -203,6 +203,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 02:32 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/israel-bennett-russia-putin-ukraine-00014466">Israeli leader speaks to Putin day after visit</a> Politico: Prime Minister Naftali Bennett has been working to mediate between Russia and Ukraine. 
+ <p class="updated_time"> 01:17 PM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/andrew-cuomo-brooklyn-church-appearance-00014446">'God isn't finished with me yet': Cuomo speaks at Brooklyn church for first live appearance since resigning</a> Politico: The former governor laid out the same defense of his behavior he’s held for months, but assured the audience he’s been leaning on scripture in a difficult time. 
  <p class="updated_time"> 12:28 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/schiff-justice-department-trump-election-00014445">Schiff: Justice Department 'ought to be investigating' Trump's actions after the 2020 election</a> Politico: The California Democrat is a member of the House Jan. 6 committee. 
  <p class="updated_time"> 11:49 AM CT, Mar. 06 </p> 
@@ -285,8 +287,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
- <p class="updated_time"> 05:11 PM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/pence-trump-russia-ukraine-putin-00014359">Pence hits Trump: No room in GOP ‘for apologists for Putin’</a> Politico: Pence has been increasingly willing to challenge Trump — a dramatic departure from his deferential posture as vice president. 
  <p class="updated_time"> 04:53 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/supreme-court-death-sentence-boston-marathon-bomber.html">Supreme Court Restores Death Sentence for Boston Marathon Bomber</a> NYT: The Biden administration, which announced a moratorium on federal executions, has pursued the case against Dzhokhar Tsarnaev, who helped carry out the 2013 bombings. 
  <p class="updated_time"> 04:49 PM CT, Mar. 04 </p> 
