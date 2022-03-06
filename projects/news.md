@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:01 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 09:36 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 09:31 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/sports/basketball/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
+ <p class="updated_time"> 09:22 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
  <p class="updated_time"> 08:54 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 08:52 AM CT, Mar. 06 </p> 
@@ -44,16 +48,18 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60638255?at_medium=RSS&at_campaign=KARANGA">Shell defends 'difficult' decision to buy Russian crude oil</a> BBC: The oil giant confirmed it made a purchase of Russian crude oil on Friday but said it had "no alternative". 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
+ <p class="updated_time"> 04:28 AM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukrainians Protest Russian Occupation as Putin Pursues Offensive</a> WSJ: Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again. 
  <p class="updated_time"> 04:13 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 22 injured as fans fight at Mexican match</a> BBC: At least 22 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
  <p class="updated_time"> 03:47 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637841?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky invites Elon Musk to visit</a> BBC: Ukraine's president was thanking the tech entrepreneur for supplying Starlink equipment to the country. 
- <p class="updated_time"> 03:28 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukrainians Protest Russian Occupation as Putin Pursues Offensive</a> WSJ: Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
+ <p class="updated_time"> 03:06 AM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/russian-advance-is-blunted-by-ukrainian-tactics-war-tested-troops-and-western-weapons-11646575579">How Ukraine Blunted the Russian Advance</a> WSJ: Combat-hardened Ukrainian troops, armed with weapons from the U.S., Britain and elsewhere, have slowed and in some cases halted Russian advances by taking advantage of strong morale, a deep, home-team knowledge of the battlefield and Russian shortcomings in logistics and tactics. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
  <p class="updated_time"> 01:33 AM CT, Mar. 06 </p> 
@@ -64,10 +70,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60636337?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky urges Ukrainians to go on the offensive</a> BBC: In a rallying cry, the Ukrainian president says the country has withstood the invasion "together". 
  <p class="updated_time"> 12:33 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084794295/putin-says-ukraines-future-is-in-doubt-as-cease-fires-collapse">Putin says Ukraine's future is in doubt as cease-fires collapse</a> NPR: Vladimir Putin warned Saturday that Ukrainian statehood is in jeopardy and likened the West's sanctions on Russia to "declaring war" as Russian troops continued to shell encircled cities 
- <p class="updated_time"> 10:42 PM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/this-russian-metals-giant-might-be-too-big-to-sanction-11646559751">This Russian Metals Giant Might Be Too Big to Sanction</a> WSJ: Norilsk Nickel is a key supplier of nickel and palladium, two metals that are key for electric-vehicle batteries and semiconductors. 
- <p class="updated_time"> 10:40 PM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-president-asks-congress-to-help-secure-russian-made-jet-fighters-11646511532">U.S., Poland Look at Providing Soviet-Era Aircraft to Ukraine</a> WSJ: The U.S. is exploring a deal in which Poland would send Soviet-era aircraft to Ukraine in return for American F-16 jet fighters, U.S. officials said. Poland’s prime minister’s office dismissed reports of a potential arrangement. 
  <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:33 PM CT, Mar. 05 </p> 
@@ -104,8 +106,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084762582/russia-ukraine-state-department-travel-advisory">The State Department tells Americans to leave Russia immediately</a> NPR: The new travel advisory was issued over heightened security concerns in the country as Russian military forces carry out an "unprovoked and unjustified attack" in Ukraine. 
  <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
- <p class="updated_time"> 01:15 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/middleeast/pakistan-peshawar-mosque-explosion.html">ISIS Claims Bombing of Pakistani Mosque, Killing Dozens</a> NYT: More than 50 people were killed and more than 100 wounded after an explosion tore through a Shiite mosque in one of the worst terrorist attacks in Pakistan in years. 
  <p class="updated_time"> 01:14 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60634735?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Residents under siege in Mariupol clear out shopping mall</a> BBC: Local officials say residents are in dire need of food, water and medicine due to Russia's blockade. 
  <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
@@ -203,6 +203,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:26 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/ukraine-no-fly-zone-00014437">Ukraine amps up calls for a no-fly zone: 'This is a terrorist state'</a> Politico: American and European leaders have been resistant to a no-fly zone, arguing that it would unleash a wider war. 
+ <p class="updated_time"> 10:09 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/kyiv-mayor-klitschko-russia-00014436">Kyiv's mayor: 'We defend our city, our houses, our families'</a> Politico: Vitaly Klitschko said his people were patriotic and defiant but still needed international help. 
  <p class="updated_time"> 09:45 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/blinken-putin-destined-to-lose-ukraine-00014434">Blinken: Putin is 'destined to lose' war against Ukraine</a> Politico: “Just winning a battle is not winning a war,” Secretary of State Antony Blinken said. 
  <p class="updated_time"> 08:54 AM CT, Mar. 06 </p> 
@@ -367,8 +371,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
- <p class="updated_time"> 11:32 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/biden-state-of-the-union-2022-missing-00013082">What Biden didn't talk about in his State of the Union address</a> Politico: There were a few noticeable keywords and anticipated topics missing from his speech. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/news/2022/03/01/state-of-the-union-2022-00013072">Biden to America: ‘We’re going to be OK’</a> Politico: The president didn’t imagine that this was going to be his first State of the Union address. But when life gives you lemons ... 
  <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
