@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:12 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 01:49 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. Police in Russia take 3,000 people into custody as protests against the invasion expand across the nation. 
+ <p class="updated_time"> 01:49 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
+ <p class="updated_time"> 01:39 PM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia has attacked schools and hospitals, says deputy PM</a> BBC: Meanwhile, the UN says more than 1.5m people have now fled Ukraine since Russia invaded on 24 February. 
  <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 01:04 PM CT, Mar. 06 </p> 
@@ -18,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 26 injured as fans fight at Mexican match</a> BBC: At least 26 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
  <p class="updated_time"> 01:00 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641868?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Military couple marry on the frontline</a> BBC: Lesya and Valeri, both civil defence volunteers, tied the knot at a checkpoint near Kyiv. 
- <p class="updated_time"> 12:50 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 12:02 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed on Putin, Russian Conductor Quits Bolshoi and French Post</a> NYT: Tugan Sokhiev, the Bolshoi’s music director, said he was “being asked to choose one cultural tradition” over another, at a moment Russian artists are under pressure to denounce Russia’s president. 
  <p class="updated_time"> 12:00 PM CT, Mar. 06 </p> 
@@ -64,8 +66,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084800707/some-russians-in-the-u-s-fear-sanctions-impact-on-family-back-home">Some Russians in the U.S. fear sanctions' impact on family back home</a> NPR: Many Russian immigrants in the U.S. express solidarity with Ukraine while worrying about how the tough sanctions on Russia will affect their loved ones back home. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800686/some-countries-are-choosing-to-maintain-their-ties-with-russia">Some countries are choosing to maintain their ties with Russia</a> NPR: While most countries have opposed Russia's invasion of Ukraine, many others are keeping their Russia ties intact. Their reasons range from practical matters — such as trade — to ideological. 
- <p class="updated_time"> 06:49 AM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia has attacked schools and hospitals, says deputy PM</a> BBC: Meanwhile, the UN says more than 1.5m people have now fled Ukraine since Russia invaded on 24 February. 
  <p class="updated_time"> 06:20 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents run from Russian shelling in Irpin, near Kyiv</a> BBC: People are seen dropping to the ground as the town, just outside Kyiv, is attacked again. 
  <p class="updated_time"> 06:03 AM CT, Mar. 06 </p> 
@@ -201,6 +201,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/israel-bennett-russia-putin-ukraine-00014466">Israeli leader speaks to Putin day after visit</a> Politico: Prime Minister Naftali Bennett has been working to mediate between Russia and Ukraine. 
  <p class="updated_time"> 12:28 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/schiff-justice-department-trump-election-00014445">Schiff: Justice Department 'ought to be investigating' Trump's actions after the 2020 election</a> Politico: The California Democrat is a member of the House Jan. 6 committee. 
  <p class="updated_time"> 11:49 AM CT, Mar. 06 </p> 
@@ -289,8 +291,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/supreme-court-death-sentence-boston-marathon-bomber.html">Supreme Court Restores Death Sentence for Boston Marathon Bomber</a> NYT: The Biden administration, which announced a moratorium on federal executions, has pursued the case against Dzhokhar Tsarnaev, who helped carry out the 2013 bombings. 
  <p class="updated_time"> 04:49 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/madison-cawthorn-north-carolina-insurrectionist.html">Judge Blocks Effort to Disqualify Cawthorn from Ballot as ‘Insurrectionist’</a> NYT: A district judge ruled that the Amnesty Act of 1872, which forgave confederates, overruled a clause in the 14th Amendment barring “insurrectionists” from Congress. 
- <p class="updated_time"> 04:27 PM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/desantis-florida-congressional-maps-00014213">GOP-led Florida Legislature approves new congressional maps that DeSantis vows to veto</a> Politico: Gov. Ron DeSantis’ position puts Republican leaders in an awkward spot. 
  <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Mar. 04 </p> 
@@ -389,8 +389,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/02/27/politics/us-troops-ukraine-russia-what-matters/index.html">Why the US isn't sending troops into Ukraine </a> CNN: Russia's unprovoked assault on Ukraine, now in its fourth day, has faced universal condemnation from Western powers. 
  <p class="updated_time"> 06:43 PM CT, Feb. 27 </p> 
  <a href="https://www.politico.com/news/2022/02/27/capitol-leaders-rescind-mask-mandate-sotu-00012167">Capitol leaders rescind mask mandate ahead of State of the Union</a> Politico: The Office of the Attending Physician said it was following the Centers for Disease Control and Prevention's new guidelines on masking. 
- <p class="updated_time"> 01:26 PM CT, Feb. 27 </p> 
- <a href="https://www.politico.com/news/2022/02/27/clyburn-support-biden-scotus-nominee-00012133">Clyburn urges ‘strong, bipartisan support’ for Biden’s SCOTUS nominee</a> Politico: "This is about the country, our pursuit of a more perfect union," the South Carolina Democrat said. 
 
 
 </details>
