@@ -8,9 +8,9 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:23 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 08:31 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Evacuation of Key Ukrainian City Is Canceled Again</a> NYT: Efforts to evacuate civilians from the besieged port city of Mariupol were called off for the second straight day amid continued shelling by Russian forces, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
- <p class="updated_time"> 08:17 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 08:29 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/03/06/1083769798/russias-war-on-ukraine-is-dire-for-world-hunger-but-there-are-solutions">Russia's war on Ukraine is dire for world hunger. But there are solutions</a> NPR: Both countries are huge suppliers of grains and other essential foods. And with widespread hunger and high food prices already, the war couldn't have come at a worse time. 
@@ -44,10 +44,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
  <p class="updated_time"> 03:47 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637841?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky invites Elon Musk to visit</a> BBC: Ukraine's president was thanking the tech entrepreneur for supplying Starlink equipment to the country. 
+ <p class="updated_time"> 03:28 AM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukrainians Protest Russian Occupation as Putin Pursues Offensive</a> WSJ: Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
- <p class="updated_time"> 02:09 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukraine Resumes Evacuation as Russia Presses Offensive</a> WSJ: Ukraine made a second attempt to evacuate civilians from the besieged cities of Mariupol and Volnovakha, declaring a cease-fire to be in effect there despite Russia’s claims of military gains. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
  <p class="updated_time"> 01:33 AM CT, Mar. 06 </p> 
