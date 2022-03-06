@@ -64,6 +64,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60638255?at_medium=RSS&at_campaign=KARANGA">Shell defends 'difficult' decision to buy Russian crude oil</a> BBC: The oil giant confirmed it made a purchase of Russian crude oil on Friday but said it had "no alternative". 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
+ <p class="updated_time"> 04:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366">Russia's Military Chief Promised Quick Victory in Ukraine, but Now Faces a Potential Quagmire</a> WSJ: The close Putin ally modernized Russia’s forces, but those troops have run into ferocious Ukrainian resistance. 
  <p class="updated_time"> 04:13 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 22 injured as fans fight at Mexican match</a> BBC: At least 22 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
@@ -98,8 +100,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 07:02 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633888?at_medium=RSS&at_campaign=KARANGA">BBC Ukrainian editor: 'My mother called to say she'd managed to buy bread'</a> BBC: In the second week of war, the BBC's Ukrainian editor says empty shelves are an increasing reality. 
- <p class="updated_time"> 06:57 PM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/chinas-robust-growth-target-points-to-more-stimulus-ahead-11646546226">China's Robust Growth Target Points to More Stimulus</a> WSJ: By calling for growth of 5.5% this year, China’s leaders have set a relatively high bar for an economy facing challenges at home and abroad—and paved the way for more aggressive stimulus measures. 
  <p class="updated_time"> 06:37 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60491095?at_medium=RSS&at_campaign=KARANGA">Why Indian fathers are embracing paternity leave</a> BBC: The pandemic and changing family structures have highlighted how young parents are struggling with childcare. 
  <p class="updated_time"> 06:19 PM CT, Mar. 05 </p> 
@@ -319,12 +319,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084548984/lindsey-graham-putin">Sen. Lindsey Graham's apparent call for Putin to be assassinated draws backlash</a> NPR: "The only way this ends is for somebody in Russia to take this guy out," the South Carolina Republican said. Democrats and Republicans denounced the suggestion. 
  <p class="updated_time"> 11:00 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084463809/biden-approval-poll-ukraine-economy">Biden gets a bounce after the State of the Union, NPR/PBS NewsHour/Marist poll shows</a> NPR: After Tuesday's speech, the president saw a significant jump with Democrats and independents, as he may be seeing a rally-around-the-Ukrainian-flag moment. 
- <p class="updated_time"> 10:32 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/irs-aims-to-hire-10-000-workers-to-reduce-crippling-mail-backlog-00014193">IRS aims to hire 10,000 workers to reduce crippling mail backlog</a> Politico: “It is clear that understaffing in these areas contributes to the backlog in processing of tax returns and taxpayer correspondence." --Treasury union National President Tony Reardon 
  <p class="updated_time"> 10:25 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084514764/supreme-court-boston-bomber-death-sentence">The Supreme Court reimposes a death sentence for the Boston bomber</a> NPR: The Supreme Court reversed a federal appeals court in Boston that had overturned Dzhokhar Tsarnaev's death sentence. The 2013 attack killed three people. 
- <p class="updated_time"> 08:52 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/jobs-february-economy-00014160">U.S. added 678,000 jobs in February in sign of economic health</a> Politico: The Labor Department’s report also showed that the unemployment rate dropped from 4 percent to 3.8 percent. 
  <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/04/when-mtg-tells-you-to-dial-it-down-00014136">When MTG tells you to dial it down…</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
@@ -333,8 +329,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/this-guy-is-pretty-combative-russias-space-chief-launches-his-own-war-on-the-west-00014055">‘This guy is pretty combative’: Russia’s space chief launches his own war on the West</a> Politico: Dmitry Rogozin, a longtime nationalist leader and Putin ally, is blasting away at one of the last vestiges of U.S.-Russia cooperation. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
- <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">How shunning Russia could offer the U.S. tech giants an easy win</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
  <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
