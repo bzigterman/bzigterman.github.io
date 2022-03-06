@@ -252,6 +252,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 ---
 
 <link rel="apple-touch-icon" href="/weather.png">
+<link rel="apple-touch-startup-image" href="/plots/champaign_weather.png">
 
 ## Champaign 5-Day Forecast
 
