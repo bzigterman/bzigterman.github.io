@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:36 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 09:46 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
+ <p class="updated_time"> 09:45 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
  <p class="updated_time"> 09:31 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/sports/basketball/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
- <p class="updated_time"> 09:22 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
  <p class="updated_time"> 08:54 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 08:52 AM CT, Mar. 06 </p> 
@@ -48,7 +48,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60638255?at_medium=RSS&at_campaign=KARANGA">Shell defends 'difficult' decision to buy Russian crude oil</a> BBC: The oil giant confirmed it made a purchase of Russian crude oil on Friday but said it had "no alternative". 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
- <p class="updated_time"> 04:28 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 04:40 AM CT, Mar. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukrainians Protest Russian Occupation as Putin Pursues Offensive</a> WSJ: Residents in Russian-occupied areas came out for new protests on Sunday as Russian forces intensified airstrikes and artillery barrages that killed civilians across the country and plans for humanitarian corridors to evacuate besieged cities collapsed again. 
  <p class="updated_time"> 04:13 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 22 injured as fans fight at Mexican match</a> BBC: At least 22 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
