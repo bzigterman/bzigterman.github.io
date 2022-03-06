@@ -8,8 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 07:35 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Battles Rage Across Ukraine as Key City’s Evacuation Is Threatened Again</a> NYT: Continued shelling by Russian forces endangered efforts to evacuate civilians from the besieged city of Mariupol, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/03/06/1083769798/russias-war-on-ukraine-is-dire-for-world-hunger-but-there-are-solutions">Russia's war on Ukraine is dire for world hunger. But there are solutions</a> NPR: Both countries are huge suppliers of grains and other essential foods. And with widespread hunger and high food prices already, the war couldn't have come at a worse time. 
+ <p class="updated_time"> 07:29 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
+ <p class="updated_time"> 07:23 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800770/international-students-struggle-to-leave-ukraine">International students struggle to leave Ukraine</a> NPR: Adrian Florido speaks with Jakaria Hussain, an international student in Eastern Ukraine, about his struggles to leave the country. 
+ <p class="updated_time"> 07:21 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
+ <p class="updated_time"> 07:20 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800763/ukraine-and-russia-play-big-roles-in-food-production-the-war-is-exasperating-hun">Ukraine and Russia play big roles in food production. The war is exasperating hunger</a> NPR: The war in Ukraine is pushing up already record-high food prices around the world — threatening the lives of millions of people in poor countries struggling with hunger. Here's why it's not hopeless. 
  <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 07:11 AM CT, Mar. 06 </p> 
@@ -72,8 +82,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60491095?at_medium=RSS&at_campaign=KARANGA">Why Indian fathers are embracing paternity leave</a> BBC: The pandemic and changing family structures have highlighted how young parents are struggling with childcare. 
  <p class="updated_time"> 06:19 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-60596133?at_medium=RSS&at_campaign=KARANGA">The young Ukrainians battling pro-Russian trolls</a> BBC: Conspiracy theories and trolls are adding to the chaos of war. 
- <p class="updated_time"> 06:02 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
  <p class="updated_time"> 04:37 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
  <p class="updated_time"> 04:30 PM CT, Mar. 05 </p> 
@@ -104,8 +112,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 11:47 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
- <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked, grossing nearly $2 million. One host in Kyiv says the donations have helped pay staffers who have fled and buy food for elderly neighbors. 
  <p class="updated_time"> 10:37 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60631433?at_medium=RSS&at_campaign=KARANGA">From Grozny to Aleppo to Ukraine, Russia meets resistance with more firepower</a> BBC: Russia answers resistance with big guns and sieges. Ukrainians pray that will not happen to them, writes the BBC's Jeremy Bowen in Kyiv. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
@@ -124,10 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">A Welcome Steeped in History: Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
  <p class="updated_time"> 08:36 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60631835?at_medium=RSS&at_campaign=KARANGA">Zara, Paypal and Samsung suspend business in Russia over Ukraine invasion</a> BBC: Inditex, which owns Zara and several other major brands, will close all of its 502 stores in Russia. 
- <p class="updated_time"> 08:15 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1082258984/india-uttar-pradesh-elections-crime-police-muslims">India's ruling party says crime is down. Muslims say they've never felt less safe</a> NPR: India's Hindu nationalists say they've drastically cut crime in Uttar Pradesh, where key elections are underway. Human rights advocates say there's been a spike in police brutality against minorities. 
- <p class="updated_time"> 08:01 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084518775/ukrainian-art-gallery-miami">With the war, a Ukrainian art show gains new meaning</a> NPR: Gallery owners Julia and Max Voloshyn came to Miami five months ago to exhibit the work of Ukrainian artists. Now that Russia has invaded their homeland, they can't go back. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/aeroflot-russia-international-flights-suspended.html">Aeroflot, Russia's State Airline, Says it Will Suspend International Flights</a> NYT: Russia’s airline industry has been hit hard as countries around the world have imposed sanctions on the country for its invasion of Ukraine. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
@@ -166,8 +168,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60593022?at_medium=RSS&at_campaign=KARANGA">Russia oligarchs: The mega-rich men facing global sanctions</a> BBC: President Putin has for years warned Russia's richest to protect themselves against sanctions. 
  <p class="updated_time"> 06:28 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008238170/ukraine-women-children-train.html">‘We Have No Choice’: Mothers in Ukraine Flee to Poland</a> NYT: At a station in Western Ukraine, mothers and their children boarded evacuation trains to Poland, while many of their husbands stayed to defend the country from advancing Russian forces. 
- <p class="updated_time"> 05:54 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
