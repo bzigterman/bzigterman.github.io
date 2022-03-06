@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:52 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
- <p class="updated_time"> 12:50 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 01:12 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. Police in Russia take 3,000 people into custody as protests against the invasion expand across the nation. 
+ <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
+ <p class="updated_time"> 01:04 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
+ <p class="updated_time"> 01:03 PM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 26 injured as fans fight at Mexican match</a> BBC: At least 26 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
+ <p class="updated_time"> 01:00 PM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60641868?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Military couple marry on the frontline</a> BBC: Lesya and Valeri, both civil defence volunteers, tied the knot at a checkpoint near Kyiv. 
  <p class="updated_time"> 12:50 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 12:02 PM CT, Mar. 06 </p> 
@@ -47,7 +53,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:21 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
  <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 07:11 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800756/gabriel-boric-will-be-chiles-youngest-president-and-the-most-left-in-decades">Gabriel Boric will be Chile's youngest president, and the most left in decades</a> NPR: Adrian Florido speaks with Chilean journalist Francisca Skoknic about Chile's new president, Gabriel Boric, who will take power on Friday. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
@@ -68,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 04:59 AM CT, Mar. 06 </p> 
  <a href="https://www.wsj.com/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366">Russia's Military Chief Promised Quick Victory in Ukraine, but Now Faces a Potential Quagmire</a> WSJ: The close Putin ally modernized Russia’s forces, but those troops have run into ferocious Ukrainian resistance. 
- <p class="updated_time"> 04:13 AM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 22 injured as fans fight at Mexican match</a> BBC: At least 22 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
  <p class="updated_time"> 03:47 AM CT, Mar. 06 </p> 
@@ -80,8 +84,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russian-advance-is-blunted-by-ukrainian-tactics-war-tested-troops-and-western-weapons-11646575579">How Ukraine Blunted the Russian Advance</a> WSJ: Combat-hardened Ukrainian troops, armed with weapons from the U.S., Britain and elsewhere, have slowed and in some cases halted Russian advances by taking advantage of strong morale, a deep, home-team knowledge of the battlefield and Russian shortcomings in logistics and tactics. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
- <p class="updated_time"> 01:33 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 22 Injured, Querétaro Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 12:46 AM CT, Mar. 06 </p> 
@@ -152,8 +154,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60630351?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands of pro-Russia Serbs march in Belgrade</a> BBC: Flags and flares are paraded through the Serbian capital, as marchers show support for Moscow. 
  <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
- <p class="updated_time"> 05:05 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60630182?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russians still bombing Mariupol despite ceasefire - deputy mayor</a> BBC: Serhiy Orlov tells the BBC that attacks are still happening despite a ceasefire being agreed. 
  <p class="updated_time"> 04:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-military-advance-ukraine-war.html">Russia Seizes Nuclear Plant in Ukraine and Makes Gain in the South</a> NYT: The Russian military advance in Ukraine sowed more destruction and chaos, pointing to a worsening conflict, as the Kremlin also moved to restrict how it’s reported at home. 
  <p class="updated_time"> 04:50 AM CT, Mar. 05 </p> 
