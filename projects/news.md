@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:27 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
- <p class="updated_time"> 03:17 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
  <p class="updated_time"> 01:33 AM CT, Mar. 06 </p> 
@@ -216,7 +216,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:01 PM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/white-house-deal-fighter-jets-ukraine-00014424">White House weighs three-way deal to get fighter jets to Ukraine</a> Politico: Poland wants to donate its old MiGs to Ukraine. But there’s a catch — it needs U.S. jets. 
  <p class="updated_time"> 04:31 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/us/politics/blinken-ukraine.html">Blinken Arrives in Poland to Gauge Additional US Aid for Ukraine</a> NYT: The Russian invasion has pushed more than one million refugees to flee Ukraine for neighboring nations. 
+ <a href="https://www.nytimes.com/2022/03/05/us/politics/blinken-ukraine.html">Blinken Arrives in Poland to Gauge Additional U.S. Aid for Ukraine</a> NYT: The Russian invasion has pushed more than one million refugees to flee Ukraine for neighboring nations. 
  <p class="updated_time"> 12:19 PM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/zelenskyy-plea-congress-aid-00014419">Zelenskyy's emotional, direct Zoom plea to Congress: No-fly zone, Russian oil ban, more military aid</a> Politico: The Ukrainian leader's online call with U.S. lawmakers Saturday drew hundreds of participants — and some requests that won't be easy to meet. 
  <p class="updated_time"> 12:15 PM CT, Mar. 05 </p> 
@@ -323,6 +323,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/boebert-greene-republicans.html">In Greene and Boebert, Democrats See a Helpful Political Target</a> NYT: The antics of Representatives Marjorie Taylor Greene and Lauren Boebert, as well as recent stumbles by other Republicans, have drawn unflattering attention to their party. 
  <p class="updated_time"> 08:26 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-justice-department-january-6.html">Pressure on Justice Dept. as Jan. 6 Panel Lays Out Case Against Trump</a> NYT: Building a criminal case against the former president is very difficult for federal prosecutors, experts say, underlining the dilemma confronting the agency. 
+ <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
