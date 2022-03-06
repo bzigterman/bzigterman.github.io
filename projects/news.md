@@ -8,8 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:59 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 06:20 AM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60637845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents run from Russian shelling in Irpin, near Kyiv</a> BBC: People are seen dropping to the ground as the town, just outside Kyiv, is attacked again. 
+ <p class="updated_time"> 06:11 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
+ <p class="updated_time"> 06:03 AM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60638255?at_medium=RSS&at_campaign=KARANGA">Shell defends 'difficult' decision to buy Russian crude oil</a> BBC: The oil giant confirmed it made a purchase of Russian crude oil on Friday but said it had "no alternative". 
  <p class="updated_time"> 05:52 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
@@ -105,7 +109,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 08:36 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60631835?at_medium=RSS&at_campaign=KARANGA">Zara, Paypal and Samsung suspend business in Russia over Ukraine invasion</a> BBC: Inditex, which owns Zara and several other major brands, will close all of its 502 stores in Russia. 
  <p class="updated_time"> 08:17 AM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Refugees Fleeing Ukraine Now Represent Biggest Movement of People in Europe Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia. 
+ <a href="https://www.wsj.com/articles/refugees-fleeing-ukraine-now-represent-biggest-movement-of-people-in-europe-since-world-war-ii-11646493910">Ukraine Refugees Are Now Europe's Biggest Movement of People Since World War II</a> WSJ: More than 1.45 million people have left the country since Russia invaded, with most headed toward Poland, Romania, Hungary and Slovakia. 
  <p class="updated_time"> 08:15 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1082258984/india-uttar-pradesh-elections-crime-police-muslims">India's ruling party says crime is down. Muslims say they've never felt less safe</a> NPR: India's Hindu nationalists say they've drastically cut crime in Uttar Pradesh, where key elections are underway. Human rights advocates say there's been a spike in police brutality against minorities. 
  <p class="updated_time"> 08:01 AM CT, Mar. 05 </p> 
@@ -126,8 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
  <p class="updated_time"> 06:09 AM CT, Mar. 05 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-deal-threatened-by-russian-demands-over-ukraine-sanctions-11646487044">Iran Nuclear Deal Threatened by Russian Demands</a> WSJ: Russia said it wanted written guarantees that Ukraine-related sanctions won’t prevent it from trading broadly with Tehran under a revived pact. 
- <p class="updated_time"> 06:03 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60627841?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sky News journalist Stuart Ramsay and team shot at in ambush</a> BBC: Correspondent Stuart Ramsay and his crew miraculously survived after their car was fired on. 
  <p class="updated_time"> 05:57 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630351?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands of pro-Russia Serbs march in Belgrade</a> BBC: Flags and flares are paraded through the Serbian capital, as marchers show support for Moscow. 
  <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
@@ -205,6 +207,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/pope-francis-dispatches-2-cardinals-to-ukraine-00014429">Pope Francis dispatches 2 cardinals to Ukraine</a> Politico: He referred to Ukraine as "that martyred country." 
+ <p class="updated_time"> 07:01 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/unlike-any-other-secretary-marty-walshs-hands-on-approach-to-settling-labor-disputes-00013332">Picket line or pitcher’s mound, Marty Walsh is game to talk</a> Politico: The union leader turned Labor secretary has taken a hands-on approach rarely seen from sitting Cabinet members. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/democratic-party-priority-save-governors-00014364">The Democratic Party’s emerging priority: Save the governors!</a> Politico: From its operatives to its donor class, Democrats fret what could happen if they lose critical battleground governor races this fall. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/florida-lawmakers-stalled-desantis-redistricting-00014422">House lawmakers who sided with DeSantis in map fight see their priorities stalled</a> Politico: “I will veto the congressional reapportionment plan currently being debated by the House. DOA,” DeSantis said on Twitter. 
+ <p class="updated_time"> 06:51 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/russia-ukraine-evacuate-refugees-00014428">Ukraine tries to evacuate city under weeklong Russian attack</a> Politico: Israeli Prime Minister Naftali Bennett is trying to broker a deal between Russia and Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084593495/election-year-do-nothing-congress-history">It's a cliché to call an election-year Congress do-nothing. The history doesn't match</a> NPR: There's no law against making laws in an election year. There are special challenges, but the hurdles may loom larger in lore than in reality. 
  <p class="updated_time"> 03:59 AM CT, Mar. 06 </p> 
@@ -238,9 +250,9 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729516/week-in-politics-biden-leads-nato-in-denouncing-russias-invasion-of-ukraine">Week in politics: Biden leads NATO in denouncing Russia's invasion of Ukraine</a> NPR: President Biden succeeded in unifying NATO's response to Russia's invasion of Ukraine, which may give him more credibility to pursue his domestic agenda. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
- <a href="https://www.politico.com/news/2022/03/05/formula-recall-fda-abbott-nutrition-00014413">‘I almost lost my baby’: Parents demand answers from FDA</a> Politico: A recall of infant formula tied to two deaths came five months after the agency learned of the first hospitalized child, raising questions about the pace of the government's investigation. 
- <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/news/2022/03/05/new-jersey-drivers-pump-gas-00014339">New Jersey drivers may have to learn to pump their own gas</a> Politico: New Jersey is the only state that requires fuel station employees to operate the pumps and prohibits consumers from doing so. Now the industry is pushing to repeal the law amid worker shortages and spiking oil prices. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
+ <a href="https://www.politico.com/news/2022/03/05/formula-recall-fda-abbott-nutrition-00014413">‘I almost lost my baby’: Parents demand answers from FDA</a> Politico: A recall of infant formula tied to two deaths came five months after the agency learned of the first hospitalized child, raising questions about the pace of the government's investigation. 
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
@@ -314,8 +326,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/cartoons/2022/03/04/the-nations-cartoonists-on-the-week-in-politics-00014016">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">How shunning Russia could offer the U.S. tech giants an easy win</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
  <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two reviews showing there were no problems with the 2020 presidential election. 
@@ -343,8 +353,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/03/how-gas-prices-could-crush-biden-and-the-democrats-00013533"> How gas prices could crush Biden and the Democrats</a> Politico Playbook: And Russia moves in on key Ukrainian cities. 
- <p class="updated_time"> 05:00 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/russia-ukraine-defense-strategy-pengtagon-00013449">Russia crisis forces Pentagon to rework defense strategy on the fly</a> Politico: The National Defense Strategy was supposed to be rolled out in February. 
  <p class="updated_time"> 07:00 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/white-house-applicants-weed-companies-00013390">Biden admin to applicants: Maybe don’t invest in weed companies</a> Politico: The new policy underscores how the business of weed, ever more legitimized, is forcing adjustments by the feds. 
  <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
