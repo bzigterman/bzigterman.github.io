@@ -7,8 +7,8 @@ Eastern,BOS,38,27,.585
 Eastern,CLE,36,27,.571
 Eastern,TOR,34,29,.540
 Eastern,BKN,32,32,.500
+Eastern,CHA,32,33,.492
 Eastern,ATL,31,32,.492
-Eastern,CHA,31,33,.484
 Eastern,WAS,28,34,.452
 Eastern,NYK,25,38,.397
 Eastern,IND,22,43,.338
@@ -25,7 +25,7 @@ Western,LAC,34,31,.523
 Western,LAL,27,35,.435
 Western,NOP,27,36,.429
 Western,POR,25,37,.403
-Western,SAS,24,39,.381
+Western,SAS,24,40,.375
 Western,SAC,24,42,.364
 Western,OKC,20,43,.317
 Western,HOU,15,48,.238
