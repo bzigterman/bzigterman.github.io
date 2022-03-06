@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:56 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 08:23 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Evacuation of Key Ukrainian City Is Canceled Again</a> NYT: Efforts to evacuate civilians from the besieged port city of Mariupol were called off for the second straight day amid continued shelling by Russian forces, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 08:17 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/03/06/1083769798/russias-war-on-ukraine-is-dire-for-world-hunger-but-there-are-solutions">Russia's war on Ukraine is dire for world hunger. But there are solutions</a> NPR: Both countries are huge suppliers of grains and other essential foods. And with widespread hunger and high food prices already, the war couldn't have come at a worse time. 
- <p class="updated_time"> 07:29 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 07:23 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800770/international-students-struggle-to-leave-ukraine">International students struggle to leave Ukraine</a> NPR: Adrian Florido speaks with Jakaria Hussain, an international student in Eastern Ukraine, about his struggles to leave the country. 
  <p class="updated_time"> 07:21 AM CT, Mar. 06 </p> 
@@ -38,6 +38,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60638255?at_medium=RSS&at_campaign=KARANGA">Shell defends 'difficult' decision to buy Russian crude oil</a> BBC: The oil giant confirmed it made a purchase of Russian crude oil on Friday but said it had "no alternative". 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 22 injured as fans fight at Mexican match</a> BBC: At least 22 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
  <p class="updated_time"> 03:47 AM CT, Mar. 06 </p> 
