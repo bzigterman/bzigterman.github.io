@@ -208,7 +208,7 @@ ggplot() +
         panel.grid = element_blank(),
         panel.background = element_rect("#DAE3ED"),
         legend.position = "none",
-        panel.grid.major.x = element_line(colour = "grey95"),
+        panel.grid.major.x = element_line(colour = "grey50"),
         strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 
