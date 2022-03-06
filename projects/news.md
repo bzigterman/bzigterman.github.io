@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:42 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 04:50 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: At least three family members, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
- <p class="updated_time"> 04:39 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">At Least 3 Civilians Killed in Shelling by Russian Forces Near Kyiv</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
+ <p class="updated_time"> 04:49 PM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60641873?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Taking cover in a town under attack</a> BBC: Jeremy Bowen was on the frontline in Irpin, as residents came under Russian fire while trying to flee. 
+ <p class="updated_time"> 04:47 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">At Least 4 Civilians Killed in Shelling by Russian Forces Near Kyiv</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
  <p class="updated_time"> 04:06 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed About Putin, Russian Conductor Quits Bolshoi and French Posts</a> NYT: The Bolshoi music director, Tugan Sokhiev, said he was “asked to choose one cultural tradition” over another and denounce President Putin for invading Ukraine. 
  <p class="updated_time"> 03:12 PM CT, Mar. 06 </p> 
@@ -61,7 +63,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 09:31 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/article/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
  <p class="updated_time"> 09:17 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823">How War in Ukraine Drives Up Inflation at U.S. Farms, Supermarkets, Retailers</a> WSJ: The global supply chain is slow, but the economic fallout from the invasion of Ukraine is swiftly raising prices for producers and consumers world-wide. ‘It seems to be overshadowing everything now.’ 
+ <a href="https://www.wsj.com/articles/how-wars-costs-reach-far-shoresto-american-farms-supermarkets-retailers-11646597823">How War in Ukraine Drives Up Inflation at U.S. Farms, Supermarkets, Retailers</a> WSJ: The global supply chain is slow, but the economic fallout from the invasion of Ukraine is swiftly raising prices for producers and consumers world-wide. “It seems to be overshadowing everything now.” 
  <p class="updated_time"> 08:29 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/ukraine-russia-war-authoritarianism.html">The War in Ukraine Holds a Warning for the World Order</a> NYT: The multinational response shows that liberalism has some life left. But the challenges posed by waning U.S. power and rising authoritarianism remain formidable. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
@@ -158,8 +160,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/aeroflot-russia-international-flights-suspended.html">Aeroflot, Russia's State Airline, Says it Will Suspend International Flights</a> NYT: Russia’s airline industry has been hit hard as countries around the world have imposed sanctions on the country for its invasion of Ukraine. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
- <p class="updated_time"> 05:57 AM CT, Mar. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60630351?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands of pro-Russia Serbs march in Belgrade</a> BBC: Flags and flares are paraded through the Serbian capital, as marchers show support for Moscow. 
  <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
  <p class="updated_time"> 04:51 AM CT, Mar. 05 </p> 
