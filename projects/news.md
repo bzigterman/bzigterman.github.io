@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:35 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Battles Rage Across Ukraine as Key City’s Evacuation Is Threatened Again</a> NYT: Continued shelling by Russian forces endangered efforts to evacuate civilians from the besieged city of Mariupol, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 07:56 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Evacuation of Key Ukrainian City Is Canceled Again</a> NYT: Efforts to evacuate civilians from the besieged port city of Mariupol were called off for the second straight day amid continued shelling by Russian forces, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/03/06/1083769798/russias-war-on-ukraine-is-dire-for-world-hunger-but-there-are-solutions">Russia's war on Ukraine is dire for world hunger. But there are solutions</a> NPR: Both countries are huge suppliers of grains and other essential foods. And with widespread hunger and high food prices already, the war couldn't have come at a worse time. 
  <p class="updated_time"> 07:29 AM CT, Mar. 06 </p> 
@@ -18,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084800770/international-students-struggle-to-leave-ukraine">International students struggle to leave Ukraine</a> NPR: Adrian Florido speaks with Jakaria Hussain, an international student in Eastern Ukraine, about his struggles to leave the country. 
  <p class="updated_time"> 07:21 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
- <p class="updated_time"> 07:20 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084800763/ukraine-and-russia-play-big-roles-in-food-production-the-war-is-exasperating-hun">Ukraine and Russia play big roles in food production. The war is exasperating hunger</a> NPR: The war in Ukraine is pushing up already record-high food prices around the world — threatening the lives of millions of people in poor countries struggling with hunger. Here's why it's not hopeless. 
  <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 07:11 AM CT, Mar. 06 </p> 
@@ -112,6 +110,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 11:47 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60632587?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Thousands march in Kherson against occupiers</a> BBC: The Black Sea port is Ukraine's only big city to have been captured by Russia in the war so far. 
+ <p class="updated_time"> 11:43 AM CT, Mar. 05 </p> 
+ <a href="https://www.npr.org/2022/03/05/1084739721/airbnb-ukraine-direct-aid">People are booking Airbnbs in Ukraine — not to stay, but to lend their support</a> NPR: As the idea spread, more than 61,000 nights were booked, grossing nearly $2 million. One host in Kyiv says the donations have helped pay staffers who have fled and buy food for elderly neighbors. 
  <p class="updated_time"> 10:37 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60631433?at_medium=RSS&at_campaign=KARANGA">From Grozny to Aleppo to Ukraine, Russia meets resistance with more firepower</a> BBC: Russia answers resistance with big guns and sieges. Ukrainians pray that will not happen to them, writes the BBC's Jeremy Bowen in Kyiv. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
@@ -203,20 +203,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:02 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/eric-adams-chocolate-milk-00013170">Eric Adams is after your child's chocolate milk</a> Politico: The man who calls himself New York’s first vegan mayor has a long and complicated history with chocolate milk, which he wanted banned from schools. 
  <p class="updated_time"> 07:25 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/pope-francis-dispatches-2-cardinals-to-ukraine-00014429">Pope Francis dispatches 2 cardinals to Ukraine</a> Politico: He referred to Ukraine as "that martyred country." 
  <p class="updated_time"> 07:01 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/unlike-any-other-secretary-marty-walshs-hands-on-approach-to-settling-labor-disputes-00013332">Picket line or pitcher’s mound, Marty Walsh is game to talk</a> Politico: The union leader turned Labor secretary has taken a hands-on approach rarely seen from sitting Cabinet members. 
  <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/democratic-party-priority-save-governors-00014364">The Democratic Party’s emerging priority: Save the governors</a> Politico: From its operatives to its donor class, Dems fret what could happen if they lose critical battleground governor races this  fall. 
- <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/florida-lawmakers-stalled-desantis-redistricting-00014422">House lawmakers who sided with DeSantis in map fight see their priorities stalled</a> Politico: “I will veto the congressional reapportionment plan currently being debated by the House. DOA,” DeSantis said on Twitter. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800735/ukrainian-president-asks-congress-members-to-back-no-fly-zone-sanction-russian-o">Ukrainian president asks Congress members to back no-fly zone, sanction Russian oil</a> NPR: Adrian Florido speaks with Congressman Jim Himes about Ukrainian President Volodomyr Zelensky's video call with U.S. Congress members about the Russian invasion of his country. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800700/politics-chat-state-republicans-set-agenda-with-reactive-bills-ahead-of-midterms">Politics chat: State Republicans set agenda with reactive bills ahead of midterms</a> NPR: We look at how Republican-controlled state legislatures are shaping their strategy ahead of the midterm elections, and how their Democratic counterparts are crafting their messaging. 
  <p class="updated_time"> 06:51 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/russia-ukraine-evacuate-refugees-00014428">Ukraine tries to evacuate city under weeklong Russian attack</a> Politico: Israeli Prime Minister Naftali Bennett is trying to broker a deal between Russia and Ukraine. 
+ <a href="https://www.politico.com/news/2022/03/06/russia-ukraine-evacuate-refugees-00014428">Ukraine official says assault halts evacuations again</a> Politico: Russia resumed shelling the port city of Mariupol. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084593495/election-year-do-nothing-congress-history">It's a cliché to call an election-year Congress do-nothing. The history doesn't match</a> NPR: There's no law against making laws in an election year. There are special challenges, but the hurdles may loom larger in lore than in reality. 
  <p class="updated_time"> 03:59 AM CT, Mar. 06 </p> 
