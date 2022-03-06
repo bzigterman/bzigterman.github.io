@@ -8,6 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:33 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 22 Injured, Querétaro Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: Putin Threatens to Strip Ukraine of Statehood, as Russian Advance Slows</a> NYT: The Russian leader escalated his threats as Ukrainian forces continued to resist. Protests broke out in the first major city captured by Russia.  A limited cease-fire collapsed in a besieged city. Israel’s prime minister visited Moscow. 
  <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
@@ -16,8 +18,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60636337?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky urges Ukrainians to go on the offensive</a> BBC: In a rallying cry, the Ukrainian president says the country has withstood the invasion "together". 
  <p class="updated_time"> 12:33 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084794295/putin-says-ukraines-future-is-in-doubt-as-cease-fires-collapse">Putin says Ukraine's future is in doubt as cease-fires collapse</a> NPR: Vladimir Putin warned Saturday that Ukrainian statehood is in jeopardy and likened the West's sanctions on Russia to "declaring war" as Russian troops continued to shell encircled cities 
- <p class="updated_time"> 12:09 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 22 Injured, Querétaro Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:33 PM CT, Mar. 05 </p> 
