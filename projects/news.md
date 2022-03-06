@@ -8,12 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:42 AM CT, Mar. 06 </p> 
+ <p class="updated_time"> 12:21 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
+ <p class="updated_time"> 12:18 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. Police in Russia take 3,000 people into custody as protests against the invasion expand across the nation. 
+ <p class="updated_time"> 12:02 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed on Putin, Russian Conductor Quits Bolshoi and French Post</a> NYT: Tugan Sokhiev, the Bolshoi’s music director, said he was “being asked to choose one cultural tradition” over another, at a moment Russian artists are under pressure to denounce Russia’s president. 
+ <p class="updated_time"> 12:00 PM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1083571714/south-korea-election-youth-vote">Their generation ousted South Korea's military regime. Now they have to win over Gen Z</a> NPR: South Koreans in their 20s and 30s make up a third of voters, and candidates want to win them over. Many young voters are over the folks in power, a lot of whom are from an activist generation. 
  <p class="updated_time"> 11:39 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/no-fly-zone-ukraine-congress.html">Rubio, U.S. Lawmakers Are Largely Opposed to No-Fly Zone Over Ukraine</a> NYT: Members of both parties said such a move would risk drawing the United States into a conflict with Russia, another nuclear power. 
- <p class="updated_time"> 11:38 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 11:36 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 11:34 AM CT, Mar. 06 </p> 
@@ -124,8 +128,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60634735?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Residents under siege in Mariupol clear out shopping mall</a> BBC: Local officials say residents are in dire need of food, water and medicine due to Russia's blockade. 
  <p class="updated_time"> 12:56 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60633482?at_medium=RSS&at_campaign=KARANGA">Putin says sanctions over Ukraine are like a declaration of war</a> BBC: The Russian president also warned against any attempt to impose a no-fly zone over Ukraine. 
- <p class="updated_time"> 12:53 PM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084743816/a-dilemma-for-ukrainians-should-i-stay-or-should-i-go">Nearly 1 million Ukrainians have fled. More than 40 million have stayed — for now</a> NPR: Before the war, Ukrainian Rehina Solodovnik tutored Russian students online. The teaching has stopped, but she's still getting text messages. "I am so sorry for our government," one student said. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 11:47 AM CT, Mar. 05 </p> 
@@ -184,8 +186,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
  <p class="updated_time"> 04:04 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/fda-bharat-biotech-vaccine.html">FDA Rejects India-Made Bharat Biotech Vaccine For Those Under 18 </a> NYT: The vaccine, made by Bharat Biotech, is widely used in India. It has not been tested in the U.S., which has not authorized it for any age groups. 
- <p class="updated_time"> 03:45 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-censorship-media-crackdown.html">Russia Takes Censorship to New Extremes, Stifling War Coverage</a> NYT: Contradicting the Kremlin on the war in Ukraine — even calling it a war — is now a crime, prompting independent media to close, and Russia cut off access to Facebook, the BBC and other news sources. 
  <p class="updated_time"> 03:42 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/bbc-russia-ukraine.html">BBC Suspends Operations in Russia After Censorship Law Is Passed</a> NYT:    
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
@@ -283,8 +283,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/title-42-migrant-families-ruling.html">U.S. Can’t Use Health Rule to Expel Migrant Families Facing Persecution, Court Says</a> NYT: An appeals court said the Biden administration could continue expelling migrant families under the pandemic-era rule, but not to countries where they would be persecuted. 
  <p class="updated_time"> 06:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
- <p class="updated_time"> 06:21 PM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/pulitzer-winner-walter-mears-dies-aps-boy-on-the-bus-00014379">Pulitzer winner Walter Mears dies, AP’s ‘Boy on the Bus’</a> Politico: “I could produce a story as fast as I could type,” Mears once acknowledged — and he was a fast typist. 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 05:11 PM CT, Mar. 04 </p> 
