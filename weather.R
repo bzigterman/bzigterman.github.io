@@ -249,6 +249,7 @@ layout: page
 title: Weather
 permalink: /projects/weather
 imageurl: https://bzigterman.com/plots/champaign_weather.png
+webapp: yes
 ---
 
 <link rel="apple-touch-icon" href="/weather.png">
