@@ -8,16 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:57 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
+ <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Battles Rage Across Ukraine as Key City’s Evacuation Is Threatened Again</a> NYT: Continued shelling by Russian forces endangered efforts to evacuate civilians from the besieged city of Mariupol, Ukrainian military officials said. President Volodymyr Zelensky repeated his calls for NATO to enforce a no-fly zone over his country. 
+ <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
+ <p class="updated_time"> 07:11 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800756/gabriel-boric-will-be-chiles-youngest-president-and-the-most-left-in-decades">Gabriel Boric will be Chile's youngest president, and the most left in decades</a> NPR: Adrian Florido speaks with Chilean journalist Francisca Skoknic about Chile's new president, Gabriel Boric, who will take power on Friday. 
+ <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800742/relationships-across-the-ukraine-russia-border-feel-the-strain-of-war">Relationships across the Ukraine-Russia border feel the strain of war</a> NPR: Russia's attack on Ukraine has splintered personal relationships. Ukrainians are angry with family and friends who live in Russia, wrestling with just how average Russians could support the war. 
+ <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800735/ukrainian-president-asks-congress-members-to-back-no-fly-zone-sanction-russian-o">Ukrainian president asks Congress members to back no-fly zone, sanction Russian oil</a> NPR: Adrian Florido speaks with Congressman Jim Himes about Ukrainian President Volodomyr Zelensky's video call with U.S. Congress members about the Russian invasion of his country. 
+ <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800707/some-russians-in-the-u-s-fear-sanctions-impact-on-family-back-home">Some Russians in the U.S. fear sanctions' impact on family back home</a> NPR: Many Russian immigrants in the U.S. express solidarity with Ukraine while worrying about how the tough sanctions on Russia will affect their loved ones back home. 
+ <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800686/some-countries-are-choosing-to-maintain-their-ties-with-russia">Some countries are choosing to maintain their ties with Russia</a> NPR: While most countries have opposed Russia's invasion of Ukraine, many others are keeping their Russia ties intact. Their reasons range from practical matters — such as trade — to ideological. 
  <p class="updated_time"> 06:49 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia has attacked schools and hospitals, says deputy PM</a> BBC: Meanwhile, the UN says more than 1.5m people have now fled Ukraine since Russia invaded on 24 February. 
  <p class="updated_time"> 06:20 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents run from Russian shelling in Irpin, near Kyiv</a> BBC: People are seen dropping to the ground as the town, just outside Kyiv, is attacked again. 
  <p class="updated_time"> 06:03 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-60638255?at_medium=RSS&at_campaign=KARANGA">Shell defends 'difficult' decision to buy Russian crude oil</a> BBC: The oil giant confirmed it made a purchase of Russian crude oil on Friday but said it had "no alternative". 
- <p class="updated_time"> 05:52 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
@@ -26,6 +36,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60637841?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky invites Elon Musk to visit</a> BBC: Ukraine's president was thanking the tech entrepreneur for supplying Starlink equipment to the country. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
+ <p class="updated_time"> 02:09 AM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukraine Resumes Evacuation as Russia Presses Offensive</a> WSJ: Ukraine made a second attempt to evacuate civilians from the besieged cities of Mariupol and Volnovakha, declaring a cease-fire to be in effect there despite Russia’s claims of military gains. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
  <p class="updated_time"> 01:33 AM CT, Mar. 06 </p> 
@@ -36,8 +48,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60636337?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky urges Ukrainians to go on the offensive</a> BBC: In a rallying cry, the Ukrainian president says the country has withstood the invasion "together". 
  <p class="updated_time"> 12:33 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084794295/putin-says-ukraines-future-is-in-doubt-as-cease-fires-collapse">Putin says Ukraine's future is in doubt as cease-fires collapse</a> NPR: Vladimir Putin warned Saturday that Ukrainian statehood is in jeopardy and likened the West's sanctions on Russia to "declaring war" as Russian troops continued to shell encircled cities 
- <p class="updated_time"> 11:58 PM CT, Mar. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukraine Resumes Evacuation as Russia Presses Offensive</a> WSJ: Ukraine made a second attempt to evacuate civilians from the besieged cities of Mariupol and Volnovakha, declaring a cease-fire to be in effect there despite Russia’s claims of military gains. 
  <p class="updated_time"> 10:42 PM CT, Mar. 05 </p> 
  <a href="https://www.wsj.com/articles/this-russian-metals-giant-might-be-too-big-to-sanction-11646559751">This Russian Metals Giant Might Be Too Big to Sanction</a> WSJ: Norilsk Nickel is a key supplier of nickel and palladium, two metals that are key for electric-vehicle batteries and semiconductors. 
  <p class="updated_time"> 10:40 PM CT, Mar. 05 </p> 
@@ -120,16 +130,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084518775/ukrainian-art-gallery-miami">With the war, a Ukrainian art show gains new meaning</a> NPR: Gallery owners Julia and Max Voloshyn came to Miami five months ago to exhibit the work of Ukrainian artists. Now that Russia has invaded their homeland, they can't go back. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/aeroflot-russia-international-flights-suspended.html">Aeroflot, Russia's State Airline, Says it Will Suspend International Flights</a> NYT: Russia’s airline industry has been hit hard as countries around the world have imposed sanctions on the country for its invasion of Ukraine. 
- <p class="updated_time"> 07:48 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084729579/russian-law-bans-journalists-from-calling-ukraine-conflict-a-war-or-an-invasion">Russian law bans journalists from calling Ukraine conflict a 'war' or an 'invasion'</a> NPR: In order to control what the Russian public knows about invasion of Ukraine, President Vladimir Putin has signed a law that imposes stiff sentences on journalists who air "false information." 
- <p class="updated_time"> 07:43 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084729572/the-russian-ukraine-conflict-could-strengthen-neo-fascist-groups-in-both-countri">The Russian-Ukraine conflict could strengthen neo-fascist groups in both countries</a> NPR: Experts have roundly dismissed Russian President Vladimir Putin's suggestion that Nazism is prevalent in Ukraine. Still, they worry the war may strengthen neo-fascist groups in both countries. 
- <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084729537/chinas-two-sessions-meetings-commence-setting-the-political-agenda-for-the-year">China's 'Two Sessions' meetings commence, setting the political agenda for the year</a> NPR: Meetings this weekend in Beijing will give party leader Xi Peng a chance to persuade officials that he deserves a third term. 
- <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084729516/week-in-politics-biden-leads-nato-in-denouncing-russias-invasion-of-ukraine">Week in politics: Biden leads NATO in denouncing Russia's invasion of Ukraine</a> NPR: President Biden succeeded in unifying NATO's response to Russia's invasion of Ukraine, which may give him more credibility to pursue his domestic agenda. 
- <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084729509/the-russian-invasion-of-ukraine-enters-its-10th-day">The Russian invasion of Ukraine enters its 10th day</a> NPR: An attempted ceasefire in southern Ukraine was intended to allow for the evacuation of two cities. But Russian forces resumed their bombardment before all civilians could get out. 
  <p class="updated_time"> 06:26 AM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60630352?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian helicopter shot down by missile</a> BBC: The video, shared by Ukrainian armed forces, shows the helicopter being hit by a missile. 
  <p class="updated_time"> 05:57 AM CT, Mar. 05 </p> 
@@ -211,6 +211,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/06/democratic-party-priority-save-governors-00014364">The Democratic Party’s emerging priority: Save the governors</a> Politico: From its operatives to its donor class, Dems fret what could happen if they lose critical battleground governor races this  fall. 
  <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/florida-lawmakers-stalled-desantis-redistricting-00014422">House lawmakers who sided with DeSantis in map fight see their priorities stalled</a> Politico: “I will veto the congressional reapportionment plan currently being debated by the House. DOA,” DeSantis said on Twitter. 
+ <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800735/ukrainian-president-asks-congress-members-to-back-no-fly-zone-sanction-russian-o">Ukrainian president asks Congress members to back no-fly zone, sanction Russian oil</a> NPR: Adrian Florido speaks with Congressman Jim Himes about Ukrainian President Volodomyr Zelensky's video call with U.S. Congress members about the Russian invasion of his country. 
+ <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084800700/politics-chat-state-republicans-set-agenda-with-reactive-bills-ahead-of-midterms">Politics chat: State Republicans set agenda with reactive bills ahead of midterms</a> NPR: We look at how Republican-controlled state legislatures are shaping their strategy ahead of the midterm elections, and how their Democratic counterparts are crafting their messaging. 
  <p class="updated_time"> 06:51 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/russia-ukraine-evacuate-refugees-00014428">Ukraine tries to evacuate city under weeklong Russian attack</a> Politico: Israeli Prime Minister Naftali Bennett is trying to broker a deal between Russia and Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
@@ -311,8 +315,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/white-house-endorses-cyber-incident-reporting-bill-00014177">White House endorses cyber incident reporting bill that DOJ criticized</a> Politico: The White House’s statement late Thursday came just a day after senior leaders of the Justice Department and the FBI sharply criticized the bill for not requiring hack reports to go jointly to CISA and the bureau. 
  <p class="updated_time"> 08:52 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/jobs-february-economy-00014160">U.S. added 678,000 jobs in February in sign of economic health</a> Politico: The Labor Department’s report also showed that the unemployment rate dropped from 4 percent to 3.8 percent. 
- <p class="updated_time"> 07:37 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084299987/employers-jobs-february-labor-market-workers">The U.S. added 678,000 jobs in February. It's another sign of a hot labor market</a> NPR: U.S. employers added 678,000 jobs in February as the unemployment rate fell to 3.8%, from 4% in January. The Federal Reserve hopes to curb inflation without stalling job growth. 
  <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/04/when-mtg-tells-you-to-dial-it-down-00014136">When MTG tells you to dial it down…</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
@@ -323,8 +325,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 04:30 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067">How shunning Russia could offer the U.S. tech giants an easy win</a> Politico: Apple, Google, Meta and Netflix combined would lose between 1 percent to 2 percent of their multibillion-dollar revenues if they were to remove all of their services from Russia, according to one estimate. 
- <p class="updated_time"> 04:13 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1083501487/arizona-republicans-continue-pushing-voting-restrictions-risking-backfire">Arizona Republicans continue pushing voting restrictions, risking backfire </a> NPR: Republican lawmakers in Arizona are introducing nearly a hundred so-called voter reform bills this year despite two reviews showing there were no problems with the 2020 presidential election. 
  <p class="updated_time"> 08:53 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/boebert-greene-republicans.html">In Greene and Boebert, Democrats See a Helpful Political Target</a> NYT: The antics of Representatives Marjorie Taylor Greene and Lauren Boebert, as well as recent stumbles by other Republicans, have drawn unflattering attention to their party. 
  <p class="updated_time"> 08:26 PM CT, Mar. 03 </p> 
