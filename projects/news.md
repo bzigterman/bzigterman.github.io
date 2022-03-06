@@ -8,12 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: At least three family members, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
+ <p class="updated_time"> 04:31 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">At Least 3 Civilians Killed in Shelling by Russian Forces Near Kyiv</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
  <p class="updated_time"> 04:06 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed About Putin, Russian Conductor Quits Bolshoi and French Posts</a> NYT: The Bolshoi music director, Tugan Sokhiev, said he was “asked to choose one cultural tradition” over another and denounce President Putin for invading Ukraine. 
- <p class="updated_time"> 03:38 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: At least three family members, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
- <p class="updated_time"> 03:33 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">At Least 3 Civilians Killed in Shelling by Russian Forces Near Kyiv</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
  <p class="updated_time"> 03:12 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 02:50 PM CT, Mar. 06 </p> 
@@ -206,7 +206,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:17 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084834286/alabama-rep-terry-sewell-on-the-ongoing-fight-for-voting-rights">Alabama Rep. Terry Sewell on the ongoing fight for voting rights</a> NPR: NPR's Michel Martin speaks with Rep. Terri Sewell (D-Ala.) about the current fight over voting rights and redistricting in her home state of Alabama. 
  <p class="updated_time"> 03:43 PM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/convoy-protesting-covid-mandates-begins-dc-circuit-00014473">Convoy protesting Covid mandates begins D.C. circuit</a> Politico: The “People’s Convoy” follows similar demonstrations by truckers in Canada. 
+ <a href="https://www.politico.com/news/2022/03/06/convoy-protesting-covid-mandates-begins-dc-circuit-00014473">Convoy protesting Covid mandates does D.C. circuit</a> Politico: The “People’s Convoy” follows similar demonstrations by truckers in Canada. 
  <p class="updated_time"> 02:52 PM CT, Mar. 06 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:32 PM CT, Mar. 06 </p> 
