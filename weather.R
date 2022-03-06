@@ -183,8 +183,8 @@ ggplot() +
   geom_rect(data = daylight,
             aes(xmin = sunrise, xmax = sunset,
                 ymin = bottom, ymax = top),
-            color = "grey99",
-            fill = "grey99") +
+            color = "#FFFFFB",
+            fill = "#FFFFFB") +
   geom_line(data = champaign_forecast_longer,
             aes(x = central_time,
                 y = values,
@@ -206,7 +206,7 @@ ggplot() +
   scale_y_continuous(position = "right") +
   theme(axis.ticks.y = element_blank(),
         panel.grid = element_blank(),
-        panel.background = element_rect("grey90"),
+        panel.background = element_rect("#ccd6e6"),
         legend.position = "none",
         panel.grid.major.x = element_line(colour = "grey95"),
         strip.background = element_blank(),
