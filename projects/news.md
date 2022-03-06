@@ -8,10 +8,12 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:38 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 12:52 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
- <p class="updated_time"> 12:27 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 12:50 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Russia’s Attacks Imperil Evacuation Efforts in Ukraine</a> NYT: At least three people trying to get to safety were killed in shelling outside Kyiv, and an evacuation from the besieged port city of Mariupol was called off for the second straight day. Police in Russia take 3,000 people into custody as protests against the invasion expand across the nation. 
+ <p class="updated_time"> 12:50 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 12:02 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed on Putin, Russian Conductor Quits Bolshoi and French Post</a> NYT: Tugan Sokhiev, the Bolshoi’s music director, said he was “being asked to choose one cultural tradition” over another, at a moment Russian artists are under pressure to denounce Russia’s president. 
  <p class="updated_time"> 12:00 PM CT, Mar. 06 </p> 
@@ -20,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/us/politics/no-fly-zone-ukraine-congress.html">Rubio, U.S. Lawmakers Are Largely Opposed to No-Fly Zone Over Ukraine</a> NYT: Members of both parties said such a move would risk drawing the United States into a conflict with Russia, another nuclear power. 
  <p class="updated_time"> 11:36 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
- <p class="updated_time"> 11:34 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 11:06 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">At Least 3 Civilians Killed in Shelling by Russian Forces Near Kyiv</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
  <p class="updated_time"> 11:02 AM CT, Mar. 06 </p> 
@@ -60,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084800686/some-countries-are-choosing-to-maintain-their-ties-with-russia">Some countries are choosing to maintain their ties with Russia</a> NPR: While most countries have opposed Russia's invasion of Ukraine, many others are keeping their Russia ties intact. Their reasons range from practical matters — such as trade — to ideological. 
  <p class="updated_time"> 06:49 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia has attacked schools and hospitals, says deputy PM</a> BBC: Meanwhile, the UN says more than 1.5m people have now fled Ukraine since Russia invaded on 24 February. 
- <p class="updated_time"> 06:39 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/russian-artillery-kills-ukrainian-civilians-fleeing-kyiv-suburb-11646575238">Russian Artillery Kills Ukrainian Civilians Fleeing Kyiv Suburb</a> WSJ: Deaths are mounting from Russian strikes on residential areas in cities around Ukraine as the second cease-fire agreement fails. 
  <p class="updated_time"> 06:20 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents run from Russian shelling in Irpin, near Kyiv</a> BBC: People are seen dropping to the ground as the town, just outside Kyiv, is attacked again. 
  <p class="updated_time"> 06:03 AM CT, Mar. 06 </p> 
