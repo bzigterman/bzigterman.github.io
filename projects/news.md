@@ -8,7 +8,11 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:57 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 05:23 PM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60640204?at_medium=RSS&at_campaign=KARANGA">Protests across Russia see thousands detained</a> BBC: People have been held in 53 cities, from St Petersburg in the west to Vladivostok in the east. 
+ <p class="updated_time"> 05:18 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
+ <p class="updated_time"> 05:15 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
  <p class="updated_time"> 04:49 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641873?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Taking cover in a town under attack</a> BBC: Jeremy Bowen was on the frontline in Irpin, as residents came under Russian fire while trying to flee. 
@@ -18,8 +22,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed About Putin, Russian Conductor Quits Bolshoi and French Posts</a> NYT: The Bolshoi music director, Tugan Sokhiev, said he was “asked to choose one cultural tradition” over another and denounce President Putin for invading Ukraine. 
  <p class="updated_time"> 03:12 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
- <p class="updated_time"> 02:50 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 02:42 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60637196?at_medium=RSS&at_campaign=KARANGA">Queretaro v Atlas: At least 26 injured as fans fight at Mexican match</a> BBC: At least 26 people are injured as violence breaks out among the crowd at a top-flight match in Mexico. 
  <p class="updated_time"> 02:35 PM CT, Mar. 06 </p> 
@@ -52,8 +54,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/asia/south-korea-early-voting-covid.html">South Korea reports high turnout in early voting, but apologizes to coronavirus patients for a lack of preparation.</a> NYT: South Korea is experiencing a sharp spike in coronavirus cases, its worst wave of the pandemic, but is allowing infected voters to cast a ballot in the country’s contentious presidential election. 
  <p class="updated_time"> 10:42 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-poland-families-separation.html">‘Falling Into Emptiness’: Ukrainian Families Feel the Pain of Separation</a> NYT: With most Ukrainian men legally prohibited from leaving Ukraine, the international border gates serve as a painful filter, splitting families as women and children move on. 
- <p class="updated_time"> 10:29 AM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60640204?at_medium=RSS&at_campaign=KARANGA">Protests across Russia see thousands detained</a> BBC: People have been held in 53 cities, from St Petersburg in the west to Vladivostok in the east. 
  <p class="updated_time"> 10:25 AM CT, Mar. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukraine Faces Fresh Wave of Attacks Focused on Population Centers</a> WSJ: Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the country’s second-largest city, Kharkiv, and killing dozens of civilians. 
  <p class="updated_time"> 09:46 AM CT, Mar. 06 </p> 
