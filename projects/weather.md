@@ -11,7 +11,7 @@ webapp: yes
 
 ## Champaign 5-Day Forecast
 
-<p class="updated_time"> Latest data: 02:03 PM CT, March 06</p>
+<p class="updated_time"> Latest data: 02:23 PM CT, March 06</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
