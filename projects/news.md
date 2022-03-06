@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: At least three family members, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
+ <p class="updated_time"> 04:57 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Police Detain Thousands at Antiwar Protests Across Russia</a> NYT: Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted in Ukraine. An airport in western Ukraine also comes under attack. 
  <p class="updated_time"> 04:49 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641873?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Taking cover in a town under attack</a> BBC: Jeremy Bowen was on the frontline in Irpin, as residents came under Russian fire while trying to flee. 
  <p class="updated_time"> 04:47 PM CT, Mar. 06 </p> 
@@ -47,7 +47,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 11:10 AM CT, Mar. 06 </p> 
  <a href="https://www.wsj.com/articles/u-s-officials-meet-with-regime-in-venezuela-to-discuss-oil-exports-to-replace-russias-11646591752">U.S. Officials Meet With Regime in Venezuela, to Discuss Oil Exports</a> WSJ: Venezuelan oil would return to the open international market under proposals that the U.S. is discussing in rare face-to-face meetings with officials of the Maduro regime, according to people familiar with the talks. 
  <p class="updated_time"> 11:02 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/03/06/1084766289/ukraine-russia-war-pictures-refugees">Photos: More than 1 million Ukrainians have fled their country</a> NPR: This is the fastest-growing refugee crisis in Europe since World War II. 
+ <a href="https://www.npr.org/sections/pictureshow/2022/03/06/1084766289/ukraine-russia-war-pictures-refugees">Photos: More than 1.5 million Ukrainians have fled their country</a> NPR: This is the fastest-growing refugee crisis in Europe since World War II. 
  <p class="updated_time"> 11:01 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/asia/south-korea-early-voting-covid.html">South Korea reports high turnout in early voting, but apologizes to coronavirus patients for a lack of preparation.</a> NYT: South Korea is experiencing a sharp spike in coronavirus cases, its worst wave of the pandemic, but is allowing infected voters to cast a ballot in the country’s contentious presidential election. 
  <p class="updated_time"> 10:42 AM CT, Mar. 06 </p> 
@@ -203,6 +203,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:54 PM CT, Mar. 06 </p> 
+ <a href="https://www.npr.org/2022/03/06/1084841664/kamala-harris-selma-bloody-sunday-voting">On 'Bloody Sunday,' Harris reflects on the current fight for voting rights</a> NPR: Vice President Kamala Harris visited Selma, Ala., to commemorate a defining moment in the struggle for the right to vote. 
  <p class="updated_time"> 04:17 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084834286/alabama-rep-terry-sewell-on-the-ongoing-fight-for-voting-rights">Alabama Rep. Terry Sewell on the ongoing fight for voting rights</a> NPR: NPR's Michel Martin speaks with Rep. Terri Sewell (D-Ala.) about the current fight over voting rights and redistricting in her home state of Alabama. 
  <p class="updated_time"> 03:43 PM CT, Mar. 06 </p> 
@@ -319,8 +321,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
  <p class="updated_time"> 12:16 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084548984/lindsey-graham-putin">Sen. Lindsey Graham's apparent call for Putin to be assassinated draws backlash</a> NPR: "The only way this ends is for somebody in Russia to take this guy out," the South Carolina Republican said. Democrats and Republicans denounced the suggestion. 
- <p class="updated_time"> 11:00 AM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084463809/biden-approval-poll-ukraine-economy">Biden gets a bounce after the State of the Union, NPR/PBS NewsHour/Marist poll shows</a> NPR: After Tuesday's speech, the president saw a significant jump with Democrats and independents, as he may be seeing a rally-around-the-Ukrainian-flag moment. 
  <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/04/when-mtg-tells-you-to-dial-it-down-00014136">When MTG tells you to dial it down…</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
