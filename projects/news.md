@@ -8,10 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 AM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
- <p class="updated_time"> 03:58 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/05/world/russia-ukraine">Live Updates: As Zelensky Calls on Ukrainians to Resist, Russia Threatens Critical Infrastructure</a> NYT: Vladimir Putin said any nation that imposes a no-fly zone would be considered an enemy combatant. Russian forces are running into problems in their key objective to take Kyiv, but are making significant inroads in southern Ukraine. 
  <p class="updated_time"> 03:57 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone-nato.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 03:47 AM CT, Mar. 06 </p> 
@@ -156,8 +156,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
  <p class="updated_time"> 11:30 PM CT, Mar. 04 </p> 
  <a href="https://www.wsj.com/articles/europe-fears-it-could-be-too-late-to-shake-off-russian-gas-addiction-11646476200">Europe Fears It Could Be Too Late to Shake Off Russian Gas Addiction</a> WSJ: A decadeslong reliance on Moscow’s energy has left Europe unprepared if the taps are turned off. 
- <p class="updated_time"> 10:08 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/business/economy/china-economy-congress-explained.html">China’s  Legislative Session to Focus on Economy </a> NYT: Russia’s invasion of Ukraine went unmentioned at the opening of an annual gathering of China’s legislature, as leaders focused on stabilizing economic growth. 
  <p class="updated_time"> 09:41 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-britain-eu.html">Russia-Ukraine War Helped Ease Rift Between Britain and the E.U.</a> NYT: The crisis in Ukraine is beginning to narrow the chasm opened up by Brexit. 
  <p class="updated_time"> 09:33 PM CT, Mar. 04 </p> 
@@ -327,6 +325,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-justice-department-january-6.html">Pressure on Justice Dept. as Jan. 6 Panel Lays Out Case Against Trump</a> NYT: Building a criminal case against the former president is very difficult for federal prosecutors, experts say, underlining the dilemma confronting the agency. 
  <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
  <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
+ <p class="updated_time"> 07:48 PM CT, Mar. 03 </p> 
+ <a href="https://www.nytimes.com/2022/03/03/us/politics/trump-jan-6-criminal-case.html">Panel Suggests Trump Knew He Lost the Election, Eyeing Criminal Case</a> NYT: At the core of the theory of a possible criminal case against former President Donald J. Trump is the argument that he knew he had lost the election and sought to overturn it anyway. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
