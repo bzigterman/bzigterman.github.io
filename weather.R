@@ -285,7 +285,6 @@ Currently:
 
 <p class=\"updated_time\">Source: <a href=\"https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php\">NOAA/NWS Weather Prediction Center</a>.</p> 
 
-
 ",
 sep = ""
 )
