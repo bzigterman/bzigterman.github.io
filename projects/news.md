@@ -8,12 +8,18 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:57 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv as Ukrainian forces battled to keep control. Russian and Ukrainian representatives were expected to meet for a third round of talks. 
+ <p class="updated_time"> 10:57 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html">A Quebec Restaurant Is Latest to Rename Food Item as Rebuke to Russia</a> NYT: Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products. 
+ <p class="updated_time"> 10:48 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60642786?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Petrol at fresh record as oil and gas prices soar</a> BBC: Investors fear a global economic shock, with rising fuel bills causing more pain for households. 
  <p class="updated_time"> 10:29 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/denmark-syrian-refugees.html">These Syrian Refugees Can't Stay in Denmark, but They Can't Go Home</a> NYT: Dozens of Syrian asylum seekers are stuck in limbo after the Danish authorities decided it was safe for them to go back home and stripped their residency permits. 
  <p class="updated_time"> 10:28 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/climate/amazon-climate-change-deforestation.html">Amazon Is Less Able to Recover From Droughts and Logging, Study Finds</a> NYT: The region is nearing a threshold beyond which its forests may be replaced by grasslands, with huge repercussions for biodiversity and climate change. 
- <p class="updated_time"> 10:21 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv as Ukrainian forces battled to keep control. Russian and Ukrainian representatives were expected to meet for a third round of talks. 
+ <a href="https://www.nytimes.com/2022/03/07/climate/amazon-rainforest-climate-change-deforestation.html">Amazon Rainforest May Be Approaching a Critical Tipping Point, Study Finds</a> NYT: The region is nearing a threshold beyond which its forests may be replaced by grasslands, with huge repercussions for biodiversity and climate change. 
+ <p class="updated_time"> 10:22 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60651801?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'It's hell, it's really hell' - Families flee bombs in Irpin</a> BBC: Silent and weeping, a stream of civilians with backpacks try to outpace the Russian shells. 
  <p class="updated_time"> 10:19 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 10:04 AM CT, Mar. 07 </p> 
@@ -22,8 +28,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
  <p class="updated_time"> 09:58 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/icj-united-nations-ukraine-russia.html">Ukraine Takes its Case Against Russia to the UN's Highest Court</a> NYT: The head of the Ukrainian delegation told the court that “millions are in danger” and accused Moscow of defiling the Genocide Convention. 
- <p class="updated_time"> 09:47 AM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-60642786?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Petrol at fresh record as oil and gas prices soar</a> BBC: Investors fear a global economic shock, with rising fuel bills causing more pain for households. 
  <p class="updated_time"> 09:45 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/iaea-nuclear-plants-ukraine.html">IAEA Says an Agreement Over Nuclear Power Plants in Ukraine Is Urgently Needed</a> NYT: There has been no release of radiation, but problems have arisen at plants, said Rafael Mariano Grossi, the head of the International Atomic Energy Agency. 
  <p class="updated_time"> 09:21 AM CT, Mar. 07 </p> 
@@ -98,8 +102,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60615481?at_medium=RSS&at_campaign=KARANGA">Ashneer Grover: Bitter BharatPe feud worries India's booming start-ups</a> BBC: Many entrepreneurs whose start-ups were big successes are battling with their boards for supremacy. 
  <p class="updated_time"> 05:56 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641217?at_medium=RSS&at_campaign=KARANGA">Ukraine: With placards and tears, Poles are greeting refugees like family</a> BBC: A Polish couple, messaged from Taiwan, have come to meet a Ukrainian refugee - welcome to Przemysl. 
- <p class="updated_time"> 05:23 PM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60640204?at_medium=RSS&at_campaign=KARANGA">Protests across Russia see thousands detained</a> BBC: People have been held in 53 cities, from St Petersburg in the west to Vladivostok in the east. 
  <p class="updated_time"> 04:49 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641873?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Taking cover in a town under attack</a> BBC: Jeremy Bowen was on the frontline in Irpin, as residents came under Russian fire while trying to flee. 
  <p class="updated_time"> 04:47 PM CT, Mar. 06 </p> 
@@ -116,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084818519/russia-protests-detainments">Thousands have been detained in anti-war protests across Russia</a> NPR: As of Sunday, an independent monitoring group reports over 4,500 were detained across 63 cities, including Moscow and St. Petersburg. 
  <p class="updated_time"> 02:10 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/gymnastics/60641891?at_medium=RSS&at_campaign=KARANGA">Russian gymnast Ivan Kuliak investigated for wearing pro-war symbol on podium next to Ukrainian</a> BBC: Russian gymnast Ivan Kuliak is being investigated after wearing a national war symbol on his leotard as he stood next to a Ukrainian rival on the podium in Qatar on Saturday. 
- <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
  <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 01:00 PM CT, Mar. 06 </p> 
