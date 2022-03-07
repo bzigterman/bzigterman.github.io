@@ -8,7 +8,7 @@ webappicon: /weather.png
 
 ## Champaign 5-Day Forecast
 
-<p class="updated_time"> Latest data: 06:24 AM CT, March 07</p>
+<p class="updated_time"> Latest data: 07:28 AM CT, March 07</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -18,10 +18,10 @@ webappicon: /weather.png
 
 Currently:
 
-- 35°
+- 34°
 - light rain
 - 96% humidity
-- 17 mph wind
+- 14 mph wind
 
 ## Severe Thunderstorm Outlook
 
@@ -34,7 +34,6 @@ Currently:
 ![](https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_CONUS.png)
 
 <p class="updated_time">Source: <a href="https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php">NOAA/NWS Weather Prediction Center</a>.</p> 
-
 
 
 ---
@@ -47,7 +46,7 @@ webappicon: /weather.png
 
 ## Champaign 5-Day Forecast
 
-<p class="updated_time"> Latest data: 06:24 AM CT, March 07</p>
+<p class="updated_time"> Latest data: 07:28 AM CT, March 07</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -57,10 +56,10 @@ webappicon: /weather.png
 
 Currently:
 
-- 35°
+- 34°
 - mist
 - 96% humidity
-- 17 mph wind
+- 14 mph wind
 
 ## Severe Thunderstorm Outlook
 
@@ -73,6 +72,5 @@ Currently:
 ![](https://origin.wpc.ncep.noaa.gov/wwd/wssi/images/WSSI_Overall_CONUS.png)
 
 <p class="updated_time">Source: <a href="https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php">NOAA/NWS Weather Prediction Center</a>.</p> 
-
 
 
