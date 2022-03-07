@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:22 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 08:28 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of Renewed Russian Attacks in Ukraine</a> NYT: Ukrainian forces were fighting to retain control of the southern city of Mykolaiv, where Russian artillery strikes hit residential areas. Russian and Ukrainian representatives were expected to meet for a third round of talks. 
  <p class="updated_time"> 08:05 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
