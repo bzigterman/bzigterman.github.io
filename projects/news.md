@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:38 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 07:10 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of New Russian Attacks in Ukraine</a> NYT: As fighting takes an increasing toll on civilians, Russian and Ukrainian representatives were expected to meet for a third round of talks on Monday. Russian police detained thousands of antiwar protesters over the weekend. 
  <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ukraine says Russian ceasefire offer "immoral"</a> BBC: Russia says it will offer civilians an evacuation route, but only to territory in Russia and Belarus. 
@@ -43,7 +43,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:54 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Blinken says U.S. working to release Americans detained in Russia</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
+ <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Russia arrests Brittney Griner; Blinken promises to help all Americans detained there</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
  <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Angry Zelensky vows to punish Russian atrocities</a> BBC: The Ukrainian president says the country will not forgive or forget those who murder its civilians. 
  <p class="updated_time"> 01:26 AM CT, Mar. 07 </p> 
@@ -105,7 +105,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 01:00 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641868?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Military couple marry on the front line</a> BBC: Lesya and Valeri, both civil defence volunteers, tied the knot at a check-point near Kyiv. 
  <p class="updated_time"> 12:00 PM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1083571714/south-korea-election-youth-vote">Their generation ousted South Korea's military regime. Now they have to win over Gen Z</a> NPR: South Koreans in their 20s and 30s make up a third of voters, and candidates want to win them over. Many young voters are over the folks in power, a lot of whom are from an activist generation. 
+ <a href="https://www.npr.org/2022/03/06/1083571714/south-korea-election-youth-vote">Millennial and Gen Z views of South Korea's generation in power shape an election</a> NPR: South Koreans in their 20s and 30s make up a third of voters, and candidates want to win them over. Many young voters are over the folks in power, a lot of whom are from an older activist generation. 
  <p class="updated_time"> 11:36 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 11:10 AM CT, Mar. 06 </p> 
@@ -230,7 +230,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870804/in-selma-ala-kamala-harris-reflects-on-the-current-fight-for-voting-rights">In Selma, Ala., Kamala Harris reflects on the current fight for voting rights</a> NPR: Vice President Harris joined the march across the Edmund Pettus bridge on the 57th anniversary of Bloody Sunday, when Black voting rights activists were beaten by state troopers. 
  <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084870769/morning-news-brief">Morning news brief</a> NPR: Russian forces are moving toward a third Ukrainian nuclear power plant. Russia's invasion of Ukraine has generated a refugee crisis. ex-Attorney General Barr defends his record in a new book. 
+ <a href="https://www.npr.org/2022/03/07/1084870769/morning-news-brief">News brief: Russia-Ukraine latest, Ukrainian refugees, Bill Barr book</a> NPR: Russian forces are moving toward a third Ukrainian nuclear power plant. Russia's invasion of Ukraine has generated a refugee crisis. Ex-Attorney General Barr defends his record in a new book. 
  <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084510375/ag-bill-barr-book-trump-2024">Bill Barr won't back a 2024 Trump run, but doesn't quite condemn his former boss</a> NPR: Former Attorney General William Barr spoke with NPR about his new memoir, former President Trump's election lies, and why he thinks Trump shouldn't try to return to the White House. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
@@ -273,8 +273,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/06/ukraine-no-fly-zone-00014437">West resists Ukrainian calls for a no-fly zone, but warms to other requests</a> Politico: American and European leaders have been resistant to a no-fly zone, arguing that it would unleash a wider war. 
  <p class="updated_time"> 10:09 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/kyiv-mayor-klitschko-russia-00014436">Kyiv's mayor: 'We defend our city, our houses, our families'</a> Politico: Vitaly Klitschko said his people were patriotic and defiant but still needed international help. 
- <p class="updated_time"> 09:45 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/blinken-putin-destined-to-lose-ukraine-00014434">Blinken: Putin is 'destined to lose' war against Ukraine</a> Politico: “Just winning a battle is not winning a war,” Secretary of State Antony Blinken said. 
  <p class="updated_time"> 08:02 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/13/eric-adams-chocolate-milk-00013170">Eric Adams is after your child's chocolate milk</a> Politico: The man who calls himself New York’s first vegan mayor has a long and complicated history with chocolate milk, which he wanted banned from schools. 
  <p class="updated_time"> 07:01 AM CT, Mar. 06 </p> 
@@ -349,6 +347,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
+ <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/uc-berkeley-will-be-forced-to-slash-enrollment-under-state-supreme-court-ruling-00013923">UC Berkeley prepares to slash enrollment after California Supreme Court ruling</a> Politico: The court's decision to reject UC Berkeley’s application for a stay in the case means the school will likely need to shrink its student population before the fall semester begins. 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
@@ -385,6 +385,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/new-york-noncitizen-voting-00012970">New York is about to let noncitizens vote. It could reshape local politics forever.</a> Politico: About 800,000 green card holders and others authorized to work in the country will become eligible to vote for mayor, City Council and other local offices. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
