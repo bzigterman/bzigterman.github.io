@@ -189,10 +189,10 @@ ggplot() +
             aes(x = central_time,
                 y = values,
                 colour = names)) +
-  #geom_hline(data = data.frame(yint = 32, names="°F"),
-             #aes(yintercept = yint),
-             #color = "#a2d2df",
-             #linetype = "dotted") +
+  # geom_hline(data = data.frame(yint = 32, names="°F"),
+  #            aes(yintercept = yint),
+  #            color = "#a2d2df",
+  #            linetype = "dotted") +
   geom_vline(xintercept = now(tzone = "America/Chicago")) +
   facet_wrap(~ names, scales = "free_y",
              ncol = 1,
@@ -247,7 +247,7 @@ now_html <- paste("<p class=\"updated_time\"> Latest data: ",
                   "</p>",
                   sep = "")
 
-web_text <- paste0(
+cat(
   "---
 layout: page
 title: Weather
@@ -285,9 +285,11 @@ Currently:
 
 <p class=\"updated_time\">Source: <a href=\"https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php\">NOAA/NWS Weather Prediction Center</a>.</p> 
 
-")
 
-write_lines(web_text,"projects/weather.md", append = FALSE)
+",
+file = "projects/weather.md",
+sep = ""
+)
 
 
 
