@@ -3,7 +3,7 @@ library(tidyverse)
 library(lubridate)
 library(httr)
 
-past_week <- ymd_hms(now()) - days(7)
+past_week <- ymd_hms(now()) - days(3)
 
 # gather news ----
 
