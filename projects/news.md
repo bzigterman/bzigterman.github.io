@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
  <p class="updated_time"> 04:14 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 04:08 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084889071/russia-ukraine-war-what-happened-today-march-7">Russia-Ukraine war: What happened today (March 7)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:06 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/six-million-covid-deaths.html">World’s Known Covid Death Toll Surpasses 6 Million</a> NYT: And stark vaccination disparities between countries remain, leaving the entire world vulnerable to the threat of a new, deadly variant. 
- <p class="updated_time"> 04:03 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
  <p class="updated_time"> 04:02 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/florida-covid-vaccine-kids.html">Against C.D.C. Advice, Florida to Advise Against Covid Vaccines for Healthy Children</a> NYT: The C.D.C. has urged parents to get their eligible children vaccinated. “Covid-19 can make children very sick and cause children to be hospitalized,” the agency’s website says. 
  <p class="updated_time"> 03:56 PM CT, Mar. 07 </p> 
@@ -28,7 +28,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:42 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013124/experts-worry-about-the-accuracy-of-online-posts-depicting-the-war-in-ukraine">Experts worry about the accuracy of online posts depicting the war in Ukraine</a> NPR: A torrent of satellite images and cell phone videos are shaping the public's view of the war in Ukraine. The speed and scale at which the information spreads is powerful, but it can also be deceiving. 
  <p class="updated_time"> 03:32 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-ukraine-letter-z.html">Letter ‘Z,’ Symbol of Support for War, Spreads Across Russia </a> NYT: The letter, painted on Russian military vehicles, is suddenly ubiquitous in Russia, prompting talk of a Kremlin public relations campaign. 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-letter-z-ivan-kuliak.html">Letter ‘Z,’ Symbol of Support for War, Spreads Across Russia </a> NYT: The letter, painted on Russian military vehicles, is suddenly ubiquitous in Russia, prompting talk of a Kremlin public relations campaign. 
  <p class="updated_time"> 03:31 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-ukraine-putin-media.html">With New Limits on Media, Putin Closes a Door on Russia’s ‘Openness’</a> NYT: The Russian leader is undoing the social freedoms introduced at the end of the Soviet Union, risking a return to total control and ideological isolation. 
  <p class="updated_time"> 03:29 PM CT, Mar. 07 </p> 
@@ -42,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:11 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013070/how-one-international-student-fled-ukraine-and-brought-along-50-others">How one international student fled Ukraine — and brought along 50 others</a> NPR: UN data show over 1.5 million people have left Ukraine since the Russian military invaded. Here's the story of one international student who helped 50 others escape the war. 
  <p class="updated_time"> 02:57 PM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084945010/brittney-griner-russia-wnba">Why Brittney Griner was in Russia, and what it has to do with U.S. women's basketball</a> NPR: Many WNBA players head overseas to play during the off-season, where they can be paid much more than they earn in the U.S. Griner, who was arrested for allegedly transporting drugs, is one of them. 
+ <a href="https://www.npr.org/2022/03/07/1084945010/brittney-griner-russia-wnba">Why Brittney Griner was in Russia and what it has to do with U.S. women's basketball</a> NPR: Many WNBA players head overseas to play during the off-season, where they can be paid much more than they earn in the U.S. Griner, who was arrested for allegedly transporting drugs, is one of them. 
  <p class="updated_time"> 02:55 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/article/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
  <p class="updated_time"> 02:55 PM CT, Mar. 07 </p> 
@@ -75,6 +75,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60649214?at_medium=RSS&at_campaign=KARANGA">McDonald's and Coca-Cola boycott calls grow over Russia</a> BBC: Food and drink giants have been criticised on social media for failing to speak out on Ukraine's invasion. 
  <p class="updated_time"> 11:54 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/iaea-nuclear-plants-ukraine.html">IAEA Says an Agreement Over Nuclear Power Plants in Ukraine Is Urgently Needed</a> NYT: There has been no release of radiation, but problems have arisen at plants, said Rafael Mariano Grossi, the head of the International Atomic Energy Agency. 
+ <p class="updated_time"> 11:29 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Ukrainian and Russian negotiators ended a third round of talks with little progress, while Ukraine’s military held fast along several fronts and Russia continued to shell cities and residential areas. 
  <p class="updated_time"> 11:15 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/queen-elizabeth-trudeau.html">Queen Elizabeth Welcomes Justin Trudeau in Meeting After Having Had Covid</a> NYT: The queen received Prime Minister Justin Trudeau of Canada at Windsor Castle on Monday. 
  <p class="updated_time"> 11:04 AM CT, Mar. 07 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60651801?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'It's hell, it's really hell' - Families flee bombs in Irpin</a> BBC: Silent and weeping, a stream of civilians with backpacks try to outpace the Russian shells. 
  <p class="updated_time"> 10:19 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
- <p class="updated_time"> 10:11 AM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russian forces conducted airstrikes on cities and military locations, disrupting civilian-evacuation plans, Ukraine said, while cease-fire talks were inconclusive. 
  <p class="updated_time"> 10:00 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
  <p class="updated_time"> 09:58 AM CT, Mar. 07 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:05 PM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/judge-jan-6-probe-rights-trampled-00014808">Judge: Massive scope of Jan. 6 probe led to rights being 'trampled'</a> Politico: Magistrate Judge Zia Faruqui decried delays in the case of a Texas man accused of assaulting police. 
  <p class="updated_time"> 04:28 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/white-house-oil-deals-saudi-arabia-venezuela-iran-00014803">White House is pressed on potential oil deals with Saudi Arabia, Venezuela and Iran</a> Politico: Recent reports say President Joe Biden and European counterparts are discussing a ban on Russian oil imports to further punish President Vladimir Putin for the attack on Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Mar. 07 </p> 
@@ -282,6 +284,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/06/politics/trump-manhattan-district-attorney-investigation/index.html">Prosecutors resigned after New York DA said he wasn't prepared to move forward with indictment of Trump</a> CNN: Two top prosecutors leading the criminal investigation into former President Donald Trump and his business resigned after the Manhattan district attorney said he was not prepared to authorize an indictment against the former President, a person familiar with the investigation said. 
  <p class="updated_time"> 07:48 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html">Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a Clandestine Cybercorps</a> NYT: The United States has walked to the edge of direct conflict with Russia in an operation that is reminiscent of the Berlin airlift of 1948-49, but far more complex. 
+ <p class="updated_time"> 07:07 PM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/kamala-harris-selma-bloody-sunday-00014499">Harris marks ‘Bloody Sunday’ anniversary in Selma</a> Politico: She called the site hallowed ground on which people fought for the “most fundamental right of America citizenship." 
  <p class="updated_time"> 04:54 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084841664/kamala-harris-selma-bloody-sunday-voting">On 'Bloody Sunday,' Harris reflects on the current fight for voting rights</a> NPR: Vice President Kamala Harris visited Selma, Ala., to commemorate a defining moment in the struggle for the right to vote. 
  <p class="updated_time"> 04:17 PM CT, Mar. 06 </p> 
@@ -298,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/06/blinken-russian-oil-ban-00014441">Blinken says White House discussing prospect of a Russian oil ban as pleas increase</a> Politico: He said he spoke with the president and other Cabinet officials on “exactly this subject” the day prior. 
  <p class="updated_time"> 10:58 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/gallery/2022/03/06/photos-refugees-from-ukraine-00014430">Photos: Refugees from Ukraine</a> Politico: Russia's invasion of Ukraine has led to a massive displacement of the population of Ukraine, with civilians fleeing the devastating impact of the attack in numbers not seen in Europe in the 21st century. 
- <p class="updated_time"> 10:09 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/kyiv-mayor-klitschko-russia-00014436">Kyiv's mayor: 'We defend our city, our houses, our families'</a> Politico: Vitaly Klitschko said his people were patriotic and defiant but still needed international help. 
  <p class="updated_time"> 07:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/sports/basketball/russia-brittney-griner.html">WNBA Center Brittney Griner Is Detained in Russia</a> NYT: Russian customs officials said a U.S. basketball player had vape cartridges containing hashish oil in her luggage. A Russian news agency identified the player as Griner. 
  <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
