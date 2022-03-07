@@ -9,10 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:51 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 04:08 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084889071/russia-ukraine-war-what-happened-today-march-7">Russia-Ukraine war: What happened today (March 7)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:06 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/six-million-covid-deaths.html">World’s Known Covid Death Toll Surpasses 6 Million</a> NYT: And stark vaccination disparities between countries remain, leaving the entire world vulnerable to the threat of a new, deadly variant. 
+ <p class="updated_time"> 04:03 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
- <p class="updated_time"> 03:47 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 04:02 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/florida-covid-vaccine-kids.html">Against C.D.C. Advice, Florida to Advise Against Covid Vaccines for Healthy Children</a> NYT: The C.D.C. has urged parents to get their eligible children vaccinated. “Covid-19 can make children very sick and cause children to be hospitalized,” the agency’s website says. 
+ <p class="updated_time"> 03:56 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/israel-jews-moldova-ukraine-war.html">Once Victims in Southeast Europe, Jews Come to Aid Fleeing Ukrainians</a> NYT: Today, as in the early 1900s, Jews are once again escaping violence in southeast Europe. But the context is radically different — cathartically so for the many Israelis who have come here to join the relief effort. 
+ <p class="updated_time"> 03:54 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
+ <p class="updated_time"> 03:51 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1085013131/u-s-and-allies-to-target-russian-oligarchs-wealth-to-push-putin-to-end-invasion">U.S. and allies to target Russian oligarchs' wealth to push Putin to end invasion</a> NPR: The U.S. and allies want to cut Russian oligarchs off from their wealth as a way of pressuring Russia to end the war in Ukraine. But finding their yachts, planes and money won't be easy. 
  <p class="updated_time"> 03:42 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013124/experts-worry-about-the-accuracy-of-online-posts-depicting-the-war-in-ukraine">Experts worry about the accuracy of online posts depicting the war in Ukraine</a> NPR: A torrent of satellite images and cell phone videos are shaping the public's view of the war in Ukraine. The speed and scale at which the information spreads is powerful, but it can also be deceiving. 
  <p class="updated_time"> 03:32 PM CT, Mar. 07 </p> 
@@ -41,14 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60645236?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Five times Russians have stood up for Ukraine</a> BBC: Videos from social media show some Russian citizens, at home and abroad, protesting the war in Ukraine. 
  <p class="updated_time"> 02:40 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/denmark-syrian-refugees.html">These Syrian Refugees Can't Stay in Denmark, but They Can't Go Home</a> NYT: Dozens of Syrian asylum seekers are stuck in limbo after the Danish authorities decided it was safe for them to go back home and stripped their residency permits. 
- <p class="updated_time"> 02:33 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/florida-covid-vaccine-kids.html">Against C.D.C. Advice, Florida to Advise Against Covid Vaccines for Healthy Children</a> NYT: The C.D.C. has urged parents to get their eligible children vaccinated. “Covid-19 can make children very sick and cause children to be hospitalized,” the agency’s website says. 
  <p class="updated_time"> 02:29 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html">A Quebec Restaurant Renames Poutine Dish as a Rebuke of Russia</a> NYT: Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products. 
- <p class="updated_time"> 01:48 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
+ <p class="updated_time"> 02:01 PM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60655723?at_medium=RSS&at_campaign=KARANGA">Iowa tornadoes: Seven people killed, including two children</a> BBC: Seven people are dead after tornadoes packing winds of up to 138 mph (222kph) tore through Iowa. 
  <p class="updated_time"> 01:45 PM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084963489/us-russia-is-trying-to-recruit-syrian-fighters-to-go-to-ukraine">Russia is trying to recruit Syrians to fight in Ukraine, U.S. official says</a> NPR: The reported Russian effort to find Syrians with urban combat experience is the latest indication that Russia's invasion of Ukraine is not going as planned. 
+ <a href="https://www.npr.org/2022/03/07/1084963489/us-russia-is-trying-to-recruit-syrian-fighters-to-go-to-ukraine">Russia is trying to recruit Syrians to fight in Ukraine, U.S. says</a> NPR: The reported Russian effort to find Syrians with urban combat experience is the latest indication that Russia's invasion of Ukraine is not going as planned. 
  <p class="updated_time"> 01:40 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638949?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl workers' 12-day ordeal under Russian guard</a> BBC: The nuclear power plant was seized on day one of Russia's invasion, and workers have not left since. 
  <p class="updated_time"> 01:10 PM CT, Mar. 07 </p> 
@@ -129,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Russia arrests Brittney Griner; Blinken promises to help all Americans detained there</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
  <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Angry Zelensky vows to punish Russian atrocities</a> BBC: The Ukrainian president says the country will not forgive or forget those who murder its civilians. 
- <p class="updated_time"> 01:19 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084869382/death-toll-nears-6-million-as-pandemic-enters-its-3rd-year">Death toll surpasses 6 million for the pandemic now in its 3rd year</a> NPR: Health care experts say that confirmed deaths represent a fraction of the true number of deaths due to COVID because of limited testing. 
  <p class="updated_time"> 10:08 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-beats-russia-mykolaiv.html">Proud Band of Ukrainian Troops Holds Russian Assault at Bay — for Now</a> NYT: “Few expected such strength from our people,” said a Ukrainian colonel whose soldiers have repelled a Russian attack on the port city of Mykolaiv for three days. 
  <p class="updated_time"> 09:08 PM CT, Mar. 06 </p> 
@@ -159,12 +165,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 02:35 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/asia/pakistan-aurat-march-women.html">As Women’s Marches Gain Steam in Pakistan, Conservatives Grow Alarmed</a> NYT: What began in 2018 as a single march for International Women’s Day has become an annual event in multiple cities. Opposition is rising, and threats are, too. 
- <p class="updated_time"> 02:19 PM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084818850/russia-ukraine-cease-fire-mariupol">A cease-fire to evacuate civilians from the Ukrainian city of Mariupol fails again</a> NPR: It was the second day in a row that a cease-fire to allow the evacuation of civilians from the port city fell apart. 
  <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
- <p class="updated_time"> 01:00 PM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60641868?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: Military couple marry on the front line</a> BBC: Lesya and Valeri, both civil defence volunteers, tied the knot at a check-point near Kyiv. 
  <p class="updated_time"> 11:36 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 11:01 AM CT, Mar. 06 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/mastercard-visa-suspend-operations-russia.html">Mastercard and Visa Suspend Operations in Russia</a> NYT: Russian-issued cards will no longer work in other countries, and purchases from Russian vendors by cardholders in other countries will be cut off. 
  <p class="updated_time"> 07:21 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/venezuela-russia-usa.html">US Officials Travel to Venezuela, a Russia Ally, as the West Isolates Putin</a> NYT: The trip is the highest-level visit by American officials to Caracas in years, driven by a desire to separate Russia from its remaining Latin American allies. 
- <p class="updated_time"> 07:02 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-putin.html">Putin Likens Sanctions to a ‘Declaration of War’</a> NYT: Despite a cease-fire, Russia shelled near humanitarian corridors meant for civilians to escape an embattled city, Ukraine says, while the Russian leader also warned about a no-fly zone. 
  <p class="updated_time"> 06:37 PM CT, Mar. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60491095?at_medium=RSS&at_campaign=KARANGA">Why Indian fathers are embracing paternity leave</a> BBC: The pandemic and changing family structures have highlighted how young parents are struggling with childcare. 
  <p class="updated_time"> 06:13 PM CT, Mar. 05 </p> 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-food-ukraine.html">Fast-Food Chains Stay Open in Russia, Mostly Quiet About Ukraine</a> NYT: Many fast-food chains are facing growing pressure on social media platforms and from large investors to halt operations in Russia. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
- <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
  <p class="updated_time"> 07:09 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60613331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The TikToker spreading viral videos</a> BBC: A Ukrainian 20-year-old has had tens of millions of views on videos she's shared of fighting there. 
 
@@ -210,6 +208,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:28 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/white-house-oil-deals-saudi-arabia-venezuela-iran-00014803">White House is pressed on potential oil deals with Saudi Arabia, Venezuela and Iran</a> Politico: Recent reports say President Joe Biden and European counterparts are discussing a ban on Russian oil imports to further punish President Vladimir Putin for the attack on Ukraine. 
+ <p class="updated_time"> 04:05 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/saudi-arabia-911-hijacker.html">9/11 Suspect Is Returned to Saudi Arabia for Mental Health Care</a> NYT: Mohammed al-Qahtani had spent 20 years at Guantánamo Bay, where he was tortured so badly that he was ineligible to be tried at the war crimes court. 
  <p class="updated_time"> 03:51 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013131/u-s-and-allies-to-target-russian-oligarchs-wealth-to-push-putin-to-end-invasion">U.S. and allies to target Russian oligarchs' wealth to push Putin to end invasion</a> NPR: The U.S. and allies want to cut Russian oligarchs off from their wealth as a way of pressuring Russia to end the war in Ukraine. But finding their yachts, planes and money won't be easy. 
  <p class="updated_time"> 03:42 PM CT, Mar. 07 </p> 
@@ -218,8 +218,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/07/1085013096/former-attorney-general-william-barr-argues-he-wasnt-a-toady-to-trump-in-memoir">Former Attorney General William Barr argues he wasn't a 'toady' to Trump in memoir</a> NPR: In a new memoir, former Attorney General William Barr is defending his time in office. He says he refuted Trump's lies about the election, but blames progressives for dividing the country. 
  <p class="updated_time"> 03:10 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
- <p class="updated_time"> 02:22 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/politics/saudi-arabia-911-hijacker.html">9/11 Suspect Is Returned to Saudi Arabia for Mental Health Care</a> NYT: Mohammed al-Qahtani had spent 20 years at Guantánamo Bay, where he was tortured so badly that he was ineligible to be tried at the war crimes court. 
  <p class="updated_time"> 02:00 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/florida-surgeon-general-covid-vaccines-00014702">Florida's controversial surgeon general recommends against Covid-19 vaccination for kids</a> Politico: Surgeon General Joseph A. Ladapo has been an outspoken critic of pandemic-era safety measures such as quarantines, wearing face masks and vaccines. 
  <p class="updated_time"> 01:54 PM CT, Mar. 07 </p> 
@@ -261,7 +259,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:33 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/no-fly-zone-ukraine-congress.html">Rubio, U.S. Lawmakers Are Largely Opposed to No-Fly Zone Over Ukraine</a> NYT: Members of both parties said such a move would risk drawing the United States into a conflict with Russia, another nuclear power. 
  <p class="updated_time"> 04:31 AM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/ukraine-phones-internet-still-work-00014487">Three reasons Moscow isn't taking down Ukraine's cell networks</a> Politico: Russia has plenty to gain from keeping things running, even if it also benefits Ukraine. 
+ <a href="https://www.politico.com/news/2022/03/07/ukraine-phones-internet-still-work-00014487">3 reasons Moscow isn't taking down Ukraine's cell networks</a> Politico: Russia has plenty to gain from keeping things running, even if it also benefits Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/greene-gosar-mccarthy-white-nationalism-00014351">Why Republicans may let Greene and Gosar's latest brushfire burn itself out</a> Politico: Even some Freedom Caucus colleagues fumed at their flirtation with white nationalism. But the House GOP's unlikely to do more against the conservative duo. 
  <p class="updated_time"> 04:30 AM CT, Mar. 07 </p> 
@@ -290,14 +288,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084841664/kamala-harris-selma-bloody-sunday-voting">On 'Bloody Sunday,' Harris reflects on the current fight for voting rights</a> NPR: Vice President Kamala Harris visited Selma, Ala., to commemorate a defining moment in the struggle for the right to vote. 
  <p class="updated_time"> 04:17 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084834286/alabama-rep-terry-sewell-on-the-ongoing-fight-for-voting-rights">Alabama Rep. Terri Sewell on the ongoing fight for voting rights</a> NPR: NPR's Michel Martin speaks with Rep. Terri Sewell (D-Ala.) about the current fight over voting rights and redistricting in her home state of Alabama. 
- <p class="updated_time"> 03:43 PM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/convoy-protesting-covid-mandates-begins-dc-circuit-00014473">Convoy protesting Covid mandates does D.C. circuit</a> Politico: The “People’s Convoy” follows similar demonstrations by truckers in Canada. 
  <p class="updated_time"> 02:52 PM CT, Mar. 06 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 02:32 PM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/israel-bennett-russia-putin-ukraine-00014466">Israeli leader speaks to Putin day after visit</a> Politico: Prime Minister Naftali Bennett has been working to mediate between Russia and Ukraine. 
- <p class="updated_time"> 01:17 PM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/andrew-cuomo-brooklyn-church-appearance-00014446">'God isn't finished with me yet': Cuomo speaks at Brooklyn church for first live appearance since resigning</a> Politico: The former governor laid out the same defense of his behavior he’s held for months, but assured the audience he’s been leaning on scripture in a difficult time. 
  <p class="updated_time"> 12:28 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/schiff-justice-department-trump-election-00014445">Schiff: Justice Department 'ought to be investigating' Trump's actions after the 2020 election</a> Politico: The California Democrat is a member of the House Jan. 6 committee. 
  <p class="updated_time"> 11:49 AM CT, Mar. 06 </p> 
