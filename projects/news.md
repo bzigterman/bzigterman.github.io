@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:26 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 05:41 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Third Round of Talks Raise New Hopes for Evacuation Routes</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. Ukraine’s government also claims to have shot down two Russian planes over Kyiv. 
+ <p class="updated_time"> 05:32 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-humanitarian-crisis-russia.html">Humanitarian Crisis Worsens for Ukrainians Trapped in Russia’s Onslaught</a> NYT: Two weeks after the invasion began, tens of thousands of Ukrainians are without food, water or power. The Russians are increasingly resorting to indiscriminate shelling to help their forces advance. 
  <p class="updated_time"> 05:25 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices neared record highs. 
- <p class="updated_time"> 05:25 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
  <p class="updated_time"> 04:40 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-israel-moldova-jews.html">Once Victims in Southeast Europe, Jews Come to Aid Fleeing Ukrainians</a> NYT: Today, as in the early 1900s, Jews are once again escaping violence in southeast Europe. But the context is radically different — cathartically so for the many Israelis who have come here to join the relief effort. 
  <p class="updated_time"> 04:14 PM CT, Mar. 07 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:31 PM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/supreme-court-battleground-state-congressional-maps-00014879">Supreme Court won't block new battleground state congressional maps</a> Politico: The high court turned away GOP efforts to block courts' redistricting in North Carolina and Pennsylvania. 
  <p class="updated_time"> 06:19 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/judge-obstruction-charge-jan-6-defendant-00014843">Judge tosses obstruction charge against Jan. 6 defendant</a> Politico: The ruling takes a narrow view of statute. 
  <p class="updated_time"> 05:35 PM CT, Mar. 07 </p> 
