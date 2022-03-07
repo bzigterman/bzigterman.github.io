@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:10 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of New Russian Attacks in Ukraine</a> NYT: As fighting takes an increasing toll on civilians, Russian and Ukrainian representatives were expected to meet for a third round of talks on Monday. Russian police detained thousands of antiwar protesters over the weekend. 
+ <p class="updated_time"> 07:47 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of Renewed Russian Attacks in Ukraine</a> NYT: Ukrainian forces were fighting to retain control of the southern city of Mykolaiv, where Russian artillery strikes hit residential areas. Russian and Ukrainian representatives were expected to meet for a third round of talks. 
  <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ukraine says Russian ceasefire offer "immoral"</a> BBC: Russia says it will offer civilians an evacuation route, but only to territory in Russia and Belarus. 
  <p class="updated_time"> 06:21 AM CT, Mar. 07 </p> 
@@ -44,10 +44,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Russia arrests Brittney Griner; Blinken promises to help all Americans detained there</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
+ <p class="updated_time"> 02:21 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Angry Zelensky vows to punish Russian atrocities</a> BBC: The Ukrainian president says the country will not forgive or forget those who murder its civilians. 
- <p class="updated_time"> 01:26 AM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 01:19 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084869382/death-toll-nears-6-million-as-pandemic-enters-its-3rd-year">Death toll surpasses 6 million for the pandemic now in its 3rd year</a> NPR: Health care experts say that confirmed deaths represent a fraction of the true number of deaths due to COVID because of limited testing. 
  <p class="updated_time"> 01:06 AM CT, Mar. 07 </p> 
@@ -188,6 +188,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/aeroflot-russia-international-flights-suspended.html">Aeroflot, Russia's State Airline, Says it Will Suspend International Flights</a> NYT: Russia’s airline industry has been hit hard as countries around the world have imposed sanctions on the country for its invasion of Ukraine. 
  <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
+ <p class="updated_time"> 04:51 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-military-advance-ukraine-war.html">Russia Seizes Nuclear Plant in Ukraine and Makes Gain in the South</a> NYT: The Russian military advance in Ukraine sowed more destruction and chaos, pointing to a worsening conflict, as the Kremlin also moved to restrict how it’s reported at home. 
  <p class="updated_time"> 04:50 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-eu-moldova-georgia.html">Ukraine War Forces a Question: How Far East Does Europe Go?</a> NYT: After Russia invaded, Ukraine asked to join the European Union, quickly. Moldova and Georgia have asked, too. Member states would rather not answer. 
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
@@ -211,6 +213,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/russia-war-ukraine-anti-corruption-00014532">Putin’s war in Ukraine boosts anti-corruption crusaders</a> Politico: Activists are basking in the surge of support for sanctioning oligarchs close to Putin, but they say Washington needs more tools to clamp down. 
  <p class="updated_time"> 07:46 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/07/what-will-congress-give-ukraine-00014561">What will Congress give Ukraine?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Mar. 07 </p> 
@@ -220,7 +224,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:33 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/no-fly-zone-ukraine-congress.html">Rubio, U.S. Lawmakers Are Largely Opposed to No-Fly Zone Over Ukraine</a> NYT: Members of both parties said such a move would risk drawing the United States into a conflict with Russia, another nuclear power. 
  <p class="updated_time"> 04:31 AM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/greene-gosar-mccarthy-white-nationalism-00014351">‘Pretty far down on the list’: Why Greene and Gosar are McCarthy's unsolvable problem</a> Politico: Even some Freedom Caucus colleagues fumed at their flirtation with white nationalism. But the House GOP's unlikely to do more against the conservative duo. 
+ <a href="https://www.politico.com/news/2022/03/07/greene-gosar-mccarthy-white-nationalism-00014351">Why Republicans may let Greene and Gosar's latest brushfire burn itself out</a> Politico: Even some Freedom Caucus colleagues fumed at their flirtation with white nationalism. But the House GOP's unlikely to do more against the conservative duo. 
  <p class="updated_time"> 04:31 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/ukraine-phones-internet-still-work-00014487">Three reasons Moscow isn't taking down Ukraine's cell networks</a> Politico: Russia has plenty to gain from keeping things running, even if it also benefits Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Mar. 07 </p> 
@@ -232,7 +236,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870769/morning-news-brief">News brief: Russia-Ukraine latest, Ukrainian refugees, Bill Barr book</a> NPR: Russian forces are moving toward a third Ukrainian nuclear power plant. Russia's invasion of Ukraine has generated a refugee crisis. Ex-Attorney General Barr defends his record in a new book. 
  <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084510375/ag-bill-barr-book-trump-2024">Bill Barr won't back a 2024 Trump run, but doesn't quite condemn his former boss</a> NPR: Former Attorney General William Barr spoke with NPR about his new memoir, former President Trump's election lies, and why he thinks Trump shouldn't try to return to the White House. 
+ <a href="https://www.npr.org/2022/03/07/1084510375/ag-bill-barr-book-trump-2024">Bill Barr won't back a 2024 Trump run but doesn't quite condemn his former boss</a> NPR: Former Attorney General William Barr spoke with NPR about his new memoir, former President Trump's election lies and why he thinks Trump shouldn't try to return to the White House. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084563882/many-parents-are-angry-over-covid-policies-they-could-be-key-to-gop-2022-gains">Many parents are angry over COVID policies. They could be key to GOP 2022 gains</a> NPR: Republicans believe COVID-19 policies largely backed by Democrats are causing a schism among parents of school-age children and that will help the GOP win elections this year up and down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
@@ -275,8 +279,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/06/kyiv-mayor-klitschko-russia-00014436">Kyiv's mayor: 'We defend our city, our houses, our families'</a> Politico: Vitaly Klitschko said his people were patriotic and defiant but still needed international help. 
  <p class="updated_time"> 08:02 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/13/eric-adams-chocolate-milk-00013170">Eric Adams is after your child's chocolate milk</a> Politico: The man who calls himself New York’s first vegan mayor has a long and complicated history with chocolate milk, which he wanted banned from schools. 
- <p class="updated_time"> 07:01 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/unlike-any-other-secretary-marty-walshs-hands-on-approach-to-settling-labor-disputes-00013332">Picket line or pitcher’s mound, Marty Walsh is game to talk</a> Politico: The union leader turned Labor secretary has taken a hands-on approach rarely seen from sitting Cabinet members. 
  <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/democratic-party-priority-save-governors-00014364">The Democratic Party’s emerging priority: Save the governors</a> Politico: From its operatives to its donor class, Dems fret what could happen if they lose critical battleground governor races this  fall. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
@@ -401,8 +403,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
  <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
- <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
