@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:22 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 08:33 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Ukrainian Forces Drive Back Russian Advance on Key Port City</a> NYT: The police detain thousands at antiwar protests across Russia. Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted. An airport in western Ukraine also comes under attack. 
  <p class="updated_time"> 08:03 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukrainian-family-killed-war.html">Ukrainian Family’s Dash for Safety Ends in Death</a> NYT: Russian forces hit a bridge being used by civilians evacuating the fighting in Ukraine. Four people were killed. 
@@ -36,6 +36,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">At Least 4 Civilians Killed in Shelling by Russian Forces Near Kyiv</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
  <p class="updated_time"> 04:06 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed About Putin, Russian Conductor Quits Bolshoi and French Posts</a> NYT: The Bolshoi music director, Tugan Sokhiev, said he was “asked to choose one cultural tradition” over another and denounce President Putin for invading Ukraine. 
+ <p class="updated_time"> 03:45 PM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukraine Faces Fresh Wave of Attacks Focused on Population Centers</a> WSJ: Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the country’s second-largest city, Kharkiv, and killing dozens of civilians. 
  <p class="updated_time"> 03:12 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 02:47 PM CT, Mar. 06 </p> 
@@ -49,7 +51,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:18 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084818519/russia-protests-detainments">Thousands have been detained in anti-war protests across Russia</a> NPR: As of Sunday, an independent monitoring group reports over 4,500 were detained across 63 cities, including Moscow and St. Petersburg. 
  <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/article/what-is-nato.html">What is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
+ <a href="https://www.nytimes.com/article/what-is-nato.html">What Is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
  <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
  <p class="updated_time"> 01:39 PM CT, Mar. 06 </p> 
@@ -72,8 +74,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/asia/south-korea-early-voting-covid.html">South Korea reports high turnout in early voting, but apologizes to coronavirus patients for a lack of preparation.</a> NYT: South Korea is experiencing a sharp spike in coronavirus cases, its worst wave of the pandemic, but is allowing infected voters to cast a ballot in the country’s contentious presidential election. 
  <p class="updated_time"> 10:42 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-poland-families-separation.html">‘Falling Into Emptiness’: Ukrainian Families Feel the Pain of Separation</a> NYT: With most Ukrainian men legally prohibited from leaving Ukraine, the international border gates serve as a painful filter, splitting families as women and children move on. 
- <p class="updated_time"> 10:25 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukraine Faces Fresh Wave of Attacks Focused on Population Centers</a> WSJ: Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the country’s second-largest city, Kharkiv, and killing dozens of civilians. 
  <p class="updated_time"> 09:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
  <p class="updated_time"> 09:34 AM CT, Mar. 06 </p> 
@@ -200,8 +200,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/fda-bharat-biotech-vaccine.html">FDA Rejects India-Made Bharat Biotech Vaccine For Those Under 18 </a> NYT: The vaccine, made by Bharat Biotech, is widely used in India. It has not been tested in the U.S., which has not authorized it for any age groups. 
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
- <p class="updated_time"> 02:45 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/simone-gold-capitol-riot.html">Anti-Covid-Vaccine Doctor Pleads Guilty to Capitol Riot Charges</a> NYT: The founder of America’s Frontline Doctors, a group that spreads pandemic misinformation, stood by as a Capitol Police officer was assaulted, then entered the Capitol and made a speech against Covid vaccines, according to a Justice Department filing. 
 
 
 </details>
