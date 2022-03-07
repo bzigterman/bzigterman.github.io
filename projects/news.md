@@ -3,25 +3,38 @@ layout: page
 title: News Rivers
 permalink: /projects/news
 imageurl: https://bzigterman.com/plots/news.png
+webappicon: /plots/news.png
 ---
 
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:54 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
- <p class="updated_time"> 01:53 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 02:57 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084945010/brittney-griner-russia-wnba">Why Brittney Griner was in Russia, and what it has to do with U.S. women's basketball</a> NPR: Many WNBA players head overseas to play during the off-season, where they can be paid much more than they earn in the U.S. Griner, who was arrested for allegedly transporting drugs, is one of them. 
+ <p class="updated_time"> 02:55 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/article/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
+ <p class="updated_time"> 02:55 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/dc-truck-convoy-protest.html">Truckers Protest Mandates on D.S. Beltway for a Second Day</a> NYT: Organizers of a convoy of vehicles protesting mask and vaccine mandates said they would drive another lap around the Beltway on Monday but did not intend to enter the capital. 
+ <p class="updated_time"> 02:43 PM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60645236?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Five times Russians have stood up for Ukraine</a> BBC: Videos from social media show some Russian citizens, at home and abroad, protesting the war in Ukraine. 
+ <p class="updated_time"> 02:42 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
+ <p class="updated_time"> 02:42 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-ukraine-putin-media.html">With New Limits on Media, Putin Closes a Door on Russia’s ‘Openness’</a> NYT: The Russian leader is undoing the social freedoms introduced at the end of the Soviet Union, risking a return to total control and ideological isolation. 
+ <p class="updated_time"> 02:40 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/denmark-syrian-refugees.html">These Syrian Refugees Can't Stay in Denmark, but They Can't Go Home</a> NYT: Dozens of Syrian asylum seekers are stuck in limbo after the Danish authorities decided it was safe for them to go back home and stripped their residency permits. 
+ <p class="updated_time"> 02:33 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/florida-covid-vaccine-kids.html">Against C.D.C. Advice, Florida to Advise Against Covid Vaccines for Healthy Children</a> NYT: The C.D.C. has urged parents to get their eligible children vaccinated. “Covid-19 can make children very sick and cause children to be hospitalized,” the agency’s website says. 
+ <p class="updated_time"> 02:29 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html">A Quebec Restaurant Renames Poutine Dish as a Rebuke of Russia</a> NYT: Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products. 
  <p class="updated_time"> 01:48 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
  <p class="updated_time"> 01:45 PM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084963489/us-russia-is-trying-to-recruit-syrian-fighters-to-go-to-ukraine">US: Russia is trying to recruit Syrian fighters to go to Ukraine</a> NPR: The reported Russian effort to find Syrians with urban combat experience is the latest indication that Russia's invasion of Ukraine is not going as planned. 
+ <a href="https://www.npr.org/2022/03/07/1084963489/us-russia-is-trying-to-recruit-syrian-fighters-to-go-to-ukraine">Russia is trying to recruit Syrians to fight in Ukraine, U.S. official says</a> NPR: The reported Russian effort to find Syrians with urban combat experience is the latest indication that Russia's invasion of Ukraine is not going as planned. 
  <p class="updated_time"> 01:40 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638949?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl workers' 12-day ordeal under Russian guard</a> BBC: The nuclear power plant was seized on day one of Russia's invasion, and workers have not left since. 
  <p class="updated_time"> 01:10 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084967687/levis-jeans-suspends-operations-russia">Levi's halts sales in Russia, evoking Cold War scrambles for blue jeans</a> NPR: Levi's is suspending commercial operations in Russia, citing its aggression in Ukraine. The company's iconic blue jeans represented freedom and capitalism during the days of the Soviet Union. 
- <p class="updated_time"> 12:39 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-ukraine-putin-media.html">With New Limits on Media, Putin Closes a Door on Russia’s ‘Openness’</a> NYT: The Russian leader is undoing the social freedoms introduced at the end of the Soviet Union, risking a return to total control and ideological isolation. 
  <p class="updated_time"> 12:34 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/mykolaiv-ukraine-russia-battle.html">Ukrainians Repel Another Russian Assault on Mykolaiv, Officials Say</a> NYT: As the opposing armies fought outside the strategic port city near the Black Sea, residential areas within Mykolaiv came under intensifying Russian rocket and artillery fire. 
  <p class="updated_time"> 12:14 PM CT, Mar. 07 </p> 
@@ -42,12 +55,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/climate/amazon-rainforest-climate-change-deforestation.html">Amazon Rainforest May Be Approaching a Critical Tipping Point, Study Finds</a> NYT: The region is nearing a threshold beyond which its forests may be replaced by grasslands, with huge repercussions for biodiversity and climate change. 
  <p class="updated_time"> 10:59 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60644832?at_medium=RSS&at_campaign=KARANGA">Ivan Kuliak: Why has 'Z' become a Russian pro-war symbol?</a> BBC: In Russia, the 'Z' is fast becoming seen as a staunchly pro-war symbol - what does it mean? 
- <p class="updated_time"> 10:57 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html">A Quebec Restaurant Is Latest to Rename Food Item as Rebuke to Russia</a> NYT: Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products. 
  <p class="updated_time"> 10:48 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-60642786?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Petrol at fresh record as oil and gas prices soar</a> BBC: Investors fear a global economic shock, with rising fuel bills causing more pain for households. 
- <p class="updated_time"> 10:29 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/denmark-syrian-refugees.html">These Syrian Refugees Can't Stay in Denmark, but They Can't Go Home</a> NYT: Dozens of Syrian asylum seekers are stuck in limbo after the Danish authorities decided it was safe for them to go back home and stripped their residency permits. 
  <p class="updated_time"> 10:22 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60651801?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'It's hell, it's really hell' - Families flee bombs in Irpin</a> BBC: Silent and weeping, a stream of civilians with backpacks try to outpace the Russian shells. 
  <p class="updated_time"> 10:19 AM CT, Mar. 07 </p> 
@@ -58,6 +67,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/world/europe/icj-united-nations-ukraine-russia.html">Ukraine Takes its Case Against Russia to the UN's Highest Court</a> NYT: The head of the Ukrainian delegation told the court that “millions are in danger” and accused Moscow of defiling the Genocide Convention. 
  <p class="updated_time"> 09:21 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-putin-hate.html">Hate for Putin’s Russia Consumes Ukraine</a> NYT: Much of the bitterness is directed at President Vladimir V. Putin, but Ukrainians also chastise ordinary Russians, calling them complicit. 
+ <p class="updated_time"> 08:43 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/israel-says-iran-tried-to-fly-arms-to-hamas-using-drones-11646682200">Israel Says Iran Tried to Fly Arms to Hamas Using Drones</a> WSJ: Israel says it shot down two long-range drones launched from Iran last year. The details come as the U.S. and its allies try to revive a 2015 nuclear deal with Iran. 
  <p class="updated_time"> 07:27 AM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/in-ukraine-world-war-ii-memories-echo-as-russia-attacks-its-cities-11646677679">In Ukraine, World War II Memories Echo as Russia Attacks Its Cities</a> WSJ: Zelensky uses Soviet-era terms to extol bravery as Ukraine faces an assault unlike any in Europe since the 1940s. 
  <p class="updated_time"> 07:27 AM CT, Mar. 07 </p> 
@@ -150,10 +161,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-poland-families-separation.html">‘Falling Into Emptiness’: Ukrainian Families Feel the Pain of Separation</a> NYT: With most Ukrainian men legally prohibited from leaving Ukraine, the international border gates serve as a painful filter, splitting families as women and children move on. 
  <p class="updated_time"> 09:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
- <p class="updated_time"> 09:31 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/article/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
- <p class="updated_time"> 07:46 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/sports/basketball/russia-brittney-griner.html">WNBA Center Brittney Griner Is Detained in Russia</a> NYT: Russian customs officials said a U.S. basketball player had vape cartridges containing hashish oil in her luggage. A Russian news agency identified the player as Griner. 
  <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/03/06/1083769798/russias-war-on-ukraine-is-dire-for-world-hunger-but-there-are-solutions">Russia's war on Ukraine is dire for world hunger. But there are solutions</a> NPR: Both countries are huge suppliers of grains and other essential foods. And with widespread hunger and high food prices already, the war couldn't have come at a worse time. 
  <p class="updated_time"> 07:23 AM CT, Mar. 06 </p> 
@@ -164,10 +171,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 07:11 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800756/gabriel-boric-will-be-chiles-youngest-president-and-the-most-left-in-decades">Gabriel Boric will be Chile's youngest president, and the most left in decades</a> NPR: Adrian Florido speaks with Chilean journalist Francisca Skoknic about Chile's new president, Gabriel Boric, who will take power on Friday. 
- <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084800742/relationships-across-the-ukraine-russia-border-feel-the-strain-of-war">Relationships across the Ukraine-Russia border feel the strain of war</a> NPR: Russia's attack on Ukraine has splintered personal relationships. Ukrainians are angry with family and friends who live in Russia, wrestling with just how average Russians could support the war. 
- <p class="updated_time"> 06:20 AM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60637845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents run from Russian shelling in Irpin, near Kyiv</a> BBC: People are seen dropping to the ground as the town, just outside Kyiv, is attacked again. 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
@@ -194,8 +197,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-ukraine-invasion-sanctions.html">How the West Marshaled a Stunning Show of Unity Against Russia</a> NYT: In a few frantic days, the West threw out the playbook it used for decades against the Kremlin and isolated Russia with unparalleled sanctions and penalties. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
- <p class="updated_time"> 08:37 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">A Welcome Steeped in History: Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
  <p class="updated_time"> 07:09 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60613331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The TikToker spreading viral videos</a> BBC: A Ukrainian 20-year-old has had tens of millions of views on videos she's shared of fighting there. 
 
@@ -205,6 +206,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:22 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/saudi-arabia-911-hijacker.html">9/11 Suspect Is Returned to Saudi Arabia for Mental Health Care</a> NYT: Mohammed al-Qahtani had spent 20 years at Guantánamo Bay, where he was tortured so badly that he was ineligible to be tried at the war crimes court. 
  <p class="updated_time"> 02:00 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/florida-surgeon-general-covid-vaccines-00014702">Florida's controversial surgeon general recommends against Covid-19 vaccination for kids</a> Politico: Surgeon General Joseph A. Ladapo has been an outspoken critic of pandemic-era safety measures such as quarantines, wearing face masks and vaccines. 
  <p class="updated_time"> 01:54 PM CT, Mar. 07 </p> 
@@ -321,8 +324,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/05/russian-plane-due-to-land-in-dc-soon-to-pick-up-expelled-spies-00014418">Russian plane leaves U.S. with expelled ‘spies’</a> Politico: With airspace closed to Russian aircraft, Moscow sent a diplomatic jet to Dulles to grab officials kicked out of the U.S. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/05/zelenskyy-presses-u-s-senators-as-ceasefire-collapses-00014415"> Zelenskyy presses U.S. senators as ceasefire collapses</a> Politico Playbook: And Russia clamps down on free speech. 
- <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/nato-ukraine-russia-cluster-bombs.html">NATO Accuses Russia of Using Cluster Bombs in Ukraine</a> NYT: Officials made the accusation Friday as part of a display of a unified front in support of Ukraine, but rejected a plea from Kyiv to impose a no-fly zone over its airspace. 
  <p class="updated_time"> 07:59 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729600/secretary-of-state-blinken-visits-poland-to-discuss-further-assistance-to-ukrain">Secretary of State Blinken visits Poland to discuss further assistance to Ukraine</a> NPR: Secretary of State Anthony Blinken is visiting Poland as Russia continues its assault on neighboring Ukraine. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
@@ -387,8 +388,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
- <p class="updated_time"> 02:56 PM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
 
 
 </details>
