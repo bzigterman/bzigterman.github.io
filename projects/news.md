@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:24 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 02:04 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Zelensky Warns of New Wave of Russian Attacks</a> NYT: The Russian invasion is taking an increasing toll on civilians. The two sides are expected to meet for a third round of talks on Monday. Russian police detained thousands of protesters over the weekend. 
+ <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Angry Zelensky vows to punish Russian atrocities</a> BBC: The Ukrainian president says the country will not forgive or forget those who murder its civilians. 
  <p class="updated_time"> 01:19 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084869382/death-toll-nears-6-million-as-pandemic-enters-its-3rd-year">Death toll nears 6 million as pandemic enters its 3rd year</a> NPR: Health care experts say that confirmed deaths represent a fraction of the true number of deaths due to COVID because of limited testing. 
  <p class="updated_time"> 10:48 PM CT, Mar. 06 </p> 
@@ -58,8 +60,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/article/what-is-nato.html">What Is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
  <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
- <p class="updated_time"> 01:39 PM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russia has attacked schools and hospitals, says deputy PM</a> BBC: Meanwhile, the UN says more than 1.5m people have now fled Ukraine since Russia invaded on 24 February. 
  <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 01:00 PM CT, Mar. 06 </p> 
