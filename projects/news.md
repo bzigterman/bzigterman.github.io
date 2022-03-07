@@ -8,12 +8,26 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:35 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv as Ukrainian forces battled to keep control. Russian and Ukrainian representatives were expected to meet for a third round of talks. 
+ <p class="updated_time"> 12:34 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
+ <p class="updated_time"> 12:34 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/mykolaiv-ukraine-russia-battle.html">Ukrainians Repel Another Russian Assault on Mykolaiv, Officials Say</a> NYT: As the opposing armies fought outside the strategic port city near the Black Sea, residential areas within Mykolaiv came under intensifying Russian rocket and artillery fire. 
+ <p class="updated_time"> 12:22 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
+ <p class="updated_time"> 12:14 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/asia/putin-ukraine-china-xi.html">Xi and Putin’s 'No Limits' Bond Leaves China Few Options on Ukraine</a> NYT: Beijing aligned itself with Putin as Russia prepared to invade Ukraine. Now its efforts to edge away are constrained by leadership politics. 
+ <p class="updated_time"> 12:13 PM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60621254?at_medium=RSS&at_campaign=KARANGA">Family separated by war in Ukraine finally reunited</a> BBC: Rita and her children were trapped in Ukraine when Russia invaded. After spending a week in their basement, they've finally been reunited with Rita's husband and their father Andy. 
+ <p class="updated_time"> 12:09 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084902080/ukraine-russia-united-states-world-war-3-poland">We're trying everything to avoid WWIII, acting U.S. ambassador to Ukraine says</a> NPR: As Russia continues its invasion of Ukraine, NATO forces are building in border countries in an effort to contain the conflict and prevent a wider war, according to the U.S. ambassador to Ukraine. 
+ <p class="updated_time"> 12:01 PM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60650555?at_medium=RSS&at_campaign=KARANGA">Uganda: Gulu pupil shot dead in school protests over Manchester derby TV ban</a> BBC: Security forces fire live bullets to disperse angry students who wanted to watch the Manchester derby. 
+ <p class="updated_time"> 11:55 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60649214?at_medium=RSS&at_campaign=KARANGA">McDonald's and Coca-Cola boycott calls grow over Russia</a> BBC: Food and drink giants have been criticised on social media for failing to speak out on Ukraine's invasion. 
+ <p class="updated_time"> 11:54 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/iaea-nuclear-plants-ukraine.html">IAEA Says an Agreement Over Nuclear Power Plants in Ukraine Is Urgently Needed</a> NYT: There has been no release of radiation, but problems have arisen at plants, said Rafael Mariano Grossi, the head of the International Atomic Energy Agency. 
  <p class="updated_time"> 11:15 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/queen-elizabeth-trudeau.html">Queen Elizabeth Welcomes Justin Trudeau in Meeting After Having Had Covid</a> NYT: The queen received Prime Minister Justin Trudeau of Canada at Windsor Castle on Monday. 
- <p class="updated_time"> 11:14 AM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60648263?at_medium=RSS&at_campaign=KARANGA">Ed Sheeran denies Shape of You copyright claim at High Court trial</a> BBC: The pop singer is accused by two songwriters of copying parts of his 2017 hit Shape Of You. 
  <p class="updated_time"> 11:04 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/climate/amazon-rainforest-climate-change-deforestation.html">Amazon Rainforest May Be Approaching a Critical Tipping Point, Study Finds</a> NYT: The region is nearing a threshold beyond which its forests may be replaced by grasslands, with huge repercussions for biodiversity and climate change. 
  <p class="updated_time"> 10:59 AM CT, Mar. 07 </p> 
@@ -32,26 +46,22 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
  <p class="updated_time"> 09:58 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/icj-united-nations-ukraine-russia.html">Ukraine Takes its Case Against Russia to the UN's Highest Court</a> NYT: The head of the Ukrainian delegation told the court that “millions are in danger” and accused Moscow of defiling the Genocide Convention. 
- <p class="updated_time"> 09:45 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/iaea-nuclear-plants-ukraine.html">IAEA Says an Agreement Over Nuclear Power Plants in Ukraine Is Urgently Needed</a> NYT: There has been no release of radiation, but problems have arisen at plants, said Rafael Mariano Grossi, the head of the International Atomic Energy Agency. 
  <p class="updated_time"> 09:21 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-putin-hate.html">Hate for Putin’s Russia Consumes Ukraine</a> NYT: Much of the bitterness is directed at President Vladimir V. Putin, but Ukrainians also chastise ordinary Russians, calling them complicit. 
- <p class="updated_time"> 06:38 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 07:27 AM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ukraine says Russian ceasefire offer "immoral"</a> BBC: Russia says it will offer civilians an evacuation route, but only to territory in Russia and Belarus. 
+ <p class="updated_time"> 06:23 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/blinken-says-nato-considering-more-permanent-troops-in-baltics-11646658623">Blinken Says NATO Is Considering More Permanent Troops in Baltics</a> WSJ: NATO is considering more permanently keeping troops in the Baltic region, Secretary of State Antony Blinken said—the clearest sign that Russia’s invasion of Ukraine is causing Washington and the alliance to rethink their plans to base troops in Eastern Europe. 
  <p class="updated_time"> 06:21 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/article/what-is-nato.html">What Is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
- <p class="updated_time"> 05:48 AM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60571616?at_medium=RSS&at_campaign=KARANGA">In pictures: 'Magical bowls' among relics seized in Jerusalem</a> BBC: Pottery adorned with "spells", ancient ivory and hundreds of coins are found in a raid in Jerusalem. 
  <p class="updated_time"> 05:26 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60645939?at_medium=RSS&at_campaign=KARANGA">Shane Warne: Australian cricket legend died from natural causes - police</a> BBC: Thai police say there's no sign of foul play in the cricketer's death while on holiday on Koh Samui. 
  <p class="updated_time"> 05:08 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/bari-italy-russia-ukraine.html">Italian City Tied to Russia by a Revered Saint Feels the Sting of War in Ukraine</a> NYT: The port of Bari holds relics venerated by Orthodox Christians throughout the former Soviet bloc. Today it is also home to a spillover of tensions from Russia’s invasion. 
  <p class="updated_time"> 04:53 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60645126?at_medium=RSS&at_campaign=KARANGA">Chaos and tears as thousands try to catch a train out of Ukraine</a> BBC: At the central train station in Lviv, many thousands arrive after fleeing bombed out cities further east. 
- <p class="updated_time"> 04:41 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/asia/putin-ukraine-china-xi.html">Xi and Putin’s 'No Limits' Bond Leaves China Few Options on Ukraine</a> NYT: Beijing aligned itself with Putin as Russia prepared to invade Ukraine. Now its efforts to edge away are constrained by leadership politics. 
  <p class="updated_time"> 04:33 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/no-fly-zone-ukraine-congress.html">Rubio, U.S. Lawmakers Are Largely Opposed to No-Fly Zone Over Ukraine</a> NYT: Members of both parties said such a move would risk drawing the United States into a conflict with Russia, another nuclear power. 
  <p class="updated_time"> 04:14 AM CT, Mar. 07 </p> 
@@ -84,8 +94,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/chinas-export-boom-eases-raising-pressure-for-stimulus-11646646308">China's Export Boom Eases, Raising Pressure for Stimulus</a> WSJ: Policy makers are facing the tough task of hitting an ambitious growth target. 
  <p class="updated_time"> 10:08 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-beats-russia-mykolaiv.html">Proud Band of Ukrainian Troops Holds Russian Assault at Bay — for Now</a> NYT: “Few expected such strength from our people,” said a Ukrainian colonel whose soldiers have repelled a Russian attack on the port city of Mykolaiv for three days. 
- <p class="updated_time"> 09:36 PM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/chinese-tech-firms-weigh-opportunities-in-russia-after-western-pullout-11646642178">Chinese Tech Firms Weigh Opportunities in Russia After Western Pullout</a> WSJ: As Western tech companies halt sales to Russia following its invasion of Ukraine, their Chinese rivals have an opportunity to capitalize on their departure—but it won’t be easy. 
  <p class="updated_time"> 09:08 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukrainian-family-killed-war.html">Ukrainian Family’s Dash for Safety Ends in Death</a> NYT: Russian forces hit a bridge being used by civilians evacuating the fighting in Ukraine. Four people were killed. 
  <p class="updated_time"> 06:49 PM CT, Mar. 06 </p> 
@@ -154,16 +162,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084800735/ukrainian-president-asks-congress-members-to-back-no-fly-zone-sanction-russian-o">Ukrainian president asks Congress members to back no-fly zone, sanction Russian oil</a> NPR: Adrian Florido speaks with Congressman Jim Himes about Ukrainian President Volodomyr Zelensky's video call with U.S. Congress members about the Russian invasion of his country. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800707/some-russians-in-the-u-s-fear-sanctions-impact-on-family-back-home">Some Russians in the U.S. fear sanctions' impact on family back home</a> NPR: Many Russian immigrants in the U.S. express solidarity with Ukraine while worrying about how the tough sanctions on Russia will affect their loved ones back home. 
- <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084800686/some-countries-are-choosing-to-maintain-their-ties-with-russia">Some countries are choosing to maintain their ties with Russia</a> NPR: While most countries have opposed Russia's invasion of Ukraine, many others are keeping their Russia ties intact. Their reasons range from practical matters — such as trade — to ideological. 
  <p class="updated_time"> 06:20 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents run from Russian shelling in Irpin, near Kyiv</a> BBC: People are seen dropping to the ground as the town, just outside Kyiv, is attacked again. 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
- <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
  <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
@@ -190,10 +194,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">A Welcome Steeped in History: Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/aeroflot-russia-international-flights-suspended.html">Aeroflot, Russia's State Airline, Says it Will Suspend International Flights</a> NYT: Russia’s airline industry has been hit hard as countries around the world have imposed sanctions on the country for its invasion of Ukraine. 
- <p class="updated_time"> 05:51 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
- <p class="updated_time"> 04:18 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/asia/auroville-india.html">Build a New City or New Humans? A Utopia in India Fights Over Future.</a> NYT: Backed by Prime Minister Narendra Modi, the new leadership of Auroville, an experimental commune, wants to create a model city. In the way stand trees, tree houses and a take-it-slow tradition. 
  <p class="updated_time"> 03:23 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
  <p class="updated_time"> 07:09 PM CT, Mar. 04 </p> 
@@ -205,6 +205,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/congress-russia-trade-penalties-00014675">Congress takes aim at Russia with trade penalties</a> Politico: The bipartisan effort would allow President Joe Biden to increase tariffs on products from Russia and Belarus, which would also see normal trade relations halted by the bill. 
  <p class="updated_time"> 12:00 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/white-house-investment-rules-china-00014496">White House split delays plans for investment controls on China</a> Politico: National security officials want an executive order limiting American banks’ ability to invest in Chinese technology firms, but the Treasury and Commerce Departments are pushing back. 
  <p class="updated_time"> 11:45 AM CT, Mar. 07 </p> 
@@ -341,8 +343,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/04/when-mtg-tells-you-to-dial-it-down-00014136">When MTG tells you to dial it down…</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/04/can-a-wider-war-be-prevented-00014127"> Can a wider war be prevented?</a> Politico Playbook: And Donald Trump warms to Eric Greitens in Missouri. 
- <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
