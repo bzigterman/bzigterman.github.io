@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:47 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 08:22 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of Renewed Russian Attacks in Ukraine</a> NYT: Ukrainian forces were fighting to retain control of the southern city of Mykolaiv, where Russian artillery strikes hit residential areas. Russian and Ukrainian representatives were expected to meet for a third round of talks. 
+ <p class="updated_time"> 08:05 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ukraine says Russian ceasefire offer "immoral"</a> BBC: Russia says it will offer civilians an evacuation route, but only to territory in Russia and Belarus. 
  <p class="updated_time"> 06:21 AM CT, Mar. 07 </p> 
@@ -21,7 +23,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 05:08 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/bari-italy-russia-ukraine.html">Italian City Tied to Russia by a Revered Saint Feels the Sting of War in Ukraine</a> NYT: The port of Bari holds relics venerated by Orthodox Christians throughout the former Soviet bloc. Today it is also home to a spillover of tensions from Russia’s invasion. 
  <p class="updated_time"> 04:53 AM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60645126?at_medium=RSS&at_campaign=KARANGA">A western Ukrainian city becomes a waypoint for thousands on the move</a> BBC: At the central train station in Lviv, many thousands arrive after fleeing bombed out cities further east. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60645126?at_medium=RSS&at_campaign=KARANGA">Chaos and tears as thousands try to catch a train out of Ukraine</a> BBC: At the central train station in Lviv, many thousands arrive after fleeing bombed out cities further east. 
  <p class="updated_time"> 04:41 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/asia/putin-ukraine-china-xi.html">Xi and Putin’s 'No Limits' Bond Leaves China Few Options on Ukraine</a> NYT: Beijing aligned itself with Putin as Russia prepared to invade Ukraine. Now its efforts to edge away are constrained by leadership politics. 
  <p class="updated_time"> 04:33 AM CT, Mar. 07 </p> 
@@ -172,8 +174,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/travel/airline-miles-credit-card.html">The Best Time to Use Your Airline Points and Miles</a> NYT: If you’re thinking of traveling and you’ve got points or miles sitting in airline and credit card accounts, the time to cash in may have arrived. Here’s what you need to know. 
  <p class="updated_time"> 03:59 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-food-ukraine.html">Fast-Food Chains Stay Open in Russia, Mostly Quiet About Ukraine</a> NYT: Many fast-food chains are facing growing pressure on social media platforms and from large investors to halt operations in Russia. 
- <p class="updated_time"> 02:23 PM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/kherson-protests-ukraine.html">Ukrainian Protesters Take to the Streets in Occupied Kherson</a> NYT: Kherson was the first major city to fall to Russian forces and the protests are presenting a challenge to the new authority. 
  <p class="updated_time"> 12:10 PM CT, Mar. 05 </p> 
@@ -213,6 +213,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:06 AM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/democrats-party-line-domestic-agenda-00014579">Dems to take first step toward reviving party-line domestic agenda</a> Politico: Senate Majority Leader Chuck Schumer announced hearings on proposals to deal with inflation, as well as another hearing on prescription drug prices. 
  <p class="updated_time"> 08:00 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/russia-war-ukraine-anti-corruption-00014532">Putin’s war in Ukraine boosts anti-corruption crusaders</a> Politico: Activists are basking in the surge of support for sanctioning oligarchs close to Putin, but they say Washington needs more tools to clamp down. 
  <p class="updated_time"> 07:46 AM CT, Mar. 07 </p> 
@@ -273,8 +275,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/06/blinken-russian-oil-ban-00014441">Blinken says White House discussing prospect of a Russian oil ban as pleas increase</a> Politico: He said he spoke with the president and other Cabinet officials on “exactly this subject” the day prior. 
  <p class="updated_time"> 10:58 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/gallery/2022/03/06/photos-refugees-from-ukraine-00014430">Photos: Refugees from Ukraine</a> Politico: Russia's invasion of Ukraine has led to a massive displacement of the population of Ukraine, with civilians fleeing the devastating impact of the attack in numbers not seen in Europe in the 21st century. 
- <p class="updated_time"> 10:26 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/ukraine-no-fly-zone-00014437">West resists Ukrainian calls for a no-fly zone, but warms to other requests</a> Politico: American and European leaders have been resistant to a no-fly zone, arguing that it would unleash a wider war. 
  <p class="updated_time"> 10:09 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/kyiv-mayor-klitschko-russia-00014436">Kyiv's mayor: 'We defend our city, our houses, our families'</a> Politico: Vitaly Klitschko said his people were patriotic and defiant but still needed international help. 
  <p class="updated_time"> 08:02 AM CT, Mar. 06 </p> 
@@ -313,8 +313,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084729523/rioters-plea-guilty-this-week-as-jan-6-panel-alleges-trump-broke-the-law">Rioters plea guilty this week as Jan. 6 panel alleges Trump broke the law</a> NPR: Scott Simon speaks with independent journalist Marcy Wheeler, who covers national security, about the latest developments in the Jan. 6 insurrection trial. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729516/week-in-politics-biden-leads-nato-in-denouncing-russias-invasion-of-ukraine">Week in politics: Biden leads NATO in denouncing Russia's invasion of Ukraine</a> NPR: President Biden succeeded in unifying NATO's response to Russia's invasion of Ukraine, which may give him more credibility to pursue his domestic agenda. 
- <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
- <a href="https://www.politico.com/news/2022/03/05/new-jersey-drivers-pump-gas-00014339">New Jersey drivers may have to learn to pump their own gas</a> Politico: New Jersey is the only state that requires fuel station employees to operate the pumps and prohibits consumers from doing so. Now the industry is pushing to repeal the law amid worker shortages and spiking oil prices. 
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 05 </p> 
@@ -349,8 +347,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
  <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
- <p class="updated_time"> 02:48 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/uc-berkeley-will-be-forced-to-slash-enrollment-under-state-supreme-court-ruling-00013923">UC Berkeley prepares to slash enrollment after California Supreme Court ruling</a> Politico: The court's decision to reject UC Berkeley’s application for a stay in the case means the school will likely need to shrink its student population before the fall semester begins. 
  <p class="updated_time"> 02:08 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
@@ -387,8 +383,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
  <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/marco-rubio-tweeting-russia-ukraine-war-00012951">Marco Rubio is tweeting through the Russia-Ukraine war — for a reason</a> Politico: The Senate intelligence committee's top Republican is sharing a lot of what he knows about Putin. He wants to reassure you none of it is classified. 
- <p class="updated_time"> 04:30 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/new-york-noncitizen-voting-00012970">New York is about to let noncitizens vote. It could reshape local politics forever.</a> Politico: About 800,000 green card holders and others authorized to work in the country will become eligible to vote for mayor, City Council and other local offices. 
  <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
  <p class="updated_time"> 10:45 PM CT, Mar. 01 </p> 
