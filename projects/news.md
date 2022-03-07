@@ -8,7 +8,25 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:17 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/kotchakorn-voraakhom-architect-climate-change.html">For Kotchakorn Voraakhom, Water and Landscape Do Mix</a> NYT: With climate change bringing harsher rains and rising waters, Kotchakorn Voraakhom designs landscapes to alleviate flooding and add greenery. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/italian-city-tied-to-russia-by-a-revered-saint-feels-the-sting-of-war-in-ukraine.html">Italian City Tied to Russia by a Revered Saint Feels the Sting of War in Ukraine</a> NYT: The port of Bari holds relics venerated by Orthodox Christians throughout the former Soviet bloc. Today it is also home to a spillover of tensions from Russia’s invasion. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/rumiko-seya-reals-afghanistan.html">Rumiko Seya, REALs' President, Expands the Aid Group's Focus to Include Afghanistan</a> NYT: Rumiko Seya, president of REALs, is working to rescue women and families, including from Afghanistan, who had dreams before “it turned to darkness in one night.” 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/nathalie-becquart-synod-of-bishops.html">The Nun Reshaping the Role of Women Inside the Vatican</a> NYT: Sister Nathalie Becquart will play a prominent role at the Synod of Bishops next year as Pope Francis tries to encourage new voices in the hierarchy. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/zoya-svetova-russian-journalist.html">The Russian Journalist Zoya Svetova Continues Her Family's Dissident Past</a> NYT: Four generations of Zoya Svetova’s family have stood up to repression. The invasion of Ukraine has shaken them but also given them reasons for hope. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/nadia-calvino-spain.html">Nadia Calviño, a Top Spanish Official, Wants More Women at the Decision-Making Table</a> NYT: Many of Spain’s leaders are female — evidence, Nadia Calviño says, of the “feminist society” that has emerged in her nation. 
+ <p class="updated_time"> 03:57 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60645939?at_medium=RSS&at_campaign=KARANGA">Shane Warne: Australian cricket legend died from natural causes - police</a> BBC: Thai police say there's no sign of foul play in the cricketer's death while on holiday on Koh Samui. 
+ <p class="updated_time"> 03:55 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
+ <p class="updated_time"> 03:54 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
+ <p class="updated_time"> 03:52 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Zelensky Warns of New Wave of Russian Attacks</a> NYT: The Russian invasion is taking an increasing toll on civilians. The two sides are expected to meet for a third round of talks on Monday. Russian police detained thousands of protesters over the weekend. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Blinken says U.S. working to release Americans detained in Russia</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
@@ -20,6 +38,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084869382/death-toll-nears-6-million-as-pandemic-enters-its-3rd-year">Death toll nears 6 million as pandemic enters its 3rd year</a> NPR: Health care experts say that confirmed deaths represent a fraction of the true number of deaths due to COVID because of limited testing. 
  <p class="updated_time"> 10:48 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60637980?at_medium=RSS&at_campaign=KARANGA">Ukraine: India doctor stranded with a jaguar and panther</a> BBC: Girikumar Patil, who bought two big cats, said he will not leave home without his pets. 
+ <p class="updated_time"> 10:37 PM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
+ <p class="updated_time"> 10:23 PM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/australia-plans-new-submarine-base-that-can-host-u-s-vessels-11646644982">Australia Plans New Submarine Base That Can Host U.S. Vessels</a> WSJ: The planned naval base could offer maintenance to American nuclear submarines, increasing the capabilities of both countries in countering China in the Indo-Pacific region. 
  <p class="updated_time"> 10:08 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-beats-russia-mykolaiv.html">Proud Band of Ukrainian Troops Holds Russian Assault at Bay — for Now</a> NYT: “Few expected such strength from our people,” said a Ukrainian colonel whose soldiers have repelled a Russian attack on the port city of Mykolaiv for three days. 
  <p class="updated_time"> 09:08 PM CT, Mar. 06 </p> 
@@ -40,16 +62,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60641217?at_medium=RSS&at_campaign=KARANGA">Ukraine: With placards and tears, Poles are greeting refugees like family</a> BBC: A Polish couple, messaged from Taiwan, have come to meet a Ukrainian refugee - welcome to Przemysl. 
  <p class="updated_time"> 05:23 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60640204?at_medium=RSS&at_campaign=KARANGA">Protests across Russia see thousands detained</a> BBC: People have been held in 53 cities, from St Petersburg in the west to Vladivostok in the east. 
- <p class="updated_time"> 05:18 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
  <p class="updated_time"> 04:49 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641873?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Taking cover in a town under attack</a> BBC: Jeremy Bowen was on the frontline in Irpin, as residents came under Russian fire while trying to flee. 
  <p class="updated_time"> 04:47 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-irpin-civilian-death.html">At Least 4 Civilians Killed in Shelling by Russian Forces Near Kyiv</a> NYT: The attack in Irpin, west of the capital, suggested either direct targeting of evacuees or disregard for the risk of civilian casualties. 
  <p class="updated_time"> 04:06 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed About Putin, Russian Conductor Quits Bolshoi and French Posts</a> NYT: The Bolshoi music director, Tugan Sokhiev, said he was “asked to choose one cultural tradition” over another and denounce President Putin for invading Ukraine. 
- <p class="updated_time"> 03:45 PM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330">Ukraine Faces Fresh Wave of Attacks Focused on Population Centers</a> WSJ: Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the country’s second-largest city, Kharkiv, and killing dozens of civilians. 
  <p class="updated_time"> 03:12 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 02:47 PM CT, Mar. 06 </p> 
@@ -128,8 +146,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
  <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
- <p class="updated_time"> 12:33 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084794295/putin-says-ukraines-future-is-in-doubt-as-cease-fires-collapse">Putin says Ukraine's future is in doubt as cease-fires collapse</a> NPR: Vladimir Putin warned Saturday that Ukrainian statehood is in jeopardy and likened the West's sanctions on Russia to "declaring war" as Russian troops continued to shell encircled cities 
  <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/us/politics/russia-ukraine-succession-zelensky.html">Allies Focus on Security of Zelensky and Other Ukraine Leaders</a> NYT: Concerns about the line of succession were prompted in part because President Volodymyr Zelensky insists he will not be evacuated. 
  <p class="updated_time"> 09:33 PM CT, Mar. 05 </p> 
@@ -162,8 +178,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60631433?at_medium=RSS&at_campaign=KARANGA">From Grozny to Aleppo to Ukraine, Russia meets resistance with more firepower</a> BBC: Russia answers resistance with big guns and sieges. Ukrainians pray that will not happen to them, writes the BBC's Jeremy Bowen in Kyiv. 
  <p class="updated_time"> 10:21 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/middleeast/pakistan-peshawar-suicide-bomber.html">Pakistan Identifies Peshawar Suicide Bomber and Network, Police Say</a> NYT: The attack at a Shiite mosque, claimed by an ISIS affiliate, killed at least 63 people and left nearly 200 wounded. 
- <p class="updated_time"> 09:06 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/aclu-ice-covid-vaccine-booster.html">A.C.L.U. Lawsuit Accuses ICE Jailers of Denying Detainees Vaccines</a> NYT: One of the plaintiffs is Anna Sorokin, a Russian immigrant who for several years presented herself as a German heiress named Anna Delvey. She received a booster shot on Thursday, two days after the suit was filed. 
  <p class="updated_time"> 08:37 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-refugees-germany.html">A Welcome Steeped in History: Ukrainian Refugees Arrive in Germany</a> NYT: Berlin has become a major hub for refugees from Ukraine, welcoming them with an outpouring of help. The response stirs memories of both bright and dark chapters of German history. 
  <p class="updated_time"> 07:51 AM CT, Mar. 05 </p> 
@@ -186,16 +200,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
  <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
- <p class="updated_time"> 09:33 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-kyiv-train-station.html">In Kyiv’s Railway Station, Rumors, Near-Stampedes and Frustration</a> NYT: As Russian forces begin to encircle the Ukrainian capital, tens of thousands are clambering for a way out that may soon be closed off. 
  <p class="updated_time"> 07:09 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60613331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The TikToker spreading viral videos</a> BBC: A Ukrainian 20-year-old has had tens of millions of views on videos she's shared of fighting there. 
- <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
- <p class="updated_time"> 04:04 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/fda-bharat-biotech-vaccine.html">FDA Rejects India-Made Bharat Biotech Vaccine For Those Under 18 </a> NYT: The vaccine, made by Bharat Biotech, is widely used in India. It has not been tested in the U.S., which has not authorized it for any age groups. 
  <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
 
@@ -205,10 +213,24 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/greene-gosar-mccarthy-white-nationalism-00014351">‘Pretty far down on the list’: Why Greene and Gosar are McCarthy's unsolvable problem</a> Politico: Even some Freedom Caucus colleagues fumed at their flirtation with white nationalism. But the House GOP's unlikely to do more against the conservative duo. 
+ <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084870804/in-selma-ala-kamala-harris-reflects-on-the-current-fight-for-voting-rights">In Selma, Ala., Kamala Harris reflects on the current fight for voting rights</a> NPR: Vice President Harris joined the march across the Edmund Pettus bridge on the 57th anniversary of Bloody Sunday, when Black voting rights activists were beaten by state troopers. 
+ <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084870769/morning-news-brief">Morning news brief</a> NPR: Russian forces are moving toward a third Ukrainian nuclear power plant. Russia's invasion of Ukraine has generated a refugee crisis. ex-Attorney General Barr defends his record in a new book. 
+ <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084510375/ag-bill-barr-book-trump-2024">Bill Barr won't back a 2024 Trump run, but doesn't quite condemn his former boss</a> NPR: Former Attorney General William Barr spoke with NPR about his new memoir, former President Trump's election lies, and why he thinks Trump shouldn't try to return to the White House. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084563882/many-parents-are-angry-over-covid-policies-they-could-be-key-to-gop-2022-gains">Many parents are angry over COVID policies. They could be key to GOP 2022 gains</a> NPR: Republicans believe COVID-19 policies largely backed by Democrats are causing a schism among parents of school-age children and that will help the GOP win elections this year up and down the ballot. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/alex-jones-jan-6-trump.html">Alex Jones and Donald Trump: A Fateful Alliance Draws Scrutiny</a> NYT: The Infowars host tormented Sandy Hook families and helped elect President Donald J. Trump. His role in the Jan. 6 Capitol attack is now of growing interest to congressional investigators. 
+ <p class="updated_time"> 03:58 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/joint-base-andrews-lockdown.html">Armed Intruder Prompts Lockdown at Joint Base Andrews as Vice President Lands</a> NYT: Vice President Kamala Harris, the second gentleman and four Cabinet members had just landed at the base when two people drove through a security checkpoint, the authorities said. 
+ <p class="updated_time"> 03:55 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Blinken says U.S. working to release Americans detained in Russia</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
- <p class="updated_time"> 11:44 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/joint-base-andrews-lockdown.html">Armed Intruder Prompts Lockdown at Joint Base Andrews as Vice President Lands</a> NYT: Vice President Kamala Harris, the second gentleman and four Cabinet members had just landed at the base when two people drove through a security checkpoint, the authorities said. 
  <p class="updated_time"> 08:43 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/ukraine-russia-shelling-residential-areas-00014513">Ukraine says Russia has stepped up shelling of residential areas</a> Politico: The attacks dashed hopes that more people could escape the fighting in Ukraine. 
  <p class="updated_time"> 07:48 PM CT, Mar. 06 </p> 
@@ -301,34 +323,20 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
  <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
- <p class="updated_time"> 04:53 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/supreme-court-death-sentence-boston-marathon-bomber.html">Supreme Court Restores Death Sentence for Boston Marathon Bomber</a> NYT: The Biden administration, which announced a moratorium on federal executions, has pursued the case against Dzhokhar Tsarnaev, who helped carry out the 2013 bombings. 
  <p class="updated_time"> 04:49 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/madison-cawthorn-north-carolina-insurrectionist.html">Judge Blocks Effort to Disqualify Cawthorn from Ballot as ‘Insurrectionist’</a> NYT: A district judge ruled that the Amnesty Act of 1872, which forgave confederates, overruled a clause in the 14th Amendment barring “insurrectionists” from Congress. 
- <p class="updated_time"> 04:11 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084484564/russia-ukraine-war-what-happened-today-march-4">Russia-Ukraine war: What happened today (March 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/lindsey-graham-putin-russia.html">Lindsey Graham Says of Putin: Someone in Russia Should ‘Take This Guy Out’</a> NYT: The comments drew sharp rebukes from other Republicans. 
  <p class="updated_time"> 03:40 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/psaki-shuts-down-lindsey-grahams-calls-to-assassinate-putin-00014337">White House says assassinating Putin is 'not the position' of the U.S. government</a> Politico: Lindsey Graham called for a Julius Caesar-style killing of Putin on Twitter late Thursday. 
- <p class="updated_time"> 03:33 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627242/hundreds-of-families-remain-separated-5-years-after-trumps-travel-ban">Hundreds of families remain separated 5 years after Trump's travel ban</a> NPR: President Biden reversed former President Trump's travel ban a year ago, but many families have yet to reunite. Naser Almuganahi, a U.S. citizen from Yemen, is still trying to get a visa for his wife. 
- <p class="updated_time"> 03:17 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084624868/the-white-house-says-its-considering-a-range-of-options-for-russian-oil-imports">The White House says it's considering a range of options for Russian oil imports</a> NPR: The White House emphasized the importance of maintaining a steady global energy supply amid Russia's war on Ukraine. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-sanctions-ukraine.html">With Sanctions, U.S. and Europe Aim to Punish Putin and Fuel Russian Unrest</a> NYT: The Biden administration and European officials are crushing the Russian economy and stirring mass anxiety to pressure President Vladimir V. Putin to end his war in Ukraine. 
- <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627187/u-s-lawmakers-are-using-the-ukraine-crisis-to-push-for-domestic-energy-productio">U.S. lawmakers are using the Ukraine crisis to push for domestic energy production</a> NPR: The U.S. oil and gas industry and its backers are seizing on the war in Ukraine to promote domestic energy production. Opponents say it makes more sense to ramp up renewable energy. 
- <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
- <a href="https://www.npr.org/2022/03/04/1084627173/republicans-are-looking-to-win-over-angry-parents-in-novembers-elections">Republicans are looking to win over angry parents in November's elections</a> NPR: Republicans believe COVID policies largely backed by Democrats are causing a schism among parents of school-age children — and that these "angry parents" will help the GOP win elections this year. 
  <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/04/when-mtg-tells-you-to-dial-it-down-00014136">When MTG tells you to dial it down…</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/04/can-a-wider-war-be-prevented-00014127"> Can a wider war be prevented?</a> Politico Playbook: And Donald Trump warms to Eric Greitens in Missouri. 
  <p class="updated_time"> 04:31 AM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/trump-greitens-endorsement-missouri-00014069">Trump’s McConnell obsession leads him toward Eric Greitens</a> Politico: The controversial former governor of Missouri met privately with Trump last week. 
- <p class="updated_time"> 08:17 PM CT, Mar. 03 </p> 
- <a href="https://www.nytimes.com/2022/03/03/us/politics/russia-ukraine-military.html">How Ukraine’s Military Has Resisted Russia So Far</a> NYT: Ukrainian troops have mounted a stiffer-than-expected opposition to a superior force in the early days of the war. But U.S. officials say it may not last. 
  <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
  <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
