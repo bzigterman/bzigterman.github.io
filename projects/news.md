@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:53 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 05:26 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-humanitarian-crisis-russia.html">Humanitarian Crisis Worsens for Ukrainians Trapped in Russia’s Onslaught</a> NYT: Two weeks after the invasion began, tens of thousands of Ukrainians are without food, water or power. The Russians are increasingly resorting to indiscriminate shelling to help their forces advance. 
+ <p class="updated_time"> 05:25 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices neared record highs. 
+ <p class="updated_time"> 05:25 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
- <p class="updated_time"> 04:46 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">White House Weighs Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices neared record highs. 
  <p class="updated_time"> 04:40 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-israel-moldova-jews.html">Once Victims in Southeast Europe, Jews Come to Aid Fleeing Ukrainians</a> NYT: Today, as in the early 1900s, Jews are once again escaping violence in southeast Europe. But the context is radically different — cathartically so for the many Israelis who have come here to join the relief effort. 
  <p class="updated_time"> 04:14 PM CT, Mar. 07 </p> 
@@ -77,7 +79,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60649214?at_medium=RSS&at_campaign=KARANGA">McDonald's and Coca-Cola boycott calls grow over Russia</a> BBC: Food and drink giants have been criticised on social media for failing to speak out on Ukraine's invasion. 
  <p class="updated_time"> 11:54 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/iaea-nuclear-plants-ukraine.html">IAEA Says an Agreement Over Nuclear Power Plants in Ukraine Is Urgently Needed</a> NYT: There has been no release of radiation, but problems have arisen at plants, said Rafael Mariano Grossi, the head of the International Atomic Energy Agency. 
- <p class="updated_time"> 11:29 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 11:54 AM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Ukrainian and Russian negotiators ended a third round of talks with little progress, while Ukraine’s military held fast along several fronts and Russia continued to shell cities and residential areas. 
  <p class="updated_time"> 11:15 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/queen-elizabeth-trudeau.html">Queen Elizabeth Welcomes Justin Trudeau in Meeting After Having Had Covid</a> NYT: The queen received Prime Minister Justin Trudeau of Canada at Windsor Castle on Monday. 
@@ -97,10 +99,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/world/europe/icj-united-nations-ukraine-russia.html">Ukraine Takes its Case Against Russia to the UN's Highest Court</a> NYT: The head of the Ukrainian delegation told the court that “millions are in danger” and accused Moscow of defiling the Genocide Convention. 
  <p class="updated_time"> 09:21 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-putin-hate.html">Hate for Putin’s Russia Consumes Ukraine</a> NYT: Much of the bitterness is directed at President Vladimir V. Putin, but Ukrainians also chastise ordinary Russians, calling them complicit. 
- <p class="updated_time"> 08:43 AM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/israel-says-iran-tried-to-fly-arms-to-hamas-using-drones-11646682200">Israel Says Iran Tried to Fly Arms to Hamas Using Drones</a> WSJ: Israel says it shot down two long-range drones launched from Iran last year. The details come as the U.S. and its allies try to revive a 2015 nuclear deal with Iran. 
- <p class="updated_time"> 07:27 AM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-world-war-ii-memories-echo-as-russia-attacks-its-cities-11646677679">Russian Invasion Revives World War II Memories for Ukraine</a> WSJ: Zelensky uses Soviet-era terms to extol bravery as Ukraine faces an assault unlike any in Europe since the 1940s. 
+ <p class="updated_time"> 09:14 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/global-economy-braces-for-impact-of-russias-war-on-ukraine-11646684060">Global Economy Braces for Impact of Russia's War on Ukraine</a> WSJ: Central banks are delaying or softening rate increases after relying on easy money to get through the Covid-19 pandemic. 
+ <p class="updated_time"> 09:10 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Ali Bagheri-Kani says he will return to the negotiations soon, but Western diplomats warn the talks could fail. 
  <p class="updated_time"> 06:51 AM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: The Russian government has been using the letter Z, first seen on Russian tanks in Ukraine, as a patriotic symbol to rally Russians around the war in Ukraine. 
  <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
@@ -181,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
  <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
- <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
  <p class="updated_time"> 07:53 PM CT, Mar. 05 </p> 
@@ -206,14 +206,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:19 PM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/judge-obstruction-charge-jan-6-defendant-00014843">Judge tosses obstruction charge against Jan. 6 defendant</a> Politico: The ruling takes a narrow view of statute. 
+ <p class="updated_time"> 05:35 PM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/news/2022/03/07/oil-industry-production-hikes-russia-00014778">U.S oil industry prepares to boost production — but with a giant warning</a> Politico: A jump in gasoline prices above $4 has oil companies eyeing crude oil output hikes, but pain at the pump will linger as shaky oil markets shun Russian cargoes. 
+ <p class="updated_time"> 05:25 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices neared record highs. 
+ <p class="updated_time"> 05:10 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1085022030/you-can-order-free-covid-tests-from-the-government-again">You can order free COVID tests from the government again</a> NPR: More than half of U.S. households have ordered at-home tests for COVID-19 tests to be shipped to their homes. Now they can get more. 
  <p class="updated_time"> 05:05 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/judge-jan-6-probe-rights-trampled-00014808">Judge: Massive scope of Jan. 6 probe led to rights being 'trampled'</a> Politico: Magistrate Judge Zia Faruqui decried delays in the case of a Texas man accused of assaulting police. 
- <p class="updated_time"> 04:46 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">White House Weighs Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices neared record highs. 
  <p class="updated_time"> 04:28 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/white-house-oil-deals-saudi-arabia-venezuela-iran-00014803">White House is pressed on potential oil deals with Saudi Arabia, Venezuela and Iran</a> Politico: Recent reports say President Joe Biden and European counterparts are discussing a ban on Russian oil imports to further punish President Vladimir Putin for the attack on Ukraine. 
  <p class="updated_time"> 04:22 PM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084681375/supreme-court-stays-out-of-election-law-for-now">Supreme Court stays out of election law, for now </a> NPR: In cases from North Carolina and Pennsylvania, the Republican state legislatures sought to block decisions issued by state supreme courts based on the respective state constitutions. 
+ <a href="https://www.npr.org/2022/03/07/1084681375/supreme-court-stays-out-of-election-law-for-now">Supreme Court stays out of key state rulings on partisan gerrymandering, for now </a> NPR: In cases from North Carolina and Pennsylvania, the Republican state legislatures sought to block decisions issued by state supreme courts based on the respective state constitutions. 
  <p class="updated_time"> 04:14 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 04:05 PM CT, Mar. 07 </p> 
@@ -286,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/06/politics/trump-manhattan-district-attorney-investigation/index.html">Prosecutors resigned after New York DA said he wasn't prepared to move forward with indictment of Trump</a> CNN: Two top prosecutors leading the criminal investigation into former President Donald Trump and his business resigned after the Manhattan district attorney said he was not prepared to authorize an indictment against the former President, a person familiar with the investigation said. 
  <p class="updated_time"> 07:48 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html">Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a Clandestine Cybercorps</a> NYT: The United States has walked to the edge of direct conflict with Russia in an operation that is reminiscent of the Berlin airlift of 1948-49, but far more complex. 
- <p class="updated_time"> 07:07 PM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/kamala-harris-selma-bloody-sunday-00014499">Harris marks ‘Bloody Sunday’ anniversary in Selma</a> Politico: She called the site hallowed ground on which people fought for the “most fundamental right of America citizenship." 
  <p class="updated_time"> 04:54 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084841664/kamala-harris-selma-bloody-sunday-voting">On 'Bloody Sunday,' Harris reflects on the current fight for voting rights</a> NPR: Vice President Kamala Harris visited Selma, Ala., to commemorate a defining moment in the struggle for the right to vote. 
  <p class="updated_time"> 04:17 PM CT, Mar. 06 </p> 
@@ -302,16 +306,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 11:31 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/blinken-russian-oil-ban-00014441">Blinken says White House discussing prospect of a Russian oil ban as pleas increase</a> Politico: He said he spoke with the president and other Cabinet officials on “exactly this subject” the day prior. 
- <p class="updated_time"> 10:58 AM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/gallery/2022/03/06/photos-refugees-from-ukraine-00014430">Photos: Refugees from Ukraine</a> Politico: Russia's invasion of Ukraine has led to a massive displacement of the population of Ukraine, with civilians fleeing the devastating impact of the attack in numbers not seen in Europe in the 21st century. 
  <p class="updated_time"> 07:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/sports/basketball/russia-brittney-griner.html">WNBA Center Brittney Griner Is Detained in Russia</a> NYT: Russian customs officials said a U.S. basketball player had vape cartridges containing hashish oil in her luggage. A Russian news agency identified the player as Griner. 
  <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/democratic-party-priority-save-governors-00014364">The Democratic Party’s emerging priority: Save the governors</a> Politico: From its operatives to its donor class, Dems fret what could happen if they lose critical battleground governor races this  fall. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800735/ukrainian-president-asks-congress-members-to-back-no-fly-zone-sanction-russian-o">Ukrainian president asks Congress members to back no-fly zone, sanction Russian oil</a> NPR: Adrian Florido speaks with Congressman Jim Himes about Ukrainian President Volodomyr Zelensky's video call with U.S. Congress members about the Russian invasion of his country. 
- <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084800700/politics-chat-state-republicans-set-agenda-with-reactive-bills-ahead-of-midterms">Politics chat: State Republicans set agenda with reactive bills ahead of midterms</a> NPR: We look at how Republican-controlled state legislatures are shaping their strategy ahead of the midterm elections, and how their Democratic counterparts are crafting their messaging. 
  <p class="updated_time"> 03:59 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/paxton-bush-primary-runoff.html">Indicted. Under F.B.I. Investigation. And Still Popular With Texas Republicans.</a> NYT: Ken Paxton, the Texas attorney general, earned the most votes in Tuesday’s G.O.P. primary. His embrace of Trumpism has helped him weather a series of allegations. 
  <p class="updated_time"> 02:00 AM CT, Mar. 06 </p> 
