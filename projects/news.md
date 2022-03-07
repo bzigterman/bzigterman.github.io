@@ -209,7 +209,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:34 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 11:44 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/joint-base-andrews-lockdown.html">Armed Intruder Prompts Lockdown at Joint Base Andrews as Vice President Lands</a> NYT: Vice President Kamala Harris, the second gentleman and four Cabinet members had just landed at the base when two people drove through a security checkpoint, the authorities said. 
  <p class="updated_time"> 08:43 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/ukraine-russia-shelling-residential-areas-00014513">Ukraine says Russia has stepped up shelling of residential areas</a> Politico: The attacks dashed hopes that more people could escape the fighting in Ukraine. 
