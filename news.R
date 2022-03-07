@@ -241,6 +241,7 @@ layout: page
 title: News Rivers
 permalink: /projects/news
 imageurl: https://bzigterman.com/plots/news.png
+webappicon: /plots/news.png
 ---
 
 <details open>
