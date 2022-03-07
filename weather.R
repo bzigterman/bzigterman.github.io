@@ -247,7 +247,7 @@ now_html <- paste("<p class=\"updated_time\"> Latest data: ",
                   "</p>",
                   sep = "")
 
-web_text <- paste(
+web_text <- paste0(
   "---
 layout: page
 title: Weather
@@ -285,9 +285,7 @@ Currently:
 
 <p class=\"updated_time\">Source: <a href=\"https://www.wpc.ncep.noaa.gov/wwd/wssi/wssi.php\">NOAA/NWS Weather Prediction Center</a>.</p> 
 
-",
-sep = ""
-)
+")
 
 write_lines(web_text,"projects/weather.md", append = FALSE)
 
