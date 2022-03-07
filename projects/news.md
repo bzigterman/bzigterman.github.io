@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:53 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 01:24 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Zelensky Warns of New Wave of Russian Attacks</a> NYT: The Russian invasion is taking an increasing toll on civilians. The two sides are expected to meet for a third round of talks on Monday. Russian police detained thousands of protesters over the weekend. 
+ <p class="updated_time"> 01:19 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084869382/death-toll-nears-6-million-as-pandemic-enters-its-3rd-year">Death toll nears 6 million as pandemic enters its 3rd year</a> NPR: Health care experts say that confirmed deaths represent a fraction of the true number of deaths due to COVID because of limited testing. 
  <p class="updated_time"> 10:48 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60637980?at_medium=RSS&at_campaign=KARANGA">Ukraine: India doctor stranded with a jaguar and panther</a> BBC: Girikumar Patil, who bought two big cats, said he will not leave home without his pets. 
  <p class="updated_time"> 10:08 PM CT, Mar. 06 </p> 
@@ -112,6 +114,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366">Russia's Military Chief Promised Quick Victory in Ukraine, but Now Faces a Potential Quagmire</a> WSJ: The close Putin ally modernized Russia’s forces, but those troops have run into ferocious Ukrainian resistance. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/the-cash-some-afghans-desperately-need-is-trapped-in-their-bank-accounts-11646578800">The Cash Some Afghans Need Is Trapped in Their Bank Accounts</a> WSJ: Withdrawing enough money to cover basic necessities can take weeks or months, as a currency crisis takes its toll throughout Afghanistan. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
  <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
@@ -146,8 +150,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084770677/russia-ukraine-war-what-happened-today-march-5">Russia-Ukraine war: What happened today (March 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:59 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/russia-food-ukraine.html">Fast-Food Chains Stay Open in Russia, Mostly Quiet About Ukraine</a> NYT: Many fast-food chains are facing growing pressure on social media platforms and from large investors to halt operations in Russia. 
- <p class="updated_time"> 03:51 PM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084772001/covid-19-cases-soar-in-new-zealand-in-dramatic-shift">COVID-19 cases soar in New Zealand, in dramatic shift</a> NPR: New Zealand was once heralded for its handling of COVID-19. But these days, infections are rising and the government is having to cope with unrest from anti-vaccination protesters. 
  <p class="updated_time"> 02:23 PM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 01:40 PM CT, Mar. 05 </p> 
