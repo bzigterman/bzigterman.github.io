@@ -8,14 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:47 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 11:07 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Ukraine Defends Key Port City as Russia Renews Attack</a> NYT: Russian police detain thousands at antiwar protests. Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted. An airport in western Ukraine also comes under attack. 
+ <p class="updated_time"> 10:48 PM CT, Mar. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60637980?at_medium=RSS&at_campaign=KARANGA">Ukraine: India doctor stranded with a jaguar and panther</a> BBC: Girikumar Patil, who also has a jaguar, says he will not leave Severodonetsk without his pets. 
+ <p class="updated_time"> 10:08 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-beats-russia-mykolaiv.html">Proud Band of Ukrainian Troops Holds Russian Assault at Bay — for Now</a> NYT: “Few expected such strength from our people,” said a Ukrainian colonel whose soldiers have repelled a Russian attack on the port city of Mykolaiv for three days. 
  <p class="updated_time"> 09:08 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukrainian-family-killed-war.html">Ukrainian Family’s Dash for Safety Ends in Death</a> NYT: Russian forces hit a bridge being used by civilians evacuating the fighting in Ukraine. Four people were killed. 
  <p class="updated_time"> 06:49 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/russia-ukraine-invasion.html">Russia Keeps Up Attack, Again Halting Evacuation of Ukrainian Port City</a> NYT: An encircled Mariupol faced intense shelling, while Russian forces kept up their slow advance on Ukraine’s capital, Kyiv. 
- <p class="updated_time"> 06:27 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-beats-russia-mykolaiv.html">Proud Band of Ukrainian Troops Holds Russian Assault at Bay — for Now</a> NYT: “Few expected such strength from our people,” said a Ukrainian colonel whose soldiers have repelled a Russian attack on the port city of Mykolaiv for three days. 
  <p class="updated_time"> 06:02 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60608222?at_medium=RSS&at_campaign=KARANGA">Twitter is part of our war effort - Ukraine minister</a> BBC: Ukraine's youngest cabinet minister, 31-year-old Mykhailo Fedorov, is leading a cyber-battle against Russia. 
  <p class="updated_time"> 06:02 PM CT, Mar. 06 </p> 
