@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:07 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Ukraine Defends Key Port City as Russia Renews Attack</a> NYT: Russian police detain thousands at antiwar protests. Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted. An airport in western Ukraine also comes under attack. 
+ <p class="updated_time"> 11:21 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Zelensky Warns of New Wave of Russian Attacks</a> NYT: The Russian invasion is taking an increasing toll on civilians. The two sides are expected to meet for a third round of talks on Monday. Russian police detained thousands of protesters over the weekend. 
  <p class="updated_time"> 10:48 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60637980?at_medium=RSS&at_campaign=KARANGA">Ukraine: India doctor stranded with a jaguar and panther</a> BBC: Girikumar Patil, who also has a jaguar, says he will not leave Severodonetsk without his pets. 
  <p class="updated_time"> 10:08 PM CT, Mar. 06 </p> 
@@ -209,6 +209,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:34 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/joint-base-andrews-lockdown.html">Armed Intruder Prompts Lockdown at Joint Base Andrews as Vice President Lands</a> NYT: Vice President Kamala Harris, the second gentleman and four Cabinet members had just landed at the base when two people drove through a security checkpoint, the authorities said. 
  <p class="updated_time"> 08:43 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/ukraine-russia-shelling-residential-areas-00014513">Ukraine says Russia has stepped up shelling of residential areas</a> Politico: The attacks dashed hopes that more people could escape the fighting in Ukraine. 
  <p class="updated_time"> 07:48 PM CT, Mar. 06 </p> 
@@ -321,8 +323,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/04/1084627187/u-s-lawmakers-are-using-the-ukraine-crisis-to-push-for-domestic-energy-productio">U.S. lawmakers are using the Ukraine crisis to push for domestic energy production</a> NPR: The U.S. oil and gas industry and its backers are seizing on the war in Ukraine to promote domestic energy production. Opponents say it makes more sense to ramp up renewable energy. 
  <p class="updated_time"> 03:13 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084627173/republicans-are-looking-to-win-over-angry-parents-in-novembers-elections">Republicans are looking to win over angry parents in November's elections</a> NPR: Republicans believe COVID policies largely backed by Democrats are causing a schism among parents of school-age children — and that these "angry parents" will help the GOP win elections this year. 
- <p class="updated_time"> 01:46 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/irs-chaos-tax-season-2022.html">I.R.S. Braces for Another Chaotic Tax Season</a> NYT: A shortage of staff and equipment has stalled America’s fiscal machinery. 
  <p class="updated_time"> 12:16 PM CT, Mar. 04 </p> 
  <a href="https://www.npr.org/2022/03/04/1084548984/lindsey-graham-putin">Sen. Lindsey Graham's apparent call for Putin to be assassinated draws backlash</a> NPR: "The only way this ends is for somebody in Russia to take this guy out," the South Carolina Republican said. Democrats and Republicans denounced the suggestion. 
  <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
