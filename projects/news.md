@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:28 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 08:42 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of Renewed Russian Attacks in Ukraine</a> NYT: Ukrainian forces were fighting to retain control of the southern city of Mykolaiv, where Russian artillery strikes hit residential areas. Russian and Ukrainian representatives were expected to meet for a third round of talks. 
+ <p class="updated_time"> 08:38 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-putin-hate.html">Hate for Putin’s Russia Consumes Ukraine</a> NYT: Much of the bitterness is directed at President Vladimir V. Putin, but Ukrainians also chastise ordinary Russians, calling them complicit. 
  <p class="updated_time"> 08:05 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
  <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
@@ -44,10 +46,10 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
  <p class="updated_time"> 03:54 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
+ <p class="updated_time"> 03:34 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Russia arrests Brittney Griner; Blinken promises to help all Americans detained there</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
- <p class="updated_time"> 02:21 AM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Angry Zelensky vows to punish Russian atrocities</a> BBC: The Ukrainian president says the country will not forgive or forget those who murder its civilians. 
  <p class="updated_time"> 01:19 AM CT, Mar. 07 </p> 
@@ -190,8 +192,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/world/canada/canada-refugees-ukraine.html">While Canada Welcomes Refugees, Its Door Is Far From Wide Open</a> NYT: The war in Ukraine may bring another wave of asylum seekers to Canada, but they will face many controls and restrictions. 
  <p class="updated_time"> 04:51 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/europe/russia-military-advance-ukraine-war.html">Russia Seizes Nuclear Plant in Ukraine and Makes Gain in the South</a> NYT: The Russian military advance in Ukraine sowed more destruction and chaos, pointing to a worsening conflict, as the Kremlin also moved to restrict how it’s reported at home. 
- <p class="updated_time"> 04:50 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/ukraine-eu-moldova-georgia.html">Ukraine War Forces a Question: How Far East Does Europe Go?</a> NYT: After Russia invaded, Ukraine asked to join the European Union, quickly. Moldova and Georgia have asked, too. Member states would rather not answer. 
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 04:18 AM CT, Mar. 05 </p> 
@@ -215,6 +215,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:06 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/democrats-party-line-domestic-agenda-00014579">Dems to take first step toward reviving party-line domestic agenda</a> Politico: Senate Majority Leader Chuck Schumer announced hearings on proposals to deal with inflation, as well as another hearing on prescription drug prices. 
+ <p class="updated_time"> 08:38 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/alex-jones-jan-6-trump.html">Alex Jones and Donald Trump: A Fateful Alliance Draws Scrutiny</a> NYT: The Infowars host tormented Sandy Hook families and helped elect President Donald J. Trump. His role in the Jan. 6 Capitol attack is now of growing interest to congressional investigators. 
  <p class="updated_time"> 08:00 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/russia-war-ukraine-anti-corruption-00014532">Putin’s war in Ukraine boosts anti-corruption crusaders</a> Politico: Activists are basking in the surge of support for sanctioning oligarchs close to Putin, but they say Washington needs more tools to clamp down. 
  <p class="updated_time"> 07:46 AM CT, Mar. 07 </p> 
@@ -241,8 +243,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084510375/ag-bill-barr-book-trump-2024">Bill Barr won't back a 2024 Trump run but doesn't quite condemn his former boss</a> NPR: Former Attorney General William Barr spoke with NPR about his new memoir, former President Trump's election lies and why he thinks Trump shouldn't try to return to the White House. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084563882/many-parents-are-angry-over-covid-policies-they-could-be-key-to-gop-2022-gains">Many parents are angry over COVID policies. They could be key to GOP 2022 gains</a> NPR: Republicans believe COVID-19 policies largely backed by Democrats are causing a schism among parents of school-age children and that will help the GOP win elections this year up and down the ballot. 
- <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/politics/alex-jones-jan-6-trump.html">Alex Jones and Donald Trump: A Fateful Alliance Draws Scrutiny</a> NYT: The Infowars host tormented Sandy Hook families and helped elect President Donald J. Trump. His role in the Jan. 6 Capitol attack is now of growing interest to congressional investigators. 
  <p class="updated_time"> 03:58 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/joint-base-andrews-lockdown.html">Armed Intruder Prompts Lockdown at Joint Base Andrews as Vice President Lands</a> NYT: Vice President Kamala Harris, the second gentleman and four Cabinet members had just landed at the base when two people drove through a security checkpoint, the authorities said. 
  <p class="updated_time"> 03:55 AM CT, Mar. 07 </p> 
