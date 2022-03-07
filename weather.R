@@ -189,10 +189,10 @@ ggplot() +
             aes(x = central_time,
                 y = values,
                 colour = names)) +
-  geom_hline(data = data.frame(yint = 32, names="°F"),
-             aes(yintercept = yint),
-             color = "#a2d2df",
-             linetype = "dotted") +
+  #geom_hline(data = data.frame(yint = 32, names="°F"),
+             #aes(yintercept = yint),
+             #color = "#a2d2df",
+             #linetype = "dotted") +
   geom_vline(xintercept = now(tzone = "America/Chicago")) +
   facet_wrap(~ names, scales = "free_y",
              ncol = 1,
