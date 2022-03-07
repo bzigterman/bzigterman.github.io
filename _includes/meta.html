@@ -30,10 +30,9 @@
     <meta name="apple-mobile-web-app-title" content="Ben Zigterman">  
     {% endif %}
     
-    {% if page.webapp %}
+    {% if page.webappicon %}
     <meta name="apple-mobile-web-app-capable" content="yes">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ page.webappicon }}">
-    <link rel="apple-touch-startup-image" href="{{ page.webappstartupimage }}">
     {% else %}
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     {% endif %}
