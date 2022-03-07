@@ -8,18 +8,20 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:02 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 06:38 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of New Russian Attacks in Ukraine</a> NYT: As fighting takes an increasing toll on civilians, Russian and Ukrainian representatives were expected to meet for a third round of talks on Monday. Russian police detained thousands of antiwar protesters over the weekend. 
+ <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Ukraine says Russian ceasefire offer "immoral"</a> BBC: Russia says it will offer civilians an evacuation route, but only to territory in Russia and Belarus. 
+ <p class="updated_time"> 06:21 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/article/what-is-nato.html">What Is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
  <p class="updated_time"> 05:48 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60571616?at_medium=RSS&at_campaign=KARANGA">In pictures: 'Magical bowls' among relics seized in Jerusalem</a> BBC: Pottery adorned with "spells", ancient ivory and hundreds of coins are found in a raid in Jerusalem. 
- <p class="updated_time"> 05:32 AM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-60642786?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Shares slide as oil and gas prices soar</a> BBC: Investors fear global economic shock, with rising petrol and energy bills causing more pain for households. 
  <p class="updated_time"> 05:26 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60645939?at_medium=RSS&at_campaign=KARANGA">Shane Warne: Australian cricket legend died from natural causes - police</a> BBC: Thai police say there's no sign of foul play in the cricketer's death while on holiday on Koh Samui. 
  <p class="updated_time"> 05:08 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/bari-italy-russia-ukraine.html">Italian City Tied to Russia by a Revered Saint Feels the Sting of War in Ukraine</a> NYT: The port of Bari holds relics venerated by Orthodox Christians throughout the former Soviet bloc. Today it is also home to a spillover of tensions from Russia’s invasion. 
  <p class="updated_time"> 04:53 AM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60645126?at_medium=RSS&at_campaign=KARANGA">A small Ukrainian city becomes a waypoint for thousands on the move</a> BBC: At the central train station in Lviv, many thousands arrive after fleeing bombed out cities further east. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60645126?at_medium=RSS&at_campaign=KARANGA">A western Ukrainian city becomes a waypoint for thousands on the move</a> BBC: At the central train station in Lviv, many thousands arrive after fleeing bombed out cities further east. 
  <p class="updated_time"> 04:41 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/asia/putin-ukraine-china-xi.html">Xi and Putin’s 'No Limits' Bond Leaves China Few Options on Ukraine</a> NYT: Beijing aligned itself with Putin as Russia prepared to invade Ukraine. Now its efforts to edge away are constrained by leadership politics. 
  <p class="updated_time"> 04:33 AM CT, Mar. 07 </p> 
@@ -44,12 +46,16 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Blinken says U.S. working to release Americans detained in Russia</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
  <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Angry Zelensky vows to punish Russian atrocities</a> BBC: The Ukrainian president says the country will not forgive or forget those who murder its civilians. 
+ <p class="updated_time"> 01:26 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 01:19 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084869382/death-toll-nears-6-million-as-pandemic-enters-its-3rd-year">Death toll surpasses 6 million for the pandemic now in its 3rd year</a> NPR: Health care experts say that confirmed deaths represent a fraction of the true number of deaths due to COVID because of limited testing. 
- <p class="updated_time"> 11:43 PM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
+ <p class="updated_time"> 01:06 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-cases-hit-highest-daily-total-since-2020-wuhan-outbreak-11646654767">China's Covid-19 Cases Hit Highest Daily Total Since 2020 Wuhan Outbreak</a> WSJ: The surge in infections is being driven, in part, by a severe outbreak in Hong Kong, with many new cases found among people in quarantine. 
  <p class="updated_time"> 10:48 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60637980?at_medium=RSS&at_campaign=KARANGA">Ukraine: India doctor stranded with a jaguar and panther</a> BBC: Girikumar Patil, who bought two big cats, said he will not leave home without his pets. 
+ <p class="updated_time"> 10:45 PM CT, Mar. 06 </p> 
+ <a href="https://www.wsj.com/articles/chinas-export-boom-eases-raising-pressure-for-stimulus-11646646308">China's Export Boom Eases, Raising Pressure for Stimulus</a> WSJ: Policy makers are facing the tough task of hitting an ambitious growth target. 
  <p class="updated_time"> 10:23 PM CT, Mar. 06 </p> 
  <a href="https://www.wsj.com/articles/australia-plans-new-submarine-base-that-can-host-u-s-vessels-11646644982">Australia Plans Base That Can Host U.S. Submarines</a> WSJ: The planned naval base could offer maintenance to American nuclear submarines, increasing the capabilities of both countries in countering China in the Indo-Pacific region. 
  <p class="updated_time"> 10:08 PM CT, Mar. 06 </p> 
@@ -93,8 +99,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 02:10 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/gymnastics/60641891?at_medium=RSS&at_campaign=KARANGA">Russian gymnast Ivan Kuliak investigated for wearing pro-war symbol on podium next to Ukrainian</a> BBC: Russian gymnast Ivan Kuliak is being investigated after wearing a national war symbol on his leotard as he stood next to a Ukrainian rival on the podium in Qatar on Saturday. 
  <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/article/what-is-nato.html">What Is NATO and Which Countries Are Members?</a> NYT: This Western mutual-defense alliance, which sees an attack on one member as an attack on all, is central to the war in Ukraine, even though Ukraine is not a member. 
- <p class="updated_time"> 02:07 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/technology/tiktok-ukraine-misinformation.html">TikTok Ukraine War Videos Raise Questions About Spread of Misinformation</a> NYT: The Chinese-owned video app is dealing with a flood of war videos and the question of whether it is spreading unverified information. 
  <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
@@ -114,8 +118,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-poland-families-separation.html">‘Falling Into Emptiness’: Ukrainian Families Feel the Pain of Separation</a> NYT: With most Ukrainian men legally prohibited from leaving Ukraine, the international border gates serve as a painful filter, splitting families as women and children move on. 
  <p class="updated_time"> 09:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
- <p class="updated_time"> 09:34 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/thousands-of-russians-detained-following-antiwar-protests-11646591412">Thousands of Russians Detained Following Antiwar Protests</a> WSJ: The antiwar rallies in dozens of cities across Russia came after authorities blocked Facebook and Twitter and closed the country’s last independent news outlets. 
  <p class="updated_time"> 09:31 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/article/brittney-griner-russia.html">What We Know About Brittney Griner’s Detention in Russia</a> NYT: The W.N.B.A. star was stopped at an airport outside Moscow and accused of carrying hashish oil in her luggage. But much about the case remains unclear. 
  <p class="updated_time"> 09:17 AM CT, Mar. 06 </p> 
@@ -142,12 +144,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60637845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents run from Russian shelling in Irpin, near Kyiv</a> BBC: People are seen dropping to the ground as the town, just outside Kyiv, is attacked again. 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
- <p class="updated_time"> 04:59 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/russias-military-chief-promised-quick-victory-in-ukraine-but-now-faces-a-potential-quagmire-11646582366">Russia's Military Chief Promised Quick Victory in Ukraine, but Now Faces a Potential Quagmire</a> WSJ: The close Putin ally modernized Russia’s forces, but those troops have run into ferocious Ukrainian resistance. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/africa/burundi-drumming.html">In Burundi, the Drum Is a Revered Symbol of Unity. But Only Men Can Play.</a> NYT: Burundian drumming is a global phenomenon, featured in blockbuster movies and best-selling albums. But at home, authorities have restricted it to official functions — and banned women from performing. 
- <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
- <a href="https://www.wsj.com/articles/the-cash-some-afghans-desperately-need-is-trapped-in-their-bank-accounts-11646578800">The Cash Some Afghans Need Is Trapped in Their Bank Accounts</a> WSJ: Withdrawing enough money to cover basic necessities can take weeks or months, as a currency crisis takes its toll throughout Afghanistan. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
  <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
@@ -213,6 +211,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Mar. 07 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/03/07/what-will-congress-give-ukraine-00014561">What will Congress give Ukraine?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/07/russia-escalates-brutality-congress-steps-up-response-00014536"> Russia escalates brutality, Congress steps up response</a> Politico Playbook: And Congress stares down another possible shutdown showdown this week. 
  <p class="updated_time"> 06:01 AM CT, Mar. 07 </p> 
@@ -242,7 +242,7 @@ imageurl: https://bzigterman.com/plots/news.png
  <p class="updated_time"> 03:55 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Blinken says U.S. working to release Americans detained in Russia</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
+ <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Russia arrests Brittney Griner; Blinken promises to help all Americans detained there</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
  <p class="updated_time"> 07:48 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html">Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a Clandestine Cybercorps</a> NYT: The United States has walked to the edge of direct conflict with Russia in an operation that is reminiscent of the Berlin airlift of 1948-49, but far more complex. 
  <p class="updated_time"> 07:07 PM CT, Mar. 06 </p> 
@@ -401,8 +401,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/02/28/mcconnell-greene-gosar-white-nationalist-event-00012401">Greene and Gosar increasingly isolated in Hill GOP after speaking at white nationalist event</a> Politico: The House and Senate Republican leaders spoke out after the two conservatives attended a weekend conference organized by a far-right, pro-Russia fringe figure. 
  <p class="updated_time"> 07:28 AM CT, Feb. 28 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/02/28/fence-up-masks-off-at-the-capitol-00012226">Fence up, masks off at the Capitol</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:17 AM CT, Feb. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/02/28/a-presidency-transformed-00012220"> A presidency transformed</a> Politico Playbook: And delegations from Ukraine and Russia meet. 
 
 
 </details>
