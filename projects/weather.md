@@ -3,7 +3,6 @@ layout: page
 title: Weather
 permalink: /projects/weather
 imageurl: https://bzigterman.com/plots/champaign_weather.png
-webapp: yes
 webappicon: /weather.png
 ---
 

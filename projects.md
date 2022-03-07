@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+webappicon: /apple-touch-icon.png
 ---
 
 I like to make stuff with the R programming language, and here is where I collect some of the things I've made:
