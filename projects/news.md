@@ -8,10 +8,16 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:20 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Zelensky Warns of New Wave of Russian Attacks</a> NYT: The Russian invasion is taking an increasing toll on civilians. The two sides are expected to meet for a third round of talks on Monday. Russian police detained thousands of protesters over the weekend. 
+ <p class="updated_time"> 04:14 AM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084875710/russia-sets-cease-fire-for-evacuations-amid-heavy-shelling">Russia sets cease-fire for evacuations amid heavy shelling</a> NPR: A third round of talks is planned for Monday as some of the evacuation routes would funnel civilians toward Russia or its ally Belarus. 
+ <p class="updated_time"> 04:10 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60642786?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Oil and gas prices soar as shares plunge</a> BBC: Investors fear global economic shock as West considers ban on buying Russian energy. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/kotchakorn-voraakhom-architect-climate-change.html">For Kotchakorn Voraakhom, Water and Landscape Do Mix</a> NYT: With climate change bringing harsher rains and rising waters, Kotchakorn Voraakhom designs landscapes to alleviate flooding and add greenery. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/italian-city-tied-to-russia-by-a-revered-saint-feels-the-sting-of-war-in-ukraine.html">Italian City Tied to Russia by a Revered Saint Feels the Sting of War in Ukraine</a> NYT: The port of Bari holds relics venerated by Orthodox Christians throughout the former Soviet bloc. Today it is also home to a spillover of tensions from Russia’s invasion. 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/bari-italy-russia-ukraine.html">Italian City Tied to Russia by a Revered Saint Feels the Sting of War in Ukraine</a> NYT: The port of Bari holds relics venerated by Orthodox Christians throughout the former Soviet bloc. Today it is also home to a spillover of tensions from Russia’s invasion. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/rumiko-seya-reals-afghanistan.html">Rumiko Seya, REALs' President, Expands the Aid Group's Focus to Include Afghanistan</a> NYT: Rumiko Seya, president of REALs, is working to rescue women and families, including from Afghanistan, who had dreams before “it turned to darkness in one night.” 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
@@ -26,12 +32,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
  <p class="updated_time"> 03:54 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
- <p class="updated_time"> 03:52 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Zelensky Warns of New Wave of Russian Attacks</a> NYT: The Russian invasion is taking an increasing toll on civilians. The two sides are expected to meet for a third round of talks on Monday. Russian police detained thousands of protesters over the weekend. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Blinken says U.S. working to release Americans detained in Russia</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
- <p class="updated_time"> 03:00 AM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-60642786?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Oil price soars to highest level since 2008</a> BBC: Consumers are feeling the impact of higher energy costs as fuel prices and household bills jump. 
  <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638042?at_medium=RSS&at_campaign=KARANGA">Ukraine: Angry Zelensky vows to punish Russian atrocities</a> BBC: The Ukrainian president says the country will not forgive or forget those who murder its civilians. 
  <p class="updated_time"> 01:19 AM CT, Mar. 07 </p> 
@@ -142,8 +144,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.wsj.com/articles/the-cash-some-afghans-desperately-need-is-trapped-in-their-bank-accounts-11646578800">The Cash Some Afghans Need Is Trapped in Their Bank Accounts</a> WSJ: Withdrawing enough money to cover basic necessities can take weeks or months, as a currency crisis takes its toll throughout Afghanistan. 
  <p class="updated_time"> 03:18 AM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60637840?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don't be afraid of Putin, Kyiv residents say</a> BBC: This couple in Kyiv tells the BBC they are confident that Ukraine will survive Russia's invasion. 
- <p class="updated_time"> 02:05 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084796039/watching-ukraine-bosnians-relive-the-trauma-of-their-war">Watching Ukraine, Bosnians relive the trauma of their war</a> NPR: Bosnian Serb forces laid siege to Sarajevo in the early 1990s. Some 350,000 people were trapped, subjected to daily shelling and cut off from regular access to electricity, food and medicine. 
  <p class="updated_time"> 01:22 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/israel-russia-ukraine.html">Israel PM Naftali Bennett Visits Moscow for Putin Talks on Ukraine</a> NYT: Prime Minister Naftali Bennett of Israel met for three hours with President Vladimir V. Putin of Russia, the Israeli leader’s office said. 
  <p class="updated_time"> 10:11 PM CT, Mar. 05 </p> 
