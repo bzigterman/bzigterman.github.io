@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:08 PM CT, Mar. 06 </p> 
+ <p class="updated_time"> 09:43 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Ukrainian Forces Drive Back Russian Advance on Key Port City</a> NYT: The police detain thousands at antiwar protests across Russia. Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted. An airport in western Ukraine also comes under attack. 
  <p class="updated_time"> 09:08 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukrainian-family-killed-war.html">Ukrainian Family’s Dash for Safety Ends in Death</a> NYT: Russian forces hit a bridge being used by civilians evacuating the fighting in Ukraine. Four people were killed. 
@@ -341,6 +341,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.cnn.com/2022/03/03/politics/takeaways-house-filing-eastman-trump-conspiracy/index.html">6 takeaways from the January 6 committee's claims of a potential Trump 'criminal conspiracy'</a> CNN: The House's January 6 committee laid out on Wednesday its most comprehensive view yet for how former President Donald Trump's conduct up to and during the insurrection may have amounted to a crime. 
  <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
+ <p class="updated_time"> 12:12 PM CT, Mar. 03 </p> 
+ <a href="https://www.politico.com/news/2022/03/03/timken-senate-ohio-00013759">Trump endorsement casts long shadow over Ohio Senate race</a> Politico: Mar-a-Lago is watching closely as former state GOP Chair Jane Timken balances between the establishment and MAGA wings. 
  <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
  <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
  <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
@@ -357,6 +359,8 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
  <p class="updated_time"> 05:18 PM CT, Mar. 02 </p> 
  <a href="https://www.cnn.com/2022/03/02/politics/biden-inflation-build-back-better-legislation/index.html">Biden's plan to shield families from inflation relies on legislation the Senate hasn't been able to pass</a> CNN: President Joe Biden tried to assuage Americans' concerns about high inflation in his State of the Union address Tuesday, while seeking to boost low ratings for how he's handled the economy. 
+ <p class="updated_time"> 04:54 PM CT, Mar. 02 </p> 
+ <a href="https://www.politico.com/news/2022/03/02/texas-primaries-cuellar-progressive-left-00013331">Texas delivers a mixed message to the left</a> Politico: Progressives are off to a more promising start than in 2021, but were unable to deliver a knockout blow to the incumbent Democrat they’ve been targeting for years. 
  <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
  <a href="https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246">Dems agonize over Manchin's wish list: Taxes, prescription drugs, climate cash</a> Politico: "And the social issues, we basically have to deal with those" afterward, the West Virginia centrist said in a post-State of the Union interview. 
  <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
