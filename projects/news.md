@@ -8,8 +8,10 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:46 AM CT, Mar. 07 </p> 
+ <p class="updated_time"> 06:02 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Warns of New Russian Attacks in Ukraine</a> NYT: As fighting takes an increasing toll on civilians, Russian and Ukrainian representatives were expected to meet for a third round of talks on Monday. Russian police detained thousands of antiwar protesters over the weekend. 
+ <p class="updated_time"> 05:48 AM CT, Mar. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60571616?at_medium=RSS&at_campaign=KARANGA">In pictures: 'Magical bowls' among relics seized in Jerusalem</a> BBC: Pottery adorned with "spells", ancient ivory and hundreds of coins are found in a raid in Jerusalem. 
  <p class="updated_time"> 05:32 AM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-60642786?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Shares slide as oil and gas prices soar</a> BBC: Investors fear global economic shock, with rising petrol and energy bills causing more pain for households. 
  <p class="updated_time"> 05:26 AM CT, Mar. 07 </p> 
@@ -198,12 +200,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/arts/music/russian-artists-putin.html">Too Close to Putin? Institutions Vet Artists, Uncomfortably.</a> NYT: Russia’s invasion of Ukraine has led arts organizations to reconsider who performs, forcing them to confront questions about free speech and policing political views. 
  <p class="updated_time"> 03:23 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/world/asia/china-economy-congress.html">China Outlines Plan to Stabilize Economy in Crucial Year for Xi</a> NYT: China calls for heavy government spending and lending, as its leaders seek to project confidence in the face of global uncertainty over the pandemic and war in Ukraine. 
+ <p class="updated_time"> 02:30 AM CT, Mar. 05 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/europe/zelensky-nato-no-fly-zone-ukraine.html">Zelensky Criticizes NATO Over Its Rejection of a No-fly Zone Over Ukraine</a> NYT: “All the people who will die from this day will die because of you, as well,” the Ukrainian president told NATO leaders in a video shared on social media. 
+ <p class="updated_time"> 11:54 PM CT, Mar. 04 </p> 
+ <a href="https://www.nytimes.com/2022/03/04/world/asia/north-korea-missile-launch.html">North Korea Launches Ballistic Missile, South Korea Says</a> NYT: The launch is North Korea’s second missile test in a week and comes only days before the presidential election in South Korea. 
  <p class="updated_time"> 07:09 PM CT, Mar. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60613331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The TikToker spreading viral videos</a> BBC: A Ukrainian 20-year-old has had tens of millions of views on videos she's shared of fighting there. 
- <p class="updated_time"> 05:10 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/world/europe/italy-princess-rita-boncompagni-ludovisi-jenrette.html">An Italian Princess From Texas Awaits Her Next Act</a> NYT: Princess Rita Boncompagni Ludovisi, formerly Rita Jenrette, is locked in a battle over the estate of her late husband, a Roman prince. 
- <p class="updated_time"> 03:31 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/03/04/world/russia-ukraine/in-a-surrounded-ukrainian-city-residents-vow-to-fight-to-the-end">In a surrounded Ukrainian city, residents vow to fight to the end.</a> NYT: Wearing flak jackets and toting Kalashnikovs, many people in Mykolaiv say they are bracing to fight the advancing Russians. 
 
 
 </details>
