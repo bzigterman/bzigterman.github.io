@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 04:08 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084889071/russia-ukraine-war-what-happened-today-march-7">Russia-Ukraine war: What happened today (March 7)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:06 PM CT, Mar. 07 </p> 
@@ -39,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/07/1085013089/doctors-without-borders-describes-declining-situation-in-mariupol-ukraine">Doctors Without Borders describes declining situation in Mariupol, Ukraine</a> NPR: NPR's Sarah McCammon talks with Alex Wade at Doctors Without Borders about the humanitarian crisis in the Ukrainian city of Mariupol. 
  <p class="updated_time"> 03:11 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013070/how-one-international-student-fled-ukraine-and-brought-along-50-others">How one international student fled Ukraine — and brought along 50 others</a> NPR: UN data show over 1.5 million people have left Ukraine since the Russian military invaded. Here's the story of one international student who helped 50 others escape the war. 
- <p class="updated_time"> 03:10 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 02:57 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084945010/brittney-griner-russia-wnba">Why Brittney Griner was in Russia, and what it has to do with U.S. women's basketball</a> NPR: Many WNBA players head overseas to play during the off-season, where they can be paid much more than they earn in the U.S. Griner, who was arrested for allegedly transporting drugs, is one of them. 
  <p class="updated_time"> 02:55 PM CT, Mar. 07 </p> 
@@ -208,16 +208,18 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:28 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/white-house-oil-deals-saudi-arabia-venezuela-iran-00014803">White House is pressed on potential oil deals with Saudi Arabia, Venezuela and Iran</a> Politico: Recent reports say President Joe Biden and European counterparts are discussing a ban on Russian oil imports to further punish President Vladimir Putin for the attack on Ukraine. 
+ <p class="updated_time"> 04:22 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084681375/supreme-court-stays-out-of-election-law-for-now">Supreme Court stays out of election law, for now </a> NPR: In cases from North Carolina and Pennsylvania, the Republican state legislatures sought to block decisions issued by state supreme courts based on the respective state constitutions. 
+ <p class="updated_time"> 04:14 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 04:05 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/politics/saudi-arabia-911-hijacker.html">9/11 Suspect Is Returned to Saudi Arabia for Mental Health Care</a> NYT: Mohammed al-Qahtani had spent 20 years at Guantánamo Bay, where he was tortured so badly that he was ineligible to be tried at the war crimes court. 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/saudi-arabia-911-hijacker.html">‘20th Hijacker’ Is Returned to Saudi Arabia for Mental Health Care</a> NYT: Mohammed al-Qahtani had spent 20 years at Guantánamo Bay, where he was tortured so badly that he was ineligible to be tried at the war crimes court. 
  <p class="updated_time"> 03:51 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013131/u-s-and-allies-to-target-russian-oligarchs-wealth-to-push-putin-to-end-invasion">U.S. and allies to target Russian oligarchs' wealth to push Putin to end invasion</a> NPR: The U.S. and allies want to cut Russian oligarchs off from their wealth as a way of pressuring Russia to end the war in Ukraine. But finding their yachts, planes and money won't be easy. 
  <p class="updated_time"> 03:42 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013117/how-bidens-new-test-to-treat-covid-plan-works-and-why-it-might-not-be-enough">How Biden's new 'test to treat' COVID plan works — and why it might not be enough</a> NPR: A new program will pair tests and COVID pills in pharmacies, solving some of the timing issues with the pills. This is currently limited to pharmacies that have an on-site prescribing clinician. 
  <p class="updated_time"> 03:11 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085013096/former-attorney-general-william-barr-argues-he-wasnt-a-toady-to-trump-in-memoir">Former Attorney General William Barr argues he wasn't a 'toady' to Trump in memoir</a> NPR: In a new memoir, former Attorney General William Barr is defending his time in office. He says he refuted Trump's lies about the election, but blames progressives for dividing the country. 
- <p class="updated_time"> 03:10 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 02:00 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/florida-surgeon-general-covid-vaccines-00014702">Florida's controversial surgeon general recommends against Covid-19 vaccination for kids</a> Politico: Surgeon General Joseph A. Ladapo has been an outspoken critic of pandemic-era safety measures such as quarantines, wearing face masks and vaccines. 
  <p class="updated_time"> 01:54 PM CT, Mar. 07 </p> 
@@ -240,8 +242,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/07/capitol-police-officer-jan-6-confrontation-hearing-00014628">Capitol Police officer connects early Jan. 6 confrontation with slide toward chaos</a> Politico: The testimony, in the first Jan. 6 trial, revealed how prominent members of mob exploited outnumbered police near inaugural stage. 
  <p class="updated_time"> 10:46 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/new-york-city-canadian-hydropower-00014241">New York City is making a multibillion-dollar bet on Canadian hydropower. Some say the wager won't pay off.</a> Politico: Among the chief concerns is whether the project will achieve its main goal: to shut down peaker plants, some of the dirtiest power facilities in New York. 
- <p class="updated_time"> 09:51 AM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/barr-trump-2024-00014597">Barr bashes Trump but says he’d still vote for him in 2024</a> Politico: Barr pledged to vote for Trump should he win the 2024 GOP nomination for president despite grave accusations and condemnations leveled against the former president. 
  <p class="updated_time"> 09:06 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/democrats-party-line-domestic-agenda-00014579">Dems to take first step toward reviving party-line domestic agenda</a> Politico: Senate Majority Leader Chuck Schumer announced hearings on proposals to deal with inflation, as well as another hearing on prescription drug prices. 
  <p class="updated_time"> 08:59 AM CT, Mar. 07 </p> 
@@ -282,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/06/politics/trump-manhattan-district-attorney-investigation/index.html">Prosecutors resigned after New York DA said he wasn't prepared to move forward with indictment of Trump</a> CNN: Two top prosecutors leading the criminal investigation into former President Donald Trump and his business resigned after the Manhattan district attorney said he was not prepared to authorize an indictment against the former President, a person familiar with the investigation said. 
  <p class="updated_time"> 07:48 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html">Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a Clandestine Cybercorps</a> NYT: The United States has walked to the edge of direct conflict with Russia in an operation that is reminiscent of the Berlin airlift of 1948-49, but far more complex. 
- <p class="updated_time"> 07:07 PM CT, Mar. 06 </p> 
- <a href="https://www.politico.com/news/2022/03/06/kamala-harris-selma-bloody-sunday-00014499">Harris marks ‘Bloody Sunday’ anniversary in Selma</a> Politico: She called the site hallowed ground on which people fought for the “most fundamental right of America citizenship." 
  <p class="updated_time"> 04:54 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084841664/kamala-harris-selma-bloody-sunday-voting">On 'Bloody Sunday,' Harris reflects on the current fight for voting rights</a> NPR: Vice President Kamala Harris visited Selma, Ala., to commemorate a defining moment in the struggle for the right to vote. 
  <p class="updated_time"> 04:17 PM CT, Mar. 06 </p> 
@@ -304,12 +302,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/06/kyiv-mayor-klitschko-russia-00014436">Kyiv's mayor: 'We defend our city, our houses, our families'</a> Politico: Vitaly Klitschko said his people were patriotic and defiant but still needed international help. 
  <p class="updated_time"> 07:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/sports/basketball/russia-brittney-griner.html">WNBA Center Brittney Griner Is Detained in Russia</a> NYT: Russian customs officials said a U.S. basketball player had vape cartridges containing hashish oil in her luggage. A Russian news agency identified the player as Griner. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/democratic-party-priority-save-governors-00014364">The Democratic Party’s emerging priority: Save the governors</a> Politico: From its operatives to its donor class, Dems fret what could happen if they lose critical battleground governor races this  fall. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800735/ukrainian-president-asks-congress-members-to-back-no-fly-zone-sanction-russian-o">Ukrainian president asks Congress members to back no-fly zone, sanction Russian oil</a> NPR: Adrian Florido speaks with Congressman Jim Himes about Ukrainian President Volodomyr Zelensky's video call with U.S. Congress members about the Russian invasion of his country. 
  <p class="updated_time"> 06:59 AM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084800700/politics-chat-state-republicans-set-agenda-with-reactive-bills-ahead-of-midterms">Politics chat: State Republicans set agenda with reactive bills ahead of midterms</a> NPR: We look at how Republican-controlled state legislatures are shaping their strategy ahead of the midterm elections, and how their Democratic counterparts are crafting their messaging. 
- <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084593495/election-year-do-nothing-congress-history">It's a cliché to call an election-year Congress do-nothing. The history doesn't match</a> NPR: There's no law against making laws in an election year. There are special challenges, but the hurdles may loom larger in lore than in reality. 
  <p class="updated_time"> 03:59 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/paxton-bush-primary-runoff.html">Indicted. Under F.B.I. Investigation. And Still Popular With Texas Republicans.</a> NYT: Ken Paxton, the Texas attorney general, earned the most votes in Tuesday’s G.O.P. primary. His embrace of Trumpism has helped him weather a series of allegations. 
  <p class="updated_time"> 02:00 AM CT, Mar. 06 </p> 
