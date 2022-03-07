@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1084989299/ivan-kuliak-russia-gymnast-z">A Russian gymnast faces disciplinary action for wearing a 'Z' symbol on a podium</a> NPR: The letter has become widely regarded as a symbol of support for Russia's invasion of Ukraine. Russian military vehicles participating in the invasion have donned the letter. 
+ <p class="updated_time"> 03:16 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
+ <p class="updated_time"> 03:11 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1085013089/doctors-without-borders-describes-declining-situation-in-mariupol-ukraine">Doctors Without Borders describes declining situation in Mariupol, Ukraine</a> NPR: NPR's Sarah McCammon talks with Alex Wade at Doctors Without Borders about the humanitarian crisis in the Ukrainian city of Mariupol. 
+ <p class="updated_time"> 03:11 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1085013070/how-one-international-student-fled-ukraine-and-brought-along-50-others">How one international student fled Ukraine — and brought along 50 others</a> NPR: UN data show over 1.5 million people have left Ukraine since the Russian military invaded. Here's the story of one international student who helped 50 others escape the war. 
+ <p class="updated_time"> 03:10 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 02:57 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084945010/brittney-griner-russia-wnba">Why Brittney Griner was in Russia, and what it has to do with U.S. women's basketball</a> NPR: Many WNBA players head overseas to play during the off-season, where they can be paid much more than they earn in the U.S. Griner, who was arrested for allegedly transporting drugs, is one of them. 
  <p class="updated_time"> 02:55 PM CT, Mar. 07 </p> 
@@ -17,8 +27,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/us/dc-truck-convoy-protest.html">Truckers Protest Mandates on D.S. Beltway for a Second Day</a> NYT: Organizers of a convoy of vehicles protesting mask and vaccine mandates said they would drive another lap around the Beltway on Monday but did not intend to enter the capital. 
  <p class="updated_time"> 02:43 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60645236?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Five times Russians have stood up for Ukraine</a> BBC: Videos from social media show some Russian citizens, at home and abroad, protesting the war in Ukraine. 
- <p class="updated_time"> 02:42 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Civilians Caught in Escalating Russian Attacks</a> NYT: Russian artillery strikes hit residential areas in the southern city of Mykolaiv but Ukrainian forces said they maintained control of the city after fierce fighting. 
  <p class="updated_time"> 02:42 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-ukraine-putin-media.html">With New Limits on Media, Putin Closes a Door on Russia’s ‘Openness’</a> NYT: The Russian leader is undoing the social freedoms introduced at the end of the Soviet Union, risking a return to total control and ideological isolation. 
  <p class="updated_time"> 02:40 PM CT, Mar. 07 </p> 
@@ -61,6 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60651801?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'It's hell, it's really hell' - Families flee bombs in Irpin</a> BBC: Silent and weeping, a stream of civilians with backpacks try to outpace the Russian shells. 
  <p class="updated_time"> 10:19 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
+ <p class="updated_time"> 10:11 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russian forces conducted airstrikes on cities and military locations, disrupting civilian-evacuation plans, Ukraine said, while cease-fire talks were inconclusive. 
  <p class="updated_time"> 10:00 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
  <p class="updated_time"> 09:58 AM CT, Mar. 07 </p> 
@@ -71,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/israel-says-iran-tried-to-fly-arms-to-hamas-using-drones-11646682200">Israel Says Iran Tried to Fly Arms to Hamas Using Drones</a> WSJ: Israel says it shot down two long-range drones launched from Iran last year. The details come as the U.S. and its allies try to revive a 2015 nuclear deal with Iran. 
  <p class="updated_time"> 07:27 AM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/in-ukraine-world-war-ii-memories-echo-as-russia-attacks-its-cities-11646677679">In Ukraine, World War II Memories Echo as Russia Attacks Its Cities</a> WSJ: Zelensky uses Soviet-era terms to extol bravery as Ukraine faces an assault unlike any in Europe since the 1940s. 
- <p class="updated_time"> 07:27 AM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 06:51 AM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: The Russian government has been using the letter Z, first seen on Russian tanks in Ukraine, as a patriotic symbol to rally Russians around the war in Ukraine. 
  <p class="updated_time"> 06:34 AM CT, Mar. 07 </p> 
@@ -161,16 +169,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-poland-families-separation.html">‘Falling Into Emptiness’: Ukrainian Families Feel the Pain of Separation</a> NYT: With most Ukrainian men legally prohibited from leaving Ukraine, the international border gates serve as a painful filter, splitting families as women and children move on. 
  <p class="updated_time"> 09:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
- <p class="updated_time"> 07:30 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/03/06/1083769798/russias-war-on-ukraine-is-dire-for-world-hunger-but-there-are-solutions">Russia's war on Ukraine is dire for world hunger. But there are solutions</a> NPR: Both countries are huge suppliers of grains and other essential foods. And with widespread hunger and high food prices already, the war couldn't have come at a worse time. 
- <p class="updated_time"> 07:23 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084800770/international-students-struggle-to-leave-ukraine">International students struggle to leave Ukraine</a> NPR: Adrian Florido speaks with Jakaria Hussain, an international student in Eastern Ukraine, about his struggles to leave the country. 
  <p class="updated_time"> 07:21 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
  <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
- <p class="updated_time"> 07:11 AM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084800756/gabriel-boric-will-be-chiles-youngest-president-and-the-most-left-in-decades">Gabriel Boric will be Chile's youngest president, and the most left in decades</a> NPR: Adrian Florido speaks with Chilean journalist Francisca Skoknic about Chile's new president, Gabriel Boric, who will take power on Friday. 
  <p class="updated_time"> 05:41 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/putin-pandemic-mindset.html">Does Part of Putin's Wartime Mindset Reflect Pandemic Isolation?</a> NYT: Analysts are debating whether the Russian leader’s ambitions and appetite for risk have been altered by his long-held Covid bubble, or by his urgency to secure a legacy, or both. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
@@ -206,6 +208,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:11 PM CT, Mar. 07 </p> 
+ <a href="https://www.npr.org/2022/03/07/1085013096/former-attorney-general-william-barr-argues-he-wasnt-a-toady-to-trump-in-memoir">Former Attorney General William Barr argues he wasn't a 'toady' to Trump in memoir</a> NPR: In a new memoir, former Attorney General William Barr is defending his time in office. He says he refuted Trump's lies about the election, but blames progressives for dividing the country. 
+ <p class="updated_time"> 03:10 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/world/europe/baltics-russia-ukraine-war-blinken.html">Baltics, in Russia's Shadow, Demand Tougher Stance From West</a> NYT: “We have no illusions about Putin’s Russia anymore,” said one Baltic official in a meeting with the U.S. secretary of state. 
  <p class="updated_time"> 02:22 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/saudi-arabia-911-hijacker.html">9/11 Suspect Is Returned to Saudi Arabia for Mental Health Care</a> NYT: Mohammed al-Qahtani had spent 20 years at Guantánamo Bay, where he was tortured so badly that he was ineligible to be tried at the war crimes court. 
  <p class="updated_time"> 02:00 PM CT, Mar. 07 </p> 
@@ -277,7 +283,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:54 PM CT, Mar. 06 </p> 
  <a href="https://www.npr.org/2022/03/06/1084841664/kamala-harris-selma-bloody-sunday-voting">On 'Bloody Sunday,' Harris reflects on the current fight for voting rights</a> NPR: Vice President Kamala Harris visited Selma, Ala., to commemorate a defining moment in the struggle for the right to vote. 
  <p class="updated_time"> 04:17 PM CT, Mar. 06 </p> 
- <a href="https://www.npr.org/2022/03/06/1084834286/alabama-rep-terry-sewell-on-the-ongoing-fight-for-voting-rights">Alabama Rep. Terry Sewell on the ongoing fight for voting rights</a> NPR: NPR's Michel Martin speaks with Rep. Terri Sewell (D-Ala.) about the current fight over voting rights and redistricting in her home state of Alabama. 
+ <a href="https://www.npr.org/2022/03/06/1084834286/alabama-rep-terry-sewell-on-the-ongoing-fight-for-voting-rights">Alabama Rep. Terri Sewell on the ongoing fight for voting rights</a> NPR: NPR's Michel Martin speaks with Rep. Terri Sewell (D-Ala.) about the current fight over voting rights and redistricting in her home state of Alabama. 
  <p class="updated_time"> 03:43 PM CT, Mar. 06 </p> 
  <a href="https://www.politico.com/news/2022/03/06/convoy-protesting-covid-mandates-begins-dc-circuit-00014473">Convoy protesting Covid mandates does D.C. circuit</a> Politico: The “People’s Convoy” follows similar demonstrations by truckers in Canada. 
  <p class="updated_time"> 02:52 PM CT, Mar. 06 </p> 
@@ -328,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/05/1084729600/secretary-of-state-blinken-visits-poland-to-discuss-further-assistance-to-ukrain">Secretary of State Blinken visits Poland to discuss further assistance to Ukraine</a> NPR: Secretary of State Anthony Blinken is visiting Poland as Russia continues its assault on neighboring Ukraine. 
  <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
  <a href="https://www.npr.org/2022/03/05/1084729523/rioters-plea-guilty-this-week-as-jan-6-panel-alleges-trump-broke-the-law">Rioters plea guilty this week as Jan. 6 panel alleges Trump broke the law</a> NPR: Scott Simon speaks with independent journalist Marcy Wheeler, who covers national security, about the latest developments in the Jan. 6 insurrection trial. 
- <p class="updated_time"> 07:00 AM CT, Mar. 05 </p> 
- <a href="https://www.npr.org/2022/03/05/1084729516/week-in-politics-biden-leads-nato-in-denouncing-russias-invasion-of-ukraine">Week in politics: Biden leads NATO in denouncing Russia's invasion of Ukraine</a> NPR: President Biden succeeded in unifying NATO's response to Russia's invasion of Ukraine, which may give him more credibility to pursue his domestic agenda. 
  <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
  <p class="updated_time"> 09:39 PM CT, Mar. 04 </p> 
@@ -338,56 +342,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/04/us/politics/title-42-migrant-families-ruling.html">U.S. Can’t Use Health Rule to Expel Migrant Families Facing Persecution, Court Says</a> NYT: An appeals court said the Biden administration could continue expelling migrant families under the pandemic-era rule, but not to countries where they would be persecuted. 
  <p class="updated_time"> 06:56 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/january-6-trial-guy-reffitt.html">Pistols, Assault Rifles, Zip Ties: Witness Describes Preparation for Jan. 6</a> NYT: A witness in the trial of Guy Reffitt, the first person to face a jury on charges stemming from the Capitol assault, said they wanted to be prepared in case “something bad happened.” 
- <p class="updated_time"> 05:32 PM CT, Mar. 04 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/russia-ukraine-weapons.html">As Russia Pounds Ukraine, NATO Countries Rush In Javelins and Stingers</a> NYT: The American weapons are part of a $350 million package that President Biden authorized on Saturday. 
  <p class="updated_time"> 04:49 PM CT, Mar. 04 </p> 
  <a href="https://www.nytimes.com/2022/03/04/us/politics/madison-cawthorn-north-carolina-insurrectionist.html">Judge Blocks Effort to Disqualify Cawthorn from Ballot as ‘Insurrectionist’</a> NYT: A district judge ruled that the Amnesty Act of 1872, which forgave confederates, overruled a clause in the 14th Amendment barring “insurrectionists” from Congress. 
  <p class="updated_time"> 03:40 PM CT, Mar. 04 </p> 
  <a href="https://www.politico.com/news/2022/03/04/psaki-shuts-down-lindsey-grahams-calls-to-assassinate-putin-00014337">White House says assassinating Putin is 'not the position' of the U.S. government</a> Politico: Lindsey Graham called for a Julius Caesar-style killing of Putin on Twitter late Thursday. 
- <p class="updated_time"> 07:34 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/03/04/when-mtg-tells-you-to-dial-it-down-00014136">When MTG tells you to dial it down…</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:14 AM CT, Mar. 04 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/04/can-a-wider-war-be-prevented-00014127"> Can a wider war be prevented?</a> Politico Playbook: And Donald Trump warms to Eric Greitens in Missouri. 
- <p class="updated_time"> 06:43 PM CT, Mar. 03 </p> 
- <a href="https://www.cnn.com/2022/03/03/politics/civica-insulin-affordable-drug/index.html">Non-profit drug maker will provide insulin for no more than $30 a vial</a> CNN: Civica Rx, a non-profit generic drug maker backed by hospitals, insurers and philanthropies, announced Thursday that it plans to manufacture and sell insulin for no more than $30 a vial. It is expected to be available as soon as early 2024, pending federal approval. 
- <p class="updated_time"> 05:07 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/bill-ban-russia-oil-white-house-00013962">Bipartisan bill banning Russian oil sets up clash with White House</a> Politico: The White House said it does not “have a strategic interest in reducing the global supply of energy, and that would raise prices at the gas pump for the American people.” 
- <p class="updated_time"> 04:38 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/biden-gop-russia-democrat-00013975">Biden holds back on going after GOP on Russia, to some Dem chagrin</a> Politico: “‘We’re Zelenskyy Democrats. And they’re Putin Republicans’ would be my bumper sticker.” 
- <p class="updated_time"> 01:58 PM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/democrats-justice-department-trump-jan-6-00013847">Dems push DOJ to look at Trump after Jan. 6 panel’s blockbuster</a> Politico: Despite House investigators’ extensive outline of a criminal case against the former president, lawmakers say the onus of pursuing charges is largely on DOJ. 
- <p class="updated_time"> 11:13 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/republicans-grapple-first-black-female-justice-00013767">Weighing history, GOP senators wrestle over Supreme Court votes</a> Politico: A handful of Republican senators said they'd like to vote to confirm the first Black woman to the Supreme Court. Other considerations might stop them. 
- <p class="updated_time"> 10:24 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/news/2022/03/03/lawmakers-funding-deal-ukraine-request-00013548">Lawmakers hammer out funding deal with boosted Ukraine request</a> Politico: The White House revamped its emergency funding ask Thursday morning, looking for $10 billion to help Ukraine. 
- <p class="updated_time"> 07:56 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/03/03/hope-springs-eternal-on-dems-domestic-dreams-00013544">Hope springs eternal on Dems’ domestic dreams</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:09 AM CT, Mar. 03 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/03/how-gas-prices-could-crush-biden-and-the-democrats-00013533"> How gas prices could crush Biden and the Democrats</a> Politico Playbook: And Russia moves in on key Ukrainian cities. 
- <p class="updated_time"> 05:28 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/texas-republican-abandons-reelection-bid-after-admitting-extramarital-affair-00013365">Texas Republican abandons reelection bid after admitting extramarital affair</a> Politico: “He'll be missed,” Rep. Pete Sessions said as colleagues marveled over the quick fall of the mild-mannered second-term lawmaker. 
- <p class="updated_time"> 05:18 PM CT, Mar. 02 </p> 
- <a href="https://www.cnn.com/2022/03/02/politics/biden-inflation-build-back-better-legislation/index.html">Biden's plan to shield families from inflation relies on legislation the Senate hasn't been able to pass</a> CNN: President Joe Biden tried to assuage Americans' concerns about high inflation in his State of the Union address Tuesday, while seeking to boost low ratings for how he's handled the economy. 
- <p class="updated_time"> 01:32 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246">Dems agonize over Manchin's wish list: Taxes, prescription drugs, climate cash</a> Politico: "And the social issues, we basically have to deal with those" afterward, the West Virginia centrist said in a post-State of the Union interview. 
- <p class="updated_time"> 01:17 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/kbjs-charm-offensive-begins-00013235">KBJ begins speedy confirmation blitz</a> Politico: The Supreme Court nominee met with senators Wednesday as Democrats scheduled her first confirmation hearing for March 21. 
- <p class="updated_time"> 12:00 PM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/jan-6-probe-gop-donald-trump-00012960">Jan. 6 probe points lawmakers more and more toward GOP colleagues</a> Politico: The select panel is working to wind down its inquiry, but documents suggest members are still gathering facts about Republican lawmakers who aided Donald Trump. 
- <p class="updated_time"> 07:32 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/03/02/here-comes-the-confirmation-circus-00013133">Here comes the confirmation circus</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:07 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/02/5-takeaways-from-bidens-big-night-00013119"> 5 takeaways from Biden’s big night</a> Politico Playbook: And two key Texas primaries are headed for a runoff. 
- <p class="updated_time"> 12:31 AM CT, Mar. 02 </p> 
- <a href="https://www.politico.com/news/2022/03/02/tlaib-state-of-the-union-2022-00013104">Tlaib diverges from Biden's State of the Union address</a> Politico: The progressive lawmaker specifically dinged Biden for his lack of focus on climate change. 
- <p class="updated_time"> 09:01 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/russia-ukraine-state-of-the-union-2022-00013031">Lawmakers wear blue and yellow to State of the Union in nod to Ukraine</a> Politico: Support for Ukraine dictated some fashion choices. 
- <p class="updated_time"> 01:53 PM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/news/2022/03/01/mcconnell-rick-scott-gop-agenda-00012840">McConnell clashes with Rick Scott over Republican agenda</a> Politico: Mitch McConnell and Senate Republican leaders are warning Rick Scott that his agenda for the GOP could expose the party to unnecessary attacks this fall. 
- <p class="updated_time"> 07:45 AM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/03/01/former-senate-guy-visits-house-chamber-00012704">Former Senate guy visits House chamber</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:23 AM CT, Mar. 01 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/01/bidens-sotu-blues-00012671"> Biden’s SOTU blues</a> Politico Playbook: And U.S. officials tell lawmakers that the Ukraine-Russia conflict has seen 1,500 civilian and military casualties. 
 
 
 </details>
