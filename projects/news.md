@@ -42,12 +42,12 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/world/zoya-svetova-russian-journalist.html">The Russian Journalist Zoya Svetova Continues Her Family's Dissident Past</a> NYT: Four generations of Zoya Svetova’s family have stood up to repression. The invasion of Ukraine has shaken them but also given them reasons for hope. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/nadia-calvino-spain.html">Nadia Calviño, a Top Spanish Official, Wants More Women at the Decision-Making Table</a> NYT: Many of Spain’s leaders are female — evidence, Nadia Calviño says, of the “feminist society” that has emerged in her nation. 
+ <p class="updated_time"> 03:57 AM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 03:55 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
  <p class="updated_time"> 03:54 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-families.html">Ukrainians Find That Relatives in Russia Don’t Believe It’s a War</a> NYT: Many Ukrainians are encountering a confounding and frustrating backlash from family members in Russia who have bought into the official Kremlin messaging. 
- <p class="updated_time"> 03:34 AM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Ukrainian Civilian Targets Ahead of Talks</a> WSJ: Continuing their encirclement operations on Ukrainian cities, Russian forces prevented civilians from escaping via humanitarian corridors and shelled urban centers in the country’s north and south. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Russia arrests Brittney Griner; Blinken promises to help all Americans detained there</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
  <p class="updated_time"> 02:01 AM CT, Mar. 07 </p> 
@@ -215,6 +215,8 @@ imageurl: https://bzigterman.com/plots/news.png
 
  <p class="updated_time"> 09:06 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/democrats-party-line-domestic-agenda-00014579">Dems to take first step toward reviving party-line domestic agenda</a> Politico: Senate Majority Leader Chuck Schumer announced hearings on proposals to deal with inflation, as well as another hearing on prescription drug prices. 
+ <p class="updated_time"> 08:59 AM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/joint-base-andrews-lockdown.html">Armed Intruder Prompts Lockdown at Joint Base Andrews as Vice President Lands</a> NYT: A 17-year-old was arrested and a second intruder got away after they drove through a checkpoint, the authorities said. Vice President Kamala Harris had just landed at the base. 
  <p class="updated_time"> 08:38 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/alex-jones-jan-6-trump.html">Alex Jones and Donald Trump: A Fateful Alliance Draws Scrutiny</a> NYT: The Infowars host tormented Sandy Hook families and helped elect President Donald J. Trump. His role in the Jan. 6 Capitol attack is now of growing interest to congressional investigators. 
  <p class="updated_time"> 08:00 AM CT, Mar. 07 </p> 
@@ -243,8 +245,6 @@ imageurl: https://bzigterman.com/plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084510375/ag-bill-barr-book-trump-2024">Bill Barr won't back a 2024 Trump run but doesn't quite condemn his former boss</a> NPR: Former Attorney General William Barr spoke with NPR about his new memoir, former President Trump's election lies and why he thinks Trump shouldn't try to return to the White House. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084563882/many-parents-are-angry-over-covid-policies-they-could-be-key-to-gop-2022-gains">Many parents are angry over COVID policies. They could be key to GOP 2022 gains</a> NPR: Republicans believe COVID-19 policies largely backed by Democrats are causing a schism among parents of school-age children and that will help the GOP win elections this year up and down the ballot. 
- <p class="updated_time"> 03:58 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/joint-base-andrews-lockdown.html">Armed Intruder Prompts Lockdown at Joint Base Andrews as Vice President Lands</a> NYT: Vice President Kamala Harris, the second gentleman and four Cabinet members had just landed at the base when two people drove through a security checkpoint, the authorities said. 
  <p class="updated_time"> 03:55 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
  <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
