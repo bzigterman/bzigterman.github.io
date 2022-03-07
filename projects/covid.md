@@ -3,6 +3,7 @@ layout: page
 title: COVID-19
 permalink: /projects/covid
 imageurl: https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png
+webappicon: /covid.png
 ---
 
 ## Champaign County
