@@ -8,8 +8,8 @@ imageurl: https://bzigterman.com/plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Ukrainian Forces Drive Back Russian Advance on Key Port City</a> NYT: The police detain thousands at antiwar protests across Russia. Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted. An airport in western Ukraine also comes under attack. 
+ <p class="updated_time"> 09:47 PM CT, Mar. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/06/world/ukraine-russia">Live Updates: Ukraine Defends Key Port City as Russia Renews Attack</a> NYT: Russian police detain thousands at antiwar protests. Four people, including two children, are killed in an attack outside of Kyiv as concern grows that civilians are being targeted. An airport in western Ukraine also comes under attack. 
  <p class="updated_time"> 09:08 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukrainian-family-killed-war.html">Ukrainian Family’s Dash for Safety Ends in Death</a> NYT: Russian forces hit a bridge being used by civilians evacuating the fighting in Ukraine. Four people were killed. 
  <p class="updated_time"> 06:49 PM CT, Mar. 06 </p> 
