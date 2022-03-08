@@ -300,7 +300,7 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 webappicon: /weather.png
 ---
 
-## Champaign 5-Day Forecast
+## Champaign Forecast
 
 ",now_html,"
 
