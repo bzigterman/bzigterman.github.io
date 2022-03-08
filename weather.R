@@ -12,30 +12,6 @@ champaign_lon <- -88.243
 
 # get data ----
 
-# nws api ----
-url <- "https://api.weather.gov/gridpoints/ILX/95,72/forecast/hourly"
-nws_forecast <- GET(url)
-nws_forecast <- content(nws_forecast, as = "text")
-nws_forecast <- st_read(nws_forecast)
-nws_forecast <- fromJSON(nws_forecast$periods) 
-nws_forecast_clean <- nws_forecast %>%
-  select(endTime, temperature,windSpeed) %>%
-  mutate(wind_speed = as.numeric(gsub(" mph", "", windSpeed))) %>%
-  mutate(temp = as.numeric(temperature)) %>%
-  mutate(central_time = with_tz(parse_date_time(endTime, "Ymd HMSz"), tzone = "America/Chicago")) %>%
-  select(central_time, temp, wind_speed) %>%
-  filter(central_time > now(tzone = "America/Chicago")) %>%
-  mutate(sunrise = as_datetime( paste(as_date(central_time)," ",
-                                      hour(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
-                                      minute(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
-                                      second(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),
-                                      sep = "")), tz = "America/Chicago" )%>%
-  mutate(sunset = as_datetime( paste(as_date(central_time)," ",
-                                     hour(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
-                                     minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
-                                     second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
-                                     sep = "")), tz = "America/Chicago")
-
 # owm api ----
 Sys.getenv("OWM_API_KEY")
 
@@ -160,6 +136,32 @@ champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
                                      minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
                                      second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
                                      sep = "")), tz = "America/Chicago")
+
+
+# nws api ----
+url <- "https://api.weather.gov/gridpoints/ILX/95,72/forecast/hourly"
+nws_forecast <- GET(url)
+nws_forecast <- content(nws_forecast, as = "text")
+nws_forecast <- st_read(nws_forecast)
+nws_forecast <- fromJSON(nws_forecast$periods) 
+nws_forecast_clean <- nws_forecast %>%
+  select(endTime, temperature,windSpeed) %>%
+  mutate(wind_speed = as.numeric(gsub(" mph", "", windSpeed))) %>%
+  mutate(temp = as.numeric(temperature)) %>%
+  mutate(central_time = with_tz(parse_date_time(endTime, "Ymd HMSz"), tzone = "America/Chicago")) %>%
+  select(central_time, temp, wind_speed) %>%
+  filter(central_time > now(tzone = "America/Chicago")) %>%
+  mutate(sunrise = as_datetime( paste(as_date(central_time)," ",
+                                      hour(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                      minute(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),":",
+                                      second(as_datetime(champaign_current$sunrise, tz = "America/Chicago")),
+                                      sep = "")), tz = "America/Chicago" )%>%
+  mutate(sunset = as_datetime( paste(as_date(central_time)," ",
+                                     hour(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                     minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
+                                     second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
+                                     sep = "")), tz = "America/Chicago")
+
 
 # set variables ----
 champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
