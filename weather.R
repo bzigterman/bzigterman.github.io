@@ -198,7 +198,7 @@ champaign_forecast_longer <- champaign_history_and_forecast %>%
   select(central_time,temp, humidity,
          wind_speed, clouds,
          pop, rain, snow, sunrise, sunset) %>%
-  select(where(~ any(. != 0))) %>%
+  #select(where(~ any(. != 0))) %>%
   pivot_longer(cols = !c(central_time, sunrise, sunset),
                names_to = "names",
                values_to = "values") %>%
