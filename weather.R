@@ -7,10 +7,8 @@ library(jsonlite)
 library(cowplot)
 library(sf)
 
-
 champaign_lat <-  40.116
 champaign_lon <- -88.243
-
 
 # get data ----
 
