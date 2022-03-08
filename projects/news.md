@@ -9,28 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:56 AM CT, Mar. 08 </p> 
+ <p class="updated_time"> 11:49 AM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports as Civilian Toll in Ukraine Grows</a> NYT: The U.S. average gas price hit $4.17 per gallon, a record. The Ukrainian president spoke to the British Parliament by telelink, as many of his people remained trapped in besieged cities. A humanitarian corridor allowed hundreds to escape one city. 
+ <p class="updated_time"> 11:48 AM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/2022/03/08/style/kony-2012-invisible-children.html">‘Kony 2012,’ 10 Years Later</a> NYT: Once the most viral video of all time, the film reads as both a digital relic and a precursor to an era in which footage of conflict dominates the internet. 
+ <p class="updated_time"> 11:42 AM CT, Mar. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/58888451?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How reliant is the world on Russia for oil and gas?</a> BBC: Russia says it may cut off gas supplies if countries decided to ban Russian oil. 
+ <p class="updated_time"> 11:30 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60666251?at_medium=RSS&at_campaign=KARANGA">West targets Russian energy sector with new restrictions</a> BBC: The US bans Russian oil, targeting the Russian economy's "main artery" over its invasion of Ukraine. 
+ <p class="updated_time"> 11:28 AM CT, Mar. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60667770?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC News journalists resume broadcasts from Russia</a> BBC: Journalists' work was put on hold last week after the introduction of a strict new media law. 
+ <p class="updated_time"> 11:25 AM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/2022/03/08/world/europe/biden-bans-russian-oil.html">Biden Bans All Imports of Russian Oil Into U.S.</a> NYT: The British also said they would phase out imports of Russian oil by the end of the year to increase the economic isolation of Russia’s president, Vladimir. V. Putin. 
+ <p class="updated_time"> 11:22 AM CT, Mar. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60576847?at_medium=RSS&at_campaign=KARANGA">Florida lawmakers pass 'Don't Say Gay' bill</a> BBC: The controversial legislation bars discussion of sexual orientation in Florida's primary schools. 
+ <p class="updated_time"> 11:16 AM CT, Mar. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60666414?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Judge grants immunity to juror who did not disclose abuse</a> BBC: Lawyers for Maxwell argue she deserves a new trial after a juror disclosed he had been abused. 
  <p class="updated_time"> 10:55 AM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/08/1085033015/photos-ukraine-orthodox-church-russia-invasion-patriarch">Some of Ukraine's Orthodox churches want to break away from their Russian patriarch</a> NPR: At church, Ukrainians pray for an end to war. But a rift is forming: The head of the Russian Orthodox Church has defended Moscow's invasion. Some in Ukraine want to break away from his leadership. 
- <p class="updated_time"> 10:52 AM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports as Civilian Toll in Ukraine Grows</a> NYT: Lawmakers in Washington called for a ban to punish Russia for invading Ukraine. Many Ukrainians remain trapped in besieged cities, but a humanitarian corridor allowed hundreds to escape one city. 
- <p class="updated_time"> 10:47 AM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/58888451?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How reliant is the world on Russia for oil and gas?</a> BBC: Russia says it may cut off gas supplies if countries decided to ban Russian oil. 
+ <p class="updated_time"> 10:53 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890">Russian Shelling Halts Ukrainian Evacuation Effort</a> WSJ: Russian Shelling Halts Ukrainian Evacuation Effort 
  <p class="updated_time"> 10:42 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60659363?at_medium=RSS&at_campaign=KARANGA">Ukrainian actor Pasha Lee killed in Russian bombardment</a> BBC: Pasha Lee, 33, had signed up to defend his country at the start of the war. 
- <p class="updated_time"> 10:40 AM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60666414?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Judge grants immunity to juror who did not disclose abuse</a> BBC: Lawyers for Maxwell argue she deserves a new trial after a juror disclosed he had been abused. 
  <p class="updated_time"> 10:21 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/un-china-human-rights.html">U.N. Human Rights Chief to Visit China</a> NYT: Michelle Bachelet would be the first official in her position to visit China, which has come under fire for its rights record, in more than two decades. 
- <p class="updated_time"> 10:01 AM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890">Russian Shelling Halts Ukrainian Evacuation Effort</a> WSJ: Russian Shelling Halts Ukrainian Evacuation Effort 
+ <p class="updated_time"> 09:53 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-s-planning-to-ban-russian-oil-imports-11646746787">U.S. to Ban Imports of Russian Oil, Natural Gas</a> WSJ: U.S. to Ban Imports of Russian Oil, Natural Gas 
  <p class="updated_time"> 09:33 AM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085111819/as-south-koreans-go-to-the-polls-a-backlash-against-feminism-has-become-politica">As South Koreans go to the polls, a backlash against feminism has become political </a> NPR: Young voters are considered a key voting bloc as the ruling Democratic Party and the conservative opposition People Power Party vie to secure the presidency. But gender issues divide South Koreans. 
- <p class="updated_time"> 09:01 AM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/u-s-planning-to-ban-russian-oil-imports-11646746787">U.S. to Ban Imports of Russian Oil, Natural Gas</a> WSJ: U.S. to Ban Imports of Russian Oil, Natural Gas 
  <p class="updated_time"> 08:59 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/article/ukraine-cities.html">What Cities Is Russia Targeting in Ukraine?</a> NYT: About two-thirds of Ukraine’s population of 44 million people lived in cities before Russia’s invasion began. Now many urban areas are in the cross hairs of war. 
+ <p class="updated_time"> 08:53 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/global-economy-braces-for-impact-of-russias-war-on-ukraine-11646684060">Global Economy Braces for Impact of Russia’s War on Ukraine</a> WSJ: Global Economy Braces for Impact of Russia’s War on Ukraine 
  <p class="updated_time"> 08:42 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-military.html">As Russia’s Military Stumbles, Its Adversaries Take Note</a> NYT: President Vladimir Putin could still reduce cities in Ukraine to rubble, officials say. But European countries say they are not as intimidated by Russian ground forces as they were in the past. 
  <p class="updated_time"> 08:41 AM CT, Mar. 08 </p> 
@@ -40,26 +50,22 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:20 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/australia/new-zealand-maori-tane-mahuta-kauri.html">How Maori Stepped In to Save a Towering Tree Crucial to Their Identity</a> NYT: Tāne Mahuta, an ancient tree named after the god of forests in Māori mythology, is threatened by the slow creep of an incurable disease. 
  <p class="updated_time"> 08:10 AM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085089048/biden-ban-imports-russia-oil">Biden announces ban imports of Russian oil because of Moscow's war on Ukraine</a> NPR: Until now, Washington had worked with European allies to limit the impact of sanctions on energy trade. The U.S. ban marks a divergence from its partners, which rely on Russia for oil and gas. 
+ <a href="https://www.npr.org/2022/03/08/1085089048/biden-ban-imports-russia-oil">Biden announces Russian oil import ban and warns gas prices could increase even more </a> NPR: President Biden described the move as a critical step to punishing Russian President Vladimir Putin for invading Ukraine, but said as a result, Americans should prepare for price hikes at the pump. 
  <p class="updated_time"> 08:06 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60659185?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian general killed near Kharkiv, say defenders</a> BBC: Russia has not confirmed the claimed deaths of Maj-Gen Vitaly Gerasimov and other officers. 
  <p class="updated_time"> 08:03 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices hit a national average above $4, up more than 10 percent in a week. 
- <p class="updated_time"> 08:01 AM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/global-economy-braces-for-impact-of-russias-war-on-ukraine-11646684060">Global Economy Braces for Impact of Russia’s War on Ukraine</a> WSJ: Global Economy Braces for Impact of Russia’s War on Ukraine 
  <p class="updated_time"> 08:00 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/russia-superyacht-putin-oligarch.html">A 459-Foot Mystery in a Tuscan Port: Is It a Russian’s Superyacht?</a> NYT: As European authorities go after the luxury assets of oligarchs close to Vladimir Putin, a superyacht cloaked in secrecy has come under investigation. 
+ <p class="updated_time"> 07:53 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-restarts-work-at-punggye-ri-nuclear-testing-site-report-says-11646751402">North Korea Restarts Work at Punggye-ri Nuclear Testing Site, Report Says</a> WSJ: North Korea Restarts Work at Punggye-ri Nuclear Testing Site, Report Says 
  <p class="updated_time"> 07:12 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60658497?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: ‘We went from brewing beer to making Molotov cocktails’</a> BBC: We decided to use our knowledge of chemistry to help the civil defence forces, a brewery owner says. 
- <p class="updated_time"> 07:01 AM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/north-korea-restarts-work-at-punggye-ri-nuclear-testing-site-report-says-11646751402">North Korea Restarts Work at Punggye-ri Nuclear Testing Site, Report Says</a> WSJ: North Korea Restarts Work at Punggye-ri Nuclear Testing Site, Report Says 
  <p class="updated_time"> 07:00 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/health-service-attacks-ukraine-who.html">W.H.O. Condemns Attacks on Health Care Services in Ukraine, Calls for Safe Passage for Medical Supplies</a> NYT: The organization has confirmed at least 16 attacks on the medical system, which is facing urgent supply shortages. 
- <p class="updated_time"> 07:00 AM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-60661611?at_medium=RSS&at_campaign=KARANGA">Shell sorry and pledges to stop buying Russian oil</a> BBC: The energy giant says it will also close all its petrol stations in Russia and stop buying oil there. 
  <p class="updated_time"> 06:56 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/russia-ukraine-media.html">Two Days of Russian News Coverage: An Alternate Reality of War</a> NYT: To watch news broadcasts of the fighting in Ukraine on the main state channels in Russia is to witness the extent of the Kremlin’s efforts to sanitize its war. 
- <p class="updated_time"> 06:01 AM CT, Mar. 08 </p> 
+ <p class="updated_time"> 06:53 AM CT, Mar. 08 </p> 
  <a href="https://www.wsj.com/articles/unvaccinated-elderly-send-hong-kongs-covid-19-death-rate-to-worlds-highest-11646748091">Unvaccinated Elderly Send Hong Kong’s Covid-19 Death Rate to World’s Highest</a> WSJ: Unvaccinated Elderly Send Hong Kong’s Covid-19 Death Rate to World’s Highest 
  <p class="updated_time"> 05:49 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/battlefield-reports-ukraine-russia.html">What Ukrainian Military Reports Are Saying Nearly 2 Weeks Into War</a> NYT: The Ukrainian military claims to have killed thousands of Russian soldiers and destroyed hundreds of tanks and aircraft. Verifying the figures is challenging. 
@@ -103,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/us/dc-truck-convoy-protest.html">Truckers Protest Mandates on D.S. Beltway for a Second Day</a> NYT: Organizers of a convoy of vehicles protesting mask and vaccine mandates said they would drive another lap around the Beltway on Monday but did not intend to enter the capital. 
  <p class="updated_time"> 08:17 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-letter-z-ivan-kuliak.html">Letter ‘Z,’ Symbol of Support for War, Spreads Across Russia </a> NYT: The letter, painted on Russian military vehicles, is suddenly ubiquitous in Russia, prompting talk of a Kremlin public relations campaign. 
- <p class="updated_time"> 07:56 PM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60656553?at_medium=RSS&at_campaign=KARANGA">Gretchen Whitmer: Trial due to begin in US governor kidnapping plot</a> BBC: The four are accused of trying to kidnap Democrat Gretchen Whitmer due to her Covid rules. 
  <p class="updated_time"> 07:28 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/zelensky-ukraine-russia-invasion.html">Video: Zelensky Is Seen in His Office for  First Time Since Invasion</a> NYT: The Ukrainian president told his people that he was not afraid or in hiding. 
  <p class="updated_time"> 07:27 PM CT, Mar. 07 </p> 
@@ -115,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60643446?at_medium=RSS&at_campaign=KARANGA">Why misogyny is at the heart of South Korea's presidential elections</a> BBC: Disgruntled young men who resent feminism are the focus of candidates vying to be president. 
  <p class="updated_time"> 06:12 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60656613?at_medium=RSS&at_campaign=KARANGA">Ukraine: Documenting the war on TikTok</a> BBC: Valerisssh has posted videos online of her standing outside shelled buildings. 
- <p class="updated_time"> 06:11 PM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-60653856?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Crisis is unleashing 'hell on earth' for food prices</a> BBC: The Ukraine war could push millions closer to starvation, the boss of the World Food Programme says. 
  <p class="updated_time"> 05:51 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085025672/russia-social-media-ban">Russia is restricting social media. Here's what we know</a> NPR: Russians face a confusing patchwork of online restrictions as the Kremlin cracks down on the free flow of information on social media. 
  <p class="updated_time"> 05:46 PM CT, Mar. 07 </p> 
@@ -193,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/russia-ukraine-invasion.html">Russia Keeps Up Attack, Again Halting Evacuation of Ukrainian Port City</a> NYT: An encircled Mariupol faced intense shelling, while Russian forces kept up their slow advance on Ukraine’s capital, Kyiv. 
  <p class="updated_time"> 05:56 PM CT, Mar. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60641217?at_medium=RSS&at_campaign=KARANGA">Ukraine: With placards and tears, Poles are greeting refugees like family</a> BBC: A Polish couple, messaged from Taiwan, have come to meet a Ukrainian refugee - welcome to Przemysl. 
- <p class="updated_time"> 04:06 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/arts/music/tugan-sokhiev-russia-ukraine-putin.html">Pressed About Putin, Russian Conductor Quits Bolshoi and French Posts</a> NYT: The Bolshoi music director, Tugan Sokhiev, said he was “asked to choose one cultural tradition” over another and denounce President Putin for invading Ukraine. 
  <p class="updated_time"> 02:35 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/asia/pakistan-aurat-march-women.html">As Women’s Marches Gain Steam in Pakistan, Conservatives Grow Alarmed</a> NYT: What began in 2018 as a single march for International Women’s Day has become an annual event in multiple cities. Opposition is rising, and threats are, too. 
 
@@ -204,8 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:18 AM CT, Mar. 08 </p> 
- <a href="https://www.politico.com/news/2022/03/08/irs-2022-tax-filing-season-00014673">‘They went down hard’: IRS’ tax season woes rooted in pandemic, long funding slide</a> Politico: Millions of taxpayers are still awaiting refunds from last year, part of a paperwork pileup that the agency is struggling to get a handle on. 
+ <p class="updated_time"> 12:21 PM CT, Mar. 08 </p> 
+ <a href="https://www.politico.com/news/2022/03/08/putin-ukraine-europe-refugees-00015099">In a matter of weeks, Vladimir Putin made them refugees</a> Politico: Three stories tell the tale of how, in a matter of weeks, the crisis in Ukraine has sparked the largest humanitarian crisis in Europe in a generation. 
+ <p class="updated_time"> 11:48 AM CT, Mar. 08 </p> 
+ <a href="https://www.politico.com/news/2022/03/08/enrique-tarrio-jan-6-attack-00015138">Proud Boys leader indicted for conspiracy related to Jan. 6  attack</a> Politico: Other members of the Proud Boys have been charged separately for joining the mob. 
  <p class="updated_time"> 11:04 AM CT, Mar. 08 </p> 
  <a href="https://www.politico.com/news/2022/03/08/pelosi-congress-vote-russia-oil-ban-00015091">Pelosi to proceed with vote on Russia oil ban</a> Politico: An aide said the White House had been suggesting for days it would act but was only now proceeding after pressure from Congress. 
  <p class="updated_time"> 10:48 AM CT, Mar. 08 </p> 
@@ -225,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:42 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-military.html">As Russia’s Military Stumbles, Its Adversaries Take Note</a> NYT: President Vladimir Putin could still reduce cities in Ukraine to rubble, officials say. But European countries say they are not as intimidated by Russian ground forces as they were in the past. 
  <p class="updated_time"> 08:10 AM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085089048/biden-ban-imports-russia-oil">Biden announces ban imports of Russian oil because of Moscow's war on Ukraine</a> NPR: Until now, Washington had worked with European allies to limit the impact of sanctions on energy trade. The U.S. ban marks a divergence from its partners, which rely on Russia for oil and gas. 
+ <a href="https://www.npr.org/2022/03/08/1085089048/biden-ban-imports-russia-oil">Biden announces Russian oil import ban and warns gas prices could increase even more </a> NPR: President Biden described the move as a critical step to punishing Russian President Vladimir Putin for invading Ukraine, but said as a result, Americans should prepare for price hikes at the pump. 
  <p class="updated_time"> 08:03 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices hit a national average above $4, up more than 10 percent in a week. 
  <p class="updated_time"> 07:45 AM CT, Mar. 08 </p> 
@@ -276,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/07/zelenskyy-adviser-global-ban-russian-oil-00014710">Zelenskyy adviser: Global ban on Russian oil would end Putin's attacks</a> Politico: Ukrainian economist Oleg Ustenko says the world can endure temporarily higher oil prices to help Ukraine 
  <p class="updated_time"> 06:57 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/jim-cooper-airport-loaded-gun-00014845">California lawmaker stopped at airport security after loaded gun found in bag</a> Politico: The incident could be a liability for Jim Cooper, who is running for Sacramento sheriff. 
- <p class="updated_time"> 06:45 PM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/russia-oil-ukraine-biden-00014873">Biden set to ban Russian oil under pressure from Congress</a> Politico: Inside the White House, there's concern about the economic fallout. But momentum to shut off imports built fast on the Hill and within the administration. 
  <p class="updated_time"> 06:31 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/supreme-court-battleground-state-congressional-maps-00014879">Supreme Court won't block new battleground state congressional maps</a> Politico: The high court turned away GOP efforts to block courts' redistricting in North Carolina and Pennsylvania. 
  <p class="updated_time"> 06:19 PM CT, Mar. 07 </p> 
@@ -306,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/07/florida-surgeon-general-covid-vaccines-00014702">Florida's controversial surgeon general recommends against Covid-19 vaccination for kids</a> Politico: Surgeon General Joseph A. Ladapo has been an outspoken critic of pandemic-era safety measures such as quarantines, wearing face masks and vaccines. 
  <p class="updated_time"> 01:54 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/putin-russia-combat-forces-ukraine-00014699">Putin sends ‘nearly 100 percent’ of Russian forces at border into Ukraine</a> Politico: But the United States does not believe that Russia is “preparing to move additional battalion tactical groups from elsewhere in the country” to shore up its troops in Ukraine. 
- <p class="updated_time"> 01:11 PM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/supreme-court-bill-cosby-00014657">Supreme Court won’t review decision that freed Bill Cosby</a> Politico: The high court — whose nine members include two men accused of sexual misconduct themselves — declined to review Bill Cosby’s sexual assault case, leaving him a free man. 
  <p class="updated_time"> 12:00 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/white-house-investment-rules-china-00014496">White House split delays plans for investment controls on China</a> Politico: National security officials want an executive order limiting American banks’ ability to invest in Chinese technology firms, but the Treasury and Commerce Departments are pushing back. 
  <p class="updated_time"> 11:23 AM CT, Mar. 07 </p> 
