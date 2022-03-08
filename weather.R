@@ -192,14 +192,15 @@ champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   arrange(central_time) %>%
   select(!tz) %>%
   group_by(central_time) %>%
-  summarize(across(everything(), ~ first(na.omit(.))))
+  summarize(across(everything(), ~ first(na.omit(.)))) %>%
+  na_interpolation()
 
 
 champaign_forecast_longer <- champaign_history_and_forecast %>%
   select(central_time,temp, humidity,
          wind_speed, clouds,
          pop, rain, snow, sunrise, sunset) %>%
-  #select(where(~ any(. != 0))) %>%
+  select(where(~ any(. != 0))) %>%
   pivot_longer(cols = !c(central_time, sunrise, sunset),
                names_to = "names",
                values_to = "values") %>%
@@ -228,11 +229,10 @@ ggplot() +
                 ymin = bottom, ymax = top),
             color = "#FFFFFB",
             fill = "#FFFFFB") +
-  geom_point(data = champaign_forecast_longer,
+  geom_line(data = champaign_forecast_longer,
              aes(x = central_time,
                  y = values,
-                 colour = names),
-             size = .5) +
+                 colour = names)) +
   # geom_hline(data = data.frame(yint = 32, names="°F"),
   #            aes(yintercept = yint),
   #            color = "#a2d2df",
