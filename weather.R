@@ -6,6 +6,7 @@ library(httr)
 library(jsonlite)
 library(cowplot)
 library(sf)
+library(imputeTS)
 
 champaign_lat <-  40.116
 champaign_lon <- -88.243
