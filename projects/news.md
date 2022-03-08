@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Makes Appearance From His Presidential Office</a> NYT: The Ukrainian leader, Volodymyr Zelensky, said in a video that he was not in hiding. Ukraine’s government claims to have shot down two Russian planes over Kyiv. 
+ <p class="updated_time"> 12:51 AM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/2022/03/08/world/europe/venezuela-russia-oil.html">Venezuela Could Be Fill-in for Russian Oil, But Critics Fear Aiding Maduro</a> NYT: U.S. officials are reportedly considering easing sanctions on Venezuelan crude as oil prices have skyrocketed. 
+ <p class="updated_time"> 12:38 AM CT, Mar. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60654573?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Live-streaming music from a Kharkiv basement</a> BBC: Alex's house was destroyed by shelling, and he and his bandmates are sheltering in their basement studio. 
+ <p class="updated_time"> 12:33 AM CT, Mar. 08 </p> 
+ <a href="https://www.npr.org/2022/03/08/1085095406/new-zealand-changes-tack-on-surging-covid-19-cases">New Zealand changes its tack on surging COVID-19 cases</a> NPR: Experts say New Zealand's actions have likely saved thousands of lives by allowing the nation to mostly avoid earlier, more deadly variants and buying time to get people vaccinated. 
  <p class="updated_time"> 12:26 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-60656673?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia says it may cut gas supplies if oil ban goes ahead</a> BBC: A top official says Russia may close its gas lines to Germany if the West halts oil imports. 
  <p class="updated_time"> 12:17 AM CT, Mar. 08 </p> 
@@ -17,19 +25,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/asia/south-korea-early-voting-covid.html">South Korea reports high turnout in early voting, but apologizes to coronavirus patients for a lack of preparation.</a> NYT: South Korea is experiencing a sharp spike in coronavirus cases, its worst wave of the pandemic, but is allowing infected voters to cast a ballot in the country’s contentious presidential election. 
  <p class="updated_time"> 11:53 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60656717?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Two killed and thousands forced to evacuate</a> BBC: Two people die as flash-flooding inundates roads and homes in Australia's most populous city. 
- <p class="updated_time"> 11:36 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 11:53 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russia Pummels Civilian Targets While Talks Make Scant Progress 
- <p class="updated_time"> 11:34 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Makes Appearance From His Presidential Office</a> NYT: The Ukrainian leader, Volodymyr Zelensky, said in a video that he was not in hiding. Ukraine’s government claims to have shot down two Russian planes over Kyiv. 
  <p class="updated_time"> 11:24 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
- <p class="updated_time"> 10:36 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 10:53 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/global-economy-braces-for-impact-of-russias-war-on-ukraine-11646684060">Global Economy Braces for Impact of Russia’s War on Ukraine</a> WSJ: Global Economy Braces for Impact of Russia’s War on Ukraine 
  <p class="updated_time"> 10:16 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices hit a national average above $4, up more than 10 percent in a week. 
  <p class="updated_time"> 10:06 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60647656?at_medium=RSS&at_campaign=KARANGA">Bhavana Menon: India actress breaks silence on sexual assault</a> BBC: Bhavana Menon's sexual assault made headlines, especially after Malayali superstar Dileep was named as an accused. 
- <p class="updated_time"> 09:36 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 09:53 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450">Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’</a> WSJ: Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’ 
  <p class="updated_time"> 09:12 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60598235?at_medium=RSS&at_campaign=KARANGA">North Korea: Construction spotted at Punggye-ri nuclear test site</a> BBC: Satellite images show fresh signs of repair work at Punggye-ri, which was closed in 2018. 
@@ -37,17 +43,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-military.html">As Russia’s Military Stumbles, Its Adversaries Take Note</a> NYT: President Vladimir Putin could still reduce cities in Ukraine to rubble, officials say. But European countries say they are not as intimidated by Russian ground forces as they were in the past. 
  <p class="updated_time"> 08:54 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
+ <p class="updated_time"> 08:53 PM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: How the Letter Z Became a Russian Pro-War Symbol 
  <p class="updated_time"> 08:52 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/dc-truck-convoy-protest.html">Truckers Protest Mandates on D.S. Beltway for a Second Day</a> NYT: Organizers of a convoy of vehicles protesting mask and vaccine mandates said they would drive another lap around the Beltway on Monday but did not intend to enter the capital. 
- <p class="updated_time"> 08:36 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: How the Letter Z Became a Russian Pro-War Symbol 
  <p class="updated_time"> 08:17 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-letter-z-ivan-kuliak.html">Letter ‘Z,’ Symbol of Support for War, Spreads Across Russia </a> NYT: The letter, painted on Russian military vehicles, is suddenly ubiquitous in Russia, prompting talk of a Kremlin public relations campaign. 
  <p class="updated_time"> 07:58 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-60657127?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: World Bank approves $723m financial package</a> BBC: The package of financial support for Ukraine includes a $100m pledge from the UK. 
  <p class="updated_time"> 07:56 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60656553?at_medium=RSS&at_campaign=KARANGA">Gretchen Whitmer: Trial due to begin in US governor kidnapping plot</a> BBC: The four are accused of trying to kidnap Democrat Gretchen Whitmer due to her Covid rules. 
- <p class="updated_time"> 07:36 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 07:53 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill 
  <p class="updated_time"> 07:28 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Is Seen in His Office for the First Time Since Invasion</a> NYT: The Ukrainian president told his people that he was not afraid or in hiding. 
@@ -117,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/world/europe/mykolaiv-ukraine-russia-battle.html">Ukrainians Repel Another Russian Assault on Mykolaiv, Officials Say</a> NYT: As the opposing armies fought outside the strategic port city near the Black Sea, residential areas within Mykolaiv came under intensifying Russian rocket and artillery fire. 
  <p class="updated_time"> 12:14 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/asia/putin-ukraine-china-xi.html">Xi and Putin’s 'No Limits' Bond Leaves China Few Options on Ukraine</a> NYT: Beijing aligned itself with Putin as Russia prepared to invade Ukraine. Now its efforts to edge away are constrained by leadership politics. 
- <p class="updated_time"> 12:13 PM CT, Mar. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60621254?at_medium=RSS&at_campaign=KARANGA">Family separated by war in Ukraine finally reunited</a> BBC: Rita and her children were trapped in Ukraine when Russia invaded. After spending a week in their basement, they've finally been reunited with Rita's husband and their father Andy. 
  <p class="updated_time"> 12:09 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084902080/ukraine-russia-united-states-world-war-3-poland">We're trying everything to avoid WWIII, acting U.S. ambassador to Ukraine says</a> NPR: As Russia continues its invasion of Ukraine, NATO forces are building in border countries in an effort to contain the conflict and prevent a wider war, according to the U.S. ambassador to Ukraine. 
  <p class="updated_time"> 11:55 AM CT, Mar. 07 </p> 
@@ -151,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60645126?at_medium=RSS&at_campaign=KARANGA">Chaos and tears as thousands try to catch a train out of Ukraine</a> BBC: At the central train station in Lviv, many thousands arrive after fleeing bombed out cities further east. 
  <p class="updated_time"> 04:33 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/no-fly-zone-ukraine-congress.html">Rubio, U.S. Lawmakers Are Largely Opposed to No-Fly Zone Over Ukraine</a> NYT: Members of both parties said such a move would risk drawing the United States into a conflict with Russia, another nuclear power. 
- <p class="updated_time"> 04:14 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084875710/russia-sets-cease-fire-for-evacuations-amid-heavy-shelling">Russia sets cease-fire for evacuations amid heavy shelling</a> NPR: A third round of talks is planned for Monday as some of the evacuation routes would funnel civilians toward Russia or its ally Belarus. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/kotchakorn-voraakhom-architect-climate-change.html">For Kotchakorn Voraakhom, Water and Landscape Do Mix</a> NYT: With climate change bringing harsher rains and rising waters, Kotchakorn Voraakhom designs landscapes to alleviate flooding and add greenery. 
  <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
@@ -195,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-poland-families-separation.html">‘Falling Into Emptiness’: Ukrainian Families Feel the Pain of Separation</a> NYT: With most Ukrainian men legally prohibited from leaving Ukraine, the international border gates serve as a painful filter, splitting families as women and children move on. 
  <p class="updated_time"> 09:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/ukraine-russia-moldova-transnistria.html">On Ukraine’s Border, Moldovans Wonder: Where Will Putin Stop?</a> NYT: Moldovans fear that Transnistria, a region run by Russia-backed separatists in eastern Moldova, might be the next target after Ukraine. 
- <p class="updated_time"> 07:21 AM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/europe/ukraine-russia-soldiers-war.html">Russian Prisoners and Ukrainian Soldiers Describe Two Sides of the Conflict</a> NYT: The accounts painted a picture of a conflict consisting largely of ambushes, at least in northern Ukraine where the Russian forces are striving to encircle and capture the capital, Kyiv. 
  <p class="updated_time"> 07:15 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone.html">What Is a No-Fly Zone, and Why Is It So Contentious?</a> NYT: Enforcing a ban on aircraft could draw more countries into conflict against Russia and set off “a full-fledged war in Europe,” NATO’s leader has warned. 
  <p class="updated_time"> 04:00 AM CT, Mar. 06 </p> 
