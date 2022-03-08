@@ -231,7 +231,7 @@ ggplot() +
              aes(x = central_time,
                  y = values,
                  colour = names),
-             size = .6) +
+             size = .5) +
   # geom_hline(data = data.frame(yint = 32, names="°F"),
   #            aes(yintercept = yint),
   #            color = "#a2d2df",
