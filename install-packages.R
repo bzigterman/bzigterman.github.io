@@ -1,10 +1,14 @@
+options(install.packages.check.source = "no")
+
 install.packages("tidyverse")
 install.packages("rio")
 install.packages("lubridate")
 install.packages("httr")
 install.packages("zoo")
 install.packages("gt")
-install.packages("sf", configure.args = "--with-proj-lib=/usr/local/lib/")
+install.packages("sf", 
+                 type = "mac.binary",
+                 configure.args = "--with-proj-lib=/usr/local/lib/")
 install.packages("RColorBrewer")
 install.packages("ggforce")
 install.packages("htmltools")
