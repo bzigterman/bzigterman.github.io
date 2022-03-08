@@ -167,6 +167,16 @@ wsj <- tidyfeed("https://feeds.a.dj.com/rss/RSSWorldNews.xml")%>%
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d"))
 
+wsj_world <- tidyfeed("https://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fwww.wsj.com%2Fnews%2Fworld&in_id_or_class=WSJTheme--headline--unZqjb45&max=5&order=document&guid=0") %>%
+  mutate(item_description = item_title) %>%
+  select(feed_title,item_title, item_link, item_description)%>%
+  mutate(feed = "WSJ") %>%
+  mutate(item_pub_date = now(tzone = "America/Chicago")-hours(1:5)) %>%
+  mutate(central_time = item_pub_date) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
 bbc <- tidyfeed("http://feeds.bbci.co.uk/news/world/rss.xml")%>%
   select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
   mutate(feed = "BBC") %>%
@@ -188,6 +198,7 @@ npr_world <- tidyfeed("feeds.npr.org/1004/rss.xml") %>%
 
 world_news <- full_join(nyt, wsj) %>%
   full_join(bbc) %>%
+  full_join(wsj_world) %>%
   full_join(npr_world) %>%
   filter(!is.na(item_description)) %>%
   filter(!grepl("Opinion",item_title)) %>%
