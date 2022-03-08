@@ -9,52 +9,54 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:06 AM CT, Mar. 08 </p> 
+ <p class="updated_time"> 04:29 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Live Updates: Zelensky Posts Video From Kyiv as Ukraine’s Forces Stall Russian Advance</a> NYT: President Volodymyr Zelensky of Ukraine spoke from his office for the first time since the start of the war and said he was not in hiding. The U.N. said 2 million refugees have fled Ukraine since Russia’s invasion began. 
+ <p class="updated_time"> 04:21 AM CT, Mar. 08 </p> 
+ <a href="https://www.npr.org/2022/03/08/1085023029/russias-invasion-puts-a-new-light-on-trumps-ukraine-pressure-campaign">Russia's invasion puts a new light on Trump's Ukraine pressure campaign</a> NPR: With Russia's brutal invasion and Ukrainian President Volodymyr Zelenskyy being hailed as a hero, Trump's infamous 2019 call to Zelenskyy is put into a very different light. 
  <p class="updated_time"> 04:00 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/australia/new-zealand-maori-tane-mahuta-kauri.html">How Maori Stepped In to Save a Towering Tree Crucial to Their Identity</a> NYT: Tāne Mahuta, an ancient tree named after the god of forests in Māori mythology, is threatened by the slow creep of an incurable disease. 
  <p class="updated_time"> 04:00 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/south-korea-young-voters-election.html">Meet South Korea’s Swing Voters: Young, Broke and Angry</a> NYT: Frustrated over housing prices, a lack of job opportunities and a widening income gap, the once-reliable voting bloc is undecided and will most likely elect the next president. 
  <p class="updated_time"> 03:51 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60659185?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian general killed near Kharkiv, say defenders</a> BBC: Russia has not confirmed the claimed deaths of Maj-Gen Vitaly Gerasimov and other officers. 
+ <p class="updated_time"> 03:34 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russia Pummels Civilian Targets While Talks Make Scant Progress 
  <p class="updated_time"> 03:25 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-60656673?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia says it may cut gas supplies if oil ban goes ahead</a> BBC: A top official says Russia may close its gas lines to Germany if the West halts oil imports. 
- <p class="updated_time"> 03:13 AM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russia Pummels Civilian Targets While Talks Make Scant Progress 
  <p class="updated_time"> 02:49 AM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085097957/what-the-war-in-syria-tells-about-russias-use-of-humanitarian-corridors">What the war in Syria tells about Russia's use of humanitarian corridors</a> NPR: Observers say Russia's use of such corridors were effective in attaining the goals of regaining control of opposition areas. 
- <p class="updated_time"> 02:13 AM CT, Mar. 08 </p> 
+ <p class="updated_time"> 02:34 AM CT, Mar. 08 </p> 
  <a href="https://www.wsj.com/articles/global-economy-braces-for-impact-of-russias-war-on-ukraine-11646684060">Global Economy Braces for Impact of Russia’s War on Ukraine</a> WSJ: Global Economy Braces for Impact of Russia’s War on Ukraine 
  <p class="updated_time"> 02:02 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/smugglers-afghanistan.html">The Smugglers’ Paradise of Afghanistan</a> NYT: For decades, the smuggling trade — of people, drugs and money — has dominated Nimruz Province. Now, as hundreds of thousands of Afghans try to flee, business has further boomed for those who hold the keys to the gate. 
  <p class="updated_time"> 01:47 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-refugees-poland-russia.html">Poles Welcome Ukrainian Refugees, Unlike in Last Border Crisis</a> NYT: Hundreds of thousands of Polish families have opened their homes to refugees from Ukraine, a sharp contrast to the country’s response to a different crisis last fall at the border with Belarus. 
+ <p class="updated_time"> 01:34 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-reports-first-polio-case-in-decades-11646686818">Israel Reports First Polio Case in Decades</a> WSJ: Israel Reports First Polio Case in Decades 
  <p class="updated_time"> 01:33 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60659029?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: President Zelensky posts video from office in Kyiv</a> BBC: The Ukrainian president reveals his location in Kyiv in a new video shared on social media. 
  <p class="updated_time"> 01:26 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-60649214?at_medium=RSS&at_campaign=KARANGA">McDonald's and Coca-Cola boycott calls grow over Russia</a> BBC: Food and drink giants have been criticised on social media for failing to speak out on Ukraine's invasion. 
  <p class="updated_time"> 01:21 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/venezuela-russia-oil.html">Venezuela Could Be Fill-in for Russian Oil, But Critics Fear Aiding Maduro</a> NYT: U.S. officials are reportedly considering easing sanctions on Venezuelan crude as oil prices have skyrocketed. 
- <p class="updated_time"> 01:13 AM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-reports-first-polio-case-in-decades-11646686818">Israel Reports First Polio Case in Decades</a> WSJ: Israel Reports First Polio Case in Decades 
  <p class="updated_time"> 01:00 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/russia-superyacht-putin-oligarch.html">A 459-Foot Mystery in a Tuscan Port: Is It a Russian’s Superyacht?</a> NYT: As European authorities seize the luxury assets of oligarchs close to Vladimir Putin, a superyacht cloaked in secrecy has come under investigation. 
  <p class="updated_time"> 12:38 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60654573?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Live-streaming music from a Kharkiv basement</a> BBC: Alex's house was destroyed by shelling, and he and his bandmates are sheltering in their basement studio. 
+ <p class="updated_time"> 12:34 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill 
  <p class="updated_time"> 12:33 AM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085095406/new-zealand-changes-tack-on-surging-covid-19-cases">New Zealand changes its tack on surging COVID-19 cases</a> NPR: Experts say New Zealand's actions have likely saved thousands of lives by allowing the nation to mostly avoid earlier, more deadly variants and buying time to get people vaccinated. 
  <p class="updated_time"> 12:17 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-humanitarian-crisis-russia.html">Humanitarian Crisis Worsens for Ukrainians Trapped in Russia’s Onslaught</a> NYT: Two weeks after the invasion began, tens of thousands of Ukrainians are without food, water or power. The Russians are increasingly resorting to indiscriminate shelling to help their forces advance. 
- <p class="updated_time"> 12:13 AM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill 
  <p class="updated_time"> 12:05 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/asia/south-korea-early-voting-covid.html">South Korea reports high turnout in early voting, but apologizes to coronavirus patients for a lack of preparation.</a> NYT: South Korea is experiencing a sharp spike in coronavirus cases, its worst wave of the pandemic, but is allowing infected voters to cast a ballot in the country’s contentious presidential election. 
  <p class="updated_time"> 11:53 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60656717?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Two killed and thousands forced to evacuate</a> BBC: Two people die as flash-flooding inundates roads and homes in Australia's most populous city. 
+ <p class="updated_time"> 11:34 PM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/moderna-signals-it-may-enforce-covid-19-vaccine-patents-in-wealthy-nations-11646699609">Moderna Signals It May Enforce Covid-19 Vaccine Patents in Wealthy Nations</a> WSJ: Moderna Signals It May Enforce Covid-19 Vaccine Patents in Wealthy Nations 
  <p class="updated_time"> 11:24 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
- <p class="updated_time"> 11:13 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/moderna-signals-it-may-enforce-covid-19-vaccine-patents-in-wealthy-nations-11646699609">Moderna Signals It May Enforce Covid-19 Vaccine Patents in Wealthy Nations</a> WSJ: Moderna Signals It May Enforce Covid-19 Vaccine Patents in Wealthy Nations 
  <p class="updated_time"> 10:16 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices hit a national average above $4, up more than 10 percent in a week. 
  <p class="updated_time"> 10:06 PM CT, Mar. 07 </p> 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084963489/us-russia-is-trying-to-recruit-syrian-fighters-to-go-to-ukraine">Russia is trying to recruit Syrians to fight in Ukraine, U.S. says</a> NPR: The reported Russian effort to find Syrians with urban combat experience is the latest indication that Russia's invasion of Ukraine is not going as planned. 
  <p class="updated_time"> 01:40 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60638949?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl workers' 12-day ordeal under Russian guard</a> BBC: The nuclear power plant was seized on day one of Russia's invasion, and workers have not left since. 
- <p class="updated_time"> 01:10 PM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084967687/levis-jeans-suspends-operations-russia">Levi's halts sales in Russia, evoking Cold War scrambles for blue jeans</a> NPR: Levi's is suspending commercial operations in Russia, citing its aggression in Ukraine. The company's iconic blue jeans represented freedom and capitalism during the days of the Soviet Union. 
  <p class="updated_time"> 12:34 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/mykolaiv-ukraine-russia-battle.html">Ukrainians Repel Another Russian Assault on Mykolaiv, Officials Say</a> NYT: As the opposing armies fought outside the strategic port city near the Black Sea, residential areas within Mykolaiv came under intensifying Russian rocket and artillery fire. 
  <p class="updated_time"> 12:14 PM CT, Mar. 07 </p> 
@@ -220,6 +220,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/08/deal-manchin-reshape-dems-senate-defense-00014883">Senate's vulnerable Dems ready to Manchinize their spending plans</a> Politico: The party hopes rebranding President Joe Biden's signature bill as a way to cut inflation would help them keep their Senate majority. 
  <p class="updated_time"> 04:30 AM CT, Mar. 08 </p> 
  <a href="https://www.politico.com/news/2022/03/08/defense-spending-russia-ukraine-pentagon-00014888">Progressives grit their teeth as defense wins big in spending bill</a> Politico: Russia’s assault on Ukraine has scrambled the left’s game plan for Congress’ looming funding pact, which is expected to include significant military cash. 
+ <p class="updated_time"> 04:21 AM CT, Mar. 08 </p> 
+ <a href="https://www.npr.org/2022/03/08/1085023029/russias-invasion-puts-a-new-light-on-trumps-ukraine-pressure-campaign">Russia's invasion puts a new light on Trump's Ukraine pressure campaign</a> NPR: With Russia's brutal invasion and Ukrainian President Volodymyr Zelenskyy being hailed as a hero, Trump's infamous 2019 call to Zelenskyy is put into a very different light. 
+ <p class="updated_time"> 04:08 AM CT, Mar. 08 </p> 
+ <a href="https://www.npr.org/2022/03/08/1085099954/florida-senate-to-vote-on-measure-that-critics-dubbed-dont-say-gay-bill">Florida Senate to vote on measure that critics dubbed 'Don't Say Gay' bill</a> NPR: Florida's Senate is preparing to pass a bill that bans any discussion of sexual orientation in schools from kindergarten through third grade. Republican supporters say it's about parental rights. 
+ <p class="updated_time"> 04:08 AM CT, Mar. 08 </p> 
+ <a href="https://www.npr.org/2022/03/08/1085099926/congress-passes-an-anti-lynching-bill-after-more-than-a-century-of-trying">Congress passes an anti-lynching bill after more than a century of trying</a> NPR: After decades of failed attempts, Congress passed legislation making lynching a federal crime. It's estimated that more than 4,000 Black Americans were lynched since the late 19th Century. 
  <p class="updated_time"> 04:00 AM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085056986/as-misinformation-swirls-many-n-h-towns-will-vote-on-ballot-counting-machines">As misinformation swirls, many N.H. towns will vote on ballot counting machines</a> NPR: Activists contend, without proof, that New Hampshire's ballot counting machines can be hacked or rigged. So voters in more than a dozen towns will decide whether to revert to hand counts. 
  <p class="updated_time"> 04:00 AM CT, Mar. 08 </p> 
@@ -324,16 +330,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084870769/morning-news-brief">News brief: Russia-Ukraine latest, Ukrainian refugees, Bill Barr book</a> NPR: Russian forces are moving toward a third Ukrainian nuclear power plant. Russia's invasion of Ukraine has generated a refugee crisis. Ex-Attorney General Barr defends his record in a new book. 
  <p class="updated_time"> 04:01 AM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1084510375/ag-bill-barr-book-trump-2024">Bill Barr won't back a 2024 Trump run but doesn't quite condemn his former boss</a> NPR: Former Attorney General William Barr spoke with NPR about his new memoir, former President Trump's election lies and why he thinks Trump shouldn't try to return to the White House. 
- <p class="updated_time"> 04:00 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084563882/many-parents-are-angry-over-covid-policies-they-could-be-key-to-gop-2022-gains">Many parents are angry over COVID policies. They could be key to GOP 2022 gains</a> NPR: Republicans believe COVID-19 policies largely backed by Democrats are causing a schism among parents of school-age children and that will help the GOP win elections this year up and down the ballot. 
- <p class="updated_time"> 03:55 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly">In South Korea, the 'Squid Game Election' campaign gets ugly</a> NPR: Negative campaigns are aggravating South Korea's already severe political divide as presidential elections approach on Wednesday. 
- <p class="updated_time"> 03:12 AM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1084870347/blinken-says-u-s-working-to-release-americans-detained-in-russia">Russia arrests Brittney Griner; Blinken promises to help all Americans detained there</a> NPR: Speaking in Moldova, Secretary of State Antony Blinken urged Americans to leave Russia and vowed to support any American being held by Russia. 
  <p class="updated_time"> 09:03 PM CT, Mar. 06 </p> 
  <a href="https://www.cnn.com/2022/03/06/politics/trump-manhattan-district-attorney-investigation/index.html">Prosecutors resigned after New York DA said he wasn't prepared to move forward with indictment of Trump</a> CNN: Two top prosecutors leading the criminal investigation into former President Donald Trump and his business resigned after the Manhattan district attorney said he was not prepared to authorize an indictment against the former President, a person familiar with the investigation said. 
  <p class="updated_time"> 07:48 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html">Arming Ukraine: 17,000 Anti-Tank Weapons in 6 Days and a Clandestine Cybercorps</a> NYT: The United States has walked to the edge of direct conflict with Russia in an operation that is reminiscent of the Berlin airlift of 1948-49, but far more complex. 
+ <a href="https://www.nytimes.com/2022/03/06/us/politics/us-ukraine-weapons.html">How the U.S. Raced to Arm Ukraine Against Russia</a> NYT: The United States has walked to the edge of direct conflict with Russia in an operation that is reminiscent of the Berlin airlift of 1948-49, but far more complex. 
  <p class="updated_time"> 02:52 PM CT, Mar. 06 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:28 PM CT, Mar. 06 </p> 
