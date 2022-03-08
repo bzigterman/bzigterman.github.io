@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:51 AM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Makes Appearance From His Presidential Office</a> NYT: The Ukrainian leader, Volodymyr Zelensky, said in a video that he was not in hiding. Ukraine’s government claims to have shot down two Russian planes over Kyiv. 
+ <p class="updated_time"> 01:01 AM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Posts Video From Kyiv as Forces Stall Russian Advance</a> NYT: Ukraine’s president, Volodymyr Zelensky, spoke from his office for the first time since the start of the war and said he was not in hiding. The government claims to have shot down two Russian planes over Kyiv. 
+ <p class="updated_time"> 01:00 AM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/2022/03/08/world/europe/russia-superyacht-putin-oligarch.html">A 459-Foot Mystery in a Tuscan Port: Is It a Russian’s Superyacht?</a> NYT: As European authorities seize the luxury assets of oligarchs close to Vladimir Putin, a superyacht cloaked in secrecy has come under investigation. 
  <p class="updated_time"> 12:51 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/venezuela-russia-oil.html">Venezuela Could Be Fill-in for Russian Oil, But Critics Fear Aiding Maduro</a> NYT: U.S. officials are reportedly considering easing sanctions on Venezuelan crude as oil prices have skyrocketed. 
  <p class="updated_time"> 12:38 AM CT, Mar. 08 </p> 
@@ -21,40 +23,40 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60656673?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia says it may cut gas supplies if oil ban goes ahead</a> BBC: A top official says Russia may close its gas lines to Germany if the West halts oil imports. 
  <p class="updated_time"> 12:17 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-humanitarian-crisis-russia.html">Humanitarian Crisis Worsens for Ukrainians Trapped in Russia’s Onslaught</a> NYT: Two weeks after the invasion began, tens of thousands of Ukrainians are without food, water or power. The Russians are increasingly resorting to indiscriminate shelling to help their forces advance. 
+ <p class="updated_time"> 12:12 AM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russia Pummels Civilian Targets While Talks Make Scant Progress 
  <p class="updated_time"> 12:05 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/asia/south-korea-early-voting-covid.html">South Korea reports high turnout in early voting, but apologizes to coronavirus patients for a lack of preparation.</a> NYT: South Korea is experiencing a sharp spike in coronavirus cases, its worst wave of the pandemic, but is allowing infected voters to cast a ballot in the country’s contentious presidential election. 
  <p class="updated_time"> 11:53 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60656717?at_medium=RSS&at_campaign=KARANGA">Sydney floods: Two killed and thousands forced to evacuate</a> BBC: Two people die as flash-flooding inundates roads and homes in Australia's most populous city. 
- <p class="updated_time"> 11:53 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russia Pummels Civilian Targets While Talks Make Scant Progress 
  <p class="updated_time"> 11:24 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
- <p class="updated_time"> 10:53 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 11:12 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/global-economy-braces-for-impact-of-russias-war-on-ukraine-11646684060">Global Economy Braces for Impact of Russia’s War on Ukraine</a> WSJ: Global Economy Braces for Impact of Russia’s War on Ukraine 
  <p class="updated_time"> 10:16 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">Biden Officials Weigh Russian Oil Ban as Gas Prices Soar</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices hit a national average above $4, up more than 10 percent in a week. 
+ <p class="updated_time"> 10:12 PM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450">Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’</a> WSJ: Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’ 
  <p class="updated_time"> 10:06 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60647656?at_medium=RSS&at_campaign=KARANGA">Bhavana Menon: India actress breaks silence on sexual assault</a> BBC: Bhavana Menon's sexual assault made headlines, especially after Malayali superstar Dileep was named as an accused. 
- <p class="updated_time"> 09:53 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450">Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’</a> WSJ: Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’ 
  <p class="updated_time"> 09:12 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60598235?at_medium=RSS&at_campaign=KARANGA">North Korea: Construction spotted at Punggye-ri nuclear test site</a> BBC: Satellite images show fresh signs of repair work at Punggye-ri, which was closed in 2018. 
+ <p class="updated_time"> 09:12 PM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: How the Letter Z Became a Russian Pro-War Symbol 
  <p class="updated_time"> 09:04 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-military.html">As Russia’s Military Stumbles, Its Adversaries Take Note</a> NYT: President Vladimir Putin could still reduce cities in Ukraine to rubble, officials say. But European countries say they are not as intimidated by Russian ground forces as they were in the past. 
  <p class="updated_time"> 08:54 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
- <p class="updated_time"> 08:53 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: How the Letter Z Became a Russian Pro-War Symbol 
  <p class="updated_time"> 08:52 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/dc-truck-convoy-protest.html">Truckers Protest Mandates on D.S. Beltway for a Second Day</a> NYT: Organizers of a convoy of vehicles protesting mask and vaccine mandates said they would drive another lap around the Beltway on Monday but did not intend to enter the capital. 
  <p class="updated_time"> 08:17 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-letter-z-ivan-kuliak.html">Letter ‘Z,’ Symbol of Support for War, Spreads Across Russia </a> NYT: The letter, painted on Russian military vehicles, is suddenly ubiquitous in Russia, prompting talk of a Kremlin public relations campaign. 
+ <p class="updated_time"> 08:12 PM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill 
  <p class="updated_time"> 07:58 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-60657127?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: World Bank approves $723m financial package</a> BBC: The package of financial support for Ukraine includes a $100m pledge from the UK. 
  <p class="updated_time"> 07:56 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60656553?at_medium=RSS&at_campaign=KARANGA">Gretchen Whitmer: Trial due to begin in US governor kidnapping plot</a> BBC: The four are accused of trying to kidnap Democrat Gretchen Whitmer due to her Covid rules. 
- <p class="updated_time"> 07:53 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill 
  <p class="updated_time"> 07:28 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Is Seen in His Office for the First Time Since Invasion</a> NYT: The Ukrainian president told his people that he was not afraid or in hiding. 
  <p class="updated_time"> 07:27 PM CT, Mar. 07 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/06/world/europe/police-russia-protests.html">Police Arrest More Than 3,000 People As Protests Grow Across Russia</a> NYT: An activist group that tracks protests found demonstrations in nearly 50 cities on Sunday. 
  <p class="updated_time"> 02:35 PM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/asia/pakistan-aurat-march-women.html">As Women’s Marches Gain Steam in Pakistan, Conservatives Grow Alarmed</a> NYT: What began in 2018 as a single march for International Women’s Day has become an annual event in multiple cities. Opposition is rising, and threats are, too. 
- <p class="updated_time"> 01:09 PM CT, Mar. 06 </p> 
- <a href="https://www.nytimes.com/2022/03/05/world/americas/mexico-soccer-riot.html">Mexico Soccer Riot Leaves 26 Injured, Officials Say</a> NYT: Videos posted on social media showed violent clashes between fans in a stadium in the central city of Querétaro on Saturday. 
  <p class="updated_time"> 11:36 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/world/europe/us-fighter-jets-ukraine.html">U.S. Is Exploring How to Send Soviet-Era Fighter Jets to Ukraine</a> NYT: The discussions follow President Volodymyr Zelensky’s impassioned plea to American legislators for assistance in obtaining more lethal military aid. 
  <p class="updated_time"> 10:42 AM CT, Mar. 06 </p> 
