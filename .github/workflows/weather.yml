@@ -26,6 +26,7 @@ jobs:
       - name: Install packages
         if: steps.cache-r-packages.outputs.cache-hit != 'true'        
         run: |-
+          brew install pkg-config
           brew install gdal
           R -e 'source("install-packages.R", echo = TRUE)'
         
