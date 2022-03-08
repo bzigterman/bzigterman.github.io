@@ -15,7 +15,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/07/world/ukraine-russia-war">Ukraine Live Updates: Third Round of Talks Raise Hopes for Evacuation Routes</a> NYT: Ukraine’s president, Volodymyr Zelensky, posted a video from his office and said he was not in hiding. Ukraine’s government claims to have shot down two Russian planes over Kyiv. 
  <p class="updated_time"> 09:59 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-humanitarian-crisis-russia.html">Humanitarian Crisis Worsens for Ukrainians Trapped in Russia’s Onslaught</a> NYT: Two weeks after the invasion began, tens of thousands of Ukrainians are without food, water or power. The Russians are increasingly resorting to indiscriminate shelling to help their forces advance. 
- <p class="updated_time"> 09:30 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 09:52 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-pummels-ukrainian-civilian-targets-ahead-of-talks-11646645852">Russia Pummels Civilian Targets While Talks Make Scant Progress</a> WSJ: Russia Pummels Civilian Targets While Talks Make Scant Progress 
  <p class="updated_time"> 09:12 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60598235?at_medium=RSS&at_campaign=KARANGA">North Korea: Construction spotted at Punggye-ri nuclear test site</a> BBC: Satellite images show fresh signs of repair work at Punggye-ri, which was closed in 2018. 
@@ -25,7 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
  <p class="updated_time"> 08:52 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/dc-truck-convoy-protest.html">Truckers Protest Mandates on D.S. Beltway for a Second Day</a> NYT: Organizers of a convoy of vehicles protesting mask and vaccine mandates said they would drive another lap around the Beltway on Monday but did not intend to enter the capital. 
- <p class="updated_time"> 08:30 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 08:52 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/global-economy-braces-for-impact-of-russias-war-on-ukraine-11646684060">Global Economy Braces for Impact of Russia’s War on Ukraine</a> WSJ: Global Economy Braces for Impact of Russia’s War on Ukraine 
  <p class="updated_time"> 08:17 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/russia-letter-z-ivan-kuliak.html">Letter ‘Z,’ Symbol of Support for War, Spreads Across Russia </a> NYT: The letter, painted on Russian military vehicles, is suddenly ubiquitous in Russia, prompting talk of a Kremlin public relations campaign. 
@@ -33,7 +33,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60657127?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: World Bank approves $723m financial package</a> BBC: The package of financial support for Ukraine includes a $100m pledge from the UK. 
  <p class="updated_time"> 07:56 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60656553?at_medium=RSS&at_campaign=KARANGA">Gretchen Whitmer: Trial due to begin in US governor kidnapping plot</a> BBC: The four are accused of trying to kidnap Democrat Gretchen Whitmer due to her Covid rules. 
- <p class="updated_time"> 07:30 PM CT, Mar. 07 </p> 
+ <p class="updated_time"> 07:52 PM CT, Mar. 07 </p> 
  <a href="https://www.wsj.com/articles/occupied-ukrainian-towns-want-russian-troops-to-go-home-11646662450">Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’</a> WSJ: Occupied Ukrainian Towns Want Russian Troops to ‘Go Home’ 
  <p class="updated_time"> 07:28 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/zelensky-ukraine-russia-invasion.html">Zelensky Is Seen in His Office for the First Time Since Invasion</a> NYT: The Ukrainian president told his people that he was not afraid or in hiding. 
@@ -41,22 +41,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60653099?at_medium=RSS&at_campaign=KARANGA">Femicide detectives: 'Counting bodies is the best place to start'</a> BBC: Many countries do not record femicide - the most extreme form of gender-based violence - so activists are doing it themselves. 
  <p class="updated_time"> 06:56 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-60656673?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia says it may cut gas supplies if oil ban goes ahead</a> BBC: A top official says Russia may close its gas lines to Germany if the West halts oil imports. 
+ <p class="updated_time"> 06:52 PM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: How the Letter Z Became a Russian Pro-War Symbol 
  <p class="updated_time"> 06:44 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085053999/stolichnaya-vodka-stoli-ukraine-russia">Stolichnaya Vodka rebrands as 'Stoli,' trying to distance itself from Putin </a> NPR: Company leaders explained vehement opposition to Russian President Vladimir Putin and his invasion of Ukraine. They also hope the new name will represent "Stoli's roots in Latvia." 
- <p class="updated_time"> 06:30 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/how-the-letter-z-became-a-russian-pro-war-symbol-11646675508">How the Letter Z Became a Russian Pro-War Symbol</a> WSJ: How the Letter Z Became a Russian Pro-War Symbol 
  <p class="updated_time"> 06:23 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60643446?at_medium=RSS&at_campaign=KARANGA">Why misogyny is at the heart of South Korea's presidential elections</a> BBC: Disgruntled young men who resent feminism are the focus of candidates vying to be president. 
  <p class="updated_time"> 06:12 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60656613?at_medium=RSS&at_campaign=KARANGA">Ukraine: Documenting the war on TikTok</a> BBC: Valerisssh has posted videos online of her standing outside shelled buildings. 
  <p class="updated_time"> 06:11 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-60653856?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Crisis is unleashing 'hell on earth' for food prices</a> BBC: The Ukraine war could push millions closer to starvation, the boss of the World Food Programme says. 
+ <p class="updated_time"> 05:52 PM CT, Mar. 07 </p> 
+ <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill 
  <p class="updated_time"> 05:51 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085025672/russia-social-media-ban">Russia is restricting social media. Here's what we know</a> NPR: Russians face a confusing patchwork of online restrictions as the Kremlin cracks down on the free flow of information on social media. 
  <p class="updated_time"> 05:46 PM CT, Mar. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-60506228?at_medium=RSS&at_campaign=KARANGA">Can tech help revive India's 'crumbling' health system?</a> BBC: Indian doctors hope big investment and smart tech will improve a fragmented healthcare sector. 
- <p class="updated_time"> 05:30 PM CT, Mar. 07 </p> 
- <a href="https://www.wsj.com/articles/iran-chief-negotiator-unexpectedly-leaves-vienna-as-nuclear-talks-hit-standstill-11646683825">Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill</a> WSJ: Iran Chief Negotiator Unexpectedly Leaves Vienna as Nuclear Talks Hit Standstill 
  <p class="updated_time"> 04:40 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-israel-moldova-jews.html">Once Victims in Southeast Europe, Jews Come to Aid Fleeing Ukrainians</a> NYT: Today, as in the early 1900s, Jews are once again escaping violence in southeast Europe. But the context is radically different — cathartically so for the many Israelis who have come here to join the relief effort. 
  <p class="updated_time"> 04:14 PM CT, Mar. 07 </p> 
@@ -212,6 +212,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:39 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/climate/trucks-pollution-rules-epa.html">E.P.A. Plans Tighter Tailpipe Rules for Trucks, Vans and Buses</a> NYT: For the first time since 2001, the government is setting more stringent limits on pollution from trucks, vans, and buses that harms human health. 
+ <p class="updated_time"> 10:38 PM CT, Mar. 07 </p> 
+ <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-climate-oil-gas.html">Climate Hawks Join the Debate on Ukraine</a> NYT: Environmentalists say now is the time to choke off Russia’s oil and gas profits. But the White House has difficult choices to make. 
  <p class="updated_time"> 10:16 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/biden-russia-oil-ban.html">U.S. Weighs Russian Oil Ban as Gas Prices Surge and Ukraine War Grows</a> NYT: Global stocks dipped on Monday as U.S. officials discussed an oil cutoff, and gas prices hit a national average above $4, up more than 10 percent in a week. 
  <p class="updated_time"> 09:04 PM CT, Mar. 07 </p> 
@@ -240,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/07/supreme-court-battleground-state-congressional-maps-00014879">Supreme Court won't block new battleground state congressional maps</a> Politico: The high court turned away GOP efforts to block courts' redistricting in North Carolina and Pennsylvania. 
  <p class="updated_time"> 06:19 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/judge-obstruction-charge-jan-6-defendant-00014843">Judge tosses obstruction charge against Jan. 6 defendant</a> Politico: The judge ruled that ambiguities in the federal law required him to narrow the case against Garret Miller, who is facing multiple felony charges connected to the attack on the Capitol. 
- <p class="updated_time"> 06:00 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-climate-oil-gas.html">Climate Hawks Join the Debate on Ukraine</a> NYT: Environmentalists say now is the time to choke off Russia’s oil and gas profits. But the White House has difficult choices to make. 
  <p class="updated_time"> 05:55 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/ukraine-congress-military-spending.html">War in Ukraine Rallies Support in Congress for More Military Spending</a> NYT: A bipartisan consensus in Congress to increase the Pentagon’s budget is growing stronger as Russia’s invasion of Ukraine has created a sense of insecurity. 
  <p class="updated_time"> 05:35 PM CT, Mar. 07 </p> 
@@ -280,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/07/1084893419/gas-prices-surge-to-above-4-a-gallon-oil-russia-ukraine-antony-blinken">Gas prices surge to above $4 a gallon, near a national record</a> NPR: The prospect that the U.S. and its allies could impose new sanctions on Russian oil pushed energy prices sharply higher. The average price of gasoline in the U.S. hit $4.06 per gallon. 
  <p class="updated_time"> 11:12 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/capitol-police-officer-jan-6-confrontation-hearing-00014628">Lawyer concedes Jan. 6 defendant's partial guilt in closing arguments</a> Politico: The attorney for Guy Reffitt acknowledged his client entered a restricted space at the Capitol but denied his culpability on all felony charges. 
- <p class="updated_time"> 10:46 AM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/new-york-city-canadian-hydropower-00014241">New York City is making a multibillion-dollar bet on Canadian hydropower. Some say the wager won't pay off.</a> Politico: Among the chief concerns is whether the project will achieve its main goal: to shut down peaker plants, some of the dirtiest power facilities in New York. 
  <p class="updated_time"> 09:06 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/democrats-party-line-domestic-agenda-00014579">Dems to take first step toward reviving party-line domestic agenda</a> Politico: Senate Majority Leader Chuck Schumer announced hearings on proposals to deal with inflation, as well as another hearing on prescription drug prices. 
  <p class="updated_time"> 08:59 AM CT, Mar. 07 </p> 
@@ -336,6 +336,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/06/blinken-russian-oil-ban-00014441">Blinken says White House discussing prospect of a Russian oil ban as pleas increase</a> Politico: He said he spoke with the president and other Cabinet officials on “exactly this subject” the day prior. 
  <p class="updated_time"> 07:46 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/05/sports/basketball/russia-brittney-griner.html">WNBA Center Brittney Griner Is Detained in Russia</a> NYT: Russian customs officials said a U.S. basketball player had vape cartridges containing hashish oil in her luggage. A Russian news agency identified the player as Griner. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 06 </p> 
+ <a href="https://www.politico.com/news/2022/03/06/democratic-party-priority-save-governors-00014364">The Democratic Party’s emerging priority: Save the governors</a> Politico: From its operatives to its donor class, Dems fret what could happen if they lose critical battleground governor races this  fall. 
  <p class="updated_time"> 03:59 AM CT, Mar. 06 </p> 
  <a href="https://www.nytimes.com/2022/03/06/us/politics/paxton-bush-primary-runoff.html">Indicted. Under F.B.I. Investigation. And Still Popular With Texas Republicans.</a> NYT: Ken Paxton, the Texas attorney general, earned the most votes in Tuesday’s G.O.P. primary. His embrace of Trumpism has helped him weather a series of allegations. 
  <p class="updated_time"> 02:00 AM CT, Mar. 06 </p> 
@@ -350,8 +352,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/05/us/politics/zelensky-congress-no-fly-zone.html">Zelensky Asks for More Weapons and a No-Fly Zone in Meeting With Congress</a> NYT: The meeting, conducted via Zoom, was the first time President Volodymyr Zelensky of Ukraine had addressed both houses of Congress since Russia’s invasion began. 
  <p class="updated_time"> 09:27 AM CT, Mar. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/05/zelenskyy-presses-u-s-senators-as-ceasefire-collapses-00014415"> Zelenskyy presses U.S. senators as ceasefire collapses</a> Politico Playbook: And Russia clamps down on free speech. 
- <p class="updated_time"> 04:31 AM CT, Mar. 05 </p> 
- <a href="https://www.nytimes.com/2022/03/04/us/politics/biden-sauli-niinisto-finland.html">Finland, Non-NATO and Nervous, Discusses Defense With Biden</a> NYT: “We usually don’t start wars,” President Sauli Niinisto of Finland said as the leaders spoke amid the war in Ukraine. 
 
 
 </details>
