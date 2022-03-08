@@ -6,9 +6,9 @@ imageurl: https://bzigterman.com/plots/champaign_weather.png
 webappicon: /weather.png
 ---
 
-## Champaign 5-Day Forecast
+## Champaign Forecast
 
-<p class="updated_time"> Latest data: 11:37 AM CT, March 08</p>
+<p class="updated_time"> Latest data: 11:45 AM CT, March 08</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
