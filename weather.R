@@ -192,15 +192,26 @@ champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
   arrange(central_time) %>%
   select(!tz) %>%
   group_by(central_time) %>%
-  summarize(across(everything(), ~ first(na.omit(.)))) %>%
+  summarize(across(everything(), ~ first(na.omit(.)))) 
+
+five_days <- champaign_history_and_forecast %>%
+  filter(central_time < now(tzone = "America/Chicago") + days(5)) %>%
   na_interpolation()
+last_two <- champaign_history_and_forecast %>%
+  filter(central_time > now(tzone = "America/Chicago") + days(5))
 
+all_days <- full_join(five_days, last_two)
 
-champaign_forecast_longer <- champaign_history_and_forecast %>%
+remove_no_precip <- all_days %>%
   select(central_time,temp, humidity,
          wind_speed, clouds,
          pop, rain, snow, sunrise, sunset) %>%
-  select(where(~ any(. != 0))) %>%
+  select(where(~ is.numeric(.) && any(sum(., na.rm = TRUE) !=0))) %>%
+  mutate(central_time = all_days$central_time)
+
+champaign_forecast_longer <- all_days %>%
+  select(central_time, sunrise, sunset) %>%
+  full_join(remove_no_precip) %>%
   pivot_longer(cols = !c(central_time, sunrise, sunset),
                names_to = "names",
                values_to = "values") %>%
