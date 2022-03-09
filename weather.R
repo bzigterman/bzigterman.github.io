@@ -170,6 +170,13 @@ champaign_humidity <- paste(champaign_current$humidity,"%",sep = "")
 champaign_desc <- champaign_current$weather$description
 champaign_wind_speed <- paste(round(champaign_current$wind_speed),"mph")
 
+weather_data <- tibble(utc_time = as_datetime(champaign_current$dt),
+                       temp = champaign_current$temp)
+
+write_csv(x = weather_data,
+          file = "data/champaign_weather.csv",
+          append = TRUE)
+
 # tidy data ----
 champaign_forecast_tidy <- champaign_forecast %>%
   mutate(datetime = as_datetime(dt_txt)) %>%
