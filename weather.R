@@ -288,6 +288,8 @@ ggsave("plots/champaign_weather.png", bg = "white",
 ggsave("plots/champaign_weather_mobile.png", bg = "white",
        width = 3, height = 8, dpi = 320)
 
+# create temp comparison chart ----
+
 # web text ----
 severe_weather_outlook_url <- 
   paste("![](",
