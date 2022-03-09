@@ -9,46 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:50 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 04:20 AM CT, Mar. 09 </p> 
+ <a href="https://www.npr.org/2022/03/09/1085334345/vice-president-harris-is-going-to-poland-after-the-u-s-rejected-fighter-jet-offe">Vice President Harris is going to Poland after the U.S. rejected fighter jet offer</a> NPR: Poland offered to stage fighter jets for Ukraine on a U.S. base in Germany. The Pentagon said that wasn't tenable. It all happened the day before Vice President Harris left for Warsaw. 
+ <p class="updated_time"> 04:17 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s and Coca-Cola are among those suspending operations. The U.S. rejected a Polish plan to provide fighter jets in Ukraine. Vice President Kamala Harris heads to Poland and Russia. 
+ <p class="updated_time"> 04:17 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: Polls Are Set to Close in Tight South Korean Election</a> NYT: Yoon Suk-yeol, the leading conservative candidate, appealed to dissatisfied voters as his liberal rival, Lee Jae-myung, highlighted wins from decades in office. 
+ <p class="updated_time"> 04:17 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/explain/2022/03/08/world/south-korea-presidential-election">​South Korea’s Presidential Election: What to Watch</a> NYT: ​After a campaign marred by scandals and mudslinging, the country is set to elect its next president amid widespread voter discontent. 
+ <p class="updated_time"> 04:01 AM CT, Mar. 09 </p> 
+ <a href="https://www.npr.org/2022/03/09/1085220209/ukraine-libraries-bomb-shelters">Ukraine's libraries are offering bomb shelters, camouflage classes, and yes, books</a> NPR: One bundle of homemade camouflage netting was packaged with a note reading, "Death to enemies." The libraries are also sending Ukrainian books out of the country, to refugees who have fled. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
+ <a href="https://www.npr.org/2022/03/09/1085306040/the-war-in-ukraine-has-derailed-one-american-familys-adoption-plan">The war in Ukraine has derailed one American family's adoption plan</a> NPR: The Bell family has been trying to adopt Vanya and Serogzha from Ukraine for about two years. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/world/asia/hong-kong-covid-lockdown.html">Hong Kong's Covid Crackdown Empties Stores and Sets Off Exodus</a> NYT: A surge in cases has alarmed many residents. But the government’s mixed messaging about whether it will impose a lockdown has also been destabilizing. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/arts/women-war-photographers-exhibition.html">‘We Wanted to Be in Combat Zones. We Were as Courageous as the Men.’</a> NYT: A new exhibition in Paris spotlights the work of eight female photographers who documented wars over the course of 75 years. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/travel/ukraine-russia-travel-plans.html">Changed Itineraries, Higher Fares: How the War in Ukraine Is Affecting Travel</a> NYT: How travelers feel the effects of Russia’s assault on Ukraine depends largely on where they’re going, though the price of oil will weigh on all airfares, even domestic. 
  <p class="updated_time"> 03:47 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60674333?at_medium=RSS&at_campaign=KARANGA">Ukraine: First Lady Olena Zelenska condemns Russian 'mass murder'</a> BBC: Olena Zelenska issues an impassioned plea to world media, focusing on the plight of Ukraine's children. 
  <p class="updated_time"> 03:38 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-moldova-russia-invasion.html">Moldova Fears It May Be Russia’s Next Target</a> NYT: Moldova has taken in more Ukrainians, per capita, than any other country. But the closer Russian troops get to Moldova, the more locals consider their own escape plans. 
- <p class="updated_time"> 03:33 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s and Coca-Cola are among those suspending operations. The U.S. rejected a Polish plan to provide fighter jets in Ukraine. Vice President Kamala Harris heads to Poland and Russia. 
+ <p class="updated_time"> 03:24 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 03:11 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html">A Quebec Restaurant Renames Poutine Dish as a Rebuke of Russia</a> NYT: Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products. 
- <p class="updated_time"> 02:57 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 02:39 AM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085354511/who-africas-1st-woman-leader-helps-continent-fight-covid">WHO Africa's 1st woman leader helps continent fight COVID</a> NPR: Dr. Matshidiso Moeti has become one of the world's most compelling voices urging better consideration of Africa's people — especially women. 
- <p class="updated_time"> 01:57 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 02:24 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890">Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive</a> WSJ: Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive 
+ <p class="updated_time"> 01:24 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis 
  <p class="updated_time"> 01:21 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-uk-family-scheme-refugees.html">Ukrainians Trying to Flee to U.K. Face a Confounding Path</a> NYT: The government has offered a way for U.K. residents to bring over Ukrainian relatives fleeing the war. But families and rights groups say it’s a bureaucratic nightmare that makes it too difficult to get in. 
- <p class="updated_time"> 12:57 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis 
  <p class="updated_time"> 12:32 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60672065?at_medium=RSS&at_campaign=KARANGA">Australia floods: PM Morrison to declare a national emergency</a> BBC: The floods, which have been described as a 'once in a 500-year event', has left 20 people dead. 
+ <p class="updated_time"> 12:24 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees Two Americans After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees Two Americans After Biden Team Visits President Maduro 
  <p class="updated_time"> 12:15 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/americas/mexico-women-femicides.html">Mexican Women Protest Femicides as President Warns Against Violence</a> NYT: President Andrés Manuel López Obrador has been accused of not doing enough to stem the rise in violence against women. 
  <p class="updated_time"> 12:05 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60646898?at_medium=RSS&at_campaign=KARANGA">Lost lives of Greenland's Inuit children uprooted by Denmark</a> BBC: Six surviving Inuit Greenlanders taken from their families in 1951 speak about their ordeal. 
- <p class="updated_time"> 11:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees Two Americans After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees Two Americans After Biden Team Visits President Maduro 
  <p class="updated_time"> 11:52 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/yoon-suk-yeol-south-korea.html">Who Is Yoon Suk-yeol? </a> NYT: Mr. Yoon, the leading conservative candidate, hopes to win the election by appealing to South Koreans who are deeply dissatisfied with the outgoing administration. 
  <p class="updated_time"> 11:51 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Fitch Ratings warns Russian bond default 'imminent'</a> BBC: This week Moscow said that its sovereign bond payments may be affected by international sanctions. 
  <p class="updated_time"> 11:29 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/americas/venezuela-american-prisoner-release.html">Venezuela Releases Imprisoned Americans After Talks With U.S.</a> NYT: The release of Gustavo Cárdenas, an executive at the U.S. branch of Venezuela’s state oil company, and Jorge Alberto Fernández came after Biden officials moved to thaw relations with Venezuela, long a steadfast Russian ally. 
+ <p class="updated_time"> 11:24 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-france-far-right-presidential-candidate-zemmour-faces-accusations-of-sexual-misconduct-11646764275">In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct</a> WSJ: In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct 
  <p class="updated_time"> 11:13 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/09/1085342733/venezuela-releases-2-americans-after-visit-from-u-s-officials">Venezuela releases 2 Americans after visit from U.S. officials</a> NPR: A high-level delegation traveled to the South American country last weekend to in part discuss the health of detained U.S. citizens. 
- <p class="updated_time"> 10:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/in-france-far-right-presidential-candidate-zemmour-faces-accusations-of-sexual-misconduct-11646764275">In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct</a> WSJ: In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct 
- <p class="updated_time"> 10:29 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/explain/2022/03/08/world/south-korea-presidential-election">​South Korea’s Presidential Election: What to Watch</a> NYT: ​After a campaign marred by scandals and mudslinging, the country is set to elect its next president amid widespread voter discontent. 
  <p class="updated_time"> 10:01 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/russia-ukraine-media.html">Two Days of Russian News Coverage: An Alternate Reality of War</a> NYT: To watch news broadcasts of the fighting in Ukraine on the main state channels in Russia is to witness the extent of the Kremlin’s efforts to sanitize its war. 
  <p class="updated_time"> 09:20 PM CT, Mar. 08 </p> 
@@ -123,10 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60666708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians leave Irpin after days of fighting</a> BBC: The town of Irpin has been devastated after days of heavy fighting and bombardment from Russian forces. 
  <p class="updated_time"> 01:30 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085105946/ukraine-russia-rescue-evacuation-premature-babies">A rescue team evacuates premature American twins from Kyiv in a daring mission</a> NPR: The twin boys, Lenny and Moishe, were born just as Russia invaded Ukraine. A specialist team of U.S. Army veterans hatched a desperate plan to bring them into Poland and, hopefully, to safety. 
- <p class="updated_time"> 01:20 PM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085200492/ukraine-2-million-refugees-russian-invasion">More than 2 million people have fled Ukraine, 12 days after Russia invaded</a> NPR: The number of refugees has has increased exponentially in the last few days as Russian forces amped up their shelling of critical and civilian infrastructure. 
- <p class="updated_time"> 12:59 PM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085155440/cia-director-putin-is-angry-and-frustrated-likely-to-double-down">Stalled and frustrated, Putin will likely 'double down' in the coming weeks, CIA says</a> NPR: CIA Director William Burns says Russia's invasion of Ukraine has fallen far short of Vladimir Putin's expectations. Burns now predicts weeks of "ugly" fighting for control of Ukraine's cities. 
  <p class="updated_time"> 12:50 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/theater/olivier-nominations-cabaret.html">‘Cabaret,’ Starring Eddie Redmayne, Leads Olivier Award Nominees</a> NYT: A revival of the 1966 musical, with Jessie Buckley as Sally Bowles, is up for 11 awards at Britain’s equivalent of the Tonys. 
  <p class="updated_time"> 12:33 PM CT, Mar. 08 </p> 
@@ -135,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60666414?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Juror admits 'mistake' not revealing abuse</a> BBC: He failed to disclose on a jury sheet that he had been abused, so Maxwell's lawyers are demanding a retrial. 
  <p class="updated_time"> 12:27 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60666785?at_medium=RSS&at_campaign=KARANGA">In full: Ukrainian President Zelensky's message to UK</a> BBC: President Zelensky makes an historic address in the House of Commons about the invasion by Russia. 
- <p class="updated_time"> 12:25 PM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085177511/yo-yo-ma-performs-a-musical-protest-outside-the-russian-embassy">Yo-Yo Ma performs a musical protest outside the Russian Embassy </a> NPR: The world-famous cellist made a personal stand with Ukraine on Monday, setting up his instrument on the sidewalk in Washington, D.C., next to an improvised street sign reading, "Zelensky Way." 
  <p class="updated_time"> 11:48 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/style/kony-2012-invisible-children.html">‘Kony 2012,’ 10 Years Later</a> NYT: Once the most viral video of all time, the film reads as both a digital relic and a precursor to an era in which footage of conflict dominates the internet. 
  <p class="updated_time"> 09:12 AM CT, Mar. 08 </p> 
@@ -163,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/world/europe/ukraine-humanitarian-crisis-russia.html">Humanitarian Crisis Worsens for Ukrainians Trapped in Russia’s Onslaught</a> NYT: Two weeks after the invasion began, tens of thousands of Ukrainians are without food, water or power. The Russians are increasingly resorting to indiscriminate shelling to help their forces advance. 
  <p class="updated_time"> 11:24 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/technology/russia-ukraine-internet-isolation.html">Russia, Blocked From the Global Internet, Plunges Into Digital Isolation</a> NYT: Russian authorities and multinational companies have erected a digital barricade between the country and the West, erasing the last remnants of independent information online. 
- <p class="updated_time"> 08:54 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/health/covid-brain-changes.html">Covid May Cause Changes in the Brain, New Study Finds</a> NYT: Brain scans before and after infection showed more loss of gray matter and tissue damage, mostly in areas related to smell, in people who had Covid than in those who did not. 
  <p class="updated_time"> 08:52 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/dc-truck-convoy-protest.html">Truckers Protest Mandates on D.S. Beltway for a Second Day</a> NYT: Organizers of a convoy of vehicles protesting mask and vaccine mandates said they would drive another lap around the Beltway on Monday but did not intend to enter the capital. 
  <p class="updated_time"> 08:17 PM CT, Mar. 07 </p> 
@@ -191,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/07/world/europe/queen-elizabeth-trudeau.html">Queen Elizabeth Welcomes Justin Trudeau in Meeting After Having Had Covid</a> NYT: The queen received Prime Minister Justin Trudeau of Canada at Windsor Castle on Monday. 
  <p class="updated_time"> 11:04 AM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/climate/amazon-rainforest-climate-change-deforestation.html">Amazon Rainforest May Be Approaching a Critical Tipping Point, Study Finds</a> NYT: The region is nearing a threshold beyond which its forests may be replaced by grasslands, with huge repercussions for biodiversity and climate change. 
- <p class="updated_time"> 09:58 AM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/icj-united-nations-ukraine-russia.html">Ukraine Takes its Case Against Russia to the UN's Highest Court</a> NYT: The head of the Ukrainian delegation told the court that “millions are in danger” and accused Moscow of defiling the Genocide Convention. 
 
 
 </details>
@@ -204,6 +206,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/09/republicans-shadow-whip-race-crowded-00015381">The House GOP's shadow whip race is on — and crowded</a> Politico: It's the surest sign Republicans have seen yet that Minority Leader Kevin McCarthy is cementing his hold on a future speakership: intensifying interest in being his No. 3. 
  <p class="updated_time"> 04:30 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/ronjohn-wisconsin-gop-mcconnell-majority-00015354">RonJohn, the GOP thorn who might grow McConnell a majority</a> Politico: The Wisconsin conservative is "frustrated about everything" in the Senate. He's Team Rick Scott, craving a GOP agenda. But his party needs him around. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
+ <a href="https://www.npr.org/2022/03/09/1085243575/marked-by-covid-memorial-day-march">As U.S. COVID deaths near 1 million, advocates press for a memorial day</a> NPR: Millions of people in the U.S. have lost someone they love to COVID-19, and advocates hope to have those losses marked each year on the first Monday in March. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
+ <a href="https://www.npr.org/2022/03/09/1085039010/2020-census-accuracy-data-quality-results">Why it's hard to know how accurate the 2020 census was</a> NPR: COVID-19 and interference by former President Donald Trump's administration have made it harder to pinpoint the accuracy of the numbers used to redistribute political representation and federal money. 
  <p class="updated_time"> 02:00 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/republicans-ukraine.html">Republicans, Once Harsh Ukraine Critics, Pivot to Strong Support</a> NYT: In a matter of weeks, the center of gravity on Ukraine has sharply shifted among Republicans, muffling doubts about U.S. involvement and dismissing questions about the recent past. 
  <p class="updated_time"> 12:40 AM CT, Mar. 09 </p> 
@@ -318,10 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/08/1085099926/congress-passes-an-anti-lynching-bill-after-more-than-a-century-of-trying">Congress passes an anti-lynching bill after more than a century of trying</a> NPR: After decades of failed attempts, Congress passed legislation making lynching a federal crime. It's estimated that more than 4,000 Black Americans were lynched since the late 19th Century. 
  <p class="updated_time"> 04:00 AM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085056986/as-misinformation-swirls-many-n-h-towns-will-vote-on-ballot-counting-machines">As misinformation swirls, many N.H. towns will vote on ballot counting machines</a> NPR: Activists contend, without proof, that New Hampshire's ballot counting machines can be hacked or rigged. So voters in more than a dozen towns will decide whether to revert to hand counts. 
- <p class="updated_time"> 02:30 AM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085094040/senate-passes-anti-lynching-bill-and-sends-federal-hate-crimes-legislation-to-bi">Senate passes anti-lynching bill and sends federal hate crime legislation to Biden</a> NPR: The Emmett Till Anti-Lynching Act, which sets prison terms of up to 30 years, has been more than a century in the making. 
- <p class="updated_time"> 08:56 PM CT, Mar. 07 </p> 
- <a href="https://www.npr.org/2022/03/07/1085087769/after-more-than-a-century-of-trying-congress-passes-an-anti-lynching-bill">After more than a century of trying, Congress passes an anti-lynching bill</a> NPR: Passage of the legislation to make lynching a federal crime is a major milestone after more than 200 attempts to pass such legislation failed over the course of a century. 
  <p class="updated_time"> 08:43 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/lynching-bill-senate.html">Congress Gives Final Approval to Make Lynching a Hate Crime</a> NYT: The bill’s unanimous passage in the Senate ended more than a century of failed attempts to explicitly criminalize lynching. 
  <p class="updated_time"> 08:10 PM CT, Mar. 07 </p> 
