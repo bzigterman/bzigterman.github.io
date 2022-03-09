@@ -196,11 +196,13 @@ champaign_history_and_forecast <- full_join(champaign_forecast_tidy,last_24) %>%
 
 five_days <- champaign_history_and_forecast %>%
   filter(central_time < now(tzone = "America/Chicago") + days(5)) %>%
+  filter(central_time > now(tzone = "America/Chicago")) %>%
   na_interpolation()
 last_two <- champaign_history_and_forecast %>%
   filter(central_time > now(tzone = "America/Chicago") + days(5))
 
-all_days <- full_join(five_days, last_two)
+all_days <- full_join(five_days, last_two) %>%
+  full_join(last_24)
 
 remove_no_precip <- all_days %>%
   select(central_time,temp, humidity,
