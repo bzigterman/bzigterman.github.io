@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:31 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 07:56 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: Exit Polls Show Dead Heat in South Korea Presidential Election</a> NYT: Yoon Suk-yeol, the leading conservative candidate, was ahead of his liberal rival, Lee Jae-myung, by less than a percentage point. 
+ <p class="updated_time"> 07:43 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Live Updates: Costs of War Mount for Russia, and for Civilians in Ukraine</a> NYT: Russia’s Central Bank limited withdrawals of foreign currency, hoping to shore up the plunging ruble as Western economic penalties take a serious toll. In Ukraine, efforts to evacuate civilians from battered cities resumed, but many remain trapped in the areas of heaviest fighting. 
+ <p class="updated_time"> 07:40 AM CT, Mar. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia soon unable to pay its debts, warns agency</a> BBC: Russia will soon be in a position where it is unable to pay its debts, says Fitch Ratings. 
  <p class="updated_time"> 07:29 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60673933?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Visas a shambles, Brits with Ukrainian family say</a> BBC: Britons with Ukrainian partners criticise the bureaucracy refugees trying to enter the UK are met with. 
- <p class="updated_time"> 07:24 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: Exit Polls Show Dead Heat in South Korea Presidential Election</a> NYT: Yoon Suk-yeol, the leading conservative candidate, was ahead of his liberal rival, Lee Jae-myung, by less than a percentage point. 
  <p class="updated_time"> 07:24 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/lee-jae-myung-south-korea.html">Who is Lee Jae Myung, the Liberal Candidate in South Korea’s Election?</a> NYT: His challenge is to promise continuity with the ruling party’s policies, yet distinguish himself from the current president. 
  <p class="updated_time"> 07:19 AM CT, Mar. 09 </p> 
@@ -27,27 +29,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/explain/2022/03/08/world/south-korea-presidential-election">​South Korea’s Presidential Election: What to Watch</a> NYT: ​After a campaign marred by scandals and mudslinging, the country is set to elect its next president amid widespread voter discontent. 
  <p class="updated_time"> 07:00 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/redlining-racism-air-pollution.html">How Air Pollution Across America Reflects Racist Policy From the 1930s</a> NYT: A new study shows how redlining, a Depression-era housing policy, contributed to inequalities that persist decades later in U.S. cities. 
+ <p class="updated_time"> 06:58 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russia Presses Offensive as Ukrainians Try to Evacuate</a> WSJ: Russia Presses Offensive as Ukrainians Try to Evacuate 
  <p class="updated_time"> 06:53 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/olena-zelenska.html">Olena Zelenska, Ukraine’s First Lady, Condemns Russia’s Invasion</a> NYT: Olena Zelenska says in a letter that Russian forces are engaged in the “mass murder of civilians” and reiterates her husband’s call for a no-fly zone. 
  <p class="updated_time"> 06:50 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60675599?at_medium=RSS&at_campaign=KARANGA">Ukraine civilians flee towns near Kyiv after more Russian shelling</a> BBC: Ukraine aims to evacuate more civilians as further reports of casualties emerge from Russian attacks. 
- <p class="updated_time"> 06:46 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russia Presses Offensive as Ukrainians Try to Evacuate</a> WSJ: Russia Presses Offensive as Ukrainians Try to Evacuate 
  <p class="updated_time"> 06:42 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60675469?at_medium=RSS&at_campaign=KARANGA">Venezuela releases two jailed US citizens after talks</a> BBC: The two were released just days after a high-level US delegation met President Nicolás Maduro. 
- <p class="updated_time"> 06:32 AM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia soon unable to pay its debts, warns agency</a> BBC: Russia will soon be in a position where it is unable to pay its debts, says Fitch Ratings. 
  <p class="updated_time"> 06:28 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60674185?at_medium=RSS&at_campaign=KARANGA">Ukraine: Four moments of human connection amid the war</a> BBC: Since Russia's invasion of Ukraine, moments of hope and music have emerged on social media. 
+ <p class="updated_time"> 05:58 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 05:57 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/russia-ukraine-economy.html">Russia’s Other Contest With the West: Economic Endurance</a> NYT: Which side can maintain domestic support as the war costs regular citizens could also determine the outcome in Ukraine. 
- <p class="updated_time"> 05:46 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 05:08 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/australia/nsw-floods.html">Australia Flooding Declared a National Emergency</a> NYT: At least 20 people have died and tens of thousands have been ordered to evacuate as record rainfall continues to inundate the country’s eastern coast. 
  <p class="updated_time"> 05:02 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60676224?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: 'I had to leave my parents in Sumy'</a> BBC: Civilians flee the besieged Ukrainian city, parts of which have been wiped out. 
- <p class="updated_time"> 04:46 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 04:58 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/endurance-ernest-shackletons-lost-ship-found-after-107-years-11646821921">Endurance, Ernest Shackleton’s Lost Ship, Found After 107 Years</a> WSJ: Endurance, Ernest Shackleton’s Lost Ship, Found After 107 Years 
  <p class="updated_time"> 04:27 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/asia/hong-kong-covid-lockdown.html">Hong Kong's Covid Crackdown Empties Stores and Sets Off Exodus</a> NYT: A surge in cases has alarmed many residents. But the government’s mixed messaging about whether it will impose a lockdown has also been destabilizing. 
@@ -61,13 +61,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/arts/women-war-photographers-exhibition.html">‘We Wanted to Be in Combat Zones. We Were as Courageous as the Men.’</a> NYT: A new exhibition in Paris spotlights the work of eight female photographers who documented wars over the course of 75 years. 
  <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/travel/ukraine-russia-travel-plans.html"> How the War in Ukraine Is Affecting Travel</a> NYT: How travelers feel the effects of Russia’s assault on Ukraine depends largely on where they’re going, though the price of oil will weigh on all airfares, even domestic. 
+ <p class="updated_time"> 03:58 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Koreans to Decide Presidential Race Marked by Clashes and Contrasts</a> WSJ: South Koreans to Decide Presidential Race Marked by Clashes and Contrasts 
  <p class="updated_time"> 03:47 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60674333?at_medium=RSS&at_campaign=KARANGA">Ukraine: First Lady Olena Zelenska condemns Russian 'mass murder'</a> BBC: Olena Zelenska issues an impassioned plea to world media, focusing on the plight of Ukraine's children. 
- <p class="updated_time"> 03:46 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Koreans to Decide Presidential Race Marked by Clashes and Contrasts</a> WSJ: South Koreans to Decide Presidential Race Marked by Clashes and Contrasts 
  <p class="updated_time"> 03:38 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-moldova-russia-invasion.html">Moldova Fears It May Be Russia’s Next Target</a> NYT: Moldova has taken in more Ukrainians, per capita, than any other country. But the closer Russian troops get to Moldova, the more locals consider their own escape plans. 
- <p class="updated_time"> 02:46 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 02:58 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/in-china-inflationary-pressures-remain-subduedfor-now-11646813525">In China, Inflationary Pressures Remain Subdued—For Now</a> WSJ: In China, Inflationary Pressures Remain Subdued—For Now 
  <p class="updated_time"> 02:39 AM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085354511/who-africas-1st-woman-leader-helps-continent-fight-covid">WHO Africa's 1st woman leader helps continent fight COVID</a> NPR: Dr. Matshidiso Moeti has become one of the world's most compelling voices urging better consideration of Africa's people — especially women. 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 07:50 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/09/omnibus-almost-on-track-00015528">Omnibus (almost) on track</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:45 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/crypto-regulation-biden.html">Biden Takes Step Toward Regulating Cryptocurrencies</a> NYT: The president signed an executive order that would coordinate efforts among financial regulators to better understand the risks and opportunities presented by digital assets. 
  <p class="updated_time"> 07:29 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/eric-adams-nyc-extending-mayoral-control-00015192">Adams makes his case for extending mayoral control until 2026</a> Politico: Mayoral control is set to expire on June 30. The state Legislature will have to make a determination on how to proceed by April 1, the state budget deadline, or through legislation by June 30. 
  <p class="updated_time"> 06:52 AM CT, Mar. 09 </p> 
@@ -216,8 +218,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/09/harris-steps-in-the-middle-of-a-nato-standoff-00015516"> Harris steps in the middle of a NATO standoff</a> Politico Playbook: And Congress unveils a bipartisan government spending deal. 
  <p class="updated_time"> 05:39 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/congress-government-funding-package-00014322">Congress races to advance $1.5T government funding deal</a> Politico: Leaders have also prepared a four-day spending patch in an attempt to avert a shutdown Friday night. 
- <p class="updated_time"> 05:02 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/crypto-regulation-biden.html">Biden to Take Step Toward Regulating Cryptocurrencies</a> NYT: The president is set to sign an executive order that would coordinate efforts among financial regulators to better understand the risks and opportunities presented by digital assets. 
  <p class="updated_time"> 04:31 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/gop-pushes-for-an-earthquake-in-american-electoral-power-00015402">GOP pushes for an ‘earthquake in American electoral power’</a> Politico: Conservatives are promoting the "independent legislature" theory, which would hand vast election powers to GOP legislators in battleground states. 
  <p class="updated_time"> 04:30 AM CT, Mar. 09 </p> 
