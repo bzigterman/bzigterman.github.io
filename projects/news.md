@@ -9,44 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:52 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s, Coca-Cola and Starbucks are among those suspending operations. The U.S. rejected a Polish proposal to provide fighter jets for use in Ukraine, a rare disagreement between the NATO allies. 
- <p class="updated_time"> 01:40 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 02:19 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s and Coca-Cola are among those suspending operations. The U.S. rejected a Polish plan to provide fighter jets in Ukraine. Vice President Kamala Harris heads to Poland and Russia. 
+ <p class="updated_time"> 02:10 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: South Korean Presidential Candidates Diverge on North Korea</a> NYT: The two front-runners hold drastically different positions on how to deal with Kim Jong-un’s nuclear threat. One favors resuming dialogue, while the other has been more confrontational. 
+ <p class="updated_time"> 01:26 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 01:21 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-uk-family-scheme-refugees.html">Ukrainians Trying to Flee to U.K. Face a Confounding Path</a> NYT: The government has offered a way for U.K. residents to bring over Ukrainian relatives fleeing the war. But families and rights groups say it’s a bureaucratic nightmare that makes it too difficult to get in. 
- <p class="updated_time"> 12:57 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 12:32 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60672065?at_medium=RSS&at_campaign=KARANGA">Australia floods: PM Morrison to declare a national emergency</a> BBC: The floods, which have been described as a 'once in a 500-year event', has left 20 people dead. 
+ <p class="updated_time"> 12:26 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890">Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive</a> WSJ: Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive 
  <p class="updated_time"> 12:15 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/americas/mexico-women-femicides.html">Mexican Women Protest Femicides as President Warns Against Violence</a> NYT: President Andrés Manuel López Obrador has been accused of not doing enough to stem the rise in violence against women. 
  <p class="updated_time"> 12:05 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60646898?at_medium=RSS&at_campaign=KARANGA">Lost lives of Greenland's Inuit children uprooted by Denmark</a> BBC: Six surviving Inuit Greenlanders taken from their families in 1951 speak about their ordeal. 
- <p class="updated_time"> 11:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890">Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive</a> WSJ: Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive 
  <p class="updated_time"> 11:52 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/yoon-suk-yeol-south-korea.html">Who Is Yoon Suk-yeol? </a> NYT: Mr. Yoon, the leading conservative candidate, hopes to win the election by appealing to South Koreans who are deeply dissatisfied with the outgoing administration. 
  <p class="updated_time"> 11:51 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Fitch Ratings warns Russian bond default 'imminent'</a> BBC: This week Moscow said that its sovereign bond payments may be affected by international sanctions. 
  <p class="updated_time"> 11:29 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/americas/venezuela-american-prisoner-release.html">Venezuela Releases Imprisoned Americans After Talks With U.S.</a> NYT: The release of Gustavo Cárdenas, an executive at the U.S. branch of Venezuela’s state oil company, and Jorge Alberto Fernández came after Biden officials moved to thaw relations with Venezuela, long a steadfast Russian ally. 
+ <p class="updated_time"> 11:26 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis 
  <p class="updated_time"> 11:13 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/09/1085342733/venezuela-releases-2-americans-after-visit-from-u-s-officials">Venezuela releases 2 Americans after visit from U.S. officials</a> NPR: A high-level delegation traveled to the South American country last weekend to in part discuss the health of detained U.S. citizens. 
- <p class="updated_time"> 10:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis 
  <p class="updated_time"> 10:29 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/explain/2022/03/08/world/south-korea-presidential-election">​South Korea’s Presidential Election: What to Watch</a> NYT: ​After a campaign marred by scandals and mudslinging, the country is set to elect its next president amid widespread voter discontent. 
+ <p class="updated_time"> 10:26 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees Two Americans After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees Two Americans After Biden Team Visits President Maduro 
  <p class="updated_time"> 10:01 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/russia-ukraine-media.html">Two Days of Russian News Coverage: An Alternate Reality of War</a> NYT: To watch news broadcasts of the fighting in Ukraine on the main state channels in Russia is to witness the extent of the Kremlin’s efforts to sanitize its war. 
  <p class="updated_time"> 09:59 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-moldova-russia-invasion.html">Moldova Fears It May Be Russia’s Next Target</a> NYT: Moldova has taken in more Ukrainians, per capita, than any other country. But the closer Russian troops get to Moldova, the more locals consider their own escape plans. 
- <p class="updated_time"> 09:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees Two Americans After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees Two Americans After Biden Team Visits President Maduro 
+ <p class="updated_time"> 09:26 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-france-far-right-presidential-candidate-zemmour-faces-accusations-of-sexual-misconduct-11646764275">In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct</a> WSJ: In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct 
  <p class="updated_time"> 09:20 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/smugglers-afghanistan.html">The Smugglers’ Paradise of Afghanistan</a> NYT: For decades, the smuggling trade — of people, drugs and money — has dominated Nimruz Province. Now, as hundreds of thousands of Afghans try to flee, business has further boomed for those who hold the keys to the gate. 
- <p class="updated_time"> 08:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/in-france-far-right-presidential-candidate-zemmour-faces-accusations-of-sexual-misconduct-11646764275">In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct</a> WSJ: In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct 
  <p class="updated_time"> 08:48 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-oil-ban-russia-ukraine-putin.html">Biden Bans Oil Imports From Russia, Warning Gas Prices Will Rise</a> NYT: Officials said President Biden had struggled for days over the move amid deep concerns about accelerating the already rapid rise in the price of gasoline. 
  <p class="updated_time"> 08:43 PM CT, Mar. 08 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/republicans-ukraine.html">Republicans, Once Harsh Ukraine Critics, Pivot to Strong Support</a> NYT: In a matter of weeks, the center of gravity on Ukraine has sharply shifted among Republicans, muffling doubts about U.S. involvement and dismissing questions about the recent past. 
  <p class="updated_time"> 12:40 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/venezuela-release-prisoners-biden-00015501">Venezuela frees 2 American prisoners after talks with U.S.</a> Politico: "We are bringing Gustavo Cardenas and Jorge Fernandez home," President Joe Biden said. 
  <p class="updated_time"> 10:26 PM CT, Mar. 08 </p> 
@@ -314,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/08/1085056986/as-misinformation-swirls-many-n-h-towns-will-vote-on-ballot-counting-machines">As misinformation swirls, many N.H. towns will vote on ballot counting machines</a> NPR: Activists contend, without proof, that New Hampshire's ballot counting machines can be hacked or rigged. So voters in more than a dozen towns will decide whether to revert to hand counts. 
  <p class="updated_time"> 02:30 AM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085094040/senate-passes-anti-lynching-bill-and-sends-federal-hate-crimes-legislation-to-bi">Senate passes anti-lynching bill and sends federal hate crime legislation to Biden</a> NPR: The Emmett Till Anti-Lynching Act, which sets prison terms of up to 30 years, has been more than a century in the making. 
- <p class="updated_time"> 10:38 PM CT, Mar. 07 </p> 
- <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-climate-oil-gas.html">Climate Hawks Join the Debate on Ukraine</a> NYT: Environmentalists say now is the time to choke off Russia’s oil and gas profits. But the White House has difficult choices to make. 
  <p class="updated_time"> 08:56 PM CT, Mar. 07 </p> 
  <a href="https://www.npr.org/2022/03/07/1085087769/after-more-than-a-century-of-trying-congress-passes-an-anti-lynching-bill">After more than a century of trying, Congress passes an anti-lynching bill</a> NPR: Passage of the legislation to make lynching a federal crime is a major milestone after more than 200 attempts to pass such legislation failed over the course of a century. 
  <p class="updated_time"> 08:43 PM CT, Mar. 07 </p> 
