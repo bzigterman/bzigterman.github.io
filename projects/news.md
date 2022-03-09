@@ -9,23 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: Polls Are Set to Close in Tight South Korean Election</a> NYT: Yoon Suk-yeol, the leading conservative candidate, appealed to dissatisfied voters as his liberal rival, Lee Jae-myung, highlighted wins from decades in office. 
+ <p class="updated_time"> 03:47 AM CT, Mar. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60674333?at_medium=RSS&at_campaign=KARANGA">Ukraine: First Lady Olena Zelenska condemns Russian 'mass murder'</a> BBC: Olena Zelenska issues an impassioned plea to world media, focusing on the plight of Ukraine's children. 
  <p class="updated_time"> 03:38 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-moldova-russia-invasion.html">Moldova Fears It May Be Russia’s Next Target</a> NYT: Moldova has taken in more Ukrainians, per capita, than any other country. But the closer Russian troops get to Moldova, the more locals consider their own escape plans. 
  <p class="updated_time"> 03:33 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s and Coca-Cola are among those suspending operations. The U.S. rejected a Polish plan to provide fighter jets in Ukraine. Vice President Kamala Harris heads to Poland and Russia. 
- <p class="updated_time"> 03:31 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: South Korean Campaign Events Spotlight Music and Fanfare</a> NYT: During campaign season, what looks and sounds like a concert is most likely a presidential candidate on the trail. 
  <p class="updated_time"> 03:11 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html">A Quebec Restaurant Renames Poutine Dish as a Rebuke of Russia</a> NYT: Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products. 
- <p class="updated_time"> 02:45 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 02:57 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 02:39 AM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085354511/who-africas-1st-woman-leader-helps-continent-fight-covid">WHO Africa's 1st woman leader helps continent fight COVID</a> NPR: Dr. Matshidiso Moeti has become one of the world's most compelling voices urging better consideration of Africa's people — especially women. 
- <p class="updated_time"> 01:45 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 01:57 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890">Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive</a> WSJ: Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive 
  <p class="updated_time"> 01:21 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-uk-family-scheme-refugees.html">Ukrainians Trying to Flee to U.K. Face a Confounding Path</a> NYT: The government has offered a way for U.K. residents to bring over Ukrainian relatives fleeing the war. But families and rights groups say it’s a bureaucratic nightmare that makes it too difficult to get in. 
- <p class="updated_time"> 12:45 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 12:57 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis 
  <p class="updated_time"> 12:32 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60672065?at_medium=RSS&at_campaign=KARANGA">Australia floods: PM Morrison to declare a national emergency</a> BBC: The floods, which have been described as a 'once in a 500-year event', has left 20 people dead. 
@@ -33,17 +35,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/world/americas/mexico-women-femicides.html">Mexican Women Protest Femicides as President Warns Against Violence</a> NYT: President Andrés Manuel López Obrador has been accused of not doing enough to stem the rise in violence against women. 
  <p class="updated_time"> 12:05 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60646898?at_medium=RSS&at_campaign=KARANGA">Lost lives of Greenland's Inuit children uprooted by Denmark</a> BBC: Six surviving Inuit Greenlanders taken from their families in 1951 speak about their ordeal. 
+ <p class="updated_time"> 11:57 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees Two Americans After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees Two Americans After Biden Team Visits President Maduro 
  <p class="updated_time"> 11:52 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/yoon-suk-yeol-south-korea.html">Who Is Yoon Suk-yeol? </a> NYT: Mr. Yoon, the leading conservative candidate, hopes to win the election by appealing to South Koreans who are deeply dissatisfied with the outgoing administration. 
  <p class="updated_time"> 11:51 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Fitch Ratings warns Russian bond default 'imminent'</a> BBC: This week Moscow said that its sovereign bond payments may be affected by international sanctions. 
- <p class="updated_time"> 11:45 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees Two Americans After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees Two Americans After Biden Team Visits President Maduro 
  <p class="updated_time"> 11:29 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/americas/venezuela-american-prisoner-release.html">Venezuela Releases Imprisoned Americans After Talks With U.S.</a> NYT: The release of Gustavo Cárdenas, an executive at the U.S. branch of Venezuela’s state oil company, and Jorge Alberto Fernández came after Biden officials moved to thaw relations with Venezuela, long a steadfast Russian ally. 
  <p class="updated_time"> 11:13 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/09/1085342733/venezuela-releases-2-americans-after-visit-from-u-s-officials">Venezuela releases 2 Americans after visit from U.S. officials</a> NPR: A high-level delegation traveled to the South American country last weekend to in part discuss the health of detained U.S. citizens. 
- <p class="updated_time"> 10:45 PM CT, Mar. 08 </p> 
+ <p class="updated_time"> 10:57 PM CT, Mar. 08 </p> 
  <a href="https://www.wsj.com/articles/in-france-far-right-presidential-candidate-zemmour-faces-accusations-of-sexual-misconduct-11646764275">In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct</a> WSJ: In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct 
  <p class="updated_time"> 10:29 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/explain/2022/03/08/world/south-korea-presidential-election">​South Korea’s Presidential Election: What to Watch</a> NYT: ​After a campaign marred by scandals and mudslinging, the country is set to elect its next president amid widespread voter discontent. 
@@ -137,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/08/1085177511/yo-yo-ma-performs-a-musical-protest-outside-the-russian-embassy">Yo-Yo Ma performs a musical protest outside the Russian Embassy </a> NPR: The world-famous cellist made a personal stand with Ukraine on Monday, setting up his instrument on the sidewalk in Washington, D.C., next to an improvised street sign reading, "Zelensky Way." 
  <p class="updated_time"> 11:48 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/style/kony-2012-invisible-children.html">‘Kony 2012,’ 10 Years Later</a> NYT: Once the most viral video of all time, the film reads as both a digital relic and a precursor to an era in which footage of conflict dominates the internet. 
- <p class="updated_time"> 10:42 AM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60659363?at_medium=RSS&at_campaign=KARANGA">Ukrainian actor Pasha Lee killed in Russian bombardment</a> BBC: Pasha Lee, 33, had signed up to defend his country at the start of the war. 
  <p class="updated_time"> 09:12 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60604952?at_medium=RSS&at_campaign=KARANGA">Ukraine: Mother of Russian soldier asks 'Whose door should I knock on to get my child back?'</a> BBC: Families of Russian soldiers in Ukraine tell the BBC the men had no idea what they were getting into. 
  <p class="updated_time"> 08:42 AM CT, Mar. 08 </p> 
