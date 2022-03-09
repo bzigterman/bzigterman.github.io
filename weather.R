@@ -289,6 +289,13 @@ ggsave("plots/champaign_weather_mobile.png", bg = "white",
        width = 3, height = 8, dpi = 320)
 
 # create temp comparison chart ----
+temp_history <- read_csv("data/champaign_weather.csv") %>%
+  mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) 
+
+ggplot(data = temp_history,
+       aes(x = central_time,
+           y = temp)) +
+  geom_point()
 
 # web text ----
 severe_weather_outlook_url <- 
