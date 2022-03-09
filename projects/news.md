@@ -9,22 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:08 AM CT, Mar. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian debt default 'imminent', warns agency</a> BBC: Russia will soon be in a position where it is unable to pay its debts, according to a leading credit ratings agency. 
+ <p class="updated_time"> 06:06 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Ukraine Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s and Coca-Cola suspended operations in Russia, deepening Moscow’s isolation. As the U.S. rejected a Polish plan to provide fighter jets in Ukraine, Vice President Kamala Harris headed to Poland and Romania. 
+ <p class="updated_time"> 05:57 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/world/europe/russia-ukraine-economy.html">Russia’s Other Contest With the West: Economic Endurance</a> NYT: Which side can maintain domestic support as the war costs regular citizens could also determine the outcome in Ukraine. 
  <p class="updated_time"> 05:36 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: Exit Polls Show Dead Heat in South Korea Presidential Election</a> NYT: Yoon Suk-yeol, the leading conservative candidate, was ahead of his liberal rival, Lee Jae-myung, by less than a percentage point. 
- <p class="updated_time"> 05:33 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Ukraine Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s and Coca-Cola suspended operations in Russia, deepening Moscow’s isolation. As the U.S. rejected a Polish plan to provide fighter jets in Ukraine, Vice President Kamala Harris headed to Poland and Romania. 
  <p class="updated_time"> 05:31 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/explain/2022/03/08/world/south-korea-presidential-election">​South Korea’s Presidential Election: What to Watch</a> NYT: ​After a campaign marred by scandals and mudslinging, the country is set to elect its next president amid widespread voter discontent. 
+ <p class="updated_time"> 05:13 AM CT, Mar. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60673933?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Visas a shambles, Brits with Ukrainian family say</a> BBC: Britons with Ukrainian partners criticise the bureaucracy refugees trying to enter the UK are met with. 
+ <p class="updated_time"> 05:13 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russia Presses Offensive as Ukrainians Try to Evacuate</a> WSJ: Russia Presses Offensive as Ukrainians Try to Evacuate 
  <p class="updated_time"> 05:08 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/australia/nsw-floods.html">Australia Flooding Declared a National Emergency</a> NYT: At least 20 people have died and tens of thousands have been ordered to evacuate as record rainfall continues to inundate the country’s eastern coast. 
  <p class="updated_time"> 05:02 AM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60676224?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: 'I had to leave my parents in Sumy'</a> BBC: Civilians leave the besieged Ukrainian city, parts of which have been wiped out. 
- <p class="updated_time"> 04:52 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russia Presses Offensive as Ukrainians Try to Evacuate</a> WSJ: Russia Presses Offensive as Ukrainians Try to Evacuate 
+ <a href="https://www.bbc.co.uk/news/world-europe-60676224?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion: 'I had to leave my parents in Sumy'</a> BBC: Civilians flee the besieged Ukrainian city, parts of which have been wiped out. 
  <p class="updated_time"> 04:27 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/asia/hong-kong-covid-lockdown.html">Hong Kong's Covid Crackdown Empties Stores and Sets Off Exodus</a> NYT: A surge in cases has alarmed many residents. But the government’s mixed messaging about whether it will impose a lockdown has also been destabilizing. 
  <p class="updated_time"> 04:20 AM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085334345/vice-president-harris-is-going-to-poland-after-the-u-s-rejected-fighter-jet-offe">Vice President Harris is going to Poland after the U.S. rejected fighter jet offer</a> NPR: Poland offered to stage fighter jets for Ukraine on a U.S. base in Germany. The Pentagon said that wasn't tenable. It all happened the day before Vice President Harris left for Warsaw. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 04:01 AM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085220209/ukraine-libraries-bomb-shelters">Ukraine's libraries are offering bomb shelters, camouflage classes, and yes, books</a> NPR: One bundle of homemade camouflage netting was packaged with a note reading, "Death to enemies." The libraries are also sending Ukrainian books out of the country, to refugees who have fled. 
  <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
@@ -33,23 +41,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/arts/women-war-photographers-exhibition.html">‘We Wanted to Be in Combat Zones. We Were as Courageous as the Men.’</a> NYT: A new exhibition in Paris spotlights the work of eight female photographers who documented wars over the course of 75 years. 
  <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/travel/ukraine-russia-travel-plans.html"> How the War in Ukraine Is Affecting Travel</a> NYT: How travelers feel the effects of Russia’s assault on Ukraine depends largely on where they’re going, though the price of oil will weigh on all airfares, even domestic. 
- <p class="updated_time"> 03:52 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 03:47 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60674333?at_medium=RSS&at_campaign=KARANGA">Ukraine: First Lady Olena Zelenska condemns Russian 'mass murder'</a> BBC: Olena Zelenska issues an impassioned plea to world media, focusing on the plight of Ukraine's children. 
  <p class="updated_time"> 03:38 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-moldova-russia-invasion.html">Moldova Fears It May Be Russia’s Next Target</a> NYT: Moldova has taken in more Ukrainians, per capita, than any other country. But the closer Russian troops get to Moldova, the more locals consider their own escape plans. 
- <p class="updated_time"> 03:11 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/07/world/europe/poutine-putin-le-roy-jucep.html">A Quebec Restaurant Renames Poutine Dish as a Rebuke of Russia</a> NYT: Protest against the war in Ukraine has a new cultural front — food and drink names — as people across the world show solidarity with Ukraine by renaming or boycotting Russian-made products. 
- <p class="updated_time"> 02:52 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 03:13 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/endurance-ernest-shackletons-lost-ship-found-after-107-years-11646821921">Endurance, Ernest Shackleton’s Lost Ship, Found After 107 Years</a> WSJ: Endurance, Ernest Shackleton’s Lost Ship, Found After 107 Years 
  <p class="updated_time"> 02:39 AM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085354511/who-africas-1st-woman-leader-helps-continent-fight-covid">WHO Africa's 1st woman leader helps continent fight COVID</a> NPR: Dr. Matshidiso Moeti has become one of the world's most compelling voices urging better consideration of Africa's people — especially women. 
- <p class="updated_time"> 01:52 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 02:13 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Koreans to Decide Presidential Race Marked by Clashes and Contrasts</a> WSJ: South Koreans to Decide Presidential Race Marked by Clashes and Contrasts 
  <p class="updated_time"> 01:21 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-uk-family-scheme-refugees.html">Ukrainians Trying to Flee to U.K. Face a Confounding Path</a> NYT: The government has offered a way for U.K. residents to bring over Ukrainian relatives fleeing the war. But families and rights groups say it’s a bureaucratic nightmare that makes it too difficult to get in. 
- <p class="updated_time"> 12:52 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 01:13 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/in-china-inflationary-pressures-remain-subduedfor-now-11646813525">In China, Inflationary Pressures Remain Subdued—For Now</a> WSJ: In China, Inflationary Pressures Remain Subdued—For Now 
  <p class="updated_time"> 12:32 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60672065?at_medium=RSS&at_campaign=KARANGA">Australia floods: PM Morrison to declare a national emergency</a> BBC: The floods have been described as a "once in 500-years event" and have left 20 people dead. 
@@ -59,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60646898?at_medium=RSS&at_campaign=KARANGA">Lost lives of Greenland's Inuit children uprooted by Denmark</a> BBC: Six surviving Inuit Greenlanders taken from their families in 1951 speak about their ordeal. 
  <p class="updated_time"> 11:52 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/yoon-suk-yeol-south-korea.html">Who Is Yoon Suk-yeol? </a> NYT: Mr. Yoon, the leading conservative candidate, hopes to win the election by appealing to South Koreans who are deeply dissatisfied with the outgoing administration. 
- <p class="updated_time"> 11:51 PM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Fitch Ratings warns Russian bond default 'imminent'</a> BBC: This week Moscow said that its sovereign bond payments may be affected by international sanctions. 
  <p class="updated_time"> 11:29 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/americas/venezuela-american-prisoner-release.html">Venezuela Releases Imprisoned Americans After Talks With U.S.</a> NYT: The release of Gustavo Cárdenas, an executive at the U.S. branch of Venezuela’s state oil company, and Jorge Alberto Fernández came after Biden officials moved to thaw relations with Venezuela, long a steadfast Russian ally. 
  <p class="updated_time"> 11:13 PM CT, Mar. 08 </p> 
@@ -137,12 +139,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/08/1085179372/mcdonalds-russia-companies-ukraine">McDonald's, Coca-Cola, PepsiCo and Starbucks join a corporate exodus from Russia</a> NPR: The big American companies are the latest to suspend their operations in the wake of Russia's invasion of Ukraine. 
  <p class="updated_time"> 01:48 PM CT, Mar. 08 </p> 
  <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: The Persian Gulf monarchies have signaled they won’t help ease surging oil prices unless Washington supports them in Yemen, elsewhere. 
+ <p class="updated_time"> 01:36 PM CT, Mar. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60666708?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians leave Irpin after days of fighting</a> BBC: The town of Irpin has been devastated after days of heavy fighting and bombardment from Russian forces. 
  <p class="updated_time"> 01:30 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085105946/ukraine-russia-rescue-evacuation-premature-babies">A rescue team evacuates premature American twins from Kyiv in a daring mission</a> NPR: The twin boys, Lenny and Moishe, were born just as Russia invaded Ukraine. A specialist team of U.S. Army veterans hatched a desperate plan to bring them into Poland and, hopefully, to safety. 
  <p class="updated_time"> 12:50 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/theater/olivier-nominations-cabaret.html">‘Cabaret,’ Starring Eddie Redmayne, Leads Olivier Award Nominees</a> NYT: A revival of the 1966 musical, with Jessie Buckley as Sally Bowles, is up for 11 awards at Britain’s equivalent of the Tonys. 
- <p class="updated_time"> 12:33 PM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60667770?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC News journalists resume English-language broadcasts from Russia</a> BBC: Journalists' work was put on hold last week after the introduction of a strict new media law. 
  <p class="updated_time"> 12:31 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60666414?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell: Juror admits 'mistake' not revealing abuse</a> BBC: He failed to disclose on a jury sheet that he had been abused, so Maxwell's lawyers are demanding a retrial. 
  <p class="updated_time"> 12:27 PM CT, Mar. 08 </p> 
@@ -153,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60604952?at_medium=RSS&at_campaign=KARANGA">Ukraine: Mother of Russian soldier asks 'Whose door should I knock on to get my child back?'</a> BBC: Families of Russian soldiers in Ukraine tell the BBC the men had no idea what they were getting into. 
  <p class="updated_time"> 08:42 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-military.html">As Russia’s Military Stumbles, Its Adversaries Take Note</a> NYT: President Vladimir Putin could still reduce cities in Ukraine to rubble, officials say. But European countries say they are not as intimidated by Russian ground forces as they were in the past. 
- <p class="updated_time"> 08:41 AM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60661744?at_medium=RSS&at_campaign=KARANGA">Ukraine: Civilians evacuated from two areas under attack</a> BBC: Foreign students are among those leaving north-eastern Sumy after Russia agrees to pause attacks. 
  <p class="updated_time"> 08:20 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/australia/new-zealand-maori-tane-mahuta-kauri.html">How Maori Stepped In to Save a Towering Tree Crucial to Their Identity</a> NYT: Tāne Mahuta, an ancient tree named after the god of forests in Māori mythology, is threatened by the slow creep of an incurable disease. 
  <p class="updated_time"> 08:03 AM CT, Mar. 08 </p> 
@@ -196,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:46 AM CT, Mar. 09 </p> 
+ <a href="https://www.politico.com/news/2022/03/09/pfizer-covid-19-antiviral-kids-testing-00014372">Pfizer to begin late-stage testing of Covid-19 antiviral for kids</a> Politico: The upcoming trials will test the drug at different doses for children as young as 6 years old who test positive for Covid-19 and are not hospitalized, but are also at risk of developing severe disease. 
  <p class="updated_time"> 06:21 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/09/harris-steps-in-the-middle-of-a-nato-standoff-00015516"> Harris steps in the middle of a NATO standoff</a> Politico Playbook: And Congress unveils a bipartisan government spending deal. 
  <p class="updated_time"> 05:39 AM CT, Mar. 09 </p> 
@@ -228,6 +230,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/08/us/politics/congress-postal-service.html">Congress Approves Legislation to Return the Postal Service to Solvency</a> NYT: The bill, the most sweeping overhaul of the agency in nearly two decades, now heads to President Biden’s desk for his signature. 
  <p class="updated_time"> 10:03 PM CT, Mar. 08 </p> 
  <a href="https://www.politico.com/news/2022/03/08/biden-marine-reed-detained-russia-00015480">Biden calls family of former U.S. Marine jailed in Russia</a> Politico: Trevor Reed's situation has gotten new attention since Russia's invasion of Ukraine. 
+ <p class="updated_time"> 09:20 PM CT, Mar. 08 </p> 
+ <a href="https://www.cnn.com/2022/03/08/politics/senate-vote-postal-service-bill/index.html">Senate passes sweeping bipartisan bill overhauling the US Postal Service</a> CNN: The Senate on Tuesday passed sweeping bipartisan legislation to overhaul the US Postal Service's finances and allow the agency to modernize its operations. 
  <p class="updated_time"> 09:10 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/jan-6-panel-trump-fraud.html">Pressing for Evidence, Jan. 6 Panel Argues That Trump Committed Fraud</a> NYT: The argument was a response to a lawsuit filed by John Eastman, who is seeking to shield his communications with former President Donald J. Trump. 
  <p class="updated_time"> 09:00 PM CT, Mar. 08 </p> 
@@ -328,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/08/1085099926/congress-passes-an-anti-lynching-bill-after-more-than-a-century-of-trying">Congress passes an anti-lynching bill after more than a century of trying</a> NPR: After decades of failed attempts, Congress passed legislation making lynching a federal crime. It's estimated that more than 4,000 Black Americans were lynched since the late 19th Century. 
  <p class="updated_time"> 08:43 PM CT, Mar. 07 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/lynching-bill-senate.html">Congress Gives Final Approval to Make Lynching a Hate Crime</a> NYT: The bill’s unanimous passage in the Senate ended more than a century of failed attempts to explicitly criminalize lynching. 
- <p class="updated_time"> 08:10 PM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/biden-executive-order-crypto-00014885">Biden to sign order clearing way for crypto oversight</a> Politico: The U.S. has trailed some foreign governments in creating a regulatory framework for digital asset markets that have swelled to more than $1.7 trillion after lightning-fast growth in recent years. 
  <p class="updated_time"> 06:45 PM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/russia-oil-ukraine-biden-00014873">Biden bans Russian oil under pressure from Congress</a> Politico: Inside the White House, there's concern about the economic fallout. But momentum to shut off imports built fast on the Hill and within the administration. 
  <p class="updated_time"> 12:00 PM CT, Mar. 07 </p> 
