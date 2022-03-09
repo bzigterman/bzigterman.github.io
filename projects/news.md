@@ -9,34 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:53 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: U.S. Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s, Coca-Cola and Starbucks are among those suspending operations. The U.S. rejected a Polish proposal to provide fighter jets for use in Ukraine, a rare disagreement between the NATO allies. 
- <p class="updated_time"> 10:29 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: In South Korea Election, Top 2 Candidates Are Marred by Scandal</a> NYT: Voters have called the race “an election of “unlikeables,” as the front-runners have led campaigns dogged by accusations of corruption and nepotism. 
+ <p class="updated_time"> 11:16 PM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: Wave of Discontent Lifts South Korea’s Conservative Candidate</a> NYT: Yoon Suk-yeol, a star prosecutor, rose to popularity appealing to voters dissatisfied with the current administration of President Moon Jae-in. 
+ <p class="updated_time"> 11:13 PM CT, Mar. 08 </p> 
+ <a href="https://www.npr.org/2022/03/09/1085342733/venezuela-releases-2-americans-after-visit-from-u-s-officials">Venezuela releases 2 Americans after visit from U.S. officials</a> NPR: A high-level delegation traveled to the South American country last weekend to in part discuss the health of detained U.S. citizens. 
+ <p class="updated_time"> 10:59 PM CT, Mar. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/ukraine-russia-war">Live Updates: Biden Bans Russian Oil Imports, and Major U.S. Brands Close Outlets</a> NYT: McDonald’s, Coca-Cola and Starbucks are among those suspending operations. The U.S. rejected a Polish proposal to provide fighter jets for use in Ukraine, a rare disagreement between the NATO allies. 
  <p class="updated_time"> 10:29 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/explain/2022/03/08/world/south-korea-presidential-election">​South Korea’s Presidential Election: What to Watch</a> NYT: ​After a campaign marred by scandals and mudslinging, the country is set to elect its next president amid widespread voter discontent. 
+ <p class="updated_time"> 10:20 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 10:08 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/americas/venezuela-american-prisoner-release.html">Venezuela Releases Imprisoned Americans After Talks With U.S.</a> NYT: The release of at least two Americans came after the Biden officials moved to thaw relations with Venezuela, long a steadfast Russian ally. 
  <p class="updated_time"> 10:01 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/russia-ukraine-media.html">Two Days of Russian News Coverage: An Alternate Reality of War</a> NYT: To watch news broadcasts of the fighting in Ukraine on the main state channels in Russia is to witness the extent of the Kremlin’s efforts to sanitize its war. 
  <p class="updated_time"> 09:59 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-moldova-russia-invasion.html">Moldova Fears It May Be Russia’s Next Target</a> NYT: Moldova has taken in more Ukrainians, per capita, than any other country. But the closer Russian troops get to Moldova, the more locals consider their own escape plans. 
- <p class="updated_time"> 09:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 09:20 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/smugglers-afghanistan.html">The Smugglers’ Paradise of Afghanistan</a> NYT: For decades, the smuggling trade — of people, drugs and money — has dominated Nimruz Province. Now, as hundreds of thousands of Afghans try to flee, business has further boomed for those who hold the keys to the gate. 
- <p class="updated_time"> 08:57 PM CT, Mar. 08 </p> 
+ <p class="updated_time"> 09:20 PM CT, Mar. 08 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-set-cease-fire-to-evacuate-besieged-city-as-war-toll-grows-11646735890">Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive</a> WSJ: Fighting in Ukraine Forces Two Million to Flee as Russia Presses Offensive 
  <p class="updated_time"> 08:48 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-oil-ban-russia-ukraine-putin.html">Biden Bans Oil Imports From Russia, Warning Gas Prices Will Rise</a> NYT: Officials said President Biden had struggled for days over the move amid deep concerns about accelerating the already rapid rise in the price of gasoline. 
  <p class="updated_time"> 08:43 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/south-korea-young-voters-election.html">Meet South Korea’s Swing Voters: Young, Broke and Angry</a> NYT: Frustrated over housing prices, a lack of job opportunities and a widening income gap, the once-reliable voting bloc is undecided and will most likely elect the next president. 
+ <p class="updated_time"> 08:20 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis 
  <p class="updated_time"> 08:19 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085328911/sex-abuse-lawsuit-against-prince-andrew-has-been-formally-dismissed-by-a-judge">Sex abuse lawsuit against Prince Andrew has been formally dismissed by a judge</a> NPR: Lawyers revealed three weeks ago that they had tentatively agreed to a settlement in which the prince would donate to Virginia Giuffre's charity and declare he didn't intend to malign her character. 
  <p class="updated_time"> 07:57 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60666251?at_medium=RSS&at_campaign=KARANGA">West hits Russia with oil bans and gas curbs</a> BBC: The US bans Russian oil, targeting the Russian economy's "main artery" over its invasion of Ukraine. 
- <p class="updated_time"> 07:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/saudi-emirati-leaders-decline-calls-with-biden-during-ukraine-crisis-11646779430">Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis</a> WSJ: Saudi, Emirati Leaders Decline Calls With Biden During Ukraine Crisis 
+ <p class="updated_time"> 07:20 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees American After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees American After Biden Team Visits President Maduro 
  <p class="updated_time"> 07:05 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60524576?at_medium=RSS&at_campaign=KARANGA">Zimbabwe clinics struggle for nurses after exodus to the UK</a> BBC: With large numbers of nurses emigrating, patient care is suffering as there are not enough staff. 
  <p class="updated_time"> 07:02 PM CT, Mar. 08 </p> 
@@ -44,13 +48,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:00 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/biden-bans-russian-oil.html">Biden Bans All Imports of Russian Oil Into U.S.</a> NYT: The British also said they would phase out imports of Russian oil by the end of the year to increase the economic isolation of Russia’s president, Vladimir. V. Putin. 
  <p class="updated_time"> 06:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/venezuela-agrees-to-restart-negotiations-with-u-s-backed-opposition-11646756236">Venezuela Frees American After Biden Team Visits President Maduro</a> WSJ: Venezuela Frees American After Biden Team Visits President Maduro 
- <p class="updated_time"> 06:57 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/us-intelligence-russia-ukraine.html">U.S. Intelligence Tells Congress Putin Is ‘Unlikely to Be Deterred’</a> NYT: Top U.S. intelligence officials told Congress that the Russian leader had underestimated Ukrainian resolve and Western cohesion but was “doubling down” to achieve his goals. 
  <p class="updated_time"> 06:28 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60657698?at_medium=RSS&at_campaign=KARANGA">Ukraine: The Indian girl who wouldn’t abandon her dog in a war zone</a> BBC: Arya Aldrin undertook a gruelling journey to bring her Siberian husky to India. 
  <p class="updated_time"> 06:21 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-russia-zelensky.html">Zelensky Vows No Surrender in Video to Britain’s Parliament</a> NYT: In a dramatic video address to Britain’s House of Commons, President Volodymyr Zelensky of Ukraine said he would never capitulate to the invading Russians. 
+ <p class="updated_time"> 06:20 PM CT, Mar. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-france-far-right-presidential-candidate-zemmour-faces-accusations-of-sexual-misconduct-11646764275">In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct</a> WSJ: In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct 
  <p class="updated_time"> 06:14 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/business/mcdonalds-russia-starbucks-pepsi-coca-cola.html">Starbucks, McDonald’s and Others Pause Operations in Russia</a> NYT: After years of cultivating the Russian market, McDonald’s, Starbucks, PepsiCo and Coca-Cola said they would temporarily close locations or stop selling products there. 
  <p class="updated_time"> 06:06 PM CT, Mar. 08 </p> 
@@ -59,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60667313?at_medium=RSS&at_campaign=KARANGA">Ukraine: Family escapes Kharkiv to Poland to treat daughter's cancer</a> BBC: After four days on the run, three-year-old Polina and her mother have made it out of Ukraine. 
  <p class="updated_time"> 06:00 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60671329?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Troops dig in near Kyiv</a> BBC: Ukrainians are determined to defend their capital city as Russian troops prepare for an assault. 
- <p class="updated_time"> 05:57 PM CT, Mar. 08 </p> 
- <a href="https://www.wsj.com/articles/in-france-far-right-presidential-candidate-zemmour-faces-accusations-of-sexual-misconduct-11646764275">In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct</a> WSJ: In France, Far-Right Presidential Candidate Zemmour Faces Accusations of Sexual Misconduct 
  <p class="updated_time"> 05:48 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/sports/basketball/brittney-griner-wnba-russia.html">Brittney Griner’s WNBA Impact Is Clear As Fans Await Word from Russia</a> NYT: Griner, one of the world’s best basketball players, was believed to have been detained in Russia on what customs officials described as drug charges. Fans are worried. 
  <p class="updated_time"> 04:46 PM CT, Mar. 08 </p> 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/08/1085033015/photos-ukraine-orthodox-church-russia-invasion-patriarch">Some of Ukraine's Orthodox churches want to break away from their Russian patriarch</a> NPR: At church, Ukrainians pray for an end to war. But a rift is forming: The head of the Russian Orthodox Church has defended Moscow's invasion. Some in Ukraine want to break away from his leadership. 
  <p class="updated_time"> 10:42 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60659363?at_medium=RSS&at_campaign=KARANGA">Ukrainian actor Pasha Lee killed in Russian bombardment</a> BBC: Pasha Lee, 33, had signed up to defend his country at the start of the war. 
- <p class="updated_time"> 09:33 AM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085111819/as-south-koreans-go-to-the-polls-a-backlash-against-feminism-has-become-politica">As South Koreans go to the polls, a backlash against feminism has become political </a> NPR: Young voters are considered a key voting bloc as the ruling Democratic Party and the conservative opposition People Power Party vie to secure the presidency. But gender issues divide South Koreans. 
  <p class="updated_time"> 08:42 AM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/07/us/politics/russia-ukraine-military.html">As Russia’s Military Stumbles, Its Adversaries Take Note</a> NYT: President Vladimir Putin could still reduce cities in Ukraine to rubble, officials say. But European countries say they are not as intimidated by Russian ground forces as they were in the past. 
  <p class="updated_time"> 08:41 AM CT, Mar. 08 </p> 
