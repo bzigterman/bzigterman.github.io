@@ -9,19 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:17 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 11:23 AM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: South Korea Presidential Election Too Close to Call</a> NYT: With more than half of the ballots tallied, Yoon Suk-yeol, the conservative candidate, and his liberal rival, Lee Jae-myung, were virtually tied early Thursday. 
+ <p class="updated_time"> 11:18 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Live Updates: Costs of War Mount for Russia, and for Civilians in Ukraine</a> NYT: Russia’s Central Bank limited withdrawals of foreign currency, hoping to shore up the plunging ruble as Western economic penalties take a serious toll. In Ukraine, efforts to evacuate civilians from battered cities resumed, but many remain trapped in the areas of heaviest fighting. 
  <p class="updated_time"> 11:13 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60676231?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukraine maternity and children's ward in ruins after Russia strike</a> BBC: Russian forces bombed a hospital in the southern city of Mariupol, say officials in Ukraine. 
  <p class="updated_time"> 11:10 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60675599?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Maternity hospital hit by Russian shelling</a> BBC: President Volodymyr Zelensky says children are buried under the rubble after the hospital was attacked. 
- <p class="updated_time"> 11:01 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/03/08/world/korean-election">Live Updates: South Korea Presidential Election Too Close to Call</a> NYT: With more than half of the ballots tallied, Yoon Suk-yeol, the conservative candidate, and his liberal rival, Lee Jae-myung, were virtually tied early Thursday. 
  <p class="updated_time"> 10:52 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/business/russia-ukraine-retail-luxury-fashion.html">No Ikea Shelves, No Levis: The Western Retail Exodus From Russia Is On</a> NYT: Since the invasion of Ukraine began, the increasing financial and reputational risks of doing business in Russia is leading Western brands to halt operations. 
  <p class="updated_time"> 10:42 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/health-60681493?at_medium=RSS&at_campaign=KARANGA">Man given genetically modified pig heart dies</a> BBC: The man died two months after operation, says the hospital that carried out the world-first surgery. 
- <p class="updated_time"> 10:21 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 10:35 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 10:21 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/chernobyl-power-outage-nuclear-plant.html">Power Loss at Chernobyl Is Worrying, but Not an Immediate Threat, U.N. Says</a> NYT: The International Atomic Energy Agency said that it saw “no critical impact on safety” at this time because the amount of cooling water was sufficient. 
@@ -29,11 +29,11 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/09/1085420036/olena-zelenska-ukraines-first-lady-condemns-russia">Olena Zelenska, Ukraine's first lady, says Russia is waging mass murder of civilians</a> NPR: Zelenska wrote out what she calls "my testimony from Ukraine" after being flooded with requests for interviews in the two weeks since Russia invaded her country. 
  <p class="updated_time"> 10:07 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/science/who-boosters-covid.html">W.H.O. Bolsters Booster Endorsement but Still Emphasizes More Primary Shots</a> NYT: The broad endorsement comes as the W.H.O.’s stance on boosters continues to evolve. 
- <p class="updated_time"> 10:00 AM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60673933?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Visas a shambles, Brits with Ukrainian family say</a> BBC: Britons with Ukrainian partners criticise the bureaucracy refugees trying to enter the UK are met with. 
+ <p class="updated_time"> 10:02 AM CT, Mar. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60678598?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl power supply cut off, says energy operator</a> BBC: Even without power there is no critical impact on safety, the UN nuclear watchdog says. 
  <p class="updated_time"> 09:42 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60681288?at_medium=RSS&at_campaign=KARANGA">Covid: Austria suspends compulsory vaccination mandate</a> BBC: The country was days away from enforcing compulsory vaccinations for almost all over-18s with fines. 
- <p class="updated_time"> 09:21 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 09:35 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-ships-stranded-sailors-global-supply-chain-11646754357">Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade</a> WSJ: Hundreds of Ships Trapped by Ukraine War, Endangering Sailors and Global Trade 
  <p class="updated_time"> 09:17 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/us-intelligence-russia-ukraine.html">U.S. Intelligence Tells Congress Putin Is ‘Unlikely to Be Deterred’</a> NYT: Top U.S. intelligence officials told Congress that the Russian leader had underestimated Ukrainian resolve and Western cohesion but was “doubling down” to achieve his goals. 
@@ -45,14 +45,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/09/1085272232/hundreds-gather-to-honor-fallen-ukrainian-soldiers">Hundreds gather to honor fallen Ukrainian soldiers</a> NPR: The first of Ukraine's fallen soldiers are starting to come home. Two men were killed on the front lines in Russia's war on Ukraine. Hundreds gathered to mourn at their funeral on Tuesday. 
  <p class="updated_time"> 08:35 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60670325?at_medium=RSS&at_campaign=KARANGA">Endurance: Underwater robots find Shackleton's lost ship</a> BBC: Video captured by underwater robots of the shipwreck shows Endurance to be in remarkable condition. 
- <p class="updated_time"> 08:21 AM CT, Mar. 09 </p> 
+ <p class="updated_time"> 08:35 AM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/endurance-ernest-shackletons-lost-ship-found-after-107-years-11646821921">Endurance, Ernest Shackleton’s Lost Ship, Found After 107 Years</a> WSJ: Endurance, Ernest Shackleton’s Lost Ship, Found After 107 Years 
  <p class="updated_time"> 07:40 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-60672085?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia soon unable to pay its debts, warns agency</a> BBC: Russia will soon be in a position where it is unable to pay its debts, says Fitch Ratings. 
+ <p class="updated_time"> 07:35 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Koreans Vote in Presidential Race Marked by Clashes and Contrasts</a> WSJ: South Koreans Vote in Presidential Race Marked by Clashes and Contrasts 
  <p class="updated_time"> 07:24 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/asia/lee-jae-myung-south-korea.html">Who is Lee Jae Myung, the Liberal Candidate in South Korea’s Election?</a> NYT: His challenge is to promise continuity with the ruling party’s policies, yet distinguish himself from the current president. 
- <p class="updated_time"> 07:21 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Koreans Vote in Presidential Race Marked by Clashes and Contrasts</a> WSJ: South Koreans Vote in Presidential Race Marked by Clashes and Contrasts 
  <p class="updated_time"> 07:19 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60674341?at_medium=RSS&at_campaign=KARANGA">A Russian woman considers leaving her country behind</a> BBC: As Western companies leave Russia, Moscow residents consider what will happen to their jobs and the economy. 
  <p class="updated_time"> 07:19 AM CT, Mar. 09 </p> 
@@ -65,10 +65,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/world/europe/olena-zelenska-ukraine.html">Olena Zelenska, Ukraine’s First Lady, Condemns Russia’s Invasion</a> NYT: Olena Zelenska says in a letter that Russian forces are engaged in the “mass murder of civilians” and reiterates her husband’s call for a no-fly zone. 
  <p class="updated_time"> 06:42 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60675469?at_medium=RSS&at_campaign=KARANGA">Venezuela releases two jailed US citizens after talks</a> BBC: The two were released just days after a high-level US delegation met President Nicolás Maduro. 
+ <p class="updated_time"> 06:35 AM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/in-china-inflationary-pressures-remain-subduedfor-now-11646813525">In China, Inflationary Pressures Remain Subdued—For Now</a> WSJ: In China, Inflationary Pressures Remain Subdued—For Now 
  <p class="updated_time"> 06:28 AM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60674185?at_medium=RSS&at_campaign=KARANGA">Ukraine: Five moments of human connection amid the war</a> BBC: Since Russia's invasion of Ukraine, moments of hope and music have emerged on social media. 
- <p class="updated_time"> 06:21 AM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/in-china-inflationary-pressures-remain-subduedfor-now-11646813525">In China, Inflationary Pressures Remain Subdued—For Now</a> WSJ: In China, Inflationary Pressures Remain Subdued—For Now 
  <p class="updated_time"> 05:57 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/russia-ukraine-economy.html">Russia’s Other Contest With the West: Economic Endurance</a> NYT: Which side can maintain domestic support as the war costs regular citizens could also determine the outcome in Ukraine. 
  <p class="updated_time"> 05:08 AM CT, Mar. 09 </p> 
