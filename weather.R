@@ -308,7 +308,7 @@ temps_past_year <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-years(1))
 
 his_los <- tibble(period = c("Past Year","Past Month","Past Week",
-                             "Yesterday","Today","Hour"),
+                             "Yesterday","Today","Past Hour"),
                   # temps = c(temps_past_year,
                   #           temps_past_month,
                   #           temps_past_week,
@@ -348,7 +348,7 @@ ggplot(data = his_los_longer,
   geom_point(aes(color = value),
              size = 2) +
   scale_x_discrete(limits = c("Past Year","Past Month","Past Week",
-                              "Yesterday","Today","Hour")) +
+                              "Yesterday","Today","Past Hour")) +
   scale_color_distiller(#limits = c(-Inf,0,32,50,60,100,Inf),
     palette = "Spectral",
     guide = NULL) +
@@ -358,6 +358,7 @@ ggplot(data = his_los_longer,
        y = NULL,
        caption = "Source: OpenWeather") +
   theme(
+    axis.text.x = element_text(angle = 90),
     plot.background = element_rect(fill = "white", color = "white"),
     panel.grid = element_blank(),
     plot.caption = element_text(color = "grey40")
