@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:36 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Live Updates: Russia Hammers Ukrainian Cities, Striking Maternity Hospital in South</a> NYT: Russian shelling blocked efforts to create safe corridors for civilians, leaving them trapped without water, food, heat and medicine. “There are just bodies lying in the streets,” said a Mariupol resident. 
+ <p class="updated_time"> 09:33 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-cease-fire-talks.html">Subtle Shifts Raise Hopes for a Cease-fire in Ukraine</a> NYT: Both Russia and Ukraine appear to have softened their stance, with the Kremlin signaling a retreat on regime change and Kyiv expressing flexibility on NATO membership. But the two sides remain far apart. 
+ <p class="updated_time"> 09:29 PM CT, Mar. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60685141?at_medium=RSS&at_campaign=KARANGA">South Korea: Conservative candidate Yoon Suk-yeol elected president</a> BBC: Mr Yoon's win was one of the closest in history - with the final count separated by less than 1%. 
  <p class="updated_time"> 09:22 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
- <p class="updated_time"> 09:16 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Live Updates: Russia Hammers Ukrainian Cities, Striking Maternity Hospital in South</a> NYT: Russian shelling blocked efforts to create safe corridors for civilians, leaving them trapped without water, food, heat and medicine. “There are just bodies lying in the streets,” said a Mariupol resident. 
  <p class="updated_time"> 09:08 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Law</a> NYT: The measure, which is expected to be signed into law by Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
+ <p class="updated_time"> 08:47 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 08:44 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-family-perebyinis-kyiv.html">A Family’s Dash Toward Safety in Ukraine Ends Tragically</a> NYT: Tetiana Perebyinis and her two children were killed trying to dash to safety, a moment captured by our photographer. Her husband describes their lives, and their final hours. 
  <p class="updated_time"> 08:42 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-kremlin-economic-war.html">Russia Strikes Ukraine’s Cities and Accuses U.S. of “Economic War”</a> NYT: Misery deepened in Ukraine, where millions of people were caught in besieged cities, and in Russia, where the West’s economic sanctions were biting hard. 
- <p class="updated_time"> 08:32 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 07:50 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-chernobyl-power.html">Damaged Chernobyl Nuclear Plant, Occupied by Russia, Loses Outside Power</a> NYT: The site of the worst nuclear accident in history, where a yearslong cleanup is underway, is now dependent on power from diesel generators and backup supplies. 
+ <p class="updated_time"> 07:47 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 07:42 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-mariupol-siege.html">After a Week of Siege, Bloodied Mariupol Plans Mass Graves</a> NYT: Under a relentless Russian barrage, there is no heat or electricity, and people are boiling snow for water. A 6-year-old died of dehydration, the authorities said. 
- <p class="updated_time"> 07:32 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 07:11 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1983 disaster still pose considerable dangers. 
  <p class="updated_time"> 06:57 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60679175?at_medium=RSS&at_campaign=KARANGA">Israel's Bennett plays peacemaker in Ukraine-Russia war</a> BBC: Prime Minister Naftali Bennett is an unlikely mediator between Kyiv and Moscow, Tom Bateman says. 
- <p class="updated_time"> 06:32 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 06:47 PM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
  <p class="updated_time"> 06:29 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085611369/sony-playstation-russia">Sony halts PlayStation sales in Russia due to Ukraine invasion</a> NPR: Along with stopping sales of its consoles, the company announced a $2 million donation to UNHCR and the international NGO, Save the Children, to support the victims in Ukraine. 
  <p class="updated_time"> 05:49 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/evgeny-maslin-dead.html">Evgeny Maslin, Russian General Who Secured Nuclear Arsenal, Dies at 84</a> NYT: He persuaded Ukraine and other post-Soviet states to give up their weapons, then worked with the U.S. to safeguard and dismantle thousands of them. 
- <p class="updated_time"> 05:32 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 05:47 PM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
- <p class="updated_time"> 05:23 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-cease-fire-talks.html">Subtle Shifts Raise Hopes for a Cease-fire in Ukraine</a> NYT: Both Russia and Ukraine appear to have softened their stance, with the Kremlin signaling a retreat on regime change and Kyiv expressing flexibility on NATO membership. But the two sides remain far apart. 
  <p class="updated_time"> 05:07 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60675599?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Maternity hospital hit by Russian air strike</a> BBC: President Volodymyr Zelensky said people were trapped under the rubble following the attack. 
  <p class="updated_time"> 05:07 PM CT, Mar. 09 </p> 
@@ -51,10 +53,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/09/1085512093/russias-war-on-ukraine-has-hurt-oil-prices-and-now-the-u-s-is-talking-to-venezue">Russia's war on Ukraine has hurt oil prices, and now the U.S. is talking to Venezuela</a> NPR: Two imprisoned Americans were released from a Venezuelan jail after recent talks — which also dealt with energy security. Could this be the sign of a thaw between Washington and Caracas? 
  <p class="updated_time"> 04:47 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60685723?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Children of the Soviet era running from Russia</a> BBC: A veteran of the Soviet-Afghan war is among many older Ukrainians now seeking refuge abroad. 
+ <p class="updated_time"> 04:47 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 04:37 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60683699?at_medium=RSS&at_campaign=KARANGA">Kamala Harris heads to Poland amid Nato fighter jet rift</a> BBC: The chances of a deal to supply planes to Ukraine look very remote due to escalation fears. 
- <p class="updated_time"> 04:32 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 04:20 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/cluster-munitions-vacuum-bombs-russia-ukraine.html">Cluster Munitions and ‘Vacuum Bombs’: Russian Invasion Revives an Old Debate</a> NYT: Diplomats and talking heads have repeated longstanding fictions about battlefield weapons that critics argue are too cruel or too indiscriminate for use in warfare. 
  <p class="updated_time"> 04:18 PM CT, Mar. 09 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/09/1085544555/russia-strikes-a-ukrainian-maternity-ward-as-evacuations-continue">Russia strikes a Ukrainian maternity ward as evacuations continue</a> NPR: The mayor of the southern Ukrainian port city of Mariupol has accused Russian forces of firing on evacuation points and violating Wednesday's temporary ceasefire. 
  <p class="updated_time"> 03:19 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/business/pay-gap-international-womens-day-twitter.html">Twitter Bot Highlights Gender Pay Gap One Company at a Time</a> NYT: Britain requires companies with 250 or more employees to report gender pay gap data. On International Women’s Day, one couple used it to raise awareness about lingering discrepancies. 
- <p class="updated_time"> 03:17 PM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60685141?at_medium=RSS&at_campaign=KARANGA">South Korea: Opposition candidate Yoon Suk-yeol elected president</a> BBC: Yoon Suk-yeol (R) beat the ruling party's Lee Jae-myung (L) following a close-run race. 
  <p class="updated_time"> 03:08 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-mariupol-hospital-strike.html">Videos Show Devastating Strike at Mariupol Hospital Maternity Ward</a> NYT: Footage from the hospital verified by The New York Times showed several wounded people being evacuated. The extent of the casualties was not immediately clear. 
  <p class="updated_time"> 03:07 PM CT, Mar. 09 </p> 
@@ -216,8 +216,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:26 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 09:44 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/house-spending-bill.html">House Passes $1.5 Trillion Spending Bill as Democrats Drop Covid Aid</a> NYT: Facing disputes over how to cover the cost of the pandemic response effort, Democrats dropped it rather than jeopardize legislation that includes aid for Ukraine and other top priorities. 
+ <p class="updated_time"> 09:31 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/house-passes-violence-against-women-act.html">House Passes Bill to Bolster Protections for Women Facing Violence</a> NYT: The reauthorization of the Violence Against Women Act, a top priority of President Biden that expired in 2019, was included in a wide-ranging government spending bill. 
  <p class="updated_time"> 09:26 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/biden-pandemic-response-funding.html">Uncertainty for Biden’s Covid Plan After Aid Is Dropped From Spending Bill</a> NYT: The $15.6 billion emergency aid package was stripped amid disputes over how to pay for it, injecting uncertainty into the president’s pandemic response plan. 
  <p class="updated_time"> 09:22 PM CT, Mar. 09 </p> 
@@ -274,8 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/09/trump-plane-emergency-landing-00015749">Trump plane made emergency landing after weekend speech to GOP donors</a> Politico: The plane was in the air between 20 and 30 minutes before one of the engines failed. 
  <p class="updated_time"> 01:16 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/business/amazon-antitrust-investigation.html">House Panel Calls for Criminal Investigation Into Amazon</a> NYT: Members of the Judiciary Committee accused Amazon of obstructing its inquiry into how the company treats third-party sellers. 
- <p class="updated_time"> 01:14 PM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/white-house-covid-funding-run-out-00015712">Dem revolt could run Biden's Covid fight out of money</a> Politico: The limited funding raises the likelihood that the White House will be left shorthanded should a new, dangerous variant emerge. 
  <p class="updated_time"> 12:56 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/free-school-meals-end-mcconnell-opposition-00015695">Finger-pointing ensues after Congress fails to extend universal school meals</a> Politico: Democrats and a long list of school groups are blaming the Senate minority leader for taking a hardline stance against extending the waivers. 
  <p class="updated_time"> 11:52 AM CT, Mar. 09 </p> 
@@ -336,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/08/biden-veterans-burn-pits-00015401">Biden again emphasizes help for veterans</a> Politico: The president has connected the issue to the death of his son. 
  <p class="updated_time"> 06:51 PM CT, Mar. 08 </p> 
  <a href="https://www.politico.com/news/2022/03/08/davos-putin-russian-oligarchs-00015344">Davos freezes out Putin and Russian oligarchs</a> Politico: World Economic Forum is siding with Ukraine, and blowing a hole in its budget. 
- <p class="updated_time"> 06:44 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-veterans-burn-pits.html">In Texas, Biden Says New Legislation Could Expand Benefits for Burn Pit Victims</a> NYT: The president is focused on veterans who fell ill after breathing in toxic materials from burning waste in Iraq and Afghanistan, exposure that he believes contributed to the death of his elder son. 
  <p class="updated_time"> 06:29 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085315491/congress-passes-bill-to-shore-up-the-postal-service-without-cutting-back-on-deli">Congress passes bill to shore up the Postal Service without cutting back on delivery </a> NPR: Congress mustered rare bipartisan support for the Postal Service package, dropping some of the more controversial proposals to settle on core ways to save the service and ensure its future operations. 
  <p class="updated_time"> 04:52 PM CT, Mar. 08 </p> 
