@@ -292,10 +292,43 @@ ggsave("plots/champaign_weather_mobile.png", bg = "white",
 temp_history <- read_csv("data/champaign_weather.csv") %>%
   mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) 
 
-ggplot(data = temp_history,
-       aes(x = central_time,
-           y = temp)) +
-  geom_point()
+temps_past_day <- temp_history %>%
+  filter(central_time > now(tzone = "America/Chicago")-days(1))
+temps_past_week <- temp_history %>%
+  filter(central_time > now(tzone = "America/Chicago")-weeks(1))
+temps_past_month <- temp_history %>%
+  filter(central_time > now(tzone = "America/Chicago")-months(1))
+temps_past_year <- temp_history %>%
+  filter(central_time > now(tzone = "America/Chicago")-years(1))
+
+his_los <- tibble(period = c("Year","Month","Week","Day"),
+       min = c(min(temps_past_year$temp),
+               min(temps_past_month$temp),
+               min(temps_past_week$temp),
+               min(temps_past_day$temp)),
+       max = c(max(temps_past_year$temp),
+               max(temps_past_month$temp),
+               max(temps_past_week$temp),
+               max(temps_past_day$temp)))
+
+ggplot(data = his_los,
+       aes(x = period,
+           xend = period,
+           y = min,
+           yend = max)) +
+  geom_segment(size = 2) +
+  theme_minimal() +
+  labs(x = "Past",
+       y = NULL,
+       caption = "Source: OpenWeather") +
+  theme(
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    plot.caption = element_text(color = "grey40")
+  )
+
+ggsave("plots/temp_history.png", bg = "white",
+       width = 8, height = 8*(628/1200), dpi = 320)
 
 # web text ----
 severe_weather_outlook_url <- 
@@ -347,6 +380,15 @@ Currently:
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
+
+## Temperature History
+
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/temp_history.png\" alt=\"\" />
+</picture>
+
 
 ## Severe Thunderstorm Outlook
 
