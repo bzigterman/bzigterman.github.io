@@ -9,56 +9,66 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:03 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 11:27 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Top Envoys Fail to Make Progress Toward Ending War</a> NYT: There was no breakthrough after the foreign ministers of Russia and Ukraine met. Three people were killed in a Russian strike against a maternity hospital on Wednesday, Ukrainian officials said. 
- <p class="updated_time"> 10:01 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 11:10 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60689699?at_medium=RSS&at_campaign=KARANGA">Timbuktu manuscripts: Mali's ancient documents captured online</a> BBC: The thousands of manuscripts contain centuries of African writing on maths, medicine and more. 
+ <p class="updated_time"> 11:04 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60693166?at_medium=RSS&at_campaign=KARANGA">From the frontline: If Kharkiv falls, all of Ukraine falls</a> BBC: Quentin Sommerville and cameraman Darren Conway have spent the week with the Ukrainian forces as they fight to stop a further Russian advance. 
+ <p class="updated_time"> 10:45 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60691507?at_medium=RSS&at_campaign=KARANGA">Rafik Hariri killing: Hezbollah duo convicted of 2005 bombing on appeal</a> BBC: A UN-backed court reverses the acquittals of two men over the assassination of Lebanon's former PM. 
+ <p class="updated_time"> 10:44 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60699332?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Column of Russian tanks ambushed by Ukrainian forces</a> BBC: Drone footage appears to show Russian tanks under attack on the outskirts of Kyiv. 
+ <p class="updated_time"> 10:39 AM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/europe/france-presidential-election-media-cnews-.html">How Billionaires Are Shaping France’s Presidential Campaign</a> NYT: In a nation with strict political finance laws, control over the news media has provided an avenue for the very rich to influence elections, this one more than ever. 
+ <p class="updated_time"> 10:37 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/evgeny-maslin-dead.html">Evgeny Maslin, Russian General Who Secured Nuclear Arsenal, Dies at 84</a> NYT: He persuaded Ukraine and other post-Soviet states to give up their weapons, then worked with the U.S. to safeguard and dismantle thousands of them. 
+ <p class="updated_time"> 10:31 AM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/08/sports/basketball/brittney-griner-wnba-russia.html">Brittney Griner’s WNBA Impact Is Clear As Fans Await Word from Russia</a> NYT: Griner, one of the world’s best basketball players, was detained in Russia on what customs officials described as drug charges. Fans are worried. 
+ <p class="updated_time"> 10:29 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
+ <p class="updated_time"> 10:05 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60689279?at_medium=RSS&at_campaign=KARANGA">Russia hits back at Western sanctions with export bans</a> BBC: Russia will halt exports of some types of timber and other goods until the end of 2022. 
  <p class="updated_time"> 09:57 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/arts/music/russia-music-canceled-concerts.html">Major Music Companies Pause Business in Russia</a> NYT: The three major record conglomerates and the touring giant Live Nation are suspending operations over Russia’s invasion of Ukraine, while individual artists have canceled tour dates. 
  <p class="updated_time"> 09:50 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
+ <p class="updated_time"> 09:29 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 09:14 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship. 
- <p class="updated_time"> 09:10 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 08:59 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085699374/goldman-sachs-russia">Goldman Sachs is the 1st major Wall Street bank to pull out of Russia</a> NPR: The investment bank says it's "winding down its business in Russia in compliance with regulatory and licensing requirements," two weeks after the country first invaded Ukraine. 
  <p class="updated_time"> 08:58 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html">4 Falsehoods Russians Are Told About the War</a> NYT: Russia’s disinformation machine is working in overdrive inside its own borders. 
- <p class="updated_time"> 08:49 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60689699?at_medium=RSS&at_campaign=KARANGA">Timbuktu manuscripts: Mali's ancient documents captured online</a> BBC: The thousands of manuscripts contain centuries of African writing on maths, medicine and more. 
+ <p class="updated_time"> 08:29 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Two Ukrainian Refugees Enter Poland Every Three Seconds Right Now</a> WSJ: Two Ukrainian Refugees Enter Poland Every Three Seconds Right Now 
  <p class="updated_time"> 08:24 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60690362?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Roman Abramovich sanctioned by UK</a> BBC: Chelsea FC owner Roman Abramovich one of seven oligarchs sanctioned by the UK government. 
  <p class="updated_time"> 08:23 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60689267?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Indian students on the trauma of escaping</a> BBC: The BBC follows some of the thousands of students who've been evacuated from the war. 
  <p class="updated_time"> 08:14 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
- <p class="updated_time"> 08:10 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 08:06 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/middleeast/israel-isaac-herzog-turkey-visit.html">Israel’s President Visits Turkey in Sign of Thawing Relations</a> NYT: In their highest-level meeting in 14 years, Israel and Turkey sought to rekindle an alliance after years of turbulence. 
- <p class="updated_time"> 08:00 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-60689279?at_medium=RSS&at_campaign=KARANGA">Russia hits back at Western sanctions with export bans</a> BBC: Russia will halt exports of some types of timber and other goods until the end of 2022. 
  <p class="updated_time"> 07:34 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085689687/roman-abramovich-chelsea">The U.K. sanctions Roman Abramovich, halting his plan to sell Chelsea Football Club</a> NPR: The Russian billionaire faces an asset freeze and travel ban, just a week after he announced plans to sell the club. The U.K. government aims to shield players and fans from the sanctions' impact. 
  <p class="updated_time"> 07:32 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/africa/thomas-sankara-assassination-trial.html">Burkina Faso Awaits the Verdict in the Sankara Assassination Trial</a> NYT: Thirty-five years after the killing of President Thomas Sankara of Burkina Faso, his supporters hope for justice. But the full truth about the murder, including any foreign role, is elusive. 
+ <p class="updated_time"> 07:29 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
  <p class="updated_time"> 07:13 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60687203?at_medium=RSS&at_campaign=KARANGA">Ukraine war: No progress on ceasefire after Kyiv-Moscow talks</a> BBC: Kyiv's FM says Russian demands amount to a surrender, Moscow's FM says the invasion is going to plan. 
- <p class="updated_time"> 07:10 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
  <p class="updated_time"> 06:45 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60690266?at_medium=RSS&at_campaign=KARANGA">Chile couples' joy as first same-sex marriages held</a> BBC: Under the new law, both partners will also be able to get legal recognition as parents. 
  <p class="updated_time"> 06:36 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60690856?at_medium=RSS&at_campaign=KARANGA">'They could be in mass graves': Desperate attempt to reach Mariupol trapped</a> BBC: People know relatives under siege are living under fire and drinking snow, but have lost contact now. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60690856?at_medium=RSS&at_campaign=KARANGA">'It is Russia against humanity': Crisis grows in besieged Ukrainian city</a> BBC: Relatives of people trapped in Mariupol face agonising difficulties contacting their loved ones. 
+ <p class="updated_time"> 06:29 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 06:11 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60688640?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Family drags grandmother to safety from Bucha</a> BBC: When his neighbour's house was hit by a tank, Dmytro decided to get out of the town of Bucha fast. 
- <p class="updated_time"> 06:10 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
  <p class="updated_time"> 05:24 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
- <p class="updated_time"> 05:10 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 05:00 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085680648/south-koreans-vote-political-conservative-as-new-president">South Koreans vote political conservative as new president</a> NPR: The politically inexperienced Yoon Suk Yeol's pledge to get tough on North Korea could mark a sharp break with the outgoing liberal administration's policies. 
  <p class="updated_time"> 04:36 AM CT, Mar. 10 </p> 
@@ -76,7 +86,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:14 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085673812/modis-ruling-party-ahead-in-crucial-state-polls-in-india">Modi's ruling party is ahead in crucial state polls in India</a> NPR: The results are seen as a referendum on the prime minister's popularity and a resounding endorsement of his party's Hindu-first politics. 
  <p class="updated_time"> 03:12 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60689562?at_medium=RSS&at_campaign=KARANGA">WATCH: Disposal experts defuse unexploded bomb in Ukraine</a> BBC: An unexploded 500kg (1102lb) bomb was discovered in Chernihiv in northern Ukraine. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60689562?at_medium=RSS&at_campaign=KARANGA">Unexploded bomb defused in Ukraine</a> BBC: An unexploded 500kg (1102lb) bomb was discovered in Chernihiv in northern Ukraine. 
  <p class="updated_time"> 02:40 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-60676092?at_medium=RSS&at_campaign=KARANGA">The man accused of being a death-faking US fugitive </a> BBC: The bizarre case of a man arrested in a Glasgow hospital accused by the US of being a fugitive. 
  <p class="updated_time"> 02:05 AM CT, Mar. 10 </p> 
@@ -91,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60683248?at_medium=RSS&at_campaign=KARANGA">Russia could launch chemical attack in Ukraine - White House</a> BBC: False claims about chemical weapon development are a Russian ploy to justify more attacks, says Jen Psaki. 
  <p class="updated_time"> 09:33 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-cease-fire-talks.html">Subtle Shifts Raise Hopes for a Cease-fire in Ukraine</a> NYT: Both Russia and Ukraine appear to have softened their stance, with the Kremlin signaling a retreat on regime change and Kyiv expressing flexibility on NATO membership. But the two sides remain far apart. 
- <p class="updated_time"> 09:29 PM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60685141?at_medium=RSS&at_campaign=KARANGA">South Korea: Conservative candidate Yoon Suk-yeol elected president</a> BBC: Mr Yoon's win was one of the closest in history - with the final count separated by less than 1%. 
  <p class="updated_time"> 09:08 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Law</a> NYT: The measure, which is expected to be signed into law by Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
  <p class="updated_time"> 08:44 PM CT, Mar. 09 </p> 
@@ -109,12 +117,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60679175?at_medium=RSS&at_campaign=KARANGA">Israel's Bennett plays peacemaker in Ukraine-Russia war</a> BBC: Prime Minister Naftali Bennett is an unlikely mediator between Kyiv and Moscow, Tom Bateman says. 
  <p class="updated_time"> 06:29 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085611369/sony-playstation-russia">Sony halts PlayStation sales in Russia due to Ukraine invasion</a> NPR: Along with stopping sales of its consoles, the company announced a $2 million donation to UNHCR and the international NGO, Save the Children, to support the victims in Ukraine. 
- <p class="updated_time"> 05:51 PM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60685146?at_medium=RSS&at_campaign=KARANGA">Black Panther Ryan Coogler director mistaken for bank robber</a> BBC: Ryan Coogler was arrested trying to withdraw money from his own bank account in Atlanta, Georgia. 
  <p class="updated_time"> 05:20 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60685794?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic pulls out of Indian Wells and Miami Open over US coronavirus rules</a> BBC: Novak Djokovic withdraws from Indian Wells and the Miami Open - the first two Masters Series events of the year - because of US coronavirus rules. 
  <p class="updated_time"> 04:47 PM CT, Mar. 09 </p> 
- <a href="https://www.npr.org/2022/03/09/1085512093/russias-war-on-ukraine-has-hurt-oil-prices-and-now-the-u-s-is-talking-to-venezue">Russia's war on Ukraine has hurt oil prices, and now the U.S. is talking to Venezuela</a> NPR: Two imprisoned Americans were released from a Venezuelan jail after recent talks — which also dealt with energy security. Could this be the sign of a thaw between Washington and Caracas? 
+ <a href="https://www.npr.org/2022/03/09/1085512093/russias-war-on-ukraine-has-hurt-oil-prices-and-now-the-u-s-is-talking-to-venezue">Ukraine war has caused oil prices to rise, and now the U.S. is talking to Venezuela</a> NPR: Two imprisoned Americans were released from a Venezuelan jail after recent talks — which also dealt with energy security. Could this be the sign of a thaw between Washington and Caracas? 
  <p class="updated_time"> 04:47 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60685723?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Children of the Soviet era running from Russia</a> BBC: A veteran of the Soviet-Afghan war is among many older Ukrainians now seeking refuge abroad. 
  <p class="updated_time"> 04:44 PM CT, Mar. 09 </p> 
@@ -125,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/09/1085544653/polands-history-with-russia-has-inspired-some-poles-to-join-the-fight-in-ukraine">Poland's history with Russia has inspired some Poles to join the fight in Ukraine</a> NPR: Citizen-soldiers are joining Ukraine's new international brigade of foreign fighters. They include Poles who compare Russia's invasion of Ukraine to the Soviet Union's brutal occupation of Poland. 
  <p class="updated_time"> 04:18 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085544646/americans-on-low-incomes-are-hit-harder-by-high-gas-prices-due-to-the-war-in-ukr">Americans on low incomes are hit harder by high gas prices due to the war in Ukraine</a> NPR: Gas prices are hitting record highs in the U.S. amid Russia's invasion of Ukraine. That's got a lot of people on modest incomes worried as inflation is already making it tough to scrape by. 
- <p class="updated_time"> 04:14 PM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-60682966?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... food price rises and the Ukraine war</a> BBC: Ros Atkins looks at why global food price rises appear inevitable as a consequence of Russia invading Ukraine. 
  <p class="updated_time"> 04:12 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/who-new-covid-cases-americas.html">Most of This Year’s New Virus Cases Were in the Americas, W.H.O. Officials Say</a> NYT: Countries in the region should keep public health measures in place, W.H.O. officials warned. 
  <p class="updated_time"> 04:08 PM CT, Mar. 09 </p> 
@@ -197,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/08/business/mcdonalds-russia-starbucks-pepsi-coca-cola.html">Starbucks, McDonald’s and Others Pause Operations in Russia</a> NYT: After years of cultivating the Russian market, McDonald’s, Starbucks, PepsiCo and Coca-Cola said they would temporarily close locations or stop selling products there. 
  <p class="updated_time"> 06:00 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60671329?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Troops dig in near Kyiv</a> BBC: Ukrainians are determined to defend their capital city as Russian troops prepare for an assault. 
- <p class="updated_time"> 05:48 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/2022/03/08/sports/basketball/brittney-griner-wnba-russia.html">Brittney Griner’s WNBA Impact Is Clear As Fans Await Word from Russia</a> NYT: Griner, one of the world’s best basketball players, was believed to have been detained in Russia on what customs officials described as drug charges. Fans are worried. 
  <p class="updated_time"> 04:46 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/iran-nuclear-deal-russia-ukraine.html">How Russia’s War in Ukraine Complicates the Iran Nuclear Deal</a> NYT: With the world eager to wean itself from Russian oil after the invasion of Ukraine, negotiators appeared close to signing a revived nuclear pact with Iran and lifting sanctions. Then Moscow put up a hurdle. 
  <p class="updated_time"> 04:33 PM CT, Mar. 08 </p> 
@@ -210,10 +212,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/senate-spending-bill-vote-00016079">Senate races to pass $1.5T bill before weekend</a> Politico: The chamber's leaders need the consent of all 100 senators to move forward quickly, and Republicans are demanding another amendment vote on vaccine mandates. 
+ <p class="updated_time"> 11:11 AM CT, Mar. 10 </p> 
+ <a href="https://www.npr.org/2022/03/10/1085739883/mask-mandate-planes-trains-ferries-tsa-cdc">TSA extends travel mask mandate through April 18</a> NPR: The monthlong extension comes as the CDC said it would work on a "revised policy framework for when, and under what circumstances, masks should be required in the public transportation corridor." 
+ <p class="updated_time"> 10:48 AM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/guantanamo-lawyer-resigns.html">Defense Lawyer Asks to Quit 9/11 Case, Amid Murky Investigation</a> NYT: A defense lawyer who has spent a decade on the Guantánamo case abruptly sought to resign amid an in-house investigation. 
  <p class="updated_time"> 09:50 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
- <p class="updated_time"> 09:41 AM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/us/politics/guantanamo-lawyer-resigns.html">Amid Murky Investigation, Key Defender Asks to Quit 9/11 Case</a> NYT: A defense lawyer who has spent a decade on the Guantánamo case abruptly sought to resign amid an in-house investigation. 
  <p class="updated_time"> 09:37 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/poland-fighter-jet-deal-ukraine-russia-00016038">Shot down: How Biden scuttled the deal to get MiGs to Ukraine</a> Politico: After an errant comment, rapid-fire negotiations and blunt announcements, the plan to send warplanes to Ukraine is no more. 
  <p class="updated_time"> 09:30 AM CT, Mar. 10 </p> 
@@ -299,15 +305,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:30 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/granholm-calls-oil-companies-increase-production-00015802">'We are on war footing': Granholm calls on oil companies to ramp up production</a> Politico: Gasoline prices have climbed steadily for the better part of a year, reaching an average of $4.25 a gallon on Wednesday. 
  <p class="updated_time"> 04:47 PM CT, Mar. 09 </p> 
- <a href="https://www.npr.org/2022/03/09/1085512093/russias-war-on-ukraine-has-hurt-oil-prices-and-now-the-u-s-is-talking-to-venezue">Russia's war on Ukraine has hurt oil prices, and now the U.S. is talking to Venezuela</a> NPR: Two imprisoned Americans were released from a Venezuelan jail after recent talks — which also dealt with energy security. Could this be the sign of a thaw between Washington and Caracas? 
+ <a href="https://www.npr.org/2022/03/09/1085512093/russias-war-on-ukraine-has-hurt-oil-prices-and-now-the-u-s-is-talking-to-venezue">Ukraine war has caused oil prices to rise, and now the U.S. is talking to Venezuela</a> NPR: Two imprisoned Americans were released from a Venezuelan jail after recent talks — which also dealt with energy security. Could this be the sign of a thaw between Washington and Caracas? 
  <p class="updated_time"> 04:25 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/roselyn-tso-indian-health-service.html">Roselyn Tso Is Nominated to Run Indian Health Service</a> NYT: The president had made a campaign promise to address the longstanding issues plaguing the agency, which has lacked consistent leadership. 
  <p class="updated_time"> 04:20 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085495317/the-violence-against-women-act-catches-a-ride-on-1-5-trillion-spending-bill">Violence Against Women Act reauthorization is added to a $1.5 trillion spending bill</a> NPR: A reauthorization of the landmark 1994 law is included in an annual federal spending package moving through Congress. 
  <p class="updated_time"> 04:20 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/cluster-munitions-vacuum-bombs-russia-ukraine.html">Cluster Munitions and ‘Vacuum Bombs’: Russian Invasion Revives an Old Debate</a> NYT: Diplomats and talking heads have repeated longstanding fictions about battlefield weapons that critics argue are too cruel or too indiscriminate for use in warfare. 
- <p class="updated_time"> 04:08 PM CT, Mar. 09 </p> 
- <a href="https://www.npr.org/2022/03/09/1085436169/russia-ukraine-war-what-happened-today-march-9">Russia-Ukraine war: What happened today (March 9)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:43 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/colorado-election-clerk-indicted-voting-system-breach-00015795">Colorado elections clerk indicted in voting system breach</a> Politico: Tina Peters was charged with seven felony and three misdemeanor counts, including attempting to influence a public servant, criminal impersonation and first-degree official misconduct. 
  <p class="updated_time"> 03:36 PM CT, Mar. 09 </p> 
@@ -366,8 +370,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/08/deal-manchin-reshape-dems-senate-defense-00014883">Deal with Manchin would reshape Dems’ fight to keep majority</a> Politico: The party hopes rebranding President Joe Biden's signature bill as a way to cut inflation would help them keep their Senate majority. 
  <p class="updated_time"> 04:30 AM CT, Mar. 08 </p> 
  <a href="https://www.politico.com/news/2022/03/08/defense-spending-russia-ukraine-pentagon-00014888">Progressives grit their teeth as defense wins big in spending bill</a> Politico: Russia’s assault on Ukraine has scrambled the left’s game plan for Congress’ looming funding pact, which is expected to include significant military cash. 
- <p class="updated_time"> 12:00 PM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/white-house-investment-rules-china-00014496">White House split delays plans for investment controls on China</a> Politico: National security officials want an executive order limiting American banks’ ability to invest in Chinese technology firms, but the Treasury and Commerce Departments are pushing back. 
 
 
 </details>
