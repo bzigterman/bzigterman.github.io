@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:33 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 05:44 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Encircle Some Cities as Diplomacy Falters</a> NYT: The Russian side insisted on President Vladimir V. Putin’s original demands from the start of the war, dousing hopes of any immediate cease-fire. In besieged cities, civilians struggled without food, water or heat. 
  <p class="updated_time"> 05:26 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/shabab-manda-bay-kenya-attack.html">‘Inadequate’ Security Led to Deaths of 3 Americans in Kenya Attack, Report Finds</a> NYT: The inquiry also found shortcomings in the sharing of intelligence before the deadly assault by the Shabab in 2020. 
@@ -29,10 +29,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html">These Small, Cheap Devices Help Monitor Haiti’s Earthquakes</a> NYT: When conventional seismometers in Haiti failed before the 2010 quake, less sophisticated devices operated by citizen scientists helped seismic researchers fill in the blanks. 
  <p class="updated_time"> 05:05 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/stellantis-cars-russia.html">Stellantis Stops Car Shipments to and From Russia</a> NYT: The automaker has been making delivery vans in Russia, but its chief has said production is likely to halt because of a lack of parts. 
+ <p class="updated_time"> 04:48 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 04:47 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60699588?at_medium=RSS&at_campaign=KARANGA">Watch: Our correspondent on the front line, with Ukraine’s troops</a> BBC: The BBC spent a week with Ukrainian forces in Kharkiv as they fight to stop a further Russian advance. 
- <p class="updated_time"> 04:36 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 04:26 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/travel/poland-ukraine-refugees.html"> Poland’s Tourism Industry Is Helping Ukrainian Refugees</a> NYT: As Ukrainians flood into Poland, the travel industry has become part of an effort to supply transportation, accommodations and more to people fleeing the Russian invasion. 
  <p class="updated_time"> 04:20 PM CT, Mar. 10 </p> 
@@ -47,6 +47,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html">As War Rages, a Struggle to Balance Energy Crunch and Climate Crisis</a> NYT: Rising oil prices and increased demand for expanded production come at a time when scientists say nations must sharply cut the use of fossil fuels. 
  <p class="updated_time"> 03:48 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/middleeast/islamic-state-leader.html">ISIS Names a New Leader, but Says Little About Him</a> NYT: The terrorist group announced its new leader as Abu al-Hasan al-Hashimi al-Qurashi, but gave no information about his background or true identity. 
+ <p class="updated_time"> 03:48 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 03:43 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/theater/belarus-free-theatre-exile.html">An Exiled Theater With a Warning for Europe</a> NYT: The Belarus Free Theater’s members fled repression at home. The company’s latest show imagines a nightmare future of authoritarian Russian rule. 
  <p class="updated_time"> 03:39 PM CT, Mar. 10 </p> 
@@ -59,25 +61,23 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085838430/the-war-is-with-west-and-nato-allies-not-ukraine-ukrainian-parliament-member-say">The war is with West and NATO allies — not Ukraine, Ukrainian Parliament member says</a> NPR: NPR's Ailsa Chang speaks with Ukrainian member of Parliament Andrii Osadchuk about his family's journey out of Kyiv and what he'd like to see from NATO allies. 
  <p class="updated_time"> 03:37 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085838423/vice-president-harris-has-traveled-to-poland-in-support-of-ukraine-and-its-neigh">Vice President Harris has traveled to Poland in support of Ukraine and its neighbors</a> NPR: Vice President Harris says the world has witnessed Russian "atrocities" in Ukraine and vowed support for the country and its neighbors. But a proposal for Polish fighter jets is off the table. 
- <p class="updated_time"> 03:36 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 03:31 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/books/ukraine-translate-books.html">An Urgent Mission for Literary Translators: Bringing Ukrainian Voices to the West</a> NYT: A wartime effort to quickly translate work by Ukrainian novelists, poets and historians is underway — a project as political as it is cultural, authors and translators say. 
  <p class="updated_time"> 03:22 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085845332/al-qurayshi-islamic-state-new-leader">IS confirms its leader was killed in a U.S. raid in Syria, and names a new chief</a> NPR: It was the first official comment from the militant group about its leader since U.S. officials said he blew himself up along with members of his family as American forces raided his hideout. 
  <p class="updated_time"> 02:54 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085814568/sony-warner-universal-russia">All three major music labels have now suspended operations in Russia</a> NPR: The entertainment exodus from Russia is continuing. Both Sony Music and the Warner Music Group announced Thursday that they would be suspending operations in Russia. 
- <p class="updated_time"> 02:36 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 02:48 PM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
+ <p class="updated_time"> 01:48 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 01:44 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085792668/colleges-russia-ukraine">U.S. colleges are cutting their partnerships and financial ties with Russia</a> NPR: Colleges are pulling students from study abroad programs in Russia, ending research partnerships and cutting investments as part of a global wave of condemnation over the invasion of Ukraine. 
- <p class="updated_time"> 01:36 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 01:32 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship. 
  <p class="updated_time"> 01:23 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60691511?at_medium=RSS&at_campaign=KARANGA">IS confirms leader Qurayshi's death and names successor</a> BBC: The US says Abu Ibrahim al-Hashimi al-Qurayshi blew himself up during a raid in Syria last month. 
- <p class="updated_time"> 12:36 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 12:48 PM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/narendra-modis-bjp-wins-big-in-indian-elections-11646918236">Narendra Modi’s Party Wins Big in Indian Elections</a> WSJ: Narendra Modi’s Party Wins Big in Indian Elections 
  <p class="updated_time"> 12:29 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/chernihiv-russia-troops.html">Russian Forces Have Encircled Northern Ukraine City of Chernihiv, The Mayor Says</a> NYT: Ukrainian forces are battling to keep some roads open, as Russia tightens its cordon around the battered city. “We are surrounded,” the mayor said. 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:34 PM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/judge-warns-special-counsel-court-filing-00016374">Judge warns special counsel over provocative court filing</a> Politico: Recent submissions from John Durham's team became fodder for pro-Trump media and prompted incendiary allegations from the former president himself. 
  <p class="updated_time"> 05:54 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/jury-acquits-defendant-clinton-donation-2016-00016334">Jury acquits one defendant of conspiring to funnel millions to back Clinton in 2016</a> Politico: Jurors signaled they were deadlocked on charges for a co-defendant in the case, which involves money allegedly routed from the United Arab Emirates. 
  <p class="updated_time"> 05:49 PM CT, Mar. 10 </p> 
@@ -298,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085456283/democratic-governor-who-lifted-mask-mandate-early-explains-why-it-was-the-right">Democratic governor who lifted mask mandate early explains why it was the right move</a> NPR: Colorado Gov. Jared Polis says that prioritizing vaccine and testing availability over masking helped the state achieve a high rate of immunization and relatively low death rate. 
  <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/house-dems-retreat-omnibus-00015995">House Dems try to keep it sunny in Philadelphia</a> Politico: "We need to talk like real people," the caucus' campaign chief told reporters after yet another intraparty battle delayed its retreat. 
- <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/fed-up-inside-the-senates-banking-brawl-00015770">Fed up: Inside the Senate's banking brawl</a> Politico: Chair Sherrod Brown and his GOP counterpart, Pat Toomey, are locked in a staring contest over President Joe Biden's Federal Reserve picks. And it's captivating their colleagues. 
  <p class="updated_time"> 04:08 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085670196/soaring-gas-prices-have-biden-talking-up-the-importance-of-domestic-drilling">Soaring gas prices have Biden talking up the importance of domestic drilling</a> NPR: Russia's war on Ukraine and the resulting oil price spike have forced the Biden White House to consider all kinds of measures for fossil fuel that it once would have shunned. 
  <p class="updated_time"> 04:08 AM CT, Mar. 10 </p> 
