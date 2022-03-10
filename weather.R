@@ -294,6 +294,10 @@ temp_history <- read_csv("data/champaign_weather.csv") %>%
 
 temps_past_hour <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-hours(1))
+temps_today <- temp_history %>%
+  filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")))
+temps_yesterday <- temp_history %>%
+  filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")-days(1)))
 temps_past_day <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-days(1))
 temps_past_week <- temp_history %>%
@@ -303,27 +307,54 @@ temps_past_month <- temp_history %>%
 temps_past_year <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-years(1))
 
-his_los <- tibble(period = c("Year","Month","Week","Day","Hour"),
+his_los <- tibble(period = c("Past Year","Past Month","Past Week",
+                             "Yesterday","Today","Hour"),
+                  # temps = c(temps_past_year,
+                  #           temps_past_month,
+                  #           temps_past_week,
+                  #           temps_yesterday,
+                  #           temps_today),
                   min = c(min(temps_past_year$temp),
                           min(temps_past_month$temp),
                           min(temps_past_week$temp),
-                          min(temps_past_day$temp),
+                          min(temps_yesterday$temp),
+                          min(temps_today$temp),
                           min(temps_past_hour$temp)),
                   max = c(max(temps_past_year$temp),
                           max(temps_past_month$temp),
                           max(temps_past_week$temp),
-                          max(temps_past_day$temp),
+                          max(temps_yesterday$temp),
+                          max(temps_today$temp),
                           max(temps_past_hour$temp)))
 
-ggplot(data = his_los,
+his_los_longer <- pivot_longer(his_los, cols = c(min,max))
+
+ggplot(data = his_los_longer,
        aes(x = period,
-           xend = period,
-           y = min,
-           yend = max)) +
-  geom_segment(size = 2) +
-  scale_x_discrete(limits = c("Year","Month","Week","Day","Hour")) +
+           #xend = period,
+           y = value)) +
+  geom_text(data = his_los,
+            aes(x = period,
+                y = min,
+                label = round(min)),
+            nudge_y = -1) +
+  geom_text(data = his_los,
+            aes(x = period,
+                y = max,
+                label =round(max)),
+            nudge_y = 1) +
+  geom_line(size = 2,
+            color = "grey") +
+  geom_point(aes(color = value),
+             size = 2) +
+  scale_x_discrete(limits = c("Past Year","Past Month","Past Week",
+                              "Yesterday","Today","Hour")) +
+  scale_color_distiller(#limits = c(-Inf,0,32,50,60,100,Inf),
+    palette = "Spectral",
+    guide = NULL) +
   theme_minimal() +
-  labs(x = "Past",
+  scale_y_continuous(labels = NULL) +
+  labs(x = NULL,
        y = NULL,
        caption = "Source: OpenWeather") +
   theme(
