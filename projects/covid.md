@@ -1368,16 +1368,16 @@ html {
 <td class="gt_row gt_right">1.3K</td>
 <td class="gt_row gt_right">&minus;30%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">322.0K</td>
-<td class="gt_row gt_right gt_striped">170.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;47%</td></tr>
+<td class="gt_row gt_right gt_striped">323.0K</td>
+<td class="gt_row gt_right gt_striped">161.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;50%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
-<td class="gt_row gt_right">215.0M</td>
-<td class="gt_row gt_right">215.0M</td>
+<td class="gt_row gt_right">216.0M</td>
+<td class="gt_row gt_right">216.0M</td>
 <td class="gt_row gt_right">0%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right gt_striped">64.7</td>
-<td class="gt_row gt_right gt_striped">64.9</td>
+<td class="gt_row gt_right gt_striped">65.0</td>
+<td class="gt_row gt_right gt_striped">65.2</td>
 <td class="gt_row gt_right gt_striped">+0%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
@@ -1845,16 +1845,16 @@ html {
 <td class="gt_row gt_right gt_striped">7.0K</td>
 <td class="gt_row gt_right gt_striped">&minus;26%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">24.0M</td>
-<td class="gt_row gt_right">18.1M</td>
+<td class="gt_row gt_right">24.1M</td>
+<td class="gt_row gt_right">18.0M</td>
 <td class="gt_row gt_right">&minus;25%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">4.4B</td>
-<td class="gt_row gt_right gt_striped">4.4B</td>
+<td class="gt_row gt_right gt_striped">4.5B</td>
 <td class="gt_row gt_right gt_striped">+2%</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">55.3</td>
-<td class="gt_row gt_right">56.2</td>
+<td class="gt_row gt_right">56.5</td>
 <td class="gt_row gt_right">+2%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
