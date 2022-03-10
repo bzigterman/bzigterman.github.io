@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:25 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 09:22 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
+ <p class="updated_time"> 09:16 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Live Updates: Russia Hammers Ukrainian Cities, Striking Maternity Hospital in South</a> NYT: Russian shelling blocked efforts to create safe corridors for civilians, leaving them trapped without water, food, heat and medicine. “There are just bodies lying in the streets,” said a Mariupol resident. 
+ <p class="updated_time"> 09:08 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Law</a> NYT: The measure, which is expected to be signed into law by Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
+ <p class="updated_time"> 08:44 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-family-perebyinis-kyiv.html">A Family’s Dash Toward Safety in Ukraine Ends Tragically</a> NYT: Tetiana Perebyinis and her two children were killed trying to dash to safety, a moment captured by our photographer. Her husband describes their lives, and their final hours. 
+ <p class="updated_time"> 08:42 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-kremlin-economic-war.html">Russia Strikes Ukraine’s Cities and Accuses U.S. of “Economic War”</a> NYT: Misery deepened in Ukraine, where millions of people were caught in besieged cities, and in Russia, where the West’s economic sanctions were biting hard. 
+ <p class="updated_time"> 08:32 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 07:50 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-chernobyl-power.html">Damaged Chernobyl Nuclear Plant, Occupied by Russia, Loses Outside Power</a> NYT: The site of the worst nuclear accident in history, where a yearslong cleanup is underway, is now dependent on power from diesel generators and backup supplies. 
  <p class="updated_time"> 07:42 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-mariupol-siege.html">After a Week of Siege, Bloodied Mariupol Plans Mass Graves</a> NYT: Under a relentless Russian barrage, there is no heat or electricity, and people are boiling snow for water. A 6-year-old died of dehydration, the authorities said. 
- <p class="updated_time"> 07:31 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
- <p class="updated_time"> 07:12 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-family-perebyinis-kyiv.html">A Family’s Dash Toward Safety in Ukraine Ends Tragically</a> NYT: Tetiana Perebyinis and her two children were killed trying to dash to safety, a moment captured by our photographer. Her husband describes their lives, and their final hours. 
+ <p class="updated_time"> 07:32 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 07:11 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1983 disaster still pose considerable dangers. 
  <p class="updated_time"> 06:57 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60679175?at_medium=RSS&at_campaign=KARANGA">Israel's Bennett plays peacemaker in Ukraine-Russia war</a> BBC: Prime Minister Naftali Bennett is an unlikely mediator between Kyiv and Moscow, Tom Bateman says. 
- <p class="updated_time"> 06:31 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
+ <p class="updated_time"> 06:32 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
  <p class="updated_time"> 06:29 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085611369/sony-playstation-russia">Sony halts PlayStation sales in Russia due to Ukraine invasion</a> NPR: Along with stopping sales of its consoles, the company announced a $2 million donation to UNHCR and the international NGO, Save the Children, to support the victims in Ukraine. 
- <p class="updated_time"> 06:25 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Law</a> NYT: The measure, which is expected to be signed into law by the Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
  <p class="updated_time"> 05:49 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/evgeny-maslin-dead.html">Evgeny Maslin, Russian General Who Secured Nuclear Arsenal, Dies at 84</a> NYT: He persuaded Ukraine and other post-Soviet states to give up their weapons, then worked with the U.S. to safeguard and dismantle thousands of them. 
- <p class="updated_time"> 05:31 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
- <p class="updated_time"> 05:31 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-kremlin-economic-war.html">Russia Strikes Ukraine’s Cities and Accuses U.S. of “Economic War”</a> NYT: Misery deepened in Ukraine, where millions of people were caught in besieged cities, and in Russia, where the West’s economic sanctions were biting hard. 
- <p class="updated_time"> 05:30 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
+ <p class="updated_time"> 05:32 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
  <p class="updated_time"> 05:23 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-cease-fire-talks.html">Subtle Shifts Raise Hopes for a Cease-fire in Ukraine</a> NYT: Both Russia and Ukraine appear to have softened their stance, with the Kremlin signaling a retreat on regime change and Kyiv expressing flexibility on NATO membership. But the two sides remain far apart. 
  <p class="updated_time"> 05:07 PM CT, Mar. 09 </p> 
@@ -51,8 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60685723?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Children of the Soviet era running from Russia</a> BBC: A veteran of the Soviet-Afghan war is among many older Ukrainians now seeking refuge abroad. 
  <p class="updated_time"> 04:37 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60683699?at_medium=RSS&at_campaign=KARANGA">Kamala Harris heads to Poland amid Nato fighter jet rift</a> BBC: The chances of a deal to supply planes to Ukraine look very remote due to escalation fears. 
- <p class="updated_time"> 04:31 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
+ <p class="updated_time"> 04:32 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 04:20 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/cluster-munitions-vacuum-bombs-russia-ukraine.html">Cluster Munitions and ‘Vacuum Bombs’: Russian Invasion Revives an Old Debate</a> NYT: Diplomats and talking heads have repeated longstanding fictions about battlefield weapons that critics argue are too cruel or too indiscriminate for use in warfare. 
  <p class="updated_time"> 04:18 PM CT, Mar. 09 </p> 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/09/1085544632/a-building-in-poland-is-being-used-for-a-purpose-its-designers-couldnt-have-imag">A building in Poland is being used for a purpose its designers couldn't have imagined</a> NPR: In Lublin, Poland, a decades-old building has taken on a purpose its designers could never have imagined. Members of the Jewish community say this may have been the building's purpose all along. 
  <p class="updated_time"> 03:51 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085471200/the-letter-z-russia-ukraine">The letter Z is becoming a symbol of Russia's war in Ukraine. But what does it mean?</a> NPR: It has become a symbol of the Russian invasion, painted on military vehicles, printed on T-shirts and widely distributed through social media in support of Moscow's war. 
- <p class="updated_time"> 03:31 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 03:23 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085544611/some-ukrainian-americans-cast-doubt-on-their-churches-as-a-war-abroad-continues">Some Ukrainian Americans cast doubt on their churches as a war abroad continues</a> NPR: Some Ukrainian Americans are questioning their church affiliation in light of the war. They say the Russian Orthodox Church isn't opposing the war strongly enough, so they're looking for alternatives. 
  <p class="updated_time"> 03:23 PM CT, Mar. 09 </p> 
@@ -216,18 +216,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:45 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 09:26 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/house-spending-bill.html">House Passes $1.5 Trillion Spending Bill as Democrats Drop Covid Aid</a> NYT: Facing disputes over how to cover the cost of the pandemic response effort, Democrats dropped it rather than jeopardize legislation that includes aid for Ukraine and other top priorities. 
+ <p class="updated_time"> 09:26 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/biden-pandemic-response-funding.html">Uncertainty for Biden’s Covid Plan After Aid Is Dropped From Spending Bill</a> NYT: The $15.6 billion emergency aid package was stripped amid disputes over how to pay for it, injecting uncertainty into the president’s pandemic response plan. 
- <p class="updated_time"> 07:28 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/house-spending-bill.html">Democrats Strip Covid Aid From $1.5 Trillion Spending Package</a> NYT: Facing disputes over how to cover the cost of the pandemic response effort, Democrats dropped it rather than jeopardize legislation that includes aid for Ukraine and other top priorities. 
+ <p class="updated_time"> 09:22 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
+ <p class="updated_time"> 09:18 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/house-emergency-aid-ukraine.html">House Approves $13.6 Billion in Emergency Aid for Ukraine</a> NYT: Bipartisan backing for the assistance provided momentum for a broader, $1.5 trillion measure to fund the government through September. 
+ <p class="updated_time"> 08:29 PM CT, Mar. 09 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/judge-review-emails-jan-6.html">Judge Will Review Lawyer’s Emails Sought by Jan. 6 Panel</a> NYT: A federal judge said he would decide whether emails to and from John Eastman should be released to the House committee investigating the attack on the Capitol. 
  <p class="updated_time"> 07:09 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/rnc-sues-jan-6-select-committee-over-salesforce-subpoena-00015913">RNC is suing Jan. 6 select committee over subpoena to key vendor</a> Politico: The suit is the most notable legal dispute to date between the GOP fundraising arm and congressional investigators after the Capitol attack. 
  <p class="updated_time"> 07:06 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/desantis-disney-bob-chapek-dont-say-gay-00015838">DeSantis agrees to meet with Disney CEO amid 'Don't Say Gay’ fallout</a> Politico: Gov. DeSantis’ spokesperson, Christina Pushaw, confirmed that the two men spoke Wednesday but said the governor is not changing his support for the bill. 
  <p class="updated_time"> 07:03 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/crypto-regulation-biden.html">Biden Takes Step Toward Regulating Cryptocurrencies</a> NYT: The president signed an executive order that will coordinate efforts among financial regulators to better understand the risks and opportunities presented by digital assets. 
- <p class="updated_time"> 06:16 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/house-emergency-aid-ukraine.html">House Poised to Approve $13.6 Billion in Emergency Aid for Ukraine</a> NYT: Bipartisan backing for the assistance provided momentum for a broader, $1.5 trillion measure to fund the government through September. 
  <p class="updated_time"> 06:05 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/democrats-gas-prices-putin.html">Democrats Find Their Inflation Villains: Vladimir Putin and Big Oil</a> NYT: With the U.S. battling high oil prices and facing a dangerous confrontation with Russia, the Democratic Party is coalescing around a new message for the midterms. 
  <p class="updated_time"> 05:59 PM CT, Mar. 09 </p> 
@@ -237,9 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:37 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/eastman-emails-disclosure-jan-6-committee-00015869">Judge to review disputed Eastman emails for possible disclosure to Jan. 6 committee</a> Politico: The federal court made no comment on the select committee’s claim that the lawyer might have engaged in a criminal conspiracy with then-President Donald Trump. 
  <p class="updated_time"> 05:32 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/tina-peters-colorado-election.html">Colorado County Clerk Indicted in Voting Security Breach Investigation</a> NYT: The Mesa County clerk, Tina Peters, is charged with 10 counts related to tampering with voting equipment. A Republican running for secretary of state, she has promoted false claims of fraud in the 2020 election. 
- <p class="updated_time"> 05:30 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
+ <a href="https://www.nytimes.com/2022/03/09/us/politics/tina-peters-colorado-election.html">County Clerk Tina Peters Indicted in Colorado Voting  Investigation</a> NYT: The Mesa County clerk, Tina Peters, is charged with 10 counts related to tampering with voting equipment. A Republican running for secretary of state, she has promoted false claims of fraud in the 2020 election. 
  <p class="updated_time"> 05:30 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/granholm-calls-oil-companies-increase-production-00015802">'We are on war footing': Granholm calls on oil companies to ramp up production</a> Politico: Gasoline prices have climbed steadily for the better part of a year, reaching an average of $4.25 a gallon on Wednesday. 
  <p class="updated_time"> 05:20 PM CT, Mar. 09 </p> 
@@ -299,7 +301,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:21 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/09/harris-steps-in-the-middle-of-a-nato-standoff-00015516"> Harris steps in the middle of a NATO standoff</a> Politico Playbook: And Congress unveils a bipartisan government spending deal. 
  <p class="updated_time"> 05:39 AM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/congress-government-funding-package-00014322">House yanks Covid aid after bumps in drive to pass $1.5T gov funding plan</a> Politico: The chamber still plans to vote Wednesday on a sweeping funding measure that includes $14 billion in emergency aid to Ukraine. 
+ <a href="https://www.politico.com/news/2022/03/09/congress-government-funding-package-00014322">House Dems clear $1.5T spending deal after stripping Covid aid</a> Politico: The chamber voted on a sweeping funding measure that includes  billions in emergency aid to Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/gop-pushes-for-an-earthquake-in-american-electoral-power-00015402">GOP pushes for an ‘earthquake in American electoral power’</a> Politico: Conservatives are promoting the "independent legislature" theory, which would hand vast election powers to GOP legislators in battleground states. 
  <p class="updated_time"> 04:30 AM CT, Mar. 09 </p> 
@@ -338,10 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-veterans-burn-pits.html">In Texas, Biden Says New Legislation Could Expand Benefits for Burn Pit Victims</a> NYT: The president is focused on veterans who fell ill after breathing in toxic materials from burning waste in Iraq and Afghanistan, exposure that he believes contributed to the death of his elder son. 
  <p class="updated_time"> 06:29 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085315491/congress-passes-bill-to-shore-up-the-postal-service-without-cutting-back-on-deli">Congress passes bill to shore up the Postal Service without cutting back on delivery </a> NPR: Congress mustered rare bipartisan support for the Postal Service package, dropping some of the more controversial proposals to settle on core ways to save the service and ensure its future operations. 
- <p class="updated_time"> 06:23 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/2022/03/08/us/politics/guy-reffitt-jan-6-trial.html">Texas Man Convicted in First Jan. 6 Trial</a> NYT: The guilty verdict against Guy Wesley Reffitt came as prosecutors expanded their investigation into the Capitol attack by indicting a former leader of the far-right group the Proud Boys. 
- <p class="updated_time"> 06:00 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-midterms-michael-kazin.html">Historian Pleas for Democratic Party Unity in New Book</a> NYT: Michael Kazin’s new book offers a pointed warning to his fellow progressives, and a surprising defense of President Biden. 
  <p class="updated_time"> 04:52 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085293095/georgia-spaceport-goes-to-a-vote-as-proponents-try-to-invalidate-the-election">Voters reject spaceport plan long pursued by Georgia county</a> NPR: Critics, including the National Park Service, said exploding rockets after launch could rain fiery debris onto surrounding land, including a federally protected wilderness. 
  <p class="updated_time"> 03:21 PM CT, Mar. 08 </p> 
@@ -378,8 +376,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/07/russia-escalates-brutality-congress-steps-up-response-00014536"> Russia escalates brutality, Congress steps up response</a> Politico Playbook: And Congress stares down another possible shutdown showdown this week. 
  <p class="updated_time"> 04:31 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/news/2022/03/07/greene-gosar-mccarthy-white-nationalism-00014351">Why Republicans may let Greene and Gosar's latest brushfire burn itself out</a> Politico: Even some Freedom Caucus colleagues fumed at their flirtation with white nationalism. But the House GOP's unlikely to do more against the conservative duo. 
- <p class="updated_time"> 09:03 PM CT, Mar. 06 </p> 
- <a href="https://www.cnn.com/2022/03/06/politics/trump-manhattan-district-attorney-investigation/index.html">Prosecutors resigned after New York DA said he wasn't prepared to move forward with indictment of Trump</a> CNN: Two top prosecutors leading the criminal investigation into former President Donald Trump and his business resigned after the Manhattan district attorney said he was not prepared to authorize an indictment against the former President, a person familiar with the investigation said. 
 
 
 </details>
