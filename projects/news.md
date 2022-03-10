@@ -9,47 +9,49 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:30 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 06:45 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Top Envoys Fail to Make Progress Toward Ending War</a> NYT: There was no breakthrough after the foreign ministers of Russia and Ukraine met. Three people were killed in a Russian strike against a maternity hospital on Wednesday, Ukrainian officials said. 
- <p class="updated_time"> 05:56 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 06:39 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60690362?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Roman Abramovich sanctioned by UK</a> BBC: Chelsea FC owner Roman Abramovich one of seven oligarchs sanctioned by the UK government. 
+ <p class="updated_time"> 06:36 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60690856?at_medium=RSS&at_campaign=KARANGA">'They could be in mass graves': Desperate attempt to reach Mariupol trapped</a> BBC: People know relatives under siege are living under fire and drinking snow, but have lost contact now. 
+ <p class="updated_time"> 06:11 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60688640?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Family drags grandmother to safety from Bucha</a> BBC: When his neighbour's house was hit by a tank, Dmytro decided to get out of the town of Bucha fast. 
+ <p class="updated_time"> 06:04 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 05:40 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60687203?at_medium=RSS&at_campaign=KARANGA">Ukraine war: No progress on ceasefire after Kyiv-Moscow talks</a> BBC: Kyiv's FM says Russian demands amount to a surrender, Moscow's FM says the invasion is going to plan. 
- <p class="updated_time"> 05:35 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
- <p class="updated_time"> 05:31 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60690856?at_medium=RSS&at_campaign=KARANGA">'They could be in mass graves': Desperate attempt to reach Mariupol trapped</a> BBC: People know relatives under siege are living under fire and drinking snow, but have lost contact now. 
  <p class="updated_time"> 05:24 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
  <p class="updated_time"> 05:19 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, despite the ravages of Covid and a plummeting economy. 
+ <p class="updated_time"> 05:04 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 05:00 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085680648/south-koreans-vote-political-conservative-as-new-president">South Koreans vote political conservative as new president</a> NPR: The politically inexperienced president-elect's pledge to get tough on North Korea could mark a sharp break with the outgoing liberal administration's policies. 
+ <a href="https://www.npr.org/2022/03/10/1085680648/south-koreans-vote-political-conservative-as-new-president">South Koreans vote political conservative as new president</a> NPR: The politically inexperienced Yoon Suk Yeol's pledge to get tough on North Korea could mark a sharp break with the outgoing liberal administration's policies. 
  <p class="updated_time"> 04:36 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/bts-live-concert-seoul.html">BTS Performs Live in Seoul for First Time in Over 2 Years</a> NYT: The K-pop group returned to the stage in South Korea on Thursday, although fans were not allowed to cheer, scream or sing along because of Covid restrictions. 
- <p class="updated_time"> 04:35 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 04:13 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085677908/high-level-talks-between-russia-and-ukraine-begin">High-level talks between Russia and Ukraine end with no breakthrough</a> NPR: The meeting in Turkey is the highest-level talks between the two countries since Russia invaded Ukraine in February. 
+ <p class="updated_time"> 04:04 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/election-china.html">Australia Asks: How Far Is Too Far in Making China a Campaign Weapon?</a> NYT: Australia’s conservative government has claimed, without evidence, that the political opposition would cozy up to Beijing. To many, it has crossed a red line. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085353926/russia-ukraine-invasions-refugees-jewish-poland">A Polish hotel recovering from its own tragic past has become a refuge for Ukrainians</a> NPR: The Hotel Ilan in Poland has a renowned and troubled history for the country's Jewish community. Now, it has found a new purpose helping Ukrainians fleeing the war Russia has wrought on their country. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/books/ukraine-translate-books.html">An Urgent Mission for Literary Translators: Bringing Ukrainian Voices to the West</a> NYT: A wartime effort to quickly translate work by Ukrainian novelists, poets and historians is underway — a project as political as it is cultural, authors and translators say. 
- <p class="updated_time"> 03:35 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
  <p class="updated_time"> 03:29 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60688309?at_medium=RSS&at_campaign=KARANGA">Yogi Adityanath: The Hindu hardliner in India who scripted election history</a> BBC: Yogi Adityanath is leading the BJP back to office in state elections - how high could he rise in India? 
  <p class="updated_time"> 03:18 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60675599?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Three dead as maternity hospital hit by Russian air strike</a> BBC: Three people including a child were killed in the attack on the city of Mariupol, officials say. 
  <p class="updated_time"> 03:14 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085673812/modis-ruling-party-ahead-in-crucial-state-polls-in-india">Modi's ruling party is ahead in crucial state polls in India</a> NPR: The results are seen as a referendum on the prime minister's popularity and a resounding endorsement of his party's Hindu-first politics. 
- <p class="updated_time"> 02:35 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 03:04 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
  <p class="updated_time"> 02:05 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60689561?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Mariupol hospital bomb kills child - deputy mayor</a> BBC: Echoing the president of Ukraine, the deputy mayor of Mariupol called the hospital attack genocide. 
- <p class="updated_time"> 01:35 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 02:04 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 10:47 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
@@ -210,6 +212,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:57 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/03/10/dems-hoping-its-sunny-in-philadelphia-00016019">Dems hoping it's sunny in Philadelphia</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:37 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/desantis-gets-florida-election-police-00015926">Legislature gives DeSantis new election police to target voter fraud in Florida</a> Politico: Lawmakers watered down the final bill from its initial incarnation after local election officials called it a “recipe for disaster.” 
+ <p class="updated_time"> 07:01 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/dccc-name-top-challengers-red-to-blue-00015962">House Democrats name top challengers in fight for majority</a> Politico: The DCCC put a dozen people on its "Red to Blue" list of top-tier challengers. 
  <p class="updated_time"> 06:36 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/10/this-retreat-is-cursed-00016013"> ‘This retreat is cursed’</a> Politico Playbook: And the latest talks fail to reach a cease-fire in Ukraine. 
  <p class="updated_time"> 06:21 AM CT, Mar. 10 </p> 
@@ -219,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:01 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/election-officials-exhausted-under-threat-00015850">Local election officials are exhausted, under threat and thinking about quitting</a> Politico: A new poll of election administrators showed nearly 8 in 10 think threats against them are on the rise. 
  <p class="updated_time"> 05:00 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085680648/south-koreans-vote-political-conservative-as-new-president">South Koreans vote political conservative as new president</a> NPR: The politically inexperienced president-elect's pledge to get tough on North Korea could mark a sharp break with the outgoing liberal administration's policies. 
+ <a href="https://www.npr.org/2022/03/10/1085680648/south-koreans-vote-political-conservative-as-new-president">South Koreans vote political conservative as new president</a> NPR: The politically inexperienced Yoon Suk Yeol's pledge to get tough on North Korea could mark a sharp break with the outgoing liberal administration's policies. 
  <p class="updated_time"> 04:37 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085456283/democratic-governor-who-lifted-mask-mandate-early-explains-why-it-was-the-right">Democratic governor who lifted mask mandate early explains why it was the right move</a> NPR: Colorado Gov. Jared Polis says that prioritizing vaccine and testing availability over masking helped the state achieve a high rate of immunization and relatively low death rate. 
  <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
@@ -332,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/09/1085243575/marked-by-covid-memorial-day-march">As U.S. COVID deaths near 1 million, advocates press for a memorial day</a> NPR: Millions of people in the U.S. have lost someone they love to COVID-19, and advocates hope to have those losses marked each year on the first Monday in March. 
  <p class="updated_time"> 02:00 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/republicans-ukraine.html">Republicans, Once Harsh Ukraine Critics, Pivot to Strong Support</a> NYT: In a matter of weeks, the center of gravity on Ukraine has sharply shifted among Republicans, muffling doubts about U.S. involvement and dismissing questions about the recent past. 
- <p class="updated_time"> 12:40 AM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/venezuela-release-prisoners-biden-00015501">Venezuela frees 2 American prisoners after talks with U.S.</a> Politico: "We are bringing Gustavo Cardenas and Jorge Fernandez home," President Joe Biden said. 
  <p class="updated_time"> 08:48 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-oil-ban-russia-ukraine-putin.html">Biden Bans Oil Imports From Russia, Warning Gas Prices Will Rise</a> NYT: Officials said President Biden had struggled for days over the move amid deep concerns about accelerating the already rapid rise in the price of gasoline. 
  <p class="updated_time"> 08:18 PM CT, Mar. 08 </p> 
