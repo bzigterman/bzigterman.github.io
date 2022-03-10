@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:51 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Push Ahead After Talks Failed to Make Progress</a> NYT: Russian forces surrounded Chernihiv, north of the capital, and continued their siege of the port city of Mariupol, where three people died on Wednesday when a bombardment hit a maternity hospital. 
+ <p class="updated_time"> 01:44 PM CT, Mar. 10 </p> 
+ <a href="https://www.npr.org/2022/03/10/1085792668/colleges-russia-ukraine">U.S. colleges are cutting their partnerships and financial ties with Russia</a> NPR: Colleges are pulling students from study abroad programs in Russia, ending research partnerships and cutting investments as part of a global wave of condemnation over the invasion of Ukraine. 
  <p class="updated_time"> 01:32 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship. 
  <p class="updated_time"> 01:26 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/theater/belarus-free-theatre-exile.html">An Exiled Theater With a Warning for Europe</a> NYT: The Belarus Free Theater’s members fled repression at home. The company’s latest show imagines a nightmare future of authoritarian Russian rule. 
  <p class="updated_time"> 01:23 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60691511?at_medium=RSS&at_campaign=KARANGA">IS confirms leader Qurayshi's death and names successor</a> BBC: The US says Abu Ibrahim al-Hashimi al-Qurayshi blew himself up during a raid in Syria last month. 
- <p class="updated_time"> 01:22 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Push Ahead After Talks Failed to Make Progress</a> NYT: Russian forces surrounded Chernihiv, north of the capital, and continued their siege of the port city of Mariupol, where three people died on Wednesday when a bombardment hit a maternity hospital. 
  <p class="updated_time"> 01:16 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/energy-environment/iraq-opec-oil-price.html">Iraqi Minister Says High Oil Prices Could Speed the Shift to E.V.s</a> NYT: Whatever the short-term benefits for producers, the market upheaval could accelerate the transition away from oil, he says. 
+ <p class="updated_time"> 01:00 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Attacks After Deadly Hit on Maternity Hospital</a> WSJ: Russia Ramps Up Attacks After Deadly Hit on Maternity Hospital 
  <p class="updated_time"> 12:55 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html">As War Rages, A Struggle to Balance Energy Crunch and Climate Crisis</a> NYT: Rising oil prices and increased demand for expanded production come at a time when scientists say nations must sharply cut the use of fossil fuels. 
- <p class="updated_time"> 12:37 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Attacks After Deadly Hit on Maternity Hospital</a> WSJ: Russia Ramps Up Attacks After Deadly Hit on Maternity Hospital 
  <p class="updated_time"> 12:29 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/chernihiv-russia-troops.html">Russian Forces Have Encircled Northern Ukraine City of Chernihiv, The Mayor Says</a> NYT: Ukrainian forces are battling to keep some roads open, as Russia tightens its cordon around the battered city. “We are surrounded,” the mayor said. 
  <p class="updated_time"> 12:26 PM CT, Mar. 10 </p> 
@@ -33,42 +35,46 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/world/europe/evgeny-maslin-dead.html">Evgeny Maslin, Russian General Who Secured Nuclear Arsenal, Dies at 84</a> NYT: He persuaded Ukraine and other post-Soviet states to give up their weapons, then worked with the U.S. to safeguard and dismantle thousands of them. 
  <p class="updated_time"> 12:01 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
+ <p class="updated_time"> 12:00 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 11:54 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60689279?at_medium=RSS&at_campaign=KARANGA">Russia hits back at Western sanctions with export bans</a> BBC: Russia will halt exports of some types of timber and other goods until the end of 2022. 
  <p class="updated_time"> 11:49 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60695436?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: A family's 'torturous' UK visa chase</a> BBC: Luke Morgan has spent the last fortnight helping his wife's family get to the UK from Ukraine. 
  <p class="updated_time"> 11:47 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/books/ukraine-translate-books.html">An Urgent Mission for Literary Translators: Bringing Ukrainian Voices to the West</a> NYT: A wartime effort to quickly translate work by Ukrainian novelists, poets and historians is underway — a project as political as it is cultural, authors and translators say. 
- <p class="updated_time"> 11:37 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
+ <p class="updated_time"> 11:41 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60699186?at_medium=RSS&at_campaign=KARANGA">Police bodycam shows Black Panther director Ryan Coogler's arrest</a> BBC: Coogler was mistaken for a bank robber when he gave a written note to a teller - and was detained 
  <p class="updated_time"> 11:36 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/france-presidential-election-media-cnews-.html">How Billionaires Are Shaping France’s Presidential Campaign</a> NYT: In a nation with strict political finance laws, control over the news media has provided an avenue for the very rich to influence elections, this one more than ever. 
  <p class="updated_time"> 11:10 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60689699?at_medium=RSS&at_campaign=KARANGA">Timbuktu manuscripts: Mali's ancient documents captured online</a> BBC: The thousands of manuscripts contain centuries of African writing on maths, medicine and more. 
  <p class="updated_time"> 11:04 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60693166?at_medium=RSS&at_campaign=KARANGA">On the front line: If Kharkiv falls, all of Ukraine falls</a> BBC: Quentin Sommerville and cameraman Darren Conway are with Ukrainian forces fighting to stop the Russian advance on the country's second city. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-and-ukrainian-foreign-ministers-fail-to-agree-cease-fire-11646915918">Russian and Ukrainian Foreign Ministers Fail to Agree on Cease-Fire</a> WSJ: Russian and Ukrainian Foreign Ministers Fail to Agree on Cease-Fire 
  <p class="updated_time"> 10:45 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60691507?at_medium=RSS&at_campaign=KARANGA">Rafik Hariri killing: Hezbollah duo convicted of 2005 bombing on appeal</a> BBC: A UN-backed court reverses the acquittals of two men over the assassination of Lebanon's former PM. 
  <p class="updated_time"> 10:44 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60699332?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Column of Russian tanks ambushed by Ukrainian forces</a> BBC: Drone footage appears to show Russian tanks under attack on the outskirts of Kyiv. 
- <p class="updated_time"> 10:37 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russian-and-ukrainian-foreign-ministers-fail-to-agree-cease-fire-11646915918">Russian and Ukrainian Foreign Ministers Fail to Agree on Cease-Fire</a> WSJ: Russian and Ukrainian Foreign Ministers Fail to Agree on Cease-Fire 
+ <p class="updated_time"> 10:00 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 09:57 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/arts/music/russia-music-canceled-concerts.html">Major Music Companies Pause Business in Russia</a> NYT: The three major record conglomerates and the touring giant Live Nation are suspending operations over Russia’s invasion of Ukraine, while individual artists have canceled tour dates. 
  <p class="updated_time"> 09:50 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
- <p class="updated_time"> 09:37 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
+ <p class="updated_time"> 09:00 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/narendra-modis-bjp-wins-big-in-indian-elections-11646918236">Narendra Modi’s Party Wins Big in Indian Elections</a> WSJ: Narendra Modi’s Party Wins Big in Indian Elections 
  <p class="updated_time"> 08:59 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085699374/goldman-sachs-russia">Goldman Sachs is the 1st major Wall Street bank to pull out of Russia</a> NPR: The investment bank says it's "winding down its business in Russia in compliance with regulatory and licensing requirements," two weeks after the country first invaded Ukraine. 
  <p class="updated_time"> 08:58 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html">4 Falsehoods Russians Are Told About the War</a> NYT: Russia’s disinformation machine is working in overdrive inside its own borders. 
- <p class="updated_time"> 08:37 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/narendra-modis-bjp-wins-big-in-indian-elections-11646918236">Narendra Modi’s Party Wins Big in Indian Elections</a> WSJ: Narendra Modi’s Party Wins Big in Indian Elections 
  <p class="updated_time"> 08:24 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60690362?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Roman Abramovich sanctioned by UK</a> BBC: Chelsea FC owner Roman Abramovich one of seven oligarchs sanctioned by the UK government. 
  <p class="updated_time"> 08:23 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60689267?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Indian students on the trauma of escaping</a> BBC: The BBC follows some of the thousands of students who've been evacuated from the war. 
+ <p class="updated_time"> 08:18 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Western officials are concerned the accusations could serve as a pretext for Moscow to unleash chemical or biological weapons. 
  <p class="updated_time"> 08:06 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/middleeast/israel-isaac-herzog-turkey-visit.html">Israel’s President Visits Turkey in Sign of Thawing Relations</a> NYT: In their highest-level meeting in 14 years, Israel and Turkey sought to rekindle an alliance after years of turbulence. 
  <p class="updated_time"> 07:34 AM CT, Mar. 10 </p> 
@@ -95,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/world/australia/election-china.html">Australia Asks: How Far Is Too Far in Making China a Campaign Weapon?</a> NYT: Australia’s conservative government has claimed, without evidence, that the political opposition would cozy up to Beijing. To many, it has crossed a red line. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085353926/russia-ukraine-invasions-refugees-jewish-poland">A Polish hotel recovering from its own tragic past has become a refuge for Ukrainians</a> NPR: The Hotel Ilan in Poland has a renowned and troubled history for the country's Jewish community. Now, it has found a new purpose helping Ukrainians fleeing the war Russia has wrought on their country. 
- <p class="updated_time"> 03:29 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60688309?at_medium=RSS&at_campaign=KARANGA">Yogi Adityanath: The Hindu hardliner in India who scripted election history</a> BBC: Yogi Adityanath is leading the BJP back to office in state elections - how high could he rise in India? 
  <p class="updated_time"> 03:14 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085673812/modis-ruling-party-ahead-in-crucial-state-polls-in-india">Modi's ruling party is ahead in crucial state polls in India</a> NPR: The results are seen as a referendum on the prime minister's popularity and a resounding endorsement of his party's Hindu-first politics. 
  <p class="updated_time"> 03:12 AM CT, Mar. 10 </p> 
@@ -105,14 +109,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-scotland-60676092?at_medium=RSS&at_campaign=KARANGA">The man accused of being a death-faking US fugitive </a> BBC: The bizarre case of a man arrested in a Glasgow hospital accused by the US of being a fugitive. 
  <p class="updated_time"> 02:05 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60689561?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Mariupol hospital bomb kills child - deputy mayor</a> BBC: Echoing the president of Ukraine, the deputy mayor of Mariupol called the hospital attack genocide. 
+ <p class="updated_time"> 01:20 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/u-s-military-urges-biden-to-place-commandos-in-somalia-as-militant-threat-worsens-11646914851">U.S. Military Urges Biden to Place Commandos in Somalia</a> WSJ: The American military is asking the president to station several hundred commandos in Somalia to help blunt the spread of al Qaeda’s aggressive local affiliate, al-Shabaab, according to  U.S. officials. 
  <p class="updated_time"> 12:31 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-nottinghamshire-60680951?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'We can't thank people enough for their donations'</a> BBC: Two lorry drivers have made an epic 1,300-mile trip across Europe to deliver aid. 
  <p class="updated_time"> 10:31 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/russia-ukraine-economy.html">Russia’s Other Contest With the West: Economic Endurance</a> NYT: Which side can maintain domestic support as the war costs regular citizens could also determine the outcome in Ukraine. 
  <p class="updated_time"> 10:22 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/asia/south-korea-election-yoon-suk-yeol.html">Yoon Suk-yeol Wins South Korean Presidency</a> NYT: As a prosecutor, he went after former presidents. Now voter discontent has helped him take the presidency in the tightest race since 1987. 
- <p class="updated_time"> 10:14 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/australia-to-boost-size-of-military-intensifying-effort-to-counter-china-11646903670">Australia to Boost Size of Military, Intensifying Effort to Counter China</a> WSJ: Australia will increase the size of its standing military by 30%, the latest step by the U.S. ally to beef up defenses amid growing competition between the U.S. and China in the Indo-Pacific region. 
  <p class="updated_time"> 09:47 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60683248?at_medium=RSS&at_campaign=KARANGA">Russia could launch chemical attack in Ukraine - White House</a> BBC: False claims about chemical weapon development are a Russian ploy to justify more attacks, says Jen Psaki. 
  <p class="updated_time"> 09:33 PM CT, Mar. 09 </p> 
@@ -133,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60679175?at_medium=RSS&at_campaign=KARANGA">Israel's Bennett plays peacemaker in Ukraine-Russia war</a> BBC: Prime Minister Naftali Bennett is an unlikely mediator between Kyiv and Moscow, Tom Bateman says. 
  <p class="updated_time"> 06:29 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085611369/sony-playstation-russia">Sony halts PlayStation sales in Russia due to Ukraine invasion</a> NPR: Along with stopping sales of its consoles, the company announced a $2 million donation to UNHCR and the international NGO, Save the Children, to support the victims in Ukraine. 
- <p class="updated_time"> 05:20 PM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/60685794?at_medium=RSS&at_campaign=KARANGA">Novak Djokovic pulls out of Indian Wells and Miami Open over US coronavirus rules</a> BBC: Novak Djokovic withdraws from Indian Wells and the Miami Open - the first two Masters Series events of the year - because of US coronavirus rules. 
  <p class="updated_time"> 04:47 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085512093/russias-war-on-ukraine-has-hurt-oil-prices-and-now-the-u-s-is-talking-to-venezue">Ukraine war has caused oil prices to rise, and now the U.S. is talking to Venezuela</a> NPR: Two imprisoned Americans were released from a Venezuelan jail after recent talks — which also dealt with energy security. Could this be the sign of a thaw between Washington and Caracas? 
  <p class="updated_time"> 04:47 PM CT, Mar. 09 </p> 
@@ -155,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/09/1085544639/a-no-fly-zone-isnt-what-ukraine-needs-says-former-u-s-nato-ambassador-ivo-daalde">A no-fly zone isn't what Ukraine needs, says former U.S. NATO Ambassador Ivo Daalder</a> NPR: NPR's Sarah McCammon speaks with former U.S. NATO Ambassador Ivo Daalder about the implications of imposing a no-fly zone in Ukraine in response to the growing humanitarian crisis. 
  <p class="updated_time"> 03:57 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085544632/a-building-in-poland-is-being-used-for-a-purpose-its-designers-couldnt-have-imag">A building in Poland is being used for a purpose its designers couldn't have imagined</a> NPR: In Lublin, Poland, a decades-old building has taken on a purpose its designers could never have imagined. Members of the Jewish community say this may have been the building's purpose all along. 
- <p class="updated_time"> 03:51 PM CT, Mar. 09 </p> 
- <a href="https://www.npr.org/2022/03/09/1085471200/the-letter-z-russia-ukraine">The letter Z is becoming a symbol of Russia's war in Ukraine. But what does it mean?</a> NPR: It has become a symbol of the Russian invasion, painted on military vehicles, printed on T-shirts and widely distributed through social media in support of Moscow's war. 
  <p class="updated_time"> 03:19 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/business/pay-gap-international-womens-day-twitter.html">Twitter Bot Highlights Gender Pay Gap One Company at a Time</a> NYT: Britain requires companies with 250 or more employees to report gender pay gap data. On International Women’s Day, one couple used it to raise awareness about lingering discrepancies. 
  <p class="updated_time"> 03:08 PM CT, Mar. 09 </p> 
@@ -250,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1083732104/2020-census-accuracy-undercount-overcount-data-quality">The 2020 census had big undercounts of Black people, Latinos and Native Americans</a> NPR: The Census Bureau has released its first report on the accuracy of the latest national head count that's used to distribute political representation and federal funding for the next decade. 
  <p class="updated_time"> 09:09 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/us-inflation-soars-to-40-year-high-00016043">U.S. inflation soared 7.9 percent in past year, a fresh 40-year high</a> Politico: The increase reported by the Labor Department reflected the 12 months ending in February and didn’t include most of the oil and gas price increases that followed Russia’s invasion of Ukraine on Feb. 24 
- <p class="updated_time"> 09:04 AM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/kamala-harris-russia-war-crimes-00016023">‘We should all be watching’: Harris says U.N. should probe Putin’s ‘atrocities’ in Ukraine</a> Politico: But the vice president stopped short of assessing that Russia had committed war crimes. 
  <p class="updated_time"> 07:57 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/10/dems-hoping-its-sunny-in-philadelphia-00016019">Dems hoping it's sunny in Philadelphia</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:37 AM CT, Mar. 10 </p> 
@@ -287,7 +285,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085425464/1-in-5-local-election-officials-say-theyre-likely-to-quit-before-2024">1 in 5 local election officials say they're likely to quit before 2024</a> NPR: A new national survey raises alarms from election administrators facing constant threats. Stress and attacks by political leaders on the voting system are top forces pushing them out of their jobs. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085016383/garland-says-the-jan-6-investigation-wont-end-until-everyone-is-held-to-account">Garland says the Jan. 6 investigation won't end until everyone is held to account</a> NPR: In an exclusive interview with NPR, the attorney general says he won't avoid cases related to the Capitol riot probe that are political, controversial or sensitive. 
+ <a href="https://www.npr.org/2022/03/10/1085016383/garland-says-the-jan-6-investigation-wont-end-until-everyone-is-held-to-account">Garland says the Jan. 6 investigation won't end until everyone is held accountable</a> NPR: In an exclusive interview with NPR, the attorney general says he won't avoid cases related to the Capitol riot probe that are political, controversial or sensitive. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/redistricting-congressional-maps-elections.html">A Potential Rarity in American Politics: A Fair Congressional Map</a> NYT: This year’s congressional map, despite continued gerrymandering, is poised to have a nearly equal number of districts that lean Democratic and Republican. 
  <p class="updated_time"> 03:14 AM CT, Mar. 10 </p> 
