@@ -301,15 +301,17 @@ temps_past_month <- temp_history %>%
 temps_past_year <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-years(1))
 
-his_los <- tibble(period = c("Year","Month","Week","Day"),
+his_los <- tibble(period = c("Year","Month","Week","Day","Now"),
        min = c(min(temps_past_year$temp),
                min(temps_past_month$temp),
                min(temps_past_week$temp),
-               min(temps_past_day$temp)),
+               min(temps_past_day$temp),
+               champaign_current$temp),
        max = c(max(temps_past_year$temp),
                max(temps_past_month$temp),
                max(temps_past_week$temp),
-               max(temps_past_day$temp)))
+               max(temps_past_day$temp),
+               champaign_current$temp))
 
 ggplot(data = his_los,
        aes(x = period,
