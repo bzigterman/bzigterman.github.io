@@ -306,12 +306,12 @@ his_los <- tibble(period = c("Year","Month","Week","Day","Now"),
                min(temps_past_month$temp),
                min(temps_past_week$temp),
                min(temps_past_day$temp),
-               champaign_current$temp),
+               champaign_current$temp+1),
        max = c(max(temps_past_year$temp),
                max(temps_past_month$temp),
                max(temps_past_week$temp),
                max(temps_past_day$temp),
-               champaign_current$temp))
+               champaign_current$temp-1))
 
 ggplot(data = his_los,
        aes(x = period,
