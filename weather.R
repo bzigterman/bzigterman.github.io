@@ -252,9 +252,9 @@ ggplot() +
             color = "#FFFFFB",
             fill = "#FFFFFB") +
   geom_line(data = champaign_forecast_longer,
-             aes(x = central_time,
-                 y = values,
-                 colour = names)) +
+            aes(x = central_time,
+                y = values,
+                colour = names)) +
   # geom_hline(data = data.frame(yint = 32, names="°F"),
   #            aes(yintercept = yint),
   #            color = "#a2d2df",
@@ -292,6 +292,8 @@ ggsave("plots/champaign_weather_mobile.png", bg = "white",
 temp_history <- read_csv("data/champaign_weather.csv") %>%
   mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) 
 
+temps_past_hour <- temp_history %>%
+  filter(central_time > now(tzone = "America/Chicago")-hours(1))
 temps_past_day <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-days(1))
 temps_past_week <- temp_history %>%
@@ -301,17 +303,17 @@ temps_past_month <- temp_history %>%
 temps_past_year <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-years(1))
 
-his_los <- tibble(period = c("Year","Month","Week","Day","Now"),
-       min = c(min(temps_past_year$temp),
-               min(temps_past_month$temp),
-               min(temps_past_week$temp),
-               min(temps_past_day$temp),
-               champaign_current$temp+.5),
-       max = c(max(temps_past_year$temp),
-               max(temps_past_month$temp),
-               max(temps_past_week$temp),
-               max(temps_past_day$temp),
-               champaign_current$temp-.5))
+his_los <- tibble(period = c("Year","Month","Week","Day","Hour"),
+                  min = c(min(temps_past_year$temp),
+                          min(temps_past_month$temp),
+                          min(temps_past_week$temp),
+                          min(temps_past_day$temp),
+                          min(temps_past_hour$temp)),
+                  max = c(max(temps_past_year$temp),
+                          max(temps_past_month$temp),
+                          max(temps_past_week$temp),
+                          max(temps_past_day$temp),
+                          max(temps_past_hour$temp)))
 
 ggplot(data = his_los,
        aes(x = period,
@@ -319,6 +321,7 @@ ggplot(data = his_los,
            y = min,
            yend = max)) +
   geom_segment(size = 2) +
+  scale_x_discrete(limits = c("Year","Month","Week","Day","Hour")) +
   theme_minimal() +
   labs(x = "Past",
        y = NULL,
@@ -331,8 +334,8 @@ ggplot(data = his_los,
 
 ggsave("plots/temp_history.png", bg = "white",
        width = 8, height = 8*(628/1200), dpi = 320)
-       
-       ggsave("plots/temp_history_mobile.png", bg = "white",
+
+ggsave("plots/temp_history_mobile.png", bg = "white",
        width = 4, height = 8*(628/1200), dpi = 320)
 
 # web text ----
