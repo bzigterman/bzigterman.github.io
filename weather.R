@@ -331,6 +331,9 @@ ggplot(data = his_los,
 
 ggsave("plots/temp_history.png", bg = "white",
        width = 8, height = 8*(628/1200), dpi = 320)
+       
+       ggsave("plots/temp_history_mobile.png", bg = "white",
+       width = 4, height = 8*(628/1200), dpi = 320)
 
 # web text ----
 severe_weather_outlook_url <- 
@@ -388,7 +391,7 @@ Currently:
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
           media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/temp_history.png\" alt=\"\" />
+  <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
 </picture>
 
 
