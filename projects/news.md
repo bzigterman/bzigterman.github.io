@@ -9,13 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:25 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 01:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Ukraine Live Updates: Top Diplomats to Meet as Conditions Worsen</a> NYT: The foreign ministers of Russia and Ukraine will meet in Turkey. Russian strikes hit a maternity hospital in some of the deadliest fighting since the war started two weeks ago. 
- <p class="updated_time"> 11:53 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 12:12 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 11:46 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60687203?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv and Moscow to hold high-profile talks</a> BBC: The talks in Turkey come after Kyiv accused Moscow of a war crime for bombing a children's hospital. 
- <p class="updated_time"> 10:53 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 11:12 PM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 10:47 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
@@ -25,7 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/60686413?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: IMF approves $1.4bn emergency funding</a> BBC: The country is expected to see a deep recession this year due to the impact of the Russian invasion. 
  <p class="updated_time"> 10:22 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/asia/south-korea-election-yoon-suk-yeol.html">Yoon Suk-yeol Wins South Korean Presidency</a> NYT: As a prosecutor, he went after former presidents. Now voter discontent has helped him take the presidency in the tightest race since 1987. 
- <p class="updated_time"> 09:53 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 10:12 PM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
  <p class="updated_time"> 09:47 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60683248?at_medium=RSS&at_campaign=KARANGA">Russia could launch chemical attack in Ukraine - White House</a> BBC: False claims about chemical weapon development are a Russian ploy to justify more attacks, says Jen Psaki. 
@@ -35,15 +35,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60685141?at_medium=RSS&at_campaign=KARANGA">South Korea: Conservative candidate Yoon Suk-yeol elected president</a> BBC: Mr Yoon's win was one of the closest in history - with the final count separated by less than 1%. 
  <p class="updated_time"> 09:22 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
+ <p class="updated_time"> 09:12 PM CT, Mar. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
  <p class="updated_time"> 09:08 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Law</a> NYT: The measure, which is expected to be signed into law by Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
- <p class="updated_time"> 08:53 PM CT, Mar. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
  <p class="updated_time"> 08:44 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-family-perebyinis-kyiv.html">A Family’s Dash Toward Safety in Ukraine Ends Tragically</a> NYT: Tetiana Perebyinis and her two children were killed trying to dash to safety, a moment captured by our photographer. Her husband describes their lives, and their final hours. 
  <p class="updated_time"> 08:42 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-kremlin-economic-war.html">Russia Strikes Ukraine’s Cities and Accuses U.S. of “Economic War”</a> NYT: Misery deepened in Ukraine, where millions of people were caught in besieged cities, and in Russia, where the West’s economic sanctions were biting hard. 
- <p class="updated_time"> 07:53 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 08:12 PM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 07:50 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-chernobyl-power.html">Damaged Chernobyl Nuclear Plant, Occupied by Russia, Loses Outside Power</a> NYT: The site of the worst nuclear accident in history, where a yearslong cleanup is underway, is now dependent on power from diesel generators and backup supplies. 
@@ -54,7 +54,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:29 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085611369/sony-playstation-russia">Sony halts PlayStation sales in Russia due to Ukraine invasion</a> NPR: Along with stopping sales of its consoles, the company announced a $2 million donation to UNHCR and the international NGO, Save the Children, to support the victims in Ukraine. 
  <p class="updated_time"> 06:02 PM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-60684660?at_medium=RSS&at_campaign=KARANGA">Use Russian money to rebuild Ukraine, says bank chief</a> BBC: In BBC interview Ukraine central bank boss proposes long list of extra financial sanctions on Russia 
+ <a href="https://www.bbc.co.uk/news/business-60684660?at_medium=RSS&at_campaign=KARANGA">Use Russian money to rebuild Ukraine, says bank chief</a> BBC: In a BBC interview, the Ukraine central bank boss proposes a list of extra financial sanctions on Russia. 
  <p class="updated_time"> 05:51 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60685146?at_medium=RSS&at_campaign=KARANGA">Black Panther Ryan Coogler director mistaken for bank robber</a> BBC: Ryan Coogler was arrested trying to withdraw money from his own bank account in Atlanta, Georgia. 
  <p class="updated_time"> 05:49 PM CT, Mar. 09 </p> 
@@ -173,14 +173,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-oil-ban-russia-ukraine-putin.html">Biden Bans Oil Imports From Russia, Warning Gas Prices Will Rise</a> NYT: Officials said President Biden had struggled for days over the move amid deep concerns about accelerating the already rapid rise in the price of gasoline. 
  <p class="updated_time"> 07:05 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60524576?at_medium=RSS&at_campaign=KARANGA">Zimbabwe clinics struggle for nurses after exodus to the UK</a> BBC: With large numbers of nurses emigrating, patient care is suffering as there are not enough staff. 
- <p class="updated_time"> 07:02 PM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60661987?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine: Is internet on verge of break-up?</a> BBC: The global internet is under threat as the conflict in Ukraine continues. 
  <p class="updated_time"> 07:00 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/biden-bans-russian-oil.html">Biden Bans All Imports of Russian Oil Into U.S.</a> NYT: The British also said they would phase out imports of Russian oil by the end of the year to increase the economic isolation of Russia’s president, Vladimir. V. Putin. 
  <p class="updated_time"> 06:40 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60669763?at_medium=RSS&at_campaign=KARANGA">Private military firms see demand in Ukraine war</a> BBC: Private military contractors see surging demand in Ukraine - but could the work turn mercenary? 
- <p class="updated_time"> 06:28 PM CT, Mar. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60657698?at_medium=RSS&at_campaign=KARANGA">Ukraine: The Indian girl who wouldn’t abandon her dog in a war zone</a> BBC: Arya Aldrin undertook a gruelling journey to bring her Siberian husky to India. 
  <p class="updated_time"> 06:21 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-russia-zelensky.html">Zelensky Vows No Surrender in Video to Britain’s Parliament</a> NYT: In a dramatic video address to Britain’s House of Commons, President Volodymyr Zelensky of Ukraine said he would never capitulate to the invading Russians. 
  <p class="updated_time"> 06:14 PM CT, Mar. 08 </p> 
