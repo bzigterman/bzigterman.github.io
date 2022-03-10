@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:09 AM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Ukraine Live Updates: Top Diplomats Fail to Reach Deal to End War</a> NYT: There was no breakthrough after the foreign ministers of Russia and Ukraine met. Three people were killed in a Russian strike against a maternity hospital on Wednesday, Ukrainian officials said. 
- <p class="updated_time"> 04:06 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 04:49 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60690362?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Roman Abramovich sanctioned by UK</a> BBC: Chelsea FC owner Roman Abramovich one of seven oligarchs sanctioned by the UK government. 
+ <p class="updated_time"> 04:42 AM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
+ <p class="updated_time"> 04:36 AM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/09/world/ukraine-russia-war">Ukraine Live Updates: Top Envoys Fail to Reach Deal to End War</a> NYT: There was no breakthrough after the foreign ministers of Russia and Ukraine met. Three people were killed in a Russian strike against a maternity hospital on Wednesday, Ukrainian officials said. 
+ <p class="updated_time"> 04:36 AM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/asia/bts-live-concert-seoul.html">BTS Performs Live in Seoul for First Time in Over 2 Years</a> NYT: The K-pop group returned to the stage in South Korea on Thursday, although fans were not allowed to cheer, scream or sing along because of Covid restrictions. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 10 </p> 
+ <a href="https://www.npr.org/2022/03/10/1085677908/high-level-talks-between-russia-and-ukraine-begin">High-level talks begin between Russia and Ukraine</a> NPR: The meeting in Turkey is the highest-level talks between the two countries since Russia invaded Ukraine in February. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/election-china.html">Australia Asks: How Far Is Too Far in Making China a Campaign Weapon?</a> NYT: Australia’s conservative government has claimed, without evidence, that the political opposition would cozy up to Beijing. To many, it has crossed a red line. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085353926/russia-ukraine-invasions-refugees-jewish-poland">A Polish hotel recovering from its own tragic past has become a refuge for Ukrainians</a> NPR: The Hotel Ilan in Poland has a renowned and troubled history for the country's Jewish community. Now, it has found a new purpose helping Ukrainians fleeing the war Russia has wrought on their country. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/books/ukraine-translate-books.html">An Urgent Mission for Literary Translators: Bringing Ukrainian Voices to the West</a> NYT: A wartime effort to quickly translate work by Ukrainian novelists, poets and historians is underway — a project as political as it is cultural, authors and translators say. 
+ <p class="updated_time"> 03:59 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 03:56 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60687203?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv and Moscow hold high-profile talks</a> BBC: The talks in Turkey come after Kyiv accused Moscow of a war crime for bombing a children's hospital. 
  <p class="updated_time"> 03:29 AM CT, Mar. 10 </p> 
@@ -26,20 +34,18 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:18 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60675599?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Three dead as maternity hospital hit by Russian air strike</a> BBC: Three people including a child were killed in the attack on the city of Mariupol, officials say. 
  <p class="updated_time"> 03:14 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085673812/modis-ruling-party-ahead-in-crucial-state-polls-in-india">Modi's ruling party ahead in crucial state polls in India</a> NPR: The results are seen as a referendum on the prime minister's popularity and a resounding endorsement of his party's Hindu-first politics. 
- <p class="updated_time"> 03:13 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
- <p class="updated_time"> 02:13 AM CT, Mar. 10 </p> 
+ <a href="https://www.npr.org/2022/03/10/1085673812/modis-ruling-party-ahead-in-crucial-state-polls-in-india">Modi's ruling party is ahead in crucial state polls in India</a> NPR: The results are seen as a referendum on the prime minister's popularity and a resounding endorsement of his party's Hindu-first politics. 
+ <p class="updated_time"> 02:59 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 02:05 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60689561?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Mariupol hospital bomb kills child - deputy mayor</a> BBC: Echoing the president of Ukraine, the deputy mayor of Mariupol called the hospital attack genocide. 
  <p class="updated_time"> 02:02 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, looks likely to stay in the Bharatiya Janata Party’s hands, despite the ravages of Covid and a plummeting economy. 
- <p class="updated_time"> 01:13 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 01:59 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
- <p class="updated_time"> 12:13 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 12:59 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
- <p class="updated_time"> 11:13 PM CT, Mar. 09 </p> 
+ <p class="updated_time"> 11:59 PM CT, Mar. 09 </p> 
  <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 10:47 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
@@ -123,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/100000008242973/ukrainian-refugees-women-return.html">‘I Must Save My Mom’: The Women Returning to Ukraine</a> NYT: As millions seek to escape Russia’s invasion of Ukraine, 200,000 people have gone the other way, toward the fighting. Many are women, risking the dangers of war to rescue relatives or defend their homes. 
  <p class="updated_time"> 03:01 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/scotland-nicola-sturgeon-apologizes-witches.html">Scotland Apologizes for History of Witchcraft Persecution</a> NYT: Nicola Sturgeon, the first minister of Scotland, apologized on behalf of the government for the killing and vilification of thousands of people accused of witchcraft between the 16th and 18th centuries. 
- <p class="updated_time"> 02:58 PM CT, Mar. 09 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/03/09/1085474561/satellite-images-show-the-destruction-in-mariupol-after-russian-strike">Satellite images show the destruction in Mariupol after Russian strike</a> NPR: Russian forces breached a temporary cease-fire declared yesterday in Ukraine. 
  <p class="updated_time"> 02:23 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/australia/nsw-floods.html">Australia Flooding Declared a National Emergency</a> NYT: At least 20 people have died and tens of thousands have been ordered to evacuate as record rainfall continues to inundate the country’s eastern coast. 
  <p class="updated_time"> 01:58 PM CT, Mar. 09 </p> 
@@ -210,8 +214,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/election-officials-exhausted-under-threat-00015850">Local election officials are exhausted, under threat and thinking about quitting</a> Politico: A new poll of election administrators showed nearly 8 in 10 think threats against them are on the rise. 
+ <p class="updated_time"> 04:37 AM CT, Mar. 10 </p> 
+ <a href="https://www.npr.org/2022/03/10/1085456283/democratic-governor-who-lifted-mask-mandate-early-explains-why-it-was-the-right">Democratic governor who lifted mask mandate early explains why it was the right move</a> NPR: Colorado Gov. Jared Polis says that prioritizing vaccine and testing availability over masking helped the state achieve a high rate of immunization and relatively low death rate. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/crypto-firms-sticking-with-russia-00015907">Crypto firms under attack for sticking with Russia</a> Politico: As more banks and payment systems cut off service to ordinary Russians in response to the conflict, digital asset firms are being forced to navigate the same reputational minefields as traditional financial institutions.  
  <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/house-dems-retreat-omnibus-00015995">House Dems park in Philadelphia bruised by potholes</a> Politico: They planned to show up for their retreat hours earlier — and now the caucus has one more intraparty battle to move beyond. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/gop-state-legislatures-2022-elections-00015918">GOP targets state legislative dominance in 2022 elections</a> Politico: The Republican State Leadership Committee's list of 2022 targets includes protecting legislative control in key battleground states. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/fed-up-inside-the-senates-banking-brawl-00015770">Fed up: Inside the Senate's banking brawl</a> Politico: Chair Sherrod Brown and his GOP counterpart, Pat Toomey, are locked in a staring contest over President Joe Biden's Federal Reserve picks. And it's captivating their colleagues. 
+ <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/senate-republicans-battle-over-big-beef-00015101">Inside Senate Republicans’ battle over the future of big beef</a> Politico: A new push to rein in meatpacking companies is turning Republicans against each other. 
  <p class="updated_time"> 04:08 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085670196/soaring-gas-prices-have-biden-talking-up-the-importance-of-domestic-drilling">Soaring gas prices have Biden talking up the importance of domestic drilling</a> NPR: Russia's war on Ukraine and the resulting oil price spike have forced the Biden White House to consider all kinds of measures for fossil fuel that it once would have shunned. 
  <p class="updated_time"> 04:08 AM CT, Mar. 10 </p> 
@@ -242,10 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
  <p class="updated_time"> 08:29 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/judge-review-emails-jan-6.html">Judge Will Review Lawyer’s Emails Sought by Jan. 6 Panel</a> NYT: A federal judge said he would decide whether emails to and from John Eastman should be released to the House committee investigating the attack on the Capitol. 
- <p class="updated_time"> 07:09 PM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/rnc-sues-jan-6-select-committee-over-salesforce-subpoena-00015913">RNC is suing Jan. 6 select committee over subpoena to key vendor</a> Politico: The suit is the most notable legal dispute to date between the GOP fundraising arm and congressional investigators after the Capitol attack. 
- <p class="updated_time"> 07:06 PM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/desantis-disney-bob-chapek-dont-say-gay-00015838">DeSantis agrees to meet with Disney CEO amid 'Don't Say Gay’ fallout</a> Politico: Gov. DeSantis’ spokesperson, Christina Pushaw, confirmed that the two men spoke Wednesday but said the governor is not changing his support for the bill. 
  <p class="updated_time"> 07:03 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/crypto-regulation-biden.html">Biden Takes Step Toward Regulating Cryptocurrencies</a> NYT: The president signed an executive order that will coordinate efforts among financial regulators to better understand the risks and opportunities presented by digital assets. 
  <p class="updated_time"> 06:05 PM CT, Mar. 09 </p> 
@@ -276,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/09/new-normal-forces-nato-rethink-security-00015714">Stoltenberg: 'New normal' forces NATO rethink</a> Politico: "It’s obvious that we are faced with a new reality, a new security environment." 
  <p class="updated_time"> 03:23 PM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085544583/the-senate-has-passed-bill-to-save-usps-billions-of-dollars-and-reform-deliverie">The Senate has passed bill to save USPS billions of dollars and reform deliveries</a> NPR: The Senate on Tuesday approved a $107 billion financial overhaul of the long-beleaguered U.S. Postal Service. It now goes to President Biden. 
- <p class="updated_time"> 02:44 PM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/health-experts-plead-with-biden-to-reverse-course-in-global-pandemic-response-00015677">Health experts plead with Biden to 'reverse course' in global pandemic response</a> Politico: They are seeking a global pandemic action plan to match the national plan the administration rolled out last week. 
  <p class="updated_time"> 02:27 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/fact-check-republicans-biden-gas.html">Republicans Wrongly Blame Biden for Rising Gas Prices</a> NYT: They have pointed to the Biden administration’s policies on the Keystone XL pipeline and certain oil and gas leases, which have had little impact on prices. 
  <p class="updated_time"> 02:24 PM CT, Mar. 09 </p> 
@@ -290,16 +300,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/business/amazon-antitrust-investigation.html">House Panel Calls for Criminal Investigation Into Amazon</a> NYT: Members of the Judiciary Committee accused Amazon of obstructing its inquiry into how the company treats third-party sellers. 
  <p class="updated_time"> 01:14 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/white-house-covid-funding-run-out-00015712">Dem revolt could run Biden's Covid fight out of money</a> Politico: The limited funding raises the likelihood that the White House will be left shorthanded should a new, dangerous variant emerge. 
- <p class="updated_time"> 12:56 PM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/free-school-meals-end-mcconnell-opposition-00015695">Finger-pointing ensues after Congress fails to extend universal school meals</a> Politico: Democrats and a long list of school groups are blaming the Senate minority leader for taking a hardline stance against extending the waivers. 
  <p class="updated_time"> 11:52 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/biden-russia-ukraine-arms-00015518">White House sweats over its growing entanglement in Ukraine</a> Politico: Vladimir Putin is warning the U.S. and its allies not to engage in direct "acts of war" against Russia. For the Biden administration, that means weighing every move ever more carefully. 
  <p class="updated_time"> 11:39 AM CT, Mar. 09 </p> 
  <a href="https://www.npr.org/2022/03/09/1085452644/colorado-clerk-indicted-on-13-counts-of-election-tampering-and-misconduct">Colorado clerk is indicted for election tampering and misconduct</a> NPR: The indictment of Mesa County Clerk Tina Peters and her deputy on a laundry list of felony and misdemeanor charges is related to an election security breach in her office last year. 
  <p class="updated_time"> 11:30 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/congress-bans-dc-weed-00015583">Democratic-led Congress keeps ban on D.C. weed</a> Politico: D.C. lawmakers are looking for a workaround, with both the City Council and Mayor Muriel Bowser proposing legislation that could make the existing gray market fully legal. 
- <p class="updated_time"> 11:30 AM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/trumps-truth-social-fails-to-make-a-splash-in-maga-world-00015427">MAGA-world fails to flock to Truth Social</a> Politico: The former president vowed to turn the social media world upside down with a platform of his own. But so far, his platform has little engagement and is missing some of Trump’s top supporters. 
  <p class="updated_time"> 09:15 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/biden-student-loan-payment-freeze-00015439">Biden officials signal they might extend student loan payment freeze</a> Politico: The Education Department’s guidance to loan servicers this week reflects the logistical challenges that the agency faces. 
  <p class="updated_time"> 08:37 AM CT, Mar. 09 </p> 
@@ -314,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/09/harris-steps-in-the-middle-of-a-nato-standoff-00015516"> Harris steps in the middle of a NATO standoff</a> Politico Playbook: And Congress unveils a bipartisan government spending deal. 
  <p class="updated_time"> 05:39 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/congress-government-funding-package-00014322">House Dems clear $1.5T spending deal after stripping Covid aid</a> Politico: The chamber voted on a sweeping funding measure that includes  billions in emergency aid to Ukraine. 
- <p class="updated_time"> 04:31 AM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/gop-pushes-for-an-earthquake-in-american-electoral-power-00015402">GOP pushes for an ‘earthquake in American electoral power’</a> Politico: Conservatives are promoting the "independent legislature" theory, which would hand vast election powers to GOP legislators in battleground states. 
  <p class="updated_time"> 04:30 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/republicans-shadow-whip-race-crowded-00015381">The House GOP's shadow whip race is on — and crowded</a> Politico: It's the surest sign Republicans have seen yet that Minority Leader Kevin McCarthy is cementing his hold on a future speakership: intensifying interest in being his No. 3. 
  <p class="updated_time"> 04:30 AM CT, Mar. 09 </p> 
@@ -346,8 +350,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/08/davos-putin-russian-oligarchs-00015344">Davos freezes out Putin and Russian oligarchs</a> Politico: World Economic Forum is siding with Ukraine, and blowing a hole in its budget. 
  <p class="updated_time"> 06:29 PM CT, Mar. 08 </p> 
  <a href="https://www.npr.org/2022/03/08/1085315491/congress-passes-bill-to-shore-up-the-postal-service-without-cutting-back-on-deli">Congress passes bill to shore up the Postal Service without cutting back on delivery </a> NPR: Congress mustered rare bipartisan support for the Postal Service package, dropping some of the more controversial proposals to settle on core ways to save the service and ensure its future operations. 
- <p class="updated_time"> 04:52 PM CT, Mar. 08 </p> 
- <a href="https://www.npr.org/2022/03/08/1085293095/georgia-spaceport-goes-to-a-vote-as-proponents-try-to-invalidate-the-election">Voters reject spaceport plan long pursued by Georgia county</a> NPR: Critics, including the National Park Service, said exploding rockets after launch could rain fiery debris onto surrounding land, including a federally protected wilderness. 
  <p class="updated_time"> 01:23 PM CT, Mar. 08 </p> 
  <a href="https://www.politico.com/news/2022/03/08/putin-is-angry-u-s-intel-heads-warn-russia-could-double-down-in-ukraine-00015177">‘Putin is angry’: U.S. intel heads warn Russia could ‘double down’ in Ukraine</a> Politico: But the agency leaders agreed Russia would struggle to overcome fierce Ukrainian resistance. 
  <p class="updated_time"> 01:07 PM CT, Mar. 08 </p> 
@@ -370,8 +372,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/07/what-will-congress-give-ukraine-00014561">What will Congress give Ukraine?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Mar. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/07/russia-escalates-brutality-congress-steps-up-response-00014536"> Russia escalates brutality, Congress steps up response</a> Politico Playbook: And Congress stares down another possible shutdown showdown this week. 
- <p class="updated_time"> 04:31 AM CT, Mar. 07 </p> 
- <a href="https://www.politico.com/news/2022/03/07/greene-gosar-mccarthy-white-nationalism-00014351">Why Republicans may let Greene and Gosar's latest brushfire burn itself out</a> Politico: Even some Freedom Caucus colleagues fumed at their flirtation with white nationalism. But the House GOP's unlikely to do more against the conservative duo. 
 
 
 </details>
