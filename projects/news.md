@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:27 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 05:38 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Top Envoys Fail to Make Progress Toward Ending War</a> NYT: There was no breakthrough after the foreign ministers of Russia and Ukraine met. Three people were killed in a Russian strike against a maternity hospital on Wednesday, Ukrainian officials said. 
+ <p class="updated_time"> 05:31 AM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60690856?at_medium=RSS&at_campaign=KARANGA">'They could be in mass graves': Desperate attempt to reach Mariupol trapped</a> BBC: People know relatives under siege are living under fire and drinking snow, but have lost contact now. 
  <p class="updated_time"> 05:24 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
  <p class="updated_time"> 05:19 AM CT, Mar. 10 </p> 
@@ -21,10 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60687203?at_medium=RSS&at_campaign=KARANGA">Ukraine war: No progress on ceasefire after Kyiv-Moscow talks</a> BBC: Kyiv's FM says Russian demands amount to a surrender, Moscow's FM says the invasion is going to plan. 
  <p class="updated_time"> 04:49 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60690362?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Roman Abramovich sanctioned by UK</a> BBC: Chelsea FC owner Roman Abramovich one of seven oligarchs sanctioned by the UK government. 
+ <p class="updated_time"> 04:45 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 04:36 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/bts-live-concert-seoul.html">BTS Performs Live in Seoul for First Time in Over 2 Years</a> NYT: The K-pop group returned to the stage in South Korea on Thursday, although fans were not allowed to cheer, scream or sing along because of Covid restrictions. 
- <p class="updated_time"> 04:33 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-presses-offensive-as-ukrainians-try-to-evacuate-11646819525">Russian Airstrike Hits Maternity Hospital in Ukraine</a> WSJ: Russian Airstrike Hits Maternity Hospital in Ukraine 
  <p class="updated_time"> 04:13 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085677908/high-level-talks-between-russia-and-ukraine-begin">High-level talks between Russia and Ukraine end with no breakthrough</a> NPR: The meeting in Turkey is the highest-level talks between the two countries since Russia invaded Ukraine in February. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
@@ -33,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085353926/russia-ukraine-invasions-refugees-jewish-poland">A Polish hotel recovering from its own tragic past has become a refuge for Ukrainians</a> NPR: The Hotel Ilan in Poland has a renowned and troubled history for the country's Jewish community. Now, it has found a new purpose helping Ukrainians fleeing the war Russia has wrought on their country. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/books/ukraine-translate-books.html">An Urgent Mission for Literary Translators: Bringing Ukrainian Voices to the West</a> NYT: A wartime effort to quickly translate work by Ukrainian novelists, poets and historians is underway — a project as political as it is cultural, authors and translators say. 
- <p class="updated_time"> 03:33 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 03:45 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/mig-combat-jets-spark-squabble-within-nato-over-helping-ukraine-11646854872">U.S. Doesn’t Support Giving Ukraine Polish Aircraft</a> WSJ: U.S. Doesn’t Support Giving Ukraine Polish Aircraft 
  <p class="updated_time"> 03:29 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60688309?at_medium=RSS&at_campaign=KARANGA">Yogi Adityanath: The Hindu hardliner in India who scripted election history</a> BBC: Yogi Adityanath is leading the BJP back to office in state elections - how high could he rise in India? 
@@ -41,13 +43,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60675599?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Three dead as maternity hospital hit by Russian air strike</a> BBC: Three people including a child were killed in the attack on the city of Mariupol, officials say. 
  <p class="updated_time"> 03:14 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085673812/modis-ruling-party-ahead-in-crucial-state-polls-in-india">Modi's ruling party is ahead in crucial state polls in India</a> NPR: The results are seen as a referendum on the prime minister's popularity and a resounding endorsement of his party's Hindu-first politics. 
- <p class="updated_time"> 02:33 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 02:45 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/waves-of-ukrainian-refugees-overwhelm-poland-11646856187">Waves of Ukrainian Refugees Overwhelm Poland</a> WSJ: Waves of Ukrainian Refugees Overwhelm Poland 
  <p class="updated_time"> 02:05 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60689561?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Mariupol hospital bomb kills child - deputy mayor</a> BBC: Echoing the president of Ukraine, the deputy mayor of Mariupol called the hospital attack genocide. 
- <p class="updated_time"> 01:33 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 01:45 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-war-nato-military-11646843371">Russia, Out to Contain NATO, Instead Reignites the Alliance</a> WSJ: Russia, Out to Contain NATO, Instead Reignites the Alliance 
- <p class="updated_time"> 12:33 AM CT, Mar. 10 </p> 
+ <p class="updated_time"> 12:45 AM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/south-koreans-to-decide-presidential-race-marked-by-clashes-and-contrasts-11646824084">South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea</a> WSJ: South Korea Elects Yoon Suk-yeol as President, Bringing Back a Tougher Line on North Korea 
  <p class="updated_time"> 10:47 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
@@ -199,10 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/08/world/europe/ukraine-kyiv-hospitals.html">As Fighting Gets Closer, a Kyiv Hospital Treats the War’s Atrocities</a> NYT: As Russian bombings have grown more indiscriminate, hospitals in Ukraine have become perilous places to work. 
  <p class="updated_time"> 02:28 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60664824?at_medium=RSS&at_campaign=KARANGA">Ukraine President Zelensky: From TV star to wartime leader</a> BBC: The Ukrainian president's journey from comedian with no political experience to convincing war leader. 
- <p class="updated_time"> 12:50 PM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/2022/03/08/theater/olivier-nominations-cabaret.html">‘Cabaret,’ Starring Eddie Redmayne, Leads Olivier Award Nominees</a> NYT: A revival of the 1966 musical, with Jessie Buckley as Sally Bowles, is up for 11 awards at Britain’s equivalent of the Tonys. 
- <p class="updated_time"> 11:48 AM CT, Mar. 08 </p> 
- <a href="https://www.nytimes.com/2022/03/08/style/kony-2012-invisible-children.html">‘Kony 2012,’ 10 Years Later</a> NYT: Once the most viral video of all time, the film reads as both a digital relic and a precursor to an era in which footage of conflict dominates the internet. 
  <p class="updated_time"> 09:12 AM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60604952?at_medium=RSS&at_campaign=KARANGA">Ukraine: Mother of Russian soldier asks 'Whose door should I knock on to get my child back?'</a> BBC: Families of Russian soldiers in Ukraine tell the BBC the men had no idea what they were getting into. 
 
@@ -212,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:36 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/03/10/this-retreat-is-cursed-00016013"> ‘This retreat is cursed’</a> Politico Playbook: And the latest talks fail to reach a cease-fire in Ukraine. 
  <p class="updated_time"> 05:01 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/election-officials-exhausted-under-threat-00015850">Local election officials are exhausted, under threat and thinking about quitting</a> Politico: A new poll of election administrators showed nearly 8 in 10 think threats against them are on the rise. 
  <p class="updated_time"> 05:00 AM CT, Mar. 10 </p> 
@@ -310,6 +310,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/09/biden-student-loan-payment-freeze-00015439">Biden officials signal they might extend student loan payment freeze</a> Politico: The Education Department’s guidance to loan servicers this week reflects the logistical challenges that the agency faces. 
  <p class="updated_time"> 08:37 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/mark-meadows-trump-vote-north-carolina.html">Mark Meadows Spread Trump’s Voter Fraud Claims. Now His Voting Record Is Under Scrutiny.</a> NYT: The former Trump aide listed a mobile home in rural North Carolina as his residence at the same time that he was running operations at the White House. 
+ <p class="updated_time"> 08:13 AM CT, Mar. 09 </p> 
+ <a href="https://www.cnn.com/2022/03/09/politics/ron-desantis-lgbtq-community/index.html">LGBTQ Floridians once hoped DeSantis could be an ally. Not anymore</a> CNN: In his first year as Florida governor in 2019, Ron DeSantis paid a somber visit to the memorial for the 49 people who lost their lives when a man opened fire at Pulse, a gay nightclub in Orlando. 
  <p class="updated_time"> 07:50 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/09/omnibus-almost-on-track-00015528">Omnibus (almost) on track</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:52 AM CT, Mar. 09 </p> 
@@ -334,12 +336,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/us/politics/republicans-ukraine.html">Republicans, Once Harsh Ukraine Critics, Pivot to Strong Support</a> NYT: In a matter of weeks, the center of gravity on Ukraine has sharply shifted among Republicans, muffling doubts about U.S. involvement and dismissing questions about the recent past. 
  <p class="updated_time"> 12:40 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/venezuela-release-prisoners-biden-00015501">Venezuela frees 2 American prisoners after talks with U.S.</a> Politico: "We are bringing Gustavo Cardenas and Jorge Fernandez home," President Joe Biden said. 
- <p class="updated_time"> 09:20 PM CT, Mar. 08 </p> 
- <a href="https://www.cnn.com/2022/03/08/politics/senate-vote-postal-service-bill/index.html">Senate passes sweeping bipartisan bill overhauling the US Postal Service</a> CNN: The Senate on Tuesday passed sweeping bipartisan legislation to overhaul the US Postal Service's finances and allow the agency to modernize its operations. 
  <p class="updated_time"> 08:48 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/us/politics/biden-oil-ban-russia-ukraine-putin.html">Biden Bans Oil Imports From Russia, Warning Gas Prices Will Rise</a> NYT: Officials said President Biden had struggled for days over the move amid deep concerns about accelerating the already rapid rise in the price of gasoline. 
  <p class="updated_time"> 08:18 PM CT, Mar. 08 </p> 
  <a href="https://www.nytimes.com/2022/03/08/business/media/smartmatic-fox-news-defamation-suit.html">Much of Smartmatic Case Against Fox News Can Proceed, Judge Rules</a> NYT: The judge did dismiss some defamation claims, against Rudolph W. Giuliani, Jeanine Pirro and Sidney Powell. 
+ <p class="updated_time"> 07:22 PM CT, Mar. 08 </p> 
+ <a href="https://www.cnn.com/2022/02/14/politics/usps-reform-act-explainer/index.html">What the USPS overhaul bill means for you</a> CNN: A sweeping bill that will overhaul the US Postal Service's finances and allow the agency to modernize its service is headed to President Joe Biden's desk. 
  <p class="updated_time"> 07:22 PM CT, Mar. 08 </p> 
  <a href="https://www.politico.com/news/2022/03/08/how-the-tricky-politics-of-a-russian-oil-ban-roiled-washington-in-100-hours-00015374">How the tricky politics of a Russian oil ban roiled Washington in 100 hours</a> Politico: It was the only one of the Ukrainian president's major asks that Congress could deliver. So lawmakers kept pressing — and one chamber pushed a vote. 
  <p class="updated_time"> 07:12 PM CT, Mar. 08 </p> 
