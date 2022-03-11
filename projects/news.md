@@ -9,20 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:31 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 08:59 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russian Forces Press Ukrainian Defenses on Multiple Fronts</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. President Biden will call for suspending normal trade relations with Russia. 
+ <p class="updated_time"> 08:55 AM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60711653?at_medium=RSS&at_campaign=KARANGA">India accidentally fires missile into Pakistan</a> BBC: Delhi blames a "technical malfunction" for the incident, which it called "deeply regrettable". 
+ <p class="updated_time"> 08:53 AM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60709208?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Instagram banned in Russia over 'calls to violence'</a> BBC: Instagram owner Meta has allowed users in some countries to call for violence against Russia's army. 
+ <p class="updated_time"> 08:45 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Bill</a> NYT: The measure, which is expected to be signed into law by Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
+ <p class="updated_time"> 08:41 AM CT, Mar. 11 </p> 
+ <a href="https://www.npr.org/2022/03/11/1086001579/a-ukrainian-boy-travels-620-miles-to-safety-with-a-phone-number-written-on-his-h">A Ukrainian boy travels 620 miles to safety, with a phone number written on his hand</a> NPR: An 11-year-old named Hassan traveled alone into Slovakia, with a plastic bag, a passport and a phone number for relatives. His mother had sent him to safety, unable to leave herself. 
+ <p class="updated_time"> 08:38 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
  <p class="updated_time"> 08:22 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60709952?at_medium=RSS&at_campaign=KARANGA">Mystery drone from Ukraine war crashes in Croatia</a> BBC: Experts believe a drone that crashed in Zagreb was a Soviet-era type used by the Ukrainian military. 
  <p class="updated_time"> 08:07 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is moving toward protecting the most vulnerable rather than trying to prevent all transmission of the virus. 
+ <p class="updated_time"> 08:05 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian Airstrikes Intensify in Western Ukraine</a> WSJ: Russian Airstrikes Intensify in Western Ukraine 
  <p class="updated_time"> 08:05 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">At 101, and After 36 Years as Mayor, ‘Hurricane Hazel’ Is Still a Force in Canada</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
  <p class="updated_time"> 08:02 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
  <p class="updated_time"> 07:41 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/climate-changes-threat-to-the-glorious-redwood-both-here-and-afar.html">Climate Change’s Threat to the Glorious Redwood, Both Here and Afar</a> NYT: In 1936, foresters planted California redwoods in Victoria. How long will they grow in peace? 
- <p class="updated_time"> 07:36 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian Airstrikes Intensify in Western Ukraine</a> WSJ: Russian Airstrikes Intensify in Western Ukraine 
  <p class="updated_time"> 07:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/uk-sarah-everard-protest-court.html">U.K. Court Rules Police Violated Rights of  Everard Vigil Organizers </a> NYT: The judgment comes at a particularly fraught time for London’s Metropolitan Police Service, and as Parliament considers a law that would broaden police powers to clamp down on protests. 
  <p class="updated_time"> 07:32 AM CT, Mar. 11 </p> 
@@ -31,30 +41,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">U.S. Fights Bioweapons Conspiracy Theory Pushed by Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
  <p class="updated_time"> 07:21 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710815?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky says Ukraine 'on the way to victory'</a> BBC: Ukraine's president says "it's not possible to say how many more days it will take", but his country will defeat Russia. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-invasion-dashes-u-s-banks-russia-hopes-11646999214">Ukraine War Dashes U.S. Banks’ Russia Hopes</a> WSJ: Ukraine War Dashes U.S. Banks’ Russia Hopes 
  <p class="updated_time"> 07:03 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60705486?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin seeks foreign volunteers to fight in Ukraine</a> BBC: "We need to give them what they want and help them get to the conflict zone," the Russian leader said. 
- <p class="updated_time"> 06:36 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-invasion-dashes-u-s-banks-russia-hopes-11646999214">Ukraine War Dashes U.S. Banks’ Russia Hopes</a> WSJ: Ukraine War Dashes U.S. Banks’ Russia Hopes 
  <p class="updated_time"> 06:06 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/india-elections-yogi-adityanath.html">Yogi Adityanath’s Election Win Raises His Profile Across India</a> NYT: Yogi Adityanath’s return as chief minister of Uttar Pradesh is fueling talk that he might succeed Narendra Modi as prime minister one day, and continue to advance their Hindu political movement. 
+ <p class="updated_time"> 06:05 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 05:48 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/zachary-rolfe-kumanjayi-walker.html">Zachary Rolfe Acquitted of Murder of Kumanjayi Walker in Australia</a> NYT: Many Indigenous Australians had seen the case as a test of whether the authorities could be held accountable after what they call decades of abuses. 
  <p class="updated_time"> 05:44 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/covid-india-maharashtra-deaths.html">Indian State That Covid Hit Hard Is Now Recording Sharply Lower Deaths</a> NYT: The western state of Maharashtra on Wednesday reported no daily fatalities from the virus for the third time this month. 
  <p class="updated_time"> 05:41 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60571133?at_medium=RSS&at_campaign=KARANGA">Which companies are pulling out of Russia?</a> BBC: Reputational risk and practical difficulties means the exodus of firms is growing but some remain. 
- <p class="updated_time"> 05:36 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 05:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
+ <p class="updated_time"> 05:05 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-weighs-tapping-loyalist-as-next-economic-czar-11646996402">Xi Weighs Tapping Loyalist as China’s Next Economic Czar</a> WSJ: Xi Weighs Tapping Loyalist as China’s Next Economic Czar 
  <p class="updated_time"> 04:56 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/economy/imf-global-outlook-ukraine-war.html">IMF Warns Ukraine-Russia War Will Likely Slow Global Growth</a> NYT: The economic fallout from Russia’s invasion will depend on the outcome of the war and the duration of the sanctions. 
  <p class="updated_time"> 04:54 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html">Lockdowns Spread in China as Covid Cases Surge in Shanghai and Other Areas</a> NYT: Officials say that most of the recent cases are in people with no symptoms, but they are warning against complacency. 
  <p class="updated_time"> 04:38 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085985036/china-locks-down-city-of-9-million-amid-new-spike-in-cases">China locks down a city of 9 million amid a new spike in COVID-19 cases</a> NPR: The latest lockdowns extend China's draconian approach to the pandemic it has enforced for most of the past two years 
- <p class="updated_time"> 04:36 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-weighs-tapping-loyalist-as-next-economic-czar-11646996402">Xi Weighs Tapping Loyalist as China’s Next Economic Czar</a> WSJ: Xi Weighs Tapping Loyalist as China’s Next Economic Czar 
  <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60706861?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Destruction in wake of first strikes on Dnipro</a> BBC: A shoe factory and a nursery are among the buildings said to have been hit. 
  <p class="updated_time"> 04:13 AM CT, Mar. 11 </p> 
@@ -63,26 +73,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1085427380/ukraine-nuclear-power-plant-zaporizhzhia">Video analysis reveals Russian attack on Ukrainian nuclear plant veered near disaster</a> NPR: An NPR analysis of security footage and photos following the attack on Europe's largest nuclear power plant shows that many of the plant's critical safety systems were in the field of Russian fire. 
  <p class="updated_time"> 04:05 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
+ <p class="updated_time"> 04:05 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 04:01 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085548867/belarus-ukraine-russia-invasion-lukashenko-putin">Why Belarus is so involved in Russia's invasion of Ukraine</a> NPR: Although Belarus is not directly involved in combat in Ukraine, it does play a key role in Russia's war. Here's what to know. 
- <p class="updated_time"> 03:36 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
+ <p class="updated_time"> 03:00 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/under-new-scrutiny-chinas-nuclear-pledge-to-ukraine-11647007200">Under New Scrutiny: China's Nuclear Pledge to Ukraine</a> WSJ: Beijing’s 2013 promise to protect Ukraine in a nuclear attack appears to now further muddy its stance on Russia’s invasion. 
  <p class="updated_time"> 02:40 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60702464?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Large Russian convoy redeploys near Kyiv - satellite images</a> BBC: Images of the convoy's redeployment appear to signal a renewed push towards the Ukrainian capital. 
  <p class="updated_time"> 02:30 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085978647/russian-strikes-hit-western-ukraine-as-offensive-widens">Russian strikes hit western Ukraine as offensive widens</a> NPR: The strikes on Friday came as new satellite photos appeared to show a massive convoy outside the Ukrainian capital had fanned out into towns and forests near Kyiv. 
  <p class="updated_time"> 02:21 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ireland-church-female-saint-brigid.html">As Ireland’s Church Retreats, the Cult of a Female Saint Thrives</a> NYT: The cult of Saint Brigid, with its emphasis on nature and healing, and its shift away from the patriarchal faith of traditional Catholicism in Ireland, is attracting people from around the world. 
- <p class="updated_time"> 01:50 AM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/technology-60702619?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Facebook to allow calls for violence against Putin</a> BBC: In response, Russia has called on the US to stop the "extremist activities" of parent company Meta. 
  <p class="updated_time"> 12:43 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
  <p class="updated_time"> 12:42 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-60601088?at_medium=RSS&at_campaign=KARANGA">Abuse apology: ‘It was a nightmare in that place’</a> BBC: Jimmy Stewart is one of hundreds of survivors of abuse at children's institutions in Northern Ireland. 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/biden-russia-suspend-trade-relations.html">Biden Will Call for Suspending Normal Trade Relations With Russia</a> NYT: The move, expected to be joined by the G7 and the European Union, would result in higher tariffs on Russian products being sent to the United States. 
- <p class="updated_time"> 09:52 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
  <p class="updated_time"> 08:40 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/middleeast/isis-new-leader.html">ISIS Names a New Leader, but Says Little About Him</a> NYT: The terrorist group announced its new leader as Abu al-Hasan al-Hashimi al-Qurashi, but gave no information about his background or true identity. 
  <p class="updated_time"> 08:09 PM CT, Mar. 10 </p> 
@@ -143,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship. 
  <p class="updated_time"> 12:29 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/chernihiv-russia-troops.html">Russian Forces Have Encircled Northern Ukraine City of Chernihiv, The Mayor Says</a> NYT: Ukrainian forces are battling to keep some roads open, as Russia tightens its cordon around the battered city. “We are surrounded,” the mayor said. 
- <p class="updated_time"> 12:26 PM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085699224/thousands-of-russians-have-fled-afraid-a-new-iron-curtain-will-fall">Thousands of Russians have fled, afraid a new Iron Curtain will fall</a> NPR: New Yorker staff writer Masha Gessen says there's been an exodus from Russia in the last week and a half: "It's a sudden and drastic descent into a sense of having no country." 
  <p class="updated_time"> 12:15 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/evgeny-maslin-dead.html">Evgeny Maslin, Russian General Who Secured Nuclear Arsenal, Dies at 84</a> NYT: He persuaded Ukraine and other post-Soviet states to give up their weapons, then worked with the U.S. to safeguard and dismantle thousands of them. 
  <p class="updated_time"> 12:01 PM CT, Mar. 10 </p> 
@@ -169,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html">4 Falsehoods Russians Are Told About the War</a> NYT: Russia’s disinformation machine is working in overdrive inside its own borders. 
  <p class="updated_time"> 08:06 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/middleeast/israel-isaac-herzog-turkey-visit.html">Israel’s President Visits Turkey in Sign of Thawing Relations</a> NYT: In their highest-level meeting in 14 years, Israel and Turkey sought to rekindle an alliance after years of turbulence. 
- <p class="updated_time"> 06:14 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime, and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine, how could Putin or senior officers be brought to justice? 
  <p class="updated_time"> 06:11 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60688640?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Family drags grandmother to safety from Bucha</a> BBC: When his neighbour's house was hit by a tank, Dmytro decided to get out of the town of Bucha fast. 
  <p class="updated_time"> 04:36 AM CT, Mar. 10 </p> 
@@ -183,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/world/asia/south-korea-election-yoon-suk-yeol.html">Yoon Suk-yeol Wins South Korean Presidency</a> NYT: As a prosecutor, he went after former presidents. Now voter discontent has helped him take the presidency in the tightest race since 1987. 
  <p class="updated_time"> 09:33 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-cease-fire-talks.html">Subtle Shifts Raise Hopes for a Cease-fire in Ukraine</a> NYT: Both Russia and Ukraine appear to have softened their stance, with the Kremlin signaling a retreat on regime change and Kyiv expressing flexibility on NATO membership. But the two sides remain far apart. 
- <p class="updated_time"> 09:08 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Law</a> NYT: The measure, which is expected to be signed into law by Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
  <p class="updated_time"> 08:44 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-family-perebyinis-kyiv.html">A Family’s Dash Toward Safety in Ukraine Ends Tragically</a> NYT: Tetiana Perebyinis and her two children were killed trying to dash to safety, a moment captured by our photographer. Her husband describes their lives, and their final hours. 
  <p class="updated_time"> 08:42 PM CT, Mar. 09 </p> 
@@ -244,8 +246,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/10/biden-dnc-midterms-democrats-00016405">Dems see midterm hope in Biden bounce</a> Politico: With the president's poll numbers ticking up in recent days, even skeptical Democrats are feeling optimistic that a Biden rebound might last — and that the party’s midterm losses might not be so severe. 
  <p class="updated_time"> 08:08 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/michael-flynn-jan-6-committee.html">Michael Flynn Invokes Fifth Amendment Before Jan. 6 Panel</a> NYT: The Trump ally and former national security adviser is the latest high-profile witness to sidestep questions from the House committee by citing the right against self-incrimination. 
- <p class="updated_time"> 08:05 PM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/flynn-jan-6-select-committee-pleads-the-fifth-00016401">Flynn appears before Jan. 6 select committee but pleads the Fifth</a> Politico: The former Trump national security adviser became an advocate for some of the most draconian and extreme options concerning the 2020 election. 
  <p class="updated_time"> 08:01 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/jussie-smollett-jail-00016402">Jussie Smollett sentenced to 150 days in jail in fake attack</a> Politico: Smollett was also ordered to pay $120,106 in restitution. 
  <p class="updated_time"> 07:48 PM CT, Mar. 10 </p> 
