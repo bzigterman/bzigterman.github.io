@@ -9,24 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:50 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Encircle Some Cities as Diplomacy Falters</a> NYT: The Russian side insisted on President Vladimir V. Putin’s original demands from the start of the war, dousing hopes of any immediate cease-fire. In besieged cities, civilians struggled without food, water or heat. 
- <p class="updated_time"> 08:50 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 09:32 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Encircle Some Cities as Diplomacy Falters</a> NYT: The failure of talks between Russia and Ukraine in Turkey doused hopes for an immediate cease-fire. The United States plans to suspend normal trade relations with Russia. 
+ <p class="updated_time"> 09:22 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
+ <p class="updated_time"> 08:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 08:40 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/middleeast/isis-new-leader.html">ISIS Names a New Leader, but Says Little About Him</a> NYT: The terrorist group announced its new leader as Abu al-Hasan al-Hashimi al-Qurashi, but gave no information about his background or true identity. 
  <p class="updated_time"> 08:09 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60702463?at_medium=RSS&at_campaign=KARANGA">North Korea recently tested intercontinental missile system: US</a> BBC: The US says the two recent tests were a 'serious escalation' and vows to further sanction N Korea. 
- <p class="updated_time"> 08:00 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 07:58 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60695975?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett sentenced to 150 days in jail in attack hoax case</a> BBC: A Chicago judge told Jussie Smollett that he has "turned his life upside down" with the hoax. 
  <p class="updated_time"> 07:48 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/north-korea-intercontinental-missile.html">U.S. Says North Korea Is Testing a New Intercontinental Missile</a> NYT: The missile, first displayed in 2020, was tested twice in recent days. While it is unclear whether it can reach the U.S., it poses a new military challenge to President Biden in the midst of the Ukraine war. 
- <p class="updated_time"> 07:00 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 07:42 PM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 06:52 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60571133?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Growing numbers of firms pull back from Russia</a> BBC: Reputational risk and practical difficulties are making it harder to do business in the country. 
+ <p class="updated_time"> 06:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
  <p class="updated_time"> 06:35 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
  <p class="updated_time"> 06:24 PM CT, Mar. 10 </p> 
@@ -37,8 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60696603?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Foreign fighters go to join defence</a> BBC: Nearly 20,000 international volunteers have signed up to fight alongside Ukrainian forces, officials say. 
  <p class="updated_time"> 06:01 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60667515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'I have 20 children here, please send help'</a> BBC: Tens of thousands of children in Ukrainian state care are in desperate need to get out of the country. 
- <p class="updated_time"> 06:00 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
+ <p class="updated_time"> 05:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 05:18 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085903957/inflation-reached-a-new-40-year-high-even-before-the-big-spike-in-gas-prices">Inflation reached a new 40-year high — even before the big spike in gas prices</a> NPR: Annual inflation rose to a four-decade high in February, as consumer prices were up 7.9% from a year ago. That does not include most of the spike in gas prices tied to Russia's invasion of Ukraine. 
  <p class="updated_time"> 05:16 PM CT, Mar. 10 </p> 
@@ -53,10 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html">These Small, Cheap Devices Help Monitor Haiti’s Earthquakes</a> NYT: When conventional seismometers in Haiti failed before the 2010 quake, less sophisticated devices operated by citizen scientists helped seismic researchers fill in the blanks. 
  <p class="updated_time"> 05:05 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/stellantis-cars-russia.html">Stellantis Stops Car Shipments to and From Russia</a> NYT: The automaker has been making delivery vans in Russia, but its chief has said production is likely to halt because of a lack of parts. 
- <p class="updated_time"> 05:00 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 04:47 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60699588?at_medium=RSS&at_campaign=KARANGA">Watch: Our correspondent on the front line, with Ukraine’s troops</a> BBC: The BBC spent a week with Ukrainian forces in Kharkiv as they fight to stop a further Russian advance. 
+ <p class="updated_time"> 04:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 04:26 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/travel/poland-ukraine-refugees.html"> Poland’s Tourism Industry Is Helping Ukrainian Refugees</a> NYT: As Ukrainians flood into Poland, the travel industry has become part of an effort to supply transportation, accommodations and more to people fleeing the Russian invasion. 
  <p class="updated_time"> 04:20 PM CT, Mar. 10 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085838486/levi-s-pulling-out-of-russia-reminds-people-of-the-country-s-jean-smuggler-era">Levi's pulling out of Russia reminds people of the country's jean smuggler era</a> NPR: With over a hundred businesses cutting ties with Russia, one company in particular, Levi's, is reminding people of a time in Russian history when Western jeans were a well sought after commodity. 
  <p class="updated_time"> 04:07 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/energy-environment/iraq-opec-oil-price.html">Iraqi Minister Says High Oil Prices Could Speed the Shift to E.V.s</a> NYT: Whatever the short-term benefits for producers, the market upheaval could accelerate the transition away from oil, he says. 
- <p class="updated_time"> 04:00 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 03:57 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html">As War Rages, a Struggle to Balance Energy Crunch and Climate Crisis</a> NYT: Rising oil prices and increased demand for expanded production come at a time when scientists say nations must sharply cut the use of fossil fuels. 
  <p class="updated_time"> 03:43 PM CT, Mar. 10 </p> 
@@ -206,8 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:50 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 10:03 PM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/biden-dnc-midterms-democrats-00016405">Dems see midterm hope in Biden bounce</a> Politico: With the president's poll numbers ticking up in recent days, even skeptical Democrats are feeling optimistic that a Biden rebound might last — and that the party’s midterm losses might not be so severe. 
+ <p class="updated_time"> 09:22 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
+ <p class="updated_time"> 09:19 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/senate-spending-bill-approved.html">Congress Clears $1.5 Trillion Spending Bill, Including Ukraine Aid</a> NYT: President Biden is expected to sign the measure, the first major spending bill since he took office. 
  <p class="updated_time"> 08:08 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/michael-flynn-jan-6-committee.html">Michael Flynn Invokes Fifth Amendment Before Jan. 6 Panel</a> NYT: The Trump ally and former national security adviser is the latest high-profile witness to sidestep questions from the House committee by citing the right against self-incrimination. 
  <p class="updated_time"> 08:05 PM CT, Mar. 10 </p> 
@@ -271,7 +275,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:15 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/biden-administration-extends-masks-for-travel-through-april-18-00016097">Biden administration extends travel mask mandate through April 18</a> Politico: The mask mandate goes hand-in-hand with the Federal Aviation Administration’s zero-tolerance policy. 
  <p class="updated_time"> 11:57 AM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/senate-spending-bill-vote-00016079">Senators clash as Congress labors to finish $1.5T spending bill</a> Politico: The chamber's leaders need the consent of all 100 senators to move forward quickly, and Republicans are demanding another amendment vote on vaccine mandates. 
+ <a href="https://www.politico.com/news/2022/03/10/senate-spending-bill-vote-00016079">Senate gives final OK to $1.5T government funding bill</a> Politico: The package finally cements the fresh budgets Democrats have sought since former President Donald Trump left office. 
  <p class="updated_time"> 11:11 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085739883/mask-mandate-planes-trains-ferries-tsa-cdc">TSA extends the travel mask mandate through April 18</a> NPR: The monthlong extension comes as the CDC said it would work on a "revised policy framework for when, and under what circumstances, masks should be required in the public transportation corridor." 
  <p class="updated_time"> 10:48 AM CT, Mar. 10 </p> 
@@ -324,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/us/politics/biden-pandemic-response-funding.html">Uncertainty for Biden’s Covid Plan After Aid Is Dropped From Spending Bill</a> NYT: The $15.6 billion emergency aid package was stripped amid disputes over how to pay for it, injecting uncertainty into the president’s pandemic response plan. 
  <p class="updated_time"> 08:29 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/judge-review-emails-jan-6.html">Judge Will Review Lawyer’s Emails Sought by Jan. 6 Panel</a> NYT: A federal judge said he would decide whether emails to and from John Eastman should be released to the House committee investigating the attack on the Capitol. 
- <p class="updated_time"> 06:05 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/democrats-gas-prices-putin.html">Democrats Find Their Inflation Villains: Vladimir Putin and Big Oil</a> NYT: With the U.S. battling high oil prices and facing a dangerous confrontation with Russia, the Democratic Party is coalescing around a new message for the midterms. 
  <p class="updated_time"> 05:59 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/kamala-harris-poland-ukraine-00015873">Kamala Harris finds herself center stage of the Ukraine crisis</a> Politico: The vice president arrives in Poland amid a worsening war and a disagreement over how to exchange fighter jets. It’s her toughest, biggest foreign policy stage yet. 
  <p class="updated_time"> 03:36 PM CT, Mar. 09 </p> 
