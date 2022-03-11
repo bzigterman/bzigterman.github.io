@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:19 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 08:31 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russian Forces Press Ukrainian Defenses on Multiple Fronts</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. President Biden will call for suspending normal trade relations with Russia. 
+ <p class="updated_time"> 08:22 AM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60709952?at_medium=RSS&at_campaign=KARANGA">Mystery drone from Ukraine war crashes in Croatia</a> BBC: Experts believe a drone that crashed in Zagreb was a Soviet-era type used by the Ukrainian military. 
  <p class="updated_time"> 08:07 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is moving toward protecting the most vulnerable rather than trying to prevent all transmission of the virus. 
  <p class="updated_time"> 08:05 AM CT, Mar. 11 </p> 
@@ -19,20 +21,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
  <p class="updated_time"> 07:41 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/climate-changes-threat-to-the-glorious-redwood-both-here-and-afar.html">Climate Change’s Threat to the Glorious Redwood, Both Here and Afar</a> NYT: In 1936, foresters planted California redwoods in Victoria. How long will they grow in peace? 
+ <p class="updated_time"> 07:36 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian Airstrikes Intensify in Western Ukraine</a> WSJ: Russian Airstrikes Intensify in Western Ukraine 
  <p class="updated_time"> 07:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/uk-sarah-everard-protest-court.html">U.K. Court Rules Police Violated Rights of  Everard Vigil Organizers </a> NYT: The judgment comes at a particularly fraught time for London’s Metropolitan Police Service, and as Parliament considers a law that would broaden police powers to clamp down on protests. 
  <p class="updated_time"> 07:32 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/iran-nuclear-talks-russia.html">Iran Nuclear Talks Paused Following Russian Demands to Ease Sanctions</a> NYT: A deal to revive the 2015 nuclear accord with Iran is “essentially ready,” a top E.U. official says, but has run into complications because of Russia’s war against Ukraine. 
  <p class="updated_time"> 07:29 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">U.S. Fights Bioweapons Conspiracy Theory Pushed by Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
- <p class="updated_time"> 07:23 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 07:21 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710815?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky says Ukraine 'on the way to victory'</a> BBC: Ukraine's president says "it's not possible to say how many more days it will take", but his country will defeat Russia. 
  <p class="updated_time"> 07:03 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60705486?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin seeks foreign volunteers to fight in Ukraine</a> BBC: "We need to give them what they want and help them get to the conflict zone," the Russian leader said. 
- <p class="updated_time"> 06:23 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
+ <p class="updated_time"> 06:36 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-invasion-dashes-u-s-banks-russia-hopes-11646999214">Ukraine War Dashes U.S. Banks’ Russia Hopes</a> WSJ: Ukraine War Dashes U.S. Banks’ Russia Hopes 
  <p class="updated_time"> 06:06 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/india-elections-yogi-adityanath.html">Yogi Adityanath’s Election Win Raises His Profile Across India</a> NYT: Yogi Adityanath’s return as chief minister of Uttar Pradesh is fueling talk that he might succeed Narendra Modi as prime minister one day, and continue to advance their Hindu political movement. 
  <p class="updated_time"> 05:48 AM CT, Mar. 11 </p> 
@@ -41,18 +43,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/asia/covid-india-maharashtra-deaths.html">Indian State That Covid Hit Hard Is Now Recording Sharply Lower Deaths</a> NYT: The western state of Maharashtra on Wednesday reported no daily fatalities from the virus for the third time this month. 
  <p class="updated_time"> 05:41 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60571133?at_medium=RSS&at_campaign=KARANGA">Which companies are pulling out of Russia?</a> BBC: Reputational risk and practical difficulties means the exodus of firms is growing but some remain. 
+ <p class="updated_time"> 05:36 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 05:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
- <p class="updated_time"> 05:23 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears 
  <p class="updated_time"> 04:56 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/economy/imf-global-outlook-ukraine-war.html">IMF Warns Ukraine-Russia War Will Likely Slow Global Growth</a> NYT: The economic fallout from Russia’s invasion will depend on the outcome of the war and the duration of the sanctions. 
  <p class="updated_time"> 04:54 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html">Lockdowns Spread in China as Covid Cases Surge in Shanghai and Other Areas</a> NYT: Officials say that most of the recent cases are in people with no symptoms, but they are warning against complacency. 
  <p class="updated_time"> 04:38 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085985036/china-locks-down-city-of-9-million-amid-new-spike-in-cases">China locks down a city of 9 million amid a new spike in COVID-19 cases</a> NPR: The latest lockdowns extend China's draconian approach to the pandemic it has enforced for most of the past two years 
- <p class="updated_time"> 04:23 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
+ <p class="updated_time"> 04:36 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-weighs-tapping-loyalist-as-next-economic-czar-11646996402">Xi Weighs Tapping Loyalist as China’s Next Economic Czar</a> WSJ: Xi Weighs Tapping Loyalist as China’s Next Economic Czar 
  <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60706861?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Destruction in wake of first strikes on Dnipro</a> BBC: A shoe factory and a nursery are among the buildings said to have been hit. 
  <p class="updated_time"> 04:13 AM CT, Mar. 11 </p> 
@@ -63,8 +65,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
  <p class="updated_time"> 04:01 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085548867/belarus-ukraine-russia-invasion-lukashenko-putin">Why Belarus is so involved in Russia's invasion of Ukraine</a> NPR: Although Belarus is not directly involved in combat in Ukraine, it does play a key role in Russia's war. Here's what to know. 
- <p class="updated_time"> 03:23 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
+ <p class="updated_time"> 03:36 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 02:40 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60702464?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Large Russian convoy redeploys near Kyiv - satellite images</a> BBC: Images of the convoy's redeployment appear to signal a renewed push towards the Ukrainian capital. 
  <p class="updated_time"> 02:30 AM CT, Mar. 11 </p> 
@@ -159,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60693166?at_medium=RSS&at_campaign=KARANGA">Ukraine war: On the front line of the battle for Kharkiv</a> BBC: Quentin Sommerville and cameraman Darren Conway are with Ukrainian forces fighting to stop the Russian advance on the country's second city. 
  <p class="updated_time"> 10:53 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60695465?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Images reveal scale of destruction in Mariupol</a> BBC: Photos and satellite images show the devastation caused to the southern Ukrainian city, which is encircled by Russian troops. 
- <p class="updated_time"> 10:36 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/europe-to-weigh-emergency-measures-to-limit-electricity-prices-11646948218">Europe to Weigh Emergency Measures to Limit Electricity Prices</a> WSJ: EU officials are under pressure to prepare for a winter without Russian gas as energy prices soar. 
  <p class="updated_time"> 09:57 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/arts/music/russia-music-canceled-concerts.html">Major Music Companies Pause Business in Russia</a> NYT: The three major record conglomerates and the touring giant Live Nation are suspending operations over Russia’s invasion of Ukraine, while individual artists have canceled tour dates. 
  <p class="updated_time"> 09:50 AM CT, Mar. 10 </p> 
