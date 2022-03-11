@@ -327,22 +327,30 @@ temps_past_year <- temp_history %>%
   mutate(period = "Past Year") %>%
   select(temp, period)%>%
   arrange(temp)
+temps_past_decade <- temp_history %>%
+  filter(central_time > now(tzone = "America/Chicago")-years(10)) %>%
+  mutate(period = "Past Decade") %>%
+  select(temp, period)%>%
+  arrange(temp)
 
 temps <- full_join(temps_past_hour,temps_today) %>%
   full_join(temps_yesterday) %>%
   full_join(temps_past_week) %>%
   full_join(temps_past_month) %>%
-  full_join(temps_past_year) 
+  full_join(temps_past_year) %>%
+  full_join(temps_past_decade)
 
-his_los <- tibble(period = c("Past Year","Past Month","Past Week",
+his_los <- tibble(period = c("Past Decade","Past Year","Past Month","Past Week",
                              "Yesterday","Today","Latest"),
-                  min = c(min(temps_past_year$temp),
+                  min = c(min(temps_past_decade$temp),
+                          min(temps_past_year$temp),
                           min(temps_past_month$temp),
                           min(temps_past_week$temp),
                           min(temps_yesterday$temp),
                           min(temps_today$temp),
                           as.numeric("NA")),
-                  max = c(max(temps_past_year$temp),
+                  max = c(max(temps_past_decade$temp),
+                          max(temps_past_year$temp),
                           max(temps_past_month$temp),
                           max(temps_past_week$temp),
                           max(temps_yesterday$temp),
@@ -352,30 +360,32 @@ his_los <- tibble(period = c("Past Year","Past Month","Past Week",
 his_los_longer <- pivot_longer(his_los, cols = c(min,max))
 
 ggplot(data = temps,
-       aes(x = period)) +
+       aes(x = period,
+           y = temp)) +
   geom_line(data = temps,
-            aes(color = temp,
-                y = temp),
+            aes(color = temp),
             size = 2) +
   geom_text(data = his_los,
             aes(x = period,
                 y = min,
                 label = round(min)),
-            nudge_y = -1) +
+            nudge_y = -2) +
   geom_text(data = his_los,
             aes(x = period,
                 y = max,
                 label = round(max)),
-            nudge_y = 1) +
+            nudge_y = 2) +
   geom_text(data = his_los,
             aes(x = period,
                 y = if_else( is.na(min),max, (min+max)/2),
                 label = period),
             #vjust =.5,
             angle = 90,
-            nudge_y = 1,
-            nudge_x = -.15) +
-  scale_x_discrete(limits = c("Past Year","Past Month","Past Week",
+            size = 3,
+            #nudge_y = 1,
+            nudge_x = -.2,
+            color = "grey60") +
+  scale_x_discrete(limits = c("Past Decade","Past Year","Past Month","Past Week",
                               "Yesterday","Today","Latest"),
                    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
@@ -389,7 +399,7 @@ ggplot(data = temps,
     axis.text.x = element_text(angle = 90),
     plot.background = element_rect(fill = "white", color = "white"),
     panel.grid = element_blank(),
-    plot.caption = element_text(color = "grey40")
+    plot.caption = element_text(color = "grey70")
   )
 
 ggsave("plots/temp_history.png", bg = "white",
@@ -405,21 +415,23 @@ ggplot(data = temps,
             aes(x = period,
                 y = min,
                 label = round(min)),
-            nudge_y = -1) +
+            nudge_y = -4) +
   geom_text(data = his_los,
             aes(x = period,
                 y = max,
                 label = round(max)),
-            nudge_y = 1) +
+            nudge_y = 4) +
   geom_text(data = his_los,
             aes(x = period,
                 y = if_else( is.na(min),max, (min+max)/2),
                 label = period),
             #vjust =.5,
             angle = 90,
-            nudge_y = 1,
-            nudge_x = -.25) +
-  scale_x_discrete(limits = c("Past Year","Past Month","Past Week",
+            size = 3,
+            #nudge_y = 1,
+            nudge_x = -.3,
+            color = "grey60") +
+  scale_x_discrete(limits = c("Past Decade","Past Year","Past Month","Past Week",
                               "Yesterday","Today","Latest"),
                    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
@@ -433,7 +445,7 @@ ggplot(data = temps,
     axis.text.x = element_text(angle = 90),
     plot.background = element_rect(fill = "white", color = "white"),
     panel.grid = element_blank(),
-    plot.caption = element_text(color = "grey40")
+    plot.caption = element_text(color = "grey70")
   )
 
 ggsave("plots/temp_history_mobile.png", bg = "white",
