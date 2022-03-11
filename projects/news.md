@@ -9,35 +9,47 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russia Strikes Cities Far From Front Lines</a> NYT: At least three cities in western and central Ukraine were hit. In besieged Mariupol, bodies are now being buried in trenches. President Biden will call for suspending normal trade relations with Russia. 
+ <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60706861?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Destruction in wake of first strikes on Dnipro</a> BBC: A shoe factory and a nursery are among the buildings said to have been hit. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60693800?at_medium=RSS&at_campaign=KARANGA">Yemen: Two women freed in US-Saudi special op</a> BBC: They had been captive since going to visit relatives in the capital, Sanaa, a Saudi official said. 
+ <p class="updated_time"> 04:12 AM CT, Mar. 11 </p> 
+ <a href="https://www.npr.org/2022/03/11/1085427380/ukraine-nuclear-power-plant-zaporizhzhia">Video analysis reveals Russian attack on Ukrainian nuclear plant veered near disaster</a> NPR: An NPR analysis of security footage and photos following the attack on Europe's largest nuclear power plant shows that many of the plant's critical safety systems were in the field of Russian fire. 
+ <p class="updated_time"> 04:05 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
+ <p class="updated_time"> 04:01 AM CT, Mar. 11 </p> 
+ <a href="https://www.npr.org/2022/03/11/1085548867/belarus-ukraine-russia-invasion-lukashenko-putin">Why Belarus is so involved in Russia's invasion of Ukraine</a> NPR: Although Belarus is not directly involved in combat in Ukraine, it does play a key role in Russia's war. Here's what to know. 
  <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">At 101, and After 36 Years as Mayor, ‘Hurricane Hazel’ Is Still a Force in Canada</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
- <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russia Strikes Cities Far From Front Lines</a> NYT: At least three cities in western and central Ukraine were hit. In besieged Mariupol, bodies are now being buried in trenches. President Biden will call for suspending normal trade relations with Russia. 
+ <p class="updated_time"> 03:57 AM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60705486?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin seeks foreign volunteers to fight in Ukraine</a> BBC: The Russian president says those who want to volunteer to fight alongside Russia should be allowed to. 
  <p class="updated_time"> 03:48 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60706789?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Huge fireball lights up night sky over Lutsk</a> BBC: According to eyewitness accounts from the area, a nearby airfield was hit by strikes. 
+ <p class="updated_time"> 03:29 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 03:09 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
- <p class="updated_time"> 03:04 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 02:50 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60571133?at_medium=RSS&at_campaign=KARANGA">Which companies are pulling out of Russia?</a> BBC: Reputational risk and practical difficulties means the exodus of firms is growing but some remain. 
  <p class="updated_time"> 02:40 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60702464?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Large Russian convoy redeploys near Kyiv - satellite images</a> BBC: Images of the convoy's redeployment appear to signal a renewed push towards the Ukrainian capital. 
  <p class="updated_time"> 02:30 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085978647/russian-strikes-hit-western-ukraine-as-offensive-widens">Russian strikes hit western Ukraine as offensive widens</a> NPR: The strikes on Friday came as new satellite photos appeared to show a massive convoy outside the Ukrainian capital had fanned out into towns and forests near Kyiv. 
+ <p class="updated_time"> 02:29 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 02:21 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ireland-church-female-saint-brigid.html">As Ireland’s Church Retreats, the Cult of a Female Saint Thrives</a> NYT: The cult of Saint Brigid, with its emphasis on nature and healing, and its shift away from the patriarchal faith of traditional Catholicism in Ireland, is attracting people from around the world. 
- <p class="updated_time"> 02:04 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 01:50 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60702619?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Facebook to allow calls for violence against Putin</a> BBC: In response, Russia has called on the US to stop the "extremist activities" of parent company Meta. 
- <p class="updated_time"> 01:04 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 01:29 AM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
  <p class="updated_time"> 12:43 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
- <p class="updated_time"> 12:04 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 12:29 AM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
- <p class="updated_time"> 11:04 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 11:29 PM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 11:00 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/africa/thomas-sankara-assassination-trial.html">Burkina Faso Awaits the Verdict in the Sankara Assassination Trial</a> NYT: Thirty-five years after the killing of President Thomas Sankara of Burkina Faso, his supporters hope for justice. But the full truth about the murder, including any foreign role, is elusive. 
@@ -51,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/world/middleeast/isis-new-leader.html">ISIS Names a New Leader, but Says Little About Him</a> NYT: The terrorist group announced its new leader as Abu al-Hasan al-Hashimi al-Qurashi, but gave no information about his background or true identity. 
  <p class="updated_time"> 08:09 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60702463?at_medium=RSS&at_campaign=KARANGA">North Korea recently tested intercontinental missile system: US</a> BBC: The US says the two recent tests were a 'serious escalation' and vows to further sanction N Korea. 
- <p class="updated_time"> 07:58 PM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60695975?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett sentenced to 150 days in jail in attack hoax case</a> BBC: A Chicago judge told Jussie Smollett that he has "turned his life upside down" with the hoax. 
  <p class="updated_time"> 07:48 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/north-korea-intercontinental-missile.html">U.S. Says North Korea Is Testing a New Intercontinental Missile</a> NYT: The missile, first displayed in 2020, was tested twice in recent days. While it is unclear whether it can reach the U.S., it poses a new military challenge to President Biden in the midst of the Ukraine war. 
  <p class="updated_time"> 06:24 PM CT, Mar. 10 </p> 
@@ -128,7 +138,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:10 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60689699?at_medium=RSS&at_campaign=KARANGA">Timbuktu manuscripts: Mali's ancient documents captured online</a> BBC: The thousands of manuscripts contain centuries of African writing on maths, medicine and more. 
  <p class="updated_time"> 11:04 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60693166?at_medium=RSS&at_campaign=KARANGA">On the front line: If Kharkiv falls, all of Ukraine falls</a> BBC: Quentin Sommerville and cameraman Darren Conway are with Ukrainian forces fighting to stop the Russian advance on the country's second city. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60693166?at_medium=RSS&at_campaign=KARANGA">Ukraine war: On the front line of the battle for Kharkiv</a> BBC: Quentin Sommerville and cameraman Darren Conway are with Ukrainian forces fighting to stop the Russian advance on the country's second city. 
  <p class="updated_time"> 10:53 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60695465?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Images reveal scale of destruction in Mariupol</a> BBC: Photos and satellite images show the devastation caused to the southern Ukrainian city, which is encircled by Russian troops. 
  <p class="updated_time"> 10:36 AM CT, Mar. 10 </p> 
@@ -143,16 +153,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html">4 Falsehoods Russians Are Told About the War</a> NYT: Russia’s disinformation machine is working in overdrive inside its own borders. 
  <p class="updated_time"> 08:06 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/middleeast/israel-isaac-herzog-turkey-visit.html">Israel’s President Visits Turkey in Sign of Thawing Relations</a> NYT: In their highest-level meeting in 14 years, Israel and Turkey sought to rekindle an alliance after years of turbulence. 
- <p class="updated_time"> 07:34 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085689687/roman-abramovich-chelsea">The U.K. sanctions Roman Abramovich, halting his plan to sell Chelsea Football Club</a> NPR: The Russian billionaire faces an asset freeze and travel ban, just a week after he announced plans to sell the club. The U.K. government aims to shield players and fans from the sanctions' impact. 
  <p class="updated_time"> 06:14 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime, and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine, how could Putin or senior officers be brought to justice? 
  <p class="updated_time"> 06:11 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60688640?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Family drags grandmother to safety from Bucha</a> BBC: When his neighbour's house was hit by a tank, Dmytro decided to get out of the town of Bucha fast. 
- <p class="updated_time"> 05:24 AM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
- <p class="updated_time"> 05:00 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085680648/south-koreans-vote-political-conservative-as-new-president">South Koreans vote political conservative as new president</a> NPR: The politically inexperienced Yoon Suk Yeol's pledge to get tough on North Korea could mark a sharp break with the outgoing liberal administration's policies. 
  <p class="updated_time"> 04:36 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/bts-live-concert-seoul.html">BTS Performs Live in Seoul for First Time in Over 2 Years</a> NYT: The K-pop group returned to the stage in South Korea on Thursday, although fans were not allowed to cheer, scream or sing along because of Covid restrictions. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
@@ -175,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-mariupol-siege.html">After a Week of Siege, Bloodied Mariupol Plans Mass Graves</a> NYT: Under a relentless Russian barrage, there is no heat or electricity, and people are boiling snow for water. A 6-year-old died of dehydration, the authorities said. 
  <p class="updated_time"> 07:13 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60677799?at_medium=RSS&at_campaign=KARANGA">Boda-Bodas - the enduring menace of Kenya's motorbike taxis</a> BBC: A video of a woman driver being assaulted by motorbike taxi riders sparks renewed calls for action. 
- <p class="updated_time"> 04:44 PM CT, Mar. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60635933?at_medium=RSS&at_campaign=KARANGA">Toddler tossed to safety from burning building</a> BBC: A father threw his son, 3, from the window of a burning building down to first responders. 
  <p class="updated_time"> 04:20 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/cluster-munitions-vacuum-bombs-russia-ukraine.html">Cluster Munitions and ‘Vacuum Bombs’: Russian Invasion Revives an Old Debate</a> NYT: Diplomats and talking heads have repeated longstanding fictions about battlefield weapons that critics argue are too cruel or too indiscriminate for use in warfare. 
  <p class="updated_time"> 03:19 PM CT, Mar. 09 </p> 
@@ -202,6 +204,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:31 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/house-gop-hagedorn-widow-seat-00016375">House GOP winces as Hagedorn's scandal-plagued widow eyes his empty seat</a> Politico: Jennifer Carnahan resigned from the Minnesota party chairmanship last year. Her late husband died last month, leaving his congressional seat open. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 11 </p> 
+ <a href="https://www.npr.org/2022/03/11/1085979669/biden-will-address-house-democrats-as-they-plot-midterm-strategy-in-philadelphia">Biden will address House Democrats as they plot midterm strategy in Philadelphia</a> NPR: President Biden on Friday speaks to House Democrats at their retreat in Philadelphia — as the party plans its message for the midterm elections. 
  <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/covid-stimulus-money-fight.html">Covid Stimulus Money Brings Clashes Within Cities and Counties</a> NYT: As communities across the United States receive pandemic relief money, fierce debates have erupted over priorities, and who has the power to set them. 
  <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
@@ -312,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/10/house-dems-retreat-omnibus-00015995">House Dems try to keep it sunny in Philadelphia</a> Politico: "We need to talk like real people," the caucus' campaign chief told reporters after yet another intraparty battle delayed its retreat. 
  <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/fed-up-inside-the-senates-banking-brawl-00015770">Fed up: Inside the Senate's banking brawl</a> Politico: Chair Sherrod Brown and his GOP counterpart, Pat Toomey, are locked in a staring contest over President Joe Biden's Federal Reserve picks. And it's captivating their colleagues. 
- <p class="updated_time"> 04:08 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085670196/soaring-gas-prices-have-biden-talking-up-the-importance-of-domestic-drilling">Soaring gas prices have Biden talking up the importance of domestic drilling</a> NPR: Russia's war on Ukraine and the resulting oil price spike have forced the Biden White House to consider all kinds of measures for fossil fuel that it once would have shunned. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/redistricting-congressional-maps-elections.html">Why Redistricting May Lead to a More Balanced U.S. Congress</a> NYT: This year’s congressional map, despite continued gerrymandering, is poised to have a nearly equal number of districts that lean Democratic and Republican. 
  <p class="updated_time"> 11:32 PM CT, Mar. 09 </p> 
