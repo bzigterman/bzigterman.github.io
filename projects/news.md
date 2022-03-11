@@ -13,36 +13,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Encircle Some Cities as Diplomacy Falters</a> NYT: The failure of talks between Russia and Ukraine in Turkey doused hopes for an immediate cease-fire. The United States plans to suspend normal trade relations with Russia. 
  <p class="updated_time"> 12:43 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
- <p class="updated_time"> 11:50 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 12:02 AM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 11:38 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60702464?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Large Russian convoy redeploys near Kyiv - satellite images</a> BBC: The convoy has now largely dispersed, with artillery set up in firing positions, a US company says. 
+ <p class="updated_time"> 11:02 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 11:00 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/africa/thomas-sankara-assassination-trial.html">Burkina Faso Awaits the Verdict in the Sankara Assassination Trial</a> NYT: Thirty-five years after the killing of President Thomas Sankara of Burkina Faso, his supporters hope for justice. But the full truth about the murder, including any foreign role, is elusive. 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/biden-russia-suspend-trade-relations.html">Biden Will Call for Suspending Normal Trade Relations With Russia</a> NYT: The move, expected to be joined by the G7 and the European Union, would result in higher tariffs on Russian products being sent to the United States. 
- <p class="updated_time"> 10:50 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
+ <p class="updated_time"> 10:02 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
  <p class="updated_time"> 09:58 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
  <p class="updated_time"> 09:52 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
- <p class="updated_time"> 09:50 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
  <p class="updated_time"> 09:44 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/climate-changes-threat-to-the-glorious-redwood-both-here-and-afar.html">Climate Change’s Threat to the Glorious Redwood, Both Here and Afar</a> NYT: In 1936, foresters planted California redwoods in Victoria. How long will they grow in peace? 
  <p class="updated_time"> 09:05 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60702619?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Facebook to allow calls for violence against Putin</a> BBC: Meta, the owner of Facebook and Instagram, will temporarily make allowances for some violent speech. 
- <p class="updated_time"> 08:50 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 09:02 PM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 08:40 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/middleeast/isis-new-leader.html">ISIS Names a New Leader, but Says Little About Him</a> NYT: The terrorist group announced its new leader as Abu al-Hasan al-Hashimi al-Qurashi, but gave no information about his background or true identity. 
  <p class="updated_time"> 08:09 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60702463?at_medium=RSS&at_campaign=KARANGA">North Korea recently tested intercontinental missile system: US</a> BBC: The US says the two recent tests were a 'serious escalation' and vows to further sanction N Korea. 
+ <p class="updated_time"> 08:02 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 07:58 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60695975?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett sentenced to 150 days in jail in attack hoax case</a> BBC: A Chicago judge told Jussie Smollett that he has "turned his life upside down" with the hoax. 
- <p class="updated_time"> 07:50 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 07:48 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/north-korea-intercontinental-missile.html">U.S. Says North Korea Is Testing a New Intercontinental Missile</a> NYT: The missile, first displayed in 2020, was tested twice in recent days. While it is unclear whether it can reach the U.S., it poses a new military challenge to President Biden in the midst of the Ukraine war. 
  <p class="updated_time"> 06:52 PM CT, Mar. 10 </p> 
@@ -151,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085677908/high-level-talks-between-russia-and-ukraine-begin">High-level talks between Russia and Ukraine end with no breakthrough</a> NPR: The meeting in Turkey is the highest-level talks between the two countries since Russia invaded Ukraine in February. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/election-china.html">Australia Asks: How Far Is Too Far in Making China a Campaign Weapon?</a> NYT: Australia’s conservative government has claimed, without evidence, that the political opposition would cozy up to Beijing. To many, it has crossed a red line. 
- <p class="updated_time"> 03:12 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60689562?at_medium=RSS&at_campaign=KARANGA">Unexploded bomb defused in Ukraine</a> BBC: An unexploded 500kg (1102lb) bomb was discovered in Chernihiv in northern Ukraine. 
  <p class="updated_time"> 02:40 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-60676092?at_medium=RSS&at_campaign=KARANGA">The man accused of being a death-faking US fugitive </a> BBC: The bizarre case of a man arrested in a Glasgow hospital accused by the US of being a fugitive. 
  <p class="updated_time"> 12:31 AM CT, Mar. 10 </p> 
@@ -175,6 +173,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60677799?at_medium=RSS&at_campaign=KARANGA">Boda-Bodas - the enduring menace of Kenya's motorbike taxis</a> BBC: A video of a woman driver being assaulted by motorbike taxi riders sparks renewed calls for action. 
  <p class="updated_time"> 06:57 PM CT, Mar. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60679175?at_medium=RSS&at_campaign=KARANGA">Israel's Bennett plays peacemaker in Ukraine-Russia war</a> BBC: Prime Minister Naftali Bennett is an unlikely mediator between Kyiv and Moscow, Tom Bateman says. 
+ <p class="updated_time"> 04:44 PM CT, Mar. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60635933?at_medium=RSS&at_campaign=KARANGA">Toddler tossed to safety from burning building</a> BBC: A father threw his son, 3, from the window of a burning building down to first responders. 
  <p class="updated_time"> 04:20 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/cluster-munitions-vacuum-bombs-russia-ukraine.html">Cluster Munitions and ‘Vacuum Bombs’: Russian Invasion Revives an Old Debate</a> NYT: Diplomats and talking heads have repeated longstanding fictions about battlefield weapons that critics argue are too cruel or too indiscriminate for use in warfare. 
  <p class="updated_time"> 03:19 PM CT, Mar. 09 </p> 
