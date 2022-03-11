@@ -9,8 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:54 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 10:23 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Ukraine Updates: Biden Moves to Suspend Normal Trade With Russia</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. 
+ <p class="updated_time"> 10:17 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/asia/hong-kong-hospitals-covid-bodies.html">Overwhelmed Hong Kong Hospitals Keep Dead Near Covid Patients </a> NYT: For several weeks, bodies have been piling up at hospitals because the city’s public mortuaries, which can take up to 3,000 bodies, are full. 
+ <p class="updated_time"> 10:12 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html">These Small, Cheap Devices Help Monitor Haiti’s Earthquakes</a> NYT: When conventional seismometers in Haiti failed before the 2010 quake, less sophisticated devices operated by citizen scientists helped seismic researchers fill in the blanks. 
+ <p class="updated_time"> 10:10 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">At 101, and After 36 Years as Mayor, ‘Hurricane Hazel’ Is Still a Force in Canada</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
+ <p class="updated_time"> 10:06 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/sports/olympics/china-paralympics-disabled-access.html">Disabled Chinese Fight for Equal Rights Despite Paralympic Glory</a> NYT: Outside the Games, people with disabilities in China face discrimination and a lack of opportunities. “I’ve been struggling to survive,” said one former Paralympian. 
+ <p class="updated_time"> 10:03 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The United States will join Europe and other allies in stripping Russia of permanent normal trade relations and take other actions to limit Russian imports and ban luxury exports to the country. 
  <p class="updated_time"> 09:45 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is shifting from trying to prevent all transmission of the virus toward protecting those most vulnerable. “There will inevitably be a level of virus within the community going forward,” the health minister said. 
  <p class="updated_time"> 09:39 AM CT, Mar. 11 </p> 
@@ -19,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden moves to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
  <p class="updated_time"> 09:29 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
+ <p class="updated_time"> 09:26 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian Airstrikes Intensify in Western Ukraine</a> WSJ: Russian Airstrikes Intensify in Western Ukraine 
  <p class="updated_time"> 09:26 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/uk-sarah-everard-protest-court.html">Leaders of Sarah Everard Vigil Had Rights Violated by Police, Court Rules</a> NYT: The judgment comes at a particularly fraught time for London’s Metropolitan Police Service, and as Parliament considers a law that would broaden police powers to clamp down on protests. 
  <p class="updated_time"> 09:25 AM CT, Mar. 11 </p> 
@@ -31,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">What sanctions are being imposed on Russia over Ukraine invasion?</a> BBC: Western nations have imposed severe sanctions on Russia over its invasion of Ukraine. 
  <p class="updated_time"> 09:07 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60709208?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Instagram banned in Russia over 'calls to violence'</a> BBC: Instagram owner Meta has allowed users in some countries to call for violence against Russia's army. 
- <p class="updated_time"> 08:56 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian Airstrikes Intensify in Western Ukraine</a> WSJ: Russian Airstrikes Intensify in Western Ukraine 
  <p class="updated_time"> 08:55 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60711653?at_medium=RSS&at_campaign=KARANGA">India accidentally fires missile into Pakistan</a> BBC: Delhi blames a "technical malfunction" for the incident, which it called "deeply regrettable". 
  <p class="updated_time"> 08:45 AM CT, Mar. 11 </p> 
@@ -41,26 +51,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086001579/11-year-old-ukrainian-boy">A Ukrainian boy travels 620 miles to safety, with a phone number written on his hand</a> NPR: An 11-year-old named Hassan traveled alone into Slovakia, with a plastic bag, a passport and a phone number for relatives. His mother had sent him to safety, unable to leave herself. 
  <p class="updated_time"> 08:38 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
+ <p class="updated_time"> 08:26 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-invasion-dashes-u-s-banks-russia-hopes-11646999214">Ukraine War Dashes U.S. Banks’ Russia Hopes</a> WSJ: Ukraine War Dashes U.S. Banks’ Russia Hopes 
  <p class="updated_time"> 08:22 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60709952?at_medium=RSS&at_campaign=KARANGA">Mystery drone from Ukraine war crashes in Croatia</a> BBC: Experts believe a drone that crashed in Zagreb was a Soviet-era type used by the Ukrainian military. 
- <p class="updated_time"> 08:05 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">At 101, and After 36 Years as Mayor, ‘Hurricane Hazel’ Is Still a Force in Canada</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
- <p class="updated_time"> 07:56 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-invasion-dashes-u-s-banks-russia-hopes-11646999214">Ukraine War Dashes U.S. Banks’ Russia Hopes</a> WSJ: Ukraine War Dashes U.S. Banks’ Russia Hopes 
  <p class="updated_time"> 07:41 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/climate-changes-threat-to-the-glorious-redwood-both-here-and-afar.html">Climate Change’s Threat to the Glorious Redwood, Both Here and Afar</a> NYT: In 1936, foresters planted California redwoods in Victoria. How long will they grow in peace? 
  <p class="updated_time"> 07:32 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/iran-nuclear-talks-russia.html">Iran Nuclear Talks Paused Following Russian Demands to Ease Sanctions</a> NYT: A deal to revive the 2015 nuclear accord with Iran is “essentially ready,” a top E.U. official says, but has run into complications because of Russia’s war against Ukraine. 
  <p class="updated_time"> 07:29 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">U.S. Fights Bioweapons Conspiracy Theory Pushed by Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
+ <p class="updated_time"> 07:26 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 07:21 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710815?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky says Ukraine on the way to victory</a> BBC: Ukraine's president says "it's not possible to say how many more days it will take", but his country will defeat Russia. 
- <p class="updated_time"> 06:56 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
+ <p class="updated_time"> 06:26 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 06:06 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/india-elections-yogi-adityanath.html">Yogi Adityanath’s Election Win Raises His Profile Across India</a> NYT: Yogi Adityanath’s return as chief minister of Uttar Pradesh is fueling talk that he might succeed Narendra Modi as prime minister one day, and continue to advance their Hindu political movement. 
- <p class="updated_time"> 05:56 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-weighs-tapping-loyalist-as-next-economic-czar-11646996402">Xi Weighs Tapping Loyalist as China’s Next Economic Czar</a> WSJ: Xi Weighs Tapping Loyalist as China’s Next Economic Czar 
  <p class="updated_time"> 05:48 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/zachary-rolfe-kumanjayi-walker.html">Zachary Rolfe Acquitted of Murder of Kumanjayi Walker in Australia</a> NYT: Many Indigenous Australians had seen the case as a test of whether the authorities could be held accountable after what they call decades of abuses. 
  <p class="updated_time"> 05:44 AM CT, Mar. 11 </p> 
@@ -69,10 +77,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60571133?at_medium=RSS&at_campaign=KARANGA">Which companies are pulling out of Russia?</a> BBC: Reputational risk and practical difficulties means the exodus of firms is growing but some remain. 
  <p class="updated_time"> 05:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
+ <p class="updated_time"> 05:26 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-weighs-tapping-loyalist-as-next-economic-czar-11646996402">Xi Weighs Tapping Loyalist as China’s Next Economic Czar</a> WSJ: Xi Weighs Tapping Loyalist as China’s Next Economic Czar 
  <p class="updated_time"> 04:56 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/economy/imf-global-outlook-ukraine-war.html">IMF Warns Ukraine-Russia War Will Likely Slow Global Growth</a> NYT: The economic fallout from Russia’s invasion will depend on the outcome of the war and the duration of the sanctions. 
- <p class="updated_time"> 04:56 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 04:38 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085985036/china-locks-down-city-of-9-million-amid-new-spike-in-cases">China locks down a city of 9 million amid a new spike in COVID-19 cases</a> NPR: The latest lockdowns extend China's draconian approach to the pandemic it has enforced for most of the past two years 
  <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
@@ -117,12 +125,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085903957/inflation-reached-a-new-40-year-high-even-before-the-big-spike-in-gas-prices">Inflation reached a new 40-year high — even before the big spike in gas prices</a> NPR: Annual inflation rose to a four-decade high in February, as consumer prices were up 7.9% from a year ago. That does not include most of the spike in gas prices tied to Russia's invasion of Ukraine. 
  <p class="updated_time"> 05:16 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/governors-federal-public-health-emergency.html">Thirteen Governors Want the Public Health Emergency Extended Beyond April</a> NYT: In a letter to the U.S. health secretary, the governors, all Democrats, said they needed more time to prepare for when the emergency expires, taking with it federal resources that state programs depend on. 
- <p class="updated_time"> 05:14 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/who-new-covid-cases-americas.html">Most of This Year’s New Virus Cases Were in the Americas, W.H.O. Officials Say</a> NYT: Countries in the region should keep public health measures in place, W.H.O. officials warned. 
  <p class="updated_time"> 05:08 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/andrezj-duda-poland-ukraine-fighter-jets.html">Harris, in Poland, Seeks to Present United Front Against Russia</a> NYT: Vice President Kamala Harris visited Warsaw a day after U.S. officials said they were blindsided by Poland’s offer to provide jet fighters to Ukraine. Washington rejected it, fearing it could escalate the conflict. 
- <p class="updated_time"> 05:05 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html">These Small, Cheap Devices Help Monitor Haiti’s Earthquakes</a> NYT: When conventional seismometers in Haiti failed before the 2010 quake, less sophisticated devices operated by citizen scientists helped seismic researchers fill in the blanks. 
  <p class="updated_time"> 05:05 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/stellantis-cars-russia.html">Stellantis Stops Car Shipments to and From Russia</a> NYT: The automaker has been making delivery vans in Russia, but its chief has said production is likely to halt because of a lack of parts. 
  <p class="updated_time"> 04:47 PM CT, Mar. 10 </p> 
@@ -183,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/world/australia/election-china.html">Australia Asks: How Far Is Too Far in Making China a Campaign Weapon?</a> NYT: Australia’s conservative government has claimed, without evidence, that the political opposition would cozy up to Beijing. To many, it has crossed a red line. 
  <p class="updated_time"> 02:40 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-60676092?at_medium=RSS&at_campaign=KARANGA">The man accused of being a death-faking US fugitive </a> BBC: The bizarre case of a man arrested in a Glasgow hospital accused by the US of being a fugitive. 
- <p class="updated_time"> 10:22 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/asia/south-korea-election-yoon-suk-yeol.html">Yoon Suk-yeol Wins South Korean Presidency</a> NYT: As a prosecutor, he went after former presidents. Now voter discontent has helped him take the presidency in the tightest race since 1987. 
  <p class="updated_time"> 09:33 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/ukraine-russia-cease-fire-talks.html">Subtle Shifts Raise Hopes for a Cease-fire in Ukraine</a> NYT: Both Russia and Ukraine appear to have softened their stance, with the Kremlin signaling a retreat on regime change and Kyiv expressing flexibility on NATO membership. But the two sides remain far apart. 
  <p class="updated_time"> 08:44 PM CT, Mar. 09 </p> 
@@ -204,6 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:00 AM CT, Mar. 11 </p> 
+ <a href="https://www.politico.com/news/2022/03/11/biden-administration-oil-industry-alliance-00016112">Biden administration, oil industry forge uneasy alliance</a> Politico: Fossil fuel industry executives have doubts about the Biden administration's long-term intentions despite the support they are currently receiving from administration officials. 
+ <p class="updated_time"> 10:44 AM CT, Mar. 11 </p> 
+ <a href="https://www.politico.com/news/2022/03/11/canada-defense-strategy-needs-update-00016262">Top Trudeau adviser: Canada’s defense blueprint 'overtaken by events'</a> Politico: Jody Thomas said, "There may be a different ordering of things that need to be invested in." 
+ <p class="updated_time"> 10:03 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The United States will join Europe and other allies in stripping Russia of permanent normal trade relations and take other actions to limit Russian imports and ban luxury exports to the country. 
  <p class="updated_time"> 09:31 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden moves to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
  <p class="updated_time"> 09:28 AM CT, Mar. 11 </p> 
@@ -244,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/10/i-got-along-trump-avoids-criticizing-putin-00016427">'I got along': Trump avoids criticizing Putin</a> Politico: The former president had several opportunities during a Fox News interview to criticize the Russian leader's invasion of Ukraine, but didn't. 
  <p class="updated_time"> 10:25 PM CT, Mar. 10 </p> 
  <a href="https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html">What's in the government spending bill</a> CNN: A massive spending bill that would fund the federal government through September -- as well as provide $13.6 billion in fresh aid to Ukraine as the country fights back against Russia's invasion -- was passed by the Senate on Thursday evening. 
- <p class="updated_time"> 10:03 PM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/biden-dnc-midterms-democrats-00016405">Dems see midterm hope in Biden bounce</a> Politico: With the president's poll numbers ticking up in recent days, even skeptical Democrats are feeling optimistic that a Biden rebound might last — and that the party’s midterm losses might not be so severe. 
  <p class="updated_time"> 08:08 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/michael-flynn-jan-6-committee.html">Michael Flynn Invokes Fifth Amendment Before Jan. 6 Panel</a> NYT: The Trump ally and former national security adviser is the latest high-profile witness to sidestep questions from the House committee by citing the right against self-incrimination. 
  <p class="updated_time"> 08:01 PM CT, Mar. 10 </p> 
@@ -298,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/10/florida-republicans-race-classrooms-companies-00016118">Florida lawmakers limit how race can be taught in classrooms and companies</a> Politico: GOP leaders contend that the legislation, couched as an “individual freedom” bill, was needed to keep teachers and companies objective when leading school lessons or employee trainings around race. 
  <p class="updated_time"> 01:16 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/2020-census-undercount-black-people-hispanics-native-americans-00016138">Census undercounted Black people, Hispanics and Native Americans in 2020</a> Politico: Census Bureau Director Robert Santos noted the 2020 undercounts reflect “limitations" in the decennial tally. 
- <p class="updated_time"> 12:15 PM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/biden-administration-extends-masks-for-travel-through-april-18-00016097">Biden administration extends travel mask mandate through April 18</a> Politico: The mask mandate goes hand-in-hand with the Federal Aviation Administration’s zero-tolerance policy. 
  <p class="updated_time"> 11:57 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/senate-spending-bill-vote-00016079">Senate gives final OK to $1.5T government funding bill</a> Politico: The package finally cements the fresh budgets Democrats have sought since former President Donald Trump left office. 
  <p class="updated_time"> 11:11 AM CT, Mar. 10 </p> 
@@ -330,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/09/house-ban-import-russian-oil-00015865">House approves ban on import of Russian oil</a> Politico: Nancy Pelosi said the vote was necessary even though President Joe Biden took executive action. 
  <p class="updated_time"> 09:31 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/house-passes-violence-against-women-act.html">House Passes Bill to Bolster Protections for Women Facing Violence</a> NYT: The reauthorization of the Violence Against Women Act, a top priority of President Biden that expired in 2019, was included in a wide-ranging government spending bill. 
- <p class="updated_time"> 08:29 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/judge-review-emails-jan-6.html">Judge Will Review Lawyer’s Emails Sought by Jan. 6 Panel</a> NYT: A federal judge said he would decide whether emails to and from John Eastman should be released to the House committee investigating the attack on the Capitol. 
  <p class="updated_time"> 11:52 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/biden-russia-ukraine-arms-00015518">White House sweats over its growing entanglement in Ukraine</a> Politico: Vladimir Putin is warning the U.S. and its allies not to engage in direct "acts of war" against Russia. For the Biden administration, that means weighing every move ever more carefully. 
  <p class="updated_time"> 07:50 AM CT, Mar. 09 </p> 
