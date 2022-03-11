@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:17 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 03:28 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Ukraine Updates: Biden Moves to Suspend Normal Trade With Russia</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. 
+ <p class="updated_time"> 03:28 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
+ <p class="updated_time"> 03:24 PM CT, Mar. 11 </p> 
+ <a href="https://www.npr.org/2022/03/11/1086153757/foreign-investors-want-out-of-the-economic-crossfire-but-cant-exit-russian-holdi">Foreign investors want out of the economic crossfire, but can't exit Russian holdings</a> NPR: As wide-ranging sanctions cripple Russia's economy, many international investors have determined the country is no longer a place where they can invest their money. 
+ <p class="updated_time"> 03:20 PM CT, Mar. 11 </p> 
+ <a href="https://www.npr.org/2022/03/11/1086153750/how-the-busiest-border-crossing-from-ukraine-to-poland-compares-to-a-quieter-one">How the busiest border crossing from Ukraine to Poland compares to a quieter one</a> NPR: The UN now says more than 2.5 million people have fled Ukraine, most of them to Poland. NPR's Ari Shapiro reports on the busiest and one of the most quiet border crossings in Poland. 
  <p class="updated_time"> 02:45 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/roman-abramovich-russian-oligarch-sanctions.html">How Roman Abramovich, a Russian Oligarch, Found Himself Under Sanctions</a> NYT: The oligarch’s billions and his Kremlin connections secured him favors and elite status in the West. Now they’ve landed him on a sanctions list. 
- <p class="updated_time"> 02:21 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 02:34 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 02:19 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
  <p class="updated_time"> 01:37 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Triggering Flashbacks for Syrians.</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
+ <p class="updated_time"> 01:34 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 01:30 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-war-journalism.html">How The New York Times Verifies Reporting on the Ukraine War</a> NYT: To cut through the fog of propaganda and misinformation on both sides, The Times has deployed dozens of  journalists  to Ukraine to witness events as they unfold. 
  <p class="updated_time"> 01:25 PM CT, Mar. 11 </p> 
@@ -26,17 +34,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60712902?at_medium=RSS&at_campaign=KARANGA">US to ban Russian diamond and vodka imports</a> BBC: Western allies also say they plan to revoke Russia’s status as an equal trade partner. 
  <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
- <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711659?at_medium=RSS&at_campaign=KARANGA">Battle for Mykolaiv: 'We are winning this fight, but not this war'</a> BBC: In the southern city of Mykolaiv, Ukrainian forces are battling to stop the Russian advance. 
  <p class="updated_time"> 01:05 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710816?at_medium=RSS&at_campaign=KARANGA">Man returns to totally destroyed neighbourhood</a> BBC: In Kharkiv, a former resident takes a look around and sees the damage from Russia's assault. 
  <p class="updated_time"> 12:38 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The United States will join Europe and other allies in stripping Russia of permanent normal trade relations and take other actions to limit Russian imports and ban luxury exports to the country. 
+ <p class="updated_time"> 12:34 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-railroads-have-become-vital-cog-in-kyivs-war-effort-11647000001">Ukraine’s Railroads Have Become Vital Cog in Kyiv’s War Effort</a> WSJ: Ukraine’s Railroads Have Become Vital Cog in Kyiv’s War Effort 
  <p class="updated_time"> 12:31 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60714086?at_medium=RSS&at_campaign=KARANGA">Raif Badawi: Saudi blogger freed after decade in prison</a> BBC: He was arrested in 2012 and later jailed and sentenced to 1,000 lashes for "insulting Islam online". 
- <p class="updated_time"> 12:21 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraines-railroads-have-become-vital-cog-in-kyivs-war-effort-11647000001">Ukraine’s Railroads Have Become Vital Cog in Kyiv’s War Effort</a> WSJ: Ukraine’s Railroads Have Become Vital Cog in Kyiv’s War Effort 
  <p class="updated_time"> 12:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html">Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia</a> NYT: The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success. 
  <p class="updated_time"> 11:47 AM CT, Mar. 11 </p> 
@@ -47,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/uk-sarah-everard-protest-court.html">Leaders of Sarah Everard Vigil Had Rights Violated by Police, Court Rules</a> NYT: The judgment comes at a particularly fraught time for London’s Metropolitan Police Service, and as Parliament considers a law that would broaden police powers to clamp down on protests. 
  <p class="updated_time"> 11:36 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086005218/russia-instagram-meta-extremist-group">Russia plans to limit Instagram and label Meta an extremist group </a> NPR: Russia called for Facebook and Instagram's parent company to be labeled an extremist group after the tech giant said it would permit some calls for violence against "Russian invaders." 
- <p class="updated_time"> 11:21 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 11:34 AM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 11:02 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html">Citizen Seismologists Track Haiti’s Earthquakes</a> NYT: When conventional seismometers in Haiti failed before the 2010 quake, cheaper, less sophisticated devices helped seismic researchers fill in the blanks. 
@@ -55,10 +61,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/travel/ukraine-architecture-war.html">Ukraine’s Architectural Treasures Face Destruction</a> NYT: The country’s vast array of historic buildings, artworks and public squares are an integral part of Ukraine’s cultural identity. Amid the violence of war, many are being reduced to rubble. 
  <p class="updated_time"> 10:51 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085606596/ukraine-russia-news-invasion-refugees-poland-przemysl">This Polish mayor has become a hero for Ukrainians in crisis. But what of his past?</a> NPR: Wojciech Bakun admits he was ill-prepared to become a front line humanitarian worker dealing with the rush of refugees from Ukraine. And some onlookers have been surprised by his response, too. 
+ <p class="updated_time"> 10:34 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 10:25 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
- <p class="updated_time"> 10:21 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 10:17 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/hong-kong-hospitals-covid.html">Overwhelmed Hong Kong Hospitals Keep Dead Near Covid Patients </a> NYT: For several weeks, bodies have been piling up at hospitals because the city’s public mortuaries, which can take up to 3,000 bodies, are full. 
  <p class="updated_time"> 10:10 AM CT, Mar. 11 </p> 
@@ -161,18 +167,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html">As War Rages, a Struggle to Balance Energy Crunch and Climate Crisis</a> NYT: Rising oil prices and increased demand for expanded production come at a time when scientists say nations must sharply cut the use of fossil fuels. 
  <p class="updated_time"> 03:43 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/theater/belarus-free-theatre-exile.html">An Exiled Theater With a Warning for Europe</a> NYT: The Belarus Free Theater’s members fled repression at home. The company’s latest show imagines a nightmare future of authoritarian Russian rule. 
- <p class="updated_time"> 03:37 PM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085838451/chelsea-football-clubs-uncertain-future">Chelsea Football Club's uncertain future</a> NPR: NPR's Sarah McCammon talks with Rory Smith of The New York Times about the frozen assets of Russian oligarch and Chelsea Football Club team owner Roman Abramovich. 
- <p class="updated_time"> 03:37 PM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085838444/state-department-spokesperson-on-the-u-s-efforts-to-counter-russias-messaging">State Department spokesperson on the U.S.' efforts to counter Russia's messaging</a> NPR: NPR's Sarah McCammon speaks with Ned Price, spokesperson for the State Department, who says Russia is accusing U.S. and Ukraine of preparing biological weapons. 
  <p class="updated_time"> 03:31 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/books/ukraine-translate-books.html">An Urgent Mission for Literary Translators: Bringing Ukrainian Voices to the West</a> NYT: A wartime effort to quickly translate work by Ukrainian novelists, poets and historians is underway — a project as political as it is cultural, authors and translators say. 
  <p class="updated_time"> 01:32 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship. 
  <p class="updated_time"> 12:29 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/chernihiv-russia-troops.html">Russian Forces Have Encircled Northern Ukraine City of Chernihiv, The Mayor Says</a> NYT: Ukrainian forces are battling to keep some roads open, as Russia tightens its cordon around the battered city. “We are surrounded,” the mayor said. 
- <p class="updated_time"> 12:01 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
  <p class="updated_time"> 11:36 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/france-presidential-election-media-cnews-.html">How Billionaires Are Shaping France’s Presidential Campaign</a> NYT: In a nation with strict political finance laws, control over the news media has provided an avenue for the very rich to influence elections, this one more than ever. 
  <p class="updated_time"> 11:10 AM CT, Mar. 10 </p> 
