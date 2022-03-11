@@ -9,36 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:21 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">At 101, and After 36 Years as Mayor, ‘Hurricane Hazel’ Is Still a Force in Canada</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russia Strikes Cities Far From Front Lines</a> NYT: At least three cities in western and central Ukraine were hit. In besieged Mariupol, bodies are now being buried in trenches. President Biden will call for suspending normal trade relations with Russia. 
+ <p class="updated_time"> 03:48 AM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60706789?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Huge fireball lights up night sky over Lutsk</a> BBC: According to eyewitness accounts from the area, a nearby airfield was hit by strikes. 
  <p class="updated_time"> 03:09 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
+ <p class="updated_time"> 03:04 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 02:50 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-60571133?at_medium=RSS&at_campaign=KARANGA">Which companies are pulling out of Russia?</a> BBC: Reputational risk and practical difficulties means the exodus of firms is growing but some remain. 
  <p class="updated_time"> 02:40 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60702464?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Large Russian convoy redeploys near Kyiv - satellite images</a> BBC: Images of the convoy's redeployment appear to signal a renewed push towards the Ukrainian capital. 
- <p class="updated_time"> 02:37 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 02:30 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085978647/russian-strikes-hit-western-ukraine-as-offensive-widens">Russian strikes hit western Ukraine as offensive widens</a> NPR: The strikes on Friday came as new satellite photos appeared to show a massive convoy outside the Ukrainian capital had fanned out into towns and forests near Kyiv. 
  <p class="updated_time"> 02:21 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ireland-church-female-saint-brigid.html">As Ireland’s Church Retreats, the Cult of a Female Saint Thrives</a> NYT: The cult of Saint Brigid, with its emphasis on nature and healing, and its shift away from the patriarchal faith of traditional Catholicism in Ireland, is attracting people from around the world. 
+ <p class="updated_time"> 02:04 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 01:50 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60702619?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Facebook to allow calls for violence against Putin</a> BBC: In response, Russia has called on the US to stop the "extremist activities" of parent company Meta. 
- <p class="updated_time"> 01:37 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
+ <p class="updated_time"> 01:04 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
  <p class="updated_time"> 12:43 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
- <p class="updated_time"> 12:37 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
- <p class="updated_time"> 11:37 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 12:04 AM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
+ <p class="updated_time"> 11:04 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 11:00 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/africa/thomas-sankara-assassination-trial.html">Burkina Faso Awaits the Verdict in the Sankara Assassination Trial</a> NYT: Thirty-five years after the killing of President Thomas Sankara of Burkina Faso, his supporters hope for justice. But the full truth about the murder, including any foreign role, is elusive. 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/biden-russia-suspend-trade-relations.html">Biden Will Call for Suspending Normal Trade Relations With Russia</a> NYT: The move, expected to be joined by the G7 and the European Union, would result in higher tariffs on Russian products being sent to the United States. 
- <p class="updated_time"> 10:37 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 09:52 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
  <p class="updated_time"> 09:44 PM CT, Mar. 10 </p> 
@@ -115,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/world/europe/evgeny-maslin-dead.html">Evgeny Maslin, Russian General Who Secured Nuclear Arsenal, Dies at 84</a> NYT: He persuaded Ukraine and other post-Soviet states to give up their weapons, then worked with the U.S. to safeguard and dismantle thousands of them. 
  <p class="updated_time"> 12:01 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/chernobyl-nuclear-waste-power-outage.html">What a Power Cutoff Could Mean for Chernobyl’s Nuclear Waste</a> NYT: With no working reactors, there is no risk of a meltdown. But the ruins from the 1986 disaster still pose considerable dangers. 
- <p class="updated_time"> 11:49 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60695436?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: A family's 'torturous' UK visa chase</a> BBC: Luke Morgan has spent the last fortnight helping his wife's family get to the UK from Ukraine. 
  <p class="updated_time"> 11:41 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60699186?at_medium=RSS&at_campaign=KARANGA">Police bodycam shows Black Panther director Ryan Coogler's arrest</a> BBC: Coogler was mistaken for a bank robber when he gave a written note to a teller - and was detained 
  <p class="updated_time"> 11:36 AM CT, Mar. 10 </p> 
@@ -185,14 +187,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/100000008242973/ukrainian-refugees-women-return.html">‘I Must Save My Mom’: The Women Returning to Ukraine</a> NYT: As millions seek to escape Russia’s invasion of Ukraine, 200,000 people have gone the other way, toward the fighting. Many are women, risking the dangers of war to rescue relatives or defend their homes. 
  <p class="updated_time"> 03:01 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/scotland-nicola-sturgeon-apologizes-witches.html">Scotland Apologizes for History of Witchcraft Persecution</a> NYT: Nicola Sturgeon, the first minister of Scotland, apologized on behalf of the government for the killing and vilification of thousands of people accused of witchcraft between the 16th and 18th centuries. 
- <p class="updated_time"> 01:43 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/business/russia-ukraine-retail.html">No Ikea Shelves, No Levis: The Retailers Pulling Out of Russia </a> NYT: Since the invasion of Ukraine began, the increasing financial and reputational risks of doing business in Russia are leading Western brands to halt operations. 
  <p class="updated_time"> 01:08 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/austria-covid-vaccine-mandate.html">Austria Abandons Sweeping Vaccine Mandate, Citing Milder Omicron Cases</a> NYT: Despite high caseloads, the number of Covid patients in intensive-care-unit beds remains steady, prompting the country to rethink its approach, at least for now. 
  <p class="updated_time"> 01:01 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/climate/biden-california-tailpipe-waiver.html">Biden Restores California’s Power to Set Stringent Tailpipe Rules</a> NYT: The state is expected to write strict auto pollution standards designed to significantly speed the transition to electric vehicles and influence new federal rules. 
- <p class="updated_time"> 12:14 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/middleeast/netanyahu-covid.html">Benjamin Netanyahu Tests Positive For Coronavirus</a> NYT: Benjamin Netanyahu, the former prime minister of Israel, who is 72 and has gotten four Covid shots, “feels well,” according to a party spokesman. 
  <p class="updated_time"> 12:08 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/britain-johnson-ukraine-zelensky.html">With Humor, and a Nod to History, Johnson and Zelensky Find a Rapport</a> NYT: Forging an alliance with President Volodymyr Zelensky of Ukraine was a natural for Boris Johnson, Britain’s prime minister. The two share a sense of the moment. 
 
@@ -204,6 +202,12 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:31 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/house-gop-hagedorn-widow-seat-00016375">House GOP winces as Hagedorn's scandal-plagued widow eyes his empty seat</a> Politico: Jennifer Carnahan resigned from the Minnesota party chairmanship last year. Her late husband died last month, leaving his congressional seat open. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/covid-stimulus-money-fight.html">Covid Stimulus Money Brings Clashes Within Cities and Counties</a> NYT: As communities across the United States receive pandemic relief money, fierce debates have erupted over priorities, and who has the power to set them. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/democrats-biden-midterm-reset.html">Bracing for Losses, Democrats Look to Biden for a Reset</a> NYT: At a party retreat in Philadelphia, House Democrats hoped the president would offer a winning strategy heading into a challenging midterm election season. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 11 </p> 
+ <a href="https://www.npr.org/2022/03/11/1085783310/new-clues-emerge-about-the-money-that-might-have-helped-fund-the-jan-6-insurrect">New clues emerge about the money that might have helped fund the Jan. 6 insurrection</a> NPR: Recent legal moves by the House select committee investigating the Jan. 6 attack on the Capitol offers some clues on how it's following the money. 
  <p class="updated_time"> 03:09 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
  <p class="updated_time"> 11:25 PM CT, Mar. 10 </p> 
@@ -310,20 +314,14 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/10/fed-up-inside-the-senates-banking-brawl-00015770">Fed up: Inside the Senate's banking brawl</a> Politico: Chair Sherrod Brown and his GOP counterpart, Pat Toomey, are locked in a staring contest over President Joe Biden's Federal Reserve picks. And it's captivating their colleagues. 
  <p class="updated_time"> 04:08 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085670196/soaring-gas-prices-have-biden-talking-up-the-importance-of-domestic-drilling">Soaring gas prices have Biden talking up the importance of domestic drilling</a> NPR: Russia's war on Ukraine and the resulting oil price spike have forced the Biden White House to consider all kinds of measures for fossil fuel that it once would have shunned. 
- <p class="updated_time"> 04:08 AM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085670119/morning-news-brief">News brief: Mariupol hospital, election officials quit, kids' vaccinations lag </a> NPR: A maternity hospital in Ukraine was hit with direct strike. A survey takes the pulse of the professionals responsible for voting in America. Kids under 5 still aren't eligible for COVID-19 vaccines. 
  <p class="updated_time"> 04:00 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/redistricting-congressional-maps-elections.html">Why Redistricting May Lead to a More Balanced U.S. Congress</a> NYT: This year’s congressional map, despite continued gerrymandering, is poised to have a nearly equal number of districts that lean Democratic and Republican. 
  <p class="updated_time"> 11:32 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/house-ban-import-russian-oil-00015865">House approves ban on import of Russian oil</a> Politico: Nancy Pelosi said the vote was necessary even though President Joe Biden took executive action. 
- <p class="updated_time"> 10:34 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/house-emergency-aid-ukraine.html">House Approves $13.6 Billion in Emergency Aid for Ukraine</a> NYT: Bipartisan backing for the assistance provided momentum for a broader, $1.5 trillion measure to fund the government through September. 
  <p class="updated_time"> 09:44 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/house-spending-bill.html">House Passes $1.5 Trillion Spending Bill as Democrats Drop Covid Aid</a> NYT: Facing disputes over how to cover the cost of the pandemic response effort, Democrats dropped it rather than jeopardize legislation that includes aid for Ukraine and other top priorities. 
  <p class="updated_time"> 09:31 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/house-passes-violence-against-women-act.html">House Passes Bill to Bolster Protections for Women Facing Violence</a> NYT: The reauthorization of the Violence Against Women Act, a top priority of President Biden that expired in 2019, was included in a wide-ranging government spending bill. 
- <p class="updated_time"> 09:26 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/biden-pandemic-response-funding.html">Uncertainty for Biden’s Covid Plan After Aid Is Dropped From Spending Bill</a> NYT: The $15.6 billion emergency aid package was stripped amid disputes over how to pay for it, injecting uncertainty into the president’s pandemic response plan. 
  <p class="updated_time"> 08:29 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/judge-review-emails-jan-6.html">Judge Will Review Lawyer’s Emails Sought by Jan. 6 Panel</a> NYT: A federal judge said he would decide whether emails to and from John Eastman should be released to the House committee investigating the attack on the Capitol. 
  <p class="updated_time"> 05:59 PM CT, Mar. 09 </p> 
