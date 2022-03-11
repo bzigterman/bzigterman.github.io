@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:44 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Ukraine Updates: Biden Calls for Suspending Normal Trade With Russia</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. 
+ <p class="updated_time"> 09:54 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Ukraine Updates: Biden Moves to Suspend Normal Trade With Russia</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. 
+ <p class="updated_time"> 09:45 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is shifting from trying to prevent all transmission of the virus toward protecting those most vulnerable. “There will inevitably be a level of virus within the community going forward,” the health minister said. 
  <p class="updated_time"> 09:39 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html">Lockdowns Spread in China as Covid Cases Surge in Shanghai and Other Areas</a> NYT: Officials say that most of the recent cases detected in widespread testing are asymptomatic but still contagious. 
  <p class="updated_time"> 09:31 AM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden will move to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
+ <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden moves to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
  <p class="updated_time"> 09:29 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
  <p class="updated_time"> 09:26 AM CT, Mar. 11 </p> 
@@ -29,10 +31,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">What sanctions are being imposed on Russia over Ukraine invasion?</a> BBC: Western nations have imposed severe sanctions on Russia over its invasion of Ukraine. 
  <p class="updated_time"> 09:07 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60709208?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Instagram banned in Russia over 'calls to violence'</a> BBC: Instagram owner Meta has allowed users in some countries to call for violence against Russia's army. 
+ <p class="updated_time"> 08:56 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian Airstrikes Intensify in Western Ukraine</a> WSJ: Russian Airstrikes Intensify in Western Ukraine 
  <p class="updated_time"> 08:55 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60711653?at_medium=RSS&at_campaign=KARANGA">India accidentally fires missile into Pakistan</a> BBC: Delhi blames a "technical malfunction" for the incident, which it called "deeply regrettable". 
- <p class="updated_time"> 08:45 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian Airstrikes Intensify in Western Ukraine</a> WSJ: Russian Airstrikes Intensify in Western Ukraine 
  <p class="updated_time"> 08:45 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/americas/guatemala-abortion-prison.html">Guatemalan Women Face Up to 10 Years in Prison Under New Abortion Bill</a> NYT: The measure, which is expected to be signed into law by Guatemala’s conservative president within weeks, would impose the harshest punishments for abortion of almost any country in Latin America. 
  <p class="updated_time"> 08:41 AM CT, Mar. 11 </p> 
@@ -41,11 +43,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
  <p class="updated_time"> 08:22 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60709952?at_medium=RSS&at_campaign=KARANGA">Mystery drone from Ukraine war crashes in Croatia</a> BBC: Experts believe a drone that crashed in Zagreb was a Soviet-era type used by the Ukrainian military. 
- <p class="updated_time"> 08:07 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is moving toward protecting the most vulnerable rather than trying to prevent all transmission of the virus. 
  <p class="updated_time"> 08:05 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">At 101, and After 36 Years as Mayor, ‘Hurricane Hazel’ Is Still a Force in Canada</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
- <p class="updated_time"> 07:45 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 07:56 AM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-invasion-dashes-u-s-banks-russia-hopes-11646999214">Ukraine War Dashes U.S. Banks’ Russia Hopes</a> WSJ: Ukraine War Dashes U.S. Banks’ Russia Hopes 
  <p class="updated_time"> 07:41 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/climate-changes-threat-to-the-glorious-redwood-both-here-and-afar.html">Climate Change’s Threat to the Glorious Redwood, Both Here and Afar</a> NYT: In 1936, foresters planted California redwoods in Victoria. How long will they grow in peace? 
@@ -55,14 +55,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">U.S. Fights Bioweapons Conspiracy Theory Pushed by Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
  <p class="updated_time"> 07:21 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710815?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky says Ukraine on the way to victory</a> BBC: Ukraine's president says "it's not possible to say how many more days it will take", but his country will defeat Russia. 
- <p class="updated_time"> 06:45 AM CT, Mar. 11 </p> 
+ <p class="updated_time"> 06:56 AM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 06:06 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/india-elections-yogi-adityanath.html">Yogi Adityanath’s Election Win Raises His Profile Across India</a> NYT: Yogi Adityanath’s return as chief minister of Uttar Pradesh is fueling talk that he might succeed Narendra Modi as prime minister one day, and continue to advance their Hindu political movement. 
+ <p class="updated_time"> 05:56 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-weighs-tapping-loyalist-as-next-economic-czar-11646996402">Xi Weighs Tapping Loyalist as China’s Next Economic Czar</a> WSJ: Xi Weighs Tapping Loyalist as China’s Next Economic Czar 
  <p class="updated_time"> 05:48 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/zachary-rolfe-kumanjayi-walker.html">Zachary Rolfe Acquitted of Murder of Kumanjayi Walker in Australia</a> NYT: Many Indigenous Australians had seen the case as a test of whether the authorities could be held accountable after what they call decades of abuses. 
- <p class="updated_time"> 05:45 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 05:44 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/covid-india-maharashtra-deaths.html">Indian State That Covid Hit Hard Is Now Recording Sharply Lower Deaths</a> NYT: The western state of Maharashtra on Wednesday reported no daily fatalities from the virus for the third time this month. 
  <p class="updated_time"> 05:41 AM CT, Mar. 11 </p> 
@@ -71,8 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
  <p class="updated_time"> 04:56 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/economy/imf-global-outlook-ukraine-war.html">IMF Warns Ukraine-Russia War Will Likely Slow Global Growth</a> NYT: The economic fallout from Russia’s invasion will depend on the outcome of the war and the duration of the sanctions. 
- <p class="updated_time"> 04:45 AM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-weighs-tapping-loyalist-as-next-economic-czar-11646996402">Xi Weighs Tapping Loyalist as China’s Next Economic Czar</a> WSJ: Xi Weighs Tapping Loyalist as China’s Next Economic Czar 
+ <p class="updated_time"> 04:56 AM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 04:38 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085985036/china-locks-down-city-of-9-million-amid-new-spike-in-cases">China locks down a city of 9 million amid a new spike in COVID-19 cases</a> NPR: The latest lockdowns extend China's draconian approach to the pandemic it has enforced for most of the past two years 
  <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
@@ -205,7 +205,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:31 AM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden will move to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
+ <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden moves to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
  <p class="updated_time"> 09:28 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/democrats-biden-midterms.html">Bracing for Losses, Democrats Look to Biden for a Reset</a> NYT: At a party retreat in Philadelphia, House Democrats hoped the president would offer a winning strategy heading into a challenging midterm election season. 
  <p class="updated_time"> 08:13 AM CT, Mar. 11 </p> 
