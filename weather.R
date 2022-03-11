@@ -394,7 +394,7 @@ ggplot(data = temps,
   scale_y_continuous(labels = NULL) +
   labs(x = NULL,
        y = NULL,
-       caption = "Source: OpenWeather") +
+       caption = "Source: OpenWeather, NOAA") +
   theme(
     axis.text.x = element_text(angle = 90),
     plot.background = element_rect(fill = "white", color = "white"),
@@ -440,7 +440,7 @@ ggplot(data = temps,
   scale_y_continuous(labels = NULL) +
   labs(x = NULL,
        y = NULL,
-       caption = "Source: OpenWeather") +
+       caption = "Source: OpenWeather, NOAA") +
   theme(
     axis.text.x = element_text(angle = 90),
     plot.background = element_rect(fill = "white", color = "white"),
