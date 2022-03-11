@@ -485,7 +485,7 @@ cat(
 layout: page
 title: Weather
 permalink: /projects/weather
-imageurl: https://bzigterman.com/plots/champaign_weather.png
+imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
 
