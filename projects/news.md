@@ -9,17 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Ukraine Updates: Biden Moves to Suspend Normal Trade With Russia</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. 
+ <p class="updated_time"> 05:29 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-bombardment-chechnya.html">Slowed on the Battlefield, Russia Widens Bombardment of Ukrainian Cities</a> NYT: But military experts, citing previous Russian campaigns, say that strategy is unlikely to succeed without bloody urban fighting. 
  <p class="updated_time"> 05:21 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-kyiv-russia-fighting.html">How a Line of Russian Tanks Became an Inviting Target for Ukrainians</a> NYT: A skirmish in an eastern suburb of Kyiv illustrated how close Russian forces have come as they continued to tighten a noose on the city, but also revealed their strategic vulnerabilities. 
  <p class="updated_time"> 05:04 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html">American Officials Believe They Have Located Putin’s Yacht</a> NYT: They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member. 
  <p class="updated_time"> 05:03 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/science/endurance-ship-ernest-shackleton.html">The New Captain of the Endurance Shipwreck Is an Anemone</a> NYT: A who’s who of the new invertebrate crew steering Ernest Shackleton’s sunken ship in the Weddell Sea. 
- <p class="updated_time"> 04:59 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Ukraine Updates: Biden Moves to Suspend Normal Trade With Russia</a> NYT: The low rumble of heavy artillery fire echoed across Kyiv on Friday as Russian forces renewed their ground offensive and widened their bombardment of Ukraine. 
  <p class="updated_time"> 04:51 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
- <p class="updated_time"> 04:27 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 04:41 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 04:26 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
@@ -35,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/kamala-harris-gas-prices-democracy.html">Kamala Harris Says U.S. Must Bear Higher Gas Prices to Punish Russia</a> NYT: Vice President Kamala Harris, visiting NATO ally Romania, insisted that the higher costs of energy associated with sanctions imposed on Moscow over its war on Ukraine would be worth the pain. 
  <p class="updated_time"> 03:41 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/roman-abramovich-russian-oligarch-sanctions.html">How Roman Abramovich, a Russian Oligarch, Found Himself Under Sanctions</a> NYT: The oligarch’s billions and his Kremlin connections secured him favors and elite status in the West. Now they’ve landed him on a sanctions list. 
+ <p class="updated_time"> 03:41 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 03:40 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153785/it-may-be-time-to-refocus-the-goal-of-vaccinating-70-of-every-country-advocates-">It may be time to refocus the goal of vaccinating 70% of every country, advocates say</a> NPR: Two years after the World Health Organization declared the COVID outbreak a pandemic, the vaccination rate in poor countries remains well below global targets. But do those targets still make sense? 
  <p class="updated_time"> 03:39 PM CT, Mar. 11 </p> 
@@ -43,18 +47,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086153771/an-update-on-the-evacuation-of-american-twins-born-prematurely-in-ukraine">An update on the evacuation of American twins born prematurely in Ukraine</a> NPR: NPR's Ari Shapiro provides an update on the condition of the American twins evacuated from Ukraine earlier this week. The two were too small to move in the days after they were born into a war zone. 
  <p class="updated_time"> 03:33 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153544/melitopol-mayor-abducted">The mayor of Melitopol, Ukraine, has been abducted, officials say</a> NPR: Mayor Ivan Fedorov was abducted on Friday, according to Ukrainian officials. He was reportedly seized by approximately 10 people while in the city center, and they put a plastic bag over his head. 
- <p class="updated_time"> 03:27 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 03:24 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153757/foreign-investors-want-out-of-the-economic-crossfire-but-cant-exit-russian-holdi">Foreign investors want out of the economic crossfire, but can't exit Russian holdings</a> NPR: As wide-ranging sanctions cripple Russia's economy, many international investors have determined the country is no longer a place where they can invest their money. 
  <p class="updated_time"> 03:20 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153750/how-the-busiest-border-crossing-from-ukraine-to-poland-compares-to-a-quieter-one">How the busiest border crossing from Ukraine to Poland compares to a quieter one</a> NPR: The UN now says more than 2.5 million people have fled Ukraine, most of them to Poland. NPR's Ari Shapiro reports on the busiest and one of the most quiet border crossings in Poland. 
- <p class="updated_time"> 02:27 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 02:41 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraines-railroads-have-become-vital-cog-in-kyivs-war-effort-11647000001">Ukraine’s Railroads Have Become Vital Cog in Kyiv’s War Effort</a> WSJ: Ukraine’s Railroads Have Become Vital Cog in Kyiv’s War Effort 
+ <p class="updated_time"> 01:41 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 01:37 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Triggering Flashbacks for Syrians.</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
- <p class="updated_time"> 01:27 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 01:25 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/middleeast/saudi-raif-badawi-liberation.html">Saudi Blogger Raif Badawi Is Released From Prison</a> NYT: Amnesty International welcomed news of the release of Raif Badawi, whose case became a lightening rod for rights campaigners and reflected Saudi Arabia’s lack of tolerance for dissent. 
  <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
@@ -63,12 +65,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60711659?at_medium=RSS&at_campaign=KARANGA">Battle for Mykolaiv: 'We are winning this fight, but not this war'</a> BBC: In the southern city of Mykolaiv, Ukrainian forces are battling to stop the Russian advance. 
  <p class="updated_time"> 01:05 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710816?at_medium=RSS&at_campaign=KARANGA">Man returns to totally destroyed neighbourhood</a> BBC: In Kharkiv, a former resident takes a look around and sees the damage from Russia's assault. 
+ <p class="updated_time"> 12:41 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 12:38 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The United States will join Europe and other allies in stripping Russia of permanent normal trade relations and take other actions to limit Russian imports and ban luxury exports to the country. 
  <p class="updated_time"> 12:31 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60714086?at_medium=RSS&at_campaign=KARANGA">Raif Badawi: Saudi blogger freed after decade in prison</a> BBC: He was arrested in 2012 and later jailed and sentenced to 1,000 lashes for "insulting Islam online". 
- <p class="updated_time"> 12:27 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 12:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html">Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia</a> NYT: The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success. 
  <p class="updated_time"> 11:47 AM CT, Mar. 11 </p> 
