@@ -293,33 +293,55 @@ temp_history <- read_csv("data/champaign_weather.csv") %>%
   mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) 
 
 temps_past_hour <- temp_history %>%
-  filter(central_time > now(tzone = "America/Chicago")-hours(1))
+  tail(1) %>%
+  mutate(period = "Latest") %>%
+  select(temp, period) %>%
+  arrange(temp)
 temps_today <- temp_history %>%
-  filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")))
+  filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")))  %>%
+  mutate(period = "Today") %>%
+  select(temp, period)%>%
+  arrange(temp)
 temps_yesterday <- temp_history %>%
-  filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")-days(1)))
+  filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")-days(1)))  %>%
+  mutate(period = "Yesterday") %>%
+  select(temp, period)%>%
+  arrange(temp)
 temps_past_day <- temp_history %>%
-  filter(central_time > now(tzone = "America/Chicago")-days(1))
+  filter(central_time > now(tzone = "America/Chicago")-days(1)) %>%
+  mutate(period = "Past Day") %>%
+  select(temp, period)%>%
+  arrange(temp)
 temps_past_week <- temp_history %>%
-  filter(central_time > now(tzone = "America/Chicago")-weeks(1))
+  filter(central_time > now(tzone = "America/Chicago")-weeks(1)) %>%
+  mutate(period = "Past Week") %>%
+  select(temp, period)%>%
+  arrange(temp)
 temps_past_month <- temp_history %>%
-  filter(central_time > now(tzone = "America/Chicago")-months(1))
+  filter(central_time > now(tzone = "America/Chicago")-months(1)) %>%
+  mutate(period = "Past Month") %>%
+  select(temp, period)%>%
+  arrange(temp)
 temps_past_year <- temp_history %>%
-  filter(central_time > now(tzone = "America/Chicago")-years(1))
+  filter(central_time > now(tzone = "America/Chicago")-years(1)) %>%
+  mutate(period = "Past Year") %>%
+  select(temp, period)%>%
+  arrange(temp)
+
+temps <- full_join(temps_past_hour,temps_today) %>%
+  full_join(temps_yesterday) %>%
+  full_join(temps_past_week) %>%
+  full_join(temps_past_month) %>%
+  full_join(temps_past_year) 
 
 his_los <- tibble(period = c("Past Year","Past Month","Past Week",
-                             "Yesterday","Today","Past Hour"),
-                  # temps = c(temps_past_year,
-                  #           temps_past_month,
-                  #           temps_past_week,
-                  #           temps_yesterday,
-                  #           temps_today),
+                             "Yesterday","Today","Latest"),
                   min = c(min(temps_past_year$temp),
                           min(temps_past_month$temp),
                           min(temps_past_week$temp),
                           min(temps_yesterday$temp),
                           min(temps_today$temp),
-                          min(temps_past_hour$temp)),
+                          as.numeric("NA")),
                   max = c(max(temps_past_year$temp),
                           max(temps_past_month$temp),
                           max(temps_past_week$temp),
@@ -329,10 +351,12 @@ his_los <- tibble(period = c("Past Year","Past Month","Past Week",
 
 his_los_longer <- pivot_longer(his_los, cols = c(min,max))
 
-ggplot(data = his_los_longer,
-       aes(x = period,
-           #xend = period,
-           y = value)) +
+ggplot(data = temps,
+       aes(x = period)) +
+  geom_line(data = temps,
+            aes(color = temp,
+                y = temp),
+            size = 2) +
   geom_text(data = his_los,
             aes(x = period,
                 y = min,
@@ -341,17 +365,21 @@ ggplot(data = his_los_longer,
   geom_text(data = his_los,
             aes(x = period,
                 y = max,
-                label =round(max)),
+                label = round(max)),
             nudge_y = 1) +
-  geom_line(size = 2,
-            color = "grey") +
-  geom_point(aes(color = value),
-             size = 2) +
+  geom_text(data = his_los,
+            aes(x = period,
+                y = if_else( is.na(min),max, (min+max)/2),
+                label = period),
+            #vjust =.5,
+            angle = 90,
+            nudge_y = 1,
+            nudge_x = -.15) +
   scale_x_discrete(limits = c("Past Year","Past Month","Past Week",
-                              "Yesterday","Today","Past Hour")) +
-  scale_color_distiller(#limits = c(-Inf,0,32,50,60,100,Inf),
-    palette = "Spectral",
-    guide = NULL) +
+                              "Yesterday","Today","Latest"),
+                   labels = NULL) +
+  scale_color_distiller(palette = "Spectral",
+                        guide = NULL) +
   theme_minimal() +
   scale_y_continuous(labels = NULL) +
   labs(x = NULL,
@@ -366,6 +394,47 @@ ggplot(data = his_los_longer,
 
 ggsave("plots/temp_history.png", bg = "white",
        width = 8, height = 8*(628/1200), dpi = 320)
+
+ggplot(data = temps,
+       aes(x = period,
+           y = temp)) +
+  geom_line(data = temps,
+            aes(color = temp),
+            size = 2) +
+  geom_text(data = his_los,
+            aes(x = period,
+                y = min,
+                label = round(min)),
+            nudge_y = -1) +
+  geom_text(data = his_los,
+            aes(x = period,
+                y = max,
+                label = round(max)),
+            nudge_y = 1) +
+  geom_text(data = his_los,
+            aes(x = period,
+                y = if_else( is.na(min),max, (min+max)/2),
+                label = period),
+            #vjust =.5,
+            angle = 90,
+            nudge_y = 1,
+            nudge_x = -.25) +
+  scale_x_discrete(limits = c("Past Year","Past Month","Past Week",
+                              "Yesterday","Today","Latest"),
+                   labels = NULL) +
+  scale_color_distiller(palette = "Spectral",
+                        guide = NULL) +
+  theme_minimal() +
+  scale_y_continuous(labels = NULL) +
+  labs(x = NULL,
+       y = NULL,
+       caption = "Source: OpenWeather") +
+  theme(
+    axis.text.x = element_text(angle = 90),
+    plot.background = element_rect(fill = "white", color = "white"),
+    panel.grid = element_blank(),
+    plot.caption = element_text(color = "grey40")
+  )
 
 ggsave("plots/temp_history_mobile.png", bg = "white",
        width = 4, height = 8*(628/1200), dpi = 320)
