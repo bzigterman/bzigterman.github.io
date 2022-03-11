@@ -2,13 +2,13 @@
 layout: page
 title: Weather
 permalink: /projects/weather
-imageurl: https://bzigterman.com/plots/champaign_weather.png
+imageurl: https://bzigterman.com/plots/temp_history.png
 webappicon: /weather.png
 ---
 
 ## Champaign Forecast
 
-<p class="updated_time"> Latest data: 11:02 AM CT, March 11</p>
+<p class="updated_time"> Latest data: 11:24 AM CT, March 11</p>
 
 <picture>
   <source srcset="{{ site.baseurl }}/plots/champaign_weather.png"
@@ -21,7 +21,7 @@ Currently:
 - 26°
 - snow
 - 78% humidity
-- 11 mph wind
+- 14 mph wind
 
 ## Temperature History
 
