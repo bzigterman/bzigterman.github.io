@@ -9,10 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 07:39 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Encircle Some Cities as Diplomacy Falters</a> NYT: The Russian side insisted on President Vladimir V. Putin’s original demands from the start of the war, dousing hopes of any immediate cease-fire. In besieged cities, civilians struggled without food, water or heat. 
- <p class="updated_time"> 05:26 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 07:09 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
+ <p class="updated_time"> 06:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
+ <p class="updated_time"> 06:35 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
+ <p class="updated_time"> 06:24 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/shabab-manda-bay-kenya-attack.html">‘Inadequate’ Security Led to Deaths of 3 Americans in Kenya Attack, Report Finds</a> NYT: The inquiry also found shortcomings in the sharing of intelligence before the deadly assault by the Shabab in 2020. 
+ <p class="updated_time"> 06:05 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses.</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
+ <p class="updated_time"> 06:02 PM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60696603?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Foreign fighters go to join defence</a> BBC: Nearly 20,000 international volunteers have signed up to fight alongside Ukrainian forces, officials say. 
+ <p class="updated_time"> 06:01 PM CT, Mar. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60667515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'I have 20 children here, please send help'</a> BBC: Tens of thousands of children in Ukrainian state care are in desperate need to get out of the country. 
+ <p class="updated_time"> 05:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 05:21 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/north-korea-intercontinental-missile.html">U.S. Says North Korea Is Testing a New Intercontinental Missile</a> NYT: The missile, first displayed in 2020, was tested twice in recent days. While it is unclear whether it can reach the U.S., it poses a new military challenge to President Biden in the midst of the Ukraine war. 
  <p class="updated_time"> 05:18 PM CT, Mar. 10 </p> 
@@ -29,10 +43,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/science/haiti-earthquake-seismometer.html">These Small, Cheap Devices Help Monitor Haiti’s Earthquakes</a> NYT: When conventional seismometers in Haiti failed before the 2010 quake, less sophisticated devices operated by citizen scientists helped seismic researchers fill in the blanks. 
  <p class="updated_time"> 05:05 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/stellantis-cars-russia.html">Stellantis Stops Car Shipments to and From Russia</a> NYT: The automaker has been making delivery vans in Russia, but its chief has said production is likely to halt because of a lack of parts. 
- <p class="updated_time"> 04:48 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 04:47 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60699588?at_medium=RSS&at_campaign=KARANGA">Watch: Our correspondent on the front line, with Ukraine’s troops</a> BBC: The BBC spent a week with Ukrainian forces in Kharkiv as they fight to stop a further Russian advance. 
+ <p class="updated_time"> 04:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
  <p class="updated_time"> 04:26 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/travel/poland-ukraine-refugees.html"> Poland’s Tourism Industry Is Helping Ukrainian Refugees</a> NYT: As Ukrainians flood into Poland, the travel industry has become part of an effort to supply transportation, accommodations and more to people fleeing the Russian invasion. 
  <p class="updated_time"> 04:20 PM CT, Mar. 10 </p> 
@@ -47,10 +61,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html">As War Rages, a Struggle to Balance Energy Crunch and Climate Crisis</a> NYT: Rising oil prices and increased demand for expanded production come at a time when scientists say nations must sharply cut the use of fossil fuels. 
  <p class="updated_time"> 03:48 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/middleeast/islamic-state-leader.html">ISIS Names a New Leader, but Says Little About Him</a> NYT: The terrorist group announced its new leader as Abu al-Hasan al-Hashimi al-Qurashi, but gave no information about his background or true identity. 
- <p class="updated_time"> 03:48 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 03:43 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/theater/belarus-free-theatre-exile.html">An Exiled Theater With a Warning for Europe</a> NYT: The Belarus Free Theater’s members fled repression at home. The company’s latest show imagines a nightmare future of authoritarian Russian rule. 
+ <p class="updated_time"> 03:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 03:39 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60700642?at_medium=RSS&at_campaign=KARANGA">Twitter blocks Russian claims on hospital attack</a> BBC: Posts from the Russian embassy in the UK claiming the bombing of a maternity hospital was faked have been taken down. 
  <p class="updated_time"> 03:37 PM CT, Mar. 10 </p> 
@@ -67,18 +81,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085845332/al-qurayshi-islamic-state-new-leader">IS confirms its leader was killed in a U.S. raid in Syria, and names a new chief</a> NPR: It was the first official comment from the militant group about its leader since U.S. officials said he blew himself up along with members of his family as American forces raided his hideout. 
  <p class="updated_time"> 02:54 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085814568/sony-warner-universal-russia">All three major music labels have now suspended operations in Russia</a> NPR: The entertainment exodus from Russia is continuing. Both Sony Music and the Warner Music Group announced Thursday that they would be suspending operations in Russia. 
- <p class="updated_time"> 02:48 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
- <p class="updated_time"> 01:48 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
+ <p class="updated_time"> 02:42 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 01:44 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085792668/colleges-russia-ukraine">U.S. colleges are cutting their partnerships and financial ties with Russia</a> NPR: Colleges are pulling students from study abroad programs in Russia, ending research partnerships and cutting investments as part of a global wave of condemnation over the invasion of Ukraine. 
  <p class="updated_time"> 01:32 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/asia/india-elections-modi.html">India Elections: Uttar Pradesh Looks Likely to Stay in B.J.P.’s Hands </a> NYT: Uttar Pradesh, India’s most populous state, is staying in the Bharatiya Janata Party’s hands, as the party maintains its electoral success despite mounting economic hardship. 
  <p class="updated_time"> 01:23 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60691511?at_medium=RSS&at_campaign=KARANGA">IS confirms leader Qurayshi's death and names successor</a> BBC: The US says Abu Ibrahim al-Hashimi al-Qurayshi blew himself up during a raid in Syria last month. 
- <p class="updated_time"> 12:48 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/narendra-modis-bjp-wins-big-in-indian-elections-11646918236">Narendra Modi’s Party Wins Big in Indian Elections</a> WSJ: Narendra Modi’s Party Wins Big in Indian Elections 
  <p class="updated_time"> 12:29 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/chernihiv-russia-troops.html">Russian Forces Have Encircled Northern Ukraine City of Chernihiv, The Mayor Says</a> NYT: Ukrainian forces are battling to keep some roads open, as Russia tightens its cordon around the battered city. “We are surrounded,” the mayor said. 
  <p class="updated_time"> 12:26 PM CT, Mar. 10 </p> 
@@ -101,20 +111,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60693166?at_medium=RSS&at_campaign=KARANGA">On the front line: If Kharkiv falls, all of Ukraine falls</a> BBC: Quentin Sommerville and cameraman Darren Conway are with Ukrainian forces fighting to stop the Russian advance on the country's second city. 
  <p class="updated_time"> 10:45 AM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60691507?at_medium=RSS&at_campaign=KARANGA">Rafik Hariri killing: Hezbollah duo convicted of 2005 bombing on appeal</a> BBC: A UN-backed court reverses the acquittals of two men over the assassination of Lebanon's former PM. 
- <p class="updated_time"> 10:44 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60699332?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Column of Russian tanks ambushed by Ukrainian forces</a> BBC: Drone footage appears to show Russian tanks under attack on the outskirts of Kyiv. 
+ <p class="updated_time"> 10:36 AM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-weigh-emergency-measures-to-limit-electricity-prices-11646948218">Europe to Weigh Emergency Measures to Limit Electricity Prices</a> WSJ: EU officials are under pressure to prepare for a winter without Russian gas as energy prices soar. 
  <p class="updated_time"> 09:57 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/arts/music/russia-music-canceled-concerts.html">Major Music Companies Pause Business in Russia</a> NYT: The three major record conglomerates and the touring giant Live Nation are suspending operations over Russia’s invasion of Ukraine, while individual artists have canceled tour dates. 
  <p class="updated_time"> 09:50 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
- <p class="updated_time"> 09:18 AM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/u-s-military-urges-biden-to-place-commandos-in-somalia-as-militant-threat-worsens-11646914851">U.S. Military Urges Biden to Place Commandos in Somalia</a> WSJ: The American military is asking the president to station several hundred commandos in Somalia to help blunt the spread of al Qaeda’s aggressive local affiliate, al-Shabaab, according to  U.S. officials. 
  <p class="updated_time"> 08:59 AM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085699374/goldman-sachs-russia">Wall Street banks Goldman Sachs and JPMorgan Chase are pulling out of Russia</a> NPR: Goldman Sachs says it's "winding down its business in Russia in compliance with regulatory and licensing requirements," two weeks after the country first invaded Ukraine. 
  <p class="updated_time"> 08:58 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html">4 Falsehoods Russians Are Told About the War</a> NYT: Russia’s disinformation machine is working in overdrive inside its own borders. 
- <p class="updated_time"> 08:23 AM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60689267?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Indian students on the trauma of escaping</a> BBC: The BBC follows some of the thousands of students who've been evacuated from the war. 
  <p class="updated_time"> 08:06 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/middleeast/israel-isaac-herzog-turkey-visit.html">Israel’s President Visits Turkey in Sign of Thawing Relations</a> NYT: In their highest-level meeting in 14 years, Israel and Turkey sought to rekindle an alliance after years of turbulence. 
  <p class="updated_time"> 07:34 AM CT, Mar. 10 </p> 
@@ -179,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/100000008242973/ukrainian-refugees-women-return.html">‘I Must Save My Mom’: The Women Returning to Ukraine</a> NYT: As millions seek to escape Russia’s invasion of Ukraine, 200,000 people have gone the other way, toward the fighting. Many are women, risking the dangers of war to rescue relatives or defend their homes. 
  <p class="updated_time"> 03:01 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/scotland-nicola-sturgeon-apologizes-witches.html">Scotland Apologizes for History of Witchcraft Persecution</a> NYT: Nicola Sturgeon, the first minister of Scotland, apologized on behalf of the government for the killing and vilification of thousands of people accused of witchcraft between the 16th and 18th centuries. 
- <p class="updated_time"> 02:23 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/australia/nsw-floods.html">Australia Flooding Declared a National Emergency</a> NYT: At least 20 people have died and tens of thousands have been ordered to evacuate as record rainfall continues to inundate the country’s eastern coast. 
  <p class="updated_time"> 01:43 PM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/business/russia-ukraine-retail.html">No Ikea Shelves, No Levis: The Retailers Pulling Out of Russia </a> NYT: Since the invasion of Ukraine began, the increasing financial and reputational risks of doing business in Russia are leading Western brands to halt operations. 
  <p class="updated_time"> 01:08 PM CT, Mar. 09 </p> 
@@ -197,12 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/climate/redlining-racism-air-pollution.html">How Redlining Contributed to Air Pollution Across America</a> NYT: A new study shows how redlining, a Depression-era housing policy, contributed to inequalities that persist decades later in U.S. cities. 
  <p class="updated_time"> 06:53 AM CT, Mar. 09 </p> 
  <a href="https://www.nytimes.com/2022/03/09/world/europe/olena-zelenska-ukraine.html">Olena Zelenska, Ukraine’s First Lady, Condemns Russia’s Invasion</a> NYT: Olena Zelenska says in a letter that Russian forces are engaged in the “mass murder of civilians” and reiterates her husband’s call for a no-fly zone. 
- <p class="updated_time"> 04:27 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/world/asia/hong-kong-covid-lockdown.html">Hong Kong's Covid Crackdown Empties Stores and Sets Off Exodus</a> NYT: A surge in cases has alarmed many residents. But the government’s mixed messaging about whether it will impose a lockdown has also been destabilizing. 
- <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/arts/women-war-photographers-exhibition.html">‘We Wanted to Be in Combat Zones. We Were as Courageous as the Men.’</a> NYT: A new exhibition in Paris spotlights the work of eight female photographers who documented wars over the course of 75 years. 
- <p class="updated_time"> 04:00 AM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/travel/ukraine-russia-travel-plans.html"> How the War in Ukraine Is Affecting Travel</a> NYT: How travelers feel the effects of Russia’s assault on Ukraine depends largely on where they’re going, though the price of oil will weigh on all airfares, even domestic. 
  <p class="updated_time"> 06:00 PM CT, Mar. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60671329?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Troops dig in near Kyiv</a> BBC: Ukrainians are determined to defend their capital city as Russian troops prepare for an assault. 
 
@@ -212,18 +210,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:05 PM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/flynn-jan-6-select-committee-pleads-the-fifth-00016401">Flynn appears before Jan. 6 select committee but pleads the Fifth</a> Politico: The former Trump national security adviser became an advocate for some of the most draconian and extreme options concerning the 2020 election. 
+ <p class="updated_time"> 08:01 PM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/jussie-smollett-jail-00016402">Jussie Smollett sentenced to 150 days in jail in fake attack</a> Politico: Smollett was also ordered to pay $120,106 in restitution. 
+ <p class="updated_time"> 07:09 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
+ <p class="updated_time"> 06:50 PM CT, Mar. 10 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 06:38 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/census-undercounted-population.html">2020 Census Undercounted Hispanic, Black and Native American Residents</a> NYT: The Census Bureau said that the overall population total was accurate but that counts of minorities were skewed. Advocacy groups threatened to go to court. 
  <p class="updated_time"> 06:34 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/judge-warns-special-counsel-court-filing-00016374">Judge warns special counsel over provocative court filing</a> Politico: Recent submissions from John Durham's team became fodder for pro-Trump media and prompted incendiary allegations from the former president himself. 
+ <p class="updated_time"> 06:30 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/biden-putin-inflation.html">Biden Urges Americans to Blame Rising Prices on Putin. Many Do, for Now.</a> NYT: News that inflation has hit a 40-year high is another blunt reminder of just how much the president is asking voters to sacrifice in an election year. 
+ <p class="updated_time"> 06:24 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/shabab-manda-bay-kenya-attack.html">‘Inadequate’ Security Led to Deaths of 3 Americans in Kenya Attack, Report Finds</a> NYT: The inquiry also found shortcomings in the sharing of intelligence before the deadly assault by the Shabab in 2020. 
+ <p class="updated_time"> 06:18 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/michael-flynn-jan-6-committee.html">Michael Flynn Invokes Fifth Amendment Before Jan. 6 Panel</a> NYT: The Trump ally and former national security adviser is the latest high-profile witness to sidestep questions from the House committee by citing the right against self-incrimination. 
+ <p class="updated_time"> 06:03 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/businesses-texas-trans-teens-child-abuse.html">Businesses Assail Texas Move to Classify Care for Trans Teens as ‘Child Abuse’</a> NYT: A new ad signed by dozens of big companies warns, “Discrimination is bad for business.” 
+ <p class="updated_time"> 06:00 PM CT, Mar. 10 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/us/politics/senate-republicans-midterms-scott-mcconnell.html">Why Rick Scott and Mitch McConnell Are Feuding Over Midterm Elections</a> NYT: Senator Rick Scott has an 11-point plan to “rescue America.” Senator Mitch McConnell would rather he not. 
  <p class="updated_time"> 05:54 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/jury-acquits-defendant-clinton-donation-2016-00016334">Jury acquits one defendant of conspiring to funnel millions to back Clinton in 2016</a> Politico: Jurors signaled they were deadlocked on charges for a co-defendant in the case, which involves money allegedly routed from the United Arab Emirates. 
  <p class="updated_time"> 05:49 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/senate-egypt-arms-sale-human-rights-00016327">Senate rejects bid to block $2B sale of military planes to Egypt</a> Politico: The vote was a whopping 81-18 against advancing a resolution offered by Sen. Rand Paul (R-Ky.) to disapprove the sale of aircraft to Egypt. 
- <p class="updated_time"> 05:26 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/us/politics/shabab-manda-bay-kenya-attack.html">‘Inadequate’ Security Led to Deaths of 3 Americans in Kenya Attack, Report Finds</a> NYT: The inquiry also found shortcomings in the sharing of intelligence before the deadly assault by the Shabab in 2020. 
  <p class="updated_time"> 05:24 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/justice-director-covid-fraud.html">Justice Dept. Names Prosecutor to Pursue Covid-19 Relief Fraud</a> NYT: President Biden had pledged to name a chief prosecutor to go after “criminals who stole billions in relief money.” 
- <p class="updated_time"> 05:22 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/us/politics/businesses-texas-trans-teens-child-abuse.html">Businesses Assail Texas Move to Classify Care for Trans Teens as ‘Child Abuse’</a> NYT: A new ad signed by dozens of big companies warns, “Discrimination is bad for business.” 
  <p class="updated_time"> 05:21 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/north-korea-intercontinental-missile.html">U.S. Says North Korea Is Testing a New Intercontinental Missile</a> NYT: The missile, first displayed in 2020, was tested twice in recent days. While it is unclear whether it can reach the U.S., it poses a new military challenge to President Biden in the midst of the Ukraine war. 
  <p class="updated_time"> 05:12 PM CT, Mar. 10 </p> 
@@ -248,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085838423/vice-president-harris-has-traveled-to-poland-in-support-of-ukraine-and-its-neigh">Vice President Harris has traveled to Poland in support of Ukraine and its neighbors</a> NPR: Vice President Harris says the world has witnessed Russian "atrocities" in Ukraine and vowed support for the country and its neighbors. But a proposal for Polish fighter jets is off the table. 
  <p class="updated_time"> 02:59 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/doj-names-chief-prosecutor-of-departments-pandemic-fraud-task-force-00016219">DOJ names chief prosecutor for pandemic fraud task force</a> Politico: The appointment of Associate Deputy Attorney General Kevin Chambers comes as the Biden administration tracks down those who stole billions in Covid-related aid. 
- <p class="updated_time"> 02:15 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/us/census-undercounted-population.html">2020 Census Undercounted Hispanic, Black and Native American Residents</a> NYT: The Census Bureau said the overall population total of 323 million was accurate but counts of minorities were skewed. Advocacy groups promised to go to court. 
  <p class="updated_time"> 01:33 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/russian-energy-sanctions-bipartisan-bill-00015762">Russian energy sanctions unite the feuding parties — for now</a> Politico: The humanitarian crisis in Ukraine remains the main driver behind the legislation. 
  <p class="updated_time"> 01:25 PM CT, Mar. 10 </p> 
@@ -268,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/10/1085739883/mask-mandate-planes-trains-ferries-tsa-cdc">TSA extends the travel mask mandate through April 18</a> NPR: The monthlong extension comes as the CDC said it would work on a "revised policy framework for when, and under what circumstances, masks should be required in the public transportation corridor." 
  <p class="updated_time"> 10:48 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/guantanamo-lawyer-resigns.html">Defense Lawyer Asks to Quit 9/11 Case, Amid Murky Investigation</a> NYT: A defense lawyer who has spent a decade on the Guantánamo case abruptly sought to resign amid an in-house investigation. 
- <p class="updated_time"> 09:50 AM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/poland-fighter-jets-ukraine-russia.html">Poland’s Fraught Offer: Fighter Jets for Ukraine, but Only Through U.S. Hands</a> NYT: Neither Poland nor the United States wants to make itself — or NATO — a target of Russia. And providing MIG fighters might cross over Putin’s invisible line. 
  <p class="updated_time"> 09:37 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/poland-fighter-jet-deal-ukraine-russia-00016038">Shot down: How Biden scuttled the deal to get MiGs to Ukraine</a> Politico: After an errant comment, rapid-fire negotiations and blunt announcements, the plan to send warplanes to Ukraine is no more. 
  <p class="updated_time"> 09:20 AM CT, Mar. 10 </p> 
@@ -322,12 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/09/us/politics/democrats-gas-prices-putin.html">Democrats Find Their Inflation Villains: Vladimir Putin and Big Oil</a> NYT: With the U.S. battling high oil prices and facing a dangerous confrontation with Russia, the Democratic Party is coalescing around a new message for the midterms. 
  <p class="updated_time"> 05:59 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/kamala-harris-poland-ukraine-00015873">Kamala Harris finds herself center stage of the Ukraine crisis</a> Politico: The vice president arrives in Poland amid a worsening war and a disagreement over how to exchange fighter jets. It’s her toughest, biggest foreign policy stage yet. 
- <p class="updated_time"> 05:43 PM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/house-punt-covid-aid-to-senate-00015845">House to punt Covid aid to the Senate amid funding feud</a> Politico: A portion of the domestic and international funds to continue battling the pandemic will no longer come out of unspent state funding. 
- <p class="updated_time"> 04:25 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/roselyn-tso-indian-health-service.html">Roselyn Tso Is Nominated to Run Indian Health Service</a> NYT: The president had made a campaign promise to address the longstanding issues plaguing the agency, which has lacked consistent leadership. 
- <p class="updated_time"> 04:20 PM CT, Mar. 09 </p> 
- <a href="https://www.nytimes.com/2022/03/09/us/politics/cluster-munitions-vacuum-bombs-russia-ukraine.html">Cluster Munitions and ‘Vacuum Bombs’: Russian Invasion Revives an Old Debate</a> NYT: Diplomats and talking heads have repeated longstanding fictions about battlefield weapons that critics argue are too cruel or too indiscriminate for use in warfare. 
  <p class="updated_time"> 03:36 PM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/new-normal-forces-nato-rethink-security-00015714">Stoltenberg: 'New normal' forces NATO rethink</a> Politico: "It’s obvious that we are faced with a new reality, a new security environment." 
  <p class="updated_time"> 02:27 PM CT, Mar. 09 </p> 
