@@ -9,41 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:18 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 10:38 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Encircle Some Cities as Diplomacy Falters</a> NYT: The failure of talks between Russia and Ukraine in Turkey doused hopes for an immediate cease-fire. The United States plans to suspend normal trade relations with Russia. 
  <p class="updated_time"> 09:58 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/russia-ukraine-china-bioweapons.html">Biden Officials Contend With Bioweapons Propaganda From Russia and China</a> NYT: The Biden administration says the two countries’ promotion of anti-U.S. conspiracy theories might be cover for lethal Russian military operations. 
  <p class="updated_time"> 09:52 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
+ <p class="updated_time"> 09:46 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
  <p class="updated_time"> 09:44 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/australia/climate-changes-threat-to-the-glorious-redwood-both-here-and-afar.html">Climate Change’s Threat to the Glorious Redwood, Both Here and Afar</a> NYT: In 1936, foresters planted California redwoods in Victoria. How long will they grow in peace? 
- <p class="updated_time"> 09:24 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-ramps-up-attacks-after-deadly-hit-on-maternity-hospital-11646907696">Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City</a> WSJ: Russia Ramps Up Ukraine Attacks in Effort to Seize Key Port City 
+ <p class="updated_time"> 08:46 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 08:40 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/middleeast/isis-new-leader.html">ISIS Names a New Leader, but Says Little About Him</a> NYT: The terrorist group announced its new leader as Abu al-Hasan al-Hashimi al-Qurashi, but gave no information about his background or true identity. 
- <p class="updated_time"> 08:24 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/chelsea-fc-owner-roman-abramovich-is-sanctioned-by-u-k-government-11646904912">Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K.</a> WSJ: Roman Abramovich, Owner of Chelsea Soccer Club, Is Sanctioned by U.K. 
  <p class="updated_time"> 08:09 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60702463?at_medium=RSS&at_campaign=KARANGA">North Korea recently tested intercontinental missile system: US</a> BBC: The US says the two recent tests were a 'serious escalation' and vows to further sanction N Korea. 
  <p class="updated_time"> 07:58 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60695975?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett sentenced to 150 days in jail in attack hoax case</a> BBC: A Chicago judge told Jussie Smollett that he has "turned his life upside down" with the hoax. 
  <p class="updated_time"> 07:48 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/north-korea-intercontinental-missile.html">U.S. Says North Korea Is Testing a New Intercontinental Missile</a> NYT: The missile, first displayed in 2020, was tested twice in recent days. While it is unclear whether it can reach the U.S., it poses a new military challenge to President Biden in the midst of the Ukraine war. 
- <p class="updated_time"> 07:24 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 07:46 PM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931">Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk</a> WSJ: Unfounded Russian Claims of Biological Weapons Research in Ukraine Stir Fears of Wider Risk 
  <p class="updated_time"> 06:52 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-60571133?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Growing numbers of firms pull back from Russia</a> BBC: Reputational risk and practical difficulties are making it harder to do business in the country. 
+ <p class="updated_time"> 06:46 PM CT, Mar. 10 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 06:24 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/shabab-manda-bay-kenya-attack.html">‘Inadequate’ Security Led to Deaths of 3 Americans in Kenya Attack, Report Finds</a> NYT: The inquiry also found shortcomings in the sharing of intelligence before the deadly assault by the Shabab in 2020. 
- <p class="updated_time"> 06:24 PM CT, Mar. 10 </p> 
- <a href="https://www.wsj.com/articles/in-ukraine-a-peoples-army-includes-rock-stars-tv-hosts-and-playwrights-11646918565">In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights</a> WSJ: In Ukraine, a People’s Army Includes Rock Stars, TV Hosts and Playwrights 
  <p class="updated_time"> 06:05 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses.</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
  <p class="updated_time"> 06:02 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60696603?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Foreign fighters go to join defence</a> BBC: Nearly 20,000 international volunteers have signed up to fight alongside Ukrainian forces, officials say. 
  <p class="updated_time"> 06:01 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60667515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'I have 20 children here, please send help'</a> BBC: Tens of thousands of children in Ukrainian state care are in desperate need to get out of the country. 
- <p class="updated_time"> 05:24 PM CT, Mar. 10 </p> 
+ <p class="updated_time"> 05:46 PM CT, Mar. 10 </p> 
  <a href="https://www.wsj.com/articles/north-korea-tested-components-of-new-icbm-in-february-march-launches-u-s-officials-say-11646946061">North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say</a> WSJ: North Korea Tested Components of New ICBM in February, March Launches, U.S. Officials Say 
  <p class="updated_time"> 05:18 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085903957/inflation-reached-a-new-40-year-high-even-before-the-big-spike-in-gas-prices">Inflation reached a new 40-year high — even before the big spike in gas prices</a> NPR: Annual inflation rose to a four-decade high in February, as consumer prices were up 7.9% from a year ago. That does not include most of the spike in gas prices tied to Russia's invasion of Ukraine. 
@@ -276,8 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/10/florida-republicans-race-classrooms-companies-00016118">Florida lawmakers limit how race can be taught in classrooms and companies</a> Politico: GOP leaders contend that the legislation, couched as an “individual freedom” bill, was needed to keep teachers and companies objective when leading school lessons or employee trainings around race. 
  <p class="updated_time"> 01:16 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/2020-census-undercount-black-people-hispanics-native-americans-00016138">Census undercounted Black people, Hispanics and Native Americans in 2020</a> Politico: Census Bureau Director Robert Santos noted the 2020 undercounts reflect “limitations" in the decennial tally. 
- <p class="updated_time"> 12:51 PM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/supply-chain-disruptions-russia-ukraine-war-00015992">‘People are going to get real nervous’: Oil shock upends Fed strategy</a> Politico: The Fed is set to begin hiking borrowing costs next week in a bid to rein in consumer prices. 
  <p class="updated_time"> 12:15 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/biden-administration-extends-masks-for-travel-through-april-18-00016097">Biden administration extends travel mask mandate through April 18</a> Politico: The mask mandate goes hand-in-hand with the Federal Aviation Administration’s zero-tolerance policy. 
  <p class="updated_time"> 11:57 AM CT, Mar. 10 </p> 
