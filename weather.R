@@ -362,6 +362,8 @@ his_los_longer <- pivot_longer(his_los, cols = c(min,max))
 ggplot(data = temps,
        aes(x = period,
            y = temp)) +
+  geom_hline(data = temps_past_hour, aes(yintercept = temp,
+                                         color = temp)) +
   geom_line(data = temps,
             aes(color = temp),
             size = 2) +
@@ -408,6 +410,8 @@ ggsave("plots/temp_history.png", bg = "white",
 ggplot(data = temps,
        aes(x = period,
            y = temp)) +
+  geom_hline(data = temps_past_hour, aes(yintercept = temp,
+                                         color = temp)) +
   geom_line(data = temps,
             aes(color = temp),
             size = 2) +
