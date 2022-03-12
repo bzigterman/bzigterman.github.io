@@ -9,16 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:11 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-war-europe-nuclear-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
+ <p class="updated_time"> 06:09 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">What Happened on Day 16 of Russia’s Invasion of Ukraine</a> NYT: Russian forces opened fire on a cancer hospital in the southern city of Mykolaiv. Vice President Kamala Harris said Americans would have to pay more for gas to punish Russia. 
+ <p class="updated_time"> 06:04 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html">American Officials Believe They Have Located Putin’s Yacht</a> NYT: They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member. 
+ <p class="updated_time"> 05:48 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-kyiv-russia-fighting.html">How a Line of Russian Tanks Became an Inviting Target for Ukrainians</a> NYT: A skirmish in an eastern suburb of Kyiv illustrated how close Russian forces have come as they continued to tighten a noose on the city, but also revealed their strategic vulnerabilities. 
+ <p class="updated_time"> 05:46 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/asia/india-pakistan-missile.html">India Accidentally Fires a Missile at Pakistan. Calm Ensues.</a> NYT: Mistrust runs deep between the nuclear-armed neighbors, but Pakistan had a low-key response to what India called a “technical malfunction.” No casualties were reported. 
+ <p class="updated_time"> 05:43 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
+ <p class="updated_time"> 05:22 AM CT, Mar. 12 </p> 
+ <a href="https://www.npr.org/2022/03/12/1086271579/russians-shelled-a-mosque-where-80-people-were-sheltering-in-mariupol-ukraine-sa">Russians shelled a mosque where 80 people were sheltering in Mariupol, Ukraine says</a> NPR: The Ukrainian Embassy in Turkey said that a group of 86 Turkish nationals, including 34 children, were among the people who had sought safety in the mosque. 
+ <p class="updated_time"> 05:17 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 05:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/canada/arctic-security-concerns-resurface-in-canadas-territories-amid-russian-war.html">Arctic Security Concerns Resurface in Canada’s Territories Amid Russian War</a> NYT: Between melting sea ice and increased militarization, the Arctic is changing, and premiers in Canada’s territories say the Russian war is another reason to put Arctic security on the policy forefront. 
- <p class="updated_time"> 04:56 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russia Starts Day With Attacks Across Ukraine</a> NYT: There was heavy fire at and from Mykolaiv on Saturday morning, a day after Russian forces opened fire on a cancer hospital in the southern city. Air-raid sirens sounded in cities across the country before dawn. 
  <p class="updated_time"> 04:38 AM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60720259?at_medium=RSS&at_campaign=KARANGA">Watch: Otters in Singapore cross road with police escort</a> BBC: Why did the otters cross the road? They were outside Singapore's presidential palace, so that may be a clue. 
- <p class="updated_time"> 04:19 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-war-europe-nuclear-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
- <p class="updated_time"> 04:13 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
+ <p class="updated_time"> 04:17 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 04:10 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Prompting Flashbacks for Syrians</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
@@ -35,22 +47,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/business/russia-airlines-planes.html">Hundreds of Planes Are Stranded in Russia. They May Never Be Recovered.</a> NYT: Western companies that own the planes face little prospect of getting them back, meaning billions of dollars in losses. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/business/russian-business-boycotts.html">That Russian Business You’re Boycotting Isn’t Actually Russian</a> NYT: The consumer activism that makes a vodka C.E.O. say: ‘Do you know we’re Latvian?’ 
- <p class="updated_time"> 03:13 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
- <p class="updated_time"> 02:57 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/12/world/asia/india-pakistan-missile.html">India Accidentally Fires a Missile at Pakistan. Calm Ensues.</a> NYT: Mistrust runs deep between the nuclear-armed neighbors, but Pakistan had a low-key response to what India called a “technical malfunction.” No casualties were reported. 
- <p class="updated_time"> 02:13 AM CT, Mar. 12 </p> 
+ <p class="updated_time"> 03:17 AM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
+ <p class="updated_time"> 02:17 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 02:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html">Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War</a> NYT: Mykhailo Fedorov, Ukraine’s youngest minister, has turned technology, cryptocurrency and social media into modern weapons of war. 
  <p class="updated_time"> 01:18 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html">Lockdowns Spread in China as Covid Cases Surge in Shanghai and Other Areas</a> NYT: Officials say that most of the recent cases detected in widespread testing are asymptomatic but still contagious. 
- <p class="updated_time"> 01:13 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
+ <p class="updated_time"> 01:17 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 12:44 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/iran-nuclear-talks-russia.html">Russian Demands to Ease Sanctions Halt Nuclear Talks With Iran</a> NYT: Russia has injected its fight against sanctions into talks aimed at restoring a nuclear agreement with Iran. The Russian demands have delayed the prospect of a deal. 
- <p class="updated_time"> 12:13 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
  <p class="updated_time"> 09:57 PM CT, Mar. 11 </p> 
@@ -73,14 +81,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60697261?at_medium=RSS&at_campaign=KARANGA">Ukraine: Spam website set up to reach millions of Russians</a> BBC: A Norwegian computer expert has made a system for volunteers to email millions of Russian people about the war 
  <p class="updated_time"> 06:32 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: How Russia is recruiting mercenaries</a> BBC: Social media channels and private messaging groups are being used to recruit, the BBC has learned. 
- <p class="updated_time"> 06:28 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-kyiv-russia-fighting.html">How a Line of Russian Tanks Became an Inviting Target for Ukrainians</a> NYT: A skirmish in an eastern suburb of Kyiv illustrated how close Russian forces have come as they continued to tighten a noose on the city, but also revealed their strategic vulnerabilities. 
  <p class="updated_time"> 06:25 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60707531?at_medium=RSS&at_campaign=KARANGA">Under threat of Russian bombs, Lviv hides away its priceless heritage</a> BBC: The picturesque western city of Lviv is racing to protect is cultural and religious artefacts. 
  <p class="updated_time"> 06:14 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/60684682?at_medium=RSS&at_campaign=KARANGA">Ukraine: How China is censoring online discussion of the war</a> BBC: The authorities are struggling to keep a lid on pro- and anti-Russian views being discussed online. 
- <p class="updated_time"> 06:10 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html">American Officials Believe They Have Located Putin’s Yacht</a> NYT: They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member. 
  <p class="updated_time"> 06:10 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60699864?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 5-11 March 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:00 PM CT, Mar. 11 </p> 
@@ -141,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/travel/ukraine-architecture-war.html">Ukraine’s Architectural Treasures Face Destruction</a> NYT: The country’s vast array of historic buildings, artworks and public squares are an integral part of Ukraine’s cultural identity. Amid the violence of war, many are being reduced to rubble. 
  <p class="updated_time"> 10:51 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085606596/ukraine-russia-news-invasion-refugees-poland-przemysl">This Polish mayor has become a hero for Ukrainians in crisis. But what of his past?</a> NPR: Wojciech Bakun admits he was ill-prepared to become a front-line humanitarian worker dealing with the rush of refugees from Ukraine. And some onlookers have been surprised by his response too. 
- <p class="updated_time"> 10:25 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
  <p class="updated_time"> 10:17 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/hong-kong-hospitals-covid.html">Overwhelmed Hong Kong Hospitals Keep Dead Near Covid Patients </a> NYT: For several weeks, bodies have been piling up at hospitals because the city’s public mortuaries, which can take up to 3,000 bodies, are full. 
  <p class="updated_time"> 10:10 AM CT, Mar. 11 </p> 
@@ -157,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60705486?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin seeks foreign volunteers to fight in Ukraine</a> BBC: "We need to give them what they want and help them get to the conflict zone," the Russian leader said. 
  <p class="updated_time"> 09:24 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/11/1085771015/sisters-flee-kyiv-as-they-struggle-to-stay-in-touch-with-family-in-mariupol">Sisters flee Kyiv as they struggle to stay in touch with family in Mariupol</a> NPR: "We don't even know that they are alive," two sisters with family in Mariupol are among the over 2 million people who have fled the Russian war in Ukraine. Many are passing through Lviv on their way. 
- <p class="updated_time"> 09:20 AM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1086007627/european-union-ukraine-membership-fast-track">The EU will welcome Ukraine but won't fast-track its membership application</a> NPR: During a summit in France, European Union leaders issued a statement backing Ukraine's bid for membership but stopped short of an immediate welcome. The application process typically takes years. 
  <p class="updated_time"> 09:12 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">What sanctions are being imposed on Russia over Ukraine invasion?</a> BBC: Western nations have imposed severe sanctions on Russia over its invasion of Ukraine. 
  <p class="updated_time"> 09:07 AM CT, Mar. 11 </p> 
@@ -183,6 +183,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/business/economy/imf-global-outlook-ukraine-war.html">IMF Warns Ukraine-Russia War Will Likely Slow Global Growth</a> NYT: The economic fallout from Russia’s invasion will depend on the outcome of the war and the duration of the sanctions. 
  <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60706861?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Destruction in wake of first strikes on Dnipro</a> BBC: A shoe factory and a nursery are among the buildings said to have been hit. 
+ <p class="updated_time"> 02:54 AM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/10/world/europe/here-are-the-latest-developments-ukraine.html">Russia-Ukraine talks come to nothing as bombardment of cities continues.</a> NYT: Thousands of people fled through ‘humanitarian corridors’ as Vice President Kamala Harris said that Russia should be investigated for war crimes. U.S. officials warned that Putin’s threat to seize businesses would lead to more ‘economic pain.’ 
  <p class="updated_time"> 12:43 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
@@ -203,14 +205,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60699588?at_medium=RSS&at_campaign=KARANGA">Watch: Our correspondent goes into no-man's land with the Ukrainian army</a> BBC: The BBC spent a week with Ukrainian forces in Kharkiv as they fight to stop a further Russian advance. 
  <p class="updated_time"> 04:26 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/travel/poland-ukraine-refugees.html"> Poland’s Tourism Industry Is Helping Ukrainian Refugees</a> NYT: As Ukrainians flood into Poland, the travel industry has become part of an effort to supply transportation, accommodations and more to people fleeing the Russian invasion. 
- <p class="updated_time"> 04:07 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/business/energy-environment/iraq-opec-oil-price.html">Iraqi Minister Says High Oil Prices Could Speed the Shift to E.V.s</a> NYT: Whatever the short-term benefits for producers, the market upheaval could accelerate the transition away from oil, he says. 
  <p class="updated_time"> 03:57 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html">As War Rages, a Struggle to Balance Energy Crunch and Climate Crisis</a> NYT: Rising oil prices and increased demand for expanded production come at a time when scientists say nations must sharply cut the use of fossil fuels. 
  <p class="updated_time"> 03:43 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/theater/belarus-free-theatre-exile.html">An Exiled Theater With a Warning for Europe</a> NYT: The Belarus Free Theater’s members fled repression at home. The company’s latest show imagines a nightmare future of authoritarian Russian rule. 
- <p class="updated_time"> 11:36 AM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/world/europe/france-presidential-election-media-cnews-.html">How Billionaires Are Shaping France’s Presidential Campaign</a> NYT: In a nation with strict political finance laws, control over the news media has provided an avenue for the very rich to influence elections, this one more than ever. 
 
 
 </details>
@@ -218,6 +216,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:59 AM CT, Mar. 12 </p> 
+ <a href="https://www.politico.com/news/2022/03/12/russia-warns-u-s-over-arms-shipments-to-ukraine-00016820">Russia warns U.S. over arms shipments to Ukraine</a> Politico: Diplomat says any such convoys are "legitimate targets.” 
+ <p class="updated_time"> 06:04 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html">American Officials Believe They Have Located Putin’s Yacht</a> NYT: They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086015498/trumps-political-revenge-tour-takes-on-republicans-who-broke-with-him-over-jan-6">Trump's political revenge tour takes on Republicans who broke with him over Jan. 6</a> NPR: The former president is campaigning in South Carolina on Saturday night in the district of one GOP lawmaker who voted for impeachment and is facing a primary challenge from a Trump-backed opponent. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
@@ -239,7 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:09 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/iowa-caucus-criticism-dnc-00016809">Iowa takes criticism at DNC but hangs onto its spot — for now</a> Politico: Party officials criticized the first in the nation caucus state at a Friday meeting. 
  <p class="updated_time"> 09:03 PM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/russian-warplanes-artillery-hit-00016812">Russian warplanes, artillery widen attack, hit industry hub</a> Politico: New commercial satellite images appeared to capture artillery firing on residential areas between Russian forces and the capital. 
+ <a href="https://www.politico.com/news/2022/03/11/russian-warplanes-artillery-hit-00016812">Russia strikes near Ukraine's capital; mosque reported hit</a> Politico: New commercial satellite images appeared to capture artillery firing on residential areas between Russian forces and the capital. 
  <p class="updated_time"> 08:10 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
  <p class="updated_time"> 07:33 PM CT, Mar. 11 </p> 
@@ -256,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/us/politics/afghan-embassy-closing.html">Afghan Embassy, Now Out of Money, Will Shut Down, U.S. Says</a> NYT: The development caps a sad saga for Afghan diplomats, who have 30 days to apply to remain in the United States or face the threat of deportation. 
  <p class="updated_time"> 06:42 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/shutout-for-feds-in-straw-donor-trial-00016737">Shutout for feds in straw donor trial</a> Politico: A D.C. jury has acquitted two men of a scheme to funnel illegal donations to the Clinton 2016 campaign and, later, pro-Trump causes. 
- <p class="updated_time"> 06:10 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html">American Officials Believe They Have Located Putin’s Yacht</a> NYT: They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member. 
  <p class="updated_time"> 06:05 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/nevada-latino-voters-republicans.html">Republicans Sense an Opportunity in Nevada’s Restless Latino Voters</a> NYT: Seizing on signs that suggest Democrats are losing support among Hispanic voters nationwide, Republicans are targeting Senator Catherine Cortez Masto’s seat. 
  <p class="updated_time"> 06:02 PM CT, Mar. 11 </p> 
@@ -290,8 +290,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/11/pence-jan-6-election-certification-script-00016539">How Pence used 43 words to shut down Trump allies' election subversion on Jan. 6</a> Politico: The then-vice president and his top aides rewrote the script long used to certify elections, making clear that false elector slates wouldn't fly. 
  <p class="updated_time"> 12:35 PM CT, Mar. 11 </p> 
  <a href="https://www.cnn.com/2022/03/11/europe/language-meaning-ukraine-russia-invasion-cmd-intl/index.html">Decoding the language around Russia's invasion of Ukraine</a> CNN: Russia's unprovoked invasion of Ukraine has devastated the country, killing hundreds of civilians, sparking a humanitarian disaster and resulting in a wave of sanctions from the West. 
- <p class="updated_time"> 12:18 PM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/biden-says-russia-will-pay-severe-price-if-it-uses-chemical-weapons-in-ukraine-00016546">Biden warns Russia will pay 'severe price' if it uses chemical weapons in Ukraine</a> Politico: The president’s threat comes on the heels of a series of warnings from White House officials this week that Russia might seek to use chemical or biological weapons in Ukraine. 
  <p class="updated_time"> 12:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html">Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia</a> NYT: The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success. 
  <p class="updated_time"> 11:44 AM CT, Mar. 11 </p> 
@@ -372,8 +370,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/09/omnibus-almost-on-track-00015528">Omnibus (almost) on track</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:21 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/09/harris-steps-in-the-middle-of-a-nato-standoff-00015516"> Harris steps in the middle of a NATO standoff</a> Politico Playbook: And Congress unveils a bipartisan government spending deal. 
- <p class="updated_time"> 05:39 AM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/congress-government-funding-package-00014322">House Dems clear $1.5T spending deal after stripping Covid aid</a> Politico: The chamber voted on a sweeping funding measure that includes billions in emergency aid to Ukraine. 
 
 
 </details>
