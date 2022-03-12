@@ -332,24 +332,33 @@ temps_past_decade <- temp_history %>%
   mutate(period = "Past Decade") %>%
   select(temp, period)%>%
   arrange(temp)
+temps_past_century <- temp_history %>%
+  #filter(central_time > now(tzone = "America/Chicago")-years(200)) %>%
+  mutate(period = "All Records (since 1888)") %>%
+  select(temp, period)%>%
+  arrange(temp)
+
 
 temps <- full_join(temps_past_hour,temps_today) %>%
   full_join(temps_yesterday) %>%
   full_join(temps_past_week) %>%
   full_join(temps_past_month) %>%
   full_join(temps_past_year) %>%
-  full_join(temps_past_decade)
+  full_join(temps_past_decade) %>%
+  full_join(temps_past_century)
 
-his_los <- tibble(period = c("Past Decade","Past Year","Past Month","Past Week",
+his_los <- tibble(period = c("All Records (since 1888)","Past Decade","Past Year","Past Month","Past Week",
                              "Yesterday","Today","Latest"),
-                  min = c(min(temps_past_decade$temp),
+                  min = c(min(temps_past_century$temp),
+                          min(temps_past_decade$temp),
                           min(temps_past_year$temp),
                           min(temps_past_month$temp),
                           min(temps_past_week$temp),
                           min(temps_yesterday$temp),
                           min(temps_today$temp),
                           as.numeric("NA")),
-                  max = c(max(temps_past_decade$temp),
+                  max = c(max(temps_past_century$temp),
+                          max(temps_past_decade$temp),
                           max(temps_past_year$temp),
                           max(temps_past_month$temp),
                           max(temps_past_week$temp),
@@ -387,7 +396,8 @@ ggplot(data = temps,
             #nudge_y = 1,
             nudge_x = -.2,
             color = "grey60") +
-  scale_x_discrete(limits = c("Past Decade","Past Year","Past Month","Past Week",
+  scale_x_discrete(limits = c("All Records (since 1888)","Past Decade","Past Year",
+                              "Past Month","Past Week",
                               "Yesterday","Today","Latest"),
                    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
@@ -435,7 +445,8 @@ ggplot(data = temps,
             #nudge_y = 1,
             nudge_x = -.3,
             color = "grey60") +
-  scale_x_discrete(limits = c("Past Decade","Past Year","Past Month","Past Week",
+  scale_x_discrete(limits = c("All Records (since 1888)","Past Decade","Past Year",
+                              "Past Month","Past Week",
                               "Yesterday","Today","Latest"),
                    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
