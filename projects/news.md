@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:15 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russia Widens its Bombardment of Ukraine</a> NYT: The southern city of Mykolaiv was among those hit hard Friday, with Russian forces opening fire on an oncology hospital and other public places. A superyacht in Italy could belong to Putin, U.S. officials say. 
+ <p class="updated_time"> 08:10 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
  <p class="updated_time"> 07:49 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
- <p class="updated_time"> 07:39 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russia Widens its Bombardment of Ukraine</a> NYT: The southern city of Mykolaiv was among those hit hard Friday, with Russian forces opening fire on an oncology hospital and other public places. A superyacht in Italy could belong to Putin, U.S. officials say. 
  <p class="updated_time"> 07:34 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60684120?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: A warm hug meant that war had begun</a> BBC: Why so many Ukrainians are determined to keep on working through the conflict. 
- <p class="updated_time"> 07:06 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
+ <p class="updated_time"> 07:30 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 07:04 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60710227?at_medium=RSS&at_campaign=KARANGA">Transgender children: Texas plan to probe parents halted</a> BBC: Parents seeking gender transition for their children may not be investigated for so-called abuse. 
- <p class="updated_time"> 06:52 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 06:32 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: How Russia is recruiting mercenaries</a> BBC: Social media channels and private messaging groups are being used to recruit, the BBC has learned. 
+ <p class="updated_time"> 06:30 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 06:28 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-kyiv-russia-fighting.html">How a Line of Russian Tanks Became an Inviting Target for Ukrainians</a> NYT: A skirmish in an eastern suburb of Kyiv illustrated how close Russian forces have come as they continued to tighten a noose on the city, but also revealed their strategic vulnerabilities. 
  <p class="updated_time"> 06:25 PM CT, Mar. 11 </p> 
@@ -35,18 +37,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-60699864?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 5-11 March 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:00 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60714529?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukrainians mourn their fallen soldiers</a> BBC: Funerals are held for the first Ukrainian victims of the Ukraine-Russia war. 
- <p class="updated_time"> 05:52 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 05:49 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60703499?at_medium=RSS&at_campaign=KARANGA">Ranveer Brar: The chef who wants coriander as India's national herb</a> BBC: Chef Ranveer Brar's petition to recognise "the superstar of our kitchen" has been signed by thousands. 
+ <p class="updated_time"> 05:30 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 05:29 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-bombardment-chechnya.html">Slowed on the Battlefield, Russia Widens Bombardment of Ukrainian Cities</a> NYT: But military experts, citing previous Russian campaigns, say that strategy is unlikely to succeed without bloody urban fighting. 
  <p class="updated_time"> 05:03 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/science/endurance-ship-ernest-shackleton.html">The New Captain of the Endurance Shipwreck Is an Anemone</a> NYT: A who’s who of the new invertebrate crew steering Ernest Shackleton’s sunken ship in the Weddell Sea. 
- <p class="updated_time"> 04:52 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 04:51 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
+ <p class="updated_time"> 04:30 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 04:26 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
  <p class="updated_time"> 04:11 PM CT, Mar. 11 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086153806/in-chechnya-and-syria-ominous-signs-for-ukraine">In Chechnya and Syria, ominous signs for Ukraine</a> NPR: From the Chechen Wars through its air campaign in Syria, Russian military operations have often taken a high toll on civilians. What does that portend in Ukraine? 
  <p class="updated_time"> 03:54 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086003950/russia-ukraine-war-what-happened-today-march-11">Russia-Ukraine war: What happened today (March 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:52 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 03:44 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/kamala-harris-gas-prices-democracy.html">Kamala Harris Says U.S. Must Bear Higher Gas Prices to Punish Russia</a> NYT: Vice President Kamala Harris, visiting NATO ally Romania, insisted that the higher costs of energy associated with sanctions imposed on Moscow over its war on Ukraine would be worth the pain. 
  <p class="updated_time"> 03:41 PM CT, Mar. 11 </p> 
@@ -71,12 +71,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086153771/an-update-on-the-evacuation-of-american-twins-born-prematurely-in-ukraine">An update on the evacuation of American twins born prematurely in Ukraine</a> NPR: NPR's Ari Shapiro provides an update on the condition of the American twins evacuated from Ukraine earlier this week. The two were too small to move in the days after they were born into a war zone. 
  <p class="updated_time"> 03:33 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153544/melitopol-mayor-abducted">The mayor of Melitopol, Ukraine, has been abducted, officials say</a> NPR: Mayor Ivan Fedorov was abducted on Friday, according to Ukrainian officials. He was reportedly seized by approximately 10 people while in the city center, and they put a plastic bag over his head. 
+ <p class="updated_time"> 03:30 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 03:24 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153757/foreign-investors-want-out-of-the-economic-crossfire-but-cant-exit-russian-holdi">Foreign investors want out of the economic crossfire, but can't exit Russian holdings</a> NPR: As wide-ranging sanctions cripple Russia's economy, many international investors have determined the country is no longer a place where they can invest their money. 
  <p class="updated_time"> 03:20 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153750/how-the-busiest-border-crossing-from-ukraine-to-poland-compares-to-a-quieter-one">How the busiest border crossing from Ukraine to Poland compares to a quieter one</a> NPR: The UN now says more than 2.5 million people have fled Ukraine, most of them to Poland. NPR's Ari Shapiro reports on the busiest and one of the most quiet border crossings in Poland. 
- <p class="updated_time"> 02:52 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 01:37 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Triggering Flashbacks for Syrians.</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
  <p class="updated_time"> 01:25 PM CT, Mar. 11 </p> 
@@ -212,10 +212,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:03 PM CT, Mar. 11 </p> 
+ <a href="https://www.politico.com/news/2022/03/11/russian-warplanes-artillery-hit-00016812">Russian warplanes, artillery widen attack, hit industry hub</a> Politico: New commercial satellite images appeared to capture artillery firing on residential areas between Russian forces and the capital. 
+ <p class="updated_time"> 08:10 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
  <p class="updated_time"> 07:33 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/texas-judge-abbott-transgender-investigation-order-00016802">Texas judge halts Abbott's transgender investigation order</a> Politico: Travis County District Judge Amy Clark Meachum scheduled a trial to occur in July. 
- <p class="updated_time"> 07:06 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
  <p class="updated_time"> 07:02 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/texas-abortion-law.html">Texas Supreme Court Shuts Down Final Challenge to Abortion Law</a> NYT: The ruling says state officials have no authority to enforce the law, which empowers private citizens: “We cannot rewrite the statute.” 
  <p class="updated_time"> 06:57 PM CT, Mar. 11 </p> 
