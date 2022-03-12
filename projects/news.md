@@ -9,25 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:42 AM CT, Mar. 12 </p> 
+ <p class="updated_time"> 04:26 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russia Starts Day With Attacks Across Ukraine</a> NYT: There was heavy fire at and from Mykolaiv on Saturday morning, a day after Russian forces opened fire on a cancer hospital in the southern city. Air-raid sirens sounded in cities across the country before dawn. 
+ <p class="updated_time"> 04:19 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-war-europe-nuclear-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
+ <p class="updated_time"> 04:10 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Prompting Flashbacks for Syrians</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.npr.org/2022/03/12/1086038088/russia-ukraine-invasion-humanitarian-aid-unhcr">For this team delivering aid into Ukraine, the supply run is personal</a> NPR: As millions of refugees flee Ukraine, Silva Alkebeh spends her time thinking about how to get aid across the border and into the heart of the most besieged cities. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.npr.org/2022/03/12/1085967986/iron-curtain-russia-soviet-union-mcdonalds-ikea-pepsi">An economic iron curtain is falling on Russia as companies like McDonald's cut ties</a> NPR: Global companies are exiting Russia after the country's invasion of Ukraine. For some observers, it marks the return of Russia to a time when it was closed off from the global economy. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Make Science, Not War, Scientists Say</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/europe/coronavirus-war-ukraine.html">Russian Invasion Could Spur Covid Surge in Ukraine, Doctors Say</a> NYT: War has pushed Covid out of people’s minds while forcing them into crowded and unsanitary conditions that are fertile ground for the coronavirus, polio and other pathogens. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/books/cristina-rivera-garza-book-murder.html">An Author Wrote About Her Sister’s Murder. It Led to a Breakthrough.</a> NYT: Cristina Rivera Garza wanted to shed light on the life of her sister, killed 30 years ago. Her book, part of a larger call for justice by women in Mexico, helped locate the suspect. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/business/russia-airlines-planes.html">Hundreds of Planes Are Stranded in Russia. They May Never Be Recovered.</a> NYT: Western companies that own the planes face little prospect of getting them back, meaning billions of dollars in losses. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/business/russian-business-boycotts.html">That Russian Business You’re Boycotting Isn’t Actually Russian</a> NYT: The consumer activism that makes a vodka C.E.O. say: ‘Do you know we’re Latvian?’ 
+ <p class="updated_time"> 03:30 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 02:57 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/asia/india-pakistan-missile.html">India Accidentally Fires a Missile at Pakistan. Calm Ensues.</a> NYT: Mistrust runs deep between the nuclear-armed neighbors, but Pakistan had a low-key response to what India called a “technical malfunction.” No casualties were reported. 
- <p class="updated_time"> 02:48 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
+ <p class="updated_time"> 02:30 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 02:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html">Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War</a> NYT: Mykhailo Fedorov, Ukraine’s youngest minister, has turned technology, cryptocurrency and social media into modern weapons of war. 
- <p class="updated_time"> 01:48 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
+ <p class="updated_time"> 01:30 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 01:18 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html">Lockdowns Spread in China as Covid Cases Surge in Shanghai and Other Areas</a> NYT: Officials say that most of the recent cases detected in widespread testing are asymptomatic but still contagious. 
- <p class="updated_time"> 12:48 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 12:44 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/iran-nuclear-talks-russia.html">Russian Demands to Ease Sanctions Halt Nuclear Talks With Iran</a> NYT: Russia has injected its fight against sanctions into talks aimed at restoring a nuclear agreement with Iran. The Russian demands have delayed the prospect of a deal. 
- <p class="updated_time"> 11:48 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 12:30 AM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
- <p class="updated_time"> 10:48 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 11:30 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
@@ -95,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086153750/how-the-busiest-border-crossing-from-ukraine-to-poland-compares-to-a-quieter-one">How the busiest border crossing from Ukraine to Poland compares to a quieter one</a> NPR: The UN now says more than 2.5 million people have fled Ukraine, most of them to Poland. NPR's Ari Shapiro reports on the busiest and one of the most quiet border crossings in Poland. 
  <p class="updated_time"> 02:04 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60714515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv prepares for Russian attack</a> BBC: As Russian forces continue their slow advance, Kyiv's residents fear the worst for their city. 
- <p class="updated_time"> 01:37 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Triggering Flashbacks for Syrians.</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
  <p class="updated_time"> 01:25 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/middleeast/saudi-raif-badawi-liberation.html">Saudi Blogger Raif Badawi Is Released From Prison</a> NYT: Amnesty International welcomed news of the release of Raif Badawi, whose case became a lightening rod for rights campaigners and reflected Saudi Arabia’s lack of tolerance for dissent. 
  <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
@@ -143,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">What sanctions are being imposed on Russia over Ukraine invasion?</a> BBC: Western nations have imposed severe sanctions on Russia over its invasion of Ukraine. 
  <p class="updated_time"> 09:07 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60709208?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Instagram banned in Russia over 'calls to violence'</a> BBC: Instagram owner Meta has allowed users in some countries to call for violence against Russia's army. 
- <p class="updated_time"> 08:41 AM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1086001579/11-year-old-ukrainian-boy">A Ukrainian boy travels 620 miles to safety with a phone number written on his hand</a> NPR: An 11-year-old named Hassan traveled alone into Slovakia with a plastic bag, a passport and a phone number for relatives. His mother had sent him to safety, unable to leave herself. 
  <p class="updated_time"> 08:38 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-bombards-ukrainian-cities.html">Russia Batters and Encircles Ukrainian Cities, as Diplomacy Falters</a> NYT: The first meeting during the war of the two countries’ foreign ministers yielded no cease-fire. The Russian side signaled that its invasion would not stop until Ukraine surrendered. 
  <p class="updated_time"> 08:22 AM CT, Mar. 11 </p> 
@@ -165,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
  <p class="updated_time"> 04:56 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/business/economy/imf-global-outlook-ukraine-war.html">IMF Warns Ukraine-Russia War Will Likely Slow Global Growth</a> NYT: The economic fallout from Russia’s invasion will depend on the outcome of the war and the duration of the sanctions. 
- <p class="updated_time"> 04:38 AM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1085985036/china-locks-down-city-of-9-million-amid-new-spike-in-cases">China locks down a city of 9 million amid a new spike in COVID-19 cases</a> NPR: The latest lockdowns extend China's draconian approach to the pandemic it has enforced for most of the past two years 
  <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60706861?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Destruction in wake of first strikes on Dnipro</a> BBC: A shoe factory and a nursery are among the buildings said to have been hit. 
  <p class="updated_time"> 12:43 AM CT, Mar. 11 </p> 
@@ -197,14 +209,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/climate/climate-oil-crisis-global.html">As War Rages, a Struggle to Balance Energy Crunch and Climate Crisis</a> NYT: Rising oil prices and increased demand for expanded production come at a time when scientists say nations must sharply cut the use of fossil fuels. 
  <p class="updated_time"> 03:43 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/theater/belarus-free-theatre-exile.html">An Exiled Theater With a Warning for Europe</a> NYT: The Belarus Free Theater’s members fled repression at home. The company’s latest show imagines a nightmare future of authoritarian Russian rule. 
- <p class="updated_time"> 12:29 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/world/europe/chernihiv-russia-troops.html">Russian Forces Have Encircled Northern Ukraine City of Chernihiv, The Mayor Says</a> NYT: Ukrainian forces are battling to keep some roads open, as Russia tightens its cordon around the battered city. “We are surrounded,” the mayor said. 
  <p class="updated_time"> 11:36 AM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/france-presidential-election-media-cnews-.html">How Billionaires Are Shaping France’s Presidential Campaign</a> NYT: In a nation with strict political finance laws, control over the news media has provided an avenue for the very rich to influence elections, this one more than ever. 
- <p class="updated_time"> 09:57 AM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/arts/music/russia-music-canceled-concerts.html">Major Music Companies Pause Business in Russia</a> NYT: The three major record conglomerates and the touring giant Live Nation are suspending operations over Russia’s invasion of Ukraine, while individual artists have canceled tour dates. 
- <p class="updated_time"> 08:58 AM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/technology/disinformation-russia-ukraine.html">4 Falsehoods Russians Are Told About the War</a> NYT: Russia’s disinformation machine is working in overdrive inside its own borders. 
 
 
 </details>
@@ -212,6 +218,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.npr.org/2022/03/12/1086015498/trumps-political-revenge-tour-takes-on-republicans-who-broke-with-him-over-jan-6">Trump's political revenge tour takes on Republicans who broke with him over Jan. 6</a> NPR: The former president is campaigning in South Carolina on Saturday night in the district of one GOP lawmaker who voted for impeachment and is facing a primary challenge from a Trump-backed opponent. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Make Science, Not War, Scientists Say</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-pelosi-democrats-midterm-elections.html">House Democrats Push Biden to Build a Better Midterm Message</a> NYT: House Democrats have been pressing the president to come up with a bumper-sticker-worthy slogan. The White House says it’s sharpening its message. 
  <p class="updated_time"> 02:21 AM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086267179/justice-thomas-worries-trends-like-cancel-culture-will-compromise-institutions">Justice Thomas worries 'trends' like 'cancel culture' will compromise institutions</a> NPR: "By doing this, you continue to chip away at the respect of the institutions that the next generation is going to need if they're going to have civil society," Thomas says at Utah event. 
  <p class="updated_time"> 10:23 PM CT, Mar. 11 </p> 
@@ -328,16 +340,10 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html">What's in the government spending bill</a> CNN: A massive spending bill that would fund the federal government through September -- as well as provide $13.6 billion in fresh aid to Ukraine as the country fights back against Russia's invasion -- was passed by the Senate on Thursday evening. 
  <p class="updated_time"> 08:08 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/michael-flynn-jan-6-committee.html">Michael Flynn Invokes Fifth Amendment Before Jan. 6 Panel</a> NYT: The Trump ally and former national security adviser is the latest high-profile witness to sidestep questions from the House committee by citing the right against self-incrimination. 
- <p class="updated_time"> 06:03 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/us/politics/businesses-texas-trans-teens-child-abuse.html">Businesses Assail Texas Move to Classify Care for Trans Teens as ‘Child Abuse’</a> NYT: A new ad signed by dozens of big companies warns, “Discrimination is bad for business.” 
  <p class="updated_time"> 06:00 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/senate-republicans-midterms-scott-mcconnell.html">Why Rick Scott and Mitch McConnell Are Feuding Over Midterm Elections</a> NYT: Senator Rick Scott has an 11-point plan to “rescue America.” Senator Mitch McConnell would rather he not. 
- <p class="updated_time"> 05:24 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/business/justice-director-covid-fraud.html">Justice Dept. Names Prosecutor to Pursue Covid-19 Relief Fraud</a> NYT: President Biden had pledged to name a chief prosecutor to go after “criminals who stole billions in relief money.” 
  <p class="updated_time"> 04:14 PM CT, Mar. 10 </p> 
  <a href="https://www.npr.org/2022/03/10/1085716785/russia-ukraine-war-what-happened-today-march-10">Russia-Ukraine war: What happened today (March 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:07 PM CT, Mar. 10 </p> 
- <a href="https://www.npr.org/2022/03/10/1085838500/colorados-governor-treated-covid-differently-than-many-democrats-it-may-pay-off">Colorado's governor treated COVID differently than many Democrats. It may pay off</a> NPR: Gov. Jared Polis, D-Colo., canceled Colorado's state of emergency last July. As omicron surged, he refused to reinstate state-wide mask mandates. His approach seems to have made him popular. 
  <p class="updated_time"> 03:51 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/grassley-privately-investigating-garcetti-wants-nomination-held-00016243">Grassley privately investigating Garcetti, wants nomination held</a> Politico: The Iowa Republican has been in touch with whistleblowers as he looks into whether the LA Mayor lied about knowledge of a top aide's conduct. 
  <p class="updated_time"> 01:33 PM CT, Mar. 10 </p> 
@@ -368,10 +374,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/09/harris-steps-in-the-middle-of-a-nato-standoff-00015516"> Harris steps in the middle of a NATO standoff</a> Politico Playbook: And Congress unveils a bipartisan government spending deal. 
  <p class="updated_time"> 05:39 AM CT, Mar. 09 </p> 
  <a href="https://www.politico.com/news/2022/03/09/congress-government-funding-package-00014322">House Dems clear $1.5T spending deal after stripping Covid aid</a> Politico: The chamber voted on a sweeping funding measure that includes billions in emergency aid to Ukraine. 
- <p class="updated_time"> 04:30 AM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/republicans-shadow-whip-race-crowded-00015381">The House GOP's shadow whip race is on — and crowded</a> Politico: It's the surest sign Republicans have seen yet that Minority Leader Kevin McCarthy is cementing his hold on a future speakership: intensifying interest in being his No. 3. 
- <p class="updated_time"> 04:30 AM CT, Mar. 09 </p> 
- <a href="https://www.politico.com/news/2022/03/09/ronjohn-wisconsin-gop-mcconnell-majority-00015354">RonJohn, the GOP thorn who might grow McConnell a majority</a> Politico: The Wisconsin conservative is "frustrated about everything" in the Senate. He's Team Rick Scott, craving a GOP agenda. But his party needs him around. 
 
 
 </details>
