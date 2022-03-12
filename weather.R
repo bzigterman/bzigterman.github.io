@@ -443,7 +443,7 @@ ggplot(data = temps,
             angle = 90,
             size = 3,
             #nudge_y = 1,
-            nudge_x = -.3,
+            nudge_x = -.35,
             color = "grey60") +
   scale_x_discrete(limits = c("All Records (since 1888)","Past Decade","Past Year",
                               "Past Month","Past Week",
