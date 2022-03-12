@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 PM CT, Mar. 12 </p> 
+ <a href="https://www.npr.org/2022/03/12/1086309025/do-russias-assaults-on-ukraine-amount-to-war-crimes">Do Russia's assaults on Ukraine amount to war crimes?</a> NPR: NPR's Michel Martin discusses the laws of war and whether those have evolved over time with Mark Drumbl, director of the Transnational Law Institute at the Washington and Lee University School of Law. 
+ <p class="updated_time"> 04:37 PM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Ukraine Live Updates: U.S. to Send More Arms to Kyiv as Putin Resists Cease-Fire Talks</a> NYT: The Kremlin warned that convoys used to transfer weapons to Ukraine would be considered “legitimate targets” for Russian forces, which pressed into the suburbs of the capital, Kyiv. 
+ <p class="updated_time"> 04:34 PM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-europe-nuclear-war-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
  <p class="updated_time"> 04:27 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Make Science, Not War, Scientists Say</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
- <p class="updated_time"> 04:27 PM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Ukraine Live Updates: U.S. to Send More Arms to Kyiv as Russia Flattens Parts of Cities</a> NYT: Leaders of France and Germany unsuccessfully pressed President Vladimir V. Putin to agree to a cease-fire. Pitched fighting erupted in the suburbs of Ukraine’s capital, and hundreds protested in a southern city over the detention of its mayor. 
  <p class="updated_time"> 04:25 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-lutsk-ivano-frankivsk-russian-attacks.html">Western Ukraine Suffers Rare Russian Attacks</a> NYT: Western Ukraine has been a safe haven for Ukrainian refugees, as well as businessmen, journalists and diplomats. But attacks in two cities pierced the sense of security in the region. 
  <p class="updated_time"> 04:24 PM CT, Mar. 12 </p> 
@@ -21,7 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/12/1086282996/photos-ukrainian-refugees-eu">Photos: Ukrainian refugees assisted by the EU government as they flee their country</a> NPR: The EU welcomes Ukrainian nationals displaced by the Russian invasion. Expectations are in place for EU government to assist these refugees in their search for a place to land. 
  <p class="updated_time"> 03:58 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60721323?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evacuations 'extremely difficult' amid shelling</a> BBC: New attempts are under way to get civilians out of bombed Ukrainian cities as Russia's attack intensifies. 
- <p class="updated_time"> 03:34 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 03:49 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
  <p class="updated_time"> 03:29 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008248969/ukraine-soldier-funeral-lviv.html">After Days of Uncertainty, a Ukrainian Soldier Is Laid to Rest</a> NYT: Senior Lt. Vasyl Vyshyvanyi was killed by Russian forces on March 3, but heavy combat kept the military from evacuating his body. Six days later, he was buried in his home village outside Lviv. 
@@ -29,23 +33,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-mayor-kidnapped-ivan-fyodorov.html">Kidnapping of Ukrainian Mayor in Melitopol Met With a Show of Resistance</a> NYT: The 33-year-old mayor of Melitopol, Ivan Fyodorov, encouraged defiance. Then he was arrested, and hasn’t been heard from since. 
  <p class="updated_time"> 03:08 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086304057/russia-roman-abramovich-chelsea-premier-league-disqualification">Roman Abramovich has been ordered by Chelsea's soccer league to sell </a> NPR: The league board's decision comes after the British government sanctioned the Russian businessman, who has ties to President Vladimir Putin. 
- <p class="updated_time"> 02:34 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 02:49 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 02:33 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
  <p class="updated_time"> 02:14 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
- <p class="updated_time"> 01:34 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 01:49 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 01:10 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-forces-battle-kyiv.html">Ukrainian and Russian Soldiers Fight Street Battles Near Kyiv</a> NYT: The capture of the once affluent suburb of Irpin would potentially help Moscow encircle the nearby capital, military analysts say. 
  <p class="updated_time"> 01:05 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
- <p class="updated_time"> 12:34 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 12:49 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 12:03 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086282867/a-russian-pianists-shows-are-canceled-even-though-he-condemns-the-war-in-ukraine">A Russian pianist's shows are canceled, even though he condemns the war in Ukraine</a> NPR: Alexander Malofeev, 20, had already arrived in Montreal when a series of his concerts in Canada had been canceled. 
- <p class="updated_time"> 11:34 AM CT, Mar. 12 </p> 
+ <p class="updated_time"> 11:49 AM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 11:29 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/business/russian-business-boycotts.html">That Russian Business You’re Boycotting Isn’t Actually Russian</a> NYT: The consumer activism that makes a vodka C.E.O. say: ‘Do you know we’re Latvian?’ 
@@ -55,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/world/australia/new-caledonia-coronavirus.html">Covid Surge in New Caledonia, in the Pacific, HIts Indigenous Hardest</a> NYT: New Caledonia escaped the coronavirus for a year and a half, but a surge in cases has led to a state of emergency, with the disease disproportionately hurting the French territory’s Indigenous people. 
  <p class="updated_time"> 10:38 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/covid-ukraine-russia-war.html">Russian Invasion Could Spur Covid Surge in Ukraine, Doctors Say</a> NYT: War has pushed Covid out of people’s minds while forcing them into crowded and unsanitary conditions that are fertile ground for the coronavirus, polio and other pathogens. 
- <p class="updated_time"> 10:23 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-europe-nuclear-war-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
  <p class="updated_time"> 09:56 AM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086280204/saudi-arabia-carries-out-its-largest-known-execution-in-the-kingdoms-modern-hist">Saudi Arabia carries out its largest known execution in the kingdom's modern history</a> NPR: The number of those executed on Saturday — 81 — surpassed even the toll of a January 1980 mass execution for the 63 militants convicted of seizing the Grand Mosque in Mecca in 1979. 
  <p class="updated_time"> 09:29 AM CT, Mar. 12 </p> 
@@ -151,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60708350?at_medium=RSS&at_campaign=KARANGA">Ukraine: What are chemical weapons and could Russia use them?</a> BBC: There are fears Russia could use non-conventional weapons and, in so doing, cross a major red line. 
  <p class="updated_time"> 03:54 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086003950/russia-ukraine-war-what-happened-today-march-11">Russia-Ukraine war: What happened today (March 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:40 PM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1086153785/it-may-be-time-to-refocus-the-goal-of-vaccinating-70-of-every-country-advocates-">It may be time to refocus the goal of vaccinating 70% of every country, advocates say</a> NPR: Two years after the World Health Organization declared the COVID outbreak a pandemic, the vaccination rate in poor countries remains well below global targets. But do those targets still make sense? 
  <p class="updated_time"> 03:39 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60714063?at_medium=RSS&at_campaign=KARANGA">Disney apologises for 'silence' on 'Don't Say Gay' bill</a> BBC: It comes after the BBC is shown a letter which also claims "gay affection" is cut from Pixar content. 
  <p class="updated_time"> 02:04 PM CT, Mar. 11 </p> 
