@@ -9,11 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:39 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 12:18 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russia Starts Day With Heavier Attacks Across Ukraine</a> NYT: There was heavy fire at and from Mykolaiv on Saturday morning, a day after Russian forces opened fire on a cancer hospital in the southern city. Air-raid sirens sounded in cities across the country before dawn. 
- <p class="updated_time"> 11:13 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 11:37 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
- <p class="updated_time"> 10:13 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 10:37 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
@@ -23,24 +23,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/iran-nuclear-talks-russia.html">Russian Demands to Ease Sanctions Halt Nuclear Talks With Iran</a> NYT: Russia has injected its fight against sanctions into talks aimed at restoring a nuclear agreement with Iran. The Russian demands have delayed the prospect of a deal. 
  <p class="updated_time"> 09:56 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/roman-abramovich-russian-oligarch-sanctions.html">How Roman Abramovich, a Russian Oligarch, Found Himself Under Sanctions</a> NYT: The oligarch’s billions and his Kremlin connections secured him favors and elite status in the West. Now they’ve landed him on a sanctions list. 
- <p class="updated_time"> 09:13 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 09:37 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 09:03 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-bombardment-chechnya.html">Slowed on the Battlefield, Russia Widens Bombardment of Ukrainian Cities</a> NYT: But military experts, citing previous Russian campaigns, say that strategy is unlikely to succeed without bloody urban fighting. 
  <p class="updated_time"> 08:52 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ireland-church-female-saint-brigid.html">As Ireland’s Church Retreats, the Cult of a Female Saint Thrives</a> NYT: The cult of Saint Brigid, with its emphasis on nature and healing, and its shift away from the patriarchal faith of traditional Catholicism in Ireland, is attracting people from around the world. 
- <p class="updated_time"> 08:13 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 08:37 PM CT, Mar. 11 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 08:10 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
  <p class="updated_time"> 07:49 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
+ <p class="updated_time"> 07:37 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 07:34 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60684120?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: A warm hug meant that war had begun</a> BBC: Why so many Ukrainians are determined to keep on working through the conflict. 
- <p class="updated_time"> 07:13 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 07:04 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60710227?at_medium=RSS&at_campaign=KARANGA">Transgender children: Texas plan to probe parents halted</a> BBC: Parents seeking gender transition for their children may not be investigated for so-called abuse. 
+ <p class="updated_time"> 06:35 PM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60697261?at_medium=RSS&at_campaign=KARANGA">Ukraine: Spam website set up to reach millions of Russians</a> BBC: A Norwegian computer expert has made a system for volunteers to email millions of Russian people about the war 
  <p class="updated_time"> 06:32 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: How Russia is recruiting mercenaries</a> BBC: Social media channels and private messaging groups are being used to recruit, the BBC has learned. 
  <p class="updated_time"> 06:28 PM CT, Mar. 11 </p> 
@@ -61,6 +63,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/science/endurance-ship-ernest-shackleton.html">The New Captain of the Endurance Shipwreck Is an Anemone</a> NYT: A who’s who of the new invertebrate crew steering Ernest Shackleton’s sunken ship in the Weddell Sea. 
  <p class="updated_time"> 04:26 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
+ <p class="updated_time"> 04:16 PM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60715492?at_medium=RSS&at_campaign=KARANGA">Mariupol hospital attack: Pregnant woman hurt in bombing gives birth</a> BBC: Mariana Vishegirskaya, a beauty blogger, has reportedly given birth to a baby girl. 
  <p class="updated_time"> 04:11 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153827/international-and-grassroots-groups-alike-are-working-to-get-supplies-into-ukrai">International and grassroots groups alike are working to get supplies into Ukraine</a> NPR: NPR's Ari Shapiro and Tim Mak look at humanitarian efforts in Poland and Ukraine, which involve major international organizations and small grass-roots groups to bring supplies into Ukraine. 
  <p class="updated_time"> 04:07 PM CT, Mar. 11 </p> 
@@ -81,6 +85,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086153757/foreign-investors-want-out-of-the-economic-crossfire-but-cant-exit-russian-holdi">Foreign investors want out of the economic crossfire, but can't exit Russian holdings</a> NPR: As wide-ranging sanctions cripple Russia's economy, many international investors have determined the country is no longer a place where they can invest their money. 
  <p class="updated_time"> 03:20 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153750/how-the-busiest-border-crossing-from-ukraine-to-poland-compares-to-a-quieter-one">How the busiest border crossing from Ukraine to Poland compares to a quieter one</a> NPR: The UN now says more than 2.5 million people have fled Ukraine, most of them to Poland. NPR's Ari Shapiro reports on the busiest and one of the most quiet border crossings in Poland. 
+ <p class="updated_time"> 02:04 PM CT, Mar. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60714515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv prepares for Russian attack</a> BBC: As Russian forces continue their slow advance, Kyiv's residents fear the worst for their city. 
  <p class="updated_time"> 01:37 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Triggering Flashbacks for Syrians.</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
  <p class="updated_time"> 01:25 PM CT, Mar. 11 </p> 
@@ -131,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">What sanctions are being imposed on Russia over Ukraine invasion?</a> BBC: Western nations have imposed severe sanctions on Russia over its invasion of Ukraine. 
  <p class="updated_time"> 09:07 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60709208?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Instagram banned in Russia over 'calls to violence'</a> BBC: Instagram owner Meta has allowed users in some countries to call for violence against Russia's army. 
- <p class="updated_time"> 08:55 AM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60711653?at_medium=RSS&at_campaign=KARANGA">India accidentally fires missile into Pakistan</a> BBC: Delhi blames a "technical malfunction" for the incident, which it called "deeply regrettable". 
  <p class="updated_time"> 08:41 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086001579/11-year-old-ukrainian-boy">A Ukrainian boy travels 620 miles to safety with a phone number written on his hand</a> NPR: An 11-year-old named Hassan traveled alone into Slovakia with a plastic bag, a passport and a phone number for relatives. His mother had sent him to safety, unable to leave herself. 
  <p class="updated_time"> 08:38 AM CT, Mar. 11 </p> 
@@ -159,12 +163,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1085985036/china-locks-down-city-of-9-million-amid-new-spike-in-cases">China locks down a city of 9 million amid a new spike in COVID-19 cases</a> NPR: The latest lockdowns extend China's draconian approach to the pandemic it has enforced for most of the past two years 
  <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60706861?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Destruction in wake of first strikes on Dnipro</a> BBC: A shoe factory and a nursery are among the buildings said to have been hit. 
- <p class="updated_time"> 04:13 AM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60693800?at_medium=RSS&at_campaign=KARANGA">Yemen: Two women freed in US-Saudi special op</a> BBC: They had been captive since going to visit relatives in the capital, Sanaa, a Saudi official said. 
  <p class="updated_time"> 04:05 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/ukraine-russia-war-embassies-street-names.html">‘Free Ukraine Street’: Russian Embassies Get Pointed New Addresses</a> NYT: Officials in many European cities are giving streets, squares and intersections in front of Russian missions names with pro-Ukraine themes. 
- <p class="updated_time"> 02:40 AM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60702464?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Large Russian convoy redeploys near Kyiv - satellite images</a> BBC: Images of the convoy's redeployment appear to signal a renewed push towards the Ukrainian capital. 
  <p class="updated_time"> 12:43 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
@@ -175,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/us/politics/north-korea-intercontinental-missile.html">U.S. Says North Korea Is Testing a New Intercontinental Missile</a> NYT: The missile, first displayed in 2020, was tested twice in recent days. While it is unclear whether it can reach the U.S., it poses a new military challenge to President Biden in the midst of the Ukraine war. 
  <p class="updated_time"> 06:24 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/shabab-manda-bay-kenya-attack.html">‘Inadequate’ Security Led to Deaths of 3 Americans in Kenya Attack, Report Finds</a> NYT: The inquiry also found shortcomings in the sharing of intelligence before the deadly assault by the Shabab in 2020. 
- <p class="updated_time"> 06:19 PM CT, Mar. 10 </p> 
- <a href="https://www.bbc.co.uk/news/health-60690251?at_medium=RSS&at_campaign=KARANGA">Covid deaths probably three times higher than records say</a> BBC: Official records say six million have died, but the true figure may be over 18 million, say researchers. 
  <p class="updated_time"> 06:01 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60667515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'I have 20 children here, please send help'</a> BBC: Tens of thousands of children in Ukrainian state care are in desperate need to get out of the country. 
  <p class="updated_time"> 05:16 PM CT, Mar. 10 </p> 
