@@ -9,52 +9,56 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:18 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 12:42 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Ukraine Live Updates: Desperation Grows in Cities Under Continued Russian Assault</a> NYT: France and Germany unsuccessfully pressed Moscow to agree to a cease-fire, as cities and towns in Ukraine came under sustained bombardment. In one southern city, hundreds took to the streets to protest the detention of its mayor, a sign of Russia’s struggle to subdue even places it captures. 
+ <p class="updated_time"> 12:31 PM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to come to Ukraine. 
  <p class="updated_time"> 12:18 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/melitopol-ukraine-mayor-russia.html">Mayor of Melitopol Kidnapped By Russian Soldiers, Ukrainian Officials Say</a> NYT: In Melitopol, a mayor who opposed the occupation was kidnapped by Russian soldiers, igniting street protests. Similar protests have broken out in other towns. 
  <p class="updated_time"> 12:03 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086282867/a-russian-pianists-shows-are-canceled-even-though-he-condemns-the-war-in-ukraine">A Russian pianist's shows are canceled, even though he condemns the war in Ukraine</a> NPR: Alexander Malofeev, 20, had already arrived in Montreal when a series of his concerts in Canada had been canceled. 
  <p class="updated_time"> 11:55 AM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60721323?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evacuations 'extremely difficult' amid shelling</a> BBC: New attempts are under way to get civilians out of bombed Ukrainian cities as Russia's attack intensifies. 
+ <p class="updated_time"> 11:44 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Russian Strikes Intensify Near Kyiv as Ukraine’s President Foresees ‘New Stage of Terror’</a> WSJ: Russian Strikes Intensify Near Kyiv as Ukraine’s President Foresees ‘New Stage of Terror’ 
  <p class="updated_time"> 11:36 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-diplomacy.html">Ukraine War Ushers In ‘New Era’ for Biden and U.S. Abroad</a> NYT: President Biden is rethinking relationships with allies as well as rivals — including China, Iran and Venezuela — to counter President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 11:35 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-war-russia-west.html">Western Ukraine Suffers Rare Russian Attacks</a> NYT: Western Ukraine has been a safe haven for Ukrainian refugees, as well as businessmen, journalists and diplomats. But attacks in two cities pierced the sense of security in the region. 
  <p class="updated_time"> 11:29 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/business/russian-business-boycotts.html">That Russian Business You’re Boycotting Isn’t Actually Russian</a> NYT: The consumer activism that makes a vodka C.E.O. say: ‘Do you know we’re Latvian?’ 
- <p class="updated_time"> 11:25 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Russian Strikes Intensify Near Kyiv as Ukraine’s President Foresees ‘New Stage of Terror’</a> WSJ: Russian Strikes Intensify Near Kyiv as Ukraine’s President Foresees ‘New Stage of Terror’ 
  <p class="updated_time"> 10:58 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/canada/arctic-canada-territories-russian-war.html">Arctic Security Concerns Resurface in Canada’s Territories Amid Russian War</a> NYT: Between melting sea ice and increased militarization, the Arctic is changing, and premiers in Canada’s territories say the Russian war is another reason to put Arctic security on the policy forefront. 
  <p class="updated_time"> 10:54 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/australia/new-caledonia-coronavirus.html">Covid Surge in New Caledonia, in the Pacific, HIts Indigenous Hardest</a> NYT: New Caledonia escaped the coronavirus for a year and a half, but a surge in cases has led to a state of emergency, with the disease disproportionately hurting the French territory’s Indigenous people. 
+ <p class="updated_time"> 10:44 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 10:38 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/covid-ukraine-russia-war.html">Russian Invasion Could Spur Covid Surge in Ukraine, Doctors Say</a> NYT: War has pushed Covid out of people’s minds while forcing them into crowded and unsanitary conditions that are fertile ground for the coronavirus, polio and other pathogens. 
  <p class="updated_time"> 10:33 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">Russia Intensifies Campaign of Destruction in Ukraine’s Cities</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
- <p class="updated_time"> 10:25 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 10:23 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-europe-nuclear-war-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
  <p class="updated_time"> 09:56 AM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086280204/saudi-arabia-carries-out-its-largest-known-execution-in-the-kingdoms-modern-hist">Saudi Arabia carries out its largest known execution in the kingdom's modern history</a> NPR: The number of those executed on Saturday — 81 — surpassed even the toll of a January 1980 mass execution for the 63 militants convicted of seizing the Grand Mosque in Mecca in 1979. 
+ <p class="updated_time"> 09:44 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-new-foreign-legion-takes-the-fight-to-russian-forces-11647083295">Ukraine’s New Foreign Legion Takes the Fight to Russian Forces</a> WSJ: Ukraine’s New Foreign Legion Takes the Fight to Russian Forces 
  <p class="updated_time"> 09:29 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
- <p class="updated_time"> 09:25 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraines-new-foreign-legion-takes-the-fight-to-russian-forces-11647083295">Ukraine’s New Foreign Legion Takes the Fight to Russian Forces</a> WSJ: Ukraine’s New Foreign Legion Takes the Fight to Russian Forces 
  <p class="updated_time"> 09:21 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/iran-nuclear-talks-russia.html">Russian Demands to Ease Sanctions Halt Nuclear Talks With Iran</a> NYT: Russia has injected its fight against sanctions into talks aimed at restoring a nuclear agreement with Iran. The Russian demands have delayed the prospect of a deal. 
  <p class="updated_time"> 09:17 AM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60722057?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia executes 81 men in one day</a> BBC: The range of charges on which the men were convicted included terrorism and holding "deviant beliefs". 
  <p class="updated_time"> 08:49 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/france-elections-greens-environment.html">France’s Green Party Fails to Connect Ahead of Election</a> NYT: As a presidential election looms, the Greens lag far behind in the polls. Analysts say the party has failed to inspire voters and show them it can rule. 
+ <p class="updated_time"> 08:44 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/using-a-new-cyber-tool-westerners-have-been-texting-russians-about-the-war-in-ukraine-11647100803">Westerners Have Been Texting Russians About the War in Ukraine</a> WSJ: Westerners Have Been Texting Russians About the War in Ukraine 
  <p class="updated_time"> 08:29 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/business/russia-airlines-planes.html">Hundreds of Planes Are Stranded in Russia. They May Never Be Recovered.</a> NYT: Western companies that own the planes face little prospect of getting them back, meaning billions of dollars in losses. 
  <p class="updated_time"> 08:26 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html">Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War</a> NYT: Mykhailo Fedorov, Ukraine’s youngest minister, has turned technology, cryptocurrency and social media into modern weapons of war. 
- <p class="updated_time"> 08:25 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/using-a-new-cyber-tool-westerners-have-been-texting-russians-about-the-war-in-ukraine-11647100803">Westerners Have Been Texting Russians About the War in Ukraine</a> WSJ: Westerners Have Been Texting Russians About the War in Ukraine 
+ <p class="updated_time"> 07:44 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 07:38 AM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60719030?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: People flee Irpin after key bridge destroyed</a> BBC: The BBC's Abdujalil Abdurasulov is in Irpin, where people are attempting to navigate a makeshift river crossing. 
  <p class="updated_time"> 07:27 AM CT, Mar. 12 </p> 
@@ -65,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/12/1086274120/ukraine-latest">Belarus could join the Ukraine-Russia conflict</a> NPR: We have the latest on the war in Ukraine, where officials there are accusing the Russians of trying to provoke the Belarusians into the war. 
  <p class="updated_time"> 07:27 AM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1085861999/russias-wars-in-chechnya-offer-a-grim-warning-of-what-could-be-in-ukraine">Russia's wars in Chechnya offer a grim warning of what could be in Ukraine</a> NPR: Russia unleashes a heavy bombing campaign. Cities are reduced to rubble. Thousands of civilians are killed. Russia did that twice in Chechnya in the 1990s. Is a repeat likely in Ukraine today? 
- <p class="updated_time"> 07:25 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 06:15 AM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60720169?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Pictures of war intensifying in third week</a> BBC: Images from Russia's invasion of Ukraine show a conflict turning deadlier nearly three weeks on. 
  <p class="updated_time"> 06:04 AM CT, Mar. 12 </p> 
@@ -199,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/world/europe/russia-economy-ukraine.html">Facing Economic Calamity, Putin Talks of Nationalizing Western Businesses</a> NYT: With the ruble collapsing, the economy contracting and people abandoning the country, Russia’s leader talks of a Western plot to destroy the country. 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/biden-russia-suspend-trade-relations.html">Biden Will Call for Suspending Normal Trade Relations With Russia</a> NYT: The move, expected to be joined by the G7 and the European Union, would result in higher tariffs on Russian products being sent to the United States. 
- <p class="updated_time"> 05:16 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/world/governors-federal-public-health-emergency.html">Thirteen Governors Want the Public Health Emergency Extended Beyond April</a> NYT: In a letter to the U.S. health secretary, the governors, all Democrats, said they needed more time to prepare for when the emergency expires, taking with it federal resources that state programs depend on. 
  <p class="updated_time"> 04:47 PM CT, Mar. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60699588?at_medium=RSS&at_campaign=KARANGA">Watch: Our correspondent goes into no-man's land with the Ukrainian army</a> BBC: The BBC spent a week with Ukrainian forces in Kharkiv as they fight to stop a further Russian advance. 
 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:25 PM CT, Mar. 12 </p> 
+ <a href="https://www.npr.org/2022/03/12/1086270962/marie-yovanovitch-reflects-on-disinformation-and-her-removal-as-ambassador-to-uk">Marie Yovanovitch reflects on disinformation and her removal as ambassador to Ukraine</a> NPR: The career diplomat's memoir is a front row seat to the disinformation campaign that ultimately saw her removed from post, and offers insight into the post-Soviet Union politics of Russia and Ukraine. 
  <p class="updated_time"> 11:36 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-diplomacy.html">Ukraine War Ushers In ‘New Era’ for U.S. Abroad</a> NYT: President Biden is rethinking relationships with allies as well as rivals — including China, Iran and Venezuela — to counter President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 11:07 AM CT, Mar. 12 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/11/house-gop-hagedorn-widow-seat-00016375">House GOP winces as Hagedorn's scandal-plagued widow eyes his empty seat</a> Politico: Jennifer Carnahan resigned from the Minnesota party chairmanship last year. Her late husband died last month, leaving his congressional seat open. 
  <p class="updated_time"> 04:30 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/cartoons/2022/03/11/the-nations-cartoonists-on-the-week-in-politics-00016350">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 04:13 AM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1085979669/biden-will-address-house-democrats-as-they-plot-midterm-strategy-in-philadelphia">Biden will address House Democrats as they plot midterm strategy in Philadelphia</a> NPR: President Biden on Friday speaks to House Democrats at their retreat in Philadelphia — as the party plans its message for the midterm elections. 
  <p class="updated_time"> 11:25 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/us/politics/biden-putin-inflation.html">Biden Urges Americans to Blame Rising Prices on Putin. Many Do, for Now.</a> NYT: News that inflation has hit a 40-year high is another blunt reminder of just how much the president is asking voters to sacrifice in an election year. 
  <p class="updated_time"> 10:25 PM CT, Mar. 10 </p> 
