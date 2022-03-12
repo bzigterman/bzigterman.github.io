@@ -9,34 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:57 PM CT, Mar. 11 </p> 
+ <p class="updated_time"> 10:20 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/03/11/world/ukraine-russia-news">Live Updates: Russia Expands Its Bombardment of Ukraine</a> NYT: The southern city of Mykolaiv was among those hit hard Friday, with Russian forces opening fire on a cancer hospital and other public places. The United Nations weighs in on Russian allegations of U.S.-backed threats and says it doesn’t know of any biological weapons program in Ukraine. 
+ <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
  <p class="updated_time"> 09:57 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/kamala-harris-gas-prices-democracy.html">Kamala Harris Says U.S. Must Bear Higher Gas Prices to Punish Russia</a> NYT: Vice President Kamala Harris, visiting NATO ally Romania, insisted that the higher costs of energy associated with sanctions imposed on Moscow over its war on Ukraine would be worth the pain. 
  <p class="updated_time"> 09:56 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/iran-nuclear-talks-russia.html">Russian Demands to Ease Sanctions Halt Nuclear Talks With Iran</a> NYT: Russia has injected its fight against sanctions into talks aimed at restoring a nuclear agreement with Iran. The Russian demands have delayed the prospect of a deal. 
  <p class="updated_time"> 09:56 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/roman-abramovich-russian-oligarch-sanctions.html">How Roman Abramovich, a Russian Oligarch, Found Himself Under Sanctions</a> NYT: The oligarch’s billions and his Kremlin connections secured him favors and elite status in the West. Now they’ve landed him on a sanctions list. 
+ <p class="updated_time"> 09:31 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 09:03 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-bombardment-chechnya.html">Slowed on the Battlefield, Russia Widens Bombardment of Ukrainian Cities</a> NYT: But military experts, citing previous Russian campaigns, say that strategy is unlikely to succeed without bloody urban fighting. 
- <p class="updated_time"> 08:58 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623">In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’</a> WSJ: In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ 
  <p class="updated_time"> 08:52 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ireland-church-female-saint-brigid.html">As Ireland’s Church Retreats, the Cult of a Female Saint Thrives</a> NYT: The cult of Saint Brigid, with its emphasis on nature and healing, and its shift away from the patriarchal faith of traditional Catholicism in Ireland, is attracting people from around the world. 
+ <p class="updated_time"> 08:31 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 08:10 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
- <p class="updated_time"> 07:58 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrikes-intensify-in-western-ukraine-11646994808">Russian General Is Killed in Ukraine as Airstrikes Intensify</a> WSJ: Russian General Is Killed in Ukraine as Airstrikes Intensify 
  <p class="updated_time"> 07:49 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
  <p class="updated_time"> 07:34 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60684120?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: A warm hug meant that war had begun</a> BBC: Why so many Ukrainians are determined to keep on working through the conflict. 
+ <p class="updated_time"> 07:31 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 07:04 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60710227?at_medium=RSS&at_campaign=KARANGA">Transgender children: Texas plan to probe parents halted</a> BBC: Parents seeking gender transition for their children may not be investigated for so-called abuse. 
- <p class="updated_time"> 06:58 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/aid-groups-rush-supplies-to-ukraine-as-medicines-run-low-11646994602">Aid Groups Rush Supplies to Ukraine as Medicines Run Low</a> WSJ: Aid Groups Rush Supplies to Ukraine as Medicines Run Low 
  <p class="updated_time"> 06:32 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: How Russia is recruiting mercenaries</a> BBC: Social media channels and private messaging groups are being used to recruit, the BBC has learned. 
+ <p class="updated_time"> 06:31 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 06:28 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-kyiv-russia-fighting.html">How a Line of Russian Tanks Became an Inviting Target for Ukrainians</a> NYT: A skirmish in an eastern suburb of Kyiv illustrated how close Russian forces have come as they continued to tighten a noose on the city, but also revealed their strategic vulnerabilities. 
  <p class="updated_time"> 06:25 PM CT, Mar. 11 </p> 
@@ -49,16 +53,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/in-pictures-60699864?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 5-11 March 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:00 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60714529?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukrainians mourn their fallen soldiers</a> BBC: Funerals are held for the first Ukrainian victims of the Ukraine-Russia war. 
- <p class="updated_time"> 05:58 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-talks-break-off-without-a-deal-11646997132">Iran Nuclear Talks Break Off Without a Deal</a> WSJ: Iran Nuclear Talks Break Off Without a Deal 
  <p class="updated_time"> 05:49 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60703499?at_medium=RSS&at_campaign=KARANGA">Ranveer Brar: The chef who wants coriander as India's national herb</a> BBC: Chef Ranveer Brar's petition to recognise "the superstar of our kitchen" has been signed by thousands. 
+ <p class="updated_time"> 05:31 PM CT, Mar. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
  <p class="updated_time"> 05:03 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/science/endurance-ship-ernest-shackleton.html">The New Captain of the Endurance Shipwreck Is an Anemone</a> NYT: A who’s who of the new invertebrate crew steering Ernest Shackleton’s sunken ship in the Weddell Sea. 
- <p class="updated_time"> 04:58 PM CT, Mar. 11 </p> 
- <a href="https://www.wsj.com/articles/china-battles-nationwide-surge-in-covid-19-cases-11647013650">China Battles Nationwide Surge in Covid-19 Cases</a> WSJ: China Battles Nationwide Surge in Covid-19 Cases 
- <p class="updated_time"> 04:51 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
  <p class="updated_time"> 04:26 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
  <p class="updated_time"> 04:11 PM CT, Mar. 11 </p> 
@@ -212,6 +212,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:23 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/covid-stimulus-money-fight.html">Covid Stimulus Money Brings Clashes Within Cities and Counties</a> NYT: As communities across the United States receive pandemic relief money, fierce debates have erupted over priorities, and who has the power to set them. 
+ <p class="updated_time"> 10:08 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/iowa-new-hampshire-presidential-elections.html">Bye Bye Iowa? Democrats to Debate Changes to Primary Calendar</a> NYT: After complaints about disenfranchisement and logistical snafus, the party is reconsidering Iowa and New Hampshire’s coveted spots in the presidential nominating process. 
+ <p class="updated_time"> 10:08 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/democrats-biden-midterms.html">Bracing for Losses, Democrats Look to Biden for a Reset</a> NYT: At a party retreat in Philadelphia, House Democrats hoped the president would offer a winning strategy heading into a challenging midterm election season. 
+ <p class="updated_time"> 10:07 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/terrorist-gitmo-sentence-majid-khan.html">U.S. Official Ends Sentence of Terrorist Who Was Tortured by C.I.A.</a> NYT: Majid Khan, who confessed to war crimes and turned informant in 2012, will not go free from Guantánamo Bay until U.S. diplomats find a country to take him in. 
+ <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
  <p class="updated_time"> 09:09 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/iowa-caucus-criticism-dnc-00016809">Iowa takes criticism at DNC but hangs onto its spot — for now</a> Politico: Party officials criticized the first in the nation caucus state at a Friday meeting. 
  <p class="updated_time"> 09:03 PM CT, Mar. 11 </p> 
@@ -242,10 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/11/trudeau-takes-disinformation-fight-to-europe-00016709">Trudeau blasts social media disinformation — in Russia and Canada</a> Politico: Canada's prime minister used a week-long trip to Europe to highlight the risks of misinformation campaigns. 
  <p class="updated_time"> 05:35 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/disney-pledges-to-stop-florida-campaign-donations-dont-say-gay-00016705">Disney pledges to stop Florida campaign donations over ‘Don’t Say Gay’ bill</a> Politico: Disney donated some $4.8 million to Florida candidates in the 2020 election cycle, campaign finance reports show. 
- <p class="updated_time"> 04:51 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
- <p class="updated_time"> 04:24 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/iowa-new-hampshire-presidential-elections.html">Bye Bye Iowa? Democrats to Debate Changes to Primary Calendar</a> NYT: After complaints about disenfranchisement and logistical snafus, the party is reconsidering Iowa and New Hampshire’s coveted spots in the presidential nominating process. 
  <p class="updated_time"> 04:23 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086140965/justice-department-ends-limiting-compassionate-release-in-plea-deals-after-npr-s">Justice Department ends limiting compassionate release in plea deals after NPR story</a> NPR: The Justice Department is directing prosecutors to stop limiting peoples' rights to seek compassionate release from prison in plea deals, a practice that advocates called cruel. 
  <p class="updated_time"> 04:21 PM CT, Mar. 11 </p> 
@@ -256,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086153820/with-bidens-help-house-democrats-are-working-to-win-over-voters-ahead-of-midterm">With Biden's help, House Democrats are working to win over voters ahead of midterms</a> NPR: President Biden traveled to Philadelphia to pump up lawmakers who are on the ballot this fall and are already getting an earful from constituents about higher costs for gas and groceries. 
  <p class="updated_time"> 03:54 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086003950/russia-ukraine-war-what-happened-today-march-11">Russia-Ukraine war: What happened today (March 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:46 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/terrorist-gitmo-sentence-majid-khan.html">U.S. Official Ends Sentence of Terrorist Who Was Tortured by C.I.A.</a> NYT: Majid Khan, who confessed to war crimes and turned informant in 2012, will not go free from Guantánamo Bay until U.S. diplomats find a country to take him in. 
  <p class="updated_time"> 03:09 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/dems-array-themselves-00016609">An upbeat Biden ignores stalled agenda in Dem pep talk</a> Politico: The president wanted to tout the party's successes on vaccines, infrastructure and Covid aid. He didn't seem to want to lay out what they should do next. 
  <p class="updated_time"> 02:30 PM CT, Mar. 11 </p> 
@@ -268,8 +272,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/11/mcconnell-phone-call-congress-ukraine-aid-deal-00016583">McConnell's $1.5B phone call: How Congress supercharged its Ukraine aid deal</a> Politico: As Ukraine came under attack, Congress took an unusually muscular approach in the foreign policy realm and doubled the president's initial ask for aid. 
  <p class="updated_time"> 01:16 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/ukraine-is-on-the-brink-of-a-humanitarian-catastrophe-00016578">State Dept. cable: U.S. officials concerned Russia is targeting civilians in Ukraine</a> Politico: Hundreds of thousands of Ukrainians may not be able to access critical aid or find safe passage out of the country. 
- <p class="updated_time"> 01:15 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/democrats-biden-midterms.html">Bracing for Losses, Democrats Look to Biden for a Reset</a> NYT: At a party retreat in Philadelphia, House Democrats hoped the president would offer a winning strategy heading into a challenging midterm election season. 
  <p class="updated_time"> 12:39 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/pence-jan-6-election-certification-script-00016539">How Pence used 43 words to shut down Trump allies' election subversion on Jan. 6</a> Politico: The then-vice president and his top aides rewrote the script long used to certify elections, making clear that false elector slates wouldn't fly. 
  <p class="updated_time"> 12:35 PM CT, Mar. 11 </p> 
@@ -296,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086031179/biden-announces-plans-to-revoke-russias-trade-relations-status">Biden announces plans to revoke Russia's trade relations status</a> NPR: President Biden took new steps to curb U.S. trade with Russia to punish Moscow for invading Ukraine — including banning imports of vodka and caviar. 
  <p class="updated_time"> 09:31 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden moves to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
- <p class="updated_time"> 08:13 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/covid-stimulus-money-fight.html">Covid Stimulus Money Brings Clashes Within Cities and Counties</a> NYT: As communities across the United States receive pandemic relief money, fierce debates have erupted over priorities, and who has the power to set them. 
  <p class="updated_time"> 07:55 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/11/dems-in-philly-piano-painting-and-midterm-planning-00016455">Dems in Philly: Piano, painting and midterm planning</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:29 AM CT, Mar. 11 </p> 
