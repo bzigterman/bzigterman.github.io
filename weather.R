@@ -8,8 +8,8 @@ library(cowplot)
 library(sf)
 library(imputeTS)
 
-champaign_lat <-  40.116
-champaign_lon <- -88.243
+champaign_lat <-  40.084
+champaign_lon <- -88.2404
 
 # get data ----
 
