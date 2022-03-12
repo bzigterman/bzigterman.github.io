@@ -1369,8 +1369,8 @@ html {
 <td class="gt_row gt_right">&minus;28%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">294.0K</td>
-<td class="gt_row gt_right gt_striped">157.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;47%</td></tr>
+<td class="gt_row gt_right gt_striped">150.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;49%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">216.0M</td>
 <td class="gt_row gt_right">216.0M</td>
