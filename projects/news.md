@@ -9,32 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:06 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 12:23 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Live Updates: Russia Expands Attack, Targets Base in Western Ukraine</a> NYT: Local officials said missiles hit a base near the Polish border. Russia renewed attacks on Ukrainian cities on Sunday morning after President Putin rejected pleas for a cease-fire. 
- <p class="updated_time"> 11:10 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 11:38 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
  <p class="updated_time"> 10:57 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
- <p class="updated_time"> 10:10 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 10:38 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
- <p class="updated_time"> 09:10 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 09:38 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/missiles-from-iran-struck-in-vicinity-of-u-s-consulate-in-northern-iraq-officials-say-11647138802">Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq</a> WSJ: Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq 
  <p class="updated_time"> 08:42 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
+ <p class="updated_time"> 08:38 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 08:25 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
  <p class="updated_time"> 08:19 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
  <p class="updated_time"> 08:10 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
- <p class="updated_time"> 08:10 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008248969/ukraine-soldier-funeral-lviv.html">After Days of Uncertainty, a Ukrainian Soldier Is Laid to Rest</a> NYT: Senior Lt. Vasyl Vyshyvanyi was killed by Russian forces on March 3, but heavy combat kept the military from evacuating his body. Six days later, he was buried in his home village outside Lviv. 
+ <p class="updated_time"> 07:38 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 07:34 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60647543?at_medium=RSS&at_campaign=KARANGA">Russia sanctions: How the measures have changed daily life</a> BBC: Prices are rising in Russia and some goods are harder to buy. Here are ways sanctions are affecting daily life. 
  <p class="updated_time"> 07:32 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60698374?at_medium=RSS&at_campaign=KARANGA">Dudula: How South African anger has focused on foreigners</a> BBC: Support seems to be growing for two groups who are campaigning against undocumented foreign nationals. 
- <p class="updated_time"> 07:10 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 06:59 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60590121?at_medium=RSS&at_campaign=KARANGA">Isak Munda: The Orissa labourer who became a YouTube star</a> BBC: Isak Munda says the platform has changed his life since he started posting videos. 
  <p class="updated_time"> 06:59 PM CT, Mar. 12 </p> 
