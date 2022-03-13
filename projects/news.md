@@ -9,17 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:39 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 06:52 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia Strikes Base Near Polish Border, Leaving at Least 35 Dead</a> NYT: More than 100 were injured after missiles hit a base used to ferry weapons and train foreign fighters. Russia had warned that arms shipments were “legitimate targets.” 
  <p class="updated_time"> 06:29 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60725962?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian forces accused of abducting second mayor</a> BBC: The news comes as Ukraine says Russia is trying to create "pseudo-republics" to break up the country. 
  <p class="updated_time"> 06:21 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/europe/the-base-attacked-in-western-ukraine-has-been-a-hub-for-foreign-militaries.html">The base attacked in western Ukraine has been a hub for foreign militaries.</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
- <p class="updated_time"> 05:44 AM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
+ <p class="updated_time"> 05:53 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
- <p class="updated_time"> 04:44 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 04:53 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 04:38 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Missiles from Iran hit northern Iraqi city, US says</a> BBC: The missiles damaged buildings near the US consulate in Irbil, but no casualties have been reported. 
@@ -29,11 +29,11 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086219973/sanctions-may-ground-russias-planes-but-the-firms-that-own-them-cant-get-them-ba">Sanctions may ground Russia's planes, but the firms that own them can't get them back</a> NPR: Russian airlines can no longer get spare parts or technical support for their Airbus and Boeing planes. 
  <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/uk-oligarchs-russia-ukraine.html">U.K. vs. Oligarchs: ‘The Gloves Are Now Off’</a> NYT: Russia’s war in Ukraine has finally led the British government to go after ultrawealthy Russians in London. But curbing the flood of corrupt money will require going after more than the big names. 
- <p class="updated_time"> 03:44 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 03:53 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/missiles-from-iran-struck-in-vicinity-of-u-s-consulate-in-northern-iraq-officials-say-11647138802">Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq</a> WSJ: Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq 
  <p class="updated_time"> 03:44 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
- <p class="updated_time"> 01:44 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 01:53 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 01:36 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60726265?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The teenagers at war with only three days training</a> BBC: Students Maksym, 19 and Dmytro, 18 volunteered for the Ukrainian army just weeks ago. 
@@ -41,6 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Eight missiles hit the facility at Yavoriv, killing at least 35 people and wounding 134 at a base where until last month the U.S. National Guard trained Ukrainian troops. 
  <p class="updated_time"> 01:01 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won't Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: A senior U.S. official said Moscow had a week to withdraw its demand for written guarantees exempting Russia from any Ukraine-related sanctions that would constrain Moscow’s future trade with Iran. 
+ <p class="updated_time"> 01:00 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia's Bombs Force Ukraine Into War Economy: 'Plants That Made Sweaters Are Making Weapons'</a> WSJ: Support from Ukrainian businesses and civilian institutions is helping the war effort and augmenting assistance from the West. 
  <p class="updated_time"> 10:57 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
  <p class="updated_time"> 08:42 PM CT, Mar. 12 </p> 
@@ -145,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/12/1085967986/iron-curtain-russia-soviet-union-mcdonalds-ikea-pepsi">An economic iron curtain is falling on Russia as companies like McDonald's cut ties</a> NPR: Global companies are exiting Russia after the country's invasion of Ukraine. For some observers, it marks the return of Russia to a time when it was closed off from the global economy. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/books/cristina-rivera-garza-book-murder.html">An Author Wrote About Her Sister’s Murder. It Led to a Breakthrough.</a> NYT: Cristina Rivera Garza wanted to shed light on the life of her sister, killed 30 years ago. Her book, part of a larger call for justice by women in Mexico, helped locate the suspect. 
- <p class="updated_time"> 03:00 AM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: Those rich in oil and gas and other commodities are expected to get a boost from soaring prices, though inflation will sting consumers and weigh on global growth. 
  <p class="updated_time"> 01:18 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html">Lockdowns Spread in China as Covid Cases Surge in Shanghai and Other Areas</a> NYT: Officials say that most of the recent cases detected in widespread testing are asymptomatic but still contagious. 
  <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
@@ -270,6 +270,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/us/politics/terrorist-gitmo-sentence-majid-khan.html">U.S. Official Ends Sentence of Terrorist Who Was Tortured by C.I.A.</a> NYT: Majid Khan, who confessed to war crimes and turned informant in 2012, will not go free from Guantánamo Bay until U.S. diplomats find a country to take him in. 
  <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
+ <p class="updated_time"> 09:09 PM CT, Mar. 11 </p> 
+ <a href="https://www.politico.com/news/2022/03/11/iowa-caucus-criticism-dnc-00016809">Iowa takes criticism at DNC but hangs onto its spot — for now</a> Politico: Party officials criticized the first in the nation caucus state at a Friday meeting. 
  <p class="updated_time"> 08:10 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/economy/russia-trade-status-us.html">U.S. and Allies Will Strip Russia of Favored Trade Status</a> NYT: The Biden administration said it would join Europe and other allies in stripping Russia of permanent normal trade relations, another step to inflict economic damage on the country over its invasion of Ukraine. 
  <p class="updated_time"> 07:33 PM CT, Mar. 11 </p> 
