@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
  <p class="updated_time"> 01:57 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086345532/american-journalist-killed-in-ukraine">Journalist Brent Renaud is killed while reporting on the war in Ukraine</a> NPR: An advisor to Ukraine's interior ministry said Renaud was killed and another journalist was wounded in Irpin, a suburb of Kyiv. 
- <p class="updated_time"> 01:52 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
+ <p class="updated_time"> 01:45 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 01:39 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
- <p class="updated_time"> 01:30 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 01:30 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/afghan-air-force-taliban.html">Afghan Aviators Hide as Taliban Urge Them to Return to Duty</a> NYT: Many former Afghan Air Force members fear they could be killed by the Taliban if they came out of hiding, but others have joined the nascent Taliban air force. 
  <p class="updated_time"> 01:11 PM CT, Mar. 13 </p> 
@@ -25,34 +25,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
  <p class="updated_time"> 12:47 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/mariupol-red-cross.html">Red Cross Warns Time Is Running Out For Civilians in Mariupol</a> NYT: Russian forces encircled the city nearly two weeks ago, and as the death toll rises, eyewitnesses have reported there is little food or clean water, and no medicine. 
+ <p class="updated_time"> 12:45 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 12:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/sports/baseball/mlb-covid-canada.html">Unvaccinated M.L.B. Players Will Not Be Allowed to Play in Canada</a> NYT: Canada’s border restrictions bar those players, and the players will not be paid while the team is abroad as part of the sport’s new labor agreement. 
- <p class="updated_time"> 12:30 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
+ <p class="updated_time"> 11:45 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 11:42 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086343820/iran-claims-responsibility-for-missiles-that-struck-near-a-u-s-consulate-in-iraq">Iran claims responsibility for missiles that struck near a U.S. consulate in Iraq</a> NPR: No injuries were reported in Sunday's attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. Iran said it was retaliation for an Israeli strike in Syria. 
  <p class="updated_time"> 11:39 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/hong-kong-quarantine.html">300,000 in Hong Kong Isolate at Home as COVID Cases Rise</a> NYT: The city’s officials are scrambling to build quarantine and mass quarantine centers as cases of the Omicron and Delta variants spread widely. 
  <p class="updated_time"> 11:32 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
- <p class="updated_time"> 11:30 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 11:07 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086325195/paralympic-winter-games-closing-ceremony">Paralympic Winter Games come to a close against a backdrop of war in Ukraine</a> NPR: Sunday's closing ceremony marked the end of the 2022 Beijing Winter Paralympics. Ukraine had a strong performance at the games and came in second place in the overall medal count despite war at home. 
+ <p class="updated_time"> 10:45 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 10:42 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
- <p class="updated_time"> 10:30 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 09:59 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Iran launches missiles at northern Iraqi city</a> BBC: Iraqi officials reject Iran's claim that it hit an Israeli facility near the US consulate in Irbil. 
  <p class="updated_time"> 09:50 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/uk-oligarchs-russia-ukraine.html">U.K. vs. Oligarchs: ‘The Gloves Are Now Off’</a> NYT: Russia’s war in Ukraine has finally led the British government to go after ultrawealthy Russians in London. But curbing the flood of corrupt money will require going after more than the big names. 
+ <p class="updated_time"> 09:45 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 09:43 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60728208?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Sky turned red' as missiles hit Lviv military base</a> BBC: "It doesn't matter where you live" - fear after a deadly attack on military base close to Polish border. 
  <p class="updated_time"> 09:35 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/iran-missiles-us-consulate-iraq.html">Missiles Fired From Iran Hit Near U.S. Consulate Site in Iraq</a> NYT: No serious injuries were reported from the strike, outside the city of Erbil in the Kurdish region of Iraq, and an American official said the consulate site was undamaged. 
- <p class="updated_time"> 09:30 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 09:26 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/13/1086032747/russia-ukraine-poland-refugees-train-rail-tracks">Poland rebuilds abandoned rail tracks to Ukraine to help refugees fleeing the war</a> NPR: In a remote province in the southeast tip of Poland, surrounded by snow and bare trees, 11 burly men in orange suits are hard at work rebuilding rail tracks first put down in the 19th century. 
  <p class="updated_time"> 08:48 AM CT, Mar. 13 </p> 
