@@ -12,8 +12,8 @@ Eastern,ATL,32,34,.485
 Eastern,WAS,29,37,.439
 Eastern,NYK,28,40,.412
 Eastern,IND,23,45,.338
-Eastern,DET,18,49,.269
 Eastern,ORL,18,50,.265
+Eastern,DET,18,50,.265
 Western,PHX,53,14,.791
 Western,GSW,46,22,.676
 Western,MEM,46,22,.676
@@ -21,7 +21,7 @@ Western,UTA,42,25,.627
 Western,DAL,41,26,.612
 Western,DEN,40,28,.588
 Western,MIN,39,30,.565
-Western,LAC,35,34,.507
+Western,LAC,36,34,.514
 Western,LAL,29,37,.439
 Western,NOP,27,40,.403
 Western,POR,26,40,.394
