@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:40 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 03:51 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-exiles-putin-ukraine-war.html">‘Things Will Only Get Worse.’ Putin’s War Sends Russians Into Exile.</a> NYT: Thousands of Russians saw their comfortable, middle-class lives fade overnight with the invasion ordered by President Vladimir V. Putin. 
+ <p class="updated_time"> 03:50 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
+ <p class="updated_time"> 03:44 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 03:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
  <p class="updated_time"> 03:26 PM CT, Mar. 13 </p> 
@@ -29,15 +33,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/chernobyl-power-supply.html">Power Supply Restored at Nuclear Plant in Chernobyl, Ukraine Says</a> NYT: Russian troops have occupied the nuclear power plant since late February. 
  <p class="updated_time"> 02:58 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60730773?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: Friend of US journalist killed in Ukraine speaks to BBC</a> BBC: Mea last spoke to Brent four days ago, and says he was excited to work on a documentary in Ukraine. 
- <p class="updated_time"> 02:52 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
- <p class="updated_time"> 02:51 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-war-ukraine-exiles.html">‘Things Will Only Get Worse.’ Putin’s War Sends Russians Into Exile.</a> NYT: Thousands of Russians saw their comfortable, middle-class lives fade overnight with the invasion ordered by President Vladimir V. Putin. 
- <p class="updated_time"> 02:44 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 02:56 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 01:57 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086345532/american-journalist-killed-in-ukraine">Journalist Brent Renaud is killed while reporting on the war in Ukraine</a> NPR: An advisor to Ukraine's interior ministry said Renaud was killed and another journalist was wounded in Irpin, a suburb of Kyiv. 
- <p class="updated_time"> 01:44 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 01:56 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 01:39 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
@@ -47,13 +47,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/nyregion/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
  <p class="updated_time"> 01:01 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
+ <p class="updated_time"> 12:56 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 12:47 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/mariupol-red-cross.html">Red Cross Warns Time Is Running Out For Civilians in Mariupol</a> NYT: Russian forces encircled the city nearly two weeks ago, and as the death toll rises, eyewitnesses have reported there is little food or clean water, and no medicine. 
- <p class="updated_time"> 12:44 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 12:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/sports/baseball/mlb-covid-canada.html">Unvaccinated M.L.B. Players Will Not Be Allowed to Play in Canada</a> NYT: Canada’s border restrictions bar those players, and the players will not be paid while the team is abroad as part of the sport’s new labor agreement. 
- <p class="updated_time"> 11:44 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 11:56 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 11:42 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086343820/iran-claims-responsibility-for-missiles-that-struck-near-a-u-s-consulate-in-iraq">Iran claims responsibility for missiles that struck near a U.S. consulate in Iraq</a> NPR: No injuries were reported in Sunday's attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. Iran said it was retaliation for an Israeli strike in Syria. 
@@ -63,7 +63,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
  <p class="updated_time"> 11:07 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086325195/paralympic-winter-games-closing-ceremony">Paralympic Winter Games come to a close against a backdrop of war in Ukraine</a> NPR: Sunday's closing ceremony marked the end of the 2022 Beijing Winter Paralympics. Ukraine had a strong performance at the games and came in second place in the overall medal count despite war at home. 
- <p class="updated_time"> 10:44 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 10:56 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 09:59 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Iran launches missiles at northern Iraqi city</a> BBC: Iraqi officials reject Iran's claim that it hit an Israeli facility near the US consulate in Irbil. 
@@ -212,14 +212,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:52 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/biden-trump-immigration.html">Biden Administration Fights in Court to Uphold Some Trump-Era Immigration Policies</a> NYT: Immigration activists and Democrats say there is a disconnect between the president’s words at the lectern and the government’s litigation in the courtroom. 
+ <p class="updated_time"> 03:44 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 03:24 PM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/barack-obama-tests-positive-covid-19-00016878">Obama tests positive for Covid-19</a> Politico: The 44th president, who reported only a scratchy throat, said that former first lady Michelle Obama had tested negative and that both were vaccinated and boosted. 
  <p class="updated_time"> 03:13 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086362826/obama-has-tested-positive-for-covid">Obama has tested positive for COVID</a> NPR: The former president said he tested positive for COVID-19. He has a scratchy throat "but am feeling fine otherwise." He said he is vaccinated and boosted. 
- <p class="updated_time"> 02:52 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
- <p class="updated_time"> 01:51 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/biden-trump-immigration.html">Biden Administration Fights in Court to Uphold Some Trump-Era Immigration Policies</a> NYT: Immigration activists and Democrats say there is a disconnect between the president’s words at the lectern and the government’s litigation in the courtroom. 
  <p class="updated_time"> 11:55 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/barr-indicates-could-support-trump-over-biden-00016869">Barr calls progressives 'dangerous,' indicates he could support Trump in presidential rematch</a> Politico: “Well, I think there are a lot of American people right now that might prefer having him back in office than Biden," he said. 
  <p class="updated_time"> 10:56 AM CT, Mar. 13 </p> 
