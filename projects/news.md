@@ -9,12 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Mar. 13 </p> 
+ <a href="https://www.npr.org/2022/03/13/1086365524/an-expert-explains-why-putin-seems-to-be-using-an-outdated-military-manual">An expert explains why Putin seems to be using an outdated military manual</a> NPR: NPR's Michel Martin speaks to Sean McFate, author of "The New Rules of War," about Russia's military tactics in Ukraine. 
+ <p class="updated_time"> 04:10 PM CT, Mar. 13 </p> 
+ <a href="https://www.npr.org/2022/03/13/1086365517/eu-ambassador-lambrinidis-discusses-the-humanitarian-crisis-in-ukraine">EU Ambassador Lambrinidis discusses the humanitarian crisis in Ukraine</a> NPR: NPR's Michel Martin speaks with EU Ambassador to the U.S. Stavros Lambrinidis about the EU's response. An estimated 2.5 million refugees have fled Ukraine. 
+ <p class="updated_time"> 04:10 PM CT, Mar. 13 </p> 
+ <a href="https://www.npr.org/2022/03/13/1086365510/a-look-at-some-of-the-recent-developments-from-ukraine">A look at some of the recent developments from Ukraine</a> NPR: Russian missiles struck a Ukrainian military base just miles from the Polish border, killing at least 35 people and wounding more than 100. 
+ <p class="updated_time"> 04:02 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
+ <p class="updated_time"> 04:02 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
+ <p class="updated_time"> 03:59 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/asia/hong-kong-quarantine.html">300,000 in Hong Kong Isolate at Home as COVID Cases Rise</a> NYT: The city’s officials are scrambling to build quarantine and mass quarantine centers as cases of the Omicron and Delta variants spread widely. 
  <p class="updated_time"> 03:51 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-exiles-putin-ukraine-war.html">‘Things Will Only Get Worse.’ Putin’s War Sends Russians Into Exile.</a> NYT: Thousands of Russians saw their comfortable, middle-class lives fade overnight with the invasion ordered by President Vladimir V. Putin. 
- <p class="updated_time"> 03:50 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
- <p class="updated_time"> 03:44 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
+ <p class="updated_time"> 03:47 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-career-work.html">Filmmaker Brent Renaud Spent His Career Capturing the Human Toll of War</a> NYT: Mr. Renaud’s final assignment was documenting refugees fleeing across bridges in Irpin, Ukraine. 
  <p class="updated_time"> 03:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
  <p class="updated_time"> 03:26 PM CT, Mar. 13 </p> 
@@ -25,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/ukraine-romania-refugee-shelter-pets.html">Ukrainian Refugees Find Shelter and a Hearty Welcome For Their Pets in Romania</a> NYT: Viktor and Rachel Borovic had only two hours to prepare to flee their city. But they were clear about what was important to them. 
  <p class="updated_time"> 03:18 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/roman-abramovich-russian-oligarch-sanctions.html">How Roman Abramovich, a Russian Oligarch, Found Himself Under Sanctions</a> NYT: The oligarch’s billions and his Kremlin connections secured him favors and elite status in the West. Now they’ve landed him on a sanctions list. 
+ <p class="updated_time"> 03:17 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 03:16 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60731369?at_medium=RSS&at_campaign=KARANGA">Poland feels the strain of Ukraine's refugees</a> BBC: The eastern town of Zamosc has welcomed thousands of refugees but locals wonder how long they can cope. 
  <p class="updated_time"> 03:13 PM CT, Mar. 13 </p> 
@@ -33,38 +45,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/chernobyl-power-supply.html">Power Supply Restored at Nuclear Plant in Chernobyl, Ukraine Says</a> NYT: Russian troops have occupied the nuclear power plant since late February. 
  <p class="updated_time"> 02:58 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60730773?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: Friend of US journalist killed in Ukraine speaks to BBC</a> BBC: Mea last spoke to Brent four days ago, and says he was excited to work on a documentary in Ukraine. 
- <p class="updated_time"> 02:56 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
+ <p class="updated_time"> 02:17 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 01:57 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086345532/american-journalist-killed-in-ukraine">Journalist Brent Renaud is killed while reporting on the war in Ukraine</a> NPR: An advisor to Ukraine's interior ministry said Renaud was killed and another journalist was wounded in Irpin, a suburb of Kyiv. 
- <p class="updated_time"> 01:56 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 01:39 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
  <p class="updated_time"> 01:30 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/afghan-air-force-taliban.html">Afghan Aviators Hide as Taliban Urge Them to Return to Duty</a> NYT: Many former Afghan Air Force members fear they could be killed by the Taliban if they came out of hiding, but others have joined the nascent Taliban air force. 
+ <p class="updated_time"> 01:17 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 01:11 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/nyregion/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
  <p class="updated_time"> 01:01 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
- <p class="updated_time"> 12:56 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 12:47 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/mariupol-red-cross.html">Red Cross Warns Time Is Running Out For Civilians in Mariupol</a> NYT: Russian forces encircled the city nearly two weeks ago, and as the death toll rises, eyewitnesses have reported there is little food or clean water, and no medicine. 
  <p class="updated_time"> 12:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/sports/baseball/mlb-covid-canada.html">Unvaccinated M.L.B. Players Will Not Be Allowed to Play in Canada</a> NYT: Canada’s border restrictions bar those players, and the players will not be paid while the team is abroad as part of the sport’s new labor agreement. 
- <p class="updated_time"> 11:56 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 12:17 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 11:42 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086343820/iran-claims-responsibility-for-missiles-that-struck-near-a-u-s-consulate-in-iraq">Iran claims responsibility for missiles that struck near a U.S. consulate in Iraq</a> NPR: No injuries were reported in Sunday's attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. Iran said it was retaliation for an Israeli strike in Syria. 
- <p class="updated_time"> 11:39 AM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/asia/hong-kong-quarantine.html">300,000 in Hong Kong Isolate at Home as COVID Cases Rise</a> NYT: The city’s officials are scrambling to build quarantine and mass quarantine centers as cases of the Omicron and Delta variants spread widely. 
  <p class="updated_time"> 11:32 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
+ <p class="updated_time"> 11:17 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 11:07 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086325195/paralympic-winter-games-closing-ceremony">Paralympic Winter Games come to a close against a backdrop of war in Ukraine</a> NPR: Sunday's closing ceremony marked the end of the 2022 Beijing Winter Paralympics. Ukraine had a strong performance at the games and came in second place in the overall medal count despite war at home. 
- <p class="updated_time"> 10:56 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 09:59 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Iran launches missiles at northern Iraqi city</a> BBC: Iraqi officials reject Iran's claim that it hit an Israeli facility near the US consulate in Irbil. 
  <p class="updated_time"> 09:50 AM CT, Mar. 13 </p> 
@@ -95,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086329977/russia-strikes-ukrainian-military-base-killing-more-than-30-people">Russia strikes Ukrainian military base, killing more than 30 people</a> NPR: Russia struck a Ukrainian military training base close to the Polish border using cruise missiles, according to local officials. 
  <p class="updated_time"> 06:21 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
- <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
- <a href="https://www.npr.org/2022/03/13/1086219973/sanctions-may-ground-russias-planes-but-the-firms-that-own-them-cant-get-them-ba">Sanctions may ground Russia's planes, but the firms that own them can't get them back</a> NPR: Russian airlines can no longer get spare parts or technical support for their Airbus and Boeing planes. 
  <p class="updated_time"> 03:44 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
  <p class="updated_time"> 03:00 AM CT, Mar. 13 </p> 
@@ -137,10 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-forces-battle-kyiv.html">Ukrainian and Russian Soldiers Fight Street Battles Near Kyiv</a> NYT: The capture of the once affluent suburb of Irpin would potentially help Moscow encircle the nearby capital, military analysts say. 
  <p class="updated_time"> 04:58 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-diplomacy.html">Ukraine War Ushers In ‘New Era’ for Biden and U.S. Abroad</a> NYT: President Biden is rethinking relationships with allies as well as rivals — including China, Iran and Venezuela — to counter President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 04:46 PM CT, Mar. 12 </p> 
- <a href="https://www.npr.org/2022/03/12/1086309025/do-russias-assaults-on-ukraine-amount-to-war-crimes">Do Russia's assaults on Ukraine amount to war crimes?</a> NPR: NPR's Michel Martin discusses the laws of war and whether those have evolved over time with Mark Drumbl, director of the Transnational Law Institute at the Washington and Lee University School of Law. 
- <p class="updated_time"> 04:46 PM CT, Mar. 12 </p> 
- <a href="https://www.npr.org/2022/03/12/1086309022/ukraine-jose-andres-interview-world-central-kitchen">Chef José Andrés and his team are feeding Ukrainians on the front lines of the war</a> NPR: NPR's Michel Martin speaks with the founder of World Central Kitchen about the organization's efforts to feed Ukrainians and those who are fleeing the country. 
  <p class="updated_time"> 04:34 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-europe-nuclear-war-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
  <p class="updated_time"> 04:25 PM CT, Mar. 12 </p> 
@@ -177,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/syria-ukraine-war.html">Russian Sieges in Ukraine Are Prompting Flashbacks for Syrians</a> NYT: “We feel for them and say, may God be with you,” said one Syrian who endured hunger and cold when his own government, backed by Russia, besieged Aleppo. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/books/cristina-rivera-garza-book-murder.html">An Author Wrote About Her Sister’s Murder. It Led to a Breakthrough.</a> NYT: Cristina Rivera Garza wanted to shed light on the life of her sister, killed 30 years ago. Her book, part of a larger call for justice by women in Mexico, helped locate the suspect. 
- <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/us-bioweapons-ukraine-misinformation.html">Theory About U.S.-Funded Bioweapons Labs in Ukraine Is Unfounded</a> NYT: Prominent conservative voices have mischaracterized remarks from American officials to amplify baseless claims promoted by Russian state media. 
  <p class="updated_time"> 09:57 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/kamala-harris-gas-prices-democracy.html">Kamala Harris Says U.S. Must Bear Higher Gas Prices to Punish Russia</a> NYT: Vice President Kamala Harris, visiting NATO ally Romania, insisted that the higher costs of energy associated with sanctions imposed on Moscow over its war on Ukraine would be worth the pain. 
  <p class="updated_time"> 09:03 PM CT, Mar. 11 </p> 
@@ -212,10 +212,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:02 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
+ <p class="updated_time"> 04:02 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html">Frustrated With Utilities, Some Californians Are Leaving the Grid</a> NYT: Citing more blackouts, wildfires and higher electricity rates, a growing number of homeowners are choosing to build homes that run entirely on solar panels and batteries. 
  <p class="updated_time"> 03:52 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/biden-trump-immigration.html">Biden Administration Fights in Court to Uphold Some Trump-Era Immigration Policies</a> NYT: Immigration activists and Democrats say there is a disconnect between the president’s words at the lectern and the government’s litigation in the courtroom. 
- <p class="updated_time"> 03:44 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 03:24 PM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/barack-obama-tests-positive-covid-19-00016878">Obama tests positive for Covid-19</a> Politico: The 44th president, who reported only a scratchy throat, said that former first lady Michelle Obama had tested negative and that both were vaccinated and boosted. 
  <p class="updated_time"> 03:13 PM CT, Mar. 13 </p> 
@@ -292,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/us/covid-stimulus-money-fight.html">Covid Stimulus Money Brings Clashes Within Cities and Counties</a> NYT: As communities across the United States receive pandemic relief money, fierce debates have erupted over priorities, and who has the power to set them. 
  <p class="updated_time"> 10:08 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/iowa-new-hampshire-presidential-elections.html">Could Iowa and New Hampshire Lose First Spots in Primary Calendar?</a> NYT: After complaints about disenfranchisement and logistical snafus, the party is reconsidering Iowa and New Hampshire’s coveted spots in the presidential nominating process. 
- <p class="updated_time"> 10:08 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/democrats-biden-midterms.html">Bracing for Losses, Democrats Look to Biden for a Reset</a> NYT: At a party retreat in Philadelphia, House Democrats hoped the president would offer a winning strategy heading into a challenging midterm election season. 
  <p class="updated_time"> 10:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/terrorist-gitmo-sentence-majid-khan.html">U.S. Official Ends Sentence of Terrorist Who Was Tortured by C.I.A.</a> NYT: Majid Khan, who confessed to war crimes and turned informant in 2012, will not go free from Guantánamo Bay until U.S. diplomats find a country to take him in. 
  <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
