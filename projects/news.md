@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:58 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 08:26 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia Strikes Base Near Polish Border, Leaving at Least 35 Dead</a> NYT: More than 100 were injured after missiles hit a base used to ferry weapons and train foreign fighters. Russia had warned that arms shipments were “legitimate targets.” 
+ <p class="updated_time"> 08:17 AM CT, Mar. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60728208?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Sky turned red' as missiles hit Lviv military base</a> BBC: A witness to a deadly Russian attack on a Ukrainian military base describes the moment missiles struck the site. 
  <p class="updated_time"> 07:49 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086330040/what-flight-tracking-data-reveals-about-details-of-the-ukraine-crisis">What flight tracking data reveals about details of the Ukraine crisis</a> NPR: Debbie Elliott asks flight data co-op ADS-B Exchange founder Dan Streufert where publicly available flight data comes from and how much it reveals about the crisis in Ukraine. 
  <p class="updated_time"> 07:46 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086330033/saudi-arabia-executes-81-people-the-countrys-largest-mass-execution-in-modern-ti">Saudi Arabia executes 81 people, the country's largest mass execution in modern times</a> NPR: Saudi Arabia is drawing international criticism for putting 81 people to death in one day. The executions happen as the West is hoping to convince the kingdom to increase oil production. 
+ <p class="updated_time"> 07:36 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 07:31 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086177508/russia-ukraine-refugees-poland-help-volunteers">Volunteers in Poland are setting up Ukrainian refugees to survive the coming days</a> NPR: As Ukrainians flee the war at home, a makeshift system of supplies and aid has sprung up in the Przemyśl train station. 
  <p class="updated_time"> 07:17 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60725962?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian forces accused of abducting second mayor</a> BBC: The news comes as Ukraine says Russia is trying to create "pseudo-republics" to break up the country. 
- <p class="updated_time"> 07:15 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 07:12 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086330019/locals-in-poland-are-taking-ukrainian-refugees-into-their-homes">Locals in Poland are taking Ukrainian refugees into their homes </a> NPR: As the U.N.'s refugee agency resists establishing camps in the EU for Ukrainians, Poles are quietly welcoming thousands into their homes. 
  <p class="updated_time"> 07:10 AM CT, Mar. 13 </p> 
@@ -31,17 +33,17 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086329977/russia-strikes-ukrainian-military-base-killing-more-than-30-people">Russia strikes Ukrainian military base, killing more than 30 people</a> NPR: Russia struck a Ukrainian military training base close to the Polish border using cruise missiles, according to local officials. 
  <p class="updated_time"> 06:58 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/iran-missiles-us-consulate-iraq.html">Missiles Fired From Iran Hit Near U.S. Consulate Site in Iraq</a> NYT: No serious injuries were reported from the strike, outside the city of Erbil in the Kurdish region of Iraq, and an American official said the consulate site was undamaged. 
+ <p class="updated_time"> 06:36 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 06:21 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
- <p class="updated_time"> 06:15 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
- <p class="updated_time"> 05:15 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 05:36 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/millions-are-fleeing-ukraine-some-are-going-back-11647169202">Millions Are Fleeing Ukraine, Some Are Going Back</a> WSJ: Millions Are Fleeing Ukraine, Some Are Going Back 
  <p class="updated_time"> 04:38 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Missiles from Iran hit northern Iraqi city, US says</a> BBC: The missiles damaged buildings near the US consulate in Irbil, but no casualties have been reported. 
- <p class="updated_time"> 04:15 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 04:36 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086219973/sanctions-may-ground-russias-planes-but-the-firms-that-own-them-cant-get-them-ba">Sanctions may ground Russia's planes, but the firms that own them can't get them back</a> NPR: Russian airlines can no longer get spare parts or technical support for their Airbus and Boeing planes. 
@@ -49,8 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/uk-oligarchs-russia-ukraine.html">U.K. vs. Oligarchs: ‘The Gloves Are Now Off’</a> NYT: Russia’s war in Ukraine has finally led the British government to go after ultrawealthy Russians in London. But curbing the flood of corrupt money will require going after more than the big names. 
  <p class="updated_time"> 03:44 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
- <p class="updated_time"> 03:26 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran's Revolutionary Guard Claims Missile Attack, Raising Tensions</a> WSJ: The statement came hours after U.S. officials said missiles originating from Iran struck in the vicinity of a new American consulate under construction in northern Iraq 
+ <p class="updated_time"> 03:36 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran’s Revolutionary Guard Claims Missile Attack, Raising Tensions</a> WSJ: Iran’s Revolutionary Guard Claims Missile Attack, Raising Tensions 
  <p class="updated_time"> 01:36 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60726265?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The teenagers at war with only three days training</a> BBC: Students Maksym, 19 and Dmytro, 18 volunteered for the Ukrainian army just weeks ago. 
  <p class="updated_time"> 10:57 PM CT, Mar. 12 </p> 
@@ -177,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/middleeast/saudi-raif-badawi-liberation.html">Saudi Blogger Raif Badawi Is Released From Prison</a> NYT: Amnesty International welcomed news of the release of Raif Badawi, whose case became a lightening rod for rights campaigners and reflected Saudi Arabia’s lack of tolerance for dissent. 
  <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711659?at_medium=RSS&at_campaign=KARANGA">Battle for Mykolaiv: 'We are winning this fight, but not this war'</a> BBC: In the southern city of Mykolaiv, Ukrainian forces are battling to stop the Russian advance. 
- <p class="updated_time"> 01:05 PM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60710816?at_medium=RSS&at_campaign=KARANGA">Man returns to totally destroyed neighbourhood</a> BBC: In Kharkiv, a former resident takes a look around and sees the damage from Russia's assault. 
  <p class="updated_time"> 12:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html">Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia</a> NYT: The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success. 
  <p class="updated_time"> 11:44 AM CT, Mar. 11 </p> 
