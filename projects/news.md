@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 11:13 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Ukraine Live Updates: U.S. to Send More Arms as Putin Resists Cease-Fire</a> NYT: The Kremlin warned that convoys used to transfer weapons to Ukraine would be considered “legitimate targets.” Russian forces pressed into the suburbs of the capital. 
- <p class="updated_time"> 09:32 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 10:57 PM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
+ <p class="updated_time"> 10:21 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
+ <p class="updated_time"> 09:21 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 08:42 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
- <p class="updated_time"> 08:32 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 08:25 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
+ <p class="updated_time"> 08:21 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/missiles-from-iran-struck-in-vicinity-of-u-s-consulate-in-northern-iraq-officials-say-11647138802">Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq</a> WSJ: Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq 
  <p class="updated_time"> 08:19 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
  <p class="updated_time"> 08:10 PM CT, Mar. 12 </p> 
@@ -27,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60647543?at_medium=RSS&at_campaign=KARANGA">Russia sanctions: How the measures have changed daily life</a> BBC: Prices are rising in Russia and some goods are harder to buy. Here are ways sanctions are affecting daily life. 
  <p class="updated_time"> 07:32 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60698374?at_medium=RSS&at_campaign=KARANGA">Dudula: How South African anger has focused on foreigners</a> BBC: Support seems to be growing for two groups who are campaigning against undocumented foreign nationals. 
- <p class="updated_time"> 07:32 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 07:21 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 06:59 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60590121?at_medium=RSS&at_campaign=KARANGA">Isak Munda: The Orissa labourer who became a YouTube star</a> BBC: Isak Munda says the platform has changed his life since he started posting videos. 
@@ -35,10 +39,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60650018?at_medium=RSS&at_campaign=KARANGA">Indian evacuee: The kindness of Ukrainians saved my life</a> BBC: From an airstrike bunker to his mum's relieved hugs, Vishnu tells how he and his dog fled Ukraine to India. 
  <p class="updated_time"> 06:48 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60661075?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'urban landscape'</a> BBC: A selection of striking images from our readers around the world. 
- <p class="updated_time"> 06:32 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 06:23 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60697017?at_medium=RSS&at_campaign=KARANGA">Will Russia's attack on Ukraine help thaw US-Venezuela relations?</a> BBC: The ban on Russian oil exports is causing prices to surge, and leaders are revisiting some awkward friendships. 
+ <p class="updated_time"> 06:21 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 06:02 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710975?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'Not all Russians support this war'</a> BBC: Yevgeny says it is his responsibility as a Russian to help Ukrainians. 
  <p class="updated_time"> 06:00 PM CT, Mar. 12 </p> 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
  <p class="updated_time"> 05:39 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60724509?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich: Rabbi investigated over Portuguese citizenship</a> BBC: Daniel Litvak helped Russian billionaire Roman Abramovich obtain Portuguese citizenship. 
- <p class="updated_time"> 05:32 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 05:30 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-forces-battle-kyiv.html">Ukrainian and Russian Soldiers Fight Street Battles Near Kyiv</a> NYT: The capture of the once affluent suburb of Irpin would potentially help Moscow encircle the nearby capital, military analysts say. 
  <p class="updated_time"> 04:58 PM CT, Mar. 12 </p> 
@@ -67,12 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/12/1086282996/photos-ukrainian-refugees-eu">Photos: Ukrainian refugees assisted by the EU government as they flee their country</a> NPR: The EU welcomes Ukrainian nationals displaced by the Russian invasion. Expectations are in place for EU government to assist these refugees in their search for a place to land. 
  <p class="updated_time"> 03:58 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60721323?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evacuations 'extremely difficult' amid shelling</a> BBC: New attempts are under way to get civilians out of bombed Ukrainian cities as Russia's attack intensifies. 
- <p class="updated_time"> 03:52 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/missiles-from-iran-struck-in-vicinity-of-u-s-consulate-in-northern-iraq-officials-say-11647138802">Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq</a> WSJ: The attack, which didn’t injure any U.S. personnel, comes as the U.S. is seeking to revive a nuclear deal with Tehran. 
  <p class="updated_time"> 03:08 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086304057/russia-roman-abramovich-chelsea-premier-league-disqualification">Roman Abramovich has been ordered by Chelsea's soccer league to sell </a> NPR: The league board's decision comes after the British government sanctioned the Russian businessman, who has ties to President Vladimir Putin. 
- <p class="updated_time"> 02:33 PM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
  <p class="updated_time"> 01:05 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
  <p class="updated_time"> 12:03 PM CT, Mar. 12 </p> 
@@ -129,6 +127,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/12/1085967986/iron-curtain-russia-soviet-union-mcdonalds-ikea-pepsi">An economic iron curtain is falling on Russia as companies like McDonald's cut ties</a> NPR: Global companies are exiting Russia after the country's invasion of Ukraine. For some observers, it marks the return of Russia to a time when it was closed off from the global economy. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/books/cristina-rivera-garza-book-murder.html">An Author Wrote About Her Sister’s Murder. It Led to a Breakthrough.</a> NYT: Cristina Rivera Garza wanted to shed light on the life of her sister, killed 30 years ago. Her book, part of a larger call for justice by women in Mexico, helped locate the suspect. 
+ <p class="updated_time"> 03:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: Those rich in oil and gas and other commodities are expected to get a boost from soaring prices, though inflation will sting consumers and weigh on global growth. 
  <p class="updated_time"> 01:18 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/asia/china-covid-shanghai.html">Lockdowns Spread in China as Covid Cases Surge in Shanghai and Other Areas</a> NYT: Officials say that most of the recent cases detected in widespread testing are asymptomatic but still contagious. 
  <p class="updated_time"> 09:58 PM CT, Mar. 11 </p> 
@@ -237,7 +237,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:27 AM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086274122/democrats-retreat">House Democrats know midterms will be a tough race</a> NPR: House Democrats are in Philadelphia on a retreat. We'll look at how lawmakers up for re-election are navigating their relationship with an unpopular president, who is also head of their party. 
  <p class="updated_time"> 07:25 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/nevada-latino-voters-republicans.html">Republicans Sense an Opportunity in Nevada’s Restless Latino Voters</a> NYT: Seizing on signs that suggest Democrats are losing support among Hispanic voters nationwide, Republicans are targeting Senator Catherine Cortez Masto’s seat. 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/nevada-latino-voters-republicans.html">Why Republicans in Nevada Are Targeting Senator Catherine Cortez Masto’s Seat</a> NYT: Seizing on signs that suggest Democrats are losing support among Hispanic voters nationwide, Republicans are targeting Senator Catherine Cortez Masto’s seat. 
  <p class="updated_time"> 07:02 AM CT, Mar. 12 </p> 
  <a href="https://www.politico.com/news/2022/03/12/democrats-culture-wars-dnc-00016641">Dems catch a break from the culture wars</a> Politico: War in Ukraine and the domestic economic fallout have given Democrats a chance to focus there instead of on other issues that dominated 2021. 
  <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
