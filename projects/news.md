@@ -11,26 +11,26 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 12:23 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Live Updates: Russia Expands Attack, Targets Base in Western Ukraine</a> NYT: Local officials said missiles hit a base near the Polish border. Russia renewed attacks on Ukrainian cities on Sunday morning after President Putin rejected pleas for a cease-fire. 
- <p class="updated_time"> 11:38 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 12:15 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
+ <p class="updated_time"> 11:15 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 10:57 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
- <p class="updated_time"> 10:38 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
- <p class="updated_time"> 09:38 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 10:15 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/missiles-from-iran-struck-in-vicinity-of-u-s-consulate-in-northern-iraq-officials-say-11647138802">Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq</a> WSJ: Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq 
+ <p class="updated_time"> 09:15 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 08:42 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
- <p class="updated_time"> 08:38 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 08:25 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
  <p class="updated_time"> 08:19 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
+ <p class="updated_time"> 08:15 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 08:10 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008248969/ukraine-soldier-funeral-lviv.html">After Days of Uncertainty, a Ukrainian Soldier Is Laid to Rest</a> NYT: Senior Lt. Vasyl Vyshyvanyi was killed by Russian forces on March 3, but heavy combat kept the military from evacuating his body. Six days later, he was buried in his home village outside Lviv. 
- <p class="updated_time"> 07:38 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 07:34 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60647543?at_medium=RSS&at_campaign=KARANGA">Russia sanctions: How the measures have changed daily life</a> BBC: Prices are rising in Russia and some goods are harder to buy. Here are ways sanctions are affecting daily life. 
  <p class="updated_time"> 07:32 PM CT, Mar. 12 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is shifting from trying to prevent all transmission of the virus toward protecting those most vulnerable. “There will inevitably be a level of virus within the community going forward,” the health minister said. 
  <p class="updated_time"> 09:07 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60709208?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Instagram banned in Russia over 'calls to violence'</a> BBC: Instagram owner Meta has allowed users in some countries to call for violence against Russia's army. 
- <p class="updated_time"> 07:41 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/10/world/australia/climate-changes-threat-to-the-glorious-redwood-both-here-and-afar.html">Climate Change’s Threat to the Glorious Redwood, Both Here and Afar</a> NYT: In 1936, foresters planted California redwoods in Victoria. How long will they grow in peace? 
  <p class="updated_time"> 05:48 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/zachary-rolfe-kumanjayi-walker.html">Zachary Rolfe Acquitted of Murder of Kumanjayi Walker in Australia</a> NYT: Many Indigenous Australians had seen the case as a test of whether the authorities could be held accountable after what they call decades of abuses. 
  <p class="updated_time"> 05:44 AM CT, Mar. 11 </p> 
@@ -212,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:00 AM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/suicide-hotline-mental-health-988.html">As a Crisis Hotline Grows, So Do Fears It Won’t Be Ready</a> NYT: Envisioned as the 911 for mental health, the National Suicide Prevention Lifeline will soon be 988, with more services for more callers. But it’s already straining to meet demand. 
  <p class="updated_time"> 08:57 PM CT, Mar. 12 </p> 
  <a href="https://www.politico.com/news/2022/03/12/missiles-u-s-consulate-north-iraq-00016829">Missiles target U.S. consulate in north Iraq, no casualties</a> Politico: The attack comes as negotiations in Vienna over Tehran’s tattered nuclear deal hit a “pause” over Russian demands about sanctions targeting Moscow over its war on Ukraine. 
  <p class="updated_time"> 08:25 PM CT, Mar. 12 </p> 
@@ -338,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/11/house-gop-hagedorn-widow-seat-00016375">House GOP winces as Hagedorn's scandal-plagued widow eyes his empty seat</a> Politico: Jennifer Carnahan resigned from the Minnesota party chairmanship last year. Her late husband died last month, leaving his congressional seat open. 
  <p class="updated_time"> 04:30 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/cartoons/2022/03/11/the-nations-cartoonists-on-the-week-in-politics-00016350">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 11:25 PM CT, Mar. 10 </p> 
- <a href="https://www.nytimes.com/2022/03/10/us/politics/biden-putin-inflation.html">Biden Urges Americans to Blame Rising Prices on Putin. Many Do, for Now.</a> NYT: News that inflation has hit a 40-year high is another blunt reminder of just how much the president is asking voters to sacrifice in an election year. 
  <p class="updated_time"> 10:25 PM CT, Mar. 10 </p> 
  <a href="https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html">What's in the government spending bill</a> CNN: A massive spending bill that would fund the federal government through September -- as well as provide $13.6 billion in fresh aid to Ukraine as the country fights back against Russia's invasion -- was passed by the Senate on Thursday evening. 
  <p class="updated_time"> 10:03 PM CT, Mar. 10 </p> 
