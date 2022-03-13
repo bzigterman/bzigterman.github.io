@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
+ <p class="updated_time"> 04:25 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/europe/chernobyl-power-supply.html">Power Supply Restored at Nuclear Plant in Chernobyl, Ukraine Says</a> NYT: Russian troops have occupied the nuclear power plant since late February. 
  <p class="updated_time"> 04:10 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086365524/an-expert-explains-why-putin-seems-to-be-using-an-outdated-military-manual">An expert explains why Putin seems to be using an outdated military manual</a> NPR: NPR's Michel Martin speaks to Sean McFate, author of "The New Rules of War," about Russia's military tactics in Ukraine. 
  <p class="updated_time"> 04:10 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086365517/eu-ambassador-lambrinidis-discusses-the-humanitarian-crisis-in-ukraine">EU Ambassador Lambrinidis discusses the humanitarian crisis in Ukraine</a> NPR: NPR's Michel Martin speaks with EU Ambassador to the U.S. Stavros Lambrinidis about the EU's response. An estimated 2.5 million refugees have fled Ukraine. 
  <p class="updated_time"> 04:10 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086365510/a-look-at-some-of-the-recent-developments-from-ukraine">A look at some of the recent developments from Ukraine</a> NPR: Russian missiles struck a Ukrainian military base just miles from the Polish border, killing at least 35 people and wounding more than 100. 
- <p class="updated_time"> 04:02 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
  <p class="updated_time"> 04:02 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 03:59 PM CT, Mar. 13 </p> 
@@ -27,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-career-work.html">Filmmaker Brent Renaud Spent His Career Capturing the Human Toll of War</a> NYT: Mr. Renaud’s final assignment was documenting refugees fleeing across bridges in Irpin, Ukraine. 
  <p class="updated_time"> 03:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
+ <p class="updated_time"> 03:31 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 03:26 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60730367?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: What happened on day 18 of Russia's invasion</a> BBC: A military base near the Polish border is attacked, and the UK announces a scheme to house refugees. 
  <p class="updated_time"> 03:25 PM CT, Mar. 13 </p> 
@@ -35,26 +39,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/ukraine-romania-refugee-shelter-pets.html">Ukrainian Refugees Find Shelter and a Hearty Welcome For Their Pets in Romania</a> NYT: Viktor and Rachel Borovic had only two hours to prepare to flee their city. But they were clear about what was important to them. 
  <p class="updated_time"> 03:18 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/roman-abramovich-russian-oligarch-sanctions.html">How Roman Abramovich, a Russian Oligarch, Found Himself Under Sanctions</a> NYT: The oligarch’s billions and his Kremlin connections secured him favors and elite status in the West. Now they’ve landed him on a sanctions list. 
- <p class="updated_time"> 03:17 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 03:16 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60731369?at_medium=RSS&at_campaign=KARANGA">Poland feels the strain of Ukraine's refugees</a> BBC: The eastern town of Zamosc has welcomed thousands of refugees but locals wonder how long they can cope. 
  <p class="updated_time"> 03:13 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086362946/pope-francis-issues-an-urgent-plea-for-an-end-to-the-war">Pope Francis issues an urgent plea for an end to the war</a> NPR: The pope urged people to take in refugees from Ukraine. More than 2.5 million people have already fled because of the invasion, according to the United Nations. 
- <p class="updated_time"> 03:04 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/europe/chernobyl-power-supply.html">Power Supply Restored at Nuclear Plant in Chernobyl, Ukraine Says</a> NYT: Russian troops have occupied the nuclear power plant since late February. 
  <p class="updated_time"> 02:58 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60730773?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: Friend of US journalist killed in Ukraine speaks to BBC</a> BBC: Mea last spoke to Brent four days ago, and says he was excited to work on a documentary in Ukraine. 
- <p class="updated_time"> 02:17 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 02:31 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 01:57 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086345532/american-journalist-killed-in-ukraine">Journalist Brent Renaud is killed while reporting on the war in Ukraine</a> NPR: An advisor to Ukraine's interior ministry said Renaud was killed and another journalist was wounded in Irpin, a suburb of Kyiv. 
  <p class="updated_time"> 01:39 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
+ <p class="updated_time"> 01:31 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 01:30 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/afghan-air-force-taliban.html">Afghan Aviators Hide as Taliban Urge Them to Return to Duty</a> NYT: Many former Afghan Air Force members fear they could be killed by the Taliban if they came out of hiding, but others have joined the nascent Taliban air force. 
- <p class="updated_time"> 01:17 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 01:11 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/nyregion/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
  <p class="updated_time"> 01:01 PM CT, Mar. 13 </p> 
@@ -63,13 +63,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/mariupol-red-cross.html">Red Cross Warns Time Is Running Out For Civilians in Mariupol</a> NYT: Russian forces encircled the city nearly two weeks ago, and as the death toll rises, eyewitnesses have reported there is little food or clean water, and no medicine. 
  <p class="updated_time"> 12:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/sports/baseball/mlb-covid-canada.html">Unvaccinated M.L.B. Players Will Not Be Allowed to Play in Canada</a> NYT: Canada’s border restrictions bar those players, and the players will not be paid while the team is abroad as part of the sport’s new labor agreement. 
- <p class="updated_time"> 12:17 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 12:31 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 11:42 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086343820/iran-claims-responsibility-for-missiles-that-struck-near-a-u-s-consulate-in-iraq">Iran claims responsibility for missiles that struck near a U.S. consulate in Iraq</a> NPR: No injuries were reported in Sunday's attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. Iran said it was retaliation for an Israeli strike in Syria. 
  <p class="updated_time"> 11:32 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
- <p class="updated_time"> 11:17 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 11:31 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 11:07 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086325195/paralympic-winter-games-closing-ceremony">Paralympic Winter Games come to a close against a backdrop of war in Ukraine</a> NPR: Sunday's closing ceremony marked the end of the 2022 Beijing Winter Paralympics. Ukraine had a strong performance at the games and came in second place in the overall medal count despite war at home. 
@@ -233,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:41 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/broadening-russian-attack-air-strike-00016836">‘He's lashing out’: U.S. sees ‘broadening’ of Putin strategy in Western Ukraine strike</a> Politico: National security adviser Jake Sullivan says strike near NATO territory “does not come as a surprise to the American intelligence and national security communities.” 
  <p class="updated_time"> 09:22 AM CT, Mar. 13 </p> 
- <a href="https://www.politico.com/news/2022/03/13/american-journalist-killed-ukraine-00016839">American journalist is killed in Ukraine</a> Politico: The journalist was reportedly shot in Irpin, which is just outside the capital of Kyiv. 
+ <a href="https://www.politico.com/news/2022/03/13/american-journalist-killed-ukraine-00016839">American journalist is killed in Ukraine</a> Politico: Peabody-winner Brent Renaud was reportedly shot by Russian forces in Irpin, which is just outside the capital of Kyiv. 
  <p class="updated_time"> 09:00 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/jake-sullivan-china-yang-jiechi-russia-ukraine-00016831">Jake Sullivan and China’s Yang Jiechi to discuss Russia-Ukraine on Monday</a> Politico: During their Rome meeting, they plan to focus on invasion’s “regional and global security” implications. 
  <p class="updated_time"> 07:26 AM CT, Mar. 13 </p> 
