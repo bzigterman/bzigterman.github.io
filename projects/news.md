@@ -9,42 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:16 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to ferry weapons and train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
+ <p class="updated_time"> 11:42 AM CT, Mar. 13 </p> 
+ <a href="https://www.npr.org/2022/03/13/1086343820/iran-claims-responsibility-for-missiles-that-struck-near-a-u-s-consulate-in-iraq">Iran claims responsibility for missiles that struck near a U.S. consulate in Iraq</a> NPR: No injuries were reported in Sunday's attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. Iran said it was retaliation for an Israeli strike in Syria. 
  <p class="updated_time"> 11:39 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/hong-kong-quarantine.html">300,000 in Hong Kong Isolate at Home as COVID Cases Rise</a> NYT: The city’s officials are scrambling to build quarantine and mass quarantine centers as cases of the Omicron and Delta variants spread widely. 
- <p class="updated_time"> 11:39 AM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to ferry weapons and train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
  <p class="updated_time"> 11:32 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
+ <p class="updated_time"> 11:25 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 11:07 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086325195/paralympic-winter-games-closing-ceremony">Paralympic Winter Games come to a close against a backdrop of war in Ukraine</a> NPR: Sunday's closing ceremony marked the end of the 2022 Beijing Winter Paralympics. Ukraine had a strong performance at the games and came in second place in the overall medal count despite war at home. 
- <p class="updated_time"> 10:44 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 10:42 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
+ <p class="updated_time"> 10:25 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 09:59 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Iran launches missiles at northern Iraqi city</a> BBC: Iraqi officials reject Iran's claim that it hit an Israeli facility near the US consulate in Irbil. 
  <p class="updated_time"> 09:50 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/uk-oligarchs-russia-ukraine.html">U.K. vs. Oligarchs: ‘The Gloves Are Now Off’</a> NYT: Russia’s war in Ukraine has finally led the British government to go after ultrawealthy Russians in London. But curbing the flood of corrupt money will require going after more than the big names. 
- <p class="updated_time"> 09:44 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 09:43 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60728208?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Sky turned red' as missiles hit Lviv military base</a> BBC: "It doesn't matter where you live" - fear after a deadly attack on military base close to Polish border. 
  <p class="updated_time"> 09:35 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/iran-missiles-us-consulate-iraq.html">Missiles Fired From Iran Hit Near U.S. Consulate Site in Iraq</a> NYT: No serious injuries were reported from the strike, outside the city of Erbil in the Kurdish region of Iraq, and an American official said the consulate site was undamaged. 
  <p class="updated_time"> 09:26 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/13/1086032747/russia-ukraine-poland-refugees-train-rail-tracks">Poland rebuilds abandoned rail tracks to Ukraine to help refugees fleeing the war</a> NPR: In a remote province in the southeast tip of Poland, surrounded by snow and bare trees, 11 burly men in orange suits are hard at work rebuilding rail tracks first put down in the 19th century. 
+ <p class="updated_time"> 09:25 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 08:48 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-60726188?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Video shows destroyed buildings on fire after shelling</a> BBC: Footage shared by the State Emergency Service of Ukraine shows buildings in Chernihiv totally destroyed. 
- <p class="updated_time"> 08:44 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
+ <p class="updated_time"> 08:25 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 07:49 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086330040/what-flight-tracking-data-reveals-about-details-of-the-ukraine-crisis">What flight tracking data reveals about details of the Ukraine crisis</a> NPR: Debbie Elliott asks flight data co-op ADS-B Exchange founder Dan Streufert where publicly available flight data comes from and how much it reveals about the crisis in Ukraine. 
  <p class="updated_time"> 07:46 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086330033/saudi-arabia-executes-81-people-the-countrys-largest-mass-execution-in-modern-ti">Saudi Arabia executes 81 people, the country's largest mass execution in modern times</a> NPR: Saudi Arabia is drawing international criticism for putting 81 people to death in one day. The executions happen as the West is hoping to convince the kingdom to increase oil production. 
- <p class="updated_time"> 07:44 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 07:31 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086177508/russia-ukraine-refugees-poland-help-volunteers">Volunteers in Poland are setting up Ukrainian refugees to survive the coming days</a> NPR: As Ukrainians flee the war at home, a makeshift system of supplies and aid has sprung up in the Przemyśl train station. 
+ <p class="updated_time"> 07:25 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 07:17 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60725962?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian forces accused of abducting second mayor</a> BBC: The news comes as Ukraine says Russia is trying to create "pseudo-republics" to break up the country. 
  <p class="updated_time"> 07:12 AM CT, Mar. 13 </p> 
@@ -55,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086329984/the-u-s-renews-talks-with-oil-rich-venezuela-after-banning-russian-oil-imports">The U.S. renews talks with oil-rich Venezuela after banning Russian oil imports</a> NPR: Debbie Elliott speaks with Diego Area, deputy director of strategic development at the Atlantic Council, about relations between the U.S. and Venezuela and the implications of renewed diplomacy. 
  <p class="updated_time"> 07:03 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086329977/russia-strikes-ukrainian-military-base-killing-more-than-30-people">Russia strikes Ukrainian military base, killing more than 30 people</a> NPR: Russia struck a Ukrainian military training base close to the Polish border using cruise missiles, according to local officials. 
- <p class="updated_time"> 06:44 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 06:21 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/world/australia/new-caledonia-coronavirus.html">Covid Surge in New Caledonia, in the Pacific, HIts Indigenous Hardest</a> NYT: New Caledonia escaped the coronavirus for a year and a half, but a surge in cases has led to a state of emergency, with the disease disproportionately hurting the French territory’s Indigenous people. 
  <p class="updated_time"> 10:38 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/covid-ukraine-russia-war.html">Russian Invasion Could Spur Covid Surge in Ukraine, Doctors Say</a> NYT: War has pushed Covid out of people’s minds while forcing them into crowded and unsanitary conditions that are fertile ground for the coronavirus, polio and other pathogens. 
- <p class="updated_time"> 09:56 AM CT, Mar. 12 </p> 
- <a href="https://www.npr.org/2022/03/12/1086280204/saudi-arabia-carries-out-its-largest-known-execution-in-the-kingdoms-modern-hist">Saudi Arabia carries out its largest known execution in the kingdom's modern history</a> NPR: The number of those executed on Saturday — 81 — surpassed even the toll of a January 1980 mass execution for the 63 militants convicted of seizing the Grand Mosque in Mecca in 1979. 
  <p class="updated_time"> 09:29 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
  <p class="updated_time"> 09:21 AM CT, Mar. 12 </p> 
@@ -214,6 +214,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/barr-indicates-could-support-trump-over-biden-00016869">Barr calls progressives 'dangerous,' indicates he could support Trump in presidential rematch</a> Politico: “Well, I think there are a lot of American people right now that might prefer having him back in office than Biden," he said. 
  <p class="updated_time"> 10:56 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/13/as-russia-gets-bogged-down-negotiations-heat-up-00016856"> As Russia gets bogged down, negotiations heat up</a> Politico Playbook: And Florida emerges as ground zero for America’s culture war. 
  <p class="updated_time"> 10:31 AM CT, Mar. 13 </p> 
@@ -304,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086039378/texas-transgender-investigations-blocked">A Texas judge blocks the state from investigating parents of transgender youth</a> NPR: The judge halted the state from enforcing Gov. Greg Abbott's directive to launch "child abuse" investigations against parents getting gender-affirming care for their transgender children. 
  <p class="updated_time"> 06:45 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/afghan-embassy-closing.html">Afghan Embassy, Now Out of Money, Will Shut Down, U.S. Says</a> NYT: The development caps a sad saga for Afghan diplomats, who have 30 days to apply to remain in the United States or face the threat of deportation. 
- <p class="updated_time"> 06:42 PM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/shutout-for-feds-in-straw-donor-trial-00016737">Shutout for feds in straw donor trial</a> Politico: A D.C. jury has acquitted two men of a scheme to funnel illegal donations to the Clinton 2016 campaign and, later, pro-Trump causes. 
  <p class="updated_time"> 06:02 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1085871358/ukrainians-refugees-border-mexico-us-title-42-trump-biden">Pressure to end pandemic restrictions mounts as Ukrainians reach the U.S. border</a> NPR: One Ukrainian family was allowed to enter the U.S. after being denied entry under border restrictions known as Title 42. The Biden administration faces renewed pressure to end the Trump-era policy. 
  <p class="updated_time"> 05:44 PM CT, Mar. 11 </p> 
