@@ -17,24 +17,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
  <p class="updated_time"> 08:19 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
+ <p class="updated_time"> 08:12 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
  <p class="updated_time"> 08:10 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008248969/ukraine-soldier-funeral-lviv.html">After Days of Uncertainty, a Ukrainian Soldier Is Laid to Rest</a> NYT: Senior Lt. Vasyl Vyshyvanyi was killed by Russian forces on March 3, but heavy combat kept the military from evacuating his body. Six days later, he was buried in his home village outside Lviv. 
- <p class="updated_time"> 07:54 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
  <p class="updated_time"> 07:34 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60647543?at_medium=RSS&at_campaign=KARANGA">Russia sanctions: How the measures have changed daily life</a> BBC: Prices are rising in Russia and some goods are harder to buy. Here are ways sanctions are affecting daily life. 
  <p class="updated_time"> 07:32 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60698374?at_medium=RSS&at_campaign=KARANGA">Dudula: How South African anger has focused on foreigners</a> BBC: Support seems to be growing for two groups who are campaigning against undocumented foreign nationals. 
+ <p class="updated_time"> 07:12 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 06:59 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60590121?at_medium=RSS&at_campaign=KARANGA">Isak Munda: The Orissa labourer who became a YouTube star</a> BBC: Isak Munda says the platform has changed his life since he started posting videos. 
  <p class="updated_time"> 06:59 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60650018?at_medium=RSS&at_campaign=KARANGA">Indian evacuee: The kindness of Ukrainians saved my life</a> BBC: From an airstrike bunker to his mum's relieved hugs, Vishnu tells how he and his dog fled Ukraine to India. 
- <p class="updated_time"> 06:54 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 06:48 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60661075?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'urban landscape'</a> BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 06:23 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60697017?at_medium=RSS&at_campaign=KARANGA">Will Russia's attack on Ukraine help thaw US-Venezuela relations?</a> BBC: The ban on Russian oil exports is causing prices to surge, and leaders are revisiting some awkward friendships. 
+ <p class="updated_time"> 06:12 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 06:02 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710975?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'Not all Russians support this war'</a> BBC: Yevgeny says it is his responsibility as a Russian to help Ukrainians. 
  <p class="updated_time"> 06:00 PM CT, Mar. 12 </p> 
@@ -43,18 +45,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/stories-60692009?at_medium=RSS&at_campaign=KARANGA">The first sex worker strike: 'We are just women and mothers'</a> BBC: When 200 French sex workers took refuge in a church, it started a movement 
  <p class="updated_time"> 05:57 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60724560?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'No one wants to die' - meeting Ukraine's teenage soldiers</a> BBC: Young volunteers swap their studies for assault rifles as they prepare to defend Kyiv from Russian forces. 
- <p class="updated_time"> 05:54 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 05:47 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
  <p class="updated_time"> 05:39 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60724509?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich: Rabbi investigated over Portuguese citizenship</a> BBC: Daniel Litvak helped Russian billionaire Roman Abramovich obtain Portuguese citizenship. 
  <p class="updated_time"> 05:30 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-forces-battle-kyiv.html">Ukrainian and Russian Soldiers Fight Street Battles Near Kyiv</a> NYT: The capture of the once affluent suburb of Irpin would potentially help Moscow encircle the nearby capital, military analysts say. 
+ <p class="updated_time"> 05:12 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 04:58 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-diplomacy.html">Ukraine War Ushers In ‘New Era’ for Biden and U.S. Abroad</a> NYT: President Biden is rethinking relationships with allies as well as rivals — including China, Iran and Venezuela — to counter President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 04:54 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 04:46 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086309025/do-russias-assaults-on-ukraine-amount-to-war-crimes">Do Russia's assaults on Ukraine amount to war crimes?</a> NPR: NPR's Michel Martin discusses the laws of war and whether those have evolved over time with Mark Drumbl, director of the Transnational Law Institute at the Washington and Lee University School of Law. 
  <p class="updated_time"> 04:34 PM CT, Mar. 12 </p> 
@@ -63,10 +63,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-lutsk-ivano-frankivsk-russian-attacks.html">Western Ukraine Suffers Rare Russian Attacks</a> NYT: Western Ukraine has been a safe haven for Ukrainian refugees, as well as businessmen, journalists and diplomats. But attacks in two cities pierced the sense of security in the region. 
  <p class="updated_time"> 04:18 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/12/1086282996/photos-ukrainian-refugees-eu">Photos: Ukrainian refugees assisted by the EU government as they flee their country</a> NPR: The EU welcomes Ukrainian nationals displaced by the Russian invasion. Expectations are in place for EU government to assist these refugees in their search for a place to land. 
+ <p class="updated_time"> 04:12 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 03:58 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60721323?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evacuations 'extremely difficult' amid shelling</a> BBC: New attempts are under way to get civilians out of bombed Ukrainian cities as Russia's attack intensifies. 
- <p class="updated_time"> 03:54 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 03:08 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086304057/russia-roman-abramovich-chelsea-premier-league-disqualification">Roman Abramovich has been ordered by Chelsea's soccer league to sell </a> NPR: The league board's decision comes after the British government sanctioned the Russian businessman, who has ties to President Vladimir Putin. 
  <p class="updated_time"> 02:33 PM CT, Mar. 12 </p> 
@@ -240,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/12/democrats-culture-wars-dnc-00016641">Dems catch a break from the culture wars</a> Politico: War in Ukraine and the domestic economic fallout have given Democrats a chance to focus there instead of on other issues that dominated 2021. 
  <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
  <a href="https://www.politico.com/news/2022/03/12/cyber-russia-hacking-security-00016598">‘Not the time to go poking around’: How former U.S. hackers view dealing with Russia</a> Politico: People with experience in U.S. hacking operations say they expect both Washington and Moscow to show caution in how they wield their digital weapons. 
- <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
- <a href="https://www.politico.com/news/2022/03/12/ukraine-grain-food-supply-00016764">Ukraine conflict prompts countries to hoard grain, endangering global food supply</a> Politico: U.S. officials warn that restricting food exports in the wake of Russia’s Ukraine invasion is exacerbating a global food crisis. 
  <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
  <a href="https://www.politico.com/news/2022/03/11/you-will-see-the-wrath-progressives-warn-biden-against-cutting-down-agenda-00016752">‘You will see the wrath’ — Progressives warn Biden against cutting down agenda</a> Politico: Biden won the White House on the back of parents. Now, with Joe Manchin proving unmovable, he may lose their support. 
  <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
