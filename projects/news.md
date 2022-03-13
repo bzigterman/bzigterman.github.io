@@ -17,17 +17,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
  <p class="updated_time"> 01:30 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/afghan-air-force-taliban.html">Afghan Aviators Hide as Taliban Urge Them to Return to Duty</a> NYT: Many former Afghan Air Force members fear they could be killed by the Taliban if they came out of hiding, but others have joined the nascent Taliban air force. 
+ <p class="updated_time"> 01:19 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 01:11 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/nyregion/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
  <p class="updated_time"> 01:01 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
- <p class="updated_time"> 01:00 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 12:47 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/mariupol-red-cross.html">Red Cross Warns Time Is Running Out For Civilians in Mariupol</a> NYT: Russian forces encircled the city nearly two weeks ago, and as the death toll rises, eyewitnesses have reported there is little food or clean water, and no medicine. 
  <p class="updated_time"> 12:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/sports/baseball/mlb-covid-canada.html">Unvaccinated M.L.B. Players Will Not Be Allowed to Play in Canada</a> NYT: Canada’s border restrictions bar those players, and the players will not be paid while the team is abroad as part of the sport’s new labor agreement. 
- <p class="updated_time"> 12:00 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 12:19 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 11:42 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086343820/iran-claims-responsibility-for-missiles-that-struck-near-a-u-s-consulate-in-iraq">Iran claims responsibility for missiles that struck near a U.S. consulate in Iraq</a> NPR: No injuries were reported in Sunday's attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. Iran said it was retaliation for an Israeli strike in Syria. 
@@ -35,13 +35,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/asia/hong-kong-quarantine.html">300,000 in Hong Kong Isolate at Home as COVID Cases Rise</a> NYT: The city’s officials are scrambling to build quarantine and mass quarantine centers as cases of the Omicron and Delta variants spread widely. 
  <p class="updated_time"> 11:32 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
+ <p class="updated_time"> 11:19 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 11:07 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086325195/paralympic-winter-games-closing-ceremony">Paralympic Winter Games come to a close against a backdrop of war in Ukraine</a> NPR: Sunday's closing ceremony marked the end of the 2022 Beijing Winter Paralympics. Ukraine had a strong performance at the games and came in second place in the overall medal count despite war at home. 
- <p class="updated_time"> 11:00 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 10:42 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
- <p class="updated_time"> 10:00 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 10:19 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 09:59 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Iran launches missiles at northern Iraqi city</a> BBC: Iraqi officials reject Iran's claim that it hit an Israeli facility near the US consulate in Irbil. 
@@ -53,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/asia/iran-missiles-us-consulate-iraq.html">Missiles Fired From Iran Hit Near U.S. Consulate Site in Iraq</a> NYT: No serious injuries were reported from the strike, outside the city of Erbil in the Kurdish region of Iraq, and an American official said the consulate site was undamaged. 
  <p class="updated_time"> 09:26 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/13/1086032747/russia-ukraine-poland-refugees-train-rail-tracks">Poland rebuilds abandoned rail tracks to Ukraine to help refugees fleeing the war</a> NPR: In a remote province in the southeast tip of Poland, surrounded by snow and bare trees, 11 burly men in orange suits are hard at work rebuilding rail tracks first put down in the 19th century. 
- <p class="updated_time"> 09:00 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 09:19 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 08:48 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-60726188?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Video shows destroyed buildings on fire after shelling</a> BBC: Footage shared by the State Emergency Service of Ukraine shows buildings in Chernihiv totally destroyed. 
