@@ -294,7 +294,7 @@ temp_history <- read_csv("data/champaign_weather.csv") %>%
 
 temps_past_hour <- temp_history %>%
   tail(1) %>%
-  mutate(period = "Latest") %>%
+  mutate(period = "Now") %>%
   select(temp, period) %>%
   arrange(temp)
 temps_today <- temp_history %>%
@@ -348,7 +348,7 @@ temps <- full_join(temps_past_hour,temps_today) %>%
   full_join(temps_past_century)
 
 his_los <- tibble(period = c("All Records (since 1888)","Past Decade","Past Year","Past Month","Past Week",
-                             "Yesterday","Today","Latest"),
+                             "Yesterday","Today","Now"),
                   min = c(min(temps_past_century$temp),
                           min(temps_past_decade$temp),
                           min(temps_past_year$temp),
@@ -398,7 +398,7 @@ ggplot(data = temps,
             color = "grey60") +
   scale_x_discrete(limits = c("All Records (since 1888)","Past Decade","Past Year",
                               "Past Month","Past Week",
-                              "Yesterday","Today","Latest"),
+                              "Yesterday","Today","Now"),
                    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
                         guide = NULL) +
@@ -447,7 +447,7 @@ ggplot(data = temps,
             color = "grey60") +
   scale_x_discrete(limits = c("All Records (since 1888)","Past Decade","Past Year",
                               "Past Month","Past Week",
-                              "Yesterday","Today","Latest"),
+                              "Yesterday","Today","Now"),
                    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
                         guide = NULL) +
