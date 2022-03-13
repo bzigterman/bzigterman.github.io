@@ -9,19 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 AM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/asia/missiles-fired-from-iran-hit-near-us-consulate-site-in-iraq.html">Missiles Fired From Iran Hit Near U.S. Consulate Site in Iraq</a> NYT: No serious injuries were reported from the strike, outside the city of Erbil in Iraqi Kurdistan, and an American official said the consulate site was undamaged. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
+ <a href="https://www.npr.org/2022/03/13/1086219973/sanctions-may-ground-russias-planes-but-the-firms-that-own-them-cant-get-them-ba">Sanctions may ground Russia's planes, but the firms that own them can't get them back</a> NPR: Russian airlines can no longer get spare parts or technical support for their Airbus and Boeing planes. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/europe/uk-oligarchs-russia-ukraine.html">U.K. vs. Oligarchs: ‘The Gloves Are Now Off’</a> NYT: Russia’s war in Ukraine has finally led the British government to go after ultrawealthy Russians in London. But curbing the flood of corrupt money will require going after more than the big names. 
  <p class="updated_time"> 03:49 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Live Updates: Russia Strikes Base Near Polish Border, Leaving at Least 9 Dead</a> NYT: Dozens more were injured after missiles hit a base used to ferry weapons and train foreign fighters. Russia had warned that arms shipments were “legitimate targets.” 
  <p class="updated_time"> 03:44 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
- <p class="updated_time"> 03:00 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 03:24 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
  <p class="updated_time"> 01:36 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60726265?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The teenagers at war with only three days training</a> BBC: Students Maksim, 19 and Dmytro, 18 volunteered for the Ukrainian army just weeks ago. 
- <p class="updated_time"> 01:00 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 01:24 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/missiles-from-iran-struck-in-vicinity-of-u-s-consulate-in-northern-iraq-officials-say-11647138802">Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq</a> WSJ: Missiles From Iran Struck in Vicinity of U.S. Consulate in Northern Iraq 
- <p class="updated_time"> 12:00 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 12:24 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
- <p class="updated_time"> 11:00 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 11:24 PM CT, Mar. 12 </p> 
  <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 10:57 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
@@ -163,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-war-journalism.html">How The New York Times Verifies Reporting on the Ukraine War</a> NYT: To cut through the fog of propaganda and misinformation on both sides, The Times has deployed dozens of  journalists  to Ukraine to witness events as they unfold. 
  <p class="updated_time"> 04:00 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086153806/in-chechnya-and-syria-ominous-signs-for-ukraine">In Chechnya and Syria, ominous signs for Ukraine</a> NPR: From the Chechen Wars through its air campaign in Syria, Russian military operations have often taken a high toll on civilians. What does that portend in Ukraine? 
- <p class="updated_time"> 03:54 PM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1086003950/russia-ukraine-war-what-happened-today-march-11">Russia-Ukraine war: What happened today (March 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:39 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60714063?at_medium=RSS&at_campaign=KARANGA">Disney apologises for 'silence' on 'Don't Say Gay' bill</a> BBC: It comes after the BBC is shown a letter which also claims "gay affection" is cut from Pixar content. 
  <p class="updated_time"> 02:04 PM CT, Mar. 11 </p> 
@@ -199,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/asia/covid-india-maharashtra-deaths.html">Indian State That Covid Hit Hard Is Now Recording Sharply Lower Deaths</a> NYT: The western state of Maharashtra on Wednesday reported no daily fatalities from the virus for the third time this month. 
  <p class="updated_time"> 05:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
- <p class="updated_time"> 02:54 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/10/world/europe/here-are-the-latest-developments-ukraine.html">Russia-Ukraine talks come to nothing as bombardment of cities continues.</a> NYT: Thousands of people fled through ‘humanitarian corridors’ as Vice President Kamala Harris said that Russia should be investigated for war crimes. U.S. officials warned that Putin’s threat to seize businesses would lead to more ‘economic pain.’ 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/biden-russia-suspend-trade-relations.html">Biden Will Call for Suspending Normal Trade Relations With Russia</a> NYT: The move, expected to be joined by the G7 and the European Union, would result in higher tariffs on Russian products being sent to the United States. 
 
@@ -210,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
+ <a href="https://www.npr.org/2022/03/13/1086061029/gasoline-prices-political-effects-arab-oil-embargo-iran-shock">Surging gasoline prices bring back memories of past energy wars</a> NPR: American gas stations displaying high prices this summer and fall will matter more than all the campaign billboards put together in affecting the November midterm elections. 
  <p class="updated_time"> 01:00 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/suicide-hotline-mental-health-988.html">As a Crisis Hotline Grows, So Do Fears It Won’t Be Ready</a> NYT: Envisioned as the 911 for mental health, the National Suicide Prevention Lifeline will soon be 988, with more services for more callers. But it’s already straining to meet demand. 
  <p class="updated_time"> 08:57 PM CT, Mar. 12 </p> 
@@ -237,7 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:27 AM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086274122/democrats-retreat">House Democrats know midterms will be a tough race</a> NPR: House Democrats are in Philadelphia on a retreat. We'll look at how lawmakers up for re-election are navigating their relationship with an unpopular president, who is also head of their party. 
  <p class="updated_time"> 07:25 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/nevada-latino-voters-republicans.html">Republicans Sense an Opportunity in Nevada’s Restless Latino Voters</a> NYT: Seizing on signs that suggest Democrats are losing support among Hispanic voters nationwide, Republicans are targeting Senator Catherine Cortez Masto’s seat. 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/nevada-latino-voters-republicans.html">Why Republicans in Nevada Are Targeting Senator Catherine Cortez Masto’s Seat</a> NYT: Seizing on signs that suggest Democrats are losing support among Hispanic voters nationwide, Republicans are targeting Senator Catherine Cortez Masto’s seat. 
  <p class="updated_time"> 07:02 AM CT, Mar. 12 </p> 
  <a href="https://www.politico.com/news/2022/03/12/democrats-culture-wars-dnc-00016641">Dems catch a break from the culture wars</a> Politico: War in Ukraine and the domestic economic fallout have given Democrats a chance to focus there instead of on other issues that dominated 2021. 
  <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
@@ -324,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/11/biden-administration-oil-industry-alliance-00016112">Biden officials say they support oil and gas production. The industry is wary.</a> Politico: Fossil fuel industry executives have doubts about the Biden administration's long-term intentions despite the support they are currently receiving from administration officials. 
  <p class="updated_time"> 10:27 AM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086031179/biden-announces-plans-to-revoke-russias-trade-relations-status">Biden announces plans to revoke Russia's trade relations status</a> NPR: President Biden took new steps to curb U.S. trade with Russia to punish Moscow for invading Ukraine — including banning imports of vodka and caviar. 
- <p class="updated_time"> 09:31 AM CT, Mar. 11 </p> 
- <a href="https://www.npr.org/2022/03/11/1086010666/biden-will-move-to-revoke-russias-trade-relations-status-amid-war-in-ukraine">Biden moves to revoke Russia's trade relations status amid war in Ukraine</a> NPR: The economic restriction, one of several announced in recent weeks, is meant to punish Russian President Vladimir Putin and further hobble Russia's finances as it invades Ukraine. 
  <p class="updated_time"> 07:55 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/11/dems-in-philly-piano-painting-and-midterm-planning-00016455">Dems in Philly: Piano, painting and midterm planning</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:29 AM CT, Mar. 11 </p> 
