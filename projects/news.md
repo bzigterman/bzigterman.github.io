@@ -9,23 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:18 AM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to ferry weapons and train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
+ <p class="updated_time"> 10:07 AM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/asia/hong-kong-quarantine.html">300,000 in Hong Kong Isolate at Home as COVID Cases Rise</a> NYT: The city’s officials are scrambling to build quarantine and mass quarantine centers as cases of the Omicron and Delta variants spread widely. 
+ <p class="updated_time"> 10:04 AM CT, Mar. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brett Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
+ <p class="updated_time"> 10:00 AM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
+ <p class="updated_time"> 09:59 AM CT, Mar. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Iran launches missiles at northern Iraqi city</a> BBC: Iraqi officials reject Iran's claim that it hit an Israeli facility near the US consulate in Irbil. 
  <p class="updated_time"> 09:50 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/uk-oligarchs-russia-ukraine.html">U.K. vs. Oligarchs: ‘The Gloves Are Now Off’</a> NYT: Russia’s war in Ukraine has finally led the British government to go after ultrawealthy Russians in London. But curbing the flood of corrupt money will require going after more than the big names. 
- <p class="updated_time"> 09:49 AM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to ferry weapons and train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb that has come under heavy shelling. 
  <p class="updated_time"> 09:43 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60728208?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Sky turned red' as missiles hit Lviv military base</a> BBC: "It doesn't matter where you live" - fear after a deadly attack on military base close to Polish border. 
  <p class="updated_time"> 09:35 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/iran-missiles-us-consulate-iraq.html">Missiles Fired From Iran Hit Near U.S. Consulate Site in Iraq</a> NYT: No serious injuries were reported from the strike, outside the city of Erbil in the Kurdish region of Iraq, and an American official said the consulate site was undamaged. 
  <p class="updated_time"> 09:26 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/13/1086032747/russia-ukraine-poland-refugees-train-rail-tracks">Poland rebuilds abandoned rail tracks to Ukraine to help refugees fleeing the war</a> NPR: In a remote province in the southeast tip of Poland, surrounded by snow and bare trees, 11 burly men in orange suits are hard at work rebuilding rail tracks first put down in the 19th century. 
- <p class="updated_time"> 09:04 AM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
- <p class="updated_time"> 08:57 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 09:22 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 08:48 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-60726188?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Video shows destroyed buildings on fire after shelling</a> BBC: Footage shared by the State Emergency Service of Ukraine shows buildings in Chernihiv totally destroyed. 
- <p class="updated_time"> 07:57 AM CT, Mar. 13 </p> 
+ <p class="updated_time"> 08:22 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 07:49 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086330040/what-flight-tracking-data-reveals-about-details-of-the-ukraine-crisis">What flight tracking data reveals about details of the Ukraine crisis</a> NPR: Debbie Elliott asks flight data co-op ADS-B Exchange founder Dan Streufert where publicly available flight data comes from and how much it reveals about the crisis in Ukraine. 
@@ -33,6 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086330033/saudi-arabia-executes-81-people-the-countrys-largest-mass-execution-in-modern-ti">Saudi Arabia executes 81 people, the country's largest mass execution in modern times</a> NPR: Saudi Arabia is drawing international criticism for putting 81 people to death in one day. The executions happen as the West is hoping to convince the kingdom to increase oil production. 
  <p class="updated_time"> 07:31 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086177508/russia-ukraine-refugees-poland-help-volunteers">Volunteers in Poland are setting up Ukrainian refugees to survive the coming days</a> NPR: As Ukrainians flee the war at home, a makeshift system of supplies and aid has sprung up in the Przemyśl train station. 
+ <p class="updated_time"> 07:22 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 07:17 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60725962?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian forces accused of abducting second mayor</a> BBC: The news comes as Ukraine says Russia is trying to create "pseudo-republics" to break up the country. 
  <p class="updated_time"> 07:12 AM CT, Mar. 13 </p> 
@@ -43,18 +51,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086329984/the-u-s-renews-talks-with-oil-rich-venezuela-after-banning-russian-oil-imports">The U.S. renews talks with oil-rich Venezuela after banning Russian oil imports</a> NPR: Debbie Elliott speaks with Diego Area, deputy director of strategic development at the Atlantic Council, about relations between the U.S. and Venezuela and the implications of renewed diplomacy. 
  <p class="updated_time"> 07:03 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086329977/russia-strikes-ukrainian-military-base-killing-more-than-30-people">Russia strikes Ukrainian military base, killing more than 30 people</a> NPR: Russia struck a Ukrainian military training base close to the Polish border using cruise missiles, according to local officials. 
- <p class="updated_time"> 06:57 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
+ <p class="updated_time"> 06:22 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 06:21 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
- <p class="updated_time"> 05:57 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
- <p class="updated_time"> 05:16 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen's Civil War</a> WSJ: Saudi Arabia and the U.A.E. have stepped up their bombing campaign to support Yemen’s government as they try to stop Iran-backed Houthi rebels from seizing full control of the country’s north. 
- <p class="updated_time"> 04:38 AM CT, Mar. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60725959?at_medium=RSS&at_campaign=KARANGA">Irbil attack: Missiles from Iran hit northern Iraqi city, US says</a> BBC: The missiles damaged buildings near the US consulate in Irbil, but no casualties have been reported. 
+ <p class="updated_time"> 05:22 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086219973/sanctions-may-ground-russias-planes-but-the-firms-that-own-them-cant-get-them-ba">Sanctions may ground Russia's planes, but the firms that own them can't get them back</a> NPR: Russian airlines can no longer get spare parts or technical support for their Airbus and Boeing planes. 
  <p class="updated_time"> 03:44 AM CT, Mar. 13 </p> 
@@ -199,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/sports/olympics/china-paralympics-disabled-access.html">Disabled Chinese Fight for Equal Rights Despite Paralympic Glory</a> NYT: Outside the Games, people with disabilities in China face discrimination and a lack of opportunities. “I’ve been struggling to survive,” said one former Paralympian. 
  <p class="updated_time"> 09:45 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is shifting from trying to prevent all transmission of the virus toward protecting those most vulnerable. “There will inevitably be a level of virus within the community going forward,” the health minister said. 
- <p class="updated_time"> 05:48 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/australia/zachary-rolfe-kumanjayi-walker.html">Zachary Rolfe Acquitted of Murder of Kumanjayi Walker in Australia</a> NYT: Many Indigenous Australians had seen the case as a test of whether the authorities could be held accountable after what they call decades of abuses. 
  <p class="updated_time"> 05:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
 
@@ -210,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/kyiv-mayor-fight-future-of-ukraine-00016844">Kyiv mayor pledges fight for 'future of our country'</a> Politico: Vitali Klitschko said that his city is “under pressure 24 hours” a day from a “non-stop bombing attack” of Russian forces amassed on the Ukrainian capital’s outskirts. 
  <p class="updated_time"> 09:41 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/broadening-russian-attack-air-strike-00016836">'He's lashing out': U.S. sees 'broadening' of Putin strategy in Western Ukraine strike</a> Politico: National Security Adviser Jake Sullivan says strike near NATO territory "does not come as a surprise to the American intelligence and national security communities." 
  <p class="updated_time"> 09:22 AM CT, Mar. 13 </p> 
@@ -346,14 +350,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/cartoons/2022/03/11/the-nations-cartoonists-on-the-week-in-politics-00016350">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 10:25 PM CT, Mar. 10 </p> 
  <a href="https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html">What's in the government spending bill</a> CNN: A massive spending bill that would fund the federal government through September -- as well as provide $13.6 billion in fresh aid to Ukraine as the country fights back against Russia's invasion -- was passed by the Senate on Thursday evening. 
- <p class="updated_time"> 10:03 PM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/biden-dnc-midterms-democrats-00016405">Dems see midterm hope in Biden bounce</a> Politico: With the president's poll numbers ticking up in recent days, even skeptical Democrats are feeling optimistic that a Biden rebound might last — and that the party’s midterm losses might not be so severe. 
  <p class="updated_time"> 03:51 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/grassley-privately-investigating-garcetti-wants-nomination-held-00016243">Grassley privately investigating Garcetti, wants nomination held</a> Politico: The Iowa Republican has been in touch with whistleblowers as he looks into whether the LA Mayor lied about knowledge of a top aide's conduct. 
  <p class="updated_time"> 11:57 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/senate-spending-bill-vote-00016079">Senate gives final OK to $1.5T government funding bill</a> Politico: The package finally cements the fresh budgets Democrats have sought since former President Donald Trump left office. 
- <p class="updated_time"> 09:04 AM CT, Mar. 10 </p> 
- <a href="https://www.politico.com/news/2022/03/10/kamala-harris-russia-war-crimes-00016023">‘We should all be watching’: Harris says U.N. should probe Putin’s ‘atrocities’ in Ukraine</a> Politico: But the vice president stopped short of assessing that Russia had committed war crimes. 
 
 
 </details>
