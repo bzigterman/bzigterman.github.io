@@ -9,18 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:45 PM CT, Mar. 12 </p> 
+ <p class="updated_time"> 06:27 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/03/12/world/ukraine-russia-war">Ukraine Live Updates: U.S. to Send More Arms to Kyiv as Putin Resists Cease-Fire Talks</a> NYT: The Kremlin warned that convoys used to transfer weapons to Ukraine would be considered “legitimate targets” for Russian forces, which pressed into the suburbs of the capital, Kyiv. 
+ <p class="updated_time"> 06:23 PM CT, Mar. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60697017?at_medium=RSS&at_campaign=KARANGA">Will Russia's attack on Ukraine help thaw US-Venezuela relations?</a> BBC: The ban on Russian oil exports is causing prices to surge, and leaders are revisiting some awkward friendships. 
+ <p class="updated_time"> 06:02 PM CT, Mar. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60710975?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'Not all Russians support this war'</a> BBC: Yevgeny says it is his responsibility as a Russian to help Ukrainians. 
+ <p class="updated_time"> 06:00 PM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-mayor-kidnapped-ivan-fyodorov.html">Kidnapping of Ukrainian Mayor in Melitopol Met With a Show of Resistance</a> NYT: The 33-year-old mayor of Melitopol, Ivan Fyodorov, encouraged defiance. Then he was arrested, and hasn’t been heard from since. 
+ <p class="updated_time"> 06:00 PM CT, Mar. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-60692009?at_medium=RSS&at_campaign=KARANGA">The first sex worker strike: 'We are just women and mothers'</a> BBC: When 200 French sex workers took refuge in a church, it started a movement 
+ <p class="updated_time"> 05:57 PM CT, Mar. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60724560?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'No one wants to die' - meeting Ukraine's teenage soldiers</a> BBC: Young volunteers swap their studies for assault rifles as they prepare to defend Kyiv from Russian forces. 
+ <p class="updated_time"> 05:47 PM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
  <p class="updated_time"> 05:39 PM CT, Mar. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60724509?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich: Rabbi investigated over Portuguese citizenship</a> BBC: Daniel Litvak helped Russian billionaire Roman Abramovich obtain Portuguese citizenship in 2021. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60724509?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich: Rabbi investigated over Portuguese citizenship</a> BBC: Daniel Litvak helped Russian billionaire Roman Abramovich obtain Portuguese citizenship. 
+ <p class="updated_time"> 05:36 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
  <p class="updated_time"> 05:30 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-forces-battle-kyiv.html">Ukrainian and Russian Soldiers Fight Street Battles Near Kyiv</a> NYT: The capture of the once affluent suburb of Irpin would potentially help Moscow encircle the nearby capital, military analysts say. 
  <p class="updated_time"> 04:58 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-diplomacy.html">Ukraine War Ushers In ‘New Era’ for Biden and U.S. Abroad</a> NYT: President Biden is rethinking relationships with allies as well as rivals — including China, Iran and Venezuela — to counter President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 04:51 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/russian-strikes-intensify-near-kyiv-as-ukraines-president-foresees-new-stage-of-terror-11647080618">Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv</a> WSJ: Ukraine President Foresees ‘New Stage of Terror’ as Russia Steps Up Strikes Near Kyiv 
  <p class="updated_time"> 04:46 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086309025/do-russias-assaults-on-ukraine-amount-to-war-crimes">Do Russia's assaults on Ukraine amount to war crimes?</a> NPR: NPR's Michel Martin discusses the laws of war and whether those have evolved over time with Mark Drumbl, director of the Transnational Law Institute at the Washington and Lee University School of Law. 
+ <p class="updated_time"> 04:36 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
  <p class="updated_time"> 04:34 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-europe-nuclear-war-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
  <p class="updated_time"> 04:27 PM CT, Mar. 12 </p> 
@@ -31,26 +45,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/12/1086282996/photos-ukrainian-refugees-eu">Photos: Ukrainian refugees assisted by the EU government as they flee their country</a> NPR: The EU welcomes Ukrainian nationals displaced by the Russian invasion. Expectations are in place for EU government to assist these refugees in their search for a place to land. 
  <p class="updated_time"> 03:58 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60721323?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evacuations 'extremely difficult' amid shelling</a> BBC: New attempts are under way to get civilians out of bombed Ukrainian cities as Russia's attack intensifies. 
- <p class="updated_time"> 03:51 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-a-world-leader-in-surrogacy-but-babies-are-now-stranded-in-war-zone-11647081997">Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone</a> WSJ: Ukraine Is a World Leader in Surrogacy, but Babies Are Now Stranded in a War Zone 
+ <p class="updated_time"> 03:36 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
  <p class="updated_time"> 03:29 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008248969/ukraine-soldier-funeral-lviv.html">After Days of Uncertainty, a Ukrainian Soldier Is Laid to Rest</a> NYT: Senior Lt. Vasyl Vyshyvanyi was killed by Russian forces on March 3, but heavy combat kept the military from evacuating his body. Six days later, he was buried in his home village outside Lviv. 
- <p class="updated_time"> 03:11 PM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-mayor-kidnapped-ivan-fyodorov.html">Kidnapping of Ukrainian Mayor in Melitopol Met With a Show of Resistance</a> NYT: The 33-year-old mayor of Melitopol, Ivan Fyodorov, encouraged defiance. Then he was arrested, and hasn’t been heard from since. 
  <p class="updated_time"> 03:08 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086304057/russia-roman-abramovich-chelsea-premier-league-disqualification">Roman Abramovich has been ordered by Chelsea's soccer league to sell </a> NPR: The league board's decision comes after the British government sanctioned the Russian businessman, who has ties to President Vladimir Putin. 
- <p class="updated_time"> 02:51 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-puts-81-people-to-death-in-its-largest-execution-ever-11647104991">Saudi Arabia Puts 81 People to Death in its Largest Execution Ever</a> WSJ: Saudi Arabia Puts 81 People to Death in its Largest Execution Ever 
+ <p class="updated_time"> 02:36 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
  <p class="updated_time"> 02:33 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
  <p class="updated_time"> 02:14 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
- <p class="updated_time"> 01:51 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/portuguese-rabbi-is-probed-over-help-for-russian-oligarch-abramovich-11647103348">Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls</a> WSJ: Russian Oligarch Roman Abramovich Attracts New Scrutiny in Portugal, as Chelsea Sale Stalls 
+ <p class="updated_time"> 01:36 PM CT, Mar. 12 </p> 
+ <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 01:05 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
- <p class="updated_time"> 12:51 PM CT, Mar. 12 </p> 
- <a href="https://www.wsj.com/articles/for-some-countries-economic-ripples-of-ukraine-war-bring-windfall-11647093600">For Some Countries, Economic Ripples of Ukraine War Bring Windfall</a> WSJ: For Some Countries, Economic Ripples of Ukraine War Bring Windfall 
  <p class="updated_time"> 12:03 PM CT, Mar. 12 </p> 
  <a href="https://www.npr.org/2022/03/12/1086282867/a-russian-pianists-shows-are-canceled-even-though-he-condemns-the-war-in-ukraine">A Russian pianist's shows are canceled, even though he condemns the war in Ukraine</a> NPR: Alexander Malofeev, 20, had already arrived in Montreal when a series of his concerts in Canada had been canceled. 
  <p class="updated_time"> 11:29 AM CT, Mar. 12 </p> 
@@ -129,18 +139,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60711211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: How Russia is recruiting mercenaries</a> BBC: Social media channels and private messaging groups are being used to recruit, the BBC has learned. 
  <p class="updated_time"> 06:25 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60707531?at_medium=RSS&at_campaign=KARANGA">Under threat of Russian bombs, Lviv hides away its priceless heritage</a> BBC: The picturesque western city of Lviv is racing to protect is cultural and religious artefacts. 
- <p class="updated_time"> 06:14 PM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/60684682?at_medium=RSS&at_campaign=KARANGA">Ukraine: How China is censoring online discussion of the war</a> BBC: The authorities are struggling to keep a lid on pro- and anti-Russian views being discussed online. 
  <p class="updated_time"> 06:10 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60699864?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 5-11 March 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:00 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60714529?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukrainians mourn their fallen soldiers</a> BBC: Funerals are held for the first Ukrainian victims of the Ukraine-Russia war. 
- <p class="updated_time"> 05:49 PM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60703499?at_medium=RSS&at_campaign=KARANGA">Ranveer Brar: The chef who wants coriander as India's national herb</a> BBC: Chef Ranveer Brar's petition to recognise "the superstar of our kitchen" has been signed by thousands. 
  <p class="updated_time"> 05:03 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/science/endurance-ship-ernest-shackleton.html">The New Captain of the Endurance Shipwreck Is an Anemone</a> NYT: A who’s who of the new invertebrate crew steering Ernest Shackleton’s sunken ship in the Weddell Sea. 
- <p class="updated_time"> 04:26 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-surrogate-children.html">Parents Relying on Ukraine Surrogates Desperately Seek Their Newborns</a> NYT: The Russian invasion has disrupted a thriving hub of legal commercial surrogacy. Some couples are risking trips into the war zone to get their children. 
  <p class="updated_time"> 04:16 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60715492?at_medium=RSS&at_campaign=KARANGA">Mariupol hospital attack: Pregnant woman hurt in bombing gives birth</a> BBC: Mariana Vishegirskaya, a beauty blogger, has reportedly given birth to a baby girl. 
  <p class="updated_time"> 04:11 PM CT, Mar. 11 </p> 
@@ -169,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/asia/india-elections-yogi-adityanath.html">Yogi Adityanath’s Election Win Raises His Profile Across India</a> NYT: Yogi Adityanath’s return as chief minister of Uttar Pradesh is fueling talk that he might succeed Narendra Modi as prime minister one day, and continue to advance their Hindu political movement. 
  <p class="updated_time"> 11:38 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/uk-sarah-everard-protest-court.html">Leaders of Sarah Everard Vigil Had Rights Violated by Police, Court Rules</a> NYT: The judgment comes at a particularly fraught time for London’s Metropolitan Police Service, and as Parliament considers a law that would broaden police powers to clamp down on protests. 
- <p class="updated_time"> 10:57 AM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60686223?at_medium=RSS&at_campaign=KARANGA">Australia floods: 'I'm angry it's happening again'</a> BBC: Australians are reeling from one of their worst natural disasters, but many despair at a sense of déjà vu. 
  <p class="updated_time"> 10:55 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/travel/ukraine-architecture-war.html">Ukraine’s Architectural Treasures Face Destruction</a> NYT: The country’s vast array of historic buildings, artworks and public squares are an integral part of Ukraine’s cultural identity. Amid the violence of war, many are being reduced to rubble. 
  <p class="updated_time"> 10:17 AM CT, Mar. 11 </p> 
@@ -181,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/sports/olympics/china-paralympics-disabled-access.html">Disabled Chinese Fight for Equal Rights Despite Paralympic Glory</a> NYT: Outside the Games, people with disabilities in China face discrimination and a lack of opportunities. “I’ve been struggling to survive,” said one former Paralympian. 
  <p class="updated_time"> 09:45 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/australia/covid-australia-close-contacts.html">Australia Weighs Lifting Covid Isolation Rules for Close Contacts</a> NYT: The country is shifting from trying to prevent all transmission of the virus toward protecting those most vulnerable. “There will inevitably be a level of virus within the community going forward,” the health minister said. 
- <p class="updated_time"> 09:25 AM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60705486?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin seeks foreign volunteers to fight in Ukraine</a> BBC: "We need to give them what they want and help them get to the conflict zone," the Russian leader said. 
  <p class="updated_time"> 09:07 AM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60709208?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Instagram banned in Russia over 'calls to violence'</a> BBC: Instagram owner Meta has allowed users in some countries to call for violence against Russia's army. 
  <p class="updated_time"> 07:41 AM CT, Mar. 11 </p> 
@@ -195,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/asia/covid-india-maharashtra-deaths.html">Indian State That Covid Hit Hard Is Now Recording Sharply Lower Deaths</a> NYT: The western state of Maharashtra on Wednesday reported no daily fatalities from the virus for the third time this month. 
  <p class="updated_time"> 05:34 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
- <p class="updated_time"> 04:15 AM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60706861?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Destruction in wake of first strikes on Dnipro</a> BBC: A shoe factory and a nursery are among the buildings said to have been hit. 
  <p class="updated_time"> 02:54 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/10/world/europe/here-are-the-latest-developments-ukraine.html">Russia-Ukraine talks come to nothing as bombardment of cities continues.</a> NYT: Thousands of people fled through ‘humanitarian corridors’ as Vice President Kamala Harris said that Russia should be investigated for war crimes. U.S. officials warned that Putin’s threat to seize businesses would lead to more ‘economic pain.’ 
  <p class="updated_time"> 10:59 PM CT, Mar. 10 </p> 
@@ -296,6 +294,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1086003950/russia-ukraine-war-what-happened-today-march-11">Russia-Ukraine war: What happened today (March 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/dems-array-themselves-00016609">An upbeat Biden ignores stalled agenda in Dem pep talk</a> Politico: The president wanted to tout the party's successes on vaccines, infrastructure and Covid aid. He didn't seem to want to lay out what they should do next. 
+ <p class="updated_time"> 02:30 PM CT, Mar. 11 </p> 
+ <a href="https://www.politico.com/news/2022/03/11/why-campaigns-arent-dumping-a-billionaire-with-russian-friends-00016499">The megadonor with Russian allies campaigns don’t talk about</a> Politico: Leonard Blavatnik and his wife, Emily, have given money to state parties and candidates across the political spectrum, including Senate Majority Leader Chuck Schumer to House Minority Leader Kevin McCarthy. 
  <p class="updated_time"> 02:23 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html">With Trump in Her State, Haley Finds Some Political Distance (Gently)</a> NYT: Nikki Haley, the former United Nations ambassador, used a well-timed endorsement of Representative Nancy Mace to get on the opposite side of the former president. 
  <p class="updated_time"> 01:58 PM CT, Mar. 11 </p> 
@@ -340,6 +340,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/10/us/politics/biden-putin-inflation.html">Biden Urges Americans to Blame Rising Prices on Putin. Many Do, for Now.</a> NYT: News that inflation has hit a 40-year high is another blunt reminder of just how much the president is asking voters to sacrifice in an election year. 
  <p class="updated_time"> 10:25 PM CT, Mar. 10 </p> 
  <a href="https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html">What's in the government spending bill</a> CNN: A massive spending bill that would fund the federal government through September -- as well as provide $13.6 billion in fresh aid to Ukraine as the country fights back against Russia's invasion -- was passed by the Senate on Thursday evening. 
+ <p class="updated_time"> 10:03 PM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/biden-dnc-midterms-democrats-00016405">Dems see midterm hope in Biden bounce</a> Politico: With the president's poll numbers ticking up in recent days, even skeptical Democrats are feeling optimistic that a Biden rebound might last — and that the party’s midterm losses might not be so severe. 
  <p class="updated_time"> 03:51 PM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/grassley-privately-investigating-garcetti-wants-nomination-held-00016243">Grassley privately investigating Garcetti, wants nomination held</a> Politico: The Iowa Republican has been in touch with whistleblowers as he looks into whether the LA Mayor lied about knowledge of a top aide's conduct. 
  <p class="updated_time"> 11:57 AM CT, Mar. 10 </p> 
@@ -352,6 +354,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/10/dems-hoping-its-sunny-in-philadelphia-00016019">Dems hoping it's sunny in Philadelphia</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:36 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/10/this-retreat-is-cursed-00016013"> ‘This retreat is cursed’</a> Politico Playbook: And the latest talks fail to reach a cease-fire in Ukraine. 
+ <p class="updated_time"> 05:01 AM CT, Mar. 10 </p> 
+ <a href="https://www.politico.com/news/2022/03/10/election-officials-exhausted-under-threat-00015850">Local election officials are exhausted, under threat and thinking about quitting</a> Politico: A new poll of election administrators showed nearly 8 in 10 think threats against them are on the rise. 
  <p class="updated_time"> 04:30 AM CT, Mar. 10 </p> 
  <a href="https://www.politico.com/news/2022/03/10/house-dems-retreat-omnibus-00015995">House Dems try to keep it sunny in Philadelphia</a> Politico: "We need to talk like real people," the caucus' campaign chief told reporters after yet another intraparty battle delayed its retreat. 
  <p class="updated_time"> 11:32 PM CT, Mar. 09 </p> 
