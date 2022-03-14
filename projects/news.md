@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:24 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 10:45 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia and Ukraine Set to Meet After Brutal Weekend of Fighting</a> NYT: The two sides expressed cautious optimism ahead of talks on Monday. Russia expanded its range of attacks, killing 35 at a base near Poland’s border. Moscow asked China for aid for the war, U.S. officials said. 
- <p class="updated_time"> 10:39 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 10:38 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
- <p class="updated_time"> 09:39 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 10:24 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’</a> WSJ: Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’ 
+ <p class="updated_time"> 09:24 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
- <p class="updated_time"> 08:39 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
  <p class="updated_time"> 08:24 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60731686?at_medium=RSS&at_campaign=KARANGA">William Hurt: Oscar-winning actor and Marvel star dies at 71</a> BBC: His roles ranged from acclaimed 1980s dramas to playing General Thaddeus Ross in five Marvel films. 
+ <p class="updated_time"> 08:24 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 07:48 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-60654288?at_medium=RSS&at_campaign=KARANGA">How to spot false posts from Ukraine</a> BBC: Ways to slow the spread of bad information and false posts from the war. 
  <p class="updated_time"> 07:46 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
  <p class="updated_time"> 07:39 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
- <p class="updated_time"> 07:39 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729216?at_medium=RSS&at_campaign=KARANGA">Zhytomyr: Aerial attacks hit city that is corridor to Kyiv</a> BBC: Zhytomyr, in north-west Ukraine, is facing intense daily attacks. Why is it being bombed so heavily? 
  <p class="updated_time"> 07:29 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-60558016?at_medium=RSS&at_campaign=KARANGA">Deep listening: I realised we all share the same human feelings</a> BBC: Hawraa was part of a project which encouraged Lebanese citizens with conflicting views to listen to each other. 
+ <p class="updated_time"> 07:24 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 07:18 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-60689501?at_medium=RSS&at_campaign=KARANGA">The innovative surfing tech making waves</a> BBC: The sport of surfing is modernising, using technology to offer bigger, better and safer thrills. 
  <p class="updated_time"> 07:18 PM CT, Mar. 13 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60730945?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Five times refugees were met with kindness</a> BBC: From toys to flowers, refugees fleeing the war in Ukraine are warmly greeted by strangers in Europe. 
  <p class="updated_time"> 06:43 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
- <p class="updated_time"> 06:39 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 06:24 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-ukraine-military-base-attack.html">Booms, Smoke and Fire Signal Horror of Russian Attack on Base</a> NYT: Residents of a town near Poland’s border awoke to frightful sounds and an awareness they were no longer safe. 
  <p class="updated_time"> 06:06 PM CT, Mar. 13 </p> 
@@ -107,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/mariupol-red-cross.html">Red Cross Warns Time Is Running Out For Civilians in Mariupol</a> NYT: Russian forces encircled the city nearly two weeks ago, and as the death toll rises, eyewitnesses have reported there is little food or clean water, and no medicine. 
  <p class="updated_time"> 12:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/sports/baseball/mlb-covid-canada.html">Unvaccinated M.L.B. Players Will Not Be Allowed to Play in Canada</a> NYT: Canada’s border restrictions bar those players, and the players will not be paid while the team is abroad as part of the sport’s new labor agreement. 
- <p class="updated_time"> 11:48 AM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia's Deadliest Assaults on a Ukraine City. 'They Want to Terrorize.'</a> WSJ: In the ancient city of Chernihiv, bodies were pulled from the rubble for days after a bombing shortly after the start of Russia’s invasion. The attack killed more than 47 people. 
  <p class="updated_time"> 11:42 AM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086343820/iran-claims-responsibility-for-missiles-that-struck-near-a-u-s-consulate-in-iraq">Iran claims responsibility for missiles that struck near a U.S. consulate in Iraq</a> NPR: No injuries were reported in Sunday's attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. Iran said it was retaliation for an Israeli strike in Syria. 
  <p class="updated_time"> 11:07 AM CT, Mar. 13 </p> 
@@ -139,6 +137,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086330012/u-s-sends-aid-to-ukraine-and-civilians-flee-to-poland-as-russia-widens-offensive">U.S. sends aid to Ukraine, and civilians flee to Poland, as Russia widens offensive</a> NPR: A roundup of the latest news out of Ukraine, where Russian attacks struck new targets, including a military training base near the Polish border. 
  <p class="updated_time"> 06:21 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
+ <p class="updated_time"> 05:16 AM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen's Civil War</a> WSJ: Saudi Arabia and the U.A.E. have stepped up their bombing campaign to support Yemen’s government as they try to stop Iran-backed Houthi rebels from seizing full control of the country’s north. 
  <p class="updated_time"> 03:44 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
  <p class="updated_time"> 03:00 AM CT, Mar. 13 </p> 
