@@ -9,8 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:39 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia and Ukraine Set to Meet After Brutal Weekend of Fighting</a> NYT: The two sides expressed cautious optimism ahead of talks on Monday. Russia expanded its range of attacks, killing 35 at a base near Poland’s border. Moscow asked China for aid for the war, U.S. officials said. 
+ <p class="updated_time"> 04:46 AM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia and Ukraine Set to Meet After Brutal Weekend of Fighting</a> NYT: The two sides expressed cautious optimism ahead of talks on Monday. Russia expanded its range of attacks, killing 35 at a base near Poland’s border. China denied that Russia had requested aid for the war. 
  <p class="updated_time"> 04:34 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
  <p class="updated_time"> 04:19 AM CT, Mar. 14 </p> 
@@ -21,21 +21,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
- <p class="updated_time"> 03:43 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 03:55 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
- <p class="updated_time"> 02:43 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 02:55 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’</a> WSJ: Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’ 
  <p class="updated_time"> 02:32 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
  <p class="updated_time"> 02:06 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086394167/china-battles-multiple-outbreaks-driven-by-stealth-omicron">China battles multiple COVID-19 outbreaks, driven by stealth omicron</a> NPR: While the numbers are small relative to numbers reported in Europe or in the U.S., they are the highest since the first big outbreak of COVID-19 in the central city of Wuhan in early 2020. 
- <p class="updated_time"> 01:43 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 01:55 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 12:59 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086390736/colombians-vote-for-a-new-congress-and-presidential-candidates">Colombians vote for a new congress and presidential candidates</a> NPR: Three major candidates emerge to compete in the country's May presidential election. 
- <p class="updated_time"> 12:43 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 12:55 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
- <p class="updated_time"> 11:43 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 11:55 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
@@ -199,14 +199,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-bombardment-chechnya.html">Slowed on the Battlefield, Russia Widens Bombardment of Ukrainian Cities</a> NYT: But military experts, citing previous Russian campaigns, say that strategy is unlikely to succeed without bloody urban fighting. 
  <p class="updated_time"> 07:04 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60710227?at_medium=RSS&at_campaign=KARANGA">Transgender children: Texas plan to probe parents halted</a> BBC: Parents seeking gender transition for their children may not be investigated for so-called abuse. 
+ <p class="updated_time"> 05:03 PM CT, Mar. 11 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/science/endurance-ship-ernest-shackleton.html">The New Captain of the Endurance Shipwreck Is an Anemone</a> NYT: A who’s who of the new invertebrate crew steering Ernest Shackleton’s sunken ship in the Weddell Sea. 
  <p class="updated_time"> 02:04 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60714515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv prepares for Russian attack</a> BBC: As Russian forces continue their slow advance, Kyiv's residents fear the worst for their city. 
  <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711659?at_medium=RSS&at_campaign=KARANGA">Battle for Mykolaiv: 'We are winning this fight, but not this war'</a> BBC: In the southern city of Mykolaiv, Ukrainian forces are battling to stop the Russian advance. 
  <p class="updated_time"> 10:10 AM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">‘Hurricane Hazel’ Is Still a Force at 101, and After 36 Years as Mayor</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
- <p class="updated_time"> 05:34 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/business/china-russia-ukraine-sanctions-economy.html">China Has Tools to Help Russia’s Economy. None Are Big Enough to Save It.</a> NYT: Any financial lifeline that Beijing can offer Moscow involves taking on risk and won’t have the power to reverse the damage of sanctions imposed by the United States and its allies. 
 
 
 </details>
@@ -214,6 +214,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:54 AM CT, Mar. 14 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/03/14/something-unusual-is-happening-between-biden-and-congress-00016935">Something unusual is happening between Biden and Congress</a> Politico Playbook: And Russia and Ukraine are set to resume diplomatic talks. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086313468/braving-rain-and-cold-trumps-supporters-soak-up-hints-of-another-run">Braving rain and cold, Trump's supporters soak up hints of another run </a> NPR: In his speech, the former president also blasted two South Carolina House members who have been critical of him. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
