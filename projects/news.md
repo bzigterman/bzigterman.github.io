@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:15 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia and Ukraine Meet After Brutal Weekend of Fighting</a> NYT: The two sides expressed cautious optimism ahead of talks on Monday. Russia expanded its range of attacks, killing 35 at a base near Poland’s border. China denied that Russia had requested aid for the war. 
- <p class="updated_time"> 05:14 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 05:45 AM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: Russia and Ukraine Hold Talks After Bloody Weekend</a> NYT: The two sides expressed cautious optimism before the virtual meeting on Monday. China denied that Russia had asked it for aid in the war. 
+ <p class="updated_time"> 05:40 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-covid-omicron-lockdowns.html">Wave of Omicron Infections Prompts Lockdowns in China</a> NYT: After two years of largely containing coronavirus outbreaks, China’s “Covid zero” policies are being tested by the highly transmissible variant. 
  <p class="updated_time"> 05:03 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/business/foxconn-apple-china-covid-lockdown.html">IPhone Manufacturer Foxconn Suspends Production Because of Covid Lockdown</a> NYT: The Taiwanese electronics firm said it “adjusted the production line” to other plants in China to minimize any impact on operations. 
+ <p class="updated_time"> 04:51 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 04:34 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
- <p class="updated_time"> 04:20 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 04:19 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/american-football/60731983?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great makes retirement U-turn after six weeks</a> BBC: Tom Brady, one of the greatest players in NFL history, is coming back for his 23rd season only six weeks after retiring. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
@@ -27,21 +27,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
- <p class="updated_time"> 03:20 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 03:51 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’</a> WSJ: Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’ 
  <p class="updated_time"> 02:54 AM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60733921?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Deadly air strike on Kyiv apartment block</a> BBC: Firefighters attend the scene in Obolon district after the residential building was hit. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60733921?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents rescued after Kyiv apartment block strike</a> BBC: Two people died when the residential building in the Ukrainian capital was hit. 
+ <p class="updated_time"> 02:51 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 02:32 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
- <p class="updated_time"> 02:20 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 02:06 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086394167/china-battles-multiple-outbreaks-driven-by-stealth-omicron">China battles multiple COVID-19 outbreaks, driven by stealth omicron</a> NPR: While the numbers are small relative to numbers reported in Europe or in the U.S., they are the highest since the first big outbreak of COVID-19 in the central city of Wuhan in early 2020. 
- <p class="updated_time"> 01:20 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 01:51 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 12:59 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086390736/colombians-vote-for-a-new-congress-and-presidential-candidates">Colombians vote for a new congress and presidential candidates</a> NPR: Three major candidates emerge to compete in the country's May presidential election. 
- <p class="updated_time"> 12:20 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 12:51 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
@@ -189,12 +189,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/business/russia-airlines-planes.html">Hundreds of Planes Are Stranded in Russia. They May Never Be Recovered.</a> NYT: Western companies that own the planes face little prospect of getting them back, meaning billions of dollars in losses. 
  <p class="updated_time"> 08:26 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/technology/ukraine-minister-war-digital.html">Ukrainian Minister Has Turned Digital Tools Into Modern Weapons of War</a> NYT: Mykhailo Fedorov, Ukraine’s youngest minister, has turned technology, cryptocurrency and social media into modern weapons of war. 
+ <p class="updated_time"> 06:04 AM CT, Mar. 12 </p> 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html">American Officials Believe They Have Located Putin’s Yacht</a> NYT: They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member. 
  <p class="updated_time"> 05:48 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-kyiv-russia-fighting.html">How a Line of Russian Tanks Became an Inviting Target for Ukrainians</a> NYT: A skirmish in an eastern suburb of Kyiv illustrated how close Russian forces have come as they continued to tighten a noose on the city, but also revealed their strategic vulnerabilities. 
  <p class="updated_time"> 05:46 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/asia/india-pakistan-missile.html">India Accidentally Fires a Missile at Pakistan. Calm Ensues.</a> NYT: Mistrust runs deep between the nuclear-armed neighbors, but Pakistan had a low-key response to what India called a “technical malfunction.” No casualties were reported. 
- <p class="updated_time"> 05:43 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/europe/ukraine-fighters-refugees-trains.html">Europe’s Trains Take Fighters to Ukraine, and Bring Back Refugees</a> NYT: Built up over 150 years of conflicts that defined modern-day Europe, railways have played a central role in the continent’s peacetime integration. Now they’re back on a war footing. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/books/cristina-rivera-garza-book-murder.html">An Author Wrote About Her Sister’s Murder. It Led to a Breakthrough.</a> NYT: Cristina Rivera Garza wanted to shed light on the life of her sister, killed 30 years ago. Her book, part of a larger call for justice by women in Mexico, helped locate the suspect. 
  <p class="updated_time"> 09:03 PM CT, Mar. 11 </p> 
@@ -205,8 +205,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60714515?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv prepares for Russian attack</a> BBC: As Russian forces continue their slow advance, Kyiv's residents fear the worst for their city. 
  <p class="updated_time"> 01:21 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60711659?at_medium=RSS&at_campaign=KARANGA">Battle for Mykolaiv: 'We are winning this fight, but not this war'</a> BBC: In the southern city of Mykolaiv, Ukrainian forces are battling to stop the Russian advance. 
- <p class="updated_time"> 10:10 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/canada/hazel-mccallion-mississauga-mayor.html">‘Hurricane Hazel’ Is Still a Force at 101, and After 36 Years as Mayor</a> NYT: After playing pro hockey in the 1940s, Hazel McCallion entered politics at a time when few women held high office, leading a major Canadian city through epic growth. Her endorsements still matter. 
 
 
 </details>
@@ -272,8 +270,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086329984/the-u-s-renews-talks-with-oil-rich-venezuela-after-banning-russian-oil-imports">The U.S. renews talks with oil-rich Venezuela after banning Russian oil imports</a> NPR: Debbie Elliott speaks with Diego Area, deputy director of strategic development at the Atlantic Council, about relations between the U.S. and Venezuela and the implications of renewed diplomacy. 
  <p class="updated_time"> 06:57 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/israeli-foreign-minister-condemns-russia-00016833">Israeli foreign minister condemns Russia</a> Politico: Yair Lapid’s criticism is among the strongest that has come from Israeli officials. 
+ <p class="updated_time"> 06:02 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/briefing-white-house-nixed-december-plan-to-boost-special-ops-presence-in-ukraine-00016830">Pentagon push to send more trainers to Ukraine was scrapped in December amid White House fears of provoking Russia</a> Politico: Senior military officials told the Hill they wanted to train Ukrainians on unconventional warfare tactics. But the idea was stopped cold over the administration's worries about escalation. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/bidens-presidency-hectic-ease-00016827">Biden’s presidency has never been so hectic. Here’s why he’s at ease.</a> Politico: As he pushes a Supreme Court nominee and manages a foreign policy crisis, the president's service on the Foreign Relations and Judiciary Committees is coming in handy. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/democrats-empty-weed-promises-00016573">Budget deal is latest sign of Democrats’ empty weed promises</a> Politico: Fourteen months after taking control of the federal government, they’ve done nothing to loosen federal marijuana restrictions. 
  <p class="updated_time"> 06:00 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/immunocompromised-covid-mask-requirement-00016755">As masks come off, vulnerable Americans feel left behind</a> Politico: The immunocompromised and their advocates say they’re hitting roadblocks with the White House and CDC. 
  <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
@@ -302,6 +304,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/us/politics/nevada-latino-voters-republicans.html">Why Republicans in Nevada Are Targeting Senator Catherine Cortez Masto’s Seat</a> NYT: Seizing on signs that suggest Democrats are losing support among Hispanic voters nationwide, Republicans are targeting Senator Catherine Cortez Masto’s seat. 
  <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
  <a href="https://www.politico.com/news/2022/03/12/cyber-russia-hacking-security-00016598">‘Not the time to go poking around’: How former U.S. hackers view dealing with Russia</a> Politico: People with experience in U.S. hacking operations say they expect both Washington and Moscow to show caution in how they wield their digital weapons. 
+ <p class="updated_time"> 07:00 AM CT, Mar. 12 </p> 
+ <a href="https://www.politico.com/news/2022/03/11/you-will-see-the-wrath-progressives-warn-biden-against-cutting-down-agenda-00016752">‘You will see the wrath’ — Progressives warn Biden against cutting down agenda</a> Politico: Biden won the White House on the back of parents. Now, with Joe Manchin proving unmovable, he may lose their support. 
  <p class="updated_time"> 06:04 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/putin-yacht-russia-ukraine.html">American Officials Believe They Have Located Putin’s Yacht</a> NYT: They say they have indications that the $700 million, 459-foot yacht, which is in dry dock in Italy, is associated with the Russian president, backing an earlier claim by a former crew member. 
  <p class="updated_time"> 04:00 AM CT, Mar. 12 </p> 
@@ -328,8 +332,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/11/1085871358/ukrainians-refugees-border-mexico-us-title-42-trump-biden">Pressure to end pandemic restrictions mounts as Ukrainians reach the U.S. border</a> NPR: One Ukrainian family was allowed to enter the U.S. after being denied entry under border restrictions known as Title 42. The Biden administration faces renewed pressure to end the Trump-era policy. 
  <p class="updated_time"> 05:35 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/disney-pledges-to-stop-florida-campaign-donations-dont-say-gay-00016705">Disney pledges to stop Florida campaign donations over ‘Don’t Say Gay’ bill</a> Politico: Disney donated some $4.8 million to Florida candidates in the 2020 election cycle, campaign finance reports show. 
+ <p class="updated_time"> 02:30 PM CT, Mar. 11 </p> 
+ <a href="https://www.politico.com/news/2022/03/11/why-campaigns-arent-dumping-a-billionaire-with-russian-friends-00016499">The megadonor with Russian allies campaigns don’t talk about</a> Politico: Leonard Blavatnik and his wife, Emily, have given money to state parties and candidates across the political spectrum, including Senate Majority Leader Chuck Schumer to House Minority Leader Kevin McCarthy. 
  <p class="updated_time"> 02:23 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html">With Trump in Her State, Haley Finds Some Political Distance (Gently)</a> NYT: Nikki Haley, the former United Nations ambassador, used a well-timed endorsement of Representative Nancy Mace to get on the opposite side of the former president. 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html">In South Carolina, Nikki Haley Finds Some Distance from Trump</a> NYT: Nikki Haley, the former United Nations ambassador, used a well-timed endorsement of Representative Nancy Mace to get on the opposite side of the former president. 
  <p class="updated_time"> 01:58 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/mcconnell-phone-call-congress-ukraine-aid-deal-00016583">McConnell's $1.5B phone call: How Congress supercharged its Ukraine aid deal</a> Politico: As Ukraine came under attack, Congress took an unusually muscular approach in the foreign policy realm and doubled the president's initial ask for aid. 
  <p class="updated_time"> 01:16 PM CT, Mar. 11 </p> 
@@ -346,10 +352,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/11/dems-in-philly-piano-painting-and-midterm-planning-00016455">Dems in Philly: Piano, painting and midterm planning</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:06 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/11/baquet-addresses-nyt-staffers-about-hidden-videos-00016451"> Baquet addresses NYT staffers about hidden videos</a> Politico Playbook: And the U.S. will revoke “most favored nation” trade status for Russia. 
- <p class="updated_time"> 04:31 AM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/house-gop-hagedorn-widow-seat-00016375">House GOP winces as Hagedorn's scandal-plagued widow eyes his empty seat</a> Politico: Jennifer Carnahan resigned from the Minnesota party chairmanship last year. Her late husband died last month, leaving his congressional seat open. 
- <p class="updated_time"> 04:30 AM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/cartoons/2022/03/11/the-nations-cartoonists-on-the-week-in-politics-00016350">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
 
 
 </details>
