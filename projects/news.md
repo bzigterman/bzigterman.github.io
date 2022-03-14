@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:21 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 10:35 AM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
+ <p class="updated_time"> 10:31 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: Russia and Ukraine Hold Talks After Bloody Weekend</a> NYT: The two sides took a “technical pause” after several hours of talks on Monday and were expected to meet again on Tuesday. Hundreds of people escaped the besieged city of Mariupol, but tens of thousands were still trapped. 
+ <p class="updated_time"> 10:31 AM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/world/europe/zelensky-congress-speech-ukraine.html">Zelensky to Address Congress in Virtual Speech</a> NYT: The Ukrainian president’s speech will likely increase growing momentum on Capitol Hill to pressure President Biden to send fighter jets to Kyiv. 
  <p class="updated_time"> 10:11 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/hong-kong-covid.html">Hong Kong lacks the resources for a China-style pandemic response, the city’s leader says.</a> NYT: “Hong Kong is very different from many mainland cities and therefore we cannot have any comparison,” Mrs. Lam told reporters at a news conference. 
- <p class="updated_time"> 10:07 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 09:56 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
- <p class="updated_time"> 09:24 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 09:42 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On</a> WSJ: Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On 
  <p class="updated_time"> 09:10 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60739681?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Silent streets in wiped out Donetsk town</a> BBC: Volnovakha, a town in Donetsk, eastern Ukraine, has been decimated by fighting. 
+ <p class="updated_time"> 08:42 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine</a> WSJ: China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine 
  <p class="updated_time"> 08:34 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60733927?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Drone shots show Mariupol devastated by fighting</a> BBC: Thousands of civilians have been trapped in the Ukrainian port city for nearly two weeks 
- <p class="updated_time"> 08:24 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine</a> WSJ: China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine 
  <p class="updated_time"> 08:16 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/pregnant-woman-airstrike-ukraine-mariupol.html">Woman Photographed After Russian Strike On Maternity Hospital Has Died</a> NYT: Her baby also died, the news organization said. The photo captured last week has become one of the defining images of human suffering in the war. 
  <p class="updated_time"> 08:13 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60737770?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Ex-rebel wins his coalition's primary</a> BBC: After winning his coalition's primary, Gustavo Petro could become Colombia's first left-wing leader. 
  <p class="updated_time"> 07:50 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
+ <p class="updated_time"> 07:42 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/russian-prosecutors-warn-western-companies-of-arrests-asset-seizures-11647206193">Russian Prosecutors Warn Western Companies of Arrests, Asset Seizures</a> WSJ: Russian Prosecutors Warn Western Companies of Arrests, Asset Seizures 
  <p class="updated_time"> 07:25 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729206?at_medium=RSS&at_campaign=KARANGA">Mass graves in Ukraine: Battered cities are digging makeshift burial sites</a> BBC: Street cleaners are collecting bodies as besieged locals resort to burying civilians in trenches. 
- <p class="updated_time"> 07:24 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/russian-prosecutors-warn-western-companies-of-arrests-asset-seizures-11647206193">Russian Prosecutors Warn Western Companies of Arrests, Asset Seizures</a> WSJ: Russian Prosecutors Warn Western Companies of Arrests, Asset Seizures 
  <p class="updated_time"> 07:09 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/telegram-nyt.html">New York Times Launches Telegram Channel for Russia-Ukraine War</a> NYT: The channel delivers reporting from our continuous live blog, where Times journalists are providing witness accounts, interviews and breaking news from the Russia-Ukraine conflict. 
  <p class="updated_time"> 07:00 AM CT, Mar. 14 </p> 
@@ -43,14 +45,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/business/foxconn-apple-china-covid-lockdown.html">IPhone Manufacturer Foxconn Suspends Production Because of Covid Lockdown</a> NYT: The Taiwanese electronics firm said it “adjusted the production line” to other plants in China to minimize any impact on operations. 
  <p class="updated_time"> 06:51 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60734706?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Pregnant woman and baby die after hospital shelled</a> BBC: The woman, seen in a widely shared image after a maternity hospital was hit, dies along with her baby. 
- <p class="updated_time"> 06:24 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 06:42 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
+ <p class="updated_time"> 05:42 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-officials-threaten-british-activist-with-national-security-law-11647261793">Hong Kong Threatens British Activist Over Security Law</a> WSJ: Hong Kong Threatens British Activist Over Security Law 
  <p class="updated_time"> 05:40 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-covid-omicron-lockdowns.html">Wave of Omicron Infections Prompts Lockdowns in China</a> NYT: After two years of largely containing coronavirus outbreaks, China’s “Covid zero” policies are being tested by the highly transmissible variant. 
  <p class="updated_time"> 05:29 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking the Russian invasion</a> BBC: Russian troops have expanded their offensive as they continue attempts to cut off the capital Kyiv. 
- <p class="updated_time"> 05:24 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-officials-threaten-british-activist-with-national-security-law-11647261793">Hong Kong Threatens British Activist Over Security Law</a> WSJ: Hong Kong Threatens British Activist Over Security Law 
  <p class="updated_time"> 04:19 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/american-football/60731983?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great makes retirement U-turn after six weeks</a> BBC: Tom Brady, one of the greatest players in NFL history, is coming back for his 23rd season only six weeks after retiring. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
@@ -137,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/asia/afghan-air-force-taliban.html">Afghan Aviators Hide as Taliban Urge Them to Return to Duty</a> NYT: Many former Afghan Air Force members fear they could be killed by the Taliban if they came out of hiding, but others have joined the nascent Taliban air force. 
  <p class="updated_time"> 01:11 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/11/nyregion/nyc-covid-booster-shot.html">New York City Booster Shot Data Shows Major Racial Disparities</a> NYT: The data showed that only about 36 percent of city residents had received a booster shot, and the numbers varied significantly by neighborhood and race. 
- <p class="updated_time"> 01:01 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/europe/queen-elizabeth-skipping-commonwealth-day-service.html">Queen Elizabeth is Skipping Next Week’s Commonwealth Day Service</a> NYT: It is still less than a month since the British monarch tested positive for the coronavirus. 
  <p class="updated_time"> 12:47 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/mariupol-red-cross.html">Red Cross Warns Time Is Running Out For Civilians in Mariupol</a> NYT: Russian forces encircled the city nearly two weeks ago, and as the death toll rises, eyewitnesses have reported there is little food or clean water, and no medicine. 
  <p class="updated_time"> 12:37 PM CT, Mar. 13 </p> 
@@ -208,7 +208,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:07 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 10:35 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 09:57 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/coronavirus-vaccine-children-moderna-pfizer.html">Which Coronavirus Vaccine Will Work in the Youngest Children?</a> NYT: Moderna is going head-to-head with Pfizer-BioNTech for the opportunity to vaccinate the youngest children, the only Americans still not eligible for shots. 
@@ -264,6 +264,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/13/u-s-confident-in-military-supplies-reaching-ukraines-frontline-00016837">Sullivan confident military supplies are reaching Ukraine's front lines</a> Politico: Moscow has warned Washington it would see the deliveries of Western weapons to Ukraine as targets. 
  <p class="updated_time"> 09:55 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/kyiv-mayor-fight-future-of-ukraine-00016844">Kyiv mayor pledges fight for 'future of our country'</a> Politico: Vitali Klitschko said that his city is “under pressure 24 hours” a day from a “non-stop bombing attack” of Russian forces amassed on the Ukrainian capital’s outskirts. 
+ <p class="updated_time"> 09:22 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/american-journalist-killed-ukraine-00016839">American journalist is killed in Ukraine</a> Politico: Brent Renaud, a Peabody-winning filmmaker, was working on a project on the global refugee crisis when he was shot by Russian forces outside Kyiv. 
  <p class="updated_time"> 09:00 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/jake-sullivan-china-yang-jiechi-russia-ukraine-00016831">Jake Sullivan and China’s Yang Jiechi to discuss Russia-Ukraine on Monday</a> Politico: During their Rome meeting, they plan to focus on invasion’s “regional and global security” implications. 
  <p class="updated_time"> 07:26 AM CT, Mar. 13 </p> 
@@ -275,7 +277,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:02 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/briefing-white-house-nixed-december-plan-to-boost-special-ops-presence-in-ukraine-00016830">Pentagon push to send more trainers to Ukraine was scrapped in December amid White House fears of provoking Russia</a> Politico: Senior military officials told the Hill they wanted to train Ukrainians on unconventional warfare tactics. But the idea was stopped cold over the administration's worries about escalation. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/bidens-presidency-hectic-ease-00016827">Biden’s presidency has never been so hectic. Here’s why he’s at ease.</a> Politico: As he pushes a Supreme Court nominee and manages a foreign policy crisis, the president's service on the Foreign Relations and Judiciary Committees is coming in handy. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/democrats-empty-weed-promises-00016573">Budget deal is latest sign of Democrats’ empty weed promises</a> Politico: Fourteen months after taking control of the federal government, they’ve done nothing to loosen federal marijuana restrictions. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/florida-america-culture-war-00016797">Why Florida is ground zero for America’s ‘culture war’</a> Politico: Led by DeSantis, GOP politicians in the Sunshine State have stood proud as they’ve defended the policies like the “Don’t Say Gay” bill. 
  <p class="updated_time"> 06:00 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/immunocompromised-covid-mask-requirement-00016755">As masks come off, vulnerable Americans feel left behind</a> Politico: The immunocompromised and their advocates say they’re hitting roadblocks with the White House and CDC. 
  <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
@@ -336,12 +342,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html">In South Carolina, Nikki Haley Finds Some Distance from Trump</a> NYT: Nikki Haley, the former United Nations ambassador, used a well-timed endorsement of Representative Nancy Mace to get on the opposite side of the former president. 
  <p class="updated_time"> 01:58 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/mcconnell-phone-call-congress-ukraine-aid-deal-00016583">McConnell's $1.5B phone call: How Congress supercharged its Ukraine aid deal</a> Politico: As Ukraine came under attack, Congress took an unusually muscular approach in the foreign policy realm and doubled the president's initial ask for aid. 
- <p class="updated_time"> 01:16 PM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/ukraine-is-on-the-brink-of-a-humanitarian-catastrophe-00016578">State Dept. cable: U.S. officials concerned Russia is targeting civilians in Ukraine</a> Politico: Hundreds of thousands of Ukrainians may not be able to access critical aid or find safe passage out of the country. 
  <p class="updated_time"> 12:35 PM CT, Mar. 11 </p> 
  <a href="https://www.cnn.com/2022/03/11/europe/language-meaning-ukraine-russia-invasion-cmd-intl/index.html">Decoding the language around Russia's invasion of Ukraine</a> CNN: Russia's unprovoked invasion of Ukraine has devastated the country, killing hundreds of civilians, sparking a humanitarian disaster and resulting in a wave of sanctions from the West. 
- <p class="updated_time"> 12:18 PM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/biden-says-russia-will-pay-severe-price-if-it-uses-chemical-weapons-in-ukraine-00016546">Biden warns Russia will pay 'severe price' if it uses chemical weapons in Ukraine</a> Politico: The president’s threat comes on the heels of a series of warnings from White House officials this week that Russia might seek to use chemical or biological weapons in Ukraine. 
  <p class="updated_time"> 12:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html">Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia</a> NYT: The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success. 
  <p class="updated_time"> 11:00 AM CT, Mar. 11 </p> 
