@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:25 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 01:22 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
+ <p class="updated_time"> 01:01 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: Despite Peace Talks, Russia Continues to Bombard Ukraine</a> NYT: The two sides concluded a meeting on Monday with little sign of progress, as Russia launched a flurry of strikes on Kyiv and 400,000 people remained trapped in Mariupol. Talks will resume on Tuesday. 
- <p class="updated_time"> 12:22 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 12:56 PM CT, Mar. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60743322?at_medium=RSS&at_campaign=KARANGA">Julian Assange denied permission to challenge extradition</a> BBC: A Supreme Court spokesman says the Wikileaks founder failed to raise "an arguable point of law". 
+ <p class="updated_time"> 12:36 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/uk-ukraine-refugee-sponsorship-scheme.html">Britain Announces ‘Homes For Ukraine’ Program to Sponsor Refugees</a> NYT: The program, called “Homes for Ukraine,” offers a new route for Ukrainian refugees to come to Britain, which had previously been limited to those joining family members already living there. 
- <p class="updated_time"> 12:19 PM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60743322?at_medium=RSS&at_campaign=KARANGA">Julian Assange denied permission to appeal extradition</a> BBC: A Supreme Court spokesman says the Wikileaks founder failed to raise "an arguable point of law". 
+ <p class="updated_time"> 12:32 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
+ <p class="updated_time"> 12:28 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/world/europe/lithuania-russia-attack-ukraine-nato.html">Lithuania, a Vulnerable NATO Link, Readies for Putin and Russia</a> NYT: The Baltics, wedged between Russia and Belarus, have been likened to a modern-day West Berlin. Many here worry that if Ukraine falls, they might be next. 
+ <p class="updated_time"> 12:26 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On</a> WSJ: Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On 
  <p class="updated_time"> 12:01 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60736185?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich: New evidence highlights corrupt deals</a> BBC: BBC Panorama uncovers new evidence on the corrupt deals that helped Chelsea's owner make his fortune. 
  <p class="updated_time"> 11:57 AM CT, Mar. 14 </p> 
@@ -27,8 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086443851/squatters-russian-oligarch-london-mansion">Squatters took over a London mansion linked to a Russian oligarch</a> NPR: Riot police arrived after protesters entered the building and unfurled banners on the balcony, including one reading "This property has been liberated." It's linked to billionaire Oleg Deripaska. 
  <p class="updated_time"> 11:40 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086424049/pregnant-woman-photo-mariupol-maternity-hospital">The pregnant woman from the iconic Mariupol photo has died. Many more are at risk </a> NPR: The woman and her baby died after Wednesday's strike, one of dozens of recent attacks on Ukraine's health system. U.N. groups warn it is running "dangerously low" on oxygen and medical supplies. 
- <p class="updated_time"> 11:33 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On</a> WSJ: Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On 
+ <p class="updated_time"> 11:26 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine</a> WSJ: China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine 
  <p class="updated_time"> 11:07 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/arts/music/paavo-jarvi-putin-ukraine-russia.html">A Conductor on Why He Stayed in Russia After the Invasion Began</a> NYT: The Estonian American conductor Paavo Järvi chose to remain in Moscow temporarily to lead a Russian youth orchestra: “I felt a responsibility.” 
  <p class="updated_time"> 11:04 AM CT, Mar. 14 </p> 
@@ -37,28 +45,26 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60739098?at_medium=RSS&at_campaign=KARANGA">Police are hunting a masked gunman targeting homeless people while they sleep</a> BBC: Five have been shot in nine days in New York and Washington - all with the same "modus operandi". 
  <p class="updated_time"> 10:35 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
- <p class="updated_time"> 10:33 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine</a> WSJ: China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine 
  <p class="updated_time"> 10:31 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-zelensky-congress-speech.html">Zelensky to Address Congress in Virtual Speech</a> NYT: The Ukrainian president’s speech will likely increase growing momentum on Capitol Hill to pressure President Biden to send fighter jets to Kyiv. 
+ <p class="updated_time"> 10:26 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
  <p class="updated_time"> 09:56 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
- <p class="updated_time"> 09:33 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
+ <p class="updated_time"> 09:26 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 09:10 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60739681?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Silent streets in wiped out Donetsk town</a> BBC: Volnovakha, a town in Donetsk region, eastern Ukraine, has been decimated by fighting. 
  <p class="updated_time"> 08:34 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60733927?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Drone shots show Mariupol devastated by fighting</a> BBC: Thousands of civilians have been trapped in the Ukrainian port city for nearly two weeks 
- <p class="updated_time"> 08:33 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
+ <p class="updated_time"> 08:26 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 08:16 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/pregnant-woman-airstrike-ukraine-mariupol.html">Woman Photographed After Russian Strike On Maternity Hospital Has Died</a> NYT: Her baby also died, the news organization said. The photo captured last week has become one of the defining images of human suffering in the war. 
  <p class="updated_time"> 08:13 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60737770?at_medium=RSS&at_campaign=KARANGA">Gustavo Petro: Ex-rebel wins his coalition's primary</a> BBC: After winning his coalition's primary, Gustavo Petro could become Colombia's first left-wing leader. 
  <p class="updated_time"> 07:50 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
- <p class="updated_time"> 07:33 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Jong Un Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Jong Un Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 07:25 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729206?at_medium=RSS&at_campaign=KARANGA">Mass graves in Ukraine: Battered cities are digging makeshift burial sites</a> BBC: Street cleaners are collecting bodies as besieged locals resort to burying civilians in trenches. 
  <p class="updated_time"> 07:09 AM CT, Mar. 14 </p> 
@@ -77,10 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/american-football/60731983?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great makes retirement U-turn after six weeks</a> BBC: Tom Brady, one of the greatest players in NFL history, is coming back for his 23rd season only six weeks after retiring. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086117130/ukrainian-artists-russian-invasion">These Ukrainian artists capture the country's spirit and the war's toll</a> NPR: As Russian forces continue attacking Ukraine, Ukrainian artists have been visualizing the resilience of their nation and how their lives have been turned upside down by war. 
- <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
- <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
  <p class="updated_time"> 03:43 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-officials-threaten-british-activist-with-national-security-law-11647261793">Hong Kong Threatens British Activist Over Security Law</a> WSJ: Hong Kong Watch publishes a letter from city officials to the group and its leader Benedict Rogers warning that activities such as its call for sanctions violate the security law. 
  <p class="updated_time"> 02:54 AM CT, Mar. 14 </p> 
@@ -208,6 +210,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:10 PM CT, Mar. 14 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 01:00 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/climate/usps-trucks-electric-vehicles.html">Democrats Want Investigation Into Postal Service’s Gas Guzzlers Contract</a> NYT: A plan to purchase up to 165,000 gasoline-powered mail trucks instead of electric models has angered Democrats and the Biden administration. 
+ <p class="updated_time"> 12:50 PM CT, Mar. 14 </p> 
+ <a href="https://www.politico.com/news/2022/03/14/police-chiefs-back-ketanji-brown-jackson-for-supreme-court-00017025">Police chiefs back Ketanji Brown Jackson for Supreme Court</a> Politico: The International Association of Chiefs of Police endorsed Biden's nominee as some Republicans attack her as weak on crime. 
+ <p class="updated_time"> 12:40 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/us/politics/bernard-nussbaum-dead.html">Bernard W. Nussbaum, Clinton Counsel and Defender, Dies at 84</a> NYT: The president’s first White House lawyer, Mr. Nussbaum had a turbulent 14 months in the job weathering a rash of controversies. 
+ <p class="updated_time"> 12:17 PM CT, Mar. 14 </p> 
+ <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip that would show support for Ukraine</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin opposes Biden Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
  <p class="updated_time"> 11:20 AM CT, Mar. 14 </p> 
@@ -250,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/14/biden-support-ukraine-russia-trump-00016882">Trump’s shadow lurks over Biden’s support for Ukraine</a> Politico: As the administration works out how to stop Putin’s invasion, the critics at home are circling. 
  <p class="updated_time"> 09:16 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html">Frustrated With Utilities, Some Californians Are Leaving the Grid</a> NYT: Citing more blackouts, wildfires and higher electricity rates, a growing number of homeowners are choosing to build homes that run entirely on solar panels and batteries. 
- <p class="updated_time"> 08:54 PM CT, Mar. 13 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
  <p class="updated_time"> 06:22 PM CT, Mar. 13 </p> 
@@ -324,24 +334,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/us/politics/iowa-new-hampshire-presidential-elections.html">Could Iowa and New Hampshire Lose First Spots in Primary Calendar?</a> NYT: After complaints about disenfranchisement and logistical snafus, the party is reconsidering Iowa and New Hampshire’s coveted spots in the presidential nominating process. 
  <p class="updated_time"> 10:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/terrorist-gitmo-sentence-majid-khan.html">U.S. Official Ends Sentence of Terrorist Who Was Tortured by C.I.A.</a> NYT: Majid Khan, who confessed to war crimes and turned informant in 2012, will not go free from Guantánamo Bay until U.S. diplomats find a country to take him in. 
- <p class="updated_time"> 09:09 PM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/iowa-caucus-criticism-dnc-00016809">Iowa takes criticism at DNC but hangs onto its spot — for now</a> Politico: Party officials criticized the first in the nation caucus state at a Friday meeting. 
  <p class="updated_time"> 07:02 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/texas-abortion-law.html">Texas Supreme Court Shuts Down Final Challenge to Abortion Law</a> NYT: The ruling says state officials have no authority to enforce the law, which empowers private citizens: “We cannot rewrite the statute.” 
  <p class="updated_time"> 06:47 PM CT, Mar. 11 </p> 
  <a href="https://www.npr.org/2022/03/11/1086039378/texas-transgender-investigations-blocked">A Texas judge blocks the state from investigating parents of transgender youth</a> NPR: The judge halted the state from enforcing Gov. Greg Abbott's directive to launch "child abuse" investigations against parents getting gender-affirming care for their transgender children. 
  <p class="updated_time"> 06:45 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/afghan-embassy-closing.html">Afghan Embassy, Now Out of Money, Will Shut Down, U.S. Says</a> NYT: The development caps a sad saga for Afghan diplomats, who have 30 days to apply to remain in the United States or face the threat of deportation. 
- <p class="updated_time"> 05:35 PM CT, Mar. 11 </p> 
- <a href="https://www.politico.com/news/2022/03/11/disney-pledges-to-stop-florida-campaign-donations-dont-say-gay-00016705">Disney pledges to stop Florida campaign donations over ‘Don’t Say Gay’ bill</a> Politico: Disney donated some $4.8 million to Florida candidates in the 2020 election cycle, campaign finance reports show. 
- <p class="updated_time"> 02:23 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html">In South Carolina, Nikki Haley Finds Some Distance from Trump</a> NYT: Nikki Haley, the former United Nations ambassador, used a well-timed endorsement of Representative Nancy Mace to get on the opposite side of the former president. 
  <p class="updated_time"> 01:58 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/mcconnell-phone-call-congress-ukraine-aid-deal-00016583">McConnell's $1.5B phone call: How Congress supercharged its Ukraine aid deal</a> Politico: As Ukraine came under attack, Congress took an unusually muscular approach in the foreign policy realm and doubled the president's initial ask for aid. 
  <p class="updated_time"> 12:35 PM CT, Mar. 11 </p> 
  <a href="https://www.cnn.com/2022/03/11/europe/language-meaning-ukraine-russia-invasion-cmd-intl/index.html">Decoding the language around Russia's invasion of Ukraine</a> CNN: Russia's unprovoked invasion of Ukraine has devastated the country, killing hundreds of civilians, sparking a humanitarian disaster and resulting in a wave of sanctions from the West. 
- <p class="updated_time"> 12:07 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html">Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia</a> NYT: The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success. 
 
 
 </details>
