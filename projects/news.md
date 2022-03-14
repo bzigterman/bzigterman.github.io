@@ -9,9 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:00 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 07:37 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: Russia and Ukraine Hold Talks After Bloody Weekend</a> NYT: The two sides expressed cautious optimism before the virtual meeting on Monday. China denied that Russia had asked it for aid in the war. 
- <p class="updated_time"> 07:00 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 07:09 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/telegram-nyt.html">New York Times Launches Telegram Channel for Russia-Ukraine War</a> NYT: The channel delivers reporting from our continuous live blog, where Times journalists are providing witness accounts, interviews and breaking news from the Russia-Ukraine conflict. 
  <p class="updated_time"> 07:00 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/health/malaria-children-tafenoquine.html">Novel Malaria Treatment for Children Receives First Approval</a> NYT: The single-dose medication, for treatment of a particular form of malaria, is a new weapon in the war against the deadly illness. 
@@ -19,32 +19,32 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/business/foxconn-apple-china-covid-lockdown.html">IPhone Manufacturer Foxconn Suspends Production Because of Covid Lockdown</a> NYT: The Taiwanese electronics firm said it “adjusted the production line” to other plants in China to minimize any impact on operations. 
  <p class="updated_time"> 06:51 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60734706?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Pregnant woman and baby die after hospital shelled</a> BBC: The woman, seen in a widely shared image being carried out of the maternity hospital, dies along with her baby. 
- <p class="updated_time"> 06:06 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 06:45 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
+ <p class="updated_time"> 05:45 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’</a> WSJ: Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’ 
  <p class="updated_time"> 05:40 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-covid-omicron-lockdowns.html">Wave of Omicron Infections Prompts Lockdowns in China</a> NYT: After two years of largely containing coronavirus outbreaks, China’s “Covid zero” policies are being tested by the highly transmissible variant. 
- <p class="updated_time"> 05:06 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’</a> WSJ: Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’ 
+ <p class="updated_time"> 04:45 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 04:34 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
  <p class="updated_time"> 04:19 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/american-football/60731983?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great makes retirement U-turn after six weeks</a> BBC: Tom Brady, one of the greatest players in NFL history, is coming back for his 23rd season only six weeks after retiring. 
- <p class="updated_time"> 04:06 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086117130/ukrainian-artists-russian-invasion">These Ukrainian artists capture the country's spirit and the war's toll</a> NPR: As Russian forces continue attacking Ukraine, Ukrainian artists have been visualizing the resilience of their nation and how their lives have been turned upside down by war. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
- <p class="updated_time"> 03:06 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 03:45 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 02:54 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60733921?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Residents rescued after Kyiv apartment block strike</a> BBC: Two people died when the residential building in the Ukrainian capital was hit. 
+ <p class="updated_time"> 02:45 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 02:32 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
- <p class="updated_time"> 02:06 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 02:06 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086394167/china-battles-multiple-outbreaks-driven-by-stealth-omicron">China battles multiple COVID-19 outbreaks, driven by stealth omicron</a> NPR: While the numbers are small relative to numbers reported in Europe or in the U.S., they are the highest since the first big outbreak of COVID-19 in the central city of Wuhan in early 2020. 
  <p class="updated_time"> 12:59 AM CT, Mar. 14 </p> 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:18 AM CT, Mar. 14 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/03/14/the-congressional-calm-before-the-scotus-storm-00016938">The congressional calm before the (SCOTUS) storm</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:38 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/woman-baby-russia-bombing-maternity-ward-00016940">Pregnant woman, baby die after Russia bombed maternity ward</a> Politico: The woman was rushed to another hospital, yet closer to the frontline, where doctors labored to keep her alive. 
  <p class="updated_time"> 04:54 AM CT, Mar. 14 </p> 
@@ -227,7 +229,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/ketanji-brown-jackson-supreme-court-confirmation-00016594">Who, us, fight? Senate GOP vows ‘respectful’ Supreme Court hearings</a> Politico: Unlike in confirmation battles past, Republicans don't quite have a theme for their examination of Judge Ketanji Brown Jackson’s record. Except being nicer than Democrats. 
  <p class="updated_time"> 03:31 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/cdc-sewage-surveillance-states-00016795">Lackluster state participation turns sewage surveillance into a pipedream</a> Politico: Wastewater surveillance gained popularity during the pandemic as state and local health officials demonstrated how they could detect the coronavirus in their community’s sewage systems before residents developed symptoms. 
+ <a href="https://www.politico.com/news/2022/03/14/cdc-sewage-surveillance-states-00016795">CDC wants to monitor poop: States aren’t all on board</a> Politico: Wastewater surveillance gained popularity during the pandemic as state and local health officials demonstrated how they could detect the coronavirus in their community’s sewage systems before residents developed symptoms. 
  <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/biden-support-ukraine-russia-trump-00016882">Trump’s shadow lurks over Biden’s support for Ukraine</a> Politico: As the administration works out how to stop Putin’s invasion, the critics at home are circling. 
  <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
