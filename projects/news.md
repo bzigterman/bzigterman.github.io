@@ -9,21 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:06 AM CT, Mar. 14 </p> 
+ <a href="https://www.npr.org/2022/03/14/1086394167/china-battles-multiple-outbreaks-driven-by-stealth-omicron">China battles multiple outbreaks, driven by stealth omicron</a> NPR: While the numbers are small relative to numbers reported in Europe or in the U.S., they are the highest since the first big outbreak of COVID-19 in the central city of Wuhan in early 2020. 
+ <p class="updated_time"> 01:14 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 01:01 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia and Ukraine Set to Meet After Brutal Weekend of Fighting</a> NYT: The two sides expressed cautious optimism ahead of talks on Monday. Russia expanded its range of attacks, killing 35 at a base near Poland’s border. Moscow asked China for aid for the war, U.S. officials said. 
  <p class="updated_time"> 12:59 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086390736/colombians-vote-for-a-new-congress-and-presidential-candidates">Colombians vote for a new congress and presidential candidates</a> NPR: Three major candidates emerge to compete in the country's May presidential election. 
- <p class="updated_time"> 12:36 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
- <p class="updated_time"> 11:36 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 12:14 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’</a> WSJ: Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’ 
+ <p class="updated_time"> 11:14 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 10:38 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
- <p class="updated_time"> 10:36 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
- <p class="updated_time"> 09:36 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 10:14 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
- <p class="updated_time"> 08:36 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 09:14 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
@@ -133,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086177508/russia-ukraine-refugees-poland-help-volunteers">Volunteers in Poland are setting up Ukrainian refugees to survive the coming days</a> NPR: As Ukrainians flee the war at home, a makeshift system of supplies and aid has sprung up in the Przemyśl train station. 
  <p class="updated_time"> 07:17 AM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60725962?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russian forces accused of abducting second mayor</a> BBC: The news comes as Ukraine says Russia is trying to create "pseudo-republics" to break up the country. 
- <p class="updated_time"> 07:12 AM CT, Mar. 13 </p> 
- <a href="https://www.npr.org/2022/03/13/1086330019/locals-in-poland-are-taking-ukrainian-refugees-into-their-homes">Locals in Poland are taking Ukrainian refugees into their homes </a> NPR: As the U.N.'s refugee agency resists establishing camps in the EU for Ukrainians, Poles are quietly welcoming thousands into their homes. 
  <p class="updated_time"> 06:21 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/middleeast/saudi-arabia-executions.html">Saudi Arabia Executes 81 People</a> NYT: It was the kingdom’s largest mass execution in years. In many cases, the charges involved “not a drop of blood,” a rights activist said. 
  <p class="updated_time"> 05:16 AM CT, Mar. 13 </p> 
@@ -214,6 +214,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:02 AM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/us/politics/coronavirus-vaccine-children-moderna-pfizer.html">Which Coronavirus Vaccine Will Work in the Youngest Children?</a> NYT: Moderna is going head-to-head with Pfizer-BioNTech for the opportunity to vaccinate the youngest children, the only Americans still not eligible for shots. 
  <p class="updated_time"> 09:16 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html">Frustrated With Utilities, Some Californians Are Leaving the Grid</a> NYT: Citing more blackouts, wildfires and higher electricity rates, a growing number of homeowners are choosing to build homes that run entirely on solar panels and batteries. 
  <p class="updated_time"> 08:54 PM CT, Mar. 13 </p> 
@@ -338,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/11/biden-says-russia-will-pay-severe-price-if-it-uses-chemical-weapons-in-ukraine-00016546">Biden warns Russia will pay 'severe price' if it uses chemical weapons in Ukraine</a> Politico: The president’s threat comes on the heels of a series of warnings from White House officials this week that Russia might seek to use chemical or biological weapons in Ukraine. 
  <p class="updated_time"> 12:07 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/us/politics/ukraine-military-drones-russia.html">Over Ukraine, Lumbering Turkish-Made Drones Are an Ominous Sign for Russia</a> NYT: The Bayraktar TB2 has become a rallying symbol for Ukrainians, who are singing songs about them and posting videos of their success. 
- <p class="updated_time"> 11:44 AM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/world/asia/india-elections-yogi-adityanath.html">Yogi Adityanath’s Election Win Raises His Profile Across India</a> NYT: Yogi Adityanath’s return as chief minister of Uttar Pradesh is fueling talk that he might succeed Narendra Modi as prime minister one day, and continue to advance their Hindu political movement. 
  <p class="updated_time"> 11:00 AM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/biden-administration-oil-industry-alliance-00016112">Biden officials say they support oil and gas production. The industry is wary.</a> Politico: Fossil fuel industry executives have doubts about the Biden administration's long-term intentions despite the support they are currently receiving from administration officials. 
  <p class="updated_time"> 07:55 AM CT, Mar. 11 </p> 
