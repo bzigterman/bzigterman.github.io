@@ -9,20 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:22 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
- <p class="updated_time"> 01:01 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 01:35 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: Despite Peace Talks, Russia Continues to Bombard Ukraine</a> NYT: The two sides concluded a meeting on Monday with little sign of progress, as Russia launched a flurry of strikes on Kyiv and 400,000 people remained trapped in Mariupol. Talks will resume on Tuesday. 
+ <p class="updated_time"> 01:31 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/world/europe/uk-ukraine-refugee-sponsorship-scheme.html">Britain Announces ‘Homes For Ukraine’ Program to Sponsor Refugees</a> NYT: The program, called “Homes for Ukraine,” offers a new route for Ukrainian refugees to come to Britain, which had previously been limited to those joining family members already living there. 
+ <p class="updated_time"> 01:27 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
  <p class="updated_time"> 12:56 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60743322?at_medium=RSS&at_campaign=KARANGA">Julian Assange denied permission to challenge extradition</a> BBC: A Supreme Court spokesman says the Wikileaks founder failed to raise "an arguable point of law". 
- <p class="updated_time"> 12:36 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/europe/uk-ukraine-refugee-sponsorship-scheme.html">Britain Announces ‘Homes For Ukraine’ Program to Sponsor Refugees</a> NYT: The program, called “Homes for Ukraine,” offers a new route for Ukrainian refugees to come to Britain, which had previously been limited to those joining family members already living there. 
+ <p class="updated_time"> 12:40 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On</a> WSJ: Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On 
  <p class="updated_time"> 12:32 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
  <p class="updated_time"> 12:28 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/lithuania-russia-attack-ukraine-nato.html">Lithuania, a Vulnerable NATO Link, Readies for Putin and Russia</a> NYT: The Baltics, wedged between Russia and Belarus, have been likened to a modern-day West Berlin. Many here worry that if Ukraine falls, they might be next. 
- <p class="updated_time"> 12:26 PM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On</a> WSJ: Ukraine and Russia Resume Talks as Moscow’s Bombing Campaign Grinds On 
  <p class="updated_time"> 12:01 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60736185?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich: New evidence highlights corrupt deals</a> BBC: BBC Panorama uncovers new evidence on the corrupt deals that helped Chelsea's owner make his fortune. 
  <p class="updated_time"> 11:57 AM CT, Mar. 14 </p> 
@@ -34,31 +34,31 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:42 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086443851/squatters-russian-oligarch-london-mansion">Squatters took over a London mansion linked to a Russian oligarch</a> NPR: Riot police arrived after protesters entered the building and unfurled banners on the balcony, including one reading "This property has been liberated." It's linked to billionaire Oleg Deripaska. 
  <p class="updated_time"> 11:40 AM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086424049/pregnant-woman-photo-mariupol-maternity-hospital">The pregnant woman from the iconic Mariupol photo has died. Many more are at risk </a> NPR: The woman and her baby died after Wednesday's strike, one of dozens of recent attacks on Ukraine's health system. U.N. groups warn it is running "dangerously low" on oxygen and medical supplies. 
- <p class="updated_time"> 11:26 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine</a> WSJ: China’s Reluctance to Distance Itself From Russia Limits Its Role on Ukraine 
+ <p class="updated_time"> 11:40 AM CT, Mar. 14 </p> 
+ <a href="https://www.npr.org/2022/03/14/1086424049/pregnant-woman-photo-mariupol-maternity-hospital">The pregnant woman from the iconic Mariupol photo has died. Many more are at risk </a> NPR: The woman and her baby died after Wednesday's strike, one of dozens of recent attacks on Ukraine's health system. U.N. groups warn it is running "dangerously low" on oxygen and medical supplies. 
  <p class="updated_time"> 11:07 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/arts/music/paavo-jarvi-putin-ukraine-russia.html">A Conductor on Why He Stayed in Russia After the Invasion Began</a> NYT: The Estonian American conductor Paavo Järvi chose to remain in Moscow temporarily to lead a Russian youth orchestra: “I felt a responsibility.” 
  <p class="updated_time"> 11:04 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/angkor-wat-covid-uncrowded.html">Cambodian Temple, Once Overcrowded, Wants Tourists Back</a> NYT: Cambodia has been open to foreign tourists for months, but in this time of Covid, few have made the trip, making it possible to imagine that you alone have rediscovered the glorious temple complex. 
  <p class="updated_time"> 10:47 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60739098?at_medium=RSS&at_campaign=KARANGA">Police are hunting a masked gunman targeting homeless people while they sleep</a> BBC: Five have been shot in nine days in New York and Washington - all with the same "modus operandi". 
+ <p class="updated_time"> 10:40 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
  <p class="updated_time"> 10:35 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 10:31 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-zelensky-congress-speech.html">Zelensky to Address Congress in Virtual Speech</a> NYT: The Ukrainian president’s speech will likely increase growing momentum on Capitol Hill to pressure President Biden to send fighter jets to Kyiv. 
- <p class="updated_time"> 10:26 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
  <p class="updated_time"> 09:56 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
- <p class="updated_time"> 09:26 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 09:40 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 09:10 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60739681?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Silent streets in wiped out Donetsk town</a> BBC: Volnovakha, a town in Donetsk region, eastern Ukraine, has been decimated by fighting. 
+ <p class="updated_time"> 08:40 AM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Jong Un Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Jong Un Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 08:34 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60733927?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Drone shots show Mariupol devastated by fighting</a> BBC: Thousands of civilians have been trapped in the Ukrainian port city for nearly two weeks 
- <p class="updated_time"> 08:26 AM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 08:16 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/pregnant-woman-airstrike-ukraine-mariupol.html">Woman Photographed After Russian Strike On Maternity Hospital Has Died</a> NYT: Her baby also died, the news organization said. The photo captured last week has become one of the defining images of human suffering in the war. 
  <p class="updated_time"> 08:13 AM CT, Mar. 14 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-europe-nuclear-war-anxiety.html">Pandemic Fears Give Way to a Rush for Bomb Shelters</a> NYT: Since Vladimir Putin’s invasion of Ukraine, European anxiety has shifted from Covid to nuclear annihilation. Bunkers, survival guides and iodine pills are flying off the shelves. 
  <p class="updated_time"> 04:25 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-lutsk-ivano-frankivsk-russian-attacks.html">Western Ukraine Suffers Rare Russian Attacks</a> NYT: Western Ukraine has been a safe haven for Ukrainian refugees, as well as businessmen, journalists and diplomats. But attacks in two cities pierced the sense of security in the region. 
- <p class="updated_time"> 11:29 AM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/12/business/russian-business-boycotts.html">That Russian Business You’re Boycotting Isn’t Actually Russian</a> NYT: The consumer activism that makes a vodka C.E.O. say: ‘Do you know we’re Latvian?’ 
  <p class="updated_time"> 10:58 AM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/canada/arctic-canada-territories-russian-war.html">Arctic Security Concerns Resurface in Canada’s Territories Amid Russian War</a> NYT: Between melting sea ice and increased militarization, the Arctic is changing, and premiers in Canada’s territories say the Russian war is another reason to put Arctic security on the policy forefront. 
  <p class="updated_time"> 10:54 AM CT, Mar. 12 </p> 
@@ -213,7 +211,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:10 PM CT, Mar. 14 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:00 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/climate/usps-trucks-electric-vehicles.html">Democrats Want Investigation Into Postal Service’s Gas Guzzlers Contract</a> NYT: A plan to purchase up to 165,000 gasoline-powered mail trucks instead of electric models has angered Democrats and the Biden administration. 
+ <a href="https://www.nytimes.com/2022/03/14/climate/usps-trucks-electric-vehicles.html">USPS Truck Contract Prompts Cries for Investigation</a> NYT: A plan to purchase up to 165,000 gasoline-powered mail trucks instead of electric models has angered Democrats and the Biden administration. 
  <p class="updated_time"> 12:50 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/police-chiefs-back-ketanji-brown-jackson-for-supreme-court-00017025">Police chiefs back Ketanji Brown Jackson for Supreme Court</a> Politico: The International Association of Chiefs of Police endorsed Biden's nominee as some Republicans attack her as weak on crime. 
  <p class="updated_time"> 12:40 PM CT, Mar. 14 </p> 
@@ -301,7 +299,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:57 PM CT, Mar. 12 </p> 
  <a href="https://www.politico.com/news/2022/03/12/missiles-u-s-consulate-north-iraq-00016829">Iran claims missile barrage near U.S. consulate in Iraq</a> Politico: No injuries were reported in Sunday’s attack on the city of Irbil, which marked a significant escalation between the U.S. and Iran. 
  <p class="updated_time"> 04:58 PM CT, Mar. 12 </p> 
- <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-diplomacy.html">Ukraine War Ushers In ‘New Era’ for U.S. Abroad</a> NYT: President Biden is rethinking relationships with allies as well as rivals — including China, Iran and Venezuela — to counter President Vladimir V. Putin of Russia. 
+ <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-diplomacy.html">Ukraine War Ushers In ‘New Era’ for Biden and U.S. Abroad</a> NYT: President Biden is rethinking relationships with allies as well as rivals — including China, Iran and Venezuela — to counter President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 03:55 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/us/politics/biden-ukraine-weapons.html">Biden Approves $200 Million in Weapons and Equipment for Ukraine</a> NYT: With the new arms package, which officials say includes antitank and antiaircraft missiles, the Biden administration has authorized $1.2 billion in weapons for Ukraine in the past year. 
  <p class="updated_time"> 12:25 PM CT, Mar. 12 </p> 
@@ -342,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/us/politics/afghan-embassy-closing.html">Afghan Embassy, Now Out of Money, Will Shut Down, U.S. Says</a> NYT: The development caps a sad saga for Afghan diplomats, who have 30 days to apply to remain in the United States or face the threat of deportation. 
  <p class="updated_time"> 01:58 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/mcconnell-phone-call-congress-ukraine-aid-deal-00016583">McConnell's $1.5B phone call: How Congress supercharged its Ukraine aid deal</a> Politico: As Ukraine came under attack, Congress took an unusually muscular approach in the foreign policy realm and doubled the president's initial ask for aid. 
- <p class="updated_time"> 12:35 PM CT, Mar. 11 </p> 
- <a href="https://www.cnn.com/2022/03/11/europe/language-meaning-ukraine-russia-invasion-cmd-intl/index.html">Decoding the language around Russia's invasion of Ukraine</a> CNN: Russia's unprovoked invasion of Ukraine has devastated the country, killing hundreds of civilians, sparking a humanitarian disaster and resulting in a wave of sanctions from the West. 
 
 
 </details>
