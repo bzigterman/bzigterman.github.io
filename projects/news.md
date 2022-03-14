@@ -9,24 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:32 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russian Airstrikes Kill at Least 35 at Base Near Polish Border</a> NYT: More than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb. Russia asked China for military and economic aid for the war, U.S. officials say. 
- <p class="updated_time"> 06:32 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-ukraine-military-base-strike.html">Russian Airstrike at NATO’s Doorstep Raises Fears of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
+ <p class="updated_time"> 07:18 PM CT, Mar. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60689501?at_medium=RSS&at_campaign=KARANGA">The innovative surfing tech making waves</a> BBC: The sport of surfing is modernising, using technology to offer bigger, better and safer thrills. 
+ <p class="updated_time"> 07:18 PM CT, Mar. 13 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60731983?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great makes retirement U-turn after just six weeks</a> BBC: Tom Brady, one of the greatest players in the history of the NFL, is coming back for his 23rd season just a month after announcing his retirement. 
+ <p class="updated_time"> 07:13 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Ukraine Live Updates: Russia Strikes Western Ukraine in Lethal Attack</a> NYT: At least 35 were killed and more than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb. Russia asked China for military and economic aid for the war, U.S. officials say. 
+ <p class="updated_time"> 07:07 PM CT, Mar. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60682214?at_medium=RSS&at_campaign=KARANGA">The Syrian women replacing men as leaders</a> BBC: Syrian refugees in Lebanon have elected women as leaders of some camps, breaking traditional social norms. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60730945?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Five times refugees were met with kindness</a> BBC: From toys to flowers, refugees fleeing the war in Ukraine are warmly greeted by strangers in Europe. 
+ <p class="updated_time"> 06:55 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
+ <p class="updated_time"> 06:43 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
+ <p class="updated_time"> 06:29 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 06:24 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-ukraine-military-base-attack.html">Booms, Smoke and Fire Signal Horror of Russian Attack on Base</a> NYT: Residents of a town near Poland’s border awoke to frightful sounds and an awareness they were no longer safe. 
  <p class="updated_time"> 06:06 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/obama-tests-positive-covid.html">Former President Obama Tests Positive for the Coronavirus </a> NYT: He tweeted that he has a scratchy throat but is otherwise fine. 
- <p class="updated_time"> 05:56 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 05:47 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-60731908?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky visits wounded Ukrainian soldiers</a> BBC: Ukraine's president gives medals to injured troops and the hospital workers caring for them. 
- <p class="updated_time"> 05:38 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 05:38 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60731686?at_medium=RSS&at_campaign=KARANGA">William Hurt: Oscar-winning actor dies at 71</a> BBC: His roles ranged from acclaimed 1980s dramas to playing General Thaddeus Ross in five Marvel films. 
  <p class="updated_time"> 05:31 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086371078/ukraine-russian-warship-postage-stamp">A new stamp honors the Ukrainian soldiers who profanely told off a Russian warship</a> NPR: Ukraine introduced the design for a postage stamp that memorializes a now-famous battle cry rallying the country in its fight against the Russian invasion. 
+ <p class="updated_time"> 05:29 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 05:20 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/monastery-shelling-ukraine.html">Russian Airstrike Damages Revered Monastery in Ukraine</a> NYT: The 16th-century monastery is one of the three most sacred sites in Ukraine for Orthodox believers. 
  <p class="updated_time"> 05:20 PM CT, Mar. 13 </p> 
@@ -39,8 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/ukraine-romania-refugee-shelter-pets.html">Ukrainian Refugees Find Shelter and a Hearty Welcome For Their Pets in Romania</a> NYT: Viktor and Rachel Borovic had only two hours to prepare to flee their city. But they were clear about what was important to them. 
  <p class="updated_time"> 04:44 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60729276?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: US journalist and filmmaker killed in Ukraine</a> BBC: It is the first reported death of a foreign journalist covering the war in Ukraine. 
- <p class="updated_time"> 04:38 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
+ <p class="updated_time"> 04:29 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 04:28 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-exiles-putin-ukraine-war.html">‘Things Will Only Get Worse.’ Putin’s War Sends Russians Into Exile.</a> NYT: Thousands of Russians saw their comfortable, middle-class lives fade overnight with the invasion ordered by President Vladimir V. Putin. 
  <p class="updated_time"> 04:25 PM CT, Mar. 13 </p> 
@@ -55,10 +65,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/asia/hong-kong-quarantine.html">300,000 in Hong Kong Isolate at Home as COVID Cases Rise</a> NYT: The city’s officials are scrambling to build quarantine and mass quarantine centers as cases of the Omicron and Delta variants spread widely. 
  <p class="updated_time"> 03:47 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-career-work.html">Filmmaker Brent Renaud Spent His Career Capturing the Human Toll of War</a> NYT: Mr. Renaud’s final assignment was documenting refugees fleeing across bridges in Irpin, Ukraine. 
- <p class="updated_time"> 03:38 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
  <p class="updated_time"> 03:37 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-irpin.html">Brent Renaud, an American Journalist, Is Killed in Ukraine</a> NYT: An award-winning filmmaker and journalist, Mr. Renaud, 50, was killed while reporting in a suburb of Kyiv. Another journalist was wounded. 
+ <p class="updated_time"> 03:29 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 03:26 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60730367?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: What happened on day 18 of Russia's invasion</a> BBC: A military base near the Polish border is attacked, and the UK announces a scheme to house refugees. 
  <p class="updated_time"> 03:16 PM CT, Mar. 13 </p> 
@@ -67,14 +77,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086362946/pope-francis-issues-an-urgent-plea-for-an-end-to-the-war">Pope Francis issues an urgent plea for an end to the war</a> NPR: The pope urged people to take in refugees from Ukraine. More than 2.5 million people have already fled because of the invasion, according to the United Nations. 
  <p class="updated_time"> 02:58 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60730773?at_medium=RSS&at_campaign=KARANGA">Brent Renaud: Friend of US journalist killed in Ukraine speaks to BBC</a> BBC: Mea last spoke to Brent four days ago, and says he was excited to work on a documentary in Ukraine. 
- <p class="updated_time"> 02:38 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
+ <p class="updated_time"> 02:29 PM CT, Mar. 13 </p> 
+ <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 01:57 PM CT, Mar. 13 </p> 
  <a href="https://www.npr.org/2022/03/13/1086345532/american-journalist-killed-in-ukraine">Journalist Brent Renaud is killed while reporting on the war in Ukraine</a> NPR: An advisor to Ukraine's interior ministry said Renaud was killed and another journalist was wounded in Irpin, a suburb of Kyiv. 
  <p class="updated_time"> 01:39 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/yavoriv-military-base-ukraine.html">The Base Attacked In Western Ukraine Has Been a Hub For Foreign Militaries</a> NYT: The base outside Lviv that was attacked by Russian forces early on Sunday was a key link between Ukraine’s armed forces and Western militaries before the war. 
- <p class="updated_time"> 01:38 PM CT, Mar. 13 </p> 
- <a href="https://www.wsj.com/articles/saudis-fight-to-turn-the-tide-in-yemens-civil-war-11647180197">Saudis Fight to Turn the Tide in Yemen’s Civil War</a> WSJ: Saudis Fight to Turn the Tide in Yemen’s Civil War 
  <p class="updated_time"> 01:30 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/asia/afghan-air-force-taliban.html">Afghan Aviators Hide as Taliban Urge Them to Return to Duty</a> NYT: Many former Afghan Air Force members fear they could be killed by the Taliban if they came out of hiding, but others have joined the nascent Taliban air force. 
  <p class="updated_time"> 01:11 PM CT, Mar. 13 </p> 
@@ -119,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-surrogate-mothers-babies.html">In a Kyiv Basement, 19 Surrogate Babies Are Trapped by War but Kept Alive by Nannies</a> NYT: Some surrogate mothers are trapped by the fighting as their due dates near. And newborns face uncertain fates, with many biological parents now unable to travel to Ukraine. 
  <p class="updated_time"> 03:00 AM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/china-pursues-afghanistans-mineral-wealth-after-u-s-exit-11647172801">China Pursues Afghanistan's Mineral Wealth After U.S. Exit</a> WSJ: A Chinese company is negotiating with the Taliban to mine one of the world’s largest untapped reserves of copper. 
- <p class="updated_time"> 01:36 AM CT, Mar. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60726265?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The teenagers at war with only three days training</a> BBC: Students Maksym, 19 and Dmytro, 18 volunteered for the Ukrainian army just weeks ago. 
  <p class="updated_time"> 10:57 PM CT, Mar. 12 </p> 
  <a href="https://www.nytimes.com/2022/03/12/world/europe/ukraine-russia-kyiv.html">U.S. to Send Arms to Ukraine, as Russia Intensifies Campaign of Destruction</a> NYT: A defiant mayor of a captured city was kidnapped by Russian troops, Ukrainian authorities say, an act that prompted hundreds to protest. 
  <p class="updated_time"> 08:25 PM CT, Mar. 12 </p> 
@@ -133,12 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60698374?at_medium=RSS&at_campaign=KARANGA">Dudula: How South African anger has focused on foreigners</a> BBC: Support seems to be growing for two groups who are campaigning against undocumented foreign nationals. 
  <p class="updated_time"> 06:59 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60590121?at_medium=RSS&at_campaign=KARANGA">Isak Munda: The Orissa labourer who became a YouTube star</a> BBC: Isak Munda says the platform has changed his life since he started posting videos. 
- <p class="updated_time"> 06:59 PM CT, Mar. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60650018?at_medium=RSS&at_campaign=KARANGA">Indian evacuee: The kindness of Ukrainians saved my life</a> BBC: From an airstrike bunker to his mum's relieved hugs, Vishnu tells how he and his dog fled Ukraine to India. 
- <p class="updated_time"> 06:48 PM CT, Mar. 12 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60661075?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'urban landscape'</a> BBC: A selection of striking images from our readers around the world. 
- <p class="updated_time"> 06:23 PM CT, Mar. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60697017?at_medium=RSS&at_campaign=KARANGA">Will Russia's attack on Ukraine help thaw US-Venezuela relations?</a> BBC: The ban on Russian oil exports is causing prices to surge, and leaders are revisiting some awkward friendships. 
  <p class="updated_time"> 06:02 PM CT, Mar. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60710975?at_medium=RSS&at_campaign=KARANGA">Ukraine: 'Not all Russians support this war'</a> BBC: Yevgeny says it is his responsibility as a Russian to help Ukrainians. 
  <p class="updated_time"> 06:00 PM CT, Mar. 12 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/11/world/europe/russia-ukraine-bombardment-chechnya.html">Slowed on the Battlefield, Russia Widens Bombardment of Ukrainian Cities</a> NYT: But military experts, citing previous Russian campaigns, say that strategy is unlikely to succeed without bloody urban fighting. 
  <p class="updated_time"> 07:04 PM CT, Mar. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60710227?at_medium=RSS&at_campaign=KARANGA">Transgender children: Texas plan to probe parents halted</a> BBC: Parents seeking gender transition for their children may not be investigated for so-called abuse. 
- <p class="updated_time"> 06:32 PM CT, Mar. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60711211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: How Russia is recruiting mercenaries</a> BBC: Social media channels and private messaging groups are being used to recruit, the BBC has learned. 
  <p class="updated_time"> 05:03 PM CT, Mar. 11 </p> 
  <a href="https://www.nytimes.com/2022/03/11/science/endurance-ship-ernest-shackleton.html">The New Captain of the Endurance Shipwreck Is an Anemone</a> NYT: A who’s who of the new invertebrate crew steering Ernest Shackleton’s sunken ship in the Weddell Sea. 
  <p class="updated_time"> 02:04 PM CT, Mar. 11 </p> 
@@ -212,12 +210,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:22 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
+ <p class="updated_time"> 07:13 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
+ <p class="updated_time"> 06:43 PM CT, Mar. 13 </p> 
+ <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 06:22 PM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/russia-china-military-equipment-00016893">Russia asked China for military equipment, U.S. official says</a> Politico: Such a request could indicate that Moscow fears its position after struggling to advance deeper into Ukraine more than two weeks into its invasion. 
- <p class="updated_time"> 05:56 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 04:52 PM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/pfizer-covid-booster-ceo-00016883">Pfizer CEO says another Covid booster will be needed</a> Politico: Albert Bourla's comments continue a roller-coaster pattern of differing communication from the pharmaceutical company and the government as the pandemic enters its third year. 
  <p class="updated_time"> 04:02 PM CT, Mar. 13 </p> 
