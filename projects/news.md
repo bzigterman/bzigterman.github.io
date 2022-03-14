@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:19 AM CT, Mar. 14 </p> 
+ <a href="https://www.bbc.co.uk/sport/american-football/60731983?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great makes retirement U-turn after six weeks</a> BBC: Tom Brady, one of the greatest players in NFL history, is coming back for his 23rd season only six weeks after retiring. 
  <p class="updated_time"> 04:01 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war">Live Updates: Russia and Ukraine Set to Meet After Brutal Weekend of Fighting</a> NYT: The two sides expressed cautious optimism ahead of talks on Monday. Russia expanded its range of attacks, killing 35 at a base near Poland’s border. Moscow asked China for aid for the war, U.S. officials said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
@@ -19,23 +21,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/climate/tree-planting-reforestation-climate.html">Tree Planting Is Booming. Here’s How That Could Help, or Harm, the Planet.</a> NYT: Reforestation can fight climate change, uplift communities and restore biodiversity. When done badly, though, it can speed extinctions and make nature less resilient. 
  <p class="updated_time"> 03:58 AM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60732486?at_medium=RSS&at_campaign=KARANGA">US warns China against helping Russia in Ukraine</a> BBC: US officials say Russia asked China for military support and help in evading sanctions. 
- <p class="updated_time"> 03:51 AM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/sport/american-football/60731983?at_medium=RSS&at_campaign=KARANGA">Tom Brady: NFL great makes retirement U-turn after six weeks</a> BBC: Tom Brady, one of the greatest players in NFL history, is coming back for his 23rd season only six weeks after retiring. 
- <p class="updated_time"> 03:09 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 03:29 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-ukrainian-military-training-base-near-polish-border-11647169428">Russian Missiles Strike Ukrainian Base Near Polish Border</a> WSJ: Russian Missiles Strike Ukrainian Base Near Polish Border 
  <p class="updated_time"> 02:32 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
- <p class="updated_time"> 02:09 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 02:29 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/inside-one-of-russias-deadliest-assaults-on-a-ukraine-city-they-want-to-terrorize-11647204498">Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’</a> WSJ: Inside One of Russia’s Deadliest Assaults on a Ukraine City. ‘They Want to Terrorize.’ 
  <p class="updated_time"> 02:06 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086394167/china-battles-multiple-outbreaks-driven-by-stealth-omicron">China battles multiple COVID-19 outbreaks, driven by stealth omicron</a> NPR: While the numbers are small relative to numbers reported in Europe or in the U.S., they are the highest since the first big outbreak of COVID-19 in the central city of Wuhan in early 2020. 
- <p class="updated_time"> 01:09 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 01:29 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russias-bombs-force-ukraine-into-war-economy-plants-that-made-sweaters-are-making-weapons-11647169201">Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’</a> WSJ: Russia’s Bombs Force Ukraine Into War Economy: ‘Plants That Made Sweaters Are Making Weapons’ 
  <p class="updated_time"> 12:59 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086390736/colombians-vote-for-a-new-congress-and-presidential-candidates">Colombians vote for a new congress and presidential candidates</a> NPR: Three major candidates emerge to compete in the country's May presidential election. 
- <p class="updated_time"> 12:09 AM CT, Mar. 14 </p> 
+ <p class="updated_time"> 12:29 AM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-wont-negotiate-ukraine-related-sanctions-with-russia-to-save-iran-nuclear-deal-11647167692">U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal</a> WSJ: U.S. Won’t Negotiate Sanctions With Russia to Save Iran Nuclear Deal 
- <p class="updated_time"> 11:09 PM CT, Mar. 13 </p> 
+ <p class="updated_time"> 11:29 PM CT, Mar. 13 </p> 
  <a href="https://www.wsj.com/articles/irans-revolutionary-guard-claims-missile-attack-raising-tensions-11647173230">Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter</a> WSJ: Iran Claims Missile Attack on Iraq That Sent U.S. Troops Rushing for Shelter 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
@@ -331,7 +331,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:35 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/disney-pledges-to-stop-florida-campaign-donations-dont-say-gay-00016705">Disney pledges to stop Florida campaign donations over ‘Don’t Say Gay’ bill</a> Politico: Disney donated some $4.8 million to Florida candidates in the 2020 election cycle, campaign finance reports show. 
  <p class="updated_time"> 02:23 PM CT, Mar. 11 </p> 
- <a href="https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html">With Trump in Her State, Haley Finds Some Political Distance (Gently)</a> NYT: Nikki Haley, the former United Nations ambassador, used a well-timed endorsement of Representative Nancy Mace to get on the opposite side of the former president. 
+ <a href="https://www.nytimes.com/2022/03/11/us/politics/nikki-haley-trump.html">In South Carolina, Nikki Haley Finds Some Distance from Trump</a> NYT: Nikki Haley, the former United Nations ambassador, used a well-timed endorsement of Representative Nancy Mace to get on the opposite side of the former president. 
  <p class="updated_time"> 01:58 PM CT, Mar. 11 </p> 
  <a href="https://www.politico.com/news/2022/03/11/mcconnell-phone-call-congress-ukraine-aid-deal-00016583">McConnell's $1.5B phone call: How Congress supercharged its Ukraine aid deal</a> Politico: As Ukraine came under attack, Congress took an unusually muscular approach in the foreign policy realm and doubled the president's initial ask for aid. 
  <p class="updated_time"> 01:16 PM CT, Mar. 11 </p> 
