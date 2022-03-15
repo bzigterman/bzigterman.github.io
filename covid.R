@@ -443,7 +443,8 @@ usa_jhu_new_deaths <- rio::import(usa_jhu_new_deaths_url, format = "csv") %>%
   select(date,"United States") %>%
   rename(new_deaths = "United States") %>%
   mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
-                                   fill = NA, align = "right"))
+                                   fill = NA, align = "right"))%>%
+  drop_na()
 
 #### vaccines ----
 usa_owid_vaccines_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/vaccinations/vaccinations.csv"
