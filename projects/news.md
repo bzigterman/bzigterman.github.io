@@ -9,19 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:54 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 11:11 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: U.S. Warns China Not to Help Russia in Ukraine</a> NYT: An aid convoy failed to reach Mariupol, where hundreds of thousands are trapped. In a rare sign of defiance, an employee rushed on Russian state TV and held a sign that said Russians are being lied to. 
- <p class="updated_time"> 09:58 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 10:28 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Talks to End Ukraine War Pause as Russia’s Offensive Intensifies</a> WSJ: Talks to End Ukraine War Pause as Russia’s Offensive Intensifies 
+ <p class="updated_time"> 09:28 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China Tries to Shift Attention as U.S. Presses It on Ukraine</a> WSJ: China Tries to Shift Attention as U.S. Presses It on Ukraine 
  <p class="updated_time"> 09:13 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60745967?at_medium=RSS&at_campaign=KARANGA">Australia climate change: Court overturns teenagers' case against minister</a> BBC: A previous decision - hailed as a world first - found the government had a duty of care to children. 
- <p class="updated_time"> 08:58 PM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China Tries to Shift Attention as U.S. Presses It on Ukraine</a> WSJ: China Tries to Shift Attention as U.S. Presses It on Ukraine 
  <p class="updated_time"> 08:57 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-russia-diplomacy.html">Diplomacy Quickens to Halt Ukraine War or Stop Its Expansion</a> NYT: Ukraine and Russia held a new round of talks and agreed to resume them on Tuesday, as the United States warned China about helping an increasingly isolated Kremlin and expanding the conflict. 
  <p class="updated_time"> 08:53 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
- <p class="updated_time"> 07:58 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 08:28 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
  <p class="updated_time"> 07:52 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60745493?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv terrain will slow Russian troops, say Ukraine generals</a> BBC: Rivers and marshes help to protect the capital city, but it is still vulnerable to Russian missiles. 
@@ -31,18 +31,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/europe/kyiv-ukraine-russia-war.html">Kyiv’s Once-Busy Streets Empty as Russia Targets Capital</a> NYT: With civilian areas coming under fire and an estimated half the population having fled, the avenues of the Ukrainian capital, under siege by Russian forces, are almost deserted. 
  <p class="updated_time"> 07:29 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/china-russia-military-aid-us.html">The U.S. Warns China Not to Give Russia Military or Economic Aid</a> NYT: The Kremlin denied the report, and the spokesman for the Chinese Embassy in Washington said he had never heard of the request. 
+ <p class="updated_time"> 07:28 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 07:08 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60732889?at_medium=RSS&at_campaign=KARANGA">March 4 Justice: Has anything changed for Australian women?</a> BBC: One year ago, rape and misconduct allegations in Canberra sparked massive protests nationwide. 
  <p class="updated_time"> 07:03 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60742504?at_medium=RSS&at_campaign=KARANGA">'Double tap' attacks in Yemen's civil war</a> BBC: The country has seen some of the worst violence of the conflict in the past 12 months. 
- <p class="updated_time"> 06:58 PM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
+ <p class="updated_time"> 06:28 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 06:19 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086483703/telegram-ukraine-war-russia">Telegram is the app of choice in the war in Ukraine despite experts' privacy concerns</a> NPR: The messaging app Telegram has been heavily used by both sides in the war in Ukraine. But privacy experts say people using the service should be wary of the app's level of security. 
  <p class="updated_time"> 06:13 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-refugees-poland-belarus.html">Two Refugees, Both on Poland’s Border. But Worlds Apart.</a> NYT: A young man fleeing war in Sudan and a young woman evacuating Ukraine crossed into Poland at the same time. They had very different experiences. 
- <p class="updated_time"> 05:58 PM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 05:57 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
  <p class="updated_time"> 05:51 PM CT, Mar. 14 </p> 
@@ -80,7 +80,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:27 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086498824/pakistan-is-accusing-the-taliban-of-letting-militants-conduct-cross-border-attac">Pakistan is accusing the Taliban of letting militants conduct cross-border attacks</a> NPR: Pakistan hoped the Taliban's seizure of Afghanistan would secure its western border. Now, it is accusing the Taliban of allowing militants to conduct cross-border attacks. 
  <p class="updated_time"> 03:27 PM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086498810/filipina-domestic-workers-are-being-fired-in-honk-kong-for-catching-covid">Filipina domestic workers are being fired in Honk Kong for catching COVID</a> NPR: As an omicron wave sweeps through Hong Kong, some of the nannies and housekeepers from the Philippines who work there have been thrown out by their employers after testing positive for the virus. 
+ <a href="https://www.npr.org/2022/03/14/1086498810/filipina-domestic-workers-are-being-fired-in-honk-kong-for-catching-covid">Filipina domestic workers are being fired in Hong Kong for catching COVID</a> NPR: As an omicron wave sweeps through Hong Kong, some of the nannies and housekeepers from the Philippines who work there have been thrown out by their employers after testing positive for the virus. 
  <p class="updated_time"> 03:27 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086498803/jewish-and-non-jewish-ukrainian-refugees-arrive-to-different-treatment-in-israel">Jewish and non-Jewish Ukrainian refugees arrive to different treatment in Israel</a> NPR: Israel's diplomatic and security ties with Russia are facing pressure amid calls to help Ukraine more. It's taking in refugees but there's a controversy over how many non-Jewish Ukrainians to accept. 
  <p class="updated_time"> 03:27 PM CT, Mar. 14 </p> 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:19 PM CT, Mar. 14 </p> 
+ <a href="https://www.politico.com/news/2022/03/15/u-n-chief-warns-war-is-hurting-poor-countries-00017250">U.N. chief warns war is hurting poor countries</a> Politico: Many nations depend on Russia and Ukraine for food. 
  <p class="updated_time"> 09:41 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/prosecutors-steve-bannon-mistake-00017238">Prosecutors defend Steve Bannon probe but acknowledge mistake</a> Politico: At issue are efforts to track the calls and emails of lawyer Robert Costello. 
  <p class="updated_time"> 08:53 PM CT, Mar. 14 </p> 
@@ -253,7 +255,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:50 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/police-chiefs-back-ketanji-brown-jackson-for-supreme-court-00017025">Police chiefs back Ketanji Brown Jackson for Supreme Court</a> Politico: The International Association of Chiefs of Police endorsed Biden's nominee as some Republicans attack her as weak on crime. 
  <p class="updated_time"> 12:17 PM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip that would show support for Ukraine</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
+ <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin, Collins opposition likely dooms Biden's Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
  <p class="updated_time"> 11:20 AM CT, Mar. 14 </p> 
