@@ -9,35 +9,37 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
+ <p class="updated_time"> 11:47 PM CT, Mar. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60746437?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Fears Russian aggression could spill into Poland</a> BBC: The influx of refugees and Russian security threats leaves Poland feeling vulnerable. 
  <p class="updated_time"> 11:11 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: U.S. Warns China Not to Help Russia in Ukraine</a> NYT: An aid convoy failed to reach Mariupol, where hundreds of thousands are trapped. In a rare sign of defiance, an employee rushed on Russian state TV and held a sign that said Russians are being lied to. 
- <p class="updated_time"> 10:28 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 10:51 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Talks to End Ukraine War Pause as Russia’s Offensive Intensifies</a> WSJ: Talks to End Ukraine War Pause as Russia’s Offensive Intensifies 
- <p class="updated_time"> 09:28 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 09:51 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China Tries to Shift Attention as U.S. Presses It on Ukraine</a> WSJ: China Tries to Shift Attention as U.S. Presses It on Ukraine 
  <p class="updated_time"> 09:13 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60745967?at_medium=RSS&at_campaign=KARANGA">Australia climate change: Court overturns teenagers' case against minister</a> BBC: A previous decision - hailed as a world first - found the government had a duty of care to children. 
  <p class="updated_time"> 08:57 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-russia-diplomacy.html">Diplomacy Quickens to Halt Ukraine War or Stop Its Expansion</a> NYT: Ukraine and Russia held a new round of talks and agreed to resume them on Tuesday, as the United States warned China about helping an increasingly isolated Kremlin and expanding the conflict. 
- <p class="updated_time"> 08:53 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
- <p class="updated_time"> 08:28 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 08:51 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
  <p class="updated_time"> 07:52 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60745493?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv terrain will slow Russian troops, say Ukraine generals</a> BBC: Rivers and marshes help to protect the capital city, but it is still vulnerable to Russian missiles. 
+ <p class="updated_time"> 07:51 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 07:40 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/60705629?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Why Vladimir Putin couldn't have trained fighters in Africa</a> BBC: A misleading photo has been used by some to suggest the continent should support Russia in Ukraine. 
  <p class="updated_time"> 07:33 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/kyiv-ukraine-russia-war.html">Kyiv’s Once-Busy Streets Empty as Russia Targets Capital</a> NYT: With civilian areas coming under fire and an estimated half the population having fled, the avenues of the Ukrainian capital, under siege by Russian forces, are almost deserted. 
  <p class="updated_time"> 07:29 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/china-russia-military-aid-us.html">The U.S. Warns China Not to Give Russia Military or Economic Aid</a> NYT: The Kremlin denied the report, and the spokesman for the Chinese Embassy in Washington said he had never heard of the request. 
- <p class="updated_time"> 07:28 PM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 07:08 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60732889?at_medium=RSS&at_campaign=KARANGA">March 4 Justice: Has anything changed for Australian women?</a> BBC: One year ago, rape and misconduct allegations in Canberra sparked massive protests nationwide. 
  <p class="updated_time"> 07:03 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60742504?at_medium=RSS&at_campaign=KARANGA">'Double tap' attacks in Yemen's civil war</a> BBC: The country has seen some of the worst violence of the conflict in the past 12 months. 
- <p class="updated_time"> 06:28 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 06:51 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 06:19 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086483703/telegram-ukraine-war-russia">Telegram is the app of choice in the war in Ukraine despite experts' privacy concerns</a> NPR: The messaging app Telegram has been heavily used by both sides in the war in Ukraine. But privacy experts say people using the service should be wary of the app's level of security. 
@@ -139,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
- <p class="updated_time"> 07:39 PM CT, Mar. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60729216?at_medium=RSS&at_campaign=KARANGA">Zhytomyr: Aerial attacks hit city that is corridor to Kyiv</a> BBC: Zhytomyr, in north-west Ukraine, is facing intense daily attacks. Why is it being bombed so heavily? 
  <p class="updated_time"> 07:29 PM CT, Mar. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-60558016?at_medium=RSS&at_campaign=KARANGA">Deep listening: I realised we all share the same human feelings</a> BBC: Hawraa was part of a project which encouraged Lebanese citizens with conflicting views to listen to each other. 
  <p class="updated_time"> 07:18 PM CT, Mar. 13 </p> 
@@ -204,12 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
+ <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
  <p class="updated_time"> 11:19 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/15/u-n-chief-warns-war-is-hurting-poor-countries-00017250">U.N. chief warns war is hurting poor countries</a> Politico: Many nations depend on Russia and Ukraine for food. 
  <p class="updated_time"> 09:41 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/prosecutors-steve-bannon-mistake-00017238">Prosecutors defend Steve Bannon probe but acknowledge mistake</a> Politico: At issue are efforts to track the calls and emails of lawyer Robert Costello. 
- <p class="updated_time"> 08:53 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
  <p class="updated_time"> 08:37 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/woman-russian-newscast-denounce-war-00017228">Woman bursts onto live Russian newscast to denounce war</a> Politico: A news anchor was speaking when a woman appeared on camera behind her holding a sign. 
  <p class="updated_time"> 07:03 PM CT, Mar. 14 </p> 
