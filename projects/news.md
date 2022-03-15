@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 AM CT, Mar. 15 </p> 
+ <a href="https://www.npr.org/2022/03/15/1086606317/shares-in-china-fall-amid-strongest-covid-19-lockdown-yet">Shares in China fall amid strongest COVID-19 lockdown yet </a> NPR: A second consecutive day of losses comes while China faces a surging number of COVID-19 cases across the country. 
  <p class="updated_time"> 04:40 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60748234?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky urges Russian troops to surrender</a> BBC: The Ukrainian president says Russians who give themselves up will be treated "as people, decently". 
  <p class="updated_time"> 04:37 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Head to Kyiv</a> NYT: The leaders of the Czech Republic, Poland and Slovenia crossed into Ukraine on Tuesday morning as fighting rages around the city, with a half dozen loud blasts shaking central Kyiv. 
  <p class="updated_time"> 04:00 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/russia-ukraine-invasion-syria.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
- <p class="updated_time"> 03:44 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 03:57 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Talks to End Ukraine War Pause as Russia’s Offensive Intensifies</a> WSJ: Talks to End Ukraine War Pause as Russia’s Offensive Intensifies 
- <p class="updated_time"> 02:44 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 02:57 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China Tries to Shift Attention as U.S. Presses It on Ukraine</a> WSJ: China Tries to Shift Attention as U.S. Presses It on Ukraine 
  <p class="updated_time"> 02:36 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60703301?at_medium=RSS&at_campaign=KARANGA">China: Businesses shut as officials widen Covid lockdowns</a> BBC: Toyota, Volkswagen and Apple supplier Foxconn are among firms halting their operations. 
@@ -29,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/health/covid-testing-variants-emory.html">Inside the High-Stakes Race to Test the Covid Tests</a> NYT: Researchers in Atlanta have helped the federal government evaluate dozens of Covid tests and pioneer a new model for developing novel diagnostics. 
  <p class="updated_time"> 02:00 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-vaccines-africa.html">In Africa, a Mix of Shots Drives an Uncertain Covid Vaccination Push</a> NYT: Supplies are more plentiful now but they are unpredictable and often a jumble of brands. Many places can’t meet the W.H.O.’s recommended dosing schedules. 
- <p class="updated_time"> 01:44 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 01:57 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
  <p class="updated_time"> 01:41 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60300009?at_medium=RSS&at_campaign=KARANGA">Hijab verdict: Karnataka high court upholds ban in schools and colleges</a> BBC: The high court's order comes in the wake of a row over the Muslim headscarf in India's Karnataka state. 
@@ -43,18 +45,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
  <p class="updated_time"> 01:00 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60742263?at_medium=RSS&at_campaign=KARANGA">Ukraine war: One shell that destroyed a family</a> BBC: A woman recounts the moment her husband and son were killed by a Russian shell in the town of Irpin. 
+ <p class="updated_time"> 12:57 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 12:55 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60732939?at_medium=RSS&at_campaign=KARANGA">Kashmir Files: Vivek Agnihotri's film exposes India's new fault lines</a> BBC: A film on the exodus of Kashmiri Hindus in the 1990s has divided opinions in a polarised country. 
- <p class="updated_time"> 12:44 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 12:18 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086599199/shot-9-times-at-new-zealand-mosque-survivor-walks-for-peace">Shot 9 times at New Zealand mosque, survivor walks for peace</a> NPR: Three years after the deadly shootings, a victim of the shootings travels more than 200 miles on foot and by bike to retrace the gunman's journey. 
+ <p class="updated_time"> 11:57 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
  <p class="updated_time"> 11:47 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60746437?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Fears Russian aggression could spill into Poland</a> BBC: The influx of refugees and Russian security threats leaves Poland feeling vulnerable. 
- <p class="updated_time"> 11:44 PM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 09:13 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60745967?at_medium=RSS&at_campaign=KARANGA">Australia climate change: Court overturns teenagers' case against minister</a> BBC: A previous decision - hailed as a world first - found the government had a duty of care to children. 
  <p class="updated_time"> 08:57 PM CT, Mar. 14 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086498824/pakistan-is-accusing-the-taliban-of-letting-militants-conduct-cross-border-attac">Pakistan is accusing the Taliban of letting militants conduct cross-border attacks</a> NPR: Pakistan hoped the Taliban's seizure of Afghanistan would secure its western border. Now, it is accusing the Taliban of allowing militants to conduct cross-border attacks. 
  <p class="updated_time"> 03:27 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086498810/filipina-domestic-workers-are-being-fired-in-honk-kong-for-catching-covid">Filipina domestic workers are being fired in Hong Kong for catching COVID</a> NPR: As an omicron wave sweeps through Hong Kong, some of the nannies and housekeepers from the Philippines who work there have been thrown out by their employers after testing positive for the virus. 
- <p class="updated_time"> 03:27 PM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086498803/jewish-and-non-jewish-ukrainian-refugees-arrive-to-different-treatment-in-israel">Jewish and non-Jewish Ukrainian refugees arrive to different treatment in Israel</a> NPR: Israel's diplomatic and security ties with Russia are facing pressure amid calls to help Ukraine more. It's taking in refugees but there's a controversy over how many non-Jewish Ukrainians to accept. 
  <p class="updated_time"> 03:20 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/julian-assange-wikileaks-extradition.html">U.K. Supreme Court Says Assange Cannot Appeal His Extradition to U.S.</a> NYT: In a blow for the embattled WikiLeaks founder, the court said it had refused permission to appeal “because the application does not raise an arguable point of law.” 
  <p class="updated_time"> 02:56 PM CT, Mar. 14 </p> 
@@ -196,8 +196,14 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:00 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086114214/missouri-idaho-abortion-gender-affirming-treatments">Can states limit abortion and gender-affirming treatments outside their borders?</a> NPR: Building on SB 8 in Texas, some Republican lawmakers are trying a new strategy: pushing bills that would attempt to limit what residents can and can't do even beyond state lines. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 15 </p> 
+ <a href="https://www.politico.com/news/2022/03/15/bidens-effort-to-contain-wildfires-threatened-by-staffing-woes-00016419">Biden’s effort to contain wildfires threatened by staffing woes</a> Politico: The Forest Service has long struggled with staffing shortages, but the challenges have intensified amid a hyper-competitive labor market and cost-of-living concerns. 
  <p class="updated_time"> 03:31 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/schumer-steers-senate-toward-center-00017168">Schumer's Senate shocker: Bills are passing (seriously)</a> Politico: The 50-50 chamber's notched bipartisan accomplishments on many different fronts. But as one Republican put it, "I don’t think the age of Aquarius has broken out." 
+ <p class="updated_time"> 03:31 AM CT, Mar. 15 </p> 
+ <a href="https://www.politico.com/news/2022/03/15/2024-republicans-trump-shadow-00017212">‘Clock is ticking’: 2024 Republicans try to leap out of Trump’s shadow</a> Politico: Mike Pence, Ron DeSantis and Tom Cotton have all poked at Trump's record recently as they establish their own national brands. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 15 </p> 
+ <a href="https://www.politico.com/news/2022/03/15/democrats-divided-crypto-future-00015804">Democrats divided over crypto’s future</a> Politico: The lack of consensus among Democrats means it's unlikely Congress will act anytime soon to pass major legislation on the direction of regulation of the new market. 
  <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
  <p class="updated_time"> 11:19 PM CT, Mar. 14 </p> 
@@ -234,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086498859/chinese-and-u-s-officials-meet-in-rome-to-talk-about-war-in-ukraine">Chinese and U.S. officials meet in Rome to talk about war in Ukraine</a> NPR: Top Chinese and U.S. officials met in Rome to discuss the Ukraine crisis amid reports that Russia has asked Beijing for military and economic assistance. 
  <p class="updated_time"> 03:44 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/film-crew-january-5-meeting-proud-boys-oath-keepers-00017107">DOJ: Film crew was present at Jan. 5 meeting between leaders of Proud Boys, Oath Keepers</a> Politico: The details provide new evidence of the encounter between the two groups, whose leaders played a key role in the breach of the Capitol the following day. 
- <p class="updated_time"> 03:33 PM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/russian-oligarch-charged-illegal-political-donations-00017090">U.S. charges Russian oligarch with making illegal political donations</a> Politico: Andrey Muraviev is also accused of conspiring to make illegal straw-donor campaign contributions, joining Lev Parnas, Andrey Kukushkin and Igor Fruman, who had been previously charged. 
  <p class="updated_time"> 02:43 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/business/economy/powell-fed-inflation-volcker.html">Could Inflation Prompt Powell to Act Like Volcker?</a> NYT: The Federal Reserve is facing the fastest inflation most Americans have ever seen. Its chair says policymakers will do what it takes to tame prices. 
  <p class="updated_time"> 01:59 PM CT, Mar. 14 </p> 
@@ -248,12 +252,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/climate/usps-trucks-electric-vehicles.html">USPS Truck Contract Prompts Cries for Investigation</a> NYT: A plan to purchase up to 165,000 gasoline-powered mail trucks instead of electric models has angered Democrats and the Biden administration. 
  <p class="updated_time"> 12:50 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/police-chiefs-back-ketanji-brown-jackson-for-supreme-court-00017025">Police chiefs back Ketanji Brown Jackson for Supreme Court</a> Politico: The International Association of Chiefs of Police endorsed Biden's nominee as some Republicans attack her as weak on crime. 
- <p class="updated_time"> 12:17 PM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin, Collins opposition likely dooms Biden's Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
- <p class="updated_time"> 11:20 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/feds-admit-breaking-law-with-delay-in-case-against-alleged-jan-6-rioter-00017003">Feds admit breaking law with delay in case against alleged Jan. 6 rioter</a> Politico: After highly unusual concession from prosecutors, defense tries quick guilty plea 
  <p class="updated_time"> 10:47 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/trump-campaign-fec-violation.html">Democratic Group Says Trump Is Breaking Campaign Law by Not Declaring for 2024</a> NYT: The complaint to the Federal Election Commission accuses Donald Trump of improperly using his existing political committees to advance a presidential run. 
  <p class="updated_time"> 10:35 AM CT, Mar. 14 </p> 
@@ -280,12 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1085707282/student-loan-payments-extension">Why your student loan payments may be delayed (again)</a> NPR: Payments on federal student loans have been paused for two years, and the Biden administration appears to be considering extending the pause beyond May. 
  <p class="updated_time"> 03:31 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/ketanji-brown-jackson-supreme-court-confirmation-00016594">Who, us, fight? Senate GOP vows ‘respectful’ Supreme Court hearings</a> Politico: Unlike in confirmation battles past, Republicans don't quite have a theme for their examination of Judge Ketanji Brown Jackson’s record. Except being nicer than Democrats. 
- <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/biden-support-ukraine-russia-trump-00016882">Trump’s shadow lurks over Biden’s support for Ukraine</a> Politico: As the administration works out how to stop Putin’s invasion, the critics at home are circling. 
- <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/liz-cheney-democrats-wyoming-00016905">Liz Cheney turns to Democrats to save her hide</a> Politico: The math doesn't lie — and neither do Cheney’s actions on the ground in recent months. 
- <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/gop-senate-candidates-thrash-each-other-00016900">GOP Senate candidates thrash each other ahead of fight for majority</a> Politico: The party has a favorable political environment, but also a slate of brutal Senate primaries before the general election. 
  <p class="updated_time"> 09:16 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/business/energy-environment/california-off-grid.html">Frustrated With Utilities, Some Californians Are Leaving the Grid</a> NYT: Citing more blackouts, wildfires and higher electricity rates, a growing number of homeowners are choosing to build homes that run entirely on solar panels and batteries. 
  <p class="updated_time"> 08:29 PM CT, Mar. 13 </p> 
