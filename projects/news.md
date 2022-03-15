@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 PM CT, Mar. 15 </p> 
+ <a href="https://www.npr.org/2022/03/15/1086641007/without-sending-troops-the-u-s-wages-hybrid-warfare-against-russia">Without sending troops, the U.S. wages 'hybrid warfare' against Russia </a> NPR: The U.S. and Russia have talked for years about 'hybrid war' – waging a conflict on multiple fronts beyond the battlefield. In unprecedented ways, the U.S. is now employing this against Russia. 
  <p class="updated_time"> 04:31 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Say They’re in Kyiv in Show of Support</a> NYT: The prime ministers of the Czech Republic, Poland and Slovenia say they visited Ukraine’s besieged capital to show their “unequivocal support” for Ukraine. President Biden will meet with NATO officials in Europe next week, aides said. 
  <p class="updated_time"> 04:25 PM CT, Mar. 15 </p> 
@@ -21,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/15/1086671754/russia-ukraine-war-what-happened-today-march-15">Russia-Ukraine war: What happened today (March 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/mariupol-death-toll-ukraine.html">Officials in Mariupol Struggle to Account for the Dead</a> NYT: The coastal city, a battleground for weeks, is under an increasingly relentless Russian assault that is taking an unspeakable toll. 
- <p class="updated_time"> 03:38 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 03:47 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 03:31 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
@@ -49,15 +51,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/business/economy/inflation-rates-global-economy.html">As Fed Prepares to Raise Rates, Global Economy Sinks Deeper Into Turmoil </a> NYT: Federal Reserve officials are set to raise interest rates to control inflation, but the return to normal they had hoped to see remains painfully elusive. 
  <p class="updated_time"> 02:58 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/marina-ovsyannikova-ukraine-war-protester.html"> Russian War Protester Who Burst Onto State TV Is Fined</a> NYT: In a video following her sentence, the state TV worker said she had been interrogated for 14 hours and “spent two days without sleep.” She still faces a lengthy prison sentence. 
+ <p class="updated_time"> 02:47 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032">Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</a> WSJ: Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint 
  <p class="updated_time"> 02:41 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: Three European PMs and the head of Poland's ruling party make a hazardous journey to Kyiv for talks. 
  <p class="updated_time"> 02:40 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-canada-parliament-ukraine.html">Zelensky’s Appeal to Canada: Imagine if Toronto Were Kyiv.</a> NYT: The Ukrainian president’s emotional speech to Canadian lawmakers underscored how he has increasingly cast himself as a spokesman for liberal democracy. 
- <p class="updated_time"> 02:38 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032">Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</a> WSJ: Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint 
  <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
- <p class="updated_time"> 01:38 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 01:47 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-prosecutors-demand-extra-13-year-prison-sentence-for-opposition-leader-alexei-navalny-11647361976">Russian Prosecutors Demand Extra 13-Year Prison Sentence for Alexei Navalny</a> WSJ: Russian Prosecutors Demand Extra 13-Year Prison Sentence for Alexei Navalny 
  <p class="updated_time"> 01:28 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60758621?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: TV protest 'was my own decision'</a> BBC: The Russian state TV employee who staged an anti-war protest during a live bulletin speaks to reporters outside court. 
@@ -75,12 +77,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60754136?at_medium=RSS&at_campaign=KARANGA">Russia sanctions Joe Biden, Hillary Clinton and others</a> BBC: The measures block their entry into Russia but will not impede necessary high-level contacts. 
  <p class="updated_time"> 12:48 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086681395/uk-russia-sanctions-trade-oligarchs">New U.K. sanctions target Russian vodka, luxury vehicles, fashion and artwork</a> NPR: The U.K. announced new economic sanctions against Russia and sanctioned more oligarchs and politicians. Government officials say they've designated more than 1,000 entities since the invasion began. 
+ <p class="updated_time"> 12:47 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 12:45 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
  <p class="updated_time"> 12:44 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60749064?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Protester exposes cracks in Kremlin's war message</a> BBC: Marina Ovsyannikova's moment of protest on TV was extraordinary - but she now faces prosecution. 
- <p class="updated_time"> 12:38 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 12:27 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757133?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hostages as Russian forces occupy hospital, official says</a> BBC: Doctors and patients are prevented from leaving Mariupol's main hospital, the deputy mayor says. 
  <p class="updated_time"> 12:20 PM CT, Mar. 15 </p> 
@@ -95,10 +97,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60755198?at_medium=RSS&at_campaign=KARANGA">Ukraine's wartime rail chief has to be faster than the Russians tracking him</a> BBC: Ukraine's rail chief says his staff risk their lives to get others to safety amid Russia attacks. 
  <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/music/ukraine-national-anthem.html">Ukraine’s National Anthem Reverberates Around the World</a> NYT: “Ukraine’s glory hasn’t perished,” begins the anthem, which is being played by orchestras worldwide as a sign of solidarity with Ukraine. 
+ <p class="updated_time"> 11:47 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541">Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales</a> WSJ: Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales 
  <p class="updated_time"> 11:40 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60755328?at_medium=RSS&at_campaign=KARANGA">Russians to give American astronaut ride to Earth in spite of tensions</a> BBC: It was feared Mark Vande Hei might be left behind due to tensions over Russia's Ukrainian invasion. 
- <p class="updated_time"> 11:38 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541">Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales</a> WSJ: Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales 
  <p class="updated_time"> 11:02 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-mykolaiv-russia-war.html">Life Inside Mykolaiv, a Besieged Ukrainian City</a> NYT: The port city of Mykolaiv is being shelled by Russian forces every day. Bodies are piled at the morgue. But residents refuse to succumb. 
  <p class="updated_time"> 10:45 AM CT, Mar. 15 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60736845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Infection and hunger as hundreds hide in Mariupol cellar</a> BBC: With no medical help, some are falling ill while sheltering from attacks in besieged Mariupol. 
  <p class="updated_time"> 10:29 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/15/1086444607/ukraine-cultural-heritage-russia-war">Ukraine scrambles to protect artifacts and monuments from Russian attack</a> NPR: On top of the humanitarian crisis, Ukrainians worry about Russian destruction of cultural heritage sites. In Lviv, they're wrapping statues in fireproof material to protect them from Russian bombs. 
- <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086427993/marie-yovanovitch-ukraine-ambassador-lessons-from-the-edge">Former Ambassador Marie Yovanovitch warns Putin will move west if he wins in Ukraine</a> NPR: Yovanovich served as the U.S. ambassador to Ukraine but was relieved of her post following a smear campaign orchestrated by Trump lawyer Rudy Giuliani. Her new memoir is Lessons From the Edge. 
  <p class="updated_time"> 09:53 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008249410/foreign-fighters-ukraine-war.html">These Foreign Fighters Are Joining the Battle for Ukraine</a> NYT: Thousands of foreign volunteers — including Americans — are arriving in Ukraine to help defend the country. But an attack on their training camp on Sunday has left some wondering if they’ll ever see the front lines. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
@@ -203,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/business/foxconn-apple-china-covid-lockdown.html">IPhone Manufacturer Foxconn Suspends Production Because of Covid Lockdown</a> NYT: The Taiwanese electronics firm said it “adjusted the production line” to other plants in China to minimize any impact on operations. 
  <p class="updated_time"> 05:40 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-covid-omicron-lockdowns.html">Wave of Omicron Infections Prompts Lockdowns in China</a> NYT: After two years of largely containing coronavirus outbreaks, China’s “Covid zero” policies are being tested by the highly transmissible variant. 
- <p class="updated_time"> 02:32 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/europe/russian-airstrike-poland-ukraine-nato.html">Russian Airstrike Near Poland’s Border Fuels NATO’s Fear of Expanded War</a> NYT: Russian missiles hit a military base being used to train foreign volunteers who want to help Ukraine repel the invasion, killing a reported 35 people just 11 miles from the Polish border. 
 
 
 </details>
