@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:10 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 10:29 AM CT, Mar. 15 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/03/15/1086444607/ukraine-cultural-heritage-russia-war">Ukraine scrambles to protect artifacts and monuments from Russian attack</a> NPR: On top of the humanitarian crisis, Ukrainians worry about Russian destruction of cultural heritage sites. In Lviv, they're wrapping statues in fireproof material to protect them from Russian bombs. 
+ <p class="updated_time"> 10:28 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Head to Kyiv as Attacks Continue</a> NYT: The prime ministers of the Czech Republic, Poland and Slovenia planned to express the European Union’s “unequivocal support” for Ukraine. Blasts shook the Ukrainian capital before dawn, killing at least four people, the mayor said. 
+ <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
+ <a href="https://www.npr.org/2022/03/15/1086427993/marie-yovanovitch-ukraine-ambassador-lessons-from-the-edge">Former Ambassador Marie Yovanovitch warns Putin will move west if he wins in Ukraine</a> NPR: Yovanovich served as the U.S. ambassador to Ukraine, but was relieved of her post following a smear campaign orchestrated by Trump lawyer Rudy Giuliani. Her new memoir is Lessons from the Edge. 
+ <p class="updated_time"> 10:11 AM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/business/media/russia-ukraine-journalism-censorship.html">Russian Censorship Law Forces Reporters to Weigh Safety</a> NYT: Western news outlets are engaging in a tense debate over balancing an urgent need to bear witness with journalists’ ability to report freely under strict new laws there. 
  <p class="updated_time"> 10:10 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/russia-uk-sanctions.html">U.K. Targets More Oligarchs and Putin Allies With Sanctions</a> NYT: More than 370 people are being penalized, including Russia’s prime minister, a former president and the Kremlin’s press secretary. 
  <p class="updated_time"> 09:55 AM CT, Mar. 15 </p> 
@@ -19,15 +25,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008249410/foreign-fighters-ukraine-war.html">These Foreign Fighters Are Joining the Battle for Ukraine</a> NYT: Thousands of foreign volunteers — including Americans — are arriving in Ukraine to help defend the country. But an attack on their training camp on Sunday has left some wondering if they’ll ever see the front lines. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60748418?at_medium=RSS&at_campaign=KARANGA">Ukrainian girl in viral video singing Let It Go safe in Poland</a> BBC: Seven-year-old Amelia was filmed singing a song from Disney's Frozen whilst sheltering in a basement in Ukraine 
+ <p class="updated_time"> 09:34 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital 
  <p class="updated_time"> 09:15 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60749064?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Protester exposes cracks in Kremlin's war message</a> BBC: Marina Ovsyannikova's moment of protest on TV was extraordinary - but she now faces prosecution. 
- <p class="updated_time"> 09:15 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital 
  <p class="updated_time"> 09:06 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086626383/russian-tv-protester">A Russian editor protested the war on live TV and was immediately arrested</a> NPR: The woman burst onto the set of the evening news and told viewers they were being lied to about the war in Ukraine. 
  <p class="updated_time"> 09:00 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1085457169/pritzker-architecture-prize-2022-diebedo-francis-kere">For the first time in its history, architecture's top award goes to a Black architect</a> NPR: The 2022 Pritzker Architecture Prize honors Diébédo Francis Kéré, who comes from a village with no school in Burkina Faso. He has designed primary schools for "many children to be happy and learn." 
- <p class="updated_time"> 08:15 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 08:34 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russias-war-rages-putting-ukraines-cultural-sites-at-risk-11647342931">Russia’s War Rages, Putting Ukraine’s Cultural Sites at Risk</a> WSJ: Russia’s War Rages, Putting Ukraine’s Cultural Sites at Risk 
  <p class="updated_time"> 08:09 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
@@ -39,34 +45,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/india-russia-oil-imports.html">India Says It’s in Talks With Russia About Increasing Oil Imports</a> NYT: The move comes as New Delhi is striving to preserve its relationship with Moscow, its biggest supplier of weapons, at a time when India faces an aggressive China. 
  <p class="updated_time"> 07:36 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60752390?at_medium=RSS&at_campaign=KARANGA">Suspect arrested in string of shootings targeting homeless</a> BBC: Five people were shot in nine days in New York and Washington - all with the same "modus operandi". 
+ <p class="updated_time"> 07:34 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 07:30 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/asia/india-hijab-ban-schools.html">Indian Court Upholds Ban on Hijabs in Schools</a> NYT: One school’s initial ban set off unrest and violence that spread to other schools in the southern state of Karnataka. 
  <p class="updated_time"> 07:28 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/china-blogger-odessa-ukraine-war.html">Chinese Blogger Challenges Beijing’s Version of the War in Ukraine</a> NYT: Wang Jixian has become one of the boldest voices confronting the Chinese state-controlled media’s narrative, drawing hundreds of thousands of viewers. 
  <p class="updated_time"> 07:24 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60752590?at_medium=RSS&at_campaign=KARANGA">Spain skies turn orange after Saharan dust cloud sweeps over country</a> BBC: A large area was hit by the dust, which swept across the Mediterranean Sea. 
- <p class="updated_time"> 07:15 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 07:06 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60748234?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky urges Russian troops to surrender</a> BBC: The Ukrainian president says Russians who give themselves up will be treated "as people, decently". 
  <p class="updated_time"> 06:51 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60736845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Infection and hunger as hundreds hide in Mariupol cellar</a> BBC: With no medical help, some are falling ill while sheltering from attacks in besieged Mariupol. 
+ <p class="updated_time"> 06:34 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541">Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales</a> WSJ: Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales 
  <p class="updated_time"> 06:28 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60703301?at_medium=RSS&at_campaign=KARANGA">China: Businesses shut as officials widen Covid lockdowns</a> BBC: Toyota, Volkswagen and Apple supplier Foxconn are among firms halting their operations. 
  <p class="updated_time"> 06:27 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine maps: Tracking the Russian invasion</a> BBC: Russian troops have expanded their offensive as they continue attempts to cut off the capital Kyiv. 
- <p class="updated_time"> 06:15 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541">Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales</a> WSJ: Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales 
+ <p class="updated_time"> 06:25 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-covid-19-cases-more-than-double-as-outbreak-spreads-11647336996">China's New Covid-19 Cases More Than Double</a> WSJ: China is battling a worsening outbreak in northeastern Jilin that has seen authorities ban travel to or from the province and restrict the movements of millions of residents. 
  <p class="updated_time"> 06:14 AM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086605635/a-dire-humanitarian-crisis-is-unfolding-as-ukrainians-flee-the-russian-invasion">A dire humanitarian crisis is unfolding as Ukrainians flee the Russian invasion</a> NPR: NPR's A Martinez talks to Sasha Galkin, director of Right to Protection, a Ukrainian refugee aid organization, about the more than 2.8 million Ukrainians who have fled their country. 
+ <a href="https://www.npr.org/2022/03/15/1086605635/a-dire-humanitarian-crisis-is-unfolding-as-ukrainians-flee-the-russian-invasion">How to help refugees when you've become one yourself</a> NPR: The Ukrainian refugee aid organization Right to Protection is continuing to help displaced people as much as possible, even as its own staff members are forced to relocate to safer areas. 
  <p class="updated_time"> 06:02 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60300009?at_medium=RSS&at_campaign=KARANGA">Hijab ban: Karnataka high court upholds government order on headscarves</a> BBC: The high court's order comes in the wake of a row over the Muslim headscarf in India's Karnataka state. 
  <p class="updated_time"> 05:51 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60743342?at_medium=RSS&at_campaign=KARANGA">Ukraine: Nick Robinson on how Germany is reversing decades of closer ties with Russia</a> BBC: Children of the 1989 generation won't enjoy the same freedoms as their parents, writes Nick Robinson in Berlin. 
  <p class="updated_time"> 05:17 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/asia/turkmenistan-president-son-election.html">Turkmenistan Leader’s Son Wins Presidential Election</a> NYT: The oil-rich country’s dealings are largely opaque, but its central election commission said Serdar Berdymukhammedov had captured nearly 73 percent of the vote. 
- <p class="updated_time"> 05:15 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-covid-19-cases-more-than-double-as-outbreak-spreads-11647336996">China’s New Covid-19 Cases More Than Double</a> WSJ: China’s New Covid-19 Cases More Than Double 
  <p class="updated_time"> 04:45 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086606317/shares-in-china-fall-amid-strongest-covid-19-lockdown-yet">Shares in China fall amid strongest COVID-19 lockdown yet </a> NPR: A second consecutive day of losses comes while China faces a surging number of COVID-19 cases across the country. 
  <p class="updated_time"> 04:40 AM CT, Mar. 15 </p> 
@@ -129,12 +135,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086427498/russia-ukraine-war-what-happened-today-march-14">Russia-Ukraine war: What happened today (March 14)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086498859/chinese-and-u-s-officials-meet-in-rome-to-talk-about-war-in-ukraine">Chinese and U.S. officials meet in Rome to talk about war in Ukraine</a> NPR: Top Chinese and U.S. officials met in Rome to discuss the Ukraine crisis amid reports that Russia has asked Beijing for military and economic assistance. 
- <p class="updated_time"> 03:45 PM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086498845/5-years-since-mosul-iraq-was-freed-from-isis-its-mosque-is-under-reconstruction">5 years since Mosul, Iraq, was freed from ISIS, its mosque is under reconstruction</a> NPR: The iconic 12th Century mosque in the Iraqi city of Mosul is being rebuilt after ISIS nearly destroyed it five years ago. It's now well under reconstruction — a symbol of the city's comeback. 
  <p class="updated_time"> 03:29 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-exiles-putin-ukraine-war.html">‘Things Will Only Get Worse.’ Putin’s War Sends Russians Into Exile.</a> NYT: Thousands of Russians saw their comfortable, middle-class lives fade overnight with the invasion ordered by President Vladimir V. Putin. 
- <p class="updated_time"> 03:27 PM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086498838/canadian-politicians-dont-care-to-fix-the-prime-ministers-crumbling-official-hom">Canadian politicians don't care to fix the prime minister's crumbling official home</a> NPR: The official residence of Canada's prime minister is obsolete and has been vacant for years. Parliament has no interest in paying to make it habitable. 
  <p class="updated_time"> 03:20 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/julian-assange-wikileaks-extradition.html">U.K. Supreme Court Says Assange Cannot Appeal His Extradition to U.S.</a> NYT: In a blow for the embattled WikiLeaks founder, the court said it had refused permission to appeal “because the application does not raise an arguable point of law.” 
  <p class="updated_time"> 02:56 PM CT, Mar. 14 </p> 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/us/politics/biden-trump-immigration.html">Biden Administration Fights in Court to Uphold Some Trump-Era Immigration Policies</a> NYT: Immigration activists and Democrats say there is a disconnect between the president’s words at the lectern and the government’s litigation in the courtroom. 
  <p class="updated_time"> 03:47 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/brent-renaud-career-work.html">Filmmaker Brent Renaud Spent His Career Capturing the Human Toll of War</a> NYT: Mr. Renaud’s final assignment was documenting refugees fleeing across bridges in Irpin, Ukraine. 
- <p class="updated_time"> 01:30 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/asia/afghan-air-force-taliban.html">Afghan Aviators Hide as Taliban Urge Them to Return to Duty</a> NYT: Many former Afghan Air Force members fear they could be killed by the Taliban if they came out of hiding, but others have joined the nascent Taliban air force. 
 
 
 </details>
@@ -192,6 +192,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:29 AM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/business/economy/global-economy-sinks-deeper-into-turmoil-as-fed-prepares-to-raise-rates.html">Global Economy Sinks Deeper into Turmoil as Fed Prepares to Raise Rates</a> NYT: Federal Reserve officials are set to raise interest rates to control inflation, but the return to normal they had hoped to see remains painfully elusive. 
+ <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
+ <a href="https://www.npr.org/2022/03/15/1086427993/marie-yovanovitch-ukraine-ambassador-lessons-from-the-edge">Former Ambassador Marie Yovanovitch warns Putin will move west if he wins in Ukraine</a> NPR: Yovanovich served as the U.S. ambassador to Ukraine, but was relieved of her post following a smear campaign orchestrated by Trump lawyer Rudy Giuliani. Her new memoir is Lessons from the Edge. 
+ <p class="updated_time"> 10:01 AM CT, Mar. 15 </p> 
+ <a href="https://www.politico.com/news/2022/03/15/instagram-tiktok-addiction-kids-california-proposal-00017196">Instagram, TikTok could get sued for addicting kids under California proposal</a> Politico: The proposal from Assemblymembers Jordan Cunningham and Buffy Wicks is the most ambitious state-level attempt yet to hold social media companies accountable for the mental health of their youngest users. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/gitmo-terrorism-trial.html">Sept. 11 Prosecutors Are in Plea Talks That Could Avert a Death-Penalty Trial</a> NYT: Pentagon prosecutors have struggled for more than a decade to hold the trial of Khalid Shaikh Mohammed and his accused accomplices in the attacks. 
  <p class="updated_time"> 09:44 AM CT, Mar. 15 </p> 
@@ -226,8 +232,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/14/stacey-abrams-campaign-atlanta-rally-00017191">Stacey Abrams kicks off next phase of campaign with Atlanta rally</a> Politico: The Democratic candidate for Georgia governor is focused on boosting education funding, passing new voting rights protections and expanding Medicaid. 
  <p class="updated_time"> 06:15 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/enrique-tarrio-jan-6-document.html">Document in Jan. 6 Case Shows Plan to Storm Government Buildings</a> NYT: New details from evidence cited in the indictment of Enrique Tarrio, the former head of the far-right Proud Boys, reveal a plan with similarities to what unfolded at the Capitol. 
- <p class="updated_time"> 06:06 PM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/steve-daines-national-republican-senatorial-committee-00017174">Daines sews up support to lead Senate GOP campaign arm in 2024</a> Politico: The assignment would put him in charge of unseating his own state's senior senator, Jon Tester, should the Democrat run for reelection. 
  <p class="updated_time"> 05:40 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086535100/wife-of-justice-thomas-rebuts-claims-of-conflict-of-interest">Wife of Justice Thomas rebuts claims of conflict of interest</a> NPR: In an interview published Monday, Ginni Thomas said that while she did attend the Jan. 6 rally to protest President Biden's election, she left before Donald Trump took the stage. 
  <p class="updated_time"> 05:05 PM CT, Mar. 14 </p> 
@@ -308,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/13/bidens-presidency-hectic-ease-00016827">Biden’s presidency has never been so hectic. Here’s why he’s at ease.</a> Politico: As he pushes a Supreme Court nominee and manages a foreign policy crisis, the president's service on the Foreign Relations and Judiciary Committees is coming in handy. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/democrats-empty-weed-promises-00016573">Budget deal is latest sign of Democrats’ empty weed promises</a> Politico: Fourteen months after taking control of the federal government, they’ve done nothing to loosen federal marijuana restrictions. 
- <p class="updated_time"> 04:00 AM CT, Mar. 13 </p> 
- <a href="https://www.npr.org/2022/03/13/1086061029/gasoline-prices-political-effects-arab-oil-embargo-iran-shock">Surging gasoline prices bring back memories of past energy wars</a> NPR: American gas stations displaying high prices this summer and fall will matter more than all the campaign billboards put together in affecting the November midterm elections. 
  <p class="updated_time"> 01:00 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/suicide-hotline-mental-health-988.html">As a Crisis Hotline Grows, So Do Fears It Won’t Be Ready</a> NYT: Envisioned as the 911 for mental health, the National Suicide Prevention Lifeline will soon be 988, with more services for more callers. But it’s already straining to meet demand. 
  <p class="updated_time"> 04:58 PM CT, Mar. 12 </p> 
