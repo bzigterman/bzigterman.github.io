@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:36 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 08:39 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Head to Kyiv as Attacks Continue</a> NYT: Leaders of the Czech Republic, Poland and Slovenia planned to express the European Union’s “unequivocal support” for Ukraine. Blasts shook the Ukrainian capital before dawn, killing at least four people, the mayor said. 
+ <p class="updated_time"> 08:30 AM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60749064?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Protester exposes cracks in Kremlin's war message</a> BBC: Marina Ovsyannikova's moment of protest on TV was extraordinary - but she now faces prosecution. 
  <p class="updated_time"> 08:09 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
  <p class="updated_time"> 08:03 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60749223?at_medium=RSS&at_campaign=KARANGA">Three killed in Israel, West Bank violence</a> BBC: Two Palestinians in the West Bank and an Arab man in Israel die in clashes with Israeli forces. 
  <p class="updated_time"> 08:00 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60749279?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: Search for journalist who protested war on Russian TV</a> BBC: Marina Ovsyannikova's lawyers say they cannot find her, after she held an anti-war sign on state TV. 
- <p class="updated_time"> 07:41 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 07:50 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital 
  <p class="updated_time"> 07:40 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/russian-protester-tv.html">Anti-War Protester Storms a Live Broadcast on Russia’s Most-Watched News Show</a> NYT: The intervention by a state TV employee underscored how dissent is seeping into the public sphere in Russia, despite the Kremlin’s crackdown on anyone who challenges its official narrative of the invasion. 
@@ -33,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60748234?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky urges Russian troops to surrender</a> BBC: The Ukrainian president says Russians who give themselves up will be treated "as people, decently". 
  <p class="updated_time"> 06:51 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60736845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Infection and hunger as hundreds hide in Mariupol cellar</a> BBC: With no medical help, some are falling ill while sheltering from attacks in besieged Mariupol. 
- <p class="updated_time"> 06:41 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 06:50 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russias-war-rages-putting-ukraines-cultural-sites-at-risk-11647342931">Russia’s War Rages, Putting Ukraine’s Cultural Sites at Risk</a> WSJ: Russia’s War Rages, Putting Ukraine’s Cultural Sites at Risk 
  <p class="updated_time"> 06:28 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60703301?at_medium=RSS&at_campaign=KARANGA">China: Businesses shut as officials widen Covid lockdowns</a> BBC: Toyota, Volkswagen and Apple supplier Foxconn are among firms halting their operations. 
@@ -43,24 +45,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60300009?at_medium=RSS&at_campaign=KARANGA">Hijab ban: Karnataka high court upholds government order on headscarves</a> BBC: The high court's order comes in the wake of a row over the Muslim headscarf in India's Karnataka state. 
  <p class="updated_time"> 05:51 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60743342?at_medium=RSS&at_campaign=KARANGA">Ukraine: Nick Robinson on how Germany is reversing decades of closer ties with Russia</a> BBC: Children of the 1989 generation won't enjoy the same freedoms as their parents, writes Nick Robinson in Berlin. 
+ <p class="updated_time"> 05:50 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-covid-19-cases-more-than-double-as-outbreak-spreads-11647336996">China’s New Covid-19 Cases More Than Double</a> WSJ: China’s New Covid-19 Cases More Than Double 
  <p class="updated_time"> 05:47 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60748461?at_medium=RSS&at_campaign=KARANGA">Jane Campion sorry to Venus and Serena Williams for 'thoughtless' remark</a> BBC: Film-maker Jane Campion apologises for a "thoughtless" remark about Venus and Serena Williams. 
- <p class="updated_time"> 05:41 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/eu-approves-new-russia-sanctions-as-divisions-emerge-11647345065">EU Approves New Russia Sanctions as Divisions Emerge</a> WSJ: EU Approves New Russia Sanctions as Divisions Emerge 
  <p class="updated_time"> 05:17 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/asia/turkmenistan-president-son-election.html">Turkmenistan Leader’s Son Wins Presidential Election</a> NYT: The oil-rich country’s dealings are largely opaque, but its central election commission said Serdar Berdymukhammedov had captured nearly 73 percent of the vote. 
+ <p class="updated_time"> 04:50 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/indian-court-upholds-hijab-ban-in-classrooms-11647341983">Indian Court Upholds Hijab Ban in Classrooms</a> WSJ: Indian Court Upholds Hijab Ban in Classrooms 
  <p class="updated_time"> 04:45 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086606317/shares-in-china-fall-amid-strongest-covid-19-lockdown-yet">Shares in China fall amid strongest COVID-19 lockdown yet </a> NPR: A second consecutive day of losses comes while China faces a surging number of COVID-19 cases across the country. 
- <p class="updated_time"> 04:41 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-covid-19-cases-more-than-double-as-outbreak-spreads-11647336996">China’s New Covid-19 Cases More Than Double</a> WSJ: China’s New Covid-19 Cases More Than Double 
  <p class="updated_time"> 04:40 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-35806229?at_medium=RSS&at_campaign=KARANGA">As world watches Ukraine, Syria's war grinds on</a> BBC: While the world's attention is focused on Ukraine, Syria is still suffering in its long war. 
- <p class="updated_time"> 03:41 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/indian-court-upholds-hijab-ban-in-classrooms-11647341983">Indian Court Upholds Hijab Ban in Classrooms</a> WSJ: Indian Court Upholds Hijab Ban in Classrooms 
+ <p class="updated_time"> 03:50 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/chinas-factories-consumers-make-high-speed-start-to-year-11647326242">China’s Factories, Consumers Make High-Speed Start to Year, but Roadblocks Lie Ahead</a> WSJ: China’s Factories, Consumers Make High-Speed Start to Year, but Roadblocks Lie Ahead 
+ <p class="updated_time"> 02:51 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/eu-approves-new-russia-sanctions-as-divisions-emerge-11647345065">EU Approves New Russia Sanctions as Divisions Emerge</a> WSJ: The European Union agreed on a fourth set of sanctions and restrictions targeting Russia, including a broad ban on energy-sector investment, a ban on certain imports into the country and new targeted sanctions against Russian business executives and oligarchs, including Roman Abramovich. 
  <p class="updated_time"> 02:23 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086605989/a-surge-in-covid-19-spurs-new-lockdowns-in-chinas-cities">A surge in COVID-19 spurs new lockdowns in China's cities </a> NPR: In the latest wave, the highly transmissible omicron variant has moved more quickly than contact tracing allows. 
- <p class="updated_time"> 02:12 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/chinas-factories-consumers-make-high-speed-start-to-year-11647326242">China's Factories, Consumers Make High-Speed Start to Year, but Roadblocks Lie Ahead</a> WSJ: Industrial output, retail spending and investments blew past expectations, but Covid lockdowns and the war in Ukraine threaten to slow growth. 
  <p class="updated_time"> 02:02 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-testing-variants-emory.html">Inside the High-Stakes Race to Test the Covid Tests</a> NYT: Researchers in Atlanta have helped the federal government evaluate dozens of Covid tests and pioneer a new model for developing novel diagnostics. 
  <p class="updated_time"> 02:00 AM CT, Mar. 15 </p> 
@@ -149,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-zelensky-congress-speech.html">Zelensky to Address Congress in Virtual Speech</a> NYT: The Ukrainian president’s speech will likely increase growing momentum on Capitol Hill to pressure President Biden to send fighter jets to Kyiv. 
  <p class="updated_time"> 08:16 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/pregnant-woman-airstrike-ukraine-mariupol.html">Woman Photographed After Russian Strike On Maternity Hospital Has Died</a> NYT: Her baby also died, the news organization said. The photo captured last week has become one of the defining images of human suffering in the war. 
- <p class="updated_time"> 07:25 AM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60729206?at_medium=RSS&at_campaign=KARANGA">Mass graves in Ukraine: Battered cities are digging makeshift burial sites</a> BBC: Street cleaners are collecting bodies as besieged locals resort to burying civilians in trenches. 
  <p class="updated_time"> 07:09 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/telegram-nyt.html">New York Times Launches Telegram Channel for Russia-Ukraine War</a> NYT: The channel delivers reporting from our continuous live blog, where Times journalists are providing witness accounts, interviews and breaking news from the Russia-Ukraine conflict. 
  <p class="updated_time"> 07:00 AM CT, Mar. 14 </p> 
@@ -203,9 +203,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/bidens-effort-to-contain-wildfires-threatened-by-staffing-woes-00016419">'Pretty brutal': Hiring woes plague Biden effort to contain wildfires</a> Politico: The Forest Service has long struggled with staffing shortages, but the challenges have intensified amid a hyper-competitive labor market and cost-of-living concerns. 
  <p class="updated_time"> 03:31 AM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/schumer-steers-senate-toward-center-00017168">Schumer's Senate shocker: Bills are passing (seriously)</a> Politico: The 50-50 chamber's notched bipartisan accomplishments on many different fronts. But as one Republican put it, "I don’t think the age of Aquarius has broken out." 
+ <a href="https://www.politico.com/news/2022/03/15/2024-republicans-trump-shadow-00017212">Covid, Russia and crime: GOP presidential hopefuls take swipes at Trump’s record</a> Politico: Mike Pence, Ron DeSantis and Tom Cotton have all poked at Trump's record recently as they establish their own national brands. 
  <p class="updated_time"> 03:31 AM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/2024-republicans-trump-shadow-00017212">Covid, Russia and crime: GOP presidential hopefuls poke at Trump’s record</a> Politico: Mike Pence, Ron DeSantis and Tom Cotton have all poked at Trump's record recently as they establish their own national brands. 
+ <a href="https://www.politico.com/news/2022/03/15/schumer-steers-senate-toward-center-00017168">Schumer's Senate shocker: Bills are passing (seriously)</a> Politico: The 50-50 chamber's notched bipartisan accomplishments on many different fronts. But as one Republican put it, "I don’t think the age of Aquarius has broken out." 
  <p class="updated_time"> 03:30 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/democrats-divided-crypto-future-00015804">Elizabeth Warren’s anti-crypto crusade splits the left</a> Politico: The lack of consensus among Democrats means it's unlikely Congress will act anytime soon to pass major legislation on the direction of regulation of the new market. 
  <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
