@@ -9,8 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:07 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Head to Kyiv as Attacks Continue</a> NYT: The prime ministers of the Czech Republic, Poland and Slovenia planned to express the European Union’s “unequivocal support” for Ukraine. Blasts shook the Ukrainian capital before dawn, killing at least four people, the mayor said. 
+ <p class="updated_time"> 01:26 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders, in Show of Support, Head to Besieged Kyiv</a> NYT: The prime ministers of the Czech Republic, Poland and Slovenia planned to express the European Union’s “unequivocal support” for Ukraine. President Biden will meet with NATO officials in Europe next week, aides said. 
+ <p class="updated_time"> 01:23 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/business/media/russia-ukraine-journalism-censorship.html">Russian Censorship Law Forces Reporters to Weigh Safety</a> NYT: Western news outlets are engaging in a tense debate over balancing an urgent need to bear witness with journalists’ ability to report freely under strict new laws there. 
+ <p class="updated_time"> 01:22 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
+ <p class="updated_time"> 01:20 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/climate/endurance-shipwreck-shackleton.html">How Shackleton’s Endurance Was Found</a> NYT: ‘Gents, I want to introduce you to Endurance.’ More than a century after sinking in Antarctic waters, the legendary ship was found with just days to spare. 
+ <p class="updated_time"> 01:15 PM CT, Mar. 15 </p> 
+ <a href="https://www.npr.org/2022/03/15/1086681148/fox-news-team-killed-pierre-zakrzewski">2 members of the Fox News team in Ukraine were killed in an attack</a> NPR: A veteran video journalist for Fox News, Pierre Zakrzewski, was killed outside Kyiv, Fox News said. Another member of the team, Oleksandra Kuvshinova, also died in the attack, a Fox producer said. 
+ <p class="updated_time"> 01:12 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
+ <p class="updated_time"> 01:05 PM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60752391?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky asks Canada's parliament to ‘Please close the sky'</a> BBC: The Ukrainian president on Tuesday addressed Canadian parliamentarians via video link. 
  <p class="updated_time"> 12:51 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/russia-uk-sanctions.html">U.K. Targets More Oligarchs and Putin Allies With Sanctions</a> NYT: More than 370 people are being penalized, including Russia’s prime minister, a former president and the Kremlin’s press secretary. 
  <p class="updated_time"> 12:48 PM CT, Mar. 15 </p> 
@@ -21,20 +33,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60749064?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Protester exposes cracks in Kremlin's war message</a> BBC: Marina Ovsyannikova's moment of protest on TV was extraordinary - but she now faces prosecution. 
  <p class="updated_time"> 12:36 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/mariupol-death-toll-ukraine.html">Officials in Mariupol Struggle to Account for the Dead</a> NYT: The coastal city, a battleground for weeks, is under an increasingly relentless Russian assault that is taking an unspeakable toll. 
+ <p class="updated_time"> 12:34 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital 
  <p class="updated_time"> 12:20 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60756503?at_medium=RSS&at_campaign=KARANGA">Fox News cameraman Pierre Zakrzewski and Ukrainian journalist killed in Kyiv</a> BBC: Pierre Zakrzewski and Oleksandra Kuvshinova were killed when their vehicle was hit outside Kyiv. 
  <p class="updated_time"> 12:12 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
- <p class="updated_time"> 12:09 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Head to Ukraine’s Capital 
  <p class="updated_time"> 12:06 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60749279?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: Russian journalist fined after TV protest</a> BBC: Marina Ovsyannikova appeared in court after carrying out an anti-war protest on live Russian TV. 
  <p class="updated_time"> 12:03 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-canada-parliament-ukraine.html">Zelensky’s Appeal to Canada: Imagine if Toronto Were Kyiv.</a> NYT: The Ukrainian president’s emotional speech to Canadian lawmakers underscored how he has increasingly cast himself as a spokesman for liberal democracy. 
  <p class="updated_time"> 12:00 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/15/1086176563/on-the-frontlines-of-polands-makeshift-response-to-the-ukrainian-refugee-crisis">On the frontlines of Poland's makeshift response to the Ukrainian refugee crisis</a> NPR: Nearly three million people have fled Ukraine since Russia's invasion began — most of them to Poland. NPR visits two border crossings that highlight the differences in reception refugees are seeing. 
- <p class="updated_time"> 11:57 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60752391?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky asks Canada's parliament to ‘Please close the sky'</a> BBC: The Ukrainian president on Tuesday addressed Canadian parliamentarians via video link. 
  <p class="updated_time"> 11:53 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/music/met-opera-ukraine.html">Metropolitan Opera’s Concert Honors Ukraine</a> NYT: A concert to benefit relief efforts featured a young Ukrainian singer, Beethoven’s “Ode to Joy” and the Met’s prima donna of the moment. 
  <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
@@ -43,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/arts/music/ukraine-national-anthem.html">Ukraine’s National Anthem Reverberates Around the World</a> NYT: “Ukraine’s glory hasn’t perished,” begins the anthem, which is being played by orchestras worldwide as a sign of solidarity with Ukraine. 
  <p class="updated_time"> 11:40 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60755328?at_medium=RSS&at_campaign=KARANGA">Russians to give American astronaut ride to Earth in spite of tensions</a> BBC: It was feared Mark Vande Hei might be left behind due to tensions over Russia's Ukrainian invasion. 
- <p class="updated_time"> 11:09 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 11:34 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032">Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</a> WSJ: Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint 
  <p class="updated_time"> 11:02 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-mykolaiv-russia-war.html">Life Inside Mykolaiv, a Besieged Ukrainian City</a> NYT: The port city of Mykolaiv is being shelled by Russian forces every day. Bodies are piled at the morgue. But residents refuse to succumb. 
@@ -53,27 +63,25 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/15/1086646663/why-so-many-russian-billionaires-are-called-oligarchs">Why so many Russian billionaires are called oligarchs</a> NPR: Many of the sanctions the U.S. and EU have imposed on Russia are meant to target some of the country's wealthiest. But what's the difference between a "normal" billionaire and an "oligarch"? 
  <p class="updated_time"> 10:39 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60736845?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Infection and hunger as hundreds hide in Mariupol cellar</a> BBC: With no medical help, some are falling ill while sheltering from attacks in besieged Mariupol. 
+ <p class="updated_time"> 10:34 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-prosecutors-demand-extra-13-year-prison-sentence-for-opposition-leader-alexei-navalny-11647361976">Russian Prosecutors Demand Extra 13-Year Prison Sentence for Alexei Navalny</a> WSJ: Russian Prosecutors Demand Extra 13-Year Prison Sentence for Alexei Navalny 
  <p class="updated_time"> 10:29 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/economy/inflation-rates-global-economy.html">As Fed Prepares to Raise Rates, Global Economy Sinks Deeper Into Turmoil </a> NYT: Federal Reserve officials are set to raise interest rates to control inflation, but the return to normal they had hoped to see remains painfully elusive. 
  <p class="updated_time"> 10:29 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/15/1086444607/ukraine-cultural-heritage-russia-war">Ukraine scrambles to protect artifacts and monuments from Russian attack</a> NPR: On top of the humanitarian crisis, Ukrainians worry about Russian destruction of cultural heritage sites. In Lviv, they're wrapping statues in fireproof material to protect them from Russian bombs. 
  <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086427993/marie-yovanovitch-ukraine-ambassador-lessons-from-the-edge">Former Ambassador Marie Yovanovitch warns Putin will move west if he wins in Ukraine</a> NPR: Yovanovich served as the U.S. ambassador to Ukraine, but was relieved of her post following a smear campaign orchestrated by Trump lawyer Rudy Giuliani. Her new memoir is Lessons from the Edge. 
- <p class="updated_time"> 10:11 AM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/business/media/russia-ukraine-journalism-censorship.html">Russian Censorship Law Forces Reporters to Weigh Safety</a> NYT: Western news outlets are engaging in a tense debate over balancing an urgent need to bear witness with journalists’ ability to report freely under strict new laws there. 
- <p class="updated_time"> 10:09 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-prosecutors-demand-extra-13-year-prison-sentence-for-opposition-leader-alexei-navalny-11647361976">Russian Prosecutors Demand Extra 13-Year Prison Sentence for Alexei Navalny</a> WSJ: Russian Prosecutors Demand Extra 13-Year Prison Sentence for Alexei Navalny 
  <p class="updated_time"> 09:53 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008249410/foreign-fighters-ukraine-war.html">These Foreign Fighters Are Joining the Battle for Ukraine</a> NYT: Thousands of foreign volunteers — including Americans — are arriving in Ukraine to help defend the country. But an attack on their training camp on Sunday has left some wondering if they’ll ever see the front lines. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60748418?at_medium=RSS&at_campaign=KARANGA">Ukrainian girl in viral video singing Let It Go safe in Poland</a> BBC: Seven-year-old Amelia was filmed singing a song from Disney's Frozen whilst sheltering in a basement in Ukraine 
- <p class="updated_time"> 09:09 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 09:34 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 09:06 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086626383/russian-tv-protester">A Russian who protested the war on live TV refused to retract her statement in court </a> NPR: The woman burst onto the set of the evening news and told viewers they were being lied to about the war in Ukraine. She was fined for a video in which she called for Russians to protest the war. 
  <p class="updated_time"> 09:00 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1085457169/pritzker-architecture-prize-2022-diebedo-francis-kere">For the first time in its history, architecture's top award goes to a Black architect</a> NPR: The 2022 Pritzker Architecture Prize honors Diébédo Francis Kéré, who comes from a village with no school in Burkina Faso. He has designed primary schools for "many children to be happy and learn." 
- <p class="updated_time"> 08:09 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 08:34 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541">Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales</a> WSJ: Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales 
  <p class="updated_time"> 08:03 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60749223?at_medium=RSS&at_campaign=KARANGA">Three killed in Israel, West Bank violence</a> BBC: Two Palestinians in the West Bank and an Arab man in Israel die in clashes with Israeli forces. 
@@ -155,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086533519/fox-news-benjamin-hall-injured">Fox News reporter Benjamin Hall is injured while reporting from Ukraine</a> NPR: Hall was wounded while reporting outside Kyiv and is hospitalized, Fox News Media CEO Suzanne Scott said in a statement. 
  <p class="updated_time"> 05:02 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html">Fox News Correspondent Benjamin Hall Is Injured in Ukraine</a> NYT: Mr. Hall is a longtime war correspondent who joined the network in 2015. 
- <p class="updated_time"> 04:30 PM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086525664/white-house-tells-china-of-its-deep-concerns-about-providing-assistance-to-russi">White House tells China of its 'deep concerns' about providing assistance to Russia</a> NPR: U.S. national security adviser Jake Sullivan met with Chinese diplomats in Rome on Monday in what a senior administration adviser described as an "intense" seven-hour session. 
  <p class="updated_time"> 04:22 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60745212?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Demonstrator disrupts Russia's flagship evening news broadcast</a> BBC: The placard she held read: “Stop the war, don’t believe propaganda, they’re lying to you”. 
  <p class="updated_time"> 03:20 PM CT, Mar. 14 </p> 
@@ -173,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/arts/music/paavo-jarvi-putin-ukraine-russia.html">A Conductor on Why He Stayed in Russia After the Invasion Began</a> NYT: The Estonian American conductor Paavo Järvi chose to remain in Moscow temporarily to lead a Russian youth orchestra: “I felt a responsibility.” 
  <p class="updated_time"> 11:04 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/angkor-wat-covid-uncrowded.html">Cambodian Temple, Once Overcrowded, Wants Tourists Back</a> NYT: Cambodia has been open to foreign tourists for months, but in this time of Covid, few have made the trip, making it possible to imagine that you alone have rediscovered the glorious temple complex. 
- <p class="updated_time"> 10:35 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 10:31 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-zelensky-congress-speech.html">Zelensky to Address Congress in Virtual Speech</a> NYT: The Ukrainian president’s speech will likely increase growing momentum on Capitol Hill to pressure President Biden to send fighter jets to Kyiv. 
  <p class="updated_time"> 08:16 AM CT, Mar. 14 </p> 
@@ -193,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-ukraine-us-endgame.html">Finding a Way Out of the War in Ukraine Proves Elusive</a> NYT: Attempts at diplomacy have hit a stone wall as President Vladimir V. Putin of Russia refuses to engage in any serious negotiation, but his endgame is unclear. 
  <p class="updated_time"> 06:24 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/russia-ukraine-military-base-attack.html">Booms, Smoke and Fire Signal Horror of Russian Attack on Base</a> NYT: Residents of a town near Poland’s border awoke to frightful sounds and an awareness they were no longer safe. 
- <p class="updated_time"> 06:06 PM CT, Mar. 13 </p> 
- <a href="https://www.nytimes.com/2022/03/13/world/obama-tests-positive-covid.html">Former President Obama Tests Positive for the Coronavirus </a> NYT: He tweeted that he has a scratchy throat but is otherwise fine. 
  <p class="updated_time"> 05:20 PM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/world/europe/monastery-shelling-ukraine.html">Airstrike Damages Revered Monastery in Ukraine</a> NYT: The 16th-century monastery is one of the three most sacred sites in Ukraine for Orthodox believers. 
  <p class="updated_time"> 05:03 PM CT, Mar. 13 </p> 
@@ -206,10 +208,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
+ <p class="updated_time"> 01:12 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
  <p class="updated_time"> 12:49 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/volodymyr-zelenskyy-urges-no-fly-zone-ukraine-00017361">'Please stop the bombing.' Zelenskyy urges no-fly zone to prevent Ukraine's annihilation</a> Politico: In an 11-minute virtual address to Canada’s Parliament, Zelenskyy spoke of mounting civilian casualties in Ukraine. 
+ <a href="https://www.politico.com/news/2022/03/15/volodymyr-zelenskyy-urges-no-fly-zone-ukraine-00017361">'Please stop the bombing': Zelenskyy urges no-fly zone to prevent Ukraine's annihilation</a> Politico: In an 11-minute virtual address to Canada’s Parliament, Zelenskyy spoke of mounting civilian casualties in Ukraine. 
  <p class="updated_time"> 12:38 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/biden-to-travel-to-brussels-nato-00017372">Biden to travel to Brussels for "extraordinary NATO summit" this month</a> Politico: The president will participate in a NATO Summit and a European Council meeting, White House says. 
+ <a href="https://www.politico.com/news/2022/03/15/biden-to-travel-to-brussels-nato-00017372">Biden to travel to Brussels for 'extraordinary NATO summit' this month</a> Politico: The president will participate in a NATO Summit and a European Council meeting, White House says. 
  <p class="updated_time"> 12:33 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/white-house-withdraws-agricultural-trade-nominee-00017370">White House to withdraw key agricultural trade nominee</a> Politico: The Biden administration plans to pull Elaine Trevino's nomination as chief agricultural negotiator at USTR. 
  <p class="updated_time"> 12:02 PM CT, Mar. 15 </p> 
@@ -219,7 +225,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:45 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/mike-pence-january-6-script-change-00017294">Another Jan. 6 mystery revealed: Pence's second script rewrite</a> Politico: The never-before-told backstory of why the then-vice president made a change not seen since Al Gore  — as a rebuttal to Trump allies' fringe theories. 
  <p class="updated_time"> 11:35 AM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/seizing-russian-oligarchs-real-estate-00017158">‘No shortcuts in the rule of law’: The lengthy process behind seizing Russian real estate</a> Politico: Seizures can be further complicated by the fact that ownership of most if not all of the Russian oligarchs’ properties is shielded by shell companies. 
+ <a href="https://www.politico.com/news/2022/03/15/seizing-russian-oligarchs-real-estate-00017158">Confiscating a Russian oligarch’s luxury condo requires much more than political bluster</a> Politico: Seizures can be further complicated by the fact that ownership of most if not all of the Russian oligarchs’ properties is shielded by shell companies. 
  <p class="updated_time"> 11:09 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/sanctions-belarus-president-russian-officials-00017327">U.S. sanctions Belarus president, more Russian officials</a> Politico: All property and interests in property owned by Belarusian President Alexander Lukashenko or his wife are now blocked in the U.S. 
  <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
@@ -302,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/13/us/politics/russia-china-ukraine.html">Russia Asked China for Military and Economic Aid for Ukraine War, U.S. Officials Say</a> NYT: Jake Sullivan, the U.S. national security adviser, plans to meet with a top Chinese official on Monday in Rome to discuss the war and China’s role. 
  <p class="updated_time"> 09:57 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/coronavirus-vaccine-children-moderna-pfizer.html">Which Coronavirus Vaccine Will Work in the Youngest Children?</a> NYT: Moderna is going head-to-head with Pfizer-BioNTech for the opportunity to vaccinate the youngest children, the only Americans still not eligible for shots. 
- <p class="updated_time"> 09:56 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/12/science/physics-cern-russia.html">Russian Scientists Face Isolation Following Invasion of Ukraine</a> NYT: International collaborations are unraveling as researchers, including many in Russia, speak out against the invasion of Ukraine. 
  <p class="updated_time"> 09:01 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/zelenskyy-to-address-congress-on-wednesday-00016966">Zelenskyy to address Congress on Wednesday</a> Politico: Zelenskyy will update the House and Senate on the brutal Russian invasion of his nation just days after Congress sent roughly $14 billion in lethal and humanitarian aid to Ukraine. 
  <p class="updated_time"> 07:18 AM CT, Mar. 14 </p> 
@@ -338,6 +342,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/13/1086330026/week-in-politics-biden-bans-luxury-exports-to-russia-new-bill-for-pandemic-aid">Week in politics: Biden bans luxury exports to Russia; new bill for pandemic aid</a> NPR: In Congress, there continues to be bipartisan opposition to Russia's actions in Ukraine, but there's trouble for the Biden administration's request for new spending to deal with the pandemic. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/news/2022/03/13/bidens-presidency-hectic-ease-00016827">Biden’s presidency has never been so hectic. Here’s why he’s at ease.</a> Politico: As he pushes a Supreme Court nominee and manages a foreign policy crisis, the president's service on the Foreign Relations and Judiciary Committees is coming in handy. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
+ <a href="https://www.politico.com/news/2022/03/13/democrats-empty-weed-promises-00016573">Budget deal is latest sign of Democrats’ empty weed promises</a> Politico: Fourteen months after taking control of the federal government, they’ve done nothing to loosen federal marijuana restrictions. 
  <p class="updated_time"> 01:00 AM CT, Mar. 13 </p> 
  <a href="https://www.nytimes.com/2022/03/13/us/suicide-hotline-mental-health-988.html">As a Crisis Hotline Grows, So Do Fears It Won’t Be Ready</a> NYT: Envisioned as the 911 for mental health, the National Suicide Prevention Lifeline will soon be 988, with more services for more callers. But it’s already straining to meet demand. 
  <p class="updated_time"> 04:58 PM CT, Mar. 12 </p> 
