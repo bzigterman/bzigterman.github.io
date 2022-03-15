@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:38 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 06:49 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Head to Kyiv as Attacks Continue</a> NYT: The leaders of the Czech Republic, Poland and Slovenia planned to express the European Union’s “unequivocal support” for Ukraine. Blasts shook the Ukrainian capital before dawn, and the mayor ordered a citywide curfew. 
+ <p class="updated_time"> 06:46 AM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60749279?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Lawyers search for journalist who protested on Russian TV</a> BBC: Marina Ovsyannikova's lawyer says he cannot find her, after she held an anti-war sign on state TV. 
  <p class="updated_time"> 06:28 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60703301?at_medium=RSS&at_campaign=KARANGA">China: Businesses shut as officials widen Covid lockdowns</a> BBC: Toyota, Volkswagen and Apple supplier Foxconn are among firms halting their operations. 
  <p class="updated_time"> 06:27 AM CT, Mar. 15 </p> 
@@ -19,27 +21,25 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60300009?at_medium=RSS&at_campaign=KARANGA">Hijab ban: Karnataka high court upholds government order on headscarves</a> BBC: The high court's order comes in the wake of a row over the Muslim headscarf in India's Karnataka state. 
  <p class="updated_time"> 06:01 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60748234?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky urges Russian troops to surrender</a> BBC: The Ukrainian president says Russians who give themselves up will be treated "as people, decently". 
+ <p class="updated_time"> 05:52 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Talks to End Ukraine War Pause as Russia’s Offensive Intensifies</a> WSJ: Talks to End Ukraine War Pause as Russia’s Offensive Intensifies 
  <p class="updated_time"> 05:51 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60743342?at_medium=RSS&at_campaign=KARANGA">Ukraine: Nick Robinson on how Germany is reversing decades of closer ties with Russia</a> BBC: Children of the 1989 generation won't enjoy the same freedoms as their parents, writes Nick Robinson in Berlin. 
  <p class="updated_time"> 05:47 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60748461?at_medium=RSS&at_campaign=KARANGA">Jane Campion sorry to Venus and Serena Williams for 'thoughtless' remark</a> BBC: Film-maker Jane Campion apologises for a "thoughtless" remark about Venus and Serena Williams. 
- <p class="updated_time"> 05:43 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Talks to End Ukraine War Pause as Russia’s Offensive Intensifies</a> WSJ: Talks to End Ukraine War Pause as Russia’s Offensive Intensifies 
- <p class="updated_time"> 05:36 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60749279?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Journalist who protested on Russian TV detained</a> BBC: Marina Ovsyannikova's lawyer says he cannot find her, after she held an anti-war sign on state TV. 
  <p class="updated_time"> 05:17 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/asia/turkmenistan-president-son-election.html">Turkmenistan Leader’s Son Wins Presidential Election</a> NYT: The oil-rich country’s dealings are largely opaque, but its central election commission said Serdar Berdymukhammedov had captured nearly 73 percent of the vote. 
+ <p class="updated_time"> 04:52 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China Tries to Shift Attention as U.S. Presses It on Ukraine</a> WSJ: China Tries to Shift Attention as U.S. Presses It on Ukraine 
  <p class="updated_time"> 04:45 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086606317/shares-in-china-fall-amid-strongest-covid-19-lockdown-yet">Shares in China fall amid strongest COVID-19 lockdown yet </a> NPR: A second consecutive day of losses comes while China faces a surging number of COVID-19 cases across the country. 
- <p class="updated_time"> 04:43 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China Tries to Shift Attention as U.S. Presses It on Ukraine</a> WSJ: China Tries to Shift Attention as U.S. Presses It on Ukraine 
  <p class="updated_time"> 04:40 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-35806229?at_medium=RSS&at_campaign=KARANGA">As world watches Ukraine, Syria's war grinds on</a> BBC: While the world's attention is focused on Ukraine, Syria is still suffering in its long war. 
  <p class="updated_time"> 04:00 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
- <p class="updated_time"> 03:43 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 03:52 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
- <p class="updated_time"> 02:43 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 02:52 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 02:23 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086605989/a-surge-in-covid-19-spurs-new-lockdowns-in-chinas-cities">A surge in COVID-19 spurs new lockdowns in China's cities </a> NPR: In the latest wave, the highly transmissible omicron variant has moved more quickly than contact tracing allows. 
@@ -57,7 +57,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/health/covid-vaccines-africa.html">In Africa, a Mix of Shots Drives an Uncertain Covid Vaccination Push</a> NYT: Supplies are more plentiful now but they are unpredictable and often a jumble of brands. Many places can’t meet the W.H.O.’s recommended dosing schedules. 
  <p class="updated_time"> 01:59 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Head to Ukraine's Capital</a> WSJ: The delegation was set to meet with Ukrainian President Volodymyr Zelenksy amid heightened fighting in the capital’s outskirts and no apparent progress in talks to end the invasion. 
- <p class="updated_time"> 01:43 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 01:52 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 01:36 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60747342?at_medium=RSS&at_campaign=KARANGA">India investigates missile that landed in Pakistan</a> BBC: Ministers said the missile was accidentally fired into Pakistan on 3 March due to a "technical malfunction". 
