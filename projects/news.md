@@ -9,39 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:10 AM CT, Mar. 15 </p> 
+ <p class="updated_time"> 01:28 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/14/world/ukraine-russia-war">Live Updates: U.S. Warns China Not to Help Russia in Ukraine</a> NYT: An aid convoy failed to reach Mariupol, where hundreds of thousands are trapped. In a rare sign of defiance, an employee rushed on Russian state TV and held a sign that said Russians are being lied to. 
+ <p class="updated_time"> 01:19 AM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/world/asia/india-hijab-schools.html">Indian Court Upholds Ban on Hijabs in Schools</a> NYT: One school’s initial ban set off unrest and violence that spread to other schools in the southern state of Karnataka. 
  <p class="updated_time"> 01:09 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086602745/india-court-upholds-ban-on-hijab-in-schools-and-colleges">India court upholds ban on hijab in schools and colleges</a> NPR: Some rights activists have voiced concerns that the ban could increase Islamophobia in a country where violence and hate speech against Muslims have increased in recent years. 
  <p class="updated_time"> 01:03 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
  <p class="updated_time"> 01:00 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60742263?at_medium=RSS&at_campaign=KARANGA">Ukraine war: One shell that destroyed a family</a> BBC: One woman tells how her husband and son were killed when a shell hit a flat in the town of Irpin. 
- <p class="updated_time"> 12:54 AM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/asia/india-hijab-schools.html">Indian Court Upholds Ban on Hijabs in Schools</a> NYT: One school’s initial ban set off unrest and violence that spread to other schools in the southern state of Karnataka. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60742263?at_medium=RSS&at_campaign=KARANGA">Ukraine war: One shell that destroyed a family</a> BBC: A woman recounts the moment her husband and son were killed by a Russian shell in the town of Irpin. 
+ <p class="updated_time"> 12:55 AM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60732939?at_medium=RSS&at_campaign=KARANGA">Kashmir Files: Vivek Agnihotri's film exposes India's new fault lines</a> BBC: A film on the exodus of Kashmiri Hindus in the 1990s has divided opinions in a polarised country. 
+ <p class="updated_time"> 12:39 AM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Talks to End Ukraine War Pause as Russia’s Offensive Intensifies</a> WSJ: Talks to End Ukraine War Pause as Russia’s Offensive Intensifies 
  <p class="updated_time"> 12:28 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60300009?at_medium=RSS&at_campaign=KARANGA">Hijab row: Karnataka high court upholds headscarf ban in schools, colleges</a> BBC: The Karnataka high court's order comes in the wake of a row over the Muslim headscarf in the southern state. 
  <p class="updated_time"> 12:18 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086599199/shot-9-times-at-new-zealand-mosque-survivor-walks-for-peace">Shot 9 times at New Zealand mosque, survivor walks for peace</a> NPR: Three years after the deadly shootings, a victim of the shootings travels more than 200 miles on foot and by bike to retrace the gunman's journey. 
- <p class="updated_time"> 12:12 AM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/talks-to-end-ukraine-war-resume-as-russias-offensive-grinds-on-11647255976">Talks to End Ukraine War Pause as Russia’s Offensive Intensifies</a> WSJ: Talks to End Ukraine War Pause as Russia’s Offensive Intensifies 
  <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
  <p class="updated_time"> 11:49 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60703301?at_medium=RSS&at_campaign=KARANGA">China: Businesses shut as officials widen Covid lockdowns</a> BBC: Toyota, Volkswagen and Apple supplier Foxconn are among firms halting their operations. 
  <p class="updated_time"> 11:47 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60746437?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Fears Russian aggression could spill into Poland</a> BBC: The influx of refugees and Russian security threats leaves Poland feeling vulnerable. 
- <p class="updated_time"> 11:12 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 11:39 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212">China Tries to Shift Attention as U.S. Presses It on Ukraine</a> WSJ: China Tries to Shift Attention as U.S. Presses It on Ukraine 
- <p class="updated_time"> 10:12 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 10:39 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-kill-civilians-loot-for-supplies-in-occupied-ukraine-residents-say-11647267560">Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say</a> WSJ: Russians Kill Civilians, Loot for Supplies in Occupied Ukraine, Residents Say 
+ <p class="updated_time"> 09:39 PM CT, Mar. 14 </p> 
+ <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 09:13 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60745967?at_medium=RSS&at_campaign=KARANGA">Australia climate change: Court overturns teenagers' case against minister</a> BBC: A previous decision - hailed as a world first - found the government had a duty of care to children. 
- <p class="updated_time"> 09:12 PM CT, Mar. 14 </p> 
- <a href="https://www.wsj.com/articles/lockdowns-spread-across-china-as-race-to-contain-covid-19-outbreak-intensifies-11647266905">Lockdowns Spread Across China to Contain Outbreak</a> WSJ: Lockdowns Spread Across China to Contain Outbreak 
  <p class="updated_time"> 08:57 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-russia-diplomacy.html">Diplomacy Quickens to Halt Ukraine War or Stop Its Expansion</a> NYT: Ukraine and Russia held a new round of talks and agreed to resume them on Tuesday, as the United States warned China about helping an increasingly isolated Kremlin and expanding the conflict. 
- <p class="updated_time"> 08:12 PM CT, Mar. 14 </p> 
+ <p class="updated_time"> 08:39 PM CT, Mar. 14 </p> 
  <a href="https://www.wsj.com/articles/why-kim-jong-un-wants-the-world-to-see-new-icbm-tests-as-satellite-technology-11647268293">Why Kim Wants the World to See New ICBM Tests as Satellite Technology</a> WSJ: Why Kim Wants the World to See New ICBM Tests as Satellite Technology 
  <p class="updated_time"> 07:52 PM CT, Mar. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60745493?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv terrain will slow Russian troops, say Ukraine generals</a> BBC: Rivers and marshes help to protect the capital city, but it is still vulnerable to Russian missiles. 
@@ -59,12 +61,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086483703/telegram-ukraine-war-russia">Telegram is the app of choice in the war in Ukraine despite experts' privacy concerns</a> NPR: The messaging app Telegram has been heavily used by both sides in the war in Ukraine. But privacy experts say people using the service should be wary of the app's level of security. 
  <p class="updated_time"> 06:13 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-refugees-poland-belarus.html">Two Refugees, Both on Poland’s Border. But Worlds Apart.</a> NYT: A young man fleeing war in Sudan and a young woman evacuating Ukraine crossed into Poland at the same time. They had very different experiences. 
- <p class="updated_time"> 05:51 PM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60741338?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: What happened on day 19 of Russia's invasion</a> BBC: Drone footage shows destruction of Mariupol, and protesters target an oligarch's London mansion. 
  <p class="updated_time"> 05:26 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/business/papa-johns-russia.html">He’s American, He Oversees Papa John’s in Russia and He’s Staying</a> NYT: Christopher Wynne’s company controls the franchise agreements for the 190 Papa John’s locations in the country. “At the end of the day, they appreciate a good pizza,” he said. 
  <p class="updated_time"> 05:09 PM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60744605?at_medium=RSS&at_campaign=KARANGA">News editor interrupts Russian TV to protest war</a> BBC: The staffer held a sign reading 'no war' behind a newsreader on Russian state-controlled TV. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60744605?at_medium=RSS&at_campaign=KARANGA">News editor interrupts Russian TV to protest war</a> BBC: The woman held a sign reading "no war" behind a newsreader on Russian state-controlled TV. 
  <p class="updated_time"> 05:04 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/russian-protester-tv.html">Anti-War Protester Storms a Live Broadcast on Russia’s Most-Watched News Show</a> NYT: The intervention by a state TV employee underscored how dissent is seeping into the public sphere in Russia, despite the Kremlin’s crackdown on anyone who challenges its official narrative of the invasion. 
  <p class="updated_time"> 05:03 PM CT, Mar. 14 </p> 
