@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:46 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">What Happened on Day 20 of Russia’s Invasion of Ukraine</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
+ <p class="updated_time"> 05:35 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe.html">Nazanin Zaghari-Ratcliffe to Fly Home From Iran, U.K. Lawmaker Says</a> NYT: The arrest and detention of the British-Iranian charity worker in 2016 roiled relations between Britain and Iran and was denounced by rights groups. 
  <p class="updated_time"> 05:34 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
+ <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe on way home to UK</a> BBC: The British-Iranian woman was held in Iran for nearly six years but is on her way back, her MP says. 
  <p class="updated_time"> 05:28 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764544?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside the Ukrainian homes destroyed by war</a> BBC: Residential apartment blocks in Kyiv have again been hit by Russian air strikes. 
- <p class="updated_time"> 05:27 AM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe on way home to UK</a> BBC: The British-Iranian woman had been detained by the authorities in Iran for nearly six years. 
  <p class="updated_time"> 05:20 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: After a perilous train journey from Poland to Kyiv, European leaders tell Ukraine "you're not alone". 
  <p class="updated_time"> 05:04 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60763980?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv flats destroyed in overnight bombardment</a> BBC: Firefighters extinguished a blaze and evacuated residents from the residential building. 
+ <p class="updated_time"> 04:47 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 babies born through surrogacy are stuck waiting for their biological parents to take them home. 
- <p class="updated_time"> 04:36 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 04:27 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826753/u-n-says-military-violence-in-myanmar-may-be-crimes-against-humanity">U.N. says military violence in Myanmar may be 'crimes against humanity'</a> NPR: More than 12,500 people in Myanmar have been detained, at least 440,000 have been displaced and about 14 million people are in need of urgent humanitarian assistance, the report says. 
  <p class="updated_time"> 04:26 AM CT, Mar. 16 </p> 
@@ -41,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/business/genshin-impact-china-japan.html">Genshin Impact, Smash Hit From China, Beats Japan at Its Own Game</a> NYT: Genshin Impact, a nearly picture-perfect reproduction of Japanese fantasy role-playing games, has raked in billions of dollars and sent shock waves through the world’s aging video game superpower. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Citing a Chevron Tanker, Ukraine Seeks Tougher Restrictions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
- <p class="updated_time"> 03:36 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 03:47 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 03:14 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
@@ -51,11 +53,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
  <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
- <p class="updated_time"> 02:36 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:47 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
- <p class="updated_time"> 01:36 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 01:47 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 01:24 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086828199/russia-steps-up-assaults-as-ukraine-appeals-for-more-help">Russia steps up assaults as Ukraine appeals for more help</a> NPR: The fighting across the country continues as Ukraine's president prepares to speak to the U.S. Congress. 
@@ -185,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-refugees-poland-belarus.html">Two Refugees, Both on Poland’s Border. But Worlds Apart.</a> NYT: A young man fleeing war in Sudan and a young woman evacuating Ukraine crossed into Poland at the same time. They had very different experiences. 
  <p class="updated_time"> 05:26 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/business/papa-johns-russia.html">He’s American, He Oversees Papa John’s in Russia and He’s Staying</a> NYT: Christopher Wynne’s company controls the franchise agreements for the 190 Papa John’s locations in the country. “At the end of the day, they appreciate a good pizza,” he said. 
- <p class="updated_time"> 03:20 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/europe/julian-assange-wikileaks-extradition.html">U.K. Supreme Court Says Assange Cannot Appeal His Extradition to U.S.</a> NYT: In a blow for the embattled WikiLeaks founder, the court said it had refused permission to appeal “because the application does not raise an arguable point of law.” 
 
 
 </details>
@@ -196,6 +196,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 05:17 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/16/what-zelenskyy-wants-vs-what-hell-get-00017668"> What Zelenskyy wants vs. what he'll get</a> Politico Playbook: And nine House Democrats test positive for the coronavirus. 
+ <p class="updated_time"> 05:01 AM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/sinema-arizona-donors-hrc-filibuster-00017635">Arizona group tightens squeeze on Sinema donors</a> Politico: A group of Arizona-based LGBTQ activists is pressing the Human Rights Campaign to withdraw financial support from the senator until she reverses her position on the filibuster. 
  <p class="updated_time"> 05:00 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/poll-americans-split-florida-gender-race-00017552">Poll: Americans split over Florida's controversial bills on gender identity and race</a> Politico: For both bills, support was considerably higher among Republican registered voters, but there was also backing from independent voters. 
  <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
@@ -290,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/seizing-russian-oligarchs-real-estate-00017158">Confiscating a Russian oligarch’s luxury condo requires much more than political bluster</a> Politico: Seizures can be further complicated by the fact that ownership of most if not all of the Russian oligarchs’ properties is shielded by shell companies. 
  <p class="updated_time"> 11:09 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/sanctions-belarus-president-russian-officials-00017327">U.S. sanctions Belarus president, more Russian officials</a> Politico: All property and interests in property owned by Belarusian President Alexander Lukashenko or his wife are now blocked in the U.S. 
- <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/child-tax-credit-refund-00016592">Child Tax Credit expansion creates refund roller coaster</a> Politico: Many people will see their refunds reduced or even eliminated, while others will get a windfall. 
  <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086653838/the-white-house-says-its-running-out-of-money-to-cover-covid-tests-and-vaccines">The White House says it's running out of money to cover COVID tests and vaccines</a> NPR: The White House asked for more money from Congress to keep its COVID response going. But that hasn't happened, so some things need to be wound down. 
  <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
