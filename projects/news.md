@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:23 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:46 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Quake Near Fukushima in Japan Prompts Tsunami Alert</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 02:42 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Implores Congress for More Weapons and Sanctions</a> NYT: After the Ukrainian leader’s video address to lawmakers, President Biden announced $800 million in new military aid. Ukrainian forces launched a counteroffensive as cease-fire talks between Kyiv and Moscow continued. 
- <p class="updated_time"> 02:23 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:25 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: Mr. Putin described the war in Ukraine as part of an existential clash with the United States. 
  <p class="updated_time"> 02:08 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086884152/iran-prisoners-released-nazanin-naghari-ratcliffe">Iran releases 2 British Iranian citizens from prison</a> NPR: Nazanin Zaghari-Ratcliffe, a charity worker, and Anousheh Ashouri, a businessman, have now left the country. A third prisoner was released on furlough. Other foreigners remain imprisoned in Iran. 
  <p class="updated_time"> 02:02 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
- <p class="updated_time"> 01:59 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Quake Near Fukushima in Japan Prompts Tsunami Alert</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 01:58 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60766981?at_medium=RSS&at_campaign=KARANGA">At least nine dead in Texas bus collision involving student athletes</a> BBC: A bus carrying members of a US university's golf team collided with a pickup in Texas on Tuesday. 
+ <p class="updated_time"> 01:52 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 01:50 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086920906/novak-djokovic-french-open-tennis-covid">Novak Djokovic and Russian athletes are likely to compete at the French Open</a> NPR: Organizers at Roland-Garros said Serbian tennis star Novak Djokovic should be allowed to compete at the French Open thanks to loosened COVID rules in France. 
  <p class="updated_time"> 01:43 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are being flown back to their families after being released by Iran. 
  <p class="updated_time"> 01:38 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Japan hit by tremor prompting tsunami alert</a> BBC: The quake in the country's north-east rattled Tokyo and briefly cut power to millions of homes 
- <p class="updated_time"> 01:26 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 01:26 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/arts/dance/olga-smirnova-bolshoi-ballet-ukraine-war.html">Olga Smirnova, Opposed to the Ukraine War, Quits the Bolshoi</a> NYT: Olga Smirnova said she was against the war in Ukraine “with all the fibers of my soul.” Now, she has joined the Dutch National Ballet. 
  <p class="updated_time"> 01:10 PM CT, Mar. 16 </p> 
@@ -37,28 +37,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
  <p class="updated_time"> 12:57 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori Expected to Fly Home From Iran </a> NYT: Ms. Zaghari-Ratcliffe, a charity worker, was arrested and detained in Tehran in 2016. She was released along with another dual citizen of Iran and the U.K. after the resolution of a longstanding British debt. 
- <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russias-war-on-ukraine-transforms-europe-but-hard-decisions-lie-ahead-11647423003">Russia’s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead</a> WSJ: Russia’s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead 
+ <p class="updated_time"> 12:52 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
+ <p class="updated_time"> 11:52 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 11:42 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
  <p class="updated_time"> 11:37 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: Does the UK own money to Iran for a military deal that was never fulfilled? 
- <p class="updated_time"> 11:26 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 11:06 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086896823/vladimir-strzhalkovsky-superyacht-norway">A Russian oligarch's superyacht is stuck in Norway because no one will sell it fuel</a> NPR: The Ragnar is owned by Russian oligarch Vladimir Strzhalkovsky, a former KGB agent with deep ties to Russian President Vladimir Putin. Onboard amenities include an amphibious ATV and an island. 
  <p class="updated_time"> 11:03 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60767490?at_medium=RSS&at_campaign=KARANGA">Olga Smirnova: Ballerina leaves Russia for Netherlands after denouncing war</a> BBC: Olga Smirnova defects after saying she was "against this war with every fibre of my soul". 
  <p class="updated_time"> 10:59 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60770596?at_medium=RSS&at_campaign=KARANGA">We need help to support Ukrainian refugees - Warsaw mayor</a> BBC: Rafal Trzaskowski tells the BBC that the population of his city has increased by 20% in two weeks. 
+ <p class="updated_time"> 10:52 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 10:40 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
  <p class="updated_time"> 10:32 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086876229/north-korean-missile-test-ends-in-failure-its-part-of-a-larger-push-for-a-new-ic">North Korean missile test ends in failure, as South and U.S. watch for ICBM test</a> NPR: North Korea is reportedly working up to testing of a longer-range intercontinental ballistic missile that could reach the whole of the continental U.S. 
- <p class="updated_time"> 10:26 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/death-of-russian-generals-in-ukraine-expose-vulnerabilities-in-moscows-military-tactics-11647441273">Four Russian Generals Killed in Three Weeks Show Moscow’s Vulnerabilities in Ukraine</a> WSJ: Four Russian Generals Killed in Three Weeks Show Moscow’s Vulnerabilities in Ukraine 
  <p class="updated_time"> 10:21 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60764547?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe's husband on her return</a> BBC: Nazanin Zaghari-Ratcliffe's husband is awaiting his wife's return from Iran after years of campaigning. 
  <p class="updated_time"> 10:21 AM CT, Mar. 16 </p> 
@@ -69,6 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
  <p class="updated_time"> 09:54 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086883775/rep-gregory-meeks-reacts-to-zelenskyys-address-to-congress">Rep. Gregory Meeks reacts to Zelenskyy's address to Congress</a> NPR: Meeks (D-NY), the chairman of the House Foreign Affairs Committee, recently visited Ukraine's border with Poland. 
+ <p class="updated_time"> 09:52 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 09:49 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008249410/foreign-fighters-ukraine-war.html">These Foreign Fighters Are Joining the Battle for Ukraine</a> NYT: Thousands of foreign volunteers — including Americans — are arriving in Ukraine to help defend the country. But an attack on their training camp on Sunday has left some wondering if they’ll ever see the front lines. 
  <p class="updated_time"> 09:45 AM CT, Mar. 16 </p> 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60762022?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky invokes 9/11 in plea to US Congress</a> BBC: Ukraine's leader invoked the horror of the 2001 attacks on the US as he pleaded for more military aid. 
  <p class="updated_time"> 09:28 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60764585?at_medium=RSS&at_campaign=KARANGA">Diébédo Francis Kéré: The first African to win architecture's top award</a> BBC: Diébédo Francis Kéré says receiving the Pritzker Prize has made him the "happiest man on this planet". 
- <p class="updated_time"> 09:26 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 09:26 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/cambodia-khmer-rouge.html">In Cambodia, Khmer Rouge Horrors Few Want to Remember</a> NYT: Two-thirds of Cambodians are under the age of 30 — born decades after the Khmer Rouge’s totalitarian terror and the American carpet-bombing campaign. 
  <p class="updated_time"> 09:21 AM CT, Mar. 16 </p> 
@@ -105,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60763494?at_medium=RSS&at_campaign=KARANGA">Russia's state TV hit by stream of resignations</a> BBC: Marina Ovsyannikova's protest highlighted a growing number of journalists leaving their jobs at Kremlin-run TV channels. 
  <p class="updated_time"> 07:25 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086628727/zelenskyy-address-congress">Biden pledges $800 million to Ukraine after Zelenskyy's plea for more U.S. aid</a> NPR: Ukrainian President Zelenskyy delivered an impassioned plea for additional help and for President Biden to spearhead the world's defense of Ukraine. Later, Biden pledged to send more security support. 
- <p class="updated_time"> 06:37 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War's Most Decisive Routs</a> WSJ: In the two-day battle of Voznesensk, local volunteers and the military repelled the invaders, who fled leaving behind armor and dead soldiers. ‘They had no orders for what to do if they are defeated.’ 
  <p class="updated_time"> 06:29 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-war-ukraine-recolonization.html">Putin’s War on Ukraine Is About Ethnicity and Empire</a> NYT: Biden’s framework of ‘democracies versus autocracies’ misses the darker source of this war, which has deep roots in Russian history and thought. 
  <p class="updated_time"> 06:24 AM CT, Mar. 16 </p> 
@@ -117,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60764544?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside the Ukrainian homes destroyed by war</a> BBC: Residential apartment blocks in Kyiv have again been hit by Russian air strikes. 
  <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 infants born through surrogacy are left in limbo because of the war in Ukraine. 
- <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies' Pullback From Russia Marks End of an Era</a> WSJ: Businesses flocked to the former Soviet Union in its lurch to capitalism, but the relationship was never easy. The Ukraine invasion has brought it all to a crashing halt. 
  <p class="updated_time"> 04:27 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826753/u-n-says-military-violence-in-myanmar-may-be-crimes-against-humanity">U.N. says military violence in Myanmar may be 'crimes against humanity'</a> NPR: More than 12,500 people in Myanmar have been detained, at least 440,000 have been displaced and about 14 million people are in need of urgent humanitarian assistance, the report says. 
  <p class="updated_time"> 04:15 AM CT, Mar. 16 </p> 
@@ -216,8 +212,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/republicans-out-hawk-biden-ukraine-aid-00017831">Republicans try to out-hawk Biden on Ukraine aid</a> Politico: It's a GOP message that carries some real baggage. But from leaders to rank-and-file, the party is pushing Biden to do more against Russia. 
+ <p class="updated_time"> 02:35 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086665322/1-year-after-atlanta-deaths-asian-americans-build-stronger-ties">A year after the Atlanta spa deaths, Asian American communities build stronger ties</a> NPR: After the slaying of six Asian American women in Atlanta last year, many Asian American are trying to build the infrastructure and resources for their communities to feel safe and supported. 
  <p class="updated_time"> 02:24 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/pandemic-housing-aid.html">Treasury Shifts $377 Million Among States as Pandemic Housing Aid Dries Up</a> NYT: The Biden administration pulled back the aid from states and counties with unspent funds and diverted it to four states pressing for more: California, New York, New Jersey and Illinois. 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/pandemic-housing-aid.html">Treasury Shifts Cash Among States as Pandemic Housing Aid Dries Up</a> NYT: The Biden administration pulled back the aid from states and counties with unspent funds and diverted it to four states pressing for more: California, New York, New Jersey and Illinois. 
  <p class="updated_time"> 02:02 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
  <p class="updated_time"> 01:48 PM CT, Mar. 16 </p> 
@@ -342,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/sanctions-belarus-president-russian-officials-00017327">U.S. sanctions Belarus president, more Russian officials</a> Politico: All property and interests in property owned by Belarusian President Alexander Lukashenko or his wife are now blocked in the U.S. 
  <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086653838/the-white-house-says-its-running-out-of-money-to-cover-covid-tests-and-vaccines">The White House says it's running out of money to cover COVID tests and vaccines</a> NPR: The White House asked for more money from Congress to keep its COVID response going. But that hasn't happened, so some things need to be wound down. 
- <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086427993/marie-yovanovitch-ukraine-ambassador-lessons-from-the-edge">Former Ambassador Marie Yovanovitch warns Putin will move west if he wins in Ukraine</a> NPR: Yovanovitch served as the U.S. ambassador to Ukraine but was relieved of her post following a smear campaign orchestrated by Trump lawyer Rudy Giuliani. Her new memoir is Lessons From the Edge. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/gitmo-terrorism-trial.html">Sept. 11 Prosecutors Are in Plea Talks That Could Avert a Death-Penalty Trial</a> NYT: Pentagon prosecutors have struggled for more than a decade to hold the trial of Khalid Shaikh Mohammed and his accused accomplices in the attacks. 
  <p class="updated_time"> 06:07 AM CT, Mar. 15 </p> 
