@@ -9,26 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:57 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Will Address Congress as Russia Pummels Kyiv</a> NYT: President Biden is expected to approve $800 million in new military aid for Ukraine. Talks between Kyiv and Moscow were continuing on Wednesday, with Russia’s foreign minister indicating “a certain hope” for a deal. 
- <p class="updated_time"> 05:52 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 06:15 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Will Address Congress as Russia Pummels Kyiv</a> NYT: After the Ukrainian leader speaks to lawmakers, President Biden is expected to approve $800 million in new military aid. Talks between Kyiv and Moscow were continuing, with Russia’s foreign minister indicating “a certain hope” for a deal. 
+ <p class="updated_time"> 06:08 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe on way home to UK</a> BBC: The British-Iranian woman was held in Iran for nearly six years but is on her way back, her MP says. 
+ <p class="updated_time"> 06:04 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves Identified in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
  <p class="updated_time"> 05:35 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe.html">Nazanin Zaghari-Ratcliffe to Fly Home From Iran, U.K. Lawmaker Says</a> NYT: The arrest and detention of the British-Iranian charity worker in 2016 roiled relations between Britain and Iran and was denounced by rights groups. 
  <p class="updated_time"> 05:28 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764544?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside the Ukrainian homes destroyed by war</a> BBC: Residential apartment blocks in Kyiv have again been hit by Russian air strikes. 
+ <p class="updated_time"> 05:23 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 05:20 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: After a perilous train journey from Poland to Kyiv, European leaders tell Ukraine "you're not alone". 
  <p class="updated_time"> 05:04 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60763980?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv flats destroyed in overnight bombardment</a> BBC: Firefighters extinguished a blaze and evacuated residents from the residential building. 
- <p class="updated_time"> 05:00 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 babies born through surrogacy are stuck waiting for their biological parents to take them home. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 infants born through surrogacy are left in limbo because of the war in Ukraine. 
  <p class="updated_time"> 04:27 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826753/u-n-says-military-violence-in-myanmar-may-be-crimes-against-humanity">U.N. says military violence in Myanmar may be 'crimes against humanity'</a> NPR: More than 12,500 people in Myanmar have been detained, at least 440,000 have been displaced and about 14 million people are in need of urgent humanitarian assistance, the report says. 
  <p class="updated_time"> 04:26 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
+ <p class="updated_time"> 04:23 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 04:15 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086835380/blinken-sets-a-standard-for-lifting-sanctions-an-irreversible-russian-withdrawal">Blinken sets a standard for lifting sanctions: an 'irreversible' Russian withdrawal</a> NPR: In an interview with NPR, Secretary of State Antony Blinken, the top U.S. diplomat, warns of the further devastation of Ukrainian cities. 
  <p class="updated_time"> 04:13 AM CT, Mar. 16 </p> 
@@ -36,33 +40,29 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086687862/ukraine-refugees-warsaw">The number of Ukrainians who've fled to Poland is equal to the population of Warsaw</a> NPR: The flood of arrivals is visible in Warsaw, where the central train station has been transformed, with information booths and volunteer translators. About 1.8 million have arrived in Poland. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves Identified in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
- <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086746684/ukraine-latest-news-kherson-russia-invasion">A college student in occupied Ukraine says buying food means it's a lucky day</a> NPR: What's daily life like in one of the recently-occupied parts of Ukraine? One college student in the southern city of Kherson steps through his new reality. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/genshin-impact-china-japan.html">Genshin Impact, Smash Hit From China, Beats Japan at Its Own Game</a> NYT: Genshin Impact, a nearly picture-perfect reproduction of Japanese fantasy role-playing games, has raked in billions of dollars and sent shock waves through the world’s aging video game superpower. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Citing a Chevron Tanker, Ukraine Seeks Tougher Restrictions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
- <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
+ <p class="updated_time"> 03:23 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 03:14 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
- <p class="updated_time"> 03:00 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 02:56 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
  <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
  <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
+ <p class="updated_time"> 02:23 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
- <p class="updated_time"> 02:00 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 01:24 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086828199/russia-steps-up-assaults-as-ukraine-appeals-for-more-help">Russia steps up assaults as Ukraine appeals for more help</a> NPR: The fighting across the country continues as Ukraine's president prepares to speak to the U.S. Congress. 
- <p class="updated_time"> 01:04 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korean Weapon Test Fails, Explodes in Midair, Seoul Says</a> WSJ: The Wednesday launch is Pyongyang’s 10th weapons test of the year. 
+ <p class="updated_time"> 01:23 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-60739969?at_medium=RSS&at_campaign=KARANGA">Ukraine: The volunteers racing aid from the UK to the front line</a> BBC: Volunteers are racing medical supplies from the UK to the Ukrainian front line. 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
@@ -278,6 +278,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/raskin-withdraws-as-bidens-fed-nominee-00017476">Raskin withdraws as Biden’s Fed nominee</a> Politico: Sarah Bloom Raskin had been stuck in the Senate Banking Committee amid a GOP boycott of a committee vote on her nomination. 
  <p class="updated_time"> 01:54 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/drilling-permits-spiked-then-plunged-under-biden-00016814">Drilling permits spiked then plunged under Biden</a> Politico: The number of oil and gas permits approved by the Bureau of Land Management for drilling on public lands declined to its lowest number under the Biden administration in January. 
+ <p class="updated_time"> 01:14 PM CT, Mar. 15 </p> 
+ <a href="https://www.cnn.com/2022/03/15/politics/january-6-occupy-capitol-hill-proud-boy/index.html">Document on plan to 'occupy' Capitol Hill buildings, Supreme Court on January 6 discovered by prosecutors</a> CNN: Prosecutors have discovered a written plan to "infiltrate" and "occupy" six congressional office buildings and the Supreme Court on January 6, 2021, as part of the federal investigation into Proud Boys leader Enrique Tarrio, according to his indictment and a source familiar with the case. 
  <p class="updated_time"> 12:49 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/volodymyr-zelenskyy-urges-no-fly-zone-ukraine-00017361">‘Please stop the bombing’: Zelenskyy urges no-fly zone to prevent Ukraine's annihilation</a> Politico: In an 11-minute virtual address to Canada’s Parliament, Zelenskyy spoke of mounting civilian casualties in Ukraine. 
  <p class="updated_time"> 12:38 PM CT, Mar. 15 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/14/ketanji-brown-jackson-supreme-court-confirmation-00016594">Who, us, fight? Senate GOP vows ‘respectful’ Supreme Court hearings</a> Politico: Unlike in confirmation battles past, Republicans don't quite have a theme for their examination of Judge Ketanji Brown Jackson’s record. Except being nicer than Democrats. 
  <p class="updated_time"> 10:56 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/13/as-russia-gets-bogged-down-negotiations-heat-up-00016856"> As Russia gets bogged down, negotiations heat up</a> Politico Playbook: And Florida emerges as ground zero for America’s culture war. 
- <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
- <a href="https://www.politico.com/news/2022/03/13/bidens-presidency-hectic-ease-00016827">Biden’s presidency has never been so hectic. Here’s why he’s at ease.</a> Politico: As he pushes a Supreme Court nominee and manages a foreign policy crisis, the president's service on the Foreign Relations and Judiciary Committees is coming in handy. 
 
 
 </details>
