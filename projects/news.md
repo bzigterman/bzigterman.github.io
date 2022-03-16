@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 03:26 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
+ <p class="updated_time"> 03:14 AM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
+ <p class="updated_time"> 02:56 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
  <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
+ <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
- <p class="updated_time"> 02:04 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
- <p class="updated_time"> 01:54 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
+ <p class="updated_time"> 01:50 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 01:24 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086828199/russia-steps-up-assaults-as-ukraine-appeals-for-more-help">Russia steps up assaults as Ukraine appeals for more help</a> NPR: The fighting across the country continues as Ukraine's president prepares to speak to the U.S. Congress. 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-60739969?at_medium=RSS&at_campaign=KARANGA">Ukraine: The volunteers racing aid from the UK to the front line</a> BBC: Volunteers are racing medical supplies from the UK to the Ukrainian front line. 
- <p class="updated_time"> 12:54 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
- <p class="updated_time"> 11:54 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 12:50 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
- <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 11:50 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
+ <p class="updated_time"> 10:50 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60760385?at_medium=RSS&at_campaign=KARANGA">El Huevo: Alleged drug lord's arrest causes violent clashes in Mexico</a> BBC: The arrest of alleged drug lord "The Egg" sparked a violent gun battle on the US-Mexico border. 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-russia-war-kyiv.html">Russian Bombardment of Kyiv Continues While European Leaders Visit </a> NYT: The prime ministers of Poland, the Czech Republic and Slovenia made the trip as a show of solidarity, but it also bared divisions with other European Union members. 
  <p class="updated_time"> 10:01 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: After a perilous train journey from Poland to Kyiv, European leaders tell Ukraine 'you're not alone'. 
- <p class="updated_time"> 09:54 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 09:39 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/climate/endurance-shipwreck-shackleton.html">How Shackleton’s Endurance Was Found</a> NYT: “Gents, I want to introduce you to the Endurance.” More than a century after sinking in Antarctic waters, the legendary ship was found with just days to spare. 
  <p class="updated_time"> 08:43 PM CT, Mar. 15 </p> 
@@ -59,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60752278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Two women in Kyiv tower blocks record their new life under siege</a> BBC: Two Ukrainian women have kept a video diary recording their new lives while under attack from Russia. 
  <p class="updated_time"> 06:44 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/marina-ovsyannikova-ukraine-war-protester.html"> Russian War Protester Who Burst Onto State TV Is Fined</a> NYT: In a video following her sentence, the state TV worker said she had been interrogated for 14 hours and “spent two days without sleep.” She still faces a lengthy prison sentence. 
- <p class="updated_time"> 06:25 PM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
  <p class="updated_time"> 06:18 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60760303?at_medium=RSS&at_campaign=KARANGA">NYC's Met opera house hosts concert in support of Ukraine</a> BBC: The Metropolitan Opera holds a concert for Ukraine, opening with the war-torn country's national anthem. 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
@@ -200,6 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/white-house-ice-nominee-ed-gonzalez-00017547">White House tries to avoid a Raskin repeat as ICE pick teeters in Senate</a> Politico: A handful of undecided Democrats want to see more vetting of domestic abuse allegations that both the nominee and his wife deny. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-ukraine-russia-00017548">How Zelenskyy learned to love Congress</a> Politico: The Ukranian president has effectively moved Congress into quick action to help his beleaguered country, even as he eschews typical diplomatic norms. 
  <p class="updated_time"> 02:02 AM CT, Mar. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:00 AM CT, Mar. 16 </p> 
@@ -312,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086498859/chinese-and-u-s-officials-meet-in-rome-to-talk-about-war-in-ukraine">Chinese and U.S. officials meet in Rome to talk about war in Ukraine</a> NPR: Top Chinese and U.S. officials met in Rome to discuss the Ukraine crisis amid reports that Russia has asked Beijing for military and economic assistance. 
  <p class="updated_time"> 01:44 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086456895/sen-joe-manchin-sarah-bloom-raskin-nomination-fed-climate">Sen. Joe Manchin says he'll oppose Sarah Bloom Raskin's nomination to a key Fed role</a> NPR: The opposition of Manchin, the Democratic senator from West Virginia, likely dooms Raskin's chances to be confirmed. 
- <p class="updated_time"> 01:00 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/climate/usps-trucks-electric-vehicles.html">USPS Truck Contract Prompts Cries for Investigation</a> NYT: A plan to purchase up to 165,000 gasoline-powered mail trucks instead of electric models has angered Democrats and the Biden administration. 
  <p class="updated_time"> 12:17 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
