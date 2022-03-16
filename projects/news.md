@@ -9,60 +9,66 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:49 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086864597/zelenskyy-references-pearl-harbor-and-9-11-attacks-in-address-to-congress">Zelenskyy references Pearl Harbor and 9/11 attacks in address to Congress</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed a joint session of Congress on Monday. 
- <p class="updated_time"> 08:48 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 09:08 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086869308/where-the-fighting-stands-in-ukraine">Where the fighting stands in Ukraine</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed Congress via video from the Ukrainian capital Kyiv on Wednesday. The city is currently under bombardment from Russia. 
+ <p class="updated_time"> 09:06 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Implores Congress for More Weapons and Sanctions</a> NYT: After the Ukrainian leader’s video address to lawmakers, President Biden is expected to approve $800 million in new military aid. Ukrainian forces launched a counteroffensive as cease-fire talks between Kyiv and Moscow continued. 
- <p class="updated_time"> 08:47 AM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: The British-Iranian had been held in Iran for years, but will be reunited with her family later. 
- <p class="updated_time"> 08:28 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086844478/in-ukraine-writer-photographer-yevgenia-belorusets-documents-kyivs-displaced">In Ukraine, writer-photographer Yevgenia Belorusets documents Kyiv's displaced</a> NPR: Belorusets' Her book Lucky Breaks was just translated into English and published last week. She wrote it in the aftermath of Russia's previous assault into Ukraine in 2014. 
- <p class="updated_time"> 08:26 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori Expected to Fly Home From Iran </a> NYT: In the most high-profile case, Nazanin Zaghari-Ratcliffe, a charity worker, was arrested and detained in 2016, roiling relations between Britain and Iran. 
- <p class="updated_time"> 08:25 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 09:03 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori Expected to Fly Home From Iran </a> NYT: In the most high-profile case, Nazanin Zaghari-Ratcliffe, a charity worker, was arrested and detained in 2016, roiling relations between London and Tehran. 
+ <p class="updated_time"> 09:01 AM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are on a plane leaving Iran after being freed, the government says. 
+ <p class="updated_time"> 08:59 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/health/covid-vaccines-africa.html">In Africa, a Mix of Shots Drives an Uncertain Covid Vaccination Push</a> NYT: Supplies are more plentiful now but they are unpredictable and often a jumble of brands. Many places can’t meet the W.H.O.’s recommended dosing schedules. 
+ <p class="updated_time"> 08:58 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/03/16/1085675211/ukraine-russia-displaced-refugees-lviv">Lviv takes in displaced Ukrainians but space and resources are strained</a> NPR: Space and resources are strained in the western city of Lviv. More than 200,000 Ukrainians have temporarily settled in the city while Russian airstrikes continued this past week. 
+ <p class="updated_time"> 08:53 AM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: Does the UK own money to Iran for a military deal that was never fulfilled? 
+ <p class="updated_time"> 08:51 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60762022?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky invokes 9/11 in plea to US Congress</a> BBC: Ukraine's leader invoked the horror of the 2001 attacks on the US as he pleaded for more military aid. 
+ <p class="updated_time"> 08:49 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086864597/zelenskyy-references-pearl-harbor-and-9-11-attacks-in-address-to-congress">Zelenskyy references Pearl Harbor and 9/11 attacks in address to Congress</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed a joint session of Congress on Wednesday. 
+ <p class="updated_time"> 08:28 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086844478/in-ukraine-writer-photographer-yevgenia-belorusets-documents-kyivs-displaced">In Ukraine, writer-photographer Yevgenia Belorusets documents Kyiv's displaced</a> NPR: Belorusets' book Lucky Breaks, written in the aftermath of Russia's previous assault into Ukraine in 2014, was published in English this month. The author remains in Kyiv producing art as war rages. 
  <p class="updated_time"> 08:21 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
  <p class="updated_time"> 08:18 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086633646/fears-are-growing-that-russia-will-default-on-its-debt-heres-what-you-need-to-kn">Fears are growing that Russia will default on its debt. Here's what you need to know</a> NPR: Russia owes interest payments on two dollar-denominated bonds on Wednesday. If it doesn't pay, the country could go into default. 
- <p class="updated_time"> 08:17 AM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: Does the UK own money to Iran for a military deal that was never fulfilled? 
  <p class="updated_time"> 08:16 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60767594?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Woman captures moment missile strike hits Chernihiv</a> BBC: Video shows Mari Margun reacting to an explosion in the middle of recording herself talking to the camera. 
+ <p class="updated_time"> 08:16 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 08:09 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60763494?at_medium=RSS&at_campaign=KARANGA">Russia's state TV hit by stream of resignations</a> BBC: Marina Ovsyannikova's protest highlighted a growing number of journalists leaving their jobs at Kremlin-run TV channels. 
- <p class="updated_time"> 07:55 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 07:38 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-41974185?at_medium=RSS&at_campaign=KARANGA">Iran's jailed dual nationals and their uncertain fate</a> BBC: An unknown number are in prison in Iran, some serving long sentences, others sentenced to death. 
  <p class="updated_time"> 07:25 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086628727/zelenskyy-address-congress">In a virtual address, President Zelenskyy call on the U.S. to 'do more'</a> NPR: Ukrainian President Zelenskyy delivered a virtual address to the U.S. Congress on Wednesday at 9 a.m. EDT. His remarks come as the Russian invasion of Ukraine enters its third week. 
- <p class="updated_time"> 06:55 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 07:16 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-transforms-europe-but-hard-decisions-lie-ahead-11647423003">Russia’s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead</a> WSJ: Russia’s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead 
  <p class="updated_time"> 06:29 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-war-ukraine-recolonization.html">Putin’s War on Ukraine Is About Ethnicity and Empire</a> NYT: Biden’s framework of ‘democracies versus autocracies’ misses the darker source of this war, which has deep roots in Russian history and thought. 
  <p class="updated_time"> 06:24 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
+ <p class="updated_time"> 06:16 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 06:04 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves Identified in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
- <p class="updated_time"> 05:55 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 05:28 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764544?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside the Ukrainian homes destroyed by war</a> BBC: Residential apartment blocks in Kyiv have again been hit by Russian air strikes. 
  <p class="updated_time"> 05:20 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: After a perilous train journey from Poland to Kyiv, European leaders tell Ukraine "you're not alone". 
+ <p class="updated_time"> 05:16 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 05:04 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60763980?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv flats destroyed in overnight bombardment</a> BBC: Firefighters extinguished a blaze and evacuated residents from the residential building. 
- <p class="updated_time"> 04:55 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 infants born through surrogacy are left in limbo because of the war in Ukraine. 
  <p class="updated_time"> 04:27 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826753/u-n-says-military-violence-in-myanmar-may-be-crimes-against-humanity">U.N. says military violence in Myanmar may be 'crimes against humanity'</a> NPR: More than 12,500 people in Myanmar have been detained, at least 440,000 have been displaced and about 14 million people are in need of urgent humanitarian assistance, the report says. 
+ <p class="updated_time"> 04:16 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/china-reports-lower-covid-19-numbers-amid-nationwide-restrictions-11647404521">China Reports Lower Covid-19 Numbers Amid Nationwide Restrictions</a> WSJ: China Reports Lower Covid-19 Numbers Amid Nationwide Restrictions 
  <p class="updated_time"> 04:15 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086835380/blinken-sets-a-standard-for-lifting-sanctions-an-irreversible-russian-withdrawal">Blinken sets a standard for lifting sanctions: an 'irreversible' Russian withdrawal</a> NPR: In an interview with NPR, Secretary of State Antony Blinken, the top U.S. diplomat, warns of the further devastation of Ukrainian cities. 
- <p class="updated_time"> 04:13 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/china-reports-lower-covid-19-numbers-amid-nationwide-restrictions-11647404521">China's Covid Cases Drop as Restrictions Disrupt Business</a> WSJ: Companies must navigate rapidly changing restrictions, as authorities worked to contain outbreaks with lockdowns and factory closures, as well as tighter regulations on the movement of goods. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086687862/ukraine-refugees-warsaw">The number of Ukrainians who've fled to Poland is equal to the population of Warsaw</a> NPR: The flood of arrivals is visible in Warsaw, where the central train station has been transformed, with information booths and volunteer translators. About 1.8 million have arrived in Poland. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
@@ -125,10 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/15/1086671754/russia-ukraine-war-what-happened-today-march-15">Russia-Ukraine war: What happened today (March 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/mariupol-death-toll-ukraine.html">Officials in Mariupol Struggle to Account for the Dead</a> NYT: The coastal city, a battleground for weeks, is under an increasingly relentless Russian assault that is taking an unspeakable toll. 
- <p class="updated_time"> 03:21 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086733882/why-many-african-countries-are-staying-neutral-on-russias-invasion-of-ukraine">Many African countries are staying neutral on Russia's invasion of Ukraine</a> NPR: NPR's Ailsa Chang speaks with Aanu Adeoye of think tank Chatham House about African nations' responses to Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:21 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086733861/ukrainian-journalist-andriy-kulykov-on-the-latest-on-the-ground-in-kyiv">Ukrainian journalist Andriy Kulykov on the latest on the ground in Kyiv</a> NPR: NPR's Ailsa Chang speaks with Andriy Kulykov, a Ukrainian radio journalist, about the latest on the ground in Kyiv. 
  <p class="updated_time"> 03:18 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60752390?at_medium=RSS&at_campaign=KARANGA">Police charge man over string of shootings targeting homeless</a> BBC: Five people were shot in nine days in New York and Washington - all with the same "modus operandi". 
  <p class="updated_time"> 03:13 PM CT, Mar. 15 </p> 
@@ -171,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/asia/turkmenistan-president-son-election.html">Turkmenistan Leader’s Son Wins Presidential Election</a> NYT: The oil-rich country’s dealings are largely opaque, but its central election commission said Serdar Berdymukhammedov had captured nearly 73 percent of the vote. 
  <p class="updated_time"> 02:02 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-testing-variants-emory.html">Inside the High-Stakes Race to Test the Covid Tests</a> NYT: Researchers in Atlanta have helped the federal government evaluate dozens of Covid tests and pioneer a new model for developing novel diagnostics. 
- <p class="updated_time"> 02:00 AM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/health/covid-vaccines-africa.html">In Africa, a Mix of Shots Drives an Uncertain Covid Vaccination Push</a> NYT: Supplies are more plentiful now but they are unpredictable and often a jumble of brands. Many places can’t meet the W.H.O.’s recommended dosing schedules. 
  <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
  <p class="updated_time"> 08:57 PM CT, Mar. 14 </p> 
@@ -194,8 +194,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:08 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086869308/where-the-fighting-stands-in-ukraine">Where the fighting stands in Ukraine</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed Congress via video from the Ukrainian capital Kyiv on Wednesday. The city is currently under bombardment from Russia. 
  <p class="updated_time"> 08:49 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086864597/zelenskyy-references-pearl-harbor-and-9-11-attacks-in-address-to-congress">Zelenskyy references Pearl Harbor and 9/11 attacks in address to Congress</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed a joint session of Congress on Monday. 
+ <a href="https://www.npr.org/2022/03/16/1086864597/zelenskyy-references-pearl-harbor-and-9-11-attacks-in-address-to-congress">Zelenskyy references Pearl Harbor and 9/11 attacks in address to Congress</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed a joint session of Congress on Wednesday. 
  <p class="updated_time"> 08:35 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/marshall-trucker-protesters-capitol-tour-00017686">GOP senator gives trucker protesters a Capitol tour</a> Politico: A senior Hill aide alerted the DOJ afterward. 
  <p class="updated_time"> 08:28 AM CT, Mar. 16 </p> 
@@ -298,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/biden-to-travel-to-brussels-nato-00017372">Biden to travel to Brussels for 'extraordinary NATO summit' this month</a> Politico: The president will participate in a NATO Summit and a European Council meeting, White House says. 
  <p class="updated_time"> 12:33 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/white-house-withdraws-agricultural-trade-nominee-00017370">White House to withdraw key agricultural trade nominee</a> Politico: The Biden administration plans to pull Elaine Trevino's nomination as chief agricultural negotiator at USTR. 
- <p class="updated_time"> 12:02 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/f-15-fighter-jets-sale-egypt-00017339">U.S. plans to sell F-15 fighters to Egypt amid human rights dispute</a> Politico: A top U.S. general told senators that the deal, which hasn't been finalized, "was a long, hard slog." 
  <p class="updated_time"> 11:45 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/mike-pence-january-6-script-change-00017294">Another Jan. 6 mystery revealed: Pence's second script rewrite</a> Politico: The never-before-told backstory of why the then-vice president made a change not seen since Al Gore  — as a rebuttal to Trump allies' fringe theories. 
  <p class="updated_time"> 11:35 AM CT, Mar. 15 </p> 
@@ -328,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086535100/wife-of-justice-thomas-rebuts-claims-of-conflict-of-interest">Wife of Justice Thomas rebuts claims of conflict of interest</a> NPR: In an interview published Monday, Ginni Thomas said that while she did attend the Jan. 6 rally to protest President Biden's election, she left before Donald Trump took the stage. 
  <p class="updated_time"> 04:30 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086525664/white-house-tells-china-of-its-deep-concerns-about-providing-assistance-to-russi">White House tells China of its 'deep concerns' about providing assistance to Russia</a> NPR: U.S. national security adviser Jake Sullivan met with Chinese diplomats in Rome on Monday in what a senior administration adviser described as an "intense" seven-hour session. 
- <p class="updated_time"> 04:07 PM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086498915/why-so-many-states-are-seeing-bills-aimed-at-trans-families-right-now">Why so many states are seeing bills aimed at trans families right now</a> NPR: In addition to Texas, a number of state legislatures are considering bills that would affect trans youth healthcare. Proponents of LGBTQ rights say the issue is being used to score political points. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin, Collins opposition likely dooms Biden's Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
  <p class="updated_time"> 10:44 AM CT, Mar. 14 </p> 
