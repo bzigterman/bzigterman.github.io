@@ -9,31 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:26 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 04:26 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
+ <p class="updated_time"> 04:15 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086835380/blinken-sets-a-standard-for-lifting-sanctions-an-irreversible-russian-withdrawal">Blinken sets a standard for lifting sanctions: an 'irreversible' Russian withdrawal</a> NPR: In an interview with NPR, Secretary of State Antony Blinken, the top U.S. diplomat, warns of the further devastation of Ukrainian cities. 
+ <p class="updated_time"> 04:07 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086687862/ukraine-refugees-warsaw">The number of Ukrainians who've fled to Poland is equal to the population of Warsaw</a> NPR: The flood of arrivals is visible in Warsaw, where the central train station has been transformed, with information booths and volunteer translators. About 1.8 million have arrived in Poland. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves Identified in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086746684/ukraine-latest-news-kherson-russia-invasion">A college student in occupied Ukraine says buying food means it's a lucky day</a> NPR: What's daily life like in one of the recently-occupied parts of Ukraine? One college student in the southern city of Kherson steps through his new reality. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Citing a Chevron Tanker, Ukraine Seeks Tougher Restrictions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
+ <p class="updated_time"> 03:27 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 03:14 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
- <p class="updated_time"> 03:06 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 02:56 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
  <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
  <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
+ <p class="updated_time"> 02:27 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
- <p class="updated_time"> 02:06 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
+ <p class="updated_time"> 01:27 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 01:24 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086828199/russia-steps-up-assaults-as-ukraine-appeals-for-more-help">Russia steps up assaults as Ukraine appeals for more help</a> NPR: The fighting across the country continues as Ukraine's president prepares to speak to the U.S. Congress. 
- <p class="updated_time"> 01:06 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-60739969?at_medium=RSS&at_campaign=KARANGA">Ukraine: The volunteers racing aid from the UK to the front line</a> BBC: Volunteers are racing medical supplies from the UK to the Ukrainian front line. 
- <p class="updated_time"> 12:06 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 12:27 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
- <p class="updated_time"> 11:06 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 11:27 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
@@ -107,20 +119,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
  <p class="updated_time"> 01:28 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60758621?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: TV protest 'was my own decision'</a> BBC: The Russian state TV employee who staged an anti-war protest during a live bulletin speaks to reporters outside court. 
- <p class="updated_time"> 01:28 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086705796/russian-propaganda-war-in-ukraine">Here's how propaganda is clouding Russians' understanding of the war in Ukraine</a> NPR: The truth about the war is hard to find in Russia and is mostly discovered only by people who already distrust the Kremlin and its state-sponsored media, says Russian-born journalist Julia Ioffe. 
  <p class="updated_time"> 01:23 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/russia-ukraine-journalism-censorship.html">Russian Censorship Law Forces Reporters to Weigh Safety</a> NYT: Western news outlets are engaging in a tense debate over balancing an urgent need to bear witness with journalists’ ability to report freely under strict new laws there. 
- <p class="updated_time"> 01:15 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086681148/fox-news-team-killed-pierre-zakrzewski">2 Fox News team members in Ukraine were killed in an attack</a> NPR: A veteran video journalist for Fox News, Pierre Zakrzewski, and freelance journalist Oleksandra Kuvshynova died when their vehicle was hit by incoming fire, the network confirmed. 
  <p class="updated_time"> 01:10 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-softens-iran-demands-re-opening-way-for-nuclear-deal-11647382224">Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal</a> WSJ: Diplomats say Russia will accept narrower guarantees protecting its nuclear projects with Iran from Ukraine-related sanctions, removing one of the final hurdles in negotiations. 
  <p class="updated_time"> 12:51 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/russia-uk-sanctions.html">U.K. Targets More Oligarchs and Putin Allies With Sanctions</a> NYT: More than 370 people are being penalized, including Russia’s prime minister, a former president and the Kremlin’s press secretary. 
  <p class="updated_time"> 12:51 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60754136?at_medium=RSS&at_campaign=KARANGA">Russia sanctions Joe Biden, Hillary Clinton and others</a> BBC: The measures block their entry into Russia but will not impede necessary high-level contacts. 
- <p class="updated_time"> 12:48 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086681395/uk-russia-sanctions-trade-oligarchs">New U.K. sanctions target Russian vodka, luxury vehicles, fashion and artwork</a> NPR: The U.K. announced new economic sanctions against Russia and sanctioned more oligarchs and politicians. Government officials say they've designated more than 1,000 entities since the invasion began. 
  <p class="updated_time"> 12:45 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
  <p class="updated_time"> 11:53 AM CT, Mar. 15 </p> 
@@ -183,16 +189,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/europe/uk-ukraine-refugee-sponsorship-scheme.html">Britain Announces ‘Homes For Ukraine’ Program to Sponsor Refugees</a> NYT: The program, called “Homes for Ukraine,” offers a new route for Ukrainian refugees to come to Britain, which had previously been limited to those joining family members already living there. 
  <p class="updated_time"> 12:28 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/lithuania-russia-attack-ukraine-nato.html">Lithuania, a Vulnerable NATO Link, Readies for Putin and Russia</a> NYT: The Baltics, wedged between Russia and Belarus, have been likened to a modern-day West Berlin. Many here worry that if Ukraine falls, they might be next. 
- <p class="updated_time"> 11:44 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/asia/hong-kong-covid.html">Hong Kong Lacks the Resources For a China-style Pandemic Resonse, Official Says</a> NYT: “Hong Kong is very different from many mainland cities and therefore we cannot have any comparison,” Mrs. Lam told reporters at a news conference. 
  <p class="updated_time"> 11:07 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/arts/music/paavo-jarvi-putin-ukraine-russia.html">A Conductor on Why He Stayed in Russia After the Invasion Began</a> NYT: The Estonian American conductor Paavo Järvi chose to remain in Moscow temporarily to lead a Russian youth orchestra: “I felt a responsibility.” 
  <p class="updated_time"> 11:04 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/angkor-wat-covid-uncrowded.html">Cambodian Temple, Once Overcrowded, Wants Tourists Back</a> NYT: Cambodia has been open to foreign tourists for months, but in this time of Covid, few have made the trip, making it possible to imagine that you alone have rediscovered the glorious temple complex. 
- <p class="updated_time"> 10:31 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-zelensky-congress-speech.html">Zelensky to Address Congress in Virtual Speech</a> NYT: The Ukrainian president’s speech will likely increase growing momentum on Capitol Hill to pressure President Biden to send fighter jets to Kyiv. 
- <p class="updated_time"> 08:16 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/europe/pregnant-woman-airstrike-ukraine-mariupol.html">Woman Photographed After Russian Strike On Maternity Hospital Has Died</a> NYT: Her baby also died, the news organization said. The photo captured last week has become one of the defining images of human suffering in the war. 
  <p class="updated_time"> 05:40 AM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-covid-omicron-lockdowns.html">Wave of Omicron Infections Prompts Lockdowns in China</a> NYT: After two years of largely containing coronavirus outbreaks, China’s “Covid zero” policies are being tested by the highly transmissible variant. 
 
@@ -202,6 +202,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086832833/politicians-and-experts-debate-whether-gas-tax-holidays-are-worthwhile">Politicians and experts debate whether gas tax holidays are worthwhile</a> NPR: As gas prices rise, politicians call for gas taxes to be suspended. Transportation experts say such moves won't provide much relief and would cut into needed spending on roads, bridges and transit. 
+ <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086832791/rep-fortenberry-fights-criminal-charges-while-seeking-reelection">Rep. Fortenberry fights criminal charges while seeking reelection</a> NPR: Republican Rep. Jeff Fortenberry of Nebraska will be in federal court Wednesday, accused of accepting illegal campaign donations and lying about it. He's also in a challenge to keep his seat. 
+ <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086832770/in-an-appeal-to-congress-president-zelenskyy-will-ask-the-u-s-to-help-ukraine">In an appeal to Congress, President Zelenskyy will ask the U.S. to help Ukraine</a> NPR: Ukraine's president will address a joint meeting of Congress Tuesday morning. He will appear virtually and is expected to call on the U.S. for more aid in its war against Russia. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086764072/texas-and-other-states-want-to-boycott-fossil-fuel-divestment-blackrock-climate">Texas and other states want to 'boycott' fossil fuel divestment</a> NPR: A Texas model law was written by the head of a group that opposes climate action and takes money from fossil fuel interests. It could shift billions away from major investment firms. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
@@ -287,9 +293,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:35 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/seizing-russian-oligarchs-real-estate-00017158">Confiscating a Russian oligarch’s luxury condo requires much more than political bluster</a> Politico: Seizures can be further complicated by the fact that ownership of most if not all of the Russian oligarchs’ properties is shielded by shell companies. 
  <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086653838/the-white-house-says-its-running-out-of-money-to-cover-covid-tests-and-vaccines">The White House says it's running out of money to cover COVID tests and vaccines</a> NPR: The White House asked for more money from Congress to keep its COVID response going. But that hasn't happened, so some things need to be wound down. 
- <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/child-tax-credit-refund-00016592">Child Tax Credit expansion creates refund roller coaster</a> Politico: Many people will see their refunds reduced or even eliminated, while others will get a windfall. 
+ <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
+ <a href="https://www.npr.org/2022/03/15/1086653838/the-white-house-says-its-running-out-of-money-to-cover-covid-tests-and-vaccines">The White House says it's running out of money to cover COVID tests and vaccines</a> NPR: The White House asked for more money from Congress to keep its COVID response going. But that hasn't happened, so some things need to be wound down. 
  <p class="updated_time"> 10:41 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/congress-white-house-covid-funding-00017312">‘We need this money’: Covid funding stalls as Congress, White House point fingers</a> Politico: There appears to be no clear strategy from either the White House or Capitol Hill to secure the funds. 
  <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
@@ -320,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086498929/those-arguments-over-school-book-bans-may-influence-midterm-elections">Those arguments over school book bans may influence midterm elections</a> NPR: NPR's Ari Shapiro talks with Elizabeth Bruenig from The Atlantic about the political benefits of arguing over book bans in schools. 
  <p class="updated_time"> 03:45 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086498859/chinese-and-u-s-officials-meet-in-rome-to-talk-about-war-in-ukraine">Chinese and U.S. officials meet in Rome to talk about war in Ukraine</a> NPR: Top Chinese and U.S. officials met in Rome to discuss the Ukraine crisis amid reports that Russia has asked Beijing for military and economic assistance. 
- <p class="updated_time"> 01:44 PM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086456895/sen-joe-manchin-sarah-bloom-raskin-nomination-fed-climate">Sen. Joe Manchin says he'll oppose Sarah Bloom Raskin's nomination to a key Fed role</a> NPR: The opposition of Manchin, the Democratic senator from West Virginia, likely dooms Raskin's chances to be confirmed. 
  <p class="updated_time"> 12:17 PM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
@@ -334,10 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/14/the-congressional-calm-before-the-scotus-storm-00016938">The congressional calm before the (SCOTUS) storm</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 04:54 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/14/something-unusual-is-happening-between-biden-and-congress-00016935"> Something unusual is happening between Biden and Congress</a> Politico Playbook: And Russia and Ukraine are set to resume diplomatic talks. 
- <p class="updated_time"> 04:14 AM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086395467/morning-news-brief">News brief: Russian missile strikes, student loan repayment, Trump rally</a> NPR: Russian troops continue their assault on Ukrainian territory. Student loan payments may be delayed again. Donald Trump is campaigning again, for other Republicans, and himself. 
- <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086313468/braving-rain-and-cold-trumps-supporters-soak-up-hints-of-another-run">Braving rain and cold, Trump's supporters soak up hints of another run </a> NPR: In his speech, the former president also blasted two South Carolina House members who have been critical of him. 
  <p class="updated_time"> 03:31 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/ketanji-brown-jackson-supreme-court-confirmation-00016594">Who, us, fight? Senate GOP vows ‘respectful’ Supreme Court hearings</a> Politico: Unlike in confirmation battles past, Republicans don't quite have a theme for their examination of Judge Ketanji Brown Jackson’s record. Except being nicer than Democrats. 
  <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
