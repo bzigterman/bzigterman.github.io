@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:24 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 03:39 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
- <p class="updated_time"> 03:15 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 03:39 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Asks Congress for More Weapons as Civilian Casualties Rise</a> NYT: A Mariupol theater where officials said hundreds had been sheltering was largely destroyed. President Biden announced $800 million in new military aid after Ukraine’s president addressed Congress by video. Ukrainian forces launched a counteroffensive in Kherson. 
+ <p class="updated_time"> 03:37 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1087028278/wsj-reporter-describes-the-looting-and-killing-of-civilians-in-southern-ukraine">'WSJ' reporter describes the looting and killing of civilians in southern Ukraine</a> NPR: NPR's Ailsa Chang talks with Wall Street Journal reporter Yaroslav Trofimov about reports of violence against civilians in southern Ukraine. 
+ <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1087028257/how-the-russian-invasion-of-ukraine-has-transformed-europe-and-the-eu">How the Russian invasion of Ukraine has transformed Europe and the EU</a> NPR: Europe is a fractious continent, where decision-making can be slow and bureaucratic. Russia's invasion of Ukraine has spurred Europe and its leading institution, the EU, to unprecedented action. 
+ <p class="updated_time"> 03:31 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028243/explosives-left-from-wars-in-iraq-injure-people-for-decades-that-follow">Explosives left from wars in Iraq injure people for decades that follow</a> NPR: The legacy of old wars in Iraq takes the form of mines and cluster bombs that still injure people, often children. Groups are trying to educate kids about the dangers. 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
@@ -25,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1087011897/biden-putin-war-criminal">Biden calls Putin a war criminal</a> NPR: President Biden on Tuesday was asked by reporters whether he was ready to call Russian President Putin a war criminal. "I think he is a war criminal," he said. 
  <p class="updated_time"> 02:54 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">‘The Era of the Foreign Correspondent Is Over’: Justin Smith on His Media Start-Up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
- <p class="updated_time"> 02:30 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:43 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 02:25 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: Mr. Putin described the war in Ukraine as part of an existential clash with the United States. 
@@ -38,47 +44,45 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:50 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086920906/novak-djokovic-french-open-tennis-covid">Novak Djokovic and Russian athletes are likely to compete at the French Open</a> NPR: Organizers at Roland-Garros said Serbian tennis star Novak Djokovic should be allowed to compete at the French Open thanks to loosened COVID rules in France. 
  <p class="updated_time"> 01:43 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
+ <p class="updated_time"> 01:43 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are being flown back to their families after being released by Iran. 
  <p class="updated_time"> 01:38 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Japan hit by tremor prompting tsunami alert</a> BBC: The quake in the country's north-east rattled Tokyo and briefly cut power to millions of homes 
- <p class="updated_time"> 01:30 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 01:10 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/boris-johnson-saudi-arabia-ukraine.html">Boris Johnson Travels to Saudi Arabia for Oil Diplomacy</a> NYT: At home, critics had another take on Mr. Johnson’s efforts to reduce western reliance on Russian energy. 
  <p class="updated_time"> 01:08 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
  <p class="updated_time"> 12:57 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori Expected to Fly Home From Iran </a> NYT: Ms. Zaghari-Ratcliffe, a charity worker, was arrested and detained in Tehran in 2016. She was released along with another dual citizen of Iran and the U.K. after the resolution of a longstanding British debt. 
- <p class="updated_time"> 12:30 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 12:43 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
+ <p class="updated_time"> 11:43 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 11:42 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
  <p class="updated_time"> 11:37 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: Does the UK own money to Iran for a military deal that was never fulfilled? 
- <p class="updated_time"> 11:30 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 11:06 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086896823/vladimir-strzhalkovsky-superyacht-norway">A Russian oligarch's superyacht is stuck in Norway because no one will sell it fuel</a> NPR: The Ragnar is owned by Russian oligarch Vladimir Strzhalkovsky, a former KGB agent with deep ties to Russian President Vladimir Putin. Onboard amenities include an amphibious ATV and an island. 
  <p class="updated_time"> 11:03 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60767490?at_medium=RSS&at_campaign=KARANGA">Olga Smirnova: Ballerina leaves Russia for Netherlands after denouncing war</a> BBC: Olga Smirnova defects after saying she was "against this war with every fibre of my soul". 
  <p class="updated_time"> 10:59 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60770596?at_medium=RSS&at_campaign=KARANGA">We need help to support Ukrainian refugees - Warsaw mayor</a> BBC: Rafal Trzaskowski tells the BBC that the population of his city has increased by 20% in two weeks. 
+ <p class="updated_time"> 10:43 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 10:40 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
  <p class="updated_time"> 10:32 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086876229/north-korean-missile-test-ends-in-failure-its-part-of-a-larger-push-for-a-new-ic">North Korean missile test ends in failure, as South and U.S. watch for ICBM test</a> NPR: North Korea is reportedly working up to testing of a longer-range intercontinental ballistic missile that could reach the whole of the continental U.S. 
- <p class="updated_time"> 10:30 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 10:21 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60764547?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe's husband on her return</a> BBC: Nazanin Zaghari-Ratcliffe's husband is awaiting his wife's return from Iran after years of campaigning. 
  <p class="updated_time"> 10:21 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-60769318?at_medium=RSS&at_campaign=KARANGA">Kherson: Russian-occupied city stays angry and defiant</a> BBC: More than a fortnight after falling under Russian occupation, the residents of Kherson are wrestling with acute shortages while protesting against the Kremlin's forces. 
  <p class="updated_time"> 10:11 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-russia-nuclear-war.html">As Russia Digs In, What’s the Risk of Nuclear War? ‘It’s Not Zero.’</a> NYT: A series of shifts in Russian statements about using nuclear weapons has led some analysts to believe that the Kremlin sees a nuclear exchange as a viable strategy. 
- <p class="updated_time"> 09:57 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
  <p class="updated_time"> 09:54 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086883775/rep-gregory-meeks-reacts-to-zelenskyys-address-to-congress">Rep. Gregory Meeks reacts to Zelenskyy's address to Congress</a> NPR: Meeks (D-NY), the chairman of the House Foreign Affairs Committee, recently visited Ukraine's border with Poland. 
  <p class="updated_time"> 09:49 AM CT, Mar. 16 </p> 
@@ -103,12 +107,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/16/1085675211/ukraine-russia-displaced-refugees-lviv">Lviv takes in displaced Ukrainians but space and resources are strained</a> NPR: Space and resources are strained in the western city of Lviv. More than 200,000 Ukrainians have temporarily settled in the city while Russian airstrikes continued this past week. 
  <p class="updated_time"> 08:49 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086864597/zelenskyy-references-pearl-harbor-and-9-11-attacks-in-address-to-congress">Zelenskyy references Pearl Harbor and 9/11 attacks in address to Congress</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed a joint session of Congress on Wednesday. 
- <p class="updated_time"> 08:28 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086844478/in-ukraine-writer-photographer-yevgenia-belorusets-documents-kyivs-displaced">In Ukraine, writer-photographer Yevgenia Belorusets documents Kyiv's displaced</a> NPR: Belorusets' book Lucky Breaks, written in the aftermath of Russia's previous assault into Ukraine in 2014, was published in English this month. The author remains in Kyiv producing art as war rages. 
  <p class="updated_time"> 08:21 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
- <p class="updated_time"> 08:18 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086633646/fears-are-growing-that-russia-will-default-on-its-debt-heres-what-you-need-to-kn">Fears are growing that Russia will default on its debt. Here's what you need to know</a> NPR: Russia owes interest payments on two dollar-denominated bonds on Wednesday. If it doesn't pay, the country could go into default. 
  <p class="updated_time"> 08:16 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60767594?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Woman captures moment missile strike hits Chernihiv</a> BBC: Video shows Mari Margun reacting to an explosion in the middle of recording herself talking to the camera. 
  <p class="updated_time"> 08:09 AM CT, Mar. 16 </p> 
@@ -203,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-russian-troops-surrender.html">Zelensky Calls on Russian Troops to Surrender</a> NYT: The Ukrainian leader and the Pentagon have both said some Russian soldiers have surrendered or been captured. 
  <p class="updated_time"> 07:33 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/kyiv-ukraine-russia-war.html">Kyiv’s Once-Busy Streets Empty as Russia Targets Capital</a> NYT: With civilian areas coming under fire and an estimated half the population having fled, the avenues of the Ukrainian capital, under siege by Russian forces, are almost deserted. 
- <p class="updated_time"> 05:26 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/business/papa-johns-russia.html">He’s American, He Oversees Papa John’s in Russia and He’s Staying</a> NYT: Christopher Wynne’s company controls the franchise agreements for the 190 Papa John’s locations in the country. “At the end of the day, they appreciate a good pizza,” he said. 
 
 
 </details>
@@ -212,6 +210,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1087028271/education-secretary-cardona-on-grant-funds-for-hbcus-after-recent-bomb-threats">Education Secretary Cardona on grant funds for HBCUs after recent bomb threats</a> NPR: NPR's Juana Summers speaks with Secretary of Education Miguel Cardona about grant funds the administration is making available for HBCUs that have recently experienced a bomb threat. 
+ <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1087028264/marie-yovanovitch-writes-about-being-a-key-figure-in-1st-trump-impeachment-in-me">Marie Yovanovitch writes about being a key figure in 1st Trump impeachment in memoir</a> NPR: NPR's Mary Louise Kelly talks with Marie Yovanovitch, the former U.S. ambassador to Ukraine, about her new memoir called Lessons from the Edge. 
  <p class="updated_time"> 03:16 PM CT, Mar. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
@@ -221,7 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:06 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087011897/biden-putin-war-criminal">Biden calls Putin a war criminal</a> NPR: President Biden on Tuesday was asked by reporters whether he was ready to call Russian President Putin a war criminal. "I think he is a war criminal," he said. 
  <p class="updated_time"> 03:00 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Attack Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Ukraine Invasion Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
  <p class="updated_time"> 02:45 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/biden-russian-president-vladimir-putin-war-criminal-00017896">Biden calls Putin a 'war criminal'</a> Politico: It was a notable shift for the president and the first time he has labeled his Russian counterpart’s actions in Ukraine in such a way. 
  <p class="updated_time"> 02:41 PM CT, Mar. 16 </p> 
@@ -293,8 +295,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086832770/in-an-appeal-to-congress-president-zelenskyy-will-ask-the-u-s-to-help-ukraine">In an appeal to Congress, Ukrainian President Zelenskyy asked the U.S. to help Ukraine</a> NPR: Ukraine's president addressed a joint meeting of Congress Wednesday morning. He appeared virtually and referenced Pearl Harbor and the 9/11 attacks in his speech. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086764072/texas-and-other-states-want-to-boycott-fossil-fuel-divestment-blackrock-climate">Texas and other states want to punish fossil fuel divestment</a> NPR: A Texas model law was written by the head of a group that opposes climate action and takes money from fossil fuel interests. It could shift billions away from major investment firms. 
- <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/ketanji-brown-jackson-criminal-defense.html">As Jackson Faces Senators, Her Criminal Defense Record Is a Target</a> NYT: Republicans have vilified Biden’s judicial nominees who have represented criminal suspects. Judge Ketanji Brown Jackson, for the Supreme Court, is the most prominent. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-ukraine-russia-00017548">'He shoots from the hip, and that's part of his charm'</a> Politico: Ukrainian President Volodymyr Zelenskyy has effectively moved Congress into quick action to help his besieged country. And he's not doing it with diplomatic norms. 
@@ -320,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/us/politics/shalanda-young-omb.html">Shalanda Young Confirmed to Head Biden’s Budget Office</a> NYT: Ms. Young is the first Black woman to lead the Office of Management and Budget, which had been without permanent leadership for more than a year. 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/daylight-saving-time-senate.html">Senate Approves Making Daylight Saving Time Permanent</a> NYT: Legislation that passed unanimously would end the practice of setting clocks back one hour in the fall. Its prospects were uncertain in the House. 
- <p class="updated_time"> 05:27 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086790648/second-gentleman-doug-emhoff-tests-positive-for-covid-19">Second gentleman Doug Emhoff tests positive for COVID-19</a> NPR: The White House hasn't indicated if the husband of Vice President Harris, Douglas Emhoff, is experiencing symptoms. Harris has tested negative but is not participating in a White House event tonight. 
  <p class="updated_time"> 05:24 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/economy/raskin-fed-nominee-withdraws.html">Biden Withdraws Sarah Bloom Raskin as Nominee for Fed’s Top Bank Cop</a> NYT: Sarah Bloom Raskin did not appear to have the votes for Senate confirmation as Fed vice chair for supervision after a key Democrat withheld his support. 
  <p class="updated_time"> 05:16 PM CT, Mar. 15 </p> 
