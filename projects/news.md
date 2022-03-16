@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Asks Congress for More Weapons as Civilian Casualties Rise</a> NYT: President Biden announced $800 million in new military aid and, in answer to a question, said he believed Russia’s president, Vladimir V. Putin, was “a war criminal.” A Mariupol theater where officials said hundreds had been sheltering was largely destroyed. 
+ <p class="updated_time"> 04:15 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: President Vladimir V. Putin of Russia denigrated European and American leaders, and Russians who disagreed with him. Analysts fear his remarks could signal a new wave of repression. 
+ <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086929156/russia-ukraine-war-what-happened-today-march-16">Russia-Ukraine war: What happened today (March 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:07 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">After Six-Year Ordeal in Iran, Nazanin Zaghari-Ratcliffe Is Freed</a> NYT: Ms. Zaghari-Ratcliffe, a charity worker, was arrested and detained in Tehran in 2016. She was released along with another dual citizen of Iran and the U.K. after the resolution of a longstanding British debt. 
+ <p class="updated_time"> 04:04 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-counter-offensive-russia.html">Ukrainian Forces Strike Back at Russia, as Biden Sends More Firepower</a> NYT: The attacks in Kyiv and Kherson were aimed at inflicting “maximum losses” against Russia but not regaining territory, while the U.S. pledged $800 billion more in military aid. 
+ <p class="updated_time"> 04:00 PM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60767664?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Fourth Russian general killed - Zelensky</a> BBC: The news raises questions on why senior Russian officers are getting so close to the fighting. 
+ <p class="updated_time"> 04:00 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 03:54 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
- <p class="updated_time"> 03:51 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Asks Congress for More Weapons as Civilian Casualties Rise</a> NYT: President Biden announced $800 million in new military aid and, in answer to a question, said he believed Russia’s president, Vladimir V. Putin, was “a war criminal.” A Mariupol theater where officials said hundreds had been sheltering was largely destroyed. 
- <p class="updated_time"> 03:45 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 03:44 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia attacks theatre sheltering civilians, Mariupol says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
- <p class="updated_time"> 03:41 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-counter-offensive-russia.html">Ukrainian Forces Strike Back at Russia, as Biden Sends More Firepower</a> NYT: The attacks in Kyiv and Kherson were aimed at inflicting “maximum losses” against Russia but not regaining territory, while the U.S. pledged $800 billion more in military aid. 
  <p class="updated_time"> 03:39 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 03:37 PM CT, Mar. 16 </p> 
@@ -27,6 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1087028257/how-the-russian-invasion-of-ukraine-has-transformed-europe-and-the-eu">How the Russian invasion of Ukraine has transformed Europe and the EU</a> NPR: Europe is a fractious continent, where decision-making can be slow and bureaucratic. Russia's invasion of Ukraine has spurred Europe and its leading institution, the EU, to unprecedented action. 
  <p class="updated_time"> 03:31 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
+ <p class="updated_time"> 03:17 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028243/explosives-left-from-wars-in-iraq-injure-people-for-decades-that-follow">Explosives left from wars in Iraq injure people for decades that follow</a> NPR: The legacy of old wars in Iraq takes the form of mines and cluster bombs that still injure people, often children. Groups are trying to educate kids about the dangers. 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
@@ -37,38 +47,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/arts/dance/olga-smirnova-bolshoi-ballet-ukraine-war.html">Olga Smirnova, Opposed to the Ukraine War, Quits the Bolshoi</a> NYT: Olga Smirnova said she was against the war in Ukraine “with all the fibers of my soul.” Now, she has joined the Dutch National Ballet. 
  <p class="updated_time"> 03:06 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087011897/biden-putin-war-criminal">Biden calls Putin a war criminal</a> NPR: President Biden on Tuesday was asked by reporters whether he was ready to call Russian President Putin a war criminal. "I think he is a war criminal," he said. 
- <p class="updated_time"> 02:58 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 02:54 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">‘The Era of the Foreign Correspondent Is Over’: Justin Smith on His Media Start-Up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
- <p class="updated_time"> 02:25 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: Mr. Putin described the war in Ukraine as part of an existential clash with the United States. 
+ <p class="updated_time"> 02:17 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 02:08 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086884152/iran-prisoners-released-nazanin-naghari-ratcliffe">Iran releases 2 British Iranian citizens from prison</a> NPR: Nazanin Zaghari-Ratcliffe, a charity worker, and Anousheh Ashouri, a businessman, have now left the country. A third prisoner was released on furlough. Other foreigners remain imprisoned in Iran. 
  <p class="updated_time"> 02:02 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
  <p class="updated_time"> 01:58 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60766981?at_medium=RSS&at_campaign=KARANGA">At least nine dead in Texas bus collision involving student athletes</a> BBC: A bus carrying members of a US university's golf team collided with a pickup in Texas on Tuesday. 
- <p class="updated_time"> 01:58 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 01:50 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086920906/novak-djokovic-french-open-tennis-covid">Novak Djokovic and Russian athletes are likely to compete at the French Open</a> NPR: Organizers at Roland-Garros said Serbian tennis star Novak Djokovic should be allowed to compete at the French Open thanks to loosened COVID rules in France. 
  <p class="updated_time"> 01:43 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are being flown back to their families after being released by Iran. 
  <p class="updated_time"> 01:38 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Japan hit by tremor prompting tsunami alert</a> BBC: The quake in the country's north-east rattled Tokyo and briefly cut power to millions of homes 
+ <p class="updated_time"> 01:17 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 01:10 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/boris-johnson-saudi-arabia-ukraine.html">Boris Johnson Travels to Saudi Arabia for Oil Diplomacy</a> NYT: At home, critics had another take on Mr. Johnson’s efforts to reduce western reliance on Russian energy. 
  <p class="updated_time"> 01:08 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
- <p class="updated_time"> 12:58 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
- <p class="updated_time"> 12:57 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori Expected to Fly Home From Iran </a> NYT: Ms. Zaghari-Ratcliffe, a charity worker, was arrested and detained in Tehran in 2016. She was released along with another dual citizen of Iran and the U.K. after the resolution of a longstanding British debt. 
  <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
- <p class="updated_time"> 11:58 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 12:17 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
+ <p class="updated_time"> 11:53 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: The British prime minister is visiting the de facto leaders of the United Arab Emirates and Saudi Arabia, acting as an emissary as they shun entreaties from President Biden to discuss energy policy. 
  <p class="updated_time"> 11:42 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
  <p class="updated_time"> 11:37 AM CT, Mar. 16 </p> 
@@ -79,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60767490?at_medium=RSS&at_campaign=KARANGA">Olga Smirnova: Ballerina leaves Russia for Netherlands after denouncing war</a> BBC: Olga Smirnova defects after saying she was "against this war with every fibre of my soul". 
  <p class="updated_time"> 10:59 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60770596?at_medium=RSS&at_campaign=KARANGA">We need help to support Ukrainian refugees - Warsaw mayor</a> BBC: Rafal Trzaskowski tells the BBC that the population of his city has increased by 20% in two weeks. 
- <p class="updated_time"> 10:58 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 10:40 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
  <p class="updated_time"> 10:32 AM CT, Mar. 16 </p> 
@@ -113,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/health/covid-vaccines-africa.html">In Africa, a Mix of Shots Drives an Uncertain Covid Vaccination Push</a> NYT: Supplies are more plentiful now but they are unpredictable and often a jumble of brands. Many places can’t meet the W.H.O.’s recommended dosing schedules. 
  <p class="updated_time"> 08:58 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/16/1085675211/ukraine-russia-displaced-refugees-lviv">Lviv takes in displaced Ukrainians but space and resources are strained</a> NPR: Space and resources are strained in the western city of Lviv. More than 200,000 Ukrainians have temporarily settled in the city while Russian airstrikes continued this past week. 
- <p class="updated_time"> 08:49 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086864597/zelenskyy-references-pearl-harbor-and-9-11-attacks-in-address-to-congress">Zelenskyy references Pearl Harbor and 9/11 attacks in address to Congress</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed a joint session of Congress on Wednesday. 
  <p class="updated_time"> 08:21 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
  <p class="updated_time"> 08:16 AM CT, Mar. 16 </p> 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-war-ukraine-recolonization.html">Putin’s War on Ukraine Is About Ethnicity and Empire</a> NYT: Biden’s framework of ‘democracies versus autocracies’ misses the darker source of this war, which has deep roots in Russian history and thought. 
  <p class="updated_time"> 06:04 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
- <p class="updated_time"> 05:28 AM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60764544?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside the Ukrainian homes destroyed by war</a> BBC: Residential apartment blocks in Kyiv have again been hit by Russian air strikes. 
  <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 infants born through surrogacy are left in limbo because of the war in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
@@ -206,6 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086929156/russia-ukraine-war-what-happened-today-march-16">Russia-Ukraine war: What happened today (March 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:04 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Ukraine Invasion Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
  <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028271/education-secretary-cardona-on-grant-funds-for-hbcus-after-recent-bomb-threats">Education Secretary Cardona on grant funds for HBCUs after recent bomb threats</a> NPR: NPR's Juana Summers speaks with Secretary of Education Miguel Cardona about grant funds the administration is making available for HBCUs that have recently experienced a bomb threat. 
  <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
@@ -218,8 +222,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1087028208/congress-largely-supports-zelenskyys-call-for-more-sanctions-and-weapons-from-u-">Congress largely supports Zelenskyy's call for more sanctions and weapons from U.S.</a> NPR: Lawmakers are mostly supportive after Ukrainian President Zelenskyy's address to a joint session of Congress during which he pressed the U.S. for more sanctions and weapons. 
  <p class="updated_time"> 03:06 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087011897/biden-putin-war-criminal">Biden calls Putin a war criminal</a> NPR: President Biden on Tuesday was asked by reporters whether he was ready to call Russian President Putin a war criminal. "I think he is a war criminal," he said. 
- <p class="updated_time"> 03:00 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Ukraine Invasion Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
  <p class="updated_time"> 02:45 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/biden-russian-president-vladimir-putin-war-criminal-00017896">Biden calls Putin a 'war criminal'</a> Politico: It was a notable shift for the president and the first time he has labeled his Russian counterpart’s actions in Ukraine in such a way. 
  <p class="updated_time"> 02:41 PM CT, Mar. 16 </p> 
@@ -257,7 +259,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:55 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086908593/texas-mail-ballot-rejection-final-rates-harris-williamson-counties">In Texas, thousands of mail ballots were rejected following new ID requirements</a> NPR: Perhaps most notably, Harris County rejected a whopping 19% percent of the mail ballots it received, or 6,888 ballots in total. Four years ago the county's rejection rate was about 0.3%. 
  <p class="updated_time"> 11:38 AM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-speech-video-four-takeaways-00017748">Four things Zelenskyy just told Congress that could impact Russia’s war on Ukraine</a> Politico: Most lawmakers acknowledge that America can and should be doing more. Zelenskyy’s Wednesday speech could spur action to help Ukrainian forces defend their country. 
+ <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-speech-video-four-takeaways-00017748">4 things Zelenskyy just told Congress that could impact Russia’s war on Ukraine</a> Politico: Most lawmakers acknowledge that America can and should be doing more. Zelenskyy’s Wednesday speech could spur action to help Ukrainian forces defend their country. 
  <p class="updated_time"> 11:27 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/trump-ally-sean-reyes-mitt-romney-primary-00017741">Top Trump ally gears up for Romney primary challenge</a> Politico: Utah GOP Attorney General Sean Reyes is likely to announce his 2024 Senate plans in May. 
  <p class="updated_time"> 11:21 AM CT, Mar. 16 </p> 
@@ -288,8 +290,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1086832833/politicians-and-experts-debate-whether-gas-tax-holidays-are-worthwhile">Politicians and experts debate whether gas tax holidays are worthwhile</a> NPR: As gas prices rise, politicians call for gas taxes to be suspended. Transportation experts say such moves won't provide much relief and would cut into needed spending on roads, bridges and transit. 
  <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086832791/rep-fortenberry-fights-criminal-charges-while-seeking-reelection">Rep. Fortenberry fights criminal charges while seeking reelection</a> NPR: Republican Rep. Jeff Fortenberry of Nebraska will be in federal court Wednesday, accused of accepting illegal campaign donations and lying about it. He's also in a challenge to keep his seat. 
- <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086832770/in-an-appeal-to-congress-president-zelenskyy-will-ask-the-u-s-to-help-ukraine">In an appeal to Congress, Ukrainian President Zelenskyy asked the U.S. to help Ukraine</a> NPR: Ukraine's president addressed a joint meeting of Congress Wednesday morning. He appeared virtually and referenced Pearl Harbor and the 9/11 attacks in his speech. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/ketanji-brown-jackson-criminal-defense.html">As Jackson Faces Senators, Her Criminal Defense Record Is a Target</a> NYT: Republicans have vilified Biden’s judicial nominees who have represented criminal suspects. Judge Ketanji Brown Jackson, for the Supreme Court, is the most prominent. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
