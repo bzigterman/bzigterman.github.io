@@ -13,30 +13,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
  <p class="updated_time"> 03:14 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
+ <p class="updated_time"> 03:06 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 02:56 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
  <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
- <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
- <p class="updated_time"> 01:50 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:06 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 01:24 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086828199/russia-steps-up-assaults-as-ukraine-appeals-for-more-help">Russia steps up assaults as Ukraine appeals for more help</a> NPR: The fighting across the country continues as Ukraine's president prepares to speak to the U.S. Congress. 
+ <p class="updated_time"> 01:06 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-60739969?at_medium=RSS&at_campaign=KARANGA">Ukraine: The volunteers racing aid from the UK to the front line</a> BBC: Volunteers are racing medical supplies from the UK to the Ukrainian front line. 
- <p class="updated_time"> 12:50 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
- <p class="updated_time"> 11:50 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 12:06 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
+ <p class="updated_time"> 11:06 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
- <p class="updated_time"> 10:50 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60760385?at_medium=RSS&at_campaign=KARANGA">El Huevo: Alleged drug lord's arrest causes violent clashes in Mexico</a> BBC: The arrest of alleged drug lord "The Egg" sparked a violent gun battle on the US-Mexico border. 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
@@ -53,6 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/european-leaders-ukraine-trip.html">3 European Leaders Say They Are in Kyiv to Support Ukraine</a> NYT: “It is here, in war-torn Kyiv, that history is being made,” one European leader wrote after arriving in Ukraine’s battered capital. 
  <p class="updated_time"> 07:49 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60715707?at_medium=RSS&at_campaign=KARANGA">Afghans turn to cryptocurrencies amid US sanctions</a> BBC: US sanctions, failing banks, and the drying up of foreign aid have left Afghanistan's economy in tatters. 
+ <p class="updated_time"> 07:33 PM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60712913?at_medium=RSS&at_campaign=KARANGA">Nigerian volunteer: 'Fighting in Ukraine is better than living here'</a> BBC: Hundreds of young men across Africa say they want to take up arms in Ukraine. 
  <p class="updated_time"> 07:29 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/americas/guatemala-abortion-law.html">In Reversal, Guatemala Shelves Anti-Abortion Law</a> NYT: President Alejandro Giammattei said he would veto the bill days after his allies pushed it through the legislature, a move that surprised analysts, human rights activists and officials. 
  <p class="updated_time"> 07:06 PM CT, Mar. 15 </p> 
@@ -200,6 +202,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086764072/texas-and-other-states-want-to-boycott-fossil-fuel-divestment-blackrock-climate">Texas and other states want to 'boycott' fossil fuel divestment</a> NPR: A Texas model law was written by the head of a group that opposes climate action and takes money from fossil fuel interests. It could shift billions away from major investment firms. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/ketanji-brown-jackson-criminal-defense.html">As Jackson Faces Senators, Her Criminal Defense Record Is a Target</a> NYT: Republicans have vilified Biden’s judicial nominees who have represented criminal suspects. Judge Ketanji Brown Jackson, for the Supreme Court, is the most prominent. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/business/economy/fed-interest-rates-inflation.html">Why Is the Fed Raising Interest Rates?</a> NYT: Here’s the Federal Reserve’s rationale, and how it might trickle through the economy to affect you. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/david-mccormick-teacher-pensions.html">David McCormick  Faces Scrutiny in Pennsylvania Over Teacher Pension Fund</a> NYT: David McCormick, a Republican Senate candidate in Pennsylvania, came under attack from his chief rival, Dr. Mehmet Oz, over the underperformance of investments for the state’s teachers. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/white-house-ice-nominee-ed-gonzalez-00017547">White House tries to avoid a Raskin repeat as ICE pick teeters in Senate</a> Politico: A handful of undecided Democrats want to see more vetting of domestic abuse allegations that both the nominee and his wife deny. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
@@ -286,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/15/1086427993/marie-yovanovitch-ukraine-ambassador-lessons-from-the-edge">Former Ambassador Marie Yovanovitch warns Putin will move west if he wins in Ukraine</a> NPR: Yovanovitch served as the U.S. ambassador to Ukraine but was relieved of her post following a smear campaign orchestrated by Trump lawyer Rudy Giuliani. Her new memoir is Lessons From the Edge. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/gitmo-terrorism-trial.html">Sept. 11 Prosecutors Are in Plea Talks That Could Avert a Death-Penalty Trial</a> NYT: Pentagon prosecutors have struggled for more than a decade to hold the trial of Khalid Shaikh Mohammed and his accused accomplices in the attacks. 
- <p class="updated_time"> 08:07 AM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/14/us/politics/murdoch-elections-donations.html">How a Murdoch Hopes to Save American Democracy</a> NYT: Kathryn Murdoch is trying to change how elections are run. It’s a work in progress. 
  <p class="updated_time"> 06:07 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/15/fortenberry-faces-the-fire-00017258">Fortenberry faces the fire</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:11 AM CT, Mar. 15 </p> 
@@ -296,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/15/1086114214/missouri-idaho-abortion-gender-affirming-treatments">Can states limit abortion and gender-affirming treatments outside their borders?</a> NPR: Building on SB 8 in Texas, some Republican lawmakers are trying a new strategy: pushing bills that would attempt to limit what residents can and can't do even beyond state lines. 
  <p class="updated_time"> 03:31 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/schumer-steers-senate-toward-center-00017168">Schumer's Senate shocker: Bills are passing (seriously)</a> Politico: The 50-50 chamber's notched bipartisan accomplishments on many different fronts. But as one Republican put it, "I don’t think the age of Aquarius has broken out." 
- <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
  <p class="updated_time"> 06:15 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/enrique-tarrio-jan-6-document.html">Document in Jan. 6 Case Shows Plan to Storm Government Buildings</a> NYT: New details from evidence cited in the indictment of Enrique Tarrio, the former head of the far-right Proud Boys, reveal a plan with similarities to what unfolded at the Capitol. 
  <p class="updated_time"> 05:40 PM CT, Mar. 14 </p> 
@@ -332,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086395467/morning-news-brief">News brief: Russian missile strikes, student loan repayment, Trump rally</a> NPR: Russian troops continue their assault on Ukrainian territory. Student loan payments may be delayed again. Donald Trump is campaigning again, for other Republicans, and himself. 
  <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086313468/braving-rain-and-cold-trumps-supporters-soak-up-hints-of-another-run">Braving rain and cold, Trump's supporters soak up hints of another run </a> NPR: In his speech, the former president also blasted two South Carolina House members who have been critical of him. 
- <p class="updated_time"> 04:00 AM CT, Mar. 14 </p> 
- <a href="https://www.npr.org/2022/03/14/1086298563/feds-coming-interest-rate-hikes-may-present-another-economic-challenge-for-democ">Fed's coming interest rate hikes may present another economic challenge for Democrats</a> NPR: In an attempt to curb high inflation, the Federal Reserve is expected this week to begin raising interest rates for the first time in three years. 
  <p class="updated_time"> 03:31 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/ketanji-brown-jackson-supreme-court-confirmation-00016594">Who, us, fight? Senate GOP vows ‘respectful’ Supreme Court hearings</a> Politico: Unlike in confirmation battles past, Republicans don't quite have a theme for their examination of Judge Ketanji Brown Jackson’s record. Except being nicer than Democrats. 
  <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
