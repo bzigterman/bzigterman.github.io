@@ -11,30 +11,30 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 12:36 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
+ <p class="updated_time"> 11:51 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 11:48 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
- <p class="updated_time"> 11:39 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
+ <p class="updated_time"> 10:51 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60760385?at_medium=RSS&at_campaign=KARANGA">El Huevo: Alleged drug lord's arrest causes violent clashes in Mexico</a> BBC: The arrest of alleged drug lord "The Egg" sparked a violent gun battle on the US-Mexico border. 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-russia-war-kyiv.html">Russian Bombardment of Kyiv Continues While European Leaders Visit </a> NYT: The prime ministers of Poland, the Czech Republic and Slovenia made the trip as a show of solidarity, but it also bared divisions with other European Union members. 
- <p class="updated_time"> 10:39 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 10:01 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: After a perilous train journey from Poland to Kyiv, European leaders tell Ukraine 'you're not alone'. 
- <p class="updated_time"> 09:39 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 09:51 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 09:39 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/climate/endurance-shipwreck-shackleton.html">How Shackleton’s Endurance Was Found</a> NYT: “Gents, I want to introduce you to the Endurance.” More than a century after sinking in Antarctic waters, the legendary ship was found with just days to spare. 
  <p class="updated_time"> 09:35 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
+ <p class="updated_time"> 08:51 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 08:43 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086811273/russia-putin-sanctions-biden-clinton-us-officials">Russia says it's sanctioning Biden, Hillary Clinton and top U.S. officials </a> NPR: Russia's foreign ministry said Russia would sanction President Biden and members of his administration, banning them from entering Russia. It says the move is retaliation for U.S. sanctions. 
- <p class="updated_time"> 08:39 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 08:24 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60760435?at_medium=RSS&at_campaign=KARANGA">New Zealand border to reopen from next month, PM Ardern says</a> BBC: PM Jacinda Ardern says they are 'ready to welcome the world back', beginning with Australians. 
  <p class="updated_time"> 08:23 PM CT, Mar. 15 </p> 
