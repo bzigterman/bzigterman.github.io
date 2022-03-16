@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:59 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Quake Near Fukushima in Japan Prompts Tsunami Alert</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 01:58 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Implores Congress for More Weapons and Sanctions</a> NYT: After the Ukrainian leader’s video address to lawmakers, President Biden announced $800 million in new military aid. Ukrainian forces launched a counteroffensive as cease-fire talks between Kyiv and Moscow continued. 
+ <p class="updated_time"> 01:50 PM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60766981?at_medium=RSS&at_campaign=KARANGA">At least nine dead in Texas bus collision involving student athletes</a> BBC: A bus carrying members of a US university's golf team collided with a pickup in Texas on Tuesday. 
+ <p class="updated_time"> 01:50 PM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086920906/novak-djokovic-french-open-tennis-covid">Novak Djokovic and Russian athletes are likely to compete at the French Open</a> NPR: Organizers at Roland-Garros said Serbian tennis star Novak Djokovic should be allowed to compete at the French Open thanks to loosened COVID rules in France. 
+ <p class="updated_time"> 01:43 PM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are being flown back to their families after being released by Iran. 
  <p class="updated_time"> 01:38 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Japan hit by tremor prompting tsunami alert</a> BBC: The quake in the country's north-east rattled Tokyo and briefly cut power to millions of homes 
- <p class="updated_time"> 01:35 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori have arrived in Oman after being freed by Iran. 
- <p class="updated_time"> 01:35 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Implores Congress for More Weapons and Sanctions</a> NYT: After the Ukrainian leader’s video address to lawmakers, President Biden announced $800 million in new military aid. Ukrainian forces launched a counteroffensive as cease-fire talks between Kyiv and Moscow continued. 
  <p class="updated_time"> 01:33 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
  <p class="updated_time"> 01:26 PM CT, Mar. 16 </p> 
@@ -23,30 +29,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/boris-johnson-saudi-arabia-ukraine.html">Boris Johnson Travels to Saudi Arabia for Oil Diplomacy</a> NYT: At home, critics had another take on Mr. Johnson’s efforts to reduce western reliance on Russian energy. 
  <p class="updated_time"> 01:08 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
- <p class="updated_time"> 01:07 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Quake Near Fukushima in Japan Prompts Tsunami Alert</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 01:00 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 12:57 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori Expected to Fly Home From Iran </a> NYT: Ms. Zaghari-Ratcliffe, a charity worker, was arrested and detained in Tehran in 2016. She was released along with another dual citizen of Iran and the U.K. after the resolution of a longstanding British debt. 
- <p class="updated_time"> 12:43 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
- <p class="updated_time"> 11:43 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 12:00 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-transforms-europe-but-hard-decisions-lie-ahead-11647423003">Russia’s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead</a> WSJ: Russia’s War on Ukraine Transforms Europe, but Hard Decisions Lie Ahead 
  <p class="updated_time"> 11:42 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
  <p class="updated_time"> 11:37 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: Does the UK own money to Iran for a military deal that was never fulfilled? 
- <p class="updated_time"> 11:27 AM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60766981?at_medium=RSS&at_campaign=KARANGA">At least nine dead in Texas bus collision involving student athletes</a> BBC: A bus carrying members of a US university's golf team collided with a pick-up in Texas on Tuesday. 
  <p class="updated_time"> 11:06 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086896823/vladimir-strzhalkovsky-superyacht-norway">A superyacht named Ragnar is stuck in Norway because no one will sell it fuel</a> NPR: The Ragnar is owned by Russian oligarch Vladimir Strzhalkovsky, a former KGB agent with deep ties to Russian President Vladimir Putin. Onboard amenities include an amphibious ATV and an island. 
  <p class="updated_time"> 11:03 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60767490?at_medium=RSS&at_campaign=KARANGA">Olga Smirnova: Ballerina leaves Russia for Netherlands after denouncing war</a> BBC: Olga Smirnova defects after saying she was "against this war with every fibre of my soul". 
+ <p class="updated_time"> 11:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 10:59 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60770596?at_medium=RSS&at_campaign=KARANGA">We need help to support Ukrainian refugees - Warsaw mayor</a> BBC: Rafal Trzaskowski tells the BBC that the population of his city has increased by 20% in two weeks. 
- <p class="updated_time"> 10:43 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 10:40 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
  <p class="updated_time"> 10:32 AM CT, Mar. 16 </p> 
@@ -57,6 +59,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60769318?at_medium=RSS&at_campaign=KARANGA">Kherson: Russian-occupied city stays angry and defiant</a> BBC: More than a fortnight after falling under Russian occupation, the residents of Kherson are wrestling with acute shortages while protesting against the Kremlin's forces. 
  <p class="updated_time"> 10:11 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-russia-nuclear-war.html">As Russia Digs In, What’s the Risk of Nuclear War? ‘It’s Not Zero.’</a> NYT: A series of shifts in Russian statements about using nuclear weapons has led some analysts to believe that the Kremlin sees a nuclear exchange as a viable strategy. 
+ <p class="updated_time"> 10:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/death-of-russian-generals-in-ukraine-expose-vulnerabilities-in-moscows-military-tactics-11647441273">Four Russian Generals Killed in Three Weeks Show Moscow’s Vulnerabilities in Ukraine</a> WSJ: Four Russian Generals Killed in Three Weeks Show Moscow’s Vulnerabilities in Ukraine 
  <p class="updated_time"> 09:57 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
  <p class="updated_time"> 09:54 AM CT, Mar. 16 </p> 
@@ -65,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008249410/foreign-fighters-ukraine-war.html">These Foreign Fighters Are Joining the Battle for Ukraine</a> NYT: Thousands of foreign volunteers — including Americans — are arriving in Ukraine to help defend the country. But an attack on their training camp on Sunday has left some wondering if they’ll ever see the front lines. 
  <p class="updated_time"> 09:45 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/benjamin-hall-fox-news-ukraine-safe.html">Benjamin Hall, Fox News Journalist Who Was Injured in Ukraine, Is Now Safe</a> NYT: Benjamin Hall was seriously injured in an incident that killed a Fox News cameraman and a young Ukrainian journalist. 
- <p class="updated_time"> 09:43 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/death-of-russian-generals-in-ukraine-expose-vulnerabilities-in-moscows-military-tactics-11647441273">Four Russian Generals Killed in Three Weeks Show Moscow’s Vulnerabilities in Ukraine</a> WSJ: Four Russian Generals Killed in Three Weeks Show Moscow’s Vulnerabilities in Ukraine 
  <p class="updated_time"> 09:35 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60762022?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky invokes 9/11 in plea to US Congress</a> BBC: Ukraine's leader invoked the horror of the 2001 attacks on the US as he pleaded for more military aid. 
  <p class="updated_time"> 09:28 AM CT, Mar. 16 </p> 
@@ -79,14 +81,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1086869308/where-the-fighting-stands-in-ukraine">Where the fighting stands in Ukraine</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed Congress via video from the Ukrainian capital Kyiv on Wednesday. The city is currently under bombardment from Russia. 
  <p class="updated_time"> 09:03 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/iran-releases-british-prisoner-nazanin-zaghari-ratcliffe-amid-hopes-of-breakthrough-in-nuclear-talks-11647438203">Iran Releases British Prisoner Amid Hopes of Breakthrough in Nuclear Talks</a> WSJ: The release of Nazanin Zaghari-Ratcliffe, a British dual national, with another prisoner, Anousheh Ashouri, is a sign that Tehran is moving closer to returning to the 2015 nuclear agreement with the U.S. and other world powers. 
+ <p class="updated_time"> 09:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 08:59 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-vaccines-africa.html">In Africa, a Mix of Shots Drives an Uncertain Covid Vaccination Push</a> NYT: Supplies are more plentiful now but they are unpredictable and often a jumble of brands. Many places can’t meet the W.H.O.’s recommended dosing schedules. 
  <p class="updated_time"> 08:58 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/16/1085675211/ukraine-russia-displaced-refugees-lviv">Lviv takes in displaced Ukrainians but space and resources are strained</a> NPR: Space and resources are strained in the western city of Lviv. More than 200,000 Ukrainians have temporarily settled in the city while Russian airstrikes continued this past week. 
  <p class="updated_time"> 08:49 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086864597/zelenskyy-references-pearl-harbor-and-9-11-attacks-in-address-to-congress">Zelenskyy references Pearl Harbor and 9/11 attacks in address to Congress</a> NPR: Ukrainian President Volodymyr Zelenskyy addressed a joint session of Congress on Wednesday. 
- <p class="updated_time"> 08:43 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 08:28 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086844478/in-ukraine-writer-photographer-yevgenia-belorusets-documents-kyivs-displaced">In Ukraine, writer-photographer Yevgenia Belorusets documents Kyiv's displaced</a> NPR: Belorusets' book Lucky Breaks, written in the aftermath of Russia's previous assault into Ukraine in 2014, was published in English this month. The author remains in Kyiv producing art as war rages. 
  <p class="updated_time"> 08:21 AM CT, Mar. 16 </p> 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
  <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
- <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
@@ -214,8 +214,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:39 PM CT, Mar. 16 </p> 
+ <a href="https://www.cnn.com/2022/03/15/politics/january-6-occupy-capitol-hill-proud-boy/index.html">Document on plan to 'occupy' Capitol Hill buildings, Supreme Court on January 6 discovered by prosecutors</a> CNN: Prosecutors have discovered a written plan to "infiltrate" and "occupy" six congressional office buildings and the Supreme Court on January 6, 2021, as part of the federal investigation into Proud Boys leader Enrique Tarrio, according to his indictment and a source familiar with the case. 
  <p class="updated_time"> 01:33 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
+ <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/texas-mail-ballots-votes-trash-00017844">'Right in the trash': Texas ballot rejections soar, AP finds</a> Politico: Texas threw out mail votes at an abnormally high rate during the nation's first primary of 2022, according to a new analysis. 
+ <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/federal-reserve-raises-rates-inflation-rages-00017834">Fed raises rates as inflation rages and projects six more hikes this year</a> Politico: The quarter-point increase is the first since the Fed slashed rates to zero at the onset of the pandemic,  
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/us-sends-switchblade-drones-to-ukraine-00017836">U.S. sending Switchblade drones to Ukraine in $800 million package</a> Politico: The Switchblade is a small, light drone that can loiter in the air for up to 30 minutes before being directed to its target by an operator on the ground, dozens of miles away. 
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
@@ -267,7 +273,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086832770/in-an-appeal-to-congress-president-zelenskyy-will-ask-the-u-s-to-help-ukraine">In an appeal to Congress, Ukrainian President Zelenskyy asked the U.S. to help Ukraine</a> NPR: Ukraine's president addressed a joint meeting of Congress Wednesday morning. He appeared virtually and referenced Pearl Harbor and the 9/11 attacks in his speech. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086764072/texas-and-other-states-want-to-boycott-fossil-fuel-divestment-blackrock-climate">Texas and other states want to 'boycott' fossil fuel divestment</a> NPR: A Texas model law was written by the head of a group that opposes climate action and takes money from fossil fuel interests. It could shift billions away from major investment firms. 
+ <a href="https://www.npr.org/2022/03/16/1086764072/texas-and-other-states-want-to-boycott-fossil-fuel-divestment-blackrock-climate">Texas and other states want to punish fossil fuel divestment</a> NPR: A Texas model law was written by the head of a group that opposes climate action and takes money from fossil fuel interests. It could shift billions away from major investment firms. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/ketanji-brown-jackson-criminal-defense.html">As Jackson Faces Senators, Her Criminal Defense Record Is a Target</a> NYT: Republicans have vilified Biden’s judicial nominees who have represented criminal suspects. Judge Ketanji Brown Jackson, for the Supreme Court, is the most prominent. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
@@ -312,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/jan-6-panel-obtains-riot-footage-from-film-crew-that-trailed-proud-boys-00017545">Jan. 6 panel obtains riot footage from film crew that trailed Proud Boys</a> Politico: Goldcrest Films International filmed both inside and outside the Capitol on Jan. 6 and captured a meeting between the leaders of the Proud Boys and the Oath Keepers. 
  <p class="updated_time"> 04:48 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
- <p class="updated_time"> 04:46 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/maryland-primary-pushed-back-redistricting-00017543">Maryland primary pushed back 3 weeks over redistricting challenge</a> Politico: The decision also moves the state’s filing deadline for all offices to April 15. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/ukraine-photo-essay-humanitarian-church-00017118">On the ground in Ukraine, in photos: Millions flee their homes amid intensifying Russian attacks</a> Politico: A wave of refugees is escaping Russia’s invasion, creating the biggest humanitarian crisis in Europe in decades. 
  <p class="updated_time"> 03:08 PM CT, Mar. 15 </p> 
@@ -328,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/raskin-withdraws-as-bidens-fed-nominee-00017476">Raskin withdraws as Biden’s Fed nominee</a> Politico: Sarah Bloom Raskin had been stuck in the Senate Banking Committee amid a GOP boycott of a committee vote on her nomination. 
  <p class="updated_time"> 01:54 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/drilling-permits-spiked-then-plunged-under-biden-00016814">Drilling permits spiked then plunged under Biden</a> Politico: The number of oil and gas permits approved by the Bureau of Land Management for drilling on public lands declined to its lowest number under the Biden administration in January. 
- <p class="updated_time"> 01:14 PM CT, Mar. 15 </p> 
- <a href="https://www.cnn.com/2022/03/15/politics/january-6-occupy-capitol-hill-proud-boy/index.html">Document on plan to 'occupy' Capitol Hill buildings, Supreme Court on January 6 discovered by prosecutors</a> CNN: Prosecutors have discovered a written plan to "infiltrate" and "occupy" six congressional office buildings and the Supreme Court on January 6, 2021, as part of the federal investigation into Proud Boys leader Enrique Tarrio, according to his indictment and a source familiar with the case. 
  <p class="updated_time"> 11:45 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/mike-pence-january-6-script-change-00017294">Another Jan. 6 mystery revealed: Pence's second script rewrite</a> Politico: The never-before-told backstory of why the then-vice president made a change not seen since Al Gore — as a rebuttal to Trump allies' fringe theories. 
  <p class="updated_time"> 11:09 AM CT, Mar. 15 </p> 
