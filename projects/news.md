@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:16 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Asks Congress for More Weapons as Civilian Casualties Rise</a> NYT: President Biden announced $800 million in new military aid and, in answer to a question, said he believed Russia’s president, Vladimir V. Putin, was “a war criminal.” A Mariupol theater where officials said hundreds had been sheltering was largely destroyed. 
+ <p class="updated_time"> 04:31 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Live Updates: Ukraine Counterattacks as Russia Pounds Civilian Targets</a> NYT: The fate of hundreds was uncertain after a bombardment destroyed a Mariupol theater where they were sheltering. After Ukraine’s president pleaded with Congress for arms, President Biden announced $800 million in new military aid. 
+ <p class="updated_time"> 04:23 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 04:15 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: President Vladimir V. Putin of Russia denigrated European and American leaders, and Russians who disagreed with him. Analysts fear his remarks could signal a new wave of repression. 
  <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
@@ -27,16 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
  <p class="updated_time"> 03:44 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia attacks theatre sheltering civilians, Mariupol says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
- <p class="updated_time"> 03:39 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 03:37 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028278/wsj-reporter-describes-the-looting-and-killing-of-civilians-in-southern-ukraine">'WSJ' reporter describes the looting and killing of civilians in southern Ukraine</a> NPR: NPR's Ailsa Chang talks with Wall Street Journal reporter Yaroslav Trofimov about reports of violence against civilians in southern Ukraine. 
  <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028257/how-the-russian-invasion-of-ukraine-has-transformed-europe-and-the-eu">How the Russian invasion of Ukraine has transformed Europe and the EU</a> NPR: Europe is a fractious continent, where decision-making can be slow and bureaucratic. Russia's invasion of Ukraine has spurred Europe and its leading institution, the EU, to unprecedented action. 
+ <p class="updated_time"> 03:32 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:31 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
- <p class="updated_time"> 03:17 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028243/explosives-left-from-wars-in-iraq-injure-people-for-decades-that-follow">Explosives left from wars in Iraq injure people for decades that follow</a> NPR: The legacy of old wars in Iraq takes the form of mines and cluster bombs that still injure people, often children. Groups are trying to educate kids about the dangers. 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
@@ -48,8 +48,8 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:06 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087011897/biden-putin-war-criminal">Biden calls Putin a war criminal</a> NPR: President Biden on Tuesday was asked by reporters whether he was ready to call Russian President Putin a war criminal. "I think he is a war criminal," he said. 
  <p class="updated_time"> 02:54 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">‘The Era of the Foreign Correspondent Is Over’: Justin Smith on His Media Start-Up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
- <p class="updated_time"> 02:17 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
+ <p class="updated_time"> 02:32 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 02:08 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086884152/iran-prisoners-released-nazanin-naghari-ratcliffe">Iran releases 2 British Iranian citizens from prison</a> NPR: Nazanin Zaghari-Ratcliffe, a charity worker, and Anousheh Ashouri, a businessman, have now left the country. A third prisoner was released on furlough. Other foreigners remain imprisoned in Iran. 
@@ -63,18 +63,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are being flown back to their families after being released by Iran. 
  <p class="updated_time"> 01:38 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Japan hit by tremor prompting tsunami alert</a> BBC: The quake in the country's north-east rattled Tokyo and briefly cut power to millions of homes 
- <p class="updated_time"> 01:17 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 01:32 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 01:10 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/boris-johnson-saudi-arabia-ukraine.html">Boris Johnson Travels to Saudi Arabia for Oil Diplomacy</a> NYT: At home, critics had another take on Mr. Johnson’s efforts to reduce western reliance on Russian energy. 
  <p class="updated_time"> 01:08 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
+ <p class="updated_time"> 12:32 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
- <p class="updated_time"> 12:17 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 11:53 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: The British prime minister is visiting the de facto leaders of the United Arab Emirates and Saudi Arabia, acting as an emissary as they shun entreaties from President Biden to discuss energy policy. 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: The British prime minister visited the de facto leaders of the United Arab Emirates and Saudi Arabia, acting as an emissary as they shun entreaties from President Biden to discuss energy policy. 
  <p class="updated_time"> 11:42 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
  <p class="updated_time"> 11:37 AM CT, Mar. 16 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:24 PM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/chris-cuomo-125-million-unlawful-cnn-firing-00017944">Chris Cuomo wants $125 million for ‘unlawful’ CNN firing</a> Politico: He is seeking the award from an arbitrator. 
  <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086929156/russia-ukraine-war-what-happened-today-march-16">Russia-Ukraine war: What happened today (March 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:04 PM CT, Mar. 16 </p> 
