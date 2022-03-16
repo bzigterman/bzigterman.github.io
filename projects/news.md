@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:31 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 04:43 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Live Updates: Ukraine Counterattacks as Russia Pounds Civilian Targets</a> NYT: The fate of hundreds was uncertain after a bombardment destroyed a Mariupol theater where they were sheltering. After Ukraine’s president pleaded with Congress for arms, President Biden announced $800 million in new military aid. 
+ <p class="updated_time"> 04:42 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
+ <p class="updated_time"> 04:27 PM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: One dead after Japan hit by tremor</a> BBC: The quake in the country's north-east rattled Tokyo and briefly cut power to millions of homes. 
  <p class="updated_time"> 04:23 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Live Updates: Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 04:15 PM CT, Mar. 16 </p> 
@@ -29,12 +33,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
  <p class="updated_time"> 03:44 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia attacks theatre sheltering civilians, Mariupol says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
+ <p class="updated_time"> 03:44 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:37 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028278/wsj-reporter-describes-the-looting-and-killing-of-civilians-in-southern-ukraine">'WSJ' reporter describes the looting and killing of civilians in southern Ukraine</a> NPR: NPR's Ailsa Chang talks with Wall Street Journal reporter Yaroslav Trofimov about reports of violence against civilians in southern Ukraine. 
  <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028257/how-the-russian-invasion-of-ukraine-has-transformed-europe-and-the-eu">How the Russian invasion of Ukraine has transformed Europe and the EU</a> NPR: Europe is a fractious continent, where decision-making can be slow and bureaucratic. Russia's invasion of Ukraine has spurred Europe and its leading institution, the EU, to unprecedented action. 
- <p class="updated_time"> 03:32 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:31 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
  <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
@@ -49,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1087011897/biden-putin-war-criminal">Biden calls Putin a war criminal</a> NPR: President Biden on Tuesday was asked by reporters whether he was ready to call Russian President Putin a war criminal. "I think he is a war criminal," he said. 
  <p class="updated_time"> 02:54 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
- <p class="updated_time"> 02:32 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:44 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 02:08 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086884152/iran-prisoners-released-nazanin-naghari-ratcliffe">Iran releases 2 British Iranian citizens from prison</a> NPR: Nazanin Zaghari-Ratcliffe, a charity worker, and Anousheh Ashouri, a businessman, have now left the country. A third prisoner was released on furlough. Other foreigners remain imprisoned in Iran. 
@@ -59,17 +63,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60766981?at_medium=RSS&at_campaign=KARANGA">At least nine dead in Texas bus collision involving student athletes</a> BBC: A bus carrying members of a US university's golf team collided with a pickup in Texas on Tuesday. 
  <p class="updated_time"> 01:50 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086920906/novak-djokovic-french-open-tennis-covid">Novak Djokovic and Russian athletes are likely to compete at the French Open</a> NPR: Organizers at Roland-Garros said Serbian tennis star Novak Djokovic should be allowed to compete at the French Open thanks to loosened COVID rules in France. 
+ <p class="updated_time"> 01:44 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 01:43 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are being flown back to their families after being released by Iran. 
- <p class="updated_time"> 01:38 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Japan hit by tremor prompting tsunami alert</a> BBC: The quake in the country's north-east rattled Tokyo and briefly cut power to millions of homes 
- <p class="updated_time"> 01:32 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 01:10 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/boris-johnson-saudi-arabia-ukraine.html">Boris Johnson Travels to Saudi Arabia for Oil Diplomacy</a> NYT: At home, critics had another take on Mr. Johnson’s efforts to reduce western reliance on Russian energy. 
  <p class="updated_time"> 01:08 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
- <p class="updated_time"> 12:32 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 12:44 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
@@ -206,12 +208,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:38 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/pandemic-housing-aid.html">Treasury Shifts Cash Among States as Pandemic Housing Aid Dries Up</a> NYT: The Biden administration pulled back the aid from states and counties with unspent funds and diverted it to four states pressing for more: California, New York, New Jersey and Illinois. 
+ <p class="updated_time"> 04:37 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/business/economy/fed-interest-rates-inflation.html">Why the Fed Raised Interest Rates</a> NYT: The central bank wants a strong economy, but sustainability is the name of the game: A little pain today could mean less pain tomorrow. 
+ <p class="updated_time"> 04:32 PM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/afghans-biden-protected-status.html">Biden Offers Protected Status to Afghans Already in the United States</a> NYT: The program does not provide a path to a green card or citizenship, which many advocates say is warranted for Afghans who risked their lives to assist U.S. forces. 
  <p class="updated_time"> 04:24 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/chris-cuomo-125-million-unlawful-cnn-firing-00017944">Chris Cuomo wants $125 million for ‘unlawful’ CNN firing</a> Politico: He is seeking the award from an arbitrator. 
+ <p class="updated_time"> 04:17 PM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/five-suspects-charged-targeting-chinese-dissidents-u-s-00017912">5 suspects charged with targeting Chinese dissidents in U.S.</a> Politico: A Democratic congressional candidate from New York is among the victims of a Chinese government intimidation effort, U.S. officials say. 
  <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086929156/russia-ukraine-war-what-happened-today-march-16">Russia-Ukraine war: What happened today (March 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:04 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Ukraine Invasion Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Attack Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
  <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028271/education-secretary-cardona-on-grant-funds-for-hbcus-after-recent-bomb-threats">Education Secretary Cardona on grant funds for HBCUs after recent bomb threats</a> NPR: NPR's Juana Summers speaks with Secretary of Education Miguel Cardona about grant funds the administration is making available for HBCUs that have recently experienced a bomb threat. 
  <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
@@ -232,8 +242,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1086665322/1-year-after-atlanta-deaths-asian-americans-build-stronger-ties">A year after the Atlanta spa deaths, Asian American communities build stronger ties</a> NPR: After the slaying of six Asian American women in Atlanta last year, many Asian American are trying to build the infrastructure and resources for their communities to feel safe and supported. 
  <p class="updated_time"> 02:32 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/adams-eyes-end-to-employer-vaccine-mandate-00017859">Mayor Eric Adams eyes end to employer vaccine mandate ahead of MLB Opening Day</a> Politico: The mandate could now bench players including Yankees star Aaron Judge. 
- <p class="updated_time"> 02:24 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/pandemic-housing-aid.html">Treasury Shifts Cash Among States as Pandemic Housing Aid Dries Up</a> NYT: The Biden administration pulled back the aid from states and counties with unspent funds and diverted it to four states pressing for more: California, New York, New Jersey and Illinois. 
  <p class="updated_time"> 02:02 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
  <p class="updated_time"> 01:48 PM CT, Mar. 16 </p> 
@@ -243,7 +251,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/texas-mail-ballots-votes-trash-00017844">'Right in the trash': Texas ballot rejections soar, AP finds</a> Politico: Texas threw out mail votes at an abnormally high rate during the nation's first primary of 2022, according to a new analysis. 
  <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/federal-reserve-raises-rates-inflation-rages-00017834">Fed raises rates as inflation rages and projects six more hikes this year</a> Politico: The quarter-point increase is the first since the Fed slashed rates to zero at the onset of the pandemic,  
+ <a href="https://www.politico.com/news/2022/03/16/federal-reserve-raises-rates-inflation-rages-00017834">Fed raises rates as inflation rages and projects 6 more hikes in 2022</a> Politico: The quarter-point increase is the first since the Fed slashed rates to zero at the onset of the pandemic,  
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/us-sends-switchblade-drones-to-ukraine-00017836">U.S. sending Switchblade drones to Ukraine in $800 million package</a> Politico: The Switchblade is a small, light drone that can loiter in the air for up to 30 minutes before being directed to its target by an operator on the ground, dozens of miles away. 
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
@@ -277,7 +285,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:28 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/zelenskyy-recalls-pearl-harbor-9-11-in-plea-for-u-s-aid-00017698">Biden announces fresh aid to Ukraine but stops short of Zelenskyy's demands</a> Politico: Biden spoke after his Ukrainian counterpart urged Congress to consider a no-fly zone, playing a video depicting the grisly consequences of the Russian military strikes bombarding his nation. 
  <p class="updated_time"> 07:25 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086628727/zelenskyy-address-congress">Biden pledges $800 million to Ukraine after Zelenskyy's plea for more U.S. aid</a> NPR: Ukrainian President Zelenskyy delivered an impassioned plea for additional help and for President Biden to spearhead the world's defense of Ukraine. Later, Biden pledged to send more security support. 
+ <a href="https://www.npr.org/2022/03/16/1086628727/zelenskyy-address-congress">Biden pledges $800 million to Ukraine after Zelenskyy's plea for more U.S. aid</a> NPR: Ukrainian President Zelenskyy delivered an impassioned appeal for additional help and for President Biden to spearhead the world's defense of Ukraine. Biden pledged to send more weapons and support. 
  <p class="updated_time"> 06:46 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/16/zelenskyys-powers-of-persuasion-00017675">Zelenskyy’s powers of persuasion</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Mar. 16 </p> 
@@ -298,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-ukraine-russia-00017548">'He shoots from the hip, and that's part of his charm'</a> Politico: Ukrainian President Volodymyr Zelenskyy has effectively moved Congress into quick action to help his besieged country. And he's not doing it with diplomatic norms. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/hospital-mask-cdc-covid-00017556">Some hospitals ask patients, visitors to remove N95s, citing CDC</a> Politico: N95s, which seal tighter to the face, offer better protection against Covid-19, studies show. 
- <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/bidens-supply-chain-canadian-railway-strike-00017533">Biden’s latest supply chain hurdle: A looming Canadian rail strike</a> Politico: A labor strike set for Wednesday could set off a new wave of supply disruptions and price spikes in the U.S. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/white-house-ice-nominee-ed-gonzalez-00017547">White House tries to avoid a Raskin repeat as ICE pick teeters in Senate</a> Politico: A handful of undecided Democrats want to see more vetting of domestic abuse allegations that both the nominee and his wife deny. 
  <p class="updated_time"> 12:00 AM CT, Mar. 16 </p> 
@@ -328,10 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/ukraine-photo-essay-humanitarian-church-00017118">On the ground in Ukraine, in photos: Millions flee their homes amid intensifying Russian attacks</a> Politico: A wave of refugees is escaping Russia’s invasion, creating the biggest humanitarian crisis in Europe in decades. 
- <p class="updated_time"> 03:08 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/business/economy/inflation-rates-global-economy.html">As Fed Prepares to Raise Rates, Global Economy Sinks Deeper Into Turmoil </a> NYT: Federal Reserve officials are set to raise interest rates to control inflation, but the return to normal they had hoped to see remains painfully elusive. 
- <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
  <p class="updated_time"> 02:22 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/here-comes-the-sun-senate-moves-to-make-daylight-savings-time-permanent-00017451">Here comes the sun: Senate agrees on permanent daylight saving time</a> Politico: It's unclear whether the House will act to end America's fall-back, spring-forward clock-moving. But for the moment, senators basked in their agreement. 
  <p class="updated_time"> 02:16 PM CT, Mar. 15 </p> 
