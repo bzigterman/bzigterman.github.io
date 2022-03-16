@@ -9,42 +9,54 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:45 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 08:06 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Visit Besieged Kyiv in Show of Support</a> NYT: The prime ministers of the Czech Republic, Poland and Slovenia visited Ukraine’s battered capital to show their “unequivocal support” for Ukraine. President Biden will meet with NATO officials in Europe next week, aides said. 
+ <p class="updated_time"> 07:55 PM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: Three European PMs and the head of Poland's ruling party make a hazardous journey to Kyiv for talks. 
+ <p class="updated_time"> 07:49 PM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60715707?at_medium=RSS&at_campaign=KARANGA">Afghans turn to cryptocurrencies amid US sanctions</a> BBC: US sanctions, failing banks, and the drying up of foreign aid have left Afghanistan's economy in tatters. 
+ <p class="updated_time"> 07:29 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/world/americas/guatemala-abortion-law.html">In Reversal, Guatemala Shelves Anti-Abortion Law</a> NYT: President Alejandro Giammattei said he would veto the bill days after his allies pushed it through the legislature, a move that surprised analysts, human rights activists and officials. 
+ <p class="updated_time"> 07:23 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-russia-war-kyiv.html">Russian Bombardment of Kyiv Continues While European Leaders Visit </a> NYT: The prime ministers of Poland, the Czech Republic and Slovenia made the trip as a show of solidarity, but it also bared divisions with other European Union members. 
+ <p class="updated_time"> 07:16 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
+ <p class="updated_time"> 07:06 PM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60466398?at_medium=RSS&at_campaign=KARANGA">The tragedy of Afghanistan's malnourished children</a> BBC: The country's very youngest are casualties of a hunger crisis. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60752278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Two women in Kyiv tower blocks record their new life under siege</a> BBC: Two Ukrainian women have kept a video diary recording their new lives while under attack from Russia. 
+ <p class="updated_time"> 06:57 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/world/europe/european-leaders-ukraine-trip.html">3 European Leaders Say They Are in Kyiv to Support Ukraine</a> NYT: “It is here, in war-torn Kyiv, that history is being made,” one European leader wrote after arriving in Ukraine’s battered capital. 
  <p class="updated_time"> 06:44 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/marina-ovsyannikova-ukraine-war-protester.html"> Russian War Protester Who Burst Onto State TV Is Fined</a> NYT: In a video following her sentence, the state TV worker said she had been interrogated for 14 hours and “spent two days without sleep.” She still faces a lengthy prison sentence. 
- <p class="updated_time"> 06:40 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-russia-war-kyiv.html">Russian Bombardment of Kyiv Continues While European Leaders Visit </a> NYT: The prime ministers of Poland, the Czech Republic and Slovenia made the trip as a show of solidarity, but it also bared divisions with other European Union members. 
+ <p class="updated_time"> 06:25 PM CT, Mar. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How did a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
  <p class="updated_time"> 06:18 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60760303?at_medium=RSS&at_campaign=KARANGA">NYC's Met opera house hosts concert in support of Ukraine</a> BBC: The Metropolitan Opera holds a concert for Ukraine, opening with the war-torn country's national anthem. 
- <p class="updated_time"> 06:14 PM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: Three European PMs and the head of Poland's ruling party make a hazardous journey to Kyiv for talks. 
- <p class="updated_time"> 05:55 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
+ <p class="updated_time"> 06:16 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032">Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</a> WSJ: Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60756503?at_medium=RSS&at_campaign=KARANGA">Fox News' Pierre Zakrzewski and Oleksandra Kuvshinova killed in Kyiv</a> BBC: Pierre Zakrzewski and Oleksandra Kuvshinova were killed when their vehicle was hit outside Kyiv. 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60755202?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: What happened on day 20 of Russia's invasion</a> BBC: Three PMs visit Kyiv, while staff at a hospital in Mariupol say they are being held like hostages. 
  <p class="updated_time"> 05:21 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/european-leaders-ukraine-trip.html">3 European Leaders Say They Are in Kyiv to Support Ukraine</a> NYT: “It is here, in war-torn Kyiv, that history is being made,” one European leader wrote after arriving in Ukraine’s battered capital. 
- <p class="updated_time"> 05:21 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
+ <p class="updated_time"> 05:16 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 05:11 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-mykolaiv-russia-war.html">Life Inside Mykolaiv, a Besieged Ukrainian City</a> NYT: The port city of Mykolaiv is being shelled by Russian forces every day. Bodies are piled at the morgue. But residents refuse to succumb. 
- <p class="updated_time"> 04:55 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032">Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</a> WSJ: Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint 
  <p class="updated_time"> 04:48 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
  <p class="updated_time"> 04:47 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-johnson-vaccine.html">Mounting Data Shows J&J Vaccine as Effective as Pfizer and Moderna</a> NYT: Once dismissed as less effective, the vaccine now seems to be preventing infections and illness about as well as the two mRNA options. 
  <p class="updated_time"> 04:39 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/2022/03/15/1086641007/without-sending-troops-the-u-s-wages-hybrid-warfare-against-russia">Without sending troops, the U.S. wages 'hybrid warfare' against Russia </a> NPR: The U.S. and Russia have talked for years about 'hybrid war' – waging a conflict on multiple fronts beyond the battlefield. In unprecedented ways, the U.S. is now employing this against Russia. 
+ <a href="https://www.npr.org/2022/03/15/1086641007/without-sending-troops-the-u-s-wages-hybrid-warfare-against-russia">Without sending troops, the U.S. wages 'hybrid warfare' against Russia</a> NPR: The U.S. and Russia have talked for years about "hybrid war" — waging a conflict on multiple fronts beyond the battlefield. In unprecedented ways, the U.S. is now employing this against Russia. 
  <p class="updated_time"> 04:24 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/climate/endurance-shipwreck-shackleton.html">How Shackleton’s Endurance Was Found</a> NYT: “Gents, I want to introduce you to the Endurance.” More than a century after sinking in Antarctic waters, the legendary ship was found with just days to spare. 
+ <p class="updated_time"> 04:16 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 04:04 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086671754/russia-ukraine-war-what-happened-today-march-15">Russia-Ukraine war: What happened today (March 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:55 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/mariupol-death-toll-ukraine.html">Officials in Mariupol Struggle to Account for the Dead</a> NYT: The coastal city, a battleground for weeks, is under an increasingly relentless Russian assault that is taking an unspeakable toll. 
  <p class="updated_time"> 03:21 PM CT, Mar. 15 </p> 
@@ -63,18 +75,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60752390?at_medium=RSS&at_campaign=KARANGA">Police charge man over string of shootings targeting homeless</a> BBC: Five people were shot in nine days in New York and Washington - all with the same "modus operandi". 
  <p class="updated_time"> 03:18 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086634309/russia-media-state-television-ukraine-war">What Ukraine war news looks like from Russia</a> NPR: State TV has long been Russians' top news source. Now it's becoming the only word of record, presenting stories of "surgical" attacks on Ukrainian nationalists and threats of anti-Russian bioweapons. 
+ <p class="updated_time"> 03:16 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russia-softens-iran-demands-re-opening-way-for-nuclear-deal-11647382224">Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal</a> WSJ: Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal 
  <p class="updated_time"> 03:13 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60749279?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: Russian journalist tells of 14-hour interrogation</a> BBC: Marina Ovsyannikova has been fined and released after carrying out a protest live on Russian TV. 
  <p class="updated_time"> 03:08 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/economy/inflation-rates-global-economy.html">As Fed Prepares to Raise Rates, Global Economy Sinks Deeper Into Turmoil </a> NYT: Federal Reserve officials are set to raise interest rates to control inflation, but the return to normal they had hoped to see remains painfully elusive. 
- <p class="updated_time"> 02:55 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 02:40 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-canada-parliament-ukraine.html">Zelensky’s Appeal to Canada: Imagine if Toronto Were Kyiv.</a> NYT: The Ukrainian president’s emotional speech to Canadian lawmakers underscored how he has increasingly cast himself as a spokesman for liberal democracy. 
  <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
- <p class="updated_time"> 01:55 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-softens-iran-demands-re-opening-way-for-nuclear-deal-11647382224">Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal</a> WSJ: Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal 
  <p class="updated_time"> 01:28 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60758621?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: TV protest 'was my own decision'</a> BBC: The Russian state TV employee who staged an anti-war protest during a live bulletin speaks to reporters outside court. 
  <p class="updated_time"> 01:28 PM CT, Mar. 15 </p> 
@@ -93,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/15/1086681395/uk-russia-sanctions-trade-oligarchs">New U.K. sanctions target Russian vodka, luxury vehicles, fashion and artwork</a> NPR: The U.K. announced new economic sanctions against Russia and sanctioned more oligarchs and politicians. Government officials say they've designated more than 1,000 entities since the invasion began. 
  <p class="updated_time"> 12:45 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
- <p class="updated_time"> 12:44 PM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60749064?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Protester exposes cracks in Kremlin's war message</a> BBC: Marina Ovsyannikova's moment of protest on TV was extraordinary - but she now faces prosecution. 
  <p class="updated_time"> 12:27 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757133?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hostages as Russian forces occupy hospital, official says</a> BBC: Doctors and patients are prevented from leaving Mariupol's main hospital, the deputy mayor says. 
  <p class="updated_time"> 12:12 PM CT, Mar. 15 </p> 
@@ -119,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008249410/foreign-fighters-ukraine-war.html">These Foreign Fighters Are Joining the Battle for Ukraine</a> NYT: Thousands of foreign volunteers — including Americans — are arriving in Ukraine to help defend the country. But an attack on their training camp on Sunday has left some wondering if they’ll ever see the front lines. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60748418?at_medium=RSS&at_campaign=KARANGA">Ukrainian girl in viral video singing Let It Go safe in Poland</a> BBC: Seven-year-old Amelia was filmed singing a song from Disney's Frozen whilst sheltering in a basement in Ukraine 
- <p class="updated_time"> 08:03 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60749223?at_medium=RSS&at_campaign=KARANGA">Three killed in Israel, West Bank violence</a> BBC: Two Palestinians in the West Bank and an Arab man in Israel die in clashes with Israeli forces. 
  <p class="updated_time"> 07:40 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/russian-protester-tv.html">Anti-War Protester Storms a Live Broadcast on Russia’s Most-Watched News Show</a> NYT: The intervention by a state TV employee underscored how dissent is seeping into the public sphere in Russia, despite the Kremlin’s crackdown on anyone who challenges its official narrative of the invasion. 
  <p class="updated_time"> 07:39 AM CT, Mar. 15 </p> 
@@ -131,10 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/china-blogger-odessa-ukraine-war.html">Chinese Blogger Challenges Beijing’s Version of the War in Ukraine</a> NYT: Wang Jixian has become one of the boldest voices confronting the Chinese state-controlled media’s narrative, drawing hundreds of thousands of viewers. 
  <p class="updated_time"> 06:48 AM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-considers-accepting-yuan-instead-of-dollars-for-chinese-oil-sales-11647351541">Saudi Arabia Considers Accepting Yuan Instead of Dollars for Chinese Oil Sales</a> WSJ: Saudi Arabia is in active talks with Beijing to price its oil sales to China in yuan, people familiar with the matter said, a move that would dent the U.S. dollar’s dominance of the global petroleum market and mark another shift by the world’s top crude exporter toward Asia. 
- <p class="updated_time"> 06:28 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60703301?at_medium=RSS&at_campaign=KARANGA">China: Businesses shut as officials widen Covid lockdowns</a> BBC: Toyota, Volkswagen and Apple supplier Foxconn are among firms halting their operations. 
- <p class="updated_time"> 06:02 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60300009?at_medium=RSS&at_campaign=KARANGA">Hijab ban: Karnataka high court upholds government order on headscarves</a> BBC: The high court's order comes in the wake of a row over the Muslim headscarf in India's Karnataka state. 
  <p class="updated_time"> 05:51 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60743342?at_medium=RSS&at_campaign=KARANGA">Ukraine: Nick Robinson on how Germany is reversing decades of closer ties with Russia</a> BBC: Children of the 1989 generation won't enjoy the same freedoms as their parents, writes Nick Robinson in Berlin. 
  <p class="updated_time"> 05:17 AM CT, Mar. 15 </p> 
@@ -145,26 +147,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/health/covid-testing-variants-emory.html">Inside the High-Stakes Race to Test the Covid Tests</a> NYT: Researchers in Atlanta have helped the federal government evaluate dozens of Covid tests and pioneer a new model for developing novel diagnostics. 
  <p class="updated_time"> 02:00 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-vaccines-africa.html">In Africa, a Mix of Shots Drives an Uncertain Covid Vaccination Push</a> NYT: Supplies are more plentiful now but they are unpredictable and often a jumble of brands. Many places can’t meet the W.H.O.’s recommended dosing schedules. 
- <p class="updated_time"> 01:36 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60747342?at_medium=RSS&at_campaign=KARANGA">India investigates missile that landed in Pakistan</a> BBC: Ministers said the missile was accidentally fired into Pakistan on 3 March due to a "technical malfunction". 
  <p class="updated_time"> 01:03 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/asia/china-russia-ukraine.html">China Sees at Least One Winner Emerging From Ukraine War: China</a> NYT: The country’s leaders think it can shield itself from economic and diplomatic fallout and eventually be seen as a pillar of stability. 
- <p class="updated_time"> 01:00 AM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60742263?at_medium=RSS&at_campaign=KARANGA">Ukraine war: One shell that destroyed a family</a> BBC: A woman recounts the moment her husband and son were killed by a Russian shell in the town of Irpin. 
  <p class="updated_time"> 12:55 AM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60732939?at_medium=RSS&at_campaign=KARANGA">Kashmir Files: Vivek Agnihotri's film exposes India's new fault lines</a> BBC: A film on the exodus of Kashmiri Hindus in the 1990s has divided opinions in a polarised country. 
  <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
- <p class="updated_time"> 11:47 PM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60746437?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Fears Russian aggression could spill into Poland</a> BBC: The influx of refugees and Russian security threats leaves Poland feeling vulnerable. 
  <p class="updated_time"> 08:57 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-russia-diplomacy.html">Diplomacy Quickens to Halt Ukraine War or Stop Its Expansion</a> NYT: Ukraine and Russia held a new round of talks and agreed to resume them on Tuesday, as the United States warned China about helping an increasingly isolated Kremlin and expanding the conflict. 
  <p class="updated_time"> 08:51 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-russian-troops-surrender.html">Zelensky Calls on Russian Troops to Surrender</a> NYT: The Ukrainian leader and the Pentagon have both said some Russian soldiers have surrendered or been captured. 
- <p class="updated_time"> 07:52 PM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60745493?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv terrain will slow Russian troops, say Ukraine generals</a> BBC: Rivers and marshes help to protect the capital city, but it is still vulnerable to Russian missiles. 
- <p class="updated_time"> 07:40 PM CT, Mar. 14 </p> 
- <a href="https://www.bbc.co.uk/news/60705629?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Why Vladimir Putin couldn't have trained fighters in Africa</a> BBC: A misleading photo has been used by some to suggest the continent should support Russia in Ukraine. 
  <p class="updated_time"> 07:33 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/kyiv-ukraine-russia-war.html">Kyiv’s Once-Busy Streets Empty as Russia Targets Capital</a> NYT: With civilian areas coming under fire and an estimated half the population having fled, the avenues of the Ukrainian capital, under siege by Russian forces, are almost deserted. 
  <p class="updated_time"> 07:29 PM CT, Mar. 14 </p> 
@@ -210,16 +202,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:46 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/us/politics/doug-emhoff-covid.html">Doug Emhoff, Vice President’s Husband, Tests Positive for the Coronavirus</a> NYT: Vice President Kamala Harris tested negative for the virus on Tuesday, an aide said, but Mr. Emhoff’s positive test forced her to back out of an event with President Biden. 
- <p class="updated_time"> 06:30 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 07:39 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/us/politics/biden-congress-covid-relief-aid.html">In Impasse Over New Covid Relief Aid, Neither Side Is Willing to Bend</a> NYT: The White House wants more money for treatments, tests, vaccines and research, but Republicans in Congress insist the administration will have to repurpose existing funds. 
+ <p class="updated_time"> 07:34 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/pfizer-second-booster-shot-older-americans.html">Pfizer and BioNTech Seek Authorization of a Second Booster Shot for Older Americans</a> NYT: The move could further inflame a tortuous debate among scientists over when the coronavirus vaccines’ protection should be bolstered, and for whom. 
+ <p class="updated_time"> 07:30 PM CT, Mar. 15 </p> 
+ <a href="https://www.politico.com/news/2022/03/15/salesforce-to-provide-rnc-records-january-6-00017623">Salesforce to provide RNC records to Jan. 6 panel unless court steps in</a> Politico: The Republican Party contends that the scope of a subpoena to the vendor was so broad that it amounted to an illegitimate incursion on political rivals. 
+ <p class="updated_time"> 07:07 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/us/politics/doug-emhoff-covid.html">Doug Emhoff, Vice President’s Husband, Tests Positive for the Coronavirus</a> NYT: Vice President Kamala Harris tested negative for the virus on Tuesday, an aide said, but Mr. Emhoff’s positive test forced her to back out of an event with President Biden. 
+ <p class="updated_time"> 07:04 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/us/politics/democrats-covid-positive.html">Nine House Democrats Test Positive for Covid After Late-Night Voting and Retreat</a> NYT: Three representatives reported positive tests on Tuesday morning. Several others tested positive after a party gathering last week in Philadelphia. 
  <p class="updated_time"> 06:10 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/mike-gibbons-ohio.html">Republican in Ohio Senate Primary Spoke Offensively About Asians</a> NYT: Mike Gibbons, a leading contender to succeed Senator Rob Portman, made the comments in a 2013 podcast on doing business in China. 
  <p class="updated_time"> 06:07 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/shalanda-young-omb.html">Shalanda Young Confirmed to Head Biden’s Budget Office</a> NYT: Ms. Young is the first Black woman to lead the Office of Management and Budget, which had been without permanent leadership for more than a year. 
- <p class="updated_time"> 06:05 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/us/politics/democrats-covid-positive.html">Nine House Democrats Test Positive for Covid After Late-Night Voting and Retreat</a> NYT: Three representatives reported positive tests on Tuesday morning. Several others tested positive after a party gathering last week in Philadelphia. 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/daylight-saving-time-senate.html">A Groggy Senate Approves Making Daylight Saving Time Permanent</a> NYT: Legislation that passed unanimously would end the practice of setting clocks back one hour in the fall. Its prospects were uncertain in the House. 
  <p class="updated_time"> 05:27 PM CT, Mar. 15 </p> 
@@ -302,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/democrats-divided-crypto-future-00015804">Elizabeth Warren’s anti-crypto crusade splits the left</a> Politico: The lack of consensus among Democrats means it's unlikely Congress will act anytime soon to pass major legislation on the direction of regulation of the new market. 
  <p class="updated_time"> 11:50 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/democrat-covid-lofgren-dean-delauro.html">Three House Democrats Test Positive for Covid After Retreat</a> NYT: All four House members attributed their lack of severe symptoms to protection from vaccines. 
- <p class="updated_time"> 07:03 PM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/stacey-abrams-campaign-atlanta-rally-00017191">Stacey Abrams kicks off next phase of campaign with Atlanta rally</a> Politico: The Democratic candidate for Georgia governor is focused on boosting education funding, passing new voting rights protections and expanding Medicaid. 
  <p class="updated_time"> 06:15 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/us/politics/enrique-tarrio-jan-6-document.html">Document in Jan. 6 Case Shows Plan to Storm Government Buildings</a> NYT: New details from evidence cited in the indictment of Enrique Tarrio, the former head of the far-right Proud Boys, reveal a plan with similarities to what unfolded at the Capitol. 
  <p class="updated_time"> 05:40 PM CT, Mar. 14 </p> 
@@ -328,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin, Collins opposition likely dooms Biden's Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
- <p class="updated_time"> 10:47 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/us/politics/trump-campaign-fec-violation.html">Democratic Group Says Trump Is Breaking Campaign Law by Not Declaring for 2024</a> NYT: The complaint to the Federal Election Commission accuses Donald Trump of improperly using his existing political committees to advance a presidential run. 
  <p class="updated_time"> 10:44 AM CT, Mar. 14 </p> 
  <a href="https://www.cnn.com/2022/03/14/politics/liz-cheney-trump-republican-fundraiser/index.html">Republican donors line up behind Liz Cheney as she takes on Trump</a> CNN: Bobbie and Bill Kilberg were expecting a few dozen people for their fundraiser Monday for GOP Rep. Liz Cheney, an intimate cocktail party they were planning at their home in McLean, Virginia. 
  <p class="updated_time"> 09:01 AM CT, Mar. 14 </p> 
