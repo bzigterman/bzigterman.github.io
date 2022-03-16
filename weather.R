@@ -28,8 +28,6 @@ champaign_weather_response <-
 
 champaign_weather_json <- content(champaign_weather_response, as = "text")
 champaign_current <- fromJSON(champaign_weather_json, flatten = TRUE)$current
-champaign_minutely <- fromJSON(champaign_weather_json, flatten = TRUE)$minutely %>%
-  mutate(utc_time = as_datetime(dt))
 champaign_hourly <- fromJSON(champaign_weather_json, flatten = TRUE)$hourly%>%
   mutate(utc_time = as_datetime(dt))%>%
   mutate(central_time = with_tz(utc_time, tzone = "America/Chicago")) %>%
