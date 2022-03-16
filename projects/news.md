@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:43 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 04:49 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Live Updates: Ukraine Counterattacks as Russia Pounds Civilian Targets</a> NYT: The fate of hundreds was uncertain after a bombardment destroyed a Mariupol theater where they were sheltering. After Ukraine’s president pleaded with Congress for arms, President Biden announced $800 million in new military aid. 
  <p class="updated_time"> 04:42 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
@@ -29,12 +29,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60767664?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Fourth Russian general killed - Zelensky</a> BBC: The news raises questions on why senior Russian officers are getting so close to the fighting. 
  <p class="updated_time"> 04:00 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
+ <p class="updated_time"> 03:56 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:54 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
  <p class="updated_time"> 03:44 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia attacks theatre sheltering civilians, Mariupol says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
- <p class="updated_time"> 03:44 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:37 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087028278/wsj-reporter-describes-the-looting-and-killing-of-civilians-in-southern-ukraine">'WSJ' reporter describes the looting and killing of civilians in southern Ukraine</a> NPR: NPR's Ailsa Chang talks with Wall Street Journal reporter Yaroslav Trofimov about reports of violence against civilians in southern Ukraine. 
  <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
@@ -51,32 +51,32 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/arts/dance/olga-smirnova-bolshoi-ballet-ukraine-war.html">Olga Smirnova, Opposed to the Ukraine War, Quits the Bolshoi</a> NYT: Olga Smirnova said she was against the war in Ukraine “with all the fibers of my soul.” Now, she has joined the Dutch National Ballet. 
  <p class="updated_time"> 03:06 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1087011897/biden-putin-war-criminal">Biden calls Putin a war criminal</a> NPR: President Biden on Tuesday was asked by reporters whether he was ready to call Russian President Putin a war criminal. "I think he is a war criminal," he said. 
+ <p class="updated_time"> 02:56 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 02:54 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
- <p class="updated_time"> 02:44 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 02:08 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086884152/iran-prisoners-released-nazanin-naghari-ratcliffe">Iran releases 2 British Iranian citizens from prison</a> NPR: Nazanin Zaghari-Ratcliffe, a charity worker, and Anousheh Ashouri, a businessman, have now left the country. A third prisoner was released on furlough. Other foreigners remain imprisoned in Iran. 
  <p class="updated_time"> 02:02 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
  <p class="updated_time"> 01:58 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60766981?at_medium=RSS&at_campaign=KARANGA">At least nine dead in Texas bus collision involving student athletes</a> BBC: A bus carrying members of a US university's golf team collided with a pickup in Texas on Tuesday. 
+ <p class="updated_time"> 01:56 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 01:50 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086920906/novak-djokovic-french-open-tennis-covid">Novak Djokovic and Russian athletes are likely to compete at the French Open</a> NPR: Organizers at Roland-Garros said Serbian tennis star Novak Djokovic should be allowed to compete at the French Open thanks to loosened COVID rules in France. 
- <p class="updated_time"> 01:44 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 01:43 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60756870?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori on way home to UK</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are being flown back to their families after being released by Iran. 
  <p class="updated_time"> 01:10 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/boris-johnson-saudi-arabia-ukraine.html">Boris Johnson Travels to Saudi Arabia for Oil Diplomacy</a> NYT: At home, critics had another take on Mr. Johnson’s efforts to reduce western reliance on Russian energy. 
  <p class="updated_time"> 01:08 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
- <p class="updated_time"> 12:44 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 12:56 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 12:26 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
- <p class="updated_time"> 11:53 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: The British prime minister visited the de facto leaders of the United Arab Emirates and Saudi Arabia, acting as an emissary as they shun entreaties from President Biden to discuss energy policy. 
+ <p class="updated_time"> 11:56 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 11:42 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
  <p class="updated_time"> 11:37 AM CT, Mar. 16 </p> 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/jeff-fortenberry-jury-selection-nebraska-00017968">Bias at issue with jury pool in Nebraska congressman's trial</a> Politico: The judge asked possible members if their views about politicians could make it difficult for them to be impartial. 
  <p class="updated_time"> 04:38 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/pandemic-housing-aid.html">Treasury Shifts Cash Among States as Pandemic Housing Aid Dries Up</a> NYT: The Biden administration pulled back the aid from states and counties with unspent funds and diverted it to four states pressing for more: California, New York, New Jersey and Illinois. 
  <p class="updated_time"> 04:37 PM CT, Mar. 16 </p> 
@@ -251,7 +253,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/texas-mail-ballots-votes-trash-00017844">'Right in the trash': Texas ballot rejections soar, AP finds</a> Politico: Texas threw out mail votes at an abnormally high rate during the nation's first primary of 2022, according to a new analysis. 
  <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/federal-reserve-raises-rates-inflation-rages-00017834">Fed raises rates as inflation rages and projects 6 more hikes in 2022</a> Politico: The quarter-point increase is the first since the Fed slashed rates to zero at the onset of the pandemic,  
+ <a href="https://www.politico.com/news/2022/03/16/federal-reserve-raises-rates-inflation-rages-00017834">Fed kicks off fight against inflation. It could take years.</a> Politico: The quarter-point increase is the first since the Fed slashed rates to zero at the onset of the pandemic. 
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/us-sends-switchblade-drones-to-ukraine-00017836">U.S. sending Switchblade drones to Ukraine in $800 million package</a> Politico: The Switchblade is a small, light drone that can loiter in the air for up to 30 minutes before being directed to its target by an operator on the ground, dozens of miles away. 
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
