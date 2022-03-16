@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
+ <p class="updated_time"> 05:04 AM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60763980?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv flats destroyed in overnight bombardment</a> BBC: Firefighters extinguished a blaze and evacuated residents from the residential building. 
  <p class="updated_time"> 04:49 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: After a perilous train journey from Poland to Kyiv, European leaders tell Ukraine "you're not alone". 
  <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 babies born through surrogacy are stuck waiting for their biological parents to take them home. 
- <p class="updated_time"> 04:31 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
  <p class="updated_time"> 04:27 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826753/u-n-says-military-violence-in-myanmar-may-be-crimes-against-humanity">U.N. says military violence in Myanmar may be 'crimes against humanity'</a> NPR: More than 12,500 people in Myanmar have been detained, at least 440,000 have been displaced and about 14 million people are in need of urgent humanitarian assistance, the report says. 
  <p class="updated_time"> 04:26 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russia-oligarchs-sanctions-putin.html">Oligarchs Got Richer Despite Sanctions. Will This Time Be Different?</a> NYT: For nearly a decade, sanctions have been little more than names on a list for wealthy Russians. Governments are working to give them bite. 
+ <p class="updated_time"> 04:16 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 04:15 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086835380/blinken-sets-a-standard-for-lifting-sanctions-an-irreversible-russian-withdrawal">Blinken sets a standard for lifting sanctions: an 'irreversible' Russian withdrawal</a> NPR: In an interview with NPR, Secretary of State Antony Blinken, the top U.S. diplomat, warns of the further devastation of Ukrainian cities. 
  <p class="updated_time"> 04:13 AM CT, Mar. 16 </p> 
@@ -30,31 +34,31 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086746684/ukraine-latest-news-kherson-russia-invasion">A college student in occupied Ukraine says buying food means it's a lucky day</a> NPR: What's daily life like in one of the recently-occupied parts of Ukraine? One college student in the southern city of Kherson steps through his new reality. 
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/business/genshin-impact-china-japan.html">Genshin Impact, Smash Hit From China, Beats Japan at Its Own Game</a> NYT: Genshin Impact, a nearly picture-perfect reproduction of Japanese fantasy role-playing games, has raked in billions of dollars and sent shock waves through the world’s aging video game superpower. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Citing a Chevron Tanker, Ukraine Seeks Tougher Restrictions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
- <p class="updated_time"> 03:54 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
+ <p class="updated_time"> 03:16 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 03:14 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
  <p class="updated_time"> 02:56 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
- <p class="updated_time"> 02:54 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
  <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
- <p class="updated_time"> 01:54 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:16 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 01:24 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086828199/russia-steps-up-assaults-as-ukraine-appeals-for-more-help">Russia steps up assaults as Ukraine appeals for more help</a> NPR: The fighting across the country continues as Ukraine's president prepares to speak to the U.S. Congress. 
+ <p class="updated_time"> 01:16 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
+ <p class="updated_time"> 01:04 AM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korean Weapon Test Fails, Explodes in Midair, Seoul Says</a> WSJ: The Wednesday launch is Pyongyang’s 10th weapons test of the year. 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-60739969?at_medium=RSS&at_campaign=KARANGA">Ukraine: The volunteers racing aid from the UK to the front line</a> BBC: Volunteers are racing medical supplies from the UK to the Ukrainian front line. 
- <p class="updated_time"> 12:54 AM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
- <p class="updated_time"> 11:54 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
@@ -181,20 +185,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/world/europe/ukraine-refugees-poland-belarus.html">Two Refugees, Both on Poland’s Border. But Worlds Apart.</a> NYT: A young man fleeing war in Sudan and a young woman evacuating Ukraine crossed into Poland at the same time. They had very different experiences. 
  <p class="updated_time"> 05:26 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/business/papa-johns-russia.html">He’s American, He Oversees Papa John’s in Russia and He’s Staying</a> NYT: Christopher Wynne’s company controls the franchise agreements for the 190 Papa John’s locations in the country. “At the end of the day, they appreciate a good pizza,” he said. 
- <p class="updated_time"> 05:02 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/technology/ukraine-fox-news-benjamin-hall.html">Fox News Correspondent Benjamin Hall Is Injured in Ukraine</a> NYT: Mr. Hall is a longtime war correspondent who joined the network in 2015. 
  <p class="updated_time"> 03:20 PM CT, Mar. 14 </p> 
  <a href="https://www.nytimes.com/2022/03/14/world/europe/julian-assange-wikileaks-extradition.html">U.K. Supreme Court Says Assange Cannot Appeal His Extradition to U.S.</a> NYT: In a blow for the embattled WikiLeaks founder, the court said it had refused permission to appeal “because the application does not raise an arguable point of law.” 
- <p class="updated_time"> 02:56 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/europe/uk-ukraine-refugee-sponsorship-scheme.html">Britain Announces ‘Homes For Ukraine’ Program to Sponsor Refugees</a> NYT: The program, called “Homes for Ukraine,” offers a new route for Ukrainian refugees to come to Britain, which had previously been limited to those joining family members already living there. 
- <p class="updated_time"> 12:28 PM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/europe/lithuania-russia-attack-ukraine-nato.html">Lithuania, a Vulnerable NATO Link, Readies for Putin and Russia</a> NYT: The Baltics, wedged between Russia and Belarus, have been likened to a modern-day West Berlin. Many here worry that if Ukraine falls, they might be next. 
- <p class="updated_time"> 11:07 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/arts/music/paavo-jarvi-putin-ukraine-russia.html">A Conductor on Why He Stayed in Russia After the Invasion Began</a> NYT: The Estonian American conductor Paavo Järvi chose to remain in Moscow temporarily to lead a Russian youth orchestra: “I felt a responsibility.” 
- <p class="updated_time"> 11:04 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/asia/angkor-wat-covid-uncrowded.html">Cambodian Temple, Once Overcrowded, Wants Tourists Back</a> NYT: Cambodia has been open to foreign tourists for months, but in this time of Covid, few have made the trip, making it possible to imagine that you alone have rediscovered the glorious temple complex. 
- <p class="updated_time"> 05:40 AM CT, Mar. 14 </p> 
- <a href="https://www.nytimes.com/2022/03/14/world/asia/china-covid-omicron-lockdowns.html">Wave of Omicron Infections Prompts Lockdowns in China</a> NYT: After two years of largely containing coronavirus outbreaks, China’s “Covid zero” policies are being tested by the highly transmissible variant. 
 
 
 </details>
@@ -217,17 +209,21 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/david-mccormick-teacher-pensions.html">David McCormick  Faces Scrutiny in Pennsylvania Over Teacher Pension Fund</a> NYT: David McCormick, a Republican Senate candidate in Pennsylvania, came under attack from his chief rival, Dr. Mehmet Oz, over the underperformance of investments for the state’s teachers. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-ukraine-russia-00017548">How Zelenskyy learned to love Congress</a> Politico: The Ukranian president has effectively moved Congress into quick action to help his beleaguered country, even as he eschews typical diplomatic norms. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/gas-prices-pressure-governors-taxes-00017292">Gas price spike pressures governors to lower taxes</a> Politico: Red and blue states alike are rushing to respond to soaring gas prices. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
+ <a href="https://www.politico.com/news/2022/03/16/hospital-mask-cdc-covid-00017556">Some hospitals ask patients, visitors to remove N95s, citing CDC</a> Politico: N95s, which seal tighter to the face, offer better protection against Covid-19, studies show. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/white-house-ice-nominee-ed-gonzalez-00017547">White House tries to avoid a Raskin repeat as ICE pick teeters in Senate</a> Politico: A handful of undecided Democrats want to see more vetting of domestic abuse allegations that both the nominee and his wife deny. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-ukraine-russia-00017548">How Zelenskyy learned to love Congress</a> Politico: The Ukranian president has effectively moved Congress into quick action to help his beleaguered country, even as he eschews typical diplomatic norms. 
+ <a href="https://www.politico.com/news/2022/03/16/bidens-supply-chain-canadian-railway-strike-00017533">Biden’s latest supply chain hurdle: A looming Canadian rail strike</a> Politico: A labor strike set for Wednesday could set off a new wave of supply disruptions and price spikes in the U.S. 
  <p class="updated_time"> 02:02 AM CT, Mar. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:00 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/pfizer-second-booster-shot-older-americans.html">Pfizer and BioNTech Seek Authorization of a Second Booster Shot for Older Americans</a> NYT: The move could further inflame a tortuous debate among scientists over when the coronavirus vaccines’ protection should be bolstered, and for whom. 
  <p class="updated_time"> 10:35 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/pentagon-civilian-casualties.html">House Democrats Ask Pentagon for Details on Plan to Reduce Civilian Casualties</a> NYT: In a letter on Tuesday, more than 40 lawmakers called it imperative that the military uphold “consistent standards for protecting the lives of civilians.” 
- <p class="updated_time"> 10:15 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/ukraine-compromise-escape-mariupol-00017658">Ukraine sees room for compromise, as 20,000 escape Mariupol</a> Politico: The developments on the diplomatic front and on the ground came as Russia’s invasion neared the three-week mark. 
  <p class="updated_time"> 08:55 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/doug-emhoff-covid.html">Doug Emhoff, Vice President’s Husband, Tests Positive for the Coronavirus</a> NYT: Vice President Kamala Harris tested negative for the virus on Tuesday, an aide said, but Mr. Emhoff’s positive test forced her to back out of an event with President Biden. 
  <p class="updated_time"> 07:39 PM CT, Mar. 15 </p> 
@@ -240,8 +236,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/us/politics/mike-gibbons-ohio.html">Republican in Ohio Senate Primary Spoke Offensively About Asians</a> NYT: Mike Gibbons, a leading contender to succeed Senator Rob Portman, made the comments in a 2013 podcast on doing business in China. 
  <p class="updated_time"> 06:07 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/shalanda-young-omb.html">Shalanda Young Confirmed to Head Biden’s Budget Office</a> NYT: Ms. Young is the first Black woman to lead the Office of Management and Budget, which had been without permanent leadership for more than a year. 
- <p class="updated_time"> 05:56 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/pfizer-emergency-authorization-second-booster-65-plus-00017355">Pfizer seeks emergency authorization for 2nd Covid booster for 65-plus</a> Politico: The request for a second booster shot is based on two real-world data sets suggesting another vaccine dose boosts protection against the Omicron variant while maintaining its safety profile. 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/daylight-saving-time-senate.html">A Groggy Senate Approves Making Daylight Saving Time Permanent</a> NYT: Legislation that passed unanimously would end the practice of setting clocks back one hour in the fall. Its prospects were uncertain in the House. 
  <p class="updated_time"> 05:27 PM CT, Mar. 15 </p> 
@@ -292,12 +286,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/mike-pence-january-6-script-change-00017294">Another Jan. 6 mystery revealed: Pence's second script rewrite</a> Politico: The never-before-told backstory of why the then-vice president made a change not seen since Al Gore  — as a rebuttal to Trump allies' fringe theories. 
  <p class="updated_time"> 11:35 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/seizing-russian-oligarchs-real-estate-00017158">Confiscating a Russian oligarch’s luxury condo requires much more than political bluster</a> Politico: Seizures can be further complicated by the fact that ownership of most if not all of the Russian oligarchs’ properties is shielded by shell companies. 
+ <p class="updated_time"> 11:09 AM CT, Mar. 15 </p> 
+ <a href="https://www.politico.com/news/2022/03/15/sanctions-belarus-president-russian-officials-00017327">U.S. sanctions Belarus president, more Russian officials</a> Politico: All property and interests in property owned by Belarusian President Alexander Lukashenko or his wife are now blocked in the U.S. 
  <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/child-tax-credit-refund-00016592">Child Tax Credit expansion creates refund roller coaster</a> Politico: Many people will see their refunds reduced or even eliminated, while others will get a windfall. 
  <p class="updated_time"> 11:07 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086653838/the-white-house-says-its-running-out-of-money-to-cover-covid-tests-and-vaccines">The White House says it's running out of money to cover COVID tests and vaccines</a> NPR: The White House asked for more money from Congress to keep its COVID response going. But that hasn't happened, so some things need to be wound down. 
- <p class="updated_time"> 10:41 AM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/congress-white-house-covid-funding-00017312">‘We need this money’: Covid funding stalls as Congress, White House point fingers</a> Politico: There appears to be no clear strategy from either the White House or Capitol Hill to secure the funds. 
  <p class="updated_time"> 10:18 AM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086427993/marie-yovanovitch-ukraine-ambassador-lessons-from-the-edge">Former Ambassador Marie Yovanovitch warns Putin will move west if he wins in Ukraine</a> NPR: Yovanovitch served as the U.S. ambassador to Ukraine but was relieved of her post following a smear campaign orchestrated by Trump lawyer Rudy Giuliani. Her new memoir is Lessons From the Edge. 
  <p class="updated_time"> 09:48 AM CT, Mar. 15 </p> 
@@ -314,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/14/us/politics/enrique-tarrio-jan-6-document.html">Document in Jan. 6 Case Shows Plan to Storm Government Buildings</a> NYT: New details from evidence cited in the indictment of Enrique Tarrio, the former head of the far-right Proud Boys, reveal a plan with similarities to what unfolded at the Capitol. 
  <p class="updated_time"> 05:40 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086535100/wife-of-justice-thomas-rebuts-claims-of-conflict-of-interest">Wife of Justice Thomas rebuts claims of conflict of interest</a> NPR: In an interview published Monday, Ginni Thomas said that while she did attend the Jan. 6 rally to protest President Biden's election, she left before Donald Trump took the stage. 
- <p class="updated_time"> 05:05 PM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/russia-biden-killing-iran-deal-00017113">Russia may do Biden a favor by killing the Iran deal</a> Politico: Some Democrats and diplomats are increasingly wary of restoring the 2015 agreement, arguing it is weaker than before and gives too much sanctions relief to Tehran. 
  <p class="updated_time"> 04:30 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086525664/white-house-tells-china-of-its-deep-concerns-about-providing-assistance-to-russi">White House tells China of its 'deep concerns' about providing assistance to Russia</a> NPR: U.S. national security adviser Jake Sullivan met with Chinese diplomats in Rome on Monday in what a senior administration adviser described as an "intense" seven-hour session. 
  <p class="updated_time"> 04:07 PM CT, Mar. 14 </p> 
@@ -324,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/14/1086498929/those-arguments-over-school-book-bans-may-influence-midterm-elections">Those arguments over school book bans may influence midterm elections</a> NPR: NPR's Ari Shapiro talks with Elizabeth Bruenig from The Atlantic about the political benefits of arguing over book bans in schools. 
  <p class="updated_time"> 03:45 PM CT, Mar. 14 </p> 
  <a href="https://www.npr.org/2022/03/14/1086498859/chinese-and-u-s-officials-meet-in-rome-to-talk-about-war-in-ukraine">Chinese and U.S. officials meet in Rome to talk about war in Ukraine</a> NPR: Top Chinese and U.S. officials met in Rome to discuss the Ukraine crisis amid reports that Russia has asked Beijing for military and economic assistance. 
- <p class="updated_time"> 12:17 PM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/biden-weighs-europe-trip-support-ukraine-00017026">Biden weighing Europe trip</a> Politico: The trip has not been confirmed and may not happen, depending on the state of Russia’s invasion, the officials cautioned. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin, Collins opposition likely dooms Biden's Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
  <p class="updated_time"> 10:44 AM CT, Mar. 14 </p> 
@@ -338,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/14/something-unusual-is-happening-between-biden-and-congress-00016935"> Something unusual is happening between Biden and Congress</a> Politico Playbook: And Russia and Ukraine are set to resume diplomatic talks. 
  <p class="updated_time"> 03:31 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/ketanji-brown-jackson-supreme-court-confirmation-00016594">Who, us, fight? Senate GOP vows ‘respectful’ Supreme Court hearings</a> Politico: Unlike in confirmation battles past, Republicans don't quite have a theme for their examination of Judge Ketanji Brown Jackson’s record. Except being nicer than Democrats. 
- <p class="updated_time"> 03:30 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/biden-support-ukraine-russia-trump-00016882">Trump’s shadow lurks over Biden’s support for Ukraine</a> Politico: As the administration works out how to stop Putin’s invasion, the critics at home are circling. 
  <p class="updated_time"> 10:56 AM CT, Mar. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/13/as-russia-gets-bogged-down-negotiations-heat-up-00016856"> As Russia gets bogged down, negotiations heat up</a> Politico Playbook: And Florida emerges as ground zero for America’s culture war. 
  <p class="updated_time"> 06:01 AM CT, Mar. 13 </p> 
