@@ -9,43 +9,45 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:27 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 09:53 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: 3 European Leaders Visit Besieged Kyiv in Show of Support</a> NYT: The prime ministers of the Czech Republic, Poland and Slovenia visited Ukraine’s battered capital to show their “unequivocal support” for Ukraine. President Biden will meet with NATO officials in Europe next week, aides said. 
+ <p class="updated_time"> 09:39 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/climate/endurance-shipwreck-shackleton.html">How Shackleton’s Endurance Was Found</a> NYT: “Gents, I want to introduce you to the Endurance.” More than a century after sinking in Antarctic waters, the legendary ship was found with just days to spare. 
+ <p class="updated_time"> 09:35 PM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
+ <p class="updated_time"> 09:03 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 08:56 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60756983?at_medium=RSS&at_campaign=KARANGA">Stormzy tour review: Star praises fans who waited two years to see him</a> BBC: The star thanks fans who held onto tickets for two years as his Heavy Is The Head tour launches. 
- <p class="updated_time"> 08:52 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
  <p class="updated_time"> 08:43 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086811273/russia-putin-sanctions-biden-clinton-us-officials">Russia says it's sanctioning Biden, Hillary Clinton and top U.S. officials </a> NPR: Russia's foreign ministry said Russia would sanction President Biden and members of his administration, banning them from entering Russia. It says the move is retaliation for U.S. sanctions. 
- <p class="updated_time"> 08:33 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 08:25 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-russia-war-kyiv.html">Russian Bombardment of Kyiv Continues While European Leaders Visit </a> NYT: The prime ministers of Poland, the Czech Republic and Slovenia made the trip as a show of solidarity, but it also bared divisions with other European Union members. 
  <p class="updated_time"> 08:24 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60760435?at_medium=RSS&at_campaign=KARANGA">New Zealand border to reopen from next month, PM Ardern says</a> BBC: PM Jacinda Ardern says they are 'ready to welcome the world back', beginning with Australians. 
  <p class="updated_time"> 08:23 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/european-leaders-ukraine-trip.html">3 European Leaders Say They Are in Kyiv to Support Ukraine</a> NYT: “It is here, in war-torn Kyiv, that history is being made,” one European leader wrote after arriving in Ukraine’s battered capital. 
+ <p class="updated_time"> 08:03 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032">Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</a> WSJ: Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint 
  <p class="updated_time"> 07:55 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: Three European PMs and the head of Poland's ruling party make a hazardous journey to Kyiv for talks. 
  <p class="updated_time"> 07:49 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60715707?at_medium=RSS&at_campaign=KARANGA">Afghans turn to cryptocurrencies amid US sanctions</a> BBC: US sanctions, failing banks, and the drying up of foreign aid have left Afghanistan's economy in tatters. 
- <p class="updated_time"> 07:33 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/inside-chernobyl-200-exhausted-staff-toil-round-the-clock-at-russian-gunpoint-11647357032">Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint</a> WSJ: Inside Chernobyl, 200 Exhausted Staff Toil Round the Clock at Russian Gunpoint 
  <p class="updated_time"> 07:29 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/americas/guatemala-abortion-law.html">In Reversal, Guatemala Shelves Anti-Abortion Law</a> NYT: President Alejandro Giammattei said he would veto the bill days after his allies pushed it through the legislature, a move that surprised analysts, human rights activists and officials. 
  <p class="updated_time"> 07:06 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60466398?at_medium=RSS&at_campaign=KARANGA">The tragedy of Afghanistan's malnourished children</a> BBC: The country's very youngest are casualties of a hunger crisis. 
+ <p class="updated_time"> 07:03 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 07:01 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60752278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Two women in Kyiv tower blocks record their new life under siege</a> BBC: Two Ukrainian women have kept a video diary recording their new lives while under attack from Russia. 
  <p class="updated_time"> 06:44 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/marina-ovsyannikova-ukraine-war-protester.html"> Russian War Protester Who Burst Onto State TV Is Fined</a> NYT: In a video following her sentence, the state TV worker said she had been interrogated for 14 hours and “spent two days without sleep.” She still faces a lengthy prison sentence. 
- <p class="updated_time"> 06:33 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
  <p class="updated_time"> 06:25 PM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How did a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60701050?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: How can a US basketball star just vanish?</a> BBC: Brittney Griner, widely considered the best female player of all time, has been detained in Russia. 
  <p class="updated_time"> 06:18 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60760303?at_medium=RSS&at_campaign=KARANGA">NYC's Met opera house hosts concert in support of Ukraine</a> BBC: The Metropolitan Opera holds a concert for Ukraine, opening with the war-torn country's national anthem. 
- <p class="updated_time"> 05:33 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 06:03 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60756503?at_medium=RSS&at_campaign=KARANGA">Fox News' Pierre Zakrzewski and Oleksandra Kuvshinova killed in Kyiv</a> BBC: Pierre Zakrzewski and Oleksandra Kuvshinova were killed when their vehicle was hit outside Kyiv. 
@@ -55,16 +57,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
  <p class="updated_time"> 05:11 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-mykolaiv-russia-war.html">Life Inside Mykolaiv, a Besieged Ukrainian City</a> NYT: The port city of Mykolaiv is being shelled by Russian forces every day. Bodies are piled at the morgue. But residents refuse to succumb. 
+ <p class="updated_time"> 05:03 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/russia-softens-iran-demands-re-opening-way-for-nuclear-deal-11647382224">Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal</a> WSJ: Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal 
  <p class="updated_time"> 04:48 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
  <p class="updated_time"> 04:47 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-johnson-vaccine.html">Mounting Data Shows J&J Vaccine as Effective as Pfizer and Moderna</a> NYT: Once dismissed as less effective, the vaccine now seems to be preventing infections and illness about as well as the two mRNA options. 
  <p class="updated_time"> 04:39 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086641007/without-sending-troops-the-u-s-wages-hybrid-warfare-against-russia">Without sending troops, the U.S. wages 'hybrid warfare' against Russia</a> NPR: The U.S. and Russia have talked for years about "hybrid war" — waging a conflict on multiple fronts beyond the battlefield. In unprecedented ways, the U.S. is now employing this against Russia. 
- <p class="updated_time"> 04:33 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/russia-softens-iran-demands-re-opening-way-for-nuclear-deal-11647382224">Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal</a> WSJ: Russia Softens Iran Demands, Re-Opening Way for Nuclear Deal 
- <p class="updated_time"> 04:24 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/climate/endurance-shipwreck-shackleton.html">How Shackleton’s Endurance Was Found</a> NYT: “Gents, I want to introduce you to the Endurance.” More than a century after sinking in Antarctic waters, the legendary ship was found with just days to spare. 
  <p class="updated_time"> 04:04 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086671754/russia-ukraine-war-what-happened-today-march-15">Russia-Ukraine war: What happened today (March 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
