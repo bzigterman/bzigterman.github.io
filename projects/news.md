@@ -9,40 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:23 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/15/world/ukraine-russia-war">Ukraine Live Updates: Biden Will Announce $800 Million in New Aid</a> NYT: President Volodymyr Zelensky is set to address Congress on Wednesday. NATO will discuss stepping up defenses. Mr. Zelensky urged more leaders to visit Kyiv after three prime ministers came to the capital. 
+ <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
+ <p class="updated_time"> 02:48 AM CT, Mar. 16 </p> 
+ <a href="https://www.npr.org/2022/03/16/1086826534/new-zealand-will-open-its-borders-to-some-tourists-much-earlier-than-expected">New Zealand will open its borders to some tourists much earlier than expected</a> NPR: The move is meant to speed up the recovery of the island nation's pandemic-battered economy, Prime Minister Jacinda Ardern said Wednesday. 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
  <p class="updated_time"> 02:04 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
- <p class="updated_time"> 01:42 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 01:54 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-strike-kyiv-as-fighting-rages-on-edge-of-ukraines-capital-11647340678">Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital</a> WSJ: Russia Bombards Kyiv as European Leaders Arrive in Ukraine’s Capital 
  <p class="updated_time"> 01:24 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086828199/russia-steps-up-assaults-as-ukraine-appeals-for-more-help">Russia steps up assaults as Ukraine appeals for more help</a> NPR: The fighting across the country continues as Ukraine's president prepares to speak to the U.S. Congress. 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-60739969?at_medium=RSS&at_campaign=KARANGA">Ukraine: The volunteers racing aid from the UK to the front line</a> BBC: Volunteers are racing medical supplies from the UK to the Ukrainian front line. 
- <p class="updated_time"> 12:42 AM CT, Mar. 16 </p> 
+ <p class="updated_time"> 12:54 AM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/abramovich-investment-vehicle-shifted-control-shortly-after-russia-invaded-ukraine-11647380381">Abramovich Investment Vehicle Shifted Control Shortly After Invasion</a> WSJ: Abramovich Investment Vehicle Shifted Control Shortly After Invasion 
- <p class="updated_time"> 11:42 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 11:54 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/rollback-of-xi-jinpings-economic-campaign-exposes-cracks-in-his-power-11647354449">Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power</a> WSJ: Rollback of Xi Jinping’s Economic Campaign Exposes Cracks in His Power 
+ <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60760385?at_medium=RSS&at_campaign=KARANGA">El Huevo: Alleged drug lord's arrest causes violent clashes in Mexico</a> BBC: The arrest of alleged drug lord "The Egg" sparked a violent gun battle on the US-Mexico border. 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-russia-war-kyiv.html">Russian Bombardment of Kyiv Continues While European Leaders Visit </a> NYT: The prime ministers of Poland, the Czech Republic and Slovenia made the trip as a show of solidarity, but it also bared divisions with other European Union members. 
- <p class="updated_time"> 10:42 PM CT, Mar. 15 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-again-despite-efforts-to-help-developers-11647402673">China’s New-Home Prices Fall Again Despite Efforts to Help Developers</a> WSJ: China’s New-Home Prices Fall Again Despite Efforts to Help Developers 
  <p class="updated_time"> 10:01 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60757157?at_medium=RSS&at_campaign=KARANGA">Ukraine war: European leaders risk train ride to meet Zelensky</a> BBC: After a perilous train journey from Poland to Kyiv, European leaders tell Ukraine 'you're not alone'. 
- <p class="updated_time"> 09:42 PM CT, Mar. 15 </p> 
+ <p class="updated_time"> 09:54 PM CT, Mar. 15 </p> 
  <a href="https://www.wsj.com/articles/north-korea-test-launches-unknown-projectile-south-korean-military-says-11647395210">North Korea Weapons Test Appears to Have Failed, Seoul Says</a> WSJ: North Korea Weapons Test Appears to Have Failed, Seoul Says 
  <p class="updated_time"> 09:39 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/climate/endurance-shipwreck-shackleton.html">How Shackleton’s Endurance Was Found</a> NYT: “Gents, I want to introduce you to the Endurance.” More than a century after sinking in Antarctic waters, the legendary ship was found with just days to spare. 
  <p class="updated_time"> 08:43 PM CT, Mar. 15 </p> 
  <a href="https://www.npr.org/2022/03/15/1086811273/russia-putin-sanctions-biden-clinton-us-officials">Russia says it's sanctioning Biden, Hillary Clinton and top U.S. officials </a> NPR: Russia's foreign ministry said Russia would sanction President Biden and members of his administration, banning them from entering Russia. It says the move is retaliation for U.S. sanctions. 
  <p class="updated_time"> 08:24 PM CT, Mar. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60760435?at_medium=RSS&at_campaign=KARANGA">New Zealand border to reopen from next month, PM Ardern says</a> BBC: PM Jacinda Ardern says they are 'ready to welcome the world back', beginning with Australians. 
+ <a href="https://www.bbc.co.uk/news/world-asia-60760435?at_medium=RSS&at_campaign=KARANGA">New Zealand border to reopen from next month, PM Ardern says</a> BBC: PM Jacinda Ardern says they are "ready to welcome the world back", beginning with Australians. 
  <p class="updated_time"> 08:23 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/european-leaders-ukraine-trip.html">3 European Leaders Say They Are in Kyiv to Support Ukraine</a> NYT: “It is here, in war-torn Kyiv, that history is being made,” one European leader wrote after arriving in Ukraine’s battered capital. 
  <p class="updated_time"> 07:49 PM CT, Mar. 15 </p> 
@@ -63,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60756503?at_medium=RSS&at_campaign=KARANGA">Fox News' Pierre Zakrzewski and Oleksandra Kuvshinova killed in Kyiv</a> BBC: Pierre Zakrzewski and Oleksandra Kuvshinova were killed when their vehicle was hit outside Kyiv. 
  <p class="updated_time"> 05:30 PM CT, Mar. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60755202?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: What happened on day 20 of Russia's invasion</a> BBC: Three PMs visit Kyiv, while staff at a hospital in Mariupol say they are being held like hostages. 
- <p class="updated_time"> 05:21 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
  <p class="updated_time"> 05:11 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-mykolaiv-russia-war.html">Life Inside Mykolaiv, a Besieged Ukrainian City</a> NYT: The port city of Mykolaiv is being shelled by Russian forces every day. Bodies are piled at the morgue. But residents refuse to succumb. 
  <p class="updated_time"> 04:48 PM CT, Mar. 15 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/15/1086681395/uk-russia-sanctions-trade-oligarchs">New U.K. sanctions target Russian vodka, luxury vehicles, fashion and artwork</a> NPR: The U.K. announced new economic sanctions against Russia and sanctioned more oligarchs and politicians. Government officials say they've designated more than 1,000 entities since the invasion began. 
  <p class="updated_time"> 12:45 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
- <p class="updated_time"> 12:00 PM CT, Mar. 15 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/03/15/1086176563/on-the-frontlines-of-polands-makeshift-response-to-the-ukrainian-refugee-crisis">On the front lines of Poland's makeshift response to the Ukrainian refugee crisis</a> NPR: Nearly three million people have fled Ukraine since Russia's invasion began — most of them to Poland. NPR visits two border crossings that highlight the differences in reception refugees are seeing. 
  <p class="updated_time"> 11:53 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/music/met-opera-ukraine.html">Metropolitan Opera’s Concert Honors Ukraine</a> NYT: A concert to benefit relief efforts featured a young Ukrainian singer, Beethoven’s “Ode to Joy” and the Met’s prima donna of the moment. 
  <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
