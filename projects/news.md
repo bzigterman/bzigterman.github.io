@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
+ <p class="updated_time"> 11:56 PM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori arrive in UK after being freed from Iran</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori touched down at RAF Brize Norton just after 01:00 GMT. 
  <p class="updated_time"> 11:42 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/17/1087130870/honduras-judge-says-ex-president-can-be-extradited-to-u-s">Honduras judge says ex-president can be extradited to the U.S.</a> NPR: Juan Orlando Hernández, whom U.S. prosecutors accused in recent years of funding his political rise with profits from drug traffickers, can appeal the extradition decision. 
  <p class="updated_time"> 11:37 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/americas/honduras-extradition-juan-orlando-hernandez.html">Honduras Judge Approves Extradition of Ex-President to U.S.</a> NYT: Former President Juan Orlando Hernández is facing drug-trafficking and weapons charges 
+ <p class="updated_time"> 11:22 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 11:19 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Live Updates: Ukraine Counterattacks as Russia Pounds Civilian Targets</a> NYT: The fate of hundreds was uncertain after an attack destroyed a theater in Mariupol where they had sheltered. After Ukraine’s president pleaded with Congress for arms, President Biden approved $800 million in new military aid. He also called Vladimir V. Putin “a war criminal.” 
  <p class="updated_time"> 11:19 PM CT, Mar. 16 </p> 
@@ -21,24 +27,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
  <p class="updated_time"> 11:00 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60775521?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett released from jail pending appeal</a> BBC: Last week the US actor was sentenced to prison for lying about being the victim of a hate crime. 
- <p class="updated_time"> 10:58 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 10:31 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
- <p class="updated_time"> 10:18 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori arrive in UK after being freed from Iran</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori touched down at RAF Brize Norton just after 01:00 GMT. 
- <p class="updated_time"> 09:58 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 10:22 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
+ <p class="updated_time"> 09:22 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 09:02 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Two dead after Japan hit by tremor</a> BBC: The quake in the country's north-east rattles Tokyo and briefly cuts power to millions of homes. 
  <p class="updated_time"> 08:58 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/us-ukraine-weapons-drones.html">U.S. Adds ‘Kamikaze Drones’ as More Weapons Flow to Ukraine</a> NYT: NATO allies are focused on providing Kyiv with high-tech defensive weapons that are easy to use and move. 
- <p class="updated_time"> 08:58 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 08:41 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Zelensky Pleads for More U.S. Aid, Invoking America’s Darkest Days</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
  <p class="updated_time"> 08:25 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60661875?at_medium=RSS&at_campaign=KARANGA">Selling sex to survive in Iran</a> BBC: Women and men are increasingly turning to prostitution to pay the bills, despite official denials. 
+ <p class="updated_time"> 08:22 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 08:21 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">After Six-Year Ordeal in Iran, Nazanin Zaghari-Ratcliffe Is Freed</a> NYT: Ms. Zaghari-Ratcliffe, a charity worker, was arrested and detained in Tehran in 2016. She was released along with another dual citizen of Iran and the U.K. after the resolution of a longstanding British debt. 
  <p class="updated_time"> 08:15 PM CT, Mar. 16 </p> 
@@ -47,20 +51,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
  <p class="updated_time"> 08:08 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60769509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russians grieve for fallen soldiers</a> BBC: Two weeks since the last official death toll, funerals of Russian soldiers killed in Ukraine continue. 
- <p class="updated_time"> 07:58 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 07:42 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745568?at_medium=RSS&at_campaign=KARANGA">Covid: Why US students are staging walkouts over masks</a> BBC: Schools across the US are dropping mask mandates - but students are divided over the issue. 
  <p class="updated_time"> 07:36 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/biden-putin-russia-us-ukraine.html">Biden Calls Putin ‘War Criminal’ in Verbal Escalation With Russia</a> NYT: The U.S. president’s unscripted remarks echoed comments other American officials have made recently. 
  <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
+ <p class="updated_time"> 07:22 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 07:08 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60752777?at_medium=RSS&at_campaign=KARANGA">In pictures: 2022 Sony World Photography Awards</a> BBC: The winners of the Open category of the 2022 Sony World Photography Awards have been announced. 
- <p class="updated_time"> 06:58 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 06:53 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60748012?at_medium=RSS&at_campaign=KARANGA">Karnataka bandh: Should courts decide if hijab is essential in Islam?</a> BBC: A court has ruled the hijab is not "essential" to Islam, but who should make such a decision? 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60748012?at_medium=RSS&at_campaign=KARANGA">Karnataka bandh: Should courts decide if hijab is essential in Islam?</a> BBC: What does a landmark court ruling on the hijab mean in India, where public displays of faith are common? 
  <p class="updated_time"> 06:42 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 06:09 PM CT, Mar. 16 </p> 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-canada-parliament-ukraine.html">Zelensky’s Appeal to Canada: Imagine if Toronto Were Kyiv.</a> NYT: The Ukrainian president’s emotional speech to Canadian lawmakers underscored how he has increasingly cast himself as a spokesman for liberal democracy. 
  <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
- <p class="updated_time"> 01:23 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/business/media/russia-ukraine-journalism-censorship.html">Russian Censorship Law Forces Reporters to Weigh Safety</a> NYT: Western news outlets are engaging in a tense debate over balancing an urgent need to bear witness with journalists’ ability to report freely under strict new laws there. 
  <p class="updated_time"> 11:53 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/music/met-opera-ukraine.html">Metropolitan Opera’s Concert Honors Ukraine</a> NYT: A concert to benefit relief efforts featured a young Ukrainian singer, Beethoven’s “Ode to Joy” and the Met’s prima donna of the moment. 
  <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/us/lauro-cavazos-dead.html">Lauro Cavazos, First Hispanic Cabinet Member, Dies at 95</a> NYT: A sixth-generation Mexican American and a Democrat, he was secretary of education, straddling the administrations of Ronald Reagan and George H.W. Bush. 
  <p class="updated_time"> 11:24 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/ketanji-brown-jackson-criminal-defense.html">As Jackson Faces Senators, Her Criminal Defense Record Is a Target</a> NYT: Republicans have vilified Biden’s judicial nominees who have represented criminal suspects. Judge Ketanji Brown Jackson, for the Supreme Court, is the most prominent. 
  <p class="updated_time"> 11:10 PM CT, Mar. 16 </p> 
@@ -228,8 +230,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/16/ireland-michael-martin-covid-biden-00018034">Irish Prime Minister Michael Martin tests positive for Covid while in D.C. to meet Biden</a> Politico: On Wednesday night, the leader had to leave the Ireland Funds Gala event, where he sat next to House Speaker Nancy Pelosi and where the president gave a speech. 
  <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
- <p class="updated_time"> 07:12 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/lauro-cavazos-dead.html">Lauro Cavazos, First Hispanic Cabinet Member, Dies at 95</a> NYT: A sixth-generation Mexican American, he served briefly as secretary of education under Presidents Ronald Reagan and George H.W. Bush. 
  <p class="updated_time"> 06:51 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/senate-advances-powell-fed-nominees-raskin-00017884">Senate panel advances Powell, other Fed nominees after Raskin debacle</a> Politico: The nominees would join the Fed as the central bank is grappling with the highest inflation in four decades. 
  <p class="updated_time"> 06:08 PM CT, Mar. 16 </p> 
