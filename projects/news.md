@@ -9,18 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:39 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: Rescue workers began pulling some survivors from the wreckage of a theater in Mariupol where hundreds, including children, were believed to be sheltering. Ukrainian air defenses claimed to shoot down Russian planes and missiles over Kyiv. 
- <p class="updated_time"> 05:37 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 05:52 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: Rescue workers began pulling some survivors from the wreckage of a theater in Mariupol where hundreds, including children, were believed to be sheltering. Ukrainian air defenses claimed to shoot down Russian planes and missiles over Kyiv. 
+ <p class="updated_time"> 05:52 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 05:23 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">It Seemed Like a Big Potato. Then Guinness Weighed In.</a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
  <p class="updated_time"> 05:11 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
+ <p class="updated_time"> 04:57 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-unesco-body-armor-journalists.html">UNESCO Will Send Body Armor to Ukrainian Journalists</a> NYT: The U.N. agency said thousands of Ukrainian journalists with no protective equipment or training were now covering the war. At least four journalists have been killed. 
- <p class="updated_time"> 04:46 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 04:42 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 04:41 AM CT, Mar. 17 </p> 
@@ -35,17 +35,17 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
+ <p class="updated_time"> 03:57 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 03:48 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60764403?at_medium=RSS&at_campaign=KARANGA">Cuba anti-government protesters jailed for up to 30 years</a> BBC: They were found guilty of sedition and theft after taking part in rare anti-government demonstrations. 
- <p class="updated_time"> 03:46 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
- <p class="updated_time"> 02:46 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 02:57 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
- <p class="updated_time"> 01:46 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 01:57 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
- <p class="updated_time"> 12:46 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 12:57 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
@@ -55,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/17/1087130870/honduras-judge-says-ex-president-can-be-extradited-to-u-s">Honduras judge says ex-president can be extradited to the U.S.</a> NPR: Juan Orlando Hernández, whom U.S. prosecutors accused in recent years of funding his political rise with profits from drug traffickers, can appeal the extradition decision. 
  <p class="updated_time"> 11:37 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/americas/honduras-extradition-juan-orlando-hernandez.html">Honduras Judge Approves Extradition of Ex-President to U.S.</a> NYT: Former President Juan Orlando Hernández is facing drug-trafficking and weapons charges 
- <p class="updated_time"> 11:19 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-counter-offensive-russia.html">Ukrainian Forces Strike Back at Russia, as Biden Sends More Firepower</a> NYT: The attacks in Kyiv and Kherson were aimed at inflicting “maximum losses” against Russia but not regaining territory, while the U.S. pledged $800 million more in military aid. 
  <p class="updated_time"> 11:01 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
  <p class="updated_time"> 11:00 PM CT, Mar. 16 </p> 
@@ -189,6 +187,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-canada-parliament-ukraine.html">Zelensky’s Appeal to Canada: Imagine if Toronto Were Kyiv.</a> NYT: The Ukrainian president’s emotional speech to Canadian lawmakers underscored how he has increasingly cast himself as a spokesman for liberal democracy. 
  <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
+ <p class="updated_time"> 11:53 AM CT, Mar. 15 </p> 
+ <a href="https://www.nytimes.com/2022/03/15/arts/music/met-opera-ukraine.html">Metropolitan Opera’s Concert Honors Ukraine</a> NYT: A concert to benefit relief efforts featured a young Ukrainian singer, Beethoven’s “Ode to Joy” and the Met’s prima donna of the moment. 
  <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/music/ukraine-national-anthem.html">Ukraine’s National Anthem Reverberates Around the World</a> NYT: “Ukraine’s glory hasn’t perished,” begins the anthem, which is being played by orchestras worldwide as a sign of solidarity with Ukraine. 
 
