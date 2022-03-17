@@ -9,42 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:13 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: In what has increasingly become a war of attrition, the fate of hundreds was uncertain after an attack destroyed a theater in Mariupol where they had sheltered. Peace talks between Russia and Ukraine enter a fourth day, but Vladimir Putin has sent conflicting signals about his willingness to negotiate. 
+ <p class="updated_time"> 04:10 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">Where the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 03:53 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
- <p class="updated_time"> 03:25 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: In what has increasingly become a war of attrition, the fate of hundreds was uncertain after an attack destroyed a theater in Mariupol where they had sheltered. Peace talks between Russia and Ukraine enter a fourth day, but Vladimir Putin has sent conflicting signals about his willingness to negotiate. 
- <p class="updated_time"> 03:06 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
- <p class="updated_time"> 02:57 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 03:22 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 02:42 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 02:36 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Gourd, Tuber or Potato? A Big Find in New Zealand</a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
- <p class="updated_time"> 01:57 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 02:22 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
- <p class="updated_time"> 12:57 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 01:22 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
+ <p class="updated_time"> 12:22 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
- <p class="updated_time"> 11:57 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 11:57 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60708711?at_medium=RSS&at_campaign=KARANGA">Scientists claim hairy black holes explain Hawking paradox</a> BBC: Researchers say they have solved one of science's biggest paradoxes, first identified by Prof Stephen Hawking. 
  <p class="updated_time"> 11:42 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/17/1087130870/honduras-judge-says-ex-president-can-be-extradited-to-u-s">Honduras judge says ex-president can be extradited to the U.S.</a> NPR: Juan Orlando Hernández, whom U.S. prosecutors accused in recent years of funding his political rise with profits from drug traffickers, can appeal the extradition decision. 
  <p class="updated_time"> 11:37 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/americas/honduras-extradition-juan-orlando-hernandez.html">Honduras Judge Approves Extradition of Ex-President to U.S.</a> NYT: Former President Juan Orlando Hernández is facing drug-trafficking and weapons charges 
+ <p class="updated_time"> 11:22 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 11:19 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-counter-offensive-russia.html">Ukrainian Forces Strike Back at Russia, as Biden Sends More Firepower</a> NYT: The attacks in Kyiv and Kherson were aimed at inflicting “maximum losses” against Russia but not regaining territory, while the U.S. pledged $800 million more in military aid. 
  <p class="updated_time"> 11:01 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
  <p class="updated_time"> 11:00 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60775521?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett released from jail pending appeal</a> BBC: Last week the US actor was sentenced to prison for lying about being the victim of a hate crime. 
- <p class="updated_time"> 10:57 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 10:31 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
  <p class="updated_time"> 09:02 PM CT, Mar. 16 </p> 
@@ -155,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
  <p class="updated_time"> 04:45 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 infants born through surrogacy are left in limbo because of the war in Ukraine. 
- <p class="updated_time"> 02:50 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/15/business/media/ukraine-fox-news-cameraman-killed.html">Fox News Cameraman Is Killed in Ukraine</a> NYT: Pierre Zakrzewski, a Fox News cameraman, and Oleksandra Kuvshynova, a Ukrainian journalist, were killed outside Kyiv. A Fox News correspondent, Benjamin Hall, remained hospitalized. 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
  <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
@@ -183,14 +185,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/health/covid-johnson-vaccine.html">Mounting Data Shows J&J Vaccine as Effective as Pfizer and Moderna</a> NYT: Once dismissed as less effective, the vaccine now seems to be preventing infections and illness about as well as the two mRNA options. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/mariupol-death-toll-ukraine.html">Officials in Mariupol Struggle to Account for the Dead</a> NYT: The coastal city, a battleground for weeks, is under an increasingly relentless Russian assault that is taking an unspeakable toll. 
- <p class="updated_time"> 03:08 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/business/economy/inflation-rates-global-economy.html">As Fed Prepares to Raise Rates, Global Economy Sinks Deeper Into Turmoil </a> NYT: Federal Reserve officials are set to raise interest rates to control inflation, but the return to normal they had hoped to see remains painfully elusive. 
  <p class="updated_time"> 02:40 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-canada-parliament-ukraine.html">Zelensky’s Appeal to Canada: Imagine if Toronto Were Kyiv.</a> NYT: The Ukrainian president’s emotional speech to Canadian lawmakers underscored how he has increasingly cast himself as a spokesman for liberal democracy. 
  <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
- <p class="updated_time"> 01:23 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/business/media/russia-ukraine-journalism-censorship.html">Russian Censorship Law Forces Reporters to Weigh Safety</a> NYT: Western news outlets are engaging in a tense debate over balancing an urgent need to bear witness with journalists’ ability to report freely under strict new laws there. 
  <p class="updated_time"> 11:53 AM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/arts/music/met-opera-ukraine.html">Metropolitan Opera’s Concert Honors Ukraine</a> NYT: A concert to benefit relief efforts featured a young Ukrainian singer, Beethoven’s “Ode to Joy” and the Met’s prima donna of the moment. 
  <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
@@ -202,6 +200,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:04 AM CT, Mar. 17 </p> 
+ <a href="https://www.npr.org/2022/03/17/1087137508/sen-rick-scott-wants-every-american-to-pay-at-least-some-income-taxes">Sen. Rick Scott wants every American to pay at least some income taxes</a> NPR: NPR's Steve Inskeep speaks to Republican Sen. Rick Scott of Florida about his proposals concerning income taxes and federal laws that he wants to campaign on this fall. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
+ <a href="https://www.npr.org/2022/03/17/1087047638/the-truth-in-political-advertising-youre-allowed-to-lie">The truth in political advertising: 'You're allowed to lie'</a> NPR: A campaign ad for Kari Lake, a Republican candidate for Arizona governor, includes baseless claims of a rigged 2020 election. Can candidates lie in their paid ads? The short answer: yes. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/republican-voting-crime.html">Republicans Push Crackdown on Crime Wave That Doesn’t Exist: Voter Fraud</a> NYT: Election fraud is exceedingly rare and often accidental. Still, G.O.P. lawmakers and prosecutors are promoting tough new enforcement efforts. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/house-dems-urge-executive-action-00017857">House liberals start asking Biden to sidestep Congress — months before the midterms</a> Politico: Democrats are still in full control of Washington. But some progressives are ready to dispense with the centrist-empowering Senate and get the president pumping out executive actions. 
  <p class="updated_time"> 01:28 AM CT, Mar. 17 </p> 
@@ -284,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1086898518/georgia-gop-senate-candidate-herschel-walker-questions-evolution">Georgia GOP Senate candidate Herschel Walker questions evolution</a> NPR: The Trump-backed Republican candidate also doubted scientific intervention in human reproduction. He's the favorite in the primary to take on Democratic Sen. Raphael Warnock in November. 
  <p class="updated_time"> 12:27 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/trump-rules-out-pence-as-vp-2024-00017783">Trump rules out Pence as VP in potential 2024 presidential bid</a> Politico: The former president doesn't think Americans would "accept" a Trump-Pence ticket. 
- <p class="updated_time"> 12:21 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/15/us/politics/mike-gibbons-ohio.html">Republican in Ohio Senate Primary Spoke Offensively About Asians</a> NYT: Mike Gibbons, a leading contender to succeed Senator Rob Portman, made the comments in a 2013 podcast on doing business in China. 
  <p class="updated_time"> 12:00 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/canada-bob-rae-un-ambassador-global-order-00017775">Canada’s U.N. ambassador: ‘It's an attack on the global order’</a> Politico: Bob Rae says the world has yet to comprehend the long-term impact of war "coupled with Covid and coupled with climate change." 
  <p class="updated_time"> 11:55 AM CT, Mar. 16 </p> 
@@ -306,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/16/marshall-trucker-protesters-capitol-tour-00017686">GOP senator gives trucker protesters a Capitol tour</a> Politico: A senior Hill aide alerted the DOJ afterward. 
  <p class="updated_time"> 08:28 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/zelenskyy-recalls-pearl-harbor-9-11-in-plea-for-u-s-aid-00017698">Biden announces fresh aid to Ukraine but stops short of Zelenskyy's demands</a> Politico: Biden spoke after his Ukrainian counterpart urged Congress to consider a no-fly zone, playing a video depicting the grisly consequences of Russian military strikes. 
- <p class="updated_time"> 07:25 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086628727/zelenskyy-address-congress">Biden pledges $800 million to Ukraine after Zelenskyy's plea for more U.S. aid</a> NPR: Ukrainian President Zelenskyy delivered an impassioned appeal for additional help and for President Biden to spearhead the world's defense of Ukraine. Biden pledged to send more weapons and support. 
  <p class="updated_time"> 06:46 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/16/zelenskyys-powers-of-persuasion-00017675">Zelenskyy’s powers of persuasion</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Mar. 16 </p> 
@@ -316,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/16/what-zelenskyy-wants-vs-what-hell-get-00017668"> What Zelenskyy wants vs. what he'll get</a> Politico Playbook: And nine House Democrats test positive for the coronavirus. 
  <p class="updated_time"> 05:00 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/poll-americans-split-florida-gender-race-00017552">Poll: Americans split over Florida's controversial bills on gender identity and race</a> Politico: For both bills, support was considerably higher among Republican registered voters, but there was also backing from independent voters. 
- <p class="updated_time"> 04:10 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086832833/politicians-and-experts-debate-whether-gas-tax-holidays-are-worthwhile">Politicians and experts debate whether gas tax holidays are worthwhile</a> NPR: As gas prices rise, politicians call for gas taxes to be suspended. Transportation experts say such moves won't provide much relief and would cut into needed spending on roads, bridges and transit. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/hospital-mask-cdc-covid-00017556">Some hospitals ask patients, visitors to remove N95s, citing CDC</a> Politico: N95s, which seal tighter to the face, offer better protection against Covid-19, studies show. 
  <p class="updated_time"> 03:30 AM CT, Mar. 16 </p> 
