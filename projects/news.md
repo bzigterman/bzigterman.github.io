@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:52 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori arrive in UK after being freed from Iran</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori touched down at RAF Brize Norton just after 01:00 GMT. 
- <p class="updated_time"> 09:23 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 10:20 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Live Updates: Ukraine Counterattacks as Russia Pounds Civilian Targets</a> NYT: The fate of hundreds was uncertain after an attack destroyed a theater in Mariupol where they had sheltered. After Ukraine’s president pleaded with Congress for arms, President Biden approved $800 million in new military aid. He also called Vladimir V. Putin “a war criminal.” 
+ <p class="updated_time"> 10:18 PM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori arrive in UK after being freed from Iran</a> BBC: British-Iranian nationals Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori touched down at RAF Brize Norton just after 01:00 GMT. 
+ <p class="updated_time"> 09:30 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 09:02 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Two dead after Japan hit by tremor</a> BBC: The quake in the country's north-east rattles Tokyo and briefly cuts power to millions of homes. 
- <p class="updated_time"> 09:00 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 08:58 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/us-ukraine-weapons-drones.html">U.S. Adds ‘Kamikaze Drones’ as More Weapons Flow to Ukraine</a> NYT: NATO allies are focused on providing Kyiv with high-tech defensive weapons that are easy to use and move. 
  <p class="updated_time"> 08:53 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-counter-offensive-russia.html">Ukrainian Forces Strike Back at Russia, as Biden Sends More Firepower</a> NYT: The attacks in Kyiv and Kherson were aimed at inflicting “maximum losses” against Russia but not regaining territory, while the U.S. pledged $800 million more in military aid. 
  <p class="updated_time"> 08:41 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Zelensky Pleads for More U.S. Aid, Invoking America’s Darkest Days</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
+ <p class="updated_time"> 08:30 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 08:25 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60661875?at_medium=RSS&at_campaign=KARANGA">Selling sex to survive in Iran</a> BBC: Women and men are increasingly turning to prostitution to pay the bills, despite official denials. 
  <p class="updated_time"> 08:21 PM CT, Mar. 16 </p> 
@@ -33,26 +35,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
  <p class="updated_time"> 08:08 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60769509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russians grieve for fallen soldiers</a> BBC: Two weeks since the last official death toll, funerals of Russian soldiers killed in Ukraine continue. 
- <p class="updated_time"> 08:00 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 07:42 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745568?at_medium=RSS&at_campaign=KARANGA">Covid: Why US students are staging walkouts over masks</a> BBC: Schools across the US are dropping mask mandates - but students are divided over the issue. 
  <p class="updated_time"> 07:36 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/biden-putin-russia-us-ukraine.html">Biden Calls Putin ‘War Criminal’ in Verbal Escalation With Russia</a> NYT: The U.S. president’s unscripted remarks echoed comments other American officials have made recently. 
+ <p class="updated_time"> 07:30 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
  <p class="updated_time"> 07:08 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-60752777?at_medium=RSS&at_campaign=KARANGA">In pictures: 2022 Sony World Photography Awards</a> BBC: The winners of the Open category of the 2022 Sony World Photography Awards have been announced. 
- <p class="updated_time"> 07:00 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 06:53 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60748012?at_medium=RSS&at_campaign=KARANGA">Hijab controversy: What Karnataka verdict means for religious freedom in India</a> BBC: A court has ruled the hijab is not "essential" to Islam, but who should make such a decision? 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60748012?at_medium=RSS&at_campaign=KARANGA">Karnataka bandh: What hijab verdict means for religious freedom in India</a> BBC: A court has ruled the hijab is not "essential" to Islam, but who should make such a decision? 
  <p class="updated_time"> 06:42 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 06:30 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 06:09 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-60774839?at_medium=RSS&at_campaign=KARANGA">Ros Atkins On... Nazanin Zaghari-Ratcliffe and the Iran debt</a> BBC: Ros Atkins takes a look at the reasons why two British-Iranian nationals are freed after years in prison. 
- <p class="updated_time"> 06:00 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 05:56 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: President Vladimir V. Putin of Russia denigrated European and American leaders, and Russians who disagreed with him. Analysts fear his remarks could signal a new wave of repression. 
  <p class="updated_time"> 05:46 PM CT, Mar. 16 </p> 
@@ -61,14 +61,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/arts/dance/olga-smirnova-bolshoi-ballet-ukraine-war.html">Olga Smirnova, Opposed to the Ukraine War, Quits the Bolshoi</a> NYT: Olga Smirnova said she was against the war in Ukraine “with all the fibers of my soul.” Now, she has joined the Dutch National Ballet. 
  <p class="updated_time"> 05:43 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-troop-deaths.html">As Russian Troop Deaths Climb, Morale May Be an Issue</a> NYT: More than 7,000 Russian troops have been killed in less than three weeks of fighting, according to conservative U.S. estimates. 
+ <p class="updated_time"> 05:30 PM CT, Mar. 16 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 05:16 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60773626?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Biden brands Putin a 'war criminal'</a> BBC: The off-the-cuff remark prompts Russia to call the comment "unforgiveable rhetoric". 
  <p class="updated_time"> 05:02 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/russian-oligarch-yacht-spain.html">Spain Seizes Another Russian Yacht Believed to Belong to an Oligarch</a> NYT: The ship was impounded in the Spanish port of Tarragona pending an inspection to establish its exact ownership, Spain’s transport ministry said. 
  <p class="updated_time"> 05:02 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
- <p class="updated_time"> 05:00 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 04:53 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/ukraine-russia-nuclear-war.html">As Russia Digs In, What’s the Risk of Nuclear War? ‘It’s Not Zero.’</a> NYT: A series of shifts in Russian statements about using nuclear weapons has led some analysts to believe that the Kremlin sees a nuclear exchange as a viable strategy. 
  <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
