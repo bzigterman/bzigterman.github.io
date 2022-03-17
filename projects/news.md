@@ -9,30 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:53 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
  <p class="updated_time"> 03:25 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: In what has increasingly become a war of attrition, the fate of hundreds was uncertain after an attack destroyed a theater in Mariupol where they had sheltered. Peace talks between Russia and Ukraine enter a fourth day, but Vladimir Putin has sent conflicting signals about his willingness to negotiate. 
  <p class="updated_time"> 03:06 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori arrive in UK after being freed from Iran</a> BBC: In emotional scenes at the airport, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori were reunited with their families after years of detention. 
- <p class="updated_time"> 02:45 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
+ <p class="updated_time"> 02:57 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 02:42 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 02:36 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Gourd, Tuber or Potato? A Big Find in New Zealand</a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
- <p class="updated_time"> 02:15 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
- <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 01:57 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
- <p class="updated_time"> 12:45 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 12:57 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
  <p class="updated_time"> 11:57 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60708711?at_medium=RSS&at_campaign=KARANGA">Scientists claim hairy black holes explain Hawking paradox</a> BBC: Researchers say they have solved one of science's biggest paradoxes, first identified by Prof Stephen Hawking. 
- <p class="updated_time"> 11:45 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
+ <p class="updated_time"> 11:57 PM CT, Mar. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60708711?at_medium=RSS&at_campaign=KARANGA">Scientists claim hairy black holes explain Hawking paradox</a> BBC: Researchers say they have solved one of science's biggest paradoxes, first identified by Prof Stephen Hawking. 
  <p class="updated_time"> 11:42 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/17/1087130870/honduras-judge-says-ex-president-can-be-extradited-to-u-s">Honduras judge says ex-president can be extradited to the U.S.</a> NPR: Juan Orlando Hernández, whom U.S. prosecutors accused in recent years of funding his political rise with profits from drug traffickers, can appeal the extradition decision. 
  <p class="updated_time"> 11:37 PM CT, Mar. 16 </p> 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
  <p class="updated_time"> 11:00 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60775521?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett released from jail pending appeal</a> BBC: Last week the US actor was sentenced to prison for lying about being the victim of a hate crime. 
- <p class="updated_time"> 10:45 PM CT, Mar. 16 </p> 
+ <p class="updated_time"> 10:57 PM CT, Mar. 16 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 10:31 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
