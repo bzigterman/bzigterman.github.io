@@ -9,16 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:30 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 07:25 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: Rescue workers began pulling some survivors from the wreckage of a theater in Mariupol where hundreds, including children, were believed to be sheltering. Ukrainian air defenses claimed to shoot down Russian planes and missiles over Kyiv. 
+ <p class="updated_time"> 07:25 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/world/europe/biden-putin-russia-us-ukraine.html">Biden Calls Putin ‘War Criminal’ in Verbal Escalation With Russia</a> NYT: The U.S. president’s unscripted remarks echoed comments other American officials have made recently. 
+ <p class="updated_time"> 07:21 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">It Seemed Like a Big Potato. Then Guinness Weighed In.</a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
+ <p class="updated_time"> 06:37 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/asia/coronavirus-south-korea.html">In South Korea, a Spike in Covid Cases Meets a Collective Shrug</a> NYT: A country that once had one of the world’s most aggressive coronavirus policies is opting to learn to live with the virus, even in the face of a soaring infection rate. 
+ <p class="updated_time"> 06:36 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
+ <p class="updated_time"> 06:35 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Two dead after Japan hit by tremor</a> BBC: The quake in the north-east derails a bullet train and briefly cuts power to millions of homes. 
+ <p class="updated_time"> 06:29 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
+ <p class="updated_time"> 06:27 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-60777185?at_medium=RSS&at_campaign=KARANGA">Kanye West: Rapper suspended from Instagram for 24 hours</a> BBC: The rapper used a racial slur in reference to Trevor Noah after the comedian criticised his behaviour. 
  <p class="updated_time"> 06:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Russia Invasion, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 05:52 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
- <p class="updated_time"> 05:31 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
- <p class="updated_time"> 05:23 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">It Seemed Like a Big Potato. Then Guinness Weighed In.</a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
+ <p class="updated_time"> 05:29 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 05:11 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
@@ -31,24 +43,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087133899/convictions-of-cambodian-opposition-leaders-draws-criticism-from-rights-groups">Convictions of Cambodian opposition leaders draws criticism from rights groups</a> NPR: Human rights advocates have decried the accusations as "baseless" and say the trial is meant to sideline political opponents of Prime Minister Hun Sen, who has been in power for more than 30 years. 
- <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
- <p class="updated_time"> 04:26 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
+ <p class="updated_time"> 04:29 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 04:23 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 03:48 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60764403?at_medium=RSS&at_campaign=KARANGA">Cuba anti-government protesters jailed for up to 30 years</a> BBC: They were found guilty of sedition and theft after taking part in rare anti-government demonstrations. 
- <p class="updated_time"> 03:31 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
- <p class="updated_time"> 02:31 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 03:29 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
+ <p class="updated_time"> 02:29 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
- <p class="updated_time"> 01:31 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
  <p class="updated_time"> 11:57 PM CT, Mar. 16 </p> 
@@ -59,14 +67,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/americas/honduras-extradition-juan-orlando-hernandez.html">Honduras Judge Approves Extradition of Ex-President to U.S.</a> NYT: Former President Juan Orlando Hernández is facing drug-trafficking and weapons charges 
  <p class="updated_time"> 11:01 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
- <p class="updated_time"> 11:00 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60775521?at_medium=RSS&at_campaign=KARANGA">Jussie Smollett released from jail pending appeal</a> BBC: Last week the US actor was sentenced to prison for lying about being the victim of a hate crime. 
  <p class="updated_time"> 10:31 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
  <p class="updated_time"> 10:17 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60775039?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori return to the UK after years held in Iran</a> BBC: Two British-Iranian nationals detained in Iran for several years have landed at RAF Brize Norton. 
- <p class="updated_time"> 09:02 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Two dead after Japan hit by tremor</a> BBC: The quake in the country's north-east rattles Tokyo and briefly cuts power to millions of homes. 
  <p class="updated_time"> 08:58 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/us-ukraine-weapons-drones.html">U.S. Adds ‘Kamikaze Drones’ as More Weapons Flow to Ukraine</a> NYT: NATO allies are focused on providing Kyiv with high-tech defensive weapons that are easy to use and move. 
  <p class="updated_time"> 08:41 PM CT, Mar. 16 </p> 
@@ -81,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60769509?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russians grieve for fallen soldiers</a> BBC: Two weeks since the last official death toll, funerals of Russian soldiers killed in Ukraine continue. 
  <p class="updated_time"> 07:42 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745568?at_medium=RSS&at_campaign=KARANGA">Covid: Why US students are staging walkouts over masks</a> BBC: Schools across the US are dropping mask mandates - but students are divided over the issue. 
- <p class="updated_time"> 07:36 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/biden-putin-russia-us-ukraine.html">Biden Calls Putin ‘War Criminal’ in Verbal Escalation With Russia</a> NYT: The U.S. president’s unscripted remarks echoed comments other American officials have made recently. 
  <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
  <p class="updated_time"> 07:08 PM CT, Mar. 16 </p> 
@@ -185,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/health/covid-johnson-vaccine.html">Mounting Data Shows J&J Vaccine as Effective as Pfizer and Moderna</a> NYT: Once dismissed as less effective, the vaccine now seems to be preventing infections and illness about as well as the two mRNA options. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/mariupol-death-toll-ukraine.html">Officials in Mariupol Struggle to Account for the Dead</a> NYT: The coastal city, a battleground for weeks, is under an increasingly relentless Russian assault that is taking an unspeakable toll. 
- <p class="updated_time"> 02:40 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-canada-parliament-ukraine.html">Zelensky’s Appeal to Canada: Imagine if Toronto Were Kyiv.</a> NYT: The Ukrainian president’s emotional speech to Canadian lawmakers underscored how he has increasingly cast himself as a spokesman for liberal democracy. 
  <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
  <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
@@ -198,8 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:30 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 07:10 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/jeffrey-zients-ashish-jha.html">Jeff Zients to Leave as Biden’s Covid Czar and Be Replaced by Ashish Jha</a> NYT: The choice of Dr. Jha, an outspoken public health expert, is a sign that the White House believes the country is entering a new phase of the pandemic. 
+ <p class="updated_time"> 07:04 AM CT, Mar. 17 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/03/17/trade-in-value-house-to-downgrade-russia-00018075">Trade-in value: House to downgrade Russia</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Russia Invasion, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 05:27 AM CT, Mar. 17 </p> 
@@ -209,13 +211,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087047638/the-truth-in-political-advertising-youre-allowed-to-lie">The truth in political advertising: 'You're allowed to lie'</a> NPR: A campaign ad for Kari Lake, a Republican candidate for Arizona governor, includes baseless claims of a rigged 2020 election. Can candidates lie in their paid ads? The short answer: yes. 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/republican-voting-crime.html">Republicans Push Crackdown on Crime Wave That Doesn’t Exist: Voter Fraud</a> NYT: Election fraud is exceedingly rare and often accidental. Still, G.O.P. lawmakers and prosecutors are promoting tough new enforcement efforts. 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/republican-voter-fraud.html">Republicans Push to Crackdown on Voter Fraud</a> NYT: Election fraud is exceedingly rare and often accidental. Still, G.O.P. lawmakers and prosecutors are promoting tough new enforcement efforts. 
  <p class="updated_time"> 03:31 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/sanders-khanna-presidential-bid-2024-00018017">Sanders camp quietly pushes Khanna presidential bid</a> Politico: Top progressives are encouraging the California congressman to run in 2024 if Joe Biden doesn’t seek reelection. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/house-dems-urge-executive-action-00017857">House liberals start asking Biden to sidestep Congress — months before the midterms</a> Politico: Democrats are still in full control of Washington. But some progressives are ready to dispense with the centrist-empowering Senate and get the president pumping out executive actions. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/meeks-regains-ground-in-aocs-backyard-00017077">Greg Meeks regains ground in AOC's backyard</a> Politico: Meeks’ changing fortunes can be traced to shifting political trends, deal-making prowess and a little bit of luck. 
+ <a href="https://www.politico.com/news/2022/03/17/meeks-regains-ground-in-aocs-backyard-00017077">Meeks regains ground in AOC's backyard</a> Politico: Meeks’ changing fortunes can be traced to shifting political trends, deal-making prowess and a little bit of luck. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/white-house-china-russia-00017793">China finds itself in a tricky position — stuck between the White House and the Kremlin</a> Politico: The Biden administration is telling Beijing that it's courting disaster by supporting Putin. But China may be too big to sanction. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
@@ -284,8 +286,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/business/economy/us-exports-russia-ukraine.html">Exports to Russia Blocked by U.S. and Its Allies</a> NYT: To try to halt the war in Ukraine, the U.S. and its allies have imposed the most sweeping export controls seen in decades on Russia. Now they have to enforce them. 
  <p class="updated_time"> 01:48 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/judge-orders-doj-steve-bannon-documents-00017854">Judge orders DOJ to produce documents related to decision to prosecute Steve Bannon</a> Politico: The former Trump adviser maintains he had a sound legal basis for refusing to comply with a subpoena from the House’s Jan. 6 select committee. 
- <p class="updated_time"> 01:39 PM CT, Mar. 16 </p> 
- <a href="https://www.cnn.com/2022/03/15/politics/january-6-occupy-capitol-hill-proud-boy/index.html">Document on plan to 'occupy' Capitol Hill buildings, Supreme Court on January 6 discovered by prosecutors</a> CNN: Prosecutors have discovered a written plan to "infiltrate" and "occupy" six congressional office buildings and the Supreme Court on January 6, 2021, as part of the federal investigation into Proud Boys leader Enrique Tarrio, according to his indictment and a source familiar with the case. 
  <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/texas-mail-ballots-votes-trash-00017844">'Right in the trash': Texas ballot rejections soar, AP finds</a> Politico: Texas threw out mail votes at an abnormally high rate during the nation's first primary of 2022, according to a new analysis. 
  <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
@@ -298,6 +298,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/16/adams-rolls-out-controversial-nypd-gun-unit-00017789">Mayor Eric Adams revives controversial NYPD unit responsible for chokehold death of Eric Garner</a> Politico: The mayor also railed against New Yorkers recording police activity, a constitutionally protected activity that he said has been taken too far. 
  <p class="updated_time"> 01:02 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086898518/georgia-gop-senate-candidate-herschel-walker-questions-evolution">Georgia GOP Senate candidate Herschel Walker questions evolution</a> NPR: The Trump-backed Republican candidate also doubted scientific intervention in human reproduction. He's the favorite in the primary to take on Democratic Sen. Raphael Warnock in November. 
+ <p class="updated_time"> 12:56 PM CT, Mar. 16 </p> 
+ <a href="https://www.cnn.com/2022/03/16/politics/zelensky-speech-takeaways/index.html">Six takeaways from Zelensky's address to Congress and Biden's response</a> CNN: A war-weary Ukrainian President Volodymyr Zelensky, speaking from his office in Kyiv, called on the United States to do more to protect his country and people in a dramatic address to American lawmakers Wednesday. 
  <p class="updated_time"> 11:55 AM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/16/1086908593/texas-mail-ballot-rejection-final-rates-harris-williamson-counties">In Texas, thousands of mail ballots were rejected following new ID requirements</a> NPR: Perhaps most notably, Harris County rejected a whopping 19% percent of the mail ballots it received, or 6,888 ballots in total. Four years ago the county's rejection rate was about 0.3%. 
  <p class="updated_time"> 11:38 AM CT, Mar. 16 </p> 
@@ -352,8 +354,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin, Collins opposition likely dooms Biden's Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
  <p class="updated_time"> 09:01 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/zelenskyy-to-address-congress-on-wednesday-00016966">Zelenskyy to address Congress on Wednesday</a> Politico: Zelenskyy will update the House and Senate on the brutal Russian invasion of his nation just days after Congress sent roughly $14 billion in lethal and humanitarian aid to Ukraine. 
- <p class="updated_time"> 07:18 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/03/14/the-congressional-calm-before-the-scotus-storm-00016938">The congressional calm before the (SCOTUS) storm</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
