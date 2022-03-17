@@ -9,42 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:56 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 09:16 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori back with families</a> BBC: Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
+ <p class="updated_time"> 09:11 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Some Survivors Pulled From Damaged Theater Where Civilians Sheltered</a> NYT: Russia’s ground advance slowed, but more missile and other attacks struck civilians. As cease-fire talks continued with uncertain prospects, the U.N. Security Council was scheduled to hold an emergency meeting on Ukraine. 
+ <p class="updated_time"> 09:11 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 09:02 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/italy-police-americans-murder.html">Sentences Reduced for 2 Americans Convicted of Killing Italian Officer</a> NYT: An appeals court confirmed the homicide verdicts but commuted the life terms for both men, handing Finnegan Elder 24 years in prison and Gabriel Natale Hjorth 22. 
+ <p class="updated_time"> 09:00 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60779001?at_medium=RSS&at_campaign=KARANGA">P&O Ferries sacks 800 workers but crew refuse to leave ships</a> BBC: Ferry services are cancelled as staff are told via Zoom that they are being made redundant immediately. 
+ <p class="updated_time"> 08:58 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
+ <p class="updated_time"> 08:56 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
  <p class="updated_time"> 08:50 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60781415?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: Interrogators did not believe TV protest was my idea</a> BBC: Marina Ovsyannikova explains why she protested against war in Ukraine on a live Russian TV news broadcast. 
  <p class="updated_time"> 08:44 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/cambodia-trial-hun-sen.html">Cambodia Convicts 19 Opposition Politicians on ‘Incitement’ Charges</a> NYT: Critics called the trial a “witch hunt,” and the latest effort by Prime Minister Hun Sen to eliminate the last vestiges of dissenting political voices in what was already a virtually one-party state. 
- <p class="updated_time"> 08:42 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 08:39 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60776929?at_medium=RSS&at_campaign=KARANGA">Mariupol theatre: 'We knew something terrible would happen'</a> BBC: A woman who left Mariupol's theatre a day before the bombing says Russia had been targeting the area. 
+ <p class="updated_time"> 08:25 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 08:21 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
- <p class="updated_time"> 07:56 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 07:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/coronavirus-south-korea.html">In South Korea, a Spike in Covid Cases Meets a Collective Shrug</a> NYT: A country that once had one of the world’s most aggressive coronavirus policies is opting to learn to live with the virus, even in the face of a soaring infection rate. 
  <p class="updated_time"> 07:25 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/biden-putin-russia-us-ukraine.html">Biden Calls Putin ‘War Criminal’ in Verbal Escalation With Russia</a> NYT: The U.S. president’s unscripted remarks echoed comments other American officials have made recently. 
+ <p class="updated_time"> 07:25 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 07:21 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Is This the World’s Largest Potato? </a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
  <p class="updated_time"> 07:13 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/60773301?at_medium=RSS&at_campaign=KARANGA">Iran rescues dozens as UAE-flagged cargo ship sinks in Gulf</a> BBC: All but one of the 30 crew of the UAE-flagged vessel have been pulled from the water, officials say. 
- <p class="updated_time"> 06:56 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
- <p class="updated_time"> 06:36 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
  <p class="updated_time"> 06:27 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60777185?at_medium=RSS&at_campaign=KARANGA">Kanye West: Rapper suspended from Instagram for 24 hours</a> BBC: The rapper used a racial slur in reference to Trevor Noah after the comedian criticised his behaviour. 
+ <p class="updated_time"> 06:25 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
  <p class="updated_time"> 06:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Russia Invasion, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
- <p class="updated_time"> 05:56 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
+ <p class="updated_time"> 05:25 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/turkey-faces-difficult-choices-on-russia-as-its-economy-stalls-11647518782">Turkey Faces Difficult Choices on Russia as Its Economy Stalls</a> WSJ: Turkey Faces Difficult Choices on Russia as Its Economy Stalls 
  <p class="updated_time"> 05:11 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
- <p class="updated_time"> 04:56 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/turkey-faces-difficult-choices-on-russia-as-its-economy-stalls-11647518782">Turkey Faces Difficult Choices on Russia as Its Economy Stalls</a> WSJ: Turkey Faces Difficult Choices on Russia as Its Economy Stalls 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-unesco-body-armor-journalists.html">UNESCO Will Send Body Armor to Ukrainian Journalists</a> NYT: The U.N. agency said thousands of Ukrainian journalists with no protective equipment or training were now covering the war. At least four journalists have been killed. 
  <p class="updated_time"> 04:42 AM CT, Mar. 17 </p> 
@@ -55,18 +63,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087133899/convictions-of-cambodian-opposition-leaders-draws-criticism-from-rights-groups">Convictions of Cambodian opposition leaders draws criticism from rights groups</a> NPR: Human rights advocates have decried the accusations as "baseless" and say the trial is meant to sideline political opponents of Prime Minister Hun Sen, who has been in power for more than 30 years. 
+ <p class="updated_time"> 04:25 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/honduran-judge-clears-way-for-ex-president-to-be-sent-to-u-s-for-trial-11647493362">Honduran Judge Clears Way for Ex-President to Be Sent to U.S. for Trial</a> WSJ: Honduran Judge Clears Way for Ex-President to Be Sent to U.S. for Trial 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
- <p class="updated_time"> 03:56 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/honduran-judge-clears-way-for-ex-president-to-be-sent-to-u-s-for-trial-11647493362">Honduran Judge Clears Way for Ex-President to Be Sent to U.S. for Trial</a> WSJ: Honduran Judge Clears Way for Ex-President to Be Sent to U.S. for Trial 
  <p class="updated_time"> 03:48 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60764403?at_medium=RSS&at_campaign=KARANGA">Cuba anti-government protesters jailed for up to 30 years</a> BBC: They were found guilty of sedition and theft after taking part in rare anti-government demonstrations. 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
  <p class="updated_time"> 01:14 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/china-launches-investigation-into-official-who-promoted-respect-for-islam-11647512073">China Launches Investigation Into Official Who Promoted Respect for Islam</a> WSJ: The corruption inquiry into Wang Zhengwei, a former top official in charge of ethnic policy, signals Chinese leader Xi Jinping’s resolve to push ahead with the country’s aggressive ethnic assimilation efforts. 
- <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
  <p class="updated_time"> 11:57 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60708711?at_medium=RSS&at_campaign=KARANGA">Scientists claim hairy black holes explain Hawking paradox</a> BBC: Researchers say they have solved one of science's biggest paradoxes, first identified by Prof Stephen Hawking. 
  <p class="updated_time"> 11:42 PM CT, Mar. 16 </p> 
@@ -187,12 +193,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
  <p class="updated_time"> 04:47 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/health/covid-johnson-vaccine.html">Mounting Data Shows J&J Vaccine as Effective as Pfizer and Moderna</a> NYT: Once dismissed as less effective, the vaccine now seems to be preventing infections and illness about as well as the two mRNA options. 
- <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/mariupol-death-toll-ukraine.html">Officials in Mariupol Struggle to Account for the Dead</a> NYT: The coastal city, a battleground for weeks, is under an increasingly relentless Russian assault that is taking an unspeakable toll. 
  <p class="updated_time"> 02:32 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/biden-nato-eu-summit-europe.html">Biden Will Travel to Europe Next Week for NATO Meeting</a> NYT: The president will travel to Brussels for the NATO session, and will also attend a European Union summit meeting. 
- <p class="updated_time"> 11:51 AM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/arts/music/ukraine-national-anthem.html">Ukraine’s National Anthem Reverberates Around the World</a> NYT: “Ukraine’s glory hasn’t perished,” begins the anthem, which is being played by orchestras worldwide as a sign of solidarity with Ukraine. 
 
 
 </details>
@@ -201,11 +203,11 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:49 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/jeffrey-zients-ashish-jha.html">Jeff Zients to Leave as Biden’s Covid Czar and Be Replaced by Ashish Jha</a> NYT: The choice of Dr. Jha, an outspoken public health expert, is a sign that the White House believes the country is entering a new phase of the pandemic. 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/jeffrey-zients-ashish-jha.html">Biden’s Covid Czar Will Be Replaced by Ashish Jha</a> NYT: The choice of Dr. Jha, an outspoken public health expert, is a sign that the White House believes the country is entering a new phase of the pandemic. 
  <p class="updated_time"> 08:25 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/biden-ashish-jha-covid19-czar-00018086">Biden picks Ashish Jha as new Covid-19 czar</a> Politico: Ashish Jha, dean of the Brown University School of Public Health, will lead the White House's Covid-19 response. 
  <p class="updated_time"> 08:01 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/republican-voter-fraud.html">Republicans Push to Crackdown on Voter Fraud</a> NYT: Election fraud is exceedingly rare and often accidental. Still, G.O.P. lawmakers and prosecutors are promoting tough new enforcement efforts. 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/republican-voter-fraud.html">Republicans Push Crackdown on Crime Wave That Doesn’t Exist: Voter Fraud</a> NYT: Election fraud is exceedingly rare and often accidental. Still, G.O.P. lawmakers and prosecutors are promoting tough new enforcement efforts. 
  <p class="updated_time"> 07:39 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/biden-xi-jinping-talk-russian-war-ukraine-00018084">Biden will talk to Xi Friday amid Russian war in Ukraine</a> Politico: China has maintained economic ties with Moscow even as much of the world has shunned Russia. 
  <p class="updated_time"> 07:37 AM CT, Mar. 17 </p> 
@@ -259,7 +261,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:21 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/white-house-covid-funding-congress-00017886">White House warns free Covid treatments are at risk as subsidies run out</a> Politico: Some Americans might have to pay out of pocket for therapeutics if Congress doesn’t pass a new Covid funding bill. 
  <p class="updated_time"> 05:01 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Attack Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-ukraine-us.html">Russia’s Ukraine Invasion Rallies a Divided Nation: The United States</a> NYT: Americans across the political spectrum express broad support for Ukraine, though opinions diverge on what that means and how far the U.S. response should go. 
  <p class="updated_time"> 04:50 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/jeff-fortenberry-jury-selection-nebraska-00017968">Bias at issue with jury pool in Nebraska congressman's trial</a> Politico: The judge asked possible members if their views about politicians could make it difficult for them to be impartial. 
  <p class="updated_time"> 04:38 PM CT, Mar. 16 </p> 
@@ -296,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/16/judge-orders-doj-steve-bannon-documents-00017854">Judge orders DOJ to produce documents related to decision to prosecute Steve Bannon</a> Politico: The former Trump adviser maintains he had a sound legal basis for refusing to comply with a subpoena from the House’s Jan. 6 select committee. 
  <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/texas-mail-ballots-votes-trash-00017844">'Right in the trash': Texas ballot rejections soar, AP finds</a> Politico: Texas threw out mail votes at an abnormally high rate during the nation's first primary of 2022, according to a new analysis. 
- <p class="updated_time"> 01:29 PM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/federal-reserve-raises-rates-inflation-rages-00017834">Fed kicks off fight against inflation. It could take years.</a> Politico: The quarter-point increase is the first since the Fed slashed rates to zero at the onset of the pandemic. 
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/us-sends-switchblade-drones-to-ukraine-00017836">U.S. sending Switchblade drones to Ukraine in $800 million package</a> Politico: The Switchblade is a small, light drone that can loiter in the air for up to 30 minutes before being directed to its target by an operator on the ground, dozens of miles away. 
  <p class="updated_time"> 01:12 PM CT, Mar. 16 </p> 
@@ -358,8 +358,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/14/politics/russia-economy-sanctions-ruble-what-matters/index.html">Here's how we know sanctions are hurting Russia</a> CNN: When the Communists and Vladimir Lenin took over Russia in 1917, they repudiated old czarist debts and the country defaulted on its foreign obligations -- the largest sovereign default in history. 
  <p class="updated_time"> 11:32 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/news/2022/03/14/manchin-opposes-biden-fed-nominee-raskin-00017013">Manchin, Collins opposition likely dooms Biden's Fed nominee Raskin</a> Politico: Raskin would need at least one Republican to support her to be confirmed. 
- <p class="updated_time"> 09:01 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/news/2022/03/14/zelenskyy-to-address-congress-on-wednesday-00016966">Zelenskyy to address Congress on Wednesday</a> Politico: Zelenskyy will update the House and Senate on the brutal Russian invasion of his nation just days after Congress sent roughly $14 billion in lethal and humanitarian aid to Ukraine. 
 
 
 </details>
