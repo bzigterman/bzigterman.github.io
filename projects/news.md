@@ -9,49 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Some Survivors Pulled From Damaged Theater Where Civilians Sheltered</a> NYT: Russia’s ground advance slowed, but more missile and other attacks struck civilians. As cease-fire talks continued with uncertain prospects, the U.N. Security Council was scheduled to hold an emergency meeting on Ukraine. 
+ <p class="updated_time"> 11:57 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60779001?at_medium=RSS&at_campaign=KARANGA">P&O Ferries sacks 800 workers but crew refuse to leave ships</a> BBC: Ferry services are cancelled as staff are told via a video call that they are being made redundant immediately. 
+ <p class="updated_time"> 11:56 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/cardinal-giovanni-angelo-becciu-vatican-trial.html">In a First, Catholic Cardinal Testifies in Vatican Criminal Trial</a> NYT: Accused of embezzlement and abuse of office, Cardinal Giovanni Angelo Becciu told the court that he was sure the truth would clear his name. 
+ <p class="updated_time"> 11:46 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
+ <p class="updated_time"> 11:39 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 11:19 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/italy-police-americans-murder.html">Italian Court Reduces Sentences for 2 Americans Convicted of Killing Police Officer</a> NYT: An appeals court confirmed the homicide verdicts but commuted the life terms for both men, handing Finnegan Elder 24 years in prison and Gabriel Natale Hjorth 22. 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Zelensky Pleads for More U.S. Aid, Invoking America’s Darkest Days</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
- <p class="updated_time"> 11:12 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60779001?at_medium=RSS&at_campaign=KARANGA">P&O Ferries sacks 800 workers but crew refuse to leave ships</a> BBC: Ferry services are cancelled as staff are told via a video call that they are being made redundant immediately. 
  <p class="updated_time"> 11:04 AM CT, Mar. 17 </p> 
- <a href="https://www.npr.org/2022/03/17/1087164709/ukraine-mariupol-theater-bombing">Survivors are pulled from the Mariupol theater that was devastated in an airstrike</a> NPR: A glimmer of good news has emerged in Mariupol, where people are being pulled out of a theater that was being used as a shelter. 
- <p class="updated_time"> 11:03 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Some Survivors Pulled From Damaged Theater Where Civilians Sheltered</a> NYT: Russia’s ground advance slowed, but more missile and other attacks struck civilians. As cease-fire talks continued with uncertain prospects, the U.N. Security Council was scheduled to hold an emergency meeting on Ukraine. 
+ <a href="https://www.npr.org/2022/03/17/1087164709/ukraine-mariupol-theater-bombing">Russia bombed a Mariupol theater with 'Children' sign outside — but shelter survived </a> NPR: A glimmer of good news has emerged in Mariupol, where people are being pulled out of a theater that was being used as a shelter. 
+ <p class="updated_time"> 10:59 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 10:53 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/brittney-griner-basketball-russia-detention.html">Russian Court Extends Brittney Griner’s Detention</a> NYT: Griner, one of the world’s best basketball players, was detained on accusations that she had hashish oil in her luggage at an airport outside of Moscow a week before Russia invaded Ukraine. 
- <p class="updated_time"> 10:47 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 10:42 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087169376/brittney-griner-russia-detention-extended">A Russian court extended Brittney Griner's detention until May 19, state media says</a> NPR: Russian authorities said earlier this month that they detained Griner at a Moscow-area airport for allegedly transporting vape cartridges containing hashish oil in her luggage. 
- <p class="updated_time"> 10:34 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 10:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
+ <p class="updated_time"> 09:59 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 09:56 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60781704?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russia extends arrest of US basketball star over drugs charge</a> BBC: The double Olympic champion was arrested in February in Moscow over alleged cannabis oil possession. 
- <p class="updated_time"> 09:34 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 09:22 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60776929?at_medium=RSS&at_campaign=KARANGA">Mariupol theatre: 'We knew something terrible would happen'</a> BBC: A woman who left Mariupol's theatre a day before the bombing says Russia had been targeting the area. 
  <p class="updated_time"> 09:16 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori back with families</a> BBC: Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
  <p class="updated_time"> 09:15 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60777050?at_medium=RSS&at_campaign=KARANGA">Ukraine's Zelensky calls on Germany to tear down Russian wall</a> BBC: Ukraine's president accuses Germany of helping Russia create a new type of Berlin Wall. 
+ <p class="updated_time"> 08:59 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
  <p class="updated_time"> 08:56 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
  <p class="updated_time"> 08:50 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60781415?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: Interrogators did not believe TV protest was my idea</a> BBC: Marina Ovsyannikova explains why she protested against war in Ukraine on a live Russian TV news broadcast. 
  <p class="updated_time"> 08:44 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/cambodia-trial-hun-sen.html">Cambodia Convicts 19 Opposition Politicians on ‘Incitement’ Charges</a> NYT: Critics called the trial a “witch hunt,” and the latest effort by Prime Minister Hun Sen to eliminate the last vestiges of dissenting political voices in what was already a virtually one-party state. 
- <p class="updated_time"> 08:34 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
- <p class="updated_time"> 08:21 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
- <p class="updated_time"> 07:34 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 07:59 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/turkey-faces-difficult-choices-on-russia-as-its-economy-stalls-11647518782">Turkey Faces Difficult Choices on Russia as Its Economy Stalls</a> WSJ: Turkey Faces Difficult Choices on Russia as Its Economy Stalls 
  <p class="updated_time"> 07:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/coronavirus-south-korea.html">In South Korea, a Spike in Covid Cases Meets a Collective Shrug</a> NYT: A country that once had one of the world’s most aggressive coronavirus policies is opting to learn to live with the virus, even in the face of a soaring infection rate. 
@@ -83,6 +85,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087133899/convictions-of-cambodian-opposition-leaders-draws-criticism-from-rights-groups">Convictions of Cambodian opposition leaders draws criticism from rights groups</a> NPR: Human rights advocates have decried the accusations as "baseless" and say the trial is meant to sideline political opponents of Prime Minister Hun Sen, who has been in power for more than 30 years. 
+ <p class="updated_time"> 04:04 AM CT, Mar. 17 </p> 
+ <a href="https://www.npr.org/2022/03/17/1087137550/president-biden-has-announced-another-huge-weapons-package-for-ukraine">President Biden has announced another huge weapons package for Ukraine</a> NPR: The package by the White House includes missiles to take out tanks and bring down Russian aircraft — as well as drones that the U.S. hasn't provided previously. 
  <p class="updated_time"> 03:48 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60764403?at_medium=RSS&at_campaign=KARANGA">Cuba anti-government protesters jailed for up to 30 years</a> BBC: They were found guilty of sedition and theft after taking part in rare anti-government demonstrations. 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
@@ -159,12 +163,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/16/1086939902/japan-earthquake-fukushima">A 7.3 magnitude earthquake hits northern Japan</a> NPR: The powerful quake struck off the coast of Fukushima on Wednesday evening, triggering a tsunami advisory and cutting power to more than 2 million Tokyo homes. No casualties have been reported so far. 
  <p class="updated_time"> 11:42 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
- <p class="updated_time"> 11:06 AM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086896823/vladimir-strzhalkovsky-superyacht-norway">A Russian oligarch's superyacht is stuck in Norway because no one will sell it fuel</a> NPR: The Ragnar is owned by Russian oligarch Vladimir Strzhalkovsky, a former KGB agent with deep ties to Russian President Vladimir Putin. Onboard amenities include an amphibious ATV and an island. 
  <p class="updated_time"> 10:59 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60770596?at_medium=RSS&at_campaign=KARANGA">We need help to support Ukrainian refugees - Warsaw mayor</a> BBC: Rafal Trzaskowski tells the BBC that the population of his city has increased by 20% in two weeks. 
- <p class="updated_time"> 10:40 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/15/arts/russia-creative-artists-sanctions.html">Russian Artists Lose the Tools of Their Trades as Companies Pull Out</a> NYT: Creative professionals have been cut off from Western clients and from the products and services they use to make, market and get paid for their work. 
  <p class="updated_time"> 09:45 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/benjamin-hall-fox-news-ukraine-safe.html">Benjamin Hall, Fox News Journalist Who Was Injured in Ukraine, Is Now Safe</a> NYT: Benjamin Hall was seriously injured in an incident that killed a Fox News cameraman and a young Ukrainian journalist. 
  <p class="updated_time"> 09:26 AM CT, Mar. 16 </p> 
@@ -202,18 +202,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:52 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/16/us/lauro-cavazos-dead.html">Lauro Cavazos, First Hispanic Cabinet Member, Dies at 95</a> NYT: A sixth-generation Mexican American and a Democrat, he was secretary of education, straddling the administrations of Ronald Reagan and George H.W. Bush. 
+ <p class="updated_time"> 11:39 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Zelensky Pleads for More U.S. Aid, Invoking America’s Darkest Days</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/lynn-yeakel-dead.html">Lynn Yeakel, Spurred Into Politics by Anita Hill, Dies at 80</a> NYT: She nearly unseated Senator Arlen Specter after his aggressive grilling of Ms. Hill during Clarence Thomas’s 1991 Supreme Court confirmation hearings. 
- <p class="updated_time"> 10:54 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/lauro-cavazos-dead.html">Lauro Cavazos, First Hispanic Cabinet Member, Dies at 95</a> NYT: A sixth-generation Mexican American and a Democrat, he was secretary of education, straddling the administrations of Ronald Reagan and George H.W. Bush. 
  <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/durbin-white-house-disparage-emerging-conservative-attack-on-kbj-sex-offender-rulings-00018142">Durbin, White House disparage emerging conservative attack on KBJ sex offender rulings</a> Politico: Sen. Josh Hawley (R-Mo.) is questioning whether the Supreme Court nominee was tough enough on the matter while on the U.S. Sentencing Commission and as a district court judge. 
+ <a href="https://www.politico.com/news/2022/03/17/durbin-white-house-disparage-emerging-conservative-attack-on-kbj-sex-offender-rulings-00018142">Durbin, White House slam emerging GOP attack on KBJ sex offender rulings</a> Politico: Sen. Josh Hawley (R-Mo.) is questioning whether the Supreme Court nominee was tough enough on the matter while on the U.S. Sentencing Commission and as a district court judge. 
  <p class="updated_time"> 10:48 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/griner-arrest-extended-by-russian-court-00018140">Report: Griner’s arrest extended to May 19 by Russian court</a> Politico: Griner was detained at a Moscow airport in February after Russian authorities said a search of her luggage revealed vape cartridges. 
- <p class="updated_time"> 10:47 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 10:42 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/pelosi-biden-officials-covid-aid-stalemate-00018145">Pelosi apologizes to Biden admin officials as Covid aid stalemate lingers</a> Politico: The speaker's Thursday gesture in front of HHS Secretary Xavier Becerra and Anthony Fauci underscores the political headaches Democrats now face. 
  <p class="updated_time"> 09:26 AM CT, Mar. 17 </p> 
