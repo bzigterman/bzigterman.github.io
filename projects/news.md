@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:52 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: Rescue workers began pulling some survivors from the wreckage of a theater in Mariupol where hundreds, including children, were believed to be sheltering. Ukrainian air defenses claimed to shoot down Russian planes and missiles over Kyiv. 
+ <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-unesco-body-armor-journalists.html">UNESCO Will Send Body Armor to Ukrainian Journalists</a> NYT: The U.N. agency said thousands of Ukrainian journalists with no protective equipment or training were now covering the war. At least four journalists have been killed. 
  <p class="updated_time"> 04:42 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
- <p class="updated_time"> 04:40 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: In what has increasingly become a war of attrition, the fate of hundreds was uncertain after an attack destroyed a theater in Mariupol where they had sheltered. Peace talks between Russia and Ukraine enter a fourth day, but Vladimir Putin has sent conflicting signals about his willingness to negotiate. 
+ <p class="updated_time"> 04:41 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine how could Putin or his army generals be prosecuted? 
  <p class="updated_time"> 04:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
@@ -21,30 +25,30 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
  <p class="updated_time"> 04:23 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
+ <p class="updated_time"> 04:03 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
- <p class="updated_time"> 03:49 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 03:48 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60764403?at_medium=RSS&at_campaign=KARANGA">Cuba anti-government protesters jailed for up to 30 years</a> BBC: They were found guilty of sedition and theft after taking part in rare anti-government demonstrations. 
- <p class="updated_time"> 02:49 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 03:03 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 02:42 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
  <p class="updated_time"> 02:36 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Gourd, Tuber or Potato? A Big Find in New Zealand</a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
- <p class="updated_time"> 01:49 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 02:03 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
- <p class="updated_time"> 12:49 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 01:03 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
+ <p class="updated_time"> 12:03 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
  <p class="updated_time"> 11:57 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60708711?at_medium=RSS&at_campaign=KARANGA">Scientists claim hairy black holes explain Hawking paradox</a> BBC: Researchers say they have solved one of science's biggest paradoxes, first identified by Prof Stephen Hawking. 
- <p class="updated_time"> 11:49 PM CT, Mar. 16 </p> 
- <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 11:42 PM CT, Mar. 16 </p> 
  <a href="https://www.npr.org/2022/03/17/1087130870/honduras-judge-says-ex-president-can-be-extradited-to-u-s">Honduras judge says ex-president can be extradited to the U.S.</a> NPR: Juan Orlando Hernández, whom U.S. prosecutors accused in recent years of funding his political rise with profits from drug traffickers, can appeal the extradition decision. 
  <p class="updated_time"> 11:37 PM CT, Mar. 16 </p> 
@@ -161,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60764100?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Surrogate babies wait for parents in Kyiv bomb shelter</a> BBC: At least 21 infants born through surrogacy are left in limbo because of the war in Ukraine. 
  <p class="updated_time"> 02:20 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/north-korea-missile-launch-fail.html">North Korea’s Projectile Launch Fails, South Korea Says</a> NYT: The projectile, fired from outside Pyongyang, failed “immediately after liftoff,” the South Korean military said. 
- <p class="updated_time"> 01:01 AM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/health-60739969?at_medium=RSS&at_campaign=KARANGA">Ukraine: The volunteers racing aid from the UK to the front line</a> BBC: Volunteers are racing medical supplies from the UK to the Ukrainian front line. 
  <p class="updated_time"> 10:54 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/middleeast/syria-ukraine-invasion-russia.html">Impunity for Syria War Crimes   Casts  Shadow Over Ukraine</a> NYT: Syria, with Russian support, used many of the brutal tactics now seen in Ukraine — and its dictator stayed in power. That conflict offers lessons for Russia’s leader, analysts say. 
  <p class="updated_time"> 10:45 PM CT, Mar. 15 </p> 
@@ -177,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/americas/guatemala-abortion-law.html">In Reversal, Guatemala Shelves Anti-Abortion Law</a> NYT: President Alejandro Giammattei said he would veto the bill days after his allies pushed it through the legislature, a move that surprised analysts, human rights activists and officials. 
  <p class="updated_time"> 06:44 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/europe/marina-ovsyannikova-ukraine-war-protester.html"> Russian War Protester Who Burst Onto State TV Is Fined</a> NYT: In a video following her sentence, the state TV worker said she had been interrogated for 14 hours and “spent two days without sleep.” She still faces a lengthy prison sentence. 
- <p class="updated_time"> 05:11 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/ukraine-mykolaiv-russia-war.html">Life Inside Mykolaiv, a Besieged Ukrainian City</a> NYT: The port city of Mykolaiv is being shelled by Russian forces every day. Bodies are piled at the morgue. But residents refuse to succumb. 
  <p class="updated_time"> 04:48 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/ukraine-politics-congress.html">Ukraine War Shifts the Agenda in Congress, Empowering the Center</a> NYT: With a crisis rocking Europe, the left is shelving demands for defense cuts and a swift end to fossil fuels, while on the right, Trump-era foreign policy and criticism of Ukraine are fading. 
  <p class="updated_time"> 04:47 PM CT, Mar. 15 </p> 
@@ -354,8 +354,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/14/zelenskyy-to-address-congress-on-wednesday-00016966">Zelenskyy to address Congress on Wednesday</a> Politico: Zelenskyy will update the House and Senate on the brutal Russian invasion of his nation just days after Congress sent roughly $14 billion in lethal and humanitarian aid to Ukraine. 
  <p class="updated_time"> 07:18 AM CT, Mar. 14 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/14/the-congressional-calm-before-the-scotus-storm-00016938">The congressional calm before the (SCOTUS) storm</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 04:54 AM CT, Mar. 14 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/14/something-unusual-is-happening-between-biden-and-congress-00016935"> Something unusual is happening between Biden and Congress</a> Politico Playbook: And Russia and Ukraine are set to resume diplomatic talks. 
 
 
 </details>
