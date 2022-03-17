@@ -9,38 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: Rescue workers began pulling some survivors from the wreckage of a theater in Mariupol where hundreds, including children, were believed to be sheltering. Ukrainian air defenses claimed to shoot down Russian planes and missiles over Kyiv. 
+ <p class="updated_time"> 08:42 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 08:39 AM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60776929?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'We knew something terrible would happen to theatre'</a> BBC: A woman who left Mariupol's theatre a day before the attack says Russia targeted the area, despite it being clearly marked as a civilian shelter. 
  <p class="updated_time"> 08:21 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
- <p class="updated_time"> 08:06 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: Rescue workers began pulling some survivors from the wreckage of a theater in Mariupol where hundreds, including children, were believed to be sheltering. Ukrainian air defenses claimed to shoot down Russian planes and missiles over Kyiv. 
- <p class="updated_time"> 07:47 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 07:44 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 07:34 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/cambodia-trial-hun-sen.html">Cambodia Convicts 19 Opposition Politicians on ‘Incitement’ Charges</a> NYT: Critics called the trial a “witch hunt,” and the latest effort by Prime Minister Hun Sen to eliminate the last vestiges of dissenting political voices in what was already a virtually one-party state. 
  <p class="updated_time"> 07:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/coronavirus-south-korea.html">In South Korea, a Spike in Covid Cases Meets a Collective Shrug</a> NYT: A country that once had one of the world’s most aggressive coronavirus policies is opting to learn to live with the virus, even in the face of a soaring infection rate. 
- <p class="updated_time"> 07:31 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 07:25 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/biden-putin-russia-us-ukraine.html">Biden Calls Putin ‘War Criminal’ in Verbal Escalation With Russia</a> NYT: The U.S. president’s unscripted remarks echoed comments other American officials have made recently. 
  <p class="updated_time"> 07:21 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Is This the World’s Largest Potato? </a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
  <p class="updated_time"> 07:13 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/60773301?at_medium=RSS&at_campaign=KARANGA">Iran rescues dozens as UAE-flagged cargo ship sinks in Gulf</a> BBC: All but one of the 30 crew of the UAE-flagged vessel have been pulled from the water, officials say. 
+ <p class="updated_time"> 06:44 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 06:36 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
- <p class="updated_time"> 06:31 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 06:27 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60777185?at_medium=RSS&at_campaign=KARANGA">Kanye West: Rapper suspended from Instagram for 24 hours</a> BBC: The rapper used a racial slur in reference to Trevor Noah after the comedian criticised his behaviour. 
  <p class="updated_time"> 06:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Russia Invasion, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
- <p class="updated_time"> 05:31 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 05:44 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
  <p class="updated_time"> 05:11 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-unesco-body-armor-journalists.html">UNESCO Will Send Body Armor to Ukrainian Journalists</a> NYT: The U.N. agency said thousands of Ukrainian journalists with no protective equipment or training were now covering the war. At least four journalists have been killed. 
+ <p class="updated_time"> 04:44 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/turkey-faces-difficult-choices-on-russia-as-its-economy-stalls-11647518782">Turkey Faces Difficult Choices on Russia as Its Economy Stalls</a> WSJ: Turkey Faces Difficult Choices on Russia as Its Economy Stalls 
  <p class="updated_time"> 04:42 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 04:41 AM CT, Mar. 17 </p> 
@@ -48,16 +52,12 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/turkey-faces-difficult-choices-on-russia-as-its-economy-stalls-11647518782">Turkey Faces Difficult Choices on Russia as Its Economy Stalls</a> WSJ: Turkey Faces Difficult Choices on Russia as Its Economy Stalls 
- <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087133899/convictions-of-cambodian-opposition-leaders-draws-criticism-from-rights-groups">Convictions of Cambodian opposition leaders draws criticism from rights groups</a> NPR: Human rights advocates have decried the accusations as "baseless" and say the trial is meant to sideline political opponents of Prime Minister Hun Sen, who has been in power for more than 30 years. 
- <p class="updated_time"> 04:23 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 03:48 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60764403?at_medium=RSS&at_campaign=KARANGA">Cuba anti-government protesters jailed for up to 30 years</a> BBC: They were found guilty of sedition and theft after taking part in rare anti-government demonstrations. 
- <p class="updated_time"> 03:31 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 03:44 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/honduran-judge-clears-way-for-ex-president-to-be-sent-to-u-s-for-trial-11647493362">Honduran Judge Clears Way for Ex-President to Be Sent to U.S. for Trial</a> WSJ: Honduran Judge Clears Way for Ex-President to Be Sent to U.S. for Trial 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
