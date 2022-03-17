@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:10 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 06:30 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Russia Pounds Civilian Targets as War Enters 4th Week</a> NYT: Rescue workers began pulling some survivors from the wreckage of a theater in Mariupol where hundreds, including children, were believed to be sheltering. Ukrainian air defenses claimed to shoot down Russian planes and missiles over Kyiv. 
  <p class="updated_time"> 06:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Russia Invasion, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 05:52 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/16/world/japan-quake">Tsunami Alert Canceled After Big Quake Near Fukushima</a> NYT: Two small tsunami waves hit the coast after the 7.3 earthquake. Millions were without power. Three hours after the quake there were no reports of casualties and the extent of the damage was unclear. 
+ <p class="updated_time"> 05:31 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 05:23 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">It Seemed Like a Big Potato. Then Guinness Weighed In.</a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness Book of World Records. Then the results of a DNA analysis came in. 
- <p class="updated_time"> 05:19 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-mounts-counteroffensive-to-drive-russians-back-from-kyiv-key-cities-11647428858">Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities</a> WSJ: Ukraine Mounts Counteroffensive to Drive Russians Back From Kyiv, Key Cities 
  <p class="updated_time"> 05:11 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
@@ -31,23 +31,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087133899/convictions-of-cambodian-opposition-leaders-draws-criticism-from-rights-groups">Convictions of Cambodian opposition leaders draws criticism from rights groups</a> NPR: Human rights advocates have decried the accusations as "baseless" and say the trial is meant to sideline political opponents of Prime Minister Hun Sen, who has been in power for more than 30 years. 
+ <p class="updated_time"> 04:31 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 04:26 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori reunited with their families after years in Iran</a> BBC: In emotional scenes, Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
  <p class="updated_time"> 04:23 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60772331?at_medium=RSS&at_campaign=KARANGA">Russia attacks theatre sheltering civilians, Ukraine says</a> BBC: The building in the besieged city of Mariupol was sheltering up to 1,200 people, the deputy mayor says. 
- <p class="updated_time"> 04:19 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734">A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs</a> WSJ: A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 03:48 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60764403?at_medium=RSS&at_campaign=KARANGA">Cuba anti-government protesters jailed for up to 30 years</a> BBC: They were found guilty of sedition and theft after taking part in rare anti-government demonstrations. 
- <p class="updated_time"> 03:19 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 03:31 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-western-companies-sanctions-mcdonalds-cars-oil-11647437740">Western Companies’ Pullback From Russia Marks End of an Era</a> WSJ: Western Companies’ Pullback From Russia Marks End of an Era 
- <p class="updated_time"> 02:19 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 02:31 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/nearly-1-million-child-refugees-have-fled-ukraine-for-poland-since-war-began-11647428401">Nearly 1 Million Child Refugees Have Fled Ukraine for Poland</a> WSJ: Nearly 1 Million Child Refugees Have Fled Ukraine for Poland 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/japan-earthquake-fukushima.html">Powerful Quake Off Japan Rekindles Fears of Another Fukushima</a> NYT: Tsunami warnings in a region hit by nuclear disaster in 2011 were lifted after a few hours. The damage was still being assessed, but it appeared contained. 
- <p class="updated_time"> 01:19 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 01:31 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/boris-johnson-visits-u-a-e-saudi-arabia-seeking-more-oil-11647425339">Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil</a> WSJ: Boris Johnson Visits U.A.E., Saudi Arabia, Seeking More Oil 
  <p class="updated_time"> 12:02 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/jeffrey-zients-ashish-jha.html">Jeff Zients to Leave as Biden’s Covid Czar and Be Replaced by Ashish Jha</a> NYT: The choice of Dr. Jha, an outspoken public health expert, is a sign that the White House believes the country is entering a new phase of the pandemic. 
  <p class="updated_time"> 06:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Russia Invasion, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 05:27 AM CT, Mar. 17 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/16/white-house-ice-nominee-ed-gonzalez-00017547">White House tries to avoid a Raskin repeat as ICE pick teeters in Senate</a> Politico: A handful of undecided Democrats want to see more vetting of domestic abuse allegations that both the nominee and his wife deny. 
  <p class="updated_time"> 10:35 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/pentagon-civilian-casualties.html">House Democrats Ask Pentagon for Details on Plan to Reduce Civilian Casualties</a> NYT: In a letter on Tuesday, more than 40 lawmakers called it imperative that the military uphold “consistent standards for protecting the lives of civilians.” 
- <p class="updated_time"> 08:55 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/us/politics/doug-emhoff-covid.html">Doug Emhoff, Vice President’s Husband, Tests Positive for the Coronavirus</a> NYT: Vice President Kamala Harris tested negative for the virus on Tuesday, an aide said, but Mr. Emhoff’s positive test forced her to back out of an event with President Biden. 
  <p class="updated_time"> 07:39 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/us/politics/biden-congress-covid-relief-aid.html">In Impasse Over New Covid Relief Aid, Neither Side Is Willing to Bend</a> NYT: The White House wants more money for treatments, tests, vaccines and research, but Republicans in Congress insist the administration will have to repurpose existing funds. 
  <p class="updated_time"> 05:16 PM CT, Mar. 15 </p> 
