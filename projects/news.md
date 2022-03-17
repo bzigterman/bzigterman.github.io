@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:34 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 12:43 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Some Survivors Pulled From Damaged Theater Where Civilians Sheltered</a> NYT: Russia’s ground advance slowed, but more missile and other attacks struck civilians. As cease-fire talks continued with uncertain prospects, the U.N. Security Council was scheduled to hold an emergency meeting on Ukraine. 
+ <p class="updated_time"> 12:42 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60779001?at_medium=RSS&at_campaign=KARANGA">P&O Ferries sacks 800 workers but crew refuse to leave ships</a> BBC: The ferry company sparks outrage after sacking 800 staff with plans to replace them with cheaper agency workers. 
  <p class="updated_time"> 12:29 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087188333/ukraine-artists-celebrities-war-relief">How some people are trying to make art, not war, in Ukraine right now</a> NPR: The lead singer in Ukraine's biggest rock band is one of Ukrainian celebrities who are using their fame and connections to speed relief supplies to those who need them most. 
  <p class="updated_time"> 12:23 PM CT, Mar. 17 </p> 
@@ -21,14 +23,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Invasion of Ukraine, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 12:04 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/17/1086387570/ukraine-war-russia-checkpoints">Far from the front lines, Ukrainians guard checkpoints and wait for the war to come</a> NPR: Checkpoints have sprung up across Ukraine since Russia's invasion. Men at a checkpoint near Lviv have Molotov cocktails ready. Even hundreds of miles from the battles, the war hangs over everything. 
- <p class="updated_time"> 11:57 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60779001?at_medium=RSS&at_campaign=KARANGA">P&O Ferries sacks 800 workers but crew refuse to leave ships</a> BBC: Ferry services are cancelled as staff are told via a video call that they are being made redundant immediately. 
  <p class="updated_time"> 11:56 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/cardinal-giovanni-angelo-becciu-vatican-trial.html">In a First, Catholic Cardinal Testifies in Vatican Criminal Trial</a> NYT: Accused of embezzlement and abuse of office, Cardinal Giovanni Angelo Becciu told the court that he was sure the truth would clear his name. 
+ <p class="updated_time"> 11:51 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 11:46 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
- <p class="updated_time"> 11:40 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter</a> WSJ: Ukraine Awaits Word of Deaths, Survivors After Russia Hits Theater Turned Bomb Shelter 
  <p class="updated_time"> 11:39 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 11:19 AM CT, Mar. 17 </p> 
@@ -41,15 +41,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/brittney-griner-basketball-russia-detention.html">Russian Court Extends Brittney Griner’s Detention</a> NYT: Griner, one of the world’s best basketball players, was detained on accusations that she had hashish oil in her luggage at an airport outside of Moscow a week before Russia invaded Ukraine. 
+ <p class="updated_time"> 10:51 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 10:42 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087169376/brittney-griner-russia-detention-extended">A Russian court extended Brittney Griner's detention until May 19, state media says</a> NPR: Russian authorities said earlier this month that they detained Griner at a Moscow-area airport for allegedly transporting vape cartridges containing hashish oil in her luggage. 
- <p class="updated_time"> 10:40 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 10:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
  <p class="updated_time"> 09:56 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60781704?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russia extends arrest of US basketball star over drugs charge</a> BBC: Double Olympic champion Brittney Griner was arrested in February for alleged cannabis oil possession. 
- <p class="updated_time"> 09:40 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 09:51 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
  <p class="updated_time"> 09:22 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60776929?at_medium=RSS&at_campaign=KARANGA">Mariupol theatre: 'We knew something terrible would happen'</a> BBC: A woman who left Mariupol's theatre a day before the bombing says Russia had been targeting the area. 
@@ -59,13 +59,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60777050?at_medium=RSS&at_campaign=KARANGA">Ukraine's Zelensky calls on Germany to tear down Russian wall</a> BBC: Ukraine's president accuses Germany of helping Russia create a new type of Berlin Wall. 
  <p class="updated_time"> 08:56 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
+ <p class="updated_time"> 08:51 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/turkey-faces-difficult-choices-on-russia-as-its-economy-stalls-11647518782">Turkey Faces Difficult Choices on Russia as Its Economy Stalls</a> WSJ: Turkey Faces Difficult Choices on Russia as Its Economy Stalls 
  <p class="updated_time"> 08:50 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60781415?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: Interrogators did not believe TV protest was my idea</a> BBC: Marina Ovsyannikova explains why she protested against war in Ukraine on a live Russian TV news broadcast. 
  <p class="updated_time"> 08:44 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/cambodia-trial-hun-sen.html">Cambodia Convicts 19 Opposition Politicians on ‘Incitement’ Charges</a> NYT: Critics called the trial a “witch hunt,” and the latest effort by Prime Minister Hun Sen to eliminate the last vestiges of dissenting political voices in what was already a virtually one-party state. 
- <p class="updated_time"> 08:40 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/turkey-faces-difficult-choices-on-russia-as-its-economy-stalls-11647518782">Turkey Faces Difficult Choices on Russia as Its Economy Stalls</a> WSJ: Turkey Faces Difficult Choices on Russia as Its Economy Stalls 
- <p class="updated_time"> 07:40 AM CT, Mar. 17 </p> 
+ <p class="updated_time"> 07:51 AM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/chinese-president-vows-to-control-covid-outbreak-with-smallest-cost-11647523895">Chinese President Vows to Control Covid Outbreak With Smallest Cost</a> WSJ: Chinese President Vows to Control Covid Outbreak With Smallest Cost 
  <p class="updated_time"> 07:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/coronavirus-south-korea.html">In South Korea, a Spike in Covid Cases Meets a Collective Shrug</a> NYT: A country that once had one of the world’s most aggressive coronavirus policies is opting to learn to live with the virus, even in the face of a soaring infection rate. 
