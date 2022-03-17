@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:51 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 02:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Some Survivors Pulled From Damaged Theater Where Civilians Sheltered</a> NYT: Russia’s ground advance slowed, but more missile and other attacks struck civilians. As cease-fire talks continued with uncertain prospects, the U.N. Security Council held an emergency meeting on Ukraine. 
+ <p class="updated_time"> 02:57 PM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/climate/spring-drought-forecast-noaa.html">NOAA Expects Drought Conditions to Persist Through the Spring</a> NYT: Winter precipitation amounts were not enough to significantly improve conditions in much of the country, government scientists said. 
+ <p class="updated_time"> 02:53 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60779001?at_medium=RSS&at_campaign=KARANGA">P&O Ferries sparks outrage by sacking 800 workers</a> BBC: Staff are told via video it is their "final day of employment" and escorted off ships by security guards. 
  <p class="updated_time"> 02:39 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/russia-ukraine-queer-activists.html">LGBTQ Activists in Ukraine Share the Fight Against Russia’s Invasion</a> NYT: A pro-Russian puppet government would be less supportive of gay rights, the activists say, and incidents of discrimination would be likely to rise, as they have in Russian-backed separatist regions. 
  <p class="updated_time"> 02:33 PM CT, Mar. 17 </p> 
@@ -18,13 +22,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:32 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/arnold-schwarzenegger-video-putin.html">Arnold Schwarzenegger Tapes Video to Russia, Telling Putin: ‘Stop This War’</a> NYT: The movie star and former governor of California addressed Russians and Russian soldiers, saying, “ “your lives, your limbs, your futures are being sacrificed for a senseless war.” 
  <p class="updated_time"> 02:27 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/emmanuel-macron-france-election-debate.html">Riding High in France’s Polls, Emmanuel Macron Argues for Second Term</a> NYT: The Ukraine war has given the French leader a strong edge and few reasons to engage with his political opponents. He held a news conference to quell criticism that he is avoiding debate. 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/emmanuel-macron-france-election-debate.html">Emmanuel Macron Argues for Second Term as French President</a> NYT: The Ukraine war has given the French leader a strong edge and few reasons to engage with his political opponents. He held a news conference to quell criticism that he is avoiding debate. 
  <p class="updated_time"> 02:24 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/americas/peru-alberto-fujimori.html">Peru’s Top Court Reinstates Pardon for Former President Alberto Fujimori</a> NYT: The court issued a ruling to release Mr. Fujimori from prison, where he has served less than 15 years of a 25-year sentence for committing human rights abuses. 
- <p class="updated_time"> 01:53 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 02:07 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
- <p class="updated_time"> 01:52 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60779001?at_medium=RSS&at_campaign=KARANGA">P&O Ferries sparks outrage by sacking 800 workers</a> BBC: Staff are told via video it is their "final day of employment" and escorted off ships by security guards. 
  <p class="updated_time"> 01:32 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-60786964?at_medium=RSS&at_campaign=KARANGA">Ukraine: The troops holding the front line as Russia pounds Kharkiv</a> BBC: BBC's Quentin Sommerville reports from alongside the troops defending Ukraine's second city. 
  <p class="updated_time"> 01:30 PM CT, Mar. 17 </p> 
@@ -32,33 +34,33 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:14 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori back with families</a> BBC: Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
  <p class="updated_time"> 01:07 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
+ <p class="updated_time"> 01:07 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Invasion of Ukraine, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 01:05 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/climate/chevron-tanker-russia-oil-ukraine.html">Ukraine Seeks Tougher Sanctions at Russian Ports</a> NYT: A top Ukrainian official criticized companies in the United States and Greece for helping Russia continue to profit from oil despite its attack on Ukraine. 
- <p class="updated_time"> 12:53 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 12:29 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087188333/ukraine-artists-celebrities-war-relief">How some people are trying to make art, not war, in Ukraine right now</a> NPR: The lead singer in Ukraine's biggest rock band is one of Ukrainian celebrities who are using their fame and connections to speed relief supplies to those who need them most. 
  <p class="updated_time"> 12:23 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1086986950/russias-war-in-ukraine-has-nato-on-alert-heres-how-we-got-to-this-point">Russia's war in Ukraine has NATO on alert. Here's how we got to this point</a> NPR: Historian Mary Elise Sarotte tells how NATO expanded into Eastern Europe after the fall of the U.S.S.R, and is now obligated to defend nations near Russia's war in Ukraine. Her book is Not One Inch. 
  <p class="updated_time"> 12:15 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087209901/world-health-organization-ukraine">The WHO says Ukrainian health care is under attack, and it needs more funds to help</a> NPR: The World Health Organization has verified 43 attacks on health care in the three weeks since Russia invaded Ukraine, and says hundreds of facilities remain at risk. 
+ <p class="updated_time"> 12:07 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/in-rural-russia-locals-blame-the-west-for-conflict-in-ukraine-back-putin-11647541758">Rural Russians Back Putin, Blame the West for Ukraine Conflict</a> WSJ: Rural Russians Back Putin, Blame the West for Ukraine Conflict 
  <p class="updated_time"> 12:04 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/17/1086387570/ukraine-war-russia-checkpoints">Far from the front lines, Ukrainians guard checkpoints and wait for the war to come</a> NPR: Checkpoints have sprung up across Ukraine since Russia's invasion. Men at a checkpoint near Lviv have Molotov cocktails ready. Even hundreds of miles from the battles, the war hangs over everything. 
  <p class="updated_time"> 11:56 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/cardinal-giovanni-angelo-becciu-vatican-trial.html">In a First, Catholic Cardinal Testifies in Vatican Criminal Trial</a> NYT: Accused of embezzlement and abuse of office, Cardinal Giovanni Angelo Becciu told the court that he was sure the truth would clear his name. 
- <p class="updated_time"> 11:53 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/in-rural-russia-locals-blame-the-west-for-conflict-in-ukraine-back-putin-11647541758">Rural Russians Back Putin, Blame the West for Ukraine Conflict</a> WSJ: Rural Russians Back Putin, Blame the West for Ukraine Conflict 
  <p class="updated_time"> 11:46 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
  <p class="updated_time"> 11:19 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/italy-police-americans-murder.html">Italian Court Reduces Sentences for 2 Americans Convicted of Killing Police Officer</a> NYT: An appeals court confirmed the homicide verdicts but commuted the life terms for both men, handing Finnegan Elder 24 years in prison and Gabriel Natale Hjorth 22. 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Zelensky Pleads for More U.S. Aid, Invoking America’s Darkest Days</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
+ <p class="updated_time"> 11:07 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/extreme-wildfires-smoke-poses-new-threat-to-ozone-layer-research-finds-11647540000">Extreme Wildfires’ Smoke Threatens Ozone Layer, Studies Show</a> WSJ: Extreme Wildfires’ Smoke Threatens Ozone Layer, Studies Show 
  <p class="updated_time"> 11:04 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087164709/ukraine-mariupol-theater-bombing">Russia bombed a Mariupol theater with 'Children' sign outside — but shelter survived </a> NPR: A glimmer of good news has emerged in Mariupol, where people are being pulled out of a theater that was being used as a shelter. 
- <p class="updated_time"> 10:53 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/extreme-wildfires-smoke-poses-new-threat-to-ozone-layer-research-finds-11647540000">Extreme Wildfires’ Smoke Threatens Ozone Layer, Studies Show</a> WSJ: Extreme Wildfires’ Smoke Threatens Ozone Layer, Studies Show 
  <p class="updated_time"> 10:53 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
@@ -67,10 +69,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/17/1087169376/brittney-griner-russia-detention-extended">A Russian court extended Brittney Griner's detention until May 19, state media says</a> NPR: Russian authorities said earlier this month that they detained Griner at a Moscow-area airport for allegedly transporting vape cartridges containing hashish oil in her luggage. 
  <p class="updated_time"> 10:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/sahara-sandstorm-europe.html">Saharan Sands Float North to Europe, Coating Cities With Dust</a> NYT: A European monitoring service projected that the dust, which cast an eerie orange pall over much of the continent, could reach as far as Denmark. 
+ <p class="updated_time"> 10:07 AM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
  <p class="updated_time"> 09:56 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60781704?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: Russia extends arrest of US basketball star over drugs charge</a> BBC: Double Olympic champion Brittney Griner was arrested in February for alleged cannabis oil possession. 
- <p class="updated_time"> 09:53 AM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/bank-of-england-raises-key-rate-for-third-time-cites-new-price-pressures-from-russian-invasion-11647520379">Bank of England Raises Key Rate for Third Time</a> WSJ: Bank of England Raises Key Rate for Third Time 
  <p class="updated_time"> 09:22 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60776929?at_medium=RSS&at_campaign=KARANGA">Mariupol theatre: 'We knew something terrible would happen'</a> BBC: A woman who left Mariupol's theatre a day before the bombing says Russia had been targeting the area. 
  <p class="updated_time"> 09:15 AM CT, Mar. 17 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/15/world/europe/poland-czech-republic-slovenia-kyiv.html">Russian Bombardment of Kyiv Continues While European Leaders Visit </a> NYT: The prime ministers of Poland, the Czech Republic and Slovenia made the trip as a show of solidarity, but it also bared divisions with other European Union members. 
  <p class="updated_time"> 07:29 PM CT, Mar. 15 </p> 
  <a href="https://www.nytimes.com/2022/03/15/world/americas/guatemala-abortion-law.html">In Reversal, Guatemala Shelves Anti-Abortion Law</a> NYT: President Alejandro Giammattei said he would veto the bill days after his allies pushed it through the legislature, a move that surprised analysts, human rights activists and officials. 
- <p class="updated_time"> 04:47 PM CT, Mar. 15 </p> 
- <a href="https://www.nytimes.com/2022/03/15/health/covid-johnson-vaccine.html">Mounting Data Shows J&J Vaccine as Effective as Pfizer and Moderna</a> NYT: Once dismissed as less effective, the vaccine now seems to be preventing infections and illness about as well as the two mRNA options. 
 
 
 </details>
