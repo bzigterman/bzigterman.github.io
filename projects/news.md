@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:58 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Urges Xi Not to Aid Russia; Missile Strikes Shake a City in Ukraine’s West</a> NYT: Russia broadened its offensive with the missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
+ <p class="updated_time"> 02:43 PM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Tells Xi There Would Be Consequences to Helping Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
+ <p class="updated_time"> 01:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As diplomacy drags on, peace seems far off in Ukraine.</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
  <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
@@ -18,45 +20,43 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:31 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Amid War in Ukraine, I.E.A. Warns Nations of Global Energy Crisis</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
  <p class="updated_time"> 01:29 PM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/03/18/1087462333/fighting-to-survive-ukraines-cancer-struggle-to-find-care-while-fleeing-war">Fighting to survive: Ukraine's cancer struggle to find care while fleeing war</a> NPR: Supplies are running low at Lviv's regional cancer hospital in Ukraine. The patient load has doubled and supplies in Kyiv are inaccessible. But hospital staff choose the duty of care over safety. 
+ <a href="https://www.npr.org/sections/pictureshow/2022/03/18/1087462333/fighting-to-survive-ukraines-cancer-struggle-to-find-care-while-fleeing-war">Fighting to survive: Ukraine's cancer patients' struggle to find care while fleeing </a> NPR: Supplies are running low at Lviv's regional cancer hospital in Ukraine. The patient load has doubled and supplies in Kyiv are inaccessible. But hospital staff choose the duty of care over safety. 
  <p class="updated_time"> 01:29 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60800581?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Drone footage shows level of devastation in Mariupol</a> BBC: Video shows destroyed blocks of flats and a shopping mall in the besieged Ukrainian port city. 
  <p class="updated_time"> 01:13 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60800439?at_medium=RSS&at_campaign=KARANGA">Abramovich's jet among 100 planes grounded by US</a> BBC: The US government has grounded 100 Russia-affiliated aircraft believed to have violated US export controls 
- <p class="updated_time"> 01:11 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 01:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
  <p class="updated_time"> 12:54 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60800671?at_medium=RSS&at_campaign=KARANGA">Morad Tahbaz, released in Nazanin deal, back in Iran jail</a> BBC: Morad Tahbaz's family say they are "distraught" after hoping he would be permanently freed. 
+ <p class="updated_time"> 12:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 12:33 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
- <p class="updated_time"> 12:11 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 12:10 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087536180/empty-strollers-lviv-children-killed">109 empty strollers sit in a Lviv square, representing children killed in the war</a> NPR: "This is a terrible price of war that Ukraine is paying today," Lviv Mayor Andriy Sadovyi said as his city paid tribute to the youngest victims of violence. 
  <p class="updated_time"> 12:02 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-strategy-bombing-cities.html">Russia’s Brutality in Ukraine Has Roots in Earlier Conflicts</a> NYT: Its experience in a string of wars led to the conclusion that attacking civilian populations was not only acceptable but militarily sound. 
+ <p class="updated_time"> 11:49 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 11:26 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/pope-francis-ukraine-russia-war.html">Pope Deplores the War in Ukraine but Not the Aggressor</a> NYT: Francis has raised his voice against “unacceptable armed aggression” without mentioning President Vladimir V. Putin or Russia. Some analysts say that he risks complicating his legacy. 
  <p class="updated_time"> 11:17 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-bond-payment.html">Russia appears to have avoided default as it makes a $117 million bond payment.</a> NYT: Sanctions have isolated the country financially, driven down the value of the ruble and cut off Moscow’s access to about half its foreign currency reserves. 
- <p class="updated_time"> 11:11 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 11:04 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60793319?at_medium=RSS&at_campaign=KARANGA">Putin hails Crimea annexation and war with lessons on heroism</a> BBC: Eight years after Russia seized Crimea, the event is being celebrated with a concert and in schools. 
+ <p class="updated_time"> 10:49 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War</a> WSJ: Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War 
  <p class="updated_time"> 10:48 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-war-poet.html">For a Ukrainian Poet, Putin’s War Is All Too Familiar</a> NYT: Ihor Kalynets, 83, spent a lifetime resisting Soviet domination. Now, he says, he’s not going anywhere. 
  <p class="updated_time"> 10:12 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
- <p class="updated_time"> 10:11 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War</a> WSJ: Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War 
+ <p class="updated_time"> 09:49 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 09:32 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745569?at_medium=RSS&at_campaign=KARANGA">Diplomats spar over 'edited' Russian letter</a> BBC: Russia accuses Canada of 'kindergarten' diplomacy in spat over a Russian letter sent to UN members. 
  <p class="updated_time"> 09:20 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-ukraine.html">Russia’s military progress slows, but it makes gains in the south and east.</a> NYT: Britain’s defense intelligence service said that Russian forces had “made minimal progress this week.” 
- <p class="updated_time"> 09:11 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 09:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
  <p class="updated_time"> 08:41 AM CT, Mar. 18 </p> 
@@ -219,9 +219,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:55 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/jan-6-trial-where-was-mike-pence-capitol-riot-00018502">Jan. 6 trial centers on lingering mystery: Where was Mike Pence as riot raged?</a> Politico: Prosecutors say that Secret Service witnesses will refuse to disclose Pence’s precise location because it could jeopardize national security protocols for the current vice president Kamala Harris. 
  <p class="updated_time"> 10:11 AM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/biden-administration-pressures-xi-jinping-00018478">‘We hope that he chooses the right side of history here’: Biden administration pressures Xi</a> Politico: Wendy Sherman said Biden will use Friday’s discussion with Xi to gauge where the Chinese leader stands on Russia’s assault on Ukraine. 
+ <a href="https://www.politico.com/news/2022/03/18/biden-administration-pressures-xi-jinping-00018478">Biden warns Xi of 'consequences' if China supports Russia's attack on Ukraine</a> Politico: The president also reiterated U.S. policy on Taiwan and said his administration would oppose unilateral action against the island by Beijing. 
  <p class="updated_time"> 09:56 AM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/supply-chain-ballot-paper-shortage-00018460">The latest supply chain concern: Ballot paper</a> Politico: Election officials are facing delays and shortages as they order the paper and envelopes they need to run elections this year. 
+ <a href="https://www.politico.com/news/2022/03/18/supply-chain-ballot-paper-shortage-00018460">A paper shortage is looming over the 2022 elections. Seriously.</a> Politico: Election officials are facing delays and shortages as they order the paper and envelopes they need to run elections this year. 
  <p class="updated_time"> 06:43 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/18/the-gop-pivot-on-zelenskyy-00018436">The GOP pivot on Zelenskyy</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:04 AM CT, Mar. 18 </p> 
@@ -338,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:41 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/republicans-out-hawk-biden-ukraine-aid-00017831">Republicans try to out-hawk Biden on Ukraine aid</a> Politico: It's a GOP message that carries some real baggage. But from leaders to rank-and-file, the party is pushing Biden to do more against Russia. 
- <p class="updated_time"> 12:27 PM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/trump-rules-out-pence-as-vp-2024-00017783">Trump rules out Pence as VP in potential 2024 presidential bid</a> Politico: The former president doesn't think Americans would "accept" a Trump-Pence ticket. 
  <p class="updated_time"> 11:38 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-speech-video-four-takeaways-00017748">4 things Zelenskyy just told Congress that could impact Russia’s war on Ukraine</a> Politico: Most lawmakers acknowledge that America can and should be doing more. Zelenskyy’s Wednesday speech could spur action to help Ukrainian forces defend their country. 
  <p class="updated_time"> 08:35 AM CT, Mar. 16 </p> 
@@ -356,10 +354,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/16/white-house-ice-nominee-ed-gonzalez-00017547">White House tries to avoid a Raskin repeat as ICE pick teeters in Senate</a> Politico: A handful of undecided Democrats want to see more vetting of domestic abuse allegations that both the nominee and his wife deny. 
  <p class="updated_time"> 03:54 PM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/ukraine-photo-essay-humanitarian-church-00017118">On the ground in Ukraine, in photos: Millions flee their homes amid intensifying Russian attacks</a> Politico: A wave of refugees is escaping Russia’s invasion, creating the biggest humanitarian crisis in Europe in decades. 
- <p class="updated_time"> 02:22 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/here-comes-the-sun-senate-moves-to-make-daylight-savings-time-permanent-00017451">Here comes the sun: Senate agrees on permanent daylight saving time</a> Politico: It's unclear whether the House will act to end America's fall-back, spring-forward clock-moving. But for the moment, senators basked in their agreement. 
- <p class="updated_time"> 02:16 PM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/raskin-withdraws-as-bidens-fed-nominee-00017476">Raskin withdraws as Biden’s Fed nominee</a> Politico: Sarah Bloom Raskin had been stuck in the Senate Banking Committee amid a GOP boycott of a committee vote on her nomination. 
 
 
 </details>
