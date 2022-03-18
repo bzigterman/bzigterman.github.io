@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:10 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Internation Energy Agency Says Nations Should Conserve Fuel as Global Energy Crisis Looms</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
+ <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
+ <p class="updated_time"> 04:19 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 04:12 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087447176/samoa-locks-down-after-recording-its-first-community-covid-19-case">Samoa locks down after recording its first community COVID-19 case </a> NPR: A 29-year-old woman tested positive for the coronavirus on Thursday during routine testing before boarding an international flight. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
@@ -16,30 +22,26 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-war-poet.html">For a Ukrainian Poet, Putin’s War Is All Too Familiar</a> NYT: Ihor Kalynets, 83, spent a lifetime resisting Soviet domination. Now, he says, he’s not going anywhere. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Internation Energy Agency Says Nations Should Conserve Fuel as Global Energy Crisis Looms</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
- <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087418604/were-not-hearing-much-about-jailed-wnba-star-brittney-griner-could-that-be-good">We're not hearing much about jailed WNBA star Brittney Griner. Could that be good?</a> NPR: Media coverage of Griner's arrest on alleged drug charges in Russia has remained somewhat muted. Some say it's because of her skin color, but others say it's part of a bigger strategy to get her home. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087314355/russia-ukraine-invasion-latest-analysis">Can Ukraine win the war? These analysts think so. Here's how it might unfold</a> NPR: It's been three weeks since Russia invaded Ukraine, and while many thought that it would be over quickly, Ukraine is continuing to fend Russia off. Now, some analysts think Ukraine could win the war. 
- <p class="updated_time"> 03:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Civilian Misery Deepens as Russia Keeps Up Its Siege Campaign</a> NYT: The western city of Lviv, a haven until now, was struck by missiles on Friday morning, the mayor said. The suffering in that city and others in Ukraine shows no sign of ending, even as Western officials say Russia’s offensive has stalled. 
  <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
- <p class="updated_time"> 02:55 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 03:19 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
+ <p class="updated_time"> 02:19 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 02:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html">How the War in Ukraine Could Slow the Sales of Electric Cars</a> NYT: The price of nickel, an essential ingredient in most batteries, has soared because of fear that Russian supplies could be cut off. 
- <p class="updated_time"> 01:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
+ <p class="updated_time"> 01:19 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60790536?at_medium=RSS&at_campaign=KARANGA">Holi 2022: India celebrates festival of colours as Covid cases dip</a> BBC: The festival of Holi marks the beginning of spring in the country. 
- <p class="updated_time"> 12:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 12:50 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087442224/peru-court-orders-ex-president-fujimori-freed-from-prison">Peru court orders ex-President Fujimori freed from prison</a> NPR: The decision restores a humanitarian pardon even though authorities gave no indication the former president's release was imminent. 
- <p class="updated_time"> 11:55 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 12:19 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 11:40 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60790326?at_medium=RSS&at_campaign=KARANGA">Dozens of pilot whales die at notorious New Zealand beach</a> BBC: Rescuers saved a few pilot whales but 31 died in another mass stranding at the South Island bay. 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
- <p class="updated_time"> 08:33 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
  <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
  <p class="updated_time"> 08:12 PM CT, Mar. 17 </p> 
@@ -69,6 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons will US give Ukraine - and how much will they help?</a> BBC: Experts believe that while additional US aid can help Ukraine fight back, more is still needed. 
  <p class="updated_time"> 07:28 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60789542?at_medium=RSS&at_campaign=KARANGA">Young brothers found in Amazon after nearly four weeks</a> BBC: The brothers, eight and six, are being treated for malnourishment but are due to make a full recovery. 
+ <p class="updated_time"> 07:25 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60781625?at_medium=RSS&at_campaign=KARANGA">Airline giant Delta warns oil increases mean higher ticket prices</a> BBC: The jump in oil prices since Russia invaded Ukraine is set to lead to higher airfares. 
  <p class="updated_time"> 07:22 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60737248?at_medium=RSS&at_campaign=KARANGA">Ukraine's restaurants rally to the war effort</a> BBC: From chefs to suppliers, the country's food industry is pulling together to feed the population at war. 
  <p class="updated_time"> 07:02 PM CT, Mar. 17 </p> 
@@ -206,6 +208,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:04 AM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/03/18/a-retiring-moderate-democrat-unloads-on-the-party-00018430"> A retiring moderate Democrat unloads on the party</a> Politico Playbook: And Dems prepare to grill oil CEOs on the Hill. 
+ <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
  <p class="updated_time"> 04:27 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1086849018/black-women-form-the-first-line-of-defense-for-a-historic-supreme-court-nominee">Black women form the first line of defense for a historic Supreme Court nominee</a> NPR: Judge Ketanji Brown Jackson is the first Black woman nominated to the court. For many activists, her confirmation hearings bring pride and inspiration — and resolve against conservative attacks. 
  <p class="updated_time"> 04:02 AM CT, Mar. 18 </p> 
@@ -244,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/17/moderna-fda-booster-00018409">Moderna asks FDA to authorize second booster shot for all adults</a> Politico: FDA is set to convene its advisory committee of vaccine experts next month to deliberate how to approach Covid booster shots. 
  <p class="updated_time"> 08:51 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-china-weapons.html">Biden Will Punish China if It Gives Military Aid to Russia, Blinken Says</a> NYT: President Biden plans to talk on Friday with Xi Jinping, who has a close partnership with Vladimir V. Putin and supports him in the Ukraine war. 
- <p class="updated_time"> 08:33 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
  <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
  <p class="updated_time"> 08:01 PM CT, Mar. 17 </p> 
@@ -304,6 +308,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/17/pelosi-biden-officials-covid-aid-stalemate-00018145">Dems search for next steps on Covid aid as headaches pile up</a> Politico: Speaker Nancy Pelosi said more money is now required, as Democrats struggle to line up necessary Republican support. 
  <p class="updated_time"> 08:25 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/biden-ashish-jha-covid19-czar-00018086">Biden picks Ashish Jha as new Covid-19 czar</a> Politico: Ashish Jha, dean of the Brown University School of Public Health, will lead the White House's Covid-19 response. 
+ <p class="updated_time"> 07:39 AM CT, Mar. 17 </p> 
+ <a href="https://www.politico.com/news/2022/03/17/biden-xi-jinping-talk-russian-war-ukraine-00018084">Biden will talk to Xi Friday amid Russian war in Ukraine</a> Politico: China has maintained economic ties with Moscow even as much of the world has shunned Russia. 
  <p class="updated_time"> 07:37 AM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087149187/dr-ashish-jha-is-the-new-white-house-covid-response-coordinator">Here's who will lead the White House COVID response for the next pandemic phase</a> NPR: President Biden recently announced a new COVID plan to try to get things back to normal. Dr. Ashish Jha — a familiar face in the public health community — helped develop that plan. 
  <p class="updated_time"> 07:04 AM CT, Mar. 17 </p> 
@@ -316,6 +322,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/17/1087047638/the-truth-in-political-advertising-youre-allowed-to-lie">The truth in political advertising: 'You're allowed to lie'</a> NPR: A campaign ad for Kari Lake, a Republican candidate for Arizona governor, includes baseless claims of a rigged 2020 election. Can candidates lie in their paid ads? The short answer: yes. 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/stacey-abrams-georgia-governor.html">Why Stacey Abrams Is Rejecting Her Democratic Stardom</a> NYT: On the campaign trail for Georgia governor, she is talking more about Medicaid expansion than voting rights, betting that a hyperlocal strategy and the state’s leftward tilt can lift her to victory. 
+ <p class="updated_time"> 03:31 AM CT, Mar. 17 </p> 
+ <a href="https://www.politico.com/news/2022/03/17/sanders-khanna-presidential-bid-2024-00018017">Sanders camp quietly pushes Khanna presidential bid</a> Politico: Top progressives are encouraging the California congressman to run in 2024 if Joe Biden doesn’t seek reelection. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
+ <a href="https://www.politico.com/news/2022/03/17/white-house-china-russia-00017793">China finds itself in a tricky position — stuck between the White House and the Kremlin</a> Politico: The Biden administration is telling Beijing that it's courting disaster by supporting Putin. But China may be too big to sanction. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/house-dems-urge-executive-action-00017857">House liberals start asking Biden to sidestep Congress — months before the midterms</a> Politico: Democrats are still in full control of Washington. But some progressives are ready to dispense with the centrist-empowering Senate and get the president pumping out executive actions. 
  <p class="updated_time"> 11:09 PM CT, Mar. 16 </p> 
@@ -328,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 02:41 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/republicans-out-hawk-biden-ukraine-aid-00017831">Republicans try to out-hawk Biden on Ukraine aid</a> Politico: It's a GOP message that carries some real baggage. But from leaders to rank-and-file, the party is pushing Biden to do more against Russia. 
- <p class="updated_time"> 12:27 PM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/trump-rules-out-pence-as-vp-2024-00017783">Trump rules out Pence as VP in potential 2024 presidential bid</a> Politico: The former president doesn't think Americans would "accept" a Trump-Pence ticket. 
  <p class="updated_time"> 11:38 AM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-speech-video-four-takeaways-00017748">4 things Zelenskyy just told Congress that could impact Russia’s war on Ukraine</a> Politico: Most lawmakers acknowledge that America can and should be doing more. Zelenskyy’s Wednesday speech could spur action to help Ukrainian forces defend their country. 
  <p class="updated_time"> 08:35 AM CT, Mar. 16 </p> 
@@ -358,8 +366,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/15/mike-pence-january-6-script-change-00017294">Another Jan. 6 mystery revealed: Pence's second script rewrite</a> Politico: The never-before-told backstory of why the then-vice president made a change not seen since Al Gore — as a rebuttal to Trump allies' fringe theories. 
  <p class="updated_time"> 06:07 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/15/fortenberry-faces-the-fire-00017258">Fortenberry faces the fire</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:11 AM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/15/zelenskyys-must-see-tv-00017251"> Zelenskyy’s must-see TV</a> Politico Playbook: And the 50-50 Senate is actually working. 
 
 
 </details>
