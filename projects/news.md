@@ -9,9 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:26 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 04:53 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Tells Xi There Would Be Consequences to Helping Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
- <p class="updated_time"> 04:09 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 04:45 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
  <p class="updated_time"> 04:09 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
@@ -21,12 +21,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60794423?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Talking to a Ukrainian mother and her child who fled to Poland</a> BBC: Krystyna Tynkalyuk is trying to explain to her three-year-old why they can't go back home to see her father. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:53 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 03:39 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/biden-xi-russia-china.html">Biden Warns China Against Giving Aid to Russia for the Ukraine War</a> NYT: President Biden told Xi Jinping there would be consequences if Beijing gives material support to Russia, implying that the United States could impose sanctions on China. 
  <p class="updated_time"> 03:38 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087597316/gas-prices-oil-consumption-iea">With gas prices soaring over the Ukraine war, here's a plan to cut oil consumption</a> NPR: From cutting highway speed limits to launching car-free Sundays in big cities, the International Energy Agency proposes to cut the demand for oil by as much as 2.7 million barrels per day. 
- <p class="updated_time"> 03:29 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087617018/how-much-influence-do-russian-oligarchs-really-have-on-putin">How much influence do Russian oligarchs really have on Putin?</a> NPR: Sanctions imposed on Russia have targeted some of its wealthiest individuals, its oligarchs, for their ties to President Vladimir Putin. In reality, this group has varying degrees of influence. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
@@ -37,18 +37,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616976/russia-strikes-targets-in-kyiv-as-mariupol-theater-rescue-efforts-continue">Russia strikes targets in Kyiv as Mariupol theater rescue efforts continue</a> NPR: A fourth day of peace negotiations ended with no breakthrough. Ukraine's president said workers continued rescue efforts at the Mariupol theater where scores of civilians were sheltering. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087616923/refugees-from-other-wars-see-themselves-in-fleeing-ukrainians">Refugees from other wars see themselves in fleeing Ukrainians</a> NPR: NPR's Mary Louise Kelly talks with people about the experience of being a refugee, how fleeing their home country has affected their life and what life is like now. 
+ <p class="updated_time"> 02:53 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 02:46 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
- <p class="updated_time"> 02:29 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
+ <p class="updated_time"> 01:53 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As diplomacy drags on, peace seems far off in Ukraine.</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
  <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/business/hong-kong-virus-beijing.html">Confusion and Chaos in Hong Kong as Leaders Fumble Virus Response</a> NYT: Government officials have been unable to curb an outbreak that has surpassed one million infections, leading Beijing to step up its intervention in the semiautonomous territory. 
  <p class="updated_time"> 01:31 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Amid War in Ukraine, I.E.A. Warns Nations of Global Energy Crisis</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
- <p class="updated_time"> 01:29 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 01:29 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/18/1087462333/fighting-to-survive-ukraines-cancer-struggle-to-find-care-while-fleeing-war">Fighting to survive: Ukraine's cancer patients' struggle to find care while fleeing </a> NPR: Supplies are running low at Lviv's regional cancer hospital in Ukraine. The patient load has doubled and supplies in Kyiv are inaccessible. But hospital staff choose the duty of care over safety. 
  <p class="updated_time"> 01:29 PM CT, Mar. 18 </p> 
@@ -59,13 +59,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
  <p class="updated_time"> 12:54 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60800671?at_medium=RSS&at_campaign=KARANGA">Morad Tahbaz, released in Nazanin deal, back in Iran jail</a> BBC: Morad Tahbaz's family say they are "distraught" after hoping he would be permanently freed. 
- <p class="updated_time"> 12:29 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 12:53 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">Biden Warns Xi of ‘Consequences’ if Beijing Supports Russia on Ukraine</a> WSJ: Biden Warns Xi of ‘Consequences’ if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 12:10 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087536180/empty-strollers-lviv-children-killed">109 empty strollers sit in a Lviv square, representing children killed in the war</a> NPR: "This is a terrible price of war that Ukraine is paying today," Lviv Mayor Andriy Sadovyi said as his city paid tribute to the youngest victims of violence. 
  <p class="updated_time"> 12:02 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-strategy-bombing-cities.html">Russia’s Brutality in Ukraine Has Roots in Earlier Conflicts</a> NYT: Its experience in a string of wars led to the conclusion that attacking civilian populations was not only acceptable but militarily sound. 
- <p class="updated_time"> 11:29 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 11:53 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 11:26 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/pope-francis-ukraine-russia-war.html">Pope Deplores the War in Ukraine but Not the Aggressor</a> NYT: Francis has raised his voice against “unacceptable armed aggression” without mentioning President Vladimir V. Putin or Russia. Some analysts say that he risks complicating his legacy. 
@@ -193,12 +193,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/americas/honduras-extradition-juan-orlando-hernandez.html">Honduras Judge Approves Extradition of Ex-President to U.S.</a> NYT: Former President Juan Orlando Hernández is facing drug-trafficking and weapons charges 
  <p class="updated_time"> 08:58 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/us-ukraine-weapons-drones.html">U.S. Adds ‘Kamikaze Drones’ as More Weapons Flow to Ukraine</a> NYT: NATO allies are focused on providing Kyiv with high-tech defensive weapons that are easy to use and move. 
- <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
  <p class="updated_time"> 05:43 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-troop-deaths.html">As Russian Troop Deaths Climb, Morale May Be an Issue</a> NYT: More than 7,000 Russian troops have been killed in less than three weeks of fighting, according to conservative U.S. estimates. 
- <p class="updated_time"> 05:02 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/russian-oligarch-yacht-spain.html">Spain Seizes Another Russian Yacht Believed to Belong to an Oligarch</a> NYT: The ship was impounded in the Spanish port of Tarragona pending an inspection to establish its exact ownership, Spain’s transport ministry said. 
  <p class="updated_time"> 06:04 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
 
@@ -208,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/bidens-call-with-xi-bilateral-deadlock-00018622">Biden’s call with Xi underscores deepening bilateral deadlock</a> Politico: Xi unyielding on Ukraine, continues to blame conflict on U.S. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Mar. 18 </p> 
@@ -326,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/17/scoop-rnc-down-to-two-2024-convention-finalists-00018069"> Scoop: RNC down to two 2024 convention finalists</a> Politico Playbook: And lawmakers make little movement on Ukraine's latest aid requests. 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/stacey-abrams-georgia-governor.html">Why Stacey Abrams Is Rejecting Her Democratic Stardom</a> NYT: On the campaign trail for Georgia governor, she is talking more about Medicaid expansion than voting rights, betting that a hyperlocal strategy and the state’s leftward tilt can lift her to victory. 
- <p class="updated_time"> 03:31 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/sanders-khanna-presidential-bid-2024-00018017">Sanders camp quietly pushes Khanna presidential bid</a> Politico: Top progressives are encouraging the California congressman to run in 2024 if Joe Biden doesn’t seek reelection. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/white-house-china-russia-00017793">China finds itself in a tricky position — stuck between the White House and the Kremlin</a> Politico: The Biden administration is telling Beijing that it's courting disaster by supporting Putin. But China may be too big to sanction. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
