@@ -15,48 +15,48 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
  <p class="updated_time"> 09:36 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
+ <p class="updated_time"> 09:34 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
- <p class="updated_time"> 09:10 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 08:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/americas/peru-alberto-fujimori.html">Peru’s Top Court Reinstates Pardon for Former President Alberto Fujimori</a> NYT: The court issued a ruling to release Mr. Fujimori from prison, where he has served less than 15 years of a 25-year sentence for committing human rights abuses. The government said it would appeal the ruling. 
+ <p class="updated_time"> 08:34 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 08:33 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
  <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
  <p class="updated_time"> 08:12 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60777278?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 11-17 March 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 08:10 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 08:02 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Is This the World’s Largest Potato? </a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to Guinness World Records. Then the results of a DNA analysis came in. 
  <p class="updated_time"> 07:54 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons will US give Ukraine - and how much will they help?</a> BBC: Experts believe that while additional US aid can help Ukraine fight back, more is still needed. 
+ <p class="updated_time"> 07:34 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 07:28 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60789542?at_medium=RSS&at_campaign=KARANGA">Young brothers found in Amazon after nearly four weeks</a> BBC: The brothers, eight and six, are being treated for malnourishment but are due to make a full recovery. 
  <p class="updated_time"> 07:22 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60737248?at_medium=RSS&at_campaign=KARANGA">Ukraine's restaurants rally to the war effort</a> BBC: From chefs to suppliers, the country's food industry is pulling together to feed the population at war. 
- <p class="updated_time"> 07:10 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 07:02 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60716448?at_medium=RSS&at_campaign=KARANGA">Sunny Balwani: Elizabeth Holmes' former partner goes on trial</a> BBC: Sunny Balwani was considered the "enforcer" at Theranos and was its enigmatic founder's lover. 
  <p class="updated_time"> 06:52 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60785791?at_medium=RSS&at_campaign=KARANGA">Ukraine: Elegant Odesa is transformed by efforts to deter Russians</a> BBC: As Russian warships circle off the coast, Odesans face a difficult decision on whether to leave. 
  <p class="updated_time"> 06:41 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
- <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 06:34 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/house-russia-trade-status.html">House Votes to Suspend Normal Trade Relations With Russia</a> NYT: The bill, which still needs Senate approval, is the latest in a series of measures that lawmakers have passed to support Ukraine and punish Russia for its invasion. 
  <p class="updated_time"> 05:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
+ <p class="updated_time"> 05:34 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 05:20 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087287150/putins-warning-to-anti-war-russians-evokes-stalinist-purges">Putin's warning to anti-war Russians evokes Stalinist purges</a> NPR: The Russian president's references to "cleansing" of "scum and traitors" evoked terrifying memories of the mass arrests of the Stalin era, when repression was justified for "cleansing" Soviet society. 
  <p class="updated_time"> 05:12 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60789022?at_medium=RSS&at_campaign=KARANGA">Child, 13, drove pickup in deadly Texas crash that killed nine</a> BBC: A 13-year-old was driving a truck that collided with a van carrying student athletes, officials say. 
- <p class="updated_time"> 05:10 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 05:00 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60784298?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict round-up: Putin's peace demands and a new 'Russian wall'</a> BBC: Rescue workers search for survivors of the Mariupol theatre bombing as Russia's advance grinds on. 
  <p class="updated_time"> 04:45 PM CT, Mar. 17 </p> 
@@ -366,8 +366,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/15/zelenskyys-must-see-tv-00017251"> Zelenskyy’s must-see TV</a> Politico Playbook: And the 50-50 Senate is actually working. 
  <p class="updated_time"> 03:31 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/news/2022/03/15/schumer-steers-senate-toward-center-00017168">Schumer's Senate shocker: Bills are passing (seriously)</a> Politico: The 50-50 chamber's notched bipartisan accomplishments on many different fronts. But as one Republican put it, "I don’t think the age of Aquarius has broken out." 
- <p class="updated_time"> 10:29 PM CT, Mar. 14 </p> 
- <a href="https://www.cnn.com/2022/03/14/politics/russia-economy-sanctions-ruble-what-matters/index.html">Here's how we know sanctions are hurting Russia</a> CNN: When the Communists and Vladimir Lenin took over Russia in 1917, they repudiated old czarist debts and the country defaulted on its foreign obligations -- the largest sovereign default in history. 
 
 
 </details>
