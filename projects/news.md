@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:46 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Ukraine Live Updates: 130 Rescued From Theater Rubble; Fates of Hundreds More Unknown</a> NYT: A Ukrainian official said that “more than 1,300 people” might still be trapped in the basement of a Mariupol theater that was nearly destroyed in a Russian attack. President Biden was discussing the war in a call with China’s leader, Xi Jinping. 
- <p class="updated_time"> 09:40 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 10:25 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Ukraine Live Updates: 130 Rescued From Theater Rubble; Russia Strikes Near Lviv</a> NYT: A Ukrainian official said that “more than 1,300 people” might still be trapped in the basement of a Mariupol theater that was nearly destroyed in a Russian attack. Missiles struck outside Lviv in western Ukraine, as Russia broadened its targets. 
+ <p class="updated_time"> 10:13 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60793319?at_medium=RSS&at_campaign=KARANGA">Putin hails Crimea annexation and war with lessons on heroism</a> BBC: Eight years after Russia seized Crimea, the event is being celebrated with a concert and in schools. 
+ <p class="updated_time"> 10:12 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
+ <p class="updated_time"> 09:38 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike</a> WSJ: Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike 
  <p class="updated_time"> 09:32 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745569?at_medium=RSS&at_campaign=KARANGA">Russia, Canada diplomats spar over 'edited' letter</a> BBC: Russian accuses Canada of 'kindergarten' diplomacy in spat over a Russian letter sent to UN members. 
  <p class="updated_time"> 09:20 AM CT, Mar. 18 </p> 
@@ -21,38 +25,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
  <p class="updated_time"> 08:59 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-strategy-bombing-cities.html">Russia’s Brutality in Ukraine Has Roots in Earlier Conflicts</a> NYT: Its experience in a string of wars led to the conclusion that attacking civilian populations was not only acceptable but militarily sound. 
- <p class="updated_time"> 08:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike</a> WSJ: Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike 
+ <p class="updated_time"> 08:38 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/telegram-thrives-amid-russias-media-crackdown-11647595800">Telegram Thrives Amid Russia’s Media Crackdown</a> WSJ: Telegram Thrives Amid Russia’s Media Crackdown 
  <p class="updated_time"> 08:25 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/pope-francis-ukraine-russia-war.html">Pope Deplores the War in Ukraine but Not the Aggressor</a> NYT: Francis has raised his voice against “unacceptable armed aggression” without mentioning President Vladimir V. Putin or Russia. Some analysts say that he risks complicating his legacy. 
  <p class="updated_time"> 08:09 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60794809?at_medium=RSS&at_campaign=KARANGA">Ukraine: Arnold Schwarzenegger's anti-war video trends on Russian social media</a> BBC: In the video the actor warns Russians they are being fed misinformation over the Ukraine war. 
  <p class="updated_time"> 08:02 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087460874/russian-missiles-hit-a-fighter-jet-repair-facility-in-the-closest-strike-yet-to-">Russian missiles hit a fighter jet repair facility in the closest strike yet to Lviv</a> NPR: The western Ukrainian city of Lviv has been a bastion of relative normalcy since the Russian invasion began last month. Friday's strike, just over 4 miles from the city center, rattled residents. 
- <p class="updated_time"> 07:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/telegram-thrives-amid-russias-media-crackdown-11647595800">Telegram Thrives Amid Russia’s Media Crackdown</a> WSJ: Telegram Thrives Amid Russia’s Media Crackdown 
+ <p class="updated_time"> 07:38 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980">How the U.S. and EU Cut Russia Off  From the Global Economy</a> WSJ: How the U.S. and EU Cut Russia Off  From the Global Economy 
  <p class="updated_time"> 07:26 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60791471?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia destroys aircraft repair plant near western city of Lviv</a> BBC: The attack on the facility near Lviv sparks concern that Russia may increase strikes in the west. 
  <p class="updated_time"> 07:09 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/russia-ukraine-queer-activists.html">LGBTQ Activists in Ukraine Share the Fight Against Russia’s Invasion</a> NYT: A pro-Russian puppet government would be less supportive of gay rights, the activists say, and incidents of discrimination would be likely to rise, as they have in Russian-backed separatist regions. 
- <p class="updated_time"> 06:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980">How the U.S. and EU Cut Russia Off  From the Global Economy</a> WSJ: How the U.S. and EU Cut Russia Off  From the Global Economy 
+ <p class="updated_time"> 06:38 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/pakistans-imran-khan-fights-to-stay-in-power-as-lawmakers-rebel-11647605020">Pakistan’s Imran Khan Fights to Stay in Power as Lawmakers Rebel</a> WSJ: Pakistan’s Imran Khan Fights to Stay in Power as Lawmakers Rebel 
  <p class="updated_time"> 06:28 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Russian advances grind to a halt in many areas as Ukrainian forces launch counterattacks - but fighting is ongoing in Mariupol. 
  <p class="updated_time"> 06:17 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60791890?at_medium=RSS&at_campaign=KARANGA">Russia Today: Amol Rajan explains Ofcom's licence decision</a> BBC: Regulator Ofcom said Russia Today was not "fit and proper to hold a UK broadcasting licence". 
- <p class="updated_time"> 06:05 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
  <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
- <p class="updated_time"> 05:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/pakistans-imran-khan-fights-to-stay-in-power-as-lawmakers-rebel-11647605020">Pakistan’s Imran Khan Fights to Stay in Power as Lawmakers Rebel</a> WSJ: Pakistan’s Imran Khan Fights to Stay in Power as Lawmakers Rebel 
+ <p class="updated_time"> 05:38 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/overwhelmed-by-omicron-hong-kong-runs-out-of-space-for-its-dead-11647595800">Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead</a> WSJ: Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead 
+ <p class="updated_time"> 05:33 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-turned-to-a-chechen-warlord-to-intimidate-ukraine-it-hasnt-worked-11647614020">Putin Turned to a Chechen Warlord to Intimidate Ukraine. It Hasn't Worked.</a> WSJ: President Vladimir Putin has turned again and again to Ramzan Kadyrov’s forces from Chechnya, reveling in the Chechens’ fearsome reputation. 
  <p class="updated_time"> 05:10 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Internation Energy Agency Says Nations Should Conserve Fuel as Global Energy Crisis Looms</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
- <p class="updated_time"> 04:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/overwhelmed-by-omicron-hong-kong-runs-out-of-space-for-its-dead-11647595800">Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead</a> WSJ: Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead 
  <p class="updated_time"> 04:45 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War</a> WSJ: The leaders’ phone call takes place as Ukraine adds tension to the friction-filled relations between Washington and Beijing. 
  <p class="updated_time"> 04:38 AM CT, Mar. 18 </p> 
@@ -91,6 +93,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
+ <p class="updated_time"> 09:06 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60744216?at_medium=RSS&at_campaign=KARANGA">How Poland's business community is helping Ukrainians</a> BBC: Small and medium sized firms, including recruiters, are organising support for arriving refugees. 
  <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
  <p class="updated_time"> 08:12 PM CT, Mar. 17 </p> 
@@ -179,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-unesco-body-armor-journalists.html">UNESCO Will Send Body Armor to Ukrainian Journalists</a> NYT: The U.N. agency said thousands of Ukrainian journalists with no protective equipment or training were now covering the war. At least four journalists have been killed. 
- <p class="updated_time"> 04:41 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine how could Putin or his army generals be prosecuted? 
  <p class="updated_time"> 04:32 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/who-sputnik-covid-vaccine.html">W.H.O. Delays Assessing Russia’s Sputnik Vaccine Over Ukraine War</a> NYT: An official with the World Health Organization said “the assessment, along with inspections, have been affected.” 
  <p class="updated_time"> 01:45 AM CT, Mar. 17 </p> 
@@ -216,6 +218,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:11 AM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/biden-administration-pressures-xi-jinping-00018478">'We hope that he chooses the right side of history here': Biden administration pressures Xi</a> Politico: Wendy Sherman said Biden will use Friday’s discussion with Xi to gauge where the Chinese leader stands on Russia’s assault on Ukraine. 
+ <p class="updated_time"> 09:56 AM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/supply-chain-ballot-paper-shortage-00018460">The latest supply chain concern: Ballot paper</a> Politico: Election officials are facing delays and shortages as they order the paper and envelopes they need to run elections this year. 
  <p class="updated_time"> 06:43 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/18/the-gop-pivot-on-zelenskyy-00018436">The GOP pivot on Zelenskyy</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
@@ -314,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Zelensky Pleads for More U.S. Aid, Invoking America’s Darkest Days</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/lynn-yeakel-dead.html">Lynn Yeakel, Spurred Into Politics by Anita Hill, Dies at 80</a> NYT: She nearly unseated Senator Arlen Specter after his aggressive grilling of Ms. Hill during Clarence Thomas’s 1991 Supreme Court confirmation hearings. 
- <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/durbin-white-house-disparage-emerging-conservative-attack-on-kbj-sex-offender-rulings-00018142">GOP indicates plans to question KBJ on handling of sex-related offenses</a> Politico: Senate Judiciary Republicans are circulating a document that takes aim at the Supreme Court nominee's handling of sex-related offenses, days before her confirmation hearings begin. 
  <p class="updated_time"> 10:48 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/griner-arrest-extended-by-russian-court-00018140">Report: Griner’s arrest extended to May 19 by Russian court</a> Politico: Griner was detained at a Moscow airport in February after Russian authorities said a search of her luggage revealed vape cartridges. 
  <p class="updated_time"> 10:42 AM CT, Mar. 17 </p> 
