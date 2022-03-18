@@ -9,23 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:09 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Civilian Misery Deepens as Russia Keeps Up Its Siege Campaign</a> NYT: The western city of Lviv, a haven until now, was struck by missiles on Friday morning, the mayor said. The suffering in that city and others in Ukraine shows no sign of ending, even as Western officials say Russia’s offensive has stalled. 
- <p class="updated_time"> 02:20 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
+ <p class="updated_time"> 02:39 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 02:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html">How the War in Ukraine Could Slow the Sales of Electric Cars</a> NYT: The price of nickel, an essential ingredient in most batteries, has soared because of fear that Russian supplies could be cut off. 
- <p class="updated_time"> 01:20 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 01:39 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60790536?at_medium=RSS&at_campaign=KARANGA">Holi 2022: India celebrates festival of colours as Covid cases dip</a> BBC: The festival of Holi marks the beginning of spring in the country. 
  <p class="updated_time"> 12:50 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087442224/peru-court-orders-ex-president-fujimori-freed-from-prison">Peru court orders ex-President Fujimori freed from prison</a> NPR: The decision restores a humanitarian pardon even though authorities gave no indication the former president's release was imminent. 
- <p class="updated_time"> 12:20 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 12:39 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 11:40 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60790326?at_medium=RSS&at_campaign=KARANGA">Dozens of pilot whales die at notorious New Zealand beach</a> BBC: Rescuers saved a few pilot whales but 31 died in another mass stranding at the South Island bay. 
- <p class="updated_time"> 11:20 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 11:39 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 11:03 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
@@ -33,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/americas/peru-alberto-fujimori.html">Peru’s Top Court Reinstates Pardon for Former President Alberto Fujimori</a> NYT: The court issued a ruling to release Mr. Fujimori from prison, where he has served less than 15 years of a 25-year sentence for committing human rights abuses. The government said it would appeal the ruling. 
  <p class="updated_time"> 10:46 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
- <p class="updated_time"> 10:20 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 10:39 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 09:58 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60716448?at_medium=RSS&at_campaign=KARANGA">Sunny Balwani: Elizabeth Holmes' former partner goes on trial</a> BBC: Sunny Balwani was considered the "enforcer" at Theranos and was its enigmatic founder's lover. 
  <p class="updated_time"> 06:52 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60785791?at_medium=RSS&at_campaign=KARANGA">Ukraine: Elegant Odesa is transformed by efforts to deter Russians</a> BBC: As Russian warships circle off the coast, Odesans face a difficult decision on whether to leave. 
- <p class="updated_time"> 06:41 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/house-russia-trade-status.html">House Votes to Suspend Normal Trade Relations With Russia</a> NYT: The bill, which still needs Senate approval, is the latest in a series of measures that lawmakers have passed to support Ukraine and punish Russia for its invasion. 
  <p class="updated_time"> 05:20 PM CT, Mar. 17 </p> 
@@ -72,7 +72,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:00 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60784298?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict round-up: Putin's peace demands and a new 'Russian wall'</a> BBC: Rescue workers search for survivors of the Mariupol theatre bombing as Russia's advance grinds on. 
  <p class="updated_time"> 04:45 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60758401?at_medium=RSS&at_campaign=KARANGA">Covid-19: Is the world ready for a great re-opening?</a> BBC: We asked our journalists around the world to give us a snapshot of life two years into the pandemic. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60758401?at_medium=RSS&at_campaign=KARANGA">Covid-19: Is the world ready for a great reopening?</a> BBC: We asked our journalists around the world to give us a snapshot of life two years into the pandemic. 
  <p class="updated_time"> 04:39 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60785754?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin lays out his demands in Turkish phone call</a> BBC: Russia's president revealed his peace conditions in a phone call - the BBC spoke to someone who listened in. 
  <p class="updated_time"> 04:33 PM CT, Mar. 17 </p> 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don't see the parallels. 
  <p class="updated_time"> 11:11 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/18/1087418350/fox-news-countersues-a-voting-machine-maker-saying-its-damage-estimate-is-inflat">Fox News countersues a voting machine maker, saying its damage estimate is inflated</a> NPR: Smartmatic says claims aired by the network contributed to losing $2.7 billion in business through 2025. In a new suit, Fox says that figure represents absurdly huge growth for the small business. 
  <p class="updated_time"> 10:05 PM CT, Mar. 17 </p> 
@@ -265,7 +267,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:21 PM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/i-speak-as-a-concerned-new-yorker-cuomo-says-00018225">Cuomo on his future: 'I have a lot of options open, and I'm considering them'</a> Politico: The former governor continued to stoke speculation about a potential comeback, telling reporters who swarmed him after the speech that he hasn't ruled out a return to office — or a potential run for governor. 
  <p class="updated_time"> 01:53 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/ohio-court-congress-maps.html">In Ohio, a Standoff Over Political Maps Threatens the Next Elections</a> NYT: Years ago, voters created a commission to make political maps fairer. Now the State Supreme Court is blocking maps drawn by the Republican-led commission, saying nothing has changed. 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/ohio-court-congress-maps.html">Ohio Supreme Court Intensifies a Redistricting Map Standoff</a> NYT: Years ago, voters created a commission to make political maps fairer. Now the State Supreme Court is blocking maps drawn by the Republican-led commission, saying nothing has changed. 
  <p class="updated_time"> 01:07 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Invasion of Ukraine, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 12:45 PM CT, Mar. 17 </p> 
@@ -277,7 +279,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:01 PM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/europes-covid-spike-has-biden-officials-concerned-could-lead-to-return-of-masks-00018159">Europe’s Covid spike has Biden officials concerned, could lead to return of masks</a> Politico: Over the past two years, the U.S. has experienced Covid waves similar to those in Europe — only several weeks later. 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Zelensky Pleads for More U.S. Aid, Invoking America’s Darkest Days</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
+ <a href="https://www.nytimes.com/2022/03/16/us/politics/zelensky-biden-ukraine-aid.html">Invoking America’s Darkest Days, Zelensky Pleads for More U.S. Aid</a> NYT: President Volodymyr Zelensky of Ukraine called for a no-fly zone and more weapons to combat Russia’s assault and implored President Biden to be “the leader of peace.” 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/lynn-yeakel-dead.html">Lynn Yeakel, Spurred Into Politics by Anita Hill, Dies at 80</a> NYT: She nearly unseated Senator Arlen Specter after his aggressive grilling of Ms. Hill during Clarence Thomas’s 1991 Supreme Court confirmation hearings. 
  <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
@@ -360,8 +362,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/15/fortenberry-faces-the-fire-00017258">Fortenberry faces the fire</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:11 AM CT, Mar. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/15/zelenskyys-must-see-tv-00017251"> Zelenskyy’s must-see TV</a> Politico Playbook: And the 50-50 Senate is actually working. 
- <p class="updated_time"> 03:31 AM CT, Mar. 15 </p> 
- <a href="https://www.politico.com/news/2022/03/15/schumer-steers-senate-toward-center-00017168">Schumer's Senate shocker: Bills are passing (seriously)</a> Politico: The 50-50 chamber's notched bipartisan accomplishments on many different fronts. But as one Republican put it, "I don’t think the age of Aquarius has broken out." 
 
 
 </details>
