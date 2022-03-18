@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 PM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Tells Xi There Would Be Consequences to Helping Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087670948/biden-tells-chinas-xi-of-the-implications-of-assisting-russia-in-call-official-s">Biden tells China's Xi of the implications of assisting Russia in call, official says</a> NPR: A White House official declined to lay out the specifics of any potential U.S. response, but said that Biden was "detailed" and "direct" with the Chinese leader. 
- <p class="updated_time"> 06:30 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Tells Xi There Would Be Consequences to Helping Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
  <p class="updated_time"> 06:00 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/biden-xi-russia-china.html">Biden Warns China of ‘Consequences’ if It Aids Russian War</a> NYT: President Biden told China’s leader, Xi Jinping, there would be consequences if Beijing gave material support to Russia, implying that the United States could impose sanctions on China. 
+ <p class="updated_time"> 05:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 05:48 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/americas/brazil-bans-telegram.html">Brazil Bans Telegram Over Disinformation Concerns</a> NYT: The Brazilian Supreme Court has vowed to fight disinformation ahead of this year’s presidential elections. Banning the popular messaging app is its most drastic step yet. 
- <p class="updated_time"> 05:39 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 05:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-ukraine-china-biden.html">Russia Targets Western Ukraine as Biden Warns Xi Not to Aid Moscow</a> NYT: A scramble of diplomatic efforts bears little fruit as Russia intensifies its attacks, including with a bombardment into a relatively unscathed part of western Ukraine. 
  <p class="updated_time"> 05:01 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 05:01 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60802801?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Empty prams lined up in Lviv for children killed in war</a> BBC: Each of the 109 prams in Lviv are a tribute to the number of children who have died in the war so far. 
+ <p class="updated_time"> 04:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 04:45 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
- <p class="updated_time"> 04:39 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 04:09 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
  <p class="updated_time"> 04:02 PM CT, Mar. 18 </p> 
@@ -37,7 +37,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60794423?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Talking to a Ukrainian mother and her child who fled to Poland</a> BBC: Krystyna Tynkalyuk is trying to explain to her three-year-old why they can't go back home to see her father. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:39 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 03:49 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 03:38 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087597316/gas-prices-oil-consumption-iea">With gas prices soaring over the Ukraine war, here's a plan to cut oil consumption</a> NPR: From cutting highway speed limits to launching car-free Sundays in big cities, the International Energy Agency proposes to cut the demand for oil by as much as 2.7 million barrels per day. 
@@ -51,11 +51,11 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616976/russia-strikes-targets-in-kyiv-as-mariupol-theater-rescue-efforts-continue">Russia strikes targets in Kyiv as Mariupol theater rescue efforts continue</a> NPR: A fourth day of peace negotiations ended with no breakthrough. Ukraine's president said workers continued rescue efforts at the Mariupol theater where scores of civilians were sheltering. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087616923/refugees-from-other-wars-see-themselves-in-fleeing-ukrainians">Refugees from other wars see themselves in fleeing Ukrainians</a> NPR: NPR's Mary Louise Kelly talks with people about the experience of being a refugee, how fleeing their home country has affected their life and what life is like now. 
- <p class="updated_time"> 02:39 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 02:49 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 01:59 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/syrias-assad-makes-surprise-visit-to-the-u-a-e-as-arab-ties-warm-11647641366">Syria's Assad Makes Surprise Visit to the U.A.E.</a> WSJ: It was the Syrian president’s first trip to an Arab country since launching a brutal crackdown on opponents that plunged the country into civil war 11 years ago. 
- <p class="updated_time"> 01:39 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 01:49 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As diplomacy drags on, peace seems far off in Ukraine.</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
