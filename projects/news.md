@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:13 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Civilian Misery Deepens as Russia Keeps Up Its Siege Campaign</a> NYT: The suffering in Ukrainian cities shows no sign of ending, even as Western officials say Russia’s offensive has stalled. Survivors were being pulled from the rubble of a Mariupol theater where hundreds had been sheltering. 
+ <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60790536?at_medium=RSS&at_campaign=KARANGA">Holi 2022: India celebrates festival of colours as Covid cases dip</a> BBC: The festival of Holi marks the beginning of spring in the country. 
  <p class="updated_time"> 12:50 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087442224/peru-court-orders-ex-president-fujimori-freed-from-prison">Peru court orders ex-President Fujimori freed from prison</a> NPR: The decision restores a humanitarian pardon even though authorities gave no indication the former president's release was imminent. 
- <p class="updated_time"> 12:19 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Civilian Misery Deepens as Russia Keeps Up Its Siege Campaign</a> NYT: The suffering in Ukrainian cities shows no sign of ending, even as Western officials say Russia’s offensive has stalled. Survivors were being pulled from the rubble of a Mariupol theater where hundreds had been sheltering. 
- <p class="updated_time"> 12:12 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 12:39 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 11:40 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60790326?at_medium=RSS&at_campaign=KARANGA">Dozens of pilot whales die at notorious New Zealand beach</a> BBC: Rescuers saved a few pilot whales but 31 died in another mass stranding at the South Island bay. 
- <p class="updated_time"> 11:12 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 11:39 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 11:03 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
@@ -25,24 +27,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/americas/peru-alberto-fujimori.html">Peru’s Top Court Reinstates Pardon for Former President Alberto Fujimori</a> NYT: The court issued a ruling to release Mr. Fujimori from prison, where he has served less than 15 years of a 25-year sentence for committing human rights abuses. The government said it would appeal the ruling. 
  <p class="updated_time"> 10:46 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
- <p class="updated_time"> 10:12 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 10:39 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 09:58 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
  <p class="updated_time"> 09:46 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60789802?at_medium=RSS&at_campaign=KARANGA">Australia sues Facebook over scam ads impersonating celebrities</a> BBC: The tech giant knowingly let ads with fake celebrity endorsements scam users, a regulator says. 
+ <p class="updated_time"> 09:39 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 09:36 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
- <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
+ <p class="updated_time"> 08:39 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 08:33 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
  <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
- <p class="updated_time"> 08:12 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 08:12 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60777278?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 11-17 March 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 08:02 PM CT, Mar. 17 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60786964?at_medium=RSS&at_campaign=KARANGA">Ukraine: The troops holding the front line as Russia pounds Kharkiv</a> BBC: BBC's Quentin Sommerville reports from alongside the troops defending Ukraine's second city. 
  <p class="updated_time"> 01:30 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/europe-countries-refugees-embrace-ukrainians.html">Countries Previously Hostile to Refugees Embrace Ukrainians</a> NYT: While the warm welcome has been applauded, some human rights advocates point to a humanitarian double standard when it comes to refugees from the Middle East and Africa. 
- <p class="updated_time"> 01:14 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60775180?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori back with families</a> BBC: Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori are reunited with their families after years of detention. 
  <p class="updated_time"> 01:07 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Invasion of Ukraine, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 12:29 PM CT, Mar. 17 </p> 
