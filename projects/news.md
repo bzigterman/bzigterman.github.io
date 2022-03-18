@@ -9,47 +9,47 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:07 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Ukraine Live Updates: 130 Rescued From Theater Rubble; Fates of Hundreds More Unknown</a> NYT: Rescuers believe that as many as 1,000 people were sheltering in a Mariupol theater that was nearly destroyed in a Russian attack this week. President Biden was discussing the war in a call with China’s leader, Xi Jinping, on Friday. 
- <p class="updated_time"> 09:07 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 09:28 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Ukraine Live Updates: 130 Rescued From Theater Rubble; Fates of Hundreds More Unknown</a> NYT: A Ukrainian official said that “more than 1,300 people” might still be trapped in the basement of a Mariupol theater that was nearly destroyed in a Russian attack. President Biden was discussing the war in a call with China’s leader, Xi Jinping. 
+ <p class="updated_time"> 09:20 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-ukraine.html">Russia’s military progress slows, but it makes gains in the south and east.</a> NYT: Britain’s defense intelligence service said that Russian forces had “made minimal progress this week.” 
+ <p class="updated_time"> 09:16 AM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60793319?at_medium=RSS&at_campaign=KARANGA">Putin hails Crimea annexation and war with lessons on heroism</a> BBC: Eight years after Russia seized Crimea, the event is being celebrated with a concert and in schools. 
  <p class="updated_time"> 09:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
  <p class="updated_time"> 08:59 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-strategy-bombing-cities.html">Russia’s Brutality in Ukraine Has Roots in Earlier Conflicts</a> NYT: Its experience in a string of wars led to the conclusion that attacking civilian populations was not only acceptable but militarily sound. 
- <p class="updated_time"> 08:35 AM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60793319?at_medium=RSS&at_campaign=KARANGA">Putin hails Crimea annexation and war with lessons on heroism</a> BBC: Eight years after Russia seized Crimea, the event is being celebrated with a concert and in schools. 
+ <p class="updated_time"> 08:31 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike</a> WSJ: Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike 
  <p class="updated_time"> 08:25 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/pope-francis-ukraine-russia-war.html">Pope Deplores the War in Ukraine but Not the Aggressor</a> NYT: Francis has raised his voice against “unacceptable armed aggression” without mentioning President Vladimir V. Putin or Russia. Some analysts say that he risks complicating his legacy. 
- <p class="updated_time"> 08:17 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Russian Missiles Hit Aircraft Facility in Western Ukraine</a> WSJ: Russian Missiles Hit Aircraft Facility in Western Ukraine 
  <p class="updated_time"> 08:09 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60794809?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger's anti-Ukraine war video trends on Russian social media</a> BBC: In the video the actor warns Russians they are being fed misinformation over the Ukraine war. 
  <p class="updated_time"> 08:02 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087460874/russian-missiles-hit-a-fighter-jet-repair-facility-in-the-closest-strike-yet-to-">Russian missiles hit a fighter jet repair facility in the closest strike yet to Lviv</a> NPR: The western Ukrainian city of Lviv has been a bastion of relative normalcy since the Russian invasion began last month. Friday's strike, just over 4 miles from the city center, rattled residents. 
+ <p class="updated_time"> 07:31 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/telegram-thrives-amid-russias-media-crackdown-11647595800">Telegram Thrives Amid Russia’s Media Crackdown</a> WSJ: Telegram Thrives Amid Russia’s Media Crackdown 
  <p class="updated_time"> 07:26 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60791471?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia destroys aircraft repair plant near western city of Lviv</a> BBC: The attack on the facility near Lviv sparks concern that Russia may increase strikes in the west. 
- <p class="updated_time"> 07:17 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/telegram-thrives-amid-russias-media-crackdown-11647595800">Telegram Thrives Amid Russia’s Media Crackdown</a> WSJ: Telegram Thrives Amid Russia’s Media Crackdown 
  <p class="updated_time"> 07:09 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/russia-ukraine-queer-activists.html">LGBTQ Activists in Ukraine Share the Fight Against Russia’s Invasion</a> NYT: A pro-Russian puppet government would be less supportive of gay rights, the activists say, and incidents of discrimination would be likely to rise, as they have in Russian-backed separatist regions. 
+ <p class="updated_time"> 06:31 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980">How the U.S. and EU Cut Russia Off  From the Global Economy</a> WSJ: How the U.S. and EU Cut Russia Off  From the Global Economy 
  <p class="updated_time"> 06:28 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Russian advances grind to a halt in many areas as Ukrainian forces launch counterattacks - but fighting is ongoing in Mariupol. 
  <p class="updated_time"> 06:17 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60791890?at_medium=RSS&at_campaign=KARANGA">Russia Today: Amol Rajan explains Ofcom's licence decision</a> BBC: Regulator Ofcom said Russia Today was not "fit and proper to hold a UK broadcasting licence". 
- <p class="updated_time"> 06:17 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/how-the-u-s-and-eu-cut-russia-off-from-the-global-economy-11647595980">How the U.S. and EU Cut Russia Off  From the Global Economy</a> WSJ: How the U.S. and EU Cut Russia Off  From the Global Economy 
  <p class="updated_time"> 06:05 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
  <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
- <p class="updated_time"> 05:17 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 05:31 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/pakistans-imran-khan-fights-to-stay-in-power-as-lawmakers-rebel-11647605020">Pakistan’s Imran Khan Fights to Stay in Power as Lawmakers Rebel</a> WSJ: Pakistan’s Imran Khan Fights to Stay in Power as Lawmakers Rebel 
  <p class="updated_time"> 05:10 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Internation Energy Agency Says Nations Should Conserve Fuel as Global Energy Crisis Looms</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
- <p class="updated_time"> 04:17 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 04:31 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/overwhelmed-by-omicron-hong-kong-runs-out-of-space-for-its-dead-11647595800">Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead</a> WSJ: Overwhelmed by Omicron, Hong Kong Runs Out of Space for Its Dead 
  <p class="updated_time"> 04:12 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087447176/samoa-locks-down-after-recording-its-first-community-covid-19-case">Samoa locks down after recording its first community COVID-19 case </a> NPR: A 29-year-old woman tested positive for the coronavirus on Thursday during routine testing before boarding an international flight. 
@@ -58,7 +58,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087418604/were-not-hearing-much-about-jailed-wnba-star-brittney-griner-could-that-be-good">We're not hearing much about jailed WNBA star Brittney Griner. Could that be good?</a> NPR: Media coverage of Griner's arrest on alleged drug charges in Russia has remained somewhat muted. Some say it's because of her skin color, but others say it's part of a bigger strategy to get her home. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087314355/russia-ukraine-invasion-latest-analysis">Can Ukraine win the war? These analysts think so. Here's how it might unfold</a> NPR: It's been three weeks since Russia invaded Ukraine, and while many thought that it would be over quickly, Ukraine is continuing to fend Russia off. Now, some analysts think Ukraine could win the war. 
+ <a href="https://www.npr.org/2022/03/18/1087314355/russia-ukraine-invasion-latest-analysis">Ukraine appears to have stalled Russia's advance. Here's what that could mean</a> NPR: It's been three weeks since Russia invaded Ukraine, and while many thought that it would be over quickly, Ukraine is continuing to fend Russia off. Now, some analysts think Ukraine could win the war. 
  <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
  <p class="updated_time"> 02:00 AM CT, Mar. 18 </p> 
