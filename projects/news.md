@@ -9,32 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:47 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
- <p class="updated_time"> 06:47 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 07:18 PM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
+ <p class="updated_time"> 07:16 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Russia Leaves Desolation in Eastern Cities as Sieges Batter Civilians</a> NYT: Rescuers began pulling survivors from the rubble of a theater hit by a Russian strike in Mariupol. The invasion’s ground advance slowed, but more missile and other attacks hit civilians. The U.N. Security Council held an emergency meeting on Ukraine. 
+ <p class="updated_time"> 07:02 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60716448?at_medium=RSS&at_campaign=KARANGA">Sunny Balwani: Elizabeth Holmes' former partner goes on trial</a> BBC: Sunny Balwani was considered the "enforcer" at Theranos and was its enigmatic founder's lover. 
+ <p class="updated_time"> 06:52 PM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
+ <p class="updated_time"> 06:52 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60785791?at_medium=RSS&at_campaign=KARANGA">Ukraine: Elegant Odesa is transformed by efforts to deter Russians</a> BBC: As Russian warships circle off the coast, Odesans face the difficult decision about whether or not to leave the city. 
  <p class="updated_time"> 06:41 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
+ <p class="updated_time"> 06:22 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/house-russia-trade-status.html">House Votes to Suspend Normal Trade Relations With Russia</a> NYT: The bill, which still needs Senate approval, is the latest in a series of measures that lawmakers have passed to support Ukraine and punish Russia for its invasion. 
  <p class="updated_time"> 05:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
- <p class="updated_time"> 05:50 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 05:42 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Is This the World’s Largest Potato? </a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to the Guinness World Records. Then the results of a DNA analysis came in. 
+ <p class="updated_time"> 05:22 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 05:20 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087287150/putins-warning-to-anti-war-russians-evokes-stalinist-purges">Putin's warning to anti-war Russians evokes Stalinist purges</a> NPR: The Russian president's references to "cleansing" of "scum and traitors" evoked terrifying memories of the mass arrests of the Stalin era, when repression was justified for "cleansing" Soviet society. 
  <p class="updated_time"> 05:12 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60789022?at_medium=RSS&at_campaign=KARANGA">Child, 13, driving pickup in deadly Texas crash that killed nine</a> BBC: A 13-year-old was driving a truck that collided with a van carrying student athletes, officials say. 
  <p class="updated_time"> 05:00 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60784298?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict round-up: Putin's peace demands and a new 'Russian wall'</a> BBC: Rescue workers search for survivors of the Mariupol theatre bombing as Russia's advance grinds on. 
- <p class="updated_time"> 04:50 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
+ <p class="updated_time"> 04:45 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60758401?at_medium=RSS&at_campaign=KARANGA">Covid-19: Is the world ready for a great re-opening?</a> BBC: We asked our journalists around the world to give us a snapshot of life two years into the pandemic. 
  <p class="updated_time"> 04:39 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60785754?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Putin lays out his demands in Turkish phone call</a> BBC: Russia's president revealed his peace conditions in a phone call - the BBC spoke to someone who listened in. 
  <p class="updated_time"> 04:33 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087362559/the-house-approves-a-bill-to-suspend-trade-relations-with-russia-and-belarus">The House approves a bill to suspend trade relations with Russia and Belarus </a> NPR: The House of Representatives overwhelmingly passed a bill suspending normal trade relations with the countries, another move to squeeze them economically in retaliation for the invasion of Ukraine. 
+ <p class="updated_time"> 04:22 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 04:21 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60785679?at_medium=RSS&at_campaign=KARANGA">Shells rain down on Kharkiv as Ukraine's army stands firm</a> BBC: The BBC's Quentin Sommerville and Darren Conway are in Kharkiv, where Ukraine's army has repelled Russia for three weeks. 
  <p class="updated_time"> 04:14 PM CT, Mar. 17 </p> 
@@ -47,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/americas/peru-alberto-fujimori.html">Peru’s Top Court Reinstates Pardon for Former President Alberto Fujimori</a> NYT: The court issued a ruling to release Mr. Fujimori from prison, where he has served less than 15 years of a 25-year sentence for committing human rights abuses. 
  <p class="updated_time"> 03:51 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087316982/president-bidens-virtually-met-with-irish-prime-minister-for-st-patricks-day">President Biden's virtually met with Irish prime minister for St. Patrick's Day</a> NPR: The president is taking a moment for a brief bit of joy to celebrate St. Patrick's Day in the traditional White House way. Expect him to quote the Irish poets and of course Grandpa Finnegan. 
- <p class="updated_time"> 03:50 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 03:48 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/emmanuel-macron-france-election-debate.html">Emmanuel Macron Argues for Second Term as French President</a> NYT: The Ukraine war has given the French leader a strong edge and few reasons to engage with his political opponents. He held a news conference to quell criticism that he is avoiding debate. 
  <p class="updated_time"> 03:38 PM CT, Mar. 17 </p> 
@@ -63,17 +71,17 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/17/1087316903/u-s-and-allies-are-sending-thousands-of-weapons-to-ukraine">U.S. and allies are sending thousands of weapons to Ukraine</a> NPR: A senior defense official says the U.S., in consultation with allies, is looking into helping Ukraine with long-range air defense systems. 
  <p class="updated_time"> 03:23 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087316896/mariupol-theater-rescue-continues-as-russias-invasion-of-ukraine-enters-its-4th-">Mariupol theater rescue continues as Russia's invasion of Ukraine enters its 4th week</a> NPR: Rescue efforts continue at the Mariupol theater that was bombed and American officials said a U.S. citizen has been killed in Ukraine. 
+ <p class="updated_time"> 03:22 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 03:19 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-bond-payment.html">Russia appears to have avoided default as it makes a $117 million bond payment.</a> NYT: Sanctions have isolated the country financially, driven down the value of the ruble and cut off Moscow’s access to about half its foreign currency reserves. 
  <p class="updated_time"> 02:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/climate/spring-drought-forecast-noaa.html">NOAA Expects Drought Conditions to Persist Through the Spring</a> NYT: Winter precipitation amounts were not enough to significantly improve conditions in much of the country, government scientists said. 
- <p class="updated_time"> 02:50 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 02:39 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/russia-ukraine-queer-activists.html">LGBTQ Activists in Ukraine Share the Fight Against Russia’s Invasion</a> NYT: A pro-Russian puppet government would be less supportive of gay rights, the activists say, and incidents of discrimination would be likely to rise, as they have in Russian-backed separatist regions. 
  <p class="updated_time"> 02:32 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/arnold-schwarzenegger-video-putin.html">Arnold Schwarzenegger Tapes Video to Russia, Telling Putin: ‘Stop This War’</a> NYT: The movie star and former governor of California addressed Russians and Russian soldiers, saying, “ “your lives, your limbs, your futures are being sacrificed for a senseless war.” 
- <p class="updated_time"> 01:50 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 02:22 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 01:32 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-60786964?at_medium=RSS&at_campaign=KARANGA">Ukraine: The troops holding the front line as Russia pounds Kharkiv</a> BBC: BBC's Quentin Sommerville reports from alongside the troops defending Ukraine's second city. 
@@ -163,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745568?at_medium=RSS&at_campaign=KARANGA">Covid: Why US students are staging walkouts over masks</a> BBC: Schools across the US are dropping mask mandates - but students are divided over the issue. 
  <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
- <p class="updated_time"> 07:08 PM CT, Mar. 16 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-60752777?at_medium=RSS&at_campaign=KARANGA">In pictures: 2022 Sony World Photography Awards</a> BBC: The winners of the Open category of the 2022 Sony World Photography Awards have been announced. 
  <p class="updated_time"> 05:56 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: President Vladimir V. Putin of Russia denigrated European and American leaders, and Russians who disagreed with him. Analysts fear his remarks could signal a new wave of repression. 
  <p class="updated_time"> 05:46 PM CT, Mar. 16 </p> 
@@ -189,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/world/europe/benjamin-hall-fox-news-ukraine-safe.html">Benjamin Hall, Fox News Journalist Who Was Injured in Ukraine, Is Now Safe</a> NYT: Benjamin Hall was seriously injured in an incident that killed a Fox News cameraman and a young Ukrainian journalist. 
  <p class="updated_time"> 09:26 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/asia/cambodia-khmer-rouge.html">In Cambodia, Khmer Rouge Horrors Few Want to Remember</a> NYT: Two-thirds of Cambodians are under the age of 30 — born decades after the Khmer Rouge’s totalitarian terror and the American carpet-bombing campaign. 
- <p class="updated_time"> 08:21 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/15/world/europe/zelensky-european-leaders-kyiv.html">Zelensky Urges More Leaders to Visit Kyiv After Visit by 3 NATO Leaders</a> NYT: The leaders from Poland, the Czech Republic and Slovenia “fear nothing,” President Volodymyr Zelensky said, and he urged other leaders to make similar visits. 
  <p class="updated_time"> 08:09 AM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60763494?at_medium=RSS&at_campaign=KARANGA">Russia's state TV hit by stream of resignations</a> BBC: Marina Ovsyannikova's protest highlighted a growing number of journalists leaving their jobs at Kremlin-run TV channels. 
  <p class="updated_time"> 06:04 AM CT, Mar. 16 </p> 
@@ -202,10 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:48 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 07:04 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-china-weapons.html">Biden Will Punish China if It Gives Military Aid to Russia, Blinken Says</a> NYT: President Biden plans to talk on Friday with Xi Jinping, who has a close partnership with Vladimir V. Putin and supports him in the Ukraine war. 
- <p class="updated_time"> 06:47 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 06:52 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
+ <p class="updated_time"> 06:51 PM CT, Mar. 17 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Calls Putin a ‘War Criminal,’ but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
  <p class="updated_time"> 06:14 PM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/influencers-ukrainian-pr-machine-00018299">The influencers behind the Ukrainian PR machine</a> Politico: Lobbyists, lawyers and public relations pros have blitzed Capitol Hill and the media to push Ukraine aid. 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
@@ -265,7 +271,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/lynn-yeakel-dead.html">Lynn Yeakel, Spurred Into Politics by Anita Hill, Dies at 80</a> NYT: She nearly unseated Senator Arlen Specter after his aggressive grilling of Ms. Hill during Clarence Thomas’s 1991 Supreme Court confirmation hearings. 
  <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/durbin-white-house-disparage-emerging-conservative-attack-on-kbj-sex-offender-rulings-00018142">GOP indicates plans to question KBJ on handling of sex-related offenses</a> Politico: Senate Judiciary Republicans are circulating a document that takes aim at the Supreme Court nominee's handling of sex offenders, days before her confirmation hearings begin. 
+ <a href="https://www.politico.com/news/2022/03/17/durbin-white-house-disparage-emerging-conservative-attack-on-kbj-sex-offender-rulings-00018142">GOP indicates plans to question KBJ on handling of sex-related offenses</a> Politico: Senate Judiciary Republicans are circulating a document that takes aim at the Supreme Court nominee's handling of sex-related offenses, days before her confirmation hearings begin. 
  <p class="updated_time"> 10:48 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/griner-arrest-extended-by-russian-court-00018140">Report: Griner’s arrest extended to May 19 by Russian court</a> Politico: Griner was detained at a Moscow airport in February after Russian authorities said a search of her luggage revealed vape cartridges. 
  <p class="updated_time"> 10:42 AM CT, Mar. 17 </p> 
@@ -304,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/us/politics/hunter-biden-tax-bill-investigation.html">Hunter Biden Paid Tax Bill, but  Federal Investigation Goes On</a> NYT: The Justice Department inquiry into the business dealings of the president’s son has remained active, with a grand jury seeking information about payments from around the world. 
  <p class="updated_time"> 08:20 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/ireland-michael-martin-covid-biden-00018034">Covid-positive Irish prime minister leaves event where he sat next to Pelosi</a> Politico: On Wednesday night, the leader had to leave the Ireland Funds Gala event, where he sat next to House Speaker Nancy Pelosi and where the president gave a speech. 
- <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
  <p class="updated_time"> 05:43 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-troop-deaths.html">As Russian Troop Deaths Climb, Morale May Be an Issue</a> NYT: More than 7,000 Russian troops have been killed in less than three weeks of fighting, according to conservative U.S. estimates. 
  <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
