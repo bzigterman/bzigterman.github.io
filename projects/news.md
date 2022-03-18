@@ -9,19 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:01 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 10:33 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Russia Leaves Desolation in Eastern Cities as Sieges Batter Civilians</a> NYT: Rescuers began pulling survivors from the rubble of a theater hit by a Russian strike in Mariupol. The invasion’s ground advance slowed, but more missile and other attacks hit civilians. The U.N. Security Council held an emergency meeting on Ukraine. 
  <p class="updated_time"> 09:58 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
+ <p class="updated_time"> 09:48 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
+ <p class="updated_time"> 09:46 PM CT, Mar. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60789802?at_medium=RSS&at_campaign=KARANGA">Australia sues Facebook over scam ads impersonating celebrities</a> BBC: The tech giant knowingly let scammers target users with fake celebrity endorsements, a regulator says. 
  <p class="updated_time"> 09:36 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
- <p class="updated_time"> 09:34 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
  <p class="updated_time"> 08:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/americas/peru-alberto-fujimori.html">Peru’s Top Court Reinstates Pardon for Former President Alberto Fujimori</a> NYT: The court issued a ruling to release Mr. Fujimori from prison, where he has served less than 15 years of a 25-year sentence for committing human rights abuses. The government said it would appeal the ruling. 
- <p class="updated_time"> 08:34 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 08:48 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 08:33 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
@@ -33,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Is This the World’s Largest Potato? </a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to Guinness World Records. Then the results of a DNA analysis came in. 
  <p class="updated_time"> 07:54 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons will US give Ukraine - and how much will they help?</a> BBC: Experts believe that while additional US aid can help Ukraine fight back, more is still needed. 
- <p class="updated_time"> 07:34 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 07:48 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 07:28 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60789542?at_medium=RSS&at_campaign=KARANGA">Young brothers found in Amazon after nearly four weeks</a> BBC: The brothers, eight and six, are being treated for malnourishment but are due to make a full recovery. 
@@ -43,15 +45,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60716448?at_medium=RSS&at_campaign=KARANGA">Sunny Balwani: Elizabeth Holmes' former partner goes on trial</a> BBC: Sunny Balwani was considered the "enforcer" at Theranos and was its enigmatic founder's lover. 
  <p class="updated_time"> 06:52 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60785791?at_medium=RSS&at_campaign=KARANGA">Ukraine: Elegant Odesa is transformed by efforts to deter Russians</a> BBC: As Russian warships circle off the coast, Odesans face a difficult decision on whether to leave. 
+ <p class="updated_time"> 06:48 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 06:41 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
- <p class="updated_time"> 06:34 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/house-russia-trade-status.html">House Votes to Suspend Normal Trade Relations With Russia</a> NYT: The bill, which still needs Senate approval, is the latest in a series of measures that lawmakers have passed to support Ukraine and punish Russia for its invasion. 
  <p class="updated_time"> 05:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
- <p class="updated_time"> 05:34 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 05:48 PM CT, Mar. 17 </p> 
  <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 05:20 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087287150/putins-warning-to-anti-war-russians-evokes-stalinist-purges">Putin's warning to anti-war Russians evokes Stalinist purges</a> NPR: The Russian president's references to "cleansing" of "scum and traitors" evoked terrifying memories of the mass arrests of the Stalin era, when repression was justified for "cleansing" Soviet society. 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/60773301?at_medium=RSS&at_campaign=KARANGA">Iran rescues dozens as UAE-flagged cargo ship sinks in Gulf</a> BBC: All but one of the 30 crew of the UAE-flagged vessel have been pulled from the water, officials say. 
  <p class="updated_time"> 06:35 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60770100?at_medium=RSS&at_campaign=KARANGA">Earthquake: Two dead after Japan hit by tremor</a> BBC: The quake in the north-east derails a bullet train and briefly cuts power to millions of homes. 
- <p class="updated_time"> 06:27 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-60777185?at_medium=RSS&at_campaign=KARANGA">Kanye West: Rapper suspended from Instagram for 24 hours</a> BBC: The rapper used a racial slur in reference to Trevor Noah after the comedian criticised his behaviour. 
  <p class="updated_time"> 05:11 AM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
