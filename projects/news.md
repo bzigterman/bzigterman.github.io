@@ -9,48 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 PM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Urges Xi Not to Aid Russia; Missile Strikes Shake a City in Ukraine’s West</a> NYT: Russia broadened its offensive with the missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
+ <p class="updated_time"> 12:33 PM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
+ <p class="updated_time"> 12:10 PM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087536180/empty-strollers-lviv-children-killed">109 empty strollers sit in a Lviv square, representing children killed in the war</a> NPR: "This is a terrible price of war that Ukraine is paying today," Lviv Mayor Andriy Sadovyi said as his city paid tribute to the youngest victims of violence. 
  <p class="updated_time"> 12:02 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-strategy-bombing-cities.html">Russia’s Brutality in Ukraine Has Roots in Earlier Conflicts</a> NYT: Its experience in a string of wars led to the conclusion that attacking civilian populations was not only acceptable but militarily sound. 
- <p class="updated_time"> 11:58 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Urges Xi Not to Aid Russia; Missile Strikes Shake a City in Ukraine’s West</a> NYT: Russia broadened its offensive with the missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
+ <p class="updated_time"> 11:37 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike</a> WSJ: Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike 
  <p class="updated_time"> 11:26 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/pope-francis-ukraine-russia-war.html">Pope Deplores the War in Ukraine but Not the Aggressor</a> NYT: Francis has raised his voice against “unacceptable armed aggression” without mentioning President Vladimir V. Putin or Russia. Some analysts say that he risks complicating his legacy. 
  <p class="updated_time"> 11:17 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-bond-payment.html">Russia appears to have avoided default as it makes a $117 million bond payment.</a> NYT: Sanctions have isolated the country financially, driven down the value of the ruble and cut off Moscow’s access to about half its foreign currency reserves. 
- <p class="updated_time"> 11:06 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike</a> WSJ: Survivors Rescued From Ukrainian Theater That Was Hit by Russian Airstrike 
  <p class="updated_time"> 11:05 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/business/hong-kong-virus-beijing.html">Confusion and Chaos in Hong Kong as Leaders Fumble Virus Response</a> NYT: Government officials have been unable to curb an outbreak that has surpassed one million infections, leading Beijing to step up its intervention in the semiautonomous territory. 
  <p class="updated_time"> 11:04 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60793319?at_medium=RSS&at_campaign=KARANGA">Putin hails Crimea annexation and war with lessons on heroism</a> BBC: Eight years after Russia seized Crimea, the event is being celebrated with a concert and in schools. 
  <p class="updated_time"> 10:48 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-war-poet.html">For a Ukrainian Poet, Putin’s War Is All Too Familiar</a> NYT: Ihor Kalynets, 83, spent a lifetime resisting Soviet domination. Now, he says, he’s not going anywhere. 
+ <p class="updated_time"> 10:37 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-turned-to-a-chechen-warlord-to-intimidate-ukraine-it-hasnt-worked-11647614020">Putin Turned to a Chechen Warlord to Intimidate Ukraine. It Hasn’t Worked.</a> WSJ: Putin Turned to a Chechen Warlord to Intimidate Ukraine. It Hasn’t Worked. 
  <p class="updated_time"> 10:12 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
- <p class="updated_time"> 10:06 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/putin-turned-to-a-chechen-warlord-to-intimidate-ukraine-it-hasnt-worked-11647614020">Putin Turned to a Chechen Warlord to Intimidate Ukraine. It Hasn’t Worked.</a> WSJ: Putin Turned to a Chechen Warlord to Intimidate Ukraine. It Hasn’t Worked. 
+ <p class="updated_time"> 09:37 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-counteroffensive-near-mykolaiv-relieves-strategic-port-city-11647605489">Ukrainian Counteroffensive Relieves Strategic Port City</a> WSJ: Ukrainian Counteroffensive Relieves Strategic Port City 
  <p class="updated_time"> 09:32 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745569?at_medium=RSS&at_campaign=KARANGA">Diplomats spar over 'edited' Russian letter</a> BBC: Russia accuses Canada of 'kindergarten' diplomacy in spat over a Russian letter sent to UN members. 
  <p class="updated_time"> 09:20 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-ukraine.html">Russia’s military progress slows, but it makes gains in the south and east.</a> NYT: Britain’s defense intelligence service said that Russian forces had “made minimal progress this week.” 
- <p class="updated_time"> 09:06 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-counteroffensive-near-mykolaiv-relieves-strategic-port-city-11647605489">Ukrainian Counteroffensive Relieves Strategic Port City</a> WSJ: Ukrainian Counteroffensive Relieves Strategic Port City 
  <p class="updated_time"> 09:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
  <p class="updated_time"> 08:41 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60791892?at_medium=RSS&at_campaign=KARANGA">Thousands gather at Moscow rally to celebrate annexation of Crimea</a> BBC: Moscow's Luzhniki stadium hosts a rally to celebrate the annexation of Crimea, eight years ago. 
+ <p class="updated_time"> 08:37 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War</a> WSJ: Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War 
  <p class="updated_time"> 08:09 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60794809?at_medium=RSS&at_campaign=KARANGA">Ukraine: Arnold Schwarzenegger's anti-war video trends on Russian social media</a> BBC: In the video the actor warns Russians they are being fed misinformation over the Ukraine war. 
- <p class="updated_time"> 08:06 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War</a> WSJ: Biden, Xi Talk as U.S. Threatens Actions if China Backs Russia in Ukraine War 
  <p class="updated_time"> 08:02 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087460874/russian-missiles-hit-a-fighter-jet-repair-facility-in-the-closest-strike-yet-to-">Russian missiles hit a fighter jet repair facility in the closest strike yet to Lviv</a> NPR: The western Ukrainian city of Lviv has been a bastion of relative normalcy since the Russian invasion began last month. Friday's strike, just over 4 miles from the city center, rattled residents. 
+ <p class="updated_time"> 07:37 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 07:26 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60791471?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia destroys aircraft repair plant near western city of Lviv</a> BBC: The attack on the facility near Lviv sparks concern that Russia may increase strikes in the west. 
  <p class="updated_time"> 07:09 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/russia-ukraine-queer-activists.html">LGBTQ Activists in Ukraine Share the Fight Against Russia’s Invasion</a> NYT: A pro-Russian puppet government would be less supportive of gay rights, the activists say, and incidents of discrimination would be likely to rise, as they have in Russian-backed separatist regions. 
- <p class="updated_time"> 07:06 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 06:28 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Russian advances grind to a halt in many areas as Ukrainian forces launch counterattacks - but fighting is ongoing in Mariupol. 
  <p class="updated_time"> 06:17 AM CT, Mar. 18 </p> 
@@ -145,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/17/1087316933/prima-ballerina-olga-smirnova-leaves-bolshoi-ballet-in-protest-of-russian-invasi">Prima ballerina Olga Smirnova leaves Bolshoi Ballet in protest of Russian invasion</a> NPR: Prima ballerina Olga Smirnova will leave Moscow's Bolshoi ballet and Russia in protest of Putin's invasion of Ukraine. She told NPR's Mary Louise Kelly about her experience with the Bolshoi in 2018. 
  <p class="updated_time"> 03:23 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087316924/can-ukraine-really-win-this-war">Can Ukraine really win this war?</a> NPR: As the fighting enters its fourth week in Ukraine, a question looms: could Ukraine actually win? NPR's Juana Summers talks with CEPA's Steven Horrell about the prospects of Russian defeat in Ukraine. 
- <p class="updated_time"> 03:23 PM CT, Mar. 17 </p> 
- <a href="https://www.npr.org/2022/03/17/1087316903/u-s-and-allies-are-sending-thousands-of-weapons-to-ukraine">U.S. and allies are sending thousands of weapons to Ukraine</a> NPR: A senior defense official says the U.S., in consultation with allies, is looking into helping Ukraine with long-range air defense systems. 
  <p class="updated_time"> 02:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/climate/spring-drought-forecast-noaa.html">NOAA Expects Drought Conditions to Persist Through the Spring</a> NYT: Winter precipitation amounts were not enough to significantly improve conditions in much of the country, government scientists said. 
  <p class="updated_time"> 02:32 PM CT, Mar. 17 </p> 
@@ -187,16 +189,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/americas/honduras-extradition-juan-orlando-hernandez.html">Honduras Judge Approves Extradition of Ex-President to U.S.</a> NYT: Former President Juan Orlando Hernández is facing drug-trafficking and weapons charges 
  <p class="updated_time"> 11:01 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/iran-israel-attack-drone-site.html">Iran’s Attack Was Response to Secret Israeli Attack on Drone Site</a> NYT: Israel and Iran are pushing the boundaries of a long-running clandestine war that is increasingly spilling out of the shadows. 
- <p class="updated_time"> 10:31 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/business/media/justin-smith-ben-smith-media.html">Justin Smith, Former Bloomberg C.E.O., Offers New Details on Media Start-up</a> NYT: The former Bloomberg Media C.E.O. offered new details on the venture he is starting with the journalist Ben Smith. 
  <p class="updated_time"> 10:17 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60775039?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori return to the UK after years held in Iran</a> BBC: Two British-Iranian nationals detained in Iran for several years have landed at RAF Brize Norton. 
  <p class="updated_time"> 08:58 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/us-ukraine-weapons-drones.html">U.S. Adds ‘Kamikaze Drones’ as More Weapons Flow to Ukraine</a> NYT: NATO allies are focused on providing Kyiv with high-tech defensive weapons that are easy to use and move. 
  <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
- <p class="updated_time"> 05:56 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: President Vladimir V. Putin of Russia denigrated European and American leaders, and Russians who disagreed with him. Analysts fear his remarks could signal a new wave of repression. 
  <p class="updated_time"> 05:43 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/russia-troop-deaths.html">As Russian Troop Deaths Climb, Morale May Be an Issue</a> NYT: More than 7,000 Russian troops have been killed in less than three weeks of fighting, according to conservative U.S. estimates. 
  <p class="updated_time"> 05:02 PM CT, Mar. 16 </p> 
@@ -210,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:25 PM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087519729/mark-meadows-faces-north-carolina-investigation-over-his-voter-registration">Mark Meadows faces North Carolina investigation over his voter registration</a> NPR: The probe follows an allegation that the former Trump White House chief of staff never resided at the address he put on his voter registration ahead of the 2020 election. 
  <p class="updated_time"> 11:24 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/us/politics/pete-souza-ronny-jackson-biden-trump.html">Once Motorcade Pals, Congressman and Photographer Are Now Public Foes</a> NYT: Pete Souza, the former White House photographer-turned-Trump troll, now uses his popular Twitter feed almost exclusively to ridicule Representative Ronny Jackson, the former White House doctor-turned-Trump acolyte. 
  <p class="updated_time"> 10:55 AM CT, Mar. 18 </p> 
@@ -220,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/18/supply-chain-ballot-paper-shortage-00018460">The latest supply chain concern: Ballot paper</a> Politico: Election officials are facing delays and shortages as they order the paper and envelopes they need to run elections this year. 
  <p class="updated_time"> 06:43 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/18/the-gop-pivot-on-zelenskyy-00018436">The GOP pivot on Zelenskyy</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/biden-xi-jinping-disavow-russia-ukraine-invasion-00018427">Breakthrough or bust? What to know so far about Biden and Xi's call today</a> Politico: The Friday call between Biden and Xi is a high-stakes moment and an indication of U.S. leverage — or lack thereof — with China. 
  <p class="updated_time"> 05:04 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/18/a-retiring-moderate-democrat-unloads-on-the-party-00018430"> A retiring moderate Democrat unloads on the party</a> Politico Playbook: And Dems prepare to grill oil CEOs on the Hill. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
@@ -326,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/17/trade-in-value-house-to-downgrade-russia-00018075">Trade-in value: House to downgrade Russia</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:27 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/17/scoop-rnc-down-to-two-2024-convention-finalists-00018069"> Scoop: RNC down to two 2024 convention finalists</a> Politico Playbook: And lawmakers make little movement on Ukraine's latest aid requests. 
- <p class="updated_time"> 04:04 AM CT, Mar. 17 </p> 
- <a href="https://www.npr.org/2022/03/17/1087137508/sen-rick-scott-wants-every-american-to-pay-at-least-some-income-taxes">Sen. Rick Scott wants every American to pay at least some income taxes</a> NPR: NPR's Steve Inskeep speaks to Republican Sen. Rick Scott of Florida about his proposals concerning income taxes and federal laws that he wants to campaign on this fall. 
  <p class="updated_time"> 04:00 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/stacey-abrams-georgia-governor.html">Why Stacey Abrams Is Rejecting Her Democratic Stardom</a> NYT: On the campaign trail for Georgia governor, she is talking more about Medicaid expansion than voting rights, betting that a hyperlocal strategy and the state’s leftward tilt can lift her to victory. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
