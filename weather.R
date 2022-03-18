@@ -345,7 +345,8 @@ temps <- full_join(temps_past_hour,temps_today) %>%
   full_join(temps_past_decade) %>%
   full_join(temps_past_century)
 
-his_los <- tibble(period = c("All Records (since 1888)","Past Decade","Past Year","Past Month","Past Week",
+his_los <- tibble(period = c("All Records (since 1888)","Past Decade",
+                             "Past Year","Past Month","Past Week",
                              "Yesterday","Today","Now"),
                   min = c(min(temps_past_century$temp),
                           min(temps_past_decade$temp),
