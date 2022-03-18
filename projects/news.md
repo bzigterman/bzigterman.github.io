@@ -9,32 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/18/world/europe/pope-francis-ukraine-russia-war.html">Pope Deplores the War in Ukraine but Not the Aggressor</a> NYT: Francis has raised his voice against “unacceptable armed aggression” without mentioning President Vladimir V. Putin or Russia. Some analysts say that he risks complicating his legacy. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-war-poet.html">For a Ukrainian Poet, Putin’s War Is All Too Familiar</a> NYT: Ihor Kalynets, 83, spent a lifetime resisting Soviet domination. Now, he says, he’s not going anywhere. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Internation Energy Agency Says Nations Should Conserve Fuel as Global Energy Crisis Looms</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087418604/were-not-hearing-much-about-jailed-wnba-star-brittney-griner-could-that-be-good">We're not hearing much about jailed WNBA star Brittney Griner. Could that be good?</a> NPR: Media coverage of Griner's arrest on alleged drug charges in Russia has remained somewhat muted. Some say it's because of her skin color, but others say it's part of a bigger strategy to get her home. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087314355/russia-ukraine-invasion-latest-analysis">Can Ukraine win the war? These analysts think so. Here's how it might unfold</a> NPR: It's been three weeks since Russia invaded Ukraine, and while many thought that it would be over quickly, Ukraine is continuing to fend Russia off. Now, some analysts think Ukraine could win the war. 
  <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Civilian Misery Deepens as Russia Keeps Up Its Siege Campaign</a> NYT: The western city of Lviv, a haven until now, was struck by missiles on Friday morning, the mayor said. The suffering in that city and others in Ukraine shows no sign of ending, even as Western officials say Russia’s offensive has stalled. 
  <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
- <p class="updated_time"> 02:55 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 03:08 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
+ <p class="updated_time"> 02:08 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 02:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html">How the War in Ukraine Could Slow the Sales of Electric Cars</a> NYT: The price of nickel, an essential ingredient in most batteries, has soared because of fear that Russian supplies could be cut off. 
- <p class="updated_time"> 01:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
+ <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60790536?at_medium=RSS&at_campaign=KARANGA">Holi 2022: India celebrates festival of colours as Covid cases dip</a> BBC: The festival of Holi marks the beginning of spring in the country. 
- <p class="updated_time"> 12:55 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 12:50 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087442224/peru-court-orders-ex-president-fujimori-freed-from-prison">Peru court orders ex-President Fujimori freed from prison</a> NPR: The decision restores a humanitarian pardon even though authorities gave no indication the former president's release was imminent. 
- <p class="updated_time"> 11:55 PM CT, Mar. 17 </p> 
+ <p class="updated_time"> 12:08 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 11:40 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60790326?at_medium=RSS&at_campaign=KARANGA">Dozens of pilot whales die at notorious New Zealand beach</a> BBC: Rescuers saved a few pilot whales but 31 died in another mass stranding at the South Island bay. 
+ <p class="updated_time"> 11:08 PM CT, Mar. 17 </p> 
+ <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 11:03 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
  <p class="updated_time"> 10:58 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/americas/peru-alberto-fujimori.html">Peru’s Top Court Reinstates Pardon for Former President Alberto Fujimori</a> NYT: The court issued a ruling to release Mr. Fujimori from prison, where he has served less than 15 years of a 25-year sentence for committing human rights abuses. The government said it would appeal the ruling. 
- <p class="updated_time"> 10:55 PM CT, Mar. 17 </p> 
- <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 10:46 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 09:58 PM CT, Mar. 17 </p> 
@@ -117,10 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Invasion of Ukraine, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 12:29 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/17/1087188333/ukraine-artists-celebrities-war-relief">How some people are trying to make art, not war, in Ukraine right now</a> NPR: The lead singer in Ukraine's biggest rock band is one of Ukrainian celebrities who are using their fame and connections to speed relief supplies to those who need them most. 
- <p class="updated_time"> 12:23 PM CT, Mar. 17 </p> 
- <a href="https://www.npr.org/2022/03/17/1086986950/russias-war-in-ukraine-has-nato-on-alert-heres-how-we-got-to-this-point">Russia's war in Ukraine has NATO on alert. Here's how we got to this point</a> NPR: Historian Mary Elise Sarotte tells how NATO expanded into Eastern Europe after the fall of the U.S.S.R, and is now obligated to defend nations near Russia's war in Ukraine. Her book is Not One Inch. 
- <p class="updated_time"> 12:15 PM CT, Mar. 17 </p> 
- <a href="https://www.npr.org/2022/03/17/1087209901/world-health-organization-ukraine">The WHO says Ukrainian health care is under attack, and it needs more funds to help</a> NPR: The World Health Organization has verified 43 attacks on health care in the three weeks since Russia invaded Ukraine, and says hundreds of facilities remain at risk. 
  <p class="updated_time"> 11:56 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/cardinal-giovanni-angelo-becciu-vatican-trial.html">In a First, Catholic Cardinal Testifies in Vatican Criminal Trial</a> NYT: Accused of embezzlement and abuse of office, Cardinal Giovanni Angelo Becciu told the court that he was sure the truth would clear his name. 
  <p class="updated_time"> 11:19 AM CT, Mar. 17 </p> 
@@ -167,16 +173,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60775039?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe and Anoosheh Ashoori return to the UK after years held in Iran</a> BBC: Two British-Iranian nationals detained in Iran for several years have landed at RAF Brize Norton. 
  <p class="updated_time"> 08:58 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/us-ukraine-weapons-drones.html">U.S. Adds ‘Kamikaze Drones’ as More Weapons Flow to Ukraine</a> NYT: NATO allies are focused on providing Kyiv with high-tech defensive weapons that are easy to use and move. 
- <p class="updated_time"> 08:21 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/iran-nazanin-zaghari-ratcliffe-released.html">After Six-Year Ordeal in Iran, Nazanin Zaghari-Ratcliffe Is Freed</a> NYT: Ms. Zaghari-Ratcliffe, a charity worker, was arrested and detained in Tehran in 2016. She was released along with another dual citizen of Iran and the U.K. after the resolution of a longstanding British debt. 
  <p class="updated_time"> 07:42 PM CT, Mar. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60745568?at_medium=RSS&at_campaign=KARANGA">Covid: Why US students are staging walkouts over masks</a> BBC: Schools across the US are dropping mask mandates - but students are divided over the issue. 
  <p class="updated_time"> 07:29 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/transcript-zelensky-speech.html">Transcript: Zelensky’s Speech to Congress</a> NYT: President Volodymyr Zelensky of Ukraine addressed a joint meeting of the House and Senate to press his case for more aid to Ukraine amid devastating attacks by Russia. 
  <p class="updated_time"> 05:56 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-russia-ukraine-protests.html">Putin Assails Russians Who Back the West, Signaling More Repression</a> NYT: President Vladimir V. Putin of Russia denigrated European and American leaders, and Russians who disagreed with him. Analysts fear his remarks could signal a new wave of repression. 
- <p class="updated_time"> 05:46 PM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/europe/putin-war-ukraine-recolonization.html">Putin’s War on Ukraine Is About Ethnicity and Empire</a> NYT: Biden’s framework of ‘democracies versus autocracies’ misses the darker source of this war, which has deep roots in Russian history and thought. 
  <p class="updated_time"> 05:44 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/arts/dance/olga-smirnova-bolshoi-ballet-ukraine-war.html">Olga Smirnova, Opposed to the Ukraine War, Quits the Bolshoi</a> NYT: Olga Smirnova said she was against the war in Ukraine “with all the fibers of my soul.” Now, she has joined the Dutch National Ballet. 
  <p class="updated_time"> 05:43 PM CT, Mar. 16 </p> 
@@ -204,6 +206,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:02 AM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087448505/the-u-s-a-major-oil-producer-woos-other-countries-to-produce-more-oil">The U.S., a major oil producer, woos other countries to produce more oil</a> NPR: The Biden administration is encouraging U.S. oil companies to increase their production to help curb record high gasoline prices. But boosting output is easier said than done. 
+ <p class="updated_time"> 04:02 AM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087448491/sen-warren-aims-to-prevent-oligarchs-from-using-crypto-to-evade-sanctions">Sen. Warren aims to prevent oligarchs from using crypto to evade sanctions</a> NPR: NPR's Steve Inskeep talks to Democratic Sen. Elizabeth Warren of Massachusetts about her bill aiming to strengthen U.S. sanctions against Russia by blocking access to cryptocurrencies. 
+ <p class="updated_time"> 04:01 AM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087242646/dick-durbin-a-low-key-senate-veteran-to-preside-over-supreme-court-hearings">Dick Durbin, a low-key Senate veteran, to preside over Supreme Court hearings</a> NPR: Durbin has been No. 2 in the Senate Democratic leadership since 2007, a job that involves knowing senators well enough to be able to count and corral votes, and knowing how to broker a deal. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087418604/were-not-hearing-much-about-jailed-wnba-star-brittney-griner-could-that-be-good">We're not hearing much about jailed WNBA star Brittney Griner. Could that be good?</a> NPR: Media coverage of Griner's arrest on alleged drug charges in Russia has remained somewhat muted. Some say it's because of her skin color, but others say it's part of a bigger strategy to get her home. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/18/us/politics/pete-souza-ronny-jackson-biden-trump.html">How Pete Souza and  Ronny Jackson Became Public Foes</a> NYT: Pete Souza, the former White House photographer-turned-Trump troll, now uses his popular Twitter feed almost exclusively to ridicule Representative Ronny Jackson, the former White House doctor-turned-Trump acolyte. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/stephanie-murphy-democrats-congress-house-00018272">How Democrats alienated the woman who helped them win the House</a> Politico: On this week’s show, Playbook co-author Rachael Bade talks to Congresswoman Stephanie Murphy about the challenges of being a moderate Democrat in an increasingly left-leaning House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don't see the parallels. 
  <p class="updated_time"> 11:11 PM CT, Mar. 17 </p> 
@@ -288,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/17/griner-arrest-extended-by-russian-court-00018140">Report: Griner’s arrest extended to May 19 by Russian court</a> Politico: Griner was detained at a Moscow airport in February after Russian authorities said a search of her luggage revealed vape cartridges. 
  <p class="updated_time"> 10:42 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/pelosi-biden-officials-covid-aid-stalemate-00018145">Dems search for next steps on Covid aid as headaches pile up</a> Politico: Speaker Nancy Pelosi said more money is now required, as Democrats struggle to line up necessary Republican support. 
- <p class="updated_time"> 09:25 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/16/us/politics/economy-inflation-republican-governor.html">Republican Governors Attack National Economy While Boasting About Own States</a> NYT: In Maryland, Florida and other states, Republican governors have been attacking the national economy while boasting about the one in their states. Economists say it defies logic. 
  <p class="updated_time"> 08:25 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/biden-ashish-jha-covid19-czar-00018086">Biden picks Ashish Jha as new Covid-19 czar</a> Politico: Ashish Jha, dean of the Brown University School of Public Health, will lead the White House's Covid-19 response. 
  <p class="updated_time"> 07:39 AM CT, Mar. 17 </p> 
@@ -320,16 +332,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/16/us/politics/us-ukraine-weapons-drones.html">U.S. Adds ‘Kamikaze Drones’ as More Weapons Flow to Ukraine</a> NYT: NATO allies are focused on providing Kyiv with high-tech defensive weapons that are easy to use and move. 
  <p class="updated_time"> 08:21 PM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/us/politics/hunter-biden-tax-bill-investigation.html">Hunter Biden Paid Tax Bill, but  Federal Investigation Goes On</a> NYT: The Justice Department inquiry into the business dealings of the president’s son has remained active, with a grand jury seeking information about payments from around the world. 
- <p class="updated_time"> 04:10 PM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1086929156/russia-ukraine-war-what-happened-today-march-16">Russia-Ukraine war: What happened today (March 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1087028271/education-secretary-cardona-on-grant-funds-for-hbcus-after-recent-bomb-threats">Education Department will provide grants for HBCUs targeted by bomb threats</a> NPR: NPR's Juana Summers speaks with Secretary of Education Miguel Cardona about grant funds the administration is making available for HBCUs that have recently experienced a bomb threat. 
- <p class="updated_time"> 03:34 PM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1087028264/marie-yovanovitch-writes-about-being-a-key-figure-in-1st-trump-impeachment-in-me">Marie Yovanovitch writes about being a key figure in 1st Trump impeachment in memoir</a> NPR: NPR's Mary Louise Kelly talks with Marie Yovanovitch, the former U.S. ambassador to Ukraine, about her new memoir called Lessons from the Edge. 
  <p class="updated_time"> 03:16 PM CT, Mar. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 03:14 PM CT, Mar. 16 </p> 
- <a href="https://www.npr.org/2022/03/16/1087028222/senate-passed-a-bill-to-make-daylight-savings-time-permanent-is-that-a-good-thin">The Senate passed a bill to make Daylight Saving Time permanent. Is that good?</a> NPR: The Senate passed a bill that would make Daylight Saving Time permanent. The last time the U.S. tried year-round daylight saving was the 1970s. Within a year, it was scrapped. 
  <p class="updated_time"> 02:41 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/republicans-out-hawk-biden-ukraine-aid-00017831">Republicans try to out-hawk Biden on Ukraine aid</a> Politico: It's a GOP message that carries some real baggage. But from leaders to rank-and-file, the party is pushing Biden to do more against Russia. 
  <p class="updated_time"> 11:38 AM CT, Mar. 16 </p> 
