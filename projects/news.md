@@ -9,11 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:35 AM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Civilian Misery Deepens as Russia Keeps Up Its Siege Campaign</a> NYT: The western city of Lviv, a haven until now, was struck by missiles on Friday morning, the mayor said. The suffering in that city and others in Ukraine shows no sign of ending, even as Western officials say Russia’s offensive has stalled. 
  <p class="updated_time"> 05:10 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Internation Energy Agency Says Nations Should Conserve Fuel as Global Energy Crisis Looms</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
- <p class="updated_time"> 04:19 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 04:38 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-attack-theater-in-southern-ukraine-where-civilians-were-hiding-11647511730">Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City</a> WSJ: Desperation Mounts for Ukrainians in Mariupol as Russia Tries to Capture Key City 
  <p class="updated_time"> 04:12 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087447176/samoa-locks-down-after-recording-its-first-community-covid-19-case">Samoa locks down after recording its first community COVID-19 case </a> NPR: A 29-year-old woman tested positive for the coronavirus on Thursday during routine testing before boarding an international flight. 
@@ -25,23 +27,21 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087418604/were-not-hearing-much-about-jailed-wnba-star-brittney-griner-could-that-be-good">We're not hearing much about jailed WNBA star Brittney Griner. Could that be good?</a> NPR: Media coverage of Griner's arrest on alleged drug charges in Russia has remained somewhat muted. Some say it's because of her skin color, but others say it's part of a bigger strategy to get her home. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087314355/russia-ukraine-invasion-latest-analysis">Can Ukraine win the war? These analysts think so. Here's how it might unfold</a> NPR: It's been three weeks since Russia invaded Ukraine, and while many thought that it would be over quickly, Ukraine is continuing to fend Russia off. Now, some analysts think Ukraine could win the war. 
- <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/17/world/ukraine-russia-war">Ukraine Live Updates: Civilian Misery Deepens as Russia Keeps Up Its Siege Campaign</a> NYT: The western city of Lviv, a haven until now, was struck by missiles on Friday morning, the mayor said. The suffering in that city and others in Ukraine shows no sign of ending, even as Western officials say Russia’s offensive has stalled. 
+ <p class="updated_time"> 03:38 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
  <p class="updated_time"> 03:34 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/russia-ukraine-war.html">Survivors Emerge From a Bombed Theater, but Ukraine’s Suffering Grows</a> NYT: Russia continues to devastate cities and hit civilians, as Ukrainian forces strike back and peace talks drag on. 
- <p class="updated_time"> 03:19 AM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/xi-and-biden-prepare-to-talk-as-u-s-china-distrust-mounts-11647549209">Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts</a> WSJ: Xi and Biden Prepare to Talk as U.S.-China Distrust Mounts 
- <p class="updated_time"> 02:19 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 02:38 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/russia-putin-revamped-military-ukraine-invasion-11647469602">How Russia’s Revamped Military Fumbled the Invasion of Ukraine</a> WSJ: How Russia’s Revamped Military Fumbled the Invasion of Ukraine 
  <p class="updated_time"> 02:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html">How the War in Ukraine Could Slow the Sales of Electric Cars</a> NYT: The price of nickel, an essential ingredient in most batteries, has soared because of fear that Russian supplies could be cut off. 
- <p class="updated_time"> 01:19 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 01:38 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/marina-ovsyannikova-russia-journalist-protester-11647544898">How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester</a> WSJ: How Marina Ovsyannikova Became Russia’s Most Visible Antiwar Protester 
  <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60790536?at_medium=RSS&at_campaign=KARANGA">Holi 2022: India celebrates festival of colours as Covid cases dip</a> BBC: The festival of Holi marks the beginning of spring in the country. 
  <p class="updated_time"> 12:50 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087442224/peru-court-orders-ex-president-fujimori-freed-from-prison">Peru court orders ex-President Fujimori freed from prison</a> NPR: The decision restores a humanitarian pardon even though authorities gave no indication the former president's release was imminent. 
- <p class="updated_time"> 12:19 AM CT, Mar. 18 </p> 
+ <p class="updated_time"> 12:38 AM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/macron-proposes-increasing-frances-retirement-age-to-65-11647547654">Macron Proposes Increasing France’s Retirement Age to 65</a> WSJ: Macron Proposes Increasing France’s Retirement Age to 65 
  <p class="updated_time"> 11:40 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60790326?at_medium=RSS&at_campaign=KARANGA">Dozens of pilot whales die at notorious New Zealand beach</a> BBC: Rescuers saved a few pilot whales but 31 died in another mass stranding at the South Island bay. 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60771694?at_medium=RSS&at_campaign=KARANGA">First pictures of earthquake hitting Japan</a> BBC: Cameras shake as a powerful tremor in north-east Japan strikes, cutting power to millions of people. 
  <p class="updated_time"> 09:45 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/benjamin-hall-fox-news-ukraine-safe.html">Benjamin Hall, Fox News Journalist Who Was Injured in Ukraine, Is Now Safe</a> NYT: Benjamin Hall was seriously injured in an incident that killed a Fox News cameraman and a young Ukrainian journalist. 
- <p class="updated_time"> 09:26 AM CT, Mar. 16 </p> 
- <a href="https://www.nytimes.com/2022/03/16/world/asia/cambodia-khmer-rouge.html">In Cambodia, Khmer Rouge Horrors Few Want to Remember</a> NYT: Two-thirds of Cambodians are under the age of 30 — born decades after the Khmer Rouge’s totalitarian terror and the American carpet-bombing campaign. 
  <p class="updated_time"> 06:04 AM CT, Mar. 16 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/middleeast/mass-graves-syria-war-crimes.html">Mass Graves in Syria Could Hold Evidence of War Crimes</a> NYT: Two sites have been located, believed to hold thousands of bodies of Syrians killed in detention centers administered by President Bashar al-Assad’s government during the civil war. 
 
