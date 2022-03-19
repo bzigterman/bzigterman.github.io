@@ -13,11 +13,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Missile Strike Turns Ukrainian Marine Barracks to Rubble, Killing Dozens</a> NYT: Fighting moves to the center of the besieged coastal city of Mariupol. In eastern and southern Ukraine, millions have fled or are cut off from humanitarian aid. 
  <p class="updated_time"> 05:44 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/pope-constitution-vatican.html">Pope Francis Issues New Vatican Constitution</a> NYT: The document stipulates that baptized lay Catholics, including women, can lead departments and increases institutional efforts to protect minors. 
- <p class="updated_time"> 05:21 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 05:34 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 04:48 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087751095/ukraine-jimmy-hill-family">Her brother was killed in Ukraine. She says his family is still waiting for answers</a> NPR: The family of Jimmy Hill, the U.S. citizen killed in Ukraine this week, doesn't know what happened to his body and where his remains are now. 
- <p class="updated_time"> 04:21 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 04:34 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 04:15 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087745000/russia-ukraine-war-what-happened-today-march-19">Russia-Ukraine war: What happened today (March 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -31,13 +31,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
  <p class="updated_time"> 03:47 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
- <p class="updated_time"> 03:21 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 03:34 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 03:07 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087748508/pope-francis-reforms-vatican-sexual-abuse">Pope Francis gives greater support for the Vatican to fight sexual abuse</a> NPR: His long-awaited reform program includes new institutional weight to efforts tight clerical sex abuse. He also envisages more decision-making roles for lay members of the Catholic Church. 
  <p class="updated_time"> 02:58 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
- <p class="updated_time"> 02:21 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 02:34 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 02:13 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60804949?at_medium=RSS&at_campaign=KARANGA">Russia denies cosmonauts board space station in Ukrainian colours</a> BBC: The decision to ditch standard Russian uniforms was interpreted as a show of solidarity for Ukraine. 
@@ -45,7 +45,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/19/1087721436/photos-russias-invasion-of-ukraine-continues-to-bring-death-and-the-displacement">Photos: Russia's invasion of Ukraine continues to bring death and the displacement </a> NPR: On the fourth week of the war over 3.2 million Ukrainians have fled the country, another 6.5 million people have been displaced within Ukraine. 
  <p class="updated_time"> 02:01 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: As many as 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
- <p class="updated_time"> 01:21 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 01:34 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 12:50 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087722545/russian-cosmonauts-space-station-ukraine-colors">Russian cosmonauts board Space Station wearing blue and yellow, the colors of Ukraine</a> NPR: Wearing the colors Ukraine's flag has widely been seen as a way to support that country and oppose Russia's invasion. 
