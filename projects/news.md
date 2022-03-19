@@ -9,17 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:27 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">4 U.S. Marines Killed in Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
+ <p class="updated_time"> 06:13 AM CT, Mar. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60804949?at_medium=RSS&at_campaign=KARANGA">Russians board International Space Station in Ukrainian colours</a> BBC: Three cosmonauts ditch the standard-issue Russian uniforms in an apparent show of solidarity. 
  <p class="updated_time"> 05:32 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">What Happened on Day 23 of Russia’s Invasion of Ukraine</a> NYT: Aid groups say they are seeing signs of human traffickers targeting Ukrainian refugees. 
+ <p class="updated_time"> 05:28 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:24 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">Ex-UK PMs back global investigation into Putin</a> BBC: Gordon Brown and Sir John Major join calls for an international tribunal to investigate Russia. 
- <p class="updated_time"> 05:13 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1086418613/in-thailand-the-pandemic-helped-a-famous-beach-recover-from-an-onslaught-of-tour">In Thailand, the pandemic helped a famous beach recover from an onslaught of tourists</a> NPR: The Leonardo DiCaprio film The Beach helped put Maya Bay on the "must see" list of every visitor to Thailand. But that proved too much for its delicate ecosystem. The pandemic helped change that. 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/zelensky-canada-parliament-ukraine-war.html">Zelensky Pleads to Parliament for More Help. What Can Canada Offer?</a> NYT: The address by President Volodymyr Zelensky of Ukraine was also a reminder that Canada might indirectly benefit from the crisis. 
- <p class="updated_time"> 04:13 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 04:28 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
@@ -31,13 +35,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/travel/tour-guide-conflict.html">Can Travel Be a Force for Peace? This Tour Leader Thinks So.</a> NYT: ‘We tend to think of travel in terms of distance, but I think travel is really a lifestyle, a state of mind,’ says Aziz Abu Sarah of Mejdi Tours, which explores both sides of longstanding conflicts in places like Belfast and Jerusalem. 
  <p class="updated_time"> 03:32 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60804943?at_medium=RSS&at_campaign=KARANGA">Four dead after US military plane crashes in Norway</a> BBC: All four passengers are killed in the accident, which involved a US Marine Corps aircraft. 
- <p class="updated_time"> 03:13 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 03:28 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/brazil-supreme-court-justice-orders-suspension-of-telegram-over-disinformation-campaigns-11647645567">Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns</a> WSJ: Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns 
  <p class="updated_time"> 02:38 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60805271?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky tells Moscow 'it's time to talk'</a> BBC: The Ukrainian president's appeal comes as fierce fighting continues, 23 days after Russia launched its full-scale invasion. 
- <p class="updated_time"> 02:13 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 02:28 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
- <p class="updated_time"> 01:13 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 01:28 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 12:17 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60804051?at_medium=RSS&at_campaign=KARANGA">Lupin: Seven charged over armed heist on Paris filming set</a> BBC: Around 20 hooded attackers used fireworks to steal €300,000 worth of equipment from the crew. 
@@ -81,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
  <p class="updated_time"> 04:09 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
- <p class="updated_time"> 04:02 PM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60798936?at_medium=RSS&at_campaign=KARANGA">Putin's Moscow rally and terror in Mariupol: Ukraine war daily round-up</a> BBC: Russia's president stokes patriotic fervour as rescuers seek survivors of the Mariupol theatre bombing. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60794423?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Talking to a Ukrainian mother and her child who fled to Poland</a> BBC: Krystyna Tynkalyuk is trying to explain to her three-year-old why they can't go back home to see her father. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
@@ -169,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60744216?at_medium=RSS&at_campaign=KARANGA">How Poland's business community is helping Ukrainians</a> BBC: Small and medium sized firms, including recruiters, are organising support for arriving refugees. 
  <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
- <p class="updated_time"> 08:02 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Is This the World’s Largest Potato? </a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to Guinness World Records. Then the results of a DNA analysis came in. 
  <p class="updated_time"> 07:54 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons will US give Ukraine - and how much will they help?</a> BBC: Experts believe that while additional US aid can help Ukraine fight back, more is still needed. 
  <p class="updated_time"> 07:25 PM CT, Mar. 17 </p> 
@@ -210,8 +210,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Mar. 19 </p> 
+ <a href="https://www.politico.com/news/2022/03/19/native-american-tribes-new-york-cannabis-00016488">New York cannabis regulations are in limbo. But the pot industry is booming on reservations.</a> Politico: There are questions about how the tribes are procuring the marijuana, how it may ultimately be regulated and whether the may have reach a compact with New York to tax sales. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/covid-closed-rural-hospitals-tennessee-deaths-anti-vax-conspiracies-00018204">Public health disaster: Shuttered hospitals fuel Covid deaths, anti-vax conspiracies</a> Politico: A POLITICO analysis shows about half of the counties — all rural — with the highest per-capita deaths are within 40 miles of a hospital that closed. 
+ <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
+ <a href="https://www.politico.com/news/2022/03/19/biden-export-control-nominee-stalled-00018003">Biden’s war on the Russian economy is missing a key player</a> Politico: The Senate has yet to confirm the administration's pick for Commerce undersecretary overseeing implementation of U.S. export controls. 
+ <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
+ <a href="https://www.politico.com/news/2022/03/19/travel-abortion-law-missouri-00018539">Travel for abortion is surging. Some states want to stop it.</a> Politico: The first-of-its-kind proposal from Missouri lawmakers would allow private citizens to sue anyone who helps a Missouri resident have an abortion. 
  <p class="updated_time"> 04:02 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html">How Candidates Are Using TikTok to Secure Younger Voters</a> NYT: Is the app the next frontier of political campaigning or just another place to burnish one’s image? 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
@@ -291,9 +297,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/stephanie-murphy-democrats-congress-house-00018272">How Democrats alienated the woman who helped them win the House</a> Politico: On this week’s show, Playbook co-author Rachael Bade talks to Congresswoman Stephanie Murphy about the challenges of being a moderate Democrat in an increasingly left-leaning House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don’t see the parallels. 
- <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/gallery/2022/03/18/the-nations-cartoonists-on-the-week-in-politics-00018284">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don’t see the parallels. 
  <p class="updated_time"> 11:11 PM CT, Mar. 17 </p> 
  <a href="https://www.npr.org/2022/03/18/1087418350/fox-news-countersues-a-voting-machine-maker-saying-its-damage-estimate-is-inflat">Fox News countersues a voting machine maker, saying its damage estimate is inflated</a> NPR: Smartmatic says claims aired by the network contributed to losing $2.7 billion in business through 2025. In a new suit, Fox says that figure represents absurdly huge growth for the small business. 
  <p class="updated_time"> 10:05 PM CT, Mar. 17 </p> 
@@ -322,12 +328,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/us/politics/washington-coronavirus-cases.html">With a Flurry of High-Profile Coronavirus Cases, Washington Is Again on Edge</a> NYT: The cases have raised questions about the trajectory of the pandemic, even as the White House has signaled confidence about resuming normal activities. 
  <p class="updated_time"> 05:51 PM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/judge-takes-guilty-plea-capitol-riot-suspect-00018309">Judge takes unusual guilty plea from Capitol riot suspect</a> Politico: In bid to head off other Jan. 6 charges, Texas resident Lucas Denney pleaded guilty to assaulting a police officer. 
- <p class="updated_time"> 04:34 PM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/new-jersey-democrats-push-early-primary-00018278">New Jersey Democrats pushing for state to hold early presidential primary</a> Politico: Democratic State Committee Chair LeRoy J. Jones made the suggestion in a letter Wednesday to DNC Chair Jaime Harrison. 
  <p class="updated_time"> 04:14 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
- <p class="updated_time"> 02:21 PM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/i-speak-as-a-concerned-new-yorker-cuomo-says-00018225">Cuomo on his future: 'I have a lot of options open, and I'm considering them'</a> Politico: The former governor continued to stoke speculation about a potential comeback, telling reporters who swarmed him after the speech that he hasn't ruled out a return to office — or a potential run for governor. 
  <p class="updated_time"> 01:53 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/ohio-court-congress-maps.html">Ohio Supreme Court Intensifies a Redistricting Map Standoff</a> NYT: Years ago, voters created a commission to make political maps fairer. Now the State Supreme Court is blocking maps drawn by the Republican-led commission, saying nothing has changed. 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
