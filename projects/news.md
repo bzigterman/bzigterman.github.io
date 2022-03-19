@@ -9,21 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:16 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60804050?at_medium=RSS&at_campaign=KARANGA">Assad: Syria's leader makes historic visit to UAE</a> BBC: It marks Bashar al-Assad's first visit to an Arab country since the Syrian civil war began in 2011. 
  <p class="updated_time"> 10:01 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Warns Chinese Leader Not to Help Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. Aid groups say they are seeing signs of human traffickers targeting Ukrainian refugees. 
  <p class="updated_time"> 09:55 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/americas/brazil-bans-telegram.html">Brazil Bans Telegram Over Disinformation Concerns</a> NYT: The Brazilian Supreme Court has vowed to fight disinformation ahead of this year’s presidential elections. Banning the popular messaging app is its most drastic step yet. 
  <p class="updated_time"> 09:46 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/middleeast/bashar-al-assad-syria-uae.html">Assad Visits U.A.E. in Latest Sign of Re-engagement</a> NYT: It was the long-shunned Syrian leader’s first trip to an Arab country since his nation’s civil war erupted in 2011. 
+ <p class="updated_time"> 09:38 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 09:31 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
- <p class="updated_time"> 09:22 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
- <p class="updated_time"> 08:22 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 09:27 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">EX-UK PMs call for Nuremberg-style trial for Putin</a> BBC: Gordon Brown and Sir John Major join calls for a new international tribunal to investigate Russia's actions. 
+ <p class="updated_time"> 08:38 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 08:01 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087631248/world-happiness-report-finland-pandemic-america-us">Americans got a bit happier last year, but they've still got nothing on the Finns</a> NPR: The latest World Happiness report finds Scandinavian countries once again dominating the top of the rankings, while the U.S. climbed from 19th to 16th. 
- <p class="updated_time"> 07:22 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 07:38 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 07:20 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60739120?at_medium=RSS&at_campaign=KARANGA">Sri Lanka tests UN's patience on human rights</a> BBC: President Rajapaksa is resisting efforts to investigate alleged war crimes and improve a dismal rights record. 
@@ -37,15 +41,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60792822?at_medium=RSS&at_campaign=KARANGA">Hong Kong: 'My employer kicked me out because I caught Covid'</a> BBC: 'Lenlen' is one of several foreign domestic workers made homeless amid Hong Kong's Covid wave. 
  <p class="updated_time"> 07:01 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-60785620?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Jewish children airlifted to Israel</a> BBC: In Israel, some 90 Ukrainian children have been dressing up for the joyful Jewish holiday of Purim. 
+ <p class="updated_time"> 06:38 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087670948/biden-tells-chinas-xi-of-the-implications-of-assisting-russia-in-call-official-s">Biden tells China's Xi of the implications of assisting Russia in call, official says</a> NPR: A White House official declined to lay out the specifics of any potential U.S. response, but said that Biden was "detailed" and "direct" with the Chinese leader. 
- <p class="updated_time"> 06:22 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 06:06 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799659?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: America is learning the art of humility</a> BBC: Forget shock and awe, this is an era of caution for a superpower using diplomacy not military force. 
  <p class="updated_time"> 06:01 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/biden-xi-russia-china.html">Biden Warns China of ‘Consequences’ if It Aids Russian War</a> NYT: President Biden told China’s leader, Xi Jinping, there would be consequences if Beijing gave material support to Russia, implying that the United States could impose sanctions on China. 
- <p class="updated_time"> 05:22 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 05:38 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 05:14 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-60739538?at_medium=RSS&at_campaign=KARANGA">'I sent my brother flak jackets, helmets and boots'</a> BBC: The east London chef sending protective equipment to Ukraine's soldiers. 
@@ -107,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-war-poet.html">For a Ukrainian Poet, Putin’s War Is All Too Familiar</a> NYT: Ihor Kalynets, 83, spent a lifetime resisting Soviet domination. Now, he says, he’s not going anywhere. 
  <p class="updated_time"> 10:12 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
- <p class="updated_time"> 09:32 AM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60745569?at_medium=RSS&at_campaign=KARANGA">Diplomats spar over 'edited' Russian letter</a> BBC: Russia accuses Canada of 'kindergarten' diplomacy in spat over a Russian letter sent to UN members. 
  <p class="updated_time"> 09:20 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-ukraine.html">Russia’s military progress slows, but it makes gains in the south and east.</a> NYT: Britain’s defense intelligence service said that Russian forces had “made minimal progress this week.” 
  <p class="updated_time"> 09:00 AM CT, Mar. 18 </p> 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 09:58 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
- <p class="updated_time"> 09:46 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60789802?at_medium=RSS&at_campaign=KARANGA">Australia sues Facebook over scam ads impersonating celebrities</a> BBC: The tech giant knowingly let ads with fake celebrity endorsements scam users, a regulator says. 
  <p class="updated_time"> 09:36 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
