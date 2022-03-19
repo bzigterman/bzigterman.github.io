@@ -9,11 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:20 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 10:49 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Fighting Moves Into Center of Mariupol; War Displaces 1 in 5 Ukrainians</a> NYT: After weeks of Russian troops’ encircling and shelling the strategic coastal city, tank battles raged on its city streets on Saturday. In eastern and southern Ukraine, millions have fled or are cut off from humanitarian aid. 
+ <p class="updated_time"> 10:48 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/europe/fighting-rages-in-mariupol-as-russian-forces-make-gains.html">Fighting Rages in Mariupol, as Russian Forces Make Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city, while Russia hammered military targets around the country. 
  <p class="updated_time"> 10:12 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/health/covid-ba2-surge-variant.html">Another Covid Surge May Be Coming. Are We Ready for It?</a> NYT: “We’ve been wearing rose-colored glasses instead of correcting our vision,” one scientist said. 
- <p class="updated_time"> 09:41 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 09:53 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 09:37 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/putin-zelensky-turkey.html">Putin Isn’t Yet Ready for Talks With Zelensky, Turkish Official Says</a> NYT: Turkey is trying to mediate between Ukraine and Russia and bring an end to the war. But a senior Turkish official said that Russia was in no hurry. 
@@ -27,16 +29,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
  <p class="updated_time"> 08:56 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
+ <p class="updated_time"> 08:53 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 08:43 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60806973?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Tanks in streets' as fighting hits Mariupol centre</a> BBC: Street fighting hampers efforts to rescue civilians trapped in a bombed theatre, the mayor says. 
- <p class="updated_time"> 08:41 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 08:13 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/france-algeria-macron-election-far-right.html">Shadows of Algerian War Loom Over Election Campaign in France</a> NYT: As President Emmanuel Macron addresses his country’s colonial history, echoes of that past have pervaded the messaging of right-wing candidates ahead of the voting in April. 
+ <p class="updated_time"> 07:53 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 07:43 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
- <p class="updated_time"> 07:41 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 07:31 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087265230/4-reasons-why-social-media-can-give-a-skewed-account-of-the-war-in-ukraine">4 reasons why social media can give a skewed account of the war in Ukraine</a> NPR: Images of Ukraine are flooding social media, but experts warn they don't show the full picture and can sometimes give a misleading account of the conflict on the ground. 
  <p class="updated_time"> 07:03 AM CT, Mar. 19 </p> 
@@ -55,13 +57,13 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087579496/with-small-portable-weapons-ukraines-fighters-keep-russia-at-bay">With small, portable weapons, Ukraine's fighters keep Russia at bay</a> NPR: Ukraine is outgunned by Russia, but is making the most of its mobile weapons that allow Ukrainian troops to be more nimble. Some of the most important weapons are from the United States. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/19/1087533721/marcus-yam-ukraine-photos">A photojournalist in Ukraine heads toward deadly conflict to humanize war</a> NPR: The deaths of three journalists this week in Ukraine are a reminder of the perils of covering conflicts from behind a camera. Photojournalist Marcus Yam is on assignment in Kyiv covering the war. 
+ <p class="updated_time"> 06:53 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087713293/us-troops-dead-osprey-crash-marines-norway">4 U.S. Marines are killed in an aircraft crash during a NATO exercise in Norway </a> NPR: The Marines were killed in the crash of a V-22B Osprey aircraft during a NATO exercise unrelated to the Ukraine war, officials said. 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">4 U.S. Marines Killed in Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
- <p class="updated_time"> 06:41 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
- <p class="updated_time"> 05:41 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 05:53 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/mainland-china-reports-first-coronavirus-deaths-in-more-than-a-year-as-omicron-spreads-11647697704">Mainland China Reports First Coronavirus Deaths in More Than a Year</a> WSJ: Mainland China Reports First Coronavirus Deaths in More Than a Year 
  <p class="updated_time"> 05:24 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">Ex-UK PMs back global investigation into Putin</a> BBC: Gordon Brown and Sir John Major join calls for an international tribunal to investigate Russia. 
@@ -130,7 +132,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As diplomacy drags on, peace seems far off in Ukraine.</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
+ <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As Diplomacy Drags On, Peace Seems Far Off in Ukraine</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
  <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/19/business/hong-kong-virus-beijing.html">Confusion and Chaos in Hong Kong as Leaders Fumble Virus Response</a> NYT: Government officials have been unable to curb an outbreak that has surpassed one million infections, leading Beijing to step up its intervention in the semiautonomous territory. 
  <p class="updated_time"> 01:29 PM CT, Mar. 18 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60737248?at_medium=RSS&at_campaign=KARANGA">Ukraine's restaurants rally to the war effort</a> BBC: From chefs to suppliers, the country's food industry is pulling together to feed the population at war. 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/house-russia-trade-status.html">House Votes to Suspend Normal Trade Relations With Russia</a> NYT: The bill, which still needs Senate approval, is the latest in a series of measures that lawmakers have passed to support Ukraine and punish Russia for its invasion. 
- <p class="updated_time"> 04:14 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 03:48 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/emmanuel-macron-france-election-debate.html">Emmanuel Macron Argues for Second Term as French President</a> NYT: The Ukraine war has given the French leader a strong edge and few reasons to engage with his political opponents. He held a news conference to quell criticism that he is avoiding debate. 
  <p class="updated_time"> 02:57 PM CT, Mar. 17 </p> 
@@ -214,6 +214,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:47 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/us/politics/us-ukraine-russia-escalation.html">For the U.S., a Tenuous Balance in Confronting Russia</a> NYT: Navigating between aiding Ukraine and avoiding an escalation with Moscow has led to a tangle of decisions and sometimes tortured distinctions over weapons and other elements of policy. 
+ <p class="updated_time"> 10:38 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/us/politics/military-mental-health.html">A General Fights to Illuminate Mental Health Issues in the Military</a> NYT: The military has struggled to meet the mental health needs of troops, lawmakers and service members say. 
  <p class="updated_time"> 08:42 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/19/congress-loses-an-alaskan-titan-00018684"> Congress loses an Alaskan titan</a> Politico Playbook: And President Joe Biden warns China of aiding Russia. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
@@ -310,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/03/18/the-nations-cartoonists-on-the-week-in-politics-00018284">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don’t see the parallels. 
- <p class="updated_time"> 10:05 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/jeffrey-zients-ashish-jha.html">Biden’s Covid Czar Will Be Replaced by Ashish Jha</a> NYT: The choice of Dr. Jha, an outspoken public health expert, is a sign that the White House believes the country is entering a new phase of the pandemic. 
  <p class="updated_time"> 09:57 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/republicans-biden-ukraine.html">Republicans Once Silent on Russia Ratchet Up Attacks on Biden</a> NYT: Even as they praise the bipartisan congressional response to Russia’s invasion of Ukraine, Republicans are increasingly eager to blame President Biden for the devastation. 
  <p class="updated_time"> 09:38 PM CT, Mar. 17 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/us/politics/democrats-oil-companies-gas-prices.html">Climate Groups Want Democrats to Confront Oil Companies Over Gas Prices</a> NYT: Environmental groups want Democrats to confront oil companies over high gas prices. And Democrats are listening. 
  <p class="updated_time"> 05:52 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/washington-coronavirus-cases.html">With a Flurry of High-Profile Coronavirus Cases, Washington Is Again on Edge</a> NYT: The cases have raised questions about the trajectory of the pandemic, even as the White House has signaled confidence about resuming normal activities. 
- <p class="updated_time"> 04:14 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 01:53 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/ohio-court-congress-maps.html">Ohio Supreme Court Intensifies a Redistricting Map Standoff</a> NYT: Years ago, voters created a commission to make political maps fairer. Now the State Supreme Court is blocking maps drawn by the Republican-led commission, saying nothing has changed. 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
