@@ -9,36 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:21 PM CT, Mar. 18 </p> 
+ <p class="updated_time"> 08:44 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Warns Chinese Leader Not to Help Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. Aid groups say they are seeing signs of human traffickers targeting Ukrainian refugees. 
+ <p class="updated_time"> 08:01 PM CT, Mar. 18 </p> 
+ <a href="https://www.npr.org/2022/03/18/1087631248/world-happiness-report-finland-pandemic-america-us">Americans got a bit happier last year, but they've still got nothing on the Finns</a> NPR: The latest World Happiness report finds Scandinavian countries once again dominating the top of the rankings, while the U.S. climbed from 19th to 16th. 
+ <p class="updated_time"> 07:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
+ <p class="updated_time"> 07:20 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60739120?at_medium=RSS&at_campaign=KARANGA">Sri Lanka tests UN's patience on human rights</a> BBC: President Rajapaksa is resisting efforts to investigate alleged war crimes and improve a dismal rights record. 
+ <p class="updated_time"> 07:15 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60765848?at_medium=RSS&at_campaign=KARANGA">Tanzania viewpoint: What President Samia has achieved in her first year</a> BBC: After years of authoritarian rule, there are signs of change under the country's first female leader. 
+ <p class="updated_time"> 07:14 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60793320?at_medium=RSS&at_campaign=KARANGA">French elections: Putin's war gives Macron boost in presidential race</a> BBC: Russia's invasion of Ukraine has shaken up France's presidential elections, with only three weeks to go. 
  <p class="updated_time"> 07:05 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60798650?at_medium=RSS&at_campaign=KARANGA">Ukraine war: From wedding dresses to camouflage capes</a> BBC: A group of Ukrainian seamstresses who fled the war are helping by making camouflage capes for soldiers. 
  <p class="updated_time"> 07:04 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60792822?at_medium=RSS&at_campaign=KARANGA">Hong Kong: 'My employer kicked me out because I caught Covid'</a> BBC: 'Lenlen' is one of several foreign domestic workers made homeless amid Hong Kong's Covid wave. 
  <p class="updated_time"> 07:01 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-60785620?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Jewish children airlifted to Israel</a> BBC: In Israel, some 90 Ukrainian children have been dressing up for the joyful Jewish holiday of Purim. 
+ <p class="updated_time"> 06:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087670948/biden-tells-chinas-xi-of-the-implications-of-assisting-russia-in-call-official-s">Biden tells China's Xi of the implications of assisting Russia in call, official says</a> NPR: A White House official declined to lay out the specifics of any potential U.S. response, but said that Biden was "detailed" and "direct" with the Chinese leader. 
- <p class="updated_time"> 06:23 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 06:06 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799659?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: America is learning the art of humility</a> BBC: Forget shock and awe, this is an era of caution for a superpower using diplomacy not military force. 
  <p class="updated_time"> 06:00 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/biden-xi-russia-china.html">Biden Warns China of ‘Consequences’ if It Aids Russian War</a> NYT: President Biden told China’s leader, Xi Jinping, there would be consequences if Beijing gave material support to Russia, implying that the United States could impose sanctions on China. 
+ <p class="updated_time"> 05:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 05:48 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/americas/brazil-bans-telegram.html">Brazil Bans Telegram Over Disinformation Concerns</a> NYT: The Brazilian Supreme Court has vowed to fight disinformation ahead of this year’s presidential elections. Banning the popular messaging app is its most drastic step yet. 
- <p class="updated_time"> 05:23 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
+ <p class="updated_time"> 05:14 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60739538?at_medium=RSS&at_campaign=KARANGA">'I sent my brother flak jackets, helmets and boots'</a> BBC: The east London chef sending protective equipment to Ukraine's soldiers. 
  <p class="updated_time"> 05:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-ukraine-china-biden.html">Russia Targets Western Ukraine as Biden Warns Xi Not to Aid Moscow</a> NYT: A scramble of diplomatic efforts bears little fruit as Russia intensifies its attacks, including with a bombardment into a relatively unscathed part of western Ukraine. 
  <p class="updated_time"> 05:01 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 05:01 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60802801?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Empty prams lined up in Lviv for children killed in war</a> BBC: Each of the 109 prams in Lviv are a tribute to the number of children who have died in the war so far. 
+ <p class="updated_time"> 04:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 04:45 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
- <p class="updated_time"> 04:23 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 04:09 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
  <p class="updated_time"> 04:02 PM CT, Mar. 18 </p> 
@@ -47,10 +59,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60794423?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Talking to a Ukrainian mother and her child who fled to Poland</a> BBC: Krystyna Tynkalyuk is trying to explain to her three-year-old why they can't go back home to see her father. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:49 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 03:38 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087597316/gas-prices-oil-consumption-iea">With gas prices soaring over the Ukraine war, here's a plan to cut oil consumption</a> NPR: From cutting highway speed limits to launching car-free Sundays in big cities, the International Energy Agency proposes to cut the demand for oil by as much as 2.7 million barrels per day. 
- <p class="updated_time"> 03:23 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087617018/how-much-influence-do-russian-oligarchs-really-have-on-putin">How much influence do Russian oligarchs really have on Putin?</a> NPR: Sanctions imposed on Russia have targeted some of its wealthiest individuals, its oligarchs, for their ties to President Vladimir Putin. In reality, this group has varying degrees of influence. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
@@ -61,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616976/russia-strikes-targets-in-kyiv-as-mariupol-theater-rescue-efforts-continue">Russia strikes targets in Kyiv as Mariupol theater rescue efforts continue</a> NPR: A fourth day of peace negotiations ended with no breakthrough. Ukraine's president said workers continued rescue efforts at the Mariupol theater where scores of civilians were sheltering. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087616923/refugees-from-other-wars-see-themselves-in-fleeing-ukrainians">Refugees from other wars see themselves in fleeing Ukrainians</a> NPR: NPR's Mary Louise Kelly talks with people about the experience of being a refugee, how fleeing their home country has affected their life and what life is like now. 
- <p class="updated_time"> 02:23 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 01:59 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/syrias-assad-makes-surprise-visit-to-the-u-a-e-as-arab-ties-warm-11647641366">Syria's Assad Makes Surprise Visit to the U.A.E.</a> WSJ: It was the Syrian president’s first trip to an Arab country since launching a brutal crackdown on opponents that plunged the country into civil war 11 years ago. 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
@@ -127,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html">How the War in Ukraine Could Slow the Sales of Electric Cars</a> NYT: The price of nickel, an essential ingredient in most batteries, has soared because of fear that Russian supplies could be cut off. 
  <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60790536?at_medium=RSS&at_campaign=KARANGA">Holi 2022: India celebrates festival of colours as Covid cases dip</a> BBC: The festival of Holi marks the beginning of spring in the country. 
- <p class="updated_time"> 12:50 AM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087442224/peru-court-orders-ex-president-fujimori-freed-from-prison">Peru court orders ex-President Fujimori freed from prison</a> NPR: The decision restores a humanitarian pardon even though authorities gave no indication the former president's release was imminent. 
  <p class="updated_time"> 11:40 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60790326?at_medium=RSS&at_campaign=KARANGA">Dozens of pilot whales die at notorious New Zealand beach</a> BBC: Rescuers saved a few pilot whales but 31 died in another mass stranding at the South Island bay. 
  <p class="updated_time"> 10:58 PM CT, Mar. 17 </p> 
@@ -200,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:03 PM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/ohio-gop-senate-debate-gibbons-mandel-fight-00018678">Ohio GOP Senate debate turns nasty as Gibbons and Mandel go nose-to-nose</a> Politico: The two Republican polling frontrunners got in each other's faces Friday evening. 
  <p class="updated_time"> 07:01 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/biden-gop-energy-gas-oil-prices-00017486">'Groundhog Day': Biden, GOP revive decades-old energy fight</a> Politico: Biden administration officials and Republicans are using old talking points on energy. Here's why it matters. 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
@@ -213,7 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/us/politics/alva-johnson-donald-trump-arbitrator-ruling.html">Trump Campaign Owes $300,000 in Legal Fees After Another Failed NDA Case</a> NYT: The award stems from an arbitration claim that was dismissed in part because of the “vague and unenforceable” provisions of a nondisclosure agreement. 
  <p class="updated_time"> 06:00 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/us/politics/cox-roosevelt-button-sold.html">Cox/Roosevelt Campaign Button From 1920 Sells for $185,850</a> NYT: The political button business has been booming. A Cox/Roosevelt campaign button from 1920 was auctioned for a six-figure sum this week. 
+ <a href="https://www.nytimes.com/2022/03/18/us/politics/cox-roosevelt-button-sold.html">Politics Still Pushes Buttons. This One Sold for $185,850.</a> NYT: The political button business has been booming. A Cox/Roosevelt campaign button from 1920 was auctioned for a six-figure sum this week. 
  <p class="updated_time"> 05:58 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/ohio-primary-maps-00018667">Ohio pauses preparations for May 3 primary amid map flap</a> Politico: A growing chorus of interest groups and politicians of both parties has begun calling on lawmakers to delay the primary. 
  <p class="updated_time"> 05:56 PM CT, Mar. 18 </p> 
@@ -241,9 +251,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:25 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087519729/mark-meadows-faces-north-carolina-investigation-over-his-voter-registration">Mark Meadows faces North Carolina investigation over his voter registration</a> NPR: The probe follows an allegation that the former Trump White House chief of staff never resided at the address he put on his voter registration ahead of the 2020 election. 
  <p class="updated_time"> 11:24 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/us/politics/pete-souza-ronny-jackson-biden-trump.html">Once Motorcade Pals, Congressman and Photographer Are Now Public Foes</a> NYT: Pete Souza, the former White House photographer-turned-Trump troll, now uses his popular Twitter feed almost exclusively to ridicule Representative Ronny Jackson, the former White House doctor-turned-Trump acolyte. 
- <p class="updated_time"> 10:55 AM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/jan-6-trial-where-was-mike-pence-capitol-riot-00018502">Jan. 6 trial centers on lingering mystery: Where was Mike Pence as riot raged?</a> Politico: Prosecutors say that Secret Service witnesses will refuse to disclose Pence’s precise location because it could jeopardize national security protocols for the current vice president Kamala Harris. 
+ <a href="https://www.nytimes.com/2022/03/18/us/politics/pete-souza-ronny-jackson-biden-trump.html">How Pete Souza and  Ronny Jackson Became Public Foes</a> NYT: Pete Souza, the former White House photographer-turned-Trump troll, now uses his popular Twitter feed almost exclusively to ridicule Representative Ronny Jackson, the former White House doctor-turned-Trump acolyte. 
  <p class="updated_time"> 10:11 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/biden-administration-pressures-xi-jinping-00018478">Biden warns Xi of 'consequences' if China supports Russia's attack on Ukraine</a> Politico: The president also reiterated U.S. policy on Taiwan and said his administration would oppose unilateral action against the island by Beijing. 
  <p class="updated_time"> 09:56 AM CT, Mar. 18 </p> 
@@ -272,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don’t see the parallels. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/trump-alabama-senate-shelby-brooks-00018281">As Trump’s Alabama Senate pick struggles, Shelby to pour in millions</a> Politico: The retiring incumbent says he’s ready to open his coffers for Katie Britt in the GOP primary — which could wallop Rep. Mo Brooks’ (R-Ala.) bid. 
- <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/trump-dhs-bogus-claims-voter-fraud-00018365">Under Trump, DHS directed to probe bogus claims about voter fraud</a> Politico: The directive, which has not been reported before, casts new light on the administration’s efforts to use intelligence resources to investigate fanciful claims. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/gallery/2022/03/18/the-nations-cartoonists-on-the-week-in-politics-00018284">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 11:11 PM CT, Mar. 17 </p> 
