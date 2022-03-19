@@ -19,19 +19,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: As many as 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
  <p class="updated_time"> 01:36 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/spain-morocco-western-sahara.html">Spain Endorses Morocco’s Plan for Governing Western Sahara</a> NYT: Madrid endorsed a plan for limited autonomy for the territory in northwestern Africa, but the change in policy was denounced by independence groups and could aggravate relations with Algeria. 
- <p class="updated_time"> 01:20 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 01:31 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 12:50 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087722545/russian-cosmonauts-space-station-ukraine-colors">Russian cosmonauts board Space Station wearing blue and yellow, the colors of Ukraine</a> NPR: Wearing blue and yellow, the colors of the Ukrainian flag, has widely been seen as a way to support Ukraine and oppose Russian's invasion. 
+ <p class="updated_time"> 12:31 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 12:30 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
  <p class="updated_time"> 12:30 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
- <p class="updated_time"> 12:20 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 12:18 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60808973?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ballet dancer refugees shelter in Polish opera house</a> BBC: The Polish National Ballet is offering shelter to about 30 Ukrainian dancers in its opera house. 
- <p class="updated_time"> 11:20 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 11:31 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/polio-africa-covid-vaccinations.html">Malawi and 4 Nearby Countries to Begin Polio Vaccination Drives</a> NYT: The spread of the coronavirus interrupted routine childhood vaccinations globally, opening a door to diseases and compounding the health challenges on the African continent. 
@@ -39,13 +39,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60807636?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Scores feared dead after Russia attack on Mykolaiv barracks</a> BBC: A source tells the BBC's Andrew Harding in Mykolaiv that up to 200 soldiers were in when missiles struck. 
  <p class="updated_time"> 10:48 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/mariupol-russia-ukraine-war.html">Fighting Rages in Mariupol, as Russian Forces Make Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city, while Russia hammered military targets around the country. 
- <p class="updated_time"> 10:20 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 10:31 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 10:12 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/health/covid-ba2-surge-variant.html">Another Covid Surge May Be Coming. Are We Ready for It?</a> NYT: “We’ve been wearing rose-colored glasses instead of correcting our vision,” one scientist said. 
  <p class="updated_time"> 09:37 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/putin-zelensky-turkey.html">Putin Isn’t Yet Ready for Talks With Zelensky, Turkish Official Says</a> NYT: Turkey is trying to mediate between Ukraine and Russia and bring an end to the war. But a senior Turkish official said that Russia was in no hurry. 
- <p class="updated_time"> 09:20 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 09:31 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-expands-potential-role-of-women-in-vatican-bureaucracy-11647709244">Pope Francis Expands Potential Role of Women at Vatican</a> WSJ: Pope Francis Expands Potential Role of Women at Vatican 
  <p class="updated_time"> 09:16 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60807896?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Man rescued from Kharkiv rubble after shelling</a> BBC: A man is pulled alive from the rubble of a teaching building in Ukraine, after Russian shelling. 
