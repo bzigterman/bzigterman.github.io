@@ -9,21 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:41 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 03:15 PM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/europe/mariupol-russia-ukraine-war.html">Deadly Strike on Ukraine Barracks Punctuates Russian Military Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city of Mariupol, and a Russian rocket attack on a military site in Mykolaiv left dozens dead. 
+ <p class="updated_time"> 03:14 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Missile Strike Turns Ukrainian Marine Barracks to Rubble, Killing Dozens</a> NYT: Fighting moves to the center of the besieged coastal city of Mariupol. In eastern and southern Ukraine, millions have fled or are cut off from humanitarian aid. 
+ <p class="updated_time"> 03:07 PM CT, Mar. 19 </p> 
+ <a href="https://www.npr.org/2022/03/19/1087748508/pope-francis-reforms-vatican-sexual-abuse">Pope Francis gives greater support for the Vatican to fight sexual abuse</a> NPR: His long-awaited reform program includes new institutional weight to efforts tight clerical sex abuse. He also envisages more decision-making roles for lay members of the Catholic Church. 
+ <p class="updated_time"> 02:58 PM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
  <p class="updated_time"> 02:33 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/pope-constitution-vatican.html">Pope Francis Issues New Vatican Constitution</a> NYT: The document stipulates that baptized lay Catholics, including women, can lead departments and increases institutional efforts to protect minors. 
+ <p class="updated_time"> 02:19 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 02:13 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60804949?at_medium=RSS&at_campaign=KARANGA">Russia denies cosmonauts board space station in Ukrainian colours</a> BBC: The decision to ditch standard Russian uniforms was interpreted as a show of solidarity for Ukraine. 
  <p class="updated_time"> 02:08 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/19/1087721436/photos-russias-invasion-of-ukraine-continues-to-bring-death-and-the-displacement">Photos: Russia's invasion of Ukraine continues to bring death and the displacement </a> NPR: On the fourth week of the war over 3.2 million Ukrainians have fled the country, another 6.5 million people have been displaced within Ukraine. 
  <p class="updated_time"> 02:01 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: As many as 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
- <p class="updated_time"> 01:55 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 01:36 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/spain-morocco-western-sahara.html">Spain Endorses Morocco’s Plan for Governing Western Sahara</a> NYT: Madrid endorsed a plan for limited autonomy for the territory in northwestern Africa, but the change in policy was denounced by independence groups and could aggravate relations with Algeria. 
- <p class="updated_time"> 12:55 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 01:19 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 12:50 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087722545/russian-cosmonauts-space-station-ukraine-colors">Russian cosmonauts board Space Station wearing blue and yellow, the colors of Ukraine</a> NPR: Wearing blue and yellow, the colors of the Ukrainian flag, has widely been seen as a way to support Ukraine and oppose Russian's invasion. 
@@ -31,22 +37,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
  <p class="updated_time"> 12:30 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
+ <p class="updated_time"> 12:19 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 12:18 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60808973?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ballet dancer refugees shelter in Polish opera house</a> BBC: The Polish National Ballet is offering shelter to about 30 Ukrainian dancers in its opera house. 
- <p class="updated_time"> 11:55 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
+ <p class="updated_time"> 11:19 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/polio-africa-covid-vaccinations.html">Malawi and 4 Nearby Countries to Begin Polio Vaccination Drives</a> NYT: The spread of the coronavirus interrupted routine childhood vaccinations globally, opening a door to diseases and compounding the health challenges on the African continent. 
- <p class="updated_time"> 10:55 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 10:49 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60807636?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Scores feared dead after Russia attack on Mykolaiv barracks</a> BBC: A source tells the BBC's Andrew Harding in Mykolaiv that up to 200 soldiers were in when missiles struck. 
- <p class="updated_time"> 10:48 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/2022/03/19/world/europe/mariupol-russia-ukraine-war.html">Fighting Rages in Mariupol, as Russian Forces Make Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city, while Russia hammered military targets around the country. 
+ <p class="updated_time"> 10:19 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-expands-potential-role-of-women-in-vatican-bureaucracy-11647709244">Pope Francis Expands Potential Role of Women at Vatican</a> WSJ: Pope Francis Expands Potential Role of Women at Vatican 
  <p class="updated_time"> 10:12 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/health/covid-ba2-surge-variant.html">Another Covid Surge May Be Coming. Are We Ready for It?</a> NYT: “We’ve been wearing rose-colored glasses instead of correcting our vision,” one scientist said. 
- <p class="updated_time"> 09:55 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 09:37 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/putin-zelensky-turkey.html">Putin Isn’t Yet Ready for Talks With Zelensky, Turkish Official Says</a> NYT: Turkey is trying to mediate between Ukraine and Russia and bring an end to the war. But a senior Turkish official said that Russia was in no hurry. 
  <p class="updated_time"> 09:16 AM CT, Mar. 19 </p> 
@@ -61,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60806973?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Tanks in streets' as fighting hits Mariupol centre</a> BBC: Street fighting hampers efforts to rescue civilians trapped in a bombed theatre, the mayor says. 
  <p class="updated_time"> 08:13 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/france-algeria-macron-election-far-right.html">Shadows of Algerian War Loom Over Election Campaign in France</a> NYT: As President Emmanuel Macron addresses his country’s colonial history, echoes of that past have pervaded the messaging of right-wing candidates ahead of the voting in April. 
- <p class="updated_time"> 08:00 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-expands-potential-role-of-women-in-vatican-bureaucracy-11647709244">Pope Francis Expands Potential Role of Women at Vatican</a> WSJ: A new Vatican constitution opens the way for women to run some offices at the Catholic Church’s universal headquarters that have always been run by men. 
  <p class="updated_time"> 07:43 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
  <p class="updated_time"> 07:31 AM CT, Mar. 19 </p> 
@@ -101,6 +103,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/africa/sudan-darfur.html">‘They Keep Killing Us’: Violence Rages in Sudan’s Darfur Two Decades On</a> NYT: The resurgence of ethnically motivated attacks in the country’s restive western region has led to enormous displacement and a growing humanitarian crisis. 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/travel/tour-guide-conflict.html">Can Travel Be a Force for Peace? This Tour Leader Thinks So.</a> NYT: ‘We tend to think of travel in terms of distance, but I think travel is really a lifestyle, a state of mind,’ says Aziz Abu Sarah of Mejdi Tours, which explores both sides of longstanding conflicts in places like Belfast and Jerusalem. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: History shows conflicts that begin far from Moscow can quickly blow back at home. 
  <p class="updated_time"> 02:38 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60805271?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky tells Moscow 'it's time to talk'</a> BBC: The Ukrainian president's appeal comes as fierce fighting continues, 23 days after Russia launched its full-scale invasion. 
  <p class="updated_time"> 11:04 PM CT, Mar. 18 </p> 
@@ -113,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/middleeast/bashar-al-assad-syria-uae.html">Assad Visits U.A.E. in Latest Sign of Re-engagement</a> NYT: It was the long-shunned Syrian leader’s first trip to an Arab country since his nation’s civil war erupted in 2011. 
  <p class="updated_time"> 09:31 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
- <p class="updated_time"> 08:01 PM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087631248/world-happiness-report-finland-pandemic-america-us">Americans got a bit happier last year, but they've still got nothing on the Finns</a> NPR: The latest World Happiness report finds Scandinavian countries once again dominating the top of the rankings, while the U.S. climbed from 19th to 16th. 
  <p class="updated_time"> 07:32 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-60798352?at_medium=RSS&at_campaign=KARANGA">Ukraine: What have been Russia's military mistakes?</a> BBC: Senior Western defence and intelligence experts outline the battlefield errors made by Moscow. 
  <p class="updated_time"> 07:20 PM CT, Mar. 18 </p> 
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/us/politics/military-mental-health.html">A General Fights to Destigmatize Mental Health Issues: ‘There’s a Shame if You Show Weakness’</a> NYT: The military has struggled to meet the mental health needs of troops, lawmakers and service members say. 
  <p class="updated_time"> 02:37 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/us-ukraine-russia-escalation.html">For the U.S., a Tenuous Balance in Confronting Russia</a> NYT: Navigating between aiding Ukraine and avoiding an escalation with Moscow has led to a tangle of decisions and sometimes tortured distinctions over weapons and other elements of policy. 
  <p class="updated_time"> 01:29 PM CT, Mar. 19 </p> 
@@ -220,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/us/politics/trucker-convoy-protest.html">Trucker Protest Moved by More Than Opposition to Covid Mandates</a> NYT: The demonstrators camped outside Washington are rallying against Covid restrictions, but are fueled by a far broader set of right-wing grievances. 
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/becerra-health-pandemic-biden.html">One Year In, Biden’s Health Secretary Seeks a Reboot</a> NYT: A lawyer by training, Xavier Becerra helped draft the Affordable Care Act as a congressman, but he is not steeped in infectious disease. His tenure will be defined by how he handles the fallout from Covid-19. 
- <p class="updated_time"> 10:38 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/2022/03/19/us/politics/military-mental-health.html">A General Fights to Destigmatize Mental Health Issues: ‘There’s a Shame if You Show Weakness’</a> NYT: The military has struggled to meet the mental health needs of troops, lawmakers and service members say. 
  <p class="updated_time"> 08:42 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/19/congress-loses-an-alaskan-titan-00018684"> Congress loses an Alaskan titan</a> Politico Playbook: And President Joe Biden warns China of aiding Russia. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
