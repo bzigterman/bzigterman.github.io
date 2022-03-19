@@ -9,24 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:10 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 11:48 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Fighting Moves Into Center of Mariupol; War Displaces 1 in 5 Ukrainians</a> NYT: After weeks of Russian troops’ encircling and shelling the strategic coastal city, tank battles raged on its city streets on Saturday. In eastern and southern Ukraine, millions have fled or are cut off from humanitarian aid. 
+ <p class="updated_time"> 11:38 AM CT, Mar. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60804949?at_medium=RSS&at_campaign=KARANGA">Russians board International Space Station in Ukrainian colours</a> BBC: Three cosmonauts ditch the standard-issue Russian uniforms in an apparent show of solidarity. 
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/polio-africa-covid-vaccinations.html">Malawi and 4 Nearby Countries to Begin Polio Vaccination Drives</a> NYT: The spread of the coronavirus interrupted routine childhood vaccinations globally, opening a door to diseases and compounding the health challenges on the African continent. 
  <p class="updated_time"> 10:49 AM CT, Mar. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60807636?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Scores feared dead after Russia attack on Mykolaiv barracks</a> BBC: A source tells the BBC's Andrew Harding in Mykolaiv that up to 200 soldiers were in when missiles hit. 
- <p class="updated_time"> 10:48 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/2022/03/19/world/europe/fighting-rages-in-mariupol-as-russian-forces-make-gains.html">Fighting Rages in Mariupol, as Russian Forces Make Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city, while Russia hammered military targets around the country. 
- <p class="updated_time"> 10:18 AM CT, Mar. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60807636?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Scores feared dead after Russia attack on Mykolaiv barracks</a> BBC: A source tells the BBC's Andrew Harding in Mykolaiv that up to 200 soldiers were in when missiles struck. 
+ <p class="updated_time"> 10:49 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
+ <p class="updated_time"> 10:48 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/europe/mariupol-russia-ukraine-war.html">Fighting Rages in Mariupol, as Russian Forces Make Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city, while Russia hammered military targets around the country. 
  <p class="updated_time"> 10:12 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/health/covid-ba2-surge-variant.html">Another Covid Surge May Be Coming. Are We Ready for It?</a> NYT: “We’ve been wearing rose-colored glasses instead of correcting our vision,” one scientist said. 
+ <p class="updated_time"> 09:49 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 09:37 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/putin-zelensky-turkey.html">Putin Isn’t Yet Ready for Talks With Zelensky, Turkish Official Says</a> NYT: Turkey is trying to mediate between Ukraine and Russia and bring an end to the war. But a senior Turkish official said that Russia was in no hurry. 
- <p class="updated_time"> 09:35 AM CT, Mar. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60804949?at_medium=RSS&at_campaign=KARANGA">Russians board International Space Station in Ukrainian colours</a> BBC: Three cosmonauts ditch the standard-issue Russian uniforms in an apparent show of solidarity. 
- <p class="updated_time"> 09:18 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 09:16 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60807896?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Man rescued from Kharkiv rubble after shelling</a> BBC: A man is pulled alive from the rubble of a teaching building in Ukraine, after Russian shelling. 
  <p class="updated_time"> 09:08 AM CT, Mar. 19 </p> 
@@ -35,18 +35,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
  <p class="updated_time"> 08:56 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
+ <p class="updated_time"> 08:49 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 08:43 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60806973?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Tanks in streets' as fighting hits Mariupol centre</a> BBC: Street fighting hampers efforts to rescue civilians trapped in a bombed theatre, the mayor says. 
- <p class="updated_time"> 08:18 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 08:13 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/france-algeria-macron-election-far-right.html">Shadows of Algerian War Loom Over Election Campaign in France</a> NYT: As President Emmanuel Macron addresses his country’s colonial history, echoes of that past have pervaded the messaging of right-wing candidates ahead of the voting in April. 
+ <p class="updated_time"> 07:49 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 07:43 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
  <p class="updated_time"> 07:31 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087265230/4-reasons-why-social-media-can-give-a-skewed-account-of-the-war-in-ukraine">4 reasons why social media can give a skewed account of the war in Ukraine</a> NPR: Images of Ukraine are flooding social media, but experts warn they don't show the full picture and can sometimes give a misleading account of the conflict on the ground. 
- <p class="updated_time"> 07:18 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 07:03 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087698677/halyna-hutchins-family-ukraine">Halyna Hutchins' parents are trapped in Ukraine, Matt Hutchins says</a> NPR: Months after the Rust cinematographer was shot and killed, Halyna Hutchins' mother and father have been unable to escape the country, says her widower, who calls for safe corridors for refugees. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
@@ -67,7 +67,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087713293/us-troops-dead-osprey-crash-marines-norway">4 U.S. Marines are killed in an aircraft crash during a NATO exercise in Norway </a> NPR: The Marines were killed in the crash of a V-22B Osprey aircraft during a NATO exercise unrelated to the Ukraine war, officials said. 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">4 U.S. Marines Killed in Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
- <p class="updated_time"> 06:18 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 06:49 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/mainland-china-reports-first-coronavirus-deaths-in-more-than-a-year-as-omicron-spreads-11647697704">Mainland China Reports First Coronavirus Deaths in More Than a Year</a> WSJ: Mainland China Reports First Coronavirus Deaths in More Than a Year 
  <p class="updated_time"> 05:24 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">Ex-UK PMs back global investigation into Putin</a> BBC: Gordon Brown and Sir John Major join calls for an international tribunal to investigate Russia. 
@@ -210,10 +210,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:41 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/us/politics/trucker-convoy-protest.html">Trucker Protest Moved by More Than Opposition to Covid Mandates</a> NYT: The demonstrators camped outside Washington are rallying against Covid restrictions, but are fueled by a far broader set of right-wing grievances. 
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/becerra-health-pandemic-biden.html">One Year In, Biden’s Health Secretary Seeks a Reboot</a> NYT: A lawyer by training, Xavier Becerra helped draft the Affordable Care Act as a congressman, but he is not steeped in infectious disease. His tenure will be defined by how he handles the fallout from Covid-19. 
- <p class="updated_time"> 11:00 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/2022/03/19/us/politics/trucker-convoy-protest.html">Trucker Protest Moved by More Than Opposition to Covid Mandates</a> NYT: The demonstrators camped outside Washington are rallying against Covid restrictions, but fueled by a far broader set of right-wing grievances. 
  <p class="updated_time"> 10:47 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/us-ukraine-russia-escalation.html">For the U.S., a Tenuous Balance in Confronting Russia</a> NYT: Navigating between aiding Ukraine and avoiding an escalation with Moscow has led to a tangle of decisions and sometimes tortured distinctions over weapons and other elements of policy. 
  <p class="updated_time"> 10:38 AM CT, Mar. 19 </p> 
@@ -350,8 +350,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/17/victor-fazio-california-dies-00018053">Former Rep. Victor Fazio of California dies at 79</a> Politico: "He worked to make our country a better place with his civility and ability to find common ground," Rep. Doris Matsui said of him. 
  <p class="updated_time"> 02:41 PM CT, Mar. 16 </p> 
  <a href="https://www.politico.com/news/2022/03/16/republicans-out-hawk-biden-ukraine-aid-00017831">Republicans try to out-hawk Biden on Ukraine aid</a> Politico: It's a GOP message that carries some real baggage. But from leaders to rank-and-file, the party is pushing Biden to do more against Russia. 
- <p class="updated_time"> 11:38 AM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/16/zelenskyy-congress-speech-video-four-takeaways-00017748">4 things Zelenskyy just told Congress that could impact Russia’s war on Ukraine</a> Politico: Most lawmakers acknowledge that America can and should be doing more. Zelenskyy’s Wednesday speech could spur action to help Ukrainian forces defend their country. 
 
 
 </details>
