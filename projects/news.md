@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:13 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: War Displaces 1 in 5 Ukrainians; Fighting Moves Into Center of Mariupol</a> NYT: After weeks of Russian troops’ encircling and shelling the strategic coastal city, tank battles raged on its city streets on Saturday. In eastern and southern Ukraine, millions have fled or are cut off from humanitarian aid. 
+ <p class="updated_time"> 07:44 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Fighting Moves Into Center of Mariupol; War Displaces 1 in 5 Ukrainians</a> NYT: After weeks of Russian troops’ encircling and shelling the strategic coastal city, tank battles raged on its city streets on Saturday. In eastern and southern Ukraine, millions have fled or are cut off from humanitarian aid. 
+ <p class="updated_time"> 07:43 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
+ <p class="updated_time"> 07:31 AM CT, Mar. 19 </p> 
+ <a href="https://www.npr.org/2022/03/19/1087265230/4-reasons-why-social-media-can-give-a-skewed-account-of-the-war-in-ukraine">4 reasons why social media can give a skewed account of the war in Ukraine</a> NPR: Images of Ukraine are flooding social media, but experts warn they don't show the full picture and can sometimes give a misleading account of the conflict on the ground. 
  <p class="updated_time"> 07:03 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087698677/halyna-hutchins-family-ukraine">Halyna Hutchins' parents are trapped in Ukraine, Matt Hutchins says</a> NPR: Months after the Rust cinematographer was shot and killed, Halyna Hutchins' mother and father have been unable to escape the country, says her widower, who calls for safe corridors for refugees. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
@@ -25,24 +29,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087712525/crowds-of-people-are-trying-to-leave-ukraine-as-russia-invades-from-all-sides">Crowds of people are trying to leave Ukraine as Russia invades from all sides</a> NPR: Russia claims to have hit a weapons depot in Ukraine's west, and Ukrainians continue to seek refuge in other parts of their country, as well as neighboring countries. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087579496/with-small-portable-weapons-ukraines-fighters-keep-russia-at-bay">With small, portable weapons, Ukraine's fighters keep Russia at bay</a> NPR: Ukraine is outgunned by Russia, but is making the most of its mobile weapons that allow Ukrainian troops to be more nimble. Some of the most important weapons are from the United States. 
+ <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/03/19/1087533721/marcus-yam-ukraine-photos">A photojournalist in Ukraine heads toward deadly conflict to humanize war</a> NPR: The deaths of three journalists this week in Ukraine are a reminder of the perils of covering conflicts from behind a camera. Photojournalist Marcus Yam is on assignment in Kyiv covering the war. 
+ <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087713293/us-troops-dead-osprey-crash-marines-norway">4 U.S. service members are killed in a plane crash during a NATO exercise in Norway </a> NPR: Four U.S. service members were killed in the crash of a U.S. Marine Corps V-22B Osprey aircraft during a NATO exercise unrelated to the Ukraine war, officials said. 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">4 U.S. Marines Killed in Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
- <p class="updated_time"> 06:17 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 06:13 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60804949?at_medium=RSS&at_campaign=KARANGA">Russians board International Space Station in Ukrainian colours</a> BBC: Three cosmonauts ditch the standard-issue Russian uniforms in an apparent show of solidarity. 
+ <p class="updated_time"> 05:50 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:24 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">Ex-UK PMs back global investigation into Putin</a> BBC: Gordon Brown and Sir John Major join calls for an international tribunal to investigate Russia. 
- <p class="updated_time"> 05:17 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1086418613/in-thailand-the-pandemic-helped-a-famous-beach-recover-from-an-onslaught-of-tour">In Thailand, the pandemic helped a famous beach recover from an onslaught of tourists</a> NPR: The Leonardo DiCaprio film The Beach helped put Maya Bay on the "must see" list of every visitor to Thailand. But that proved too much for its delicate ecosystem. The pandemic helped change that. 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/zelensky-canada-parliament-ukraine-war.html">Zelensky Pleads to Parliament for More Help. What Can Canada Offer?</a> NYT: The address by President Volodymyr Zelensky of Ukraine was also a reminder that Canada might indirectly benefit from the crisis. 
- <p class="updated_time"> 04:17 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 04:50 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Ukraine Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Ukraine Invasion 
+ <p class="updated_time"> 04:01 AM CT, Mar. 19 </p> 
+ <a href="https://www.npr.org/2022/03/19/1087546623/zelenskyys-plea-to-congress-recalls-churchill-and-others-who-fought-for-democrac">Zelenskyy's plea to Congress recalls Churchill and others who fought for democracy</a> NPR: Other addresses to Congress by foreign leaders have paled compared to Winston Churchill welding with his words the alliance that overcame Adolph Hitler, until Volodymyr Zelenskyy's this week. 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
@@ -51,14 +59,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/travel/tour-guide-conflict.html">Can Travel Be a Force for Peace? This Tour Leader Thinks So.</a> NYT: ‘We tend to think of travel in terms of distance, but I think travel is really a lifestyle, a state of mind,’ says Aziz Abu Sarah of Mejdi Tours, which explores both sides of longstanding conflicts in places like Belfast and Jerusalem. 
+ <p class="updated_time"> 03:50 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 03:32 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60804943?at_medium=RSS&at_campaign=KARANGA">Four dead after US military plane crashes in Norway</a> BBC: All four passengers are killed in the accident, which involved a US Marine Corps aircraft. 
- <p class="updated_time"> 03:17 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
+ <p class="updated_time"> 02:50 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/brazil-supreme-court-justice-orders-suspension-of-telegram-over-disinformation-campaigns-11647645567">Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns</a> WSJ: Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns 
  <p class="updated_time"> 02:38 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60805271?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky tells Moscow 'it's time to talk'</a> BBC: The Ukrainian president's appeal comes as fierce fighting continues, 23 days after Russia launched its full-scale invasion. 
- <p class="updated_time"> 02:17 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/brazil-supreme-court-justice-orders-suspension-of-telegram-over-disinformation-campaigns-11647645567">Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns</a> WSJ: Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns 
  <p class="updated_time"> 12:17 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60804051?at_medium=RSS&at_campaign=KARANGA">Lupin: Seven charged over armed heist on Paris filming set</a> BBC: Around 20 hooded attackers used fireworks to steal €300,000 worth of equipment from the crew. 
  <p class="updated_time"> 11:04 PM CT, Mar. 18 </p> 
@@ -105,12 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60794423?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Talking to a Ukrainian mother and her child who fled to Poland</a> BBC: Krystyna Tynkalyuk is trying to explain to her three-year-old why they can't go back home to see her father. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:38 PM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087597316/gas-prices-oil-consumption-iea">With gas prices soaring over the Ukraine war, here's a plan to cut oil consumption</a> NPR: From cutting highway speed limits to launching car-free Sundays in big cities, the International Energy Agency proposes to cut the demand for oil by as much as 2.7 million barrels per day. 
- <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087617018/how-much-influence-do-russian-oligarchs-really-have-on-putin">How much influence do Russian oligarchs really have on Putin?</a> NPR: Sanctions imposed on Russia have targeted some of its wealthiest individuals, its oligarchs, for their ties to President Vladimir Putin. In reality, this group has varying degrees of influence. 
- <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087616997/deputy-secretary-of-state-sherman-on-ukraine-latest-and-talks-between-china-and-">Deputy Secretary of State Sherman on Ukraine latest and talks between China and U.S.</a> NPR: NPR's Mary Louise Kelly talks with Deputy Secretary of State Wendy Sherman about diplomatic efforts in the war in Ukraine and U.S. aid to the country. 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As diplomacy drags on, peace seems far off in Ukraine.</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
  <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
@@ -163,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
  <p class="updated_time"> 09:58 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/middleeast/ukraine-russia-egypt-tourists.html">War Strands Ukrainian and Russian Tourists Together in Egyptian Resorts</a> NYT: The tension in hotels and on Red Sea beaches is palpable, though there are also moments of compassion. 
- <p class="updated_time"> 09:36 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/war-russia-china-putin-support.html">In Some Parts of the World, the War in Ukraine Seems Justified</a> NYT: In countries friendly toward Russia, people are troubled by the war and loss of life, but some say they think that Putin has a point. 
  <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
  <p class="updated_time"> 09:06 PM CT, Mar. 17 </p> 
@@ -219,11 +219,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/native-american-tribes-new-york-cannabis-00016488">New York cannabis regulations are in limbo. But the pot industry is booming on reservations.</a> Politico: There are questions about how the tribes are procuring the marijuana, how it may ultimately be regulated and whether the may have reach a compact with New York to tax sales. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
- <a href="https://www.politico.com/news/2022/03/19/covid-closed-rural-hospitals-tennessee-deaths-anti-vax-conspiracies-00018204">Public health disaster: Shuttered hospitals fuel Covid deaths, anti-vax conspiracies</a> Politico: A POLITICO analysis shows about half of the counties — all rural — with the highest per-capita deaths are within 40 miles of a hospital that closed. 
+ <a href="https://www.politico.com/news/2022/03/19/covid-closed-rural-hospitals-tennessee-deaths-anti-vax-conspiracies-00018204">The South’s health care system is crumbling under Covid-19. Enter Tennessee.</a> Politico: The state is a poster child for how rural areas are suffering disproportionately amid the pandemic in the worst public health crisis in a century. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/biden-export-control-nominee-stalled-00018003">Biden’s war on the Russian economy is missing a key player</a> Politico: The Senate has yet to confirm the administration's pick for Commerce undersecretary overseeing implementation of U.S. export controls. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
- <a href="https://www.politico.com/news/2022/03/19/travel-abortion-law-missouri-00018539">Travel for abortion is surging. Some states want to stop it.</a> Politico: The first-of-its-kind proposal from Missouri lawmakers would allow private citizens to sue anyone who helps a Missouri resident have an abortion. 
+ <a href="https://www.politico.com/news/2022/03/19/travel-abortion-law-missouri-00018539">Missouri wants to stop out-of-state abortions. Other states could follow.</a> Politico: The first-of-its-kind proposal from Missouri lawmakers would allow private citizens to sue anyone who helps a Missouri resident have an abortion. 
  <p class="updated_time"> 04:02 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html">How Candidates Are Using TikTok to Secure Younger Voters</a> NYT: Is the app the next frontier of political campaigning or just another place to burnish one’s image? 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
