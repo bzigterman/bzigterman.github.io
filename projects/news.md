@@ -9,26 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:43 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Tells Xi There Would Be Consequences to Helping Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. And in hard-hit Mariupol, 130 people were rescued from a theater nearly flattened in a Russian attack, but hundreds were still feared trapped. 
+ <p class="updated_time"> 07:21 PM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Warns Chinese Leader Not to Help Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. Aid groups say they are seeing signs of human traffickers targeting Ukrainian refugees. 
+ <p class="updated_time"> 07:05 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60798650?at_medium=RSS&at_campaign=KARANGA">Ukraine war: From wedding dresses to camouflage capes</a> BBC: A group of Ukrainian seamstresses who fled the war are helping by making camouflage capes for soldiers. 
+ <p class="updated_time"> 07:04 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60792822?at_medium=RSS&at_campaign=KARANGA">Hong Kong: 'My employer kicked me out because I caught Covid'</a> BBC: 'Lenlen' is one of several foreign domestic workers made homeless amid Hong Kong's Covid wave. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60785620?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Jewish children airlifted to Israel</a> BBC: In Israel, some 90 Ukrainian children have been dressing up for the joyful Jewish holiday of Purim. 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087670948/biden-tells-chinas-xi-of-the-implications-of-assisting-russia-in-call-official-s">Biden tells China's Xi of the implications of assisting Russia in call, official says</a> NPR: A White House official declined to lay out the specifics of any potential U.S. response, but said that Biden was "detailed" and "direct" with the Chinese leader. 
+ <p class="updated_time"> 06:23 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
+ <p class="updated_time"> 06:06 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60799659?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: America is learning the art of humility</a> BBC: Forget shock and awe, this is an era of caution for a superpower using diplomacy not military force. 
  <p class="updated_time"> 06:00 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/biden-xi-russia-china.html">Biden Warns China of ‘Consequences’ if It Aids Russian War</a> NYT: President Biden told China’s leader, Xi Jinping, there would be consequences if Beijing gave material support to Russia, implying that the United States could impose sanctions on China. 
- <p class="updated_time"> 05:49 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 05:48 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/americas/brazil-bans-telegram.html">Brazil Bans Telegram Over Disinformation Concerns</a> NYT: The Brazilian Supreme Court has vowed to fight disinformation ahead of this year’s presidential elections. Banning the popular messaging app is its most drastic step yet. 
+ <p class="updated_time"> 05:23 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 05:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-ukraine-china-biden.html">Russia Targets Western Ukraine as Biden Warns Xi Not to Aid Moscow</a> NYT: A scramble of diplomatic efforts bears little fruit as Russia intensifies its attacks, including with a bombardment into a relatively unscathed part of western Ukraine. 
  <p class="updated_time"> 05:01 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 05:01 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60802801?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Empty prams lined up in Lviv for children killed in war</a> BBC: Each of the 109 prams in Lviv are a tribute to the number of children who have died in the war so far. 
- <p class="updated_time"> 04:49 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 04:45 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
+ <p class="updated_time"> 04:23 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 04:09 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
  <p class="updated_time"> 04:02 PM CT, Mar. 18 </p> 
@@ -37,10 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60794423?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Talking to a Ukrainian mother and her child who fled to Poland</a> BBC: Krystyna Tynkalyuk is trying to explain to her three-year-old why they can't go back home to see her father. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:49 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
  <p class="updated_time"> 03:38 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087597316/gas-prices-oil-consumption-iea">With gas prices soaring over the Ukraine war, here's a plan to cut oil consumption</a> NPR: From cutting highway speed limits to launching car-free Sundays in big cities, the International Energy Agency proposes to cut the demand for oil by as much as 2.7 million barrels per day. 
+ <p class="updated_time"> 03:23 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087617018/how-much-influence-do-russian-oligarchs-really-have-on-putin">How much influence do Russian oligarchs really have on Putin?</a> NPR: Sanctions imposed on Russia have targeted some of its wealthiest individuals, its oligarchs, for their ties to President Vladimir Putin. In reality, this group has varying degrees of influence. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
@@ -51,12 +61,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616976/russia-strikes-targets-in-kyiv-as-mariupol-theater-rescue-efforts-continue">Russia strikes targets in Kyiv as Mariupol theater rescue efforts continue</a> NPR: A fourth day of peace negotiations ended with no breakthrough. Ukraine's president said workers continued rescue efforts at the Mariupol theater where scores of civilians were sheltering. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087616923/refugees-from-other-wars-see-themselves-in-fleeing-ukrainians">Refugees from other wars see themselves in fleeing Ukrainians</a> NPR: NPR's Mary Louise Kelly talks with people about the experience of being a refugee, how fleeing their home country has affected their life and what life is like now. 
- <p class="updated_time"> 02:49 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
+ <p class="updated_time"> 02:23 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 01:59 PM CT, Mar. 18 </p> 
  <a href="https://www.wsj.com/articles/syrias-assad-makes-surprise-visit-to-the-u-a-e-as-arab-ties-warm-11647641366">Syria's Assad Makes Surprise Visit to the U.A.E.</a> WSJ: It was the Syrian president’s first trip to an Arab country since launching a brutal crackdown on opponents that plunged the country into civil war 11 years ago. 
- <p class="updated_time"> 01:49 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As diplomacy drags on, peace seems far off in Ukraine.</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
  <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
@@ -93,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-ukraine.html">Russia’s military progress slows, but it makes gains in the south and east.</a> NYT: Britain’s defense intelligence service said that Russian forces had “made minimal progress this week.” 
  <p class="updated_time"> 09:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
- <p class="updated_time"> 08:41 AM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60791892?at_medium=RSS&at_campaign=KARANGA">Thousands gather at Moscow rally to celebrate annexation of Crimea</a> BBC: Moscow's Luzhniki stadium hosts a rally to celebrate the annexation of Crimea, eight years ago. 
  <p class="updated_time"> 08:09 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60794809?at_medium=RSS&at_campaign=KARANGA">Ukraine: Arnold Schwarzenegger's anti-war video trends on Russian social media</a> BBC: In the video the actor warns Russians they are being fed misinformation over the Ukraine war. 
  <p class="updated_time"> 08:02 AM CT, Mar. 18 </p> 
@@ -105,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/russia-ukraine-queer-activists.html">LGBTQ Activists in Ukraine Share the Fight Against Russia’s Invasion</a> NYT: A pro-Russian puppet government would be less supportive of gay rights, the activists say, and incidents of discrimination would be likely to rise, as they have in Russian-backed separatist regions. 
  <p class="updated_time"> 06:28 AM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60506682?at_medium=RSS&at_campaign=KARANGA">Ukraine war in maps: Tracking the Russian invasion</a> BBC: Russian advances grind to a halt in many areas as Ukrainian forces launch counterattacks - but fighting is ongoing in Mariupol. 
- <p class="updated_time"> 06:17 AM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60791890?at_medium=RSS&at_campaign=KARANGA">Russia Today: Amol Rajan explains Ofcom's licence decision</a> BBC: Regulator Ofcom said Russia Today was not "fit and proper to hold a UK broadcasting licence". 
  <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
@@ -143,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60744216?at_medium=RSS&at_campaign=KARANGA">How Poland's business community is helping Ukrainians</a> BBC: Small and medium sized firms, including recruiters, are organising support for arriving refugees. 
  <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
- <p class="updated_time"> 08:12 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60777278?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 11-17 March 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 08:02 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/worlds-largest-potato-doug.html">Is This the World’s Largest Potato? </a> NYT: A couple in New Zealand found a giant growth in their garden, named it Doug and applied to Guinness World Records. Then the results of a DNA analysis came in. 
  <p class="updated_time"> 07:54 PM CT, Mar. 17 </p> 
@@ -153,12 +155,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60781625?at_medium=RSS&at_campaign=KARANGA">Airline giant Delta warns oil increases mean higher ticket prices</a> BBC: The jump in oil prices since Russia invaded Ukraine is set to lead to higher airfares. 
  <p class="updated_time"> 07:22 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60737248?at_medium=RSS&at_campaign=KARANGA">Ukraine's restaurants rally to the war effort</a> BBC: From chefs to suppliers, the country's food industry is pulling together to feed the population at war. 
- <p class="updated_time"> 06:52 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60785791?at_medium=RSS&at_campaign=KARANGA">Ukraine: Elegant Odesa is transformed by efforts to deter Russians</a> BBC: As Russian warships circle off the coast, Odesans face a difficult decision on whether to leave. 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/house-russia-trade-status.html">House Votes to Suspend Normal Trade Relations With Russia</a> NYT: The bill, which still needs Senate approval, is the latest in a series of measures that lawmakers have passed to support Ukraine and punish Russia for its invasion. 
- <p class="updated_time"> 04:45 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60758401?at_medium=RSS&at_campaign=KARANGA">Covid-19: Is the world ready for a great reopening?</a> BBC: We asked our journalists around the world to give us a snapshot of life two years into the pandemic. 
  <p class="updated_time"> 04:14 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/micheal-martin-irish-pm-covid-positive.html">Biden Cancels In-Person Meetings with Micheal Martin, Who Tested Positive</a> NYT: The prime minister’s test result came amid a burst of infections among public officials in Washington in recent days. 
  <p class="updated_time"> 03:48 PM CT, Mar. 17 </p> 
@@ -167,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/climate/spring-drought-forecast-noaa.html">NOAA Expects Drought Conditions to Persist Through the Spring</a> NYT: Winter precipitation amounts were not enough to significantly improve conditions in much of the country, government scientists said. 
  <p class="updated_time"> 02:32 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/arnold-schwarzenegger-video-putin.html">Arnold Schwarzenegger Tapes Video to Russia, Telling Putin: ‘Stop This War’</a> NYT: The movie star and former governor of California addressed Russians and Russian soldiers, saying, “ “your lives, your limbs, your futures are being sacrificed for a senseless war.” 
- <p class="updated_time"> 01:32 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-60786964?at_medium=RSS&at_campaign=KARANGA">Ukraine: The troops holding the front line as Russia pounds Kharkiv</a> BBC: BBC's Quentin Sommerville reports from alongside the troops defending Ukraine's second city. 
  <p class="updated_time"> 01:30 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/europe-countries-refugees-embrace-ukrainians.html">Countries Previously Hostile to Refugees Embrace Ukrainians</a> NYT: While the warm welcome has been applauded, some human rights advocates point to a humanitarian double standard when it comes to refugees from the Middle East and Africa. 
  <p class="updated_time"> 01:07 PM CT, Mar. 17 </p> 
@@ -189,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/asia/coronavirus-south-korea.html">In South Korea, a Spike in Covid Cases Meets a Collective Shrug</a> NYT: A country that once had one of the world’s most aggressive coronavirus policies is opting to learn to live with the virus, even in the face of a soaring infection rate. 
  <p class="updated_time"> 07:25 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/16/world/europe/biden-putin-russia-us-ukraine.html">Biden Calls Putin ‘War Criminal’ in Verbal Escalation With Russia</a> NYT: The U.S. president’s unscripted remarks echoed comments other American officials have made recently. 
- <p class="updated_time"> 05:11 AM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-56376852?at_medium=RSS&at_campaign=KARANGA">How is a UK debt to Iran connected to Nazanin Zaghari-Ratcliffe?</a> BBC: The UK has repaid money owed to Iran for a military deal never fulfilled. 
  <p class="updated_time"> 04:51 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-unesco-body-armor-journalists.html">UNESCO Will Send Body Armor to Ukrainian Journalists</a> NYT: The U.N. agency said thousands of Ukrainian journalists with no protective equipment or training were now covering the war. At least four journalists have been killed. 
  <p class="updated_time"> 11:37 PM CT, Mar. 16 </p> 
@@ -206,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 PM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/biden-gop-energy-gas-oil-prices-00017486">'Groundhog Day': Biden, GOP revive decades-old energy fight</a> Politico: Biden administration officials and Republicans are using old talking points on energy. Here's why it matters. 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087670948/biden-tells-chinas-xi-of-the-implications-of-assisting-russia-in-call-official-s">Biden tells China's Xi of the implications of assisting Russia in call, official says</a> NPR: A White House official declined to lay out the specifics of any potential U.S. response, but said that Biden was "detailed" and "direct" with the Chinese leader. 
  <p class="updated_time"> 06:32 PM CT, Mar. 18 </p> 
@@ -227,7 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:00 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/student-loan-payments-debt-biden-00018586">Dems fret Biden’s inaction on student debt will burn in midterms</a> Politico: Youth turnout could be diminished if Gen Z and Millennials don't see executive action on student loans. 
  <p class="updated_time"> 04:22 PM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/bidens-call-with-xi-bilateral-deadlock-00018622">Biden’s call with Xi underscores deepening bilateral deadlock</a> Politico: Xi unyielding on Ukraine, continues to blame conflict on U.S. 
+ <a href="https://www.politico.com/news/2022/03/18/bidens-call-with-xi-bilateral-deadlock-00018622">Biden’s call with Xi underscores deepening bilateral deadlock</a> Politico: The lack of any substantive results from the discussion calls into question whether the two leaders’ personal relationship can bridge deep differences in their positions. 
  <p class="updated_time"> 03:57 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Mar. 18 </p> 
@@ -300,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/17/1087394763/new-jersey-democrats-may-want-to-knock-iowa-off-the-top-of-the-presidential-cale">New Jersey Democrats may want to knock Iowa off the top of the presidential calendar</a> NPR: As Democrats consider selecting new states to go first in the presidential primary calendar, New Jersey pitches itself as a sensible choice. 
  <p class="updated_time"> 07:43 PM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/white-house-bidens-covid-scares-00018384">White House sticking to Biden's testing protocol despite Covid scares</a> Politico: Reporters questioned the president's press secretary after second gentleman Doug Emhoff’s positive test and then Irish Prime Minister Micheál Martin’s Covid case. 
- <p class="updated_time"> 06:14 PM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/influencers-ukrainian-pr-machine-00018299">The influencers behind the Ukrainian PR machine</a> Politico: Lobbyists, lawyers and public relations pros have blitzed Capitol Hill and the media to push Ukraine aid. 
  <p class="updated_time"> 06:10 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/house-russia-trade-status.html">House Votes to Suspend Normal Trade Relations With Russia</a> NYT: The bill, which still needs Senate approval, is the latest in a series of measures that lawmakers have passed to support Ukraine and punish Russia for its invasion. 
  <p class="updated_time"> 06:03 PM CT, Mar. 17 </p> 
