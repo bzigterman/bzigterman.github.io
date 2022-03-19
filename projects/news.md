@@ -13,11 +13,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">What Happened on Day 23 of Russia’s Invasion of Ukraine</a> NYT: Aid groups say they are seeing signs of human traffickers targeting Ukrainian refugees. 
  <p class="updated_time"> 05:24 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">Ex-UK PMs back global investigation into Putin</a> BBC: Gordon Brown and Sir John Major join calls for an international tribunal to investigate Russia. 
+ <p class="updated_time"> 05:13 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1086418613/in-thailand-the-pandemic-helped-a-famous-beach-recover-from-an-onslaught-of-tour">In Thailand, the pandemic helped a famous beach recover from an onslaught of tourists</a> NPR: The Leonardo DiCaprio film The Beach helped put Maya Bay on the "must see" list of every visitor to Thailand. But that proved too much for its delicate ecosystem. The pandemic helped change that. 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/zelensky-canada-parliament-ukraine-war.html">Zelensky Pleads to Parliament for More Help. What Can Canada Offer?</a> NYT: The address by President Volodymyr Zelensky of Ukraine was also a reminder that Canada might indirectly benefit from the crisis. 
- <p class="updated_time"> 04:43 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 04:13 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
@@ -27,20 +29,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/travel/tour-guide-conflict.html">Can Travel Be a Force for Peace? This Tour Leader Thinks So.</a> NYT: ‘We tend to think of travel in terms of distance, but I think travel is really a lifestyle, a state of mind,’ says Aziz Abu Sarah of Mejdi Tours, which explores both sides of longstanding conflicts in places like Belfast and Jerusalem. 
- <p class="updated_time"> 03:43 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/brazil-supreme-court-justice-orders-suspension-of-telegram-over-disinformation-campaigns-11647645567">Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns</a> WSJ: Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns 
  <p class="updated_time"> 03:32 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60804943?at_medium=RSS&at_campaign=KARANGA">Four dead after US military plane crashes in Norway</a> BBC: All four passengers are killed in the accident, which involved a US Marine Corps aircraft. 
- <p class="updated_time"> 02:43 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
+ <p class="updated_time"> 03:13 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/brazil-supreme-court-justice-orders-suspension-of-telegram-over-disinformation-campaigns-11647645567">Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns</a> WSJ: Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns 
  <p class="updated_time"> 02:38 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60805271?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky tells Moscow 'it's time to talk'</a> BBC: The Ukrainian president's appeal comes as fierce fighting continues, 23 days after Russia launched its full-scale invasion. 
- <p class="updated_time"> 01:43 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 02:13 AM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
+ <p class="updated_time"> 01:13 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
- <p class="updated_time"> 12:55 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: Russia’s bombardment of cities, towns and villages is confronting millions of Ukrainians with a painful dilemma: abandon their shattered lives and seek safety elsewhere, or cling on in the hope it passes. 
- <p class="updated_time"> 12:43 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 12:17 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60804051?at_medium=RSS&at_campaign=KARANGA">Lupin: Seven charged over armed heist on Paris filming set</a> BBC: Around 20 hooded attackers used fireworks to steal €300,000 worth of equipment from the crew. 
  <p class="updated_time"> 11:04 PM CT, Mar. 18 </p> 
@@ -143,6 +141,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
+ <p class="updated_time"> 04:38 AM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: The system has helped Tehran resist the Biden administration’s pressure to rejoin the 2015 nuclear deal, buying it time to advance its nuclear program even while negotiations were under way. 
  <p class="updated_time"> 04:12 AM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087447176/samoa-locks-down-after-recording-its-first-community-covid-19-case">Samoa locks down after recording its first community COVID-19 case </a> NPR: A 29-year-old woman tested positive for the coronavirus on Thursday during routine testing before boarding an international flight. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
+ <a href="https://www.politico.com/news/2022/03/19/covid-closed-rural-hospitals-tennessee-deaths-anti-vax-conspiracies-00018204">Public health disaster: Shuttered hospitals fuel Covid deaths, anti-vax conspiracies</a> Politico: A POLITICO analysis shows about half of the counties — all rural — with the highest per-capita deaths are within 40 miles of a hospital that closed. 
  <p class="updated_time"> 04:02 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html">How Candidates Are Using TikTok to Secure Younger Voters</a> NYT: Is the app the next frontier of political campaigning or just another place to burnish one’s image? 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
