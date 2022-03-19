@@ -9,36 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:02 AM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Warns Chinese Leader Not to Help Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. Aid groups say they are seeing signs of human traffickers targeting Ukrainian refugees. 
+ <p class="updated_time"> 11:39 PM CT, Mar. 18 </p> 
+ <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
+ <p class="updated_time"> 11:09 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 11:04 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/climate/global-energy-crisis-conserve.html">Amid War in Ukraine, I.E.A. Warns Nations of Global Energy Crisis</a> NYT: The International Energy Agency said countries should encourage use of mass transit and car pooling, among other things. That could also help the climate crisis. 
- <p class="updated_time"> 11:00 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/03/18/world/ukraine-russia-war">Live Updates: Biden Warns Chinese Leader Not to Help Russia</a> NYT: Russia broadened its offensive with a missile attack in Lviv, where Ukrainians had sought safety from the war. Aid groups say they are seeing signs of human traffickers targeting Ukrainian refugees. 
- <p class="updated_time"> 10:32 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-missiles-hit-aircraft-facility-in-western-ukraine-11647600764">Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike</a> WSJ: Survivors Emerge From Ukrainian Theater Bombed in Russian Airstrike 
  <p class="updated_time"> 10:16 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60804050?at_medium=RSS&at_campaign=KARANGA">Assad: Syria's leader makes historic visit to UAE</a> BBC: It marks Bashar al-Assad's first visit to an Arab country since the Syrian civil war began in 2011. 
+ <p class="updated_time"> 10:09 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/brazil-supreme-court-justice-orders-suspension-of-telegram-over-disinformation-campaigns-11647645567">Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns</a> WSJ: Brazilian Justice Orders Suspension of Telegram Over Disinformation Campaigns 
  <p class="updated_time"> 09:55 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/americas/brazil-bans-telegram.html">Brazil Bans Telegram Over Disinformation Concerns</a> NYT: The Brazilian Supreme Court has vowed to fight disinformation ahead of this year’s presidential elections. Banning the popular messaging app is its most drastic step yet. 
  <p class="updated_time"> 09:46 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/middleeast/bashar-al-assad-syria-uae.html">Assad Visits U.A.E. in Latest Sign of Re-engagement</a> NYT: It was the long-shunned Syrian leader’s first trip to an Arab country since his nation’s civil war erupted in 2011. 
- <p class="updated_time"> 09:32 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
  <p class="updated_time"> 09:31 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 09:27 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">EX-UK PMs call for Nuremberg-style trial for Putin</a> BBC: Gordon Brown and Sir John Major join calls for a new international tribunal to investigate Russia's actions. 
- <p class="updated_time"> 08:32 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/abramovich-putin-russia-sanctions-ukraine-war-11647613549">Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions</a> WSJ: Russian Oligarch Roman Abramovich Races to Outpace Western Sanctions 
+ <p class="updated_time"> 09:09 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/putin-vows-to-press-on-with-invasion-at-moscow-rally-as-ukraine-assault-stalls-11647629313">Putin Vows to Press On With Ukraine Invasion at Moscow Rally</a> WSJ: Putin Vows to Press On With Ukraine Invasion at Moscow Rally 
+ <p class="updated_time"> 08:09 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 08:01 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087631248/world-happiness-report-finland-pandemic-america-us">Americans got a bit happier last year, but they've still got nothing on the Finns</a> NPR: The latest World Happiness report finds Scandinavian countries once again dominating the top of the rankings, while the U.S. climbed from 19th to 16th. 
- <p class="updated_time"> 07:32 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-talk-as-u-s-threatens-actions-if-china-backs-russia-in-ukraine-war-11647611124">White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine</a> WSJ: White House Says Biden Warned Xi of Consequences if Beijing Supports Russia on Ukraine 
  <p class="updated_time"> 07:20 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60739120?at_medium=RSS&at_campaign=KARANGA">Sri Lanka tests UN's patience on human rights</a> BBC: President Rajapaksa is resisting efforts to investigate alleged war crimes and improve a dismal rights record. 
  <p class="updated_time"> 07:15 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60765848?at_medium=RSS&at_campaign=KARANGA">Tanzania viewpoint: What President Samia has achieved in her first year</a> BBC: After years of authoritarian rule, there are signs of change under the country's first female leader. 
  <p class="updated_time"> 07:14 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60793320?at_medium=RSS&at_campaign=KARANGA">French elections: Putin's war gives Macron boost in presidential race</a> BBC: Russia's invasion of Ukraine has shaken up France's presidential elections, with only three weeks to go. 
+ <p class="updated_time"> 07:09 PM CT, Mar. 18 </p> 
+ <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 07:05 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60798650?at_medium=RSS&at_campaign=KARANGA">Ukraine war: From wedding dresses to camouflage capes</a> BBC: A group of Ukrainian seamstresses who fled the war are helping by making camouflage capes for soldiers. 
  <p class="updated_time"> 07:04 PM CT, Mar. 18 </p> 
@@ -47,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60785620?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Jewish children airlifted to Israel</a> BBC: In Israel, some 90 Ukrainian children have been dressing up for the joyful Jewish holiday of Purim. 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087670948/biden-tells-chinas-xi-of-the-implications-of-assisting-russia-in-call-official-s">Biden tells China's Xi of the implications of assisting Russia in call, official says</a> NPR: A White House official declined to lay out the specifics of any potential U.S. response, but said that Biden was "detailed" and "direct" with the Chinese leader. 
- <p class="updated_time"> 06:32 PM CT, Mar. 18 </p> 
- <a href="https://www.wsj.com/articles/clandestine-finance-system-helped-iran-withstand-sanctions-crush-documents-show-11647609741">Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show</a> WSJ: Clandestine Finance System Helped Iran Withstand Sanctions Crush, Documents Show 
  <p class="updated_time"> 06:06 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799659?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: America is learning the art of humility</a> BBC: Forget shock and awe, this is an era of caution for a superpower using diplomacy not military force. 
  <p class="updated_time"> 06:01 PM CT, Mar. 18 </p> 
@@ -185,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/europe/italy-police-americans-murder.html">Italian Court Reduces Sentences for 2 Americans Convicted of Killing Police Officer</a> NYT: An appeals court confirmed the homicide verdicts but commuted the life terms for both men, handing Finnegan Elder 24 years in prison and Gabriel Natale Hjorth 22. 
  <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/brittney-griner-basketball-russia-detention.html">Russian Court Extends Brittney Griner’s Detention</a> NYT: Griner, one of the world’s best basketball players, was detained on accusations that she had hashish oil in her luggage at an airport outside of Moscow a week before Russia invaded Ukraine. 
- <p class="updated_time"> 08:56 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/oxxxymiron-istanbul-concert.html">Oxxxymiron, Russian Rapper, Brings a Banned Antiwar Message to Istanbul</a> NYT: The rapper, Oxxxymiron, said proceeds from his show would go to help Ukrainian refugees. Russians at the concert denounced the war but said they felt helpless to stop it. 
  <p class="updated_time"> 08:44 AM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/asia/cambodia-trial-hun-sen.html">Cambodia Convicts 19 Opposition Politicians on ‘Incitement’ Charges</a> NYT: Critics called the trial a “witch hunt,” and the latest effort by Prime Minister Hun Sen to eliminate the last vestiges of dissenting political voices in what was already a virtually one-party state. 
  <p class="updated_time"> 07:32 AM CT, Mar. 17 </p> 
@@ -321,7 +321,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:21 PM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/i-speak-as-a-concerned-new-yorker-cuomo-says-00018225">Cuomo on his future: 'I have a lot of options open, and I'm considering them'</a> Politico: The former governor continued to stoke speculation about a potential comeback, telling reporters who swarmed him after the speech that he hasn't ruled out a return to office — or a potential run for governor. 
  <p class="updated_time"> 01:53 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/ohio-court-congress-maps.html">Ohio Supreme Court Intensifies a Redistricting Map Standoff</a> NYT: Years ago, voters created a commission to make political maps fairer. Now the State Supreme Court is blocking maps drawn by the Republican-led commission, saying nothing has changed. 
+ <a href="https://www.nytimes.com/2022/03/17/us/politics/ohio-court-congress-maps.html">In Ohio, a Standoff Over Political Maps Threatens the Next Elections</a> NYT: Years ago, voters created a commission to make political maps fairer. Now the State Supreme Court is blocking maps drawn by the Republican-led commission, saying nothing has changed. 
  <p class="updated_time"> 01:07 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/irs-russia-oligarchs-sanctions.html">Amid Invasion of Ukraine, I.R.S. Aims to Police Oligarch Sanctions</a> NYT: It wants to add agents to a 3,000-person investigations unit to help crack down on attempts by Russian oligarchs to evade sanctions. 
  <p class="updated_time"> 11:18 AM CT, Mar. 17 </p> 
