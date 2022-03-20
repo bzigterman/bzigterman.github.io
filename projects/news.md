@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 04:09 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
+ <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
+ <a href="https://www.npr.org/2022/03/20/1087777022/russia-ukraine-war-what-happened-today-march-20">Russia-Ukraine war: What happened today (March 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:34 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087782349/zelenskyy-ukraine-israel">Zelenskyy compares Russia's invasion to Holocaust in a plea to Israel for support</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke with Israeli lawmakers about his impatience with Israel as it mediates negotiations between Russia and Ukraine. 
  <p class="updated_time"> 03:33 PM CT, Mar. 20 </p> 
@@ -19,21 +21,21 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/20/1087781833/ukraine-deaths-casualties">More than 900 civilians have died in Ukraine. The true number is likely much higher</a> NPR: Many of the casualties occurred in the Donetsk and Luhansk regions in Ukraine's east, which are partially controlled by separatist rebels backed by Russia. 
  <p class="updated_time"> 03:18 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-war-kyiv.html">In Ukraine, Solidarity and Defiance Among Those Still in Kyiv</a> NYT: About two million people have stayed in Kyiv, a population galvanized by a newfound unity and its refusal to be cowed by Russian invaders. 
+ <p class="updated_time"> 03:18 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 03:13 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087781560/australia-alumina-ban-russia">Australia bans the export of aluminum ores to Russia </a> NPR: Australian officials said the restrictions, which include a ban on bauxite, is designed to curtail Russia's ability to produce aluminum — a vital ingredient in arms and munition manufacturing. 
- <p class="updated_time"> 02:58 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
- <p class="updated_time"> 01:58 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 02:18 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 01:39 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/pakistan-blasphemy-religious-violence.html">Religion-Fueled Mobs on the Rise Again in Pakistan</a> NYT: The recent lynching of a man accused of burning pages from a Quran underscored Pakistan’s leading status as a site of religious violence. 
+ <p class="updated_time"> 01:18 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 01:11 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814306?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Backlash in Russia against anti-war musicians</a> BBC: Banned from radio stations and rumoured black lists, artists against the war face a difficult moment. 
- <p class="updated_time"> 12:58 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 12:28 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/austria-indoor-mask-mandate.html">Amid rising cases, Austria hastily reintroduces an indoor mask mandate.</a> NYT: Earlier this month, Austrian officials also had announced that the nation’s general vaccine mandate would be temporarily suspended. 
- <p class="updated_time"> 11:58 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 12:18 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
@@ -42,9 +44,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:33 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
  <p class="updated_time"> 11:18 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
+ <p class="updated_time"> 11:18 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/rabbi-chaim-kanievsky-funeral.html">Revered Jewish Sage Buried in One of the Largest Gatherings in Israel’s History</a> NYT: Hundreds of thousands of Israelis shut down large parts of central Israel to attend the funeral of Rabbi Chaim Kanievsky, an influential spiritual leader. 
- <p class="updated_time"> 11:17 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: The government said the agreement would clear the way for the largest single investment in the country. 
  <p class="updated_time"> 11:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
  <p class="updated_time"> 10:59 AM CT, Mar. 20 </p> 
@@ -125,10 +127,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087748508/pope-francis-reforms-vatican-sexual-abuse">Pope Francis gives greater support for the Vatican to fight sexual abuse</a> NPR: His long-awaited reform program includes new institutional weight to efforts tight clerical sex abuse. He also envisages more decision-making roles for lay members of the Catholic Church. 
  <p class="updated_time"> 02:13 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60804949?at_medium=RSS&at_campaign=KARANGA">Russia denies cosmonauts board space station in Ukrainian colours</a> BBC: The decision to ditch standard Russian uniforms was interpreted as a show of solidarity for Ukraine. 
- <p class="updated_time"> 02:08 PM CT, Mar. 19 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/03/19/1087721436/photos-russias-invasion-of-ukraine-continues-to-bring-death-and-the-displacement">Photos: Russia's invasion of Ukraine continues to bring death and displacement </a> NPR: On the fourth week of the war over 3.2 million Ukrainians have fled the country, another 6.5 million people have been displaced within Ukraine. 
  <p class="updated_time"> 12:30 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
+ <p class="updated_time"> 12:18 PM CT, Mar. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60808973?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ballet dancer refugees shelter in Polish opera house</a> BBC: The Polish National Ballet is offering shelter to about 30 Ukrainian dancers in its opera house. 
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/polio-africa-covid-vaccinations.html">Malawi and 4 Nearby Countries to Begin Polio Vaccination Drives</a> NYT: The spread of the coronavirus interrupted routine childhood vaccinations globally, opening a door to diseases and compounding the health challenges on the African continent. 
  <p class="updated_time"> 10:49 AM CT, Mar. 19 </p> 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60793320?at_medium=RSS&at_campaign=KARANGA">French elections: Putin's war gives Macron boost in presidential race</a> BBC: Russia's invasion of Ukraine has shaken up France's presidential elections, with only three weeks to go. 
  <p class="updated_time"> 07:05 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60798650?at_medium=RSS&at_campaign=KARANGA">Ukraine war: From wedding dresses to camouflage capes</a> BBC: A group of Ukrainian seamstresses who fled the war are helping by making camouflage capes for soldiers. 
- <p class="updated_time"> 07:01 PM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-60785620?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Jewish children airlifted to Israel</a> BBC: In Israel, some 90 Ukrainian children have been dressing up for the joyful Jewish holiday of Purim. 
  <p class="updated_time"> 06:06 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799659?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: America is learning the art of humility</a> BBC: Forget shock and awe, this is an era of caution for a superpower using diplomacy not military force. 
  <p class="updated_time"> 06:01 PM CT, Mar. 18 </p> 
@@ -181,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As Diplomacy Drags On, Peace Seems Far Off in Ukraine</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
  <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/19/business/hong-kong-virus-beijing.html">Confusion and Chaos in Hong Kong as Leaders Fumble Virus Response</a> NYT: Government officials have been unable to curb an outbreak that has surpassed one million infections, leading Beijing to step up its intervention in the semiautonomous territory. 
- <p class="updated_time"> 01:03 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
  <p class="updated_time"> 12:02 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-strategy-bombing-cities.html">Russia’s Brutality in Ukraine Has Roots in Earlier Conflicts</a> NYT: Its experience in a string of wars led to the conclusion that attacking civilian populations was not only acceptable but militarily sound. 
  <p class="updated_time"> 11:26 AM CT, Mar. 18 </p> 
@@ -220,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 PM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/mitch-mcconnell-ketanji-brown-jackson-supreme-court-00018744">McConnell says he hasn't decided how he'll vote on Ketanji Brown Jackson</a> Politico: “I’m going to listen to the evidence,” the Senate minority leader said on CBS. “I'm going to listen to the hearings." 
  <p class="updated_time"> 02:49 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 02:25 PM CT, Mar. 20 </p> 
@@ -328,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616997/deputy-secretary-of-state-sherman-on-ukraine-latest-and-talks-between-china-and-">Deputy Secretary of State Sherman on Ukraine latest and talks between China and U.S.</a> NPR: NPR's Mary Louise Kelly talks with Deputy Secretary of State Wendy Sherman about diplomatic efforts in the war in Ukraine and U.S. aid to the country. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087616930/better-ventilation-means-healthier-students-but-many-schools-cant-afford-to-upgr">Better ventilation means healthier students, but many schools can't afford to upgrade</a> NPR: The better the air quality in schools, the better students do academically and healthier they are. Improving air quality is expensive, so advocates hope money set aside under the Biden Plan will help. 
- <p class="updated_time"> 12:32 PM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/liberal-billionaire-nonprofit-dark-money-00018513">Liberal billionaire’s nonprofit splashed $56M in 2020</a> Politico: Berger Action Fund, founded by the Swiss-born billionaire Hansjörg Wyss, sent $31 million of that money to Sixteen Thirty Fund, the left's leading "dark-money" hub. 
  <p class="updated_time"> 12:25 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087519729/mark-meadows-faces-north-carolina-investigation-over-his-voter-registration">Mark Meadows faces North Carolina investigation over his voter registration</a> NPR: The probe follows an allegation that the former Trump White House chief of staff never resided at the address he put on his voter registration ahead of the 2020 election. 
  <p class="updated_time"> 11:24 AM CT, Mar. 18 </p> 
