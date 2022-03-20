@@ -9,23 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:28 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/world/europe/austria-indoor-mask-mandate.html">Amid rising cases, Austria hastily reintroduces an indoor mask mandate.</a> NYT: Earlier this month, Austrian officials also had announced that the nation’s general vaccine mandate would be temporarily suspended. 
  <p class="updated_time"> 11:59 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
  <p class="updated_time"> 11:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
+ <p class="updated_time"> 11:38 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts</a> WSJ: Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts 
  <p class="updated_time"> 11:33 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
- <p class="updated_time"> 11:24 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts</a> WSJ: Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts 
  <p class="updated_time"> 11:18 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/rabbi-chaim-kanievsky-funeral.html">Revered Jewish Sage Buried in One of the Largest Gatherings in Israel’s History</a> NYT: Hundreds of thousands of Israelis shut down large parts of central Israel to attend the funeral of Rabbi Chaim Kanievsky, an influential spiritual leader. 
  <p class="updated_time"> 11:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
  <p class="updated_time"> 10:59 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814913?at_medium=RSS&at_campaign=KARANGA">In Mariupol, children bear the brunt of Vladimir Putin's war</a> BBC: At a children's hospital near the besieged city, the true impact of Russia's tactics are on display. 
- <p class="updated_time"> 10:24 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 10:38 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 10:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
@@ -33,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60812440?at_medium=RSS&at_campaign=KARANGA">Belgium carnival 'turned into a tragedy'</a> BBC: At least six people are killed after a car drives into a crowd of carnival-goers in southern Belgium. 
  <p class="updated_time"> 10:00 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60812330?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco ramps up investment to boost production</a> BBC: The state energy firm Saudi Aramco said it would increase investment after profits more than doubled in 2021. 
- <p class="updated_time"> 09:24 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 09:38 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/pentagons-work-with-ukraines-biological-facilities-becomes-flashpoint-in-russias-information-war-11647768601">Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War</a> WSJ: Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
@@ -41,13 +43,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Dozens more are injured in the crash, which the mayor of the town says is a "national catastrophe". 
  <p class="updated_time"> 08:40 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
- <p class="updated_time"> 08:24 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 08:38 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202">Ukraine Tech Startups Pivot From Software Code to Rescue Plans</a> WSJ: Ukraine Tech Startups Pivot From Software Code to Rescue Plans 
  <p class="updated_time"> 07:48 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766174/hunger-and-fear-permeate-kabul-months-after-talibans-return-to-power">Hunger and fear permeate Kabul months after Taliban's return to power</a> NPR: Kabul, Afghanistan's capital, is a changed place since the Taliban returned to power. Women live with more restrictions, and many Afghans lack electricity and food. 
  <p class="updated_time"> 07:42 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
- <p class="updated_time"> 07:24 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 07:38 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 07:23 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766153/two-ukrainian-mothers-struggle-to-stay-in-touch-with-their-children-on-the-front">Two Ukrainian mothers struggle to stay in touch with their children on the front line</a> NPR: Four weeks into the war, two women in Ukraine share their stories as the struggle to stay in touch with their children, who are living in cities at the front line of Russia's assault. 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087722545/russian-cosmonauts-space-station-ukraine-colors">Russian cosmonauts board Space Station wearing blue and yellow, the colors of Ukraine</a> NPR: Wearing the colors Ukraine's flag has widely been seen as a way to support that country and oppose Russia's invasion. 
  <p class="updated_time"> 12:30 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
- <p class="updated_time"> 12:18 PM CT, Mar. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60808973?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ballet dancer refugees shelter in Polish opera house</a> BBC: The Polish National Ballet is offering shelter to about 30 Ukrainian dancers in its opera house. 
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/polio-africa-covid-vaccinations.html">Malawi and 4 Nearby Countries to Begin Polio Vaccination Drives</a> NYT: The spread of the coronavirus interrupted routine childhood vaccinations globally, opening a door to diseases and compounding the health challenges on the African continent. 
  <p class="updated_time"> 10:49 AM CT, Mar. 19 </p> 
@@ -165,6 +165,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60793320?at_medium=RSS&at_campaign=KARANGA">French elections: Putin's war gives Macron boost in presidential race</a> BBC: Russia's invasion of Ukraine has shaken up France's presidential elections, with only three weeks to go. 
  <p class="updated_time"> 07:05 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60798650?at_medium=RSS&at_campaign=KARANGA">Ukraine war: From wedding dresses to camouflage capes</a> BBC: A group of Ukrainian seamstresses who fled the war are helping by making camouflage capes for soldiers. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60785620?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Jewish children airlifted to Israel</a> BBC: In Israel, some 90 Ukrainian children have been dressing up for the joyful Jewish holiday of Purim. 
  <p class="updated_time"> 06:06 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799659?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: America is learning the art of humility</a> BBC: Forget shock and awe, this is an era of caution for a superpower using diplomacy not military force. 
  <p class="updated_time"> 06:01 PM CT, Mar. 18 </p> 
@@ -218,6 +220,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:34 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 11:27 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/liz-cheney-red-line-chemical-weapons-00018725">Cheney: Use of chemical weapons is 'red line' for NATO intervention</a> Politico: "We need to stop telling the Russians what we won't do," Cheney said. 
  <p class="updated_time"> 10:35 AM CT, Mar. 20 </p> 
@@ -340,8 +344,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/18/stephanie-murphy-democrats-congress-house-00018272">How Democrats alienated the woman who helped them win the House</a> Politico: On this week’s show, Playbook co-author Rachael Bade talks to Congresswoman Stephanie Murphy about the challenges of being a moderate Democrat in an increasingly left-leaning House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don’t see the parallels. 
- <p class="updated_time"> 09:57 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/republicans-biden-ukraine.html">Republicans Once Silent on Russia Ratchet Up Attacks on Biden</a> NYT: Even as they praise the bipartisan congressional response to Russia’s invasion of Ukraine, Republicans are increasingly eager to blame President Biden for the devastation. 
  <p class="updated_time"> 09:38 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/mark-meadows-trump-vote-north-carolina.html">Mark Meadows’s 2020 Vote Is Under Investigation in North Carolina</a> NYT: Records show that Mr. Meadows cast an absentee ballot from the address of a remote mobile home, but reports have cast doubt on whether he lived there. 
  <p class="updated_time"> 08:51 PM CT, Mar. 17 </p> 
