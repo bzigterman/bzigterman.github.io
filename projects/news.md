@@ -9,42 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:09 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 09:51 PM CT, Mar. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60810468?at_medium=RSS&at_campaign=KARANGA">Canada mosque: Worshippers stop axe wielding attacker</a> BBC: Police have charged a 24-year-old man in what they allege was a "hate-motivated incident". 
+ <p class="updated_time"> 09:38 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Russia Fires Missile at Ukrainian Barracks, Killing Dozens</a> NYT: Fighting moves to the center of the coastal city of Mariupol. In eastern and southern Ukraine, millions have fled and many are cut off from humanitarian aid. 
+ <p class="updated_time"> 08:58 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 08:54 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
- <p class="updated_time"> 08:30 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 08:10 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
  <p class="updated_time"> 08:00 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60784526?at_medium=RSS&at_campaign=KARANGA">Anonymous: How hackers are trying to undermine Putin</a> BBC: The BBC speaks to hacktivists about past and future attacks in their "cyber war" against Vladimir Putin. 
+ <p class="updated_time"> 07:58 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 07:54 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60793446?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Anti-war opinions can cost Russians their jobs</a> BBC: The BBC hears from three people whose opposition to the war cost them their employment. 
  <p class="updated_time"> 07:49 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60807134?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Western agents seek to get inside Putin's head</a> BBC: Vladimir Putin's war in Ukraine shook the West. Now its leaders are trying to predict his next move. 
  <p class="updated_time"> 07:48 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60598240?at_medium=RSS&at_campaign=KARANGA">'I'm Australian but Ukraine is part of my identity'</a> BBC: Despite being half a world away, Ukrainian-Australians say the war feels unbearably close. 
- <p class="updated_time"> 07:30 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 07:01 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60797082?at_medium=RSS&at_campaign=KARANGA">Breakdancing changed my life</a> BBC: A dancer from Vietnam says breaking kept him away from drugs and helped him deal with family problems. 
  <p class="updated_time"> 07:01 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60800145?at_medium=RSS&at_campaign=KARANGA">Sydney Harbour Bridge - the story of its opening 90 years ago</a> BBC: On its 90th anniversary, the grandson of the iconic bridge's designer reveals what he went through to get it built. 
+ <p class="updated_time"> 06:58 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 06:50 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 06:38 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/mariupol-russia-ukraine-war.html">Deadly Strike on Ukraine Barracks Punctuates Russian Military Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city of Mariupol, and a Russian rocket attack on a military site in Mykolaiv left dozens dead. 
- <p class="updated_time"> 06:30 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
+ <p class="updated_time"> 05:58 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 05:44 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/pope-constitution-vatican.html">Pope Francis Issues New Vatican Constitution</a> NYT: The document stipulates that baptized lay Catholics, including women, can lead departments and increases institutional efforts to protect minors. 
- <p class="updated_time"> 05:30 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
+ <p class="updated_time"> 04:58 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 04:48 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087751095/ukraine-jimmy-hill-family">Her brother was killed in Ukraine. She says his family is still waiting for answers</a> NPR: The family of Jimmy Hill, the U.S. citizen killed in Ukraine this week, doesn't know what happened to his body and where his remains are now. 
- <p class="updated_time"> 04:30 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 04:15 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087745000/russia-ukraine-war-what-happened-today-march-19">Russia-Ukraine war: What happened today (March 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:10 PM CT, Mar. 19 </p> 
@@ -111,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/03/19/1087533721/marcus-yam-ukraine-photos">A photojournalist in Ukraine heads toward deadly conflict to humanize war</a> NPR: The deaths of three journalists this week in Ukraine are a reminder of the perils of covering conflicts from behind a camera. Photojournalist Marcus Yam is on assignment in Kyiv covering the war. 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">4 U.S. Marines Killed in Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
- <p class="updated_time"> 05:24 AM CT, Mar. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60803155?at_medium=RSS&at_campaign=KARANGA">Ex-UK PMs back global investigation into Putin</a> BBC: Gordon Brown and Sir John Major join calls for an international tribunal to investigate Russia. 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/zelensky-canada-parliament-ukraine-war.html">Zelensky Pleads to Parliament for More Help. What Can Canada Offer?</a> NYT: The address by President Volodymyr Zelensky of Ukraine was also a reminder that Canada might indirectly benefit from the crisis. 
  <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
