@@ -9,12 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:25 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Advance of Russian Forces in Ukraine Appears to Stall</a> NYT: Russia is using “brutal” techniques that increasingly target civilians, the U.S. defense secretary said. A study concluded that Russia has lost its initial campaign and does not have the weapons or manpower to seize Kyiv. 
+ <p class="updated_time"> 05:03 AM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Several others are in a critical condition following the crash, which happened early on Sunday. 
+ <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
  <p class="updated_time"> 04:49 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
- <p class="updated_time"> 04:12 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Advance of Russian Forces in Ukraine Appears to Stall</a> NYT: Russia is using “brutal” techniques that increasingly target civilians, the U.S. defense secretary said. A study concluded that Russia has lost its initial campaign and does not have the weapons or manpower to seize Kyiv. 
- <p class="updated_time"> 04:07 AM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Four killed after car rams into crowd in Belgium</a> BBC: At least 12 others are reported to be seriously injured following the crash, which happened early on Sunday. 
+ <p class="updated_time"> 04:27 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087734423/afghanistan-girls-school-taliban">As school resumes in Afghanistan, will all girls be allowed to go?</a> NPR: Schools in Afghanistan are expected to open for the new semester Wednesday. But despite Taliban assurances that girls will be allowed back, students and teachers are unclear about what will happen. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
@@ -24,20 +28,18 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
  <p class="updated_time"> 03:51 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
- <p class="updated_time"> 03:51 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60812438?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol terror will go down in history - Zelensky</a> BBC: The president of Ukraine condemns Russia's actions in the besieged of the port city of Mariupol. 
- <p class="updated_time"> 02:51 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 03:27 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
+ <p class="updated_time"> 02:27 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 02:00 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
- <p class="updated_time"> 01:51 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
- <p class="updated_time"> 12:51 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 01:27 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 12:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
- <p class="updated_time"> 11:51 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 12:27 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 11:23 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
@@ -342,8 +344,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/17/pelosi-biden-officials-covid-aid-stalemate-00018145">Dems search for next steps on Covid aid as headaches pile up</a> Politico: Speaker Nancy Pelosi said more money is now required, as Democrats struggle to line up necessary Republican support. 
  <p class="updated_time"> 07:04 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/17/trade-in-value-house-to-downgrade-russia-00018075">Trade-in value: House to downgrade Russia</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:27 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/17/scoop-rnc-down-to-two-2024-convention-finalists-00018069"> Scoop: RNC down to two 2024 convention finalists</a> Politico Playbook: And lawmakers make little movement on Ukraine's latest aid requests. 
 
 
 </details>
