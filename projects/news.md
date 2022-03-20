@@ -9,25 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:59 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 02:25 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
  <p class="updated_time"> 01:39 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/pakistan-blasphemy-religious-violence.html">Religion-Fueled Mobs on the Rise Again in Pakistan</a> NYT: The recent lynching of a man accused of burning pages from a Quran underscored Pakistan’s leading status as a site of religious violence. 
- <p class="updated_time"> 01:19 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 01:31 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 01:11 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814306?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Backlash in Russia against anti-war musicians</a> BBC: Banned from radio stations and rumoured black lists, artists against the war face a difficult moment. 
+ <p class="updated_time"> 12:31 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 12:28 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/austria-indoor-mask-mandate.html">Amid rising cases, Austria hastily reintroduces an indoor mask mandate.</a> NYT: Earlier this month, Austrian officials also had announced that the nation’s general vaccine mandate would be temporarily suspended. 
- <p class="updated_time"> 12:19 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
  <p class="updated_time"> 11:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
  <p class="updated_time"> 11:33 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
- <p class="updated_time"> 11:19 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 11:31 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/pentagons-work-with-ukraines-biological-facilities-becomes-flashpoint-in-russias-information-war-11647768601">Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War</a> WSJ: Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War 
  <p class="updated_time"> 11:18 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/rabbi-chaim-kanievsky-funeral.html">Revered Jewish Sage Buried in One of the Largest Gatherings in Israel’s History</a> NYT: Hundreds of thousands of Israelis shut down large parts of central Israel to attend the funeral of Rabbi Chaim Kanievsky, an influential spiritual leader. 
@@ -35,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
  <p class="updated_time"> 10:59 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814913?at_medium=RSS&at_campaign=KARANGA">In Mariupol, children bear the brunt of Vladimir Putin's war</a> BBC: At a children's hospital near the besieged city, the true impact of Russia's tactics are on display. 
- <p class="updated_time"> 10:19 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 10:31 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 10:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60812440?at_medium=RSS&at_campaign=KARANGA">Belgium carnival 'turned into a tragedy'</a> BBC: At least six people are killed after a car drives into a crowd of carnival-goers in southern Belgium. 
  <p class="updated_time"> 10:00 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60812330?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco ramps up investment to boost production</a> BBC: The state energy firm Saudi Aramco said it would increase investment after profits more than doubled in 2021. 
- <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 09:31 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
@@ -220,6 +220,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:25 PM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/china-islands-militarized-missiles-00018737">U.S. admiral says China has fully militarized islands</a> Politico: China has fully militarized at least three islands with anti-ship and anti-aircraft missile systems. 
  <p class="updated_time"> 02:00 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/project-veritas-ashley-biden-diary.html">New Details Flesh Out How Project Veritas Acquired Ashley Biden’s Diary</a> NYT: The right-wing group placed a deceptive call to the president’s daughter a month before Election Day, weeks after her stolen diary was shown around at a Trump fund-raiser. 
  <p class="updated_time"> 01:15 PM CT, Mar. 20 </p> 
@@ -235,7 +237,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:35 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/20/jacksons-and-durbins-big-week-00018717"> Jackson’s (and Durbin’s) big week</a> Politico Playbook: And Russia makes advances in Ukraine. 
  <p class="updated_time"> 10:20 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/zelenskyy-ukraine-zakaria-interview-00018716">Zelenskyy says he's willing to talk with Putin but not yield his nation's independence</a> Politico: "If there is just 1 percent chance for us to stop this war, I think that we need to take this chance, we need to do that," he said. 
+ <a href="https://www.politico.com/news/2022/03/20/zelenskyy-ukraine-zakaria-interview-00018716">Zelenskyy said he's willing to talk with Putin but not yield his nation's independence</a> Politico: "If there is just 1 percent chance for us to stop this war, I think that we need to take this chance, we need to do that," he said. 
  <p class="updated_time"> 09:34 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/russians-taking-ukrainians-by-force-00018715">U.N. ambassador disturbed by reports of Russians seizing and deporting Ukrainians</a> Politico: “I've only heard it. I can't confirm it. But I can say it is disturbing," Linda Thomas-Greenfield said. 
  <p class="updated_time"> 09:17 AM CT, Mar. 20 </p> 
@@ -282,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087712581/biden-warns-xi-jinping-of-consequences-toward-china-if-it-continues-russian-supp">Biden warns Xi Jinping of consequences toward China if it continues Russian support</a> NPR: President Biden had a long video call with Chinese leader Xi Jinping, warning against supporting Russia in its invasion of Ukraine. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087712532/week-in-politics-consequences-for-china-zelenskyy-asks-for-help-court-confirmati">Week in politics: Consequences for China; Zelenskyy asks for help; Court confirmation</a> NPR: The U.S. continues its work to economically isolate Russia, and most lawmakers are on board. Also: a look ahead to Monday's Supreme Court confirmation hearings. 
- <p class="updated_time"> 06:29 AM CT, Mar. 19 </p> 
- <a href="https://www.politico.com/news/2022/03/19/4-u-s-troops-die-in-norway-plane-crash-unrelated-to-ukraine-00018682">4 U.S. troops die in Norway plane crash; unrelated to Ukraine</a> Politico: NATO drills in Norway include around 30,000 troops, 220 aircraft and 50 vessels from 27 countries. 
  <p class="updated_time"> 06:01 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/native-american-tribes-new-york-cannabis-00016488">New York cannabis regulations are in limbo. But the pot industry is booming on reservations.</a> Politico: There are questions about how the tribes are procuring the marijuana, how it may ultimately be regulated and whether the tribes will reach a compact with New York to tax sales. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
@@ -314,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/us/politics/alva-johnson-donald-trump-arbitrator-ruling.html">Trump Campaign Owes $300,000 in Legal Fees After Another Failed NDA Case</a> NYT: The award stems from an arbitration claim that was dismissed in part because of the “vague and unenforceable” provisions of a nondisclosure agreement. 
  <p class="updated_time"> 06:00 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/us/politics/cox-roosevelt-button-sold.html">Cox/Roosevelt Campaign Button From 1920 Sells for $185,850</a> NYT: The political button business has been booming. A Cox/Roosevelt campaign button from 1920 was auctioned for a six-figure sum this week. 
- <p class="updated_time"> 05:58 PM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/ohio-primary-maps-00018667">Ohio pauses preparations for May 3 primary amid map flap</a> Politico: A growing chorus of interest groups and politicians of both parties has begun calling on lawmakers to delay the primary. 
  <p class="updated_time"> 05:56 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/private-lenders-lobby-student-loan-payments-00018363">Private lenders lobby to restart federal student loan payments</a> Politico: The emergency relief has suspended monthly payments and interest for roughly 40 million federal loan borrowers for the past two years. 
  <p class="updated_time"> 05:00 PM CT, Mar. 18 </p> 
@@ -330,6 +328,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616997/deputy-secretary-of-state-sherman-on-ukraine-latest-and-talks-between-china-and-">Deputy Secretary of State Sherman on Ukraine latest and talks between China and U.S.</a> NPR: NPR's Mary Louise Kelly talks with Deputy Secretary of State Wendy Sherman about diplomatic efforts in the war in Ukraine and U.S. aid to the country. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087616930/better-ventilation-means-healthier-students-but-many-schools-cant-afford-to-upgr">Better ventilation means healthier students, but many schools can't afford to upgrade</a> NPR: The better the air quality in schools, the better students do academically and healthier they are. Improving air quality is expensive, so advocates hope money set aside under the Biden Plan will help. 
+ <p class="updated_time"> 12:32 PM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/liberal-billionaire-nonprofit-dark-money-00018513">Liberal billionaire’s nonprofit splashed $56M in 2020</a> Politico: Berger Action Fund, founded by the Swiss-born billionaire Hansjörg Wyss, sent $31 million of that money to Sixteen Thirty Fund, the left's leading "dark-money" hub. 
  <p class="updated_time"> 12:25 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087519729/mark-meadows-faces-north-carolina-investigation-over-his-voter-registration">Mark Meadows faces North Carolina investigation over his voter registration</a> NPR: The probe follows an allegation that the former Trump White House chief of staff never resided at the address he put on his voter registration ahead of the 2020 election. 
  <p class="updated_time"> 11:24 AM CT, Mar. 18 </p> 
