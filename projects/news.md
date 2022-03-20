@@ -9,39 +9,45 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:49 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 05:16 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
+ <p class="updated_time"> 05:16 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-war-russia-mariupol.html">Russia Broadens Mariupol Assault as Signs of Stalemate Take Shape</a> NYT: The battle for Mariupol has become a grim symbol of Russia’s superior firepower and its frustration in failing to subjugate Ukraine after more than three weeks of war. 
+ <p class="updated_time"> 05:11 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html">Brazil Lifts Its Ban on Telegram After Two Days</a> NYT: Brazil’s Supreme Court blocked Telegram on Friday. The messaging app then responded with measures to fight misinformation, and the court quickly lifted its ban. 
+ <p class="updated_time"> 05:09 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60816865?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The wounded children of Putin's war</a> BBC: Survivors from the bombardment of Mariupol are bearing the physical and mental scars of the conflict. 
  <p class="updated_time"> 04:25 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">Remains of 4 U.S. Marines Retrieved From Site of Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
  <p class="updated_time"> 04:21 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087080628/mosul-iraq-murals-art-after-isis">In Iraq's Mosul, art springs up from ruins almost 5 years after the ouster of ISIS</a> NPR: This vibrant street art is a sign of the spirited rebuilding going on in the northern Iraqi city, after ISIS was defeated in 2017. 
+ <p class="updated_time"> 04:19 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087777022/russia-ukraine-war-what-happened-today-march-20">Russia-Ukraine war: What happened today (March 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 03:34 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087782349/zelenskyy-ukraine-israel">Zelenskyy compares Russia's invasion to Holocaust in a plea to Israel for support</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke with Israeli lawmakers about his impatience with Israel as it mediates negotiations between Russia and Ukraine. 
  <p class="updated_time"> 03:33 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814313?at_medium=RSS&at_campaign=KARANGA">Inside a children's hospital and pressure on Russian artists - Ukraine war round-up</a> BBC: Ukrainian children suffer in hospital, and musicians are banned from Russian radio for opposing the war. 
+ <p class="updated_time"> 03:19 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 03:18 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087781833/ukraine-deaths-casualties">More than 900 civilians have died in Ukraine. The true number is likely much higher</a> NPR: Many of the casualties occurred in the Donetsk and Luhansk regions in Ukraine's east, which are partially controlled by separatist rebels backed by Russia. 
  <p class="updated_time"> 03:18 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-war-kyiv.html">In Ukraine, Solidarity and Defiance Among Those Still in Kyiv</a> NYT: About two million people have stayed in Kyiv, a population galvanized by a newfound unity and its refusal to be cowed by Russian invaders. 
  <p class="updated_time"> 03:13 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087781560/australia-alumina-ban-russia">Australia bans the export of aluminum ores to Russia </a> NPR: Australian officials said the restrictions, which include a ban on bauxite, is designed to curtail Russia's ability to produce aluminum — a vital ingredient in arms and munition manufacturing. 
- <p class="updated_time"> 02:56 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
- <p class="updated_time"> 01:56 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 02:19 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 01:39 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/pakistan-blasphemy-religious-violence.html">Religion-Fueled Mobs on the Rise Again in Pakistan</a> NYT: The recent lynching of a man accused of burning pages from a Quran underscored Pakistan’s leading status as a site of religious violence. 
+ <p class="updated_time"> 01:19 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 01:11 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814306?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Backlash in Russia against anti-war musicians</a> BBC: Banned from radio stations and rumoured black lists, artists against the war face a difficult moment. 
- <p class="updated_time"> 12:56 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 12:28 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/austria-indoor-mask-mandate.html">Amid rising cases, Austria hastily reintroduces an indoor mask mandate.</a> NYT: Earlier this month, Austrian officials also had announced that the nation’s general vaccine mandate would be temporarily suspended. 
- <p class="updated_time"> 11:56 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 12:19 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
@@ -167,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60765848?at_medium=RSS&at_campaign=KARANGA">Tanzania viewpoint: What President Samia has achieved in her first year</a> BBC: After years of authoritarian rule, there are signs of change under the country's first female leader. 
  <p class="updated_time"> 07:14 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60793320?at_medium=RSS&at_campaign=KARANGA">French elections: Putin's war gives Macron boost in presidential race</a> BBC: Russia's invasion of Ukraine has shaken up France's presidential elections, with only three weeks to go. 
- <p class="updated_time"> 07:05 PM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60798650?at_medium=RSS&at_campaign=KARANGA">Ukraine war: From wedding dresses to camouflage capes</a> BBC: A group of Ukrainian seamstresses who fled the war are helping by making camouflage capes for soldiers. 
  <p class="updated_time"> 06:06 PM CT, Mar. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799659?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: America is learning the art of humility</a> BBC: Forget shock and awe, this is an era of caution for a superpower using diplomacy not military force. 
  <p class="updated_time"> 06:01 PM CT, Mar. 18 </p> 
@@ -193,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
  <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
- <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
  <p class="updated_time"> 02:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html">How the War in Ukraine Could Slow the Sales of Electric Cars</a> NYT: The price of nickel, an essential ingredient in most batteries, has soared because of fear that Russian supplies could be cut off. 
  <p class="updated_time"> 01:08 AM CT, Mar. 18 </p> 
@@ -205,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
  <p class="updated_time"> 09:06 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60744216?at_medium=RSS&at_campaign=KARANGA">How Poland's business community is helping Ukrainians</a> BBC: Small and medium sized firms, including recruiters, are organising support for arriving refugees. 
- <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
  <p class="updated_time"> 07:54 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons will US give Ukraine - and how much will they help?</a> BBC: Experts believe that while additional US aid can help Ukraine fight back, more is still needed. 
  <p class="updated_time"> 07:22 PM CT, Mar. 17 </p> 
