@@ -9,22 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:27 PM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Calls for Talks With Moscow After Brutal Weekend of Clashes</a> NYT: President Volodymyr Zelensky said it was time to meet after some of the deadliest days of fighting. The humanitarian crisis has worsened, with millions displaced. And the fighting entered the center of Mariupol. 
+ <p class="updated_time"> 11:23 PM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
+ <p class="updated_time"> 11:08 PM CT, Mar. 19 </p> 
+ <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
  <p class="updated_time"> 10:48 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/australia/hillsong-brian-houston.html">Hillsong Says Brian Houston,  Church Founder, Breached Code of Conduct</a> NYT: The board of the global megachurch, which got its start in Australia, apologized “unreservedly” to two women who had accused Mr. Houston of inappropriate behavior. 
- <p class="updated_time"> 10:36 PM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Calls for Talks With Moscow After Brutal Weekend of Clashes</a> NYT: President Volodymyr Zelensky said it was time to meet after some of the deadliest days of fighting. The humanitarian crisis has worsened, with millions displaced. And the fighting entered the center of Mariupol. 
- <p class="updated_time"> 10:01 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 10:33 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 09:51 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60810468?at_medium=RSS&at_campaign=KARANGA">Canada mosque: Worshippers stop axe wielding attacker</a> BBC: Police have charged a 24-year-old man in what they allege was a "hate-motivated incident". 
- <p class="updated_time"> 09:01 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 09:33 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
+ <p class="updated_time"> 09:08 PM CT, Mar. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60805565?at_medium=RSS&at_campaign=KARANGA">William and Kate arrive in Belize for jubilee Caribbean tour</a> BBC: The couple were all smiles as they began their week-long tour celebrating the Platinum Jubilee. 
  <p class="updated_time"> 08:54 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
+ <p class="updated_time"> 08:33 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 08:10 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
- <p class="updated_time"> 08:01 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 08:00 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60784526?at_medium=RSS&at_campaign=KARANGA">Anonymous: How hackers are trying to undermine Putin</a> BBC: The BBC speaks to hacktivists about past and future attacks in their "cyber war" against Vladimir Putin. 
  <p class="updated_time"> 07:54 PM CT, Mar. 19 </p> 
@@ -33,7 +39,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60807134?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Western agents seek to get inside Putin's head</a> BBC: Vladimir Putin's war in Ukraine shook the West. Now its leaders are trying to predict his next move. 
  <p class="updated_time"> 07:48 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60598240?at_medium=RSS&at_campaign=KARANGA">'I'm Australian but Ukraine is part of my identity'</a> BBC: Despite being half a world away, Ukrainian-Australians say the war feels unbearably close. 
- <p class="updated_time"> 07:01 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 07:33 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 07:01 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60797082?at_medium=RSS&at_campaign=KARANGA">Breakdancing changed my life</a> BBC: A dancer from Vietnam says breaking kept him away from drugs and helped him deal with family problems. 
@@ -43,7 +49,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 06:38 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/mariupol-russia-ukraine-war.html">Deadly Strike on Ukraine Barracks Punctuates Russian Military Gains</a> NYT: Ukraine said it had temporarily lost contact with officials in the strategic port city of Mariupol, and a Russian rocket attack on a military site in Mykolaiv left dozens dead. 
- <p class="updated_time"> 06:01 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 06:33 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 05:44 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/pope-constitution-vatican.html">Pope Francis Issues New Vatican Constitution</a> NYT: The document stipulates that baptized lay Catholics, including women, can lead departments and increases institutional efforts to protect minors. 
@@ -85,16 +91,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60807896?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Man rescued from Kharkiv rubble after shelling</a> BBC: A man is pulled alive from the rubble of a teaching building in Ukraine, after Russian shelling. 
  <p class="updated_time"> 09:08 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60806151?at_medium=RSS&at_campaign=KARANGA">Russia claims first use of hypersonic Kinzhal missile in Ukraine</a> BBC: Russia says it fired a Kinzhal missile at a Ukrainian arms depot, in an apparent change of strategy. 
- <p class="updated_time"> 08:56 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
  <p class="updated_time"> 08:43 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60806973?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Tanks in streets' as fighting hits Mariupol centre</a> BBC: Street fighting hampers efforts to rescue civilians trapped in a bombed theatre, the mayor says. 
- <p class="updated_time"> 08:13 AM CT, Mar. 19 </p> 
+ <p class="updated_time"> 08:14 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/france-algeria-macron-election-far-right.html">Shadows of Algerian War Loom Over Election Campaign in France</a> NYT: As President Emmanuel Macron addresses his country’s colonial history, echoes of that past have pervaded the messaging of right-wing candidates ahead of the voting in April. 
  <p class="updated_time"> 08:00 AM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-expands-potential-role-of-women-in-vatican-bureaucracy-11647709244">Pope Francis Expands Potential Role of Women at Vatican</a> WSJ: A new Vatican constitution opens the way for women to run some offices at the Catholic Church’s universal headquarters that have always been run by men. 
- <p class="updated_time"> 07:43 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
  <p class="updated_time"> 07:31 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087265230/4-reasons-why-social-media-can-give-a-skewed-account-of-the-war-in-ukraine">4 reasons why social media can give a skewed account of the war in Ukraine</a> NPR: Images of Ukraine are flooding social media, but experts warn they don't show the full picture and can sometimes give a misleading account of the conflict on the ground. 
  <p class="updated_time"> 07:03 AM CT, Mar. 19 </p> 
@@ -155,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As Diplomacy Drags On, Peace Seems Far Off in Ukraine</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
  <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/19/business/hong-kong-virus-beijing.html">Confusion and Chaos in Hong Kong as Leaders Fumble Virus Response</a> NYT: Government officials have been unable to curb an outbreak that has surpassed one million infections, leading Beijing to step up its intervention in the semiautonomous territory. 
- <p class="updated_time"> 01:29 PM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60800581?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Drone footage shows level of devastation in Mariupol</a> BBC: Video shows destroyed blocks of flats and a shopping mall in the besieged Ukrainian port city. 
  <p class="updated_time"> 01:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/europe/ukraine-putin-nazis.html">Why Vladimir Putin Invokes Nazis to Justify His Invasion of Ukraine</a> NYT: The language of Russia’s invasion has been dominated by the word “Nazi” — a puzzling assertion about a country whose leader is Jewish. 
  <p class="updated_time"> 12:02 PM CT, Mar. 18 </p> 
@@ -171,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-ukraine.html">Russia’s military progress slows, but it makes gains in the south and east.</a> NYT: Britain’s defense intelligence service said that Russian forces had “made minimal progress this week.” 
  <p class="updated_time"> 09:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
- <p class="updated_time"> 08:09 AM CT, Mar. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60794809?at_medium=RSS&at_campaign=KARANGA">Ukraine: Arnold Schwarzenegger's anti-war video trends on Russian social media</a> BBC: In the video the actor warns Russians they are being fed misinformation over the Ukraine war. 
  <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
@@ -269,7 +267,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/us/politics/alva-johnson-donald-trump-arbitrator-ruling.html">Trump Campaign Owes $300,000 in Legal Fees After Another Failed NDA Case</a> NYT: The award stems from an arbitration claim that was dismissed in part because of the “vague and unenforceable” provisions of a nondisclosure agreement. 
  <p class="updated_time"> 06:00 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/us/politics/cox-roosevelt-button-sold.html">Cox/Roosevelt Campaign Button From 1920 Sells for $185,850</a> NYT: The political button business has been booming. A Cox/Roosevelt campaign button from 1920 was auctioned for a six-figure sum this week. 
+ <a href="https://www.nytimes.com/2022/03/18/us/politics/cox-roosevelt-button-sold.html">Politics Still Pushes Buttons. This One Sold for $185,850.</a> NYT: The political button business has been booming. A Cox/Roosevelt campaign button from 1920 was auctioned for a six-figure sum this week. 
  <p class="updated_time"> 05:58 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/ohio-primary-maps-00018667">Ohio pauses preparations for May 3 primary amid map flap</a> Politico: A growing chorus of interest groups and politicians of both parties has begun calling on lawmakers to delay the primary. 
  <p class="updated_time"> 05:56 PM CT, Mar. 18 </p> 
@@ -350,8 +348,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/17/scoop-rnc-down-to-two-2024-convention-finalists-00018069"> Scoop: RNC down to two 2024 convention finalists</a> Politico Playbook: And lawmakers make little movement on Ukraine's latest aid requests. 
  <p class="updated_time"> 03:30 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/house-dems-urge-executive-action-00017857">House liberals start asking Biden to sidestep Congress — months before the midterms</a> Politico: Democrats are still in full control of Washington. But some progressives are ready to dispense with the centrist-empowering Senate and get the president pumping out executive actions. 
- <p class="updated_time"> 11:09 PM CT, Mar. 16 </p> 
- <a href="https://www.politico.com/news/2022/03/17/victor-fazio-california-dies-00018053">Former Rep. Victor Fazio of California dies at 79</a> Politico: "He worked to make our country a better place with his civility and ability to find common ground," Rep. Doris Matsui said of him. 
 
 
 </details>
