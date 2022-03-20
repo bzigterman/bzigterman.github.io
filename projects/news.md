@@ -9,31 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Calls for Talks With Moscow after Brutal Weekend of Clashes</a> NYT: President Volodymyr Zelensky said it was time to meet after Russia made gains across the country and the humanitarian crisis worsened, especially in Mariupol. 
  <p class="updated_time"> 12:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
- <p class="updated_time"> 12:11 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 12:39 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
- <p class="updated_time"> 11:57 PM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Calls for Talks With Moscow after Brutal Weekend of Clashes</a> NYT: President Volodymyr Zelensky said it was time to meet after Russia made gains across the country and the humanitarian crisis worsened, especially in Mariupol. 
+ <p class="updated_time"> 11:39 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 11:23 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
- <p class="updated_time"> 11:11 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 11:08 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
  <p class="updated_time"> 10:48 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/australia/hillsong-brian-houston.html">Hillsong Says Brian Houston,  Church Founder, Breached Code of Conduct</a> NYT: The board of the global megachurch, which got its start in Australia, apologized “unreservedly” to two women who had accused Mr. Houston of inappropriate behavior. 
- <p class="updated_time"> 10:11 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 10:39 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 09:51 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60810468?at_medium=RSS&at_campaign=KARANGA">Canada mosque: Worshippers stop axe wielding attacker</a> BBC: Police have charged a 24-year-old man in what they allege was a "hate-motivated incident". 
- <p class="updated_time"> 09:11 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 09:39 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 09:08 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60805565?at_medium=RSS&at_campaign=KARANGA">William and Kate arrive in Belize for jubilee Caribbean tour</a> BBC: The couple were all smiles as they began their week-long tour celebrating the Platinum Jubilee. 
  <p class="updated_time"> 08:54 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
- <p class="updated_time"> 08:11 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 08:39 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 08:10 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
@@ -84,7 +84,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:03 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/polio-africa-covid-vaccinations.html">Malawi and 4 Nearby Countries to Begin Polio Vaccination Drives</a> NYT: The spread of the coronavirus interrupted routine childhood vaccinations globally, opening a door to diseases and compounding the health challenges on the African continent. 
  <p class="updated_time"> 10:49 AM CT, Mar. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60807636?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Scores feared dead after Russia attack on Mykolaiv barracks</a> BBC: A source tells the BBC's Andrew Harding in Mykolaiv that up to 200 soldiers were in when missiles struck. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60807636?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Scores feared dead after Russia attack on Mykolaiv barracks</a> BBC: A source tells the BBC that up to 200 soldiers were at the Mykolaiv barracks when missiles hit. 
  <p class="updated_time"> 10:12 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/health/covid-ba2-surge-variant.html">Another Covid Surge May Be Coming. Are We Ready for It?</a> NYT: “We’ve been wearing rose-colored glasses instead of correcting our vision,” one scientist said. 
  <p class="updated_time"> 09:37 AM CT, Mar. 19 </p> 
@@ -267,7 +267,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:03 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/us/politics/alva-johnson-donald-trump-arbitrator-ruling.html">Trump Campaign Owes $300,000 in Legal Fees After Another Failed NDA Case</a> NYT: The award stems from an arbitration claim that was dismissed in part because of the “vague and unenforceable” provisions of a nondisclosure agreement. 
  <p class="updated_time"> 06:00 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/us/politics/cox-roosevelt-button-sold.html">Cox/Roosevelt Campaign Button From 1920 Sells for $185,850</a> NYT: The political button business has been booming. A Cox/Roosevelt campaign button from 1920 was auctioned for a six-figure sum this week. 
+ <a href="https://www.nytimes.com/2022/03/18/us/politics/cox-roosevelt-button-sold.html">Politics Still Pushes Buttons. This One Sold for $185,850.</a> NYT: The political button business has been booming. A Cox/Roosevelt campaign button from 1920 was auctioned for a six-figure sum this week. 
  <p class="updated_time"> 05:58 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/ohio-primary-maps-00018667">Ohio pauses preparations for May 3 primary amid map flap</a> Politico: A growing chorus of interest groups and politicians of both parties has begun calling on lawmakers to delay the primary. 
  <p class="updated_time"> 05:56 PM CT, Mar. 18 </p> 
