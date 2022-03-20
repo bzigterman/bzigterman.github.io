@@ -9,29 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:02 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Calls for Talks With Moscow after Brutal Weekend of Clashes</a> NYT: President Volodymyr Zelensky said it was time to meet after Russia made gains across the country and the humanitarian crisis worsened, especially in Mariupol. 
+ <p class="updated_time"> 02:20 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">Live Updates: Advance of Russian Forces in Ukraine Appears to Stall</a> NYT: Russia is using “brutal” techniques that increasingly target civilians, the U.S. defense secretary said. A study concluded that Russia has lost its initial campaign and does not have the weapons or manpower to seize Kyiv. 
  <p class="updated_time"> 02:00 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
- <p class="updated_time"> 01:09 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 01:27 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 12:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
- <p class="updated_time"> 12:09 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 12:27 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
+ <p class="updated_time"> 11:27 PM CT, Mar. 19 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 11:23 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
- <p class="updated_time"> 11:09 PM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 11:08 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/canada/ottawa-ice-skating-trails.html">Ice Skating at a Rink Is Fun. Gliding Through a Forest? Glorious.</a> NYT: Ottawa’s winter-lovers can now pick among a half-dozen skating trails that wind for miles through the wilderness in and around the city. But climate change threatens the good times. 
  <p class="updated_time"> 10:48 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/australia/hillsong-brian-houston.html">Hillsong Says Brian Houston,  Church Founder, Breached Code of Conduct</a> NYT: The board of the global megachurch, which got its start in Australia, apologized “unreservedly” to two women who had accused Mr. Houston of inappropriate behavior. 
- <p class="updated_time"> 10:09 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 10:27 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 09:51 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60810468?at_medium=RSS&at_campaign=KARANGA">Canada mosque: Worshippers stop axe wielding attacker</a> BBC: Police have charged a 24-year-old man in what they allege was a "hate-motivated incident". 
- <p class="updated_time"> 09:09 PM CT, Mar. 19 </p> 
+ <p class="updated_time"> 09:27 PM CT, Mar. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 09:08 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60805565?at_medium=RSS&at_campaign=KARANGA">William and Kate arrive in Belize for jubilee Caribbean tour</a> BBC: The couple were all smiles as they began their week-long tour celebrating the Platinum Jubilee. 
