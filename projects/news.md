@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:10 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Live Updates: Advance of Russian Forces in Ukraine Appears to Stall</a> NYT: Russia is using “brutal” techniques that increasingly target civilians, the U.S. defense secretary said. A study concluded that Russia has lost its initial campaign and does not have the weapons or manpower to seize Kyiv. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
+ <a href="https://www.npr.org/2022/03/20/1087766097/zelensky-says-mariupol-will-be-remembered-as-one-of-modern-warfares-ugliest-sieg">Zelensky says Mariupol will be remembered as one of modern warfare's ugliest sieges</a> NPR: The latest news from Ukraine, including the bombing of an Mairupol art school where civilians were taking cover, and allegations that Russians are taking Ukrainians over the border by force. 
+ <p class="updated_time"> 07:02 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
  <p class="updated_time"> 06:49 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766244/russia-ukraine-attack-art-school-mariupol-400-people-inside">Ukrainian officials say Russia has bombed a school with 400 people sheltering inside</a> NPR: There was no immediate word on casualties from the reported strike on the art school situated in the embattled port city of Mariupol. 
- <p class="updated_time"> 06:04 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/03/19/world/ukraine-russia-war">What Happened on Day 24 of Russia’s Invasion of Ukraine</a> NYT: A study concluded that Russia has lost its initial campaign and does not have the weapons or manpower to seize Kyiv. 
+ <p class="updated_time"> 06:20 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
- <p class="updated_time"> 05:54 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
+ <p class="updated_time"> 05:20 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:03 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Several others are in a critical condition following the crash, which happened early on Sunday. 
- <p class="updated_time"> 04:54 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
- <p class="updated_time"> 04:49 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
+ <p class="updated_time"> 04:20 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087734423/afghanistan-girls-school-taliban">As school resumes in Afghanistan, will all girls be allowed to go?</a> NPR: Schools in Afghanistan are expected to open for the new semester Wednesday. But despite Taliban assurances that girls will be allowed back, students and teachers are unclear about what will happen. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
@@ -33,13 +37,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/asia/russia-putin-propaganda-media.html">The Lies Putin Tells to Justify Russia’s War on Ukraine</a> NYT: The Kremlin has used a barrage of increasingly outlandish falsehoods to prop up its overarching claim that the invasion of Ukraine is justified. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
- <p class="updated_time"> 03:54 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 03:51 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60812438?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol terror will go down in history - Zelensky</a> BBC: The president of Ukraine condemns Russia's actions in the besieged of the port city of Mariupol. 
- <p class="updated_time"> 02:54 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 03:20 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
- <p class="updated_time"> 01:54 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 02:20 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 12:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087712574/former-ukrainian-minister-of-infrastructure-describes-destruction-in-kyiv">Former Ukrainian Minister of Infrastructure describes destruction in Kyiv</a> NPR: Scott Simon speaks with Volodymyr Omelyan, Ukraine's former Minister of Infrastructure, about the current situation in Kyiv. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087712539/ukrainian-women-are-volunteering-to-fight-and-history-shows-they-always-have">Ukrainian women are volunteering to fight — and history shows they always have</a> NPR: Ukraine's military has been inundated with volunteers. That includes women, who are not required as men are to stay and fight the Russian invasion. 
- <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
- <a href="https://www.npr.org/2022/03/19/1087712525/crowds-of-people-are-trying-to-leave-ukraine-as-russia-invades-from-all-sides">Crowds of people are trying to leave Ukraine as Russia invades from all sides</a> NPR: Russia claims to have hit a weapons depot in Ukraine's west, and Ukrainians continue to seek refuge in other parts of their country, as well as neighboring countries. 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">4 U.S. Marines Killed in Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
@@ -212,10 +212,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
+ <a href="https://www.npr.org/2022/03/20/1087766139/don-young-alaskas-longest-serving-congressman-dies-at-88">Don Young, Alaska's longest-serving congressman, dies at 88</a> NPR: Republican Don Young, Alaska's longest-serving congressman, has died. Elected in 1973, Young was known for his brash style and for crossing party lines on legislation if it helped the state. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
+ <a href="https://www.npr.org/2022/03/20/1087766111/florida-governor-desantis-wants-to-eliminate-2-proposed-black-voting-districts">Florida Governor DeSantis wants to eliminate 2 proposed Black voting districts</a> NPR: Florida Governor Ron DeSantis wants lawmakers to redraw two Congressional voting districts with majority Black populations. Observers say he is apparently courting a national audience. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
+ <a href="https://www.npr.org/2022/03/20/1087766104/politics-chat-biden-travels-to-brussels-supreme-court-confirmation-hearings-star">Politics chat: Biden travels to Brussels; Supreme Court confirmation hearings start</a> NPR: President Biden is planning to travel to Brussels this week to meet with fellow NATO leaders. Also, Judge Ketanji Brown Jackson begins her Supreme Court confirmation hearings Monday. 
  <p class="updated_time"> 06:38 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/yemen-strikes-saudi-arabia-00018703">Yemen rebels launch wide strikes on Saudi sites</a> Politico: The targets included natural gas and desalination plants. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/republicans-2022-campaigns-00018591">'It's RINO season': How the GOP's dirtiest slur is taking off</a> Politico: An insult once reserved for Republican moderates has been weaponized. 
+ <a href="https://www.politico.com/news/2022/03/20/republicans-2022-campaigns-00018591">How the GOP's dirtiest slur got a new life</a> Politico: An insult once reserved for Republican moderates has been weaponized. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/durbin-supreme-court-nominee-ketanji-brown-jackson-00018579">The Senate's Supreme Court peacekeeper prepares for his moment</a> Politico: He waited 39 years for a committee gavel. Now the famously even-tempered Dick Durbin gets what may be his only chance to confirm a justice. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
@@ -316,12 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/18/a-retiring-moderate-democrat-unloads-on-the-party-00018430"> A retiring moderate Democrat unloads on the party</a> Politico Playbook: And Dems prepare to grill oil CEOs on the Hill. 
  <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
- <p class="updated_time"> 04:27 AM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1086849018/black-women-form-the-first-line-of-defense-for-a-historic-supreme-court-nominee">Black women form the first line of defense for a historic Supreme Court nominee</a> NPR: Judge Ketanji Brown Jackson is the first Black woman nominated to the court. For many activists, her confirmation hearings bring pride and inspiration — and resolve against conservative attacks. 
- <p class="updated_time"> 04:02 AM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087448505/the-u-s-a-major-oil-producer-woos-other-countries-to-produce-more-oil">The U.S., a major oil producer, woos other countries to produce more oil</a> NPR: The Biden administration is encouraging U.S. oil companies to increase their production to help curb record high gasoline prices. But boosting output is easier said than done. 
- <p class="updated_time"> 04:02 AM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087448491/sen-warren-aims-to-prevent-oligarchs-from-using-crypto-to-evade-sanctions">Sen. Warren aims to prevent oligarchs from using crypto to evade sanctions</a> NPR: NPR's Steve Inskeep talks to Democratic Sen. Elizabeth Warren of Massachusetts about her bill aiming to strengthen U.S. sanctions against Russia by blocking access to cryptocurrencies. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/stephanie-murphy-democrats-congress-house-00018272">How Democrats alienated the woman who helped them win the House</a> Politico: On this week’s show, Playbook co-author Rachael Bade talks to Congresswoman Stephanie Murphy about the challenges of being a moderate Democrat in an increasingly left-leaning House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
@@ -346,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/17/durbin-white-house-disparage-emerging-conservative-attack-on-kbj-sex-offender-rulings-00018142">GOP indicates plans to question KBJ on handling of sex-related offenses</a> Politico: Senate Judiciary Republicans are circulating a document that takes aim at the Supreme Court nominee's handling of sex-related offenses, days before her confirmation hearings begin. 
  <p class="updated_time"> 10:42 AM CT, Mar. 17 </p> 
  <a href="https://www.politico.com/news/2022/03/17/pelosi-biden-officials-covid-aid-stalemate-00018145">Dems search for next steps on Covid aid as headaches pile up</a> Politico: Speaker Nancy Pelosi said more money is now required, as Democrats struggle to line up necessary Republican support. 
- <p class="updated_time"> 07:04 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/03/17/trade-in-value-house-to-downgrade-russia-00018075">Trade-in value: House to downgrade Russia</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
