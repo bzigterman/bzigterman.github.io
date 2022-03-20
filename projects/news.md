@@ -11,22 +11,22 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 02:25 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
- <p class="updated_time"> 01:45 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 01:57 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 01:39 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/pakistan-blasphemy-religious-violence.html">Religion-Fueled Mobs on the Rise Again in Pakistan</a> NYT: The recent lynching of a man accused of burning pages from a Quran underscored Pakistan’s leading status as a site of religious violence. 
  <p class="updated_time"> 01:11 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814306?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Backlash in Russia against anti-war musicians</a> BBC: Banned from radio stations and rumoured black lists, artists against the war face a difficult moment. 
- <p class="updated_time"> 12:45 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 12:57 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 12:28 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/austria-indoor-mask-mandate.html">Amid rising cases, Austria hastily reintroduces an indoor mask mandate.</a> NYT: Earlier this month, Austrian officials also had announced that the nation’s general vaccine mandate would be temporarily suspended. 
+ <p class="updated_time"> 11:57 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
  <p class="updated_time"> 11:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
- <p class="updated_time"> 11:45 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 11:33 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
  <p class="updated_time"> 11:18 AM CT, Mar. 20 </p> 
@@ -35,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
  <p class="updated_time"> 10:59 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814913?at_medium=RSS&at_campaign=KARANGA">In Mariupol, children bear the brunt of Vladimir Putin's war</a> BBC: At a children's hospital near the besieged city, the true impact of Russia's tactics are on display. 
- <p class="updated_time"> 10:45 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 10:57 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 10:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60812440?at_medium=RSS&at_campaign=KARANGA">Belgium carnival 'turned into a tragedy'</a> BBC: At least six people are killed after a car drives into a crowd of carnival-goers in southern Belgium. 
  <p class="updated_time"> 10:00 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60812330?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco ramps up investment to boost production</a> BBC: The state energy firm Saudi Aramco said it would increase investment after profits more than doubled in 2021. 
- <p class="updated_time"> 09:45 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 09:57 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
@@ -218,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 02:25 PM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/china-islands-militarized-missiles-00018737">U.S. admiral says China has fully militarized islands</a> Politico: China has fully militarized at least three islands with anti-ship and anti-aircraft missile systems. 
  <p class="updated_time"> 02:00 PM CT, Mar. 20 </p> 
@@ -228,14 +230,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/us/politics/russia-hypersonic-missile-attack-claim.html">Russia Claims to Use a Hypersonic Missile</a> NYT: The United States, Russia and China have all been racing to develop hypersonic weapons, which can maneuver in flight at more than five times the speed of sound. 
  <p class="updated_time"> 12:38 PM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/qin-china-russia-ukraine-00018726">Ambassador says China promotes peace but won’t condemn Russia</a> Politico: Qin Gang said that China has and will continue to do everything it can to deescalate the conflict. 
- <p class="updated_time"> 12:34 PM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 11:27 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/liz-cheney-red-line-chemical-weapons-00018725">Cheney: Use of chemical weapons is 'red line' for NATO intervention</a> Politico: "We need to stop telling the Russians what we won't do," Cheney said. 
  <p class="updated_time"> 10:35 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/20/jacksons-and-durbins-big-week-00018717"> Jackson’s (and Durbin’s) big week</a> Politico Playbook: And Russia makes advances in Ukraine. 
  <p class="updated_time"> 10:20 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/zelenskyy-ukraine-zakaria-interview-00018716">Zelenskyy said he's willing to talk with Putin but not yield his nation's independence</a> Politico: "If there is just 1 percent chance for us to stop this war, I think that we need to take this chance, we need to do that," he said. 
+ <a href="https://www.politico.com/news/2022/03/20/zelenskyy-ukraine-zakaria-interview-00018716">Zelenskyy says he's willing to talk with Putin but not yield his nation's independence</a> Politico: "If there is just 1 percent chance for us to stop this war, I think that we need to take this chance, we need to do that," he said. 
  <p class="updated_time"> 09:34 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/russians-taking-ukrainians-by-force-00018715">U.N. ambassador disturbed by reports of Russians seizing and deporting Ukrainians</a> Politico: “I've only heard it. I can't confirm it. But I can say it is disturbing," Linda Thomas-Greenfield said. 
  <p class="updated_time"> 09:17 AM CT, Mar. 20 </p> 
