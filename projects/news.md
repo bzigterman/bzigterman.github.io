@@ -9,16 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:40 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
  <p class="updated_time"> 08:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
  <p class="updated_time"> 08:16 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
  <p class="updated_time"> 07:48 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766174/hunger-and-fear-permeate-kabul-months-after-talibans-return-to-power">Hunger and fear permeate Kabul months after Taliban's return to power</a> NPR: Kabul, Afghanistan's capital, is a changed place since the Taliban returned to power. Women live with more restrictions, and many Afghans lack electricity and food. 
+ <p class="updated_time"> 07:44 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 07:42 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
- <p class="updated_time"> 07:33 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 07:23 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766153/two-ukrainian-mothers-struggle-to-stay-in-touch-with-their-children-on-the-front">Two Ukrainian mothers struggle to stay in touch with their children on the front line</a> NPR: Four weeks into the war, two women in Ukraine share their stories as the struggle to stay in touch with their children, who are living in cities at the front line of Russia's assault. 
  <p class="updated_time"> 07:19 AM CT, Mar. 20 </p> 
@@ -27,30 +29,36 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/20/1087766097/zelensky-says-mariupol-will-be-remembered-as-one-of-modern-warfares-ugliest-sieg">Zelenskyy says Mariupol will be remembered as one of modern warfare's ugliest sieges</a> NPR: The latest news from Ukraine, including the bombing of an Mairupol art school where civilians were taking cover, and allegations that Russians are taking Ukrainians over the border by force. 
  <p class="updated_time"> 06:49 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766244/russia-ukraine-attack-art-school-mariupol-400-people-inside">Ukrainian officials say Russia has bombed a school with 400 people sheltering inside</a> NPR: There was no immediate word on casualties from the reported strike on the art school situated in the embattled port city of Mariupol. 
- <p class="updated_time"> 06:33 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 06:44 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
- <p class="updated_time"> 05:33 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 05:44 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 05:03 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Several others are in a critical condition following the crash, which happened early on Sunday. 
  <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
- <p class="updated_time"> 04:33 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 04:44 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087734423/afghanistan-girls-school-taliban">As school resumes in Afghanistan, will all girls be allowed to go?</a> NPR: Schools in Afghanistan are expected to open for the new semester Wednesday. But despite Taliban assurances that girls will be allowed back, students and teachers are unclear about what will happen. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
- <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/russia-putin-propaganda-media.html">The Lies Putin Tells to Justify Russia’s War on Ukraine</a> NYT: The Kremlin has used a barrage of increasingly outlandish falsehoods to prop up its overarching claim that the invasion of Ukraine is justified. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202">Ukraine Tech Startups Pivot From Software Code to Rescue Plans</a> WSJ: Heads of tech startups with operations in Ukraine, like StarWind Software, Lemon,io and People.ai, are running their businesses from places like Poland, Israel and Silicon Valley—and helping evacuate and defend Ukraine. 
  <p class="updated_time"> 03:51 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60812438?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol terror will go down in history - Zelensky</a> BBC: The president of Ukraine condemns Russia's actions in the besieged of the port city of Mariupol. 
- <p class="updated_time"> 03:33 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 03:44 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
+ <p class="updated_time"> 03:40 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia's Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts</a> WSJ: Russia appears to be preparing to reset its forces after more than three brutal weeks of combat and limited ground gains in its assault on Ukraine, while the situation in the embattled port city of Mariupol worsened. 
+ <p class="updated_time"> 03:00 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia's Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Building Fortress Russia was supposed to protect the country from sanctions. It is still highly dependent on imports. 
  <p class="updated_time"> 12:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
+ <p class="updated_time"> 12:30 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/china-says-housing-prices-are-stable-but-developers-see-significant-declines-11647768602">China Says Housing Prices Are Stable, but Developers See Significant Declines</a> WSJ: One main reason for the diverging picture is the composition of the country’s official data, economists and property analysts say. 
  <p class="updated_time"> 11:23 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/climate/energy-transition-climate-change.html">There’s a Messaging Battle Right Now Over America’s Energy Future</a> NYT: Climate scientists and fossil fuel executives use the same terms when they talk about an energy transition. But they mean starkly different things. 
  <p class="updated_time"> 11:08 PM CT, Mar. 19 </p> 
@@ -121,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60806973?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Tanks in streets' as fighting hits Mariupol centre</a> BBC: Street fighting hampers efforts to rescue civilians trapped in a bombed theatre, the mayor says. 
  <p class="updated_time"> 08:14 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/france-algeria-macron-election-far-right.html">Shadows of Algerian War Loom Over Election Campaign in France</a> NYT: As President Emmanuel Macron addresses his country’s colonial history, echoes of that past have pervaded the messaging of right-wing candidates ahead of the voting in April. 
- <p class="updated_time"> 08:00 AM CT, Mar. 19 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-expands-potential-role-of-women-in-vatican-bureaucracy-11647709244">Pope Francis Expands Potential Role of Women at Vatican</a> WSJ: A new Vatican constitution opens the way for women to run some offices at the Catholic Church’s universal headquarters that have always been run by men. 
  <p class="updated_time"> 07:31 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087265230/4-reasons-why-social-media-can-give-a-skewed-account-of-the-war-in-ukraine">4 reasons why social media can give a skewed account of the war in Ukraine</a> NPR: Images of Ukraine are flooding social media, but experts warn they don't show the full picture and can sometimes give a misleading account of the conflict on the ground. 
  <p class="updated_time"> 07:03 AM CT, Mar. 19 </p> 
@@ -203,8 +209,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons will US give Ukraine - and how much will they help?</a> BBC: Experts believe that while additional US aid can help Ukraine fight back, more is still needed. 
  <p class="updated_time"> 07:22 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60737248?at_medium=RSS&at_campaign=KARANGA">Ukraine's restaurants rally to the war effort</a> BBC: From chefs to suppliers, the country's food industry is pulling together to feed the population at war. 
- <p class="updated_time"> 08:44 AM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/asia/cambodia-trial-hun-sen.html">Cambodia Convicts 19 Opposition Politicians on ‘Incitement’ Charges</a> NYT: Critics called the trial a “witch hunt,” and the latest effort by Prime Minister Hun Sen to eliminate the last vestiges of dissenting political voices in what was already a virtually one-party state. 
 
 
 </details>
@@ -212,6 +216,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:41 AM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/ben-sasse-ukraine-russia-00018707">Sasse to Biden: 'Stop listening to all of your advisers who say Zelenskyy is a dead man walking'</a> Politico: He said it isn't enough to slow down Russian forces. 
  <p class="updated_time"> 08:25 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/ashish-jha-covid-biden.html">Can Ashish Jha, ‘A Comforting Voice,’ Tamp Down Covid’s Political Divide?</a> NYT: Dr. Jha, the new White House coronavirus response coordinator, has built a reputation as a gifted communicator, but there is much more to the job. 
  <p class="updated_time"> 07:34 AM CT, Mar. 20 </p> 
