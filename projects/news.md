@@ -9,54 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
  <p class="updated_time"> 12:28 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/austria-indoor-mask-mandate.html">Amid rising cases, Austria hastily reintroduces an indoor mask mandate.</a> NYT: Earlier this month, Austrian officials also had announced that the nation’s general vaccine mandate would be temporarily suspended. 
- <p class="updated_time"> 11:59 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
+ <p class="updated_time"> 12:04 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
  <p class="updated_time"> 11:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
- <p class="updated_time"> 11:38 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts</a> WSJ: Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts 
  <p class="updated_time"> 11:33 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
  <p class="updated_time"> 11:18 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/rabbi-chaim-kanievsky-funeral.html">Revered Jewish Sage Buried in One of the Largest Gatherings in Israel’s History</a> NYT: Hundreds of thousands of Israelis shut down large parts of central Israel to attend the funeral of Rabbi Chaim Kanievsky, an influential spiritual leader. 
  <p class="updated_time"> 11:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
+ <p class="updated_time"> 11:04 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 10:59 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60814913?at_medium=RSS&at_campaign=KARANGA">In Mariupol, children bear the brunt of Vladimir Putin's war</a> BBC: At a children's hospital near the besieged city, the true impact of Russia's tactics are on display. 
- <p class="updated_time"> 10:38 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 10:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
+ <p class="updated_time"> 10:04 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/pentagons-work-with-ukraines-biological-facilities-becomes-flashpoint-in-russias-information-war-11647768601">Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War</a> WSJ: Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War 
  <p class="updated_time"> 10:01 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60812440?at_medium=RSS&at_campaign=KARANGA">Belgium carnival 'turned into a tragedy'</a> BBC: At least six people are killed after a car drives into a crowd of carnival-goers in southern Belgium. 
  <p class="updated_time"> 10:00 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60812330?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco ramps up investment to boost production</a> BBC: The state energy firm Saudi Aramco said it would increase investment after profits more than doubled in 2021. 
- <p class="updated_time"> 09:38 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/pentagons-work-with-ukraines-biological-facilities-becomes-flashpoint-in-russias-information-war-11647768601">Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War</a> WSJ: Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
  <p class="updated_time"> 09:06 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Dozens more are injured in the crash, which the mayor of the town says is a "national catastrophe". 
+ <p class="updated_time"> 09:04 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 08:40 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
- <p class="updated_time"> 08:38 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202">Ukraine Tech Startups Pivot From Software Code to Rescue Plans</a> WSJ: Ukraine Tech Startups Pivot From Software Code to Rescue Plans 
+ <p class="updated_time"> 08:04 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
  <p class="updated_time"> 07:48 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766174/hunger-and-fear-permeate-kabul-months-after-talibans-return-to-power">Hunger and fear permeate Kabul months after Taliban's return to power</a> NPR: Kabul, Afghanistan's capital, is a changed place since the Taliban returned to power. Women live with more restrictions, and many Afghans lack electricity and food. 
  <p class="updated_time"> 07:42 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
- <p class="updated_time"> 07:38 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 07:23 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766153/two-ukrainian-mothers-struggle-to-stay-in-touch-with-their-children-on-the-front">Two Ukrainian mothers struggle to stay in touch with their children on the front line</a> NPR: Four weeks into the war, two women in Ukraine share their stories as the struggle to stay in touch with their children, who are living in cities at the front line of Russia's assault. 
  <p class="updated_time"> 07:19 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766146/russian-citizens-continue-to-protest-war-with-ukraine-despite-threat-of-punishme">Russian citizens continue to protest war with Ukraine despite threat of punishment</a> NPR: Elissa Nadworny speaks with Leonid Drabkin of the Russian human rights media project OVD-Info, about how Russian citizens are continuing to protest the war despite the threat of punishment. 
- <p class="updated_time"> 07:18 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: The government said the agreement would clear the way for the largest single investment in the country. 
  <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766097/zelensky-says-mariupol-will-be-remembered-as-one-of-modern-warfares-ugliest-sieg">Zelenskyy says Mariupol will be remembered as one of modern warfare's ugliest sieges</a> NPR: The latest news from Ukraine, including the bombing of an Mairupol art school where civilians were taking cover, and allegations that Russians are taking Ukrainians over the border by force. 
  <p class="updated_time"> 06:49 AM CT, Mar. 20 </p> 
@@ -220,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:38 PM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/qin-china-russia-ukraine-00018726">Ambassador says China promotes peace but won’t condemn Russia</a> Politico: Qin Gang said that China has and will continue to do everything it can to deescalate the conflict. 
  <p class="updated_time"> 12:34 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 11:27 AM CT, Mar. 20 </p> 
@@ -258,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/20/school-bombed-in-ukraine-city-zelenskyy-cites-war-crimes-00018702">School bombed in Ukraine city; Zelenskyy cites war crimes</a> Politico: “Children, elderly people are dying. The city is destroyed and it is wiped off the face of the earth,” a Mariupol police officer said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087228827/senate-nomination-hearing-supreme-court-ketanji-brown-jackson">Confirmation hearings for Ketanji Brown Jackson begin Monday. Here's what to expect</a> NPR: Next week the Senate Judiciary Committee will hold confirmation hearings for Ketanji Brown Jackson, the federal judge President Biden has tapped as his Supreme Court nominee. 
- <p class="updated_time"> 08:52 PM CT, Mar. 19 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:03 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/us-ukraine-russia-escalation.html">For the U.S., a Tenuous Balance in Confronting Russia</a> NYT: Navigating between aiding Ukraine and avoiding an escalation with Moscow has led to a tangle of decisions and sometimes tortured distinctions over weapons and other elements of policy. 
  <p class="updated_time"> 03:40 PM CT, Mar. 19 </p> 
@@ -314,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/18/ohio-primary-maps-00018667">Ohio pauses preparations for May 3 primary amid map flap</a> Politico: A growing chorus of interest groups and politicians of both parties has begun calling on lawmakers to delay the primary. 
  <p class="updated_time"> 05:56 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/private-lenders-lobby-student-loan-payments-00018363">Private lenders lobby to restart federal student loan payments</a> Politico: The emergency relief has suspended monthly payments and interest for roughly 40 million federal loan borrowers for the past two years. 
- <p class="updated_time"> 05:23 PM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/kennedy-center-quietly-ditches-its-russian-lounge-00018664">Kennedy Center quietly ditches its 'Russian Lounge'</a> Politico: The move came amid backlash against Russia over its invasion of Ukraine. One trustee wants to rename the space "Ukraine Lounge." 
  <p class="updated_time"> 05:00 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/student-loan-payments-debt-biden-00018586">Dems fret Biden’s inaction on student debt will burn in midterms</a> Politico: Youth turnout could be diminished if Gen Z and Millennials don't see executive action on student loans. 
  <p class="updated_time"> 04:22 PM CT, Mar. 18 </p> 
