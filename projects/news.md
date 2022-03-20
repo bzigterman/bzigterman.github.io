@@ -9,30 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:42 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Live Updates: Advance of Russian Forces in Ukraine Appears to Stall</a> NYT: Russia is using “brutal” techniques that increasingly target civilians, the U.S. defense secretary said. A study concluded that Russia has lost its initial campaign and does not have the weapons or manpower to seize Kyiv. 
+ <p class="updated_time"> 08:04 AM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
+ <p class="updated_time"> 07:48 AM CT, Mar. 20 </p> 
+ <a href="https://www.npr.org/2022/03/20/1087766174/hunger-and-fear-permeate-kabul-months-after-talibans-return-to-power">Hunger and fear permeate Kabul months after Taliban's return to power</a> NPR: Kabul, Afghanistan's capital, is a changed place since the Taliban returned to power. Women live with more restrictions, and many Afghans lack electricity and food. 
  <p class="updated_time"> 07:42 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
  <p class="updated_time"> 07:23 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766153/two-ukrainian-mothers-struggle-to-stay-in-touch-with-their-children-on-the-front">Two Ukrainian mothers struggle to stay in touch with their children on the front line</a> NPR: Four weeks into the war, two women in Ukraine share their stories as the struggle to stay in touch with their children, who are living in cities at the front line of Russia's assault. 
  <p class="updated_time"> 07:19 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766146/russian-citizens-continue-to-protest-war-with-ukraine-despite-threat-of-punishme">Russian citizens continue to protest war with Ukraine despite threat of punishment</a> NPR: Elissa Nadworny speaks with Leonid Drabkin of the Russian human rights media project OVD-Info, about how Russian citizens are continuing to protest the war despite the threat of punishment. 
+ <p class="updated_time"> 07:13 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766097/zelensky-says-mariupol-will-be-remembered-as-one-of-modern-warfares-ugliest-sieg">Zelensky says Mariupol will be remembered as one of modern warfare's ugliest sieges</a> NPR: The latest news from Ukraine, including the bombing of an Mairupol art school where civilians were taking cover, and allegations that Russians are taking Ukrainians over the border by force. 
- <p class="updated_time"> 06:51 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-try-to-hold-mariupol-as-combat-reaches-city-streets-11647690670">Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets</a> WSJ: Ukrainian Forces Try to Hold Mariupol as Combat Reaches City Streets 
  <p class="updated_time"> 06:49 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766244/russia-ukraine-attack-art-school-mariupol-400-people-inside">Ukrainian officials say Russia has bombed a school with 400 people sheltering inside</a> NPR: There was no immediate word on casualties from the reported strike on the art school situated in the embattled port city of Mariupol. 
+ <p class="updated_time"> 06:13 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
- <p class="updated_time"> 05:51 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-family-navigates-a-perilous-route-to-escape-besieged-mariupol-11647683744">A Family Navigates a Perilous Route to Escape Mariupol</a> WSJ: A Family Navigates a Perilous Route to Escape Mariupol 
+ <p class="updated_time"> 05:13 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
  <p class="updated_time"> 05:03 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Several others are in a critical condition following the crash, which happened early on Sunday. 
  <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/reported-detention-of-russian-spy-boss-shows-tension-over-stalled-ukraine-invasion-u-s-officials-say-11647687601">Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion</a> WSJ: Reported Detention of Russian Spy Boss Shows Tension Over Stalled Invasion 
- <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
+ <p class="updated_time"> 04:13 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087734423/afghanistan-girls-school-taliban">As school resumes in Afghanistan, will all girls be allowed to go?</a> NPR: Schools in Afghanistan are expected to open for the new semester Wednesday. But despite Taliban assurances that girls will be allowed back, students and teachers are unclear about what will happen. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
@@ -43,9 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
  <p class="updated_time"> 03:51 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60812438?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol terror will go down in history - Zelensky</a> BBC: The president of Ukraine condemns Russia's actions in the besieged of the port city of Mariupol. 
- <p class="updated_time"> 03:51 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/three-times-russians-botched-a-war-and-had-a-revolution-11647694801">Three Times Russians Botched a War and Had a Revolution</a> WSJ: Three Times Russians Botched a War and Had a Revolution 
- <p class="updated_time"> 02:51 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 03:13 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-flare-up-threatens-backlog-at-busy-port-of-shenzhen-11647687603">China’s Covid-19 Flare-Up Threatens Backlog at Port</a> WSJ: China’s Covid-19 Flare-Up Threatens Backlog at Port 
  <p class="updated_time"> 12:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087698677/halyna-hutchins-family-ukraine">Halyna Hutchins' parents are trapped in Ukraine, Matt Hutchins says</a> NPR: Months after the Rust cinematographer was shot and killed, Halyna Hutchins' mother and father have been unable to escape the country, says her widower, who calls for safe corridors for refugees. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087712588/switzerland-joins-sanctions-against-russia-but-claims-it-remains-legally-neutral">Switzerland joins sanctions against Russia, but claims it remains legally neutral</a> NPR: Switzerland has joined the international sanctions against Russia, but its leaders say the country is not abandoning its tradition of neutrality. 
- <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
- <a href="https://www.npr.org/2022/03/19/1087712581/biden-warns-xi-jinping-of-consequences-toward-china-if-it-continues-russian-supp">Biden warns Xi Jinping of consequences toward China if it continues Russian support</a> NPR: President Biden had a long video call with Chinese leader Xi Jinping, warning against supporting Russia in its invasion of Ukraine. 
  <p class="updated_time"> 06:50 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">4 U.S. Marines Killed in Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
