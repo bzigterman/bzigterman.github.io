@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:40 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 10:46 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
  <p class="updated_time"> 10:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
@@ -17,22 +17,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60812440?at_medium=RSS&at_campaign=KARANGA">Belgium carnival 'turned into a tragedy'</a> BBC: At least six people are killed after a car drives into a crowd of carnival-goers in southern Belgium. 
  <p class="updated_time"> 10:00 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60812330?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco ramps up investment to boost production</a> BBC: The state energy firm Saudi Aramco said it would increase investment after profits more than doubled in 2021. 
- <p class="updated_time"> 09:44 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 09:55 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts</a> WSJ: Russia’s Halting Progress in Attack on Ukraine Puts Focus on Resupply Efforts 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
  <p class="updated_time"> 09:06 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Dozens more are injured in the crash, which the mayor of the town says is a "national catastrophe". 
- <p class="updated_time"> 08:44 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 08:55 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 08:40 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
  <p class="updated_time"> 08:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
+ <p class="updated_time"> 07:55 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/pentagons-work-with-ukraines-biological-facilities-becomes-flashpoint-in-russias-information-war-11647768601">Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War</a> WSJ: Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War 
  <p class="updated_time"> 07:48 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766174/hunger-and-fear-permeate-kabul-months-after-talibans-return-to-power">Hunger and fear permeate Kabul months after Taliban's return to power</a> NPR: Kabul, Afghanistan's capital, is a changed place since the Taliban returned to power. Women live with more restrictions, and many Afghans lack electricity and food. 
- <p class="updated_time"> 07:44 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/pentagons-work-with-ukraines-biological-facilities-becomes-flashpoint-in-russias-information-war-11647768601">Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War</a> WSJ: Pentagon’s Work With Ukraine’s Biological Facilities Becomes Flashpoint in Russia’s Information War 
  <p class="updated_time"> 07:42 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
  <p class="updated_time"> 07:23 AM CT, Mar. 20 </p> 
@@ -41,13 +41,13 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/20/1087766146/russian-citizens-continue-to-protest-war-with-ukraine-despite-threat-of-punishme">Russian citizens continue to protest war with Ukraine despite threat of punishment</a> NPR: Elissa Nadworny speaks with Leonid Drabkin of the Russian human rights media project OVD-Info, about how Russian citizens are continuing to protest the war despite the threat of punishment. 
  <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766097/zelensky-says-mariupol-will-be-remembered-as-one-of-modern-warfares-ugliest-sieg">Zelenskyy says Mariupol will be remembered as one of modern warfare's ugliest sieges</a> NPR: The latest news from Ukraine, including the bombing of an Mairupol art school where civilians were taking cover, and allegations that Russians are taking Ukrainians over the border by force. 
+ <p class="updated_time"> 06:55 AM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202">Ukraine Tech Startups Pivot From Software Code to Rescue Plans</a> WSJ: Ukraine Tech Startups Pivot From Software Code to Rescue Plans 
  <p class="updated_time"> 06:49 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766244/russia-ukraine-attack-art-school-mariupol-400-people-inside">Ukrainian officials say Russia has bombed a school with 400 people sheltering inside</a> NPR: There was no immediate word on casualties from the reported strike on the art school situated in the embattled port city of Mariupol. 
- <p class="updated_time"> 06:44 AM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202">Ukraine Tech Startups Pivot From Software Code to Rescue Plans</a> WSJ: Ukraine Tech Startups Pivot From Software Code to Rescue Plans 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
- <p class="updated_time"> 05:44 AM CT, Mar. 20 </p> 
+ <p class="updated_time"> 05:55 AM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
@@ -237,11 +237,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:38 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/yemen-strikes-saudi-arabia-00018703">Yemen rebels launch wide strikes on Saudi sites</a> Politico: The targets included natural gas and desalination plants. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/republicans-2022-campaigns-00018591">How the GOP's dirtiest slur got a new life</a> Politico: An insult once reserved for Republican moderates has been weaponized. 
- <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/durbin-supreme-court-nominee-ketanji-brown-jackson-00018579">The Senate's Supreme Court peacekeeper prepares for his moment</a> Politico: He waited 39 years for a committee gavel. Now the famously even-tempered Dick Durbin gets what may be his only chance to confirm a justice. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/republicans-2022-campaigns-00018591">How the GOP's dirtiest slur got a new life</a> Politico: An insult once reserved for Republican moderates has been weaponized. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/new-yorks-left-disarray-eric-adams-00018688">Eric Adams is daring the left to take him on — and they’re game</a> Politico: In New York, progressives aren’t satisfied with Adams’ law-and-order agenda, but until now they hadn’t figured out how to effectively rebuke him either. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/its-a-unicorn-year-for-mid-income-taxpayers-thanks-to-pandemic-aid-00018094">It's a 'unicorn year' for mid-income taxpayers, thanks to pandemic aid</a> Politico: A loophole allows some to take advantage of stimulus payments and the expanded child credit even if they wouldn't normally qualify. 
  <p class="updated_time"> 05:39 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/school-bombed-in-ukraine-city-zelenskyy-cites-war-crimes-00018702">School bombed in Ukraine city; Zelenskyy cites war crimes</a> Politico: “Children, elderly people are dying. The city is destroyed and it is wiped off the face of the earth,” a Mariupol police officer said. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
@@ -254,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087723875/kim-davis-court-same-sex-marriage">Kim Davis violated same-sex couples' rights by refusing marriage licenses, judge says</a> NPR: The legal fight over the former county clerk's decision to refuse two gay couples marriage licenses in 2015 continues. A jury will decide whether she is responsible for their legal fees. 
  <p class="updated_time"> 03:05 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/military-mental-health.html">A General Fights to Destigmatize Mental Health Issues: ‘There’s a Shame if You Show Weakness’</a> NYT: The military has struggled to meet the mental health needs of troops, lawmakers and service members say. 
- <p class="updated_time"> 01:29 PM CT, Mar. 19 </p> 
- <a href="https://www.politico.com/news/2022/03/19/u-s-health-officials-covid-19-hospital-safety-complaints-politico-report-00018695">U.S. health officials seek Covid-19 hospital safety complaints following POLITICO report</a> Politico: America’s hospital regulator wants patients to report facilities that request they remove their masks. 
  <p class="updated_time"> 11:48 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/russia-hypersonic-missile-attack-claim.html">Russia Claims to Use a Hypersonic Missile</a> NYT: The United States, Russia and China have all been racing to develop hypersonic weapons, which can maneuver in flight at more than five times the speed of sound. 
  <p class="updated_time"> 11:41 AM CT, Mar. 19 </p> 
@@ -286,6 +286,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087702792/alaska-rep-don-young-the-longest-serving-current-member-of-congress-dies-at-age-">Alaska Rep. Don Young, the longest-serving current member of Congress, dies at age 88</a> NPR: Young, who was first elected to the U.S. House in 1973, was known for his brusque style. In later years in office, his off-color comments and gaffes sometimes overshadowed his work. 
  <p class="updated_time"> 09:04 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/alaska-rep-don-young-dean-of-the-house-dies-at-88-00018680">Alaska Rep. Don Young, Dean of the House, dies at 88</a> Politico: His office announced Young's death in a statement Friday night. 
+ <p class="updated_time"> 08:03 PM CT, Mar. 18 </p> 
+ <a href="https://www.politico.com/news/2022/03/18/ohio-gop-senate-debate-gibbons-mandel-fight-00018678">Ohio GOP Senate debate turns nasty as Gibbons and Mandel go nose-to-nose</a> Politico: The two Republican polling frontrunners got in each other's faces Friday evening. 
  <p class="updated_time"> 06:35 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087670948/biden-tells-chinas-xi-of-the-implications-of-assisting-russia-in-call-official-s">Biden tells China's Xi of the implications of assisting Russia in call, official says</a> NPR: A White House official declined to lay out the specifics of any potential U.S. response, but said that Biden was "detailed" and "direct" with the Chinese leader. 
  <p class="updated_time"> 06:32 PM CT, Mar. 18 </p> 
@@ -318,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616930/better-ventilation-means-healthier-students-but-many-schools-cant-afford-to-upgr">Better ventilation means healthier students, but many schools can't afford to upgrade</a> NPR: The better the air quality in schools, the better students do academically and healthier they are. Improving air quality is expensive, so advocates hope money set aside under the Biden Plan will help. 
  <p class="updated_time"> 12:46 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/washington-post-speech-protection-discrimination-suit-00018535">Washington Post wields speech-protection law to fight reporter's discrimination suit</a> Politico: Judge hears arguments on case journalist Felicia Sonmez filed over editors' decisions to wall her off from sexual assault coverage. 
- <p class="updated_time"> 12:32 PM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/liberal-billionaire-nonprofit-dark-money-00018513">Liberal billionaire’s nonprofit splashed $56M in 2020</a> Politico: Berger Action Fund, founded by the Swiss-born billionaire Hansjörg Wyss, sent $31 million of that money to Sixteen Thirty Fund, the left's leading "dark-money" hub. 
  <p class="updated_time"> 12:25 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087519729/mark-meadows-faces-north-carolina-investigation-over-his-voter-registration">Mark Meadows faces North Carolina investigation over his voter registration</a> NPR: The probe follows an allegation that the former Trump White House chief of staff never resided at the address he put on his voter registration ahead of the 2020 election. 
  <p class="updated_time"> 11:24 AM CT, Mar. 18 </p> 
@@ -350,8 +350,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/us/politics/democrats-oil-companies-gas-prices.html">Climate Groups Want Democrats to Confront Oil Companies Over Gas Prices</a> NYT: Environmental groups want Democrats to confront oil companies over high gas prices. And Democrats are listening. 
  <p class="updated_time"> 05:52 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/washington-coronavirus-cases.html">With a Flurry of High-Profile Coronavirus Cases, Washington Is Again on Edge</a> NYT: The cases have raised questions about the trajectory of the pandemic, even as the White House has signaled confidence about resuming normal activities. 
- <p class="updated_time"> 10:52 AM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/durbin-white-house-disparage-emerging-conservative-attack-on-kbj-sex-offender-rulings-00018142">GOP indicates plans to question KBJ on handling of sex-related offenses</a> Politico: Senate Judiciary Republicans are circulating a document that takes aim at the Supreme Court nominee's handling of sex-related offenses, days before her confirmation hearings begin. 
 
 
 </details>
