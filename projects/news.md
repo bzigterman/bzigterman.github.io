@@ -9,6 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087913847/thousands-of-russians-are-traveling-to-georgia-to-flee-their-own-government">Thousands of Russians are traveling to Georgia to flee their own government</a> NPR: More than 30,000 Russians have arrived in the country of Georgia since Russia invaded Ukraine. Russians are fleeing not war, but their own government. And they say they can't go back. 
+ <p class="updated_time"> 03:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087913833/the-living-breathing-sauce-thats-at-the-heart-of-chinas-regional-cuisines">The living, breathing sauce that's at the heart of China's regional cuisines</a> NPR: One of the great cornerstones of Chinese culture is its food. And at the heart of China's many regional cuisines is one, secret sauce: Lu. 
+ <p class="updated_time"> 03:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087913826/a-slovak-man-wanted-to-take-donations-to-ukraine-he-ended-up-leading-a-convoy-of">A Slovak man wanted to take donations to Ukraine. He ended up leading a convoy of aid</a> NPR: Alarmed by the humanitarian crisis caused by Russia's invasion, an economist in Slovakia gathered food and clothes from friends — and found himself leading a convoy carrying tons of aid into Ukraine. 
+ <p class="updated_time"> 03:50 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Russia Strikes Kyiv Mall; Mariupol Refuses to Yield</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city. A Russian missile strike reduced a sprawling shopping mall in Kyiv to a smoldering ruin. And the Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
+ <p class="updated_time"> 03:50 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html">Biden Warns Private Sector of Potential Russian Cyber Attacks</a> NYT: The president cited “evolving intelligence” that Russia is exploring options for potential cyberattacks. 
+ <p class="updated_time"> 03:47 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/arts/design/europe-russian-art-museums.html">As Big Shows of Russian Art End in Europe, Some Wonder What’s Next</a> NYT: Museums in London and Paris are grappling with questions about how to get art back to Russia, and whether the works will ever be seen again in Europe. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913812/a-ukrainian-church-in-kentucky-raises-money-for-refugees-through-bake-sale">A Ukrainian church in Kentucky raises money for refugees through bake sale</a> NPR: A church in the town of Nicholasville, Ky., held a fundraiser for humanitarian relief for Ukraine over the weekend. It raised $145,000. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
@@ -17,28 +29,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Live Updates: Boeing 737-800 Crashes in Remote Mountain Valley in Southern China</a> NYT: Rescuers on the scene found debris and fires, and a lack of electricity hampered rescue efforts overnight. Search efforts are set to continue into Tuesday, although it was unclear if any of the 132 crew and passengers survived the plane crash. 
  <p class="updated_time"> 03:15 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/climate/climate-change-question.html">Ask The Times Your Climate Questions</a> NYT: Wondering about a word, a scientific phenomenon, a policy or something else? We’re here to help. 
- <p class="updated_time"> 03:10 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Russia Strikes Kyiv Mall; Mariupol Refuses to Yield</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city. A Russian missile strike reduced a sprawling shopping mall in Kyiv to a smoldering ruin. And the Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
  <p class="updated_time"> 03:09 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-stock-price.html">Boeing Stock Price Falls  After China Eastern Crash</a> NYT: The aerospace giant said it was seeking more information on the disaster, and U.S. regulators said they were ready to assist. 
  <p class="updated_time"> 03:04 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerges. 
- <p class="updated_time"> 03:01 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/arts/design/europe-russian-art-museums.html">As Big Shows of Russian Art End in Europe, Some Wonder What’s Next</a> NYT: Museums in London and Paris are grappling with questions about how to get art back to Russia, and whether the works will ever be seen again in Europe. 
+ <p class="updated_time"> 02:55 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 02:54 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/style/volodymyr-zelensky-t-shirt.html">The Man in the Olive Green Tee</a> NYT: How Ukrainian President Volodymyr Zelensky transformed the meaning of a piece of cotton. 
  <p class="updated_time"> 02:47 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60826303?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Holocaust survivor killed by Russian shelling in Kharkiv</a> BBC: Boris Romantschenko was killed in Kharkiv 77 years after surviving the Buchenwald concentration camp. 
  <p class="updated_time"> 02:44 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
- <p class="updated_time"> 02:43 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 02:01 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/myanmar-genocide-biden.html">Myanmar’s Military Committed Genocide Against Rohingya, U.S. Says</a> NYT: Secretary of State Antony Blinken announced the official designation. More than 9,000 people were killed in the violence. 
+ <p class="updated_time"> 01:55 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 01:54 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087876854/holocaust-survivor-killed-russian-shelling-ukraine">A 96-year-old Holocaust survivor was killed when Russian forces shelled his home</a> NPR: Boris Romantschenko was killed last week in a Russian attack in Kharkiv. He survived four concentration camps and later "campaigned intensively for the memory of the Nazi crimes." 
- <p class="updated_time"> 01:43 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 01:24 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/middleeast/tunisia-constitution-consultation.html">Tunisian President’s Reform Plan Meets With Skepticism</a> NYT: President Kais Saied, who has amassed nearly absolute power, launched a consultation he said would lead to a new constitution and elections. But the process has been shunned by many. 
  <p class="updated_time"> 01:22 PM CT, Mar. 21 </p> 
@@ -47,7 +55,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/climate/united-nations-fossil-fuels-climate-crisis.html">U.N. Chief Warns of ‘Catastrophe’ With Continued Use of Fossil Fuels</a> NYT: António Guterres, the United Nations secretary general, said instead of replacing Russian oil, gas and coal, nations must pivot to clean energy. 
  <p class="updated_time"> 01:15 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60825226?at_medium=RSS&at_campaign=KARANGA">Mariupol: Four reasons the city matters so much to Russia</a> BBC: The most bombarded city in Ukraine’s war with Russia is key to Moscow’s military campaign. 
- <p class="updated_time"> 12:43 PM CT, Mar. 21 </p> 
+ <p class="updated_time"> 12:55 PM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 12:35 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087869406/russia-ukraine-truck-drivers">Russia is trying to recruit drivers who know Ukraine's roads</a> NPR: There's been a sharp rise in ads for trucker jobs in since March 19, but Ukraine's government says the postings are linked to Russia's military, which has had trouble navigating Ukraine. 
@@ -59,7 +67,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/us/amazon-south-africa.html">Plan for Amazon Headquarters in South Africa in Peril After Court Order</a> NYT: A judge ordered construction of the development in Cape Town to be halted, saying that the developer had not properly consulted Indigenous South Africans. 
  <p class="updated_time"> 11:58 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China and there are fears no-one survived. 
- <p class="updated_time"> 11:43 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 11:55 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 11:19 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal's Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: The issue is galvanizing opposition to the nuclear deal in Washington and among allies like Israel, which criticized any attempt to remove the terrorism designation of the Islamic Revolutionary Guard Corps. 
@@ -145,12 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60816865?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The wounded children of Putin's war</a> BBC: Survivors from the bombardment of Mariupol are bearing the physical and mental scars of the conflict. 
  <p class="updated_time"> 04:21 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087080628/mosul-iraq-murals-art-after-isis">In Iraq's Mosul, art springs up from ruins almost 5 years after the ouster of ISIS</a> NPR: This vibrant street art is a sign of the spirited rebuilding going on in the northern Iraqi city, after ISIS was defeated in 2017. 
- <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
- <a href="https://www.npr.org/2022/03/20/1087777022/russia-ukraine-war-what-happened-today-march-20">Russia-Ukraine war: What happened today (March 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:34 PM CT, Mar. 20 </p> 
- <a href="https://www.npr.org/2022/03/20/1087782349/zelenskyy-ukraine-israel">Zelenskyy compares Russia's invasion to Holocaust in a plea to Israel for support</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke with Israeli lawmakers about his impatience with Israel as it mediates negotiations between Russia and Ukraine. 
- <p class="updated_time"> 03:18 PM CT, Mar. 20 </p> 
- <a href="https://www.npr.org/2022/03/20/1087781833/ukraine-deaths-casualties">More than 900 civilians have died in Ukraine. The true number is likely much higher</a> NPR: Many of the casualties occurred in the Donetsk and Luhansk regions in Ukraine's east, which are partially controlled by separatist rebels backed by Russia. 
  <p class="updated_time"> 03:18 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-war-kyiv.html">In Ukraine, Solidarity and Defiance Among Those Still in Kyiv</a> NYT: About two million people have stayed in Kyiv, a population galvanized by a newfound unity and its refusal to be cowed by Russian invaders. 
  <p class="updated_time"> 01:39 PM CT, Mar. 20 </p> 
@@ -169,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
- <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/19/world/europe/kyiv-ukraine-russia-war.html">The Battle for Kyiv Looms as a Long and Bloody Conflict</a> NYT: Ukraine’s capital is the biggest prize of all for the Russian military. If Russia tries to take control, it could lead to one of the biggest urban conflicts since World War II. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/russia-putin-propaganda-media.html">The Lies Putin Tells to Justify Russia’s War on Ukraine</a> NYT: The Kremlin has used a barrage of increasingly outlandish falsehoods to prop up its overarching claim that the invasion of Ukraine is justified. 
  <p class="updated_time"> 11:08 PM CT, Mar. 19 </p> 
@@ -206,12 +206,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-hearing-opening-statement.html">Ketanji Brown Jackson Vows to Be Independent Judge in Confirmation Hearing</a> NYT: Judge Ketanji Brown Jackson committed to adopt a “neutral stance” if confirmed to the Supreme Court and promised to continue to produce expansive, “transparent” opinions. 
  <p class="updated_time"> 03:33 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087863804/ketanji-brown-jackson-supreme-court-confirmation-hearing-day-1-recap">Judge Ketanji Brown Jackson confirmation hearings: What happened today</a> NPR: Democrats are hoping to finish Jackson's confirmation process before Congress leaves for Easter recess April 11. 
+ <p class="updated_time"> 03:33 PM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/trump-donors-millions-00019002">Trump hoards his war chest and Dem donors unleash millions: 5 takeaways from the latest campaign money disclosures</a> Politico: Former President Donald Trump's PAC now has over $110 million in the bank. 
  <p class="updated_time"> 03:32 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/business/economy/powell-fed-inflation.html">Powell Says Fed Could Raise Rates More Quickly to Tame Inflation</a> NYT: Jerome H. Powell, the chair of the Federal Reserve, voiced worry about inflation expectations and declared the central bank ready to do what it takes to control rapid price increases. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913819/sen-dick-durbin-on-the-1st-day-of-hearings-for-scotus-nominee-ketanji-brown-jack">Sen. Dick Durbin on the 1st day of hearings for SCOTUS nominee Ketanji Brown Jackson</a> NPR: NPR's Juana Summers speaks with Sen. Dick Durbin, chair of the Senate Judiciary Committee, as the first day of confirmation hearings for Supreme Court nominee Ketanji Brown Jackson wraps up. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
- <a href="https://www.npr.org/2022/03/21/1087913783/confirmation-hearings-for-supreme-court-nominee-kataji-brown-jackson-are-underwa">Confirmation hearings for Supreme Court nominee Kataji Brown Jackson are underway</a> NPR: Confirmation hearings opened Monday for Judge Katanji Brown Jackson's nomination to the Supreme Court. She's the first Black woman nominated for the nation's highest court. 
+ <a href="https://www.npr.org/2022/03/21/1087913783/confirmation-hearings-for-supreme-court-nominee-ketanji-brown-jackson">Confirmation hearings for Supreme Court nominee Ketanji Brown Jackson are underway</a> NPR: Confirmation hearings opened Monday for Judge Ketanji Brown Jackson's nomination to the Supreme Court. She's the first Black woman nominated for the nation's highest court. 
  <p class="updated_time"> 03:10 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/kentaji-brown-jackson-opening-statement-supreme-court-00018980">Read: Ketanji Brown Jackson's opening statement ahead of the Supreme Court hearings</a> Politico: Read her full opening statement. 
  <p class="updated_time"> 02:55 PM CT, Mar. 21 </p> 
@@ -240,6 +242,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/21/biden-europe-russian-gas-00018189">Why Biden can't help Europe rid itself of Russian gas</a> Politico: "Governments don’t make deals," said the director of Tufts University's Climate Policy Lab. 
  <p class="updated_time"> 10:35 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">At Harvard, a Confederate Flag Spurred Ketanji Brown Jackson to Act</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
+ <p class="updated_time"> 10:32 AM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/sec-outlines-climate-disclosure-rules-for-businesses-00018849">SEC climate rule would boost Biden agenda</a> Politico: The proposed rule would deliver a big — and durable — policy win for President Joe Biden, whose climate agenda has been mired in congressional partisanship, and overshadowed by economic and geopolitical crises. 
  <p class="updated_time"> 10:24 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-strategy.html">After Three Rounds, Judge Jackson Knows the Confirmation Playbook</a> NYT: In her Supreme Court confirmation hearings this week, the judge will draw on her earlier experiences and those of her predecessors. 
  <p class="updated_time"> 10:06 AM CT, Mar. 21 </p> 
@@ -310,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/20/durbin-supreme-court-nominee-ketanji-brown-jackson-00018579">The Senate's Supreme Court peacekeeper prepares for his moment</a> Politico: He waited 39 years for a committee gavel. Now the famously even-tempered Dick Durbin gets what may be his only chance to confirm a justice. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/republicans-2022-campaigns-00018591">How the GOP's dirtiest slur got a new life</a> Politico: An insult once reserved for Republican moderates has been weaponized. 
- <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/new-yorks-left-disarray-eric-adams-00018688">Eric Adams is daring the left to take him on — and they’re game</a> Politico: In New York, progressives aren’t satisfied with Adams’ law-and-order agenda, but until now they hadn’t figured out how to effectively rebuke him either. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087228827/senate-nomination-hearing-supreme-court-ketanji-brown-jackson">Confirmation hearings for Ketanji Brown Jackson begin Monday. Here's what to expect</a> NPR: Next week the Senate Judiciary Committee will hold confirmation hearings for Ketanji Brown Jackson, the federal judge President Biden has tapped as his Supreme Court nominee. 
  <p class="updated_time"> 08:52 PM CT, Mar. 19 </p> 
