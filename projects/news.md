@@ -9,52 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:08 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Mariupol Refuses to Yield; Russia Strikes Kyiv Mall</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city. And the Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children from the east of the country. 
+ <p class="updated_time"> 10:08 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Live Updates: China Eastern Plane Crashes With Over 130 on Board</a> NYT: The airline expressed its condolences to the relatives of the passengers and crew members on the Boeing 737-800. Rain was forecast at the accident site, which is likely to hamper rescue efforts. 
+ <p class="updated_time"> 10:05 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/europe/iran-uk-nazanin-zaghari-ratcliffe-released.html">Back in U.K., Nazanin Zaghari-Ratcliffe Urges Iran to Release Others</a> NYT: Ms. Zaghari-Ratcliffe, the British-Iranian charity worker held for six years in Tehran, said “freedom will never be complete” until all detainees were allowed to leave. 
+ <p class="updated_time"> 10:00 AM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087827003/facebook-instagram-russia-extremist-organization">Russian court declares Facebook, Instagram extremist organizations</a> NPR: The ruling amounts to an immediate ban of Facebook and Instagram in Russia, where both platforms are already blocked. WhatsApp, also owned by Meta, is still allowed. 
+ <p class="updated_time"> 09:54 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/australia/australia-space-command.html">Creating Space Command, Australia Strengthens High-Tech Bond With U.S.</a> NYT: The expanded commitment to space defense reflects the reality of a new, extraterrestrial landscape for war. 
  <p class="updated_time"> 09:52 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
- <p class="updated_time"> 09:47 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Live Updates: China Eastern Plane Crashes With Over 130 on Board</a> NYT: The airline expressed its condolences to the relatives of the passengers and crew members on the Boeing 737-800. Rain was forecast at the accident site, which is likely to hamper rescue efforts. 
  <p class="updated_time"> 09:47 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
  <p class="updated_time"> 09:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60816960?at_medium=RSS&at_campaign=KARANGA">Morad Tahbaz: British-US national detained in Iran on hunger strike</a> BBC: The family of Morad Tahbaz, who has cancer, says it is distraught that Iran has not yet freed him. 
- <p class="updated_time"> 09:33 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Mariupol Refuses to Yield; Russia Strikes Kyiv Mall</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city. And the Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children from the east of the country. 
  <p class="updated_time"> 09:30 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China, and there are fears no-one survived. 
  <p class="updated_time"> 09:29 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/flight-path-eastern-airlines.html">Flight MU-5735 Descended More Than 20,000 Feet in Just Over a Minute</a> NYT: An hour after it took off, the flight turned horribly wrong, according to data from Flightradar24. 
- <p class="updated_time"> 08:53 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 09:18 AM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-60824956?at_medium=RSS&at_campaign=KARANGA">UK blames Russia for hoax calls to cabinet ministers</a> BBC: Downing Street has also revealed that Culture Secretary Nadine Dorries was unsuccessfully targeted. 
+ <p class="updated_time"> 09:14 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Ukraine Rejects Russian Ultimatum on Embattled Mariupol</a> WSJ: Ukraine Rejects Russian Ultimatum on Embattled Mariupol 
  <p class="updated_time"> 08:43 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
  <p class="updated_time"> 08:22 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerge. 
- <p class="updated_time"> 08:21 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/australia/space-command.html">Creating Space Command, Australia Strengthens High-Tech Bond With U.S.</a> NYT: The expanded commitment to space defense reflects the reality of a new, extraterrestrial landscape for war. 
+ <p class="updated_time"> 08:14 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/agriculture-giants-stay-in-russia-despite-calls-to-exit-over-ukraine-war-11647860581">Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War</a> WSJ: Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War 
  <p class="updated_time"> 08:00 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087296594/nowruz-is-banned-in-afghanistan-but-families-continue-to-celebrate">Nowruz is banned in Afghanistan, but families continue to celebrate</a> NPR: One woman living in Kabul describes how, despite food shortages and repression, her family is celebrating the Persian new year with what they have. 
- <p class="updated_time"> 07:53 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/agriculture-giants-stay-in-russia-despite-calls-to-exit-over-ukraine-war-11647860581">Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War</a> WSJ: Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War 
  <p class="updated_time"> 07:45 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-next-generation.html">The Plane That Crashed Was Not a Boeing 737 Max</a> NYT: The model is a narrow-body jet that has a maximum range of over 3,000 miles, but is commonly used on shorter routes. 
  <p class="updated_time"> 07:39 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-60821258?at_medium=RSS&at_campaign=KARANGA">Moscow stock market reopens for some bond trading</a> BBC: Trading in bonds issued by the Russian government has restarted but other business remains suspended. 
+ <p class="updated_time"> 07:14 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
  <p class="updated_time"> 07:09 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60820993?at_medium=RSS&at_campaign=KARANGA">Colombia guard held after drug lord flees through open door</a> BBC: Gang leader Juan Castro escaped from the maximum-security La Picota jail disguised as a guard. 
  <p class="updated_time"> 07:07 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/article/ukraine-fake-news-russia.html">How to Avoid Sharing Misinformation on the War in Ukraine</a> NYT: Here are warning signs to look for before you retweet. 
- <p class="updated_time"> 06:53 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
- <p class="updated_time"> 05:53 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 06:14 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 05:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60820215?at_medium=RSS&at_campaign=KARANGA">Myanmar Rohingya violence is genocide, US to say</a> BBC: A US official said the move would make it harder for the military to commit further abuses. 
  <p class="updated_time"> 05:20 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/biden-administrations-military-strategy-juggles-russia-concerns-china-threat-11647872415">U.S.'s Military Strategy Juggles Russia Concerns, China Threat</a> WSJ: The Biden administration is seeking to balance what it sees as a pivotal moment for Europe and boost military spending, with a desire to maintain a long-term focus on countering China. 
+ <p class="updated_time"> 05:14 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 05:09 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/war-in-ukraine-disrupts-russian-european-mars-mission-and-other-space-ventures-11647867600">Russian-European Mars Mission Disrupted by War in Ukraine</a> WSJ: International sanctions tied to Russia’s invasion of Ukraine have scuttled several space missions and threaten to upend decades of collaboration among spacefaring nations. 
- <p class="updated_time"> 04:53 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 04:36 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087807099/jetliner-crashes-with-132-aboard-in-southern-china-officials-say">Jetliner crashes with 132 aboard in southern China, officials say</a> NPR: Authorities have not yet determined the total number of casualties or why the plane went down as debris is seen littered across a mountainside in Guangxi's Teng county. 
  <p class="updated_time"> 04:33 AM CT, Mar. 21 </p> 
@@ -125,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/20/1087781560/australia-alumina-ban-russia">Australia bans the export of aluminum ores to Russia </a> NPR: Australian officials said the restrictions, which include a ban on bauxite, is designed to curtail Russia's ability to produce aluminum — a vital ingredient in arms and munition manufacturing. 
  <p class="updated_time"> 01:39 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/pakistan-blasphemy-religious-violence.html">Religion-Fueled Mobs on the Rise Again in Pakistan</a> NYT: The recent lynching of a man accused of burning pages from a Quran underscored Pakistan’s leading status as a site of religious violence. 
- <p class="updated_time"> 01:11 PM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60814306?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Backlash in Russia against anti-war musicians</a> BBC: Banned from radio stations and rumoured black lists, artists against the war face a difficult moment. 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
  <p class="updated_time"> 11:33 AM CT, Mar. 20 </p> 
@@ -147,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/20/1087766153/two-ukrainian-mothers-struggle-to-stay-in-touch-with-their-children-on-the-front">Two Ukrainian mothers struggle to stay in touch with their children on the front line</a> NPR: Four weeks into the war, two women in Ukraine share their stories as the struggle to stay in touch with their children, who are living in cities at the front line of Russia's assault. 
  <p class="updated_time"> 07:19 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766146/russian-citizens-continue-to-protest-war-with-ukraine-despite-threat-of-punishme">Russian citizens continue to protest war with Ukraine despite threat of punishment</a> NPR: Elissa Nadworny speaks with Leonid Drabkin of the Russian human rights media project OVD-Info, about how Russian citizens are continuing to protest the war despite the threat of punishment. 
- <p class="updated_time"> 07:05 AM CT, Mar. 20 </p> 
- <a href="https://www.npr.org/2022/03/20/1087766097/zelensky-says-mariupol-will-be-remembered-as-one-of-modern-warfares-ugliest-sieg">Zelenskyy says Mariupol will be remembered as one of modern warfare's ugliest sieges</a> NPR: The latest news from Ukraine, including the bombing of an Mairupol art school where civilians were taking cover, and allegations that Russians are taking Ukrainians over the border by force. 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
  <p class="updated_time"> 04:51 AM CT, Mar. 20 </p> 
@@ -205,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-ukraine-china-biden.html">Russia Targets Western Ukraine as Biden Warns Xi Not to Aid Moscow</a> NYT: A scramble of diplomatic efforts bears little fruit as Russia intensifies its attacks, including with a bombardment into a relatively unscathed part of western Ukraine. 
  <p class="updated_time"> 01:37 PM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-russia-peace-talks-diplomacy.html">As Diplomacy Drags On, Peace Seems Far Off in Ukraine</a> NYT: Western officials have little optimism that talks between Russia and Ukraine have reached a serious stage or have even confronted the most difficult issues. 
- <p class="updated_time"> 01:35 PM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/19/business/hong-kong-virus-beijing.html">Confusion and Chaos in Hong Kong as Leaders Fumble Virus Response</a> NYT: Government officials have been unable to curb an outbreak that has surpassed one million infections, leading Beijing to step up its intervention in the semiautonomous territory. 
 
 
 </details>
@@ -272,8 +272,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/20/mitch-mcconnell-ketanji-brown-jackson-supreme-court-00018744">McConnell says he hasn't decided how he'll vote on Ketanji Brown Jackson</a> Politico: “I’m going to listen to the evidence,” the Senate minority leader said on CBS. “I'm going to listen to the hearings." 
  <p class="updated_time"> 01:13 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/russia-hypersonic-missile-attack-claim.html">Russia Claims to Use a Hypersonic Missile</a> NYT: The United States, Russia and China have all been racing to develop hypersonic weapons, which can maneuver in flight at more than five times the speed of sound. 
- <p class="updated_time"> 11:43 AM CT, Mar. 20 </p> 
- <a href="https://www.cnn.com/2022/03/20/politics/zelensky-putin-ukraine-negotiations-war-cnntv/index.html">Zelensky: 'I'm ready for negotiations' with Putin, but if they fail, it could mean 'a third World War'</a> CNN: Ukrainian President Volodymyr Zelensky said Sunday that he's "ready for negotiations" with Russian President Vladimir Putin but warned that if they fail "that would mean that this is a third World War." 
  <p class="updated_time"> 10:43 AM CT, Mar. 20 </p> 
  <a href="https://www.cnn.com/2022/03/20/politics/desantis-disney-florida-lgbtq-dont-say-gay-bill/index.html">DeSantis vs. Disney showdown bolsters Florida governor's standing in GOP</a> CNN: Months before Disney CEO Bob Chapek tiptoed into a roiling debate in Florida and before the legislation that opponents would call the "Don't Say Gay" bill was even filed, Gov. Ron DeSantis delivered a threat to business leaders who got in his way. 
  <p class="updated_time"> 10:35 AM CT, Mar. 20 </p> 
@@ -352,8 +350,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087567413/russia-ukraine-war-what-happened-today-march-18">Russia-Ukraine war: What happened today (March 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:32 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/liberal-billionaire-nonprofit-dark-money-00018513">Liberal billionaire’s nonprofit splashed $56M in 2020</a> Politico: Berger Action Fund, founded by the Swiss-born billionaire Hansjörg Wyss, sent $31 million of that money to Sixteen Thirty Fund, the left's leading "dark-money" hub. 
- <p class="updated_time"> 09:56 AM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/supply-chain-ballot-paper-shortage-00018460">A paper shortage is looming over the 2022 elections. Seriously.</a> Politico: Election officials are facing delays and shortages as they order the paper and envelopes they need to run elections this year. 
 
 
 </details>
