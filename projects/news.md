@@ -9,28 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:48 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Mariupol Refuses to Yield; Russia Strikes Kyiv Mall</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city, pummeled since the start of the war. A shopping center was reduced to ruins by one of the heaviest strikes to hit the center of the capital. 
- <p class="updated_time"> 05:48 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 06:07 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Live Updates: Rescuers Rush to Crash Site of China Eastern Plane</a> NYT: More than 130 people were on board the Boeing 737-800 when it went down in southern China. There was no immediate information on casualties or the cause. 
+ <p class="updated_time"> 06:03 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Mariupol Refuses to Yield; Russia Strikes Kyiv Mall</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city, pummeled since the start of the war. A shopping center was reduced to ruins by one of the heaviest strikes to hit the center of the capital. 
+ <p class="updated_time"> 05:59 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-next-generation.html">The Plane That Crashed Was Not a Boeing 737 Max</a> NYT: The model is a narrow-body jet that has a maximum range of over 3,000 miles, but is commonly used on shorter routes. 
  <p class="updated_time"> 05:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi mountains</a> BBC: The Boeing 737 crashed in a mountainous area in southern China, and there are fears no one survived. 
  <p class="updated_time"> 05:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60820215?at_medium=RSS&at_campaign=KARANGA">Myanmar Rohingya violence is genocide, US to say</a> BBC: A US official said the move would make it harder for the military to commit further abuses. 
- <p class="updated_time"> 05:32 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-next-generation.html">The Plane That Crashed Was Not a Boeing 737 Max</a> NYT: The model is a narrow-body jet that has a maximum range of over 3,000 miles, but is commonly used on shorter routes. 
+ <p class="updated_time"> 05:11 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-failing-to-achieve-early-victory-in-ukraine-is-seen-shifting-to-plan-b-11647824374">Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’</a> WSJ: Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’ 
  <p class="updated_time"> 05:02 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
- <p class="updated_time"> 04:56 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-failing-to-achieve-early-victory-in-ukraine-is-seen-shifting-to-plan-b-11647824374">Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’</a> WSJ: Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’ 
  <p class="updated_time"> 04:52 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60816960?at_medium=RSS&at_campaign=KARANGA">Morad Tahbaz: British-US national detained in Iran on hunger strike</a> BBC: The family of Morad Tahbaz, who has cancer, says it is distraught that Iran has not yet freed him. 
  <p class="updated_time"> 04:36 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087807099/jetliner-crashes-with-132-aboard-in-southern-china-officials-say">Jetliner crashes with 132 aboard in southern China, officials say</a> NPR: Authorities have not yet determined the total number of casualties or why the plane went down as debris is seen littered across a mountainside in Guangxi's Teng county. 
+ <p class="updated_time"> 04:33 AM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60815547?at_medium=RSS&at_campaign=KARANGA">Climate change: 'Madness' to turn to fossil fuels because of Ukraine war</a> BBC: UN Secretary General says climate goals are in danger if countries turn to coal because of Ukraine. 
  <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia trying to starve Mariupol into surrender - MP</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
  <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60819031?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Protesters in Kherson appear to make Russian truck reverse</a> BBC: Footage shows civilians protesting against Russian occupation in Kherson on Sunday. 
+ <p class="updated_time"> 04:11 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
  <p class="updated_time"> 04:03 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60819030?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv shopping centre hit by Russian missile</a> BBC: Authorities say at least six people were killed when the Podilskyi district of Kyiv was struck. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
@@ -39,21 +43,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/europe/ukraine-lviv-war.html">How Lviv Has Been Transformed by War</a> NYT: Simple rituals, like having coffee in a cafe in Lviv, Ukraine, take on a new and sometimes surreal meaning in a radically altered context. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerge. 
- <p class="updated_time"> 03:56 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
  <p class="updated_time"> 03:12 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60818001?at_medium=RSS&at_campaign=KARANGA">Vinod Kapri video: Indian army aspirant's midnight run goes viral</a> BBC: Filmmaker Vinod Kapri's video of a young army aspirant who runs home every night has got millions of views. 
- <p class="updated_time"> 02:56 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 03:11 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 02:45 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60818488?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian shelling blamed for corrosive gas leak</a> BBC: The ammonia leak has been contained but prompted a warning residents should stay indoors. 
+ <p class="updated_time"> 02:11 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 02:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/japan-red-crowned-cranes.html">Japan Saved Red-Crowned Cranes. Can They Survive Without Humans?</a> NYT: Conservators vastly increased the numbers of red-crowned cranes, a symbol of loyalty and longevity in Japanese culture. That’s just a start. 
- <p class="updated_time"> 01:56 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 01:52 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087805166/hong-kong-to-lift-flight-bans-and-cut-quarantine-for-arrivals">Hong Kong to lift flight bans and cut quarantine for arrivals</a> NPR: The local government also says it will suspend plans for a city-wide mass-testing exercise. 
- <p class="updated_time"> 12:56 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 01:11 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 12:44 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60812440?at_medium=RSS&at_campaign=KARANGA">Belgium carnival 'turned into a tragedy'</a> BBC: At least six people are killed after a car drives into a crowd of carnival-goers in southern Belgium. 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
- <p class="updated_time"> 09:06 AM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60811591?at_medium=RSS&at_campaign=KARANGA">Six killed after car drives into crowd in Belgium</a> BBC: Dozens more are injured in the crash, which the mayor of the town says is a "national catastrophe". 
  <p class="updated_time"> 07:48 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087766174/hunger-and-fear-permeate-kabul-months-after-talibans-return-to-power">Hunger and fear permeate Kabul months after Taliban's return to power</a> NPR: Kabul, Afghanistan's capital, is a changed place since the Taliban returned to power. Women live with more restrictions, and many Afghans lack electricity and food. 
  <p class="updated_time"> 07:23 AM CT, Mar. 20 </p> 
@@ -223,7 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/ketanji-brown-jackson-supreme-court-hearings-start-00018738">What to watch for as Ketanji Brown Jackson's Supreme Court hearings kick off</a> Politico: Republicans are expected to press the judge on affirmative action, child pornography sentencing and expanding the court. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/latino-vote-could-decide-senate-control-00018733">How the Latino vote could decide control of the Senate</a> Politico: Democrats need to hold onto Senate seats in Arizona and Nevada to preserve their slim majority. And to win those states, they're spending big to win over Latino voters. 
+ <a href="https://www.politico.com/news/2022/03/21/latino-vote-could-decide-senate-control-00018733">Dems begin building a Latino vote firewall in the West</a> Politico: Democrats need to hold onto Senate seats in Arizona and Nevada to preserve their slim majority. And to win those states, they're spending big to win over Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/midterm-election-redistricting-biden-trump-house-00018600">The new midterm math: How redistricting, Biden and Trump shaped the battle for the House</a> Politico: The House battlefield has a handful of Democrats in Trump-won districts right in the middle. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
@@ -292,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/20/durbin-supreme-court-nominee-ketanji-brown-jackson-00018579">The Senate's Supreme Court peacekeeper prepares for his moment</a> Politico: He waited 39 years for a committee gavel. Now the famously even-tempered Dick Durbin gets what may be his only chance to confirm a justice. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087228827/senate-nomination-hearing-supreme-court-ketanji-brown-jackson">Confirmation hearings for Ketanji Brown Jackson begin Monday. Here's what to expect</a> NPR: Next week the Senate Judiciary Committee will hold confirmation hearings for Ketanji Brown Jackson, the federal judge President Biden has tapped as his Supreme Court nominee. 
- <p class="updated_time"> 08:52 PM CT, Mar. 19 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:03 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/politics/us-ukraine-russia-escalation.html">For the U.S., a Tenuous Balance in Confronting Russia</a> NYT: Navigating between aiding Ukraine and avoiding an escalation with Moscow has led to a tangle of decisions and sometimes tortured distinctions over weapons and other elements of policy. 
  <p class="updated_time"> 03:40 PM CT, Mar. 19 </p> 
