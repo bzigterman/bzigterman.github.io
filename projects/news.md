@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:32 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-next-generation.html">The Plane That Crashed Was Not a Boeing 737 Max</a> NYT: The model is a narrow-body jet that has a maximum range of over 3,000 miles, but is commonly used on shorter routes. 
+ <p class="updated_time"> 05:32 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Mariupol Refuses to Yield; Russia Strikes Kyiv Mall</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city, pummeled since the start of the war. A shopping center was reduced to ruins by one of the heaviest strikes to hit the center of the capital. 
  <p class="updated_time"> 05:02 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
- <p class="updated_time"> 05:02 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Mariupol Refuses to Yield; Russia Strikes Kyiv Mall</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city, pummeled since the start of the war. A shopping center was reduced to ruins by one of the heaviest strikes to hit the center of the capital. 
  <p class="updated_time"> 04:54 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi mountains</a> BBC: The Boeing 737 crashed in a mountainous area in southern China, and there are fears no one survived. 
  <p class="updated_time"> 04:52 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60816960?at_medium=RSS&at_campaign=KARANGA">Morad Tahbaz: British-US national detained in Iran on hunger strike</a> BBC: The family of Morad Tahbaz, who has cancer, says it is distraught that Iran has not yet freed him. 
+ <p class="updated_time"> 04:41 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-failing-to-achieve-early-victory-in-ukraine-is-seen-shifting-to-plan-b-11647824374">Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’</a> WSJ: Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’ 
  <p class="updated_time"> 04:36 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087807099/jetliner-crashes-with-132-aboard-in-southern-china-officials-say">Jetliner crashes with 132 aboard in southern China, officials say</a> NPR: Authorities have not yet determined the total number of casualties or why the plane went down as debris is seen littered across a mountainside in Guangxi's Teng county. 
  <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia trying to starve Mariupol into surrender - MP</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
  <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60819031?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Protesters in Kherson appear to make Russian truck reverse</a> BBC: Footage shows civilians protesting against Russian occupation in Kherson on Sunday. 
- <p class="updated_time"> 04:23 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-failing-to-achieve-early-victory-in-ukraine-is-seen-shifting-to-plan-b-11647824374">Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’</a> WSJ: Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’ 
  <p class="updated_time"> 04:03 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60819030?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv shopping centre hit by Russian missile</a> BBC: Authorities say at least six people were killed when the Podilskyi district of Kyiv was struck. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
@@ -33,13 +35,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/europe/ukraine-lviv-war.html">How Lviv Has Been Transformed by War</a> NYT: Simple rituals, like having coffee in a cafe in Lviv, Ukraine, take on a new and sometimes surreal meaning in a radically altered context. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerge. 
- <p class="updated_time"> 03:23 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 03:41 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
  <p class="updated_time"> 03:12 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60818001?at_medium=RSS&at_campaign=KARANGA">Vinod Kapri video: Indian army aspirant's midnight run goes viral</a> BBC: Filmmaker Vinod Kapri's video of a young army aspirant who runs home every night has got millions of views. 
  <p class="updated_time"> 02:45 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60818488?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian shelling blamed for corrosive gas leak</a> BBC: The ammonia leak has been contained but prompted a warning residents should stay indoors. 
- <p class="updated_time"> 02:23 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 02:41 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 02:08 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/ukraine-war-poet.html">For a Ukrainian Poet, Putin’s War Is All Too Familiar</a> NYT: Ihor Kalynets, 83, spent a lifetime resisting Soviet domination. Now, he says, he’s not going anywhere. 
@@ -47,14 +49,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/asia/japan-red-crowned-cranes.html">Japan Saved Red-Crowned Cranes. Can They Survive Without Humans?</a> NYT: Conservators vastly increased the numbers of red-crowned cranes, a symbol of loyalty and longevity in Japanese culture. That’s just a start. 
  <p class="updated_time"> 01:52 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087805166/hong-kong-to-lift-flight-bans-and-cut-quarantine-for-arrivals">Hong Kong to lift flight bans and cut quarantine for arrivals</a> NPR: The local government also says it will suspend plans for a city-wide mass-testing exercise. 
- <p class="updated_time"> 01:23 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 01:41 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 12:44 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
+ <p class="updated_time"> 12:41 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 12:37 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087802512/south-korean-slavery-victim-seeks-u-n-justice-as-time-runs-out">South Korean slavery victim seeks U.N. justice as time runs out</a> NPR: The grievances over sexual slavery, forced labor and other abuses stemming from Japan's WW II-era colonial rule of the Korean Peninsula have strained Seoul-Tokyo relations in recent years. 
- <p class="updated_time"> 12:23 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 10:33 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
  <p class="updated_time"> 10:32 PM CT, Mar. 20 </p> 
@@ -201,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/world/europe/russia-military-ukraine.html">Russia’s military progress slows, but it makes gains in the south and east.</a> NYT: Britain’s defense intelligence service said that Russian forces had “made minimal progress this week.” 
  <p class="updated_time"> 09:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
- <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
 
 
 </details>
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/chinese-airliner-crashes-with-132-aboard-in-countrys-south-00018800">China Eastern Boeing 737 crashes with 132 aboard</a> Politico: The Civil Aviation Administration of China said in a statement the crash occurred near the city of Wuzhou in Teng county. 
  <p class="updated_time"> 05:07 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/21/4-things-to-watch-when-jackson-raises-her-right-hand-00018798"> 4 things to watch when Jackson raises her right hand</a> Politico Playbook: And Biden plans a Poland visit. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
@@ -228,6 +230,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/21/cdc-email-data-walensky-00018614">CDC email: Let’s do better with ‘our data’</a> Politico: Agency leadership seeks to improve how it collects and sifts through information to get at better outcomes. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/pete-aguilar-house-democrats-00018565">Pete Aguilar bets on the House</a> Politico: The chamber's Democrats have seen plenty of promising young leadership contenders, including three Latino lawmakers, leave for greener pastures. Not the genial leader from San Bernardino. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/pennsylvania-primary-super-pac-00018771">Super PAC signals Pennsylvania primary could get rough</a> Politico: The Democratic Senate contest has been a relatively tame affair so far. A memo suggests that's about to change. 
  <p class="updated_time"> 11:34 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/us-rohingya-genocide.html">U.S. to Declare That Myanmar’s Military Committed Genocide</a> NYT: The Biden administration had been weighing the legal designation for the bloody campaign against members of the Rohingya, a minority ethnic group. 
  <p class="updated_time"> 11:00 PM CT, Mar. 20 </p> 
@@ -270,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/20/zelenskyy-ukraine-zakaria-interview-00018716">Zelenskyy says he's willing to talk with Putin but not yield his nation's independence</a> Politico: "If there is just 1 percent chance for us to stop this war, I think that we need to take this chance, we need to do that," he said. 
  <p class="updated_time"> 09:34 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/russians-taking-ukrainians-by-force-00018715">U.N. ambassador disturbed by reports of Russians seizing and deporting Ukrainians</a> Politico: “I've only heard it. I can't confirm it. But I can say it is disturbing," Linda Thomas-Greenfield said. 
- <p class="updated_time"> 09:17 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/murthy-covid-waves-00018710">Surgeon general: No need to panic over latest Covid spike in Europe</a> Politico: Vivek Murthy said the nation is in a good position to get through new waves. 
  <p class="updated_time"> 09:06 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/ashish-jha-covid-biden.html">Can Ashish Jha, ‘a Comforting Voice,’ Tamp Down Covid’s Political Divide?</a> NYT: Dr. Jha, the new White House coronavirus response coordinator, has built a reputation as a gifted communicator, but there is much more to the job. 
  <p class="updated_time"> 08:41 AM CT, Mar. 20 </p> 
