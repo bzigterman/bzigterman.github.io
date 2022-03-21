@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:55 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60817252?at_medium=RSS&at_campaign=KARANGA">Supreme Court’s Clarence Thomas hospitalised with infection</a> BBC: The 73-year-old, who is the longest-serving member of the high court, is being treated for an infection. 
  <p class="updated_time"> 08:51 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
+ <p class="updated_time"> 08:48 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 08:17 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine rejects Russian offer to surrender port city</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
- <p class="updated_time"> 07:56 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 07:48 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
+ <p class="updated_time"> 07:48 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 07:14 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60749496?at_medium=RSS&at_campaign=KARANGA">The hunt for Nigerians who can change into cats</a> BBC: One man is challenging Nigerians' belief in magic after a wave of killings that has gripped the country. 
  <p class="updated_time"> 07:05 PM CT, Mar. 20 </p> 
@@ -27,26 +31,28 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60800307?at_medium=RSS&at_campaign=KARANGA">Kenya’s Killer Roads: Dodgy driving licences and dangerous vehicles in Kenya</a> BBC: Kenya’s road accidents and deaths are on the rise, Africa Eye reveals cracks in Kenya’s road safety systems. 
  <p class="updated_time"> 07:00 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60762032?at_medium=RSS&at_campaign=KARANGA">Omicron vs Zero-Covid: How long can China hold on?</a> BBC: China's worst outbreak in two years has got some questioning how long it can hang on to its strategy. 
- <p class="updated_time"> 06:56 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 06:50 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">Remains of 4 U.S. Marines Retrieved From Site of Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
- <p class="updated_time"> 05:56 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 06:48 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
+ <p class="updated_time"> 05:48 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 05:46 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-russia-war-mariupol.html">Russia Broadens Mariupol Assault as Signs of Stalemate Take Shape</a> NYT: The battle for Mariupol has become a grim symbol of Russia’s superior firepower and its frustration in failing to subjugate Ukraine after more than three weeks of war. 
  <p class="updated_time"> 05:11 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html">Brazil Lifts Its Ban on Telegram After Two Days</a> NYT: Brazil’s Supreme Court blocked Telegram on Friday. The messaging app then responded with measures to fight misinformation, and the court quickly lifted its ban. 
  <p class="updated_time"> 05:09 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60816865?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The wounded children of Putin's war</a> BBC: Survivors from the bombardment of Mariupol are bearing the physical and mental scars of the conflict. 
- <p class="updated_time"> 04:56 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
+ <p class="updated_time"> 04:48 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
  <p class="updated_time"> 04:21 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087080628/mosul-iraq-murals-art-after-isis">In Iraq's Mosul, art springs up from ruins almost 5 years after the ouster of ISIS</a> NPR: This vibrant street art is a sign of the spirited rebuilding going on in the northern Iraqi city, after ISIS was defeated in 2017. 
+ <p class="updated_time"> 03:59 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-failing-to-achieve-early-victory-in-ukraine-is-seen-shifting-to-plan-b-11647824374">Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to 'Plan B'</a> WSJ: The tactical shift seeks to pressure Ukraine into accepting neutrality and Russian territorial claims, U.S. officials say. 
  <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087777022/russia-ukraine-war-what-happened-today-march-20">Russia-Ukraine war: What happened today (March 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
+ <p class="updated_time"> 03:50 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: The arms were transferred in the past month after the Saudi military sought a new supply to repel drone and missile attacks by Iran-backed Houthi rebels. 
  <p class="updated_time"> 03:34 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087782349/zelenskyy-ukraine-israel">Zelenskyy compares Russia's invasion to Holocaust in a plea to Israel for support</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke with Israeli lawmakers about his impatience with Israel as it mediates negotiations between Russia and Ukraine. 
  <p class="updated_time"> 03:33 PM CT, Mar. 20 </p> 
@@ -121,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60807134?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Western agents seek to get inside Putin's head</a> BBC: Vladimir Putin's war in Ukraine shook the West. Now its leaders are trying to predict his next move. 
  <p class="updated_time"> 07:48 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60598240?at_medium=RSS&at_campaign=KARANGA">'I'm Australian but Ukraine is part of my identity'</a> BBC: Despite being half a world away, Ukrainian-Australians say the war feels unbearably close. 
- <p class="updated_time"> 07:01 PM CT, Mar. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60797082?at_medium=RSS&at_campaign=KARANGA">Breakdancing changed my life</a> BBC: A dancer from Vietnam says breaking kept him away from drugs and helped him deal with family problems. 
  <p class="updated_time"> 07:01 PM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60800145?at_medium=RSS&at_campaign=KARANGA">Sydney Harbour Bridge - the story of its opening 90 years ago</a> BBC: On its 90th anniversary, the grandson of the iconic bridge's designer reveals what he went through to get it built. 
  <p class="updated_time"> 06:50 PM CT, Mar. 19 </p> 
@@ -209,10 +213,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60790536?at_medium=RSS&at_campaign=KARANGA">Holi 2022: India celebrates festival of colours as Covid cases dip</a> BBC: The festival of Holi marks the beginning of spring in the country. 
  <p class="updated_time"> 10:46 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/world/africa/ethiopia-tigray-aid-workers-killed.html">Who Killed Three Aid Workers for Doctors Without Borders in Ethiopia?</a> NYT: Three employees of Doctors Without Borders set out to rescue the wounded in a war zone in northern Ethiopia. Their fate shows the treacherous path for many aid workers in conflict zones. 
- <p class="updated_time"> 09:12 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
- <p class="updated_time"> 09:06 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60744216?at_medium=RSS&at_campaign=KARANGA">How Poland's business community is helping Ukrainians</a> BBC: Small and medium sized firms, including recruiters, are organising support for arriving refugees. 
 
 
 </details>
@@ -220,20 +220,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:42 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 09:38 PM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/biden-to-visit-poland-this-week-00018792">Biden to visit Poland this week</a> Politico: Poland shares a border with Ukraine and has been flooded with refugees. 
+ <p class="updated_time"> 09:12 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
+ <p class="updated_time"> 09:05 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/clarence-thomas-hospitalized.html">Justice Clarence Thomas Hospitalized With Flulike Symptoms, Court Says</a> NYT: Justice Thomas, who has been hospitalized since Friday, is being treated with intravenous antibiotics and is expected to be released in a day or two, the Supreme Court said on Sunday. 
+ <p class="updated_time"> 08:56 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">At Harvard, Ketanji Brown Jackson Fought Injustices but Kept a Steely Academic Focus</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
  <p class="updated_time"> 08:30 PM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/reuters-staff-partnership-russian-wire-service-00018779">Reuters staff raise alarms over partnership with Russian-owned wire service</a> Politico: Reuters has not ended its relationship with Tass despite internal concerns. 
- <p class="updated_time"> 07:51 PM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/20/us/politics/clarence-thomas-hospitalized.html">Justice Clarence Thomas Hospitalized With Flulike Symptoms, Court Says</a> NYT: Justice Thomas, who was hospitalized on Friday, was being treated with intravenous antibiotics and was expected to be released in a day or two, the court said on Sunday. 
  <p class="updated_time"> 07:23 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/us-rohingya-genocide.html">U.S. to Declare That Myanmar’s Military Committed Genocide </a> NYT: The Biden administration had been weighing the legal designation for the bloody campaign against members of the Rohingya, a minority ethnic group. 
  <p class="updated_time"> 07:10 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087788575/justice-clarence-thomas-hospitalized-supreme-court">Justice Clarence Thomas has been hospitalized with an infection, Supreme Court says</a> NPR: Justice Thomas' condition is improving and he will likely be released within two days, the court said. He'll stay involved in the consideration of any cases the court hears this week. 
  <p class="updated_time"> 07:00 PM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/clarence-thomas-hospitalized-flu-like-symptoms-00018767">Clarence Thomas hospitalized with 'flu-like symptoms'</a> Politico: The justice "expects to be released from the hospital in a day or two," the U.S. Supreme Court said in a statement. 
- <p class="updated_time"> 05:54 PM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 05:32 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/project-veritas-ashley-biden-diary.html">Ashley Biden’s Diary Was Shown at Trump Fund-Raiser. Weeks Later, Project Veritas Called Her.</a> NYT: The right-wing group’s deceptive call to the president’s daughter a month before Election Day is among the new details that show how the organization worked to expose personal information about the Biden family. 
  <p class="updated_time"> 05:11 PM CT, Mar. 20 </p> 
@@ -352,8 +354,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/18/stephanie-murphy-democrats-congress-house-00018272">How Democrats alienated the woman who helped them win the House</a> Politico: On this week’s show, Playbook co-author Rachael Bade talks to Congresswoman Stephanie Murphy about the challenges of being a moderate Democrat in an increasingly left-leaning House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don’t see the parallels. 
- <p class="updated_time"> 09:38 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/mark-meadows-trump-vote-north-carolina.html">Mark Meadows’s 2020 Vote Is Under Investigation in North Carolina</a> NYT: Records show that Mr. Meadows cast an absentee ballot from the address of a remote mobile home, but reports have cast doubt on whether he lived there. 
 
 
 </details>
