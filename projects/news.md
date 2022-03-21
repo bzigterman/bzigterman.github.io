@@ -9,14 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:20 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 09:52 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
+ <p class="updated_time"> 09:47 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Live Updates: China Eastern Plane Crashes With Over 130 on Board</a> NYT: The airline expressed its condolences to the relatives of the passengers and crew members on the Boeing 737-800. Rain was forecast at the accident site, which is likely to hamper rescue efforts. 
- <p class="updated_time"> 09:04 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 09:47 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
+ <p class="updated_time"> 09:44 AM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60816960?at_medium=RSS&at_campaign=KARANGA">Morad Tahbaz: British-US national detained in Iran on hunger strike</a> BBC: The family of Morad Tahbaz, who has cancer, says it is distraught that Iran has not yet freed him. 
+ <p class="updated_time"> 09:33 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Mariupol Refuses to Yield; Russia Strikes Kyiv Mall</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city. And the Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children from the east of the country. 
+ <p class="updated_time"> 09:30 AM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China, and there are fears no-one survived. 
+ <p class="updated_time"> 09:29 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/asia/flight-path-eastern-airlines.html">Flight MU-5735 Descended More Than 20,000 Feet in Just Over a Minute</a> NYT: An hour after it took off, the flight turned horribly wrong, according to data from Flightradar24. 
+ <p class="updated_time"> 08:53 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Ukraine Rejects Russian Ultimatum on Embattled Mariupol</a> WSJ: Ukraine Rejects Russian Ultimatum on Embattled Mariupol 
  <p class="updated_time"> 08:43 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
- <p class="updated_time"> 08:28 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Ukraine Rejects Russian Ultimatum on Embattled Mariupol</a> WSJ: Ukraine Rejects Russian Ultimatum on Embattled Mariupol 
  <p class="updated_time"> 08:22 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerge. 
  <p class="updated_time"> 08:21 AM CT, Mar. 21 </p> 
@@ -24,35 +34,31 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:00 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087296594/nowruz-is-banned-in-afghanistan-but-families-continue-to-celebrate">Nowruz is banned in Afghanistan, but families continue to celebrate</a> NPR: One woman living in Kabul describes how, despite food shortages and repression, her family is celebrating the Persian new year with what they have. 
  <p class="updated_time"> 07:53 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China, and there are fears no-one survived. 
+ <a href="https://www.wsj.com/articles/agriculture-giants-stay-in-russia-despite-calls-to-exit-over-ukraine-war-11647860581">Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War</a> WSJ: Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War 
  <p class="updated_time"> 07:45 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-next-generation.html">The Plane That Crashed Was Not a Boeing 737 Max</a> NYT: The model is a narrow-body jet that has a maximum range of over 3,000 miles, but is commonly used on shorter routes. 
  <p class="updated_time"> 07:39 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-60821258?at_medium=RSS&at_campaign=KARANGA">Moscow stock market reopens for some bond trading</a> BBC: Trading in bonds issued by the Russian government has restarted but other business remains suspended. 
- <p class="updated_time"> 07:28 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/agriculture-giants-stay-in-russia-despite-calls-to-exit-over-ukraine-war-11647860581">Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War</a> WSJ: Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War 
- <p class="updated_time"> 07:25 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
  <p class="updated_time"> 07:09 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60820993?at_medium=RSS&at_campaign=KARANGA">Colombia guard held after drug lord flees through open door</a> BBC: Gang leader Juan Castro escaped from the maximum-security La Picota jail disguised as a guard. 
  <p class="updated_time"> 07:07 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/article/ukraine-fake-news-russia.html">How to Avoid Sharing Misinformation on the War in Ukraine</a> NYT: Here are warning signs to look for before you retweet. 
- <p class="updated_time"> 07:05 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/asia/flight-path-eastern-airlines.html">Flight MU-5735 Descended More Than 20,000 Feet in Just Over a Minute</a> NYT: An hour after it took off, the flight turned horribly wrong, according to data from Flightradar24. 
- <p class="updated_time"> 06:28 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 06:53 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
+ <p class="updated_time"> 05:53 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 05:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60820215?at_medium=RSS&at_campaign=KARANGA">Myanmar Rohingya violence is genocide, US to say</a> BBC: A US official said the move would make it harder for the military to commit further abuses. 
- <p class="updated_time"> 05:28 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
- <p class="updated_time"> 04:52 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60816960?at_medium=RSS&at_campaign=KARANGA">Morad Tahbaz: British-US national detained in Iran on hunger strike</a> BBC: The family of Morad Tahbaz, who has cancer, says it is distraught that Iran has not yet freed him. 
+ <p class="updated_time"> 05:20 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-administrations-military-strategy-juggles-russia-concerns-china-threat-11647872415">U.S.'s Military Strategy Juggles Russia Concerns, China Threat</a> WSJ: The Biden administration is seeking to balance what it sees as a pivotal moment for Europe and boost military spending, with a desire to maintain a long-term focus on countering China. 
+ <p class="updated_time"> 05:09 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/war-in-ukraine-disrupts-russian-european-mars-mission-and-other-space-ventures-11647867600">Russian-European Mars Mission Disrupted by War in Ukraine</a> WSJ: International sanctions tied to Russia’s invasion of Ukraine have scuttled several space missions and threaten to upend decades of collaboration among spacefaring nations. 
+ <p class="updated_time"> 04:53 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 04:36 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087807099/jetliner-crashes-with-132-aboard-in-southern-china-officials-say">Jetliner crashes with 132 aboard in southern China, officials say</a> NPR: Authorities have not yet determined the total number of casualties or why the plane went down as debris is seen littered across a mountainside in Guangxi's Teng county. 
  <p class="updated_time"> 04:33 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60815547?at_medium=RSS&at_campaign=KARANGA">Climate change: 'Madness' to turn to fossil fuels because of Ukraine war</a> BBC: UN Secretary General says climate goals are in danger if countries turn to coal because of Ukraine. 
- <p class="updated_time"> 04:28 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia trying to starve Mariupol into surrender - MP</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
  <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
@@ -63,6 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/21/1086709135/russia-ukraine-war-military-terms-lingo-phrases">The war in Ukraine has reintroduced these words and phrases into our vocabulary</a> NPR: We're using new geopolitical and military terms — and resurrecting and revising old ones — to discuss Russia's invasion of Ukraine, a conflict in which information is treated as another battlefield. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/ukraine-lviv-war.html">How Lviv Has Been Transformed by War</a> NYT: Simple rituals, like having coffee in a cafe in Lviv, Ukraine, take on a new and sometimes surreal meaning in a radically altered context. 
+ <p class="updated_time"> 03:57 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/central-banks-grapple-with-threat-of-slowing-growth-and-rising-inflation-11647867425">Central Banks Grapple With Dual Threat of Slowing Growth, Rising Inflation</a> WSJ: The war in Ukraine is casting a stagflationary shadow over the world economy and posing a dilemma for policy makers: Should they support flagging growth or fight skyrocketing inflation? 
  <p class="updated_time"> 02:45 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60818488?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian shelling blamed for corrosive gas leak</a> BBC: The ammonia leak has been contained but prompted a warning residents should stay indoors. 
  <p class="updated_time"> 02:00 AM CT, Mar. 21 </p> 
@@ -71,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/business/economy/inflation-biden-shipping.html">As  Inflation Surges, Biden Targets Ocean Shipping</a> NYT: The president is targeting shipping companies that have jacked up prices during the pandemic, but critics say bigger economic forces are at work. 
  <p class="updated_time"> 01:52 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087805166/hong-kong-to-lift-flight-bans-and-cut-quarantine-for-arrivals">Hong Kong to lift flight bans and cut quarantine for arrivals</a> NPR: The local government also says it will suspend plans for a city-wide mass-testing exercise. 
+ <p class="updated_time"> 12:58 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/foxconn-running-at-full-capacity-in-shenzhen-after-covid-19-restrictions-lifted-11647856698">Foxconn Running at Capacity in Shenzhen After Covid-19 Restrictions Lifted</a> WSJ: The biggest assembler of iPhones said its factories in the Chinese manufacturing hub had returned to normal after the city wrapped up testing on all its 17 million residents. 
  <p class="updated_time"> 12:44 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 12:37 AM CT, Mar. 21 </p> 
@@ -163,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/europe/pope-constitution-vatican.html">Pope Francis Issues New Vatican Constitution</a> NYT: The document stipulates that baptized lay Catholics, including women, can lead departments and increases institutional efforts to protect minors. 
  <p class="updated_time"> 03:52 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/spain-morocco-western-sahara.html">Spain Endorses Morocco’s Plan for Governing Western Sahara</a> NYT: Madrid endorsed a plan for limited autonomy for the territory in northwestern Africa, but the change in policy was denounced by independence groups and could aggravate relations with Algeria. 
- <p class="updated_time"> 03:51 PM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008259990/in-irpin-a-last-ditch-effort-to-evacuate-from-russian-attacks.html">In Irpin, a Last-ditch Effort to Evacuate From Russian Attacks</a> NYT: As fighting intensifies northwest of Kyiv, Ukraine, volunteer medics are risking their lives to try to rescue the last remaining residents in Irpin. Our cameras joined them on the three-mile journey. 
  <p class="updated_time"> 12:30 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/kyiv-suburbs-irpin-ukraine-war-russia.html">Kyiv’s Suburbs Become Unlikely Front Line of Ukraine War</a> NYT: With savage artillery exchanges, the areas on the outskirts of the capital are the scenes of seesaw battles that have stalled the Russian advance for now. 
  <p class="updated_time"> 12:18 PM CT, Mar. 19 </p> 
@@ -227,7 +235,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/trump-brooks-mcconnell-00018786">Teetering with Trump, Brooks calls for McConnell's ouster</a> Politico: The Alabama Senate hopeful joined two other Republican candidates in opposing McConnell's leadership. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/ketanji-brown-jackson-supreme-court-hearings-start-00018738">What to watch for as Ketanji Brown Jackson's Supreme Court hearings kick off</a> Politico: Republicans are expected to press the judge on affirmative action, child pornography sentencing and expanding the court. 
+ <a href="https://www.politico.com/news/2022/03/21/ketanji-brown-jackson-supreme-court-hearings-start-00018738">Jackson’s hearings could produce fireworks. These are the topics that’ll likely cause sparks.</a> Politico: Republicans are expected to press the judge on affirmative action, child pornography sentencing and expanding the court. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/latino-vote-could-decide-senate-control-00018733">Dems begin building a Latino vote firewall in the West</a> Politico: Democrats need to hold onto Senate seats in Arizona and Nevada to preserve their slim majority. And to win those states, they're spending big to win over Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
