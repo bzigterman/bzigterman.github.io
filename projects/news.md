@@ -31,13 +31,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60826303?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Holocaust survivor killed by Russian shelling in Kharkiv</a> BBC: Boris Romantschenko was killed in Kharkiv 77 years after surviving the Buchenwald concentration camp. 
  <p class="updated_time"> 02:44 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
- <p class="updated_time"> 02:32 PM CT, Mar. 21 </p> 
+ <p class="updated_time"> 02:43 PM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 02:01 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/myanmar-genocide-biden.html">Myanmar’s Military Committed Genocide Against Rohingya, U.S. Says</a> NYT: Secretary of State Antony Blinken announced the official designation. More than 9,000 people were killed in the violence. 
  <p class="updated_time"> 01:54 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087876854/holocaust-survivor-killed-russian-shelling-ukraine">A 96-year-old Holocaust survivor was killed when Russian forces shelled his home</a> NPR: Boris Romantschenko was killed last week in a Russian attack in Kharkiv. He survived four concentration camps and later "campaigned intensively for the memory of the Nazi crimes." 
- <p class="updated_time"> 01:32 PM CT, Mar. 21 </p> 
+ <p class="updated_time"> 01:43 PM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 01:24 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/middleeast/tunisia-constitution-consultation.html">Tunisian President’s Reform Plan Meets With Skepticism</a> NYT: President Kais Saied, who has amassed nearly absolute power, launched a consultation he said would lead to a new constitution and elections. But the process has been shunned by many. 
@@ -47,10 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/climate/united-nations-fossil-fuels-climate-crisis.html">U.N. Chief Warns of ‘Catastrophe’ With Continued Use of Fossil Fuels</a> NYT: António Guterres, the United Nations secretary general, said instead of replacing Russian oil, gas and coal, nations must pivot to clean energy. 
  <p class="updated_time"> 01:15 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60825226?at_medium=RSS&at_campaign=KARANGA">Mariupol: Four reasons the city matters so much to Russia</a> BBC: The most bombarded city in Ukraine’s war with Russia is key to Moscow’s military campaign. 
+ <p class="updated_time"> 12:43 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 12:35 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087869406/russia-ukraine-truck-drivers">Russia is trying to recruit drivers who know Ukraine's roads</a> NPR: There's been a sharp rise in ads for trucker jobs in since March 19, but Ukraine's government says the postings are linked to Russia's military, which has had trouble navigating Ukraine. 
- <p class="updated_time"> 12:32 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 12:30 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/flight-path-eastern-airlines.html">Flight MU-5735 Descended More Than 20,000 Feet in Just Over a Minute</a> NYT: An hour after it took off, the flight turned horribly wrong, according to data from Flightradar24. 
  <p class="updated_time"> 12:19 PM CT, Mar. 21 </p> 
@@ -59,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/us/amazon-south-africa.html">Plan for Amazon Headquarters in South Africa in Peril After Court Order</a> NYT: A judge ordered construction of the development in Cape Town to be halted, saying that the developer had not properly consulted Indigenous South Africans. 
  <p class="updated_time"> 11:58 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China and there are fears no-one survived. 
- <p class="updated_time"> 11:32 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 11:43 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 11:19 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal's Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: The issue is galvanizing opposition to the nuclear deal in Washington and among allies like Israel, which criticized any attempt to remove the terrorism designation of the Islamic Revolutionary Guard Corps. 
@@ -202,12 +202,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:40 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-hearing-opening-statement.html">Ketanji Brown Jackson Vows to Be Independent Judge in Confirmation Hearing</a> NYT: Judge Ketanji Brown Jackson committed to adopt a “neutral stance” if confirmed to the Supreme Court and promised to continue to produce expansive, “transparent” opinions. 
+ <p class="updated_time"> 03:33 PM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087863804/ketanji-brown-jackson-supreme-court-confirmation-hearing-day-1-recap">Judge Ketanji Brown Jackson confirmation hearings: What happened today</a> NPR: Democrats are hoping to finish Jackson's confirmation process before Congress leaves for Easter recess April 11. 
  <p class="updated_time"> 03:32 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/business/economy/powell-fed-inflation.html">Powell Says Fed Could Raise Rates More Quickly to Tame Inflation</a> NYT: Jerome H. Powell, the chair of the Federal Reserve, voiced worry about inflation expectations and declared the central bank ready to do what it takes to control rapid price increases. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913819/sen-dick-durbin-on-the-1st-day-of-hearings-for-scotus-nominee-ketanji-brown-jack">Sen. Dick Durbin on the 1st day of hearings for SCOTUS nominee Ketanji Brown Jackson</a> NPR: NPR's Juana Summers speaks with Sen. Dick Durbin, chair of the Senate Judiciary Committee, as the first day of confirmation hearings for Supreme Court nominee Ketanji Brown Jackson wraps up. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913783/confirmation-hearings-for-supreme-court-nominee-kataji-brown-jackson-are-underwa">Confirmation hearings for Supreme Court nominee Kataji Brown Jackson are underway</a> NPR: Confirmation hearings opened Monday for Judge Katanji Brown Jackson's nomination to the Supreme Court. She's the first Black woman nominated for the nation's highest court. 
+ <p class="updated_time"> 03:10 PM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/kentaji-brown-jackson-opening-statement-supreme-court-00018980">Read: Ketanji Brown Jackson's opening statement ahead of the Supreme Court hearings</a> Politico: Read her full opening statement. 
  <p class="updated_time"> 02:55 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-supreme-court-confirmation-hearings.html">What to Watch as Jackson’s Supreme Court Confirmation Hearings Begin</a> NYT: President Biden’s nominee is certain to be pressed by Republicans on her criminal defense work and her judicial record. 
  <p class="updated_time"> 02:52 PM CT, Mar. 21 </p> 
@@ -234,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/21/biden-europe-russian-gas-00018189">Why Biden can't help Europe rid itself of Russian gas</a> Politico: "Governments don’t make deals," said the director of Tufts University's Climate Policy Lab. 
  <p class="updated_time"> 10:35 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">At Harvard, a Confederate Flag Spurred Ketanji Brown Jackson to Act</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
- <p class="updated_time"> 10:32 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/sec-outlines-climate-disclosure-rules-for-businesses-00018849">SEC climate rule would boost Biden agenda</a> Politico: The proposed rule would deliver a big — and durable — policy win for President Joe Biden, whose climate agenda has been mired in congressional partisanship, and overshadowed by economic and geopolitical crises. 
  <p class="updated_time"> 10:24 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-strategy.html">After Three Rounds, Judge Jackson Knows the Confirmation Playbook</a> NYT: In her Supreme Court confirmation hearings this week, the judge will draw on her earlier experiences and those of her predecessors. 
  <p class="updated_time"> 10:06 AM CT, Mar. 21 </p> 
@@ -257,9 +261,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/midterm-election-redistricting-biden-trump-house-00018600">The new midterm math: How redistricting, Biden and Trump shaped the battle for the House</a> Politico: The House battlefield has a handful of Democrats in Trump-won districts right in the middle. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/latino-vote-could-decide-senate-control-00018733">Dems begin building a Latino vote firewall in the West</a> Politico: Democrats need to hold onto Senate seats in Arizona and Nevada to preserve their slim majority. And to win those states, they're spending big to win over Latino voters. 
- <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/ketanji-brown-jackson-supreme-court-hearings-start-00018738">Kavanaugh tensions simmer behind low-key opening to Jackson hearings</a> Politico: Republicans plan to press the Supreme Court pick on child pornography sentencing and court expansion. And they're clearly not over previous judicial wounds. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/latino-vote-could-decide-senate-control-00018733">Dems begin building a Latino vote firewall in the West</a> Politico: Democrats need to hold onto Senate seats in Arizona and Nevada to preserve their slim majority. And to win those states, they're spending big to win over Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/pete-aguilar-house-democrats-00018565">Pete Aguilar bets on the House</a> Politico: The chamber's Democrats have seen plenty of promising young leadership contenders, including three Latino lawmakers, leave for greener pastures. Not the genial leader from San Bernardino. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
@@ -274,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/20/russian-oligarchs-dropped-lawsuit-fusion-gps-00018788">Russian oligarchs drop suit against investigative firm Fusion GPS</a> Politico: The libel suit was related to the now-infamous Steele dossier about then-candidate Donald Trump. 
  <p class="updated_time"> 09:12 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
- <p class="updated_time"> 08:30 PM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/reuters-staff-partnership-russian-wire-service-00018779">Reuters staff raise alarms over partnership with Russian-owned wire service</a> Politico: Reuters has not ended its relationship with Tass despite internal concerns. 
  <p class="updated_time"> 07:10 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087788575/justice-clarence-thomas-hospitalized-supreme-court">Justice Clarence Thomas has been hospitalized with an infection, Supreme Court says</a> NPR: Justice Thomas' condition is improving and he will likely be released within two days, the court said. He'll stay involved in the consideration of any cases the court hears this week. 
  <p class="updated_time"> 05:32 PM CT, Mar. 20 </p> 
@@ -308,6 +310,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/20/durbin-supreme-court-nominee-ketanji-brown-jackson-00018579">The Senate's Supreme Court peacekeeper prepares for his moment</a> Politico: He waited 39 years for a committee gavel. Now the famously even-tempered Dick Durbin gets what may be his only chance to confirm a justice. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/republicans-2022-campaigns-00018591">How the GOP's dirtiest slur got a new life</a> Politico: An insult once reserved for Republican moderates has been weaponized. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/new-yorks-left-disarray-eric-adams-00018688">Eric Adams is daring the left to take him on — and they’re game</a> Politico: In New York, progressives aren’t satisfied with Adams’ law-and-order agenda, but until now they hadn’t figured out how to effectively rebuke him either. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087228827/senate-nomination-hearing-supreme-court-ketanji-brown-jackson">Confirmation hearings for Ketanji Brown Jackson begin Monday. Here's what to expect</a> NPR: Next week the Senate Judiciary Committee will hold confirmation hearings for Ketanji Brown Jackson, the federal judge President Biden has tapped as his Supreme Court nominee. 
  <p class="updated_time"> 08:52 PM CT, Mar. 19 </p> 
@@ -328,10 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087712532/week-in-politics-consequences-for-china-zelenskyy-asks-for-help-court-confirmati">Week in politics: Consequences for China; Zelenskyy asks for help; Court confirmation</a> NPR: The U.S. continues its work to economically isolate Russia, and most lawmakers are on board. Also: a look ahead to Monday's Supreme Court confirmation hearings. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/biden-export-control-nominee-stalled-00018003">Biden’s war on the Russian economy is missing a key player</a> Politico: The Senate has yet to confirm the administration's pick for Commerce undersecretary overseeing implementation of U.S. export controls. 
- <p class="updated_time"> 04:02 AM CT, Mar. 19 </p> 
- <a href="https://www.nytimes.com/2022/03/19/style/tiktok-political-campaigns-midterm-elections.html">How Candidates Are Using TikTok to Secure Younger Voters</a> NYT: Is the app the next frontier of political campaigning or just another place to burnish one’s image? 
- <p class="updated_time"> 04:00 AM CT, Mar. 19 </p> 
- <a href="https://www.npr.org/2022/03/19/1087280464/the-u-s-tried-permanent-daylight-saving-time-in-the-1970s-then-quickly-rejected-">The U.S. tried permanent daylight saving time in the 1970s — then quickly rejected it</a> NPR: The Senate this week voted with unanimous consent to adopt permanent daylight saving time hours to eliminate the need to change clocks twice a year. 
  <p class="updated_time"> 09:04 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/alaska-rep-don-young-dean-of-the-house-dies-at-88-00018680">Alaska Rep. Don Young, Dean of the House, dies at 88</a> Politico: His office announced Young's death in a statement Friday night. 
  <p class="updated_time"> 08:03 PM CT, Mar. 18 </p> 
