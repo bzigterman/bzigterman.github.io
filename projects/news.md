@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:34 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 12:37 AM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087802512/south-korean-slavery-victim-seeks-u-n-justice-as-time-runs-out">South Korean slavery victim seeks U.N. justice as time runs out</a> NPR: The grievances over sexual slavery, forced labor and other abuses stemming from Japan's WW II-era colonial rule of the Korean Peninsula have strained Seoul-Tokyo relations in recent years. 
+ <p class="updated_time"> 11:46 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-failing-to-achieve-early-victory-in-ukraine-is-seen-shifting-to-plan-b-11647824374">Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’</a> WSJ: Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’ 
  <p class="updated_time"> 11:15 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday. She also reduced the time for quarantine to seven days from 14. 
  <p class="updated_time"> 11:01 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Live Updates: Ukraine Rejects Demand to Surrender Mariupol</a> NYT: Russian forces escalated the attack on the port city, which has been pummeled since the start of the war. President Biden announced a week of diplomatic efforts, including a trip to Poland. 
- <p class="updated_time"> 10:34 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 10:46 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
  <p class="updated_time"> 10:33 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
  <p class="updated_time"> 10:32 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
- <p class="updated_time"> 09:34 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 09:46 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 08:55 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60817252?at_medium=RSS&at_campaign=KARANGA">Supreme Court’s Clarence Thomas hospitalised with infection</a> BBC: The 73-year-old, who is the longest-serving member of the high court, is being treated for an infection. 
- <p class="updated_time"> 08:34 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 08:46 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 08:17 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine rejects Russian demand to surrender port city</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
  <p class="updated_time"> 07:48 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
- <p class="updated_time"> 07:34 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 07:46 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 07:14 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60749496?at_medium=RSS&at_campaign=KARANGA">The hunt for Nigerians who can change into cats</a> BBC: One man is challenging Nigerians' belief in magic after a wave of killings that has gripped the country. 
@@ -141,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087751095/ukraine-jimmy-hill-family">Her brother was killed in Ukraine. She says his family is still waiting for answers</a> NPR: The family of Jimmy Hill, the U.S. citizen killed in Ukraine this week, doesn't know what happened to his body and where his remains are now. 
  <p class="updated_time"> 04:15 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087745000/russia-ukraine-war-what-happened-today-march-19">Russia-Ukraine war: What happened today (March 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:10 PM CT, Mar. 19 </p> 
- <a href="https://www.npr.org/2022/03/19/1087749861/ukraine-children-unicef-risk-report-human-trafficking">The 1.5 million children who fled Ukraine are at risk of human trafficking</a> NPR: UNICEF warned about the higher risk for children fleeing the conflict. More than 500 unaccompanied children have crossed from Ukraine into Romania since the Russian invasion began. 
  <p class="updated_time"> 03:52 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/spain-morocco-western-sahara.html">Spain Endorses Morocco’s Plan for Governing Western Sahara</a> NYT: Madrid endorsed a plan for limited autonomy for the territory in northwestern Africa, but the change in policy was denounced by independence groups and could aggravate relations with Algeria. 
  <p class="updated_time"> 03:51 PM CT, Mar. 19 </p> 
