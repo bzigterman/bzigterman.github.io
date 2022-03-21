@@ -9,32 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/asia/japan-red-crowned-cranes.html">Japan Saved Red-Crowned Cranes. Can They Survive Without Humans?</a> NYT: Conservators vastly increased the numbers of red-crowned cranes, a symbol of loyalty and longevity in Japanese culture. That’s just a start. 
+ <p class="updated_time"> 01:59 AM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine rejects Russian demand to surrender port city</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
+ <p class="updated_time"> 01:52 AM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087805166/hong-kong-to-lift-flight-bans-and-cut-quarantine-for-arrivals">Hong Kong to lift flight bans and cut quarantine for arrivals</a> NPR: The local government also says it will suspend plans for a city-wide mass-testing exercise. 
  <p class="updated_time"> 01:40 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Live Updates: Ukraine Rejects Demand to Surrender Mariupol</a> NYT: Russian forces escalated the attack on the port city, which has been pummeled since the start of the war. President Biden announced a week of diplomatic efforts, including a trip to Poland. 
  <p class="updated_time"> 01:27 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
- <p class="updated_time"> 12:50 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 01:07 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/russia-failing-to-achieve-early-victory-in-ukraine-is-seen-shifting-to-plan-b-11647824374">Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’</a> WSJ: Russia, Failing to Achieve Early Victory in Ukraine, Is Seen Shifting to ‘Plan B’ 
  <p class="updated_time"> 12:44 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 12:37 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087802512/south-korean-slavery-victim-seeks-u-n-justice-as-time-runs-out">South Korean slavery victim seeks U.N. justice as time runs out</a> NPR: The grievances over sexual slavery, forced labor and other abuses stemming from Japan's WW II-era colonial rule of the Korean Peninsula have strained Seoul-Tokyo relations in recent years. 
- <p class="updated_time"> 11:50 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 12:07 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/u-s-sends-patriot-missiles-to-saudi-arabia-filling-an-urgent-request-11647822871">U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request</a> WSJ: U.S. Sends Patriot Missiles to Saudi Arabia, Fulfilling Urgent Request 
- <p class="updated_time"> 10:50 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 11:07 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
  <p class="updated_time"> 10:33 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/china-zero-covid.html">As Omicron Surges and Economy Suffers, China Tweaks ‘Zero Covid’</a> NYT: Beijing is fine-tuning its virus response playbook to try to limit the cost of restrictions. But its goal of eliminating all infections could make that difficult. 
  <p class="updated_time"> 10:32 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/ukraine-russia-armenia.html">Russia Is Losing Tens of Thousands of Outward-Looking Young Professionals</a> NYT: Many of them have been streaming into Armenia, where they can work I.T. jobs remotely, at least for a while. At cafes in the capital, Yerevan, the exiles try to plot out new lives from their laptops. 
- <p class="updated_time"> 09:50 PM CT, Mar. 20 </p> 
+ <p class="updated_time"> 10:07 PM CT, Mar. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
+ <p class="updated_time"> 09:07 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 08:55 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60817252?at_medium=RSS&at_campaign=KARANGA">Supreme Court’s Clarence Thomas hospitalised with infection</a> BBC: The 73-year-old, who is the longest-serving member of the high court, is being treated for an infection. 
- <p class="updated_time"> 08:50 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
- <p class="updated_time"> 08:17 PM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine rejects Russian demand to surrender port city</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
  <p class="updated_time"> 07:48 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
  <p class="updated_time"> 07:14 PM CT, Mar. 20 </p> 
@@ -44,7 +48,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:04 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60763168?at_medium=RSS&at_campaign=KARANGA">Not smart but clever? The return of 'dumbphones'</a> BBC: Why sales of very basic mobile phones, without apps and internet connection, are increasing. 
  <p class="updated_time"> 07:01 PM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60800307?at_medium=RSS&at_campaign=KARANGA">Kenya’s Killer Roads: Dodgy driving licences and dangerous vehicles in Kenya</a> BBC: Kenya’s road accidents and deaths are on the rise, Africa Eye reveals cracks in Kenya’s road safety systems. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60800307?at_medium=RSS&at_campaign=KARANGA">Kenya’s killer roads: Dodgy driving licences and dangerous vehicles</a> BBC: Kenya’s road accidents and deaths are on the rise, Africa Eye reveals cracks in its road safety systems. 
  <p class="updated_time"> 07:00 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60762032?at_medium=RSS&at_campaign=KARANGA">Omicron vs Zero-Covid: How long can China hold on?</a> BBC: China's worst outbreak in two years has got some questioning how long it can hang on to its strategy. 
  <p class="updated_time"> 06:50 PM CT, Mar. 20 </p> 
@@ -141,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/europe/pope-constitution-vatican.html">Pope Francis Issues New Vatican Constitution</a> NYT: The document stipulates that baptized lay Catholics, including women, can lead departments and increases institutional efforts to protect minors. 
  <p class="updated_time"> 04:48 PM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087751095/ukraine-jimmy-hill-family">Her brother was killed in Ukraine. She says his family is still waiting for answers</a> NPR: The family of Jimmy Hill, the U.S. citizen killed in Ukraine this week, doesn't know what happened to his body and where his remains are now. 
- <p class="updated_time"> 04:15 PM CT, Mar. 19 </p> 
- <a href="https://www.npr.org/2022/03/19/1087745000/russia-ukraine-war-what-happened-today-march-19">Russia-Ukraine war: What happened today (March 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:52 PM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/spain-morocco-western-sahara.html">Spain Endorses Morocco’s Plan for Governing Western Sahara</a> NYT: Madrid endorsed a plan for limited autonomy for the territory in northwestern Africa, but the change in policy was denounced by independence groups and could aggravate relations with Algeria. 
  <p class="updated_time"> 03:51 PM CT, Mar. 19 </p> 
@@ -209,8 +211,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/18/arts/music/philharmonic-conductor-russia-ukraine.html">Russian Conductor Will Not Appear With New York Philharmonic</a> NYT: Tugan Sokhiev, who resigned from two posts after facing pressure to condemn the invasion of Ukraine, will not perform with the orchestra because of the war. 
  <p class="updated_time"> 06:00 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/asia/killing-stone-japan.html">A ‘Killing Stone’ Broke in Japan. Is a Demon on the Loose?</a> NYT: The rock appears in a famous legend starring a nine-tailed fox spirit. The question now is whether the fracture was a good or bad omen. 
- <p class="updated_time"> 02:00 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/18/business/energy-environment/nickel-russia-battery-electric-cars.html">How the War in Ukraine Could Slow the Sales of Electric Cars</a> NYT: The price of nickel, an essential ingredient in most batteries, has soared because of fear that Russian supplies could be cut off. 
 
 
 </details>
