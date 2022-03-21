@@ -9,26 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
+ <p class="updated_time"> 08:17 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine rejects Russian offer to surrender port city</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
+ <p class="updated_time"> 07:56 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
+ <p class="updated_time"> 07:48 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
+ <p class="updated_time"> 07:14 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60749496?at_medium=RSS&at_campaign=KARANGA">The hunt for Nigerians who can change into cats</a> BBC: One man is challenging Nigerians' belief in magic after a wave of killings that has gripped the country. 
+ <p class="updated_time"> 07:05 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60616273?at_medium=RSS&at_campaign=KARANGA">Oscars 2022: Five ways the Academy is trying to stay relevant</a> BBC: The Academy Awards return this Sunday, but they face a battle to raise their viewing figures. 
+ <p class="updated_time"> 07:04 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60763168?at_medium=RSS&at_campaign=KARANGA">Not smart but clever? The return of 'dumbphones'</a> BBC: Why sales of very basic mobile phones, without apps and internet connection, are increasing. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60800307?at_medium=RSS&at_campaign=KARANGA">Kenya’s Killer Roads: Dodgy driving licences and dangerous vehicles in Kenya</a> BBC: Kenya’s road accidents and deaths are on the rise, Africa Eye reveals cracks in Kenya’s road safety systems. 
+ <p class="updated_time"> 07:00 PM CT, Mar. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60762032?at_medium=RSS&at_campaign=KARANGA">Omicron vs Zero-Covid: How long can China hold on?</a> BBC: China's worst outbreak in two years has got some questioning how long it can hang on to its strategy. 
+ <p class="updated_time"> 06:56 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
  <p class="updated_time"> 06:50 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/us-marines-crash-norway-aircraft.html">Remains of 4 U.S. Marines Retrieved From Site of Osprey Crash in Norway</a> NYT: The police said that the tilt-rotor aircraft, which was taking part in a NATO training exercise, crashed on Friday evening, killing all crew members aboard. 
- <p class="updated_time"> 06:01 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-halting-progress-in-attack-on-ukraine-puts-focus-on-resupply-efforts-11647775418">Russia’s Assault on Ukraine Uproots 10 Million People</a> WSJ: Russia’s Assault on Ukraine Uproots 10 Million People 
- <p class="updated_time"> 05:46 PM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/03/20/world/ukraine-russia-war">Ukraine Live Updates: Fears Grow for Mariupol as Russia Appears Stalled Elsewhere</a> NYT: With analysts predicting a bloody stalemate across much of Ukraine, Russian forces were fighting their way into the port city of Mariupol, where officials warned of forced deportations and a strike on another building where hundreds of civilians were sheltering. 
+ <p class="updated_time"> 05:56 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 05:46 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-russia-war-mariupol.html">Russia Broadens Mariupol Assault as Signs of Stalemate Take Shape</a> NYT: The battle for Mariupol has become a grim symbol of Russia’s superior firepower and its frustration in failing to subjugate Ukraine after more than three weeks of war. 
  <p class="updated_time"> 05:11 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html">Brazil Lifts Its Ban on Telegram After Two Days</a> NYT: Brazil’s Supreme Court blocked Telegram on Friday. The messaging app then responded with measures to fight misinformation, and the court quickly lifted its ban. 
  <p class="updated_time"> 05:09 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60816865?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The wounded children of Putin's war</a> BBC: Survivors from the bombardment of Mariupol are bearing the physical and mental scars of the conflict. 
- <p class="updated_time"> 05:01 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-farming-food-supplies-grain-russia-11647796055">War in Ukraine Is Already Taking Its Toll on Global Food Supplies</a> WSJ: War in Ukraine Is Already Taking Its Toll on Global Food Supplies 
+ <p class="updated_time"> 04:56 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
  <p class="updated_time"> 04:21 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087080628/mosul-iraq-murals-art-after-isis">In Iraq's Mosul, art springs up from ruins almost 5 years after the ouster of ISIS</a> NPR: This vibrant street art is a sign of the spirited rebuilding going on in the northern Iraqi city, after ISIS was defeated in 2017. 
- <p class="updated_time"> 04:01 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/russias-push-for-self-sufficient-economy-fails-before-western-sanctions-11647777600">Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions</a> WSJ: Russia’s Push for Self-Sufficient Economy Fails Before Western Sanctions 
  <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087777022/russia-ukraine-war-what-happened-today-march-20">Russia-Ukraine war: What happened today (March 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:56 PM CT, Mar. 20 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
  <p class="updated_time"> 03:34 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087782349/zelenskyy-ukraine-israel">Zelenskyy compares Russia's invasion to Holocaust in a plea to Israel for support</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke with Israeli lawmakers about his impatience with Israel as it mediates negotiations between Russia and Ukraine. 
  <p class="updated_time"> 03:33 PM CT, Mar. 20 </p> 
@@ -39,10 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-war-kyiv.html">In Ukraine, Solidarity and Defiance Among Those Still in Kyiv</a> NYT: About two million people have stayed in Kyiv, a population galvanized by a newfound unity and its refusal to be cowed by Russian invaders. 
  <p class="updated_time"> 03:13 PM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087781560/australia-alumina-ban-russia">Australia bans the export of aluminum ores to Russia </a> NPR: Australian officials said the restrictions, which include a ban on bauxite, is designed to curtail Russia's ability to produce aluminum — a vital ingredient in arms and munition manufacturing. 
- <p class="updated_time"> 03:01 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/elon-musks-business-ties-to-china-create-unease-in-washington-11647768780">Elon Musk’s Business Ties to China Create Unease in Washington</a> WSJ: Elon Musk’s Business Ties to China Create Unease in Washington 
- <p class="updated_time"> 02:01 PM CT, Mar. 20 </p> 
- <a href="https://www.wsj.com/articles/pakistan-reaches-deal-with-mining-companies-11647793113">Pakistan Reaches Deal With Mining Companies</a> WSJ: Pakistan Reaches Deal With Mining Companies 
  <p class="updated_time"> 01:39 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/pakistan-blasphemy-religious-violence.html">Religion-Fueled Mobs on the Rise Again in Pakistan</a> NYT: The recent lynching of a man accused of burning pages from a Quran underscored Pakistan’s leading status as a site of religious violence. 
  <p class="updated_time"> 01:11 PM CT, Mar. 20 </p> 
@@ -51,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/europe/austria-indoor-mask-mandate.html">Amid rising cases, Austria hastily reintroduces an indoor mask mandate.</a> NYT: Earlier this month, Austrian officials also had announced that the nation’s general vaccine mandate would be temporarily suspended. 
  <p class="updated_time"> 11:54 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087774062/carnival-belgium-car-crash-6-dead">At least 6 people were killed when a driver slammed into Carnival revelers</a> NPR: Prosecutors, who are in the early stages of the investigation, said there were no elements to suspect terrorism was behind the incident. Ten other people suffered life-threatening injuries. 
- <p class="updated_time"> 11:48 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
  <p class="updated_time"> 11:33 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-marines-russian-missile-mykolaiv.html">Russian Rocket Attack Turns Ukrainian Marine Base to Rubble, Killing Dozens</a> NYT: More than 40 marines were killed, an official said, but there were signs the toll could much be higher. At the Mykolaiv morgue, dozens of bodies were laid out in a storage area. 
  <p class="updated_time"> 11:18 AM CT, Mar. 20 </p> 
@@ -65,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
  <p class="updated_time"> 10:01 AM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60812440?at_medium=RSS&at_campaign=KARANGA">Belgium carnival 'turned into a tragedy'</a> BBC: At least six people are killed after a car drives into a crowd of carnival-goers in southern Belgium. 
- <p class="updated_time"> 10:00 AM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-60812330?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco ramps up investment to boost production</a> BBC: The state energy firm Saudi Aramco said it would increase investment after profits more than doubled in 2021. 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
  <p class="updated_time"> 09:06 AM CT, Mar. 20 </p> 
@@ -93,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/20/1087734423/afghanistan-girls-school-taliban">As school resumes in Afghanistan, will all girls be allowed to go?</a> NPR: Schools in Afghanistan are expected to open for the new semester Wednesday. But despite Taliban assurances that girls will be allowed back, students and teachers are unclear about what will happen. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/asia/russia-putin-propaganda-media.html">The Lies Putin Tells to Justify Russia’s War on Ukraine</a> NYT: The Kremlin has used a barrage of increasingly outlandish falsehoods to prop up its overarching claim that the invasion of Ukraine is justified. 
- <p class="updated_time"> 03:51 AM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60812438?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol terror will go down in history - Zelensky</a> BBC: The president of Ukraine condemns Russia's actions in the besieged of the port city of Mariupol. 
  <p class="updated_time"> 12:48 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/18/world/europe/poland-jaroslaw-kaczynski-ukraine-eu.html">War in Ukraine Prompts a Political Makeover in Poland</a> NYT: Jaroslaw Kaczynski, Poland’s de facto leader and longtime scourge of E.U. unity, is portraying himself as a standard-bearer of European solidarity in defense of Ukraine and democratic values. 
  <p class="updated_time"> 12:30 AM CT, Mar. 20 </p> 
@@ -149,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/19/world/europe/putin-zelensky-turkey.html">Putin Isn’t Yet Ready for Talks With Zelensky, Turkish Official Says</a> NYT: Turkey is trying to mediate between Ukraine and Russia and bring an end to the war. But a senior Turkish official said that Russia was in no hurry. 
  <p class="updated_time"> 09:16 AM CT, Mar. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60807896?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Man rescued from Kharkiv rubble after shelling</a> BBC: A man is pulled alive from the rubble of a teaching building in Ukraine, after Russian shelling. 
- <p class="updated_time"> 08:43 AM CT, Mar. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60806973?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Tanks in streets' as fighting hits Mariupol centre</a> BBC: Street fighting hampers efforts to rescue civilians trapped in a bombed theatre, the mayor says. 
  <p class="updated_time"> 08:14 AM CT, Mar. 19 </p> 
  <a href="https://www.nytimes.com/2022/03/19/world/europe/france-algeria-macron-election-far-right.html">Shadows of Algerian War Loom Over Election Campaign in France</a> NYT: As President Emmanuel Macron addresses his country’s colonial history, echoes of that past have pervaded the messaging of right-wing candidates ahead of the voting in April. 
  <p class="updated_time"> 05:00 AM CT, Mar. 19 </p> 
@@ -207,10 +213,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/17/world/australia/kids-covid-isolation-and-learning-to-endure.html">Kids, Covid Isolation and Learning to Endure</a> NYT: The virus found us, and we’re doing just fine. I think. 
  <p class="updated_time"> 09:06 PM CT, Mar. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-60744216?at_medium=RSS&at_campaign=KARANGA">How Poland's business community is helping Ukrainians</a> BBC: Small and medium sized firms, including recruiters, are organising support for arriving refugees. 
- <p class="updated_time"> 07:54 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons will US give Ukraine - and how much will they help?</a> BBC: Experts believe that while additional US aid can help Ukraine fight back, more is still needed. 
- <p class="updated_time"> 07:22 PM CT, Mar. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-60737248?at_medium=RSS&at_campaign=KARANGA">Ukraine's restaurants rally to the war effort</a> BBC: From chefs to suppliers, the country's food industry is pulling together to feed the population at war. 
 
 
 </details>
@@ -218,8 +220,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:55 PM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">Ketanji Brown Jackson Fought Injustices While at Harvard</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
+ <p class="updated_time"> 08:42 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">At Harvard, Ketanji Brown Jackson Fought Injustices but Kept a Steely Academic Focus</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
+ <p class="updated_time"> 08:30 PM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/reuters-staff-partnership-russian-wire-service-00018779">Reuters staff raise alarms over partnership with Russian-owned wire service</a> Politico: Reuters has not ended its relationship with Tass despite internal concerns. 
+ <p class="updated_time"> 07:51 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/clarence-thomas-hospitalized.html">Justice Clarence Thomas Hospitalized With Flulike Symptoms, Court Says</a> NYT: Justice Thomas, who was hospitalized on Friday, was being treated with intravenous antibiotics and was expected to be released in a day or two, the court said on Sunday. 
+ <p class="updated_time"> 07:23 PM CT, Mar. 20 </p> 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/us-rohingya-genocide.html">U.S. to Declare That Myanmar’s Military Committed Genocide </a> NYT: The Biden administration had been weighing the legal designation for the bloody campaign against members of the Rohingya, a minority ethnic group. 
+ <p class="updated_time"> 07:10 PM CT, Mar. 20 </p> 
+ <a href="https://www.npr.org/2022/03/20/1087788575/justice-clarence-thomas-hospitalized-supreme-court">Justice Clarence Thomas has been hospitalized with an infection, Supreme Court says</a> NPR: Justice Thomas' condition is improving and he will likely be released within two days, the court said. He'll stay involved in the consideration of any cases the court hears this week. 
+ <p class="updated_time"> 07:00 PM CT, Mar. 20 </p> 
+ <a href="https://www.politico.com/news/2022/03/20/clarence-thomas-hospitalized-flu-like-symptoms-00018767">Clarence Thomas hospitalized with 'flu-like symptoms'</a> Politico: The justice "expects to be released from the hospital in a day or two," the U.S. Supreme Court said in a statement. 
  <p class="updated_time"> 05:54 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 05:32 PM CT, Mar. 20 </p> 
@@ -261,13 +273,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:38 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/yemen-strikes-saudi-arabia-00018703">Yemen rebels launch wide strikes on Saudi sites</a> Politico: The targets included natural gas and desalination plants. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/its-a-unicorn-year-for-mid-income-taxpayers-thanks-to-pandemic-aid-00018094">It's a 'unicorn year' for mid-income taxpayers, thanks to pandemic aid</a> Politico: A loophole allows some to take advantage of stimulus payments and the expanded child credit even if they wouldn't normally qualify. 
+ <a href="https://www.politico.com/news/2022/03/20/new-yorks-left-disarray-eric-adams-00018688">Eric Adams is daring the left to take him on — and they’re game</a> Politico: In New York, progressives aren’t satisfied with Adams’ law-and-order agenda, but until now they hadn’t figured out how to effectively rebuke him either. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/republicans-2022-campaigns-00018591">How the GOP's dirtiest slur got a new life</a> Politico: An insult once reserved for Republican moderates has been weaponized. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/durbin-supreme-court-nominee-ketanji-brown-jackson-00018579">The Senate's Supreme Court peacekeeper prepares for his moment</a> Politico: He waited 39 years for a committee gavel. Now the famously even-tempered Dick Durbin gets what may be his only chance to confirm a justice. 
+ <a href="https://www.politico.com/news/2022/03/20/its-a-unicorn-year-for-mid-income-taxpayers-thanks-to-pandemic-aid-00018094">It's a 'unicorn year' for mid-income taxpayers, thanks to pandemic aid</a> Politico: A loophole allows some to take advantage of stimulus payments and the expanded child credit even if they wouldn't normally qualify. 
  <p class="updated_time"> 06:01 AM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/new-yorks-left-disarray-eric-adams-00018688">Eric Adams is daring the left to take him on — and they’re game</a> Politico: In New York, progressives aren’t satisfied with Adams’ law-and-order agenda, but until now they hadn’t figured out how to effectively rebuke him either. 
+ <a href="https://www.politico.com/news/2022/03/20/durbin-supreme-court-nominee-ketanji-brown-jackson-00018579">The Senate's Supreme Court peacekeeper prepares for his moment</a> Politico: He waited 39 years for a committee gavel. Now the famously even-tempered Dick Durbin gets what may be his only chance to confirm a justice. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
  <a href="https://www.npr.org/2022/03/20/1087228827/senate-nomination-hearing-supreme-court-ketanji-brown-jackson">Confirmation hearings for Ketanji Brown Jackson begin Monday. Here's what to expect</a> NPR: Next week the Senate Judiciary Committee will hold confirmation hearings for Ketanji Brown Jackson, the federal judge President Biden has tapped as his Supreme Court nominee. 
  <p class="updated_time"> 08:52 PM CT, Mar. 19 </p> 
@@ -288,12 +300,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/19/1087712581/biden-warns-xi-jinping-of-consequences-toward-china-if-it-continues-russian-supp">Biden warns Xi Jinping of consequences toward China if it continues Russian support</a> NPR: President Biden had a long video call with Chinese leader Xi Jinping, warning against supporting Russia in its invasion of Ukraine. 
  <p class="updated_time"> 07:02 AM CT, Mar. 19 </p> 
  <a href="https://www.npr.org/2022/03/19/1087712532/week-in-politics-consequences-for-china-zelenskyy-asks-for-help-court-confirmati">Week in politics: Consequences for China; Zelenskyy asks for help; Court confirmation</a> NPR: The U.S. continues its work to economically isolate Russia, and most lawmakers are on board. Also: a look ahead to Monday's Supreme Court confirmation hearings. 
- <p class="updated_time"> 06:01 AM CT, Mar. 19 </p> 
- <a href="https://www.politico.com/news/2022/03/19/native-american-tribes-new-york-cannabis-00016488">New York cannabis regulations are in limbo. But the pot industry is booming on reservations.</a> Politico: There are questions about how the tribes are procuring the marijuana, how it may ultimately be regulated and whether the tribes will reach a compact with New York to tax sales. 
- <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
- <a href="https://www.politico.com/news/2022/03/19/covid-closed-rural-hospitals-tennessee-deaths-anti-vax-conspiracies-00018204">The South’s health care system is crumbling under Covid-19. Enter Tennessee.</a> Politico: The state is a poster child for how rural areas are suffering disproportionately amid the pandemic in the worst public health crisis in a century. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/travel-abortion-law-missouri-00018539">Missouri wants to stop out-of-state abortions. Other states could follow.</a> Politico: The first-of-its-kind proposal from Missouri lawmakers would allow private citizens to sue anyone who helps a Missouri resident have an abortion. 
+ <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
+ <a href="https://www.politico.com/news/2022/03/19/covid-closed-rural-hospitals-tennessee-deaths-anti-vax-conspiracies-00018204">The South’s health care system is crumbling under Covid-19. Enter Tennessee.</a> Politico: The state is a poster child for how rural areas are suffering disproportionately amid the pandemic in the worst public health crisis in a century. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/biden-export-control-nominee-stalled-00018003">Biden’s war on the Russian economy is missing a key player</a> Politico: The Senate has yet to confirm the administration's pick for Commerce undersecretary overseeing implementation of U.S. export controls. 
  <p class="updated_time"> 04:02 AM CT, Mar. 19 </p> 
@@ -330,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/18/1087616997/deputy-secretary-of-state-sherman-on-ukraine-latest-and-talks-between-china-and-">Deputy Secretary of State Sherman on Ukraine latest and talks between China and U.S.</a> NPR: NPR's Mary Louise Kelly talks with Deputy Secretary of State Wendy Sherman about diplomatic efforts in the war in Ukraine and U.S. aid to the country. 
  <p class="updated_time"> 03:19 PM CT, Mar. 18 </p> 
  <a href="https://www.npr.org/2022/03/18/1087616930/better-ventilation-means-healthier-students-but-many-schools-cant-afford-to-upgr">Better ventilation means healthier students, but many schools can't afford to upgrade</a> NPR: The better the air quality in schools, the better students do academically and healthier they are. Improving air quality is expensive, so advocates hope money set aside under the Biden Plan will help. 
- <p class="updated_time"> 12:25 PM CT, Mar. 18 </p> 
- <a href="https://www.npr.org/2022/03/18/1087519729/mark-meadows-faces-north-carolina-investigation-over-his-voter-registration">Mark Meadows faces North Carolina investigation over his voter registration</a> NPR: The probe follows an allegation that the former Trump White House chief of staff never resided at the address he put on his voter registration ahead of the 2020 election. 
  <p class="updated_time"> 11:24 AM CT, Mar. 18 </p> 
  <a href="https://www.nytimes.com/2022/03/18/us/politics/pete-souza-ronny-jackson-biden-trump.html">How Pete Souza and  Ronny Jackson Became Public Foes</a> NYT: Pete Souza, the former White House photographer-turned-Trump troll, now uses his popular Twitter feed almost exclusively to ridicule Representative Ronny Jackson, the former White House doctor-turned-Trump acolyte. 
  <p class="updated_time"> 10:11 AM CT, Mar. 18 </p> 
@@ -340,20 +348,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/18/the-gop-pivot-on-zelenskyy-00018436">The GOP pivot on Zelenskyy</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:04 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/18/a-retiring-moderate-democrat-unloads-on-the-party-00018430"> A retiring moderate Democrat unloads on the party</a> Politico Playbook: And Dems prepare to grill oil CEOs on the Hill. 
- <p class="updated_time"> 04:59 AM CT, Mar. 18 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/biden-putin-war-criminal.html">By Labeling Putin a ‘War Criminal,’ Biden Personalizes the Conflict</a> NYT: President Biden’s visceral reaction to the horrifying images coming out of Ukraine also reflects a broader effort to isolate the Russian leader. 
  <p class="updated_time"> 04:00 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/stephanie-murphy-democrats-congress-house-00018272">How Democrats alienated the woman who helped them win the House</a> Politico: On this week’s show, Playbook co-author Rachael Bade talks to Congresswoman Stephanie Murphy about the challenges of being a moderate Democrat in an increasingly left-leaning House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/trump-impeachment-echoes-russia-ukraine-00018348">GOP shrugs off Trump impeachment echoes in Russia-Ukraine war</a> Politico: The former president withheld aid from the same nation that Republicans are accusing Joe Biden of slow-walking aid to. They don’t see the parallels. 
  <p class="updated_time"> 09:38 PM CT, Mar. 17 </p> 
  <a href="https://www.nytimes.com/2022/03/17/us/politics/mark-meadows-trump-vote-north-carolina.html">Mark Meadows’s 2020 Vote Is Under Investigation in North Carolina</a> NYT: Records show that Mr. Meadows cast an absentee ballot from the address of a remote mobile home, but reports have cast doubt on whether he lived there. 
- <p class="updated_time"> 08:51 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-china-weapons.html">Biden Will Punish China if It Gives Military Aid to Russia, Blinken Says</a> NYT: President Biden plans to talk on Friday with Xi Jinping, who has a close partnership with Vladimir V. Putin and supports him in the Ukraine war. 
- <p class="updated_time"> 08:15 PM CT, Mar. 17 </p> 
- <a href="https://www.nytimes.com/2022/03/17/us/politics/russia-ukraine-war-crimes.html">U.S. Says Russia Committed War Crimes, but Consequences Are Unclear</a> NYT: A day after President Biden’s remark, Secretary of State Antony Blinken said he agreed. Experts warned of hurdles to a successful prosecution. 
- <p class="updated_time"> 07:43 PM CT, Mar. 17 </p> 
- <a href="https://www.politico.com/news/2022/03/17/white-house-bidens-covid-scares-00018384">White House sticking to Biden's testing protocol despite Covid scares</a> Politico: Reporters questioned the president's press secretary after second gentleman Doug Emhoff’s positive test and then Irish Prime Minister Micheál Martin’s Covid case. 
 
 
 </details>
