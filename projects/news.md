@@ -9,58 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:31 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Live Updates: China Eastern Plane Crashes in Remote Mountain Valley</a> NYT: It was unclear if any of the 132 crew and passengers survived the Boeing 737-800 crash. The first rescuers on the scene found only debris and fires, and rain was likely to hamper rescue efforts overnight. 
- <p class="updated_time"> 11:28 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 11:58 AM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China and there are fears no-one survived. 
+ <p class="updated_time"> 11:58 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Russia Strikes Kyiv Mall; Mariupol Refuses to Yield</a> NYT: Russian forces had given a predawn deadline for the surrender of the port city. A Russian missile strike reduced a sprawling shopping mall in Kyiv to a smoldering ruin. And the Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
+ <p class="updated_time"> 11:49 AM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Live Updates: China Eastern Plane Crashes in Remote Mountain Valley</a> NYT: It was unclear if any of the 132 crew and passengers survived the Boeing 737-800 crash. The first rescuers on the scene found only debris and fires, and rain was likely to hamper rescue efforts overnight. 
  <p class="updated_time"> 11:23 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60826303?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Holocaust survivor killed by Russian shelling in Kharkiv</a> BBC: Boris Romantschenko was killed in Kharkiv 77 years after surviving the Buchenwald concentration camp. 
+ <p class="updated_time"> 11:07 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 11:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-stock-price.html">Boeing Stock Price Falls as Much as 9 Percent After China Eastern Crash</a> NYT: The aerospace giant said it was seeking more information on the disaster, and U.S. regulators said they were ready to assist. 
- <p class="updated_time"> 10:46 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Ukraine Rejects Russian Ultimatum on Embattled Mariupol</a> WSJ: Ukraine Rejects Russian Ultimatum on Embattled Mariupol 
  <p class="updated_time"> 10:46 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60819034?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Girls return to school in amidst hope and fear</a> BBC: The Taliban ban on secondary school education for girls is due to be lifted on Wednesday. 
  <p class="updated_time"> 10:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60820215?at_medium=RSS&at_campaign=KARANGA">Myanmar Rohingya violence is genocide, US says</a> BBC: A US official said the move would make it harder for the military to commit further abuses. 
  <p class="updated_time"> 10:32 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/flight-path-eastern-airlines.html">Flight MU-5735 Descended More Than 20,000 Feet in Just Over a Minute</a> NYT: An hour after it took off, the flight turned horribly wrong, according to data from Flightradar24. 
- <p class="updated_time"> 10:25 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China and there are fears no-one survived. 
  <p class="updated_time"> 10:24 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/iran-uk-nazanin-zaghari-ratcliffe-released.html">Back in U.K., Nazanin Zaghari-Ratcliffe Urges Iran to Release Others</a> NYT: Ms. Zaghari-Ratcliffe, the British-Iranian charity worker held for six years in Tehran, said “freedom will never be complete” until all detainees were allowed to leave. 
  <p class="updated_time"> 10:17 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-60824956?at_medium=RSS&at_campaign=KARANGA">UK blames Russia for hoax calls to cabinet ministers</a> BBC: Downing Street has also revealed that Culture Secretary Nadine Dorries was unsuccessfully targeted. 
  <p class="updated_time"> 10:14 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087824790/hungary-arts-freedom-suppressed">In Hungary, the arts are being suppressed by the government, a new report says</a> NPR: The Artistic Freedom Initiative contends that consolidated state power under right-wing Prime Minister Viktor Orbán and artists' self-censorship has led to an "existential crisis." 
+ <p class="updated_time"> 10:07 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/russian-oligarchs-yachts-hit-the-high-seas-11647876326">Russian Oligarchs’ Yachts Hit the High Seas</a> WSJ: Russian Oligarchs’ Yachts Hit the High Seas 
  <p class="updated_time"> 10:00 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087827003/facebook-instagram-russia-extremist-organization">A Russian court bans Facebook and Instagram as extremist</a> NPR: The ruling amounts to an immediate ban of Facebook and Instagram in Russia, where both platforms are already blocked. WhatsApp, which is owned by the same company, is still allowed. 
  <p class="updated_time"> 09:54 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/australia/australia-space-command.html">Creating Space Command, Australia Strengthens High-Tech Bond With U.S.</a> NYT: The expanded commitment to space defense reflects the reality of a new, extraterrestrial landscape for war. 
  <p class="updated_time"> 09:47 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
- <p class="updated_time"> 09:46 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/russian-oligarchs-yachts-hit-the-high-seas-11647876326">Russian Oligarchs’ Yachts Hit the High Seas</a> WSJ: Russian Oligarchs’ Yachts Hit the High Seas 
  <p class="updated_time"> 09:43 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/disney-shanghai-closed.html">Disney Shanghai temporarily shuts down as Omicron surges in China.</a> NYT: The move came amid growing restrictions on travel and entertainment across China as the government tries to stamp out the Omicron variant. 
- <p class="updated_time"> 08:46 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/agriculture-giants-stay-in-russia-despite-calls-to-exit-over-ukraine-war-11647860581">Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War</a> WSJ: Agriculture Giants Stay in Russia Despite Calls to Exit Over Ukraine War 
+ <p class="updated_time"> 09:07 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 08:43 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
  <p class="updated_time"> 08:22 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerge. 
+ <p class="updated_time"> 08:07 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 08:00 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087296594/nowruz-is-banned-in-afghanistan-but-families-continue-to-celebrate">Nowruz is banned in Afghanistan, but families continue to celebrate</a> NPR: One woman living in Kabul describes how, despite food shortages and repression, her family is celebrating the Persian new year with what they have. 
- <p class="updated_time"> 07:46 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 07:45 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-next-generation.html">The Plane That Crashed Was Not a Boeing 737 Max</a> NYT: The model is a narrow-body jet that has a maximum range of over 3,000 miles, but is commonly used on shorter routes. 
- <p class="updated_time"> 07:27 AM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: A Boeing 737-800 passenger plane operated by China Eastern Airlines carrying 132 people crashed in southern China. 
  <p class="updated_time"> 07:09 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60820993?at_medium=RSS&at_campaign=KARANGA">Colombia guard held after drug lord flees through open door</a> BBC: Gang leader Juan Castro escaped from the maximum-security La Picota jail disguised as a guard. 
  <p class="updated_time"> 07:07 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/article/ukraine-fake-news-russia.html">How to Avoid Sharing Misinformation on the War in Ukraine</a> NYT: Here are warning signs to look for before you retweet. 
+ <p class="updated_time"> 07:07 AM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 07:04 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60822865?at_medium=RSS&at_campaign=KARANGA">Ed Sheeran and Camila Cabello join Ukraine concert line-up</a> BBC: Camila Cabello, Ed Sheeran, Gregory Porter and Snow Patrol will all take part in the fundraiser. 
  <p class="updated_time"> 06:56 AM CT, Mar. 21 </p> 
@@ -87,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/business/economy/inflation-biden-shipping.html">As  Inflation Surges, Biden Targets Ocean Shipping</a> NYT: The president is targeting shipping companies that have jacked up prices during the pandemic, but critics say bigger economic forces are at work. 
  <p class="updated_time"> 01:52 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087805166/hong-kong-to-lift-flight-bans-and-cut-quarantine-for-arrivals">Hong Kong to lift flight bans and cut quarantine for arrivals</a> NPR: The local government also says it will suspend plans for a city-wide mass-testing exercise. 
- <p class="updated_time"> 12:44 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/18/world/asia/china-ukraine-russia-dissent.html">In Rare Rebuke, Chinese Denounce Russia’s War in Ukraine</a> NYT: A persistent minority of Chinese scholars, journalists and citizens is warning Beijing against the risks of supporting the invasion of Ukraine. 
  <p class="updated_time"> 12:37 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087802512/south-korean-slavery-victim-seeks-u-n-justice-as-time-runs-out">South Korean slavery victim seeks U.N. justice as time runs out</a> NPR: The grievances over sexual slavery, forced labor and other abuses stemming from Japan's WW II-era colonial rule of the Korean Peninsula have strained Seoul-Tokyo relations in recent years. 
  <p class="updated_time"> 10:33 PM CT, Mar. 20 </p> 
@@ -208,7 +206,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:37 AM CT, Mar. 21 </p> 
+ <p class="updated_time"> 11:44 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/business/economy/powell-fed-chair.html">Powell Says Fed Could Raise Rates More Quickly to Tame Inflation</a> NYT: Jerome H. Powell, the chair of the Federal Reserve, voiced worry about inflation expectations and declared the central bank ready to do what it takes to control rapid price increases. 
  <p class="updated_time"> 11:32 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-supreme-court-confirmation-hearings.html">What to Watch as Jackson’s Supreme Court Confirmation Hearings Begin</a> NYT: President Biden’s nominee is certain to be pressed by Republicans on her criminal defense work and her judicial record. 
@@ -217,7 +215,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:35 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">At Harvard, a Confederate Flag Spurred Ketanji Brown Jackson to Act</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
  <p class="updated_time"> 10:32 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/sec-outlines-climate-disclosure-rules-for-businesses-00018849">SEC outlines climate disclosure rules to boost Biden agenda</a> Politico: The proposed rule would deliver a big — and durable — policy win for President Joe Biden, whose climate agenda has been mired in congressional partisanship, and overshadowed by economic and geopolitical crises. 
+ <a href="https://www.politico.com/news/2022/03/21/sec-outlines-climate-disclosure-rules-for-businesses-00018849">SEC climate rule would boost Biden agenda</a> Politico: The proposed rule would deliver a big — and durable — policy win for President Joe Biden, whose climate agenda has been mired in congressional partisanship, and overshadowed by economic and geopolitical crises. 
  <p class="updated_time"> 10:24 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-strategy.html">After Three Rounds, Judge Jackson Knows the Confirmation Playbook</a> NYT: In her Supreme Court confirmation hearings this week, the judge will draw on her earlier experiences and those of her predecessors. 
  <p class="updated_time"> 10:06 AM CT, Mar. 21 </p> 
