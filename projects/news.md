@@ -9,18 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Boeing 737-800 Crashes in Remote Mountain Valley in Southern China</a> NYT: Rescuers on the scene found debris and fires, and a lack of electricity hampered rescue efforts overnight. Search efforts are set to continue into Tuesday, although it was unclear if any of the 132 crew and passengers survived the plane crash. 
+ <p class="updated_time"> 08:39 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: As Russia Pounds Ukrainian Cities, U.S. Lobbies an Anti-Kremlin Alliance</a> NYT: Biden spoke with the leaders of Germany, Italy, France and Britain. A Russian missile strike destroyed a Kyiv shopping mall. The Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
+ <p class="updated_time"> 08:36 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After Boeing Plane Crash in China, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and rescuers who went to the crash site faced harsh conditions. 
+ <p class="updated_time"> 08:05 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/business/boeing-china-737.html">Boeing Faces New Upheaval After Crash of Chinese Airliner</a> NYT: No fault has been found, but the company, which has been trying to overcome a recent legacy of design and production troubles, is likely to get scrutinized. 
+ <p class="updated_time"> 08:04 PM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087977913/here-are-the-ceos-who-were-briefed-by-the-white-house-on-the-war-in-ukraine">Here are the CEOs who were briefed by the White House on the war in Ukraine</a> NPR: The group discussed ways to "mitigate price increases on American consumers" caused by the war and the need to address disruptions to energy and agricultural markets, the White House said. 
+ <p class="updated_time"> 08:01 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after 'violence' at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after "deadly violence" in the city of Malmö. 
+ <p class="updated_time"> 07:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
+ <p class="updated_time"> 07:38 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/europe/polish-border-refugees.html">In Warsaw, a Network of Support Greets Those Crossing the Polish Border</a> NYT: A sprawling expo center in the Polish capital has given some 25,000 refugees a safe place to recharge before journeying on. 
+ <p class="updated_time"> 07:32 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60824936?at_medium=RSS&at_campaign=KARANGA">Ukraine: Impossible choices for surrogate mothers and parents</a> BBC: Hundreds of Ukrainian women are pregnant with other people's children - creating a web of complex problems. 
+ <p class="updated_time"> 07:28 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60794059?at_medium=RSS&at_campaign=KARANGA">Asakaa: How drill music found a new home in Ghana</a> BBC: Asakaa, or Ghana drill, is the latest hot sound from Africa, following the global success of Afrobeats. 
+ <p class="updated_time"> 07:22 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60829852?at_medium=RSS&at_campaign=KARANGA">Biden: Russia 'exploring' US cyber-attacks</a> BBC: President Joe Biden says US companies should "immediately" prepare defences. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60514266?at_medium=RSS&at_campaign=KARANGA">Sudan: BBC investigation shows abuse of female demonstrators</a> BBC: The BBC has identified a number of female protesters who have been physically and sexually assaulted by security forces in Sudan. 
+ <p class="updated_time"> 07:01 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60483820?at_medium=RSS&at_campaign=KARANGA">Evangelicalism & Brazil: The religious movement that spread through a national team</a> BBC: Evangelicalism within Brazil's national football team has been on the rise, mirroring a wider trend across the country. 
+ <p class="updated_time"> 06:56 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/climate/united-nations-fossil-fuels-climate-crisis.html">U.N. Chief Warns of ‘Catastrophe’ With Continued Use of Fossil Fuels</a> NYT: António Guterres, the United Nations secretary general, said instead of replacing Russian oil, gas and coal, nations must pivot to clean energy. 
+ <p class="updated_time"> 06:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 06:41 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830052?at_medium=RSS&at_campaign=KARANGA">Yvan Colonna: Corsican nationalist dies after jihadist jail attack</a> BBC: Yvan Colonna's strangling by a fellow inmate had sparked violent protests on the French island. 
- <p class="updated_time"> 06:40 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/business/boeing-china-737.html">Boeing Faces New Upheaval After Crash of Chinese Airliner</a> NYT: No fault has been found, but the company, which has been trying to overcome a recent legacy of design and production troubles, is likely to get scrutinized. 
- <p class="updated_time"> 06:37 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: As Russia Pounds Ukraine, U.S. Lobbies an Anti-Kremlin Alliance</a> NYT: Biden spoke with the leaders of Germany, Italy, France and Britain. A Russian missile strike destroyed a Kyiv shopping mall. The Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
  <p class="updated_time"> 06:37 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/kyiv-mariupol-bombed.html">Russians Pound Ukrainian Cities, as Biden Rallies Anti-Kremlin Alliance</a> NYT: A powerful explosion ruined a shopping mall in Kyiv and claimed several lives, while Ukraine refused a Russian demand to surrender the devastated city of Mariupol. 
- <p class="updated_time"> 06:21 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Boeing 737-800 Crashes in Remote Mountain Valley in Southern China</a> NYT: Rescuers on the scene found debris and fires, and a lack of electricity hampered rescue efforts overnight. Search efforts are set to continue into Tuesday, although it was unclear if any of the 132 crew and passengers survived the plane crash. 
- <p class="updated_time"> 05:49 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
+ <p class="updated_time"> 05:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 05:02 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60826311?at_medium=RSS&at_campaign=KARANGA">Lake Keowee: Police refuse to charge South Carolina man over boat shooting</a> BBC: Nathan Drew Morgan was fatally shot by his rescuer after being pulled from a lake in South Carolina. 
  <p class="updated_time"> 04:56 PM CT, Mar. 21 </p> 
@@ -29,10 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/21/1087903332/us-companies-russia-cyberattacks-ukraine-infrastructure">The U.S. warns companies to stay on guard for possible Russian cyberattacks</a> NPR: President Biden said "evolving intelligence" showed Russia is "exploring options for potential cyberattacks." The U.S. has previously warned about Russia's capability to attack U.S. infrastructure. 
  <p class="updated_time"> 04:52 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/style/volodymyr-zelensky-t-shirt.html">The Man in the Olive Green Tee</a> NYT: How President Volodymyr Zelensky of Ukraine transformed the meaning of a piece of cotton. 
- <p class="updated_time"> 04:49 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
- <p class="updated_time"> 04:47 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After Boeing Plane Crash in China, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and rescuers who went to the crash site faced harsh conditions. 
+ <p class="updated_time"> 04:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 04:42 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/myanmar-genocide-biden.html">Myanmar’s Military Committed Genocide Against Rohingya, U.S. Says</a> NYT: Secretary of State Antony Blinken announced the official designation. More than 9,000 people were killed in the violence. 
  <p class="updated_time"> 04:31 PM CT, Mar. 21 </p> 
@@ -42,19 +64,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:16 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/health/covid-hong-kong-deaths.html">High Death Rate in Hong Kong Shows Importance of Vaccinating the Elderly</a> NYT: Covid has surged in a number of Asian countries that had once held the virus at bay. Vaccination levels have largely determined how deadly those waves would be. 
  <p class="updated_time"> 04:16 PM CT, Mar. 21 </p> 
- <a href="https://www.npr.org/2022/03/21/1087876455/russia-ukraine-war-what-happened-today-march-21">Russia-Ukraine war: What happened today (March 21) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <a href="https://www.npr.org/2022/03/21/1087876455/russia-ukraine-war-what-happened-today-march-21">Russia-Ukraine war: What happened today (March 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60829623?at_medium=RSS&at_campaign=KARANGA">Texas is battling over 170 wildfires</a> BBC: Over the past week, wildfires have burned over 100,000 acres across the US state. 
  <p class="updated_time"> 04:04 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913854/china-eastern-airlines-jet-carrying-132-people-crashes-in-mountains">China Eastern Airlines jet carrying 132 people crashes in mountains</a> NPR: A China Eastern Boeing 737-800 with 132 people on board crashed in a remote, mountainous region of China Monday. There do not appear to be any survivors. Investigators are on their way to the scene. 
+ <p class="updated_time"> 03:51 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 03:51 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913847/thousands-of-russians-are-traveling-to-georgia-to-flee-their-own-government">Thousands of Russians are traveling to Georgia to flee their own government</a> NPR: More than 30,000 Russians have arrived in the country of Georgia since Russia invaded Ukraine. Russians are fleeing not war, but their own government. And they say they can't go back. 
  <p class="updated_time"> 03:51 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913833/the-living-breathing-sauce-thats-at-the-heart-of-chinas-regional-cuisines">The living, breathing sauce that's at the heart of China's regional cuisines</a> NPR: One of the great cornerstones of Chinese culture is its food. And at the heart of China's many regional cuisines is one, secret sauce: Lu. 
  <p class="updated_time"> 03:51 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913826/a-slovak-man-wanted-to-take-donations-to-ukraine-he-ended-up-leading-a-convoy-of">A Slovak man wanted to take donations to Ukraine. He ended up leading a convoy of aid</a> NPR: Alarmed by the humanitarian crisis caused by Russia's invasion, an economist in Slovakia gathered food and clothes from friends — and found himself leading a convoy carrying tons of aid into Ukraine. 
- <p class="updated_time"> 03:49 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 03:47 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/arts/design/europe-russian-art-museums.html">As Big Shows of Russian Art End in Europe, Some Wonder What’s Next</a> NYT: Museums in London and Paris are grappling with questions about how to get art back to Russia, and whether the works will ever be seen again in Europe. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
@@ -67,22 +89,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-stock-price.html">Boeing Stock Price Falls  After China Eastern Crash</a> NYT: The aerospace giant said it was seeking more information on the disaster, and U.S. regulators said they were ready to assist. 
  <p class="updated_time"> 03:04 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerges. 
- <p class="updated_time"> 02:49 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 02:47 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60826303?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Holocaust survivor killed by Russian shelling in Kharkiv</a> BBC: Boris Romantschenko was killed in Kharkiv 77 years after surviving the Buchenwald concentration camp. 
  <p class="updated_time"> 02:44 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
  <p class="updated_time"> 01:54 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087876854/holocaust-survivor-killed-russian-shelling-ukraine">A 96-year-old Holocaust survivor was killed when Russian forces shelled his home</a> NPR: Boris Romantschenko was killed last week in a Russian attack in Kharkiv. He survived four concentration camps and later "campaigned intensively for the memory of the Nazi crimes." 
- <p class="updated_time"> 01:49 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 01:24 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/middleeast/tunisia-constitution-consultation.html">Tunisian President’s Reform Plan Meets With Skepticism</a> NYT: President Kais Saied, who has amassed nearly absolute power, launched a consultation he said would lead to a new constitution and elections. But the process has been shunned by many. 
  <p class="updated_time"> 01:22 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-ng.html">The Boeing 737-800 NG is widely used around the world.</a> NYT: The model involved in the China crash represents nearly 17 percent of the commercial aircraft in operation. 
- <p class="updated_time"> 01:16 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/climate/united-nations-fossil-fuels-climate-crisis.html">U.N. Chief Warns of ‘Catastrophe’ With Continued Use of Fossil Fuels</a> NYT: António Guterres, the United Nations secretary general, said instead of replacing Russian oil, gas and coal, nations must pivot to clean energy. 
  <p class="updated_time"> 01:15 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60825226?at_medium=RSS&at_campaign=KARANGA">Mariupol: Four reasons the city matters so much to Russia</a> BBC: The most bombarded city in Ukraine’s war with Russia is key to Moscow’s military campaign. 
  <p class="updated_time"> 12:35 PM CT, Mar. 21 </p> 
@@ -95,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html">Plan for Amazon Headquarters in South Africa in Peril After Court Order</a> NYT: A judge ordered construction of the development in Cape Town to be halted, saying that the developer had not properly consulted Indigenous South Africans. 
  <p class="updated_time"> 11:58 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China and there are fears no-one survived. 
- <p class="updated_time"> 10:46 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60819034?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Girls return to school in amidst hope and fear</a> BBC: The Taliban ban on secondary school education for girls is due to be lifted on Wednesday. 
  <p class="updated_time"> 10:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60820215?at_medium=RSS&at_campaign=KARANGA">Myanmar Rohingya violence is genocide, US says</a> BBC: A US official said the move would make it harder for the military to commit further abuses. 
  <p class="updated_time"> 10:24 AM CT, Mar. 21 </p> 
@@ -134,8 +148,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:03 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60819030?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv shopping centre hit by Russian missile</a> BBC: A nearby camera captured the moment the shopping centre in Kyiv was struck by a missile. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
- <a href="https://www.npr.org/2022/03/21/1086709135/russia-ukraine-war-military-terms-lingo-phrases">The war in Ukraine has reintroduced these words and phrases into our vocabulary</a> NPR: We're using new geopolitical and military terms — and resurrecting and revising old ones — to discuss Russia's invasion of Ukraine, a conflict in which information is treated as another battlefield. 
- <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/ukraine-lviv-war.html">How Lviv Has Been Transformed by War</a> NYT: Simple rituals, like having coffee in a cafe in Lviv, Ukraine, take on a new and sometimes surreal meaning in a radically altered context. 
  <p class="updated_time"> 02:45 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60818488?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian shelling blamed for corrosive gas leak</a> BBC: The ammonia leak has been contained but prompted a warning residents should stay indoors. 
@@ -157,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60616273?at_medium=RSS&at_campaign=KARANGA">Oscars 2022: Five ways the Academy is trying to stay relevant</a> BBC: The Academy Awards return this Sunday, but they face a battle to raise their viewing figures. 
  <p class="updated_time"> 07:04 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-60763168?at_medium=RSS&at_campaign=KARANGA">Not smart but clever? The return of 'dumbphones'</a> BBC: Why sales of very basic mobile phones, without apps and internet connection, are increasing. 
- <p class="updated_time"> 07:01 PM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60800307?at_medium=RSS&at_campaign=KARANGA">Kenya’s killer roads: Dodgy driving licences and dangerous vehicles</a> BBC: Kenya’s road accidents and deaths are on the rise - Africa Eye reveals cracks in its road safety systems. 
  <p class="updated_time"> 07:00 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60762032?at_medium=RSS&at_campaign=KARANGA">Omicron vs Zero-Covid: How long can China hold on?</a> BBC: China's worst outbreak in two years has got some questioning how long it can hang on to its strategy. 
  <p class="updated_time"> 05:46 PM CT, Mar. 20 </p> 
@@ -177,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/rabbi-chaim-kanievsky-funeral.html">Revered Jewish Sage Buried in One of the Largest Gatherings in Israel’s History</a> NYT: Hundreds of thousands of Israelis shut down large parts of central Israel to attend the funeral of Rabbi Chaim Kanievsky, an influential spiritual leader. 
  <p class="updated_time"> 11:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
- <p class="updated_time"> 10:11 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/19/world/europe/ukraine-georgia-war.html">Ukraine Reminds Georgia of Its Own War With Russia</a> NYT: Russia invaded Georgia in 2008. To many Georgians, that means the country should stand unequivocally with Ukraine. But the government is more cautious. 
  <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
@@ -202,6 +210,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:11 PM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/cp-rail-stoppage-canada-labor-minister-00019098">‘I want a deal now’: Canada’s labor minister resists calls to force end to CP Rail stoppage</a> Politico: Labor Minister Seamus O’Regan said collective bargaining will achieve "certainty and permanence." 
+ <p class="updated_time"> 08:04 PM CT, Mar. 21 </p> 
+ <a href="https://www.npr.org/2022/03/21/1087977913/here-are-the-ceos-who-were-briefed-by-the-white-house-on-the-war-in-ukraine">Here are the CEOs who were briefed by the White House on the war in Ukraine</a> NPR: The group discussed ways to "mitigate price increases on American consumers" caused by the war and the need to address disruptions to energy and agricultural markets, the White House said. 
+ <p class="updated_time"> 07:18 PM CT, Mar. 21 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-hearings.html">Jackson Vows to Be Independent on Supreme Court if Confirmed</a> NYT: On the first day of Judge Ketanji Brown Jackson’s confirmation hearings, Republican senators began previewing attack lines accusing her of being soft on crime. 
+ <p class="updated_time"> 06:32 PM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/greitens-allegations-missouri-senate-00019076">Greitens allegations spark GOP fears of losing Missouri Senate seat</a> Politico: The disgraced former governor is not expected to exit the race anytime soon. 
  <p class="updated_time"> 06:27 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087937431/a-third-of-trans-youth-are-at-risk-of-losing-gender-affirming-care-study-says">A third of trans youth are at risk of losing gender-affirming care, study says</a> NPR: Fifteen states have enacted or are currently considering laws that would restrict medical treatments to more than 58,000 transgender youth. 
  <p class="updated_time"> 06:26 PM CT, Mar. 21 </p> 
@@ -211,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:02 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/russia-trade-sanctions-senate-hurdle-00019066">Senate labors to give Biden another win on Ukraine</a> Politico: The House voted overwhelmingly for a measure designed to help Ukraine. But the upper-chamber GOP wants an oil import ban addressed too. 
  <p class="updated_time"> 06:01 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/us/politics/republicans-judge-ketanji-brown-jackson.html">These Senators Grilling Judge Jackson Have Ambitions Beyond Senate</a> NYT: Four of the senators on the panel grilling Judge Ketanji Brown Jackson are known to have dreams beyond the walls of the U.S. Senate. 
+ <a href="https://www.nytimes.com/2022/03/21/us/politics/republicans-judge-ketanji-brown-jackson.html">For These Republicans, Supreme Court Hearings Are an Irresistible Opportunity</a> NYT: Four of the senators on the panel grilling Judge Ketanji Brown Jackson are known to have dreams beyond the walls of the U.S. Senate. 
  <p class="updated_time"> 05:54 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-republicans.html">On Eve of Ketanji Brown Jackson’s Confirmation Hearings, G.O.P. Steps Up Attacks</a> NYT: The White House and Democrats have pushed back hard against new claims that the judge was overly lenient in certain cases, calling them a smear. 
  <p class="updated_time"> 05:13 PM CT, Mar. 21 </p> 
@@ -241,7 +257,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:51 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-kavanaugh.html">Republicans Re-Litigate Kavanaugh’s Battle in Jackson Hearings</a> NYT: Republicans, in justifying criticism of the first Black woman nominated to the court, repeatedly invoked Democrats’ attacks on Justice Brett M. Kavanaugh. 
  <p class="updated_time"> 02:44 PM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/capitol-riot-trial-tests-justice-department-strategy-00018968">2nd Capitol riot trial puts Justice Department's strategy to the test</a> Politico: The defense for Couy Griffin has turned the trial into a challenge of the central thesis in hundreds of other Jan. 6 prosecutions: that the Capitol and its grounds were strictly off-limits. 
+ <a href="https://www.politico.com/news/2022/03/21/capitol-riot-trial-tests-justice-department-strategy-00018968">2nd Capitol riot trial puts Justice Department's strategy to the test</a> Politico: Pursuing a pair of misdemeanor charges results in the disclosure of the place where Vice President Mike Pence hid on Jan. 6. 
  <p class="updated_time"> 01:58 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/biden-russia-cyberattacks-00018942">Biden warns Russian cyberattacks 'coming'</a> Politico: The president tells companies to immediately harden defenses against potential Russian cyberattacks. 
  <p class="updated_time"> 01:53 PM CT, Mar. 21 </p> 
@@ -257,11 +273,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:02 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/biden-europe-russian-gas-00018189">Why Biden can't help Europe rid itself of Russian gas</a> Politico: "Governments don’t make deals," said the director of Tufts University's Climate Policy Lab. 
  <p class="updated_time"> 10:35 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">At Harvard, a Confederate Flag Spurred Ketanji Brown Jackson to Act</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
+ <a href="https://www.nytimes.com/2022/03/20/us/politics/ketanji-brown-jackson-harvard.html">Ketanji Brown Jackson Fought Injustices While at Harvard</a> NYT: A look at Judge Ketanji Brown Jackson’s career as a Harvard student shows her early passion for justice, and her strong sense of identity. 
  <p class="updated_time"> 10:32 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/sec-outlines-climate-disclosure-rules-for-businesses-00018849">SEC proposes landmark climate rule</a> Politico: The proposed rule would deliver a big — and durable — policy win for President Joe Biden, whose climate agenda has been mired in congressional partisanship, and overshadowed by economic and geopolitical crises. 
+ <a href="https://www.politico.com/news/2022/03/21/sec-outlines-climate-disclosure-rules-for-businesses-00018849">SEC proposes landmark climate rule</a> Politico: Financial regulator can’t force companies to cut emissions, but wants them to reveal how much they’re polluting. 
  <p class="updated_time"> 10:24 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-strategy.html">After Three Rounds, Judge Jackson Knows the Confirmation Playbook</a> NYT: In her Supreme Court confirmation hearings this week, the judge will draw on her earlier experiences and those of her predecessors. 
+ <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-strategy.html">Ketanji Brown Jackson, Facing Senators for Fourth Time, Knows the Confirmation Playbook</a> NYT: In her Supreme Court confirmation hearings this week, the judge will draw on her earlier experiences and those of her predecessors. 
  <p class="updated_time"> 10:06 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/us-recognizes-rohingya-genocide-myanmar-00018858">Five years on, U.S. recognizes Rohingya as victims of genocide</a> Politico: The decision comes after years of urging by human rights groups, U.S. lawmakers and others. 
  <p class="updated_time"> 08:00 AM CT, Mar. 21 </p> 
@@ -277,9 +293,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/trump-brooks-mcconnell-00018786">Teetering with Trump, Brooks calls for McConnell's ouster</a> Politico: The Alabama Senate hopeful joined two other Republican candidates in opposing McConnell's leadership. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/midterm-election-redistricting-biden-trump-house-00018600">The new midterm math: How redistricting, Biden and Trump shaped the battle for the House</a> Politico: The House battlefield has a handful of Democrats in Trump-won districts right in the middle. 
- <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/ketanji-brown-jackson-supreme-court-hearings-start-00018738">Kavanaugh tensions simmer behind low-key opening to Jackson hearings</a> Politico: Republicans plan to press the Supreme Court pick on child pornography sentencing and court expansion. And they're clearly not over previous judicial wounds. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/midterm-election-redistricting-biden-trump-house-00018600">The new midterm math: How redistricting, Biden and Trump shaped the battle for the House</a> Politico: The House battlefield has a handful of Democrats in Trump-won districts right in the middle. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/latino-vote-could-decide-senate-control-00018733">Dems begin building a Latino vote firewall in the West</a> Politico: Democrats need to hold onto Senate seats in Arizona and Nevada to preserve their slim majority. And to win those states, they're spending big to win over Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
@@ -292,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/us/politics/us-rohingya-genocide.html">U.S. to Declare That Myanmar’s Military Committed Genocide </a> NYT: The Biden administration had been weighing the legal designation for the bloody campaign against members of the Rohingya, a minority ethnic group. 
  <p class="updated_time"> 10:57 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/clarence-thomas-hospitalized.html">Justice Clarence Thomas Hospitalized With Flulike Symptoms, Court Says</a> NYT: Justice Thomas, who has been hospitalized since Friday, is being treated with intravenous antibiotics and is expected to be released in a day or two, the Supreme Court said on Sunday. 
- <p class="updated_time"> 10:18 PM CT, Mar. 20 </p> 
- <a href="https://www.politico.com/news/2022/03/20/russian-oligarchs-dropped-lawsuit-fusion-gps-00018788">Russian oligarchs drop suit against investigative firm Fusion GPS</a> Politico: The libel suit was related to the now-infamous Steele dossier about then-candidate Donald Trump. 
  <p class="updated_time"> 09:12 PM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/us/politics/sept-11-trial-guantanamo.html">The 9/11 Trial: Why Are Plea Bargain Talks Underway?</a> NYT: New leadership, an ever receding trial date and pressure to disclose more information about the C.I.A. torture of the accused plotters all contribute. 
  <p class="updated_time"> 08:30 PM CT, Mar. 20 </p> 
@@ -304,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/us/politics/project-veritas-ashley-biden-diary.html">Ashley Biden’s Diary Was Shown at Trump Fund-Raiser. Weeks Later, Project Veritas Called Her.</a> NYT: The right-wing group’s deceptive call to the president’s daughter a month before Election Day is among the new details that show how the organization worked to expose personal information about the Biden family. 
  <p class="updated_time"> 04:00 PM CT, Mar. 20 </p> 
  <a href="https://www.politico.com/news/2022/03/20/mitch-mcconnell-ketanji-brown-jackson-supreme-court-00018744">McConnell says he hasn't decided how he'll vote on Ketanji Brown Jackson</a> Politico: “I’m going to listen to the evidence,” the Senate minority leader said on CBS. “I'm going to listen to the hearings." 
- <p class="updated_time"> 01:13 PM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/19/us/politics/russia-hypersonic-missile-attack-claim.html">Russia Claims to Use a Hypersonic Missile</a> NYT: The United States, Russia and China have all been racing to develop hypersonic weapons, which can maneuver in flight at more than five times the speed of sound. 
  <p class="updated_time"> 11:43 AM CT, Mar. 20 </p> 
  <a href="https://www.cnn.com/2022/03/20/politics/zelensky-putin-ukraine-negotiations-war-cnntv/index.html">Zelensky: 'I'm ready for negotiations' with Putin, but if they fail, it could mean 'a third World War'</a> CNN: Ukrainian President Volodymyr Zelensky said Sunday that he's "ready for negotiations" with Russian President Vladimir Putin but warned that if they fail "that would mean that this is a third World War." 
  <p class="updated_time"> 10:43 AM CT, Mar. 20 </p> 
@@ -332,16 +344,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/20/1087228827/senate-nomination-hearing-supreme-court-ketanji-brown-jackson">Confirmation hearings for Ketanji Brown Jackson begin Monday. Here's what to expect</a> NPR: Next week the Senate Judiciary Committee will hold confirmation hearings for Ketanji Brown Jackson, the federal judge President Biden has tapped as his Supreme Court nominee. 
  <p class="updated_time"> 08:52 PM CT, Mar. 19 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 03:40 PM CT, Mar. 19 </p> 
- <a href="https://www.npr.org/2022/03/19/1087723875/kim-davis-court-same-sex-marriage">Kim Davis violated same-sex couples' rights by refusing marriage licenses, judge says</a> NPR: The legal fight over the former county clerk's decision to refuse two gay couples marriage licenses in 2015 continues. A jury will decide whether she is responsible for their legal fees. 
  <p class="updated_time"> 08:42 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/19/congress-loses-an-alaskan-titan-00018684"> Congress loses an Alaskan titan</a> Politico Playbook: And President Joe Biden warns China of aiding Russia. 
  <p class="updated_time"> 06:00 AM CT, Mar. 19 </p> 
  <a href="https://www.politico.com/news/2022/03/19/biden-export-control-nominee-stalled-00018003">Biden’s war on the Russian economy is missing a key player</a> Politico: The Senate has yet to confirm the administration's pick for Commerce undersecretary overseeing implementation of U.S. export controls. 
  <p class="updated_time"> 09:04 PM CT, Mar. 18 </p> 
  <a href="https://www.politico.com/news/2022/03/18/alaska-rep-don-young-dean-of-the-house-dies-at-88-00018680">Alaska Rep. Don Young, Dean of the House, dies at 88</a> Politico: His office announced Young's death in a statement Friday night. 
- <p class="updated_time"> 08:03 PM CT, Mar. 18 </p> 
- <a href="https://www.politico.com/news/2022/03/18/ohio-gop-senate-debate-gibbons-mandel-fight-00018678">Ohio GOP Senate debate turns nasty as Gibbons and Mandel go nose-to-nose</a> Politico: The two Republican polling frontrunners got in each other's faces Friday evening. 
 
 
 </details>
