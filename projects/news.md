@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:06 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 05:20 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Continues Bombardment, but Its Forces Have Shrunk, Pentagon Says</a> NYT: President Biden heads to Europe this week and will press allies for even more aggressive economic sanctions on Russia. Aleksei A. Navalny, the Russian dissident, was sentenced to nine years in prison. Ukrainians said they had recaptured the strategic town of Makariv, west of Kyiv. 
+ <p class="updated_time"> 05:12 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/world/canada/trudeau-new-democratic-party.html">Canada’s Trudeau Strikes Accord With Opponents to Secure Hold on Power</a> NYT: A left-of-center opposition party agrees to back the government until 2025 in exchange for advancing its causes. 
+ <p class="updated_time"> 05:10 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/world/middleeast/israel-stabbing-beersheba.html">Four Killed in Southern Israel in Latest in Spate of Attacks</a> NYT: The attacks have heightened fears of further violence in April, when the convergence of three religious holidays has leaders on edge. 
+ <p class="updated_time"> 05:08 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Heads to Europe Seeking to Bolster Russian Sanctions and Maintain Unity With Allies</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
+ <p class="updated_time"> 05:08 PM CT, Mar. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Putin critic given nine-year jail sentence in trial branded 'sham'</a> BBC: Alexei Navalny will be sent to a "strict regime" colony after a judge jailed him for nine more years. 
  <p class="updated_time"> 05:00 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/russia-china-global-economy.html">Ukraine War and Pandemic Force Nations to Retreat From Globalization</a> NYT: Conflicts among the U.S., Russia and China — and endless Covid-19 outbreaks — strain the interdependent economy and Western ideas of post-Cold War stability. 
  <p class="updated_time"> 04:58 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/putin-russia-military-planning.html">As Russia Stalls in Ukraine, Dissent Brews Over Putin’s Leadership</a> NYT: Military losses have mounted, progress has slowed, and a blame game has begun among some Russian supporters of the war. 
- <p class="updated_time"> 04:56 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/canada/trudeau-new-democratic-party.html">Canada’s Trudeau Strikes Accord With Opponents to Secure Hold on Power</a> NYT: A left-of-center opposition party agrees to back the government until 2025 in exchange for advancing its causes. 
  <p class="updated_time"> 04:39 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088126698/beersheba-israelis-stabbed-attack">A knife-wielding man killed 4 Israelis in Beersheba, police say </a> NPR: Police said the attacker careened his car into a cyclist and stabbed five people in the city center. Amateur video appeared to show armed bystanders shooting and killing the attacker at the scene. 
- <p class="updated_time"> 04:11 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 04:24 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
- <p class="updated_time"> 04:04 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/europe/biden-russia-sanctions-ukraine.html">Biden to Ask Allies for More Aggressive Sanctions on Russia</a> NYT: A summit meeting in Brussels is expected to focus on ways to put added pressure on Moscow. 
  <p class="updated_time"> 04:03 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60842337?at_medium=RSS&at_campaign=KARANGA">Disney staff stage walkout over Florida gender law</a> BBC: Protest organisers want the company to do more to oppose the recently passed "Don't Say Gay" bill. 
  <p class="updated_time"> 04:01 PM CT, Mar. 22 </p> 
@@ -35,14 +39,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/22/1087859567/germany-military-buildup-russia-invasion-ukraine">With war on its doorstep, Germany plans a major military buildup</a> NPR: Chancellor Olaf Scholz's plan to boost defense spending could remake Germany's beleaguered military into the strongest armed forces in Europe — an idea that has met resistance in the past. 
  <p class="updated_time"> 03:32 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60829320?at_medium=RSS&at_campaign=KARANGA">Israel: Four killed in shopping centre attack</a> BBC: Three people were stabbed and a fourth run over in one of the deadliest such attacks for years. 
+ <p class="updated_time"> 03:24 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 03:21 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088097122/ukrainians-trying-to-get-to-the-u-s-are-having-trouble-getting-visas">Ukrainians trying to get to the U.S. are having trouble getting visas</a> NPR: More than 3 million Ukrainians have fled their homes since the Russian invasion began. The U.S. has pledged to help — but Ukrainian-Americans are finding it difficult to bring their relatives over. 
  <p class="updated_time"> 03:21 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088097101/russia-is-a-permanent-un-security-council-member-making-accountability-complicat">Russia is a permanent UN Security Council member, making accountability complicated</a> NPR: Most countries at the UN are raising alarms about Russia's invasion, but since Russia is a permanent Security Council member, it's hard to hold it to account in the world body. 
  <p class="updated_time"> 03:21 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088097087/the-stakes-of-the-war-in-ukraine-for-georgia-still-marked-by-2008-russian-invasi">The stakes of the war in Ukraine for Georgia, still marked by 2008 Russian invasion</a> NPR: NPR's Mary Louise Kelly speaks with Kelly Degnan, the U.S. ambassador to Georgia, about the stakes for the country as war devastates Ukraine. 
- <p class="updated_time"> 03:11 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 03:11 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/middleeast/egypt-israel-united-arab-emirates-summit.html">Leaders of Israel, U.A.E. and Egypt Meet Amid Shifting Geopolitics</a> NYT: All three countries are navigating fraught relationships with the Biden administration amid the quickly changing geopolitical landscape precipitated by Russia’s war on Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Mar. 22 </p> 
@@ -51,10 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html">‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late</a> NYT: A growing chorus of young people is focusing on climate solutions. “‘It’s too late’ means ‘I don’t have to do anything, and the responsibility is off me.’” 
  <p class="updated_time"> 03:04 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/nepal-gurkha-veteran-protests.html">Gurkha Veterans Fight a Colonial-Era Legacy Still Shaping Nepal</a> NYT: Nepal’s best and brightest have been recruited while young to fight for Britain for over 200 years, with their pay and pensions a fraction of their fellow British soldiers’ for much of that time. 
- <p class="updated_time"> 02:11 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 02:24 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19 
- <p class="updated_time"> 02:01 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/middleeast/israel-stabbing-beersheba.html">Four Killed in Southern Israel in Latest in Spate of Attacks</a> NYT: The attacks have heightened fears of further violence in April, when the convergence of three religious holidays has leaders on edge. 
  <p class="updated_time"> 01:47 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-ukraine-pentagon.html">Russia’s Forces Against Ukraine Have Shrunk, Pentagon Says</a> NYT: The official said that Russian forces were “struggling on many fronts,” and that there were indications that some troops had been evacuated with frostbite. 
  <p class="updated_time"> 01:36 PM CT, Mar. 22 </p> 
@@ -65,24 +67,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60836500?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson: Key moments as Biden's Supreme Court pick quizzed</a> BBC: Lawmakers on a key Senate panel are grilling Ketanji Brown Jackson about her record as a judge. 
  <p class="updated_time"> 01:24 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">No Survivors Found in China Eastern Plan Crash, Officials Say</a> NYT: Workers recovered identity cards, cellphones and purses from the crash site. But the plane’s steep plunge suggested there was a “minuscule” chance of any survivors, an expert said. 
- <p class="updated_time"> 01:11 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 01:24 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 12:44 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087998179/russia-war-ukraine-mariupol-survivors-ukrainian-displaced">When Russia shelled their building in Mariupol, 13 neighbors banded together to flee</a> NPR: Before the war, Mariupol residents Tetiana Myhalyova and metalworker Victor Perederiy had never met. But after sheltering for weeks without heat or water, they decided to escape together. 
  <p class="updated_time"> 12:28 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088066363/trudeau-party-2025">Trudeau's party strikes a deal to stay in power until 2025</a> NPR: Prime Minister Justin Trudeau said this means "the government can function with predictability and stability, present and implement budgets and get things done for Canadians." 
+ <p class="updated_time"> 12:24 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 12:15 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087536712/russian-chess-champion-suspended">A Russian chess champion has been suspended over his pro-war comments</a> NPR: The International Chess Federation says Sergey Karjakin damaged the reputation of the organization and chess itself by supporting Russia's invasion of Ukraine on social media. 
- <p class="updated_time"> 12:11 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 11:59 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-ukraine-russia-diplomacy.html">China Takes a Back Seat in International Diplomacy Over Ukraine</a> NYT: Despite its economic and military might and close ties to Russia, China has balked at trying to press Vladimir Putin to stop the fighting. 
  <p class="updated_time"> 11:59 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60840081?at_medium=RSS&at_campaign=KARANGA">Ukraine: The small town which managed to block Russia's big plans</a> BBC: The mayor of Voznesensk hails the "fighting spirit" of local people who drove Russian troops back. 
  <p class="updated_time"> 11:32 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088055416/ukraine-boxer-lomachenko-skips-fight">A top Ukrainian boxer is choosing his country over an upcoming title fight</a> NPR: Before Russia attacked Ukraine, Vasiliy Lomachenko had agreed to face off against lightweight champion George Kambosos Jr. in June. Now he plans to stay and defend his country. 
- <p class="updated_time"> 11:31 AM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Putin critic given nine-year jail sentence in trial branded 'sham'</a> BBC: Alexei Navalny will be sent to a "strict regime" colony after a judge jailed him for nine more years. 
  <p class="updated_time"> 11:03 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
  <p class="updated_time"> 11:02 AM CT, Mar. 22 </p> 
@@ -214,6 +214,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Heads to Europe Seeking to Bolster Russian Sanctions and Maintain Unity With Allies</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 05:05 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/jen-psaki-covid.html">Jen Psaki, White House Press Secretary, Tests Positive for Coronavirus</a> NYT: Ms. Psaki said that she had two meetings with President Biden on Monday but that they had been socially distanced. 
  <p class="updated_time"> 05:00 PM CT, Mar. 22 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/democrats-ketanji-brown-jackson-confirmation-00019063">Jackson defends sentencing record, parries Supreme Court expansion questions</a> Politico: Senators began questioning the Supreme Court pick as the GOP trotted out a favored Democratic strategy: slamming unelected advocacy groups for pushing a nominee. 
  <p class="updated_time"> 03:30 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/progressives-kurt-schrader-congress-oregon-primary-00019083">Progressives find a new takedown target in the House</a> Politico: In what could become the next marquee Democratic primary, top liberal groups are aiming to knock off moderate Rep. Kurt Schrader in Oregon. 
- <p class="updated_time"> 12:12 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/21/science/russia-nuclear-ukraine.html">The Smaller Bombs That Could Turn Ukraine Into a Nuclear War Zone</a> NYT: Military experts say a new generation of nuclear weapons has raised the risk that Mr. Putin might introduce less destructive atomic arms into the battlefields in and around Ukraine. 
  <p class="updated_time"> 09:58 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/no-survivors-china-plane-crash-00019133">State media: No survivors found in China Eastern plane crash</a> Politico: The plane was carrying 123 passengers and nine crew members. 
  <p class="updated_time"> 09:13 PM CT, Mar. 21 </p> 
