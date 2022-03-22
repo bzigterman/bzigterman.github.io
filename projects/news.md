@@ -9,21 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:42 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60830935?at_medium=RSS&at_campaign=KARANGA">Gareth Ward: Australia state MP charged with sexual abuse</a> BBC: Gareth Ward - a former minister - says he denies assaulting a teenage boy in 2013 and a man in 2015. 
+ <p class="updated_time"> 11:34 PM CT, Mar. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60830395?at_medium=RSS&at_campaign=KARANGA">China plane crash: Rescuers search for survivors as families await news</a> BBC: Families of the 132 people onboard have gathered at a nearby airport, waiting anxiously for news. 
  <p class="updated_time"> 11:14 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: As Russia Pounds Ukrainian Cities, U.S. Lobbies an Anti-Kremlin Alliance</a> NYT: Biden spoke with the leaders of Germany, Italy, France and Britain. A Russian missile strike destroyed a Kyiv shopping mall. The Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
  <p class="updated_time"> 11:12 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/iran-uk-nazanin-zaghari-ratcliffe-released.html">Back in U.K., Nazanin Zaghari-Ratcliffe Urges Iran to Release Others</a> NYT: Ms. Zaghari-Ratcliffe, the British-Iranian charity worker held for six years in Tehran, said “freedom will never be complete” until all detainees were allowed to leave. 
  <p class="updated_time"> 11:09 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html">Biden Warns Private Sector of Potential Russian Cyberattacks</a> NYT: The president cited “evolving intelligence” and urged companies to strengthen their defenses immediately. 
- <p class="updated_time"> 10:46 PM CT, Mar. 21 </p> 
+ <p class="updated_time"> 11:02 PM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
+ <p class="updated_time"> 10:02 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 09:50 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
- <p class="updated_time"> 09:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 09:16 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/australia/australia-space-command.html">Creating Space Command, Australia Strengthens High-Tech Bond With U.S.</a> NYT: The expanded commitment to space defense reflects the reality of a new, extraterrestrial landscape for war. 
- <p class="updated_time"> 08:46 PM CT, Mar. 21 </p> 
+ <p class="updated_time"> 09:02 PM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 08:39 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Boeing 737-800 Crashes in Remote Mountain Valley in Southern China</a> NYT: Rescuers on the scene found debris and fires, and a lack of electricity hampered rescue efforts overnight. Search efforts are set to continue into Tuesday, although it was unclear if any of the 132 crew and passengers survived the plane crash. 
@@ -31,10 +35,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/business/boeing-china-737.html">Boeing Faces New Upheaval After Crash of Chinese Airliner</a> NYT: No fault has been found, but the company, which has been trying to overcome a recent legacy of design and production troubles, is likely to get scrutinized. 
  <p class="updated_time"> 08:04 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087977913/here-are-the-ceos-who-were-briefed-by-the-white-house-on-the-war-in-ukraine">Here are the CEOs who were briefed by the White House on the war in Ukraine</a> NPR: The group discussed ways to "mitigate price increases on American consumers" caused by the war and the need to address disruptions to energy and agricultural markets, the White House said. 
+ <p class="updated_time"> 08:02 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 08:01 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after 'violence' at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after "deadly violence" in the city of Malmö. 
- <p class="updated_time"> 07:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 07:38 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/polish-border-refugees.html">In Warsaw, a Network of Support Greets Those Crossing the Polish Border</a> NYT: A sprawling expo center in the Polish capital has given some 25,000 refugees a safe place to recharge before journeying on. 
  <p class="updated_time"> 07:32 PM CT, Mar. 21 </p> 
@@ -43,14 +47,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60794059?at_medium=RSS&at_campaign=KARANGA">Asakaa: How drill music found a new home in Ghana</a> BBC: Asakaa, or Ghana drill, is the latest hot sound from Africa, following the global success of Afrobeats. 
  <p class="updated_time"> 07:22 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60829852?at_medium=RSS&at_campaign=KARANGA">Biden: Russia 'exploring' US cyber-attacks</a> BBC: President Joe Biden says US companies should "immediately" prepare defences. 
+ <p class="updated_time"> 07:02 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 07:01 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60514266?at_medium=RSS&at_campaign=KARANGA">Sudan: BBC investigation shows abuse of female demonstrators</a> BBC: The BBC has identified a number of female protesters who have been physically and sexually assaulted by security forces in Sudan. 
  <p class="updated_time"> 07:01 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60483820?at_medium=RSS&at_campaign=KARANGA">Evangelicalism & Brazil: The religious movement that spread through a national team</a> BBC: Evangelicalism within Brazil's national football team has been on the rise, mirroring a wider trend across the country. 
  <p class="updated_time"> 06:56 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/climate/united-nations-fossil-fuels-climate-crisis.html">U.N. Chief Warns of ‘Catastrophe’ With Continued Use of Fossil Fuels</a> NYT: António Guterres, the United Nations secretary general, said instead of replacing Russian oil, gas and coal, nations must pivot to clean energy. 
- <p class="updated_time"> 06:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 06:41 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830052?at_medium=RSS&at_campaign=KARANGA">Yvan Colonna: Corsican nationalist dies after jihadist jail attack</a> BBC: Yvan Colonna's strangling by a fellow inmate had sparked violent protests on the French island. 
  <p class="updated_time"> 06:37 PM CT, Mar. 21 </p> 
@@ -113,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
  <p class="updated_time"> 12:05 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html">Plan for Amazon Headquarters in South Africa in Peril After Court Order</a> NYT: A judge ordered construction of the development in Cape Town to be halted, saying that the developer had not properly consulted Indigenous South Africans. 
- <p class="updated_time"> 11:58 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60819760?at_medium=RSS&at_campaign=KARANGA">China Eastern: Plane carrying 132 people crashes in Guangxi hills</a> BBC: The Boeing 737 crashed into a hillside in southern China and there are fears no-one survived. 
  <p class="updated_time"> 10:44 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60820215?at_medium=RSS&at_campaign=KARANGA">Myanmar Rohingya violence is genocide, US says</a> BBC: A US official said the move would make it harder for the military to commit further abuses. 
  <p class="updated_time"> 10:14 AM CT, Mar. 21 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/middleeast/rabbi-chaim-kanievsky-funeral.html">Revered Jewish Sage Buried in One of the Largest Gatherings in Israel’s History</a> NYT: Hundreds of thousands of Israelis shut down large parts of central Israel to attend the funeral of Rabbi Chaim Kanievsky, an influential spiritual leader. 
  <p class="updated_time"> 11:11 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/russian-soldiers-video-kyiv-invasion.html">Russian Soldiers Took Their City, Then Their Homes</a> NYT: As Russian forces pushed toward Kyiv, they stormed an apartment complex in a nearby suburb and held residents hostage. Some of it was caught on camera. 
- <p class="updated_time"> 09:19 AM CT, Mar. 20 </p> 
- <a href="https://www.nytimes.com/2022/03/19/us/covid-reporting-states.html">Some U.S. States Reduce Daily Covid Reports</a> NYT: Some scientists and health experts see the possibility that the first signs of a new surge could be missed, but others say metrics like hospitalizations and wastewater monitoring have become more relevant than daily reports. 
  <p class="updated_time"> 05:58 AM CT, Mar. 20 </p> 
  <a href="https://www.nytimes.com/2022/03/20/world/europe/ukraine-women-escape-stories.html">‘I Don’t Have the Right to Cry’: Ukrainian Women Share Their Stories of Escape</a> NYT: In war, things can change quickly. A New York Times reporter wanted to capture — in whatever blurry way one can in a war — this moment in this war, three weeks in. 
  <p class="updated_time"> 04:00 AM CT, Mar. 20 </p> 
