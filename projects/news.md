@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:20 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 04:41 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: Russia Intensifies Air and Sea Attacks; West Fears Next Step</a> NYT: On land, Russian forces are struggling to advance along sprawling front lines. A NATO summit this week is expected to discuss how to respond if Moscow turns to chemical, biological, cyber or nuclear weapons to regain momentum. 
+ <p class="updated_time"> 04:33 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
+ <p class="updated_time"> 04:29 AM CT, Mar. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Jailed opposition leader found guilty in trial branded 'sham'</a> BBC: Alexei Navalny, already in a Russian penal colony, could now be transferred to a top security jail. 
+ <p class="updated_time"> 04:26 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">China Eastern Jet’s Steep Plunge Suggests Little Chance of Survival</a> NYT: Search workers recovered identity cards, cellphones and purses from the crash of the Boeing plane that carried more than 130 people. But no survivors have been found. 
+ <p class="updated_time"> 04:11 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 04:01 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087641245/refugees-from-other-wars-see-themselves-in-fleeing-ukrainians">Refugees from other wars see themselves in fleeing Ukrainians</a> NPR: More than 3.4 million people have fled Ukraine. As that number grows, refugees from other conflicts reflect on their experience of fleeing their home country and what life is like now. 
  <p class="updated_time"> 04:00 AM CT, Mar. 22 </p> 
@@ -19,38 +27,32 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/22/1087752914/mothers-ukraine-troops-frontlines">2 Ukrainian mothers struggle to stay in touch with their children in front-line cities</a> NPR: Two women in Ukraine are trying to stay in touch with a son and a daughter who are living in cities on the front lines of Russian attack. But too much contact, they worry, could heighten their fears. 
  <p class="updated_time"> 04:00 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
- <p class="updated_time"> 04:00 AM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Jailed opposition leader found guilty in trial branded 'sham'</a> BBC: Alexei Navalny, already in a Russian penal colony, could now be transferred to a top security jail. 
  <p class="updated_time"> 03:46 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/zelensky-speeches-ukraine-russia.html">Walls, Dreams and Genocide: Zelensky’s Speeches Invoke History to Rally Support</a> NYT: The Ukrainian leader, a former actor, has invoked emotional moments in the history of nations from which he is hoping to secure backing. We look at five of his recent speeches. 
- <p class="updated_time"> 03:24 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 03:21 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/nepal-gurkha-veteran-protests.html">Gurkha Veterans Fight a Colonial-Era Legacy Still Shaping Nepal</a> NYT: Nepal’s best and brightest have been recruited while young to fight for Britain for over 200 years, with their pay and pensions a fraction of their fellow British soldiers’ for much of that time. 
+ <p class="updated_time"> 03:11 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 03:00 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/italy-workers-strike-1972.html">1972: Millions of Workers Strike in Italy</a> NYT: Farm laborers, pressing demands including a shorter working week and a minimum wage, staged a 24-hour walkout. Refinery and filling station employees were also striking over pay and hours. 
  <p class="updated_time"> 02:56 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60830395?at_medium=RSS&at_campaign=KARANGA">China plane crash: Rescuers search for survivors as families await news</a> BBC: Families of the 132 people onboard have gathered at a nearby airport waiting anxiously for updates. 
- <p class="updated_time"> 02:24 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 02:15 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Boeing 737-800 Crashes in Remote Mountain Valley in Southern China</a> NYT: Rescuers on the scene found debris and fires, and a lack of electricity hampered rescue efforts overnight. Search efforts are set to continue into Tuesday, although it was unclear if any of the 132 crew and passengers survived the plane crash. 
- <p class="updated_time"> 02:03 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">China Eastern Jet’s Steep Plunge Suggests Little Chance of Survival</a> NYT: Search workers recovered identity cards, cellphones and purses from the crash of the Boeing plane that carried more than 130 people. But no survivors have been found. 
+ <p class="updated_time"> 02:11 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 02:02 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after violent attack at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after two deaths in the city of Malmö. 
- <p class="updated_time"> 01:24 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 01:16 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087989130/zelenskyy-to-speak-to-japanese-parliament">Ukrainian President Zelenskyy to address Japanese parliament</a> NPR: The online address extends work by the Ukrainian leader to rally international support against Russia's invasion of his country. 
+ <p class="updated_time"> 01:11 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 12:59 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60827109?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Belarusian dissidents fight against Russia in Ukraine</a> BBC: Belarusian dissident Pavel Kulazhanka left his life in New York to join the fight against Russia. 
- <p class="updated_time"> 12:24 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
+ <p class="updated_time"> 12:11 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 11:42 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60830935?at_medium=RSS&at_campaign=KARANGA">Gareth Ward: Australia state MP charged with sexual abuse</a> BBC: Gareth Ward - a former minister - says he denies assaulting a teenage boy in 2013 and a man in 2015. 
- <p class="updated_time"> 11:24 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 11:12 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/iran-uk-nazanin-zaghari-ratcliffe-released.html">Back in U.K., Nazanin Zaghari-Ratcliffe Urges Iran to Release Others</a> NYT: Ms. Zaghari-Ratcliffe, the British-Iranian charity worker held for six years in Tehran, said “freedom will never be complete” until all detainees were allowed to leave. 
  <p class="updated_time"> 11:09 PM CT, Mar. 21 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/travel/stone-carvers-escolasticas-mexico.html">The Overlooked Stone Carvers of Escolásticas</a> NYT: A small town in Central Mexico is home to around 200 open-air carving workshops, from which an astonishing array of sculptures continuously emerges. 
  <p class="updated_time"> 02:47 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60826303?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Holocaust survivor killed by Russian shelling in Kharkiv</a> BBC: Boris Romantschenko was killed in Kharkiv 77 years after surviving the Buchenwald concentration camp. 
- <p class="updated_time"> 02:44 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
  <p class="updated_time"> 01:54 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087876854/holocaust-survivor-killed-russian-shelling-ukraine">A 96-year-old Holocaust survivor was killed when Russian forces shelled his home</a> NPR: Boris Romantschenko was killed last week in a Russian attack in Kharkiv. He survived four concentration camps and later "campaigned intensively for the memory of the Nazi crimes." 
  <p class="updated_time"> 01:24 PM CT, Mar. 21 </p> 
@@ -213,7 +213,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/magazine/tucker-carlson-politician.html">The Rise of the Tucker Carlson Politician</a> NYT: Two Republican Senate candidates field-test a new message honed in the cable-news studio. 
  <p class="updated_time"> 03:31 AM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/democrats-ketanji-brown-jackson-confirmation-00019063">Dems downplay influence of 'dark money' judicial group in KBJ confirmation</a> Politico: Republicans are trotting out a favored Democratic strategy: slamming unelected advocacy groups for pushing a Supreme Court pick. Democrats say this time is different. 
+ <a href="https://www.politico.com/news/2022/03/22/democrats-ketanji-brown-jackson-confirmation-00019063">Dems downplay influence of ‘dark money’ judicial group in KBJ confirmation</a> Politico: Republicans are trotting out a favored Democratic strategy: slamming unelected advocacy groups for pushing a Supreme Court pick. Democrats say this time is different. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/news/2022/03/22/tests-short-supply-if-covid-surges-00019046">‘We’ve learned absolutely nothing’: Tests could again be in short supply if Covid surges</a> Politico: Covid-19 infections are rebounding in several European countries and Biden officials are monitoring infections in the United Kingdom. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/news/2022/03/22/progressives-kurt-schrader-congress-oregon-primary-00019083">Progressives find a new takedown target in the House</a> Politico: In what could become the next marquee Democratic primary, top liberal groups are aiming to knock off moderate Rep. Kurt Schrader in Oregon. 
  <p class="updated_time"> 12:46 AM CT, Mar. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:12 AM CT, Mar. 22 </p> 
@@ -263,7 +267,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087913783/confirmation-hearings-for-supreme-court-nominee-ketanji-brown-jackson">Confirmation hearings for Supreme Court nominee Ketanji Brown Jackson are underway</a> NPR: Confirmation hearings opened Monday for Judge Ketanji Brown Jackson's nomination to the Supreme Court. She's the first Black woman nominated for the nation's highest court. 
  <p class="updated_time"> 03:10 PM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/kentaji-brown-jackson-opening-statement-supreme-court-00018980">Read: Ketanji Brown Jackson's opening statement ahead of the Supreme Court hearings</a> Politico: Read her full opening statement. 
+ <a href="https://www.politico.com/news/2022/03/21/kentaji-brown-jackson-opening-statement-supreme-court-00018980">Read Ketanji Brown Jackson's opening statement for her Supreme Court hearings</a> Politico: Read her full opening statement. 
  <p class="updated_time"> 02:55 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-supreme-court-confirmation-hearings.html">What to Watch as Jackson’s Supreme Court Confirmation Hearings Begin</a> NYT: President Biden’s nominee is certain to be pressed by Republicans on her criminal defense work and her judicial record. 
  <p class="updated_time"> 02:52 PM CT, Mar. 21 </p> 
@@ -300,14 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/21/4-things-to-watch-when-jackson-raises-her-right-hand-00018798"> 4 things to watch when Jackson raises her right hand</a> Politico Playbook: And Biden plans a Poland visit. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087718808/ketanji-brown-jacksons-long-judicial-record-is-likely-to-be-scrutinized-at-heari">What Ketanji Brown Jackson can expect to hear from Republicans this week</a> NPR: If confirmed, she would be the first Black woman to serve on the nation's highest court, and she would be one of four women on the court, the largest number ever to serve at one time. 
- <p class="updated_time"> 03:31 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/trump-brooks-mcconnell-00018786">Teetering with Trump, Brooks calls for McConnell's ouster</a> Politico: The Alabama Senate hopeful joined two other Republican candidates in opposing McConnell's leadership. 
- <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/ketanji-brown-jackson-supreme-court-hearings-start-00018738">Kavanaugh tensions simmer behind low-key opening to Jackson hearings</a> Politico: Republicans plan to press the Supreme Court pick on child pornography sentencing and court expansion. And they're clearly not over previous judicial wounds. 
- <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/midterm-election-redistricting-biden-trump-house-00018600">The new midterm math: How redistricting, Biden and Trump shaped the battle for the House</a> Politico: The House battlefield has a handful of Democrats in Trump-won districts right in the middle. 
- <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/latino-vote-could-decide-senate-control-00018733">Dems begin building a Latino vote firewall in the West</a> Politico: Democrats need to hold onto Senate seats in Arizona and Nevada to preserve their slim majority. And to win those states, they're spending big to win over Latino voters. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/pete-aguilar-house-democrats-00018565">Pete Aguilar bets on the House</a> Politico: The chamber's Democrats have seen plenty of promising young leadership contenders, including three Latino lawmakers, leave for greener pastures. Not the genial leader from San Bernardino. 
  <p class="updated_time"> 03:30 AM CT, Mar. 21 </p> 
