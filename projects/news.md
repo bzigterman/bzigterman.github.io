@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:19 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Struggles for Momentum; West Fears Next Step</a> NYT: On land, Russian forces are having difficulty advancing along sprawling front lines and facing a Ukrainian counteroffensive in the south. A NATO summit this week is expected to discuss how to respond if Moscow turns to chemical, biological, cyber or nuclear weapons. 
+ <p class="updated_time"> 10:41 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Advances Crackdown on Dissent as Progress Stalls in Ukraine</a> NYT: Russia sentenced Aleksei A. Navalny to nine years in prison and added to its draconian censorship law. Ukrainians continued to mount a spirited defense, saying they had recaptured the town of Makariv. 
+ <p class="updated_time"> 10:30 AM CT, Mar. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60835389?at_medium=RSS&at_campaign=KARANGA">Tesla: Elon Musk opens delayed 'gigafactory' in Berlin</a> BBC: The more than €5bn (£4bn) factory is the biggest investment in a German car plant in recent history. 
  <p class="updated_time"> 10:17 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60830395?at_medium=RSS&at_campaign=KARANGA">China Eastern plane crash rescuers find no survivors</a> BBC: Crash investigators do not yet know why a flight carrying 132 people plunged out of the sky. 
  <p class="updated_time"> 10:13 AM CT, Mar. 22 </p> 
@@ -25,14 +27,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60836500?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson: Key moments as Biden's Supreme Court pick quizzed</a> BBC: Lawmakers on a key Senate panel are grilling Ketanji Brown Jackson about her record as a judge. 
  <p class="updated_time"> 09:46 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">No Survivors Found in China Eastern Plan Crash, Officials Say</a> NYT: Workers recovered identity cards, cellphones and purses from the crash site. But the plane’s steep plunge suggested there was a “minuscule” chance of any survivors, an expert said. 
+ <p class="updated_time"> 09:43 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 09:38 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-crash-explained.html">What We Know About the Crash of China Eastern Airlines Flight 5735</a> NYT: The crash of the Boeing plane, with more than 130 people on board, is China’s worst air disaster in more than a decade. 
  <p class="updated_time"> 09:36 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088014388/chinas-search-for-survivors-from-crashed-jetliner-turns-up-nothing-so-far">China's search for survivors from crashed jetliner turns up nothing so far </a> NPR: The flight, with 132 passengers and crew aboard was en route  from Kunming to Guangzhou when it crashed in a forested area of southern China on Monday. 
  <p class="updated_time"> 09:27 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/americas/russia-margarita-venezuela.html">Vacations Abruptly End as Tourists Return  to a Different Russia</a> NYT: While Russian tourists were visiting Margarita Island, their country invaded Ukraine. Many were left wondering what travails awaited them back at home. 
- <p class="updated_time"> 09:25 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 09:24 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/canada/trudeau-new-democratic-party.html">Canada’s Trudeau Strikes Accord With Opponents to Secure Hold on Power</a> NYT: A left-of-center opposition party agrees to back the government until 2025 in exchange for advancing its causes. 
  <p class="updated_time"> 09:07 AM CT, Mar. 22 </p> 
@@ -41,14 +43,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/world/europe/teachers-killed-malmo-sweden.html">Two Teachers Killed at a School in Malmo, Sweden</a> NYT: The police said they were still trying to determine a motive for the attack in the southern city of Malmo. 
  <p class="updated_time"> 08:59 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088009817/putin-critic-alexei-navalny-guilty">Russian court finds jailed Kremlin critic Alexei Navalny guilty in fraud case</a> NPR: Navalny, who is already serving a 2.5-year sentence for parole violations, was sentenced to an additional nine years in a high-security prison. He has vowed to keep fighting. 
- <p class="updated_time"> 08:25 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 08:43 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukraines-troops-fight-war-of-ambush-and-skirmish-against-russian-invaders-11647951516">Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders</a> WSJ: Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders 
  <p class="updated_time"> 08:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/pakistan-imran-khan-parliament.html">Imran Khan, Pakistan’s Prime Minister, Fights for Survival</a> NYT: Soaring inflation and a rift with the military threaten Imran Khan’s tenure as prime minister. He has dismissed criticism as a foreign conspiracy. 
  <p class="updated_time"> 08:00 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088005073/ukraine-nobel-novaya-gazeta">A Nobel Prize-winning Russian editor says he will donate his medal for Ukraine relief</a> NPR: Dmitry Muratov is the editor-in-chief of the independent Russian newspaper Novaya Gazeta. He was one of two journalists to win last year's Nobel Peace Prize. 
- <p class="updated_time"> 07:25 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19 
+ <p class="updated_time"> 07:43 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 07:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-ukraine-russia-diplomacy.html">China Takes a Back Seat in International Diplomacy Over Ukraine</a> NYT: Despite its economic and military might and close ties to Russia, China has balked at trying to press Vladimir Putin to stop the fighting. 
  <p class="updated_time"> 07:02 AM CT, Mar. 22 </p> 
@@ -57,26 +59,30 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60836321?at_medium=RSS&at_campaign=KARANGA">WATCH: Ukrainian sailing club protest super yacht linked to Abramovich in Turkey</a> BBC: A Ukrainian sailing team protested the arrival of a super yacht linked to Roman Abramovich in Turkey. 
  <p class="updated_time"> 06:46 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
- <p class="updated_time"> 06:25 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Alexei Navalny Sentenced to Nine More Years in Prison</a> WSJ: Russian Opposition Leader Alexei Navalny Sentenced to Nine More Years in Prison 
+ <p class="updated_time"> 06:43 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
+ <p class="updated_time"> 06:27 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: The country’s leading opposition figure was sentenced to nine more years on charges of fraud and contempt of court, in a case his supporters say was brought against him on the orders of President Vladimir Putin. 
  <p class="updated_time"> 05:48 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
  <p class="updated_time"> 05:45 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
+ <p class="updated_time"> 05:43 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 05:30 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin">How 'shock therapy' created Russian oligarchs and paved the path for Putin</a> NPR: In the 1990s, reformers adopted a radical economic program in Russia. It devastated ordinary Russians and created a new class of oligarchs. And it explains the rise of Putin and the leader he is today 
  <p class="updated_time"> 05:29 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60829314?at_medium=RSS&at_campaign=KARANGA">Australian-Iranian Shokrollah Jebeli, 83, dies in Tehran prison</a> BBC: Amnesty International said Shokrollah Jebeli's treatment was tantamount to torture. 
  <p class="updated_time"> 05:27 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/chevron-waiting-it-out-in-venezuela-tells-u-s-now-is-the-time-to-pump-oil-11647959248">Chevron, Waiting It Out in Venezuela, Tells U.S. Now's the Time to Pump Oil</a> WSJ: The company pledges to make up for fall in Russian exports, but some Biden officials oppose permitting U.S. companies to operate under President Nicolás Maduro’s autocratic regime. 
- <p class="updated_time"> 05:25 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 05:19 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60777284?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Terror of African students in Russian-occupied Kherson</a> BBC: Nigerian students in Ukraine plead for help leaving Kherson as food, medicine and water run low. 
  <p class="updated_time"> 05:06 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after violent attack at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after two deaths in the city of Malmö. 
  <p class="updated_time"> 04:58 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60830885?at_medium=RSS&at_campaign=KARANGA">Maharashtra: Rubber penis in family planning kit sparks row</a> BBC: Some lawmakers in Maharashtra state say female health workers will be embarrassed but others disagree. 
+ <p class="updated_time"> 04:35 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War's Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Russia’s invasion spurred price shocks and shortages of basic commodities, an especially tough blow to developing nations that were already far behind in their recovery from the pandemic. ‘We cannot continue like this.’ 
  <p class="updated_time"> 04:33 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
  <p class="updated_time"> 04:01 AM CT, Mar. 22 </p> 
@@ -208,6 +214,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 10:06 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/arts/compact-magazine-conservatives-marxists.html">Two Religious Conservatives and a Marxist Walk Into a Journal</a> NYT: Compact, a new online magazine edited by two religious conservatives and a Marxist proponent of “labor populism,” aims to challenge both “a libertine left and a libertarian right.” 
+ <p class="updated_time"> 10:05 AM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/news/2022/03/22/russian-entities-lobbying-disclosure-00019221">Russian entities kept much of their D.C. influence peddling outside public view</a> Politico: Though they are state-owned entities, some now-sanctioned Russian businesses never registered to lobby through FARA. It allowed them to avoid additional disclosures. 
  <p class="updated_time"> 10:00 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/like-grabbing-smoke-crypto-collectibles-confound-taxpayers-00017779">'Like grabbing smoke': Crypto collectibles frustrate taxpayers</a> Politico: Consumers are grappling with a tax code that doesn’t formally address how NFTs can be used to denote digital ownership. 
  <p class="updated_time"> 09:33 AM CT, Mar. 22 </p> 
