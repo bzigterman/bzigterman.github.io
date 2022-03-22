@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:42 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 09:54 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Struggles for Momentum; West Fears Next Step</a> NYT: On land, Russian forces are having difficulty advancing along sprawling front lines and facing a Ukrainian counteroffensive in the south. A NATO summit this week is expected to discuss how to respond if Moscow turns to chemical, biological, cyber or nuclear weapons. 
+ <p class="updated_time"> 09:46 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">No Survivors Found in China Eastern Plan Crash, Officials Say</a> NYT: Workers recovered identity cards, cellphones and purses from the crash site. But the plane’s steep plunge suggested there was a “minuscule” chance of any survivors, an expert said. 
  <p class="updated_time"> 09:38 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-crash-explained.html">What We Know About the Crash of China Eastern Airlines Flight 5735</a> NYT: The crash of the Boeing plane, with more than 130 people on board, is China’s worst air disaster in more than a decade. 
  <p class="updated_time"> 09:36 AM CT, Mar. 22 </p> 
@@ -27,38 +29,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/world/europe/teachers-killed-malmo-sweden.html">Two Teachers Killed at a School in Malmo, Sweden</a> NYT: The police said they were still trying to determine a motive for the attack in the southern city of Malmo. 
  <p class="updated_time"> 08:59 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088009817/putin-critic-alexei-navalny-guilty">Russian court finds jailed Kremlin critic Alexei Navalny guilty in fraud case</a> NPR: Navalny, who is already serving a 2.5-year sentence for parole violations, was sentenced to an additional nine years in a high-security prison. He has vowed to keep fighting. 
- <p class="updated_time"> 08:47 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 08:58 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 08:31 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Putin critic jailed for nine more years in trial branded 'sham'</a> BBC: Alexei Navalny will be sent to a "strict regime" colony after a judge jailed him for nine more years. 
  <p class="updated_time"> 08:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/pakistan-imran-khan-parliament.html">Imran Khan, Pakistan’s Prime Minister, Fights for Survival</a> NYT: Soaring inflation and a rift with the military threaten Imran Khan’s tenure as prime minister. He has dismissed criticism as a foreign conspiracy. 
- <p class="updated_time"> 08:01 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">China Eastern Jet’s Steep Plunge Suggests Little Chance of Survival</a> NYT: Search workers recovered identity cards, cellphones and purses from the crash of the Boeing plane that carried more than 130 people. But no survivors have been found. 
  <p class="updated_time"> 08:00 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088005073/ukraine-nobel-novaya-gazeta">A Nobel Prize-winning Russian editor says he will donate his medal for Ukraine relief</a> NPR: Dmitry Muratov is the editor-in-chief of the independent Russian newspaper Novaya Gazeta. He was one of two journalists to win last year's Nobel Peace Prize. 
+ <p class="updated_time"> 07:58 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-fight-war-of-ambush-and-skirmish-against-russian-invaders-11647951516">Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders</a> WSJ: Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders 
  <p class="updated_time"> 07:50 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-navalny-prison.html">Aleksei Navalny Found Guilty of Fraud by Russian Court</a> NYT: Despite already being behind bars, Mr. Navalny has been urging Russians to protest the war in Ukraine, making him even more of a liability for the country’s president. 
- <p class="updated_time"> 07:47 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-fight-war-of-ambush-and-skirmish-against-russian-invaders-11647951516">Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders</a> WSJ: Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders 
  <p class="updated_time"> 07:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-ukraine-russia-diplomacy.html">China Takes a Back Seat in International Diplomacy Over Ukraine</a> NYT: Despite its economic and military might and close ties to Russia, China has balked at trying to press Vladimir Putin to stop the fighting. 
  <p class="updated_time"> 07:02 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830052?at_medium=RSS&at_campaign=KARANGA">Yvan Colonna: Corsican nationalist dies after jihadist jail attack</a> BBC: Yvan Colonna's strangling by a fellow inmate had sparked violent protests on the French island. 
+ <p class="updated_time"> 06:58 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 06:56 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60830395?at_medium=RSS&at_campaign=KARANGA">China plane crash rescuers find charred personal belongings</a> BBC: Families of the 132 people on board have gathered at a nearby airport waiting anxiously for updates. 
  <p class="updated_time"> 06:56 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60836321?at_medium=RSS&at_campaign=KARANGA">WATCH: Ukrainian sailing club protest super yacht linked to Abramovich in Turkey</a> BBC: A Ukrainian sailing team protested the arrival of a super yacht linked to Roman Abramovich in Turkey. 
- <p class="updated_time"> 06:47 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 06:46 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
  <p class="updated_time"> 06:01 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60834048?at_medium=RSS&at_campaign=KARANGA">Cristiana Chamorro: Nicaragua opposition leader sentenced</a> BBC: Cristiana Chamorro is the latest rival of President Daniel Ortega to be handed a long sentence. 
+ <p class="updated_time"> 05:58 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 05:48 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
- <p class="updated_time"> 05:47 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 05:45 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
  <p class="updated_time"> 05:30 AM CT, Mar. 22 </p> 
@@ -73,7 +73,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after violent attack at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after two deaths in the city of Malmö. 
  <p class="updated_time"> 04:58 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60830885?at_medium=RSS&at_campaign=KARANGA">Maharashtra: Rubber penis in family planning kit sparks row</a> BBC: Some lawmakers in Maharashtra state say female health workers will be embarrassed but others disagree. 
- <p class="updated_time"> 04:47 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 04:58 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 04:37 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Alexei Navalny Sentenced to Nine More Years in Prison</a> WSJ: The country’s leading opposition figure was sentenced on charges of fraud and contempt of court, in a case his supporters say was brought against him on the orders of President Vladimir Putin. 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:43 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/arts/compact-magazine-conservatives-marxists.html">Two Religious Conservatives and a Marxist Walk Into a Journal</a> NYT: Compact, a new online magazine edited by two religious conservatives and a Marxist proponent of “labor populism,” aims to challenge both “a libertine left and a libertarian right.” 
  <p class="updated_time"> 09:33 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-brown-jackson-child-sexual-abuse.html">Jackson Rejects Accusations of Leniency in Child Sexual Abuse Cases</a> NYT: “Nothing could be further from the truth,” she told the Senate Judiciary Committee. 
  <p class="updated_time"> 09:20 AM CT, Mar. 22 </p> 
@@ -218,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/us/politics/blackburn-jackson.html">Echoing Conservative Grievances, Blackburn Miscasts Jackson’s Views</a> NYT: Senator Marsha Blackburn took quotes out of context as she levied a blistering attack against Judge Ketanji Brown Jackson. 
  <p class="updated_time"> 09:07 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/biden-kbj-confirmation-hearing-00019176">WH: Biden requested updates on KBJ confirmation hearing</a> Politico: Biden “thought Judge Jackson’s opening statement was strong, forceful, and effective,” White House press secretary Jen Psaki wrote in a tweet. 
- <p class="updated_time"> 09:00 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/arts/compact-magazine-conservatives-marxists.html">Two Religious Conservatives and a Marxist Walk Into a Journal</a> NYT: Compact, a new online magazine edited by two religious conservatives and a Marxist proponent of “labor populism,” aims to challenge both “a libertine left and a libertarian right.” 
  <p class="updated_time"> 08:39 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-hearings.html">Jackson Vows to Be Independent on Supreme Court if Confirmed</a> NYT: On the first day of Judge Ketanji Brown Jackson’s confirmation hearings, Republican senators began previewing attack lines accusing her of being soft on crime. 
  <p class="updated_time"> 08:16 AM CT, Mar. 22 </p> 
@@ -247,7 +247,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/magazine/tucker-carlson-politician.html">The Rise of the Tucker Carlson Politician</a> NYT: Two Republican Senate candidates field-test a new message honed in the cable-news studio. 
  <p class="updated_time"> 03:31 AM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/democrats-ketanji-brown-jackson-confirmation-00019063">Dems downplay influence of ‘dark money’ judicial group in KBJ confirmation</a> Politico: Republicans are trotting out a favored Democratic strategy: slamming unelected advocacy groups for pushing a Supreme Court pick. Democrats say this time is different. 
+ <a href="https://www.politico.com/news/2022/03/22/democrats-ketanji-brown-jackson-confirmation-00019063">Jackson defends sentencing record, parries Supreme Court expansion questions</a> Politico: Senators began questioning the Supreme Court pick as the GOP trotted out a favored Democratic strategy: slamming unelected advocacy groups for pushing a nominee. 
  <p class="updated_time"> 03:30 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/tests-short-supply-if-covid-surges-00019046">‘We’ve learned absolutely nothing’: Tests could again be in short supply if Covid surges</a> Politico: Covid-19 infections are rebounding in several European countries and Biden officials are monitoring infections in the United Kingdom. 
  <p class="updated_time"> 03:30 AM CT, Mar. 22 </p> 
