@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:25 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 06:39 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Struggles for Momentum; West Fears Next Step</a> NYT: On land, Russian forces are having difficulty advancing along sprawling front lines and facing a Ukrainian counteroffensive in the south. A NATO summit this week is expected to discuss how to respond if Moscow turns to chemical, biological, cyber or nuclear weapons. 
  <p class="updated_time"> 06:10 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">China Eastern Jet’s Steep Plunge Suggests Little Chance of Survival</a> NYT: Search workers recovered identity cards, cellphones and purses from the crash of the Boeing plane that carried more than 130 people. But no survivors have been found. 
@@ -19,10 +19,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
  <p class="updated_time"> 05:45 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
+ <p class="updated_time"> 05:45 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 05:36 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60830395?at_medium=RSS&at_campaign=KARANGA">China plane crash rescuers find charred personal belongings</a> BBC: Families of the 132 people onboard have gathered at a nearby airport waiting anxiously for updates. 
- <p class="updated_time"> 05:31 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 05:30 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin">How 'shock therapy' created Russian oligarchs and paved the path for Putin</a> NPR: In the 1990s, reformers adopted a radical economic program in Russia. It devastated ordinary Russians and created a new class of oligarchs. And it explains the rise of Putin and the leader he is today 
  <p class="updated_time"> 05:29 AM CT, Mar. 22 </p> 
@@ -37,10 +37,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after violent attack at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after two deaths in the city of Malmö. 
  <p class="updated_time"> 04:58 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60830885?at_medium=RSS&at_campaign=KARANGA">Maharashtra: Rubber penis in family planning kit sparks row</a> BBC: Some lawmakers in Maharashtra state say female health workers will be embarrassed but others disagree. 
+ <p class="updated_time"> 04:45 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/u-s-rethinks-uranium-supply-for-nuclear-plants-after-russias-invasion-of-ukraine-11647941401">U.S. Rethinks Uranium Supply for Nuclear Plants After Russia’s Invasion</a> WSJ: U.S. Rethinks Uranium Supply for Nuclear Plants After Russia’s Invasion 
  <p class="updated_time"> 04:33 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
- <p class="updated_time"> 04:31 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/u-s-rethinks-uranium-supply-for-nuclear-plants-after-russias-invasion-of-ukraine-11647941401">U.S. Rethinks Uranium Supply for Nuclear Plants After Russia’s Invasion</a> WSJ: U.S. Rethinks Uranium Supply for Nuclear Plants After Russia’s Invasion 
  <p class="updated_time"> 04:01 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087641245/refugees-from-other-wars-see-themselves-in-fleeing-ukrainians">Refugees from other wars see themselves in fleeing Ukrainians</a> NPR: More than 3.4 million people have fled Ukraine. As that number grows, refugees from other conflicts reflect on their experience of fleeing their home country and what life is like now. 
  <p class="updated_time"> 04:00 AM CT, Mar. 22 </p> 
@@ -51,15 +51,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
  <p class="updated_time"> 03:46 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/zelensky-speeches-ukraine-russia.html">Walls, Dreams and Genocide: Zelensky’s Speeches Invoke History to Rally Support</a> NYT: The Ukrainian leader, a former actor, has invoked emotional moments in the history of nations from which he is hoping to secure backing. We look at five of his recent speeches. 
- <p class="updated_time"> 03:31 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 03:45 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Crash 
  <p class="updated_time"> 03:21 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/nepal-gurkha-veteran-protests.html">Gurkha Veterans Fight a Colonial-Era Legacy Still Shaping Nepal</a> NYT: Nepal’s best and brightest have been recruited while young to fight for Britain for over 200 years, with their pay and pensions a fraction of their fellow British soldiers’ for much of that time. 
  <p class="updated_time"> 03:00 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/italy-workers-strike-1972.html">1972: Millions of Workers Strike in Italy</a> NYT: Farm laborers, pressing demands including a shorter working week and a minimum wage, staged a 24-hour walkout. Refinery and filling station employees were also striking over pay and hours. 
- <p class="updated_time"> 02:31 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 02:45 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
- <p class="updated_time"> 01:31 AM CT, Mar. 22 </p> 
+ <p class="updated_time"> 01:45 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 01:16 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087989130/zelenskyy-to-speak-to-japanese-parliament">Ukrainian President Zelenskyy to address Japanese parliament</a> NPR: The online address extends work by the Ukrainian leader to rally international support against Russia's invasion of his country. 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:33 AM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/03/22/dark-money-porn-gitmo-questions-for-kbj-00019153">Dark money, porn, Gitmo: Questions for KBJ</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:30 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin">How 'shock therapy' created Russian oligarchs and paved the path for Putin</a> NPR: In the 1990s, reformers adopted a radical economic program in Russia. It devastated ordinary Russians and created a new class of oligarchs. And it explains the rise of Putin and the leader he is today 
  <p class="updated_time"> 05:13 AM CT, Mar. 22 </p> 
