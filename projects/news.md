@@ -9,38 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:16 AM CT, Mar. 22 </p> 
+ <a href="https://www.npr.org/2022/03/22/1087989130/zelenskyy-to-speak-to-japanese-parliament">Ukrainian President Zelenskyy to address Japanese parliament</a> NPR: The online address extends work by the Ukrainian leader to rally international support against Russia's invasion of his country. 
+ <p class="updated_time"> 12:59 AM CT, Mar. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60827109?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Belarusian dissidents fight against Russia in Ukraine</a> BBC: Belarusian dissident Pavel Kulazhanka left his life in New York to join the fight against Russia. 
+ <p class="updated_time"> 12:29 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 12:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: As Russia Pounds Ukrainian Cities, U.S. Lobbies an Anti-Kremlin Alliance</a> NYT: Biden spoke with the leaders of Germany, Italy, France and Britain. A Russian missile strike destroyed a Kyiv shopping mall. The Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
  <p class="updated_time"> 12:21 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60830395?at_medium=RSS&at_campaign=KARANGA">China plane crash: Rescuers search for survivors as families await news</a> BBC: Rescuers continue to search for survivors of the China Eastern flight, which was carrying 132 people. 
- <p class="updated_time"> 11:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 11:42 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60830935?at_medium=RSS&at_campaign=KARANGA">Gareth Ward: Australia state MP charged with sexual abuse</a> BBC: Gareth Ward - a former minister - says he denies assaulting a teenage boy in 2013 and a man in 2015. 
+ <p class="updated_time"> 11:29 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 11:12 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/iran-uk-nazanin-zaghari-ratcliffe-released.html">Back in U.K., Nazanin Zaghari-Ratcliffe Urges Iran to Release Others</a> NYT: Ms. Zaghari-Ratcliffe, the British-Iranian charity worker held for six years in Tehran, said “freedom will never be complete” until all detainees were allowed to leave. 
  <p class="updated_time"> 11:09 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html">Biden Warns Private Sector of Potential Russian Cyberattacks</a> NYT: The president cited “evolving intelligence” and urged companies to strengthen their defenses immediately. 
- <p class="updated_time"> 10:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
+ <p class="updated_time"> 10:29 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 09:50 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
- <p class="updated_time"> 09:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
+ <p class="updated_time"> 09:29 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 09:16 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/australia/australia-space-command.html">Creating Space Command, Australia Strengthens High-Tech Bond With U.S.</a> NYT: The expanded commitment to space defense reflects the reality of a new, extraterrestrial landscape for war. 
- <p class="updated_time"> 08:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 08:39 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Boeing 737-800 Crashes in Remote Mountain Valley in Southern China</a> NYT: Rescuers on the scene found debris and fires, and a lack of electricity hampered rescue efforts overnight. Search efforts are set to continue into Tuesday, although it was unclear if any of the 132 crew and passengers survived the plane crash. 
+ <p class="updated_time"> 08:29 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 08:05 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/business/boeing-china-737.html">Boeing Faces New Upheaval After Crash of Chinese Airliner</a> NYT: No fault has been found, but the company, which has been trying to overcome a recent legacy of design and production troubles, is likely to get scrutinized. 
  <p class="updated_time"> 08:04 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087977913/here-are-the-ceos-who-were-briefed-by-the-white-house-on-the-war-in-ukraine">Here are the CEOs who were briefed by the White House on the war in Ukraine</a> NPR: The group discussed ways to "mitigate price increases on American consumers" caused by the war and the need to address disruptions to energy and agricultural markets, the White House said. 
  <p class="updated_time"> 08:01 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after 'violence' at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after "deadly violence" in the city of Malmö. 
- <p class="updated_time"> 07:46 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 07:38 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/polish-border-refugees.html">In Warsaw, a Network of Support Greets Those Crossing the Polish Border</a> NYT: A sprawling expo center in the Polish capital has given some 25,000 refugees a safe place to recharge before journeying on. 
  <p class="updated_time"> 07:32 PM CT, Mar. 21 </p> 
@@ -131,28 +135,20 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/21/1087296594/nowruz-is-banned-in-afghanistan-but-families-continue-to-celebrate">Nowruz is banned in Afghanistan, but families continue to celebrate</a> NPR: One woman living in Kabul describes how, despite food shortages and repression, her family is celebrating the Persian new year with what they have. 
  <p class="updated_time"> 07:45 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/boeing-737-800-next-generation.html">The Plane That Crashed Was Not a Boeing 737 Max</a> NYT: The model is a narrow-body jet that has a maximum range of over 3,000 miles, but is commonly used on shorter routes. 
- <p class="updated_time"> 07:09 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60820993?at_medium=RSS&at_campaign=KARANGA">Colombia guard held after drug lord flees through open door</a> BBC: Gang leader Juan Castro escaped from the maximum-security La Picota jail disguised as a guard. 
  <p class="updated_time"> 07:07 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/article/ukraine-fake-news-russia.html">How to Avoid Sharing Misinformation on the War in Ukraine</a> NYT: Here are warning signs to look for before you retweet. 
  <p class="updated_time"> 07:04 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60822865?at_medium=RSS&at_campaign=KARANGA">Ed Sheeran and Camila Cabello join Ukraine concert line-up</a> BBC: Camila Cabello, Ed Sheeran, Gregory Porter and Snow Patrol will all take part in the fundraiser. 
  <p class="updated_time"> 06:56 AM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/u-s-says-myanmar-military-committed-genocide-against-rohingya-11647876770">U.S. Says Myanmar Military Committed Genocide Against Rohingya</a> WSJ: The Biden administration concluded that the army’s campaign of mass killings and rape in 2016 and 2017 had clear intent to destroy the minority community. 
- <p class="updated_time"> 04:36 AM CT, Mar. 21 </p> 
- <a href="https://www.npr.org/2022/03/21/1087807099/jetliner-crashes-with-132-aboard-in-southern-china-officials-say">A Jetliner crashed with 132 aboard in southern China, officials say</a> NPR: Authorities have not yet determined the total number of casualties or why the plane went down as debris is seen littered across a mountainside in Guangxi's Teng county. 
  <p class="updated_time"> 04:33 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60815547?at_medium=RSS&at_campaign=KARANGA">Climate change: 'Madness' to turn to fossil fuels because of Ukraine war</a> BBC: UN Secretary General says climate goals are in danger if countries turn to coal because of Ukraine. 
- <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60816885?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia trying to starve Mariupol into surrender - MP</a> BBC: Russia issued an ultimatum offering to open humanitarian corridors in exchange for the surrender of the city. 
  <p class="updated_time"> 04:27 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60819031?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Protesters in Kherson appear to make Russian truck reverse</a> BBC: Footage shows civilians protesting against Russian occupation in Kherson on Sunday. 
  <p class="updated_time"> 04:03 AM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60819030?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv shopping centre hit by Russian missile</a> BBC: A nearby camera captured the moment the shopping centre in Kyiv was struck by a missile. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/ukraine-lviv-war.html">How Lviv Has Been Transformed by War</a> NYT: Simple rituals, like having coffee in a cafe in Lviv, Ukraine, take on a new and sometimes surreal meaning in a radically altered context. 
- <p class="updated_time"> 02:45 AM CT, Mar. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60818488?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian shelling blamed for corrosive gas leak</a> BBC: The ammonia leak has been contained but prompted a warning residents should stay indoors. 
  <p class="updated_time"> 02:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/japan-red-crowned-cranes.html">Japan Saved Red-Crowned Cranes. Can They Survive Without Humans?</a> NYT: Conservators vastly increased the numbers of red-crowned cranes, a symbol of loyalty and longevity in Japanese culture. That’s just a start. 
  <p class="updated_time"> 02:00 AM CT, Mar. 21 </p> 
@@ -167,10 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/20/world/americas/ukraine-war-global-food-crisis.html">Ukraine War Threatens to Cause a Global Food Crisis</a> NYT: A critical share of the world’s food and fertilizer is stuck in Russia and Ukraine, sending global prices soaring and foreshadowing a rise in world hunger. 
  <p class="updated_time"> 07:14 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60749496?at_medium=RSS&at_campaign=KARANGA">The hunt for Nigerians who can change into cats</a> BBC: One man is challenging Nigerians' belief in magic after a wave of killings that has gripped the country. 
- <p class="updated_time"> 07:05 PM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60616273?at_medium=RSS&at_campaign=KARANGA">Oscars 2022: Five ways the Academy is trying to stay relevant</a> BBC: The Academy Awards return this Sunday, but they face a battle to raise their viewing figures. 
- <p class="updated_time"> 07:04 PM CT, Mar. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-60763168?at_medium=RSS&at_campaign=KARANGA">Not smart but clever? The return of 'dumbphones'</a> BBC: Why sales of very basic mobile phones, without apps and internet connection, are increasing. 
  <p class="updated_time"> 07:00 PM CT, Mar. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60762032?at_medium=RSS&at_campaign=KARANGA">Omicron vs Zero-Covid: How long can China hold on?</a> BBC: China's worst outbreak in two years has got some questioning how long it can hang on to its strategy. 
  <p class="updated_time"> 05:46 PM CT, Mar. 20 </p> 
@@ -210,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:46 AM CT, Mar. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:12 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/science/russia-nuclear-ukraine.html">The Smaller Bombs That Could Turn Ukraine Into a Nuclear War Zone</a> NYT: Military experts say a new generation of nuclear weapons has raised the risk that Mr. Putin might introduce less destructive atomic arms into the battlefields in and around Ukraine. 
  <p class="updated_time"> 11:01 PM CT, Mar. 21 </p> 
@@ -220,8 +214,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/us/politics/blackburn-jackson.html"> Blackburn Miscasts Jackson’s Views and Record</a> NYT: Senator Marsha Blackburn took quotes out of context as she leveraged a blistering attack against Judge Ketanji Brown Jackson. 
  <p class="updated_time"> 09:13 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/indiana-governor-vetoes-transgender-girls-sports-ban-00019117">Indiana governor vetoes transgender girls sports ban</a> Politico: Gov. Eric Holcomb also signed a bill ending the state’s permit requirement to carry handguns in public. 
- <p class="updated_time"> 09:06 PM CT, Mar. 21 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:11 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/cp-rail-stoppage-canada-labor-minister-00019098">‘I want a deal now’: Canada’s labor minister resists calls to force end to CP Rail stoppage</a> Politico: Labor Minister Seamus O’Regan said collective bargaining will achieve "certainty and permanence." 
  <p class="updated_time"> 08:04 PM CT, Mar. 21 </p> 
