@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:04 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Cracks Down on Dissent as Invasion Stalls</a> NYT: Russia sentenced Aleksei A. Navalny to nine years in prison and added to its draconian censorship law. Ukrainians continued to mount a spirited defense, saying they had recaptured the town of Makariv. 
+ <p class="updated_time"> 11:59 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/world/asia/china-ukraine-russia-diplomacy.html">China Takes a Back Seat in International Diplomacy Over Ukraine</a> NYT: Despite its economic and military might and close ties to Russia, China has balked at trying to press Vladimir Putin to stop the fighting. 
+ <p class="updated_time"> 11:54 AM CT, Mar. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60829320?at_medium=RSS&at_campaign=KARANGA">Israel: Four killed in shopping centre attack</a> BBC: Three people were stabbed and fourth run over in one of the deadliest such attacks for years. 
  <p class="updated_time"> 11:32 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088055416/ukraine-boxer-lomachenko-skips-fight">A top Ukrainian boxer is choosing his country over an upcoming title fight</a> NPR: Before Russia attacked Ukraine, Vasiliy Lomachenko had agreed to face off against lightweight champion George Kambosos Jr. in June. Now he plans to stay and defend his country. 
  <p class="updated_time"> 11:31 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Putin critic given nine-year jail sentence in trial branded 'sham'</a> BBC: Alexei Navalny will be sent to a "strict regime" colony after a judge jailed him for nine more years. 
- <p class="updated_time"> 11:31 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Advances Crackdown on Dissent as Progress Stalls in Ukraine</a> NYT: Russia sentenced Aleksei A. Navalny to nine years in prison and added to its draconian censorship law. Ukrainians continued to mount a spirited defense, saying they had recaptured the town of Makariv. 
+ <p class="updated_time"> 11:05 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 11:03 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
  <p class="updated_time"> 10:49 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-crash-explained.html">What We Know About the Crash of China Eastern Airlines Flight 5735</a> NYT: The crash of the Boeing plane, with more than 130 people on board, is China’s worst air disaster in more than a decade. 
  <p class="updated_time"> 10:45 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60836500?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson: Key moments as Biden's Supreme Court pick quizzed</a> BBC: Lawmakers on a key Senate panel are grilling Ketanji Brown Jackson about her record as a judge. 
- <p class="updated_time"> 10:35 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 10:30 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-60835389?at_medium=RSS&at_campaign=KARANGA">Tesla: Elon Musk opens delayed 'gigafactory' in Berlin</a> BBC: The more than €5bn (£4bn) factory is the biggest investment in a German car plant in recent history. 
  <p class="updated_time"> 10:17 AM CT, Mar. 22 </p> 
@@ -31,40 +35,36 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/tennis/60817261?at_medium=RSS&at_campaign=KARANGA">Rafael Nadal out for up to six weeks with rib injury</a> BBC: Rafael Nadal is ruled out for between four and six weeks because of a stress fracture of the rib, with the French Open starting on 22 May. 
  <p class="updated_time"> 10:08 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-navalny-prison.html">Aleksei Navalny Found Guilty of Fraud by Russian Court</a> NYT: Despite already being behind bars, Mr. Navalny has been urging Russians to protest the war in Ukraine, making him even more of a liability for President Vladimir V. Putin. 
+ <p class="updated_time"> 10:05 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-fight-war-of-ambush-and-skirmish-against-russian-invaders-11647951516">Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders</a> WSJ: Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders 
  <p class="updated_time"> 09:59 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60831988?at_medium=RSS&at_campaign=KARANGA">Ukraine's recruits swap spreadsheets for sniper rifles to defend Kyiv</a> BBC: Preparing to defend Kyiv, Ukraine's new recruits must learn a new way of life - how to fight. 
  <p class="updated_time"> 09:46 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">No Survivors Found in China Eastern Plan Crash, Officials Say</a> NYT: Workers recovered identity cards, cellphones and purses from the crash site. But the plane’s steep plunge suggested there was a “minuscule” chance of any survivors, an expert said. 
  <p class="updated_time"> 09:36 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088014388/chinas-search-for-survivors-from-crashed-jetliner-turns-up-nothing-so-far">China's search for survivors from crashed jetliner turns up nothing so far </a> NPR: The flight, with 132 passengers and crew aboard was en route  from Kunming to Guangzhou when it crashed in a forested area of southern China on Monday. 
- <p class="updated_time"> 09:35 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-fight-war-of-ambush-and-skirmish-against-russian-invaders-11647951516">Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders</a> WSJ: Ukraine’s Troops Fight War of Ambush and Skirmish Against Russian Invaders 
  <p class="updated_time"> 09:27 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/americas/russia-margarita-venezuela.html">Vacations Abruptly End as Tourists Return  to a Different Russia</a> NYT: While Russian tourists were visiting Margarita Island, their country invaded Ukraine. Many were left wondering what travails awaited them back at home. 
  <p class="updated_time"> 09:24 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/canada/trudeau-new-democratic-party.html">Canada’s Trudeau Strikes Accord With Opponents to Secure Hold on Power</a> NYT: A left-of-center opposition party agrees to back the government until 2025 in exchange for advancing its causes. 
  <p class="updated_time"> 09:07 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html">‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late</a> NYT: A growing chorus of young people is focusing on climate solutions. “‘It’s too late’ means ‘I don’t have to do anything, and the responsibility is off me.’” 
+ <p class="updated_time"> 09:05 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19 
  <p class="updated_time"> 09:03 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/teachers-killed-malmo-sweden.html">Two Teachers Killed at a School in Malmo, Sweden</a> NYT: The police said they were still trying to determine a motive for the attack in the southern city of Malmo. 
  <p class="updated_time"> 08:59 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088009817/putin-critic-alexei-navalny-guilty">Russian court finds jailed Kremlin critic Alexei Navalny guilty in fraud case</a> NPR: Navalny, who is already serving a 2.5-year sentence for parole violations, was sentenced to an additional nine years in a high-security prison. He has vowed to keep fighting. 
- <p class="updated_time"> 08:35 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19 
  <p class="updated_time"> 08:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/pakistan-imran-khan-parliament.html">Imran Khan, Pakistan’s Prime Minister, Fights for Survival</a> NYT: Soaring inflation and a rift with the military threaten Imran Khan’s tenure as prime minister. He has dismissed criticism as a foreign conspiracy. 
+ <p class="updated_time"> 08:05 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 08:00 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088005073/ukraine-nobel-novaya-gazeta">A Nobel Prize-winning Russian editor says he will donate his medal for Ukraine relief</a> NPR: Dmitry Muratov is the editor-in-chief of the independent Russian newspaper Novaya Gazeta. He was one of two journalists to win last year's Nobel Peace Prize. 
- <p class="updated_time"> 07:35 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Alexei Navalny Sentenced to Nine More Years in Prison</a> WSJ: Russian Opposition Leader Alexei Navalny Sentenced to Nine More Years in Prison 
- <p class="updated_time"> 07:25 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/asia/china-ukraine-russia-diplomacy.html">China Takes a Back Seat in International Diplomacy Over Ukraine</a> NYT: Despite its economic and military might and close ties to Russia, China has balked at trying to press Vladimir Putin to stop the fighting. 
- <p class="updated_time"> 07:02 AM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60830052?at_medium=RSS&at_campaign=KARANGA">Yvan Colonna: Corsican nationalist dies after jihadist jail attack</a> BBC: Yvan Colonna's strangling by a fellow inmate had sparked violent protests on the French island. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 06:56 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60836321?at_medium=RSS&at_campaign=KARANGA">WATCH: Ukrainian sailing club protest super yacht linked to Abramovich in Turkey</a> BBC: A Ukrainian sailing team protested the arrival of a super yacht linked to Roman Abramovich in Turkey. 
- <p class="updated_time"> 06:35 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 05:48 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/eastern-airlines-crash-scene.html">Farmers Describe Scene of China Eastern Airlines Plane Crash</a> NYT: Witnesses told Chinese news outlets they were at first baffled by the explosion in a rural area. Then, they realized the smoke was coming from what may be China’s worst air accident in decades. 
  <p class="updated_time"> 05:45 AM CT, Mar. 22 </p> 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:19 AM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/news/2022/03/22/cowboys-for-trump-founder-convicted-jan-6-00019270">Cowboys for Trump founder convicted for breaching Capitol grounds on Jan. 6</a> Politico: It’s a crucial milestone for prosecutors as they seek plea deals and convictions for hundreds of members of the Jan. 6 mob who crossed into Capitol grounds. 
  <p class="updated_time"> 11:07 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/arts/compact-magazine-conservatives-marxists.html">Two Religious Conservatives and a Marxist Walk Into a Journal</a> NYT: Compact, a new online magazine edited by two religious conservatives and a Marxist proponent of “labor populism,” aims to challenge both “a libertine left and a libertarian right.” 
  <p class="updated_time"> 11:01 AM CT, Mar. 22 </p> 
@@ -290,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/21/1087913840/new-mexico-has-one-of-the-most-generous-free-tuition-programs-but-there-are-limi">New Mexico has one of the most generous 'free tuition' programs, but there are limits</a> NPR: New Mexico is the latest of more than 33 states to offer free college tuition in some form. Their benefits are more generous than most, but only last for a year. 
  <p class="updated_time"> 03:33 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087863804/ketanji-brown-jackson-supreme-court-confirmation-hearing-day-1-recap">Judge Ketanji Brown Jackson confirmation hearings: What happened Monday</a> NPR: Democrats are hoping to finish Jackson's confirmation process before Congress leaves for Easter recess April 11. 
- <p class="updated_time"> 03:33 PM CT, Mar. 21 </p> 
- <a href="https://www.politico.com/news/2022/03/21/trump-donors-millions-00019002">Trump hoards his war chest and Dem donors unleash millions: 5 takeaways from the latest campaign money disclosures</a> Politico: Former President Donald Trump's PAC now has over $110 million in the bank. 
  <p class="updated_time"> 03:32 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/business/economy/powell-fed-inflation.html">Powell Says Fed Could Raise Rates More Quickly to Tame Inflation</a> NYT: Jerome H. Powell, the chair of the Federal Reserve, voiced worry about inflation expectations and declared the central bank ready to do what it takes to control rapid price increases. 
  <p class="updated_time"> 03:23 PM CT, Mar. 21 </p> 
