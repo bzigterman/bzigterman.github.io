@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:50 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Continues Bombardment, but Its Forces Have Shrunk, Pentagon Says</a> NYT: President Biden heads to Europe this week and will press allies for even more aggressive economic sanctions on Russia. Aleksei A. Navalny, the Russian dissident, was sentenced to nine years in prison. Ukrainians said they had recaptured the strategic town of Makariv, west of Kyiv. 
+ <p class="updated_time"> 05:48 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Heads to Europe Seeking to Bolster Russian Sanctions and Maintain Unity With Allies</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 05:34 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/corsica-france-prison-death.html">Yvan Colonna, Corsican Jailed for French Prefect’s Murder, Dies at 61</a> NYT: A folk hero for Corsica’s nationalist movement, he evaded a long manhunt but was finally arrested in 2003. He died shortly after being brutally attacked in prison. 
- <p class="updated_time"> 05:25 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Continues Bombardment, but Its Forces Have Shrunk, Pentagon Says</a> NYT: President Biden heads to Europe this week and will press allies for even more aggressive economic sanctions on Russia. Aleksei A. Navalny, the Russian dissident, was sentenced to nine years in prison. Ukrainians said they had recaptured the strategic town of Makariv, west of Kyiv. 
  <p class="updated_time"> 05:25 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-navalny-prison.html">Aleksei Navalny Found Guilty of Fraud by Russian Court</a> NYT: Despite already being behind bars, Mr. Navalny has been urging Russians to protest the war in Ukraine, making him even more of a liability for President Vladimir V. Putin. 
  <p class="updated_time"> 05:12 PM CT, Mar. 22 </p> 
@@ -20,14 +22,12 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:10 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/middleeast/israel-stabbing-beersheba.html">Four Killed in Southern Israel in Latest in Spate of Attacks</a> NYT: The attacks have heightened fears of further violence in April, when the convergence of three religious holidays has leaders on edge. 
  <p class="updated_time"> 05:08 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Heads to Europe Seeking to Bolster Russian Sanctions and Maintain Unity With Allies</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
- <p class="updated_time"> 05:08 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Putin critic given nine-year jail sentence in trial branded 'sham'</a> BBC: Alexei Navalny will be sent to a "strict regime" colony after a judge jailed him for nine more years. 
  <p class="updated_time"> 05:00 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/russia-china-global-economy.html">Ukraine War and Pandemic Force Nations to Retreat From Globalization</a> NYT: Conflicts among the U.S., Russia and China — and endless Covid-19 outbreaks — strain the interdependent economy and Western ideas of post-Cold War stability. 
  <p class="updated_time"> 04:58 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/putin-russia-military-planning.html">As Russia Stalls in Ukraine, Dissent Brews Over Putin’s Leadership</a> NYT: Military losses have mounted, progress has slowed, and a blame game has begun among some Russian supporters of the war. 
- <p class="updated_time"> 04:41 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 04:51 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 04:39 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088126698/beersheba-israelis-stabbed-attack">A knife-wielding man killed 4 Israelis in Beersheba, police say </a> NPR: Police said the attacker careened his car into a cyclist and stabbed five people in the city center. Amateur video appeared to show armed bystanders shooting and killing the attacker at the scene. 
@@ -36,13 +36,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:01 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088062700/russia-ukraine-war-what-happened-today-march-22">Russia-Ukraine war: What happened today (March 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
+ <p class="updated_time"> 03:51 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088097157/georgians-fear-they-could-be-next-as-they-track-the-war-in-ukraine">Georgians fear they could be next as they track the war in Ukraine</a> NPR: Georgia shares a border with Russia and was attacked by Russia in 2008. As Georgians follow the war in Ukraine, many feel nervous that their country could be next. 
  <p class="updated_time"> 03:51 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088097150/a-radio-station-in-missouri-continues-broadcasting-kremlin-funded-radio-sputnik">A radio station in Missouri continues broadcasting Kremlin-funded Radio Sputnik</a> NPR: A Missouri radio station is airing Russian state-funded broadcasts. In a rare move, the National Association of Broadcasters called for stations to cease airing state-sponsored programming. 
  <p class="updated_time"> 03:50 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087859567/germany-military-buildup-russia-invasion-ukraine">With war on its doorstep, Germany plans a major military buildup</a> NPR: Chancellor Olaf Scholz's plan to boost defense spending could remake Germany's beleaguered military into the strongest armed forces in Europe — an idea that has met resistance in the past. 
- <p class="updated_time"> 03:41 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 03:32 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60829320?at_medium=RSS&at_campaign=KARANGA">Israel: Four killed in shopping centre attack</a> BBC: Three people were stabbed and a fourth run over in one of the deadliest such attacks for years. 
  <p class="updated_time"> 03:21 PM CT, Mar. 22 </p> 
@@ -59,22 +59,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html">‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late</a> NYT: A growing chorus of young people is focusing on climate solutions. “‘It’s too late’ means ‘I don’t have to do anything, and the responsibility is off me.’” 
  <p class="updated_time"> 03:04 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/nepal-gurkha-veteran-protests.html">Gurkha Veterans Fight a Colonial-Era Legacy Still Shaping Nepal</a> NYT: Nepal’s best and brightest have been recruited while young to fight for Britain for over 200 years, with their pay and pensions a fraction of their fellow British soldiers’ for much of that time. 
- <p class="updated_time"> 02:41 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 02:51 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19 
+ <p class="updated_time"> 01:51 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 01:47 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-ukraine-pentagon.html">Russia’s Forces Against Ukraine Have Shrunk, Pentagon Says</a> NYT: The official said that Russian forces were “struggling on many fronts,” and that there were indications that some troops had been evacuated with frostbite. 
- <p class="updated_time"> 01:41 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 01:33 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60841924?at_medium=RSS&at_campaign=KARANGA">The 3 Russian cyber-attacks the West most fears</a> BBC: US intelligence says Russia could launch cyber-attacks on the West. What is the worst-case scenario? 
  <p class="updated_time"> 01:30 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60836500?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson: Key moments as Biden's Supreme Court pick quizzed</a> BBC: Lawmakers on a key Senate panel are grilling Ketanji Brown Jackson about her record as a judge. 
  <p class="updated_time"> 01:24 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">No Survivors Found in China Eastern Plan Crash, Officials Say</a> NYT: Workers recovered identity cards, cellphones and purses from the crash site. But the plane’s steep plunge suggested there was a “minuscule” chance of any survivors, an expert said. 
+ <p class="updated_time"> 12:51 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 12:44 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087998179/russia-war-ukraine-mariupol-survivors-ukrainian-displaced">When Russia shelled their building in Mariupol, 13 neighbors banded together to flee</a> NPR: Before the war, Mariupol residents Tetiana Myhalyova and metalworker Victor Perederiy had never met. But after sheltering for weeks without heat or water, they decided to escape together. 
- <p class="updated_time"> 12:41 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 12:28 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088066363/trudeau-party-2025">Trudeau's party strikes a deal to stay in power until 2025</a> NPR: Prime Minister Justin Trudeau said this means "the government can function with predictability and stability, present and implement budgets and get things done for Canadians." 
  <p class="updated_time"> 12:15 PM CT, Mar. 22 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60825226?at_medium=RSS&at_campaign=KARANGA">Mariupol: Why Mariupol is so important to Russia's plan</a> BBC: The most bombarded city in Ukraine’s war with Russia is key to Moscow’s military campaign. 
  <p class="updated_time"> 12:30 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/flight-path-eastern-airlines.html">Flight MU-5735 Descended More Than 20,000 Feet in Just Over a Minute</a> NYT: An hour after it took off, the flight turned horribly wrong, according to data from Flightradar24. 
- <p class="updated_time"> 12:19 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/asia/hong-kong-flight-bans.html">Hong Kong Will Lift Its Flight Ban for 9 Countries</a> NYT: Carrie Lam, the chief executive, announced the measures on Monday, as experts said the worst of the latest wave might have passed. 
  <p class="updated_time"> 12:05 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/africa/amazon-south-africa.html">Plan for Amazon Headquarters in South Africa in Peril After Court Order</a> NYT: A judge ordered construction of the development in Cape Town to be halted, saying that the developer had not properly consulted Indigenous South Africans. 
  <p class="updated_time"> 07:45 AM CT, Mar. 21 </p> 
@@ -214,10 +212,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:45 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/us/politics/jen-psaki-covid.html">Jen Psaki, White House Press Secretary, Tests Positive for Coronavirus</a> NYT: Ms. Psaki said that she had two meetings with President Biden on Monday but that they had been socially distanced. 
  <p class="updated_time"> 05:35 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/business/us-britain-trade.html">U.S. and Britain Reach Trade Deal on Metals, Whiskey, Jeans and More</a> NYT: The step, announced as U.S. and British officials met in Baltimore, removed trade barriers erected under former President Donald J. Trump. 
- <p class="updated_time"> 05:31 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/us/politics/jen-psaki-covid.html">Jen Psaki, White House Press Secretary, Tests Positive for Coronavirus</a> NYT: Ms. Psaki said that she had two meetings with President Biden on Monday but that they had been socially distanced. 
  <p class="updated_time"> 05:08 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Heads to Europe Seeking to Bolster Russian Sanctions and Maintain Unity With Allies</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 05:00 PM CT, Mar. 22 </p> 
