@@ -442,8 +442,8 @@ html {
 <td class="gt_row gt_right">6</td>
 <td class="gt_row gt_right">&minus;71%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">146</td>
-<td class="gt_row gt_right gt_striped">99</td>
+<td class="gt_row gt_right gt_striped">145</td>
+<td class="gt_row gt_right gt_striped">98</td>
 <td class="gt_row gt_right gt_striped">&minus;32%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">133,000</td>
@@ -906,8 +906,8 @@ html {
 <td class="gt_row gt_right">&minus;43%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">11K</td>
-<td class="gt_row gt_right gt_striped">8.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;28%</td></tr>
+<td class="gt_row gt_right gt_striped">7.9K</td>
+<td class="gt_row gt_right gt_striped">&minus;27%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">8.2M</td>
 <td class="gt_row gt_right">8.2M</td>
