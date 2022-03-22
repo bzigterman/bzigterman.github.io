@@ -9,34 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:12 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: As Russia Pounds Ukrainian Cities, U.S. Lobbies an Anti-Kremlin Alliance</a> NYT: Biden spoke with the leaders of Germany, Italy, France and Britain. A Russian missile strike destroyed a Kyiv shopping mall. The Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
  <p class="updated_time"> 11:42 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60830935?at_medium=RSS&at_campaign=KARANGA">Gareth Ward: Australia state MP charged with sexual abuse</a> BBC: Gareth Ward - a former minister - says he denies assaulting a teenage boy in 2013 and a man in 2015. 
  <p class="updated_time"> 11:34 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60830395?at_medium=RSS&at_campaign=KARANGA">China plane crash: Rescuers search for survivors as families await news</a> BBC: Families of the 132 people onboard have gathered at a nearby airport, waiting anxiously for news. 
- <p class="updated_time"> 11:14 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/03/21/world/ukraine-russia-war">Ukraine Live Updates: As Russia Pounds Ukrainian Cities, U.S. Lobbies an Anti-Kremlin Alliance</a> NYT: Biden spoke with the leaders of Germany, Italy, France and Britain. A Russian missile strike destroyed a Kyiv shopping mall. The Ukrainian foreign ministry accused Russia of forcibly deporting thousands of children. 
+ <p class="updated_time"> 11:22 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
  <p class="updated_time"> 11:12 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/iran-uk-nazanin-zaghari-ratcliffe-released.html">Back in U.K., Nazanin Zaghari-Ratcliffe Urges Iran to Release Others</a> NYT: Ms. Zaghari-Ratcliffe, the British-Iranian charity worker held for six years in Tehran, said “freedom will never be complete” until all detainees were allowed to leave. 
  <p class="updated_time"> 11:09 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/biden-russia-cyberattack.html">Biden Warns Private Sector of Potential Russian Cyberattacks</a> NYT: The president cited “evolving intelligence” and urged companies to strengthen their defenses immediately. 
- <p class="updated_time"> 11:02 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rejects-russian-ultimatum-on-embattled-mariupol-11647858599">Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine</a> WSJ: Russia Relies Increasingly on Missiles, Artillery to Pressure Ukraine 
- <p class="updated_time"> 10:02 PM CT, Mar. 21 </p> 
+ <p class="updated_time"> 10:22 PM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/eu-support-grows-for-russia-oil-ban-for-ukraine-war-11647883376">EU Support Grows for Russia Oil Ban</a> WSJ: EU Support Grows for Russia Oil Ban 
  <p class="updated_time"> 09:50 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
+ <p class="updated_time"> 09:22 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 09:16 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/australia/australia-space-command.html">Creating Space Command, Australia Strengthens High-Tech Bond With U.S.</a> NYT: The expanded commitment to space defense reflects the reality of a new, extraterrestrial landscape for war. 
- <p class="updated_time"> 09:02 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/u-s-sending-soviet-air-defense-systems-it-secretly-acquired-to-ukraine-11647878422">U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine</a> WSJ: U.S. Sending Soviet Air Defense Systems It Secretly Acquired to Ukraine 
  <p class="updated_time"> 08:39 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/03/21/world/china-eastern-airlines-crash">Boeing 737-800 Crashes in Remote Mountain Valley in Southern China</a> NYT: Rescuers on the scene found debris and fires, and a lack of electricity hampered rescue efforts overnight. Search efforts are set to continue into Tuesday, although it was unclear if any of the 132 crew and passengers survived the plane crash. 
+ <p class="updated_time"> 08:22 PM CT, Mar. 21 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 08:05 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/business/boeing-china-737.html">Boeing Faces New Upheaval After Crash of Chinese Airliner</a> NYT: No fault has been found, but the company, which has been trying to overcome a recent legacy of design and production troubles, is likely to get scrutinized. 
  <p class="updated_time"> 08:04 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087977913/here-are-the-ceos-who-were-briefed-by-the-white-house-on-the-war-in-ukraine">Here are the CEOs who were briefed by the White House on the war in Ukraine</a> NPR: The group discussed ways to "mitigate price increases on American consumers" caused by the war and the need to address disruptions to energy and agricultural markets, the White House said. 
- <p class="updated_time"> 08:02 PM CT, Mar. 21 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-airlines-plane-crashes-in-guangxi-province-11647852654">China Eastern Plane Carrying More Than 130 People Crashes</a> WSJ: China Eastern Plane Carrying More Than 130 People Crashes 
  <p class="updated_time"> 08:01 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60830059?at_medium=RSS&at_campaign=KARANGA">Malmö: Two women killed after 'violence' at Swedish school</a> BBC: An 18-year-old student is arrested on suspicion of murder after "deadly violence" in the city of Malmö. 
  <p class="updated_time"> 07:38 PM CT, Mar. 21 </p> 
@@ -47,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60794059?at_medium=RSS&at_campaign=KARANGA">Asakaa: How drill music found a new home in Ghana</a> BBC: Asakaa, or Ghana drill, is the latest hot sound from Africa, following the global success of Afrobeats. 
  <p class="updated_time"> 07:22 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60829852?at_medium=RSS&at_campaign=KARANGA">Biden: Russia 'exploring' US cyber-attacks</a> BBC: President Joe Biden says US companies should "immediately" prepare defences. 
- <p class="updated_time"> 07:02 PM CT, Mar. 21 </p> 
+ <p class="updated_time"> 07:22 PM CT, Mar. 21 </p> 
  <a href="https://www.wsj.com/articles/iran-nuclear-deals-final-hurdle-is-lifting-terrorism-sanctions-on-revolutionary-guards-11647864073">Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards</a> WSJ: Iran Nuclear Deal’s Final Hurdle Is Lifting Terrorism Sanctions on Revolutionary Guards 
  <p class="updated_time"> 07:01 PM CT, Mar. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60514266?at_medium=RSS&at_campaign=KARANGA">Sudan: BBC investigation shows abuse of female demonstrators</a> BBC: The BBC has identified a number of female protesters who have been physically and sexually assaulted by security forces in Sudan. 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:12 AM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/21/science/russia-nuclear-ukraine.html">The Smaller Bombs That Could Turn Ukraine Into a Nuclear War Zone</a> NYT: Military experts say a new generation of nuclear weapons has raised the risk that Mr. Putin might introduce less destructive atomic arms into the battlefields in and around Ukraine. 
  <p class="updated_time"> 11:01 PM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-brown-jackson-confirmation-hearing-day-2.html">What to Watch For on Day 2 of Jackson’s Confirmation Hearing</a> NYT: Judge Ketanji Brown Jackson will answer her first questions from senators on Tuesday. 
  <p class="updated_time"> 09:58 PM CT, Mar. 21 </p> 
@@ -268,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/21/capitol-riot-trial-tests-justice-department-strategy-00018968">2nd Capitol riot trial puts Justice Department's strategy to the test</a> Politico: Pursuing a pair of misdemeanor charges results in the disclosure of the place where Vice President Mike Pence hid on Jan. 6. 
  <p class="updated_time"> 01:58 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/biden-russia-cyberattacks-00018942">Biden warns Russian cyberattacks 'coming'</a> Politico: The president tells companies to immediately harden defenses against potential Russian cyberattacks. 
- <p class="updated_time"> 01:53 PM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/science/russia-nuclear-ukraine.html">The Smaller Bombs That Could Turn Ukraine Into a Nuclear War Zone</a> NYT: Military experts say a new generation of nuclear weapons has raised the risk that Mr. Putin might introduce less destructive atomic arms into the battlefields in and around Ukraine. 
  <p class="updated_time"> 01:45 PM CT, Mar. 21 </p> 
  <a href="https://www.npr.org/2022/03/21/1087234024/ethics-advocates-say-senate-staffers-could-be-breaking-rules-on-stock-ownership">Ethics advocates say Senate staffers could be breaking rules on stock ownership</a> NPR: There is no ban on lawmakers trading stocks, but there is one for Senate committee aides overseeing industries before their panels. One review found five aides appear to be violating ethics rules. 
  <p class="updated_time"> 01:28 PM CT, Mar. 21 </p> 
