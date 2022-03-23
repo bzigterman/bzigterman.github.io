@@ -19,10 +19,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/world/europe/war-crimes-russia-us.html">The U.S. Government Accuses Russian Forces of War Crimes</a> NYT: In a statement, the U.S. secretary of state, Antony J. Blinken, cited the destruction of “apartment buildings, schools, hospitals, critical infrastructure, civilian vehicles, shopping centers, and ambulances.” 
  <p class="updated_time"> 03:58 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html">With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks</a> NYT: A new law requires companies to tell the federal government about hacks, but the Cybersecurity and Infrastructure Security Agency still has to work out the details of what must be reported. 
+ <p class="updated_time"> 03:56 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 03:53 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60855732?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian journalist Oksana Baulina killed in Kyiv shelling</a> BBC: Oksana Baulina died while filming destruction caused by Russian shelling in a Kyiv neighbourhood. 
- <p class="updated_time"> 03:43 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 03:23 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military Is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
  <p class="updated_time"> 03:23 PM CT, Mar. 23 </p> 
@@ -45,7 +45,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/23/1088331680/nato-and-g7-leaders-to-meet-in-brussels-to-discuss-the-war-in-ukraine">NATO and G7 leaders to meet in Brussels to discuss the war in Ukraine</a> NPR: Leaders of NATO and the G7 will hold an emergency summit in Brussels to talk about the war in Ukraine. But Ukrainian officials are hoping for more than speeches — they want weapons and sanctions. 
  <p class="updated_time"> 03:07 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088300310/brittney-griner-russia-update">A U.S. official in Russia is allowed to see detained WNBA star Brittney Griner</a> NPR: State Department spokesman Ned Price said consular officials were granted access to the basketball star on Wednesday. He added that she is in good condition. 
- <p class="updated_time"> 02:43 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 02:56 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 02:39 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/julian-assange-stella-moris-wedding.html">Julian Assange Marries Stella Moris in a British Prison</a> NYT: The wedding took place at Belmarsh Prison, where Mr. Assange has been held since 2019. Supporters of the couple were encouraged to attend a “solidarity vigil” outside the facility. 
@@ -56,9 +56,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:20 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088284715/u-s-officially-declares-that-russian-forces-have-committed-war-crimes-in-ukraine">U.S. officially declares that Russian forces have committed war crimes in Ukraine </a> NPR: "Based on information currently available, the U.S. government assesses that members of Russia's forces have committed war crimes in Ukraine," Secretary of State Antony Blinken said. 
  <p class="updated_time"> 01:56 PM CT, Mar. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-48401172?at_medium=RSS&at_campaign=KARANGA">Albright - a trailblazer for women on the world stage</a> BBC: Originally born in Czechoslovakia, Albright became a trailblazer for women on the world stage. 
- <p class="updated_time"> 01:43 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
+ <p class="updated_time"> 01:56 PM CT, Mar. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-48401172?at_medium=RSS&at_campaign=KARANGA">Albright - a trailblazer for women on the world stage</a> BBC: Originally born in Czechoslovakia, Albright became a trailblazer for women on the world stage. 
  <p class="updated_time"> 01:42 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/nato-troops-ukraine.html">NATO Doubles Troop Presence in Eastern Europe Ahead of Summit</a> NYT: The alliance’s secretary general announced the deployment of new battlegroups in Bulgaria, Hungary, Romania and Slovakia. NATO has four others in the region. 
  <p class="updated_time"> 01:39 PM CT, Mar. 23 </p> 
@@ -71,7 +71,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html">‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late</a> NYT: A growing chorus of young people is focusing on climate solutions. “‘It’s too late’ means ‘I don’t have to do anything, and the responsibility is off me.’” 
  <p class="updated_time"> 12:56 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60854858?at_medium=RSS&at_campaign=KARANGA">US tornadoes: What the storm aftermath in Louisiana and Texas looks like</a> BBC: Homes are left destroyed by storms that tore through southern states, including Louisiana and Texas. 
- <p class="updated_time"> 12:43 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 12:56 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 12:28 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/human-remains-found-at-china-eastern-airlines-plane-crash-site-11648024124">China Eastern Airlines Crash: One of Plane's Black Boxes Is Found</a> WSJ: Authorities said the device appears to be a cockpit voice recorder and sent it to Beijing for analysis. 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/us/politics/who-is-wesley-hawkins-republicans-zero-in-on-jacksons-sentencing-of-a-teen-in-a-child-sex-abuse-case.html">Who Is Wesley Hawkins? Republicans Zero In on Former Case in Jackson Hearings.</a> NYT: G.O.P. attacks have centered on a 2013 decision in portraying the judge as lenient on child sex abuse defendants. 
  <p class="updated_time"> 04:22 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/business/chinese-imports-tariffs.html">Biden Administration Will Reinstate Some Tariff Exclusions on Chinese Imports</a> NYT: The move comes after months of complaints by business groups that the Biden administration was not doing enough to alleviate financial pain from the Trump trade war. 
+ <p class="updated_time"> 04:20 PM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/biden-russia-ukraine-refugees-00019829">Here’s Biden’s plan to aid Ukrainian refugees and why advocates want more</a> Politico: The president is opening avenues for those displaced by war to enter the country. But he’s not considering any major evacuation efforts. 
  <p class="updated_time"> 04:02 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-supreme-court-confirmation-hearing-00019802">'It's bullshit': Dems reject that Jackson's soft on crime</a> Politico: The Supreme Court nominee's backers have high hopes for a bipartisan confirmation. But she doesn't need a single GOP vote to get confirmed. 
  <p class="updated_time"> 03:58 PM CT, Mar. 23 </p> 
@@ -243,7 +245,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:17 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/trump-mo-brooks-senate.html">Trump Rescinds Endorsement of Mo Brooks for Senate in Alabama</a> NYT: Mr. Brooks, a staunch ally of the former president, has been falling behind in the state’s Republican primary and struggled to raise money. 
  <p class="updated_time"> 12:10 PM CT, Mar. 23 </p> 
- <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-confirmation-hearings-day-3-top-moments-00019637">'Would you let her respond?' Graham cuts off Jackson, plus other top hearing moments</a> Politico: Republican committee members have reprised their lines of attack against Jackson. 
+ <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-confirmation-hearings-day-3-top-moments-00019637">Leahy zings Ted Cruz, plus other top hearing moments</a> Politico: Republican committee members have reprised their lines of attack against Jackson. 
  <p class="updated_time"> 12:04 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/supreme-court-nominee-jackson-day-3-hearings-00019643">Jackson reveals recusal plans from Harvard affirmative action case</a> Politico: President Joe Biden's Supreme Court nominee also defended her record on sex offense sentencing and Guantanamo Bay detainees in occasionally sharp exchanges with GOP senators during her hearings. 
  <p class="updated_time"> 12:01 PM CT, Mar. 23 </p> 
@@ -295,11 +297,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/republicans-supreme-court-confirmation-hearing-00019458">GOP's 2024 contenders leap into Supreme Court spotlight</a> Politico: A quartet of Republican presidential hopefuls aren't afraid to use their Judiciary Committee lecterns to audition for presidential runs. 
  <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
- <a href="https://www.politico.com/news/2022/03/23/russia-ukraine-cyberwar-putin-00019440">The world holds its breath for Putin's cyberwar</a> Politico: Moscow’s slowness to unleash its cyber might against Ukraine has scrambled long-held assumptions about the future of warfare — even as warnings grow that attacks are imminent. 
- <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
- <a href="https://www.politico.com/news/2022/03/23/psychedelics-magic-mushrooms-cannabis-legalization-00016995">How 'magic mushrooms' could follow in the footsteps of cannabis</a> Politico: A growing number of states are considering bills to expand research or access to the drugs. 
- <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/agenda/2022/03/23/bidencare-unfinished-agenda-obamacare-campaign-00019272">Joe Biden’s Never-Ending Campaign to Build on Obamacare</a> Politico: Blame the pandemic, Joe Manchin or monopolists. But the president’s ambitious health care plans are faltering. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/russia-ukraine-cyberwar-putin-00019440">The world holds its breath for Putin's cyberwar</a> Politico: Moscow’s slowness to unleash its cyber might against Ukraine has scrambled long-held assumptions about the future of warfare — even as warnings grow that attacks are imminent. 
  <p class="updated_time"> 11:01 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-confirmation-hearing-day-3.html">What to Watch For on Day 3 of Jackson’s Confirmation Hearing</a> NYT: Senators will get their final shot at questioning the Supreme Court nominee, but it is unclear whether any new ground will be broken. 
  <p class="updated_time"> 09:38 PM CT, Mar. 22 </p> 
@@ -316,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/us/politics/911-families-taliban-funds.html">Rival Sept. 11 Victims Near Potential Deal to Divide Afghan Central Bank Assets</a> NYT: But another group opposes it. A court has not yet decided whether $3.5 billion in Afghan central bank funds can be used to pay Taliban debts. 
  <p class="updated_time"> 06:38 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-brown-jackson-race.html">Judging a Judge on Race and Crime, G.O.P. Plays to Base and Fringe</a> NYT: Grilling Ketanji Brown Jackson, the first Black woman nominated to the Supreme Court, conservative senators painted her as a jurist who had coddled criminals and embraced “woke” education. 
- <p class="updated_time"> 06:35 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/hillary-clinton-tests-positive-for-covid-00019491">Hillary Clinton tests positive for Covid</a> Politico: The onetime Democratic presidential nominee reported mild symptoms and said former President Bill Clinton “tested negative and is feeling fine.” 
  <p class="updated_time"> 06:03 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/hawley-jackson-child-pornography-sentencing-record-00019481">Hawley presses Jackson on child pornography sentencing record</a> Politico: "My only point to you is that judges are doing the work of assessing in each case a number of factors that are set forward by Congress," Jackson said. 
  <p class="updated_time"> 06:01 PM CT, Mar. 22 </p> 
@@ -334,10 +332,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/22/1087967982/judge-ketanji-brown-jackson-confirmation-hearings-what-happened-on-tuesday">Judge Ketanji Brown Jackson confirmation hearings: What happened Tuesday </a> NPR: Judge Jackson defended her record of sentences she handed down in child pornography cases after several Republican senators alleged she was soft on crime. 
  <p class="updated_time"> 03:37 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/ketanji-brown-jackson-confirmation-hearing-00019408">Coons: Jackson understands why jurists' robes are 'not red or blue’</a> Politico: Like several of the Democrats preceding him, Coons used much of the half-hour allocated to him to allow Jackson to rebut prior GOP talking points. 
- <p class="updated_time"> 01:57 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/russia-hypersonic-missiles-low-stockpile-00019358">Russia launched hypersonic missiles due to a low stockpile, sources say</a> Politico: The leading theory in Western assessments of the hypersonic missiles attack is that Russia's number of precision-guided munitions are dwindling fast. 
  <p class="updated_time"> 01:12 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/markwayne-mullin-senate-campaign-00019112">Markwayne Mullin takes his latest risk: A Senate bid</a> Politico: The Oklahoma Republican is a former mixed martial arts fighter with a habit of running toward danger — whether or not it's good for his political career. 
+ <p class="updated_time"> 01:00 PM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/news/2022/03/22/biden-infrastructure-spending-not-his-call-00015841">Biden wants to spend infrastructure billions on climate and equity initiatives. But it’s not his call.</a> Politico: Biden’s inability to control how a large portion of the infrastructure money gets spent is largely due to legal constraints. 
  <p class="updated_time"> 11:01 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/lindsey-graham-kbj-faith-questioning-00019224">Graham vents Barrett faith grievances in Jackson questioning</a> Politico: Justice Amy Coney Barrett faced questions at her 2020 Supreme Court confirmation hearing about how her faith might inform how she would rule from the bench. 
  <p class="updated_time"> 10:05 AM CT, Mar. 22 </p> 
@@ -346,6 +344,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/22/dark-money-porn-gitmo-questions-for-kbj-00019153">Dark money, porn, Gitmo: Questions for KBJ</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/22/friction-between-harris-and-biden-camps-revealed-in-new-book-00019145"> Friction between Harris and Biden camps revealed in new book</a> Politico Playbook: And few Americans oppose Ketanji Brown Jackson’s nomination. 
+ <p class="updated_time"> 01:58 PM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/biden-russia-cyberattacks-00018942">Biden warns Russian cyberattacks 'coming'</a> Politico: The president tells companies to immediately harden defenses against potential Russian cyberattacks. 
  <p class="updated_time"> 11:02 AM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/biden-europe-russian-gas-00018189">Why Biden can't help Europe rid itself of Russian gas</a> Politico: "Governments don’t make deals," said the director of Tufts University's Climate Policy Lab. 
  <p class="updated_time"> 06:18 AM CT, Mar. 21 </p> 
