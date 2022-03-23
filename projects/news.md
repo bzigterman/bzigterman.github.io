@@ -9,25 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Mar. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60847188?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukrainian fightback gains ground west of Kyiv</a> BBC: Authorities in the town of Makariv, near the capital, say Ukrainian flags are flying there again. 
+ <p class="updated_time"> 06:14 AM CT, Mar. 23 </p> 
+ <a href="https://www.npr.org/2022/03/23/1088172421/parents-of-killed-photojournalist-danish-siddiqui-seek-action-against-taliban">Family of killed photojournalist Danish Siddiqui take Taliban leaders to ICC</a> NPR: The family of Pulitzer Prize-winning photojournalist Danish Siddiqui, killed during a Taliban attack in Afghanistan last year, are seeking legal action at the International Criminal Court 
  <p class="updated_time"> 06:08 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">What Happened on Day 27 of Russia’s Invasion of Ukraine</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. 
  <p class="updated_time"> 05:58 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/zelensky-japan-parliament-speech.html">Zelensky Addresses Japan’s Parliament, Invoking Memories of Fukushima</a> NYT: President Volodymyr Zelensky said that Russia’s invasion could set off a nuclear catastrophe in Chernobyl and warned that Russia could use chemical weapons like the one used in a 1995 attack in Tokyo. 
- <p class="updated_time"> 05:58 AM CT, Mar. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60847188?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukrainian fightback gains ground west of Kyiv</a> BBC: Authorities in the town of Makariv, near the capital, say Ukrainian flags are flying there again. 
  <p class="updated_time"> 05:33 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
  <p class="updated_time"> 05:30 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/afghanistan-girls-schools-taliban.html">Taliban Renege on Promise to Open Afghan Girls’ Schools</a> NYT: The reversal of the plan to reopen high schools this week could threaten aid at a critical time, as international officials had made girls’ education a condition for greater assistance. 
  <p class="updated_time"> 05:27 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60848142?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'Pets are getting left at train stations'</a> BBC: A photographer from the UK travels to western Ukraine to rescue pets displaced by war. 
- <p class="updated_time"> 05:13 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 05:27 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 05:03 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60792827?at_medium=RSS&at_campaign=KARANGA">China plane crash: Search teams find flight's black box</a> BBC: Crews had struggled against rain and flooded terrain to find key clues to the plane’s sudden fall. 
  <p class="updated_time"> 04:35 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60845540?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban backtrack on reopening high schools for girls</a> BBC: Girls' high schools were ordered shut hours after they re-opened, sparking anger and frustration. 
- <p class="updated_time"> 04:13 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 04:27 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say 
  <p class="updated_time"> 04:08 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-cellist-bach-kharkiv.html">Ukrainian Cellist Plays Bach in the Ruins of His Hometown, Kharkiv</a> NYT: Denys Karachevtsev said on social media that he hoped his performance would bring aid and attention for Kharkiv, Ukraine’s second largest city, which has been heavily bombarded. 
@@ -41,13 +43,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html">Russia and Far-Right Americans Find Common Ground With Ukraine War</a> NYT: Some conservatives have echoed the Kremlin’s misleading claims about the war and vice versa, giving each other’s assertions a sheen of credibility. 
  <p class="updated_time"> 04:00 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/climate/europe-russia-gas-reagan.html">How Europe Got Hooked on Russian Gas Despite Reagan’s Warnings</a> NYT: A Soviet-era pipeline, opposed by the president but supported by the oil and gas industry, set up the dependency that today helps fund the Russian assault on Ukraine. 
+ <p class="updated_time"> 03:27 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 03:15 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088167278/protesters-in-jamaica-spurn-british-royals-ahead-of-official-visit">Protesters in Jamaica spurn British royals ahead of official visit</a> NPR: The protest comes a couple of days after dozens of prominent leaders in Jamaica publicized a letter demanding that Britain apologize and award its former colony slavery reparations. 
- <p class="updated_time"> 03:13 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 02:52 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088169464/ash-barty-announces-surprise-retirement-from-tennis">Ash Barty announces surprise retirement from tennis</a> NPR: The world No. 1 women's tennis player, has retired at just 25, only two months after winning the Australian open, saying she wants to pursue other dreams 
- <p class="updated_time"> 02:13 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 02:27 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 02:01 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/nepal-gurkha-veteran-protests.html">Gurkha Veterans Fight a Colonial-Era Legacy Still Shaping Nepal</a> NYT: Nepal’s best and brightest have been recruited while young to fight for Britain for over 200 years, with their pay and pensions a fraction of their fellow British soldiers’ for much of that time. 
@@ -57,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60843262?at_medium=RSS&at_campaign=KARANGA">Evan Neumann: US Capitol riot suspect gets asylum in Belarus</a> BBC: Evan Neumann fled to Europe after being charged in connection with the 6 January riot. 
  <p class="updated_time"> 01:39 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/putin-russia-military-planning.html">As Russia Stalls in Ukraine, Dissent Brews Over Putin’s Leadership</a> NYT: Military losses have mounted, progress has slowed, and a blame game has begun among some Russian supporters of the war. 
- <p class="updated_time"> 01:13 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 01:27 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 12:42 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60843582?at_medium=RSS&at_campaign=KARANGA">New Orleans: One killed as tornado tears through suburbs</a> BBC: A huge funnel cloud passes through neighbourhoods, ripping off roofs and cutting out power. 
@@ -139,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-ukraine-russia-diplomacy.html">China Takes a Back Seat in International Diplomacy Over Ukraine</a> NYT: Despite its economic and military might and close ties to Russia, China has balked at trying to press Vladimir Putin to stop the fighting. 
  <p class="updated_time"> 11:59 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60840081?at_medium=RSS&at_campaign=KARANGA">Ukraine: The small town which managed to block Russia's big plans</a> BBC: The mayor of Voznesensk hails the "fighting spirit" of local people who drove Russian troops back. 
- <p class="updated_time"> 11:32 AM CT, Mar. 22 </p> 
- <a href="https://www.npr.org/2022/03/22/1088055416/ukraine-boxer-lomachenko-skips-fight">A top Ukrainian boxer is choosing his country over an upcoming title fight</a> NPR: Before Russia attacked Ukraine, Vasiliy Lomachenko had agreed to face off against lightweight champion George Kambosos Jr. in June. Now he plans to stay and defend his country. 
  <p class="updated_time"> 11:02 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/attack-in-israel-leaves-four-dead-11647975859">Suspected Terrorist Attack in Israel Leaves Four Dead</a> WSJ: In one of deadliest assaults against Israelis in recent years, an Arab Bedouin stabbed several people and rammed his car into a cyclist. 
  <p class="updated_time"> 10:49 AM CT, Mar. 22 </p> 
@@ -350,6 +350,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/22/dark-money-porn-gitmo-questions-for-kbj-00019153">Dark money, porn, Gitmo: Questions for KBJ</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/22/friction-between-harris-and-biden-camps-revealed-in-new-book-00019145"> Friction between Harris and Biden camps revealed in new book</a> Politico Playbook: And few Americans oppose Ketanji Brown Jackson’s nomination. 
+ <p class="updated_time"> 04:56 AM CT, Mar. 22 </p> 
+ <a href="https://www.cnn.com/2022/03/22/politics/analysis-biden-warning-putin-cyberattack-us/index.html">Putin's next escalation could be a direct cyberattack on the US </a> CNN: The most troubling takeaway from President Joe Biden's warning that there is "evolving intelligence" that Russia is exploring options for cyberattacks is that US spy agencies have been spot on so far in predicting Vladimir Putin's moves. 
  <p class="updated_time"> 04:00 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/magazine/tucker-carlson-politician.html">The Rise of the Tucker Carlson Politician</a> NYT: Two Republican Senate candidates field-test a new message honed in the cable-news studio. 
  <p class="updated_time"> 03:31 AM CT, Mar. 22 </p> 
@@ -360,8 +362,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/21/greitens-allegations-missouri-senate-00019076">Greitens allegations spark GOP fears of losing Missouri Senate seat</a> Politico: The disgraced former governor is not expected to exit the race anytime soon. 
  <p class="updated_time"> 06:02 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/russia-trade-sanctions-senate-hurdle-00019066">Senate labors to give Biden another win on Ukraine</a> Politico: The House voted overwhelmingly for a measure designed to help Ukraine. But the upper-chamber GOP wants an oil import ban addressed too. 
- <p class="updated_time"> 04:39 PM CT, Mar. 21 </p> 
- <a href="https://www.cnn.com/2022/03/21/politics/putin-war-criminal-ukraine-russia-what-matters/index.html">Calling Putin a war criminal is a bigger deal than you think</a> CNN: Airstrikes on an art school and a maternity hospital. Residential apartment buildings taking fire from tanks. More than 900 civilians killed in a matter of weeks. 
  <p class="updated_time"> 01:58 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/biden-russia-cyberattacks-00018942">Biden warns Russian cyberattacks 'coming'</a> Politico: The president tells companies to immediately harden defenses against potential Russian cyberattacks. 
  <p class="updated_time"> 11:02 AM CT, Mar. 21 </p> 
