@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">Live Updates: NATO Bolsters Presence in East, as Biden Is Poised to Increase Pressure on Russia</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. NATO says it is doubling the number of battlegroups on its eastern flank. 
+ <p class="updated_time"> 02:28 PM CT, Mar. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60855139?at_medium=RSS&at_campaign=KARANGA">Madeleine Albright: First female US secretary of state dies</a> BBC: Tributes are being paid to the Czech immigrant who became the first woman to hold the top post in US diplomacy. 
  <p class="updated_time"> 02:25 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60853052?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Nato to send more troops to eastern Europe</a> BBC: New combat units will be deployed in response to Russia's invasion of Ukraine, says the alliance's head. 
  <p class="updated_time"> 02:24 PM CT, Mar. 23 </p> 
@@ -17,18 +21,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/23/1088284715/u-s-officially-declares-that-russian-forces-have-committed-war-crimes-in-ukraine">U.S. officially declares that Russian forces have committed war crimes in Ukraine </a> NPR: "Based on information currently available, the U.S. government assesses that members of Russia's forces have committed war crimes in Ukraine," Secretary of State Antony Blinken said. 
  <p class="updated_time"> 02:18 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/julian-assange-stella-moris-wedding.html">Julian Assange Marries Stella Moris in a British Prison</a> NYT: The wedding took place at Belmarsh Prison, where Mr. Assange has been held since 2019. Supporters of the couple were encouraged to attend a “solidarity vigil” outside the facility. 
- <p class="updated_time"> 02:14 PM CT, Mar. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60855139?at_medium=RSS&at_campaign=KARANGA">Madeleine Albright: First female US secretary of state dies</a> BBC: A Czech immigrant who became the first woman to hold the top post in US diplomacy was hailed a trailblazer. 
- <p class="updated_time"> 02:12 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">Live Updates: NATO Bolsters Presence in East, as Biden Is Poised to Increase Pressure on Russia</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. NATO says it is doubling the number of battlegroups on its eastern flank. 
  <p class="updated_time"> 01:56 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-48401172?at_medium=RSS&at_campaign=KARANGA">Albright - a trailblazer for women on the world stage</a> BBC: Originally born in Czechoslovakia, Albright became a trailblazer for women on the world stage. 
  <p class="updated_time"> 01:42 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/nato-troops-ukraine.html">NATO Doubles Troop Presence in Eastern Europe Ahead of Summit</a> NYT: The alliance’s secretary general announced the deployment of new battlegroups in Bulgaria, Hungary, Romania and Slovakia. NATO has four others in the region. 
+ <p class="updated_time"> 01:40 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Heads to Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Heads to Europe 
  <p class="updated_time"> 01:39 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/anne-frank-informant-ambo-anthos.html">Dutch Publisher of ‘The Betrayal of Anne Frank’ Halts Publication</a> NYT: The move came after five historians called into question the findings of the book, in which a “cold case” team sought to answer a long-running mystery. 
- <p class="updated_time"> 01:28 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Heads to Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Heads to Europe 
  <p class="updated_time"> 01:23 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html">Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia</a> NYT: The Eastern European countries had sought to buy Pegasus, spyware made by an Israeli firm, to carry out intelligence operations against Russia, according to people with knowledge of the discussions. 
  <p class="updated_time"> 01:15 PM CT, Mar. 23 </p> 
@@ -37,7 +37,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html">‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late</a> NYT: A growing chorus of young people is focusing on climate solutions. “‘It’s too late’ means ‘I don’t have to do anything, and the responsibility is off me.’” 
  <p class="updated_time"> 12:56 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60854858?at_medium=RSS&at_campaign=KARANGA">US tornadoes: What the storm aftermath in Louisiana and Texas looks like</a> BBC: Homes are left destroyed by storms that tore through southern states, including Louisiana and Texas. 
- <p class="updated_time"> 12:28 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 12:40 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 12:27 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60853542?at_medium=RSS&at_campaign=KARANGA">Federico Aramburu: Suspect in ex-rugby star's murder held at Ukraine border</a> BBC: Loïk Le Priol, a former soldier, is suspected of shooting Federico Aramburu in Paris on Saturday. 
@@ -53,24 +53,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/basketball/60853943?at_medium=RSS&at_campaign=KARANGA">Detained basketball star Griner in 'good condition'</a> BBC: WNBA star Brittney Griner is said to be in "good condition" after being detained in Russia on drug charges. 
  <p class="updated_time"> 11:47 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/covid-restrictions-china.html">In Asia, Coronavirus Rules Fall Away, With a Big Caveat</a> NYT: Daily life in the region was once regulated by a snarl of virus restrictions. That is changing fast — except in mainland China, which is still rolling out lockdowns. 
+ <p class="updated_time"> 11:40 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-president-asked-biden-not-to-sanction-abramovich-to-facilitate-peace-talks-11648053860">Ukrainian President Asked Biden Not to Sanction Abramovich</a> WSJ: Ukrainian President Asked Biden Not to Sanction Abramovich 
  <p class="updated_time"> 11:35 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/russian-oligarchs-ukraine.html">Could a Crackdown on Kleptocrats Help Ukraine?</a> NYT: Russian oligarchs helped boost Vladimir V. Putin’s influence in the West. Can sanctions turn that pressure back on him? 
  <p class="updated_time"> 11:34 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/evan-neumann-capitol-riot-belarus.html">Evan Neumann, Accused in Capitol Riot, Granted Asylum in Belarus</a> NYT: Evan Neumann, who is wanted by the F.B.I. on charges including assaulting police officers at the Jan. 6 riot in Washington, has been granted asylum in Belarus, officials told state media. 
  <p class="updated_time"> 11:34 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
- <p class="updated_time"> 11:28 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-president-asked-biden-not-to-sanction-abramovich-to-facilitate-peace-talks-11648053860">Ukrainian President Asked Biden Not to Sanction Abramovich</a> WSJ: Ukrainian President Asked Biden Not to Sanction Abramovich 
  <p class="updated_time"> 11:18 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60849918?at_medium=RSS&at_campaign=KARANGA">Russian veteran reformer Chubais quits job as Putin envoy</a> BBC: Anatoly Chubais, who was a special international envoy of the president, is said to have left Russia. 
  <p class="updated_time"> 10:57 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088210977/russian-oligarch-yacht-turkey">Ukrainian sailors tried to block a Russian oligarch's yacht from docking in Turkey</a> NPR: Two superyachts linked to Roman Abramovich have docked in the sanction-free waters of Turkey this week. One of them was met at the dock by a Ukrainian youth sailing team protesting the war. 
  <p class="updated_time"> 10:54 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/60853082?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty retires: Her time at the top was too short for tennis - but not for her</a> BBC: BBC tennis correspondent Russell Fuller looks at the world number one's shock decision to retire. 
+ <p class="updated_time"> 10:40 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 10:39 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60850780?at_medium=RSS&at_campaign=KARANGA">Ash Barty: Australians react to world tennis number one's shock retirement</a> BBC: The BBC hears from tennis players in Brisbane, where world number one Ashleigh Barty regular trained. 
- <p class="updated_time"> 10:28 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 10:23 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088205226/evan-neumann-jan-6-insurrection-suspect-refugee-belarus-asylum">A Jan. 6 Capitol riot suspect wanted by the FBI was granted refugee status in Belarus</a> NPR: Evan Neumann is under federal indictment in the U.S. for more than a dozen charges linked to last year's Capitol insurrection. Russian ally Belarus has granted him asylum and protection indefinitely. 
  <p class="updated_time"> 10:18 AM CT, Mar. 23 </p> 
@@ -89,8 +89,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/world/asia/afghanistan-girls-schools-taliban.html">Taliban Renege on Promise to Open Afghan Girls’ Schools</a> NYT: The schools were supposed to reopen this week, and the reversal could threaten aid because international officials had made girls’ education a condition for greater assistance. 
  <p class="updated_time"> 09:41 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/middleeast/egypt-israel-united-arab-emirates-summit.html">Leaders of Israel, U.A.E. and Egypt Meet Amid Shifting Geopolitics</a> NYT: All three countries are navigating fraught relationships with the Biden administration amid the quickly changing geopolitical landscape precipitated by Russia’s war on Ukraine. 
- <p class="updated_time"> 09:36 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/human-remains-found-at-china-eastern-airlines-plane-crash-site-11648024124">China Eastern Airlines Crash: One of Plane's Black Boxes Is Found</a> WSJ: Authorities said the device appears to be a cockpit voice recorder and sent it to Beijing for analysis. 
+ <p class="updated_time"> 09:40 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/human-remains-found-at-china-eastern-airlines-plane-crash-site-11648024124">China Eastern Airlines Crash: One of Plane’s Black Boxes Is Found</a> WSJ: China Eastern Airlines Crash: One of Plane’s Black Boxes Is Found 
  <p class="updated_time"> 09:29 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-nuclear-weapons-cnn.html">Kremlin Spokesman Says Russia Could Use Nuclear Weapons if There Is ‘An Existential Threat’</a> NYT: The spokesman, Dmitri S. Peskov, made the comment after describing Ukraine, the neighboring country Russia invaded a month ago, as having been created by anti-Russian Western powers. 
  <p class="updated_time"> 09:26 AM CT, Mar. 23 </p> 
