@@ -9,22 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:23 PM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: The world number one - aged only 25 - says she will retire with "lifelong memories". 
- <p class="updated_time"> 09:11 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Continues Bombardment, but Its Forces Have Shrunk, Pentagon Says</a> NYT: President Biden heads to Europe this week and will press allies for even more aggressive economic sanctions on Russia. Aleksei A. Navalny, the Russian dissident, was sentenced to nine years in prison. Ukrainians said they had recaptured the strategic town of Makariv, west of Kyiv. 
+ <p class="updated_time"> 11:12 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Ukraine Live Updates: Russia Continues Bombardment, but Its Forces Have Shrunk, Pentagon Says</a> NYT: President Biden heads to Europe this week and will press allies for even more aggressive economic sanctions on Russia. Aleksei A. Navalny, the Russian dissident, was sentenced to nine years in prison. Ukrainians said they had recaptured the town of Makariv, west of Kyiv. 
+ <p class="updated_time"> 11:05 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/world/australia/brian-houston-hillsong-resign.html">Hillsong’s Brian Houston Resigns Amid Scandals</a> NYT: Brian Houston was accused of breaching the church’s code of conduct after two women said he had behaved inappropriately. 
+ <p class="updated_time"> 10:51 PM CT, Mar. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
+ <p class="updated_time"> 10:30 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
+ <p class="updated_time"> 10:18 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/world/europe/ukrainians-fight-russian-invasion.html">Ukrainians Try to Push Back Russian Forces Pummeling Their Cities</a> NYT: Desperate fighting has shifted the front lines but neither side seems to have a decisive upper hand as Ukraine’s suffering deepens. 
+ <p class="updated_time"> 09:55 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
+ <p class="updated_time"> 09:30 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 08:55 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60843577?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal book pulled after findings discredited</a> BBC: The book claimed to have discovered who betrayed Anne Frank and her family to the Nazis. 
- <p class="updated_time"> 08:46 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
- <p class="updated_time"> 08:33 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/europe/ukrainians-fight-russian-invasion.html">Ukrainians Try to Push Back Russian Forces Pummeling Their Cities</a> NYT: Desperate fighting has shifted the front lines but neither side seems to have a decisive upper hand as Ukraine’s suffering deepens. 
- <p class="updated_time"> 07:46 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
+ <p class="updated_time"> 08:30 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19 
  <p class="updated_time"> 07:39 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 07:32 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60806156?at_medium=RSS&at_campaign=KARANGA">A month in Ukraine: 'All normal life is gone'</a> BBC: The BBC's Sarah Rainsford travelled around Ukraine as the war started and lives were shattered. 
+ <p class="updated_time"> 07:30 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 07:30 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60825768?at_medium=RSS&at_campaign=KARANGA">Uganda's Batwa people: Evicted from a forest to help save gorillas</a> BBC: The struggle of Uganda's Batwa people three decades after they were forced from their ancestral home. 
  <p class="updated_time"> 07:18 PM CT, Mar. 22 </p> 
@@ -37,16 +45,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60843262?at_medium=RSS&at_campaign=KARANGA">Evan Neumann: US Capitol riot suspect gets asylum in Belarus</a> BBC: Evan Neumann fled to Europe after being charged in connection with the 6 January riot. 
  <p class="updated_time"> 07:02 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-boeing-crash.html">No Survivors Found in China Eastern Plan Crash, Officials Say</a> NYT: Workers recovered identity cards, cellphones and purses from the crash site. But the plane’s steep plunge suggested there was a “minuscule” chance of any survivors, an expert said. 
- <p class="updated_time"> 06:46 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Ukraine War’s Spillover Swamps Poor Countries Still Reeling From Covid-19 
  <p class="updated_time"> 06:40 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/russia-china-global-economy.html">Ukraine War and Pandemic Force Nations to Retreat From Globalization</a> NYT: Conflicts among the U.S., Russia and China — and endless Covid-19 outbreaks — strain the interdependent economy and Western ideas of post-Cold War stability. 
  <p class="updated_time"> 06:36 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/yvan-colonna-dead.html">Yvan Colonna, Corsican Jailed for French Prefect’s Murder, Dies at 61</a> NYT: A folk hero for Corsica’s nationalist movement, he evaded a long manhunt but was finally arrested in 2003. He died shortly after being brutally attacked in prison. 
+ <p class="updated_time"> 06:30 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
+ <p class="updated_time"> 06:21 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: The Biden administration is preparing sanctions on most members of Russia’s State Duma, the lower house of parliament, as the U.S. continues its crackdown on Moscow over its ongoing war against Ukraine. 
  <p class="updated_time"> 05:53 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/swimming/60842863?at_medium=RSS&at_campaign=KARANGA">Florida governor rejects transgender swimmer's win</a> BBC: Florida governor Ron DeSantis signs a proclamation recognising runner-up Emma Weyant as the winner of the highest US national college swimming title. 
- <p class="updated_time"> 05:46 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 05:25 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-navalny-prison.html">Aleksei Navalny Found Guilty of Fraud by Russian Court</a> NYT: Despite already being behind bars, Mr. Navalny has been urging Russians to protest the war in Ukraine, making him even more of a liability for President Vladimir V. Putin. 
  <p class="updated_time"> 05:12 PM CT, Mar. 22 </p> 
@@ -57,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Putin critic given nine-year jail sentence in trial branded 'sham'</a> BBC: Alexei Navalny will be sent to a "strict regime" colony after a judge jailed him for nine more years. 
  <p class="updated_time"> 04:58 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/putin-russia-military-planning.html">As Russia Stalls in Ukraine, Dissent Brews Over Putin’s Leadership</a> NYT: Military losses have mounted, progress has slowed, and a blame game has begun among some Russian supporters of the war. 
- <p class="updated_time"> 04:46 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 04:39 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088126698/beersheba-israelis-stabbed-attack">A knife-wielding man killed 4 Israelis in Beersheba, police say </a> NPR: Police said the attacker careened his car into a cyclist and stabbed five people in the city center. Amateur video appeared to show armed bystanders shooting and killing the attacker at the scene. 
  <p class="updated_time"> 04:03 PM CT, Mar. 22 </p> 
@@ -103,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60840081?at_medium=RSS&at_campaign=KARANGA">Ukraine: The small town which managed to block Russia's big plans</a> BBC: The mayor of Voznesensk hails the "fighting spirit" of local people who drove Russian troops back. 
  <p class="updated_time"> 11:32 AM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088055416/ukraine-boxer-lomachenko-skips-fight">A top Ukrainian boxer is choosing his country over an upcoming title fight</a> NPR: Before Russia attacked Ukraine, Vasiliy Lomachenko had agreed to face off against lightweight champion George Kambosos Jr. in June. Now he plans to stay and defend his country. 
- <p class="updated_time"> 11:03 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
  <p class="updated_time"> 11:02 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/attack-in-israel-leaves-four-dead-11647975859">Suspected Terrorist Attack in Israel Leaves Four Dead</a> WSJ: In one of deadliest assaults against Israelis in recent years, an Arab Bedouin stabbed several people and rammed his car into a cyclist. 
  <p class="updated_time"> 10:49 AM CT, Mar. 22 </p> 
@@ -203,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60819030?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Kyiv shopping centre hit by Russian missile</a> BBC: A nearby camera captured the moment the shopping centre in Kyiv was struck by a missile. 
  <p class="updated_time"> 04:00 AM CT, Mar. 21 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/ukraine-lviv-war.html">How Lviv Has Been Transformed by War</a> NYT: Simple rituals, like having coffee in a cafe in Lviv, Ukraine, take on a new and sometimes surreal meaning in a radically altered context. 
- <p class="updated_time"> 02:00 AM CT, Mar. 21 </p> 
- <a href="https://www.nytimes.com/2022/03/21/world/asia/japan-red-crowned-cranes.html">Japan Saved Red-Crowned Cranes. Can They Survive Without Humans?</a> NYT: Conservators vastly increased the numbers of red-crowned cranes, a symbol of loyalty and longevity in Japanese culture. That’s just a start. 
 
 
 </details>
@@ -212,6 +214,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:01 PM CT, Mar. 22 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-confirmation-hearing-day-3.html">What to Watch For on Day 3 of Jackson’s Confirmation Hearing</a> NYT: Senators will get their final shot at questioning the Supreme Court nominee, but it is unclear whether any new ground will be broken. 
+ <p class="updated_time"> 11:00 PM CT, Mar. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:38 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/blackburn-jackson-define-the-word-woman-00019543">Blackburn to Jackson: Can you define ‘the word woman’?</a> Politico: The Tennessee Republican’s line of questioning hit on nearly every political hot-button issue. 
  <p class="updated_time"> 09:37 PM CT, Mar. 22 </p> 
@@ -220,8 +226,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/ketanji-brown-jackson-senate-hearing-day-2-takeaways-analysis-00019538">5 takeaways from Ketanji Brown Jackson's Supreme Court hearing</a> Politico: GOP senators launch salvos on "critical race theory," criminal sentencing and representing Guantanamo inmates. 
  <p class="updated_time"> 08:21 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/project-veritas-emails.html">Project Veritas Says Justice Dept. Secretly Seized Its Emails</a> NYT: In a court filing, the conservative group assailed prosecutors for concealing the action in a proceeding from the investigation of how it acquired Ashley Biden’s diary. 
- <p class="updated_time"> 08:20 PM CT, Mar. 22 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:13 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/business/media/disney-florida-employee-protests.html">Disney Employees Walk Out Amid Furor Over Florida Anti-LGBTQ Bill</a> NYT: Hoping to avoid controversy, the company initially shied away from taking a public stance on the anti-L.G.B.T.Q. bill. Now, an internal outcry has stretched into its third week. 
  <p class="updated_time"> 07:47 PM CT, Mar. 22 </p> 
@@ -235,7 +239,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:22 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/victor-fazio-dead.html">Victor Fazio, Longtime Democratic Leader in the House, Dies at 79</a> NYT: Known for his ability to work across the aisle, he represented the Sacramento area from 1979 to 1999 and rose to become chairman of the House Democratic caucus. 
  <p class="updated_time"> 07:05 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/florida-lgbtq-dems-disney-fundraiser-00019494">Florida Dems back down after LGBTQ caucus threatens boycott of annual gala amid Disney dust-up</a> Politico: LGBTQ supporters and company employees have criticized Disney for not taking an early stance against a “Parental Rights in Education” bill — dubbed the “Don’t Say Gay” measure by opponents — recently passed by the Florida Legislature. 
+ <a href="https://www.politico.com/news/2022/03/22/florida-lgbtq-dems-disney-fundraiser-00019494">Florida Dems back down after LGBTQ caucus threatens boycott of annual gala amid Disney dust-up</a> Politico: LGBTQ supporters and company employees have criticized Disney for not taking an early stance against a “Parental Rights in Education” bill — dubbed the “Don’t Say Gay” measure by opponents. 
  <p class="updated_time"> 06:40 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/russia-china-global-economy.html">Ukraine War and Pandemic Force Nations to Retreat From Globalization</a> NYT: Conflicts among the U.S., Russia and China — and endless Covid-19 outbreaks — strain the interdependent economy and Western ideas of post-Cold War stability. 
  <p class="updated_time"> 06:40 PM CT, Mar. 22 </p> 
@@ -318,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-jackson-hearing-election-republicans.html">G.O.P. Questions to Judge Jackson Give Preview of November Attack Lines</a> NYT: G.O.P. senators are pressing Judge Jackson on critical race theory and transgender rights, teeing up their attacks on Democrats as extremists. 
  <p class="updated_time"> 09:19 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/us/politics/blackburn-jackson.html"> Blackburn Miscasts Jackson’s Views and Record</a> NYT: Senator Marsha Blackburn took quotes out of context as she levied a blistering attack against Judge Ketanji Brown Jackson. 
- <p class="updated_time"> 08:39 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/21/us/politics/ketanji-brown-jackson-confirmation-hearings.html">Jackson Vows to Be Independent on Supreme Court if Confirmed</a> NYT: On the first day of Judge Ketanji Brown Jackson’s confirmation hearings, Republican senators began previewing attack lines accusing her of being soft on crime. 
  <p class="updated_time"> 06:54 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-brown-jackson-confirmation-hearing-day-2.html">What to Watch For on Day 2 of Jackson’s Confirmation Hearing</a> NYT: Judge Ketanji Brown Jackson will answer her first questions from senators on Tuesday. 
  <p class="updated_time"> 06:33 AM CT, Mar. 22 </p> 
