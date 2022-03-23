@@ -9,21 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:10 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 06:36 PM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/us/politics/biden-russia-nuclear-weapons.html">U.S. Makes Contingency Plans in Case Russia Uses Its Most Powerful Weapons</a> NYT: A team of national security officials has been assigned to sketch out responses if President Vladimir V. Putin unleashes chemical, biological or nuclear weapons. 
+ <p class="updated_time"> 06:36 PM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/world/europe/brittney-griner-russia.html">U.S. Officials Meet With Brittney Griner in Russia</a> NYT: Some former hostages question whether the family should remain silent, saying pressure campaigns can work. 
+ <p class="updated_time"> 06:32 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">Live Updates: Biden Arrives in Brussels for Summits as U.S. Accuses Russian Forces of War Crimes</a> NYT: President Biden will press allies to help impose even more aggressive sanctions on Russia. NATO says it is doubling the number of battlegroups on its eastern flank to eight. 
  <p class="updated_time"> 06:07 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/russia-ukraine-war-biden-nato.html">As Biden Visits Europe Over Crisis, NATO Says It’s Doubling Eastern Flank Forces</a> NYT: The alliance also said it would assist Ukraine because of chemical, biological and nuclear threats posed by Russia in the month-old invasion. 
+ <p class="updated_time"> 05:38 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 05:34 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088350219/putin-russia-gas-ruble">Putin demands 'unfriendly countries' pay for Russian gas in rubles</a> NPR: President Vladimir Putin issued a new directive as he attempts to leverage Russia's in-demand fuel to counter a barrage of Western sanctions. 
  <p class="updated_time"> 05:25 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html">Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia</a> NYT: The Eastern European countries had sought to buy Pegasus, spyware made by an Israeli firm, to carry out intelligence operations against Russia, according to people with knowledge of the discussions. 
  <p class="updated_time"> 05:25 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military Is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
- <p class="updated_time"> 05:24 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 04:56 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/anne-frank-informant-ambo-anthos.html">Dutch Publisher of ‘The Betrayal of Anne Frank’ Halts Publication</a> NYT: The move came after five historians called into question the findings of the book, in which a “cold case” team sought to answer a long-running mystery. 
- <p class="updated_time"> 04:24 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 04:38 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 04:22 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088250889/russia-ukraine-war-what-happened-today-march-23">Russia-Ukraine war: What happened today (March 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -35,7 +39,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html">With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks</a> NYT: A new law requires companies to tell the federal government about hacks, but the Cybersecurity and Infrastructure Security Agency still has to work out the details of what must be reported. 
  <p class="updated_time"> 03:53 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60855732?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian journalist Oksana Baulina killed in Kyiv shelling</a> BBC: Oksana Baulina died while filming destruction caused by Russian shelling in a Kyiv neighbourhood. 
- <p class="updated_time"> 03:24 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 03:38 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
  <p class="updated_time"> 03:23 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/middleeast/israel-apatheid-un.html">U.N. Investigator Accuses Israel of Apartheid, Citing Permanence of Occupation</a> NYT: Strongly denied by Israel and its supporters, the claim is the first time that a U.N.-appointed rapporteur has accused Israel of apartheid in such an unequivocal way. 
@@ -59,10 +63,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/23/1088300310/brittney-griner-russia-update">A U.S. official in Russia is allowed to see detained WNBA star Brittney Griner</a> NPR: State Department spokesman Ned Price said consular officials were granted access to the basketball star on Wednesday. He added that she is in good condition. 
  <p class="updated_time"> 02:39 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/julian-assange-stella-moris-wedding.html">Julian Assange Marries Stella Moris in a British Prison</a> NYT: The wedding took place at Belmarsh Prison, where Mr. Assange has been held since 2019. Supporters of the couple were encouraged to attend a “solidarity vigil” outside the facility. 
+ <p class="updated_time"> 02:38 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 02:25 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60853052?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Nato to send more troops to eastern Europe</a> BBC: New combat units will be deployed in response to Russia's invasion of Ukraine, says the alliance's head. 
- <p class="updated_time"> 02:24 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 02:24 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/capitol-reopening-tourists.html">U.S. Capitol to Reopen Tours Next Week</a> NYT: Tours of the Capitol were suspended for about two years over the pandemic and security concerns related to the Jan. 6 riot. 
  <p class="updated_time"> 02:20 PM CT, Mar. 23 </p> 
@@ -71,7 +75,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-48401172?at_medium=RSS&at_campaign=KARANGA">Albright - a trailblazer for women on the world stage</a> BBC: Originally born in Czechoslovakia, Albright became a trailblazer for women on the world stage. 
  <p class="updated_time"> 01:42 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/nato-troops-ukraine.html">NATO Doubles Troop Presence in Eastern Europe Ahead of Summit</a> NYT: The alliance’s secretary general announced the deployment of new battlegroups in Bulgaria, Hungary, Romania and Slovakia. NATO has four others in the region. 
- <p class="updated_time"> 01:24 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 01:38 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/human-remains-found-at-china-eastern-airlines-plane-crash-site-11648024124">China Eastern Airlines Crash: One of Plane’s Black Boxes Is Found</a> WSJ: China Eastern Airlines Crash: One of Plane’s Black Boxes Is Found 
  <p class="updated_time"> 01:15 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088113318/what-mariupol-means-ukraine-russia-military-campaign">What the city of Mariupol means for Ukraine — and for Russia's military campaign</a> NPR: Ukraine's Mariupol has been battered by Russian airstrikes. Why is this city so important? The reasons range from geographic and strategic, to economic and psychological. 
@@ -155,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/world/australia/brian-houston-hillsong-resign.html">Hillsong’s Brian Houston Resigns Amid Scandals</a> NYT: Brian Houston was accused of breaching the church’s code of conduct after two women said he had behaved inappropriately. 
  <p class="updated_time"> 10:18 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukrainians-fight-russian-invasion.html">Ukrainians Try to Push Back Russian Forces Pummeling Their Cities</a> NYT: Desperate fighting has shifted the front lines but neither side seems to have a decisive upper hand as Ukraine’s suffering deepens. 
- <p class="updated_time"> 09:55 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
  <p class="updated_time"> 07:32 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60806156?at_medium=RSS&at_campaign=KARANGA">A month in Ukraine: 'All normal life is gone'</a> BBC: The BBC's Sarah Rainsford travelled around Ukraine as the war started and lives were shattered. 
  <p class="updated_time"> 07:30 PM CT, Mar. 22 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/world/asia/pakistan-imran-khan-parliament.html">Imran Khan, Pakistan’s Prime Minister, Fights for Survival</a> NYT: Soaring inflation and a rift with the military threaten Imran Khan’s tenure as prime minister. He has dismissed criticism as a foreign conspiracy. 
  <p class="updated_time"> 06:56 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60836321?at_medium=RSS&at_campaign=KARANGA">WATCH: Ukrainian sailing club protest superyacht linked to Abramovich in Turkey</a> BBC: A Ukrainian sailing team protest against the arrival of a superyacht linked to Roman Abramovich in Turkey. 
- <p class="updated_time"> 03:00 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/europe/italy-workers-strike-1972.html">1972: Millions of Workers Strike in Italy</a> NYT: Farm laborers, pressing demands including a shorter working week and a minimum wage, staged a 24-hour walkout. Refinery and filling station employees were also striking over pay and hours. 
 
 
 </details>
@@ -198,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 PM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-confirmation-hearing.html">A Judge Is Hardly Asked About Judging</a> NYT: Partisan talking points replaced questions about legal issues at Judge Ketanji Brown Jackson’s hearings. 
+ <p class="updated_time"> 06:30 PM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-cory-booker.html">Cory Booker Tells Ketanji Brown Jackson: ‘You Are Worthy’</a> NYT: Senator Cory Booker, the only Black senator on the 22-member Judiciary Committee, offered Judge Jackson a respite from a series of conservative attacks. 
  <p class="updated_time"> 06:20 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/business/boeing-trial-737-max-mark-forkner.html">Jury Finds Former Boeing Pilot Not Guilty of Fraud in 737 Max Case</a> NYT: The pilot, Mark Forkner, was the only person to face criminal charges for flaws that resulted in two fatal crashes of one of Boeing’s most important planes. 
  <p class="updated_time"> 06:20 PM CT, Mar. 23 </p> 
@@ -216,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/democrats-health-agenda-insulin-00019803">With Democrats' health agenda stalled, lawmakers turn to insulin</a> Politico: The push comes as many other Democratic proposals to lower health care costs remain on ice. 
  <p class="updated_time"> 05:34 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088350219/putin-russia-gas-ruble">Putin demands 'unfriendly countries' pay for Russian gas in rubles</a> NPR: President Vladimir Putin issued a new directive as he attempts to leverage Russia's in-demand fuel to counter a barrage of Western sanctions. 
- <p class="updated_time"> 05:30 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-confirmation-hearing.html">The Supreme Court Confirmation Hearing as ‘Ideological Food Fight’</a> NYT: Partisan talking points replaced questions about legal issues at Judge Ketanji Brown Jackson’s hearings. 
  <p class="updated_time"> 05:25 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html">Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia</a> NYT: The Eastern European countries had sought to buy Pegasus, spyware made by an Israeli firm, to carry out intelligence operations against Russia, according to people with knowledge of the discussions. 
  <p class="updated_time"> 05:23 PM CT, Mar. 23 </p> 
