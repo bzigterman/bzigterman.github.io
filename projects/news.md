@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:42 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 08:52 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">Live Updates: Ukraine Holds Line as Biden Is Poised to Increase Pressure on Russia</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. President Volodymyr Zelensky of Ukraine said that peace talks were moving forward “step by step,” even as Russia warned that negotiations were not progressing. 
+ <p class="updated_time"> 08:48 AM CT, Mar. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60848649?at_medium=RSS&at_campaign=KARANGA">Afghanistan girls' tears over chaotic Taliban schools U-turn</a> BBC: Girls were in shock after high schools were abruptly shut after re-opening for the first time in months. 
  <p class="updated_time"> 08:36 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088186174/a-black-box-from-the-fatal-chinese-plane-crash-has-been-located-officials-say">A black box from the fatal Chinese plane crash has been located, officials say</a> NPR: The equipment was extremely damaged, however, so it's unclear how much information it will provide. There were 132 people aboard the flight, which crashed on Monday. 
  <p class="updated_time"> 08:33 AM CT, Mar. 23 </p> 
@@ -25,10 +27,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 07:57 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60847188?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukrainian fightback gains ground west of Kyiv</a> BBC: Authorities in the town of Makariv, near the capital, say Ukrainian flags are flying there again. 
+ <p class="updated_time"> 07:57 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 07:45 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088177734/a-dutch-publisher-is-pulling-an-investigative-book-on-who-betrayed-anne-frank">A Dutch publisher is pulling an investigative book on who betrayed Anne Frank</a> NPR: A cold case team published what it called the "most likely scenario" of who betrayed the Jewish teen and her family. But a group of Dutch historians wrote an in-depth criticism of that work. 
- <p class="updated_time"> 07:45 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 07:42 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/putin-russia-military-planning.html">As Russia Stalls in Ukraine, Dissent Brews Over Putin’s Leadership</a> NYT: Military losses have mounted, progress has slowed, and a blame game has begun among some Russian supporters of the war. 
  <p class="updated_time"> 07:41 AM CT, Mar. 23 </p> 
@@ -39,15 +41,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/science/industry-whaling-ship-found.html">The Wreck of an 1830s Whaler Offers a Glimpse of America’s Racial History</a> NYT: A shipwreck in the Gulf of Mexico is identified and the mystery of its multiracial crew’s fate unraveled. 
  <p class="updated_time"> 07:08 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/china-crash-black-box-found.html">China Finds 1 Black Box From Plane Crash as Rain Hinders Search</a> NYT: Officials have revealed few details about the China Eastern Airlines flight that went down Monday, with the government moving quickly to control the information flow and emphasize the positive. 
- <p class="updated_time"> 06:48 AM CT, Mar. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60845540?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban backtrack on reopening high schools for girls</a> BBC: Girls' high schools were ordered shut hours after they re-opened, sparking anger and frustration. 
- <p class="updated_time"> 06:45 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 06:57 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say 
  <p class="updated_time"> 06:14 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088172421/parents-of-killed-photojournalist-danish-siddiqui-seek-action-against-taliban">Family of killed photojournalist Danish Siddiqui take Taliban leaders to ICC</a> NPR: The family of Pulitzer Prize-winning photojournalist Danish Siddiqui, killed during a Taliban attack in Afghanistan last year, are seeking legal action at the International Criminal Court 
  <p class="updated_time"> 05:58 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/zelensky-japan-parliament-speech.html">Zelensky Addresses Japan’s Parliament, Invoking Memories of Fukushima</a> NYT: President Volodymyr Zelensky said that Russia’s invasion could set off a nuclear catastrophe in Chernobyl and warned that Russia could use chemical weapons like the one used in a 1995 attack in Tokyo. 
- <p class="updated_time"> 05:45 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 05:57 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 05:33 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
@@ -55,7 +55,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60848142?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'Pets are getting left at train stations'</a> BBC: A photographer from the UK travels to western Ukraine to rescue pets displaced by war. 
  <p class="updated_time"> 05:03 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60792827?at_medium=RSS&at_campaign=KARANGA">China plane crash: Search teams find flight's black box</a> BBC: Crews had struggled against rain and flooded terrain to find key clues to the plane’s sudden fall. 
- <p class="updated_time"> 04:45 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 04:57 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 04:08 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-cellist-bach-kharkiv.html">Ukrainian Cellist Plays Bach in the Ruins of His Hometown, Kharkiv</a> NYT: Denys Karachevtsev said on social media that he hoped his performance would bring aid and attention for Kharkiv, Ukraine’s second largest city, which has been heavily bombarded. 
@@ -67,7 +67,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/23/1087872606/biden-and-u-s-allies-plan-to-step-up-sanctions-on-russia-over-its-war-in-ukraine">Biden and U.S. allies plan to step up sanctions on Russia over its war in Ukraine</a> NPR: President Biden will meet with NATO allies and G-7 leaders on Thursday before heading to Poland — a nation grappling with millions of Ukrainian refugees fleeing Russia's war in their country. 
  <p class="updated_time"> 04:00 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html">Russia and Far-Right Americans Find Common Ground With Ukraine War</a> NYT: Some conservatives have echoed the Kremlin’s misleading claims about the war and vice versa, giving each other’s assertions a sheen of credibility. 
- <p class="updated_time"> 03:45 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 03:57 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 03:15 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088167278/protesters-in-jamaica-spurn-british-royals-ahead-of-official-visit">Protesters in Jamaica spurn British royals ahead of official visit</a> NPR: The protest comes a couple of days after dozens of prominent leaders in Jamaica publicized a letter demanding that Britain apologize and award its former colony slavery reparations. 
@@ -119,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60832310?at_medium=RSS&at_campaign=KARANGA">Russia Navalny: Putin critic given nine-year jail sentence in trial branded 'sham'</a> BBC: Alexei Navalny will be sent to a "strict regime" colony after a judge jailed him for nine more years. 
  <p class="updated_time"> 04:39 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088126698/beersheba-israelis-stabbed-attack">A knife-wielding man killed 4 Israelis in Beersheba, police say </a> NPR: Police said the attacker careened his car into a cyclist and stabbed five people in the city center. Amateur video appeared to show armed bystanders shooting and killing the attacker at the scene. 
- <p class="updated_time"> 04:03 PM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60842337?at_medium=RSS&at_campaign=KARANGA">Some Disney staff stage walkout over Florida LGBT law</a> BBC: A handful of staff join a protest against the company's "apathetic" response to Florida's education bill. 
  <p class="updated_time"> 04:01 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088062700/russia-ukraine-war-what-happened-today-march-22">Russia-Ukraine war: What happened today (March 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, Mar. 22 </p> 
@@ -129,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/22/1088097150/a-radio-station-in-missouri-continues-broadcasting-kremlin-funded-radio-sputnik">A radio station in Missouri continues broadcasting Kremlin-funded Radio Sputnik</a> NPR: A Missouri radio station is airing Russian state-funded broadcasts. In a rare move, the National Association of Broadcasters called for stations to cease airing state-sponsored programming. 
  <p class="updated_time"> 03:50 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087859567/germany-military-buildup-russia-invasion-ukraine">With war on its doorstep, Germany plans a major military buildup</a> NPR: Chancellor Olaf Scholz's plan to boost defense spending could remake Germany's beleaguered military into the strongest armed forces in Europe — an idea that has met resistance in the past. 
- <p class="updated_time"> 03:32 PM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60829320?at_medium=RSS&at_campaign=KARANGA">Israel: Four killed in shopping centre attack</a> BBC: Three people were stabbed and a fourth run over in one of the deadliest such attacks for years. 
  <p class="updated_time"> 03:21 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1088097122/ukrainians-trying-to-get-to-the-u-s-are-having-trouble-getting-visas">Ukrainians trying to get to the U.S. are having trouble getting visas</a> NPR: More than 3 million Ukrainians have fled their homes since the Russian invasion began. The U.S. has pledged to help — but Ukrainian-Americans are finding it difficult to bring their relatives over. 
  <p class="updated_time"> 03:21 PM CT, Mar. 22 </p> 
@@ -143,6 +139,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/climate/climate-change-ok-doomer.html">‘OK Doomer’ and the Climate Advocates Who Say It’s Not Too Late</a> NYT: A growing chorus of young people is focusing on climate solutions. “‘It’s too late’ means ‘I don’t have to do anything, and the responsibility is off me.’” 
  <p class="updated_time"> 01:47 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-ukraine-pentagon.html">Russia’s Forces Against Ukraine Have Shrunk, Pentagon Says</a> NYT: The official said that Russian forces were “struggling on many fronts,” and that there were indications that some troops had been evacuated with frostbite. 
+ <p class="updated_time"> 01:31 PM CT, Mar. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60832046?at_medium=RSS&at_campaign=KARANGA">Amanda Bynes: Judge ends former actress's nine-year conservatorship</a> BBC: The former child star was placed under the legal guardianship after drug and mental health problems. 
  <p class="updated_time"> 12:44 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/2022/03/22/1087998179/russia-war-ukraine-mariupol-survivors-ukrainian-displaced">When Russia shelled their building in Mariupol, 13 neighbors banded together to flee</a> NPR: Before the war, Mariupol residents Tetiana Myhalyova and metalworker Victor Perederiy had never met. But after sheltering for weeks without heat or water, they decided to escape together. 
  <p class="updated_time"> 12:20 PM CT, Mar. 22 </p> 
@@ -153,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60840081?at_medium=RSS&at_campaign=KARANGA">Ukraine: The small town which managed to block Russia's big plans</a> BBC: The mayor of Voznesensk hails the "fighting spirit" of local people who drove Russian troops back. 
  <p class="updated_time"> 11:02 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/attack-in-israel-leaves-four-dead-11647975859">Suspected Terrorist Attack in Israel Leaves Four Dead</a> WSJ: In one of deadliest assaults against Israelis in recent years, an Arab Bedouin stabbed several people and rammed his car into a cyclist. 
- <p class="updated_time"> 10:30 AM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/business-60835389?at_medium=RSS&at_campaign=KARANGA">Tesla: Elon Musk opens delayed 'gigafactory' in Berlin</a> BBC: The more than €5bn (£4bn) factory is the biggest investment in a German car plant in recent history. 
  <p class="updated_time"> 09:59 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60831988?at_medium=RSS&at_campaign=KARANGA">Ukraine's recruits swap spreadsheets for sniper rifles to defend Kyiv</a> BBC: Preparing to defend Kyiv, Ukraine's new recruits must learn a new way of life - how to fight. 
  <p class="updated_time"> 09:27 AM CT, Mar. 22 </p> 
@@ -219,7 +215,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:03 AM CT, Mar. 23 </p> 
- <a href="https://www.politico.com/news/2022/03/23/trump-rescinds-mo-brooks-senate-endorsement-00019588">Trump takes back Senate endorsement for Mo Brooks</a> Politico: In a lengthy statement, Trump asserted that Brooks “went ‘woke’” by arguing it was legally impossible for the former president to be reinstated. 
+ <a href="https://www.politico.com/news/2022/03/23/trump-rescinds-mo-brooks-senate-endorsement-00019588">Trump takes back Senate endorsement for Mo Brooks</a> Politico: Trump said Brooks went "woke" by arguing it was legally impossible for the former president to be reinstated. 
  <p class="updated_time"> 08:02 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/moderna-emergency-authorization-young-kids-00019583">Moderna to seek emergency authorization for Covid vaccine for young kids</a> Politico: The company says its shot is safe, effective for youngest children. 
  <p class="updated_time"> 07:59 AM CT, Mar. 23 </p> 
