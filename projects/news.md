@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:52 AM CT, Mar. 23 </p> 
+ <a href="https://www.npr.org/2022/03/23/1088169464/ash-barty-announces-surprise-retirement-from-tennis">Ash Barty announces surprise retirement from tennis</a> NPR: The world No. 1 women's tennis player, has retired at just 25, only two months after winning the Australian open, saying she wants to pursue other dreams 
  <p class="updated_time"> 02:34 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
  <p class="updated_time"> 02:20 AM CT, Mar. 23 </p> 
@@ -17,30 +19,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/world/asia/nepal-gurkha-veteran-protests.html">Gurkha Veterans Fight a Colonial-Era Legacy Still Shaping Nepal</a> NYT: Nepal’s best and brightest have been recruited while young to fight for Britain for over 200 years, with their pay and pensions a fraction of their fellow British soldiers’ for much of that time. 
  <p class="updated_time"> 02:00 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/business/china-divorce-marriage.html">China’s Divorce Rate Is Down, but So Are Marriages</a> NYT: While officials say a new law has helped save marriages, the bigger challenge in the country’s demographic crisis is that fewer people are getting married in the first place. 
- <p class="updated_time"> 01:48 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 01:56 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 01:46 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60843262?at_medium=RSS&at_campaign=KARANGA">Evan Neumann: US Capitol riot suspect gets asylum in Belarus</a> BBC: Evan Neumann fled to Europe after being charged in connection with the 6 January riot. 
  <p class="updated_time"> 01:39 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/putin-russia-military-planning.html">As Russia Stalls in Ukraine, Dissent Brews Over Putin’s Leadership</a> NYT: Military losses have mounted, progress has slowed, and a blame game has begun among some Russian supporters of the war. 
- <p class="updated_time"> 12:48 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 12:56 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say 
  <p class="updated_time"> 12:42 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60843582?at_medium=RSS&at_campaign=KARANGA">New Orleans: One killed as tornado tears through suburbs</a> BBC: A huge funnel cloud passes through neighbourhoods, ripping off roofs and cutting out power. 
  <p class="updated_time"> 12:21 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60844358?at_medium=RSS&at_campaign=KARANGA">Danish Siddiqui: Slain India journalist's parents take Taliban to court</a> BBC: Indian photojournalist Danish Siddiqui's parents say the Taliban tortured and killed their son. 
- <p class="updated_time"> 11:48 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 11:56 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 11:05 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/australia/brian-houston-hillsong-resign.html">Hillsong’s Brian Houston Resigns Amid Scandals</a> NYT: Brian Houston was accused of breaching the church’s code of conduct after two women said he had behaved inappropriately. 
- <p class="updated_time"> 10:48 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 10:56 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 10:18 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukrainians-fight-russian-invasion.html">Ukrainians Try to Push Back Russian Forces Pummeling Their Cities</a> NYT: Desperate fighting has shifted the front lines but neither side seems to have a decisive upper hand as Ukraine’s suffering deepens. 
+ <p class="updated_time"> 09:56 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 09:55 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
- <p class="updated_time"> 09:48 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 08:55 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60843577?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal book pulled after findings discredited</a> BBC: The book claimed to have discovered who betrayed Anne Frank and her family to the Nazis. 
  <p class="updated_time"> 07:39 PM CT, Mar. 22 </p> 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237">Ukraine's Air Defense Becomes Its Surprising Trump Card</a> WSJ: The combination of Soviet-era long-range anti-air systems, U.S. Stinger missiles and clever tactics confound Russia’s air force. 
  <p class="updated_time"> 08:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/pakistan-imran-khan-parliament.html">Imran Khan, Pakistan’s Prime Minister, Fights for Survival</a> NYT: Soaring inflation and a rift with the military threaten Imran Khan’s tenure as prime minister. He has dismissed criticism as a foreign conspiracy. 
- <p class="updated_time"> 08:00 AM CT, Mar. 22 </p> 
- <a href="https://www.npr.org/2022/03/22/1088005073/ukraine-nobel-novaya-gazeta">A Nobel Prize-winning Russian editor says he will donate his medal for Ukraine relief</a> NPR: Dmitry Muratov is the editor-in-chief of the independent Russian newspaper Novaya Gazeta. He was one of two journalists to win last year's Nobel Peace Prize. 
  <p class="updated_time"> 07:18 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/canadas-trudeau-strikes-deal-with-rival-to-prop-up-minority-government-11647961084">Canada's Trudeau Strikes Deal With Rival to Prop Up Minority Government</a> WSJ: A smaller left-wing party agrees to support the ruling Liberals until June 2025, in exchange for implementing progressive policy items. 
  <p class="updated_time"> 06:56 AM CT, Mar. 22 </p> 
