@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 AM CT, Mar. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
+ <p class="updated_time"> 12:42 AM CT, Mar. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60843582?at_medium=RSS&at_campaign=KARANGA">New Orleans: One killed as tornado tears through suburbs</a> BBC: A huge funnel cloud passes through neighbourhoods, ripping off roofs and cutting out power. 
  <p class="updated_time"> 12:23 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Live Updates: Pentagon Says Russian Combat Forces Have Shrunk as Ukraine Mounts Defense</a> NYT: President Biden will press European allies to help impose even more aggressive sanctions on Russia during a flurry of meeting starting on Wednesday. Ukrainians said they had recaptured a strategic town near Kyiv. 
  <p class="updated_time"> 12:21 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60844358?at_medium=RSS&at_campaign=KARANGA">Danish Siddiqui: Slain India journalist's parents take Taliban to court</a> BBC: Indian photojournalist Danish Siddiqui's parents say the Taliban tortured and killed their son. 
- <p class="updated_time"> 11:40 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 12:13 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
+ <p class="updated_time"> 11:13 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say 
  <p class="updated_time"> 11:05 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/australia/brian-houston-hillsong-resign.html">Hillsong’s Brian Houston Resigns Amid Scandals</a> NYT: Brian Houston was accused of breaching the church’s code of conduct after two women said he had behaved inappropriately. 
- <p class="updated_time"> 10:51 PM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
- <p class="updated_time"> 10:40 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say 
  <p class="updated_time"> 10:18 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukrainians-fight-russian-invasion.html">Ukrainians Try to Push Back Russian Forces Pummeling Their Cities</a> NYT: Desperate fighting has shifted the front lines but neither side seems to have a decisive upper hand as Ukraine’s suffering deepens. 
+ <p class="updated_time"> 10:13 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 09:55 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
- <p class="updated_time"> 09:40 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
+ <p class="updated_time"> 09:13 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 08:55 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60843577?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal book pulled after findings discredited</a> BBC: The book claimed to have discovered who betrayed Anne Frank and her family to the Nazis. 
- <p class="updated_time"> 08:40 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
- <p class="updated_time"> 07:40 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 08:13 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 07:39 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
@@ -143,10 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
  <p class="updated_time"> 05:27 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/chevron-waiting-it-out-in-venezuela-tells-u-s-now-is-the-time-to-pump-oil-11647959248">Chevron, Waiting It Out in Venezuela, Tells U.S. Now's the Time to Pump Oil</a> WSJ: The company pledges to make up for fall in Russian exports, but some Biden officials oppose permitting U.S. companies to operate under President Nicolás Maduro’s autocratic regime. 
- <p class="updated_time"> 05:19 AM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60777284?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Terror of African students in Russian-occupied Kherson</a> BBC: Nigerian students in Ukraine plead for help leaving Kherson as food, medicine and water run low. 
- <p class="updated_time"> 04:58 AM CT, Mar. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60830885?at_medium=RSS&at_campaign=KARANGA">Maharashtra: Rubber penis in family planning kit sparks row</a> BBC: Some lawmakers in Maharashtra state say female health workers will be embarrassed but others disagree. 
  <p class="updated_time"> 04:35 AM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War's Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Russia’s invasion spurred price shocks and shortages of basic commodities, an especially tough blow to developing nations that were already far behind in their recovery from the pandemic. “We cannot continue like this.” 
  <p class="updated_time"> 04:33 AM CT, Mar. 22 </p> 
