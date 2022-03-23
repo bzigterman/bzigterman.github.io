@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:26 AM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">Live Updates: Ukraine Holds Line as Biden Is Poised to Increase Pressure on Russia</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. President Volodymyr Zelensky of Ukraine said that peace talks were moving forward “step by step,” even as Russia warned that negotiations were not progressing. 
+ <p class="updated_time"> 09:26 AM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/world/asia/china-crash-black-box-found.html">China Finds Flight Recorder From Plane Crash as Rain Hinders Search</a> NYT: Officials have revealed few details about the China Eastern Airlines flight that went down Monday, with the government moving quickly to control the information flow and emphasize the positive. 
  <p class="updated_time"> 09:11 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/middleeast/israel-ukraine-refugees-jewish.html">Ukraine War Ignites Israeli Debate Over Purpose of a Jewish State</a> NYT: Most Ukrainians seeking refuge in Israel are non-Jews. Some Israelis see a moral imperative to take them in, but others see a threat to the country’s Jewish character. 
- <p class="updated_time"> 09:08 AM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">Live Updates: Ukraine Holds Line as Biden Is Poised to Increase Pressure on Russia</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. President Volodymyr Zelensky of Ukraine said that peace talks were moving forward “step by step,” even as Russia warned that negotiations were not progressing. 
  <p class="updated_time"> 08:48 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60848649?at_medium=RSS&at_campaign=KARANGA">Afghanistan girls' tears over chaotic Taliban schools U-turn</a> BBC: Girls were in shock after high schools were abruptly shut after re-opening for the first time in months. 
  <p class="updated_time"> 08:40 AM CT, Mar. 23 </p> 
@@ -20,11 +22,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:36 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088186174/a-black-box-from-the-fatal-chinese-plane-crash-has-been-located-officials-say">A black box from the fatal Chinese plane crash has been located, officials say</a> NPR: The equipment was extremely damaged, however, so it's unclear how much information it will provide. There were 132 people aboard the flight, which crashed on Monday. 
  <p class="updated_time"> 08:33 AM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/world/europe/anne-frank-dutch-publisher.html">Dutch Publisher of ‘The Betrayal of Anne Frank’ Halts Publication</a> NYT: The move came after five historians called into question the findings of the book, in which a “cold case” team sought to answer a long-running mystery. 
+ <a href="https://www.nytimes.com/2022/03/23/world/europe/anne-frank-informant-ambo-anthos.html">Dutch Publisher of ‘The Betrayal of Anne Frank’ Halts Publication</a> NYT: The move came after five historians called into question the findings of the book, in which a “cold case” team sought to answer a long-running mystery. 
+ <p class="updated_time"> 08:32 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">Ukraine Humanitarian Crisis Worsens, as Biden Heads to Europe</a> WSJ: Ukraine Humanitarian Crisis Worsens, as Biden Heads to Europe 
  <p class="updated_time"> 08:20 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/afghanistan-girls-schools-taliban.html">Taliban Renege on Promise to Open Afghan Girls’ Schools</a> NYT: The reversal of the plan to reopen high schools this week could threaten aid at a critical time, as international officials had made girls’ education a condition for greater assistance. 
- <p class="updated_time"> 08:19 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">Ukraine Humanitarian Crisis Worsens, as Biden Heads to Europe</a> WSJ: Ukraine Humanitarian Crisis Worsens, as Biden Heads to Europe 
  <p class="updated_time"> 08:00 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
  <p class="updated_time"> 07:59 AM CT, Mar. 23 </p> 
@@ -41,13 +43,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/climate/europe-russia-gas-reagan.html">How Europe Got Hooked on Russian Gas Despite Reagan’s Warnings</a> NYT: A Soviet-era pipeline, opposed by the president but supported by the oil and gas industry, set up the dependency that today helps fund the Russian assault on Ukraine. 
  <p class="updated_time"> 07:38 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-eastern-crash-explained.html">What We Know About the Crash of China Eastern Airlines Flight 5735</a> NYT: The crash of the Boeing plane, with more than 130 people on board, is China’s worst air disaster in more than a decade. 
+ <p class="updated_time"> 07:32 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 07:27 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/science/industry-whaling-ship-found.html">The Wreck of an 1830s Whaler Offers a Glimpse of America’s Racial History</a> NYT: A shipwreck in the Gulf of Mexico is identified and the mystery of its multiracial crew’s fate unraveled. 
- <p class="updated_time"> 07:19 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
- <p class="updated_time"> 07:08 AM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/world/asia/china-crash-black-box-found.html">China Finds 1 Black Box From Plane Crash as Rain Hinders Search</a> NYT: Officials have revealed few details about the China Eastern Airlines flight that went down Monday, with the government moving quickly to control the information flow and emphasize the positive. 
- <p class="updated_time"> 06:19 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 06:32 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/human-remains-found-at-china-eastern-airlines-plane-crash-site-11648024124">China Eastern Airlines Crash: One of Plane’s Black Boxes Is Found</a> WSJ: China Eastern Airlines Crash: One of Plane’s Black Boxes Is Found 
  <p class="updated_time"> 06:14 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088172421/parents-of-killed-photojournalist-danish-siddiqui-seek-action-against-taliban">Family of killed photojournalist Danish Siddiqui take Taliban leaders to ICC</a> NPR: The family of Pulitzer Prize-winning photojournalist Danish Siddiqui, killed during a Taliban attack in Afghanistan last year, are seeking legal action at the International Criminal Court 
@@ -55,13 +55,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/world/asia/zelensky-japan-parliament-speech.html">Zelensky Addresses Japan’s Parliament, Invoking Memories of Fukushima</a> NYT: President Volodymyr Zelensky said that Russia’s invasion could set off a nuclear catastrophe in Chernobyl and warned that Russia could use chemical weapons like the one used in a 1995 attack in Tokyo. 
  <p class="updated_time"> 05:33 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
+ <p class="updated_time"> 05:32 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/russian-stock-market-prepares-for-an-unusual-reopening-11648023739">Russian Stock Market to Partially Reopen on Thursday</a> WSJ: Russian Stock Market to Partially Reopen on Thursday 
  <p class="updated_time"> 05:27 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60848142?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'Pets are getting left at train stations'</a> BBC: A photographer from the UK travels to western Ukraine to rescue pets displaced by war. 
- <p class="updated_time"> 05:19 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-stock-market-prepares-for-an-unusual-reopening-11648023739">Russian Stock Market to Partially Reopen on Thursday</a> WSJ: Russian Stock Market to Partially Reopen on Thursday 
  <p class="updated_time"> 05:03 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60792827?at_medium=RSS&at_campaign=KARANGA">China plane crash: Search teams find flight's black box</a> BBC: Crews had struggled against rain and flooded terrain to find key clues to the plane’s sudden fall. 
- <p class="updated_time"> 04:19 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 04:32 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-allies-aim-to-project-united-front-against-russia-at-nato-meeting-11648027552">Biden, Allies Aim to Project United Front Against Russia at NATO Meeting</a> WSJ: Biden, Allies Aim to Project United Front Against Russia at NATO Meeting 
  <p class="updated_time"> 04:08 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-cellist-bach-kharkiv.html">Ukrainian Cellist Plays Bach in the Ruins of His Hometown, Kharkiv</a> NYT: Denys Karachevtsev said on social media that he hoped his performance would bring aid and attention for Kharkiv, Ukraine’s second largest city, which has been heavily bombarded. 
@@ -73,6 +73,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/23/1087872606/biden-and-u-s-allies-plan-to-step-up-sanctions-on-russia-over-its-war-in-ukraine">Biden and U.S. allies plan to step up sanctions on Russia over its war in Ukraine</a> NPR: President Biden will meet with NATO allies and G-7 leaders on Thursday before heading to Poland — a nation grappling with millions of Ukrainian refugees fleeing Russia's war in their country. 
  <p class="updated_time"> 04:00 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html">Russia and Far-Right Americans Find Common Ground With Ukraine War</a> NYT: Some conservatives have echoed the Kremlin’s misleading claims about the war and vice versa, giving each other’s assertions a sheen of credibility. 
+ <p class="updated_time"> 03:38 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/china-grapples-with-how-to-handle-all-the-mild-covid-cases-11648039088">China Grapples With How to Handle All the Mild Covid Cases</a> WSJ: In the country’s zeal to quickly stamp out new infections, the drill has been to hospitalize every Covid-19 case and quarantine “close contacts”—a policy that is starting to wreak havoc on medical resources. 
  <p class="updated_time"> 03:15 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088167278/protesters-in-jamaica-spurn-british-royals-ahead-of-official-visit">Protesters in Jamaica spurn British royals ahead of official visit</a> NPR: The protest comes a couple of days after dozens of prominent leaders in Jamaica publicized a letter demanding that Britain apologize and award its former colony slavery reparations. 
  <p class="updated_time"> 02:52 AM CT, Mar. 23 </p> 
@@ -111,12 +113,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/us/politics/russia-china-global-economy.html">Ukraine War and Pandemic Force Nations to Retreat From Globalization</a> NYT: Conflicts among the U.S., Russia and China — and endless Covid-19 outbreaks — strain the interdependent economy and Western ideas of post-Cold War stability. 
  <p class="updated_time"> 06:36 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/yvan-colonna-dead.html">Yvan Colonna, Corsican Jailed for French Prefect’s Murder, Dies at 61</a> NYT: A folk hero for Corsica’s nationalist movement, he evaded a long manhunt but was finally arrested in 2003. He died shortly after being brutally attacked in prison. 
- <p class="updated_time"> 06:21 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: The Biden administration is preparing sanctions on most members of Russia’s State Duma, the lower house of parliament, as the U.S. continues its crackdown on Moscow over its ongoing war against Ukraine. 
  <p class="updated_time"> 05:53 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/sport/swimming/60842863?at_medium=RSS&at_campaign=KARANGA">Florida governor rejects transgender swimmer's win</a> BBC: Florida governor Ron DeSantis signs a proclamation recognising runner-up Emma Weyant as the winner of the highest US national college swimming title. 
- <p class="updated_time"> 05:49 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Nearly a month since Russia invaded Ukraine, it is on the verge of taking Mariupol in what would be the first major city to fall under its control. But Mariupol is a shattered prize. 
  <p class="updated_time"> 05:25 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-navalny-prison.html">Aleksei Navalny Found Guilty of Fraud by Russian Court</a> NYT: Despite already being behind bars, Mr. Navalny has been urging Russians to protest the war in Ukraine, making him even more of a liability for President Vladimir V. Putin. 
  <p class="updated_time"> 05:12 PM CT, Mar. 22 </p> 
@@ -157,40 +155,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/world/asia/china-ukraine-russia-diplomacy.html">China Takes a Back Seat in International Diplomacy Over Ukraine</a> NYT: Despite its economic and military might and close ties to Russia, China has balked at trying to press Vladimir Putin to stop the fighting. 
  <p class="updated_time"> 11:59 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60840081?at_medium=RSS&at_campaign=KARANGA">Ukraine: The small town which managed to block Russia's big plans</a> BBC: The mayor of Voznesensk hails the "fighting spirit" of local people who drove Russian troops back. 
- <p class="updated_time"> 11:02 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/attack-in-israel-leaves-four-dead-11647975859">Suspected Terrorist Attack in Israel Leaves Four Dead</a> WSJ: In one of deadliest assaults against Israelis in recent years, an Arab Bedouin stabbed several people and rammed his car into a cyclist. 
- <p class="updated_time"> 10:38 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: The country’s leading opposition figure was sentenced to nine more years on charges of fraud and contempt of court, in a case his supporters say was brought against him on the orders of President Vladimir Putin. 
  <p class="updated_time"> 09:59 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60831988?at_medium=RSS&at_campaign=KARANGA">Ukraine's recruits swap spreadsheets for sniper rifles to defend Kyiv</a> BBC: Preparing to defend Kyiv, Ukraine's new recruits must learn a new way of life - how to fight. 
  <p class="updated_time"> 09:27 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/americas/russia-margarita-venezuela.html">Vacations Abruptly End as Tourists Return  to a Different Russia</a> NYT: While Russian tourists were visiting Margarita Island, their country invaded Ukraine. Many were left wondering what travails awaited them back at home. 
- <p class="updated_time"> 09:09 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: A listed company’s chief financial officer and people working for an accounting firm were among those on board. 
  <p class="updated_time"> 09:03 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/teachers-killed-malmo-sweden.html">Two Teachers Killed at a School in Malmo, Sweden</a> NYT: The police said they were still trying to determine a motive for the attack in the southern city of Malmo. 
- <p class="updated_time"> 08:30 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraines-air-defense-becomes-its-surprising-trump-card-against-russia-11647970237">Ukraine's Air Defense Becomes Its Surprising Trump Card</a> WSJ: The combination of Soviet-era long-range anti-air systems, U.S. Stinger missiles and clever tactics confound Russia’s air force. 
  <p class="updated_time"> 08:25 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/pakistan-imran-khan-parliament.html">Imran Khan, Pakistan’s Prime Minister, Fights for Survival</a> NYT: Soaring inflation and a rift with the military threaten Imran Khan’s tenure as prime minister. He has dismissed criticism as a foreign conspiracy. 
- <p class="updated_time"> 07:51 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe's Capacity to Welcome Them</a> WSJ: More than 3.5 million people have fled the Russian invasion, demanding a continentwide humanitarian response as EU governments pledge unprecedented support. 
- <p class="updated_time"> 07:18 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/canadas-trudeau-strikes-deal-with-rival-to-prop-up-minority-government-11647961084">Canada's Trudeau Strikes Deal With Rival to Prop Up Minority Government</a> WSJ: A smaller left-wing party agrees to support the ruling Liberals until June 2025, in exchange for implementing progressive policy items. 
  <p class="updated_time"> 06:56 AM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60836321?at_medium=RSS&at_campaign=KARANGA">WATCH: Ukrainian sailing club protest superyacht linked to Abramovich in Turkey</a> BBC: A Ukrainian sailing team protest against the arrival of a superyacht linked to Roman Abramovich in Turkey. 
  <p class="updated_time"> 05:45 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/asia/china-plane-crash-boeing.html">After China’s Worst Air Crash in Years, a Desperate Hunt for Survivors</a> NYT: The plane that crashed in a mountainous area of southern China was carrying 132 people, and no survivors have been found so far, a state broadcaster said on Tuesday. 
- <p class="updated_time"> 05:27 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/chevron-waiting-it-out-in-venezuela-tells-u-s-now-is-the-time-to-pump-oil-11647959248">Chevron, Waiting It Out in Venezuela, Tells U.S. Now's the Time to Pump Oil</a> WSJ: The company pledges to make up for fall in Russian exports, but some Biden officials oppose permitting U.S. companies to operate under President Nicolás Maduro’s autocratic regime. 
- <p class="updated_time"> 04:35 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-wheat-oil-food-developing-world-prices-shortages-11647954514">Ukraine War's Spillover Swamps Poor Countries Still Reeling From Covid-19</a> WSJ: Russia’s invasion spurred price shocks and shortages of basic commodities, an especially tough blow to developing nations that were already far behind in their recovery from the pandemic. “We cannot continue like this.” 
  <p class="updated_time"> 04:33 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/england-booster-javid.html">England Starts Giving Second Covid Boosters to Vulnerable People</a> NYT: People over 75, people living in nursing homes and anyone over 12 with a weakened immune system can now get a second booster dose six months after their first. 
  <p class="updated_time"> 03:46 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/21/world/europe/zelensky-speeches-ukraine-russia.html">Walls, Dreams and Genocide: Zelensky’s Speeches Invoke History to Rally Support</a> NYT: The Ukrainian leader, a former actor, has invoked emotional moments in the history of nations from which he is hoping to secure backing. We look at five of his recent speeches. 
- <p class="updated_time"> 03:18 AM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-fight-war-of-ambush-and-skirmish-against-russian-invaders-11647951516">Ukraine's Troops Fight War of Ambush and Skirmish Against Russian Invaders</a> WSJ: Kyiv’s forces have inflicted significant losses on Moscow’s larger and better-armed military using insurgency-style tactics that take advantage of their grab bag of available weapons, say military officers from NATO countries. 
  <p class="updated_time"> 03:00 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/italy-workers-strike-1972.html">1972: Millions of Workers Strike in Italy</a> NYT: Farm laborers, pressing demands including a shorter working week and a minimum wage, staged a 24-hour walkout. Refinery and filling station employees were also striking over pay and hours. 
  <p class="updated_time"> 12:59 AM CT, Mar. 22 </p> 
@@ -224,8 +204,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:59 AM CT, Mar. 23 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 09:19 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/oklahoma-house-near-total-abortion-ban/index.html">Oklahoma state House passes near-total ban on abortion, to be enforced through civil action</a> CNN: The Republican-controlled Oklahoma House of Representatives on Tuesday passed a bill that would lead to a near-total ban on abortion and would allow private citizens to enforce the law through civil litigation. 
+ <p class="updated_time"> 09:00 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/kirsten-allen-harris-press-secretary/index.html">First on CNN: Kirsten Allen to serve as Harris' new press secretary</a> CNN: Kirsten Allen will be Vice President Kamala Harris' new press secretary, leaving her current role as national press secretary for Covid-19 response at the Department of Health and Human Services. 
+ <p class="updated_time"> 08:54 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/donald-trump-endorsement-mo-brooks/index.html">Donald Trump rescinds his endorsement of Mo Brooks in Alabama's US Senate race</a> CNN: Former President Donald Trump yanked his endorsement from Alabama Senate hopeful Mo Brooks on Wednesday, promising to make a new endorsement in the race before the May 24 primary. 
+ <p class="updated_time"> 08:53 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/ketanji-brown-jackson-confirmation-hearings-day-three/index.html">Supreme Court nominee Ketanji Brown Jackson faces more questions during third day of confirmation hearings </a> CNN: President Joe Biden's Supreme Court nominee, Ketanji Brown Jackson, is facing another round of questions from lawmakers on the Senate Judiciary Committee during the third day of her historic confirmation hearings. 
+ <p class="updated_time"> 08:13 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/joe-biden-european-trip-nato-g7-european-council/index.html">Biden's trip to Europe is one of highest-stakes presidential trips in recent memory. Here's why</a> CNN: President Joe Biden departed Wednesday on one of the highest-stakes presidential trips in recent memory, a moment for the US President to assume leadership of a newly united West. 
  <p class="updated_time"> 08:03 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/trump-rescinds-mo-brooks-senate-endorsement-00019588">Trump takes back Senate endorsement for Mo Brooks</a> Politico: Trump said Brooks went "woke" by arguing it was legally impossible for the former president to be reinstated. 
  <p class="updated_time"> 08:02 AM CT, Mar. 23 </p> 
@@ -234,14 +222,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 07:12 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-brown-jackson-hearing-republicans.html">Pledging to ‘Stay in My Lane,’ Jackson Defends Her Record</a> NYT: As Republicans suggested she was soft on crime, particularly when it came to child sexual abuse, and an extremist on matters of race, the Supreme Court nominee pushed back. 
+ <p class="updated_time"> 07:04 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/ketanji-brown-jackson-hearings-fact-check/index.html">Fact check: Ketanji Brown Jackson's 2005 'war crimes' allegation was about torture </a> CNN: Supreme Court nominee Ketanji Brown Jackson was criticized by two Republican senators on Tuesday at a confirmation hearing over language they claimed she had used in the past while challenging the indefinite detention of clients who were being held without charges at the Guantanamo Bay military prison. 
  <p class="updated_time"> 06:47 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/22/federal-reserve-biden-powell-raskin-00019394">Where are the bank cops? Biden struggles to fill top regulatory jobs</a> Politico: The administration’s difficulties in getting bank cop nominees through a Democratic-controlled Senate underscore the fault lines within the party over how to approach financial regulation. 
  <p class="updated_time"> 06:28 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/23/who-flocks-to-the-scotus-spotlight-00019574">Who flocks to the SCOTUS spotlight?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:05 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/gallup-poll-americans-support-ketanji-brown-jackson/index.html">Gallup Poll: 58% of Americans support Judge Ketanji Brown Jackson's SCOTUS nomination</a> CNN: A majority of Americans support Judge Ketanji Brown Jackson being confirmed to the Supreme Court, with 58% saying the Senate should vote in favor of her historical nomination to the nation's highest court, according to a poll newly released by Gallup. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/polling-supreme-court/index.html">Most Americans say it's important for the Supreme Court to look like the country as a whole</a> CNN: Most Americans think it's important that the demographics of the Supreme Court resemble the country as a whole, new polling finds. And a majority believe Ketanji Brown Jackson's nomination to the Court holds potential historical significance. 
  <p class="updated_time"> 05:57 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/jen-psaki-covid.html">Jen Psaki, the White House press secretary, tests positive for coronavirus.</a> NYT: Ms. Psaki said that she had two meetings with President Biden on Monday but that they had been socially distanced. 
- <p class="updated_time"> 05:33 AM CT, Mar. 23 </p> 
- <a href="https://www.cnn.com/2022/03/22/politics/ketanji-brown-jackson-hearing-tuesday-takeaways/index.html">Takeaways from the marathon Ketanji Brown Jackson confirmation hearing </a> CNN: Judge Ketanji Brown Jackson's first full day of questioning featured explanations of her approach as a judge, discussions of abstract legal concepts that can be pivotal in controversial Supreme Court cases, and her defense of a sentencing record that Republicans have claimed wasn't adequately harsh on certain crimes. 
  <p class="updated_time"> 05:19 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/23/3-things-to-watch-as-biden-goes-to-europe-00019567"> 3 things to watch as Biden goes to Europe</a> Politico Playbook: And voters support a gas tax pause. 
  <p class="updated_time"> 04:11 AM CT, Mar. 23 </p> 
@@ -270,12 +262,18 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/bitcoin-new-hampshire-gop-senate-primary-00019497">Bitcoiner eyes New Hampshire GOP Senate primary</a> Politico: The libertarian-aligned financial adviser would self-fund with $5 million in crypto wealth. 
  <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/health-data-breaches-2021-hacking-surge-politico-00019283">Health data breaches swell in 2021 amid hacking surge, POLITICO analysis finds</a> Politico: Health care organizations including providers and insurers in every state except South Dakota reported such incidents last year. 
+ <p class="updated_time"> 12:13 AM CT, Mar. 23 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/los-angeles-mayoral-debate-democrats-policing/index.html">Los Angeles mayoral race shows shift in policing debate in heavily Democratic city</a> CNN: In his first foray on the Los Angeles mayoral race's debate stage Tuesday night, billionaire developer Rick Caruso came out swinging as he tests whether a frustrated electorate in this heavily Democratic city will extend a chance to a former Republican turned independent who registered as a Democrat just two months ago. 
  <p class="updated_time"> 11:01 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-confirmation-hearing-day-3.html">What to Watch For on Day 3 of Jackson’s Confirmation Hearing</a> NYT: Senators will get their final shot at questioning the Supreme Court nominee, but it is unclear whether any new ground will be broken. 
  <p class="updated_time"> 09:38 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/blackburn-jackson-define-the-word-woman-00019543">Blackburn to Jackson: Can you define ‘the word woman’?</a> Politico: The Tennessee Republican’s line of questioning hit on nearly every political hot-button issue. 
  <p class="updated_time"> 09:36 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/ketanji-brown-jackson-senate-hearing-day-2-takeaways-analysis-00019538">5 takeaways from Ketanji Brown Jackson's Supreme Court hearing</a> Politico: GOP senators launch salvos on "critical race theory," criminal sentencing and representing Guantanamo inmates. 
+ <p class="updated_time"> 09:06 PM CT, Mar. 22 </p> 
+ <a href="https://www.cnn.com/2022/03/22/politics/evan-neumann-belarus-political-asylum-january-6/index.html">Capitol riot suspect is granted refugee status in Belarus after fleeing US</a> CNN: A US Capitol riot suspect who fled the United States has been granted refugee status in Belarus, according to Belarusian state-owned television BelTA. 
+ <p class="updated_time"> 08:52 PM CT, Mar. 22 </p> 
+ <a href="https://www.cnn.com/2022/03/22/politics/ron-desantis-transgender-athlete-debate-florida-swimmer/index.html">DeSantis courts further controversy by honoring swimmer who finished second to Lia Thomas</a> CNN: Florida Gov. Ron DeSantis waded into fresh controversy on Tuesday with a proclamation honoring the collegiate swimmer who recently placed second to University of Pennsylvania swimmer Lia Thomas, the first transgender athlete to win an NCAA Division I title. 
  <p class="updated_time"> 08:21 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/project-veritas-emails.html">Project Veritas Says Justice Dept. Secretly Seized Its Emails</a> NYT: In a court filing, the conservative group assailed prosecutors for concealing the action in a proceeding from the investigation of how it acquired Ashley Biden’s diary. 
  <p class="updated_time"> 08:13 PM CT, Mar. 22 </p> 
