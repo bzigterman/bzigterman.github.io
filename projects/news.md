@@ -13,32 +13,32 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Live Updates: Pentagon Says Russian Combat Forces Have Shrunk as Ukraine Mounts Defense</a> NYT: President Biden will press European allies to help impose even more aggressive sanctions on Russia during a flurry of meeting starting on Wednesday. Ukrainians said they had recaptured a strategic town near Kyiv. 
  <p class="updated_time"> 12:21 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60844358?at_medium=RSS&at_campaign=KARANGA">Danish Siddiqui: Slain India journalist's parents take Taliban to court</a> BBC: Indian photojournalist Danish Siddiqui's parents say the Taliban tortured and killed their son. 
- <p class="updated_time"> 11:29 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 11:40 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 11:05 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/australia/brian-houston-hillsong-resign.html">Hillsong’s Brian Houston Resigns Amid Scandals</a> NYT: Brian Houston was accused of breaching the church’s code of conduct after two women said he had behaved inappropriately. 
  <p class="updated_time"> 10:51 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
- <p class="updated_time"> 10:29 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 10:40 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say 
  <p class="updated_time"> 10:18 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukrainians-fight-russian-invasion.html">Ukrainians Try to Push Back Russian Forces Pummeling Their Cities</a> NYT: Desperate fighting has shifted the front lines but neither side seems to have a decisive upper hand as Ukraine’s suffering deepens. 
  <p class="updated_time"> 09:55 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-air-force-russia.html">How Ukraine’s Outgunned Air Force Is Fighting Back Against Russian Jets</a> NYT: Aerial dogfights. Top Gun-style duels. Ukraine’s fighter pilots are badly outnumbered but have so far kept Russia from controlling the skies. 
- <p class="updated_time"> 09:29 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 09:40 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 08:55 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60843577?at_medium=RSS&at_campaign=KARANGA">Anne Frank betrayal book pulled after findings discredited</a> BBC: The book claimed to have discovered who betrayed Anne Frank and her family to the Nazis. 
- <p class="updated_time"> 08:29 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 08:40 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
+ <p class="updated_time"> 07:40 PM CT, Mar. 22 </p> 
+ <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 07:39 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 07:32 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60806156?at_medium=RSS&at_campaign=KARANGA">A month in Ukraine: 'All normal life is gone'</a> BBC: The BBC's Sarah Rainsford travelled around Ukraine as the war started and lives were shattered. 
  <p class="updated_time"> 07:30 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60825768?at_medium=RSS&at_campaign=KARANGA">Uganda's Batwa people: Evicted from a forest to help save gorillas</a> BBC: The struggle of Uganda's Batwa people three decades after they were forced from their ancestral home. 
- <p class="updated_time"> 07:29 PM CT, Mar. 22 </p> 
- <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 07:18 PM CT, Mar. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60818869?at_medium=RSS&at_campaign=KARANGA">The Russians trapped on a Thai island as war rages in Ukraine</a> BBC: Thousands of Russian and Ukrainian tourists are stuck in Phuket, unable to go home. 
  <p class="updated_time"> 07:17 PM CT, Mar. 22 </p> 
