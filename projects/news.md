@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:24 AM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Live Updates: Ukraine Holds Line as Biden Is Poised to Increase Pressure on Russia</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. 
+ <p class="updated_time"> 04:35 AM CT, Mar. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60845540?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban backtrack on reopening high schools for girls</a> BBC: Girls' high schools were ordered shut hours after they re-opened, sparking anger and frustration. 
+ <p class="updated_time"> 04:34 AM CT, Mar. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/22/world/ukraine-russia-war">Live Updates: Ukraine Holds Line as Biden Is Poised to Increase Pressure on Russia</a> NYT: As he heads to Europe, President Biden will press U.S. allies to help impose even more aggressive sanctions on Russia. President Volodymyr Zelensky of Ukraine said that peace talks were moving forward “step by step,” even as Russia warned that negotiations were not progressing. 
  <p class="updated_time"> 04:08 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-cellist-bach-kharkiv.html">Ukrainian Cellist Plays Bach in the Ruins of His Hometown, Kharkiv</a> NYT: Denys Karachevtsev said on social media that he hoped his performance would bring aid and attention for Kharkiv, Ukraine’s second largest city, which has been heavily bombarded. 
  <p class="updated_time"> 04:00 AM CT, Mar. 23 </p> 
@@ -23,17 +25,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/climate/europe-russia-gas-reagan.html">How Europe Got Hooked on Russian Gas Despite Reagan’s Warnings</a> NYT: A Soviet-era pipeline, opposed by the president but supported by the oil and gas industry, set up the dependency that today helps fund the Russian assault on Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html">Russia and Far-Right Americans Find Common Ground With Ukraine War</a> NYT: Some conservatives have echoed the Kremlin’s misleading claims about the war and vice versa, giving each other’s assertions a sheen of credibility. 
- <p class="updated_time"> 03:33 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 03:45 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-flee-mariupol-as-russian-forces-push-to-take-port-city-11647947707">Ukrainians Flee Mariupol as Russian Forces Push to Take Port City</a> WSJ: Ukrainians Flee Mariupol as Russian Forces Push to Take Port City 
  <p class="updated_time"> 03:25 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60843870?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: World number one makes shock call to quit tennis</a> BBC: Australian player Ashleigh Barty - aged only 25 - says she will retire to "chase other dreams". 
  <p class="updated_time"> 03:15 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088167278/protesters-in-jamaica-spurn-british-royals-ahead-of-official-visit">Protesters in Jamaica spurn British royals ahead of official visit</a> NPR: The protest comes a couple of days after dozens of prominent leaders in Jamaica publicized a letter demanding that Britain apologize and award its former colony slavery reparations. 
- <p class="updated_time"> 03:14 AM CT, Mar. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60845540?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban backtrack on reopening high schools for girls</a> BBC: Girls' high schools were ordered shut hours after they re-opened, sparking anger and frustration. 
  <p class="updated_time"> 02:52 AM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088169464/ash-barty-announces-surprise-retirement-from-tennis">Ash Barty announces surprise retirement from tennis</a> NPR: The world No. 1 women's tennis player, has retired at just 25, only two months after winning the Australian open, saying she wants to pursue other dreams 
- <p class="updated_time"> 02:33 AM CT, Mar. 23 </p> 
+ <p class="updated_time"> 02:45 AM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-to-sanction-hundreds-of-russian-lawmakers-u-s-officials-say-11647987148">Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say</a> WSJ: Biden to Sanction Hundreds of Russian Lawmakers, U.S. Officials Say 
  <p class="updated_time"> 02:01 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/asia/nepal-gurkha-veteran-protests.html">Gurkha Veterans Fight a Colonial-Era Legacy Still Shaping Nepal</a> NYT: Nepal’s best and brightest have been recruited while young to fight for Britain for over 200 years, with their pay and pensions a fraction of their fellow British soldiers’ for much of that time. 
@@ -41,17 +41,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/business/china-divorce-marriage.html">China’s Divorce Rate Is Down, but So Are Marriages</a> NYT: While officials say a new law has helped save marriages, the bigger challenge in the country’s demographic crisis is that fewer people are getting married in the first place. 
  <p class="updated_time"> 01:46 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60843262?at_medium=RSS&at_campaign=KARANGA">Evan Neumann: US Capitol riot suspect gets asylum in Belarus</a> BBC: Evan Neumann fled to Europe after being charged in connection with the 6 January riot. 
+ <p class="updated_time"> 01:45 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
  <p class="updated_time"> 01:39 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/putin-russia-military-planning.html">As Russia Stalls in Ukraine, Dissent Brews Over Putin’s Leadership</a> NYT: Military losses have mounted, progress has slowed, and a blame game has begun among some Russian supporters of the war. 
- <p class="updated_time"> 01:33 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-war-tests-europes-capacity-to-welcome-them-11647967874">Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them</a> WSJ: Flood of Ukrainian Refugees Tests Europe’s Capacity to Welcome Them 
+ <p class="updated_time"> 12:45 AM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 12:42 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60843582?at_medium=RSS&at_campaign=KARANGA">New Orleans: One killed as tornado tears through suburbs</a> BBC: A huge funnel cloud passes through neighbourhoods, ripping off roofs and cutting out power. 
- <p class="updated_time"> 12:33 AM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-opposition-leader-alexei-navalny-sentenced-to-nine-more-years-in-prison-11647956229">Russian Opposition Leader Navalny Sentenced to More Prison Time</a> WSJ: Russian Opposition Leader Navalny Sentenced to More Prison Time 
  <p class="updated_time"> 12:21 AM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60844358?at_medium=RSS&at_campaign=KARANGA">Danish Siddiqui: Slain India journalist's parents take Taliban to court</a> BBC: Indian photojournalist Danish Siddiqui's parents say the Taliban tortured and killed their son. 
- <p class="updated_time"> 11:33 PM CT, Mar. 22 </p> 
+ <p class="updated_time"> 11:45 PM CT, Mar. 22 </p> 
  <a href="https://www.wsj.com/articles/no-survivors-found-at-site-of-china-eastern-airlines-crash-11647925755">No Survivors Found at Site of China Eastern Airlines Plane Crash</a> WSJ: No Survivors Found at Site of China Eastern Airlines Plane Crash 
  <p class="updated_time"> 11:05 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/australia/brian-houston-hillsong-resign.html">Hillsong’s Brian Houston Resigns Amid Scandals</a> NYT: Brian Houston was accused of breaching the church’s code of conduct after two women said he had behaved inappropriately. 
@@ -228,6 +228,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html">Russia and Far-Right Americans Find Common Ground With Ukraine War</a> NYT: Some conservatives have echoed the Kremlin’s misleading claims about the war and vice versa, giving each other’s assertions a sheen of credibility. 
  <p class="updated_time"> 03:31 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/republicans-supreme-court-confirmation-hearing-00019458">GOP's 2024 contenders leap into Supreme Court spotlight</a> Politico: A quartet of Republican presidential hopefuls aren't afraid to use their Judiciary Committee lecterns to audition for presidential runs. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/russia-ukraine-cyberwar-putin-00019440">The world holds its breath for Putin's cyberwar</a> Politico: Moscow’s slowness to unleash its cyber might against Ukraine has scrambled long-held assumptions about the future of warfare — even as warnings grow that attacks are imminent. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/health-data-breaches-2021-hacking-surge-politico-00019283">Health data breaches swell in 2021 amid hacking surge, POLITICO analysis finds</a> Politico: Health care organizations including providers and insurers in every state except South Dakota reported such incidents last year. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/agenda/2022/03/23/bidencare-unfinished-agenda-obamacare-campaign-00019272">Bidencare’s Unfinished Agenda</a> Politico: Blame the pandemic, Joe Manchin or monopolists. But the president’s ambitious health care plans are faltering. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/psychedelics-magic-mushrooms-cannabis-legalization-00016995">How 'magic mushrooms' could follow in the footsteps of cannabis</a> Politico: A growing number of states are considering bills to expand research or access to the drugs. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/bitcoin-new-hampshire-gop-senate-primary-00019497">Bitcoiner eyes New Hampshire GOP Senate primary</a> Politico: The libertarian-aligned financial adviser would self-fund with $5 million in crypto wealth. 
  <p class="updated_time"> 03:27 AM CT, Mar. 23 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:36 PM CT, Mar. 22 </p> 
@@ -264,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/hillary-clinton-tests-positive-for-covid-00019491">Hillary Clinton tests positive for Covid</a> Politico: The onetime Democratic presidential nominee reported mild symptoms and said former President Bill Clinton “tested negative and is feeling fine.” 
  <p class="updated_time"> 06:28 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/russian-hackers-probing-u-s-energy-companies-networks-fbi-warns-00019485">Russian hackers probing U.S. energy companies' networks, FBI warns</a> Politico: The alert to industry is dated days before President Joe Biden said publicly that cyberattacks from Russia are "coming." 
- <p class="updated_time"> 06:09 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/durbin-defends-jackson-says-congress-has-failed-to-do-its-job-on-sentencing-guidelines-00019457">Durbin, defending Jackson, says Congress has failed to do its job on sentencing guidelines</a> Politico: “I hope we all agree that we want to do everything in our power, reasonably within our power, to lessen the incidence of pornography and exploitation of children,” Durbin said. 
  <p class="updated_time"> 06:03 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/hawley-jackson-child-pornography-sentencing-record-00019481">Hawley presses Jackson on child pornography sentencing record</a> Politico: "My only point to you is that judges are doing the work of assessing in each case a number of factors that are set forward by Congress," Jackson said. 
  <p class="updated_time"> 06:02 PM CT, Mar. 22 </p> 
@@ -312,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/ukraine-weapons-military-aid-00019104">The weapons and military aid the world is giving Ukraine</a> Politico: More than 25 countries have joined in delivering support to Ukraine’s war effort. Here's what we know. 
  <p class="updated_time"> 01:52 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/arts/compact-magazine-conservatives-marxists.html">Two Religious Conservatives and a Marxist Walk Into a Journal</a> NYT: Compact, a new online magazine edited by two religious conservatives and a Marxist proponent of “labor populism,” aims to challenge both “a libertine left and a libertarian right.” 
- <p class="updated_time"> 01:37 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/pentagon-scrambles-to-replenish-weapons-stocks-sent-to-ukraine-00019333">Pentagon scrambles to replenish weapons stocks sent to Ukraine</a> Politico: Lawmakers want the U.S. to make more missiles, but companies will wait until they have contracts before cranking up production. 
  <p class="updated_time"> 01:28 PM CT, Mar. 22 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2022/03/22/1088075082/jen-psaki-tests-positive-for-covid-19">White House press secretary Jen Psaki tests positive (again) for COVID-19</a> NPR: In a statement posted to Twitter, Psaki says she had two "socially-distanced meetings" with President Biden on Monday and said he was not considered a close contact. His most recent test was negative. 
  <p class="updated_time"> 01:12 PM CT, Mar. 22 </p> 
@@ -326,10 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/project-veritas-feds-secretly-accessed-emails-00019247">Project Veritas says feds secretly accessed its emails</a> Politico: Lawyer for hidden-camera-sting producer says prosecutors misled court, improperly prolonged gag orders. 
  <p class="updated_time"> 11:01 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/lindsey-graham-kbj-faith-questioning-00019224">Graham vents Barrett faith grievances in Jackson questioning</a> Politico: Justice Amy Coney Barrett faced questions at her 2020 Supreme Court confirmation hearing about how her faith might inform how she would rule from the bench. 
- <p class="updated_time"> 10:55 AM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/trudeau-prime-minister-until-2025-00019202">Trudeau will be prime minister until 2025</a> Politico: The Liberals and New Democrats brokered a deal that will keep minority government in power until the next election. 
- <p class="updated_time"> 10:05 AM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/russian-entities-lobbying-disclosure-00019221">How Russian entities are retaining much of their D.C. lobbying influence</a> Politico: Though they are state-owned entities, some now-sanctioned Russian businesses never registered to lobby through FARA. It allowed them to avoid additional disclosures. 
  <p class="updated_time"> 09:20 AM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-jackson-hearing-election-republicans.html">G.O.P. Questions to Judge Jackson Give Preview of November Attack Lines</a> NYT: G.O.P. senators are pressing Judge Jackson on critical race theory and transgender rights, teeing up their attacks on Democrats as extremists. 
  <p class="updated_time"> 09:19 AM CT, Mar. 22 </p> 
@@ -350,6 +352,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/democrats-ketanji-brown-jackson-confirmation-00019063">Jackson vocally rebuts GOP criticism of her sex offense sentencing record</a> Politico: Senators questioned the Supreme Court pick after the GOP trotted out a favored Democratic strategy: slamming unelected advocacy groups for pushing a nominee. 
  <p class="updated_time"> 03:30 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/progressives-kurt-schrader-congress-oregon-primary-00019083">Progressives find a new takedown target in the House</a> Politico: In what could become the next marquee Democratic primary, top liberal groups are aiming to knock off moderate Rep. Kurt Schrader in Oregon. 
+ <p class="updated_time"> 06:32 PM CT, Mar. 21 </p> 
+ <a href="https://www.politico.com/news/2022/03/21/greitens-allegations-missouri-senate-00019076">Greitens allegations spark GOP fears of losing Missouri Senate seat</a> Politico: The disgraced former governor is not expected to exit the race anytime soon. 
  <p class="updated_time"> 06:02 PM CT, Mar. 21 </p> 
  <a href="https://www.politico.com/news/2022/03/21/russia-trade-sanctions-senate-hurdle-00019066">Senate labors to give Biden another win on Ukraine</a> Politico: The House voted overwhelmingly for a measure designed to help Ukraine. But the upper-chamber GOP wants an oil import ban addressed too. 
  <p class="updated_time"> 04:39 PM CT, Mar. 21 </p> 
