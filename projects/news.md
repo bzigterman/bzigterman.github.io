@@ -9,30 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:49 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html">E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act</a> NYT: The Digital Markets Act is the most sweeping legislation to regulate tech since a European privacy law was passed in 2018. 
+ <p class="updated_time"> 05:48 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Live Updates: Ukraine’s Counteroffensive Shifts Dynamic of War</a> NYT: President Biden met with European leaders in Brussels to reinforce solidarity against Russia’s invasion and proposed excluding Russia from the G20. Ukraine said it had destroyed a Russian naval ship. 
  <p class="updated_time"> 05:26 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
- <p class="updated_time"> 05:20 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Live Updates: Ukraine’s Counteroffensive Shifts Dynamic of War</a> NYT: President Biden met with European leaders in Brussels to reinforce solidarity against Russia’s invasion and proposed excluding Russia from the G20. Ukraine said it had destroyed a Russian naval ship. 
  <p class="updated_time"> 05:19 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/north-korea-missile-icbm.html">With U.S. Focus on Ukraine, North Korea Launches a Powerful New ICBM</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 05:13 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
- <p class="updated_time"> 04:42 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html">E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act</a> NYT: The European Union was expected to finalize the Digital Markets Act, the most sweeping legislation to regulate tech since a European privacy law was passed in 2018. 
+ <p class="updated_time"> 04:55 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 04:41 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-russia-g20.html">Biden Says Russia Should Be Ejected From G20</a> NYT: Such a move would echo the 2014 decision of a smaller group of the world’s largest economies to punish it for its invasion and occupation of Ukraine’s Crimean peninsula. 
  <p class="updated_time"> 04:40 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/climate/methane-leaks-new-mexico.html">Methane Leaks Plague New Mexico Oil and Gas Wells</a> NYT: An analysis found leaks of methane, a potent greenhouse gas, from oil and gas drilling in the Permian Basin were many times higher than government estimates. 
  <p class="updated_time"> 04:28 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088519053/a-month-into-the-russia-ukraine-war-what-happened-today-march-24">A month into the Russia-Ukraine war: What happened today (March 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:27 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 04:21 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/un-general-assembly-russia-ukraine.html">U.N. General Assembly Vote Further Isolates Russia on Ukraine War</a> NYT: Syria, North Korea, Eritrea and Belarus voted against the resolution, joining Russia, which called the measure “pseudo-humanitarian.” 
  <p class="updated_time"> 03:57 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639570/russias-current-war-tactics-are-strikingly-similar-to-its-2008-invasion-of-georg">Russia's current war tactics are strikingly similar to its 2008 invasion of Georgia</a> NPR: Russia invaded Georgia in 2008, and many of the war tactics are chillingly similar to what we're seeing in Ukraine now. Did Russia develop its "playbook" 14 years ago? 
  <p class="updated_time"> 03:57 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639539/the-u-s-will-welcome-up-to-100-000-ukrainians-fleeing-the-russian-invasion">The U.S. will welcome up to 100,000 Ukrainians fleeing the Russian invasion</a> NPR: NPR's Juana Summers speaks with Krish O'mara Vignarajah, president of Lutheran Immigration and Refugee Service, about the efforts to welcome Ukrainian refugees in the U.S. 
+ <p class="updated_time"> 03:55 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 03:55 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/intelligence-agencies-ukraine-afghanistan.html">Why the U.S. Was Wrong About Ukraine and the Afghan War</a> NYT: U.S. intelligence agencies thought the Afghan military would last longer and predicted Kyiv would fall faster, showing the difficulty of assessing fighting spirit. 
  <p class="updated_time"> 03:53 PM CT, Mar. 24 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/africa/ethiopia-tigray-conflict-truce.html">Ethiopia Declares ‘Humanitarian Truce’ in War-Ravaged Tigray Region</a> NYT: The conflict, now lasting 17 months, has left thousands dead, millions displaced and hindered aid from reaching those going hungry in the country’s northern region. 
  <p class="updated_time"> 03:34 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639476/international-energy-agency-looked-at-how-to-wean-nations-off-russias-fossil-fue">International Energy Agency looked at how to wean nations off Russia's fossil fuels</a> NPR: The International Energy Agency ended a meeting Thursday that focused on how to settle energy markets made more volatile by Russia's war on Ukraine, sanctions and businesses pulling out. 
- <p class="updated_time"> 03:27 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 03:26 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639455/a-look-at-the-stream-of-weapons-the-u-s-is-supplying-to-ukraine">A look at the stream of weapons the U.S. is supplying to Ukraine</a> NPR: Ukraine may be outgunned, but to the surprise of many, it has punched back hard against Russia. The U.S. is supplying lots of Ukraine's most effective weapons, which are coming into the country daily. 
  <p class="updated_time"> 03:26 PM CT, Mar. 24 </p> 
@@ -59,9 +59,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60867785?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Digging a grave for my stepfather, killed in Mariupol</a> BBC: Viktoria’s stepfather died when the car taking him to hospital was blown up during fighting in Mariupol. 
  <p class="updated_time"> 03:02 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60867786?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The dangers faced by front line fighters in Kharkiv</a> BBC: A month into the war, Mark and Vlad, both 22, show the BBC the perils they face every day in Kharkiv. 
- <p class="updated_time"> 02:27 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 02:55 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
- <p class="updated_time"> 01:27 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 01:55 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
  <p class="updated_time"> 01:27 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088480292/ukraine-russia-war-simon-shuster">Reporter describes an astounding amount of military hardware going in to help Ukraine</a> NPR: Time reporter Simon Shuster recently returned from the Ukrainian-Polish border. Watching as U.S. planes brought in loads of weapons, he felt like he was standing on the brink of something massive. 
@@ -69,7 +69,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-war-russia-stalemate.html">How One Month of War in Ukraine Ground to a Bloody Stalemate</a> NYT: In four weeks, huge numbers of civilians have been bombed and displaced, but Russia has so far achieved almost none of its military objectives, analysts say. 
  <p class="updated_time"> 01:04 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088593653/snake-island-sailors-freed-prisoner-swap">Snake Island sailors are freed as Ukraine and Russia conduct a prisoner exchange</a> NPR: Ukrainian soldiers at the Black Sea outpost made headlines at the start of the war by profanely defying threats from a Russian warship. Russia and Ukraine each exchanged 10 prisoners on Thursday. 
- <p class="updated_time"> 12:27 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 12:55 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 12:21 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60831476?at_medium=RSS&at_campaign=KARANGA">Australia floods: 'We're resilient, but how about helping us?'</a> BBC: Locals tell dramatic stories of survival and recovery, but accuse politicians of ignoring them. 
@@ -198,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:46 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/style/ketanji-brown-jackson-daughter-photo.html">Ketanji Brown Jackson’s Daughter and That Photo</a> NYT: A Times photographer talks about documenting history and pride at the Supreme Court confirmation hearings. 
+ <p class="updated_time"> 05:29 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/peter-navarro-dan-scavino-contempt-charges.html">Jan. 6 Panel Warns of Contempt Charges Against Two More Trump Allies</a> NYT: The House committee said it would start contempt proceedings against Peter Navarro and Dan Scavino, and pressed its case that fund-raising emails falsely asserting election fraud helped stoke the Capitol riot. 
  <p class="updated_time"> 05:26 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
  <p class="updated_time"> 04:56 PM CT, Mar. 24 </p> 
@@ -226,8 +230,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088217548/hawleys-attacks-on-ketanji-brown-jackson-fuel-a-surge-in-online-conspiracy-chatt">Hawley's attacks on Ketanji Brown Jackson fuel a surge in online conspiracy chatter</a> NPR: The far-right internet only began to obsess about Supreme Court nominee Ketanji Brown Jackson after a series of tweets from Sen. Josh Hawley echoed themes used by conspiracy theorists. 
  <p class="updated_time"> 03:15 PM CT, Mar. 24 </p> 
  <a href="https://www.cnn.com/2022/03/21/politics/gallery/ketanji-brown-jackson-confirmation-hearings/index.html">In pictures: Ketanji Brown Jackson's confirmation hearings</a> CNN: Thursday was the final day of confirmation hearings for Ketanji Brown Jackson, the first Black woman ever to be nominated for the US Supreme Court. 
- <p class="updated_time"> 03:03 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/style/ketanji-brown-jackson-daughter-photo.html">Ketanji Brown Jackson’s Daughter and That Photo</a> NYT: A Times photographer talks about documenting history and pride at the Supreme Court confirmation hearings. 
  <p class="updated_time"> 02:59 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/gop-fight-ketanji-brown-jackson-00020186">GOP frets over how hard to fight Jackson</a> Politico: Republican senators could slow down the Supreme Court nominee by unilaterally opposing her in committee. But they won't engage in tactics to hold her up indefinitely. 
  <p class="updated_time"> 02:25 PM CT, Mar. 24 </p> 
@@ -316,16 +318,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-cory-booker.html">Cory Booker Tells Ketanji Brown Jackson: ‘You Are Worthy’</a> NYT: Senator Cory Booker, the only Black senator on the 22-member Judiciary Committee, offered Judge Jackson a respite from a series of conservative attacks. 
  <p class="updated_time"> 08:34 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/fortenberry-trial-eshoo-congress-honest-00019931">Fellow member of Congress on trial is 'honest,' California lawmaker testifies</a> Politico: Nebraska Rep. Jeff Fortenberry is charged with lying to the FBI. 
- <p class="updated_time"> 08:26 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-confirmation-hearing.html">Confirmation Hearings, Once Focused on Law, Are Now Mired in Politics</a> NYT: Partisan talking points replaced questions about legal issues at Judge Ketanji Brown Jackson’s hearings. 
  <p class="updated_time"> 07:37 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/arts/ted-cruz-mlk-critical-race-theory-supreme-court.html">During Supreme Court Hearings, Ted Cruz Invokes Dr. King, and Scholars See a Familiar Distortion</a> NYT: In the confirmation hearings of Judge Ketanji Brown Jackson, the senator cited the famous “I Have a Dream” speech to suggest King would have opposed race-conscious policies. 
- <p class="updated_time"> 06:47 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/business/boeing-trial-737-max-mark-forkner.html">Jury Finds Former Boeing Pilot Not Guilty of Fraud in 737 Max Case</a> NYT: The pilot, Mark Forkner, was the only person to face criminal charges for flaws that resulted in two fatal crashes of one of Boeing’s most important planes. 
  <p class="updated_time"> 06:20 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-child-abuse-case.html">Judge Ketanji Brown Jackson’s Sentencing of a 2013 Case Is Attacked by Republicans</a> NYT: Judge Ketanji Brown Jackson’s handling of a 2013 case involving images of child sexual abuse was not quite the way Republicans portrayed it. 
- <p class="updated_time"> 06:20 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html">NASA Plans to Give SpaceX Some Company on the Moon</a> NYT: The agency will seek bids for future lunar landing spacecraft from companies other than SpaceX, which won the first contract to return American astronauts to the moon. 
  <p class="updated_time"> 06:12 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-presentence-reports.html">Republicans Seek Confidential Presentence Reports in Jackson Cases</a> NYT: Such reports typically contain personal information about a defendant, and might include sensitive details about their relationships, including victims. 
  <p class="updated_time"> 06:05 PM CT, Mar. 23 </p> 
