@@ -19,16 +19,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/03/24/world/north-korea-icbm-launch/north-korea-icbm-launch">The test is the North’s first intercontinental missile firing since 2017.</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 04:50 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military Is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
+ <p class="updated_time"> 04:41 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine 
  <p class="updated_time"> 04:26 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60856855?at_medium=RSS&at_campaign=KARANGA">China Eastern crash: What do we know so far?</a> BBC: The plane with 132 people had been steadily cruising when it suddenly dived thousands of metres. 
- <p class="updated_time"> 04:24 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine 
  <p class="updated_time"> 04:04 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">What Happened on Day 28 of Russia’s Invasion of Ukraine</a> NYT: President Biden will press allies in Brussels to help impose even more aggressive sanctions on Russia. NATO says it is doubling the number of battlegroups on its eastern flank to eight. 
  <p class="updated_time"> 04:01 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60849917?at_medium=RSS&at_campaign=KARANGA">Western leaders meet to discuss Ukraine support</a> BBC: President Joe Biden joins leaders of Nato, the EU and G7 in response to the invasion of Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/ukranian-world-war-ii-survivors.html">‘A Frightening Repeat’: Ukrainian World War II Survivors Face Conflict Again</a> NYT: Nearly 80 years after Ukraine emerged from a devastating world war that killed more than five million of its people, Russia’s invasion has stirred memories that the country had struggled to overcome. 
+ <a href="https://www.nytimes.com/2022/03/24/world/ukranian-ww2-survivors.html">‘A Frightening Repeat’: Ukrainian World War II Survivors Face Conflict Again</a> NYT: Nearly 80 years after Ukraine emerged from a devastating world war that killed more than five million of its people, Russia’s invasion has stirred memories that the country had struggled to overcome. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088330756/madeleine-albright-putin-russia">Madeleine Albright had a lot to say about Putin — and she didn't mince words</a> NPR: The former U.S. secretary of state recalled the first time she met Russian President Vladimir Putin back in 1999 during the Clinton administration. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
@@ -39,25 +39,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/asia/afghanistan-highway-kabul-kandahar.html">A Bomb Crater as Business Partner for a Pit Stop on an Afghan Highway</a> NYT: Along a lonely stretch of what was once the most dangerous road in Afghanistan, everyone slows down when they reach Hafiz Qadim’s mud brick shop. It’s not the food. Or the gas. It’s the big hole. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/video/world/100000008253877/ukranian-refugees-moldova.html">‘Is There Shooting Here?’ Ukrainians Find Refuge in Moldova</a> NYT: Moldova, one of Europe’s smallest and poorest countries, has taken in more than 100,000 refugees from Ukraine. But Moldova’s ability to protect them is reaching a breaking point. 
+ <p class="updated_time"> 03:41 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 03:37 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 03:36 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088458947/north-korea-fires-suspected-long-range-missile-toward-sea">North Korea fires suspected long-range missile toward sea</a> NPR: Experts say the North's fast pace in testing activity shows its dual goal of advancing its weaponry and applying pressure on Washington over a deepening freeze in nuclear negotiations. 
  <p class="updated_time"> 03:28 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/australia/new-zealand-offshore-refugees.html">Australia Agrees to Let New Zealand Resettle Offshore Refugees</a> NYT: Under the arrangement, first offered in 2013, New Zealand will take in 150 refugees a year for three years from Australia’s widely criticized detention system. 
- <p class="updated_time"> 03:24 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 03:07 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-journalists-quit-propaganda.html">Fed Up With Deadly Propaganda, Some Russian Journalists Quit</a> NYT: At least four state television employees have publicly resigned, citing regret for their roles in promoting false narratives about Ukraine. 
+ <p class="updated_time"> 02:41 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
  <p class="updated_time"> 02:38 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60857013?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: Retiring world number one says 'wait and see' on plans</a> BBC: World number one Ashleigh Barty tells people to "wait and see" about her next move following her shock retirement at the age of 25. 
  <p class="updated_time"> 02:33 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60858611?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky calls on people to 'support freedom' and oppose Russia</a> BBC: Volodymyr Zelensky made his appeal in English, marking one month since Russia invaded Ukraine. 
- <p class="updated_time"> 02:24 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
- <p class="updated_time"> 01:24 AM CT, Mar. 24 </p> 
+ <p class="updated_time"> 01:41 AM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
- <p class="updated_time"> 12:24 AM CT, Mar. 24 </p> 
+ <p class="updated_time"> 12:41 AM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/nicaraguas-oas-envoy-blasts-his-own-government-as-dictatorship-11648078716">Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship</a> WSJ: Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship 
  <p class="updated_time"> 12:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/war-crimes-russia-us.html">The U.S. Government Accuses Russian Forces of War Crimes</a> NYT: In a statement, the U.S. secretary of state, Antony J. Blinken, cited the destruction of “apartment buildings, schools, hospitals, critical infrastructure, civilian vehicles, shopping centers, and ambulances.” 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60835106?at_medium=RSS&at_campaign=KARANGA">A bomb hit this theatre hiding hundreds - here's how one woman survived</a> BBC: The BBC speaks to survivors of the Mariupol theatre attack, who describe for the first time what happened. 
  <p class="updated_time"> 01:47 PM CT, Mar. 22 </p> 
  <a href="https://www.nytimes.com/2022/03/22/world/europe/russia-ukraine-pentagon.html">Russia’s Forces Against Ukraine Have Shrunk, Pentagon Says</a> NYT: The official said that Russian forces were “struggling on many fronts,” and that there were indications that some troops had been evacuated with frostbite. 
- <p class="updated_time"> 09:27 AM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/americas/russia-margarita-venezuela.html">Vacations Abruptly End as Tourists Return  to a Different Russia</a> NYT: While Russian tourists were visiting Margarita Island, their country invaded Ukraine. Many were left wondering what travails awaited them back at home. 
 
 
 </details>
