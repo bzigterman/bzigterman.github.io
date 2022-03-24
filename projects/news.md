@@ -9,16 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:29 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/climate/methane-leaks-new-mexico.html">Methane Leaks Plague New Mexico Oil and Gas Wells</a> NYT: An analysis found leaks of methane, a potent greenhouse gas, from oil and gas drilling in the Permian Basin were many times higher than government estimates. 
+ <p class="updated_time"> 04:28 PM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088519053/a-month-into-the-russia-ukraine-war-what-happened-today-march-24">A month into the Russia-Ukraine war: What happened today (March 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:28 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Live Updates: Ukraine’s Counteroffensive Shifts Dynamic of War</a> NYT: President Biden met with European leaders in Brussels to reinforce solidarity against Russia’s invasion and proposed excluding Russia from the G20. Ukraine said it had destroyed a Russian naval ship. 
+ <p class="updated_time"> 04:21 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/world/europe/un-general-assembly-russia-ukraine.html">U.N. General Assembly Vote Further Isolates Russia on Ukraine War</a> NYT: Syria, North Korea, Eritrea and Belarus voted against the resolution, joining Russia, which called the measure “pseudo-humanitarian.” 
+ <p class="updated_time"> 04:20 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
+ <p class="updated_time"> 04:14 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-russia-g20.html">Biden Says Russia Should be Ejected from G20</a> NYT: Such a move would echo the 2014 decision of a smaller group of the world’s largest economies to punish it for its invasion and occupation of Ukraine’s Crimean peninsula. 
  <p class="updated_time"> 03:57 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Ukraine Live Updates: Biden Says Russia Should Be Ejected From G20</a> NYT: President Biden spoke to reporters after a day of meeting with European leaders about Russia’s invasion of Ukraine. He said he raised the possibility of excluding Russia from the economic group. 
+ <a href="https://www.npr.org/2022/03/24/1088639570/russias-current-war-tactics-are-strikingly-similar-to-its-2008-invasion-of-georg">Russia's current war tactics are strikingly similar to its 2008 invasion of Georgia</a> NPR: Russia invaded Georgia in 2008, and many of the war tactics are chillingly similar to what we're seeing in Ukraine now. Did Russia develop its "playbook" 14 years ago? 
+ <p class="updated_time"> 03:57 PM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088639539/the-u-s-will-welcome-up-to-100-000-ukrainians-fleeing-the-russian-invasion">The U.S. will welcome up to 100,000 Ukrainians fleeing the Russian invasion</a> NPR: NPR's Juana Summers speaks with Krish O'mara Vignarajah, president of Lutheran Immigration and Refugee Service, about the efforts to welcome Ukrainian refugees in the U.S. 
  <p class="updated_time"> 03:55 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/intelligence-agencies-ukraine-afghanistan.html">Why the U.S. Was Wrong About Ukraine and the Afghan War</a> NYT: U.S. intelligence agencies thought the Afghan military would last longer and predicted Kyiv would fall faster, showing the difficulty of assessing fighting spirit. 
- <p class="updated_time"> 03:55 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/un-general-assembly-russia-ukraine.html">U.N. General Assembly Vote Further Isolates Russia on Ukraine War</a> NYT: Syria, North Korea, Eritrea and Belarus voted against the resolution, joining Russia, which called the measure “pseudo-humanitarian.” 
+ <p class="updated_time"> 03:53 PM CT, Mar. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60868795?at_medium=RSS&at_campaign=KARANGA">Donald Trump sues Hillary Clinton over Russian collusion allegations</a> BBC: Donald Trump's campaign was accused of conspiring with Russian agents to influence the 2016 election. 
  <p class="updated_time"> 03:52 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639483/biden-lays-out-3-main-goals-after-meeting-with-leaders-about-ukraine">Biden lays out 3 main goals after meeting with leaders about Ukraine</a> NPR: President Biden spoke to reporters after wrapping up meetings with NATO and G-7 leaders about Russia's invasion of Ukraine. allies have had three goals: to help Ukraine, to economically punish Russia, 
  <p class="updated_time"> 03:39 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/africa/ethiopia-tigray-conflict-truce.html">Ethiopia Declares ‘Humanitarian Truce’ in War-Ravaged Tigray Region</a> NYT: The conflict, now lasting 17 months, has left thousands dead, millions displaced and hindered aid from reaching those going hungry in the country’s northern region. 
+ <p class="updated_time"> 03:37 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 03:34 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639476/international-energy-agency-looked-at-how-to-wean-nations-off-russias-fossil-fue">International Energy Agency looked at how to wean nations off Russia's fossil fuels</a> NPR: The International Energy Agency ended a meeting Thursday that focused on how to settle energy markets made more volatile by Russia's war on Ukraine, sanctions and businesses pulling out. 
  <p class="updated_time"> 03:26 PM CT, Mar. 24 </p> 
@@ -37,20 +53,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60867785?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Digging a grave for my stepfather, killed in Mariupol</a> BBC: Viktoria’s stepfather died when the car taking him to hospital was blown up during fighting in Mariupol. 
  <p class="updated_time"> 03:02 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60867786?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The dangers faced by front line fighters in Kharkiv</a> BBC: A month into the war, Mark and Vlad, both 22, show the BBC the perils they face every day in Kharkiv. 
- <p class="updated_time"> 02:59 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
- <p class="updated_time"> 02:24 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-russia-g20.html">Biden Says Russia Should be Ejected from G20</a> NYT: Such a move would echo the 2014 decision of a smaller group of the world’s largest economies to punish it for its invasion and occupation of Ukraine’s Crimean peninsula. 
- <p class="updated_time"> 01:59 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 02:37 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
+ <p class="updated_time"> 01:37 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
  <p class="updated_time"> 01:27 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088480292/ukraine-russia-war-simon-shuster">Reporter describes an astounding amount of military hardware going in to help Ukraine</a> NPR: Time reporter Simon Shuster recently returned from the Ukrainian-Polish border. Watching as U.S. planes brought in loads of weapons, he felt like he was standing on the brink of something massive. 
  <p class="updated_time"> 01:12 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-war-russia-stalemate.html">How One Month of War in Ukraine Ground to a Bloody Stalemate</a> NYT: In four weeks, huge numbers of civilians have been bombed and displaced, but Russia has so far achieved almost none of its military objectives, analysts say. 
  <p class="updated_time"> 01:04 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088593653/snake-island-sailors-freed-prisoner-swap">Snake Island sailors are freed as Ukraine and Russia conduct a prisoner exchange</a> NPR: Ukrainian soldiers at the Black Sea outpost made headlines at the start of the war by profanely defying threats from a Russian warship. Russia and Ukraine each exchanged 10 prisoners on Thursday. 
- <p class="updated_time"> 12:59 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
+ <p class="updated_time"> 12:37 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
  <p class="updated_time"> 12:21 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60831476?at_medium=RSS&at_campaign=KARANGA">Australia floods: 'We're resilient, but how about helping us?'</a> BBC: Locals tell dramatic stories of survival and recovery, but accuse politicians of ignoring them. 
  <p class="updated_time"> 12:16 PM CT, Mar. 24 </p> 
@@ -59,12 +73,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60866283?at_medium=RSS&at_campaign=KARANGA">Ukraine-Russia: The 76-year-old artist taking on Putin</a> BBC: "What's happening is a disgrace," says Elena, who was carried away by police for anti-war protests. 
  <p class="updated_time"> 12:00 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/who-omicron-variant-ba2-cases.html">BA.2 Omicron Subvariant Driving Most Global Cases, W.H.O. Says </a> NYT: Globally, BA.2 made up about 86 percent of cases reported to the W.H.O. between Feb. 16 and March 17, the agency said in a report on Tuesday. 
- <p class="updated_time"> 11:59 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
  <p class="updated_time"> 11:55 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088573041/australia-new-zealand-boat-refugees">After criticism, Australia accepts New Zealand's offer to resettle boat refugees</a> NPR: Australia designed a policy of keeping boat refugees far from its shores to deter more of them from trying to make the voyage. But many critics say such policies violate human rights. 
  <p class="updated_time"> 11:43 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088560767/ukraine-children-displaced-war">One month of war has displaced more than half of Ukrainian children</a> NPR: More than 4.3 million children have fled their homes in the month since Russia invaded Ukraine, according to UNICEF. It warns that consequences could last for generations to come. 
+ <p class="updated_time"> 11:37 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 11:15 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/afghanistan-highway-kabul-kandahar.html">A Bomb Crater as Business Partner for a Pit Stop on an Afghan Highway</a> NYT: Along a lonely stretch of what was once the most dangerous road in Afghanistan, everyone slows down when they reach Hafiz Qadim’s mud brick shop. It’s not the food. Or the gas. It’s the big hole. 
  <p class="updated_time"> 11:14 AM CT, Mar. 24 </p> 
@@ -73,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088538401/russian-journalist-oksana-baulina-killed">A Russian journalist was killed by shelling while on assignment in Kyiv</a> NPR: Oksana Baulina reported on government corruption for The Insider, based in Latvia. She formerly worked for the non-profit of Kremlin critic Alexei Navalny and was "amazingly brave," a colleague said. 
  <p class="updated_time"> 11:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/nato-ukraine-russia-chemical-biological-weapons.html">NATO to Provide Ukraine Training for a Possible Chemical or Nuclear Attack</a> NYT: The alliance will offer Ukraine detection equipment, protection and medical support, as well as training for decontamination and crisis management. 
- <p class="updated_time"> 10:59 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 10:46 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-landing-ship-berdyansk-ukraine.html">Ukrainian Forces Claim to Destroy a Russian Landing Ship</a> NYT: The destruction of the ship would be a success for the Ukrainians as they seek to keep Russia from reinforcing and resupplying its forces as they struggle to gain momentum. 
  <p class="updated_time"> 10:33 AM CT, Mar. 24 </p> 
@@ -105,10 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/european-tree-of-the-year-russia.html">Poland Wins European Tree of the Year After Russia Is Banned</a> NYT: After Russia was banned from the European Tree of the Year competition, organizers reflected on how a celebration of trees became tangled up in global politics. 
  <p class="updated_time"> 08:39 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60860548?at_medium=RSS&at_campaign=KARANGA">Defiant Ukrainian troops tell Russians: 'Go home while you're still alive'</a> BBC: Quentin Sommerville and cameraman Darren Conway have spent time with two fighters since the very start. 
- <p class="updated_time"> 08:38 AM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088475000/madeleine-albrights-teaching-continues-through-these-books">Madeleine Albright's teaching continues — through these books</a> NPR: The first female secretary of state's legacy lives on — not only in the history she made but also in teachings and reflections. Here are some of the books she leaves for us, and future generations. 
- <p class="updated_time"> 08:33 AM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088506487/us-ukraine-refugees">The U.S. will take in up to 100,000 Ukrainian refugees fleeing the war</a> NPR: The United States will welcome up to 100,000 Ukrainians and other displaced people fleeing the conflict in Ukraine, a senior administration official told reporters traveling with President Biden. 
  <p class="updated_time"> 08:10 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60858999?at_medium=RSS&at_campaign=KARANGA">North Korea tests banned intercontinental missile</a> BBC: It is the first time such a missile, which puts the US within reach, has been tested since 2017. 
  <p class="updated_time"> 07:28 AM CT, Mar. 24 </p> 
@@ -123,14 +131,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-eastern-crash-pilot.html">China Eastern Pilots Were Experienced, Adding to Mystery of Crash</a> NYT: Two industry veterans were at the controls of Flight 5735, which took a sudden dive in good weather. At the crash site in southern China, search crews found wing and engine parts on Thursday. 
  <p class="updated_time"> 04:26 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60856855?at_medium=RSS&at_campaign=KARANGA">China Eastern crash: What do we know so far?</a> BBC: The plane with 132 people had been steadily cruising when it suddenly dived thousands of metres. 
- <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088330756/madeleine-albright-putin-russia">Madeleine Albright had a lot to say about Putin — and she didn't mince words</a> NPR: The former U.S. secretary of state recalled the first time she met Russian President Vladimir Putin back in 1999 during the Clinton administration. 
  <p class="updated_time"> 03:28 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/australia/new-zealand-offshore-refugees.html">Australia Agrees to Let New Zealand Resettle Offshore Refugees</a> NYT: Under the arrangement, first offered in 2013, New Zealand will take in 150 refugees a year for three years from Australia’s widely criticized detention system. 
  <p class="updated_time"> 03:07 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-journalists-quit-propaganda.html">Fed Up With Deadly Propaganda, Some Russian Journalists Quit</a> NYT: At least four state television employees have publicly resigned, citing regret for their roles in promoting false narratives about Ukraine. 
- <p class="updated_time"> 02:38 AM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60857013?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: Retiring world number one says 'wait and see' on plans</a> BBC: World number one Ashleigh Barty tells people to "wait and see" about her next move following her shock retirement at the age of 25. 
  <p class="updated_time"> 02:33 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60858611?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky calls on people to 'support freedom' and oppose Russia</a> BBC: Volodymyr Zelensky made his appeal in English, marking one month since Russia invaded Ukraine. 
  <p class="updated_time"> 12:12 AM CT, Mar. 24 </p> 
@@ -151,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60856854?at_medium=RSS&at_campaign=KARANGA">China plane crash: Human remains found amid wreckage</a> BBC: The China Eastern plane was carrying 132 people, and there has been no sign of survivors so far. 
  <p class="updated_time"> 10:36 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html">Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia</a> NYT: The Eastern European countries had sought to buy Pegasus, spyware made by an Israeli firm, to carry out intelligence operations against Russia, according to people with knowledge of the discussions. 
- <p class="updated_time"> 09:44 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/world/asia/china-crash-black-box-found.html">China Finds Flight Recorder From Plane Crash as Rain Hinders Search</a> NYT: Officials have revealed few details about the China Eastern Airlines flight that went down Monday, with the government moving quickly to control the information flow and emphasize the positive. 
  <p class="updated_time"> 09:20 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/brittney-griner-russia.html">U.S. Officials Meet With Brittney Griner in Russia</a> NYT: Some former hostages question whether the family should remain silent, saying pressure campaigns can work. 
  <p class="updated_time"> 07:18 PM CT, Mar. 23 </p> 
@@ -175,16 +177,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-48401172?at_medium=RSS&at_campaign=KARANGA">Albright - a trailblazer for women on the world stage</a> BBC: Originally born in Czechoslovakia, Albright became a trailblazer for women on the world stage. 
  <p class="updated_time"> 01:42 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/nato-troops-ukraine.html">NATO Doubles Troop Presence in Eastern Europe Ahead of Summit</a> NYT: The alliance’s secretary general announced the deployment of new battlegroups in Bulgaria, Hungary, Romania and Slovakia. NATO has four others in the region. 
- <p class="updated_time"> 12:12 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/world/asia/zelensky-japan-parliament-speech.html">Zelensky Addresses Japan’s Parliament, Invoking Memories of Fukushima</a> NYT: President Volodymyr Zelensky said that Russia’s invasion could set off a nuclear catastrophe in Chernobyl and warned that Russia could use chemical weapons like the one used in a 1995 attack in Tokyo. 
  <p class="updated_time"> 11:35 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/russian-oligarchs-ukraine.html">Could a Crackdown on Oligarchs Help Ukraine?</a> NYT: Russian oligarchs helped boost Vladimir V. Putin’s influence in the West. Can sanctions turn that pressure back on him? 
  <p class="updated_time"> 11:34 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/evan-neumann-capitol-riot-belarus.html">Evan Neumann, Accused in Capitol Riot, Granted Asylum in Belarus</a> NYT: Evan Neumann, who is wanted by the F.B.I. on charges including assaulting police officers at the Jan. 6 riot in Washington, has been granted asylum in Belarus, officials told state media. 
  <p class="updated_time"> 10:02 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/science/industry-whaling-ship-found.html"> Wrecked Whaling Ship Offers Glimpse of U.S. Racial History</a> NYT: A shipwreck in the Gulf of Mexico has been identified and the mystery of its multiracial crew’s fate unraveled. 
- <p class="updated_time"> 09:42 AM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/22/world/europe/ukraine-cellist-bach-kharkiv.html">Ukrainian Cellist Plays Bach in the Ruins of His Hometown, Kharkiv</a> NYT: Denys Karachevtsev said on social media that he hoped his performance would bring aid and attention for Kharkiv, Ukraine’s second largest city, which has been heavily bombarded. 
  <p class="updated_time"> 09:42 AM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/afghanistan-girls-schools-taliban.html">Taliban Renege on Promise to Open Afghan Girls’ Schools</a> NYT: The schools were supposed to reopen this week, and the reversal could threaten aid because international officials had made girls’ education a condition for greater assistance. 
  <p class="updated_time"> 09:11 AM CT, Mar. 23 </p> 
@@ -200,6 +198,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088519053/a-month-into-the-russia-ukraine-war-what-happened-today-march-24">A month into the Russia-Ukraine war: What happened today (March 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:23 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/abby-broyles-ends-campaign.html">U.S. House Candidate Ends Run After Uproar Over Behavior at Sleepover</a> NYT: Abby Broyles of Oklahoma said on Thursday that she had checked into rehab “to focus on myself and my happiness” weeks after apologizing for drinking and swearing at children. 
+ <p class="updated_time"> 04:15 PM CT, Mar. 24 </p> 
+ <a href="https://www.politico.com/news/2022/03/24/russia-state-media-rumble-00020184">Russia state media turn to Rumble to get out their word</a> Politico: The far-right video sharing outlet has become a last refuge of sorts for Sputnik podcasts. 
+ <p class="updated_time"> 03:55 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/intelligence-agencies-ukraine-afghanistan.html">Why the U.S. Was Wrong About Ukraine and the Afghan War</a> NYT: U.S. intelligence agencies thought the Afghan military would last longer and predicted Kyiv would fall faster, showing the difficulty of assessing fighting spirit. 
  <p class="updated_time"> 03:52 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639497/judge-jackson-madeleine-albright-and-the-legacy-of-being-first">Judge Jackson, Madeleine Albright and the legacy of being 'first'</a> NPR: The first female secretary of state Madeleine Albright died Wednesday. She was known for her advice, specifically to working women and mothers as they navigated new and sometimes unfriendly spaces. 
  <p class="updated_time"> 03:52 PM CT, Mar. 24 </p> 
@@ -218,14 +224,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/gop-fight-ketanji-brown-jackson-00020186">GOP frets over how hard to fight Jackson</a> Politico: Republican senators could slow down the Supreme Court nominee by unilaterally opposing her in committee. But they won't engage in tactics to hold her up indefinitely. 
  <p class="updated_time"> 02:25 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088492365/judge-ketanji-brown-jackson-nomination-hearings-what-happened-thursday">Judge Ketanji Brown Jackson confirmation hearings: What happened Thursday </a> NPR: At the fourth and final hearing, representatives from the American Bar Association lauded Jackson's resume and career. GOP panel members continued their focus on her handling of child pornography. 
- <p class="updated_time"> 02:05 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/23/business/chinese-imports-tariffs.html">Biden Administration Will Reinstate Some Tariff Exclusions on Chinese Imports</a> NYT: The move comes after months of complaints by business groups that the Biden administration was not doing enough to alleviate financial pain from the Trump trade war. 
  <p class="updated_time"> 01:33 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/jan-6-panel-contempt-navarro-scavino-00020183">Jan. 6 panel seeks contempt charges for Navarro and Scavino</a> Politico: If the criminal referrals are approved by the committee, the full House would then vote on whether to pass the matter along to the Justice Department. 
  <p class="updated_time"> 01:31 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088599079/peter-navarro-dan-scavino-jan-6-committee-criminal-contempt">Ex-Trump advisers Peter Navarro, Dan Scavino to face Jan. 6 panel criminal referral</a> NPR: Navarro was the former trade adviser, while Scavino was former deputy chief of staff. The two had been named in earlier committee subpoenas to testify. 
- <p class="updated_time"> 01:31 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/politics/intelligence-agencies-ukraine-afghanistan.html">Why Can’t Spy Agencies Predict a Country’s Will to Fight?</a> NYT: U.S. intelligence agencies thought the Afghan military would last longer and predicted Kyiv would fall faster, showing the difficulty of assessing fighting spirit. 
  <p class="updated_time"> 01:18 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/biden-trump-presidential-election-2024-00020177">Biden: I would be 'very fortunate' to run against Trump in 2024</a> Politico: The president, who will be 81 in 2024, has insisted he will run for a second term if he is in good health, as he is now. 
  <p class="updated_time"> 01:11 PM CT, Mar. 24 </p> 
@@ -290,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/north-korea-tests-long-range-missile-00019957">Dialing up pressure, North Korea tests long-range missile</a> Politico: The launch came after the U.S. and South Korean militaries said the country was preparing a flight of its biggest-yet intercontinental ballistic missile. 
  <p class="updated_time"> 05:09 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/23/business/airlines-mask-mandate.html">Airlines ask Biden to end mask requirements for planes and airports.</a> NYT: The chief executives of American Airlines, Delta Air Lines, United Airlines and several other passenger and cargo carriers made the request Wednesday. 
- <p class="updated_time"> 04:37 AM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1075929885/madeleine-albright-trailblazing-diplomat-and-mentor-dies-at-84">Madeleine Albright kept up her trailblazing work long after being secretary of state</a> NPR: Albright, who arrived in the U.S. as an 11-year-old refugee, became the first woman to serve as secretary of state. She died on Wednesday at the age of 84. 
  <p class="updated_time"> 03:30 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/how-ukraine-war-could-go-nuclear-00019899">How the Ukraine war could go nuclear</a> Politico: The prospect is growing all too real that Russia could resort to its deadliest weapons or trigger an accidental nuclear war. 
  <p class="updated_time"> 03:30 AM CT, Mar. 24 </p> 
@@ -302,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/23/politics/us-russia-general-meeting/index.html">Inside a rare US meeting with a Russian general in Moscow</a> CNN: A rare face-to-face meeting between Russian and US military officials last week led to an "outburst" of emotion from a normally stoic Russian general, a "revealing moment" that the Americans present believe hinted at larger morale problems in Russia's military, according to a closely held US military readout of what transpired. 
  <p class="updated_time"> 09:22 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-hearings-takeaways-00019938">Cursing senators, judicial philosophy and document demands: 5 takeaways from Jackson hearing</a> Politico: The Supreme Court nominee’s confidence grew as GOP attacks continued on day three. 
- <p class="updated_time"> 08:57 PM CT, Mar. 23 </p> 
- <a href="https://www.politico.com/news/2022/03/23/trump-mo-brooks-maga-alabama-00019934">How Trump threw Mo Brooks under the bus</a> Politico: The Alabama congressman and MAGA loyalist learned he had lost Trump's endorsement through a reporter’s tweet. 
  <p class="updated_time"> 08:52 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/trump-mo-brooks-senate.html">House Republican Says Trump Asked Him to Illegally ‘Rescind’ 2020 Election</a> NYT: Representative Mo Brooks of Alabama, who was involved in the former president’s efforts to challenge the election, made the charge after Mr. Trump took back his endorsement. 
  <p class="updated_time"> 08:52 PM CT, Mar. 23 </p> 
