@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 AM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military Is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
+ <p class="updated_time"> 04:36 AM CT, Mar. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60858999?at_medium=RSS&at_campaign=KARANGA">North Korea tests banned intercontinental missile</a> BBC: It is the first time such a missile, which puts the US within reach, has been tested since 2017. 
+ <p class="updated_time"> 04:26 AM CT, Mar. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60856855?at_medium=RSS&at_campaign=KARANGA">China Eastern crash: What do we know so far?</a> BBC: The plane with 132 people had been steadily cruising when it suddenly dived thousands of metres. 
+ <p class="updated_time"> 04:18 AM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/24/world/north-korea-icbm-launch/north-korea-icbm-launch">The test is the North’s first intercontinental missile firing since 2017.</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 04:04 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">What Happened on Day 28 of Russia’s Invasion of Ukraine</a> NYT: President Biden will press allies in Brussels to help impose even more aggressive sanctions on Russia. NATO says it is doubling the number of battlegroups on its eastern flank to eight. 
- <p class="updated_time"> 04:04 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/03/24/world/north-korea-icbm-launch/north-korea-icbm-launch">The test was the first long-range ballistic missile since 2017.</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 04:01 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60849917?at_medium=RSS&at_campaign=KARANGA">Western leaders meet to discuss Ukraine support</a> BBC: President Joe Biden joins leaders of Nato, the EU and G7 in response to the invasion of Ukraine. 
- <p class="updated_time"> 04:01 AM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60858999?at_medium=RSS&at_campaign=KARANGA">North Korea tests banned intercontinental missile</a> BBC: It is the first time such a missile, which could possibly reach the US, has been tested since 2017. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukranian-world-war-ii-survivors.html">‘A Frightening Repeat’: Ukrainian World War II Survivors Face Conflict Again</a> NYT: Nearly 80 years after Ukraine emerged from a devastating world war that killed more than five million of its people, Russia’s invasion has stirred memories that the country had struggled to overcome. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
@@ -29,42 +33,40 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/asia/afghanistan-highway-kabul-kandahar.html">A Bomb Crater as Business Partner for a Pit Stop on an Afghan Highway</a> NYT: Along a lonely stretch of what was once the most dangerous road in Afghanistan, everyone slows down when they reach Hafiz Qadim’s mud brick shop. It’s not the food. Or the gas. It’s the big hole. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/video/world/100000008253877/ukranian-refugees-moldova.html">‘Is There Shooting Here?’ Ukrainians Find Refuge in Moldova</a> NYT: Moldova, one of Europe’s smallest and poorest countries, has taken in more than 100,000 refugees from Ukraine. But Moldova’s ability to protect them is reaching a breaking point. 
+ <p class="updated_time"> 03:45 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 03:37 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 03:36 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088458947/north-korea-fires-suspected-long-range-missile-toward-sea">North Korea fires suspected long-range missile toward sea</a> NPR: Experts say the North's fast pace in testing activity shows its dual goal of advancing its weaponry and applying pressure on Washington over a deepening freeze in nuclear negotiations. 
  <p class="updated_time"> 03:28 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/australia/new-zealand-offshore-refugees.html">Australia Agrees to Let New Zealand Resettle Offshore Refugees</a> NYT: Under the arrangement, first offered in 2013, New Zealand will take in 150 refugees a year for three years from Australia’s widely criticized detention system. 
- <p class="updated_time"> 03:12 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 03:07 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-journalists-quit-propaganda.html">Fed Up With Deadly Propaganda, Some Russian Journalists Quit</a> NYT: At least four state television employees have publicly resigned, citing regret for their roles in promoting false narratives about Ukraine. 
+ <p class="updated_time"> 02:45 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 02:38 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60857013?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: Retiring world number one says 'wait and see' on plans</a> BBC: World number one Ashleigh Barty tells people to "wait and see" about her next move following her shock retirement at the age of 25. 
  <p class="updated_time"> 02:33 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60858611?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky calls on people to 'support freedom' and oppose Russia</a> BBC: Volodymyr Zelensky made his appeal in English, marking one month since Russia invaded Ukraine. 
- <p class="updated_time"> 02:12 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
- <p class="updated_time"> 01:21 AM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60856855?at_medium=RSS&at_campaign=KARANGA">China Eastern crash: What do we know so far?</a> BBC: The plane with 132 people had been steadily cruising along when it suddenly nose-dived thousands of metres. 
- <p class="updated_time"> 01:12 AM CT, Mar. 24 </p> 
+ <p class="updated_time"> 01:45 AM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
  <p class="updated_time"> 01:06 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-60856873?at_medium=RSS&at_campaign=KARANGA">Russia's cost of living soars by more than 14%</a> BBC: Household staples such as sugar and onions have surged following the country's invasion of Ukraine. 
- <p class="updated_time"> 12:12 AM CT, Mar. 24 </p> 
+ <p class="updated_time"> 12:45 AM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 12:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/war-crimes-russia-us.html">The U.S. Government Accuses Russian Forces of War Crimes</a> NYT: In a statement, the U.S. secretary of state, Antony J. Blinken, cited the destruction of “apartment buildings, schools, hospitals, critical infrastructure, civilian vehicles, shopping centers, and ambulances.” 
  <p class="updated_time"> 12:09 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-60856925?at_medium=RSS&at_campaign=KARANGA">Jeffrey Epstein's private islands put up for sale</a> BBC: The financier was accused of sexually abusing girls on one of the two Caribbean islands on sale. 
+ <p class="updated_time"> 11:45 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/nicaraguas-oas-envoy-blasts-his-own-government-as-dictatorship-11648078716">Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship</a> WSJ: Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship 
  <p class="updated_time"> 11:40 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/covid-restrictions-china.html">In Asia, Covid-19 Rules Fall Away, With a Big Caveat</a> NYT: Daily life in the region was once regulated by a snarl of virus restrictions. That is changing fast — except in mainland China, which is still rolling out lockdowns. 
  <p class="updated_time"> 11:16 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/russia-ukraine-war-biden-nato.html">As Biden Visits Europe Over Crisis, NATO Says It’s Doubling Eastern Flank Forces</a> NYT: The alliance also said it would assist Ukraine because of chemical, biological and nuclear threats posed by Russia in the month-old invasion. 
  <p class="updated_time"> 11:13 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/australia/lismore-flood.html">Another ‘One-in-500-Year’ Flood, and a Government Not Up to the Task</a> NYT: Civilians were largely left to rescue one another as a natural disaster struck Australia. It shows how the authorities are struggling to respond to climate-fueled calamities. 
- <p class="updated_time"> 11:12 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/nicaraguas-oas-envoy-blasts-his-own-government-as-dictatorship-11648078716">Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship</a> WSJ: Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship 
  <p class="updated_time"> 11:05 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/anne-frank-informant-ambo-anthos.html">Dutch Publisher of ‘The Betrayal of Anne Frank’ Halts Publication</a> NYT: The move came after five historians called into question the findings of the book, in which a “cold case” team sought to answer a long-running mystery. 
  <p class="updated_time"> 10:56 PM CT, Mar. 23 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60856854?at_medium=RSS&at_campaign=KARANGA">China plane crash: Human remains found amid wreckage</a> BBC: The China Eastern plane was carrying 132 people, and there has been no sign of survivors so far. 
  <p class="updated_time"> 10:36 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html">Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia</a> NYT: The Eastern European countries had sought to buy Pegasus, spyware made by an Israeli firm, to carry out intelligence operations against Russia, according to people with knowledge of the discussions. 
- <p class="updated_time"> 10:33 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military Is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
  <p class="updated_time"> 09:44 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/china-crash-black-box-found.html">China Finds Flight Recorder From Plane Crash as Rain Hinders Search</a> NYT: Officials have revealed few details about the China Eastern Airlines flight that went down Monday, with the government moving quickly to control the information flow and emphasize the positive. 
  <p class="updated_time"> 09:20 PM CT, Mar. 23 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:37 AM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1075929885/madeleine-albright-trailblazing-diplomat-and-mentor-dies-at-84">Madeleine Albright, trailblazing diplomat and mentor, dies at 84</a> NPR: Albright, who arrived in the U.S. as an 11-year-old refugee, became the first woman to serve as secretary of state. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088330756/madeleine-albright-putin-russia">Madeleine Albright had a lot to say about Putin — and she didn't mince words</a> NPR: The former U.S. secretary of state recalled the first time she met Russian President Vladimir Putin back in 1999 during the Clinton administration. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
@@ -255,7 +257,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:47 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/business/boeing-trial-737-max-mark-forkner.html">Jury Finds Former Boeing Pilot Not Guilty of Fraud in 737 Max Case</a> NYT: The pilot, Mark Forkner, was the only person to face criminal charges for flaws that resulted in two fatal crashes of one of Boeing’s most important planes. 
  <p class="updated_time"> 06:20 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-child-abuse-case.html">Judge Ketanji Brown Jackson’s Sentencing of a 2013 Case Is Attacked by Republicans</a> NYT: Judge Ketanji Brown Jackson’s handling of a 2013 case involving images of child sexual abuse was not quite the way Republicans portrayed it. 
+ <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-child-abuse-case.html">A Judge’s Tough Call Meets the Politics of a Supreme Court Confirmation</a> NYT: Judge Ketanji Brown Jackson’s handling of a 2013 case involving images of child sexual abuse was not quite the way Republicans portrayed it. 
  <p class="updated_time"> 06:20 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/science/nasa-moon-landing.html">NASA Plans to Give SpaceX Some Company on the Moon</a> NYT: The agency will seek bids for future lunar landing spacecraft from companies other than SpaceX, which won the first contract to return American astronauts to the moon. 
  <p class="updated_time"> 06:12 PM CT, Mar. 23 </p> 
@@ -336,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/23/who-flocks-to-the-scotus-spotlight-00019574">Who flocks to the SCOTUS spotlight?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/23/3-things-to-watch-as-biden-goes-to-europe-00019567"> 3 things to watch as Biden goes to Europe</a> Politico Playbook: And voters support a gas tax pause. 
- <p class="updated_time"> 04:11 AM CT, Mar. 23 </p> 
- <a href="https://www.npr.org/2022/03/23/1088169739/jen-psaki-the-white-house-press-secretary-tests-positive-again-for-covid">Jen Psaki, the White House press secretary, tests positive again for COVID</a> NPR: President Biden's press secretary Jen Psaki has COVID-19 again. It's the second time a positive test will keep her from going on a foreign trip with Biden. He tested negative and will carry on. 
  <p class="updated_time"> 03:31 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/republicans-supreme-court-confirmation-hearing-00019458">GOP's 2024 contenders leap into Supreme Court spotlight</a> Politico: A quartet of Republican presidential hopefuls aren't afraid to use their Judiciary Committee lecterns to audition for presidential runs. 
  <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
@@ -350,8 +350,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/ketanji-brown-jackson-senate-hearing-day-2-takeaways-analysis-00019538">5 takeaways from Ketanji Brown Jackson's Supreme Court hearing</a> Politico: GOP senators launch salvos on "critical race theory," criminal sentencing and representing Guantanamo inmates. 
  <p class="updated_time"> 07:36 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/booker-brings-out-emotion-during-jackson-hearing-00019507">Booker brings out emotion during Jackson hearing</a> Politico: Jackson talked about the work it takes to become a judge, and the work it takes to be a mother at the same time. 
- <p class="updated_time"> 06:38 PM CT, Mar. 22 </p> 
- <a href="https://www.nytimes.com/2022/03/22/us/politics/ketanji-brown-jackson-race.html">Judging a Judge on Race and Crime, G.O.P. Plays to Base and Fringe</a> NYT: Grilling Ketanji Brown Jackson, the first Black woman nominated to the Supreme Court, conservative senators painted her as a jurist who had coddled criminals and embraced “woke” education. 
  <p class="updated_time"> 06:03 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/hawley-jackson-child-pornography-sentencing-record-00019481">Hawley presses Jackson on child pornography sentencing record</a> Politico: "My only point to you is that judges are doing the work of assessing in each case a number of factors that are set forward by Congress," Jackson said. 
  <p class="updated_time"> 05:38 PM CT, Mar. 22 </p> 
