@@ -9,44 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:20 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Ukraine Live Updates: With Biden in Europe to Rally Allies, U.S. Vows to Take In 100,000 Refugees</a> NYT: As President Biden holds urgent meetings with NATO, the G7 and the E.U. in Brussels, Ukraine says it destroyed a Russian landing ship at a strategic southern port. A U.N. agency says the war has driven half of Ukraine’s children from their homes. 
+ <p class="updated_time"> 08:38 AM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088475000/madeleine-albrights-teaching-continues-through-these-books">Madeleine Albright's teaching continues — through these books</a> NPR: The first female secretary of states' legacy lives on — not only in the history she made but also in teachings and reflections. Here are some of the books she leaves for us, and future generations. 
+ <p class="updated_time"> 08:36 AM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/china-taiwan-un.html">China’s Push to Isolate Taiwan Demands U.S. Action, Report Says</a> NYT: Chinese officials are ramping up a campaign to force United Nations agencies, governments, companies and even schools to say Taiwan is a part of China. 
+ <p class="updated_time"> 08:35 AM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Ukraine Live Updates:With Biden in Europe to Rally Allies, U.S. Vows to Take In 100,000 Refugees</a> NYT: The United States will also will donate $1 billion to help European countries welcome Ukrainian migrants. The news comes as President Biden is holding urgent meetings with European leaders. Ukraine says it destroyed a Russian landing ship at a strategic southern port. 
+ <p class="updated_time"> 08:33 AM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/world/europe/european-tree-of-the-year-russia.html">Poland Wins European Tree of the Year After Russia Is Banned</a> NYT: After Russia was banned from the European Tree of the Year competition, organizers reflected on how a celebration of trees became tangled up in global politics. 
+ <p class="updated_time"> 08:33 AM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088506487/us-ukraine-refugees">The U.S. will take in up to 100,000 Ukrainian refugees fleeing the war</a> NPR: The United States will welcome up to 100,000 Ukrainians and other displaced people fleeing the conflict in Ukraine, a senior administration official told reporters traveling with President Biden. 
  <p class="updated_time"> 08:10 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60858999?at_medium=RSS&at_campaign=KARANGA">North Korea tests banned intercontinental missile</a> BBC: It is the first time such a missile, which puts the US within reach, has been tested since 2017. 
  <p class="updated_time"> 08:03 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/03/24/world/north-korea-icbm-launch/north-korea-icbm-launch">The test is the North’s first intercontinental missile firing since 2017.</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 07:56 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-crew-aboard-a-superyacht-possibly-linked-to-putin-have-left-their-jobs-workers-say.html">Russian crew aboard a superyacht possibly linked to Putin have left their jobs, workers say.</a> NYT: U.S. officials have said the Scheherezade, which is dry-docked in Italy, could be owned by the Russian leader. 
+ <a href="https://www.nytimes.com/2022/03/24/world/europe/russia-superyacht-crew-putin.html">Russian Crew on a Superyacht Possibly Linked to Putin Have Left Their Jobs, Workers Say</a> NYT: U.S. officials have said the Scheherezade, which is dry-docked in Italy, could be owned by the Russian leader. 
  <p class="updated_time"> 07:50 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-landing-ship-berdyansk-ukraine.html">Ukrainian Forces Claim to Destroy a Russian Landing Ship</a> NYT: The destruction of the ship would be a success for the Ukrainians as they seek to keep Russia from reinforcing and resupplying its forces as they struggle to gain momentum. 
+ <p class="updated_time"> 07:42 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Meets NATO Allies Seeking More Support for Ukraine</a> WSJ: Biden Meets NATO Allies Seeking More Support for Ukraine 
  <p class="updated_time"> 07:33 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/singapore-covid-restrictions.html">Singapore to Ease Some Covid Restrictions</a> NYT: The prime minister said that the change represented a “major step,” but that the country would “stop short of a complete opening up.” 
  <p class="updated_time"> 07:28 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/video/world/100000008253877/ukranian-refugees-moldova.html">‘Is There Shooting Here?’ Ukrainians Find Refuge in Moldova</a> NYT: Moldova, one of Europe’s smallest and poorest countries, has taken in more than 100,000 refugees from Ukraine. But Moldova’s ability to protect them is reaching a breaking point. 
- <p class="updated_time"> 07:26 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/politics/china-taiwan-un.html">China’s Push to Isolate Taiwan Demands U.S. Action, Report Says</a> NYT: Chinese officials are ramping up a campaign to force United Nations agencies, governments, companies and even schools to say Taiwan is a part of China. 
- <p class="updated_time"> 07:25 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Meets NATO Allies Seeking More Support for Ukraine</a> WSJ: Biden Meets NATO Allies Seeking More Support for Ukraine 
  <p class="updated_time"> 07:09 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military Is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
- <p class="updated_time"> 07:04 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/european-tree-of-the-year-russia.html">Poland Wins European Tree of the Year After Russia Is Banned</a> NYT: After Russia was banned from the European Tree of the Year competition, organizers reflected on how a celebration of trees became tangled up in global politics. 
  <p class="updated_time"> 06:50 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60859337?at_medium=RSS&at_campaign=KARANGA">Russian warship destroyed in occupied port of Berdyansk, says Ukraine</a> BBC: Ukraine's navy says the Orsk, which was used to ferry Russian troops, was hit in Berdyansk. 
- <p class="updated_time"> 06:25 AM CT, Mar. 24 </p> 
+ <p class="updated_time"> 06:42 AM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
  <p class="updated_time"> 06:10 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60859384?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Explosion seen in Berdyansk as navy claims to destroy Russian ship</a> BBC: The Ukrainian navy says it has destroyed a Russian landing ship named the Orsk in the port city of Berdyansk. 
+ <p class="updated_time"> 05:42 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine 
  <p class="updated_time"> 05:36 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60859049?at_medium=RSS&at_campaign=KARANGA">LGBT people in Iraq live in fear of lives - HRW</a> BBC: A new report describes "routine" attacks on members of the community, including torture and murder. 
- <p class="updated_time"> 05:25 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine 
  <p class="updated_time"> 05:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-eastern-crash-pilot.html">China Eastern Pilots Were Experienced, Adding to Mystery of Crash</a> NYT: Two industry veterans were at the controls of Flight 5735, which took a sudden dive in good weather. At the crash site in southern China, search crews found wing and engine parts on Thursday. 
+ <p class="updated_time"> 04:42 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 04:26 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60856855?at_medium=RSS&at_campaign=KARANGA">China Eastern crash: What do we know so far?</a> BBC: The plane with 132 people had been steadily cruising when it suddenly dived thousands of metres. 
- <p class="updated_time"> 04:25 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 04:01 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60849917?at_medium=RSS&at_campaign=KARANGA">Western leaders meet to discuss Ukraine support</a> BBC: President Joe Biden joins leaders of Nato, the EU and G7 in response to the invasion of Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 24 </p> 
@@ -61,14 +65,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088203634/ukrainian-expats-want-the-u-s-to-do-more-for-friends-and-relatives-fighting-russ">Ukrainian expats want the U.S. to do more for friends and relatives fighting Russia</a> NPR: South Florida's Ukrainian expatriate community is collecting aid to help the fighters in their home country. And they're pressing the Biden administration for advanced weapons, including fighter jets. 
  <p class="updated_time"> 03:44 AM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-plane-crash-rescuers-find-suspected-engine-hunt-for-second-black-box-11648112757">Rescuers Find Suspected Engine of Crashed China Eastern Plane</a> WSJ: Search and rescue teams discovered what they suspect is an engine from the plane that rammed into the mountains of southern China. 
+ <p class="updated_time"> 03:42 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 03:37 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/22/us/politics/biden-ukraine-europe-trip.html">Biden Plans Sanctions on Russian Lawmakers as He Heads to Europe</a> NYT: A chief goal of the meetings this week is to show that Russia’s invasion of Ukraine will not lead to sniping and disagreement among the United States and its allies. 
  <p class="updated_time"> 03:36 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088458947/north-korea-fires-suspected-long-range-missile-toward-sea">North Korea fires suspected long-range missile toward sea</a> NPR: Experts say the North's fast pace in testing activity shows its dual goal of advancing its weaponry and applying pressure on Washington over a deepening freeze in nuclear negotiations. 
  <p class="updated_time"> 03:28 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/australia/new-zealand-offshore-refugees.html">Australia Agrees to Let New Zealand Resettle Offshore Refugees</a> NYT: Under the arrangement, first offered in 2013, New Zealand will take in 150 refugees a year for three years from Australia’s widely criticized detention system. 
- <p class="updated_time"> 03:25 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 03:07 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-journalists-quit-propaganda.html">Fed Up With Deadly Propaganda, Some Russian Journalists Quit</a> NYT: At least four state television employees have publicly resigned, citing regret for their roles in promoting false narratives about Ukraine. 
  <p class="updated_time"> 02:38 AM CT, Mar. 24 </p> 
@@ -135,10 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/23/1088331730/many-african-countries-have-been-hesitant-to-take-sides-in-russia-ukraine-confli">Many African countries have been hesitant to take sides in Russia-Ukraine conflict</a> NPR: Many African countries have been reluctant to weigh in on the conflict in Ukraine. African countries aren't in favor of the invasion but they're weary of taking sides. 
  <p class="updated_time"> 03:20 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088331690/at-one-border-crossing-into-poland-those-fleeing-ukraine-are-met-with-music">At one border crossing into Poland, those fleeing Ukraine are met with music</a> NPR: For the crowds that have streamed across the border at the Medyka border crossing into Poland, they leave behind the air raid sirens and the sounds of war and are welcomed by musician Davide Martello. 
- <p class="updated_time"> 03:20 PM CT, Mar. 23 </p> 
- <a href="https://www.npr.org/2022/03/23/1088331680/nato-and-g7-leaders-to-meet-in-brussels-to-discuss-the-war-in-ukraine">NATO and G7 leaders to meet in Brussels to discuss the war in Ukraine</a> NPR: Leaders of NATO and the G7 will hold an emergency summit in Brussels to talk about the war in Ukraine. But Ukrainian officials are hoping for more than speeches — they want weapons and sanctions. 
- <p class="updated_time"> 03:07 PM CT, Mar. 23 </p> 
- <a href="https://www.npr.org/2022/03/23/1088300310/brittney-griner-russia-update">A U.S. official in Russia is allowed to see detained WNBA star Brittney Griner</a> NPR: State Department spokesman Ned Price said consular officials were granted access to the basketball star on Wednesday. He added that she is in good condition. 
  <p class="updated_time"> 02:39 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/julian-assange-stella-moris-wedding.html">Julian Assange Marries Stella Moris in a British Prison</a> NYT: The wedding took place at Belmarsh Prison, where Mr. Assange has been held since 2019. Supporters of the couple were encouraged to attend a “solidarity vigil” outside the facility. 
  <p class="updated_time"> 02:24 PM CT, Mar. 23 </p> 
@@ -208,12 +208,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:21 AM CT, Mar. 24 </p> 
+ <p class="updated_time"> 08:38 AM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088475000/madeleine-albrights-teaching-continues-through-these-books">Madeleine Albright's teaching continues — through these books</a> NPR: The first female secretary of states' legacy lives on — not only in the history she made but also in teachings and reflections. Here are some of the books she leaves for us, and future generations. 
+ <p class="updated_time"> 08:37 AM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/us-asylum-changes.html">Biden Administration Prepares Sweeping Change to Asylum Process</a> NYT: Asylum seekers will have their claims evaluated by asylum officers instead of overburdened immigration judges under a new policy aimed at greatly shortening the process. 
+ <p class="updated_time"> 08:36 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/china-taiwan-un.html">China’s Push to Isolate Taiwan Demands U.S. Action, Report Says</a> NYT: Chinese officials are ramping up a campaign to force United Nations agencies, governments, companies and even schools to say Taiwan is a part of China. 
+ <p class="updated_time"> 08:33 AM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088506487/us-ukraine-refugees">The U.S. will take in up to 100,000 Ukrainian refugees fleeing the war</a> NPR: The United States will welcome up to 100,000 Ukrainians and other displaced people fleeing the conflict in Ukraine, a senior administration official told reporters traveling with President Biden. 
  <p class="updated_time"> 08:00 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/us-ukrainian-refugees-00019978">U.S. to welcome 100,000 Ukrainian refugees</a> Politico: The crisis in Ukraine has quickly unfolded as the fastest-growing refugee crisis in Europe since World War II. 
- <p class="updated_time"> 07:31 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/politics/us-asylum-changes.html">Biden Administration Prepares Sweeping Change to Asylum Process</a> NYT: Asylum seekers will have their claims evaluated by asylum officers instead of overburdened immigration judges under a new policy aimed at greatly shortening the process. 
  <p class="updated_time"> 06:54 AM CT, Mar. 24 </p> 
  <a href="https://www.cnn.com/2022/03/23/politics/ketanji-brown-jackson-takeaways-day-3/index.html">Ketanji Brown Jackson hearing: 5 takeaways from Wednesday </a> CNN: Supreme Court nominee Judge Ketanji Brown Jackson finished her two days of questioning on Wednesday, having spent some 22 hours this week being grilled by the Senate Judiciary Committee. 
  <p class="updated_time"> 06:16 AM CT, Mar. 24 </p> 
@@ -250,6 +254,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html">QAnon Cheers Republican Attacks on Jackson. Democrats See a Signal.</a> NYT: Criticism of Judge Ketanji Brown Jackson’s sentencing decisions emerged as a theme among Republicans — and renewed debate about the party’s stance toward QAnon. 
  <p class="updated_time"> 12:16 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088425500/new-york-city-covid-19-vaccine-kyrie-irving-mlb-eric-adams">New York City to end vaccine mandates for performers and athletes</a> NPR: Mayor Eric Adams previously said it was unfair that a loophole in the vaccine rule allowed unvaccinated, visiting players and performers who don't work in New York to still play or perform. 
+ <p class="updated_time"> 12:16 AM CT, Mar. 24 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/us-russia-general-meeting/index.html">Exclusive: Inside a rare US meeting with a Russian general in Moscow</a> CNN: A rare face-to-face meeting between Russian and US military officials last week led to an "outburst" of emotion from a normally stoic Russian general, a "revealing moment" that the Americans present believe hinted at larger morale problems in Russia's military, according to a closely held US military readout of what transpired. 
  <p class="updated_time"> 10:56 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html">With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks</a> NYT: A new law requires companies to tell the federal government about hacks, but the Cybersecurity and Infrastructure Security Agency still has to work out the details of what must be reported. 
  <p class="updated_time"> 10:36 PM CT, Mar. 23 </p> 
@@ -312,10 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-supreme-court-confirmation-hearing-00019802">'It's bulls---': Dems reject that Jackson's soft on crime</a> Politico: The Supreme Court nominee's backers have high hopes for a bipartisan confirmation. But she doesn't need a single GOP vote to get confirmed. 
  <p class="updated_time"> 03:30 PM CT, Mar. 23 </p> 
  <a href="https://www.npr.org/2022/03/23/1088264503/donald-trump-mo-brooks-withdraws-alabama-endorsement">Trump yanks endorsement of Alabama Senate candidate Brooks, who said to get past 2020</a> NPR: Mo Brooks' Republican Senate campaign has been struggling, and now the former president has pulled his endorsement, citing a dispute over the 2020 election. 
- <p class="updated_time"> 03:21 PM CT, Mar. 23 </p> 
- <a href="https://www.npr.org/2022/03/23/1088331723/georgia-president-on-balancing-act-of-supporting-ukraine-without-antagonizing-ru">Georgia president on balancing act of supporting Ukraine without antagonizing Russia</a> NPR: NPR's Mary Louise Kelly speaks with the president of Georgia, Salome Zourabichvili, who the Georgian government is threatening to sue over her support for Ukraine. 
- <p class="updated_time"> 03:20 PM CT, Mar. 23 </p> 
- <a href="https://www.npr.org/2022/03/23/1088331791/biden-heads-to-europe-this-week-more-sanctions-against-russia-on-the-table">Biden heads to Europe this week, more sanctions against Russia on the table</a> NPR: President Biden will travel to Brussels and Warsaw this week to meet with allies about support for Ukraine and their efforts to impose costs on Russia for invading Ukraine. 
  <p class="updated_time"> 02:24 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/capitol-reopening-tourists.html">U.S. Capitol to Reopen Tours Next Week</a> NYT: Tours of the Capitol were suspended for about two years over the pandemic and security concerns related to the Jan. 6 riot. 
  <p class="updated_time"> 02:21 PM CT, Mar. 23 </p> 
