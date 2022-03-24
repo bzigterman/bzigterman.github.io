@@ -23,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/africa/ethiopia-tigray-conflict-truce.html">Ethiopia Declares ‘Humanitarian Truce’ in War-Ravaged Tigray Region</a> NYT: The conflict, now lasting 17 months, has left thousands dead, millions displaced and hindered aid from reaching those going hungry in the country’s northern region. 
  <p class="updated_time"> 05:50 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60869580?at_medium=RSS&at_campaign=KARANGA">US charges four Russians over hacking campaign on energy sector</a> BBC: US prosecutors say the alleged hackers placed malware in safety systems at energy plants worldwide. 
- <p class="updated_time"> 05:32 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 05:44 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 05:26 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
@@ -31,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/asia/north-korea-missile-icbm.html">With U.S. Focus on Ukraine, North Korea Launches a Powerful New ICBM</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 05:13 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
- <p class="updated_time"> 04:32 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 04:44 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 04:28 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088519053/a-month-into-the-russia-ukraine-war-what-happened-today-march-24">A month into the Russia-Ukraine war: What happened today (March 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -47,10 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60868795?at_medium=RSS&at_campaign=KARANGA">Donald Trump sues Hillary Clinton over Russian collusion allegations</a> BBC: Donald Trump's campaign was accused of conspiring with Russian agents to influence the 2016 election. 
  <p class="updated_time"> 03:52 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639483/biden-lays-out-3-main-goals-after-meeting-with-leaders-about-ukraine">Biden lays out 3 main goals after meeting with leaders about Ukraine</a> NPR: President Biden spoke to reporters after wrapping up meetings with NATO and G-7 leaders about Russia's invasion of Ukraine. allies have had three goals: to help Ukraine, to economically punish Russia, 
+ <p class="updated_time"> 03:44 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
  <p class="updated_time"> 03:34 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639476/international-energy-agency-looked-at-how-to-wean-nations-off-russias-fossil-fue">International Energy Agency looked at how to wean nations off Russia's fossil fuels</a> NPR: The International Energy Agency ended a meeting Thursday that focused on how to settle energy markets made more volatile by Russia's war on Ukraine, sanctions and businesses pulling out. 
- <p class="updated_time"> 03:32 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
  <p class="updated_time"> 03:26 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639455/a-look-at-the-stream-of-weapons-the-u-s-is-supplying-to-ukraine">A look at the stream of weapons the U.S. is supplying to Ukraine</a> NPR: Ukraine may be outgunned, but to the surprise of many, it has punched back hard against Russia. The U.S. is supplying lots of Ukraine's most effective weapons, which are coming into the country daily. 
  <p class="updated_time"> 03:26 PM CT, Mar. 24 </p> 
@@ -65,9 +65,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60867785?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Digging a grave for my stepfather, killed in Mariupol</a> BBC: Viktoria’s stepfather died when the car taking him to hospital was blown up during fighting in Mariupol. 
  <p class="updated_time"> 03:02 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60867786?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The dangers faced by front line fighters in Kharkiv</a> BBC: A month into the war, Mark and Vlad, both 22, show the BBC the perils they face every day in Kharkiv. 
- <p class="updated_time"> 02:32 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 02:44 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
- <p class="updated_time"> 01:32 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 01:44 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 01:27 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088480292/ukraine-russia-war-simon-shuster">Reporter describes an astounding amount of military hardware going in to help Ukraine</a> NPR: Time reporter Simon Shuster recently returned from the Ukrainian-Polish border. Watching as U.S. planes brought in loads of weapons, he felt like he was standing on the brink of something massive. 
@@ -198,6 +198,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:44 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/ginni-thomas-trump-mark-meadows.html">Ginni Thomas Pressed Trump’s Chief of Staff to Overturn 2020 Vote, Texts Show</a> NYT: The messages between Ms. Thomas and Mark Meadows are the first evidence that she directly advised the White House in efforts to reverse the election results. 
+ <p class="updated_time"> 06:43 PM CT, Mar. 24 </p> 
+ <a href="https://www.npr.org/2022/03/24/1088669929/airlines-federal-travel-mask-mandate">U.S. airline CEOs call on President Biden to end the federal mask mandate on planes</a> NPR: The CEOs argue that the increase in vaccinations and the lifting of restrictions in other countries should make the Biden administration reconsider the policy for travelers. 
+ <p class="updated_time"> 06:36 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/ketanji-brown-jackson-child-abuse-cases.html">Critics of Jackson’s Child Sex Abuse Sentences Backed Judges With Similar Records</a> NYT: Republican senators criticized Judge Ketanji Brown Jackson for imposing sentences lower than prosecutor recommendations in child sexual abuse cases. Other nominees had done the same thing. 
  <p class="updated_time"> 06:06 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 06:01 PM CT, Mar. 24 </p> 
@@ -300,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088506487/us-ukraine-refugees">The U.S. will take in up to 100,000 Ukrainian refugees fleeing the war</a> NPR: The United States will welcome up to 100,000 Ukrainians and other displaced people fleeing the conflict in Ukraine, a senior administration official told reporters traveling with President Biden. 
  <p class="updated_time"> 08:00 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/us-ukrainian-refugees-00019978">U.S. to welcome 100,000 Ukrainian refugees</a> Politico: The crisis in Ukraine has quickly unfolded as the fastest-growing refugee crisis in Europe since World War II. 
- <p class="updated_time"> 06:16 AM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088476748/judge-jackson-faced-nearly-24-hours-of-questions-over-the-last-2-days">Judge Jackson faced nearly 24 hours of questions over the last 2 days</a> NPR: NPR's Rachel Martin talks to former Democratic Sen. Doug Jones of Alabama, who was tasked by the White House to prepare Judge Ketanji Brown Jackson for the grueling Supreme Court confirmation process. 
  <p class="updated_time"> 06:14 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/24/tour-trepidation-ahead-of-capitol-opening-00019971">Tour trepidation ahead of Capitol opening</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:11 AM CT, Mar. 24 </p> 
@@ -320,14 +324,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-hearings-takeaways-00019938">Cursing senators, judicial philosophy and document demands: 5 takeaways from Jackson hearing</a> Politico: The Supreme Court nominee’s confidence grew as GOP attacks continued on day three. 
  <p class="updated_time"> 08:52 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/trump-mo-brooks-senate.html">House Republican Says Trump Asked Him to Illegally ‘Rescind’ 2020 Election</a> NYT: Representative Mo Brooks of Alabama, who was involved in the former president’s efforts to challenge the election, made the charge after Mr. Trump took back his endorsement. 
- <p class="updated_time"> 08:52 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-cory-booker.html">Cory Booker Tells Ketanji Brown Jackson: ‘You Are Worthy’</a> NYT: Senator Cory Booker, the only Black senator on the 22-member Judiciary Committee, offered Judge Jackson a respite from a series of conservative attacks. 
  <p class="updated_time"> 08:34 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/fortenberry-trial-eshoo-congress-honest-00019931">Fellow member of Congress on trial is 'honest,' California lawmaker testifies</a> Politico: Nebraska Rep. Jeff Fortenberry is charged with lying to the FBI. 
  <p class="updated_time"> 07:37 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/arts/ted-cruz-mlk-critical-race-theory-supreme-court.html">During Supreme Court Hearings, Ted Cruz Invokes Dr. King, and Scholars See a Familiar Distortion</a> NYT: In the confirmation hearings of Judge Ketanji Brown Jackson, the senator cited the famous “I Have a Dream” speech to suggest King would have opposed race-conscious policies. 
- <p class="updated_time"> 06:12 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson-presentence-reports.html">Republicans Seek Confidential Presentence Reports in Jackson Cases</a> NYT: Such reports typically contain personal information about a defendant, and might include sensitive details about their relationships, including victims. 
  <p class="updated_time"> 04:02 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-supreme-court-confirmation-hearing-00019802">'It's bulls---': Dems reject that Jackson's soft on crime</a> Politico: The Supreme Court nominee's backers have high hopes for a bipartisan confirmation. But she doesn't need a single GOP vote to get confirmed. 
  <p class="updated_time"> 01:43 PM CT, Mar. 23 </p> 
