@@ -11,17 +11,17 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 01:06 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-60856873?at_medium=RSS&at_campaign=KARANGA">Russia's cost of living soars by more than 14%</a> BBC: Household staples such as sugar and onions have surged following the country's invasion of Ukraine. 
+ <p class="updated_time"> 12:56 AM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 12:43 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60857013?at_medium=RSS&at_campaign=KARANGA">Ashleigh Barty: Retiring world number one says 'wait and see' on plans</a> BBC: World number one Ashleigh Barty tells people to "wait and see" about her next move following her shock retirement at the age of 25. 
- <p class="updated_time"> 12:42 AM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-humanitarian-crisis-worsens-as-biden-heads-to-europe-11648031069">NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe</a> WSJ: NATO Estimates Steep Russian Losses in Ukraine as Biden Arrives in Europe 
  <p class="updated_time"> 12:15 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/03/23/world/ukraine-russia-war">What happened on day 28 of Russia’s invasion of Ukraine.</a> NYT: President Biden will press allies in Brussels to help impose even more aggressive sanctions on Russia. NATO says it is doubling the number of battlegroups on its eastern flank to eight. 
  <p class="updated_time"> 12:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/war-crimes-russia-us.html">The U.S. Government Accuses Russian Forces of War Crimes</a> NYT: In a statement, the U.S. secretary of state, Antony J. Blinken, cited the destruction of “apartment buildings, schools, hospitals, critical infrastructure, civilian vehicles, shopping centers, and ambulances.” 
  <p class="updated_time"> 12:09 AM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-60856925?at_medium=RSS&at_campaign=KARANGA">Jeffrey Epstein's private islands put up for sale</a> BBC: The financier was accused of sexually abusing girls on one of the two Caribbean islands on sale. 
- <p class="updated_time"> 11:42 PM CT, Mar. 23 </p> 
+ <p class="updated_time"> 11:56 PM CT, Mar. 23 </p> 
  <a href="https://www.wsj.com/articles/taliban-abruptly-decide-to-keep-secondary-schools-closed-to-girls-11648034117">Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls</a> WSJ: Taliban Abruptly Decide to Keep Secondary Schools Closed to Girls 
  <p class="updated_time"> 11:40 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/covid-restrictions-china.html">In Asia, Covid-19 Rules Fall Away, With a Big Caveat</a> NYT: Daily life in the region was once regulated by a snarl of virus restrictions. That is changing fast — except in mainland China, which is still rolling out lockdowns. 
@@ -35,24 +35,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/23/world/europe/anne-frank-informant-ambo-anthos.html">Dutch Publisher of ‘The Betrayal of Anne Frank’ Halts Publication</a> NYT: The move came after five historians called into question the findings of the book, in which a “cold case” team sought to answer a long-running mystery. 
  <p class="updated_time"> 10:56 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/biden-russia-cyberattacks.html">With Eye to Russia, Biden Administration Asks Companies to Report Cyberattacks</a> NYT: A new law requires companies to tell the federal government about hacks, but the Cybersecurity and Infrastructure Security Agency still has to work out the details of what must be reported. 
+ <p class="updated_time"> 10:56 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
  <p class="updated_time"> 10:54 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60856854?at_medium=RSS&at_campaign=KARANGA">China plane crash: Human remains found amid wreckage</a> BBC: The China Eastern plane was carrying 132 people, and there has been no sign of survivors so far. 
- <p class="updated_time"> 10:42 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/weapons-for-ukraines-fight-against-russia-flow-through-small-polish-border-towns-11648066417">Weapons for Ukraine Flow Through Small Polish Border Towns</a> WSJ: Weapons for Ukraine Flow Through Small Polish Border Towns 
  <p class="updated_time"> 10:36 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/pegasus-israel-ukraine-russia.html">Israel Blocked Sale of Pegasus Spyware to Ukraine and Estonia</a> NYT: The Eastern European countries had sought to buy Pegasus, spyware made by an Israeli firm, to carry out intelligence operations against Russia, according to people with knowledge of the discussions. 
  <p class="updated_time"> 10:33 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/ukraine-germany-military-russia-scholz-lithuania.html">Germany Is Ready to Lead Militarily. Its Military Is Not.</a> NYT: Russia’s invasion of Ukraine prompted Germany to revolutionize its security doctrine. But the war has also exposed how weak a link the German military is in NATO. 
+ <p class="updated_time"> 09:56 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 09:44 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/asia/china-crash-black-box-found.html">China Finds Flight Recorder From Plane Crash as Rain Hinders Search</a> NYT: Officials have revealed few details about the China Eastern Airlines flight that went down Monday, with the government moving quickly to control the information flow and emphasize the positive. 
- <p class="updated_time"> 09:42 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-ukraine-war-france-renault-totalenergies-auchan-leroy-merlin-11648040961">Many Businesses Are Quitting Russia. Big French Firms Are Staying Put.</a> WSJ: Many Businesses Are Quitting Russia. Big French Firms Are Staying Put. 
  <p class="updated_time"> 09:20 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/world/europe/brittney-griner-russia.html">U.S. Officials Meet With Brittney Griner in Russia</a> NYT: Some former hostages question whether the family should remain silent, saying pressure campaigns can work. 
+ <p class="updated_time"> 08:56 PM CT, Mar. 23 </p> 
+ <a href="https://www.wsj.com/articles/nicaraguas-oas-envoy-blasts-his-own-government-as-dictatorship-11648078716">Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship</a> WSJ: Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship 
  <p class="updated_time"> 08:45 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html">Russia and Far-Right Americans Find Common Ground With Ukraine War</a> NYT: Some conservatives have echoed the Kremlin’s misleading claims about the war and vice versa, giving each other’s assertions a sheen of credibility. 
- <p class="updated_time"> 08:42 PM CT, Mar. 23 </p> 
- <a href="https://www.wsj.com/articles/nicaraguas-oas-envoy-blasts-his-own-government-as-dictatorship-11648078716">Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship</a> WSJ: Nicaragua’s OAS Envoy Blasts His Own Government as Dictatorship 
  <p class="updated_time"> 07:18 PM CT, Mar. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60855280?at_medium=RSS&at_campaign=KARANGA">Zelensky: How Ukraine's president uses addresses to set his agenda</a> BBC: In 10 parliaments over two weeks Ukraine's leader has used shame and national trauma to set a global agenda. 
  <p class="updated_time"> 07:09 PM CT, Mar. 23 </p> 
