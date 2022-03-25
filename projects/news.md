@@ -9,18 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:32 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Signals It May Be Narrowing War Aims</a> NYT: Russia says its focus is eastern Ukraine, not major cities, and the Pentagon says Ukrainians are fighting to retake a strategic region. President Biden met U.S. troops in Poland. 
+ <p class="updated_time"> 02:10 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Signals It May Be Narrowing War Aims</a> NYT: Russia says its focus is eastern Ukraine, not major cities. President Biden met U.S. troops in Poland. 
+ <p class="updated_time"> 02:03 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/middleeast/yemen-attack-saudi-arabia.html">Yemeni Rebel Attack Sets Saudi Oil Facility Ablaze</a> NYT: Saudi officials accused Yemen’s Houthi rebels of launching the attack, which cast a shadow over a Formula One car race aimed at international spectators. 
+ <p class="updated_time"> 01:59 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/middleeast/israel-uae-bahrain-morocco-arab-summit.html">Israel to Host 3 Arab Foreign Ministers in Historic Meeting</a> NYT: The gathering of top diplomats from Israel, the U.A.E., Bahrain and Morocco, as well as Secretary of State Antony J. Blinken, is a sign of how quickly Middle Eastern alliances are shifting. 
+ <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
+ <p class="updated_time"> 01:51 PM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1088851607/russia-pig-head-antisemitic-slur-journalist-moscow">A top Russian journalist found a pig's head and antisemitic slur left at his door</a> NPR: It was the latest in a series of acts of intimidation in Russia aimed at journalists and critics of the Kremlin's invasion of Ukraine. 
+ <p class="updated_time"> 01:46 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html">Prince William and Kate Middleton’s Caribbean Tour Marred By Gaffes and Miscues</a> NYT: The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state. 
+ <p class="updated_time"> 01:42 PM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1088840912/antarctica-ice-shelf-collapses">A previously stable ice shelf, the size of New York City, collapses in Antarctica</a> NPR: The collapse, captured by satellite images, occurred in East Antarctica — an area long thought to be stable and not hit much by climate change, scientists say. 
  <p class="updated_time"> 01:32 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Biden Strikes Gas Deal to Reduce Europe’s Reliance on Russia</a> NYT: It was not clear how the United States would achieve its goal of sending more natural gas to Europe when there was little spare capacity to boost exports. 
  <p class="updated_time"> 01:30 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60877578?at_medium=RSS&at_campaign=KARANGA">North Korea Hwasong-17 launch gets Hollywood-style effects</a> BBC: The Hwasong-17 is a new, powerful intercontinental ballistic missile - and the country's largest weapon. 
- <p class="updated_time"> 01:27 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/middleeast/yemen-attack-saudi-arabia.html">Yemeni Rebel Attack Sets Saudi Oil Facility Ablaze</a> NYT: Saudi officials accused Yemen’s Houthi rebels of launching the attack, which cast a shadow over a Formula One car race aimed at international spectators. 
  <p class="updated_time"> 01:23 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60871794?at_medium=RSS&at_campaign=KARANGA">Texts reveal wife of Supreme Court judge urged 2020 election overturn</a> BBC: Text messages reveal Virginia Thomas pushed ex-President Trump's staff not to concede the election. 
- <p class="updated_time"> 01:19 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html">Gaffes and Miscues Mar a Royal Tour of a Republic-Minded Caribbean</a> NYT: The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state. 
+ <p class="updated_time"> 01:16 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit to Spotlight Aid for Ukraine</a> WSJ: Biden’s Poland Visit to Spotlight Aid for Ukraine 
  <p class="updated_time"> 01:11 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
  <p class="updated_time"> 01:01 PM CT, Mar. 25 </p> 
@@ -31,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-60879605?at_medium=RSS&at_campaign=KARANGA">Royal tour: Kate smiles through the rain in the Bahamas as trip ends</a> BBC: The Duke and Duchess of Cambridge visited a primary school in the Bahamas on the last day of their trip. 
  <p class="updated_time"> 12:47 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088819012/russian-tv-protester-fine">Russian TV editor will reportedly face a fine for her on-air protest</a> NPR: Marina Ovsyannikova, who burst onto the set of a live broadcast holding a sign reading "No War," could be fined between 30,000 and 50,000 rubles when her case is heard on April 14. 
- <p class="updated_time"> 12:44 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit to Spotlight Aid for Ukraine</a> WSJ: Biden’s Poland Visit to Spotlight Aid for Ukraine 
  <p class="updated_time"> 12:35 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60837949?at_medium=RSS&at_campaign=KARANGA">World freedoms at stake, President Biden tells US troops</a> BBC: President Joe Biden tells US troops in Poland that global democracy is at risk amid Ukraine war. 
  <p class="updated_time"> 12:27 PM CT, Mar. 25 </p> 
@@ -40,39 +48,37 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:26 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukranian-ww2-survivors.html">‘A Frightening Repeat’: Ukrainian World War II Survivors Face Conflict Again</a> NYT: Nearly 80 years after Ukraine emerged from a devastating world war that killed more than five million of its people, Russia’s invasion has stirred memories that the country had struggled to overcome. 
  <p class="updated_time"> 12:24 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088818575/marie-yovanovitch-putin">How does Marie Yovanovich feel about Putin? Just look at her coffee mug </a> NPR: In interviews promoting her new memoir, the former U.S. ambassador to Ukraine revealed she owns some anti-Putin merchandise — and has been giving it out for years. 
+ <a href="https://www.npr.org/2022/03/25/1088818575/marie-yovanovitch-putin">How does Marie Yovanovitch feel about Putin? Just look at her coffee mug</a> NPR: In interviews promoting her new memoir, the former U.S. ambassador to Ukraine revealed she owns some anti-Putin merchandise — and has been giving it out for years. 
+ <p class="updated_time"> 12:16 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 12:03 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60875314?at_medium=RSS&at_campaign=KARANGA">Boyfriend ordered pregnant woman's murder</a> BBC: Tshegofatso Pule was found hanging from a tree, provoking outrage across South Africa. 
- <p class="updated_time"> 11:44 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
- <p class="updated_time"> 11:18 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/middleeast/israel-uae-bahrain-morocco-arab-summit.html">Israel to Host 3 Arab Foreign Ministers in Historic Meeting</a> NYT: The gathering of top diplomats from Israel, the U.A.E., Bahrain and Morocco, as well as Secretary of State Antony J. Blinken, is a sign of how quickly Middle Eastern alliances are shifting. 
+ <p class="updated_time"> 11:16 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 11:15 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60878133?at_medium=RSS&at_campaign=KARANGA">Ukraine war: JK Rowling hits back at Putin's 'cancel culture' comment</a> BBC: Mr Putin referenced the Harry Potter author during a speech condemning "cancel culture" in the West. 
  <p class="updated_time"> 11:10 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/russians-cyberattacks-infrastructure-nuclear-plant.html">U.S. Accuses 4 Russians of Hacking Infrastructure, Including Nuclear Plant</a> NYT: The announcement covered hackings from 2012 to 2018, but served as yet another warning from the Biden administration of Russia’s ability to conduct such operations. 
- <p class="updated_time"> 10:44 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 10:30 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60871601?at_medium=RSS&at_campaign=KARANGA">EU signs US gas deal to curb reliance on Russia</a> BBC: The liquefied natural gas deal with US is part of EU attempts to reduce reliance on Russian energy. 
  <p class="updated_time"> 10:29 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
+ <p class="updated_time"> 10:16 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 10:14 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/eu-zelensky-hungary-sanctions-ukraine.html">In Speech to E.U., Zelensky Singles Out Hungary Over Sanctions</a> NYT: Addressing the Hungarian leader, Viktor Orban, directly, Volodymyr Zelensky said, “You have to decide for yourself who you are with.” 
  <p class="updated_time"> 10:12 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
  <p class="updated_time"> 09:53 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/australia-floods.html">In Australia, Recurring Floods and Other Disasters Take a Toll</a> NYT: Besieged communities bond through adversity. 
- <p class="updated_time"> 09:44 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
+ <p class="updated_time"> 09:16 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 09:14 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/video/world/100000008253877/ukranian-refugees-moldova.html">‘Is There Shooting Here?’ Ukrainians Find Refuge in Moldova</a> NYT: Moldova, one of Europe’s smallest and poorest countries, has taken in more than 100,000 refugees from Ukraine. But Moldova’s ability to protect them is reaching a breaking point. 
  <p class="updated_time"> 09:13 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/israel-to-host-first-ever-summit-of-arab-diplomats-11648232033">Israel to Host First-Ever Summit of Arab Diplomats</a> WSJ: The top diplomats from Bahrain, the United Arab Emirates and Morocco are set to sit down with their Israeli and U.S. counterparts starting Sunday. 
  <p class="updated_time"> 09:06 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/mariupol-attack-drama-theater.html">About 300 People Died in Bombing of Mariupol Theater, Officials Say</a> NYT: Russian advances in the southern Ukraine port city have hindered efforts to find survivors in the rubble since the building was largely destroyed in the attack. 
- <p class="updated_time"> 08:44 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 08:18 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 08:15 AM CT, Mar. 25 </p> 
@@ -159,10 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088639483/biden-lays-out-3-main-goals-after-meeting-with-leaders-about-ukraine">Biden lays out 3 main goals after meeting with leaders about Ukraine</a> NPR: President Biden spoke to reporters after wrapping up meetings with NATO and G-7 leaders about Russia's invasion of Ukraine. allies have had three goals: to help Ukraine, to economically punish Russia, 
  <p class="updated_time"> 03:34 PM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088639476/international-energy-agency-looked-at-how-to-wean-nations-off-russias-fossil-fue">International Energy Agency looked at how to wean nations off Russia's fossil fuels</a> NPR: The International Energy Agency ended a meeting Thursday that focused on how to settle energy markets made more volatile by Russia's war on Ukraine, sanctions and businesses pulling out. 
- <p class="updated_time"> 03:26 PM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088639455/a-look-at-the-stream-of-weapons-the-u-s-is-supplying-to-ukraine">A look at the stream of weapons the U.S. is supplying to Ukraine</a> NPR: Ukraine may be outgunned, but to the surprise of many, it has punched back hard against Russia. The U.S. is supplying lots of Ukraine's most effective weapons, which are coming into the country daily. 
- <p class="updated_time"> 03:26 PM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088639441/editor-in-chief-of-russia-s-last-remaining-independent-tv-station-on-media-s-rol">Editor-in-chief of Russia's last remaining independent TV station on media's role now</a> NPR: NPR's Mary Louise Kelly speaks with Tikhon Dzyadko, editor-in-chief of TV Rain, Russia's last remaining independent TV station that recently went off air. He and his family fled to Tbilisi, Georgia. 
  <p class="updated_time"> 03:13 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-poll-us-russia-ukraine.html">Most in U.S. Say Biden ‘Not Tough Enough’ on Russia, Poll Finds</a> NYT: The national mood has made a sudden swung toward punishing Russia, the poll shows, putting more pressure on the president as he treads a careful course on Ukraine. 
  <p class="updated_time"> 03:02 PM CT, Mar. 24 </p> 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/russian-journalists-quit-propaganda.html">Fed Up With Deadly Propaganda, Some Russian Journalists Quit</a> NYT: At least four state television employees have publicly resigned, citing regret for their roles in promoting false narratives about Ukraine. 
  <p class="updated_time"> 11:13 PM CT, Mar. 23 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/australia/lismore-flood.html">Government Struggles to Respond to Flooding in Australia</a> NYT: Civilians were largely left to rescue one another as a natural disaster struck Australia. It shows how the authorities are struggling to respond to climate-fueled calamities. 
- <p class="updated_time"> 09:20 PM CT, Mar. 23 </p> 
- <a href="https://www.nytimes.com/2022/03/23/world/europe/brittney-griner-russia.html">U.S. Officials Meet With Brittney Griner in Russia</a> NYT: Some former hostages question whether the family should remain silent, saying pressure campaigns can work. 
 
 
 </details>
@@ -206,32 +206,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:01 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/us/politics/jeff-fortenberry-convicted-donations.html">Nebraska Congressman Faces Calls to Step Down After Convictions</a> NYT: Representative Jeff Fortenberry was accused of lying to F.B.I. agents investigating illegal foreign donations. 
+ <p class="updated_time"> 01:46 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s congressional maps had been rejected in court. 
  <p class="updated_time"> 01:37 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088735156/law-students-praise-ketanji-brown-jacksons-poise-at-the-senate-hearings">Law students praise Ketanji Brown Jackson's poise at the Senate hearings</a> NPR: Ketanji Brown Jackson's posture at the U.S. Senate hearings drew praise from Black law students. 
  <p class="updated_time"> 01:32 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Biden Strikes Gas Deal to Reduce Europe’s Reliance on Russia</a> NYT: It was not clear how the United States would achieve its goal of sending more natural gas to Europe when there was little spare capacity to boost exports. 
  <p class="updated_time"> 01:21 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/economy/federal-reserve-inflation-recession.html">The Fed Bets on a ‘Soft Landing,’ but Recession Risk Looms</a> NYT: Central bankers have been clear that they will do what it takes to control inflation. They are betting on a soft landing, but a bumpy one is possible. 
- <p class="updated_time"> 01:16 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s maps had been rejected in court. 
- <p class="updated_time"> 01:10 PM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/25/politics/manchin-climate-economic-package-negotiations/index.html">Manchin engaging with Biden administration on new climate and economic bill but timeline unclear</a> CNN: Sen. Joe Manchin, the moderate Democrat from West Virginia who torpedoed President Joe Biden's climate and economic bill in December, is having informal discussions with White House officials about measures involving energy, prescription drug costs, tax changes and deficit reduction that he could potentially support in a new version of that package. 
- <p class="updated_time"> 01:09 PM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/25/politics/biden-travel-poland/index.html">Biden says in Poland that the stakes of Ukraine war go well beyond its borders</a> CNN: President Joe Biden told American troops on a deterrence mission near the border with Ukraine that the consequences of the raging conflict 50 miles away could extend around the world. 
  <p class="updated_time"> 01:08 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html">U.S. and European Leaders Reach Deal on Trans-Atlantic Data Privacy</a> NYT: President Biden said the agreement included “unprecedented protections.” 
- <p class="updated_time"> 01:00 PM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/25/politics/ginni-thomas-clarence-thomas-supreme-court-ethics/index.html">What do Ginni Thomas' texts mean for Justice Thomas? At the Supreme Court, it's up to him.</a> CNN: New revelations of efforts by conservative activist Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, to reverse the 2020 election results cast harsh light on the justices' opaque process for dealing with conflicts of interest and their lack of a formal code of conduct. 
  <p class="updated_time"> 12:33 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088757756/how-madeleine-albright-made-womens-issues-central-to-foreign-policy">How Madeleine Albright made women's issues central to foreign policy</a> NPR: When Madeleine Albright became secretary of state in 1997, she was the first woman to do so. She used her career to advance women's issues and served as a role model for many generations. 
  <p class="updated_time"> 12:31 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/maryland-court-congressional-map-illegal-democratic-gerrymander-00020518">Maryland court strikes down congressional map as illegal Democratic gerrymander</a> Politico: The decision is likely set for appeal in Maryland's high court. 
  <p class="updated_time"> 12:24 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088818575/marie-yovanovitch-putin">How does Marie Yovanovich feel about Putin? Just look at her coffee mug </a> NPR: In interviews promoting her new memoir, the former U.S. ambassador to Ukraine revealed she owns some anti-Putin merchandise — and has been giving it out for years. 
- <p class="updated_time"> 12:07 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/politics/jeff-fortenberry-convicted-donations.html">Nebraska Congressman Convicted in Campaign Finance Case</a> NYT: Representative Jeff Fortenberry was accused of lying to F.B.I. agents investigating illegal foreign donations. 
- <p class="updated_time"> 11:30 AM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/24/politics/jeff-fortenberry-illegal-campaign-contributions/index.html">GOP Rep. Jeff Fortenberry guilty of three felonies in campaign contributions case</a> CNN: Republican Rep. Jeff Fortenberry of Nebraska was found guilty on Thursday of concealing information and making false statements to federal authorities in regard to an investigation looking into illegal campaign contributions in his 2016 reelection campaign, the US Attorney's Office for the Central District of California said. 
+ <a href="https://www.npr.org/2022/03/25/1088818575/marie-yovanovitch-putin">How does Marie Yovanovitch feel about Putin? Just look at her coffee mug</a> NPR: In interviews promoting her new memoir, the former U.S. ambassador to Ukraine revealed she owns some anti-Putin merchandise — and has been giving it out for years. 
  <p class="updated_time"> 11:10 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/russians-cyberattacks-infrastructure-nuclear-plant.html">U.S. Accuses 4 Russians of Hacking Infrastructure, Including Nuclear Plant</a> NYT: The announcement covered hackings from 2012 to 2018, but served as yet another warning from the Biden administration of Russia’s ability to conduct such operations. 
  <p class="updated_time"> 10:57 AM CT, Mar. 25 </p> 
@@ -254,8 +246,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/granholm-fighting-energy-supply-disruptions-and-climate-change-is-not-a-binary-choice-00019668">Granholm: Fighting energy supply disruptions and climate change is 'not a binary choice'</a> Politico: Instead, she told an audience at the International Energy Agency’s ministerial meeting in Paris that “both crises need addressing now.” 
  <p class="updated_time"> 09:33 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/25/1088095401/photos-see-what-happened-at-hearings-for-supreme-court-nominee-ketanji-brown-jac">Photos: See what happened at hearings for Supreme Court nominee Ketanji Brown Jackson</a> NPR: A look into the last few days of the Supreme Court confirmation hearing of Judge Ketanji Brown Jackson. 
- <p class="updated_time"> 09:32 AM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/25/politics/joe-manchin-ketanji-brown-jackson-vote/index.html">Manchin says he will vote for Supreme Court nominee Ketanji Brown Jackson</a> CNN: West Virginia Democratic Sen. Joe Manchin announced on Friday that he plans to vote for President Joe Biden's Supreme Court nominee Ketanji Brown Jackson, a move that all but guarantees she will be confirmed. 
  <p class="updated_time"> 08:24 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/white-house-food-companies-russia-00020293">‘Too big to fail’: White House careful not to target food companies as it pressures Putin</a> Politico: U.S.-based Cargill and other large agribusinesses are still operating in Russia, arguing they are essential to the global food supply. The Biden administration isn’t trying to stop them. 
  <p class="updated_time"> 08:18 AM CT, Mar. 25 </p> 
@@ -264,18 +254,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/gas-exports-europe-russia-00020411">U.S., EU pledge to seek new natural gas supplies to displace Russia</a> Politico: EU countries have been scrambling to source new supplies of LNG to replace gas shipments from Russia. 
  <p class="updated_time"> 07:49 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/ginni-thomas-trump-mark-meadows.html">Ginni Thomas Pressed Trump’s Chief of Staff to Overturn 2020 Vote, Texts Show</a> NYT: The messages between Ms. Thomas and Mark Meadows are the first evidence that she directly advised the White House in efforts to reverse the election results. 
- <p class="updated_time"> 07:08 AM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/25/politics/january-6-rioters-trump-misinformation-playbook/index.html">'They are the ones paying the consequences': Jan. 6 rioters mimic Trump's misinformation playbook but see different results</a> CNN: January 6 rioters are publicizing their actions at the US Capitol and pushing misinformation in an effort to gain notoriety in ways that echo former President Donald Trump. 
  <p class="updated_time"> 06:18 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/25/guilty-guilty-guilty-fortenberrys-three-felonies-00020405">Guilty, Guilty, Guilty: Fortenberry’s three felonies</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:18 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election">Ginni Thomas reportedly pressed Trump's chief of staff on overturning the election</a> NPR: Conservative activist Ginni Thomas, who's married to Supreme Court Justice Clarence Thomas, sent a number of texts to then-chief of staff Mark Meadows between November 2020 and January 2021. 
  <p class="updated_time"> 06:12 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-europe-lng-natural-gas.html">Why the U.S. Can’t Quickly Wean Europe From Russian Gas</a> NYT: The Biden administration’s plan to send more natural gas to Europe will be hampered by the lack of export and import terminals. 
- <p class="updated_time"> 06:06 AM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/25/politics/florida-republicans-elections-bar-free-legal-help/index.html"> Florida Republicans on verge of barring free legal help for election officials</a> CNN: Legislation recently approved in Florida would cut off free legal assistance to election officials -- alarming legal advocates who have worked to defend election workers from a barrage of threats, harassment and punishing new laws. 
- <p class="updated_time"> 05:33 AM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/2022/03/25/politics/border-surge-immigration/index.html">Record-breaking surge of migrants anticipated at the US-Mexico border, Border Patrol chief says</a> CNN: Another record-breaking surge of migrants may attempt to cross the US-Mexico border this spring, alarming officials who are now rushing to build more facilities and lining up prison buses to help accommodate the new arrivals. 
  <p class="updated_time"> 05:17 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/25/inside-the-new-politics-of-americas-suburbs-00020394"> Inside the new politics of America’s suburbs</a> Politico Playbook: And a conversation with Antony Blinken’s right-hand man. 
  <p class="updated_time"> 04:23 AM CT, Mar. 25 </p> 
@@ -292,12 +276,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/parents-masks-harm-kids-poll-00020250">POLITICO-Harvard poll: 40 percent of parents believe masks at school harmed their kids</a> Politico: The poll's findings come as White House officials warn that masks may be necessary if Covid-19 cases increase in the United States. 
  <p class="updated_time"> 03:30 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/gallery/2022/03/25/the-nations-cartoonists-on-the-week-in-politics-00020090">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 02:57 AM CT, Mar. 25 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:04 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088715862/nebraska-rep-jeff-fortenberry-is-found-guilty-in-contributions-probe">Nebraska Rep. Jeff Fortenberry is found guilty in contributions probe</a> NPR: The Nebraska congressman was charged after denying to the FBI that he was aware he had received illicit funds from Gilbert Chagoury, a Nigerian billionaire of Lebanese descent. 
- <p class="updated_time"> 11:03 PM CT, Mar. 24 </p> 
- <a href="https://www.cnn.com/2022/03/24/politics/us-planning-on-how-to-counter-putin/index.html">US quietly planning potential responses in case Putin takes extreme step in Ukraine</a> CNN: Four days after Russia invaded Ukraine, President Joe Biden's national security adviser Jake Sullivan authorized a team of officials to quietly map out potential ways the US could respond if Russian President Vladimir Putin took an extreme step, including deploying chemical, biological or nuclear weapons, a senior administration official told CNN. 
- <p class="updated_time"> 09:57 PM CT, Mar. 24 </p> 
- <a href="https://www.cnn.com/2022/03/24/politics/arizona-transgender-health-care-ban-sports-ban/index.html">Arizona lawmakers pass bill outlawing gender-affirming treatment for trans youth</a> CNN: Lawmakers in Arizona approved two bills on Thursday targeting transgender youth in the state, including one that would restrict access to gender-affirming health care. The measures now will go to Republican Gov. Doug Ducey for his signature. 
  <p class="updated_time"> 08:48 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/gop-rep-jeff-fortenberry-convicted-of-lying-to-fbi-00020372">GOP Rep. Jeff Fortenberry convicted of lying to FBI</a> Politico: The charges concerned his knowledge of campaign donations made with funds from a foreign national, and the jury returned the verdicts after less than three hours of deliberations. 
  <p class="updated_time"> 07:43 PM CT, Mar. 24 </p> 
@@ -338,6 +320,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088639490/some-republican-senators-may-have-grilled-judge-jackson-as-part-of-a-larger-camp">Some Republican senators may have grilled Judge Jackson as part of a larger campaign</a> NPR: Some of the most contentious moments in this week's Supreme Court confirmation hearings came during questions from Republican senators believed to be harboring ambitions to run for president. 
  <p class="updated_time"> 03:44 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/russian-spies-indicted-hack-nuclear-plant-00020217">Russian spies indicted in worldwide hacks of energy industry, including Kansas nuclear plant</a> Politico: Their targets worked at more than 500 different entities, including the U.S. Nuclear Regulatory Commission, according to the indictment. 
+ <p class="updated_time"> 03:15 PM CT, Mar. 24 </p> 
+ <a href="https://www.cnn.com/2022/03/21/politics/gallery/ketanji-brown-jackson-confirmation-hearings/index.html">In pictures: Ketanji Brown Jackson's confirmation hearings</a> CNN: Thursday was the final day of confirmation hearings for Ketanji Brown Jackson, the first Black woman ever to be nominated for the US Supreme Court. 
  <p class="updated_time"> 02:59 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/gop-fight-ketanji-brown-jackson-00020186">GOP frets over how hard to fight Jackson</a> Politico: Republican senators could slow down the Supreme Court nominee by unilaterally opposing her in committee. But they won't engage in tactics to hold her up indefinitely. 
  <p class="updated_time"> 01:33 PM CT, Mar. 24 </p> 
@@ -360,6 +344,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/kentanji-brown-jackson-confirmation-swing-votes-senate-00018883">Jackson’s hearings are over. Meet the 9 potential Senate swing votes.</a> Politico: It’s pretty clear how most senators will vote on President Joe Biden’s Supreme Court pick. But nine of them are up in the air. 
  <p class="updated_time"> 03:30 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/how-ukraine-war-could-go-nuclear-00019899">How the Ukraine war could go nuclear</a> Politico: The prospect is growing all too real that Russia could resort to its deadliest weapons or trigger an accidental nuclear war. 
+ <p class="updated_time"> 12:16 AM CT, Mar. 24 </p> 
+ <a href="https://www.cnn.com/2022/03/23/politics/us-russia-general-meeting/index.html">Inside a rare US meeting with a Russian general in Moscow</a> CNN: A rare face-to-face meeting between Russian and US military officials last week led to an "outburst" of emotion from a normally stoic Russian general, a "revealing moment" that the Americans present believe hinted at larger morale problems in Russia's military, according to a closely held US military readout of what transpired. 
  <p class="updated_time"> 09:22 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-hearings-takeaways-00019938">Cursing senators, judicial philosophy and document demands: 5 takeaways from Jackson hearing</a> Politico: The Supreme Court nominee’s confidence grew as GOP attacks continued on day three. 
  <p class="updated_time"> 08:34 PM CT, Mar. 23 </p> 
