@@ -9,34 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Biden Meets With U.S. Soldiers Near Ukrainian-Polish Border</a> NYT: President Biden will also meet with refugees who have fled Ukraine for Poland, where over two million have arrived since Russia’s invasion of Ukraine began. Fighting raged on as Russian forces continued to bombard cities and Ukraine staged counterattacks. 
+ <p class="updated_time"> 10:33 AM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
+ <p class="updated_time"> 10:30 AM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60871601?at_medium=RSS&at_campaign=KARANGA">EU signs US gas deal to curb reliance on Russia</a> BBC: The liquefied natural gas deal with US is part of EU attempts to reduce reliance on Russian energy. 
  <p class="updated_time"> 10:29 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
- <p class="updated_time"> 10:28 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Biden Meets With U.S. Soldiers Near Ukrainian-Polish Border</a> NYT: President Biden will also meet with refugees who have fled Ukraine for Poland, where over two million have arrived since Russia’s invasion of Ukraine began. Fighting raged on as Russian forces continued to bombard cities and Ukraine staged counterattacks. 
  <p class="updated_time"> 10:25 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-war-social-media.html">‘Like a Weapon’: Ukrainians Use Social Media to Stir Resistance</a> NYT: Photos and videos of the war’s horrors have spread quickly, searing into the global public consciousness and providing powerful ammunition in the information battle. 
  <p class="updated_time"> 10:14 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/eu-zelensky-hungary-sanctions-ukraine.html">In Speech to E.U., Zelensky Singles Out Hungary Over Sanctions</a> NYT: Addressing the Hungarian leader, Viktor Orban, directly, Volodymyr Zelensky said, “You have to decide for yourself who you are with.” 
  <p class="updated_time"> 10:12 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
- <p class="updated_time"> 09:54 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
  <p class="updated_time"> 09:53 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/recurring-floods-and-other-disasters-take-their-toll.html">Recurring Floods, and Other Disasters, Take Their Toll</a> NYT: Besieged communities bond through adversity. 
  <p class="updated_time"> 09:49 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/biden-us-troops-poland.html">Biden Meets With U.S. Troops Stationed in Poland</a> NYT: He thanked them for serving as a deterrent to President Vladimir V. Putin of Russia and joined them for pizza. 
- <p class="updated_time"> 09:34 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 09:49 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit to Spotlight Aid for Ukraine</a> WSJ: Biden’s Poland Visit to Spotlight Aid for Ukraine 
  <p class="updated_time"> 09:14 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/video/world/100000008253877/ukranian-refugees-moldova.html">‘Is There Shooting Here?’ Ukrainians Find Refuge in Moldova</a> NYT: Moldova, one of Europe’s smallest and poorest countries, has taken in more than 100,000 refugees from Ukraine. But Moldova’s ability to protect them is reaching a breaking point. 
- <p class="updated_time"> 09:13 AM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-60871601?at_medium=RSS&at_campaign=KARANGA">EU signs US gas deal to curb reliance on Russia</a> BBC: The liquefied natural gas deal with US is part of EU attempts to reduce reliance on Russian energy. 
  <p class="updated_time"> 09:06 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/mariupol-attack-drama-theater.html">About 300 People Died in Bombing of Mariupol Theater, Officials Say</a> NYT: Russian advances in the southern Ukraine port city have hindered efforts to find survivors in the rubble since the building was largely destroyed in the attack. 
+ <p class="updated_time"> 08:49 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 08:40 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60877442?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Smoke rises from Kyiv fuel depot Russia claims it has destroyed</a> BBC: Moscow says it targeted the largest remaining military fuel storage facility in Ukraine. 
- <p class="updated_time"> 08:34 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 08:18 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 08:15 AM CT, Mar. 25 </p> 
@@ -45,26 +45,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088735408/mariupol-drama-theater-deaths">A Russian air strike may have killed 300 sheltering in a theater, officials say</a> NPR: The Drama Theater had become a place of refuge, with hundreds of people gathered inside and in the bomb shelter below. City officials accused Russia of inhuman cruelty. 
  <p class="updated_time"> 07:52 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/poland-ukraine-russia.html">Poland Takes Center Stage as War Rages in Ukraine</a> NYT: Poland’s right-wing populist government has been embraced by both Brussels and Washington as a linchpin of Western solidarity and security. 
+ <p class="updated_time"> 07:49 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/china-looks-to-salvage-relationship-with-europe-11648200602">China Looks to Salvage Relationship With Europe</a> WSJ: China Looks to Salvage Relationship With Europe 
  <p class="updated_time"> 07:47 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60871794?at_medium=RSS&at_campaign=KARANGA">Texts reveal wife of Supreme Court judge urged 2020 election overturn</a> BBC: Text messages reveal Virginia Thomas pushed ex-President Trump's staff not to concede the election. 
- <p class="updated_time"> 07:34 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/china-looks-to-salvage-relationship-with-europe-11648200602">China Looks to Salvage Relationship With Europe</a> WSJ: China Looks to Salvage Relationship With Europe 
  <p class="updated_time"> 07:33 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/israel-uae-bahrain-morocco-arab-summit.html">Israel to Host 3 Arab Foreign Ministers in Historic Meeting</a> NYT: The gathering of top diplomats from Israel, the U.A.E., Bahrain and Morocco, as well as Secretary of State Antony J. Blinken, is a sign of how quickly Middle Eastern alliances are shifting. 
  <p class="updated_time"> 07:33 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
  <p class="updated_time"> 07:32 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-europe-russia-putin-ukraine.html">Biden and His Allies Vow to Take a Tougher Stance on Russia</a> NYT: In a day of summit meetings, President Biden and his counterparts faced the prospect of Russia using weapons of mass destruction. Mr. Biden said the United States would admit 100,000 Ukrainian refugees. 
+ <p class="updated_time"> 06:49 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 06:36 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60861896?at_medium=RSS&at_campaign=KARANGA">Cameroon conflict: The football fans who hope their national team lose</a> BBC: Most people want their nation to make it to the World Cup, but this is not so for some Cameroonians. 
- <p class="updated_time"> 06:34 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 05:59 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60870238?at_medium=RSS&at_campaign=KARANGA">Solomon Islands confirms China security draft, alarming Australia</a> BBC: Australia has concerns over their Pacific island neighbour allowing China a military base 
+ <p class="updated_time"> 05:49 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 05:45 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/25/1087865980/meet-the-russians-who-are-fleeing-not-the-war-but-their-own-government">Meet the Russians who are fleeing — not the war, but their own government</a> NPR: Thousands of Russians have left their country since their government began its invasion of Ukraine. Many have settled in Georgia, a country with a complicated history with its neighbor to the north. 
- <p class="updated_time"> 05:34 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 05:06 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/asia/korea-yoon-president-defense-ministry.html">Relocation of Presidential Office in Seoul Heightens Security Concerns</a> NYT: The South Korean president-elect’s decision to move both the presidential office and the Defense Ministry comes at a time when North Korea is rapidly escalating tension. 
  <p class="updated_time"> 04:50 AM CT, Mar. 25 </p> 
@@ -202,14 +202,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:29 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
- <p class="updated_time"> 10:20 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1088759442/manchin-says-he-will-support-supreme-court-nominee-judge-ketanji-brown-jackson">Manchin says he will support Supreme Court nominee Judge Ketanji Brown Jackson</a> NPR: Manchin said that Jackson's "wide array of experiences" in the judicial system provide her with a unique perspective she will bring to the court. His support essentially secures her spot on the court. 
+ <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
+ <a href="https://www.politico.com/news/2022/03/25/mccarthy-fortenberry-resign-00020488">McCarthy nudges convicted Rep. Fortenberry to resign</a> Politico: The House GOP leader spoke hours after the Nebraska Republican was convicted of three felonies related to campaign donations from a foreign national. 
+ <p class="updated_time"> 10:37 AM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/business/economy/federal-reserve-inflation-recession.html">The Fed Bets on a ‘Soft Landing,’ but Recession Risk Looms</a> NYT: Central bankers have been clear that they will do what it takes to control inflation. They are betting on a soft landing, but a bumpy one is possible. 
+ <p class="updated_time"> 10:35 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/justice-clarence-thomas-hospital-discharged.html">Justice Clarence Thomas Discharged From Hospital, Court Says</a> NYT: The Supreme Court justice, 73, had been hospitalized for a week with flulike symptoms. 
+ <p class="updated_time"> 10:19 AM CT, Mar. 25 </p> 
+ <a href="https://www.politico.com/news/2022/03/25/supreme-court-justice-clarence-thomas-released-from-hospital-court-says-00020468">Supreme Court Justice Clarence Thomas released from hospital</a> Politico: Thomas, 73, is the court's longest-serving member and fell ill with an infection last week 
  <p class="updated_time"> 10:16 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/manchin-jackson-supreme-court.html">Manchin Backs Jackson as Democrats Unite Behind Confirmation</a> NYT: The support of the centrist from West Virginia shows that Democrats are unifying behind Judge Ketanji Brown Jackson’s nomination in the face of strong Republican opposition. 
  <p class="updated_time"> 10:15 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/health/fda-drug-approvals-makena.html">F.D.A. Rushed a Drug for Preterm Births. Did It Put Speed Over Science?</a> NYT: The agency’s accelerated approval program for certain drugs has come under intense scrutiny because some medicines stay on the market despite limited evidence that they work. 
+ <p class="updated_time"> 10:00 AM CT, Mar. 25 </p> 
+ <a href="https://www.politico.com/news/2022/03/25/trump-property-values-tish-james-00020279">Trump’s fate might rest in her hands. But James’ fraud claims are tough to prove.</a> Politico: The court action is still in the pre-litigation phase, leading some seasoned lawyers to question whether New York Attorney General Tish James has enough evidence to bring a compelling case. 
  <p class="updated_time"> 09:38 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/granholm-fighting-energy-supply-disruptions-and-climate-change-is-not-a-binary-choice-00019668">Granholm: Fighting energy supply disruptions and climate change is 'not a binary choice'</a> Politico: Instead, she told an audience at the International Energy Agency’s ministerial meeting in Paris that “both crises need addressing now.” 
  <p class="updated_time"> 09:33 AM CT, Mar. 25 </p> 
@@ -306,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088492365/judge-ketanji-brown-jackson-nomination-hearings-what-happened-thursday">Judge Ketanji Brown Jackson confirmation hearings: What happened Thursday </a> NPR: At the fourth and final hearing, representatives from the American Bar Association lauded Jackson's resume and career. GOP panel members continued their focus on her handling of child pornography. 
  <p class="updated_time"> 01:33 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/jan-6-panel-contempt-navarro-scavino-00020183">Jan. 6 panel seeks contempt charges for Navarro and Scavino</a> Politico: If the criminal referrals are approved by the committee, the full House would then vote on whether to pass the matter along to the Justice Department. 
- <p class="updated_time"> 01:31 PM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088599079/peter-navarro-dan-scavino-jan-6-committee-criminal-contempt">Ex-Trump advisers Peter Navarro, Dan Scavino to face Jan. 6 panel criminal referral</a> NPR: Navarro was the former trade adviser, while Scavino was former deputy chief of staff. The two had been named in earlier committee subpoenas to testify. 
  <p class="updated_time"> 01:11 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/supreme-court-first-amendment.html">Censure of Politician Did Not Violate First Amendment, Supreme Court Rules</a> NYT: A verbal reprimand, Justice Neil M. Gorsuch wrote for a unanimous court, is itself a form of free speech. 
  <p class="updated_time"> 01:11 PM CT, Mar. 24 </p> 
@@ -360,8 +366,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/22/ketanji-brown-jackson-senate-hearing-day-2-takeaways-analysis-00019538">5 takeaways from Ketanji Brown Jackson's Supreme Court hearing</a> Politico: GOP senators launch salvos on "critical race theory," criminal sentencing and representing Guantanamo inmates. 
  <p class="updated_time"> 07:36 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/booker-brings-out-emotion-during-jackson-hearing-00019507">Booker brings out emotion during Jackson hearing</a> Politico: Jackson talked about the work it takes to become a judge, and the work it takes to be a mother at the same time. 
- <p class="updated_time"> 01:00 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/biden-infrastructure-spending-not-his-call-00015841">Biden wants to spend infrastructure billions on climate and equity initiatives. But it’s not his call.</a> Politico: Biden’s inability to control how a large portion of the infrastructure money gets spent is largely due to legal constraints. 
 
 
 </details>
