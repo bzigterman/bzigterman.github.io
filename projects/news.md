@@ -11,32 +11,32 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 12:47 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
+ <p class="updated_time"> 12:43 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 12:40 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Counteroffensive in Ukraine Shifts Dynamic of War</a> NYT: President Biden met with European leaders in Brussels to reinforce solidarity against Russia’s invasion and proposed excluding Russia from the G20. Ukraine said it had destroyed a Russian naval ship. 
- <p class="updated_time"> 12:20 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 11:54 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
+ <p class="updated_time"> 11:43 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 11:35 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-60870100?at_medium=RSS&at_campaign=KARANGA">Russia considers accepting Bitcoin for oil and gas</a> BBC: 'Friendly' countries may be allowed to pay for energy with crypto-currency amid widespread sanctions. 
  <p class="updated_time"> 11:28 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60870239?at_medium=RSS&at_campaign=KARANGA">Great Barrier Reef: Australia confirms new mass bleaching event</a> BBC: It is the fourth time since 2016 that such a devastating event has been found, Australia says. 
- <p class="updated_time"> 11:20 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 11:07 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60870238?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Possible China security pact causes Australia concern</a> BBC: Canberra says it would be concerned if Beijing was allowed a military presence in the Solomon Islands. 
  <p class="updated_time"> 10:59 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60860441?at_medium=RSS&at_campaign=KARANGA">N Korea claims successful launch of 'monster missile' Hwasong-17</a> BBC: The Hwasong-17 is a new, powerful intercontinental ballistic missile – and the country's largest weapon. 
- <p class="updated_time"> 10:20 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 10:43 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
+ <p class="updated_time"> 09:43 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
  <p class="updated_time"> 09:29 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/afghanistan-highway-kabul-kandahar.html">A Bomb Crater as Business Partner for a Pit Stop on an Afghan Highway</a> NYT: Along a lonely stretch of what was once the most dangerous road in Afghanistan, everyone slows down when they reach Hafiz Qadim’s mud brick shop. It’s not the food. Or the gas. It’s the big hole. 
- <p class="updated_time"> 09:20 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
+ <p class="updated_time"> 08:43 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 08:40 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/health-60821689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The road to safety for Ukraine's cancer children</a> BBC: About 200 hospitals worldwide are offering safe cancer treatment for boys like Pavlo and Kyril. 
- <p class="updated_time"> 08:20 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 08:07 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-europe-russia-putin-ukraine.html">Biden and His Allies Vow to Take a Tougher Stance on Russia</a> NYT: In a day of summit meetings, President Biden and his counterparts faced the prospect of Russia using weapons of mass destruction. Mr. Biden said the United States would admit 100,000 Ukrainian refugees. 
  <p class="updated_time"> 07:53 PM CT, Mar. 24 </p> 
@@ -56,7 +56,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:15 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/health-60861537?at_medium=RSS&at_campaign=KARANGA">Poland hotel becomes triage centre for cancer patients</a> BBC: Hundreds of children with cancer have now been evacuated from Ukraine to continue treatment abroad. 
  <p class="updated_time"> 07:12 PM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60778909?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The priest gunned down at a checkpoint</a> BBC: The shooting of a Ukrainian priest by Russian soldiers is being logged as a suspected war crime. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60778909?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The priest shot at a checkpoint</a> BBC: The shooting of a Ukrainian priest by Russian soldiers is being logged as a suspected war crime. 
  <p class="updated_time"> 07:10 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60861896?at_medium=RSS&at_campaign=KARANGA">Cameroon conflict: The football fans who hope their national team lose</a> BBC: Most people want their nation to make it to the World Cup, but this is not so for some Cameroonians. 
  <p class="updated_time"> 07:07 PM CT, Mar. 24 </p> 
