@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:15 PM CT, Mar. 25 </p> 
+ <p class="updated_time"> 04:31 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
- <p class="updated_time"> 03:59 PM CT, Mar. 25 </p> 
+ <p class="updated_time"> 04:28 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/europe/putin-cancel-culture-rowling.html">Putin Goes Into Battle on a Second Front: Culture</a> NYT: In a blast against “cancel culture,” he said the West is “canceling” Russia by going after “an entire thousand-year-old country, our people.” 
+ <p class="updated_time"> 04:20 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
+ <p class="updated_time"> 04:18 PM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879152/alcohol-bans-in-ukraine-have-led-to-a-whisper-network-among-those-seeking-a-drin">Alcohol bans in Ukraine have led to a whisper network among those seeking a drink</a> NPR: Some local Ukrainian officials banned alcohol sales amid the war, which has made it difficult for some people trying to relax. But there are still ways to find open bars. 
  <p class="updated_time"> 03:52 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/music/ukraine-music-war-zones.html">Ukrainians Fill Streets With Music, Echoing Past War Zones</a> NYT: In subway stations and apartment buildings, artists are playing Bach, Vivaldi and folk songs. 
  <p class="updated_time"> 03:49 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879145/people-in-russia-controlled-georgia-are-watching-whats-happening-in-ukraine-clos">People in Russia-controlled Georgia are watching what's happening in Ukraine closely</a> NPR: NPR's Mary Louise Kelly reports from the boundary line of the Russian-controlled area in northern Georgia, which saw heavy fighting during the 2008 Russian invasion. 
+ <p class="updated_time"> 03:47 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879124/a-massive-bleaching-event-is-taking-place-in-australias-great-barrier-reef">A massive bleaching event is taking place in Australia's Great Barrier Reef</a> NPR: Australia's Great Barrier Reef is suffering another mass bleaching. That's when corals turn ghostly white due to heat, and it's becoming more common as the climate warms. 
  <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
@@ -29,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088885299/russias-assault-on-kyiv-slows-as-it-shifts-focus-to-eastern-ukraines-donbas-regi">Russia's assault on Kyiv slows as it shifts focus to eastern Ukraine's Donbas region</a> NPR: The region, the site of two breakaway republics created by Russia-backed separatists in 2014, has been the site of have fighting for the past several days, a senior U.S. official says. 
  <p class="updated_time"> 03:40 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60879605?at_medium=RSS&at_campaign=KARANGA">Royal tour: Cherish your friends, Kate tells schoolchildren in Bahamas as trip ends</a> BBC: William and Catherine saw a traditional parade and visited a school on the last day of their tour. 
- <p class="updated_time"> 03:19 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 03:18 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60882156?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Change of emphasis or admission of failure by Moscow?</a> BBC: Moscow now says the main aim is to "liberate" eastern Ukraine - a change of emphasis or more? 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
@@ -41,10 +45,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088879026/south-korea-could-face-a-long-hard-winter-for-womens-rights-under-president-elec">South Korea could face a 'long, hard winter' for women's rights under president elect</a> NPR: NPR's Juana Summers speaks with Hawon Jung, a Korean journalist, about fears that the president elect will reverse years of progress on women's rights in South Korea. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879019/polands-president-has-made-a-political-u-turn-in-light-of-the-crisis-in-ukraine">Poland's president has made a political U-turn in light of the crisis in Ukraine</a> NPR: Russia's invasion of Ukraine has prompted Poland's Trump-loving conservative populists to unite with U.S. Democrats and European Union leaders: pillars of liberal democracy they have fought for years. 
+ <p class="updated_time"> 02:47 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
- <p class="updated_time"> 02:19 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 02:19 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60881567?at_medium=RSS&at_campaign=KARANGA">Spotify stops streaming in Russia over safety concerns</a> BBC: New laws threaten jail for people accused of spreading "fake news" about Russia's armed forces. 
  <p class="updated_time"> 02:03 PM CT, Mar. 25 </p> 
@@ -55,6 +59,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
  <p class="updated_time"> 01:51 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088851607/russia-pig-head-antisemitic-slur-journalist-moscow">A top Russian journalist found a pig's head and antisemitic slur left at his door</a> NPR: It was the latest in a series of acts of intimidation in Russia aimed at journalists and critics of the Kremlin's invasion of Ukraine. 
+ <p class="updated_time"> 01:47 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 01:46 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html">Prince William and Kate Middleton’s Caribbean Tour Marred By Gaffes and Miscues</a> NYT: The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state. 
  <p class="updated_time"> 01:42 PM CT, Mar. 25 </p> 
@@ -63,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60874223?at_medium=RSS&at_campaign=KARANGA">Next stop Kyiv - the battle on the capital's outskirts</a> BBC: In Irpin, only a few civilians remain as volunteers bolster defences a few miles from Kyiv. 
  <p class="updated_time"> 01:30 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60877578?at_medium=RSS&at_campaign=KARANGA">North Korea Hwasong-17 launch gets Hollywood-style effects</a> BBC: The Hwasong-17 is a new, powerful intercontinental ballistic missile - and the country's largest weapon. 
- <p class="updated_time"> 01:19 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 01:11 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
  <p class="updated_time"> 01:01 PM CT, Mar. 25 </p> 
@@ -73,19 +77,17 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60879835?at_medium=RSS&at_campaign=KARANGA">On the road to Mariupol, a southern Ukrainian town fears for the worst</a> BBC: Residents of a town neighbouring Mariupol ready themselves for Russian missile and rocket attacks. 
  <p class="updated_time"> 12:47 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088819012/russian-tv-protester-fine">Russian TV editor will reportedly face a fine for her on-air protest</a> NPR: Marina Ovsyannikova, who burst onto the set of a live broadcast holding a sign reading "No War," could be fined between 30,000 and 50,000 rubles when her case is heard on April 14. 
+ <p class="updated_time"> 12:47 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 12:35 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60837949?at_medium=RSS&at_campaign=KARANGA">World freedoms at stake, President Biden tells US troops</a> BBC: President Joe Biden tells US troops in Poland that global democracy is at risk amid Ukraine war. 
  <p class="updated_time"> 12:27 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-war-social-media.html">How Ukrainians Are Using Social Media to Stir Resistance</a> NYT: Photos and videos of the war’s horrors have spread quickly, searing into the global public consciousness and providing powerful ammunition in the information battle. 
  <p class="updated_time"> 12:26 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukranian-ww2-survivors.html">‘A Frightening Repeat’: Ukrainian World War II Survivors Face Conflict Again</a> NYT: Nearly 80 years after Ukraine emerged from a devastating world war that killed more than five million of its people, Russia’s invasion has stirred memories that the country had struggled to overcome. 
- <p class="updated_time"> 12:24 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088818575/marie-yovanovitch-putin">How does Marie Yovanovitch feel about Putin? Just look at her coffee mug</a> NPR: In interviews promoting her new memoir, the former U.S. ambassador to Ukraine revealed she owns some anti-Putin merchandise — and has been giving it out for years. 
- <p class="updated_time"> 12:19 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 12:03 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60875314?at_medium=RSS&at_campaign=KARANGA">Boyfriend ordered pregnant woman's murder</a> BBC: Tshegofatso Pule was found hanging from a tree, provoking outrage across South Africa. 
- <p class="updated_time"> 11:19 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 11:47 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 11:15 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60878133?at_medium=RSS&at_campaign=KARANGA">Ukraine war: JK Rowling hits back at Putin's 'cancel culture' comment</a> BBC: Mr Putin referenced the Harry Potter author during a speech condemning "cancel culture" in the West. 
@@ -206,12 +208,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:10 PM CT, Mar. 25 </p> 
+ <p class="updated_time"> 04:34 PM CT, Mar. 25 </p> 
+ <a href="https://www.politico.com/news/2022/03/25/court-tosses-out-reporters-discrimination-suit-against-washington-post-00020626">Court tosses out reporter's discrimination suit against Washington Post</a> Politico: Judge dismisses journalist Felicia Sonmez's case, but rejects newspaper's bid to invoke free-speech protection law. 
+ <p class="updated_time"> 04:20 PM CT, Mar. 25 </p> 
+ <a href="https://www.politico.com/news/2022/03/25/russia-kyiv-offensive-ukraine-counterattack-00020622">Russia’s Kyiv offensive stalls, as Ukrainians counterattack in the south</a> Politico: The stalemated Russian assault has been a major headache for the Kremlin, but U.S. officials warn of new troops on the move toward Ukraine. 
+ <p class="updated_time"> 04:20 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
+ <p class="updated_time"> 04:18 PM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:17 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/supreme-court-navy-covid-vaccines.html">Supreme Court Rules Against Navy SEALs in Vaccine Mandate Case</a> NYT: The justices blocked a ruling that would have prevented the Pentagon from taking into account whether service members with religious objections were vaccinated. 
+ <p class="updated_time"> 04:14 PM CT, Mar. 25 </p> 
+ <a href="https://www.politico.com/news/2022/03/25/us-eu-digital-markets-act-00020551">U.S. remains mum on EU’s landmark tech regulation</a> Politico: The Biden administration’s silence on the EU’s new Digital Markets Act signals continued internal disagreements about how to approach antitrust reforms targeting large tech companies. 
  <p class="updated_time"> 04:06 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
- <p class="updated_time"> 03:59 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
  <p class="updated_time"> 03:34 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879096/the-covid-fund-for-the-uninsured-is-shutting-down-which-will-likely-drive-spread">The COVID fund for the uninsured is shutting down, which will likely drive spread</a> NPR: Congress failed to approve billions in new funding to fight COVID-19. Among threatened program cuts are free treatments for COVID patients who are uninsured. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
@@ -298,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/us/politics/ketanji-brown-jackson-child-abuse-cases.html">Critics of Jackson’s Child Sex Abuse Sentences Backed Judges With Similar Records</a> NYT: Republican senators criticized Judge Ketanji Brown Jackson for imposing sentences lower than prosecutor recommendations in child sexual abuse cases. Other nominees had done the same thing. 
  <p class="updated_time"> 06:00 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/ketanji-brown-jackson-hearings.html">Takeaways From Ketanji Brown Jackson’s Confirmation Hearings</a> NYT: Republicans fired off an array of political attacks, and Democrats got through their biggest hurdle to swearing in the first Black woman on the Supreme Court. 
- <p class="updated_time"> 05:53 PM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088694473/trump-lawsuit-clinton-democrats-russia">Trump files lawsuit against Clinton, Democrats for Russia claims</a> NPR: It alleges that Trump, as a result of defendants' actions, has sustained losses of at least $24 million "and continuing to accrue, as well as the loss of existing and future business opportunities." 
  <p class="updated_time"> 05:47 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/gillibrand-lummis-cryptocurrency-regulation-00020291">Gillibrand, Lummis plan new regulatory framework for crypto</a> Politico: If the two succeed in hammering out the details, it would mark the first major bipartisan attempt to create a comprehensive framework for the U.S.’s regulation of crypto markets and other digital assets. 
  <p class="updated_time"> 05:46 PM CT, Mar. 24 </p> 
@@ -314,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/ukraine-legion-foreign-soldiers-00020233">Band of others: Ukraine’s legions of foreign soldiers are on the frontline</a> Politico: Up to 20,000 volunteers — from all over the world — have joined up to fight Russian invaders. The commanders say they're weeding out "bloodthirsty guys" and "extremists." 
  <p class="updated_time"> 04:23 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/abby-broyles-ends-campaign.html">U.S. House Candidate Ends Run After Uproar Over Behavior at Sleepover</a> NYT: Abby Broyles of Oklahoma said on Thursday that she had checked into rehab “to focus on myself and my happiness” weeks after apologizing for drinking and swearing at children. 
- <p class="updated_time"> 04:15 PM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/news/2022/03/24/russia-state-media-rumble-00020184">Russia state media turn to Rumble to get out their word</a> Politico: The far-right video sharing outlet has become a last refuge of sorts for Sputnik podcasts. 
  <p class="updated_time"> 03:55 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/intelligence-agencies-ukraine-afghanistan.html">Why the U.S. Was Wrong About Ukraine and the Afghan War</a> NYT: U.S. intelligence agencies thought the Afghan military would last longer and predicted Kyiv would fall faster, showing the difficulty of assessing fighting spirit. 
  <p class="updated_time"> 03:44 PM CT, Mar. 24 </p> 
@@ -326,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/gop-fight-ketanji-brown-jackson-00020186">GOP frets over how hard to fight Jackson</a> Politico: Republican senators could slow down the Supreme Court nominee by unilaterally opposing her in committee. But they won't engage in tactics to hold her up indefinitely. 
  <p class="updated_time"> 01:33 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/jan-6-panel-contempt-navarro-scavino-00020183">Jan. 6 panel seeks contempt charges for Navarro and Scavino</a> Politico: If the criminal referrals are approved by the committee, the full House would then vote on whether to pass the matter along to the Justice Department. 
- <p class="updated_time"> 01:11 PM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/news/2022/03/24/donald-trump-sues-hillary-clinton-and-allies-russia-00020174">Donald Trump sues Hillary Clinton and allies over Russia claims</a> Politico: Sprawling lawsuit accuses a large cast of racketeering conspiracy over allegations that Trump was in Putin's pocket in 2016. 
  <p class="updated_time"> 01:05 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/biden-russia-removal-g-20-00020169">Biden’s game plan in Brussels: Punch Putin and hug the West</a> Politico: The president said chemical warfare in Ukraine would “trigger a response” from NATO and called for Russia to be booted from the G-20. But there are limits, as always. 
  <p class="updated_time"> 12:21 PM CT, Mar. 24 </p> 
