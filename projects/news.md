@@ -9,34 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:20 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 10:37 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Live Updates: Ukraine’s Counteroffensive Shifts Dynamic of War</a> NYT: President Biden met with European leaders in Brussels to reinforce solidarity against Russia’s invasion and proposed excluding Russia from the G20. Ukraine said it had destroyed a Russian naval ship. 
+ <p class="updated_time"> 10:37 PM CT, Mar. 24 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
  <p class="updated_time"> 10:18 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact, Raising Alarm in the Pacific</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
- <p class="updated_time"> 09:32 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 09:48 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 09:29 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/afghanistan-highway-kabul-kandahar.html">A Bomb Crater as Business Partner for a Pit Stop on an Afghan Highway</a> NYT: Along a lonely stretch of what was once the most dangerous road in Afghanistan, everyone slows down when they reach Hafiz Qadim’s mud brick shop. It’s not the food. Or the gas. It’s the big hole. 
+ <p class="updated_time"> 08:48 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 08:40 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/health-60821689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The road to safety for Ukraine's cancer children</a> BBC: About 200 hospitals worldwide are offering safe cancer treatment for boys like Pavlo and Kyril. 
- <p class="updated_time"> 08:32 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 08:07 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-europe-russia-putin-ukraine.html">Biden and His Allies Vow to Take a Tougher Stance on Russia</a> NYT: In a day of summit meetings, President Biden and his counterparts faced the prospect of Russia using weapons of mass destruction. Mr. Biden said the United States would admit 100,000 Ukrainian refugees. 
- <p class="updated_time"> 07:59 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
  <p class="updated_time"> 07:53 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60867789?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Return to Irpin, the town destroyed in the battle for Kyiv</a> BBC: The BBC's Jeremy Bowen returns to Irpin, where Ukrainian forces say they're pushing back Russians. 
  <p class="updated_time"> 07:50 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/climate/methane-leaks-new-mexico.html">Methane Leaks Plague New Mexico Oil and Gas Wells</a> NYT: An analysis found leaks of methane, a potent greenhouse gas, from oil and gas drilling in the Permian Basin were many times higher than government estimates. 
+ <p class="updated_time"> 07:48 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
  <p class="updated_time"> 07:47 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60831476?at_medium=RSS&at_campaign=KARANGA">Australia floods: 'We're resilient, but how about helping us?'</a> BBC: Locals tell dramatic stories of survival and recovery, but accuse politicians of ignoring them. 
  <p class="updated_time"> 07:47 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/climate/britain-rainfall-historical-data.html">British Rainfall Records Extended Back to 1836 Thanks to Covid Lockdowns</a> NYT: As Britain went into its first Covid lockdown, a scientist asked for help transcribing rainfall records spanning three centuries. Thousands of people online answered the call. 
  <p class="updated_time"> 07:45 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60861539?at_medium=RSS&at_campaign=KARANGA">Michael Bublé: Multi-Grammy winner on Bond themes, romantic gifts and new album</a> BBC: An egg poacher, a toaster and the washing up - just some ways Michael Bublé shows his romantic side. 
- <p class="updated_time"> 07:32 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
  <p class="updated_time"> 07:20 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/60822489?at_medium=RSS&at_campaign=KARANGA">Sanctions: Have they worked?</a> BBC: Sanctions are used by countries as a diplomatic tool, but they don't always have their intended effect. 
  <p class="updated_time"> 07:16 PM CT, Mar. 24 </p> 
@@ -57,7 +57,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60858363?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Civilians abducted as Russia tries to assert control</a> BBC: The UN has documented almost 40 cases of politicians, journalists and activists being abducted. 
  <p class="updated_time"> 06:50 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
- <p class="updated_time"> 06:32 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 06:48 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
  <p class="updated_time"> 06:25 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60837944?at_medium=RSS&at_campaign=KARANGA">Is North America's Arctic vulnerable to Russia?</a> BBC: As tensions with Russia rise, fears mount that North America's isolated Arctic may be vulnerable 
@@ -67,7 +67,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/africa/ethiopia-tigray-conflict-truce.html">Ethiopia Declares ‘Humanitarian Truce’ in War-Ravaged Tigray Region</a> NYT: The conflict, now lasting 17 months, has left thousands dead, millions displaced and hindered aid from reaching those going hungry in the country’s northern region. 
  <p class="updated_time"> 05:50 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60869580?at_medium=RSS&at_campaign=KARANGA">US charges four Russians over hacking campaign on energy sector</a> BBC: US prosecutors say the alleged hackers placed malware in safety systems at energy plants worldwide. 
- <p class="updated_time"> 05:32 PM CT, Mar. 24 </p> 
+ <p class="updated_time"> 05:48 PM CT, Mar. 24 </p> 
  <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 05:19 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/north-korea-missile-icbm.html">With U.S. Focus on Ukraine, North Korea Launches a Powerful New ICBM</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
@@ -284,14 +284,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088523647/langston-hughes-let-america-be-america-again-supreme-court">The history behind the Langston Hughes poem used in the Ketanji Brown Jackson hearing</a> NPR: Sen. Cory Booker quoted the lines to support Supreme Court nominee Judge Kentaji Brown Jackson during her confirmation hearing. Hughes' poem is a searing look at race and class in America. 
  <p class="updated_time"> 11:50 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/supreme-court-cancel-culture-community-college-00020049">Supreme Court weighs in on ‘cancel culture’ with community college case</a> Politico: Unanimous ruling concludes school board member cannot sue over public rebuke. 
- <p class="updated_time"> 11:19 AM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/news/2022/03/24/biden-aide-blasts-moscows-potemkin-stock-market-reopening-00020055">Biden aide blasts Moscow’s ‘Potemkin’ stock market reopening</a> Politico: The Russian exchange was shut for nearly a month due to Russia’s invasion of Ukraine and the sanctions it spurred. 
  <p class="updated_time"> 11:15 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/23/us/politics/ketanji-brown-jackson.html">Ketanji Brown Jackson Survives a Final Bruising Day of Questions</a> NYT: Republicans on the Senate Judiciary Committee pummeled the first Black woman nominated to the Supreme Court for a second day over her sentencing record on child sex crimes. 
  <p class="updated_time"> 10:33 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/qanon-supreme-court-ketanji-brown-jackson.html">QAnon Cheers Republican Attacks on Jackson. Democrats See a Signal.</a> NYT: Criticism of Judge Ketanji Brown Jackson’s sentencing decisions emerged as a theme among Republicans — and renewed debate about the party’s stance toward QAnon. 
- <p class="updated_time"> 10:08 AM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/news/2022/03/24/granholm-biden-gas-exports-00019994">Granholm says Biden will make gas exports announcement 'soon,' but details scarce</a> Politico: Details will be important, as experts have warned that the U.S. government doesn’t have the power to unilaterally command the private markets. 
  <p class="updated_time"> 09:54 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/supreme-court-inmate-execution-prayer-00020012">Supreme Court backs Texas inmate in execution prayer case</a> Politico: Justices rule, 8-1, in favor of allowing minister to 'pray over' and touch death row prisoner during lethal injection. 
  <p class="updated_time"> 09:32 AM CT, Mar. 24 </p> 
@@ -318,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/how-ukraine-war-could-go-nuclear-00019899">How the Ukraine war could go nuclear</a> Politico: The prospect is growing all too real that Russia could resort to its deadliest weapons or trigger an accidental nuclear war. 
  <p class="updated_time"> 03:30 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/kentanji-brown-jackson-confirmation-swing-votes-senate-00018883">Jackson’s hearings are over. Meet the 9 potential Senate swing votes.</a> Politico: It’s pretty clear how most senators will vote on President Joe Biden’s Supreme Court pick. But nine of them are up in the air. 
- <p class="updated_time"> 03:30 AM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/news/2022/03/24/biden-midterm-inflation-economy-00019429">Biden's mounting midterm threat: Inflation angst outweighing historic job growth</a> Politico: White House officials deny any sense of panic over the economy or their midterm chances. 
  <p class="updated_time"> 12:16 AM CT, Mar. 24 </p> 
  <a href="https://www.cnn.com/2022/03/23/politics/us-russia-general-meeting/index.html">Inside a rare US meeting with a Russian general in Moscow</a> CNN: A rare face-to-face meeting between Russian and US military officials last week led to an "outburst" of emotion from a normally stoic Russian general, a "revealing moment" that the Americans present believe hinted at larger morale problems in Russia's military, according to a closely held US military readout of what transpired. 
  <p class="updated_time"> 09:22 PM CT, Mar. 23 </p> 
@@ -336,6 +330,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/ketanji-brown-jackson-confirmation-hearings-day-3-top-moments-00019637">Leahy zings Ted Cruz, plus other top hearing moments</a> Politico: Republican committee members have reprised their lines of attack against Jackson. 
  <p class="updated_time"> 12:04 PM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/2022/03/23/supreme-court-nominee-jackson-day-3-hearings-00019643">Jackson indicates affirmative action case recusal plans as hearing questions wrap</a> Politico: The Supreme Court nominee also defended her record on sex offense sentencing and Guantanamo Bay detainees in occasionally sharp exchanges with GOP senators. 
+ <p class="updated_time"> 12:01 PM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/biden-governors-infrastructure-russian-hackers-00019647">Biden tells governors to 'take urgent action' to protect infrastructure from Russian hackers</a> Politico: "There are things that only you as governor can do," Biden told state leaders. 
  <p class="updated_time"> 06:28 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/23/who-flocks-to-the-scotus-spotlight-00019574">Who flocks to the SCOTUS spotlight?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Mar. 23 </p> 
@@ -344,14 +340,20 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/republicans-supreme-court-confirmation-hearing-00019458">GOP's 2024 contenders leap into Supreme Court spotlight</a> Politico: A quartet of Republican presidential hopefuls aren't afraid to use their Judiciary Committee lecterns to audition for presidential runs. 
  <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/agenda/2022/03/23/bidencare-unfinished-agenda-obamacare-campaign-00019272">Joe Biden’s Never-Ending Campaign to Build on Obamacare</a> Politico: Blame the pandemic, Joe Manchin or monopolists. But the president’s ambitious health care plans are faltering. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
+ <a href="https://www.politico.com/news/2022/03/23/russia-ukraine-cyberwar-putin-00019440">The world holds its breath for Putin's cyberwar</a> Politico: Moscow’s slowness to unleash its cyber might against Ukraine has scrambled long-held assumptions about the future of warfare — even as warnings grow that attacks are imminent. 
  <p class="updated_time"> 09:38 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/blackburn-jackson-define-the-word-woman-00019543">Blackburn to Jackson: Can you define ‘the word woman’?</a> Politico: The Tennessee Republican’s line of questioning hit on nearly every political hot-button issue. 
  <p class="updated_time"> 09:36 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/ketanji-brown-jackson-senate-hearing-day-2-takeaways-analysis-00019538">5 takeaways from Ketanji Brown Jackson's Supreme Court hearing</a> Politico: GOP senators launch salvos on "critical race theory," criminal sentencing and representing Guantanamo inmates. 
  <p class="updated_time"> 07:36 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/booker-brings-out-emotion-during-jackson-hearing-00019507">Booker brings out emotion during Jackson hearing</a> Politico: Jackson talked about the work it takes to become a judge, and the work it takes to be a mother at the same time. 
+ <p class="updated_time"> 04:48 PM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/news/2022/03/22/biden-putin-europe-alliance-00019443">Biden faces off against Putin. His other opponent is time.</a> Politico: The president heads to Europe both to applaud the alliance he’s helped build against Russia and to keep it together. 
  <p class="updated_time"> 01:12 PM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/news/2022/03/22/markwayne-mullin-senate-campaign-00019112">Markwayne Mullin takes his latest risk: A Senate bid</a> Politico: The Oklahoma Republican is a former mixed martial arts fighter with a habit of running toward danger — whether or not it's good for his political career. 
+ <p class="updated_time"> 10:05 AM CT, Mar. 22 </p> 
+ <a href="https://www.politico.com/news/2022/03/22/russian-entities-lobbying-disclosure-00019221">How Russian entities are retaining much of their D.C. lobbying influence</a> Politico: Though they are state-owned entities, some now-sanctioned Russian businesses never registered to lobby through FARA. It allowed them to avoid additional disclosures. 
  <p class="updated_time"> 06:33 AM CT, Mar. 22 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/22/dark-money-porn-gitmo-questions-for-kbj-00019153">Dark money, porn, Gitmo: Questions for KBJ</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Mar. 22 </p> 
