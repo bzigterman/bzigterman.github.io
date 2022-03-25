@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:50 PM CT, Mar. 25 </p> 
+ <p class="updated_time"> 04:15 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
+ <p class="updated_time"> 03:59 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
+ <p class="updated_time"> 03:57 PM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1088879152/alcohol-bans-in-ukraine-have-led-to-a-whisper-network-among-those-seeking-a-drin">Alcohol bans in Ukraine have led to a whisper network among those seeking a drink</a> NPR: Some local Ukrainian officials banned alcohol sales amid the war, which has made it difficult for some people trying to relax. But there are still ways to find open bars. 
+ <p class="updated_time"> 03:52 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/arts/music/ukraine-music-war-zones.html">Ukrainians Fill Streets With Music, Echoing Past War Zones</a> NYT: In subway stations and apartment buildings, artists are playing Bach, Vivaldi and folk songs. 
  <p class="updated_time"> 03:49 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879145/people-in-russia-controlled-georgia-are-watching-whats-happening-in-ukraine-clos">People in Russia-controlled Georgia are watching what's happening in Ukraine closely</a> NPR: NPR's Mary Louise Kelly reports from the boundary line of the Russian-controlled area in northern Georgia, which saw heavy fighting during the 2008 Russian invasion. 
  <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
@@ -20,11 +26,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879110/more-than-half-of-ukraines-children-have-been-displaced-un-says">More than half of Ukraine's children have been displaced, UN says</a> NPR: Fighting around Kyiv continues as Ukrainian forces try to push back Russian troops. Many families with kids have fled to other countries, but millions are now internally displaced within Ukraine. 
  <p class="updated_time"> 03:41 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/arts/music/ukraine-music-war-zones.html">Ukrainians Fill Streets With Music, Echoing Past War Zones</a> NYT: In subway stations and apartment buildings, artists are playing Bach, Vivaldi and folk songs. 
- <p class="updated_time"> 03:41 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088885299/russias-assault-on-kyiv-slows-as-it-shifts-focus-to-eastern-ukraines-donbas-regi">Russia's assault on Kyiv slows as it shifts focus to eastern Ukraine's Donbas region</a> NPR: The region, the site of two breakaway republics created by Russia-backed separatists in 2014, has been the site of have fighting for the past several days, a senior U.S. official says. 
  <p class="updated_time"> 03:40 PM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60879605?at_medium=RSS&at_campaign=KARANGA">Royal tour: Cherish your friends, Kate tells schoolchildren in Bahamas as trip ends</a> BBC: The Duke and Duchess of Cambridge saw a traditional parade and visited a school on the last day of their tour. 
+ <a href="https://www.bbc.co.uk/news/uk-60879605?at_medium=RSS&at_campaign=KARANGA">Royal tour: Cherish your friends, Kate tells schoolchildren in Bahamas as trip ends</a> BBC: William and Catherine saw a traditional parade and visited a school on the last day of their tour. 
+ <p class="updated_time"> 03:19 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 03:18 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60882156?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Change of emphasis or admission of failure by Moscow?</a> BBC: Moscow now says the main aim is to "liberate" eastern Ukraine - a change of emphasis or more? 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
@@ -35,20 +41,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088879026/south-korea-could-face-a-long-hard-winter-for-womens-rights-under-president-elec">South Korea could face a 'long, hard winter' for women's rights under president elect</a> NPR: NPR's Juana Summers speaks with Hawon Jung, a Korean journalist, about fears that the president elect will reverse years of progress on women's rights in South Korea. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879019/polands-president-has-made-a-political-u-turn-in-light-of-the-crisis-in-ukraine">Poland's president has made a political U-turn in light of the crisis in Ukraine</a> NPR: Russia's invasion of Ukraine has prompted Poland's Trump-loving conservative populists to unite with U.S. Democrats and European Union leaders: pillars of liberal democracy they have fought for years. 
- <p class="updated_time"> 02:56 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
- <p class="updated_time"> 02:53 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
  <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
+ <p class="updated_time"> 02:19 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 02:19 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60881567?at_medium=RSS&at_campaign=KARANGA">Spotify stops streaming in Russia over safety concerns</a> BBC: New laws threaten jail for people accused of spreading "fake news" about Russia's armed forces. 
  <p class="updated_time"> 02:03 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/yemen-attack-saudi-arabia.html">Yemeni Rebel Attack Sets Saudi Oil Facility Ablaze</a> NYT: Saudi officials accused Yemen’s Houthi rebels of launching the attack, which cast a shadow over a Formula One car race aimed at international spectators. 
  <p class="updated_time"> 01:59 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/israel-uae-bahrain-morocco-arab-summit.html">Israel to Host 3 Arab Foreign Ministers in Historic Meeting</a> NYT: The gathering of top diplomats from Israel, the U.A.E., Bahrain and Morocco, as well as Secretary of State Antony J. Blinken, is a sign of how quickly Middle Eastern alliances are shifting. 
- <p class="updated_time"> 01:56 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
  <p class="updated_time"> 01:51 PM CT, Mar. 25 </p> 
@@ -61,14 +63,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60874223?at_medium=RSS&at_campaign=KARANGA">Next stop Kyiv - the battle on the capital's outskirts</a> BBC: In Irpin, only a few civilians remain as volunteers bolster defences a few miles from Kyiv. 
  <p class="updated_time"> 01:30 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60877578?at_medium=RSS&at_campaign=KARANGA">North Korea Hwasong-17 launch gets Hollywood-style effects</a> BBC: The Hwasong-17 is a new, powerful intercontinental ballistic missile - and the country's largest weapon. 
+ <p class="updated_time"> 01:19 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 01:11 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
  <p class="updated_time"> 01:01 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088808627/ukrainian-journalists-missing-detained">Russian forces are reportedly holding Ukrainian journalists hostage</a> NPR: International groups say Russian soldiers are threatening, detaining and even torturing Ukrainian journalists in occupied areas. One news editor says troops are holding her 75-year-old father hostage. 
  <p class="updated_time"> 01:01 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60879835?at_medium=RSS&at_campaign=KARANGA">On the road to Mariupol, a southern Ukrainian town fears for the worst</a> BBC: Residents of a town neighbouring Mariupol ready themselves for Russian missile and rocket attacks. 
- <p class="updated_time"> 12:56 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 12:47 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088819012/russian-tv-protester-fine">Russian TV editor will reportedly face a fine for her on-air protest</a> NPR: Marina Ovsyannikova, who burst onto the set of a live broadcast holding a sign reading "No War," could be fined between 30,000 and 50,000 rubles when her case is heard on April 14. 
  <p class="updated_time"> 12:35 PM CT, Mar. 25 </p> 
@@ -79,16 +81,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/ukranian-ww2-survivors.html">‘A Frightening Repeat’: Ukrainian World War II Survivors Face Conflict Again</a> NYT: Nearly 80 years after Ukraine emerged from a devastating world war that killed more than five million of its people, Russia’s invasion has stirred memories that the country had struggled to overcome. 
  <p class="updated_time"> 12:24 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088818575/marie-yovanovitch-putin">How does Marie Yovanovitch feel about Putin? Just look at her coffee mug</a> NPR: In interviews promoting her new memoir, the former U.S. ambassador to Ukraine revealed she owns some anti-Putin merchandise — and has been giving it out for years. 
+ <p class="updated_time"> 12:19 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 12:03 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60875314?at_medium=RSS&at_campaign=KARANGA">Boyfriend ordered pregnant woman's murder</a> BBC: Tshegofatso Pule was found hanging from a tree, provoking outrage across South Africa. 
- <p class="updated_time"> 11:56 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
+ <p class="updated_time"> 11:19 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 11:15 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60878133?at_medium=RSS&at_campaign=KARANGA">Ukraine war: JK Rowling hits back at Putin's 'cancel culture' comment</a> BBC: Mr Putin referenced the Harry Potter author during a speech condemning "cancel culture" in the West. 
  <p class="updated_time"> 11:10 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/russians-cyberattacks-infrastructure-nuclear-plant.html">U.S. Accuses 4 Russians of Hacking Infrastructure, Including Nuclear Plant</a> NYT: The announcement covered hackings from 2012 to 2018, but served as yet another warning from the Biden administration of Russia’s ability to conduct such operations. 
- <p class="updated_time"> 10:56 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 10:30 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-60871601?at_medium=RSS&at_campaign=KARANGA">EU signs US gas deal to curb reliance on Russia</a> BBC: The liquefied natural gas deal with US is part of EU attempts to reduce reliance on Russian energy. 
  <p class="updated_time"> 10:29 AM CT, Mar. 25 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/mariupol-attack-drama-theater.html">About 300 People Died in Bombing of Mariupol Theater, Officials Say</a> NYT: Russian advances in the southern Ukraine port city have hindered efforts to find survivors in the rubble since the building was largely destroyed in the attack. 
  <p class="updated_time"> 08:15 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-war-russia-stalemate.html">How One Month of War in Ukraine Ground to a Bloody Stalemate</a> NYT: In four weeks, huge numbers of civilians have been bombed and displaced, but Russia has so far achieved almost none of its military objectives, analysts say. 
- <p class="updated_time"> 08:01 AM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088735408/mariupol-drama-theater-deaths">A Russian airstrike may have killed 300 sheltering in a theater, officials say</a> NPR: The Drama Theater had become a place of refuge, with hundreds of people gathered inside and in the bomb shelter below. City officials accused Russia of inhuman cruelty. 
  <p class="updated_time"> 07:52 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/poland-ukraine-russia.html">Poland Takes Center Stage as War Rages in Ukraine</a> NYT: Poland’s right-wing populist government has been embraced by both Brussels and Washington as a linchpin of Western solidarity and security. 
  <p class="updated_time"> 07:33 AM CT, Mar. 25 </p> 
@@ -206,18 +206,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:10 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/supreme-court-navy-covid-vaccines.html">Supreme Court Rules Against Navy SEALs in Vaccine Mandate Case</a> NYT: The justices blocked a ruling that would have prevented the Pentagon from taking into account whether service members with religious objections were vaccinated. 
+ <p class="updated_time"> 04:06 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
+ <p class="updated_time"> 03:59 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
  <p class="updated_time"> 03:34 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879096/the-covid-fund-for-the-uninsured-is-shutting-down-which-will-likely-drive-spread">The COVID fund for the uninsured is shutting down, which will likely drive spread</a> NPR: Congress failed to approve billions in new funding to fight COVID-19. Among threatened program cuts are free treatments for COVID patients who are uninsured. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879040/biden-condemns-russias-vladimir-putin-while-visiting-poland">Biden condemns Russia's Vladimir Putin while visiting Poland</a> NPR: President Biden traveled to NATO's eastern flank as a show of support to allies most unnerved by Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879019/polands-president-has-made-a-political-u-turn-in-light-of-the-crisis-in-ukraine">Poland's president has made a political U-turn in light of the crisis in Ukraine</a> NPR: Russia's invasion of Ukraine has prompted Poland's Trump-loving conservative populists to unite with U.S. Democrats and European Union leaders: pillars of liberal democracy they have fought for years. 
- <p class="updated_time"> 02:53 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
  <p class="updated_time"> 02:29 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/bidens-summit-with-southeast-asian-leaders-postponed-00020543">Biden’s summit with Southeast Asian leaders postponed</a> Politico: The month-long conflict in Eastern Europe has injected a new urgency into U.S. efforts to reinvigorate old alliances and cultivate new ones, including in the Asia-Pacific. 
- <p class="updated_time"> 02:29 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party had a congressional map rejected in court. 
  <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 02:14 PM CT, Mar. 25 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/gop-fight-ketanji-brown-jackson-00020186">GOP frets over how hard to fight Jackson</a> Politico: Republican senators could slow down the Supreme Court nominee by unilaterally opposing her in committee. But they won't engage in tactics to hold her up indefinitely. 
  <p class="updated_time"> 01:33 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/jan-6-panel-contempt-navarro-scavino-00020183">Jan. 6 panel seeks contempt charges for Navarro and Scavino</a> Politico: If the criminal referrals are approved by the committee, the full House would then vote on whether to pass the matter along to the Justice Department. 
- <p class="updated_time"> 01:11 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/supreme-court-first-amendment.html">Censure of Politician Did Not Violate First Amendment, Supreme Court Rules</a> NYT: A verbal reprimand, Justice Neil M. Gorsuch wrote for a unanimous court, is itself a form of free speech. 
  <p class="updated_time"> 01:11 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/donald-trump-sues-hillary-clinton-and-allies-russia-00020174">Donald Trump sues Hillary Clinton and allies over Russia claims</a> Politico: Sprawling lawsuit accuses a large cast of racketeering conspiracy over allegations that Trump was in Putin's pocket in 2016. 
  <p class="updated_time"> 01:05 PM CT, Mar. 24 </p> 
