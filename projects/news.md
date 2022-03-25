@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:45 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 10:50 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Biden Meets With U.S. Soldiers Near Ukrainian-Polish Border</a> NYT: President Biden will also meet with refugees who have fled Ukraine for Poland, where over two million have arrived since Russia’s invasion of Ukraine began. Fighting raged on as Russian forces continued to bombard cities and Ukraine staged counterattacks. 
  <p class="updated_time"> 10:33 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
@@ -23,17 +23,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/eu-zelensky-hungary-sanctions-ukraine.html">In Speech to E.U., Zelensky Singles Out Hungary Over Sanctions</a> NYT: Addressing the Hungarian leader, Viktor Orban, directly, Volodymyr Zelensky said, “You have to decide for yourself who you are with.” 
  <p class="updated_time"> 10:12 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
+ <p class="updated_time"> 10:03 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit to Spotlight Aid for Ukraine</a> WSJ: Biden’s Poland Visit to Spotlight Aid for Ukraine 
  <p class="updated_time"> 09:53 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/recurring-floods-and-other-disasters-take-their-toll.html">Recurring Floods, and Other Disasters, Take Their Toll</a> NYT: Besieged communities bond through adversity. 
  <p class="updated_time"> 09:49 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/biden-us-troops-poland.html">Biden Meets With U.S. Troops Stationed in Poland</a> NYT: He thanked them for serving as a deterrent to President Vladimir V. Putin of Russia and joined them for pizza. 
- <p class="updated_time"> 09:49 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit to Spotlight Aid for Ukraine</a> WSJ: Biden’s Poland Visit to Spotlight Aid for Ukraine 
  <p class="updated_time"> 09:14 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/video/world/100000008253877/ukranian-refugees-moldova.html">‘Is There Shooting Here?’ Ukrainians Find Refuge in Moldova</a> NYT: Moldova, one of Europe’s smallest and poorest countries, has taken in more than 100,000 refugees from Ukraine. But Moldova’s ability to protect them is reaching a breaking point. 
  <p class="updated_time"> 09:06 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/mariupol-attack-drama-theater.html">About 300 People Died in Bombing of Mariupol Theater, Officials Say</a> NYT: Russian advances in the southern Ukraine port city have hindered efforts to find survivors in the rubble since the building was largely destroyed in the attack. 
- <p class="updated_time"> 08:49 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 09:03 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 08:40 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60877442?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Smoke rises from Kyiv fuel depot Russia claims it has destroyed</a> BBC: Moscow says it targeted the largest remaining military fuel storage facility in Ukraine. 
@@ -41,12 +41,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 08:15 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-war-russia-stalemate.html">How One Month of War in Ukraine Ground to a Bloody Stalemate</a> NYT: In four weeks, huge numbers of civilians have been bombed and displaced, but Russia has so far achieved almost none of its military objectives, analysts say. 
+ <p class="updated_time"> 08:03 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/china-looks-to-salvage-relationship-with-europe-11648200602">China Looks to Salvage Relationship With Europe</a> WSJ: China Looks to Salvage Relationship With Europe 
  <p class="updated_time"> 08:01 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088735408/mariupol-drama-theater-deaths">A Russian air strike may have killed 300 sheltering in a theater, officials say</a> NPR: The Drama Theater had become a place of refuge, with hundreds of people gathered inside and in the bomb shelter below. City officials accused Russia of inhuman cruelty. 
  <p class="updated_time"> 07:52 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/poland-ukraine-russia.html">Poland Takes Center Stage as War Rages in Ukraine</a> NYT: Poland’s right-wing populist government has been embraced by both Brussels and Washington as a linchpin of Western solidarity and security. 
- <p class="updated_time"> 07:49 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/china-looks-to-salvage-relationship-with-europe-11648200602">China Looks to Salvage Relationship With Europe</a> WSJ: China Looks to Salvage Relationship With Europe 
  <p class="updated_time"> 07:47 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60871794?at_medium=RSS&at_campaign=KARANGA">Texts reveal wife of Supreme Court judge urged 2020 election overturn</a> BBC: Text messages reveal Virginia Thomas pushed ex-President Trump's staff not to concede the election. 
  <p class="updated_time"> 07:33 AM CT, Mar. 25 </p> 
@@ -55,14 +55,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
  <p class="updated_time"> 07:32 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-europe-russia-putin-ukraine.html">Biden and His Allies Vow to Take a Tougher Stance on Russia</a> NYT: In a day of summit meetings, President Biden and his counterparts faced the prospect of Russia using weapons of mass destruction. Mr. Biden said the United States would admit 100,000 Ukrainian refugees. 
- <p class="updated_time"> 06:49 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 07:03 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
+ <p class="updated_time"> 06:52 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-boost-gas-deliveries-to-europe-amid-scramble-for-new-supplies-11648198062">U.S. to Boost Gas Deliveries to Europe Amid Scramble for New Supplies</a> WSJ: The U.S. is ramping up shipments of liquefied natural gas to Europe this year as the continent hunts for new supplies around the globe to phase out its reliance on Russian energy after the invasion of Ukraine. 
  <p class="updated_time"> 06:36 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60861896?at_medium=RSS&at_campaign=KARANGA">Cameroon conflict: The football fans who hope their national team lose</a> BBC: Most people want their nation to make it to the World Cup, but this is not so for some Cameroonians. 
+ <p class="updated_time"> 06:03 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 05:59 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60870238?at_medium=RSS&at_campaign=KARANGA">Solomon Islands confirms China security draft, alarming Australia</a> BBC: Australia has concerns over their Pacific island neighbour allowing China a military base 
- <p class="updated_time"> 05:49 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 05:45 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/25/1087865980/meet-the-russians-who-are-fleeing-not-the-war-but-their-own-government">Meet the Russians who are fleeing — not the war, but their own government</a> NPR: Thousands of Russians have left their country since their government began its invasion of Ukraine. Many have settled in Georgia, a country with a complicated history with its neighbor to the north. 
  <p class="updated_time"> 05:06 AM CT, Mar. 25 </p> 
@@ -81,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/spanish-banks-protest-carlos-san-juan-de-laorden.html">Retired Doctor’s Protest Gets Attention of Spanish Banks</a> NYT: A campaign by a 78-year-old retired doctor with Parkinson’s disease against banks closing branches and moving services online resonates with a rapidly aging Spanish population. 
  <p class="updated_time"> 03:55 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-counteroffensive-russia.html">Ukraine’s Counteroffensive Alters Shape of Battle With Russia</a> NYT: Although their claimed gains in territory are hard to quantify or verify, this picture of Ukrainian progress is aiding the country’s messaging to its citizens and to the world. 
- <p class="updated_time"> 03:19 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-boost-gas-deliveries-to-europe-amid-scramble-for-new-supplies-11648198062">U.S. to Boost Gas Deliveries to Europe Amid Scramble for New Supplies</a> WSJ: The U.S. is ramping up shipments of liquefied natural gas to Europe this year as the continent hunts for new supplies around the globe to phase out its reliance on Russian energy after the invasion of Ukraine. 
  <p class="updated_time"> 02:57 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60861900?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray war: TPLF agrees to humanitarian truce</a> BBC: The civil war has left millions needing food aid, yet none has been delivered to Tigray for months. 
  <p class="updated_time"> 02:45 AM CT, Mar. 25 </p> 
