@@ -18,9 +18,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:06 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/mariupol-attack-drama-theater.html">About 300 People Died in Bombing of Mariupol Theater, Officials Say</a> NYT: Russian advances in the southern Ukraine port city have hindered efforts to find survivors in the rubble since the building was largely destroyed in the attack. 
  <p class="updated_time"> 08:40 AM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60877442?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Smoke rises from Kyiv fuel depot Russia claims it has destroyed</a> BBC: Moscow says it targeted the largest remaining military fuel storage facility in Ukraine. 
- <p class="updated_time"> 08:27 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit to Spotlight Aid for Ukraine</a> WSJ: Biden’s Poland Visit to Spotlight Aid for Ukraine 
+ <p class="updated_time"> 08:40 AM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60877442?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Smoke rises from Kyiv fuel depot Russia claims it has destroyed</a> BBC: Moscow says it targeted the largest remaining military fuel storage facility in Ukraine. 
  <p class="updated_time"> 08:18 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 08:15 AM CT, Mar. 25 </p> 
@@ -31,6 +31,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/poland-ukraine-russia.html">Poland Takes Center Stage as War Rages in Ukraine</a> NYT: Poland’s right-wing populist government has been embraced by both Brussels and Washington as a linchpin of Western solidarity and security. 
  <p class="updated_time"> 07:47 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60871794?at_medium=RSS&at_campaign=KARANGA">Texts reveal wife of Supreme Court judge urged 2020 election overturn</a> BBC: Text messages reveal Virginia Thomas pushed ex-President Trump's staff not to concede the election. 
+ <p class="updated_time"> 07:40 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 07:34 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
  <p class="updated_time"> 07:33 AM CT, Mar. 25 </p> 
@@ -39,23 +41,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
  <p class="updated_time"> 07:32 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-europe-russia-putin-ukraine.html">Biden and His Allies Vow to Take a Tougher Stance on Russia</a> NYT: In a day of summit meetings, President Biden and his counterparts faced the prospect of Russia using weapons of mass destruction. Mr. Biden said the United States would admit 100,000 Ukrainian refugees. 
- <p class="updated_time"> 07:27 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
+ <p class="updated_time"> 06:40 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/china-looks-to-salvage-relationship-with-europe-11648200602">China Looks to Salvage Relationship With Europe</a> WSJ: China Looks to Salvage Relationship With Europe 
  <p class="updated_time"> 06:36 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60861896?at_medium=RSS&at_campaign=KARANGA">Cameroon conflict: The football fans who hope their national team lose</a> BBC: Most people want their nation to make it to the World Cup, but this is not so for some Cameroonians. 
- <p class="updated_time"> 06:27 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/china-looks-to-salvage-relationship-with-europe-11648200602">China Looks to Salvage Relationship With Europe</a> WSJ: China Looks to Salvage Relationship With Europe 
  <p class="updated_time"> 05:59 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60870238?at_medium=RSS&at_campaign=KARANGA">Solomon Islands confirms China security draft, alarming Australia</a> BBC: Australia has concerns over their Pacific island neighbour allowing China a military base 
  <p class="updated_time"> 05:45 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/25/1087865980/meet-the-russians-who-are-fleeing-not-the-war-but-their-own-government">Meet the Russians who are fleeing — not the war, but their own government</a> NPR: Thousands of Russians have left their country since their government began its invasion of Ukraine. Many have settled in Georgia, a country with a complicated history with its neighbor to the north. 
- <p class="updated_time"> 05:27 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 05:40 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 05:06 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/asia/korea-yoon-president-defense-ministry.html">Relocation of Presidential Office in Seoul Heightens Security Concerns</a> NYT: The South Korean president-elect’s decision to move both the presidential office and the Defense Ministry comes at a time when North Korea is rapidly escalating tension. 
  <p class="updated_time"> 04:50 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088726404/document-indicates-china-could-boost-military-in-solomons">Document indicates China could boost military in Solomons</a> NPR: One Asia-Pacific security observer says Australia, New Zealand and the U.S. would all be "very concerned" about the draft agreement. 
- <p class="updated_time"> 04:27 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 04:40 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Taliban Rules Impose Chaperones on Afghan Women 
  <p class="updated_time"> 04:23 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1087910880/biological-weapons-far-right-russia-ukraine">How the false Russian biolab story came to circulate among the U.S. far right</a> NPR: The war over Ukraine's future is being fought on the ground, in the air — and through social media posts and viral videos that take advantage of America's deeply polarized politics. 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/03/25/1088095401/photos-see-what-happened-at-hearings-for-supreme-court-nominee-ketanji-brown-jac">Photos: See what happened at hearings for Supreme Court nominee Ketanji Brown Jackson</a> NPR: A look into the last few days of the Supreme Court confirmation hearing of Ketanji Brown Jackson. 
  <p class="updated_time"> 08:24 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/white-house-food-companies-russia-00020293">'Too big to fail': White House careful not to target food companies as it pressures Putin</a> Politico: U.S.-based Cargill and other large agribusinesses are still operating in Russia, arguing they are essential to the global food supply. The Biden administration isn’t trying to stop them. 
  <p class="updated_time"> 08:18 AM CT, Mar. 25 </p> 
@@ -314,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/us/politics/supreme-court-death-penalty-pastor.html">Supreme Court Rules for Condemned Inmate Who Sought Pastor’s Touch</a> NYT: In an 8-to-1 ruling, the court said Texas may not execute John Henry Ramirez, a death row inmate, unless his pastor can pray with and lay hands on him in the death chamber. 
  <p class="updated_time"> 12:21 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/rand-paul-russia-trade-sanctions-00020093">Rand Paul throws fresh wrench in Senate's push for quick Russia trade sanctions</a> Politico: The Kentucky Republican is preventing the bipartisan House-passed bill from getting a speedy Senate vote while President Joe Biden is in Europe. 
- <p class="updated_time"> 12:16 PM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088335739/watch-bidens-press-conference-after-talks-with-nato-allies-on-russia-ukraine-war">Biden promises Western allies would respond if Russia uses chemical weapons</a> NPR: Western allies would respond if Russia uses chemical weapons against Ukraine, President Biden said after an emergency meeting with NATO allies. "It would trigger a response in-kind," he said. 
  <p class="updated_time"> 11:50 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/supreme-court-cancel-culture-community-college-00020049">Supreme Court weighs in on ‘cancel culture’ with community college case</a> Politico: Unanimous ruling concludes school board member cannot sue over public rebuke. 
  <p class="updated_time"> 09:54 AM CT, Mar. 24 </p> 
