@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:23 AM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1087910880/biological-weapons-far-right-russia-ukraine">How the false Russian biolab story came to circulate among the U.S. far right</a> NPR: The war over Ukraine's future is being fought on the ground, in the air — and through social media posts and viral videos that take advantage of America's deeply polarized politics. 
+ <p class="updated_time"> 04:15 AM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60871794?at_medium=RSS&at_campaign=KARANGA">Texts reveal wife of Supreme Court judge urged for 2020 election overturn</a> BBC: Text messages reveal Virginia Thomas pushed ex-President Trump's staff not to concede the election. 
+ <p class="updated_time"> 04:14 AM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/asia/surge-shanghai-china-zero-covid.html">A surge in cases in Shanghai is testing China’s ‘zero Covid’ strategy.</a> NYT: China’s largest city, which has seen few cases since the start of the pandemic, is now experiencing a surge in the latest challenge to the country’s zero-tolerance approach to the virus. 
  <p class="updated_time"> 04:10 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/health-60821689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The road to safety for Ukraine's cancer children</a> BBC: About 200 hospitals worldwide are offering safe cancer treatment for boys like Pavlo and Kyril. 
  <p class="updated_time"> 04:00 AM CT, Mar. 25 </p> 
@@ -21,34 +27,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/spanish-banks-protest-carlos-san-juan-de-laorden.html">Retired Doctor’s Protest Gets Attention of Spanish Banks</a> NYT: A campaign by a 78-year-old retired doctor with Parkinson’s disease against banks closing branches and moving services online resonates with a rapidly aging Spanish population. 
  <p class="updated_time"> 03:55 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-counteroffensive-russia.html">Ukraine’s Counteroffensive Alters Shape of Battle With Russia</a> NYT: Although their claimed gains in territory are hard to quantify or verify, this picture of Ukrainian progress is aiding the country’s messaging to its citizens and to the world. 
- <p class="updated_time"> 03:16 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 03:46 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/biden-meets-allies-in-brussels-seeking-to-end-war-in-ukraine-and-punish-putin-11648112332">Biden Says U.S. Will Respond if Russia Uses Chemical Weapons</a> WSJ: Biden Says U.S. Will Respond if Russia Uses Chemical Weapons 
  <p class="updated_time"> 02:57 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60861900?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray war: TPLF agrees to humanitarian truce</a> BBC: The civil war has left millions needing food aid, yet none has been delivered to Tigray for months. 
  <p class="updated_time"> 02:53 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/03/24/world/russia-ukraine-war">Counteroffensive in Ukraine Shifts Dynamic of War</a> NYT: President Biden met with European leaders in Brussels to reinforce solidarity against Russia’s invasion and proposed excluding Russia from the G20. Ukraine said it had destroyed a Russian naval ship. 
+ <p class="updated_time"> 02:46 AM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 02:45 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/great-barrier-reef-bleaching.html">Australia’s Great Barrier Reef Suffers 6th Mass Bleaching Event</a> NYT: This year offers a disturbing first: mass bleaching in a year of La Niña. The grim milestone points to the continued threat of climate change and greenhouse gas emissions. 
  <p class="updated_time"> 02:33 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/recurring-floods-and-other-disasters-take-their-toll.html">Recurring Floods, and Other Disasters, Take Their Toll</a> NYT: Beseiged communities bond through adversity. 
  <p class="updated_time"> 02:29 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60858363?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Civilians abducted as Russia tries to assert control</a> BBC: The UN has documented almost 40 cases of politicians, journalists and activists being abducted. 
- <p class="updated_time"> 02:16 AM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-navy-in-berdyansk-as-war-enters-second-month-11648119468">Ukraine Strikes Russian Navy as War Enters Second Month</a> WSJ: Ukraine Strikes Russian Navy as War Enters Second Month 
  <p class="updated_time"> 01:54 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60870239?at_medium=RSS&at_campaign=KARANGA">Great Barrier Reef: Australia confirms new mass bleaching event</a> BBC: It is the fourth time since 2016 that such a devastating event has been found, Australia says. 
- <p class="updated_time"> 01:16 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 01:46 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-will-welcome-100-000-refugees-fleeing-ukraine-white-house-says-11648128669">U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says</a> WSJ: U.S. Will Admit 100,000 Refugees Fleeing Ukraine, White House Says 
  <p class="updated_time"> 12:47 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
- <p class="updated_time"> 12:16 AM CT, Mar. 25 </p> 
+ <p class="updated_time"> 12:46 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-russian-invasion-sends-costs-soaring-11648126271">Europe’s Economy Slows as Ukraine War Sends Costs Soaring</a> WSJ: Europe’s Economy Slows as Ukraine War Sends Costs Soaring 
  <p class="updated_time"> 11:54 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
+ <p class="updated_time"> 11:46 PM CT, Mar. 24 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 11:35 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-60870100?at_medium=RSS&at_campaign=KARANGA">Russia considers accepting Bitcoin for oil and gas</a> BBC: 'Friendly' countries may be allowed to pay for energy with crypto-currency amid widespread sanctions. 
- <p class="updated_time"> 11:16 PM CT, Mar. 24 </p> 
- <a href="https://www.wsj.com/articles/north-korea-shoots-off-another-unknown-projectile-11648102443">North Korea Test-Fires Intercontinental Ballistic Missile</a> WSJ: North Korea Test-Fires Intercontinental Ballistic Missile 
  <p class="updated_time"> 11:07 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60870238?at_medium=RSS&at_campaign=KARANGA">Solomon Islands: Possible China security pact causes Australia concern</a> BBC: Canberra says it would be concerned if Beijing was allowed a military presence in the Solomon Islands. 
  <p class="updated_time"> 10:59 PM CT, Mar. 24 </p> 
@@ -91,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html">E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act</a> NYT: The Digital Markets Act is the most sweeping legislation to regulate tech since a European privacy law was passed in 2018. 
  <p class="updated_time"> 05:57 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/africa/ethiopia-tigray-conflict-truce.html">Ethiopia Declares ‘Humanitarian Truce’ in War-Ravaged Tigray Region</a> NYT: The conflict, now lasting 17 months, has left thousands dead, millions displaced and hindered aid from reaching those going hungry in the country’s northern region. 
- <p class="updated_time"> 05:50 PM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60869580?at_medium=RSS&at_campaign=KARANGA">US charges four Russians over hacking campaign on energy sector</a> BBC: US prosecutors say the alleged hackers placed malware in safety systems at energy plants worldwide. 
  <p class="updated_time"> 05:19 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/north-korea-missile-icbm.html">With U.S. Focus on Ukraine, North Korea Launches a Powerful New ICBM</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 04:28 PM CT, Mar. 24 </p> 
@@ -135,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088573041/australia-new-zealand-boat-refugees">After criticism, Australia accepts New Zealand's offer to resettle boat refugees</a> NPR: Australia designed a policy of keeping boat refugees far from its shores to deter more of them from trying to make the voyage. But many critics say such policies violate human rights. 
  <p class="updated_time"> 11:43 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088560767/ukraine-children-displaced-war">One month of war has displaced more than half of Ukrainian children</a> NPR: More than 4.3 million children have fled their homes in the month since Russia invaded Ukraine, according to UNICEF. It warns that consequences could last for generations to come. 
- <p class="updated_time"> 11:13 AM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088538401/russian-journalist-oksana-baulina-killed">A Russian journalist was killed by shelling while on assignment in Kyiv</a> NPR: Oksana Baulina reported on government corruption for The Insider, based in Latvia. She formerly worked for the non-profit of Kremlin critic Alexei Navalny and was "amazingly brave," a colleague said. 
  <p class="updated_time"> 11:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/nato-ukraine-russia-chemical-biological-weapons.html">NATO to Provide Ukraine Training for a Possible Chemical or Nuclear Attack</a> NYT: The alliance will offer Ukraine detection equipment, protection and medical support, as well as training for decontamination and crisis management. 
  <p class="updated_time"> 10:46 AM CT, Mar. 24 </p> 
@@ -198,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:23 AM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1087910880/biological-weapons-far-right-russia-ukraine">How the false Russian biolab story came to circulate among the U.S. far right</a> NPR: The war over Ukraine's future is being fought on the ground, in the air — and through social media posts and viral videos that take advantage of America's deeply polarized politics. 
  <p class="updated_time"> 04:00 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/trump-endorsement-primaries.html">How the 2022 Primaries Are Testing Trump’s Role as the G.O.P. ‘Kingpin’</a> NYT: Two of Donald Trump’s most prominent Senate endorsements have already backfired. Now the month of May looms large to measure his pull on the party. 
  <p class="updated_time"> 03:31 AM CT, Mar. 25 </p> 
@@ -306,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/24/1088495865/a-report-on-expanding-native-american-voting-access-has-these-recommendations">Native Americans face more barriers in voting. The White House suggests these changes</a> NPR: The report was commissioned by President Biden in March 2021 as part of an executive order he signed to protect voting rights. 
  <p class="updated_time"> 08:47 AM CT, Mar. 24 </p> 
  <a href="https://www.npr.org/2022/03/24/1088498713/madeleine-albright-appreciation-showed-us-whats-possible">The gift Madeleine Albright leaves is showing us what's possible</a> NPR: Today, as Ukraine defends itself against military forces from Russia, Albright's journey is especially important. 
- <p class="updated_time"> 08:38 AM CT, Mar. 24 </p> 
- <a href="https://www.npr.org/2022/03/24/1088475000/madeleine-albrights-teaching-continues-through-these-books">Madeleine Albright's teaching continues — through these books</a> NPR: The first female secretary of state's legacy lives on — not only in the history she made but also in teachings and reflections. Here are some of the books she leaves for us, and future generations. 
  <p class="updated_time"> 08:00 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/us-ukrainian-refugees-00019978">U.S. to welcome 100,000 Ukrainian refugees</a> Politico: The crisis in Ukraine has quickly unfolded as the fastest-growing refugee crisis in Europe since World War II. 
  <p class="updated_time"> 06:14 AM CT, Mar. 24 </p> 
