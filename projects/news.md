@@ -9,18 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
+ <p class="updated_time"> 10:42 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
+ <p class="updated_time"> 09:48 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
+ <p class="updated_time"> 09:44 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/australia/great-barrier-reef-bleaching.html">Australia’s Great Barrier Reef Suffers 6th Mass Bleaching Event</a> NYT: This year offers a disturbing first: mass bleaching in a year of La Niña. The grim milestone points to the continued threat of climate change and greenhouse gas emissions. 
  <p class="updated_time"> 09:11 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088858439/ukraine-share-message-online-warsaw-spire-preply">Have a message of support for Ukraine projected on Poland's Warsaw Spire building</a> NPR: Preply is collecting messages of hope and love from around the world to share with Ukrainian refugees in Poland. 
+ <p class="updated_time"> 08:48 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 08:33 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60872358?at_medium=RSS&at_campaign=KARANGA">Russia targets east Ukraine, says first phase over</a> BBC: The move is being seen as a possible change of strategy after the invasion faltered. 
- <p class="updated_time"> 08:31 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 08:25 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/health-60866669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WHO says attacks on hospitals are increasing daily</a> BBC: The World Health Organization has verified more than 70 attacks on hospitals and healthcare facilities. 
- <p class="updated_time"> 08:07 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
- <p class="updated_time"> 07:31 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
+ <p class="updated_time"> 07:48 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 07:26 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/russia-ukraine-war-goals.html">Russia Signals Redefined Goals in Ukraine War as Its Advances Stall</a> NYT: The Russian Defense Ministry suggested its forces would concentrate on securing the eastern part of Ukraine, where Kremlin-backed separatists have long been fighting. 
  <p class="updated_time"> 07:07 PM CT, Mar. 25 </p> 
@@ -31,34 +37,28 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60857346?at_medium=RSS&at_campaign=KARANGA">Will Ukraine invasion push Japan to go nuclear?</a> BBC: Ex-PM Shinzo Abe shocked Japan by saying it should think about nuclear weapons - but he's not alone. 
  <p class="updated_time"> 06:56 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/israel-uae-bahrain-morocco-arab-summit.html">Israel to Host 3 Arab Foreign Ministers in Historic Meeting</a> NYT: The gathering of top diplomats from Israel, the U.A.E., Bahrain and Morocco, as well as Secretary of State Antony J. Blinken, is a sign of how quickly Middle Eastern alliances are shifting. 
+ <p class="updated_time"> 06:48 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 06:37 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/putin-cancel-culture-rowling.html">Putin Goes Into Battle on a Second Front: Culture</a> NYT: In a blast against “cancel culture,” he said the West is “canceling” Russia by going after “an entire thousand-year-old country, our people.” 
  <p class="updated_time"> 06:37 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60881915?at_medium=RSS&at_campaign=KARANGA">Katty Kay: The danger of wishful Western thinking</a> BBC: With Russia still a powerful force, wide-eyed realism is what Ukraine needs from the US and Europe. 
- <p class="updated_time"> 06:36 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/australia/great-barrier-reef-bleaching.html">Australia’s Great Barrier Reef Suffers 6th Mass Bleaching Event</a> NYT: This year offers a disturbing first: mass bleaching in a year of La Niña. The grim milestone points to the continued threat of climate change and greenhouse gas emissions. 
- <p class="updated_time"> 06:31 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 06:08 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-valentyna-veretska-jerusalem-marathon.html">Just Weeks After Fleeing Ukraine, Woman Wins Jerusalem Marathon</a> NYT: Valentyna Vereteska fled from Mykolaiv, Ukraine, to Poland with her 11-year-old daughter a month ago. 
  <p class="updated_time"> 05:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/russian-mercenaries-ukraine-wagner-group.html">More Russian Mercenaries Deploying to Ukraine to Take On Greater Role in War</a> NYT: At least 1,000 fighters from Russia’s Wagner Group are expected to focus on the Kremlin’s goal of seizing eastern Ukraine. 
+ <p class="updated_time"> 05:48 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 05:38 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/edmund-hawley-dead.html">Kip Hawley, Transportation Security Administrator, Dies at 68</a> NYT: He sought to overhaul a much-maligned federal agency by enhancing security procedures, bolstering morale and taking a common-sense approach to the job. 
  <p class="updated_time"> 05:32 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/climate/east-antarctica-ice-shelf-collapse.html">Conger Ice Shelf Collapses in East Antarctica, a First</a> NYT: Scientists say a period of unusual weather, combined with record-low sea ice, led to the disintegration of the Conger ice shelf. 
- <p class="updated_time"> 05:31 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 05:13 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html">Dagny Carlsson, Centenarian Blogger, Dies at 109</a> NYT: She began posting about her daily life in Sweden at the age of 99. She went on to acquire a worldwide fan base. 
  <p class="updated_time"> 05:02 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
  <p class="updated_time"> 04:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
- <p class="updated_time"> 04:45 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
- <p class="updated_time"> 04:31 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 04:18 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Mar. 25 </p> 
@@ -366,10 +366,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/republicans-supreme-court-confirmation-hearing-00019458">GOP's 2024 contenders leap into Supreme Court spotlight</a> Politico: A quartet of Republican presidential hopefuls aren't afraid to use their Judiciary Committee lecterns to audition for presidential runs. 
  <p class="updated_time"> 03:30 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/news/agenda/2022/03/23/bidencare-unfinished-agenda-obamacare-campaign-00019272">Joe Biden’s Never-Ending Campaign to Build on Obamacare</a> Politico: Blame the pandemic, Joe Manchin or monopolists. But the president’s ambitious health care plans are faltering. 
- <p class="updated_time"> 09:38 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/blackburn-jackson-define-the-word-woman-00019543">Blackburn to Jackson: Can you define ‘the word woman’?</a> Politico: The Tennessee Republican’s line of questioning hit on nearly every political hot-button issue. 
- <p class="updated_time"> 09:36 PM CT, Mar. 22 </p> 
- <a href="https://www.politico.com/news/2022/03/22/ketanji-brown-jackson-senate-hearing-day-2-takeaways-analysis-00019538">5 takeaways from Ketanji Brown Jackson's Supreme Court hearing</a> Politico: GOP senators launch salvos on "critical race theory," criminal sentencing and representing Guantanamo inmates. 
 
 
 </details>
