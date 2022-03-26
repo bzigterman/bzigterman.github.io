@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:46 PM CT, Mar. 25 </p> 
+ <p class="updated_time"> 09:11 PM CT, Mar. 25 </p> 
+ <a href="https://www.npr.org/2022/03/25/1088858439/ukraine-share-message-online-warsaw-spire-preply">Have a message of support for Ukraine projected on Poland's Warsaw Spire building</a> NPR: Preply is collecting messages of hope and love from around the world to share with Ukrainian refugees in Poland. 
+ <p class="updated_time"> 08:33 PM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60872358?at_medium=RSS&at_campaign=KARANGA">Russia targets east Ukraine, says first phase over</a> BBC: The move is being seen as a possible change of strategy after the invasion faltered. 
+ <p class="updated_time"> 08:31 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
+ <p class="updated_time"> 08:25 PM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/health-60866669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WHO says attacks on hospitals are increasing daily</a> BBC: The World Health Organization has verified more than 70 attacks on hospitals and healthcare facilities. 
+ <p class="updated_time"> 08:07 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
+ <p class="updated_time"> 07:31 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 07:26 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/russia-ukraine-war-goals.html">Russia Signals Redefined Goals in Ukraine War as Its Advances Stall</a> NYT: The Russian Defense Ministry suggested its forces would concentrate on securing the eastern part of Ukraine, where Kremlin-backed separatists have long been fighting. 
- <p class="updated_time"> 07:07 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 07:07 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/yemen-attack-saudi-arabia.html">Yemeni Rebel Attack Sets Saudi Oil Facility Ablaze</a> NYT: Saudi officials accused Yemen’s Houthi rebels of launching the attack, which cast a shadow over a Formula One car race aimed at international spectators. 
  <p class="updated_time"> 07:05 PM CT, Mar. 25 </p> 
@@ -29,32 +37,32 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60881915?at_medium=RSS&at_campaign=KARANGA">Katty Kay: The danger of wishful Western thinking</a> BBC: With Russia still a powerful force, wide-eyed realism is what Ukraine needs from the US and Europe. 
  <p class="updated_time"> 06:36 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/great-barrier-reef-bleaching.html">Australia’s Great Barrier Reef Suffers 6th Mass Bleaching Event</a> NYT: This year offers a disturbing first: mass bleaching in a year of La Niña. The grim milestone points to the continued threat of climate change and greenhouse gas emissions. 
+ <p class="updated_time"> 06:31 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 06:08 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-valentyna-veretska-jerusalem-marathon.html">Just Weeks After Fleeing Ukraine, Woman Wins Jerusalem Marathon</a> NYT: Valentyna Vereteska fled from Mykolaiv, Ukraine, to Poland with her 11-year-old daughter a month ago. 
- <p class="updated_time"> 06:07 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 05:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/russian-mercenaries-ukraine-wagner-group.html">More Russian Mercenaries Deploying to Ukraine to Take On Greater Role in War</a> NYT: At least 1,000 fighters from Russia’s Wagner Group are expected to focus on the Kremlin’s goal of seizing eastern Ukraine. 
  <p class="updated_time"> 05:38 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/edmund-hawley-dead.html">Kip Hawley, Transportation Security Administrator, Dies at 68</a> NYT: He sought to overhaul a much-maligned federal agency by enhancing security procedures, bolstering morale and taking a common-sense approach to the job. 
  <p class="updated_time"> 05:32 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/climate/east-antarctica-ice-shelf-collapse.html">Conger Ice Shelf Collapses in East Antarctica, a First</a> NYT: Scientists say a period of unusual weather, combined with record-low sea ice, led to the disintegration of the Conger ice shelf. 
+ <p class="updated_time"> 05:31 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 05:13 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html">Dagny Carlsson, Centenarian Blogger, Dies at 109</a> NYT: She began posting about her daily life in Sweden at the age of 99. She went on to acquire a worldwide fan base. 
- <p class="updated_time"> 05:07 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 05:02 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
  <p class="updated_time"> 04:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
  <p class="updated_time"> 04:45 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
+ <p class="updated_time"> 04:31 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 04:18 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60876858?at_medium=RSS&at_campaign=KARANGA">Gretchen Whitmer: Court hears of violent plot to abduct US governor</a> BBC: A former co-conspirator said the accused plotters were seeking the "ignition" for a second civil war. 
- <p class="updated_time"> 04:07 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 03:57 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879152/alcohol-bans-in-ukraine-have-led-to-a-whisper-network-among-those-seeking-a-drin">Alcohol bans in Ukraine have led to a whisper network among those seeking a drink</a> NPR: Some local Ukrainian officials banned alcohol sales amid the war, which has made it difficult for some people trying to relax. But there are still ways to find open bars. 
  <p class="updated_time"> 03:52 PM CT, Mar. 25 </p> 
@@ -79,12 +87,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088879026/south-korea-could-face-a-long-hard-winter-for-womens-rights-under-president-elec">South Korea could face a 'long, hard winter' for women's rights under president elect</a> NPR: NPR's Juana Summers speaks with Hawon Jung, a Korean journalist, about fears that the president elect will reverse years of progress on women's rights in South Korea. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879019/polands-president-has-made-a-political-u-turn-in-light-of-the-crisis-in-ukraine">Poland's president has made a political U-turn in light of the crisis in Ukraine</a> NPR: Russia's invasion of Ukraine has prompted Poland's Trump-loving conservative populists to unite with U.S. Democrats and European Union leaders: pillars of liberal democracy they have fought for years. 
- <p class="updated_time"> 03:07 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
- <p class="updated_time"> 02:19 PM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-60881567?at_medium=RSS&at_campaign=KARANGA">Spotify stops streaming in Russia over safety concerns</a> BBC: New laws threaten jail for people accused of spreading "fake news" about Russia's armed forces. 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
  <p class="updated_time"> 01:51 PM CT, Mar. 25 </p> 
@@ -103,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088808627/ukrainian-journalists-missing-detained">Russian forces are reportedly holding Ukrainian journalists hostage</a> NPR: International groups say Russian soldiers are threatening, detaining and even torturing Ukrainian journalists in occupied areas. One news editor says troops are holding her 75-year-old father hostage. 
  <p class="updated_time"> 01:01 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60879835?at_medium=RSS&at_campaign=KARANGA">On the road to Mariupol, a southern Ukrainian town fears for the worst</a> BBC: Residents of a town neighbouring Mariupol ready themselves for Russian missile and rocket attacks. 
- <p class="updated_time"> 12:47 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088819012/russian-tv-protester-fine">Russian TV editor will reportedly face a fine for her on-air protest</a> NPR: Marina Ovsyannikova, who burst onto the set of a live broadcast holding a sign reading "No War," could be fined between 30,000 and 50,000 rubles when her case is heard on April 14. 
  <p class="updated_time"> 12:35 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60837949?at_medium=RSS&at_campaign=KARANGA">World freedoms at stake, President Biden tells US troops</a> BBC: President Joe Biden tells US troops in Poland that global democracy is at risk amid Ukraine war. 
  <p class="updated_time"> 12:27 PM CT, Mar. 25 </p> 
@@ -145,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/spanish-banks-protest-carlos-san-juan-de-laorden.html">Retired Doctor’s Protest Gets Attention of Spanish Banks</a> NYT: A campaign by a 78-year-old retired doctor with Parkinson’s disease against banks closing branches and moving services online resonates with a rapidly aging Spanish population. 
  <p class="updated_time"> 03:55 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-counteroffensive-russia.html">Ukraine’s Counteroffensive Alters Shape of Battle With Russia</a> NYT: Although their claimed gains in territory are hard to quantify or verify, this picture of Ukrainian progress is aiding the country’s messaging to its citizens and to the world. 
- <p class="updated_time"> 02:57 AM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60861900?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray war: TPLF agrees to humanitarian truce</a> BBC: The civil war has left millions needing food aid, yet none has been delivered to Tigray for months. 
  <p class="updated_time"> 02:29 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60858363?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Civilians abducted as Russia tries to assert control</a> BBC: The UN has documented almost 40 cases of politicians, journalists and activists being abducted. 
  <p class="updated_time"> 01:00 AM CT, Mar. 25 </p> 
@@ -183,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-poll-us-russia-ukraine.html">Most in U.S. Say Biden ‘Not Tough Enough’ on Russia, Poll Finds</a> NYT: The national mood has made a sudden swung toward punishing Russia, the poll shows, putting more pressure on the president as he treads a careful course on Ukraine. 
  <p class="updated_time"> 03:02 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60867786?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The dangers faced by front line fighters in Kharkiv</a> BBC: A month into the war, Mark and Vlad, both 22, show the BBC the perils they face every day in Kharkiv. 
- <p class="updated_time"> 12:00 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/who-omicron-variant-ba2-cases.html">BA.2 Omicron Subvariant Driving Most Global Cases, W.H.O. Says </a> NYT: Globally, BA.2 made up about 86 percent of cases reported to the W.H.O. between Feb. 16 and March 17, the agency said in a report on Tuesday. 
  <p class="updated_time"> 11:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/nato-ukraine-russia-chemical-biological-weapons.html">NATO to Provide Ukraine Training for a Possible Chemical or Nuclear Attack</a> NYT: The alliance will offer Ukraine detection equipment, protection and medical support, as well as training for decontamination and crisis management. 
  <p class="updated_time"> 10:46 AM CT, Mar. 24 </p> 
@@ -212,8 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:53 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/biden-second-booster-shot-older-americans.html">Biden Administration Plans to Offer Older Americans Second Booster Shots</a> NYT: The plan will offer people 65 and older — and possibly some younger adults — the option of another booster, in case infections surge again soon. 
+ <p class="updated_time"> 09:24 PM CT, Mar. 25 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/biden-second-booster-shot-older-americans.html">Biden Administration Plans to Offer Second Booster Shots to Those 50 and Up</a> NYT: After fraught discussions, officials decided that another shot might save thousands of lives if a new coronavirus wave hit before the fall. The F.D.A. could authorize the boosters next week. 
  <p class="updated_time"> 07:34 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/flynn-partner-bijan-rafiekian-guilty-00020657">Flynn partner wins new trial in foreign-agent case</a> Politico: Jury's guilty verdicts against Bijan Rafiekian in 2019 went "against great weight of the evidence," judge rules. 
  <p class="updated_time"> 06:39 PM CT, Mar. 25 </p> 
@@ -247,7 +245,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:14 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/us-eu-digital-markets-act-00020551">U.S. slow to respond to EU’s landmark tech regulation</a> Politico: The Biden administration’s response to the EU’s new Digital Markets Act signals continued internal disagreements about how to approach antitrust reforms targeting large tech companies. 
  <p class="updated_time"> 04:06 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Judge Throws Out Maryland Congressional Map, in Blow to Democrats</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
  <p class="updated_time"> 03:34 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879096/the-covid-fund-for-the-uninsured-is-shutting-down-which-will-likely-drive-spread">The COVID fund for the uninsured is shutting down, which will likely drive spread</a> NPR: Congress failed to approve billions in new funding to fight COVID-19. Among threatened program cuts are free treatments for COVID patients who are uninsured. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
