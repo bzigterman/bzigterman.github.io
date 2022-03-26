@@ -9,20 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: ‘This Man Cannot Remain in Power,’ Biden Says of Putin</a> NYT: The White House later tried to clarify the statement, made in a speech in Poland, saying that the president was not calling for regime change, but meant that Vladimir Putin “cannot be allowed to exercise power over his neighbors.” 
+ <p class="updated_time"> 03:41 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">Biden Condemns Putin, Saying He ‘Cannot Remain In Power’</a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
+ <p class="updated_time"> 03:32 PM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1089018942/russia-ukraine-war-what-happened-today-march-26">Russia-Ukraine war: What happened today (March 26)</a> NPR: As Saturday draws to an end in Kyiv and in Moscow, here are the key developments of the day. 
+ <p class="updated_time"> 03:28 PM CT, Mar. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60889259?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Vladimir Putin cannot remain in power - Biden</a> BBC: A White House official says the US president was not calling for a regime change. 
  <p class="updated_time"> 03:12 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
- <p class="updated_time"> 02:57 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: ‘This Man Cannot Remain in Power,’ Biden Says of Putin</a> NYT: The White House later tried to clarify the statement, made in a speech in Poland, saying that the president was not calling for regime change, but meant that Vladimir Putin “cannot be allowed to exercise power over his neighbors.” 
- <p class="updated_time"> 02:53 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">Biden Condemns Putin, Saying He ‘Cannot Remain In Power’</a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
+ <p class="updated_time"> 02:46 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 02:42 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/lviv-missile-strike.html">Missiles Hit Targets In Lviv, 50 Miles From the Polish Border</a> NYT: The major city in western Ukraine, Lviv had largely been spared from Russian bombardment. It has become the a haven for people fleeing the devastation farther east. 
  <p class="updated_time"> 02:42 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60887974?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Five wounded after explosions hit western city of Lviv</a> BBC: Lviv has become a hub for thousands of refugees fleeing other parts of Ukraine since Russia's invasion. 
- <p class="updated_time"> 02:20 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 02:15 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
+ <p class="updated_time"> 01:46 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 01:44 PM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1089014039/biden-says-of-putin-for-gods-sake-this-man-cannot-remain-in-power">Biden says of Putin: 'For God's sake, this man cannot remain in power'</a> NPR: President Biden's remark about Russian President Vladimir Putin came in a speech in Warsaw. A White House official later said Biden "was not discussing Putin's power in Russia, or regime change." 
  <p class="updated_time"> 01:26 PM CT, Mar. 26 </p> 
@@ -31,29 +37,27 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-putin-butcher-poland-refugees.html">Biden Calls Putin a Butcher After Meeting With Ukraine Refugees</a> NYT: His comment came as he visited a stadium in Warsaw where the Polish authorities are assisting the waves of people who are fleeing Ukraine. 
  <p class="updated_time"> 01:23 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60889257?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Musicians perform emotional concert in Kharkiv metro station</a> BBC: Musicians performed the concert at a metro station in Kharkiv, being used as a makeshift shelter. 
- <p class="updated_time"> 01:20 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Looks to Bolster Ukraine and Aid Neighboring Poland With Refugee Surge</a> WSJ: Biden Looks to Bolster Ukraine and Aid Neighboring Poland With Refugee Surge 
  <p class="updated_time"> 01:10 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html">Mélenchon, a Fiery  Leftist, Has Late Surge in French Election</a> NYT: Jean-Luc Mélenchon, a skilled orator and veteran politician, hopes to become the first left-wing candidate since 2012 to reach the second round of France’s presidential election. 
+ <p class="updated_time"> 12:46 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/asia/china-eastern-death-toll.html">China Eastern Crash Killed All 132 on Flight</a> NYT: Investigators were still looking for wreckage, remains and the second black box in an effort to determine what caused the crash. 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 12:22 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/israel-arab-summit.html">What to Know About Israel’s Summit With 4 Arab Countries</a> NYT: Four Arab foreign ministers will meet in Israel’s Negev desert on Sunday, along with their U.S. counterpart. The talks mark a realignment of Middle Eastern powers, accelerated by the war in Ukraine. 
- <p class="updated_time"> 12:20 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 11:51 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
+ <p class="updated_time"> 11:46 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 11:40 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html">Prince William and Kate Middleton’s Caribbean Tour Marred By Gaffes and Miscues</a> NYT: The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state. 
  <p class="updated_time"> 11:32 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
  <p class="updated_time"> 11:27 AM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60887970?at_medium=RSS&at_campaign=KARANGA">China plane crash: All 132 passengers and crew dead, officials confirm</a> BBC: Rescue teams are still searching for the second black box at the site of the plane crash in Guangxi. 
- <p class="updated_time"> 11:20 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
- <p class="updated_time"> 10:20 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 10:46 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 10:05 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088914605/oscars-2022-bestia-short-animated-film-chile">The Oscar-nominated short 'Bestia' highlights an exciting time for Chilean animation</a> NPR: For the second time in history, Chile is a contender for a short film animation Oscar. This nomination is the latest milestone in what has been a gripping time for the country's animation industry. 
@@ -91,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
  <p class="updated_time"> 09:44 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/great-barrier-reef-bleaching.html">Australia’s Great Barrier Reef Suffers 6th Mass Bleaching Event</a> NYT: This year offers a disturbing first: mass bleaching in a year of La Niña. The grim milestone points to the continued threat of climate change and greenhouse gas emissions. 
- <p class="updated_time"> 09:32 PM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60882714?at_medium=RSS&at_campaign=KARANGA">Coda star and Oscar nominee inspires deaf children to dream big</a> BBC: Troy Kotsur is a star of CODA and the first deaf male actor ever to be nominated for an Oscar. 
  <p class="updated_time"> 09:11 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088858439/ukraine-share-message-online-warsaw-spire-preply">Have a message of support for Ukraine projected on Poland's Warsaw Spire building</a> NPR: Preply is collecting messages of hope and love from around the world to share with Ukrainian refugees in Poland. 
  <p class="updated_time"> 08:33 PM CT, Mar. 25 </p> 
@@ -137,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088879152/alcohol-bans-in-ukraine-have-led-to-a-whisper-network-among-those-seeking-a-drin">Alcohol bans in Ukraine have led to a whisper network among those seeking a drink</a> NPR: Some local Ukrainian officials banned alcohol sales amid the war, which has made it difficult for some people trying to relax. But there are still ways to find open bars. 
  <p class="updated_time"> 03:49 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879145/people-in-russia-controlled-georgia-are-watching-whats-happening-in-ukraine-clos">Near Russian-controlled areas of Georgia, people are watching what happens in Ukraine</a> NPR: NPR's Mary Louise Kelly reports from the boundary line of the Russian-controlled area in northern Georgia, which saw heavy fighting during the 2008 Russian invasion. 
- <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088879124/a-massive-bleaching-event-is-taking-place-in-australias-great-barrier-reef">A massive bleaching event is taking place in Australia's Great Barrier Reef</a> NPR: Australia's Great Barrier Reef is suffering another mass bleaching. That's when corals turn ghostly white due to heat, and it's becoming more common as the climate warms. 
  <p class="updated_time"> 03:18 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60882156?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Change of emphasis or admission of failure by Moscow?</a> BBC: Moscow now says the main aim is to "liberate" eastern Ukraine - a change of emphasis or more? 
  <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:34 PM CT, Mar. 26 </p> 
+ <a href="https://www.politico.com/news/2022/03/26/ginni-thomas-west-wing-trump-john-eastman-00020675">Ginni Thomas’ West Wing contacts raise new questions for another Trump ally: John Eastman</a> Politico: The Jan. 6 select committee has evidence that Eastman expected Justice Clarence Thomas to back his dubious legal theory to block Joe Biden's victory. 
  <p class="updated_time"> 03:09 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/9-11-case-negotiations-guantanamo.html">Plea Negotiations in Sept. 11 Case Go on Hiatus for Ramadan</a> NYT: Hearings in the death penalty case are scheduled for May but could be postponed because one defendant needs a new lawyer. 
  <p class="updated_time"> 02:58 PM CT, Mar. 26 </p> 
@@ -267,7 +269,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:14 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/us-eu-digital-markets-act-00020551">U.S. slow to respond to EU’s landmark tech regulation</a> Politico: The Biden administration’s response to the EU’s new Digital Markets Act signals continued internal disagreements about how to approach antitrust reforms targeting large tech companies. 
  <p class="updated_time"> 04:06 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Judge Throws Out Maryland Congressional Map, in Blow to Democrats</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
  <p class="updated_time"> 03:34 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879096/the-covid-fund-for-the-uninsured-is-shutting-down-which-will-likely-drive-spread">The COVID fund for the uninsured is shutting down, which will likely drive spread</a> NPR: Congress failed to approve billions in new funding to fight COVID-19. Among threatened program cuts are free treatments for COVID patients who are uninsured. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
@@ -300,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/mccarthy-fortenberry-resign-00020488">McCarthy nudges convicted Rep. Fortenberry to resign</a> Politico: The House GOP leader spoke hours after the Nebraska Republican was convicted of three felonies related to campaign donations from a foreign national. 
  <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088759442/manchin-says-he-will-support-supreme-court-nominee-judge-ketanji-brown-jackson">Manchin says he will support Supreme Court nominee Judge Ketanji Brown Jackson</a> NPR: Manchin says Jackson's "wide array of experiences" in the judicial system provides her with a unique perspective that she'll bring to the court. His support essentially secures her spot on the court. 
- <p class="updated_time"> 10:19 AM CT, Mar. 25 </p> 
- <a href="https://www.politico.com/news/2022/03/25/supreme-court-justice-clarence-thomas-released-from-hospital-court-says-00020468">Supreme Court Justice Clarence Thomas released from hospital</a> Politico: Thomas, 73, is the court's longest-serving member and fell ill with an infection last week 
  <p class="updated_time"> 10:15 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/health/fda-drug-approvals-makena.html">F.D.A. Rushed a Drug for Preterm Births. Did It Put Speed Over Science?</a> NYT: The agency’s accelerated approval program for certain drugs has come under intense scrutiny because some medicines stay on the market despite limited evidence that they work. 
  <p class="updated_time"> 10:00 AM CT, Mar. 25 </p> 
