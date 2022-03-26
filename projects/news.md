@@ -13,23 +13,23 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60884259?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Foo Fighters' drummer dies aged 50</a> BBC: The band said they were "devastated" by the loss of Hawkins, who has drummed with them since 1997. 
  <p class="updated_time"> 10:58 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Live Updates: Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
+ <p class="updated_time"> 10:53 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 10:42 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
- <p class="updated_time"> 10:33 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
+ <p class="updated_time"> 09:53 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 09:44 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/great-barrier-reef-bleaching.html">Australia’s Great Barrier Reef Suffers 6th Mass Bleaching Event</a> NYT: This year offers a disturbing first: mass bleaching in a year of La Niña. The grim milestone points to the continued threat of climate change and greenhouse gas emissions. 
- <p class="updated_time"> 09:33 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 09:11 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088858439/ukraine-share-message-online-warsaw-spire-preply">Have a message of support for Ukraine projected on Poland's Warsaw Spire building</a> NPR: Preply is collecting messages of hope and love from around the world to share with Ukrainian refugees in Poland. 
+ <p class="updated_time"> 08:53 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 08:33 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60872358?at_medium=RSS&at_campaign=KARANGA">Russia targets east Ukraine, says first phase over</a> BBC: The move is being seen as a possible change of strategy after the invasion faltered. 
- <p class="updated_time"> 08:33 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 08:25 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/health-60866669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WHO says attacks on hospitals are increasing daily</a> BBC: The World Health Organization has verified more than 70 attacks on hospitals and healthcare facilities. 
- <p class="updated_time"> 07:33 PM CT, Mar. 25 </p> 
+ <p class="updated_time"> 07:53 PM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 07:26 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/russia-ukraine-war-goals.html">Russia Signals Redefined Goals in Ukraine War as Its Advances Stall</a> NYT: The Russian Defense Ministry suggested its forces would concentrate on securing the eastern part of Ukraine, where Kremlin-backed separatists have long been fighting. 
@@ -41,12 +41,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60857346?at_medium=RSS&at_campaign=KARANGA">Will Ukraine invasion push Japan to go nuclear?</a> BBC: Ex-PM Shinzo Abe shocked Japan by saying it should think about nuclear weapons - but he's not alone. 
  <p class="updated_time"> 06:56 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/israel-uae-bahrain-morocco-arab-summit.html">Israel to Host 3 Arab Foreign Ministers in Historic Meeting</a> NYT: The gathering of top diplomats from Israel, the U.A.E., Bahrain and Morocco, as well as Secretary of State Antony J. Blinken, is a sign of how quickly Middle Eastern alliances are shifting. 
+ <p class="updated_time"> 06:53 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 06:37 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/putin-cancel-culture-rowling.html">Putin Goes Into Battle on a Second Front: Culture</a> NYT: In a blast against “cancel culture,” he said the West is “canceling” Russia by going after “an entire thousand-year-old country, our people.” 
  <p class="updated_time"> 06:37 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60881915?at_medium=RSS&at_campaign=KARANGA">Katty Kay: The danger of wishful Western thinking</a> BBC: With Russia still a powerful force, wide-eyed realism is what Ukraine needs from the US and Europe. 
- <p class="updated_time"> 06:33 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 06:08 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-valentyna-veretska-jerusalem-marathon.html">Just Weeks After Fleeing Ukraine, Woman Wins Jerusalem Marathon</a> NYT: Valentyna Vereteska fled from Mykolaiv, Ukraine, to Poland with her 11-year-old daughter a month ago. 
  <p class="updated_time"> 05:55 PM CT, Mar. 25 </p> 
