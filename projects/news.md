@@ -9,32 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:24 AM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: Biden Says U.S. Has ‘Sacred Obligation’ to NATO; Explosions Rock Lviv</a> NYT: President Biden met with Poland’s president as he wrapped up a visit to Europe intended to bolster unity over Russia’s invasion of Ukraine. His trip came even as there were indications that Moscow might be scaling back its military ambitions. 
- <p class="updated_time"> 11:24 AM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-putin-butcher-poland-refugees.html">Biden Calls Putin a Butcher After Meeting With Ukraine Refugees</a> NYT: His comment came as he visited a stadium in Warsaw where the Polish authorities are assisting the waves of people who are fleeing Ukraine. 
- <p class="updated_time"> 10:33 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
- <p class="updated_time"> 10:27 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 11:51 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
+ <p class="updated_time"> 11:47 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: Biden Says U.S. Has ‘Sacred Obligation’ to NATO; Explosions Rock Lviv</a> NYT: President Biden met with Poland’s president as he was wrapping up a visit to Europe intended to bolster unity over Russia’s invasion of Ukraine. While Mr. Biden was in Warsaw, an apparent missile strike rocked the city of Lviv in western Ukraine, close to the Polish border. 
+ <p class="updated_time"> 11:43 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-putin-butcher-poland-refugees.html">Biden Calls Putin a Butcher After Meeting With Ukraine Refugees</a> NYT: His comment came as he visited a stadium in Warsaw where the Polish authorities are assisting the waves of people who are fleeing Ukraine. 
+ <p class="updated_time"> 11:40 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/middleeast/israel-arab-summit.html">What to Know About Israel’s Summit With 4 Arab Countries</a> NYT: Four Arab foreign ministers will meet in Israel’s Negev desert on Sunday, along with their U.S. counterpart. The talks mark a realignment of Middle Eastern powers, accelerated by the war in Ukraine. 
+ <p class="updated_time"> 11:40 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html">Prince William and Kate Middleton’s Caribbean Tour Marred By Gaffes and Miscues</a> NYT: The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state. 
+ <p class="updated_time"> 11:32 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
+ <p class="updated_time"> 11:27 AM CT, Mar. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60887970?at_medium=RSS&at_campaign=KARANGA">China plane crash: All 132 passengers and crew dead, officials confirm</a> BBC: Rescue teams are still searching for the second black box at the site of the plane crash in Guangxi. 
+ <p class="updated_time"> 10:58 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 10:05 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088914605/oscars-2022-bestia-short-animated-film-chile">The Oscar-nominated short 'Bestia' highlights an exciting time for Chilean animation</a> NPR: For the second time in history, Chile is a contender for a short film animation Oscar. This nomination is the latest milestone in what has been a gripping time for the country's animation industry. 
- <p class="updated_time"> 09:33 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 09:58 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 09:17 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
- <p class="updated_time"> 08:33 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 08:58 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/russias-war-on-ukraine-upends-arctic-climate-change-research-11648299602">Russia-Ukraine War Upends Arctic Climate Research</a> WSJ: Russia-Ukraine War Upends Arctic Climate Research 
  <p class="updated_time"> 08:13 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088975885/saudi-arabia-formula-one-f1-race-houthi-attack">The Saudi Formula 1 race will go on despite a Houthi missile attack near the track</a> NPR: Missile and drone attacks by Houthi rebels targeted the Saudi Aramco oil facility in Jeddah — not far from the auto racetrack in the city. 
+ <p class="updated_time"> 07:58 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 07:50 AM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60885853?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Bogota festival crowd reacts to Foo Fighters drummer's death</a> BBC: The band had been due to perform at the Estereo Picnic festival in Bogota, Colombia, on Friday night. 
  <p class="updated_time"> 07:43 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991064/president-biden-visits-poland-in-diplomatic-trip-to-europe">President Biden visits Poland in diplomatic trip to Europe</a> NPR: President Biden is visiting Poland, next door to Ukraine. He gave a speech to U.S. troops stationed there to raise morale and also met with Polish President Andrzej Duda. 
  <p class="updated_time"> 07:37 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991057/chinas-economy-slows-after-hits-from-ukraine-war-covid-lockdowns-and-local-polic">China's economy slows after hits from Ukraine war, COVID lockdowns and local policies</a> NPR: China's once red-hot economy is slowing down. Analysts say it's due to successive coronavirus lockdowns, Russia's invasion of Ukraine and restrictive business policies. 
- <p class="updated_time"> 07:33 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 07:29 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991050/a-resident-of-mariupol-tells-her-story-after-fleeing-the-citys-horrific-destruct">A resident of Mariupol tells her story after fleeing the city's horrific destruction</a> NPR: NPR's Debbie Elliott speaks with Alina Beskrovna, a native of the Ukrainian city of Mariupol. She was trapped there for weeks as Russian forces laid siege. 
  <p class="updated_time"> 07:16 AM CT, Mar. 26 </p> 
@@ -45,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/26/1088991008/north-korea-tests-a-new-ballistic-missile-capable-of-reaching-the-u-s">North Korea tests a new ballistic missile capable of reaching the U.S.</a> NPR: The missile that North Korea tested this week could potentially be equipped with nuclear warheads and reach the continental U.S., experts say. 
  <p class="updated_time"> 07:03 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088990987/russian-military-says-its-turning-its-attention-to-eastern-ukraine">Russian military says it's turning its attention to eastern Ukraine</a> NPR: The Russian military has announced it will focus its attacks on eastern Ukraine, rather than the across the country as it has been doing. But experts are skeptical that will happen. 
- <p class="updated_time"> 06:33 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 06:58 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 05:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/canada/margaret-atwood-on-national-myths-and-the-roots-of-totalitarianism.html">Margaret Atwood on National Myths and the Roots of Totalitarianism</a> NYT: The Canadian author, whose dystopian novels fit with how many people feel about this moment, spoke on “The Ezra Klein Show.” 
@@ -55,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/tyler-jacob-minnesota-ukraine.html">Tyler Jacob of Minnesota Is Released After Being Held by Russian Troops</a> NYT: Tyler Jacob was taken off a bus by Russian soldiers at a checkpoint in Crimea, his mother said. He had been teaching English in the Ukrainian city of Kherson. 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088749675/pakistans-imran-khan-faces-a-political-showdown-without-the-army-for-support">Pakistan's Imran Khan faces a political showdown — without the army for support</a> NPR: Amid a series of missteps, the cricket star-turned-politician faces a no confidence vote after the country's all-powerful generals signaled that they would no longer back him. 
- <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
  <p class="updated_time"> 02:11 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/health/ukraine-health-tb-hiv.html">Public Health Catastrophe Looms in Ukraine, Experts Warn</a> NYT: Even before the war, the country struggled with epidemics of H.I.V., tuberculosis and hepatitis. The conflict threatens to undo decades of progress. 
  <p class="updated_time"> 12:00 AM CT, Mar. 26 </p> 
@@ -125,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
- <p class="updated_time"> 01:46 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html">Prince William and Kate Middleton’s Caribbean Tour Marred By Gaffes and Miscues</a> NYT: The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state. 
  <p class="updated_time"> 01:40 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60874223?at_medium=RSS&at_campaign=KARANGA">Next stop Kyiv - the battle on the capital's outskirts</a> BBC: In Irpin, only a few civilians remain as volunteers bolster defences a few miles from Kyiv. 
  <p class="updated_time"> 01:30 PM CT, Mar. 25 </p> 
@@ -141,12 +145,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-war-social-media.html">How Ukrainians Are Using Social Media to Stir Resistance</a> NYT: Photos and videos of the war’s horrors have spread quickly, searing into the global public consciousness and providing powerful ammunition in the information battle. 
  <p class="updated_time"> 12:03 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60875314?at_medium=RSS&at_campaign=KARANGA">Boyfriend ordered pregnant woman's murder</a> BBC: Tshegofatso Pule was found hanging from a tree, provoking outrage across South Africa. 
- <p class="updated_time"> 11:15 AM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60878133?at_medium=RSS&at_campaign=KARANGA">Ukraine war: JK Rowling hits back at Putin's 'cancel culture' comment</a> BBC: Mr Putin referenced the Harry Potter author during a speech condemning "cancel culture" in the West. 
  <p class="updated_time"> 11:10 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/russians-cyberattacks-infrastructure-nuclear-plant.html">U.S. Accuses 4 Russians of Hacking Infrastructure, Including Nuclear Plant</a> NYT: The announcement covered hackings from 2012 to 2018, but served as yet another warning from the Biden administration of Russia’s ability to conduct such operations. 
- <p class="updated_time"> 10:29 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/ukrainian-refugees-biden.html">United States Will Welcome Up to 100,000 Ukrainian Refugees</a> NYT: With European nations under stress from three million new refugees, the United States said it would substantially increase admissions of people fleeing Russia’s invasion. 
  <p class="updated_time"> 10:14 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/eu-zelensky-hungary-sanctions-ukraine.html">In Speech to E.U., Zelensky Singles Out Hungary Over Sanctions</a> NYT: Addressing the Hungarian leader, Viktor Orban, directly, Volodymyr Zelensky said, “You have to decide for yourself who you are with.” 
  <p class="updated_time"> 09:53 AM CT, Mar. 25 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/climate/britain-rainfall-historical-data.html">British Rainfall Records Extended Back to 1836 Thanks to Covid Lockdowns</a> NYT: As Britain went into its first Covid lockdown, a scientist asked for help transcribing rainfall records spanning three centuries. Thousands of people online answered the call. 
  <p class="updated_time"> 07:12 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60778909?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The priest shot at a checkpoint</a> BBC: The shooting of a Ukrainian priest by Russian soldiers is being logged as a suspected war crime. 
- <p class="updated_time"> 07:05 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-belarus-russia-exiles.html">Belarusian Exiles in Ukraine Join the Fight Against Russia’s Invasion</a> NYT: Eager, but ill equipped, some of Belarus’s exiles have formed a battalion in their host country, saying its fight against Vladimir Putin’s domination is the same as their homeland’s. 
  <p class="updated_time"> 06:13 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/technology/eu-regulation-apple-meta-google.html">E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act</a> NYT: The Digital Markets Act is the most sweeping legislation to regulate tech since a European privacy law was passed in 2018. 
  <p class="updated_time"> 05:57 PM CT, Mar. 24 </p> 
