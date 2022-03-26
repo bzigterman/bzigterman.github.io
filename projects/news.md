@@ -9,14 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:47 AM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Live Updates: Biden Is Meeting With Poland’s Leader and Ukrainian Refugees</a> NYT: President Biden is wrapping up a visit to Europe, where he has met with allies to bolster unity over Russia’s invasion of Ukraine even as there were indications the Russians might be scaling back their military ambitions. 
+ <p class="updated_time"> 08:25 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: Biden Calls U.S. Commitment to NATO a ‘Sacred Obligation’</a> NYT: President Biden is wrapping up a visit to Europe, where he has met with allies to bolster unity over Russia’s invasion of Ukraine even as there were indications that Moscow might be scaling back its military ambitions. 
+ <p class="updated_time"> 08:13 AM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1088975885/saudi-arabia-formula-one-f1-race-houthi-attack">The Saudi Formula 1 race will go on despite a Houthi missile attack near the track</a> NPR: Missile and drone attacks by Houthi rebels targeted the Saudi Aramco oil facility in Jeddah — not far from the auto racetrack in the city. 
+ <p class="updated_time"> 07:50 AM CT, Mar. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60885853?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Bogota festival crowd reacts to Foo Fighters drummer's death</a> BBC: The band had been due to perform at the Estereo Picnic festival in Bogota, Colombia, on Friday night. 
  <p class="updated_time"> 07:43 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991064/president-biden-visits-poland-in-diplomatic-trip-to-europe">President Biden visits Poland in diplomatic trip to Europe</a> NPR: President Biden is visiting Poland, next door to Ukraine. He gave a speech to U.S. troops stationed there to raise morale and also met with Polish President Andrzej Duda. 
  <p class="updated_time"> 07:37 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991057/chinas-economy-slows-after-hits-from-ukraine-war-covid-lockdowns-and-local-polic">China's economy slows after hits from Ukraine war, COVID lockdowns and local policies</a> NPR: China's once red-hot economy is slowing down. Analysts say it's due to successive coronavirus lockdowns, Russia's invasion of Ukraine and restrictive business policies. 
  <p class="updated_time"> 07:29 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991050/a-resident-of-mariupol-tells-her-story-after-fleeing-the-citys-horrific-destruct">A resident of Mariupol tells her story after fleeing the city's horrific destruction</a> NPR: NPR's Debbie Elliott speaks with Alina Beskrovna, a native of the Ukrainian city of Mariupol. She was trapped there for weeks as Russian forces laid siege. 
+ <p class="updated_time"> 07:29 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 07:16 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/zelensky-qatar-energy-europe.html">Zelensky Urges Energy Producers to Increase Exports to Europe</a> NYT: “The future of Europe rests with your efforts,” Ukraine’s leader said in a plea to help the continent wean itself off Russian fossil fuels. 
  <p class="updated_time"> 07:03 AM CT, Mar. 26 </p> 
@@ -25,16 +31,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/26/1088991008/north-korea-tests-a-new-ballistic-missile-capable-of-reaching-the-u-s">North Korea tests a new ballistic missile capable of reaching the U.S.</a> NPR: The missile that North Korea tested this week could potentially be equipped with nuclear warheads and reach the continental U.S., experts say. 
  <p class="updated_time"> 07:03 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088990987/russian-military-says-its-turning-its-attention-to-eastern-ukraine">Russian military says it's turning its attention to eastern Ukraine</a> NPR: The Russian military has announced it will focus its attacks on eastern Ukraine, rather than the across the country as it has been doing. But experts are skeptical that will happen. 
- <p class="updated_time"> 06:59 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
- <p class="updated_time"> 05:59 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 06:29 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
+ <p class="updated_time"> 05:29 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 05:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/canada/margaret-atwood-on-national-myths-and-the-roots-of-totalitarianism.html">Margaret Atwood on National Myths and the Roots of Totalitarianism</a> NYT: The Canadian author, whose dystopian novels fit with how many people feel about this moment, spoke on “The Ezra Klein Show.” 
  <p class="updated_time"> 04:59 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
- <p class="updated_time"> 04:59 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
+ <p class="updated_time"> 04:29 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60884259?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Foo Fighters' drummer dies aged 50</a> BBC: The band said they were "devastated" by the loss of Hawkins, who has drummed with them since 1997. 
  <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
@@ -43,9 +49,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/26/1088749675/pakistans-imran-khan-faces-a-political-showdown-without-the-army-for-support">Pakistan's Imran Khan faces a political showdown — without the army for support</a> NPR: Amid a series of missteps, the cricket star-turned-politician faces a no confidence vote after the country's all-powerful generals signaled that they would no longer back him. 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
- <p class="updated_time"> 03:59 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
- <p class="updated_time"> 02:59 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 03:29 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 02:11 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/health/ukraine-health-tb-hiv.html">Public Health Catastrophe Looms in Ukraine, Experts Warn</a> NYT: Even before the war, the country struggled with epidemics of H.I.V., tuberculosis and hepatitis. The conflict threatens to undo decades of progress. 
@@ -77,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60857346?at_medium=RSS&at_campaign=KARANGA">Will Ukraine invasion push Japan to go nuclear?</a> BBC: Ex-PM Shinzo Abe shocked Japan by saying it should think about nuclear weapons - but he's not alone. 
  <p class="updated_time"> 06:56 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/israel-uae-bahrain-morocco-arab-summit.html">Israel to Host 3 Arab Foreign Ministers in Historic Meeting</a> NYT: The gathering of top diplomats from Israel, the U.A.E., Bahrain and Morocco, as well as Secretary of State Antony J. Blinken, is a sign of how quickly Middle Eastern alliances are shifting. 
- <p class="updated_time"> 06:41 PM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60877832?at_medium=RSS&at_campaign=KARANGA">The ups and downs of teaching during Covid</a> BBC: From remote learning to the end of masking, Arielle has taught students throughout the pandemic. 
  <p class="updated_time"> 06:37 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/putin-cancel-culture-rowling.html">Putin Goes Into Battle on a Second Front: Culture</a> NYT: In a blast against “cancel culture,” he said the West is “canceling” Russia by going after “an entire thousand-year-old country, our people.” 
  <p class="updated_time"> 06:37 PM CT, Mar. 25 </p> 
@@ -106,15 +108,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:57 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879152/alcohol-bans-in-ukraine-have-led-to-a-whisper-network-among-those-seeking-a-drin">Alcohol bans in Ukraine have led to a whisper network among those seeking a drink</a> NPR: Some local Ukrainian officials banned alcohol sales amid the war, which has made it difficult for some people trying to relax. But there are still ways to find open bars. 
  <p class="updated_time"> 03:49 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088879145/people-in-russia-controlled-georgia-are-watching-whats-happening-in-ukraine-clos">People in Russia-controlled Georgia are watching what's happening in Ukraine closely</a> NPR: NPR's Mary Louise Kelly reports from the boundary line of the Russian-controlled area in northern Georgia, which saw heavy fighting during the 2008 Russian invasion. 
+ <a href="https://www.npr.org/2022/03/25/1088879145/people-in-russia-controlled-georgia-are-watching-whats-happening-in-ukraine-clos">Near Russian-controlled areas of Georgia, people are watching what happens in Ukraine</a> NPR: NPR's Mary Louise Kelly reports from the boundary line of the Russian-controlled area in northern Georgia, which saw heavy fighting during the 2008 Russian invasion. 
  <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879124/a-massive-bleaching-event-is-taking-place-in-australias-great-barrier-reef">A massive bleaching event is taking place in Australia's Great Barrier Reef</a> NPR: Australia's Great Barrier Reef is suffering another mass bleaching. That's when corals turn ghostly white due to heat, and it's becoming more common as the climate warms. 
  <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879117/russia-stashed-away-billions-before-invading-ukraine-china-may-have-helped-hide-">Russia stashed away billions before invading Ukraine. China may have helped hide it</a> NPR: The Kremlin stashed away billions before invading Ukraine. China helped them hide it. NPR's Ari Shapiro speaks with economist Benn Steil about his investigation into Russian assets. 
  <p class="updated_time"> 03:43 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879110/more-than-half-of-ukraines-children-have-been-displaced-un-says">More than half of Ukraine's children have been displaced, UN says</a> NPR: Fighting around Kyiv continues as Ukrainian forces try to push back Russian troops. Many families with kids have fled to other countries, but millions are now internally displaced within Ukraine. 
- <p class="updated_time"> 03:41 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088885299/russias-assault-on-kyiv-slows-as-it-shifts-focus-to-eastern-ukraines-donbas-regi">Russia shifts its military's focus in Ukraine, and its tone in negotiations</a> NPR: The Donbas region, the site of two breakaway republics created by Russia-backed separatists in 2014, has become the site of some of the heaviest fighting in recent days, a senior U.S. official says. 
  <p class="updated_time"> 03:18 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60882156?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Change of emphasis or admission of failure by Moscow?</a> BBC: Moscow now says the main aim is to "liberate" eastern Ukraine - a change of emphasis or more? 
  <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:13 AM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1088975885/saudi-arabia-formula-one-f1-race-houthi-attack">The Saudi Formula 1 race will go on despite a Houthi missile attack near the track</a> NPR: Missile and drone attacks by Houthi rebels targeted the Saudi Aramco oil facility in Jeddah — not far from the auto racetrack in the city. 
  <p class="updated_time"> 07:43 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991064/president-biden-visits-poland-in-diplomatic-trip-to-europe">President Biden visits Poland in diplomatic trip to Europe</a> NPR: President Biden is visiting Poland, next door to Ukraine. He gave a speech to U.S. troops stationed there to raise morale and also met with Polish President Andrzej Duda. 
  <p class="updated_time"> 07:21 AM CT, Mar. 26 </p> 
@@ -306,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/gas-exports-europe-russia-00020411">U.S., EU pledge to seek new natural gas supplies to displace Russia</a> Politico: EU countries have been scrambling to source new supplies of LNG to replace gas shipments from Russia. 
  <p class="updated_time"> 06:18 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/25/guilty-guilty-guilty-fortenberrys-three-felonies-00020405">Guilty, Guilty, Guilty: Fortenberry’s three felonies</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:18 AM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election">Ginni Thomas reportedly pressed Trump's chief of staff on overturning the election</a> NPR: Conservative activist Ginni Thomas, who's married to Supreme Court Justice Clarence Thomas, sent a number of texts to then-Chief of Staff Mark Meadows between November 2020 and January 2021. 
  <p class="updated_time"> 06:12 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-europe-lng-natural-gas.html">Why the U.S. Can’t Quickly Wean Europe From Russian Gas</a> NYT: The Biden administration’s plan to send more natural gas to Europe will be hampered by the lack of export and import terminals. 
  <p class="updated_time"> 05:17 AM CT, Mar. 25 </p> 
