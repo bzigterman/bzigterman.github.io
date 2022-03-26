@@ -15,25 +15,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
  <p class="updated_time"> 04:58 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Live Updates: Biden Is Set to Meet With Poland’s Leader and Ukrainian Refugees</a> NYT: President Biden is wrapping up a three-day visit to Europe, where he has met with NATO and other allies in an effort to bolster their unity over Russia’s invasion of Ukraine. Russia’s Defense Ministry signaled a possible shift in its military aims. 
+ <p class="updated_time"> 04:32 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60884259?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Foo Fighters' drummer dies aged 50</a> BBC: The band said they were "devastated" by the loss of Hawkins, who has drummed with them since 1997. 
  <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/tyler-jacob-minnesota-ukraine.html">Tyler Jacob of Minnesota Is Released After Being Held by Russian Troops</a> NYT: Tyler Jacob was taken off a bus by Russian soldiers at a checkpoint in Crimea, his mother said. He had been teaching English in the Ukrainian city of Kherson. 
- <p class="updated_time"> 04:09 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088749675/pakistans-imran-khan-faces-a-political-showdown-without-the-army-for-support">Pakistan's Imran Khan faces a political showdown — without the army for support</a> NPR: Amid a series of missteps, the cricket star-turned-politician faces a no confidence vote after the country's all-powerful generals signaled that they would no longer back him. 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
- <p class="updated_time"> 03:09 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 03:32 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
+ <p class="updated_time"> 02:32 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 02:11 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/health/ukraine-health-tb-hiv.html">Public Health Catastrophe Looms in Ukraine, Experts Warn</a> NYT: Even before the war, the country struggled with epidemics of H.I.V., tuberculosis and hepatitis. The conflict threatens to undo decades of progress. 
- <p class="updated_time"> 02:09 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
- <p class="updated_time"> 01:09 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 01:32 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
- <p class="updated_time"> 12:09 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 12:32 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 12:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/music/ukraine-music-war-zones.html">Ukrainians Fill Streets With Music, Echoing Past War Zones</a> NYT: In subway stations and apartment buildings, artists are playing Bach, Vivaldi and folk songs. 
@@ -225,7 +225,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/biden-immigration-detention-beds.html">Biden to Ask Congress for 9,000 Fewer Immigration Detention Beds</a> NYT: The administration plans to seek funding for 25,000 beds, down from the 34,000 beds that are currently funded. It also severed a contract with a detention facility in Alabama. 
  <p class="updated_time"> 06:00 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/republicans-democrats-criminal-justice-reform.html">Jackson’s Hearing Shows How Republicans and Democrats Are Diverging on Crime</a> NYT: This week’s Senate hearings underscored the fragility of a bipartisan alliance that seeks to reduce the impact of America’s vast prison complex. 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/republicans-democrats-criminal-justice-reform.html">Republicans and Democrats Begin to Sharply Diverge on Crime</a> NYT: This week’s Senate hearings underscored the fragility of a bipartisan alliance that seeks to reduce the impact of America’s vast prison complex. 
  <p class="updated_time"> 05:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/russian-mercenaries-ukraine-wagner-group.html">More Russian Mercenaries Deploying to Ukraine to Take On Greater Role in War</a> NYT: At least 1,000 fighters from Russia’s Wagner Group are expected to focus on the Kremlin’s goal of seizing eastern Ukraine. 
  <p class="updated_time"> 05:45 PM CT, Mar. 25 </p> 
@@ -360,8 +360,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/23/biden-governors-infrastructure-russian-hackers-00019647">Biden tells governors to 'take urgent action' to protect infrastructure from Russian hackers</a> Politico: "There are things that only you as governor can do," Biden told state leaders. 
  <p class="updated_time"> 06:28 AM CT, Mar. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/23/who-flocks-to-the-scotus-spotlight-00019574">Who flocks to the SCOTUS spotlight?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:19 AM CT, Mar. 23 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/23/3-things-to-watch-as-biden-goes-to-europe-00019567"> 3 things to watch as Biden goes to Europe</a> Politico Playbook: And voters support a gas tax pause. 
 
 
 </details>
