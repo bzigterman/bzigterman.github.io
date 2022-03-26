@@ -9,44 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:28 PM CT, Mar. 26 </p> 
+ <p class="updated_time"> 05:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: ‘This Man Cannot Remain in Power,’ Biden Says of Putin</a> NYT: The White House later tried to clarify the statement, made in a speech in Poland, saying that the president was not calling for regime change, but meant that Vladimir Putin “cannot be allowed to exercise power over his neighbors.” 
- <p class="updated_time"> 05:28 PM CT, Mar. 26 </p> 
+ <p class="updated_time"> 05:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">Biden Condemns Putin, Saying He ‘Cannot Remain In Power’</a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
  <p class="updated_time"> 05:21 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60887974?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Five wounded after explosions hit western city of Lviv</a> BBC: Lviv has become a hub for thousands of refugees fleeing other parts of Ukraine since Russia's invasion. 
- <p class="updated_time"> 04:39 PM CT, Mar. 26 </p> 
+ <p class="updated_time"> 04:51 PM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
+ <p class="updated_time"> 03:51 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 03:50 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-putin-butcher-poland-refugees.html">Biden Calls Putin a Butcher After Meeting With Ukraine Refugees</a> NYT: His comment came as he visited a stadium in Warsaw where the Polish authorities are assisting the waves of people who are fleeing Ukraine. 
- <p class="updated_time"> 03:39 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 03:32 PM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1089018942/russia-ukraine-war-what-happened-today-march-26">Russia-Ukraine war: What happened today (March 26)</a> NPR: As Saturday draws to an end in Kyiv and in Moscow, here are the key developments of the day. 
  <p class="updated_time"> 03:28 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60889259?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Vladimir Putin cannot remain in power - Biden</a> BBC: A White House official says the US president was not calling for a regime change. 
  <p class="updated_time"> 03:12 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
- <p class="updated_time"> 02:39 PM CT, Mar. 26 </p> 
+ <p class="updated_time"> 02:51 PM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 02:15 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
+ <p class="updated_time"> 01:51 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 01:44 PM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1089014039/biden-says-of-putin-for-gods-sake-this-man-cannot-remain-in-power">Biden says of Putin: 'For God's sake, this man cannot remain in power'</a> NPR: President Biden's remark about Russian President Vladimir Putin came in a speech in Warsaw. A White House official later said Biden "was not discussing Putin's power in Russia, or regime change." 
- <p class="updated_time"> 01:39 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 01:26 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
  <p class="updated_time"> 01:23 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60889257?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Musicians perform emotional concert in Kharkiv metro station</a> BBC: Musicians performed the concert at a metro station in Kharkiv, being used as a makeshift shelter. 
  <p class="updated_time"> 01:10 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html">Mélenchon, a Fiery  Leftist, Has Late Surge in French Election</a> NYT: Jean-Luc Mélenchon, a skilled orator and veteran politician, hopes to become the first left-wing candidate since 2012 to reach the second round of France’s presidential election. 
+ <p class="updated_time"> 12:51 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/asia/china-eastern-death-toll.html">China Eastern Crash Killed All 132 on Flight</a> NYT: Investigators were still looking for wreckage, remains and the second black box in an effort to determine what caused the crash. 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
- <p class="updated_time"> 12:39 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 12:22 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/israel-arab-summit.html">What to Know About Israel’s Summit With 4 Arab Countries</a> NYT: Four Arab foreign ministers will meet in Israel’s Negev desert on Sunday, along with their U.S. counterpart. The talks mark a realignment of Middle Eastern powers, accelerated by the war in Ukraine. 
  <p class="updated_time"> 11:51 AM CT, Mar. 26 </p> 
@@ -206,6 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:44 PM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1089034831/nebraska-fortenberry-resigns">Nebraska Rep. Fortenberry says he will resign following conviction for lying to FBI</a> NPR: The Republican congressman is stepping down after he was found guilty this week on charges that he lied to federal authorities about an illegal campaign contribution from a foreign billionaire. 
+ <p class="updated_time"> 05:41 PM CT, Mar. 26 </p> 
+ <a href="https://www.politico.com/news/2022/03/26/rocket-attacks-ukraines-lviv-biden-poland-00020680">Rocket attacks hit Ukraine’s Lviv as Biden visits Poland</a> Politico: The back-to-back airstrikes shook the city that has become a haven for an estimated 200,000 people who have had to flee their hometowns. 
  <p class="updated_time"> 05:31 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/biden-billionaires-minimum-tax.html">Biden to Include Minimum Tax on Billionaires in Budget Proposal</a> NYT: The tax would require that American households worth more than $100 million pay at least 20 percent on their full income, as well as unrealized gains in the value of liquid assets like stocks. 
  <p class="updated_time"> 05:24 PM CT, Mar. 26 </p> 
@@ -296,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088757756/how-madeleine-albright-made-womens-issues-central-to-foreign-policy">How Madeleine Albright made women's issues central to foreign policy</a> NPR: When Madeleine Albright became secretary of state in 1997, she was the first woman to do so. She used her career to advance women's issues and served as a role model for many generations. 
  <p class="updated_time"> 12:31 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/maryland-court-congressional-map-illegal-democratic-gerrymander-00020518">Maryland court strikes down congressional map as illegal Democratic gerrymander</a> Politico: The decision is likely set for appeal in Maryland's high court. 
- <p class="updated_time"> 12:24 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088818575/marie-yovanovitch-putin">How does Marie Yovanovitch feel about Putin? Just look at her coffee mug</a> NPR: In interviews promoting her new memoir, the former U.S. ambassador to Ukraine revealed she owns some anti-Putin merchandise — and has been giving it out for years. 
  <p class="updated_time"> 11:10 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/russians-cyberattacks-infrastructure-nuclear-plant.html">U.S. Accuses 4 Russians of Hacking Infrastructure, Including Nuclear Plant</a> NYT: The announcement covered hackings from 2012 to 2018, but served as yet another warning from the Biden administration of Russia’s ability to conduct such operations. 
  <p class="updated_time"> 10:57 AM CT, Mar. 25 </p> 
@@ -326,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/03/25/the-nations-cartoonists-on-the-week-in-politics-00020090">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:56 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/house-gop-mccarthy-cheney-mood-00020241">House GOP returns to the state where Cheney fell — in a brighter mood this time</a> Politico: Kevin McCarthy's conference is brimming with confidence a year after ousting one of its leaders, even as certain questions remain unsettled. Like Donald Trump's influence. 
- <p class="updated_time"> 04:33 PM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/news/2022/03/24/ukraine-legion-foreign-soldiers-00020233">Band of others: Ukraine’s legions of foreign soldiers are on the frontline</a> Politico: Up to 20,000 volunteers — from all over the world — have joined up to fight Russian invaders. The commanders say they're weeding out "bloodthirsty guys" and "extremists." 
  <p class="updated_time"> 04:15 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/russia-state-media-rumble-00020184">Russia state media turn to Rumble to get out their word</a> Politico: The far-right video sharing outlet has become a last refuge of sorts for Sputnik podcasts. 
  <p class="updated_time"> 03:44 PM CT, Mar. 24 </p> 
