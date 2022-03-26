@@ -9,36 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/health/ukraine-health-tb-hiv.html">Public Health Catastrophe Looms in Ukraine, Experts Warn</a> NYT: Even before the war, the country struggled with epidemics of H.I.V., tuberculosis and hepatitis. The conflict threatens to undo decades of progress. 
+ <p class="updated_time"> 02:01 AM CT, Mar. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60884259?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Foo Fighters' drummer dies aged 50</a> BBC: The band said they were "devastated" by the loss of Hawkins, who has drummed with them since 1997. 
+ <p class="updated_time"> 01:14 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 01:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
- <p class="updated_time"> 12:37 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 12:18 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
+ <p class="updated_time"> 12:14 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 12:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/music/ukraine-music-war-zones.html">Ukrainians Fill Streets With Music, Echoing Past War Zones</a> NYT: In subway stations and apartment buildings, artists are playing Bach, Vivaldi and folk songs. 
- <p class="updated_time"> 11:37 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
- <p class="updated_time"> 11:24 PM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60884259?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Foo Fighters' drummer dies aged 50</a> BBC: The band said they were "devastated" by the loss of Hawkins, who has drummed with them since 1997. 
+ <p class="updated_time"> 11:14 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
  <p class="updated_time"> 10:42 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
- <p class="updated_time"> 10:37 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
+ <p class="updated_time"> 10:14 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 09:44 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/australia/great-barrier-reef-bleaching.html">Australia’s Great Barrier Reef Suffers 6th Mass Bleaching Event</a> NYT: This year offers a disturbing first: mass bleaching in a year of La Niña. The grim milestone points to the continued threat of climate change and greenhouse gas emissions. 
- <p class="updated_time"> 09:37 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
+ <p class="updated_time"> 09:32 PM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60882714?at_medium=RSS&at_campaign=KARANGA">Coda star and Oscar nominee inspires deaf children to dream big</a> BBC: Troy Kotsur is a star of CODA and the first deaf male actor ever to be nominated for an Oscar. 
+ <p class="updated_time"> 09:14 PM CT, Mar. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 09:11 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088858439/ukraine-share-message-online-warsaw-spire-preply">Have a message of support for Ukraine projected on Poland's Warsaw Spire building</a> NPR: Preply is collecting messages of hope and love from around the world to share with Ukrainian refugees in Poland. 
- <p class="updated_time"> 08:37 PM CT, Mar. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 08:33 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60872358?at_medium=RSS&at_campaign=KARANGA">Russia targets east Ukraine, says first phase over</a> BBC: The move is being seen as a possible change of strategy after the invasion faltered. 
  <p class="updated_time"> 08:25 PM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/health-60866669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WHO says attacks on hospitals are increasing daily</a> BBC: The World Health Organization has verified more than 70 attacks on hospitals and healthcare facilities. 
+ <a href="https://www.bbc.co.uk/news/health-60866669?at_medium=RSS&at_campaign=KARANGA">Ukraine war: WHO says attacks on health facilities are rising daily</a> BBC: The World Health Organization has verified more than 70 attacks on hospitals and healthcare facilities. 
+ <p class="updated_time"> 07:29 PM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60853404?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ros Atkins on... Putin’s false ‘Nazi’ claims</a> BBC: Russia is spreading untruths about Nazis in Ukraine - one of Putin's justifications for his invasion. 
+ <p class="updated_time"> 07:28 PM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60827251?at_medium=RSS&at_campaign=KARANGA">Hazara: The female karate champions 'breaking out of the cage'</a> BBC: Women from the Hazara community say the martial art helps them break out of the restrictions their community faces. 
  <p class="updated_time"> 07:26 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/russia-ukraine-war-goals.html">Russia Signals Redefined Goals in Ukraine War as Its Advances Stall</a> NYT: The Russian Defense Ministry suggested its forces would concentrate on securing the eastern part of Ukraine, where Kremlin-backed separatists have long been fighting. 
+ <p class="updated_time"> 07:17 PM CT, Mar. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60839787?at_medium=RSS&at_campaign=KARANGA">Ukraine: Russian forces appear to shoot at civilians trying to escape</a> BBC: Video captured by a Ukrainian aerial reconnaissance group appears to show Russian forces shooting at civilians. 
  <p class="updated_time"> 07:07 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/middleeast/yemen-attack-saudi-arabia.html">Yemeni Rebel Attack Sets Saudi Oil Facility Ablaze</a> NYT: Saudi officials accused Yemen’s Houthi rebels of launching the attack, which cast a shadow over a Formula One car race aimed at international spectators. 
  <p class="updated_time"> 07:05 PM CT, Mar. 25 </p> 
@@ -155,16 +165,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60866389?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A dangerous escape on the 'Rescue Express'</a> BBC: A risky night-time race to safety lies ahead for exhausted families fleeing Kyiv each day. 
  <p class="updated_time"> 12:30 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Women in Afghanistan must now be accompanied by a male relative to complete many basic tasks, among a series of new measures they say threaten to squeeze them out of public and professional life. 
- <p class="updated_time"> 07:53 PM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60867789?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Return to Irpin, the town destroyed in the battle for Kyiv</a> BBC: The BBC's Jeremy Bowen returns to Irpin, where Ukrainian forces say they're pushing back Russians. 
  <p class="updated_time"> 07:50 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/climate/methane-leaks-new-mexico.html">Methane Leaks Plague New Mexico Oil and Gas Wells</a> NYT: An analysis found leaks of methane, a potent greenhouse gas, from oil and gas drilling in the Permian Basin were many times higher than government estimates. 
  <p class="updated_time"> 07:47 PM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60831476?at_medium=RSS&at_campaign=KARANGA">Australia floods: 'We're resilient, but how about helping us?'</a> BBC: Locals tell dramatic stories of survival and recovery, but accuse politicians of ignoring them. 
- <p class="updated_time"> 07:47 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/climate/britain-rainfall-historical-data.html">British Rainfall Records Extended Back to 1836 Thanks to Covid Lockdowns</a> NYT: As Britain went into its first Covid lockdown, a scientist asked for help transcribing rainfall records spanning three centuries. Thousands of people online answered the call. 
- <p class="updated_time"> 07:45 PM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60861539?at_medium=RSS&at_campaign=KARANGA">Michael Bublé: Multi-Grammy winner on Bond themes, romantic gifts and new album</a> BBC: An egg poacher, a toaster and the washing up - just some ways Michael Bublé shows his romantic side. 
  <p class="updated_time"> 07:15 PM CT, Mar. 24 </p> 
  <a href="https://www.bbc.co.uk/news/health-60861537?at_medium=RSS&at_campaign=KARANGA">Poland hotel becomes triage centre for cancer patients</a> BBC: Hundreds of children with cancer have now been evacuated from Ukraine to continue treatment abroad. 
  <p class="updated_time"> 07:12 PM CT, Mar. 24 </p> 
@@ -183,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/us/politics/intelligence-agencies-ukraine-afghanistan.html">Why the U.S. Was Wrong About Ukraine and the Afghan War</a> NYT: U.S. intelligence agencies thought the Afghan military would last longer and predicted Kyiv would fall faster, showing the difficulty of assessing fighting spirit. 
  <p class="updated_time"> 03:13 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-poll-us-russia-ukraine.html">Most in U.S. Say Biden ‘Not Tough Enough’ on Russia, Poll Finds</a> NYT: The national mood has made a sudden swung toward punishing Russia, the poll shows, putting more pressure on the president as he treads a careful course on Ukraine. 
- <p class="updated_time"> 03:02 PM CT, Mar. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60867786?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The dangers faced by front line fighters in Kharkiv</a> BBC: A month into the war, Mark and Vlad, both 22, show the BBC the perils they face every day in Kharkiv. 
  <p class="updated_time"> 11:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/nato-ukraine-russia-chemical-biological-weapons.html">NATO to Provide Ukraine Training for a Possible Chemical or Nuclear Attack</a> NYT: The alliance will offer Ukraine detection equipment, protection and medical support, as well as training for decontamination and crisis management. 
  <p class="updated_time"> 10:46 AM CT, Mar. 24 </p> 
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/nyregion/broken-windows-eric-adams.html">As Adams Toughens on Crime, Some Fear a Return to ’90s Era Policing</a> NYT: With violent crime surging, Mayor Eric Adams is testing how much policing a changed New York City will tolerate. 
  <p class="updated_time"> 10:53 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/manchin-jackson-supreme-court.html">Manchin Backs Jackson as Democrats Unite Behind Confirmation</a> NYT: The support of the centrist from West Virginia shows that Democrats are unifying behind Judge Ketanji Brown Jackson’s nomination in the face of strong Republican opposition. 
  <p class="updated_time"> 09:24 PM CT, Mar. 25 </p> 
@@ -254,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088879019/polands-president-has-made-a-political-u-turn-in-light-of-the-crisis-in-ukraine">Poland's president has made a political U-turn in light of the crisis in Ukraine</a> NPR: Russia's invasion of Ukraine has prompted Poland's Trump-loving conservative populists to unite with U.S. Democrats and European Union leaders: pillars of liberal democracy they have fought for years. 
  <p class="updated_time"> 02:29 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/bidens-summit-with-southeast-asian-leaders-postponed-00020543">Biden’s summit with Southeast Asian leaders postponed</a> Politico: The month-long conflict in Eastern Europe has injected a new urgency into U.S. efforts to reinvigorate old alliances and cultivate new ones, including in the Asia-Pacific. 
- <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 02:14 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/justice-clarence-thomas-hospital-discharged.html">Justice Clarence Thomas Discharged From Hospital, Court Says</a> NYT: The Supreme Court justice, 73, had been hospitalized for a week with flulike symptoms. 
  <p class="updated_time"> 02:01 PM CT, Mar. 25 </p> 
