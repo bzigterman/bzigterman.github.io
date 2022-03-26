@@ -9,16 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:52 AM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Live Updates: Biden Is Meeting With Poland’s Leader and Ukrainian Refugees</a> NYT: President Biden is wrapping up a visit to Europe, where he has met with allies to bolster unity over Russia’s invasion of Ukraine, even as there were indications the Russians might be scaling back their military ambitions. 
- <p class="updated_time"> 05:55 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 07:20 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Live Updates: Biden Is Meeting With Poland’s Leader and Ukrainian Refugees</a> NYT: President Biden is wrapping up a visit to Europe, where he has met with allies to bolster unity over Russia’s invasion of Ukraine even as there were indications the Russians might be scaling back their military ambitions. 
+ <p class="updated_time"> 07:16 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/zelensky-qatar-energy-europe.html">Zelensky Urges Energy Producers to Increase Exports to Europe</a> NYT: “The future of Europe rests with your efforts,” Ukraine’s leader said in a plea to help the continent wean itself off Russian fossil fuels. 
+ <p class="updated_time"> 07:03 AM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1088991015/some-ukrainians-forced-from-their-homes-are-fleeing-to-small-towns-for-refuge">Some Ukrainians forced from their homes are fleeing to small towns for refuge</a> NPR: Charities in Ukraine are overwhelmed by the millions of refugees who've been forced from their homes and are looking for safe places to stay. 
+ <p class="updated_time"> 07:03 AM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1088991008/north-korea-tests-a-new-ballistic-missile-capable-of-reaching-the-u-s">North Korea tests a new ballistic missile capable of reaching the U.S.</a> NPR: The missile that North Korea tested this week could potentially be equipped with nuclear warheads and reach the continental U.S., experts say. 
+ <p class="updated_time"> 07:03 AM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1088990987/russian-military-says-its-turning-its-attention-to-eastern-ukraine">Russian military says it's turning its attention to eastern Ukraine</a> NPR: The Russian military has announced it will focus its attacks on eastern Ukraine, rather than the across the country as it has been doing. But experts are skeptical that will happen. 
+ <p class="updated_time"> 06:28 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
+ <p class="updated_time"> 05:28 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 05:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/canada/margaret-atwood-on-national-myths-and-the-roots-of-totalitarianism.html">Margaret Atwood on National Myths and the Roots of Totalitarianism</a> NYT: The Canadian author, whose dystopian novels fit with how many people feel about this moment, spoke on “The Ezra Klein Show.” 
  <p class="updated_time"> 04:59 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
- <p class="updated_time"> 04:55 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
+ <p class="updated_time"> 04:28 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60884259?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Foo Fighters' drummer dies aged 50</a> BBC: The band said they were "devastated" by the loss of Hawkins, who has drummed with them since 1997. 
  <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
@@ -27,14 +37,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/26/1088749675/pakistans-imran-khan-faces-a-political-showdown-without-the-army-for-support">Pakistan's Imran Khan faces a political showdown — without the army for support</a> NPR: Amid a series of missteps, the cricket star-turned-politician faces a no confidence vote after the country's all-powerful generals signaled that they would no longer back him. 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
- <p class="updated_time"> 03:55 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
- <p class="updated_time"> 02:55 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 03:28 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
+ <p class="updated_time"> 02:28 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 02:11 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/health/ukraine-health-tb-hiv.html">Public Health Catastrophe Looms in Ukraine, Experts Warn</a> NYT: Even before the war, the country struggled with epidemics of H.I.V., tuberculosis and hepatitis. The conflict threatens to undo decades of progress. 
- <p class="updated_time"> 01:55 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 12:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/music/ukraine-music-war-zones.html">Ukrainians Fill Streets With Music, Echoing Past War Zones</a> NYT: In subway stations and apartment buildings, artists are playing Bach, Vivaldi and folk songs. 
  <p class="updated_time"> 10:42 PM CT, Mar. 25 </p> 
@@ -109,18 +117,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088879040/biden-condemns-russias-vladimir-putin-while-visiting-poland">Biden condemns Russia's Vladimir Putin while visiting Poland</a> NPR: President Biden traveled to NATO's eastern flank as a show of support to allies most unnerved by Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879026/south-korea-could-face-a-long-hard-winter-for-womens-rights-under-president-elec">South Korea could face a 'long, hard winter' for women's rights under president elect</a> NPR: NPR's Juana Summers speaks with Hawon Jung, a Korean journalist, about fears that the president elect will reverse years of progress on women's rights in South Korea. 
- <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088879019/polands-president-has-made-a-political-u-turn-in-light-of-the-crisis-in-ukraine">Poland's president has made a political U-turn in light of the crisis in Ukraine</a> NPR: Russia's invasion of Ukraine has prompted Poland's Trump-loving conservative populists to unite with U.S. Democrats and European Union leaders: pillars of liberal democracy they have fought for years. 
  <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
- <p class="updated_time"> 01:51 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088851607/russia-pig-head-antisemitic-slur-journalist-moscow">A top Russian journalist found a pig's head and antisemitic slur left at his door</a> NPR: It was the latest in a series of acts of intimidation in Russia aimed at journalists and critics of the Kremlin's invasion of Ukraine. 
  <p class="updated_time"> 01:46 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/royal-couple-caribbean-visit.html">Prince William and Kate Middleton’s Caribbean Tour Marred By Gaffes and Miscues</a> NYT: The trip by Prince William and his wife, Catherine, the duchess of Cambridge, dramatized how rapidly Queen Elizabeth II is losing her grip on distant dominions where she is still head of state. 
- <p class="updated_time"> 01:42 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088840912/antarctica-ice-shelf-collapses">A previously stable ice shelf, the size of New York City, collapses in Antarctica</a> NPR: The collapse, captured by satellite images, occurred in East Antarctica — an area long thought to be stable and not hit much by climate change, scientists say. 
  <p class="updated_time"> 01:40 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60874223?at_medium=RSS&at_campaign=KARANGA">Next stop Kyiv - the battle on the capital's outskirts</a> BBC: In Irpin, only a few civilians remain as volunteers bolster defences a few miles from Kyiv. 
  <p class="updated_time"> 01:30 PM CT, Mar. 25 </p> 
@@ -197,12 +199,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-poll-us-russia-ukraine.html">Most in U.S. Say Biden ‘Not Tough Enough’ on Russia, Poll Finds</a> NYT: The national mood has made a sudden swung toward punishing Russia, the poll shows, putting more pressure on the president as he treads a careful course on Ukraine. 
  <p class="updated_time"> 11:12 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/nato-ukraine-russia-chemical-biological-weapons.html">NATO to Provide Ukraine Training for a Possible Chemical or Nuclear Attack</a> NYT: The alliance will offer Ukraine detection equipment, protection and medical support, as well as training for decontamination and crisis management. 
- <p class="updated_time"> 10:11 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/russia-superyacht-crew-putin.html">Russian Crew on a Superyacht Possibly Linked to Putin Have Left Their Jobs, Workers Say</a> NYT: U.S. officials have said the Scheherezade, which is dry-docked in Italy, could be owned by the Russian leader. 
  <p class="updated_time"> 09:34 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-zelensky-nato-alliance.html">Zelensky Calls on Biden and NATO Members to Do More to Help Ukraine</a> NYT: In a video address to a closed-door session of the military alliance, President Volodymyr Zelensky warned that Russia “does not intend to stop in Ukraine,” according to his government’s transcript. 
- <p class="updated_time"> 09:24 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/asia/singapore-covid-restrictions.html">Singapore to Ease Some Covid Restrictions</a> NYT: The prime minister said that the change represented a “major step,” but that the country would “stop short of a complete opening up.” 
  <p class="updated_time"> 09:22 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/switzerland-montreux-family-balcony-deaths.html">4 Die After Falling From Balcony in Swiss Resort Town</a> NYT: The police, who are investigating the cause, said the people were most likely members of the same family, including an 8-year-old girl, her parents and aunt. A boy, 15, was in the hospital in critical condition. 
 
@@ -212,6 +210,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:21 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/republicans-democrats-criminal-justice-reform.html">Republicans and Democrats Begin to Sharply Diverge on Crime</a> NYT: This week’s Senate hearings underscored the fragility of a bipartisan alliance that seeks to reduce the impact of America’s vast prison complex. 
+ <p class="updated_time"> 07:03 AM CT, Mar. 26 </p> 
+ <a href="https://www.npr.org/2022/03/26/1088990994/week-in-politics-reactions-to-court-nominee-trump-retracts-an-endorsement-in-ala">Week in politics: Reactions to Court nominee; Trump retracts an endorsement in Ala.</a> NPR: News about current and prospective members of the U.S. Supreme Court. Plus, why former President Donald Trump retracted his endorsement of an Alabama congressman. 
  <p class="updated_time"> 06:01 AM CT, Mar. 26 </p> 
  <a href="https://www.politico.com/news/2022/03/26/trump-allies-elections-vote-counting-00020574">Trump backers push election change that would make counting slower, costlier and less accurate</a> Politico: Ditching machine tabulators and replacing them with people counting votes by hand has become a new fixation on the right. 
  <p class="updated_time"> 06:01 AM CT, Mar. 26 </p> 
@@ -232,8 +234,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088868411/supreme-court-justice-thomas-wife-ginni-has-a-long-history-of-conservative-activ">Supreme Court Justice Thomas' wife Ginni has a long history of conservative activism</a> NPR: The text messages Virginia Thomas sent Trump's chief of staff pushing false claims about the 2020 election are the latest in her often public work to support conservative Republicans. 
  <p class="updated_time"> 06:01 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/biden-immigration-detention-beds.html">Biden to Ask Congress for 9,000 Fewer Immigration Detention Beds</a> NYT: The administration plans to seek funding for 25,000 beds, down from the 34,000 beds that are currently funded. It also severed a contract with a detention facility in Alabama. 
- <p class="updated_time"> 06:00 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/republicans-democrats-criminal-justice-reform.html">Republicans and Democrats Begin to Sharply Diverge on Crime</a> NYT: This week’s Senate hearings underscored the fragility of a bipartisan alliance that seeks to reduce the impact of America’s vast prison complex. 
  <p class="updated_time"> 05:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/russian-mercenaries-ukraine-wagner-group.html">More Russian Mercenaries Deploying to Ukraine to Take On Greater Role in War</a> NYT: At least 1,000 fighters from Russia’s Wagner Group are expected to focus on the Kremlin’s goal of seizing eastern Ukraine. 
  <p class="updated_time"> 05:45 PM CT, Mar. 25 </p> 
@@ -312,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/03/25/inside-the-new-politics-of-americas-suburbs-00020394"> Inside the new politics of America’s suburbs</a> Politico Playbook: And a conversation with Antony Blinken’s right-hand man. 
  <p class="updated_time"> 04:23 AM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1087910880/biological-weapons-far-right-russia-ukraine">How the false Russian biolab story came to circulate among the U.S. far right</a> NPR: The war over Ukraine's future is being fought on the ground, in the air — and through social media posts and viral videos that take advantage of America's deeply polarized politics. 
- <p class="updated_time"> 04:13 AM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088720641/lawsuit-challenges-if-rep-marjorie-taylor-greene-should-be-allowed-to-run-for-of">Lawsuit seeks to keep GOP Rep. Marjorie Taylor Greene from running for reelection</a> NPR: Some Georgia voters filed a legal challenge arguing that Rep. Marjorie Taylor Greene is constitutionally disqualified from holding office because of her involvement in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 04:00 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/trump-endorsement-primaries.html">How the 2022 Primaries Are Testing Trump’s Role as the G.O.P. ‘Kingpin’</a> NYT: Two of Donald Trump’s most prominent Senate endorsements have already backfired. Now the month of May looms large to measure his pull on the party. 
  <p class="updated_time"> 03:31 AM CT, Mar. 25 </p> 
