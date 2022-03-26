@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:12 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60884259?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Foo Fighters' drummer dies aged 50</a> BBC: The band said they were "devastated" by the loss of Hawkins, who has drummed with them since 1997. 
+ <p class="updated_time"> 04:24 AM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/tyler-jacob-minnesota-ukraine.html">Tyler Jacob of Minnesota Is Released After Being Held by Russian Troops</a> NYT: Tyler Jacob was taken off a bus by Russian soldiers at a checkpoint in Crimea, his mother said. He had been teaching English in the Ukrainian city of Kherson. 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088749675/pakistans-imran-khan-faces-a-political-showdown-without-the-army-for-support">Pakistan's Imran Khan faces a political showdown — without the army for support</a> NPR: Amid a series of missteps, the cricket star-turned-politician faces a no confidence vote after the country's all-powerful generals signaled that they would no longer back him. 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
  <p class="updated_time"> 04:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
+ <p class="updated_time"> 03:39 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
  <p class="updated_time"> 03:30 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/03/25/world/ukraine-russia-war">Russia Says Focus Is Shifting Away From Kyiv, Toward Eastern Ukraine</a> NYT: President Biden met U.S. troops in Poland, and plans to meet Ukrainian refugees on Saturday, while Russian rockets and missiles struck the battered city of Kharkiv. 
- <p class="updated_time"> 03:25 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russia-refocuses-on-ukraines-east-after-month-of-heavy-losses-11648243627">Russia Refocuses on Ukraine’s East After Heavy Losses</a> WSJ: Russia Refocuses on Ukraine’s East After Heavy Losses 
- <p class="updated_time"> 02:25 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 02:39 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/bidens-poland-visit-to-spotlight-weapons-humanitarian-aid-for-ukraine-11648200912">Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine</a> WSJ: Biden’s Poland Visit Spotlights Weapons, Humanitarian Aid for Ukraine 
  <p class="updated_time"> 02:11 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/health/ukraine-health-tb-hiv.html">Public Health Catastrophe Looms in Ukraine, Experts Warn</a> NYT: Even before the war, the country struggled with epidemics of H.I.V., tuberculosis and hepatitis. The conflict threatens to undo decades of progress. 
- <p class="updated_time"> 01:25 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 01:39 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-migrants-find-easier-path-to-enter-u-s-at-the-mexican-border-11648200602">Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border</a> WSJ: Ukrainian Refugees Find Easier Path to Enter U.S. at the Mexican Border 
- <p class="updated_time"> 12:25 AM CT, Mar. 26 </p> 
+ <p class="updated_time"> 12:39 AM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-laments-war-in-ukraine-without-taking-sides-11648226928">Pope Francis Laments War in Ukraine Without Taking Sides</a> WSJ: Pope Francis Laments War in Ukraine Without Taking Sides 
  <p class="updated_time"> 12:00 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/music/ukraine-music-war-zones.html">Ukrainians Fill Streets With Music, Echoing Past War Zones</a> NYT: In subway stations and apartment buildings, artists are playing Bach, Vivaldi and folk songs. 
- <p class="updated_time"> 11:25 PM CT, Mar. 25 </p> 
+ <p class="updated_time"> 11:39 PM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-reach-preliminary-deal-on-data-privacy-11648200085">U.S., EU Reach Preliminary Deal on Data Privacy</a> WSJ: U.S., EU Reach Preliminary Deal on Data Privacy 
  <p class="updated_time"> 10:42 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/asia/china-solomon-islands-security-pact.html">China and Solomon Islands Draft Secret Security Pact</a> NYT: The leaked agreement, if signed, could help the Chinese Navy block shipping routes that played a vital role in World War II. 
@@ -201,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/europe/switzerland-montreux-family-balcony-deaths.html">4 Die After Falling From Balcony in Swiss Resort Town</a> NYT: The police, who are investigating the cause, said the people were most likely members of the same family, including an 8-year-old girl, her parents and aunt. A boy, 15, was in the hospital in critical condition. 
  <p class="updated_time"> 09:11 AM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/china-taiwan-un.html">China’s Push to Isolate Taiwan Demands U.S. Action, Report Says</a> NYT: Chinese officials are ramping up a campaign to force United Nations agencies, governments, companies and even schools to say Taiwan is a part of China. 
- <p class="updated_time"> 08:43 AM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/european-tree-of-the-year-russia.html">Poland Wins European Tree of the Year After Russia Is Banned</a> NYT: After Russia was banned from the European Tree of the Year competition, organizers reflected on how a celebration of trees became tangled up in global politics. 
 
 
 </details>
@@ -249,7 +249,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:14 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/us-eu-digital-markets-act-00020551">U.S. slow to respond to EU’s landmark tech regulation</a> Politico: The Biden administration’s response to the EU’s new Digital Markets Act signals continued internal disagreements about how to approach antitrust reforms targeting large tech companies. 
  <p class="updated_time"> 04:06 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
+ <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Judge Throws Out Maryland Congressional Map, in Blow to Democrats</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
  <p class="updated_time"> 03:34 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879096/the-covid-fund-for-the-uninsured-is-shutting-down-which-will-likely-drive-spread">The COVID fund for the uninsured is shutting down, which will likely drive spread</a> NPR: Congress failed to approve billions in new funding to fight COVID-19. Among threatened program cuts are free treatments for COVID patients who are uninsured. 
  <p class="updated_time"> 03:16 PM CT, Mar. 25 </p> 
