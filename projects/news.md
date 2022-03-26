@@ -9,34 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:49 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: ‘This Man Cannot Remain in Power,’ Biden Says in a Brazen Challenge to Putin</a> NYT: In an impassioned speech in Warsaw, President Biden insisted that the Russian people are not the enemy, but described Vladimir V. Putin as a tyrant. 
- <p class="updated_time"> 01:46 PM CT, Mar. 26 </p> 
+ <p class="updated_time"> 03:12 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
+ <p class="updated_time"> 02:57 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: ‘This Man Cannot Remain in Power,’ Biden Says of Putin</a> NYT: The White House later tried to clarify the statement, made in a speech in Poland, saying that the president was not calling for regime change, but meant that Vladimir Putin “cannot be allowed to exercise power over his neighbors.” 
+ <p class="updated_time"> 02:53 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">Biden Condemns Putin, Saying He ‘Cannot Remain In Power’</a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
+ <p class="updated_time"> 02:42 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/lviv-missile-strike.html">Missiles Hit Targets In Lviv, 50 Miles From the Polish Border</a> NYT: The major city in western Ukraine, Lviv had largely been spared from Russian bombardment. It has become the a haven for people fleeing the devastation farther east. 
+ <p class="updated_time"> 02:42 PM CT, Mar. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60887974?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Five wounded after explosions hit western city of Lviv</a> BBC: Lviv has become a hub for thousands of refugees fleeing other parts of Ukraine since Russia's invasion. 
+ <p class="updated_time"> 02:20 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
+ <p class="updated_time"> 02:15 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
  <p class="updated_time"> 01:44 PM CT, Mar. 26 </p> 
- <a href="https://www.npr.org/2022/03/26/1089014039/biden-says-of-putin-for-gods-sake-this-man-cannot-remain-in-power">Biden says of Putin: 'For God's sake, this man cannot remain in power'</a> NPR: President Biden's remark about Russian President Vladimir Putin came in a speech in Warsaw. A White House official said Biden "was not discussing Putin's power in Russia, or regime change." 
+ <a href="https://www.npr.org/2022/03/26/1089014039/biden-says-of-putin-for-gods-sake-this-man-cannot-remain-in-power">Biden says of Putin: 'For God's sake, this man cannot remain in power'</a> NPR: President Biden's remark about Russian President Vladimir Putin came in a speech in Warsaw. A White House official later said Biden "was not discussing Putin's power in Russia, or regime change." 
  <p class="updated_time"> 01:26 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
  <p class="updated_time"> 01:25 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-putin-butcher-poland-refugees.html">Biden Calls Putin a Butcher After Meeting With Ukraine Refugees</a> NYT: His comment came as he visited a stadium in Warsaw where the Polish authorities are assisting the waves of people who are fleeing Ukraine. 
  <p class="updated_time"> 01:23 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60889257?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Musicians perform emotional concert in Kharkiv metro station</a> BBC: Musicians performed the concert at a metro station in Kharkiv, being used as a makeshift shelter. 
- <p class="updated_time"> 01:17 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/lviv-missile-strike.html">Missiles Hit Targets In Lviv, 50 Miles From the Polish Border</a> NYT: The major city in western Ukraine, Lviv had largely been spared from Russian bombardment. It has become the a haven for people fleeing the devastation farther east. 
+ <p class="updated_time"> 01:20 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Looks to Bolster Ukraine and Aid Neighboring Poland With Refugee Surge</a> WSJ: Biden Looks to Bolster Ukraine and Aid Neighboring Poland With Refugee Surge 
  <p class="updated_time"> 01:10 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html">Mélenchon, a Fiery  Leftist, Has Late Surge in French Election</a> NYT: Jean-Luc Mélenchon, a skilled orator and veteran politician, hopes to become the first left-wing candidate since 2012 to reach the second round of France’s presidential election. 
- <p class="updated_time"> 12:51 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
- <p class="updated_time"> 12:46 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/asia/china-eastern-death-toll.html">China Eastern Crash Killed All 132 on Flight</a> NYT: Investigators were still looking for wreckage, remains and the second black box in an effort to determine what caused the crash. 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 12:22 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/israel-arab-summit.html">What to Know About Israel’s Summit With 4 Arab Countries</a> NYT: Four Arab foreign ministers will meet in Israel’s Negev desert on Sunday, along with their U.S. counterpart. The talks mark a realignment of Middle Eastern powers, accelerated by the war in Ukraine. 
- <p class="updated_time"> 11:51 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Looks to Bolster Ukraine and Aid Neighboring Poland With Refugee Surge</a> WSJ: Biden Looks to Bolster Ukraine and Aid Neighboring Poland With Refugee Surge 
+ <p class="updated_time"> 12:20 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 11:51 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
  <p class="updated_time"> 11:40 AM CT, Mar. 26 </p> 
@@ -45,14 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/mideast-food-prices-ramadan.html">Mideast Feels the Pinch of Rising Food Prices as Ramadan Nears</a> NYT: Russia’s war on Ukraine has driven up the prices of staple foods and energy across the Middle East and North Africa ahead of the Muslim holy month of daytime fasting and nighttime feasting. 
  <p class="updated_time"> 11:27 AM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60887970?at_medium=RSS&at_campaign=KARANGA">China plane crash: All 132 passengers and crew dead, officials confirm</a> BBC: Rescue teams are still searching for the second black box at the site of the plane crash in Guangxi. 
- <p class="updated_time"> 10:51 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
+ <p class="updated_time"> 11:20 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
+ <p class="updated_time"> 10:20 AM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 10:05 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088914605/oscars-2022-bestia-short-animated-film-chile">The Oscar-nominated short 'Bestia' highlights an exciting time for Chilean animation</a> NPR: For the second time in history, Chile is a contender for a short film animation Oscar. This nomination is the latest milestone in what has been a gripping time for the country's animation industry. 
- <p class="updated_time"> 09:51 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
- <p class="updated_time"> 08:51 AM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 08:13 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088975885/saudi-arabia-formula-one-f1-race-houthi-attack">The Saudi Formula 1 race will go on despite a Houthi missile attack near the track</a> NPR: Missile and drone attacks by Houthi rebels targeted the Saudi Aramco oil facility in Jeddah — not far from the auto racetrack in the city. 
  <p class="updated_time"> 07:50 AM CT, Mar. 26 </p> 
@@ -147,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60877578?at_medium=RSS&at_campaign=KARANGA">North Korea Hwasong-17 launch gets Hollywood-style effects</a> BBC: The Hwasong-17 is a new, powerful intercontinental ballistic missile - and the country's largest weapon. 
  <p class="updated_time"> 01:11 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
- <p class="updated_time"> 01:01 PM CT, Mar. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60879835?at_medium=RSS&at_campaign=KARANGA">On the road to Mariupol, a southern Ukrainian town fears for the worst</a> BBC: Residents of a town neighbouring Mariupol ready themselves for Russian missile and rocket attacks. 
  <p class="updated_time"> 12:35 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60837949?at_medium=RSS&at_campaign=KARANGA">World freedoms at stake, President Biden tells US troops</a> BBC: President Joe Biden tells US troops in Poland that global democracy is at risk amid Ukraine war. 
  <p class="updated_time"> 12:27 PM CT, Mar. 25 </p> 
@@ -169,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/poland-ukraine-russia.html">Poland Takes Center Stage as War Rages in Ukraine</a> NYT: Poland’s right-wing populist government has been embraced by both Brussels and Washington as a linchpin of Western solidarity and security. 
  <p class="updated_time"> 07:33 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/ukraine-counteroffensive-russia-war.html">Ukraine Tries to Seize Momentum With Claims of Counteroffensive</a> NYT: The picture on the ground is muddy and it’s unclear how much territory Ukraine has gained back. But its announcement of a counteroffensive has enhanced the notion that it is taking the fight to the enemy. 
- <p class="updated_time"> 07:32 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-europe-russia-putin-ukraine.html">Biden and His Allies Vow to Take a Tougher Stance on Russia</a> NYT: In a day of summit meetings, President Biden and his counterparts faced the prospect of Russia using weapons of mass destruction. Mr. Biden said the United States would admit 100,000 Ukrainian refugees. 
  <p class="updated_time"> 06:36 AM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60861896?at_medium=RSS&at_campaign=KARANGA">Cameroon conflict: The football fans who hope their national team lose</a> BBC: Most people want their nation to make it to the World Cup, but this is not so for some Cameroonians. 
  <p class="updated_time"> 05:06 AM CT, Mar. 25 </p> 
@@ -201,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/24/world/asia/north-korea-missile-icbm.html">With U.S. Focus on Ukraine, North Korea Launches a Powerful New ICBM</a> NYT: It was the country’s first long-range ballistic missile test since 2017, and it raised the specter of intensified provocations and threats on the Korean Peninsula. 
  <p class="updated_time"> 04:21 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/un-general-assembly-russia-ukraine.html">U.N. General Assembly Vote Further Isolates Russia on Ukraine War</a> NYT: Syria, North Korea, Eritrea and Belarus voted against the resolution, joining Russia, which called the measure “pseudo-humanitarian.” 
- <p class="updated_time"> 03:13 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/biden-poll-us-russia-ukraine.html">Most in U.S. Say Biden ‘Not Tough Enough’ on Russia, Poll Finds</a> NYT: The national mood has made a sudden swung toward punishing Russia, the poll shows, putting more pressure on the president as he treads a careful course on Ukraine. 
 
 
 </details>
@@ -210,10 +208,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:09 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/us/politics/9-11-case-negotiations-guantanamo.html">Plea Negotiations in Sept. 11 Case Go on Hiatus for Ramadan</a> NYT: Hearings in the death penalty case are scheduled for May but could be postponed because one defendant needs a new lawyer. 
+ <p class="updated_time"> 02:58 PM CT, Mar. 26 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 01:51 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/us/politics/ginni-thomas-donald-trump.html">Texts Show Ginni Thomas’s Embrace of Conspiracy Theories</a> NYT: In the aftermath of the 2020 presidential election, the wife of Justice Clarence Thomas was involved in a range of efforts to keep President Donald J. Trump in power. 
  <p class="updated_time"> 01:44 PM CT, Mar. 26 </p> 
- <a href="https://www.npr.org/2022/03/26/1089014039/biden-says-of-putin-for-gods-sake-this-man-cannot-remain-in-power">Biden says of Putin: 'For God's sake, this man cannot remain in power'</a> NPR: President Biden's remark about Russian President Vladimir Putin came in a speech in Warsaw. A White House official said Biden "was not discussing Putin's power in Russia, or regime change." 
+ <a href="https://www.npr.org/2022/03/26/1089014039/biden-says-of-putin-for-gods-sake-this-man-cannot-remain-in-power">Biden says of Putin: 'For God's sake, this man cannot remain in power'</a> NPR: President Biden's remark about Russian President Vladimir Putin came in a speech in Warsaw. A White House official later said Biden "was not discussing Putin's power in Russia, or regime change." 
  <p class="updated_time"> 01:06 PM CT, Mar. 26 </p> 
- <a href="https://www.politico.com/news/2022/03/26/biden-putin-poland-speech-00020671">Biden says Putin 'cannot remain in power' in Poland speech</a> Politico: The president delivered a speech on the Russia-Ukraine conflict in Poland Saturday, defending NATO and assailing Vladimir Putin for the invasion. 
+ <a href="https://www.politico.com/news/2022/03/26/biden-putin-poland-speech-00020671">Biden, off the cuff, says Putin 'cannot remain in power'</a> Politico: The president delivered a speech on the Russia-Ukraine conflict in Poland Saturday, defending NATO and assailing Vladimir Putin for the invasion. 
  <p class="updated_time"> 09:29 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/biden-second-booster-shot-older-americans.html">Biden Administration Plans to Offer Second Booster Shots to Those 50 and Up</a> NYT: After fraught discussions, officials decided that another shot might save thousands of lives if a new coronavirus wave hit before the fall. The F.D.A. could authorize the boosters next week. 
  <p class="updated_time"> 08:13 AM CT, Mar. 26 </p> 
@@ -246,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/us/politics/russian-mercenaries-ukraine-wagner-group.html">More Russian Mercenaries Deploying to Ukraine to Take On Greater Role in War</a> NYT: At least 1,000 fighters from Russia’s Wagner Group are expected to focus on the Kremlin’s goal of seizing eastern Ukraine. 
  <p class="updated_time"> 05:45 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088905429/lasd-gangs-investigation-los-angeles">Alleged gangs in the LA Sheriff's Department to be investigated by oversight panel</a> NPR: At least 41 deputies have been uncovered as being involved in gangs, according to the LA County inspector general. The civilian overnight board says it's a problem that has existed for decades. 
- <p class="updated_time"> 05:06 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/politics/ginni-thomas-trump-mark-meadows.html">Ginni Thomas Pressed Trump’s Chief of Staff to Overturn 2020 Vote, Texts Show</a> NYT: Messages between Justice Clarence Thomas’s wife and Mark Meadows are the first evidence that she directly advised the White House to reverse the election results. 
  <p class="updated_time"> 05:02 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
  <p class="updated_time"> 04:53 PM CT, Mar. 25 </p> 
@@ -320,14 +322,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/parents-masks-harm-kids-poll-00020250">POLITICO-Harvard poll: 40 percent of parents believe masks at school harmed their kids</a> Politico: The poll's findings come as White House officials warn that masks may be necessary if Covid-19 cases increase in the United States. 
  <p class="updated_time"> 03:30 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/gallery/2022/03/25/the-nations-cartoonists-on-the-week-in-politics-00020090">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 02:57 AM CT, Mar. 25 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:43 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/us/politics/hostile-supreme-court-hearing-jackson.html">The Respectful Supreme Court Hearing That Wasn’t</a> NYT: Republicans’ hostile interrogation of Judge Ketanji Brown Jackson and relentless re-litigating of past Supreme Court feuds marred a historic moment. 
  <p class="updated_time"> 06:52 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/cdc-updates-covid-19-guidance-to-allow-patients-wear-n95s-00020342">CDC updates Covid-19 guidance to allow patients wear N95s</a> Politico: The nation’s public health agency now says hospitals shouldn’t force patients to remove highly protective masks after POLITICO found many that do so. 
- <p class="updated_time"> 06:36 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/politics/ketanji-brown-jackson-child-abuse-cases.html">Critics of Jackson’s Child Sex Abuse Sentences Backed Judges With Similar Records</a> NYT: Republican senators criticized Judge Ketanji Brown Jackson for imposing sentences lower than prosecutor recommendations in child sexual abuse cases. Other nominees had done the same thing. 
  <p class="updated_time"> 04:56 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/house-gop-mccarthy-cheney-mood-00020241">House GOP returns to the state where Cheney fell — in a brighter mood this time</a> Politico: Kevin McCarthy's conference is brimming with confidence a year after ousting one of its leaders, even as certain questions remain unsettled. Like Donald Trump's influence. 
  <p class="updated_time"> 04:33 PM CT, Mar. 24 </p> 
