@@ -9,9 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:31 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 06:32 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Regroup, Focusing Efforts on Strategic Targets</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing fully on seizing Mariupol. Officials warned that Russia may try to divide Ukraine by consolidating territory in the east and south. 
- <p class="updated_time"> 06:31 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 06:32 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-media-zelensky.html">Zelensky Gives Interview to Russian Journalists. Moscow Orders It Quashed.</a> NYT: The remarkable interview was still published by journalists outside of Russia, an episode that laid bare the extraordinary, and partly successful, efforts at censorship by Moscow. 
  <p class="updated_time"> 06:26 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60608282?at_medium=RSS&at_campaign=KARANGA">Russian oligarchs: Where do they hide their 'dark money'?</a> BBC: Russians have an estimated $1tn hidden around the world and countries are trying to find it. 
@@ -29,7 +29,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60870739?at_medium=RSS&at_campaign=KARANGA">Beatings and forced abortions: Life in a North Korea prison</a> BBC: A new investigation sheds more light on human rights violations in North Korean prisons. 
  <p class="updated_time"> 05:58 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-ukraine-war-combat.html">As Ukraine War Moves Into 2nd Month, Fears Grow of Mariupol’s Fall to Russia</a> NYT: Ukraine’s top military intelligence officer suggested that Russia was changing its military focus to the south and east and might be trying to divide the country. 
- <p class="updated_time"> 05:32 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 05:44 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 05:30 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president is looking for support from Hollywood. But his appeal to speak during the Oscars has encountered drama of its own. 
@@ -37,28 +37,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/europe/lviv-ukraine-russia-missile-strikes.html">In Lviv, New Russian Strikes Pierce the Sense of Security in West</a> NYT: Residents in the western city of Lviv once ignored the air raid sirens. But Russian rocket attacks over the weekend have brought the war closer to their doorstep. 
  <p class="updated_time"> 04:50 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60894142?at_medium=RSS&at_campaign=KARANGA">Russia transfers thousands of Mariupol civilians to its territory</a> BBC: Ukraine condemns Russia's alleged "deportation" of many civilians from devastated Mariupol. 
+ <p class="updated_time"> 04:44 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden Comes Under Fire for Comment on Russia’s Putin</a> WSJ: Biden Comes Under Fire for Comment on Russia’s Putin 
  <p class="updated_time"> 04:33 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel attack: Two shot dead in Hadera</a> BBC: Six other people were injured in the attack by two gunmen in the city of Hadera. 
- <p class="updated_time"> 04:32 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden Comes Under Fire for Comment on Russia’s Putin</a> WSJ: Biden Comes Under Fire for Comment on Russia’s Putin 
  <p class="updated_time"> 04:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
  <p class="updated_time"> 03:56 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60893650?at_medium=RSS&at_campaign=KARANGA">Army boss raises partition fears: Ukraine round-up</a> BBC: Ukraine's military intelligence chief fears a Korea-style outcome as Biden's jab at Putin makes further waves. 
- <p class="updated_time"> 03:32 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 03:44 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 02:53 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60893054?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban bars BBC TV programmes from schedules</a> BBC: Radio and online are unaffected as the regime stops local TV showing international partner content. 
  <p class="updated_time"> 02:48 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
- <p class="updated_time"> 02:32 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 02:44 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 02:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
+ <p class="updated_time"> 01:44 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 01:40 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
- <p class="updated_time"> 01:32 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/biden-putin-speech-reaction.html">American Officials Try to Walk Back Biden’s Comments on Putin</a> NYT: Senior officials, including Secretary of State Antony J. Blinken, and top lawmakers stressed that the United States was not seeking regime change in Russia. 
  <p class="updated_time"> 11:46 AM CT, Mar. 27 </p> 
