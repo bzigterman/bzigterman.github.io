@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:08 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
+ <p class="updated_time"> 10:49 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
+ <p class="updated_time"> 10:24 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 10:17 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Ukraine Live Updates: ‘This Man Cannot Remain in Power,’ Biden Says of Putin</a> NYT: The White House later tried to clarify the statement, made in a speech in Poland, saying that the president was not calling for regime change, but meant that Vladimir Putin “cannot be allowed to exercise power over his neighbors.” 
- <p class="updated_time"> 09:46 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
+ <p class="updated_time"> 09:24 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 09:13 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">Biden Condemns Putin, Saying He ‘Cannot Remain In Power’</a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
  <p class="updated_time"> 08:55 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
- <p class="updated_time"> 08:46 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
- <p class="updated_time"> 07:46 PM CT, Mar. 26 </p> 
+ <p class="updated_time"> 08:24 PM CT, Mar. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 07:38 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60879025?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl’s vodka producer remains defiant</a> BBC: A company that produces Chernobyl’s ‘Atomik vodka’ releases new products, donating profits to Ukraine's refugees. 
- <p class="updated_time"> 07:38 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Covid</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
  <p class="updated_time"> 07:38 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60828728?at_medium=RSS&at_campaign=KARANGA">Nigeria - where President Buhari had to say sorry for a power cut</a> BBC: The lights went out across Nigeria when fuel shortages coincided with the collapse of the power grid. 
  <p class="updated_time"> 07:36 PM CT, Mar. 26 </p> 
@@ -33,14 +35,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/59882774?at_medium=RSS&at_campaign=KARANGA">China: How is its zero-Covid strategy changing?</a> BBC: Its worst spike in cases since the start of the pandemic has prompted a policy rethink. 
  <p class="updated_time"> 07:31 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60615480?at_medium=RSS&at_campaign=KARANGA">When K-pop met India: The Indian artists collaborating with Korean stars</a> BBC: India’s influence in K-pop is steadily growing, thanks to dedicated artists and the internet. 
+ <p class="updated_time"> 07:24 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 07:01 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60872305?at_medium=RSS&at_campaign=KARANGA">Oscars 2022: Hollywood gears up for its biggest night</a> BBC: All you need to know about Sunday's Oscars ceremony. 
  <p class="updated_time"> 07:01 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60878703?at_medium=RSS&at_campaign=KARANGA">Soldiers on patrol outside Kyiv confront Russian drone threat</a> BBC: On patrol with a Ukrainian defence unit carrying out aerial reconnaissance around Kyiv. 
  <p class="updated_time"> 07:00 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60866212?at_medium=RSS&at_campaign=KARANGA">SS Central America: Haunting photos recovered the 'ship of gold' wreck on ocean floor</a> BBC: Passenger photos recovered from an infamous wreck have finally been published. 
- <p class="updated_time"> 06:46 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
+ <p class="updated_time"> 06:24 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 06:18 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
  <p class="updated_time"> 06:16 PM CT, Mar. 26 </p> 
@@ -49,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
  <p class="updated_time"> 05:57 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60889260?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier's daughter on his Oscars legacy</a> BBC: Sidney Poitier's daughter discusses the late Oscar winner's influence on civil rights and cinema. 
- <p class="updated_time"> 05:46 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 05:28 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60867754?at_medium=RSS&at_campaign=KARANGA">Malmo stabbing prompts soul-searching in Sweden</a> BBC: A string of violent attacks in Sweden's schools has a country not used to such tragedies looking for answers. 
  <p class="updated_time"> 05:21 PM CT, Mar. 26 </p> 
@@ -159,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088879145/people-in-russia-controlled-georgia-are-watching-whats-happening-in-ukraine-clos">Near Russian-controlled areas of Georgia, people are watching what happens in Ukraine</a> NPR: NPR's Mary Louise Kelly reports from the boundary line of the Russian-controlled area in northern Georgia, which saw heavy fighting during the 2008 Russian invasion. 
  <p class="updated_time"> 03:18 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60882156?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Change of emphasis or admission of failure by Moscow?</a> BBC: Moscow now says the main aim is to "liberate" eastern Ukraine - a change of emphasis or more? 
- <p class="updated_time"> 02:20 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-nato-putin-russia.html">In Putin’s Misbegotten War, NATO Sees Danger and Opportunity</a> NYT: The 30-nation alliance had regarded Russia’s invasion of Ukraine as unstoppable just a month ago, but now sees the possibility of a Russian quagmire there. 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
  <p class="updated_time"> 01:40 PM CT, Mar. 25 </p> 
