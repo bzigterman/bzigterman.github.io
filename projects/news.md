@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/world/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: A billionaire property developer is close to completing an extravagant conversion of the Old War Office, an Edwardian-era monument to Britain’s imperial past, into a five-star hotel and high-end apartments. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
+ <p class="updated_time"> 03:53 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 03:41 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
- <p class="updated_time"> 02:47 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 03:24 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
+ <p class="updated_time"> 02:24 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 02:07 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
  <p class="updated_time"> 01:47 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60890202?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Drugs found in body of late Foo Fighters drummer</a> BBC: Colombian investigators examining the death of Taylor Hawkins are yet to establish a cause. 
- <p class="updated_time"> 01:47 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 01:46 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60887970?at_medium=RSS&at_campaign=KARANGA">China plane crash: All 132 passengers and crew dead, officials confirm</a> BBC: Rescue teams have found both black boxes at the site of the plane crash in Guangxi. 
- <p class="updated_time"> 12:47 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 01:24 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
+ <p class="updated_time"> 12:24 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 12:18 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Here’s What Happened on Day 31 of the War in Ukraine.</a> NYT: The White House tried to clarify President Biden’s comments  in Poland. Mr. Biden was not calling for regime change in Russia, instead he meant that Vladimir V. Putin “cannot be allowed to exercise power over his neighbors.” 
  <p class="updated_time"> 12:02 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
- <p class="updated_time"> 11:47 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
+ <p class="updated_time"> 11:24 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 11:08 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 10:49 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
- <p class="updated_time"> 10:47 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 09:13 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">Biden Condemns Putin, Saying He ‘Cannot Remain In Power’</a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
  <p class="updated_time"> 07:38 PM CT, Mar. 26 </p> 
@@ -81,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html">Mélenchon, a Fiery  Leftist, Has Late Surge in French Election</a> NYT: Jean-Luc Mélenchon, a skilled orator and veteran politician, hopes to become the first left-wing candidate since 2012 to reach the second round of France’s presidential election. 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/asia/china-eastern-death-toll.html">China Eastern Crash Killed All 132 on Flight</a> NYT: Investigators were still looking for wreckage, remains and the second black box in an effort to determine what caused the crash. 
- <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 12:22 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/middleeast/israel-arab-summit.html">What to Know About Israel’s Summit With 4 Arab Countries</a> NYT: Four Arab foreign ministers will meet in Israel’s Negev desert on Sunday, along with their U.S. counterpart. The talks mark a realignment of Middle Eastern powers, accelerated by the war in Ukraine. 
  <p class="updated_time"> 12:05 PM CT, Mar. 26 </p> 
@@ -195,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/spanish-banks-protest-carlos-san-juan-de-laorden.html">Retired Doctor’s Protest Gets Attention of Spanish Banks</a> NYT: A campaign by a 78-year-old retired doctor with Parkinson’s disease against banks closing branches and moving services online resonates with a rapidly aging Spanish population. 
  <p class="updated_time"> 12:30 AM CT, Mar. 25 </p> 
  <a href="https://www.wsj.com/articles/new-taliban-rules-impose-chaperones-on-afghan-women-11648200600">Taliban Rules Impose Chaperones on Afghan Women</a> WSJ: Women in Afghanistan must now be accompanied by a male relative to complete many basic tasks, among a series of new measures they say threaten to squeeze them out of public and professional life. 
- <p class="updated_time"> 07:47 PM CT, Mar. 24 </p> 
- <a href="https://www.nytimes.com/2022/03/24/climate/britain-rainfall-historical-data.html">British Rainfall Records Extended Back to 1836 Thanks to Covid Lockdowns</a> NYT: As Britain went into its first Covid lockdown, a scientist asked for help transcribing rainfall records spanning three centuries. Thousands of people online answered the call. 
  <p class="updated_time"> 05:57 PM CT, Mar. 24 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/africa/ethiopia-tigray-conflict-truce.html">Ethiopia Declares ‘Humanitarian Truce’ in War-Ravaged Tigray Region</a> NYT: The conflict, now lasting 17 months, has left thousands dead, millions displaced and hindered aid from reaching those going hungry in the country’s northern region. 
  <p class="updated_time"> 05:19 PM CT, Mar. 24 </p> 
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html">Chris Wallace Says Life at Fox News Became ‘Unsustainable’</a> NYT: As he starts a new streaming show at CNN, the longtime TV anchor reflects on his decision to leave Fox News after 18 years. 
  <p class="updated_time"> 02:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/us/politics/elise-stefanik.html">Elise Stefanik, Reinvented in Trump’s Image, Embodies a Changed G.O.P.</a> NYT: Once a mainstream Republican from a moderate district, Ms. Stefanik, the party’s No. 3 House leader, has embraced Trumpism and the extremists in her ranks. 
  <p class="updated_time"> 10:31 PM CT, Mar. 26 </p> 
@@ -322,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/03/25/guilty-guilty-guilty-fortenberrys-three-felonies-00020405">Guilty, Guilty, Guilty: Fortenberry’s three felonies</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:17 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/03/25/inside-the-new-politics-of-americas-suburbs-00020394"> Inside the new politics of America’s suburbs</a> Politico Playbook: And a conversation with Antony Blinken’s right-hand man. 
- <p class="updated_time"> 04:00 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/trump-endorsement-primaries.html">How the 2022 Primaries Are Testing Trump’s Role as the G.O.P. ‘Kingpin’</a> NYT: Two of Donald Trump’s most prominent Senate endorsements have already backfired. Now the month of May looms large to measure his pull on the party. 
  <p class="updated_time"> 03:31 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/republican-party-agenda-00020227">House GOP vows 'grand plan,' not obstruction, as it eyes majority</a> Politico: Republicans are hoping a Gingrich-style "Commitment to America" agenda will make sure they don't get caught flat-footed if — perhaps when — they take power. That's not their only challenge, though. 
  <p class="updated_time"> 03:30 AM CT, Mar. 25 </p> 
