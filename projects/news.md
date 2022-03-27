@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:14 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 09:33 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Biden Caps 3 Days of Diplomacy With Rebuke of Putin</a> NYT: The Kremlin condemned President Biden’s comments, and the White House said he was not calling for regime change. Missiles hit the city of Lviv and thousands were still stranded in Mariupol. 
+ <p class="updated_time"> 09:25 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
+ <p class="updated_time"> 09:19 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/world/europe/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: An extravagant conversion is nearly complete on the Old War Office, an Edwardian-era monument to Britain’s imperial past being made into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 09:10 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 08:54 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/edmund-hawley-dead.html">Kip Hawley, Transportation Security Administrator, Dies at 68</a> NYT: He sought to overhaul a much-maligned federal agency by enhancing security procedures, bolstering morale and taking a common-sense approach to the job. 
  <p class="updated_time"> 08:46 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
+ <p class="updated_time"> 08:46 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400">Photos Chronicle Mariupol Devastation</a> WSJ: Photos Chronicle Mariupol Devastation 
  <p class="updated_time"> 08:37 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
- <p class="updated_time"> 08:20 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400">Photos Chronicle Mariupol Devastation</a> WSJ: Photos Chronicle Mariupol Devastation 
  <p class="updated_time"> 08:12 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047808/taiwan-fears-whats-happening-in-ukraine-will-happen-there-with-china">Taiwan fears what's happening in Ukraine will happen there with China</a> NPR: Russia's invasion of Ukraine has raised tensions in Taiwan. People there are worried an emboldened China may use force to remove the island's democratic government. 
  <p class="updated_time"> 08:09 AM CT, Mar. 27 </p> 
@@ -29,36 +33,34 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/27/1089047787/russian-intellectual-aleksandr-dugin-is-also-commonly-known-as-putins-brain">Russian intellectual Aleksandr Dugin is also commonly known as 'Putin's brain'</a> NPR: NPR's Ayesha Rascoe talks with Washington Post columnist David von Drehle about the Russian intellectual known as "Putin's Brain," whose ideology has influenced the invasion of Ukraine. 
  <p class="updated_time"> 07:55 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047780/russia-may-turn-to-destroying-eastern-cities-instead-of-capturing-kyiv">Russia may turn to destroying eastern cities instead of capturing Kyiv</a> NPR: And the city of Dnipro, Ukraine, has become a place where the wounded arrive from the front lines and displaced people come as they flee cities subjected to Russian attacks. 
+ <p class="updated_time"> 07:46 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/putin-stokes-nuclear-fears-with-atomic-weapons-warnings-11648381573">Putin Stokes Nuclear Fears With Atomic Weapons Warnings</a> WSJ: Putin Stokes Nuclear Fears With Atomic Weapons Warnings 
  <p class="updated_time"> 07:32 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047759/some-ukrainians-fled-with-their-pets-others-are-stepping-in-to-care-for-the-rest">Some Ukrainians fled with their pets. Others are stepping in to care for the rest</a> NPR: Wherever you find fleeing civilians in Ukraine, you also find beloved dogs, cats and rabbits in tow. But some pets are being left behind, and people are stepping in to care for them. 
- <p class="updated_time"> 07:20 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/putin-stokes-nuclear-fears-with-atomic-weapons-warnings-11648381573">Putin Stokes Nuclear Fears With Atomic Weapons Warnings</a> WSJ: Putin Stokes Nuclear Fears With Atomic Weapons Warnings 
  <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047717/countries-have-long-agreed-to-ditch-nuclear-weapons-but-now-there-are-new-threat">Countries have long agreed to ditch nuclear weapons, but now there are new threats</a> NPR: In the wake of nuclear threats from North Korea and Russia, NPR's Ayesha Rascoe talks about the future of deterrence with Ankit Panda of the Carnegie Endowment for International Peace. 
  <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047710/what-its-like-for-people-in-kharkiv-one-of-ukraines-worst-hit-cities">What it's like for people in Kharkiv, one of Ukraine's worst hit cities</a> NPR: In Kharkiv, Ukraine, people are trying to help each other amid attacks from Russia's military. NPR's Ayesha Rascoe speaks to resident Oleksandr Honcharov. 
+ <p class="updated_time"> 06:46 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 06:29 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
- <p class="updated_time"> 06:20 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 05:59 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 05:20 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 05:46 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084">Pakistan’s Imran Khan Tries to Pull Off a Come-From-Behind Victory</a> WSJ: Pakistan’s Imran Khan Tries to Pull Off a Come-From-Behind Victory 
+ <p class="updated_time"> 05:29 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia's Military Strategy</a> WSJ: Ukrainian forces said they have driven Russian troops out of a town in the northeast, as Kyiv seeks to take advantage of a decision by Moscow to focus its efforts on controlling a swath of territory in the south and east. 
  <p class="updated_time"> 05:17 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60891803?at_medium=RSS&at_campaign=KARANGA">Ukraine: No Russia regime change plans, says Blinken</a> BBC: The US secretary of state spoke after President Biden said Vladimir Putin should not remain in power. 
- <p class="updated_time"> 05:11 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia's Military Strategy</a> WSJ: Ukrainian forces said they have driven Russian troops out of a town in the northeast, as Kyiv seeks to take advantage of a decision by Moscow to focus its efforts on controlling a swath of territory in the south and east. 
  <p class="updated_time"> 05:00 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin">El Salvador's leader wants to go in even bigger on bitcoin</a> NPR: After making the cryptocurrency legal tender, President Nayib Bukele plans to launch bitcoin-backed bonds to raise $1 billion for the country. 
- <p class="updated_time"> 04:20 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 04:46 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air Safety Officials 
- <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/27/world/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: A billionaire property developer is close to completing an extravagant conversion of the Old War Office, an Edwardian-era monument to Britain’s imperial past, into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 03:53 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
- <p class="updated_time"> 03:41 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
+ <p class="updated_time"> 03:49 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/the-crowdsourcing-effort-to-getbody-armor-drones-and-helmetsto-ukraine-11648385356">The Crowdsourcing Effort to GetBody Armor, Drones and Helmetsto Ukraine</a> WSJ: A grass-roots effort in Ukraine, funded by donations from around the world, is quickly responding to the country’s military’s needs, from pickup trucks to thermal-vision scopes. 
  <p class="updated_time"> 02:07 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
  <p class="updated_time"> 01:47 AM CT, Mar. 27 </p> 
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:34 AM CT, Mar. 27 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:56 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/regime-change-putin-russia-smith-00020689">U.S. ambassador to NATO: No policy of 'regime change' in Russia</a> Politico: But Julianne Smith said Vladimir Putin "cannot be empowered to wage war." 
  <p class="updated_time"> 08:45 AM CT, Mar. 27 </p> 
@@ -240,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/us/politics/biden-billionaires-minimum-tax.html">Biden to Include Minimum Tax on Billionaires in Budget Proposal</a> NYT: The tax would require that American households worth more than $100 million pay a rate of at least 20 percent on their income as well as unrealized gains in the value of liquid assets like stocks. 
  <p class="updated_time"> 09:40 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/9-11-case-negotiations-guantanamo.html">Plea Negotiations in Sept. 11 Case Go on Hiatus for Ramadan</a> NYT: Hearings in the death penalty case are scheduled for May but could be postponed because one defendant needs a new lawyer. 
- <p class="updated_time"> 08:59 PM CT, Mar. 26 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:45 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/jeff-fortenberry-resigns.html">Nebraska Congressman to Resign After Being Found Guilty of Lying to F.B.I.</a> NYT: Representative Jeff Fortenberry announced he would leave his seat at the end of the month, just days after he was convicted on charges of lying to investigators about an illegal campaign donation. 
  <p class="updated_time"> 08:00 PM CT, Mar. 26 </p> 
