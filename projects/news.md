@@ -9,39 +9,55 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:58 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 06:31 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Regroup, Focusing Efforts on Strategic Targets</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing fully on seizing Mariupol. Officials warned that Russia may try to divide Ukraine by consolidating territory in the east and south. 
+ <p class="updated_time"> 06:31 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-media-zelensky.html">Zelensky Gives Interview to Russian Journalists. Moscow Orders It Quashed.</a> NYT: The remarkable interview was still published by journalists outside of Russia, an episode that laid bare the extraordinary, and partly successful, efforts at censorship by Moscow. 
+ <p class="updated_time"> 06:26 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60608282?at_medium=RSS&at_campaign=KARANGA">Russian oligarchs: Where do they hide their 'dark money'?</a> BBC: Russians have an estimated $1tn hidden around the world and countries are trying to find it. 
+ <p class="updated_time"> 06:20 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60886147?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Anti-war Russians intimidated on their doorsteps</a> BBC: The doors of Russian journalists and activists who speak out against the war are being vandalised. 
+ <p class="updated_time"> 06:17 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/middleeast/israel-arab-summit.html">What to Know About Israel’s Summit With 4 Arab Countries</a> NYT: Four Arab foreign ministers will meet in Israel’s Negev desert on Sunday, along with their U.S. counterpart. The talks mark a realignment of Middle Eastern powers, accelerated by the war in Ukraine. 
+ <p class="updated_time"> 06:15 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60891846?at_medium=RSS&at_campaign=KARANGA">Ukraine: Premature babies struggling for life in bombed cities</a> BBC: Doctors have begun seeing a sharp rise in the number of preterm births in some areas of Ukraine. 
+ <p class="updated_time"> 06:12 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60860197?at_medium=RSS&at_campaign=KARANGA">In Chernihiv, civilians are trapped as hospitals and schools attacked</a> BBC: Residents and officials in Chernihiv say Russian forces are deliberately targeting civilian sites. 
+ <p class="updated_time"> 06:08 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60857437?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Medical students back in India left in the lurch</a> BBC: Students face an uncertain future as completing their medical degree remains a challenge. 
+ <p class="updated_time"> 06:00 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60870739?at_medium=RSS&at_campaign=KARANGA">Beatings and forced abortions: Life in a North Korea prison</a> BBC: A new investigation sheds more light on human rights violations in North Korean prisons. 
  <p class="updated_time"> 05:58 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-ukraine-war-combat.html">As Ukraine War Moves Into 2nd Month, Fears Grow of Mariupol’s Fall to Russia</a> NYT: Ukraine’s top military intelligence officer suggested that Russia was changing its military focus to the south and east and might be trying to divide the country. 
+ <p class="updated_time"> 05:32 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 05:30 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president is looking for support from Hollywood. But his appeal to speak during the Oscars has encountered drama of its own. 
  <p class="updated_time"> 05:13 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/lviv-ukraine-russia-missile-strikes.html">In Lviv, New Russian Strikes Pierce the Sense of Security in West</a> NYT: Residents in the western city of Lviv once ignored the air raid sirens. But Russian rocket attacks over the weekend have brought the war closer to their doorstep. 
- <p class="updated_time"> 05:11 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 04:50 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60894142?at_medium=RSS&at_campaign=KARANGA">Russia transfers thousands of Mariupol civilians to its territory</a> BBC: Ukraine condemns Russia's alleged "deportation" of many civilians from devastated Mariupol. 
  <p class="updated_time"> 04:33 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel attack: Two shot dead in Hadera</a> BBC: Six other people were injured in the attack by two gunmen in the city of Hadera. 
+ <p class="updated_time"> 04:32 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden Comes Under Fire for Comment on Russia’s Putin</a> WSJ: Biden Comes Under Fire for Comment on Russia’s Putin 
  <p class="updated_time"> 04:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
- <p class="updated_time"> 04:11 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden Comes Under Fire for Comment on Russia’s Putin</a> WSJ: Biden Comes Under Fire for Comment on Russia’s Putin 
  <p class="updated_time"> 03:56 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60893650?at_medium=RSS&at_campaign=KARANGA">Army boss raises partition fears: Ukraine round-up</a> BBC: Ukraine's military intelligence chief fears a Korea-style outcome as Biden's jab at Putin makes further waves. 
- <p class="updated_time"> 03:11 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 03:32 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 02:53 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60893054?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban bars BBC TV programmes from schedules</a> BBC: Radio and online are unaffected as the regime stops local TV showing international partner content. 
  <p class="updated_time"> 02:48 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
- <p class="updated_time"> 02:11 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 02:32 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 02:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
  <p class="updated_time"> 01:40 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
- <p class="updated_time"> 01:11 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 01:32 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/biden-putin-speech-reaction.html">American Officials Try to Walk Back Biden’s Comments on Putin</a> NYT: Senior officials, including Secretary of State Antony J. Blinken, and top lawmakers stressed that the United States was not seeking regime change in Russia. 
@@ -105,14 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60890202?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Drugs found in body of late Foo Fighters drummer</a> BBC: Colombian investigators examining the death of Taylor Hawkins are yet to establish a cause. 
  <p class="updated_time"> 09:13 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">What Did Biden Say About Russia? </a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
- <p class="updated_time"> 07:38 PM CT, Mar. 26 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60879025?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Chernobyl’s vodka producer remains defiant</a> BBC: A company that produces Chernobyl’s ‘Atomik vodka’ releases new products, donating profits to Ukraine's refugees. 
- <p class="updated_time"> 07:36 PM CT, Mar. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60829319?at_medium=RSS&at_campaign=KARANGA">The Palestinian cancer centre that can't take patients</a> BBC: Palestinians with the disease are being turned away from hospital lacking the funds to treat them. 
- <p class="updated_time"> 07:34 PM CT, Mar. 26 </p> 
- <a href="https://www.bbc.co.uk/news/59882774?at_medium=RSS&at_campaign=KARANGA">China: How is its zero-Covid strategy changing?</a> BBC: Its worst spike in cases since the start of the pandemic has prompted a policy rethink. 
- <p class="updated_time"> 07:31 PM CT, Mar. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60615480?at_medium=RSS&at_campaign=KARANGA">When K-pop met India: The Indian artists collaborating with Korean stars</a> BBC: India’s influence in K-pop is steadily growing, thanks to dedicated artists and the internet. 
  <p class="updated_time"> 07:23 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60864113?at_medium=RSS&at_campaign=KARANGA">Baby goats and gardens to help with hospital stress</a> BBC: How cuddling a goat in a garden helps US medical staff and patients. 
  <p class="updated_time"> 07:01 PM CT, Mar. 26 </p> 
@@ -121,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60866212?at_medium=RSS&at_campaign=KARANGA">SS Central America: Haunting photos recovered the 'ship of gold' wreck on ocean floor</a> BBC: Passenger photos recovered from an infamous wreck have finally been published. 
  <p class="updated_time"> 05:57 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60889260?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier's daughter on his Oscars legacy</a> BBC: Sidney Poitier's daughter discusses the late Oscar winner's influence on civil rights and cinema. 
- <p class="updated_time"> 05:28 PM CT, Mar. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60867754?at_medium=RSS&at_campaign=KARANGA">Malmo stabbing prompts soul-searching in Sweden</a> BBC: A string of violent attacks in Sweden's schools has a country not used to such tragedies looking for answers. 
  <p class="updated_time"> 03:50 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-putin-butcher-poland-refugees.html">Biden Calls Putin a Butcher After Meeting With Ukraine Refugees</a> NYT: His comment came as he visited a stadium in Warsaw where the Polish authorities are assisting the waves of people who are fleeing Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Mar. 26 </p> 
@@ -137,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html">Mélenchon, a Fiery  Leftist, Has Late Surge in French Election</a> NYT: Jean-Luc Mélenchon, a skilled orator and veteran politician, hopes to become the first left-wing candidate since 2012 to reach the second round of France’s presidential election. 
  <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/asia/china-eastern-death-toll.html">China Eastern Crash Killed All 132 on Flight</a> NYT: Investigators were still looking for wreckage, remains and the second black box in an effort to determine what caused the crash. 
- <p class="updated_time"> 12:22 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/middleeast/israel-arab-summit.html">What to Know About Israel’s Summit With 4 Arab Countries</a> NYT: Four Arab foreign ministers will meet in Israel’s Negev desert on Sunday, along with their U.S. counterpart. The talks mark a realignment of Middle Eastern powers, accelerated by the war in Ukraine. 
  <p class="updated_time"> 12:05 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-60879945?at_medium=RSS&at_campaign=KARANGA">Ukraine defence: Red lights and painted arrows fuel fear of Russian agents</a> BBC: Fear of Russian saboteurs operating in Ukraine has soared, but is it based on intelligence and arrests? 
  <p class="updated_time"> 11:40 AM CT, Mar. 26 </p> 
@@ -202,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:28 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/us/politics/biden-ukraine.html">After Biden’s Fiery Speech, Nine Unscripted Words Reverberate</a> NYT: Administration officials were forced to walk back the ad-lib that Russian President Vladimir V. Putin “cannot remain in power,” which captured the attention of foreign policy experts, lawmakers and allies. 
  <p class="updated_time"> 01:40 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
  <p class="updated_time"> 01:25 PM CT, Mar. 27 </p> 
@@ -242,6 +248,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/27/bidens-cyber-warnings-00020638">The hard truth behind Biden’s cyber warnings</a> Politico: Hackers from Russia and elsewhere have repeatedly breached companies and agencies critical to the nation's welfare. "We should consider every sector vulnerable,” one of the president's top cyber aides says. 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/pressure-builds-on-white-house-to-end-divisive-health-border-policy-00020553">Pressure builds on White House to end divisive health-border policy</a> Politico: A Trump-era rule blocks migrants to prevent the threat of Covid-19. 
+ <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/democrats-bail-reform-partys-progressive-moderate-00020455">Democrats’ fight over bail reform might be a fight for the party’s direction</a> Politico: The debate has become a growing symbol of rifts among progressive and moderate Democrats. 
  <p class="updated_time"> 10:31 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/biden-billionaires-minimum-tax.html">Biden to Include Minimum Tax on Billionaires in Budget Proposal</a> NYT: The tax would require that American households worth more than $100 million pay a rate of at least 20 percent on their income as well as unrealized gains in the value of liquid assets like stocks. 
  <p class="updated_time"> 09:40 PM CT, Mar. 26 </p> 
@@ -308,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/us/politics/justice-clarence-thomas-hospital-discharged.html">Justice Clarence Thomas Discharged From Hospital, Court Says</a> NYT: The Supreme Court justice, 73, had been hospitalized for a week with flulike symptoms. 
  <p class="updated_time"> 01:21 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/economy/federal-reserve-inflation-recession.html">The Fed Bets on a ‘Soft Landing,’ but Recession Risk Looms</a> NYT: Central bankers have been clear that they will do what it takes to control inflation. They are betting on a soft landing, but a bumpy one is possible. 
- <p class="updated_time"> 01:08 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html">U.S. and European Leaders Reach Deal on Trans-Atlantic Data Privacy</a> NYT: President Biden said the agreement included “unprecedented protections.” 
  <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/mccarthy-fortenberry-resign-00020488">McCarthy nudges convicted Rep. Fortenberry to resign</a> Politico: The House GOP leader spoke hours after the Nebraska Republican was convicted of three felonies related to campaign donations from a foreign national. 
  <p class="updated_time"> 08:24 AM CT, Mar. 25 </p> 
