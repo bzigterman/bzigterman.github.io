@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:35 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 11:47 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Biden Caps 3 Days of Diplomacy With Rebuke of Putin</a> NYT: The Kremlin condemned President Biden’s comments, and the White House said he was not calling for regime change. Missiles hit the city of Lviv and thousands were still stranded in Mariupol. 
+ <p class="updated_time"> 11:46 AM CT, Mar. 27 </p> 
+ <a href="https://www.npr.org/2022/03/27/1089062365/china-eastern-crash-black-box-found">Rescue workers have found the second black box from the China Eastern crash</a> NPR: The discovery of the flight data recorder is raising hopes that it might shed light on why the passenger plane nosedived into a remote mountainous area, killing all 132 on board. 
  <p class="updated_time"> 11:35 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 11:30 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/shanghai-staggered-lockdown.html">Shanghai Imposes Staggered Lockdown, District by District</a> NYT: Unlike other Chinese cities, Shanghai had never before imposed a full-scale citywide lockdown, but the current measure comes close. 
  <p class="updated_time"> 11:28 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/eric-zemmour-france.html">Éric Zemmour Vows to Fight for Identity and Prosperity</a> NYT: Éric Zemmour, a far-right pundit, tried to revive his flagging campaign Sunday in a place that is familiar to hopefuls of his ilk. 
- <p class="updated_time"> 10:39 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 10:59 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 10:35 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1088683957/what-is-nato-ukraine-russia-putin">NATO, explained: Why the alliance was formed — and what it's doing for Ukraine </a> NPR: Russia's attack on Ukraine has put a focus on the North Atlantic alliance. Here's what you need to know about NATO. 
@@ -27,30 +29,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/arts/music/putin-tchaikovsky-onegin-met-opera.html">Putin Says Tchaikovsky Is Being Canceled. The Met Opera Disagrees.</a> NYT: The company’s revival of “Eugene Onegin” gives the lie to the Russian president’s claim that his country’s composers are suffering in the West. 
  <p class="updated_time"> 10:17 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
+ <p class="updated_time"> 09:59 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 09:44 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
- <p class="updated_time"> 09:39 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 09:19 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: An extravagant conversion is nearly complete on the Old War Office, an Edwardian-era monument to Britain’s imperial past being made into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 09:10 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
+ <p class="updated_time"> 08:59 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400">Photos Chronicle Mariupol Devastation</a> WSJ: Photos Chronicle Mariupol Devastation 
  <p class="updated_time"> 08:54 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/edmund-hawley-dead.html">Kip Hawley, Transportation Security Administrator, Dies at 68</a> NYT: He sought to overhaul a much-maligned federal agency by enhancing security procedures, bolstering morale and taking a common-sense approach to the job. 
  <p class="updated_time"> 08:46 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
- <p class="updated_time"> 08:39 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400">Photos Chronicle Mariupol Devastation</a> WSJ: Photos Chronicle Mariupol Devastation 
  <p class="updated_time"> 08:37 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
  <p class="updated_time"> 08:12 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047808/taiwan-fears-whats-happening-in-ukraine-will-happen-there-with-china">Taiwan fears what's happening in Ukraine will happen there with China</a> NPR: Russia's invasion of Ukraine has raised tensions in Taiwan. People there are worried an emboldened China may use force to remove the island's democratic government. 
+ <p class="updated_time"> 07:59 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/putin-stokes-nuclear-fears-with-atomic-weapons-warnings-11648381573">Putin Stokes Nuclear Fears With Atomic Weapons Warnings</a> WSJ: Putin Stokes Nuclear Fears With Atomic Weapons Warnings 
  <p class="updated_time"> 07:58 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047787/russian-intellectual-aleksandr-dugin-is-also-commonly-known-as-putins-brain">Russian intellectual Aleksandr Dugin is also commonly known as 'Putin's brain'</a> NPR: NPR's Ayesha Rascoe talks with Washington Post columnist David von Drehle about the Russian intellectual known as "Putin's Brain," whose ideology has influenced the invasion of Ukraine. 
  <p class="updated_time"> 07:55 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047780/russia-may-turn-to-destroying-eastern-cities-instead-of-capturing-kyiv">Russia may turn to destroying eastern cities instead of capturing Kyiv</a> NPR: And the city of Dnipro, Ukraine, has become a place where the wounded arrive from the front lines and displaced people come as they flee cities subjected to Russian attacks. 
- <p class="updated_time"> 07:39 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/putin-stokes-nuclear-fears-with-atomic-weapons-warnings-11648381573">Putin Stokes Nuclear Fears With Atomic Weapons Warnings</a> WSJ: Putin Stokes Nuclear Fears With Atomic Weapons Warnings 
  <p class="updated_time"> 07:32 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047759/some-ukrainians-fled-with-their-pets-others-are-stepping-in-to-care-for-the-rest">Some Ukrainians fled with their pets. Others are stepping in to care for the rest</a> NPR: Wherever you find fleeing civilians in Ukraine, you also find beloved dogs, cats and rabbits in tow. But some pets are being left behind, and people are stepping in to care for them. 
  <p class="updated_time"> 07:07 AM CT, Mar. 27 </p> 
@@ -59,7 +61,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/27/1089047717/countries-have-long-agreed-to-ditch-nuclear-weapons-but-now-there-are-new-threat">Countries have long agreed to ditch nuclear weapons, but now there are new threats</a> NPR: In the wake of nuclear threats from North Korea and Russia, NPR's Ayesha Rascoe talks about the future of deterrence with Ankit Panda of the Carnegie Endowment for International Peace. 
  <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047710/what-its-like-for-people-in-kharkiv-one-of-ukraines-worst-hit-cities">What it's like for people in Kharkiv, one of Ukraine's worst hit cities</a> NPR: In Kharkiv, Ukraine, people are trying to help each other amid attacks from Russia's military. NPR's Ayesha Rascoe speaks to resident Oleksandr Honcharov. 
- <p class="updated_time"> 06:39 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 06:59 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air Safety Officials 
  <p class="updated_time"> 06:29 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
@@ -137,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/26/1088991064/president-biden-visits-poland-in-diplomatic-trip-to-europe">President Biden visits Poland in diplomatic trip to Europe</a> NPR: President Biden is visiting Poland, next door to Ukraine. He gave a speech to U.S. troops stationed there to raise morale and also met with Polish President Andrzej Duda. 
  <p class="updated_time"> 07:37 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088991057/chinas-economy-slows-after-hits-from-ukraine-war-covid-lockdowns-and-local-polic">China's economy slows after hits from Ukraine war, COVID lockdowns and local policies</a> NPR: China's once red-hot economy is slowing down. Analysts say it's due to successive coronavirus lockdowns, Russia's invasion of Ukraine and restrictive business policies. 
- <p class="updated_time"> 07:29 AM CT, Mar. 26 </p> 
- <a href="https://www.npr.org/2022/03/26/1088991050/a-resident-of-mariupol-tells-her-story-after-fleeing-the-citys-horrific-destruct">A resident of Mariupol tells her story after fleeing the city's horrific destruction</a> NPR: NPR's Debbie Elliott speaks with Alina Beskrovna, a native of the Ukrainian city of Mariupol. She was trapped there for weeks as Russian forces laid siege. 
  <p class="updated_time"> 07:16 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/zelensky-qatar-energy-europe.html">Zelensky Urges Energy Producers to Increase Exports to Europe</a> NYT: “The future of Europe rests with your efforts,” Ukraine’s leader said in a plea to help the continent wean itself off Russian fossil fuels. 
  <p class="updated_time"> 05:00 AM CT, Mar. 26 </p> 
@@ -212,6 +212,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:41 AM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/amy-klobuchar-clarence-thomas-recusal-00020708">Thomas should recuse himself from election cases, Klobuchar says</a> Politico: It was revealed last week that his wife Ginni discussed ways to overturn the 2020 election with White House chief of staff Mark Meadows over text. 
+ <p class="updated_time"> 11:35 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 10:49 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/senate-confirmation-hearing-booker-jackson-00020704">Senate confirmation hearing 'outrageous and beyond the pale,' Booker says</a> Politico: The New Jersey Democrat said "the legitimacy of the Court" has been damaged by confirmation hearing tactics. 
  <p class="updated_time"> 10:35 AM CT, Mar. 27 </p> 
@@ -230,8 +234,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/27/1088206020/in-ohios-gop-senate-race-there-are-trump-wannabees-but-no-trump-endorsement">In Ohio's GOP Senate race, there are Trump wannabees — but no Trump endorsement</a> NPR: The lack of a Trump endorsement hasn't stopped individual Republican candidates from selling themselves to voters as the most Trump-like in the primary. 
  <p class="updated_time"> 08:28 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html">Chris Wallace Says Life at Fox News Became ‘Unsustainable’</a> NYT: As he starts a new streaming show at CNN, the longtime TV anchor reflects on his decision to leave Fox News after 18 years. 
- <p class="updated_time"> 08:09 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 07:45 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047766/politics-chat-biden-back-from-europe-justice-thomas-scrutinized-judge-jackson-vo">Politics chat: Biden back from Europe; Justice Thomas scrutinized; Judge Jackson vote</a> NPR: President Biden's diplomatic efforts with allies continue to put pressure on Russia; Supreme Court Justice Clarence Thomas under scrutiny; what's next for Judge Ketanji Brown Jackson. 
  <p class="updated_time"> 07:28 AM CT, Mar. 27 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/maryland-court-congressional-map-illegal-democratic-gerrymander-00020518">Maryland court strikes down congressional map as illegal Democratic gerrymander</a> Politico: The decision is likely set for appeal in Maryland's high court. 
  <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/mccarthy-fortenberry-resign-00020488">McCarthy nudges convicted Rep. Fortenberry to resign</a> Politico: The House GOP leader spoke hours after the Nebraska Republican was convicted of three felonies related to campaign donations from a foreign national. 
- <p class="updated_time"> 08:24 AM CT, Mar. 25 </p> 
- <a href="https://www.politico.com/news/2022/03/25/white-house-food-companies-russia-00020293">‘Too big to fail’: White House careful not to target food companies as it pressures Putin</a> Politico: U.S.-based Cargill and other large agribusinesses are still operating in Russia, arguing they are essential to the global food supply. The Biden administration isn’t trying to stop them. 
  <p class="updated_time"> 06:18 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/25/guilty-guilty-guilty-fortenberrys-three-felonies-00020405">Guilty, Guilty, Guilty: Fortenberry’s three felonies</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:17 AM CT, Mar. 25 </p> 
