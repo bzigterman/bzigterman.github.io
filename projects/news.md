@@ -9,40 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:29 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 07:09 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Biden Caps 3 Days of Diplomacy With Rebuke of Putin</a> NYT: The Kremlin condemned President Biden’s comments, and the White House said he was not calling for regime change. Missiles hit the city of Lviv and thousands were still stranded in Mariupol. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
+ <a href="https://www.npr.org/2022/03/27/1089047717/countries-have-long-agreed-to-ditch-nuclear-weapons-but-now-there-are-new-threat">Countries have long agreed to ditch nuclear weapons, but now there are new threats</a> NPR: In the wake of nuclear threats from North Korea and Russia, NPR's Ayesha Rascoe talks about the future of deterrence with Ankit Panda of the Carnegie Endowment for International Peace. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
+ <a href="https://www.npr.org/2022/03/27/1089047710/what-its-like-for-people-in-kharkiv-one-of-ukraines-worst-hit-cities">What it's like for people in Kharkiv, one of Ukraine's worst hit cities</a> NPR: In Kharkiv, Ukraine, people are trying to help each other amid attacks from Russia's military. NPR's Ayesha Rascoe speaks to resident Oleksandr Honcharov. 
  <p class="updated_time"> 06:29 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
+ <p class="updated_time"> 06:17 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 05:59 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 05:53 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 05:30 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 05:17 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60891803?at_medium=RSS&at_campaign=KARANGA">Ukraine: No Russia regime change plans, says Blinken</a> BBC: The US secretary of state spoke after President Biden said Vladimir Putin should not remain in power. 
+ <p class="updated_time"> 05:17 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 05:09 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 05:00 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin">El Salvador's leader wants to go in even bigger on bitcoin</a> NPR: After making the cryptocurrency legal tender, President Nayib Bukele plans to launch bitcoin-backed bonds to raise $1 billion for the country. 
- <p class="updated_time"> 04:53 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
+ <p class="updated_time"> 04:17 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: A billionaire property developer is close to completing an extravagant conversion of the Old War Office, an Edwardian-era monument to Britain’s imperial past, into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
  <p class="updated_time"> 03:53 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
- <p class="updated_time"> 03:53 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 03:41 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
- <p class="updated_time"> 02:53 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 03:17 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
+ <p class="updated_time"> 02:17 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 02:07 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
- <p class="updated_time"> 01:53 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 01:47 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60890202?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Drugs found in body of late Foo Fighters drummer</a> BBC: Colombian investigators examining the death of Taylor Hawkins are yet to establish a cause. 
  <p class="updated_time"> 01:46 AM CT, Mar. 27 </p> 
@@ -165,10 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html">Dagny Carlsson, Centenarian Blogger, Dies at 109</a> NYT: She began posting about her daily life in Sweden at the age of 99. She went on to acquire a worldwide fan base. 
  <p class="updated_time"> 05:02 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/energy-environment/biden-eu-liquefied-natural-gas-deal-russia.html">Europe and the U.S. Make Ambitious Plans to Reduce Reliance on Russian Gas</a> NYT: President Biden said the United States would send more natural gas to Europe, though he did not specify how given that the U.S. is already near its export capacity. 
- <p class="updated_time"> 04:18 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:57 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088879152/alcohol-bans-in-ukraine-have-led-to-a-whisper-network-among-those-seeking-a-drin">Alcohol bans in Ukraine have led to a whisper network among those seeking a drink</a> NPR: Some local Ukrainian officials banned alcohol sales amid the war, which has made it difficult for some people trying to relax. But there are still ways to find open bars. 
  <p class="updated_time"> 03:18 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60882156?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Change of emphasis or admission of failure by Moscow?</a> BBC: Moscow now says the main aim is to "liberate" eastern Ukraine - a change of emphasis or more? 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
@@ -214,6 +214,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
+ <a href="https://www.npr.org/2022/03/27/1089047738/to-help-everyone-help-the-most-marginalized-first-says-new-congressional-report">To help everyone, help the most marginalized first, says new congressional report</a> NPR: NPR's Ayesha Rascoe talks with Rep. Bonnie Watson Coleman about "Black Women Best," an economic framework challenging leaders to enact reform centered on improving the lives of Black women. 
+ <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
+ <a href="https://www.npr.org/2022/03/27/1089047724/biden-allegedly-went-off-script-to-denounce-putin-in-poland-speech">Biden allegedly went off script to denounce Putin in Poland speech</a> NPR: President Biden is back in the White House after a whirlwind trip aimed at keeping allies arm-in-arm in their support for Ukraine and sending a message to Russia over its brutal invasion. 
+ <p class="updated_time"> 06:56 AM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/antony-blinken-putin-russia-00020686">U.S. not trying to topple Putin, Blinken says</a> Politico: "It’s up to the Russian people,” he said. 
  <p class="updated_time"> 06:41 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/pope-francis-ukraine-russia-00020684">Pope steps up pleas for talks to end fighting</a> Politico: He lamented that “the powerful decide and the poor die.” 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
@@ -310,14 +316,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/bidens-summit-with-southeast-asian-leaders-postponed-00020543">Biden’s summit with Southeast Asian leaders postponed</a> Politico: The month-long conflict in Eastern Europe has injected a new urgency into U.S. efforts to reinvigorate old alliances and cultivate new ones, including in the Asia-Pacific. 
  <p class="updated_time"> 02:14 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/justice-clarence-thomas-hospital-discharged.html">Justice Clarence Thomas Discharged From Hospital, Court Says</a> NYT: The Supreme Court justice, 73, had been hospitalized for a week with flulike symptoms. 
- <p class="updated_time"> 01:37 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088735156/law-students-praise-ketanji-brown-jacksons-poise-at-the-senate-hearings">Law students praise Ketanji Brown Jackson's poise at the Senate hearings</a> NPR: Ketanji Brown Jackson's posture at the U.S. Senate hearings drew praise from Black law students. 
  <p class="updated_time"> 01:21 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/economy/federal-reserve-inflation-recession.html">The Fed Bets on a ‘Soft Landing,’ but Recession Risk Looms</a> NYT: Central bankers have been clear that they will do what it takes to control inflation. They are betting on a soft landing, but a bumpy one is possible. 
  <p class="updated_time"> 01:08 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/us-europe-data-privacy.html">U.S. and European Leaders Reach Deal on Trans-Atlantic Data Privacy</a> NYT: President Biden said the agreement included “unprecedented protections.” 
- <p class="updated_time"> 12:33 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088757756/how-madeleine-albright-made-womens-issues-central-to-foreign-policy">How Madeleine Albright made women's issues central to foreign policy</a> NPR: When Madeleine Albright became secretary of state in 1997, she was the first woman to do so. She used her career to advance women's issues and served as a role model for many generations. 
  <p class="updated_time"> 12:31 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/maryland-court-congressional-map-illegal-democratic-gerrymander-00020518">Maryland court strikes down congressional map as illegal Democratic gerrymander</a> Politico: The decision is likely set for appeal in Maryland's high court. 
  <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
