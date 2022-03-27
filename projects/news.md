@@ -9,13 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:55 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 01:30 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Pull Back After Struggling to Take Ukraine’s Capital</a> NYT: Ukraine’s military said Russian troops were regrouping in the north, though they continued to shell towns around Kyiv and have encircled the city of Chernihiv, stranding thousands of civilians. 
+ <p class="updated_time"> 01:26 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
  <p class="updated_time"> 12:48 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60894142?at_medium=RSS&at_campaign=KARANGA">Russia transfers thousands of Mariupol civilians to its territory</a> BBC: Ukraine condemns Russia's alleged "deportation" of many civilians from devastated Mariupol. 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/biden-putin-speech-reaction.html">American Officials Try to Walk Back Biden’s Comments on Putin</a> NYT: Senior officials, including Secretary of State Antony J. Blinken, and top lawmakers stressed that the United States was not seeking regime change in Russia. 
- <p class="updated_time"> 12:05 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 12:31 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 11:46 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089062365/china-eastern-crash-black-box-found">Rescue workers have found the second black box from the China Eastern crash</a> NPR: The discovery of the flight data recorder is raising hopes that it might shed light on why the passenger plane nosedived into a remote mountainous area, killing all 132 on board. 
@@ -23,42 +25,40 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60895392?at_medium=RSS&at_campaign=KARANGA">Why Biden's off-script remarks about Putin are so dangerous</a> BBC: The US President has made a series of unscripted remarks this week, souring US-Russia relations. 
  <p class="updated_time"> 11:35 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
+ <p class="updated_time"> 11:31 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin</a> WSJ: U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin 
  <p class="updated_time"> 11:30 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/shanghai-staggered-lockdown.html">Shanghai Imposes Staggered Lockdown, District by District</a> NYT: Unlike other Chinese cities, Shanghai had never before imposed a full-scale citywide lockdown, but the current measure comes close. 
  <p class="updated_time"> 11:28 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/eric-zemmour-france.html">Éric Zemmour Vows to Fight for Identity and Prosperity</a> NYT: Éric Zemmour, a far-right pundit, tried to revive his flagging campaign Sunday in a place that is familiar to hopefuls of his ilk. 
  <p class="updated_time"> 11:16 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60893070?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid: China announces largest city-wide lockdown</a> BBC: The financial hub will be locked down in two phases, in China's biggest city-wide lockdown yet. 
- <p class="updated_time"> 11:05 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin</a> WSJ: U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin 
  <p class="updated_time"> 10:35 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1088683957/what-is-nato-ukraine-russia-putin">NATO, explained: Why the alliance was formed — and what it's doing for Ukraine </a> NPR: Russia's attack on Ukraine has put a focus on the North Atlantic alliance. Here's what you need to know about NATO. 
  <p class="updated_time"> 10:32 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
+ <p class="updated_time"> 10:31 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 10:25 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/arts/music/putin-tchaikovsky-onegin-met-opera.html">Putin Says Tchaikovsky Is Being Canceled. The Met Opera Disagrees.</a> NYT: The company’s revival of “Eugene Onegin” gives the lie to the Russian president’s claim that his country’s composers are suffering in the West. 
  <p class="updated_time"> 10:17 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
- <p class="updated_time"> 10:05 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
- <p class="updated_time"> 09:44 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
+ <p class="updated_time"> 09:31 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 09:19 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: An extravagant conversion is nearly complete on the Old War Office, an Edwardian-era monument to Britain’s imperial past being made into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 09:10 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
- <p class="updated_time"> 09:05 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 08:54 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/edmund-hawley-dead.html">Kip Hawley, Transportation Security Administrator, Dies at 68</a> NYT: He sought to overhaul a much-maligned federal agency by enhancing security procedures, bolstering morale and taking a common-sense approach to the job. 
  <p class="updated_time"> 08:46 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
  <p class="updated_time"> 08:37 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
+ <p class="updated_time"> 08:31 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 08:12 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047808/taiwan-fears-whats-happening-in-ukraine-will-happen-there-with-china">Taiwan fears what's happening in Ukraine will happen there with China</a> NPR: Russia's invasion of Ukraine has raised tensions in Taiwan. People there are worried an emboldened China may use force to remove the island's democratic government. 
- <p class="updated_time"> 08:05 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 07:58 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047787/russian-intellectual-aleksandr-dugin-is-also-commonly-known-as-putins-brain">Russian intellectual Aleksandr Dugin is also commonly known as 'Putin's brain'</a> NPR: NPR's Ayesha Rascoe talks with Washington Post columnist David von Drehle about the Russian intellectual known as "Putin's Brain," whose ideology has influenced the invasion of Ukraine. 
  <p class="updated_time"> 07:55 AM CT, Mar. 27 </p> 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:25 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/us/politics/elise-stefanik.html">Elise Stefanik, Reinvented in Trump’s Image, Embodies a Changed G.O.P.</a> NYT: Once a mainstream Republican from a moderate district, Ms. Stefanik, the party’s No. 3 House leader, has embraced Trumpism and the extremists in her ranks. 
  <p class="updated_time"> 11:41 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/amy-klobuchar-clarence-thomas-recusal-00020708">Thomas should recuse himself from election cases, Klobuchar says</a> Politico: It was revealed last week that his wife Ginni discussed ways to overturn the 2020 election with White House chief of staff Mark Meadows over text. 
  <p class="updated_time"> 11:35 AM CT, Mar. 27 </p> 
@@ -248,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/27/pressure-builds-on-white-house-to-end-divisive-health-border-policy-00020553">Pressure builds on White House to end divisive health-border policy</a> Politico: A Trump-era rule blocks migrants to prevent the threat of Covid-19. 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/democrats-bail-reform-partys-progressive-moderate-00020455">Democrats’ fight over bail reform might be a fight for the party’s direction</a> Politico: The debate has become a growing symbol of rifts among progressive and moderate Democrats. 
- <p class="updated_time"> 02:00 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/27/us/politics/elise-stefanik.html">Elise Stefanik, Reinvented in Trump’s Image, Embodies a Changed G.O.P.</a> NYT: Once a mainstream Republican from a moderate district, Ms. Stefanik, the party’s No. 3 House leader, has embraced Trumpism and the extremists in her ranks. 
  <p class="updated_time"> 10:31 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/biden-billionaires-minimum-tax.html">Biden to Include Minimum Tax on Billionaires in Budget Proposal</a> NYT: The tax would require that American households worth more than $100 million pay a rate of at least 20 percent on their income as well as unrealized gains in the value of liquid assets like stocks. 
  <p class="updated_time"> 09:40 PM CT, Mar. 26 </p> 
