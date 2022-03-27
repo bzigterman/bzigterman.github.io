@@ -9,30 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Biden Caps 3 Days of Diplomacy With Rebuke of Putin</a> NYT: The Kremlin condemned President Biden’s comments, and the White House said he was not calling for regime change. Missiles hit the city of Lviv and thousands were still stranded in Mariupol. 
  <p class="updated_time"> 10:35 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1088683957/what-is-nato-ukraine-russia-putin">NATO, explained: Why the alliance was formed — and what it's doing for Ukraine </a> NPR: Russia's attack on Ukraine has put a focus on the North Atlantic alliance. Here's what you need to know about NATO. 
  <p class="updated_time"> 10:32 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
  <p class="updated_time"> 10:25 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/arts/music/putin-tchaikovsky-onegin-met-opera.html">Putin Says Tchaikovsky Is Being Canceled. The Met Opera Disagrees.</a> NYT: The company’s revival of “Eugene Onegin” gives the lie to the Russian president’s claim that his country’s composers are suffering in the West. 
- <p class="updated_time"> 10:20 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Biden Caps 3 Days of Diplomacy With Rebuke of Putin</a> NYT: The Kremlin condemned President Biden’s comments, and the White House said he was not calling for regime change. Missiles hit the city of Lviv and thousands were still stranded in Mariupol. 
  <p class="updated_time"> 10:17 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
+ <p class="updated_time"> 09:50 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 09:44 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
- <p class="updated_time"> 09:38 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 09:19 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: An extravagant conversion is nearly complete on the Old War Office, an Edwardian-era monument to Britain’s imperial past being made into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 09:10 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 08:54 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/edmund-hawley-dead.html">Kip Hawley, Transportation Security Administrator, Dies at 68</a> NYT: He sought to overhaul a much-maligned federal agency by enhancing security procedures, bolstering morale and taking a common-sense approach to the job. 
+ <p class="updated_time"> 08:50 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 08:46 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
- <p class="updated_time"> 08:38 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 08:37 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
  <p class="updated_time"> 08:12 AM CT, Mar. 27 </p> 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/27/1089047787/russian-intellectual-aleksandr-dugin-is-also-commonly-known-as-putins-brain">Russian intellectual Aleksandr Dugin is also commonly known as 'Putin's brain'</a> NPR: NPR's Ayesha Rascoe talks with Washington Post columnist David von Drehle about the Russian intellectual known as "Putin's Brain," whose ideology has influenced the invasion of Ukraine. 
  <p class="updated_time"> 07:55 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047780/russia-may-turn-to-destroying-eastern-cities-instead-of-capturing-kyiv">Russia may turn to destroying eastern cities instead of capturing Kyiv</a> NPR: And the city of Dnipro, Ukraine, has become a place where the wounded arrive from the front lines and displaced people come as they flee cities subjected to Russian attacks. 
- <p class="updated_time"> 07:38 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 07:50 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400">Photos Chronicle Mariupol Devastation</a> WSJ: Photos Chronicle Mariupol Devastation 
  <p class="updated_time"> 07:32 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047759/some-ukrainians-fled-with-their-pets-others-are-stepping-in-to-care-for-the-rest">Some Ukrainians fled with their pets. Others are stepping in to care for the rest</a> NPR: Wherever you find fleeing civilians in Ukraine, you also find beloved dogs, cats and rabbits in tow. But some pets are being left behind, and people are stepping in to care for them. 
@@ -51,13 +51,13 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/27/1089047717/countries-have-long-agreed-to-ditch-nuclear-weapons-but-now-there-are-new-threat">Countries have long agreed to ditch nuclear weapons, but now there are new threats</a> NPR: In the wake of nuclear threats from North Korea and Russia, NPR's Ayesha Rascoe talks about the future of deterrence with Ankit Panda of the Carnegie Endowment for International Peace. 
  <p class="updated_time"> 07:05 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047710/what-its-like-for-people-in-kharkiv-one-of-ukraines-worst-hit-cities">What it's like for people in Kharkiv, one of Ukraine's worst hit cities</a> NPR: In Kharkiv, Ukraine, people are trying to help each other amid attacks from Russia's military. NPR's Ayesha Rascoe speaks to resident Oleksandr Honcharov. 
- <p class="updated_time"> 06:38 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 06:50 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/putin-stokes-nuclear-fears-with-atomic-weapons-warnings-11648381573">Putin Stokes Nuclear Fears With Atomic Weapons Warnings</a> WSJ: Putin Stokes Nuclear Fears With Atomic Weapons Warnings 
  <p class="updated_time"> 06:29 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
  <p class="updated_time"> 05:59 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 05:38 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 05:50 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air Safety Officials 
  <p class="updated_time"> 05:17 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60891803?at_medium=RSS&at_campaign=KARANGA">Ukraine: No Russia regime change plans, says Blinken</a> BBC: The US secretary of state spoke after President Biden said Vladimir Putin should not remain in power. 
@@ -210,8 +210,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:35 AM CT, Mar. 27 </p> 
+ <a href="https://www.npr.org/2022/03/27/1088683957/what-is-nato-ukraine-russia-putin">NATO, explained: Why the alliance was formed — and what it's doing for Ukraine </a> NPR: Russia's attack on Ukraine has put a focus on the North Atlantic alliance. Here's what you need to know about NATO. 
  <p class="updated_time"> 10:32 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
+ <p class="updated_time"> 10:25 AM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/rick-scott-senate-agenda-roberts-00020694">Rick Scott debates what's in his 'Rescue America' plan with Fox host</a> Politico: "Senator, hang on, it's not a Democratic talking point, it's in the plan," John Roberts said. 
  <p class="updated_time"> 09:45 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/military-equipment-ukraine-nato-ambassador-00020699">Supplying Ukraine an 'evolving conversation,' says U.S. ambassador to NATO</a> Politico: Julianne Smith said that NATO's supplies are helping Ukraine a great deal. 
  <p class="updated_time"> 09:34 AM CT, Mar. 27 </p> 
@@ -310,12 +314,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:17 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/supreme-court-navy-covid-vaccines.html">Supreme Court Rules Against Navy SEALs in Vaccine Mandate Case</a> NYT: The justices blocked a ruling that would have prevented the Pentagon from taking into account whether service members with religious objections were vaccinated. 
- <p class="updated_time"> 04:14 PM CT, Mar. 25 </p> 
- <a href="https://www.politico.com/news/2022/03/25/us-eu-digital-markets-act-00020551">U.S. slow to respond to EU’s landmark tech regulation</a> Politico: The Biden administration’s response to the EU’s new Digital Markets Act signals continued internal disagreements about how to approach antitrust reforms targeting large tech companies. 
  <p class="updated_time"> 04:06 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
- <p class="updated_time"> 03:34 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088879096/the-covid-fund-for-the-uninsured-is-shutting-down-which-will-likely-drive-spread">The COVID fund for the uninsured is shutting down, which will likely drive spread</a> NPR: Congress failed to approve billions in new funding to fight COVID-19. Among threatened program cuts are free treatments for COVID patients who are uninsured. 
  <p class="updated_time"> 02:29 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/bidens-summit-with-southeast-asian-leaders-postponed-00020543">Biden’s summit with Southeast Asian leaders postponed</a> Politico: The month-long conflict in Eastern Europe has injected a new urgency into U.S. efforts to reinvigorate old alliances and cultivate new ones, including in the Asia-Pacific. 
  <p class="updated_time"> 02:14 PM CT, Mar. 25 </p> 
