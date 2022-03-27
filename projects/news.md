@@ -9,36 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:53 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Biden Caps 3 Days of Diplomacy With Rebuke of Putin</a> NYT: The Kremlin condemned President Biden’s comments, and the White House said he was not calling for regime change. Missiles hit the city of Lviv and thousands were still stranded in Mariupol. 
+ <p class="updated_time"> 05:30 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
+ <p class="updated_time"> 05:17 AM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60891803?at_medium=RSS&at_campaign=KARANGA">Ukraine: No Russia regime change plans, says Blinken</a> BBC: The US secretary of state spoke after President Biden said Vladimir Putin should not remain in power. 
+ <p class="updated_time"> 05:09 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
+ <p class="updated_time"> 05:00 AM CT, Mar. 27 </p> 
+ <a href="https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin">El Salvador's leader wants to go in even bigger on bitcoin</a> NPR: After making the cryptocurrency legal tender, President Nayib Bukele plans to launch bitcoin-backed bonds to raise $1 billion for the country. 
+ <p class="updated_time"> 04:56 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: A billionaire property developer is close to completing an extravagant conversion of the Old War Office, an Edwardian-era monument to Britain’s imperial past, into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
- <p class="updated_time"> 03:59 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
+ <p class="updated_time"> 03:56 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 03:53 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 03:41 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
- <p class="updated_time"> 02:59 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
+ <p class="updated_time"> 02:56 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
  <p class="updated_time"> 02:07 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
- <p class="updated_time"> 01:59 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
+ <p class="updated_time"> 01:56 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 01:47 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60890202?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Drugs found in body of late Foo Fighters drummer</a> BBC: Colombian investigators examining the death of Taylor Hawkins are yet to establish a cause. 
  <p class="updated_time"> 01:46 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60887970?at_medium=RSS&at_campaign=KARANGA">China plane crash: All 132 passengers and crew dead, officials confirm</a> BBC: Rescue teams have found both black boxes at the site of the plane crash in Guangxi. 
- <p class="updated_time"> 12:59 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
- <p class="updated_time"> 12:18 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/03/26/world/ukraine-russia-war">Here’s What Happened on Day 31 of the War in Ukraine.</a> NYT: The White House tried to clarify President Biden’s comments  in Poland. Mr. Biden was not calling for regime change in Russia, instead he meant that Vladimir V. Putin “cannot be allowed to exercise power over his neighbors.” 
+ <p class="updated_time"> 12:56 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 12:02 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
- <p class="updated_time"> 11:59 PM CT, Mar. 26 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
- <p class="updated_time"> 11:08 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 10:49 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
  <p class="updated_time"> 09:13 PM CT, Mar. 26 </p> 
@@ -61,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60878703?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The drone pilots monitoring Russian troops</a> BBC: The BBC joins a Ukrainian defence unit carrying out aerial reconnaissance around Kyiv. 
  <p class="updated_time"> 07:00 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60866212?at_medium=RSS&at_campaign=KARANGA">SS Central America: Haunting photos recovered the 'ship of gold' wreck on ocean floor</a> BBC: Passenger photos recovered from an infamous wreck have finally been published. 
- <p class="updated_time"> 06:16 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 05:57 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60889260?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier's daughter on his Oscars legacy</a> BBC: Sidney Poitier's daughter discusses the late Oscar winner's influence on civil rights and cinema. 
  <p class="updated_time"> 05:28 PM CT, Mar. 26 </p> 
@@ -161,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088879152/alcohol-bans-in-ukraine-have-led-to-a-whisper-network-among-those-seeking-a-drin">Alcohol bans in Ukraine have led to a whisper network among those seeking a drink</a> NPR: Some local Ukrainian officials banned alcohol sales amid the war, which has made it difficult for some people trying to relax. But there are still ways to find open bars. 
- <p class="updated_time"> 03:49 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088879145/people-in-russia-controlled-georgia-are-watching-whats-happening-in-ukraine-clos">Near Russian-controlled areas of Georgia, people are watching what happens in Ukraine</a> NPR: NPR's Mary Louise Kelly reports from the boundary line of the Russian-controlled area in northern Georgia, which saw heavy fighting during the 2008 Russian invasion. 
  <p class="updated_time"> 03:18 PM CT, Mar. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60882156?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Change of emphasis or admission of failure by Moscow?</a> BBC: Moscow now says the main aim is to "liberate" eastern Ukraine - a change of emphasis or more? 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
@@ -210,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/business/media/chris-wallace-cnn-fox-news.html">Chris Wallace Says Life at Fox News Became ‘Unsustainable’</a> NYT: As he starts a new streaming show at CNN, the longtime TV anchor reflects on his decision to leave Fox News after 18 years. 
  <p class="updated_time"> 02:00 AM CT, Mar. 27 </p> 
@@ -224,8 +228,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/us/politics/jeff-fortenberry-resigns.html">Nebraska Congressman to Resign After Being Found Guilty of Lying to F.B.I.</a> NYT: Representative Jeff Fortenberry announced he would leave his seat at the end of the month, just days after he was convicted on charges of lying to investigators about an illegal campaign donation. 
  <p class="updated_time"> 08:00 PM CT, Mar. 26 </p> 
  <a href="https://www.politico.com/news/2022/03/26/biden-to-propose-new-tax-on-the-uber-rich-00020682">Biden to propose new tax on the uber rich</a> Politico: The administration says that the tax would hit the top 0.01 percent of households, generating $360 billion over the next decade, with half of that coming from billionaires. 
- <p class="updated_time"> 06:16 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 05:44 PM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1089034831/nebraska-fortenberry-resigns">Nebraska Rep. Fortenberry says he will resign following conviction for lying to FBI</a> NPR: The Republican congressman is stepping down after he was found guilty this week on charges that he lied to federal authorities about an illegal campaign contribution from a foreign billionaire. 
  <p class="updated_time"> 05:41 PM CT, Mar. 26 </p> 
@@ -348,8 +350,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/24/rand-paul-russia-trade-sanctions-00020093">Rand Paul throws fresh wrench in Senate's push for quick Russia trade sanctions</a> Politico: The Kentucky Republican is preventing the bipartisan House-passed bill from getting a speedy Senate vote while President Joe Biden is in Europe. 
  <p class="updated_time"> 06:14 AM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/03/24/tour-trepidation-ahead-of-capitol-opening-00019971">Tour trepidation ahead of Capitol opening</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:11 AM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/03/24/biden-in-europe-wmd-fears-at-center-stage-00019958"> Biden in Europe, WMD fears at center stage</a> Politico Playbook: And Ketanji Brown Jackson closes in on completing her confirmation hearings. 
 
 
 </details>
