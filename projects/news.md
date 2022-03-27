@@ -9,31 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:00 PM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Pull Back After Struggling to Take Ukraine’s Capital</a> NYT: Ukraine’s military said Russian troops were regrouping in the north, though they continued to shell towns around Kyiv and have encircled the city of Chernihiv, stranding thousands of civilians. 
- <p class="updated_time"> 03:58 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 04:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
+ <p class="updated_time"> 04:03 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Pull Back After Struggling to Take Ukraine’s Capital</a> NYT: Ukraine’s military said Russian troops were regrouping in the north, though they continued to shell towns around Kyiv and have encircled the city of Chernihiv, stranding thousands of civilians. 
+ <p class="updated_time"> 03:56 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60893650?at_medium=RSS&at_campaign=KARANGA">Army boss raises partition fears: Ukraine round-up</a> BBC: Ukraine's military intelligence chief fears a Korea-style outcome as Biden's jab at Putin makes further waves. 
  <p class="updated_time"> 03:39 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president is looking for support from Hollywood. But his appeal to speak during the Oscars has encountered drama of its own. 
- <p class="updated_time"> 03:02 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 03:23 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 02:53 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60893054?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban bars BBC TV programmes from schedules</a> BBC: Radio and online are unaffected as the regime stops local TV showing international partner content. 
  <p class="updated_time"> 02:48 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
+ <p class="updated_time"> 02:23 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin</a> WSJ: U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin 
  <p class="updated_time"> 02:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
- <p class="updated_time"> 02:02 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin</a> WSJ: U.S. Officials Rush to Clarify Biden’s Comment on Russia’s Putin 
  <p class="updated_time"> 01:40 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
- <p class="updated_time"> 01:02 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 01:23 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 12:48 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60894142?at_medium=RSS&at_campaign=KARANGA">Russia transfers thousands of Mariupol civilians to its territory</a> BBC: Ukraine condemns Russia's alleged "deportation" of many civilians from devastated Mariupol. 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/biden-putin-speech-reaction.html">American Officials Try to Walk Back Biden’s Comments on Putin</a> NYT: Senior officials, including Secretary of State Antony J. Blinken, and top lawmakers stressed that the United States was not seeking regime change in Russia. 
- <p class="updated_time"> 12:02 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 12:23 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 11:46 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089062365/china-eastern-crash-black-box-found">Rescue workers have found the second black box from the China Eastern crash</a> NPR: The discovery of the flight data recorder is raising hopes that it might shed light on why the passenger plane nosedived into a remote mountainous area, killing all 132 on board. 
@@ -45,10 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/asia/shanghai-staggered-lockdown.html">Shanghai Imposes Staggered Lockdown, District by District</a> NYT: Unlike other Chinese cities, Shanghai had never before imposed a full-scale citywide lockdown, but the current measure comes close. 
  <p class="updated_time"> 11:28 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/eric-zemmour-france.html">Éric Zemmour Vows to Fight for Identity and Prosperity</a> NYT: Éric Zemmour, a far-right pundit, tried to revive his flagging campaign Sunday in a place that is familiar to hopefuls of his ilk. 
+ <p class="updated_time"> 11:23 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 11:16 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60893070?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid: China announces largest city-wide lockdown</a> BBC: The financial hub will be locked down in two phases, in China's biggest city-wide lockdown yet. 
- <p class="updated_time"> 11:02 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 10:35 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1088683957/what-is-nato-ukraine-russia-putin">NATO, explained: Why the alliance was formed — and what it's doing for Ukraine </a> NPR: Russia's attack on Ukraine has put a focus on the North Atlantic alliance. Here's what you need to know about NATO. 
  <p class="updated_time"> 10:25 AM CT, Mar. 27 </p> 
@@ -121,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60889260?at_medium=RSS&at_campaign=KARANGA">Sidney Poitier's daughter on his Oscars legacy</a> BBC: Sidney Poitier's daughter discusses the late Oscar winner's influence on civil rights and cinema. 
  <p class="updated_time"> 05:28 PM CT, Mar. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60867754?at_medium=RSS&at_campaign=KARANGA">Malmo stabbing prompts soul-searching in Sweden</a> BBC: A string of violent attacks in Sweden's schools has a country not used to such tragedies looking for answers. 
- <p class="updated_time"> 05:21 PM CT, Mar. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60887974?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Five wounded after explosions hit western city of Lviv</a> BBC: Lviv has become a hub for thousands of refugees fleeing other parts of Ukraine since Russia's invasion. 
  <p class="updated_time"> 03:50 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-putin-butcher-poland-refugees.html">Biden Calls Putin a Butcher After Meeting With Ukraine Refugees</a> NYT: His comment came as he visited a stadium in Warsaw where the Polish authorities are assisting the waves of people who are fleeing Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Mar. 26 </p> 
@@ -336,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/republican-party-agenda-00020227">House GOP vows 'grand plan,' not obstruction, as it eyes majority</a> Politico: Republicans are hoping a Gingrich-style "Commitment to America" agenda will make sure they don't get caught flat-footed if — perhaps when — they take power. That's not their only challenge, though. 
  <p class="updated_time"> 04:56 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/house-gop-mccarthy-cheney-mood-00020241">House GOP returns to the state where Cheney fell — in a brighter mood this time</a> Politico: Kevin McCarthy's conference is brimming with confidence a year after ousting one of its leaders, even as certain questions remain unsettled. Like Donald Trump's influence. 
- <p class="updated_time"> 04:15 PM CT, Mar. 24 </p> 
- <a href="https://www.politico.com/news/2022/03/24/russia-state-media-rumble-00020184">Russia state media turn to Rumble to get out their word</a> Politico: The far-right video sharing outlet has become a last refuge of sorts for Sputnik podcasts. 
 
 
 </details>
