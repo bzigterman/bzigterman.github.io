@@ -15,7 +15,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
  <p class="updated_time"> 05:59 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 05:41 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 05:53 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/russias-shifting-war-plan-threatens-more-suffering-for-eastern-ukraine-11648289112">Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine</a> WSJ: Russia’s Shifting War Plan Threatens More Suffering for Eastern Ukraine 
  <p class="updated_time"> 05:30 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
@@ -25,30 +25,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 05:00 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin">El Salvador's leader wants to go in even bigger on bitcoin</a> NPR: After making the cryptocurrency legal tender, President Nayib Bukele plans to launch bitcoin-backed bonds to raise $1 billion for the country. 
- <p class="updated_time"> 04:41 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 04:53 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/biden-and-polands-leader-look-to-boost-support-for-ukraine-11648304117">Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’</a> WSJ: Biden Says Russian President Vladimir Putin ‘Cannot Remain in Power’ 
  <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: A billionaire property developer is close to completing an extravagant conversion of the Old War Office, an Edwardian-era monument to Britain’s imperial past, into a five-star hotel and high-end apartments. 
  <p class="updated_time"> 04:00 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
  <p class="updated_time"> 03:53 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
+ <p class="updated_time"> 03:53 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 03:41 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: The 22-year arc of the Russian president’s exercise of power is a study in audacity. 
- <p class="updated_time"> 03:41 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-europe-unity-on-ukraine-shows-limits-amid-differences-on-russia-sanctions-11648299833">U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions</a> WSJ: U.S., Europe Unity on Ukraine Shows Limits Amid Differences on Russia Sanctions 
- <p class="updated_time"> 02:41 AM CT, Mar. 27 </p> 
+ <p class="updated_time"> 02:53 AM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/how-kyivs-hospital-8-became-the-wars-front-line-for-wounded-ukrainians-11648289756">How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians</a> WSJ: How Kyiv’s Hospital #8 Became the War’s Front Line for Wounded Ukrainians 
  <p class="updated_time"> 02:07 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
+ <p class="updated_time"> 01:53 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
  <p class="updated_time"> 01:47 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60890202?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Drugs found in body of late Foo Fighters drummer</a> BBC: Colombian investigators examining the death of Taylor Hawkins are yet to establish a cause. 
  <p class="updated_time"> 01:46 AM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60887970?at_medium=RSS&at_campaign=KARANGA">China plane crash: All 132 passengers and crew dead, officials confirm</a> BBC: Rescue teams have found both black boxes at the site of the plane crash in Guangxi. 
- <p class="updated_time"> 01:41 AM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/blue-house-brawl-south-korea-spars-over-where-next-president-will-live-11648292400">South Korea Spars Over Where Next President Will Live</a> WSJ: South Korea Spars Over Where Next President Will Live 
+ <p class="updated_time"> 01:14 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/pakistans-imran-khan-tries-to-pull-off-a-come-from-behind-victory-11648376084">Pakistan's Imran Khan Tries to Pull Off a Come-From-Behind Victory</a> WSJ: Supporters say the prime minister and former cricket star is putting up a fierce fight to stay in power as a no-confidence vote in parliament approaches. 
+ <p class="updated_time"> 12:30 AM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/photos-chronicle-the-devastation-of-mariupol-11648373400">Photos Chronicle Mariupol Devastation</a> WSJ: Satellite imagery, maps and drone footage detail destruction of the Livoberezhnyi district and sites in the center of the besieged Ukrainian city. 
  <p class="updated_time"> 10:49 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/movies/lin-manuel-miranda-oscars.html">Lin-Manuel Miranda to Miss Oscars After Wife Tests Positive for Virus</a> NYT: Mr. Miranda is up for an Academy Award for the song “Dos Oruguitas” from the Disney musical “Encanto.” 
+ <p class="updated_time"> 09:58 PM CT, Mar. 26 </p> 
+ <a href="https://www.wsj.com/articles/second-black-box-found-at-china-plane-crash-site-state-media-says-11648351593">Second Black Box Found at China Eastern Plane Crash Site</a> WSJ: Search teams at the site of a China Eastern Airlines crash in southern China have found the flight data recorder, the second of two black boxes that investigators need to determine the cause of the crash. 
  <p class="updated_time"> 09:13 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">Biden Condemns Putin, Saying He ‘Cannot Remain In Power’</a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
  <p class="updated_time"> 07:38 PM CT, Mar. 26 </p> 
@@ -208,6 +214,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:41 AM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/pope-francis-ukraine-russia-00020684">Pope steps up pleas for talks to end fighting</a> Politico: He lamented that “the powerful decide and the poor die.” 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/bidens-cyber-warnings-00020638">The hard truth behind Biden’s cyber warnings</a> Politico: Hackers from Russia and elsewhere have repeatedly breached companies and agencies critical to the nation's welfare. "We should consider every sector vulnerable,” one of the president's top cyber aides says. 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
@@ -312,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088757756/how-madeleine-albright-made-womens-issues-central-to-foreign-policy">How Madeleine Albright made women's issues central to foreign policy</a> NPR: When Madeleine Albright became secretary of state in 1997, she was the first woman to do so. She used her career to advance women's issues and served as a role model for many generations. 
  <p class="updated_time"> 12:31 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/maryland-court-congressional-map-illegal-democratic-gerrymander-00020518">Maryland court strikes down congressional map as illegal Democratic gerrymander</a> Politico: The decision is likely set for appeal in Maryland's high court. 
- <p class="updated_time"> 10:57 AM CT, Mar. 25 </p> 
- <a href="https://www.politico.com/news/2022/03/25/giuliani-lev-parnas-guilty-fraud-fundraising-00020477">Giuliani ally Lev Parnas pleads guilty to fraud fundraising for 'Fraud Guarantee'</a> Politico: The former New York mayor got $500,000 for consulting on project but hasn't been charged and denies wrongdoing. 
  <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/mccarthy-fortenberry-resign-00020488">McCarthy nudges convicted Rep. Fortenberry to resign</a> Politico: The House GOP leader spoke hours after the Nebraska Republican was convicted of three felonies related to campaign donations from a foreign national. 
  <p class="updated_time"> 10:15 AM CT, Mar. 25 </p> 
@@ -330,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/republican-party-agenda-00020227">House GOP vows 'grand plan,' not obstruction, as it eyes majority</a> Politico: Republicans are hoping a Gingrich-style "Commitment to America" agenda will make sure they don't get caught flat-footed if — perhaps when — they take power. That's not their only challenge, though. 
  <p class="updated_time"> 03:30 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/parents-masks-harm-kids-poll-00020250">POLITICO-Harvard poll: 40 percent of parents believe masks at school harmed their kids</a> Politico: The poll's findings come as White House officials warn that masks may be necessary if Covid-19 cases increase in the United States. 
- <p class="updated_time"> 03:30 AM CT, Mar. 25 </p> 
- <a href="https://www.politico.com/gallery/2022/03/25/the-nations-cartoonists-on-the-week-in-politics-00020090">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:56 PM CT, Mar. 24 </p> 
  <a href="https://www.politico.com/news/2022/03/24/house-gop-mccarthy-cheney-mood-00020241">House GOP returns to the state where Cheney fell — in a brighter mood this time</a> Politico: Kevin McCarthy's conference is brimming with confidence a year after ousting one of its leaders, even as certain questions remain unsettled. Like Donald Trump's influence. 
  <p class="updated_time"> 04:15 PM CT, Mar. 24 </p> 
