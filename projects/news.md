@@ -9,13 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:18 PM CT, Mar. 28 </p> 
+ <a href="https://www.npr.org/2022/03/28/1089229500/kangaroos-rescued-ukraine-ecopark-kharkiv">A bunch of kangaroos are the latest animals to be rescued from a hard-hit Kharkiv zoo</a> NPR: The Feldman Ecopark in the hard-hit city of Kharkiv has lost many animals and even several staff members to Russian shelling in the past month. It's now trying to evacuate as many animals as possible. 
  <p class="updated_time"> 02:04 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Live Updates: Ukraine Sees Fighting on Multiple Fronts</a> NYT: Despite talk of Russia focusing its ambitions in the east, action on several battlefronts suggested a more dynamic and volatile situation. Ukraine and Russia will meet this week for in-person talks. 
  <p class="updated_time"> 02:03 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/pope-indigenous-schools-canada-apology.html">Pope Francis Meets With Canadian Indigenous Leaders Seeking Apology</a> NYT: For the first time, Francis received Indigenous survivors of abusive boarding schools in Canada who were seeking the pontiff’s apology over the church’s role in running the schools. 
  <p class="updated_time"> 01:29 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60904676?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich suffered suspected poisoning at talks</a> BBC: The billionaire suffered suspected poisoning at talks in Ukraine this month, sources close to him say. 
- <p class="updated_time"> 01:16 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 01:27 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 01:14 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089241047/eric-zemmour-right-wing-jewish-politician-holocaust-denial">A Jewish, far-right politician is being sued for Holocaust denial in France</a> NPR: The case against Eric Zemmour is the first time someone is accused of Holocaust denial for alleging French homosexuals weren't deported during the war, the plaintiffs say. 
@@ -25,25 +27,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
  <p class="updated_time"> 12:57 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/03/28/world/israel-arab-nations-meeting">Israel, U.S. and 4 Arab Nations Focus on Security at Summit</a> NYT: The talks centered on shared concerns, particularly over Iran, and on food shortages brought on by the war in Ukraine, which are being felt in Egypt and Morocco, two of the attendees. 
+ <p class="updated_time"> 12:27 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 12:20 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/asia/india-modi-general-strike.html">India General Strike Protests Narendra Modi’s Economic Policies</a> NYT: The two-day strike, involving both public and private sector workers, was called to protest the Modi government’s economic policies, including a privatization plan. 
  <p class="updated_time"> 12:20 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/americas/el-salvador-gang-violence.html">El Salvador Declares State of Emergency After Gang Killings</a> NYT: Gangs went on a killing spree, gunning down anyone on the street. At least 62 were killed on Saturday, the deadliest day on record since the country’s civil war ended 30 years ago. 
  <p class="updated_time"> 12:16 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089229499/german-states-outlaw-z">German states outlaw displays of the letter 'Z,' a symbol of Russia's war in Ukraine</a> NPR: Displaying a "Z" in Bavaria or Lower Saxony could result in a fine or up to three years in jail. People across Germany who use the letter could also be liable to prosecution, an official said Monday. 
- <p class="updated_time"> 12:16 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
+ <p class="updated_time"> 11:27 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 11:23 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
- <p class="updated_time"> 11:16 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 11:01 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60897004?at_medium=RSS&at_campaign=KARANGA">Will Smith hits Chris Rock on Oscars stage</a> BBC: The best actor winner apologises to the Academy - but not to Rock - after striking the comedian. 
- <p class="updated_time"> 10:16 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 10:27 AM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 09:46 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089167897/ukraine-closes-humanitarian-corridors-because-it-says-russia-may-attack-them">Ukraine closes humanitarian corridors because it says Russia may attack them</a> NPR: Intelligence reports warned of Russian provocations along the routes, Ukrainian officials said. Ukraine and Russia have regularly agreed to establish corridors from some of the hardest-hit cities. 
- <p class="updated_time"> 09:16 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 09:27 AM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/for-japans-leader-russian-gas-is-a-hometown-affair-11648454089">For Japan’s Leader, Russian Gas Is Also a Hometown Affair</a> WSJ: For Japan’s Leader, Russian Gas Is Also a Hometown Affair 
  <p class="updated_time"> 08:42 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60901024?at_medium=RSS&at_campaign=KARANGA">Zelensky says Ukraine prepared to discuss neutrality in peace talks</a> BBC: Ukraine's president says his country is open to adopting a neutral status as part of a possible peace deal. 
@@ -139,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008269834/escaping-mariupol.html">A Desperate Escape From Mariupol</a> NYT: Ukrainian families are taking enormous risks to try to flee Mariupol, traveling through Russian checkpoints — and in some cases land mines — to try to get to safety. 
  <p class="updated_time"> 09:19 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/old-war-office-hotel.html">Britain’s Old War Office Will Soon Become a 5-Star Raffles Hotel</a> NYT: An extravagant conversion is nearly complete on the Old War Office, an Edwardian-era monument to Britain’s imperial past being made into a five-star hotel and high-end apartments. 
- <p class="updated_time"> 08:54 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/edmund-hawley-dead.html">Kip Hawley, Transportation Security Administrator, Dies at 68</a> NYT: He sought to overhaul a much-maligned federal agency by enhancing security procedures, bolstering morale and taking a common-sense approach to the job. 
  <p class="updated_time"> 08:46 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/insider/one-story-filled-almost-the-entire-magazine-it-came-together-in-two-weeks.html">One Story Filled Almost the Entire Magazine. It Came Together in Two Weeks.</a> NYT: The Ukrainian photographer Alexander Chekmenev captured portraits of Ukrainian citizens that appear in a new photo essay. 
  <p class="updated_time"> 08:37 AM CT, Mar. 27 </p> 
@@ -151,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/27/1089047787/russian-intellectual-aleksandr-dugin-is-also-commonly-known-as-putins-brain">Russian intellectual Aleksandr Dugin is also commonly known as 'Putin's brain'</a> NPR: NPR's Ayesha Rascoe talks with Washington Post columnist David von Drehle about the Russian intellectual known as "Putin's Brain," whose ideology has influenced the invasion of Ukraine. 
  <p class="updated_time"> 07:55 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089047780/russia-may-turn-to-destroying-eastern-cities-instead-of-capturing-kyiv">Russia may turn to destroying eastern cities instead of capturing Kyiv</a> NPR: And the city of Dnipro, Ukraine, has become a place where the wounded arrive from the front lines and displaced people come as they flee cities subjected to Russian attacks. 
- <p class="updated_time"> 07:32 AM CT, Mar. 27 </p> 
- <a href="https://www.npr.org/2022/03/27/1089047759/some-ukrainians-fled-with-their-pets-others-are-stepping-in-to-care-for-the-rest">Some Ukrainians fled with their pets. Others are stepping in to care for the rest</a> NPR: Wherever you find fleeing civilians in Ukraine, you also find beloved dogs, cats and rabbits in tow. But some pets are being left behind, and people are stepping in to care for them. 
  <p class="updated_time"> 06:29 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/russia-ukraine-biden.html">In a Fiery Speech, Biden Warns of a Battle Between ‘Liberty and Repression’</a> NYT: The president warned Western nations that the fight against autocracy would be costly and could be lengthy. 
  <p class="updated_time"> 05:59 AM CT, Mar. 27 </p> 
@@ -314,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/27/bidens-cyber-warnings-00020638">The hard truth behind Biden’s cyber warnings</a> Politico: Hackers from Russia and elsewhere have repeatedly breached companies and agencies critical to the nation's welfare. "We should consider every sector vulnerable,” one of the president's top cyber aides says. 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/democrats-bail-reform-partys-progressive-moderate-00020455">Democrats’ fight over bail reform might be a fight for the party’s direction</a> Politico: The debate has become a growing symbol of rifts among progressive and moderate Democrats. 
- <p class="updated_time"> 09:40 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/us/politics/9-11-case-negotiations-guantanamo.html">Plea Negotiations in Sept. 11 Case Go on Hiatus for Ramadan</a> NYT: Hearings in the death penalty case are scheduled for May but could be postponed because one defendant needs a new lawyer. 
  <p class="updated_time"> 08:45 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/jeff-fortenberry-resigns.html">Jeff Fortenberry to Resign After Being Found Guilty of Lying to  F.B.I.</a> NYT: Representative Jeff Fortenberry announced he would leave his seat at the end of the month, just days after he was convicted on charges of lying to investigators about an illegal campaign donation. 
  <p class="updated_time"> 04:31 PM CT, Mar. 26 </p> 
