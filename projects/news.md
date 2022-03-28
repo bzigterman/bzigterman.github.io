@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 06:38 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/03/28/world/israel-arab-nations-meeting">Live Updates: Israel, U.S. and 4 Arab Nations Hold Summit</a> NYT: The talks focused on shared security concerns, particularly over Iran, and on food shortages brought on by the war in Ukraine, which are being felt in Egypt and Morocco, two of the attendees. 
- <p class="updated_time"> 05:36 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 06:38 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Live Updates: Zelensky Says Ukraine Is ‘Ready’ to Discuss Neutrality</a> NYT: President Volodymyr Zelensky insisted that he would not cede sovereignty to Russia, as the two sides prepared to meet in person for the first time in weeks. Large explosions were reported near Kyiv early Monday. 
+ <p class="updated_time"> 06:06 AM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/28/world/asia/india-modi-general-strike.html">India General Strike Protests Narendra Modi’s Economic Policies</a> NYT: The two-day strike, involving both public and private sector workers, was called to protest the Modi government’s economic policies, including a privatization plan. 
+ <p class="updated_time"> 05:43 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 05:32 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
  <p class="updated_time"> 05:31 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60897004?at_medium=RSS&at_campaign=KARANGA">Will Smith hits Chris Rock on Oscars stage</a> BBC: The best actor winner apologises after striking the comedian, who made a joke about Smith's wife. 
  <p class="updated_time"> 05:25 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60900854?at_medium=RSS&at_campaign=KARANGA">Mexico shooting: At least 19 killed at cockfighting pit</a> BBC: Sixteen men and three women are dead after the shooting in the state of Michoacán, officials say. 
- <p class="updated_time"> 04:54 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 04:51 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
+ <p class="updated_time"> 04:43 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden’s Remark on Putin Stirs Anxiety Among Western Allies</a> WSJ: Biden’s Remark on Putin Stirs Anxiety Among Western Allies 
  <p class="updated_time"> 04:06 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-60608282?at_medium=RSS&at_campaign=KARANGA">Russian oligarchs: Where do they hide their 'dark money'?</a> BBC: Russians have an estimated $1tn hidden around the world and countries are trying to find it. 
  <p class="updated_time"> 04:04 AM CT, Mar. 28 </p> 
@@ -35,25 +39,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html">Geofencing Improves Safety in Sweden</a> NYT: Sweden has long been at the forefront of road innovation and is again leading the way with trials of a technology known as geofencing. 
  <p class="updated_time"> 03:57 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
- <p class="updated_time"> 03:54 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden’s Remark on Putin Stirs Anxiety Among Western Allies</a> WSJ: Biden’s Remark on Putin Stirs Anxiety Among Western Allies 
  <p class="updated_time"> 03:45 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel: Two police killed by Israeli Arab gunmen in Hadera</a> BBC: Security is stepped up across the country after two police are killed by Israeli Arab gunmen. 
+ <p class="updated_time"> 03:43 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 03:37 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089122519/north-koreas-kim-jong-un-vows-to-develop-more-powerful-means-of-attack">North Korea's Kim Jong Un vows to develop more powerful means of attack</a> NPR: North Korea's Kim Jong Un vows to develop more powerful means of, days after the country's first intercontinental ballistic missile launch in more than four years 
  <p class="updated_time"> 03:28 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089122470/canadian-indigenous-will-meet-with-pope-in-hopes-of-apology">Canadian Indigenous leaders will meet with the pope in hopes of apology</a> NPR: Indigenous leaders from Canada will meet with Pope Francis starting Monday in hopes of securing a papal apology for abuses committed against them by Catholic priests and school workers. 
- <p class="updated_time"> 02:54 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: A Ukrainian Mother Risks All to Retrieve Her Son 
+ <p class="updated_time"> 02:43 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 02:34 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089119810/islamic-state-claims-killing-of-2-by-gunmen-in-israels-hadera">The Islamic State claims responsibility for the deaths of 2 people in central Israel</a> NPR: The Islamic State group claimed responsibility after a pair of Arab gunmen killed two people and wounded four before being killed by police in the city of Hadera in central Israel. 
  <p class="updated_time"> 02:20 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-60896794?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid: Oil prices fall after city starts lockdown</a> BBC: The nine-day lockdown of Shanghai is China's largest since the coronavirus outbreak began. 
  <p class="updated_time"> 02:00 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html">When Nokia Pulled Out of Russia, a Vast Surveillance System Remained</a> NYT: The Finnish company played a key role in enabling Russia’s cyberspying, documents show, raising questions of corporate responsibility. 
- <p class="updated_time"> 01:54 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
- <p class="updated_time"> 12:54 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 01:43 AM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 12:46 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
@@ -99,6 +101,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/biden-putin-speech-reaction.html">American Officials Try to Walk Back Biden’s Comments on Putin</a> NYT: Senior officials, including Secretary of State Antony J. Blinken, and top lawmakers stressed that the United States was not seeking regime change in Russia. 
+ <p class="updated_time"> 12:22 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/us/army-alaska-arctic-russia.html">How the US Military is Preparing for an Arctic Future With Eyes on Russia</a> NYT: As climate change opens up the Arctic for transit and exploration, Russia has increasingly militarized the region. The U.S. is preparing a more aggressive presence of its own. 
  <p class="updated_time"> 11:46 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089062365/china-eastern-crash-black-box-found">Rescue workers have found the second black box from the China Eastern crash</a> NPR: The discovery of the flight data recorder is raising hopes that it might shed light on why the passenger plane nosedived into a remote mountainous area, killing all 132 on board. 
  <p class="updated_time"> 11:44 AM CT, Mar. 27 </p> 
@@ -141,6 +145,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/ukraine-russia-tensions-timeline.html">A History of the Tensions Between Ukraine and Russia</a> NYT: Here is a look at some key events in the run-up to Russia’s invasion of Ukraine. 
  <p class="updated_time"> 05:00 AM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1086851329/el-salvadors-leader-wants-to-go-in-even-bigger-on-bitcoin">El Salvador's leader wants to go in even bigger on bitcoin</a> NPR: After making the cryptocurrency legal tender, President Nayib Bukele plans to launch bitcoin-backed bonds to raise $1 billion for the country. 
+ <p class="updated_time"> 10:50 PM CT, Mar. 26 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/americas/glaxo-antibody-drug-is-restricted-in-the-northeast-as-an-omicron-subvariant-spreads.html">A Glaxo antibody drug is restricted in the U.S. Northeast as an Omicron subvariant spreads.</a> NYT: The move leaves doctors in the region with one less option to treat high-risk Covid patients. 
  <p class="updated_time"> 09:13 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">What Did Biden Say About Russia? </a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
  <p class="updated_time"> 07:23 PM CT, Mar. 26 </p> 
@@ -189,10 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/europe/dagny-carlsson-dead.html">Dagny Carlsson, Centenarian Blogger, Dies at 109</a> NYT: She began posting about her daily life in Sweden at the age of 99. She went on to acquire a worldwide fan base. 
  <p class="updated_time"> 01:55 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/arts/design/british-museum-sackler-family.html">British Museum to Remove Sackler Name From Its Walls</a> NYT: The decision comes just months after the Metropolitan Museum of Art said it would remove the family’s name from seven exhibition spaces. 
- <p class="updated_time"> 01:11 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
- <p class="updated_time"> 12:27 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-war-social-media.html">How Ukrainians Are Using Social Media to Stir Resistance</a> NYT: Photos and videos of the war’s horrors have spread quickly, searing into the global public consciousness and providing powerful ammunition in the information battle. 
 
 
 </details>
@@ -200,14 +202,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:35 AM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-budget.html">Biden Aims to Boost Military and Social Spending in 2023 Budget</a> NYT: The president will unveil his latest budget proposal amid war in Ukraine and concerns at home about rising costs. 
+ <p class="updated_time"> 06:21 AM CT, Mar. 28 </p> 
+ <a href="https://www.npr.org/2022/03/28/1089121161/bidens-regime-change-comment-should-have-been-more-nuanced-sen-reed-says">Biden's regime change comment should have been more nuanced, Sen. Reed says</a> NPR: NPR's Rachel Martin speaks to Democratic Sen. Jack Reed of Rhode Island, chairman of the Senate Armed Services Committee, about President Biden's weekend speech about Putin's power in Russia. 
  <p class="updated_time"> 04:04 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089121182/the-jan-6-house-panel-focuses-on-peter-navarro-and-dan-scavino">The Jan. 6 House panel focuses on Peter Navarro and Dan Scavino</a> NPR: The House panel probing the Capitol riot holds its first public meeting since December to consider referring two senior Trump White House officials to the Justice Department for criminal contempt. 
  <p class="updated_time"> 04:04 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089121147/morning-news-brief">News brief: Russia-Ukraine crisis, Jan. 6 committee, Oscar roundup</a> NPR: Russian forces continue to bombard Ukraine. The Jan. 6 House panel recommends two Trump White House officials be held in contempt of Congress. And a recap of the Academy Awards ceremony. 
  <p class="updated_time"> 04:01 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1088238619/legislation-abortion-bans">How blue states are fighting back against abortion bans </a> NPR: As several red states pass restrictive laws on abortion, progressive legislatures are passing their own policies aiming to protect the right to the procedure. 
- <p class="updated_time"> 04:00 AM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/24/us/politics/biden-budget.html">Biden Aims to Boost Military and Social Spending in 2023 Budget</a> NYT: The president will unveil his latest budget proposal amid war in Ukraine and concerns at home about rising costs. 
  <p class="updated_time"> 04:00 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1086790531/renewable-energy-projects-wind-energy-solar-energy-climate-change-misinformation">Misinformation is derailing renewable energy projects across the United States</a> NPR: The spread of misinformation about solar and wind energy is leading some states and counties to restrict or even reject projects. Researchers say it's a threat to reducing greenhouse gas emissions. 
  <p class="updated_time"> 03:31 AM CT, Mar. 28 </p> 
@@ -232,6 +236,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/27/china-shanghai-covid-lockdown-00020778">Much of Shanghai locked down as mass Covid-19 testing begins</a> Politico: China has continued to pursue a “zero-Covid” strategy. 
  <p class="updated_time"> 08:59 PM CT, Mar. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 08:37 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/us/politics/peter-navarro-dan-scavino-contempt.html">Jan. 6 Panel Argues for Contempt Charges for Former Trump Aides </a> NYT: The House committee investigating the Capitol riot issued a report on Peter Navarro and Dan Scavino Jr.’s roles in efforts to overturn Donald Trump’s election loss. 
  <p class="updated_time"> 08:37 PM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/karine-jean-pierre-covid-00020765">White House deputy press secretary tests positive for Covid</a> Politico: "I last saw the President during a socially distanced meeting yesterday," Karine Jean-Pierre said. 
  <p class="updated_time"> 07:28 PM CT, Mar. 27 </p> 
@@ -272,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/27/1089047724/biden-allegedly-went-off-script-to-denounce-putin-in-poland-speech">Biden allegedly went off script to denounce Putin in Poland speech</a> NPR: President Biden is back in the White House after a whirlwind trip aimed at keeping allies arm-in-arm in their support for Ukraine and sending a message to Russia over its brutal invasion. 
  <p class="updated_time"> 06:56 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/antony-blinken-putin-russia-00020686">U.S. not trying to topple Putin, Blinken says</a> Politico: "It’s up to the Russian people,” he said. 
- <p class="updated_time"> 06:41 AM CT, Mar. 27 </p> 
- <a href="https://www.politico.com/news/2022/03/27/pope-francis-ukraine-russia-00020684">Pope steps up pleas for talks to end fighting</a> Politico: He lamented that “the powerful decide and the poor die.” 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/bidens-cyber-warnings-00020638">The hard truth behind Biden’s cyber warnings</a> Politico: Hackers from Russia and elsewhere have repeatedly breached companies and agencies critical to the nation's welfare. "We should consider every sector vulnerable,” one of the president's top cyber aides says. 
  <p class="updated_time"> 10:31 PM CT, Mar. 26 </p> 
@@ -304,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/us/politics/biden-second-booster-shot-older-americans.html">Biden Administration Plans to Offer Second Booster Shots to Those 50 and Up</a> NYT: After fraught discussions, officials decided that another shot might save thousands of lives if a new coronavirus wave hit before the fall. The F.D.A. could authorize the boosters next week. 
  <p class="updated_time"> 08:13 AM CT, Mar. 26 </p> 
  <a href="https://www.npr.org/2022/03/26/1088975885/saudi-arabia-formula-one-f1-race-houthi-attack">The Saudi Formula 1 race will go on despite a Houthi missile attack near the track</a> NPR: Missile and drone attacks by Houthi rebels targeted the Saudi Aramco oil facility in Jeddah — not far from the auto racetrack in the city. 
- <p class="updated_time"> 07:43 AM CT, Mar. 26 </p> 
- <a href="https://www.npr.org/2022/03/26/1088991064/president-biden-visits-poland-in-diplomatic-trip-to-europe">President Biden visits Poland in diplomatic trip to Europe</a> NPR: President Biden is visiting Poland, next door to Ukraine. He gave a speech to U.S. troops stationed there to raise morale and also met with Polish President Andrzej Duda. 
  <p class="updated_time"> 07:21 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/republicans-democrats-criminal-justice-reform.html">Jackson’s Hearing Shows How Republicans and Democrats Are Diverging on Crime</a> NYT: This week’s Senate hearings underscored the fragility of a bipartisan alliance that seeks to reduce the impact of America’s vast prison complex. 
  <p class="updated_time"> 06:01 AM CT, Mar. 26 </p> 
@@ -328,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/25/bidens-summit-with-southeast-asian-leaders-postponed-00020543">Biden’s summit with Southeast Asian leaders postponed</a> Politico: The month-long conflict in Eastern Europe has injected a new urgency into U.S. efforts to reinvigorate old alliances and cultivate new ones, including in the Asia-Pacific. 
  <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/mccarthy-fortenberry-resign-00020488">McCarthy nudges convicted Rep. Fortenberry to resign</a> Politico: The House GOP leader spoke hours after the Nebraska Republican was convicted of three felonies related to campaign donations from a foreign national. 
- <p class="updated_time"> 06:18 AM CT, Mar. 25 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/03/25/guilty-guilty-guilty-fortenberrys-three-felonies-00020405">Guilty, Guilty, Guilty: Fortenberry’s three felonies</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
