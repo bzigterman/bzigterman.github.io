@@ -9,40 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:17 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 12:37 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Here’s What Happened on Day 32 of the War in Ukraine</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing on seizing Mariupol. Officials warned that Russia may try to divide Ukraine. Kyiv’s schools will resume online classes on Monday. 
+ <p class="updated_time"> 12:29 AM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
+ <p class="updated_time"> 12:22 AM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60897004?at_medium=RSS&at_campaign=KARANGA">Will Smith hits Chris Rock on Oscars stage</a> BBC: The best actor winner apologises after striking the comedian, who made a joke about Smith's wife. 
  <p class="updated_time"> 12:03 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60878663?at_medium=RSS&at_campaign=KARANGA">Murdered Putin rival 'tailed' by agent linked to FSB hit squad</a> BBC: An investigation finds evidence Boris Nemtsov was shadowed by an agent linked to an assassination team. 
- <p class="updated_time"> 11:36 PM CT, Mar. 27 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60897004?at_medium=RSS&at_campaign=KARANGA">Will Smith hits Chris Rock on Oscars stage</a> BBC: The best actor winner apologises after striking the comedian, who made a joke about Smith's wife. 
+ <p class="updated_time"> 11:44 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 11:33 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
  <p class="updated_time"> 11:31 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel attack: Two police officers shot dead in Hadera</a> BBC: Islamic State said it was behind the attack, in which six other people were injured. 
- <p class="updated_time"> 11:20 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 11:17 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-60896794?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid: Oil prices slide after city starts lockdown</a> BBC: The nine-day lockdown of Shanghai is China's largest since the coronavirus outbreak began. 
  <p class="updated_time"> 10:55 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 10:47 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
- <p class="updated_time"> 10:20 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 10:44 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden’s Remark on Putin Stirs Anxiety Among Western Allies</a> WSJ: Biden’s Remark on Putin Stirs Anxiety Among Western Allies 
- <p class="updated_time"> 09:20 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 09:44 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 09:02 PM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089107011/china-shanghai-covid-lockdown">China is locking down most of its largest city to fight COVID</a> NPR: Already, many communities within the city of 26 million have been locked down, with their residents required to submit to multiple tests for COVID-19. 
  <p class="updated_time"> 08:56 PM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089088061/machu-picchu-huayna-wrong-name">Historians say explorers got it wrong: It's not Machu Picchu, it's Huayna Picchu</a> NPR: A Peruvian historian and an American archeologist say the site's re-discoverer was given bad information when he arrived at the ancient Incan ruins — and we've all been going along with it. 
- <p class="updated_time"> 08:20 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 08:44 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
+ <p class="updated_time"> 07:44 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 07:39 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/americas/el-salvador-gang-violence.html">Explosion of Gang Violence Grips El Salvador, Setting Record</a> NYT: Gangs went on a killing spree, gunning down anyone on the street. At least 62 were killed on Saturday, the deadliest day on record since the country’s civil war ended 30 years ago. 
  <p class="updated_time"> 07:28 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/us/politics/biden-ukraine.html">After Biden’s Fiery Speech, Nine Unscripted Words Reverberate</a> NYT: Administration officials were forced to walk back the ad-lib that Russian President Vladimir V. Putin “cannot remain in power,” which captured the attention of foreign policy experts, lawmakers and allies. 
- <p class="updated_time"> 07:20 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 06:32 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-media-zelensky.html">Zelensky Gives Interview to Russian Journalists. Moscow Orders It Quashed.</a> NYT: The remarkable interview was still published by journalists outside of Russia, an episode that laid bare the extraordinary, and partly successful, efforts at censorship by Moscow. 
  <p class="updated_time"> 06:26 PM CT, Mar. 27 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60893650?at_medium=RSS&at_campaign=KARANGA">Army boss raises partition fears: Ukraine round-up</a> BBC: Ukraine's military intelligence chief fears a Korea-style outcome as Biden's jab at Putin makes further waves. 
  <p class="updated_time"> 02:53 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60893054?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban bars BBC TV programmes from schedules</a> BBC: Radio and online are unaffected as the regime stops local TV showing international partner content. 
- <p class="updated_time"> 02:11 PM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
  <p class="updated_time"> 01:40 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
