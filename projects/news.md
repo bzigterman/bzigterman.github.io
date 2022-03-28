@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:17 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 10:47 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Regroup, Focusing Efforts on Strategic Targets</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing on seizing Mariupol. Officials warned that Russia may try to divide Ukraine. Kyiv’s schools will resume online classes on Monday. 
- <p class="updated_time"> 09:06 PM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president is looking for support from Hollywood. But his appeal to speak during the Oscars has encountered drama of its own. 
+ <p class="updated_time"> 10:47 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
+ <p class="updated_time"> 10:43 PM CT, Mar. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60897004?at_medium=RSS&at_campaign=KARANGA">Will Smith hits Chris Rock on Oscars stage</a> BBC: The best actor winner apologises after striking the comedian, who made a joke about Smith's wife. 
+ <p class="updated_time"> 09:55 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 09:02 PM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089107011/china-shanghai-covid-lockdown">China is locking down most of its largest city to fight COVID</a> NPR: Already, many communities within the city of 26 million have been locked down, with their residents required to submit to multiple tests for COVID-19. 
  <p class="updated_time"> 08:56 PM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089088061/machu-picchu-huayna-wrong-name">Historians say explorers got it wrong: It's not Machu Picchu, it's Huayna Picchu</a> NPR: A Peruvian historian and an American archeologist say the site's re-discoverer was given bad information when he arrived at the ancient Incan ruins — and we've all been going along with it. 
- <p class="updated_time"> 08:49 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
- <p class="updated_time"> 07:49 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 08:55 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden’s Remark on Putin Stirs Anxiety Among Western Allies</a> WSJ: Biden’s Remark on Putin Stirs Anxiety Among Western Allies 
+ <p class="updated_time"> 07:55 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 07:39 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/americas/el-salvador-gang-violence.html">Explosion of Gang Violence Grips El Salvador, Setting Record</a> NYT: Gangs went on a killing spree, gunning down anyone on the street. At least 62 were killed on Saturday, the deadliest day on record since the country’s civil war ended 30 years ago. 
  <p class="updated_time"> 07:28 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/us/politics/biden-ukraine.html">After Biden’s Fiery Speech, Nine Unscripted Words Reverberate</a> NYT: Administration officials were forced to walk back the ad-lib that Russian President Vladimir V. Putin “cannot remain in power,” which captured the attention of foreign policy experts, lawmakers and allies. 
- <p class="updated_time"> 06:49 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
+ <p class="updated_time"> 06:55 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 06:32 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-media-zelensky.html">Zelensky Gives Interview to Russian Journalists. Moscow Orders It Quashed.</a> NYT: The remarkable interview was still published by journalists outside of Russia, an episode that laid bare the extraordinary, and partly successful, efforts at censorship by Moscow. 
  <p class="updated_time"> 06:26 PM CT, Mar. 27 </p> 
@@ -45,14 +49,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60870739?at_medium=RSS&at_campaign=KARANGA">Beatings and forced abortions: Life in a North Korea prison</a> BBC: A new investigation sheds more light on human rights violations in North Korean prisons. 
  <p class="updated_time"> 05:58 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-ukraine-war-combat.html">As Ukraine War Moves Into 2nd Month, Fears Grow of Mariupol’s Fall to Russia</a> NYT: Ukraine’s top military intelligence officer suggested that Russia was changing its military focus to the south and east and might be trying to divide the country. 
- <p class="updated_time"> 05:49 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
+ <p class="updated_time"> 05:55 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 05:13 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/lviv-ukraine-russia-missile-strikes.html">In Lviv, New Russian Strikes Pierce the Sense of Security in West</a> NYT: Residents in the western city of Lviv once ignored the air raid sirens. But Russian rocket attacks over the weekend have brought the war closer to their doorstep. 
  <p class="updated_time"> 04:50 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60894142?at_medium=RSS&at_campaign=KARANGA">Russia transfers thousands of Mariupol civilians to its territory</a> BBC: Ukraine condemns Russia's alleged "deportation" of many civilians from devastated Mariupol. 
- <p class="updated_time"> 04:49 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 04:33 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel attack: Two shot dead in Hadera</a> BBC: Six other people were injured in the attack by two gunmen in the city of Hadera. 
  <p class="updated_time"> 04:11 PM CT, Mar. 27 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
  <p class="updated_time"> 02:07 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
- <p class="updated_time"> 01:47 AM CT, Mar. 27 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60890202?at_medium=RSS&at_campaign=KARANGA">Taylor Hawkins: Drugs found in body of late Foo Fighters drummer</a> BBC: Colombian investigators examining the death of Taylor Hawkins are yet to establish a cause. 
  <p class="updated_time"> 09:13 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">What Did Biden Say About Russia? </a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
  <p class="updated_time"> 07:23 PM CT, Mar. 26 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/will-smith-slap-chris-rock-pressley-00020786">Ayanna Pressley praises Will Smith's slap, then apparently deletes tweet</a> Politico: She said: "Alopecia nation stand up!" 
  <p class="updated_time"> 09:35 PM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/china-shanghai-covid-lockdown-00020778">Much of Shanghai locked down as mass Covid-19 testing begins</a> Politico: China has continued to pursue a “zero-Covid” strategy. 
  <p class="updated_time"> 08:59 PM CT, Mar. 27 </p> 
