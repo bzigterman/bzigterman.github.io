@@ -9,25 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Live Updates: Biden Says He Stands by His Putin Comments</a> NYT: The president said he was expressing his ‘moral outrage,’ not a policy change, when he said the Russian strongman should not be in power. Despite talk of Russia targeting the east of Ukraine, action on several battlefronts suggested a more dynamic and volatile situation. 
+ <p class="updated_time"> 02:49 PM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/28/world/israel-arab-nations-meeting">Israel, U.S. and 4 Arab Nations Focus on Security at Summit</a> NYT: The talks centered on shared concerns, particularly over Iran, and on food shortages brought on by the war in Ukraine, which are being felt in Egypt and Morocco, two of the attendees. 
+ <p class="updated_time"> 02:40 PM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60908869?at_medium=RSS&at_campaign=KARANGA">Oscars condemns Will Smith slap and launches review</a> BBC: The Oscars film academy says it "condemns" the slapping of Chris Rock and launches a formal review. 
+ <p class="updated_time"> 02:40 PM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/28/world/americas/honduras-president-extradition.html">Honduran ex-President Loses Appeal to Stop Extradition to the U.S.</a> NYT: The Honduran Supreme Court ruled against a motion to block the extradition request filed by the United States, exhausting Juan Orlando Hernández’s last legal recourse to avoid facing trial abroad. 
  <p class="updated_time"> 02:18 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089229500/kangaroos-rescued-ukraine-ecopark-kharkiv">A bunch of kangaroos are the latest animals to be rescued from a hard-hit Kharkiv zoo</a> NPR: The Feldman Ecopark in the hard-hit city of Kharkiv has lost many animals and even several staff members to Russian shelling in the past month. It's now trying to evacuate as many animals as possible. 
- <p class="updated_time"> 02:04 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Live Updates: Ukraine Sees Fighting on Multiple Fronts</a> NYT: Despite talk of Russia focusing its ambitions in the east, action on several battlefronts suggested a more dynamic and volatile situation. Ukraine and Russia will meet this week for in-person talks. 
  <p class="updated_time"> 02:03 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/pope-indigenous-schools-canada-apology.html">Pope Francis Meets With Canadian Indigenous Leaders Seeking Apology</a> NYT: For the first time, Francis received Indigenous survivors of abusive boarding schools in Canada who were seeking the pontiff’s apology over the church’s role in running the schools. 
+ <p class="updated_time"> 01:51 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 01:29 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60904676?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich suffered suspected poisoning at talks</a> BBC: The billionaire suffered suspected poisoning at talks in Ukraine this month, sources close to him say. 
- <p class="updated_time"> 01:27 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 01:14 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089241047/eric-zemmour-right-wing-jewish-politician-holocaust-denial">A Jewish, far-right politician is being sued for Holocaust denial in France</a> NPR: The case against Eric Zemmour is the first time someone is accused of Holocaust denial for alleging French homosexuals weren't deported during the war, the plaintiffs say. 
  <p class="updated_time"> 01:09 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/russia-ukraine-nato-weapons.html">Would Putin Strike NATO Supply Lines to Ukraine? History Suggests No.</a> NYT: From the Soviets in Afghanistan to the U.S. in Korea, Moscow and Washington have often chosen not to attack the countries aiding their enemies. 
  <p class="updated_time"> 01:08 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
- <p class="updated_time"> 12:57 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/03/28/world/israel-arab-nations-meeting">Israel, U.S. and 4 Arab Nations Focus on Security at Summit</a> NYT: The talks centered on shared concerns, particularly over Iran, and on food shortages brought on by the war in Ukraine, which are being felt in Egypt and Morocco, two of the attendees. 
- <p class="updated_time"> 12:27 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 12:51 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 12:20 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/asia/india-modi-general-strike.html">India General Strike Protests Narendra Modi’s Economic Policies</a> NYT: The two-day strike, involving both public and private sector workers, was called to protest the Modi government’s economic policies, including a privatization plan. 
@@ -35,18 +39,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/americas/el-salvador-gang-violence.html">El Salvador Declares State of Emergency After Gang Killings</a> NYT: Gangs went on a killing spree, gunning down anyone on the street. At least 62 were killed on Saturday, the deadliest day on record since the country’s civil war ended 30 years ago. 
  <p class="updated_time"> 12:16 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089229499/german-states-outlaw-z">German states outlaw displays of the letter 'Z,' a symbol of Russia's war in Ukraine</a> NPR: Displaying a "Z" in Bavaria or Lower Saxony could result in a fine or up to three years in jail. People across Germany who use the letter could also be liable to prosecution, an official said Monday. 
- <p class="updated_time"> 11:27 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 11:51 AM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 11:23 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
- <p class="updated_time"> 11:01 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60897004?at_medium=RSS&at_campaign=KARANGA">Will Smith hits Chris Rock on Oscars stage</a> BBC: The best actor winner apologises to the Academy - but not to Rock - after striking the comedian. 
- <p class="updated_time"> 10:27 AM CT, Mar. 28 </p> 
+ <p class="updated_time"> 10:51 AM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
+ <p class="updated_time"> 09:51 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/for-japans-leader-russian-gas-is-a-hometown-affair-11648454089">For Japan’s Leader, Russian Gas Is Also a Hometown Affair</a> WSJ: For Japan’s Leader, Russian Gas Is Also a Hometown Affair 
  <p class="updated_time"> 09:46 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089167897/ukraine-closes-humanitarian-corridors-because-it-says-russia-may-attack-them">Ukraine closes humanitarian corridors because it says Russia may attack them</a> NPR: Intelligence reports warned of Russian provocations along the routes, Ukrainian officials said. Ukraine and Russia have regularly agreed to establish corridors from some of the hardest-hit cities. 
- <p class="updated_time"> 09:27 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/for-japans-leader-russian-gas-is-a-hometown-affair-11648454089">For Japan’s Leader, Russian Gas Is Also a Hometown Affair</a> WSJ: For Japan’s Leader, Russian Gas Is Also a Hometown Affair 
  <p class="updated_time"> 08:42 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60901024?at_medium=RSS&at_campaign=KARANGA">Zelensky says Ukraine prepared to discuss neutrality in peace talks</a> BBC: Ukraine's president says his country is open to adopting a neutral status as part of a possible peace deal. 
  <p class="updated_time"> 08:31 AM CT, Mar. 28 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/tyler-jacob-minnesota-ukraine.html">Tyler Jacob of Minnesota Is Released After Being Held by Russian Troops</a> NYT: Tyler Jacob was taken off a bus by Russian soldiers at a checkpoint in Crimea, his mother said. He had been teaching English in the Ukrainian city of Kherson. 
  <p class="updated_time"> 02:11 AM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/health/ukraine-health-tb-hiv.html">Public Health Catastrophe Looms in Ukraine, Experts Warn</a> NYT: Even before the war, the country struggled with epidemics of H.I.V., tuberculosis and hepatitis. The conflict threatens to undo decades of progress. 
- <p class="updated_time"> 05:55 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/russian-mercenaries-ukraine-wagner-group.html">More Russian Mercenaries Deploying to Ukraine to Take On Greater Role in War</a> NYT: At least 1,000 fighters from Russia’s Wagner Group are expected to focus on the Kremlin’s goal of seizing eastern Ukraine. 
 
 
 </details>
@@ -198,26 +198,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:28 PM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/28/us/politics/ginni-thomas-jan-6.html">Jan. 6 Panel Is Likely to Seek Interview With Ginni Thomas</a> NYT: The House committee is reaching out to the wife of Justice Clarence Thomas after public disclosure of text messages documenting her support for President Donald J. Trump’s efforts to overturn the election. 
+ <p class="updated_time"> 02:25 PM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-billionaire-tax.html">Biden Proposes Tax on Billionaires as Way to Fund Economic Agenda</a> NYT: The new tax would apply to the richest Americans and would target unrealized capital gains. 
  <p class="updated_time"> 01:53 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/trump-election-crimes.html">Federal Judge Finds Trump Most Likely Committed Crimes Over 2020 Election</a> NYT: “The illegality of the plan was obvious,” the judge wrote in a civil case, referring to the former president’s efforts to persuade Vice President Mike Pence to upend the certification of the Electoral College results. 
  <p class="updated_time"> 01:47 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-budget-deficit.html">Biden’s Budget Aims to Shrink Deficit</a> NYT: President Biden looks to win support from moderates and emphasizes fiscal responsibility. 
  <p class="updated_time"> 01:19 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089263653/ginni-thomas-jan-6-committee-text-messages-meadows">Jan. 6 committee chairman to recommend inviting Ginni Thomas to appear</a> NPR: "It appears that Mrs. Thomas has information relevant to our investigation" the panel said after reports she had exchanged text messages with Trump's chief of staff ahead of the attack on the Capitol. 
+ <a href="https://www.npr.org/2022/03/28/1089263653/ginni-thomas-jan-6-committee-text-messages-meadows">Jan. 6 committee chairman to recommend inviting Ginni Thomas to appear</a> NPR: "It appears that Mrs. Thomas has information relevant to our investigation," the panel said after reports that she had exchanged text messages with Trump's chief of staff ahead of the Capitol attack. 
  <p class="updated_time"> 01:14 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089241047/eric-zemmour-right-wing-jewish-politician-holocaust-denial">A Jewish, far-right politician is being sued for Holocaust denial in France</a> NPR: The case against Eric Zemmour is the first time someone is accused of Holocaust denial for alleging French homosexuals weren't deported during the war, the plaintiffs say. 
  <p class="updated_time"> 01:09 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-budget-politics.html">Biden’s Center-Leaning Budget Bends to Political Reality</a> NYT: The president’s budget addresses the main attack lines that Republicans are using against him and his Democratic allies in Congress in the run-up to midterm congressional elections. 
  <p class="updated_time"> 01:09 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/russia-ukraine-nato-weapons.html">Would Putin Strike NATO Supply Lines to Ukraine? History Suggests No.</a> NYT: From the Soviets in Afghanistan to the U.S. in Korea, Moscow and Washington have often chosen not to attack the countries aiding their enemies. 
- <p class="updated_time"> 12:59 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/28/us/politics/ginni-thomas-jan-6.html">Jan. 6 Panel to Seek Interview With Ginni Thomas</a> NYT: The House committee is reaching out to the wife of Justice Clarence Thomas after public disclosure of text messages documenting her support for President Donald J. Trump’s efforts to overturn the election. 
  <p class="updated_time"> 12:48 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/business/media/rumble-social-media-conservatives-videos.html">Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions</a> NYT: The company, supported by Donald Trump, Peter Thiel and other prominent conservatives, wants to help build a “new internet” independent from Silicon Valley’s titans. 
  <p class="updated_time"> 12:40 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/supreme-court-andy-warhol-prince.html">Supreme Court to Hear Copyright Fight Over Andy Warhol’s Images of Prince</a> NYT: The justices will decide whether the artist’s reliance on a photograph of the musician was copyright infringement or protected as a new, transformative work. 
- <p class="updated_time"> 12:40 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-billionaire-tax.html">Biden Proposes Tax on Billionaires as Way to Fund Economic Agenda</a> NYT: The new tax would apply to the richest Americans and would target unrealized capital gains. 
  <p class="updated_time"> 12:19 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-indian-health-service-funding.html">Biden Administration Moves to Make Funding for Indian Health Service Mandatory</a> NYT: The budget request for the Indian Health Service calls for increasing the agency’s budget to $9.1 billion, a more than 20 percent increase from the previous funding level. 
  <p class="updated_time"> 12:12 PM CT, Mar. 28 </p> 
@@ -279,7 +279,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:35 PM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/china-shanghai-covid-lockdown-00020778">Much of Shanghai locked down as mass Covid-19 testing begins</a> Politico: China has continued to pursue a “zero-Covid” strategy. 
  <p class="updated_time"> 08:37 PM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/27/us/politics/peter-navarro-dan-scavino-contempt.html">Jan. 6 Panel Makes Case for Contempt Charges for 2 Former Trump Aides</a> NYT: The House committee investigating the Capitol riot issued a report on Peter Navarro and Dan Scavino Jr.’s roles in efforts to overturn Donald Trump’s election loss. 
+ <a href="https://www.nytimes.com/2022/03/27/us/politics/peter-navarro-dan-scavino-contempt.html">Jan. 6 Panel Argues for Contempt Charges for Former Trump Aides </a> NYT: The House committee investigating the Capitol riot issued a report on Peter Navarro and Dan Scavino Jr.’s roles in efforts to overturn Donald Trump’s election loss. 
  <p class="updated_time"> 08:37 PM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/karine-jean-pierre-covid-00020765">White House deputy press secretary tests positive for Covid</a> Politico: "I last saw the President during a socially distanced meeting yesterday," Karine Jean-Pierre said. 
  <p class="updated_time"> 07:28 PM CT, Mar. 27 </p> 
@@ -322,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/26/federal-energy-regulatory-commission-glick-senate-00017800">Biden's most effective climate warrior faces potential doom in the Senate</a> Politico: The head of the Federal Energy Regulatory Commission, Richard Glick, may see his efforts to put climate change at the forefront of federal energy policy cost him his job. 
  <p class="updated_time"> 06:01 AM CT, Mar. 26 </p> 
  <a href="https://www.politico.com/news/2022/03/26/trump-allies-elections-vote-counting-00020574">Trump backers push election change that would make counting slower, costlier and less accurate</a> Politico: Ditching machine tabulators and replacing them with people counting votes by hand has become a new fixation on the right. 
- <p class="updated_time"> 02:29 PM CT, Mar. 25 </p> 
- <a href="https://www.politico.com/news/2022/03/25/bidens-summit-with-southeast-asian-leaders-postponed-00020543">Biden’s summit with Southeast Asian leaders postponed</a> Politico: The month-long conflict in Eastern Europe has injected a new urgency into U.S. efforts to reinvigorate old alliances and cultivate new ones, including in the Asia-Pacific. 
 
 
 </details>
