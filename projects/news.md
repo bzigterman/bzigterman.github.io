@@ -9,38 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:25 AM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Here’s What Happened on Day 32 of the War in Ukraine</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing on seizing Mariupol. Officials warned that Russia may try to divide Ukraine. Kyiv’s schools will resume online classes on Monday. 
+ <p class="updated_time"> 02:20 AM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60896794?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid: Oil prices fall after city starts lockdown</a> BBC: The nine-day lockdown of Shanghai is China's largest since the coronavirus outbreak began. 
  <p class="updated_time"> 02:00 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/technology/nokia-russia-surveillance-system-sorm.html">When Nokia Pulled Out of Russia, a Vast Surveillance System Remained</a> NYT: The Finnish company played a key role in enabling Russia’s cyberspying, documents show, raising questions of corporate responsibility. 
- <p class="updated_time"> 01:48 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60896794?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid: Oil prices fall after city starts lockdown</a> BBC: The nine-day lockdown of Shanghai is China's largest since the coronavirus outbreak began. 
+ <p class="updated_time"> 01:38 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 01:02 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60897004?at_medium=RSS&at_campaign=KARANGA">Will Smith hits Chris Rock on Oscars stage</a> BBC: The best actor winner apologises after striking the comedian, who made a joke about Smith's wife. 
- <p class="updated_time"> 01:01 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 12:46 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
- <p class="updated_time"> 12:37 AM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Here’s What Happened on Day 32 of the War in Ukraine</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing on seizing Mariupol. Officials warned that Russia may try to divide Ukraine. Kyiv’s schools will resume online classes on Monday. 
+ <p class="updated_time"> 12:38 AM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden’s Remark on Putin Stirs Anxiety Among Western Allies</a> WSJ: Biden’s Remark on Putin Stirs Anxiety Among Western Allies 
  <p class="updated_time"> 12:03 AM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60878663?at_medium=RSS&at_campaign=KARANGA">Boris Nemtsov: Murdered Putin rival 'tailed' by agent linked to FSB hit squad</a> BBC: An investigation finds evidence Boris Nemtsov was shadowed by an agent linked to an assassination team. 
- <p class="updated_time"> 12:01 AM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden’s Remark on Putin Stirs Anxiety Among Western Allies</a> WSJ: Biden’s Remark on Putin Stirs Anxiety Among Western Allies 
+ <p class="updated_time"> 11:38 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 11:33 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
  <p class="updated_time"> 11:31 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel attack: Two police officers shot dead in Hadera</a> BBC: The Islamic State group said it was behind the attack, in which six other people were injured. 
- <p class="updated_time"> 11:01 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 10:55 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/asia/china-eastern-boeing-crash.html">China Plane Crash: Second ‘Black Box’ Is Found, Officials Say</a> NYT: The cause of the crash of China Eastern Flight 5735, which killed 132 people on Monday, remains unknown. 
  <p class="updated_time"> 10:47 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
- <p class="updated_time"> 10:01 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 10:38 PM CT, Mar. 27 </p> 
  <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
+ <p class="updated_time"> 09:38 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 09:02 PM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089107011/china-shanghai-covid-lockdown">China is locking down most of its largest city to fight COVID</a> NPR: Already, many communities within the city of 26 million have been locked down, with their residents required to submit to multiple tests for COVID-19. 
- <p class="updated_time"> 09:01 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 08:56 PM CT, Mar. 27 </p> 
  <a href="https://www.npr.org/2022/03/27/1089088061/machu-picchu-huayna-wrong-name">Historians say explorers got it wrong: It's not Machu Picchu, it's Huayna Picchu</a> NPR: A Peruvian historian and an American archeologist say the site's re-discoverer was given bad information when he arrived at the ancient Incan ruins — and we've all been going along with it. 
  <p class="updated_time"> 07:39 PM CT, Mar. 27 </p> 
@@ -204,6 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:14 AM CT, Mar. 28 </p> 
+ <a href="https://www.npr.org/2022/03/28/1089114507/white-house-spokesperson-spokeswoman-karine-jean-pierre-covid-19-biden">White House spokesperson Karine Jean-Pierre tests positive for COVID-19</a> NPR: Jean-Pierre said she saw President Biden at a meeting Saturday, but they were socially distanced, and he would not be considered a close contact by the Centers of Disease Control and Prevention. 
+ <p class="updated_time"> 02:00 AM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/28/business/media/rumble-conservatives.html">Rumble, the Right’s Go-To Video Site, Has Much Bigger Ambitions</a> NYT: The company, supported by Donald Trump, Peter Thiel and other prominent conservatives, wants to help build a “new internet” independent from Silicon Valley’s titans. 
  <p class="updated_time"> 10:44 PM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/will-smith-slap-chris-rock-pressley-00020786">Ayanna Pressley praises Will Smith's slap, then apparently deletes tweet</a> Politico: She said: "Alopecia nation stand up!" 
  <p class="updated_time"> 09:35 PM CT, Mar. 27 </p> 
@@ -294,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/26/federal-energy-regulatory-commission-glick-senate-00017800">Biden's most effective climate warrior faces potential doom in the Senate</a> Politico: The head of the Federal Energy Regulatory Commission, Richard Glick, may see his efforts to put climate change at the forefront of federal energy policy cost him his job. 
  <p class="updated_time"> 06:01 AM CT, Mar. 26 </p> 
  <a href="https://www.politico.com/news/2022/03/26/trump-allies-elections-vote-counting-00020574">Trump backers push election change that would make counting slower, costlier and less accurate</a> Politico: Ditching machine tabulators and replacing them with people counting votes by hand has become a new fixation on the right. 
- <p class="updated_time"> 10:53 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/manchin-jackson-supreme-court.html">Manchin Backs Jackson as Democrats Unite Behind Confirmation</a> NYT: The support of the centrist from West Virginia shows that Democrats are unifying behind Judge Ketanji Brown Jackson’s nomination in the face of strong Republican opposition. 
  <p class="updated_time"> 06:36 PM CT, Mar. 25 </p> 
  <a href="https://www.npr.org/2022/03/25/1088868411/supreme-court-justice-thomas-wife-ginni-has-a-long-history-of-conservative-activ">Supreme Court Justice Thomas' wife Ginni has a long history of conservative activism</a> NPR: The text messages Virginia Thomas sent Trump's chief of staff pushing false claims about the 2020 election are the latest in her often public work to support conservative Republicans. 
  <p class="updated_time"> 06:01 PM CT, Mar. 25 </p> 
@@ -310,16 +312,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/25/1088933780/text-messages-reveal-ginni-thomas-urged-mark-meadows-to-overturning-election-res">Text messages reveal Ginni Thomas urged Mark Meadows to overturning election results</a> NPR: Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, was in touch with former President Trump's top aide after the 2020 presidential election and pursued efforts to overturn the results. 
  <p class="updated_time"> 04:20 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/russia-kyiv-offensive-ukraine-counterattack-00020622">Russia’s Kyiv offensive stalls, as Ukrainians counterattack in the south</a> Politico: The stalemated Russian assault has been a major headache for the Kremlin, but U.S. officials warn of new troops on the move toward Ukraine. 
- <p class="updated_time"> 04:18 PM CT, Mar. 25 </p> 
- <a href="https://www.npr.org/2022/03/25/1088856197/russia-ukraine-war-what-happened-today-march-25">Russia-Ukraine war: What happened today (March 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:17 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/supreme-court-navy-covid-vaccines.html">Supreme Court Rules Against Navy SEALs in Vaccine Mandate Case</a> NYT: The justices blocked a ruling that would have prevented the Pentagon from taking into account whether service members with religious objections were vaccinated. 
  <p class="updated_time"> 04:06 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/us/politics/maryland-redistricting-map-judge-ruling.html">Maryland Judge Throws Out Democrats’ Congressional Redistricting Map</a> NYT: The ruling, in which the judge said Democrats had drawn an “extreme gerrymander,” was the first time this redistricting cycle that the party’s legislators had a congressional map defeated in court. 
  <p class="updated_time"> 02:29 PM CT, Mar. 25 </p> 
  <a href="https://www.politico.com/news/2022/03/25/bidens-summit-with-southeast-asian-leaders-postponed-00020543">Biden’s summit with Southeast Asian leaders postponed</a> Politico: The month-long conflict in Eastern Europe has injected a new urgency into U.S. efforts to reinvigorate old alliances and cultivate new ones, including in the Asia-Pacific. 
- <p class="updated_time"> 02:14 PM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/us/politics/justice-clarence-thomas-hospital-discharged.html">Justice Clarence Thomas Discharged From Hospital, Court Says</a> NYT: The Supreme Court justice, 73, had been hospitalized for a week with flulike symptoms. 
  <p class="updated_time"> 01:21 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/business/economy/federal-reserve-inflation-recession.html">The Fed Bets on a ‘Soft Landing,’ but Recession Risk Looms</a> NYT: Central bankers have been clear that they will do what it takes to control inflation. They are betting on a soft landing, but a bumpy one is possible. 
  <p class="updated_time"> 10:38 AM CT, Mar. 25 </p> 
