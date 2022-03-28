@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:32 PM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Regroup, Focusing Efforts on Strategic Targets</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing fully on seizing Mariupol. Officials warned that Russia may try to divide Ukraine by consolidating territory in the east and south. 
+ <p class="updated_time"> 08:16 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/27/world/ukraine-russia-war">Ukraine Live Updates: Russian Forces Regroup, Focusing Efforts on Strategic Targets</a> NYT: Russian troops are consolidating their positions in key spots and resisting Ukrainian attempts to break their grip, while focusing on seizing Mariupol. Officials warned that Russia may try to divide Ukraine. Kyiv’s schools will resume online classes on Monday. 
+ <p class="updated_time"> 07:39 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/world/americas/el-salvador-gang-violence.html">Explosion of Gang Violence Grips El Salvador, Setting Record</a> NYT: Gangs went on a killing spree, gunning down anyone on the street. At least 62 were killed on Saturday, the deadliest day on record since the country’s civil war ended 30 years ago. 
+ <p class="updated_time"> 07:28 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/us/politics/biden-ukraine.html">After Biden’s Fiery Speech, Nine Unscripted Words Reverberate</a> NYT: Administration officials were forced to walk back the ad-lib that Russian President Vladimir V. Putin “cannot remain in power,” which captured the attention of foreign policy experts, lawmakers and allies. 
+ <p class="updated_time"> 07:25 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 06:32 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-media-zelensky.html">Zelensky Gives Interview to Russian Journalists. Moscow Orders It Quashed.</a> NYT: The remarkable interview was still published by journalists outside of Russia, an episode that laid bare the extraordinary, and partly successful, efforts at censorship by Moscow. 
  <p class="updated_time"> 06:26 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-60608282?at_medium=RSS&at_campaign=KARANGA">Russian oligarchs: Where do they hide their 'dark money'?</a> BBC: Russians have an estimated $1tn hidden around the world and countries are trying to find it. 
+ <p class="updated_time"> 06:25 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden’s Remark on Putin Stirs Anxiety Among Western Allies</a> WSJ: Biden’s Remark on Putin Stirs Anxiety Among Western Allies 
  <p class="updated_time"> 06:20 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60886147?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Anti-war Russians intimidated on their doorsteps</a> BBC: The doors of Russian journalists and activists who speak out against the war are being vandalised. 
  <p class="updated_time"> 06:17 PM CT, Mar. 27 </p> 
@@ -29,34 +37,28 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60870739?at_medium=RSS&at_campaign=KARANGA">Beatings and forced abortions: Life in a North Korea prison</a> BBC: A new investigation sheds more light on human rights violations in North Korean prisons. 
  <p class="updated_time"> 05:58 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-ukraine-war-combat.html">As Ukraine War Moves Into 2nd Month, Fears Grow of Mariupol’s Fall to Russia</a> NYT: Ukraine’s top military intelligence officer suggested that Russia was changing its military focus to the south and east and might be trying to divide the country. 
- <p class="updated_time"> 05:44 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-seeks-to-exploit-shift-in-russias-military-strategy-11648385217">Ukraine Seeks to Exploit Shift in Russia’s Military Strategy</a> WSJ: Ukraine Seeks to Exploit Shift in Russia’s Military Strategy 
  <p class="updated_time"> 05:30 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president is looking for support from Hollywood. But his appeal to speak during the Oscars has encountered drama of its own. 
+ <p class="updated_time"> 05:25 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
  <p class="updated_time"> 05:13 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/lviv-ukraine-russia-missile-strikes.html">In Lviv, New Russian Strikes Pierce the Sense of Security in West</a> NYT: Residents in the western city of Lviv once ignored the air raid sirens. But Russian rocket attacks over the weekend have brought the war closer to their doorstep. 
  <p class="updated_time"> 04:50 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60894142?at_medium=RSS&at_campaign=KARANGA">Russia transfers thousands of Mariupol civilians to its territory</a> BBC: Ukraine condemns Russia's alleged "deportation" of many civilians from devastated Mariupol. 
- <p class="updated_time"> 04:44 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-officials-rush-to-clarify-bidens-comment-on-russias-putin-11648401478">Biden Comes Under Fire for Comment on Russia’s Putin</a> WSJ: Biden Comes Under Fire for Comment on Russia’s Putin 
  <p class="updated_time"> 04:33 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel attack: Two shot dead in Hadera</a> BBC: Six other people were injured in the attack by two gunmen in the city of Hadera. 
+ <p class="updated_time"> 04:25 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 04:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
  <p class="updated_time"> 03:56 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60893650?at_medium=RSS&at_campaign=KARANGA">Army boss raises partition fears: Ukraine round-up</a> BBC: Ukraine's military intelligence chief fears a Korea-style outcome as Biden's jab at Putin makes further waves. 
- <p class="updated_time"> 03:44 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/there-is-no-fear-a-ukrainian-mother-risks-all-to-retrieve-her-son-11648389838">‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son</a> WSJ: ‘There Is No Fear’: A Ukrainian Mother Risks All to Retrieve Her Son 
+ <p class="updated_time"> 03:25 PM CT, Mar. 27 </p> 
+ <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 02:53 PM CT, Mar. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60893054?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Taliban bars BBC TV programmes from schedules</a> BBC: Radio and online are unaffected as the regime stops local TV showing international partner content. 
- <p class="updated_time"> 02:48 PM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/europe/vera-gissing-dead.html">Vera Gissing, Who Was Rescued by ‘Britain’s Schindler,’ Dies at 93</a> NYT: She was not quite 11 when train convoys organized by a London stockbroker carried her and hundreds of other Jewish children from Czechoslovakia on the eve of World War II. 
- <p class="updated_time"> 02:44 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/a-middle-east-geopolitical-realignment-accelerates-to-confront-and-contain-iran-11648397242">A Mideast Geopolitical Realignment Accelerates to Confront Iran</a> WSJ: A Mideast Geopolitical Realignment Accelerates to Confront Iran 
  <p class="updated_time"> 02:11 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/vladimir-putin-russia.html">The Making of Vladimir Putin</a> NYT: Tracing Putin’s 22-year slide from statesman to tyrant. 
- <p class="updated_time"> 01:44 PM CT, Mar. 27 </p> 
- <a href="https://www.wsj.com/articles/deadly-plane-crash-is-rare-challenge-for-chinas-air-safety-officials-11648382401">Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials</a> WSJ: Deadly Plane Crash Is Rare Challenge for China’s Air-Safety Officials 
  <p class="updated_time"> 01:40 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/25/world/americas/mexico-international-airport.html">Mexico’s New International Airport Is Not Quite Ready for Takeoff</a> NYT: Mexico’s president inaugurated the first of a series of long-promised infrastructure projects — possibly a little too soon. 
  <p class="updated_time"> 12:27 PM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/25/world/europe/ukraine-war-social-media.html">How Ukrainians Are Using Social Media to Stir Resistance</a> NYT: Photos and videos of the war’s horrors have spread quickly, searing into the global public consciousness and providing powerful ammunition in the information battle. 
- <p class="updated_time"> 10:14 AM CT, Mar. 25 </p> 
- <a href="https://www.nytimes.com/2022/03/25/world/europe/eu-zelensky-hungary-sanctions-ukraine.html">In Speech to E.U., Zelensky Singles Out Hungary Over Sanctions</a> NYT: Addressing the Hungarian leader, Viktor Orban, directly, Volodymyr Zelensky said, “You have to decide for yourself who you are with.” 
  <p class="updated_time"> 08:15 AM CT, Mar. 25 </p> 
  <a href="https://www.nytimes.com/2022/03/24/world/europe/ukraine-war-russia-stalemate.html">How One Month of War in Ukraine Ground to a Bloody Stalemate</a> NYT: In four weeks, huge numbers of civilians have been bombed and displaced, but Russia has so far achieved almost none of its military objectives, analysts say. 
  <p class="updated_time"> 07:33 AM CT, Mar. 25 </p> 
@@ -206,8 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:28 PM CT, Mar. 27 </p> 
+ <p class="updated_time"> 07:28 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/us/politics/biden-ukraine.html">After Biden’s Fiery Speech, Nine Unscripted Words Reverberate</a> NYT: Administration officials were forced to walk back the ad-lib that Russian President Vladimir V. Putin “cannot remain in power,” which captured the attention of foreign policy experts, lawmakers and allies. 
+ <p class="updated_time"> 07:06 PM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/contempt-report-biden-privilege-claim-dan-scavino-00020749">Contempt report: Biden turned down privilege claim by Dan Scavino</a> Politico: The disclosure comes as the Jan. 6 committee prepares to begin contempt proceedings against the longtime Trump social media manager and another aide, Peter Navarro. 
+ <p class="updated_time"> 06:40 PM CT, Mar. 27 </p> 
+ <a href="https://www.politico.com/news/2022/03/27/ukraine-pleads-help-russia-split-00020747">Ukraine pleads for help, says Russia wants to split nation</a> Politico: President Volodymyr Zelenskyy accused the West of cowardice. 
  <p class="updated_time"> 01:40 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
  <p class="updated_time"> 01:25 PM CT, Mar. 27 </p> 
@@ -247,15 +251,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/bidens-cyber-warnings-00020638">The hard truth behind Biden’s cyber warnings</a> Politico: Hackers from Russia and elsewhere have repeatedly breached companies and agencies critical to the nation's welfare. "We should consider every sector vulnerable,” one of the president's top cyber aides says. 
  <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
- <a href="https://www.politico.com/news/2022/03/27/pressure-builds-on-white-house-to-end-divisive-health-border-policy-00020553">Pressure builds on White House to end divisive health-border policy</a> Politico: A Trump-era rule blocks migrants to prevent the threat of Covid-19. 
- <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/democrats-bail-reform-partys-progressive-moderate-00020455">Democrats’ fight over bail reform might be a fight for the party’s direction</a> Politico: The debate has become a growing symbol of rifts among progressive and moderate Democrats. 
  <p class="updated_time"> 10:31 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/biden-billionaires-minimum-tax.html">Biden to Include Minimum Tax on Billionaires in Budget Proposal</a> NYT: The tax would require that American households worth more than $100 million pay a rate of at least 20 percent on their income as well as unrealized gains in the value of liquid assets like stocks. 
  <p class="updated_time"> 09:40 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/us/politics/9-11-case-negotiations-guantanamo.html">Plea Negotiations in Sept. 11 Case Go on Hiatus for Ramadan</a> NYT: Hearings in the death penalty case are scheduled for May but could be postponed because one defendant needs a new lawyer. 
  <p class="updated_time"> 08:45 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/us/politics/jeff-fortenberry-resigns.html">Nebraska Congressman to Resign After Being Found Guilty of Lying to F.B.I.</a> NYT: Representative Jeff Fortenberry announced he would leave his seat at the end of the month, just days after he was convicted on charges of lying to investigators about an illegal campaign donation. 
+ <a href="https://www.nytimes.com/2022/03/26/us/politics/jeff-fortenberry-resigns.html">Jeff Fortenberry to Resign After Being Found Guilty of Lying to  F.B.I.</a> NYT: Representative Jeff Fortenberry announced he would leave his seat at the end of the month, just days after he was convicted on charges of lying to investigators about an illegal campaign donation. 
  <p class="updated_time"> 08:00 PM CT, Mar. 26 </p> 
  <a href="https://www.politico.com/news/2022/03/26/biden-to-propose-new-tax-on-the-uber-rich-00020682">Biden to propose new tax on the uber rich</a> Politico: The administration says that the tax would hit the top 0.01 percent of households, generating $360 billion over the next decade, with half of that coming from billionaires. 
  <p class="updated_time"> 05:44 PM CT, Mar. 26 </p> 
