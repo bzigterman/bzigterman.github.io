@@ -12,29 +12,29 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
  <p class="updated_time"> 11:33 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/29/1089382318/disabled-malaysian-loses-appeal-will-be-hanged-in-singapore">Disabled Malaysian loses appeal, will be hanged in Singapore</a> NPR: The Malaysian man recognized as having an intellectual disability has been on death row since 2010 for trying to smuggle less than 43 grams (1.5 ounces) of heroin into Singapore. 
+ <a href="https://www.npr.org/2022/03/29/1089382318/disabled-malaysian-loses-appeal-will-be-hanged-in-singapore">Disabled Malaysian man loses appeal, will be hanged in Singapore</a> NPR: The Malaysian man recognized as having an intellectual disability has been on death row since 2010 for trying to smuggle less than 1.5 ounces of heroin into Singapore. 
  <p class="updated_time"> 11:22 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Live Updates: Biden Says He Stands by His Putin Comments</a> NYT: The president said he was expressing his ‘moral outrage,’ not a policy change, when he said the Russian strongman should not be in power. Despite talk of Russia targeting the east of Ukraine, action on several battlefronts suggested a more dynamic and volatile situation. 
  <p class="updated_time"> 11:18 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/pope-indigenous-schools-canada-apology.html">Pope Francis Meets With Canadian Indigenous Leaders Seeking Apology</a> NYT: For the first time, Francis received Indigenous survivors of abusive boarding schools in Canada who were seeking the pontiff’s apology over the church’s role in running the schools. 
- <p class="updated_time"> 10:56 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 11:14 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 10:50 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html">Does Social Media Make Teens Unhappy? It May Depend on Their Age.</a> NYT: A large study in Britain found two specific windows of adolescence when some teenagers are most sensitive to social media. 
  <p class="updated_time"> 10:42 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/americas/el-salvador-gang-violence-bukele.html">Hundreds Arrested in El Salvador, Raising Fears of a Civil Liberties Crackdown</a> NYT: The Salvadoran government’s response to the weekend’s gang violence that left dozens dead is stoking fears that the emergency measures will allow President Nayib Bukele to further consolidate power. 
- <p class="updated_time"> 09:56 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 10:14 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
- <p class="updated_time"> 08:56 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 09:14 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
+ <p class="updated_time"> 08:14 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 08:08 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60710362?at_medium=RSS&at_campaign=KARANGA">Algeria's cash crunch: 'Buying oil feels like buying drugs'</a> BBC: Shoppers in Algeria go to great lengths to buy basic foods as stocks dwindle and prices soar. 
  <p class="updated_time"> 08:03 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60901032?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Odesa defies Russia and embraces signs of life</a> BBC: Residents of the historic city on Ukraine's coast are confident it will not fall to Russian forces. 
  <p class="updated_time"> 07:57 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60909487?at_medium=RSS&at_campaign=KARANGA">Will Smith apologises to Chris Rock after Oscars slap</a> BBC: The actor says he was "out of line" after he slapped the comedian on stage at the Oscars. 
- <p class="updated_time"> 07:56 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 07:36 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/asia/drive-my-car-oscar-japan.html">‘Drive My Car’ Oscar Is a Slow-Burn Return for Japan’s Cinema</a> NYT: But some of the same qualities that made the film popular overseas have led to a cooler reception domestically. 
  <p class="updated_time"> 07:32 PM CT, Mar. 28 </p> 
@@ -47,10 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60783874?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Why India is buying more Russian oil</a> BBC: Imports of cheaper Russian oil by India are rising, despite calls for Russia's economic isolation. 
  <p class="updated_time"> 07:22 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60909449?at_medium=RSS&at_campaign=KARANGA">Oscars: What Will Smith's slap says about him - and us</a> BBC: A childhood ordeal that has long haunted the actor may offer an insight into his "inexcusable" attack. 
+ <p class="updated_time"> 07:14 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 07:11 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-60823267?at_medium=RSS&at_campaign=KARANGA">Biodiversity: What is it and how are we protecting it?</a> BBC: The planet is experiencing its sixth mass extinction event, but it is hoped action can be agreed. 
- <p class="updated_time"> 06:56 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 05:38 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
  <p class="updated_time"> 05:31 PM CT, Mar. 28 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
+ <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
  <p class="updated_time"> 11:28 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/georgia-election-bill.html">Local Election Officials in Georgia Oppose G.O.P. Election Bill</a> NYT: As Republicans rush to pass a second round of new voting and election rules, a bipartisan group of election officials is fighting back. 
  <p class="updated_time"> 11:24 PM CT, Mar. 28 </p> 
@@ -222,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/28/biden-budget-joe-manchin-00021140">Biden’s budget a ‘peace offering’ that could restart stalled economic agenda</a> Politico: The White House is leaning into deficit reduction. Democrats say that’s fine, so long as it helps open up negotiations with Joe Manchin. 
  <p class="updated_time"> 06:04 PM CT, Mar. 28 </p> 
  <a href="https://www.politico.com/news/2022/03/28/u-s-training-ukrainian-troops-poland-biden-00021123">U.S. training Ukrainian troops in Poland, Biden seems to reveal</a> Politico: Fixing a previous gaffe in a Monday press conference, the president appeared to let slip an undisclosed detail of the U.S. effort to bolster Ukraine's fighting forces. 
- <p class="updated_time"> 06:00 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
  <p class="updated_time"> 05:46 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/upshot/budget-biden-policy-agenda.html">Missing From Biden’s Budget: His Signature Policy Agenda</a> NYT: The Build Back Better package that has consumed Congress for months was relegated to the footnotes. 
  <p class="updated_time"> 05:44 PM CT, Mar. 28 </p> 
