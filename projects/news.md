@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:32 AM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: Russia Vows to Reduce Attacks in Northern Ukraine</a> NYT: Talks in Turkey yielded progress, as Russia also said a meeting between President Vladimir Putin and President Volodymyr Zelensky of Ukraine could occur once a draft peace agreement was ready. The announcements came as Ukrainian troops appeared to push back Russian forces around a Kyiv suburb. 
  <p class="updated_time"> 08:00 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: Russia Vows to Reduce Attacks in Northern Ukraine</a> NYT: In a sign of progress at cease-fire talks in Turkey, Russia also said a meeting between President Vladimir Putin and President Volodymyr Zelensky of Ukraine could be held once a draft peace agreement was ready. The announcements came as a Ukrainian counteroffensive appeared to push back Russian forces around a Kyiv suburb. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60914019?at_medium=RSS&at_campaign=KARANGA">Seven dead in strike on government office in Ukrainian city of Mykolaiv</a> BBC: Russian forces destroyed an entire section of a local government building in the Tuesday morning strike. 
+ <p class="updated_time"> 07:37 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 07:07 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/60907259?at_medium=RSS&at_campaign=KARANGA">Does video show Russian prisoners being shot?</a> BBC: Ukrainian authorities investigate a video apparently showing Russian PoWs being shot in the legs. 
- <p class="updated_time"> 07:07 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 07:03 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60912474?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Abramovich spotted in Istanbul peace talks</a> BBC: The Russian billionaire was seen as the talks began, following reports that he suffered poisoning symptoms. 
  <p class="updated_time"> 06:51 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/uk-lockdown-parties-fines.html">London Police Issue Fines for Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson was not among those penalized, his office said, but the police decision puts a perilous political scandal back in the spotlight. 
+ <p class="updated_time"> 06:37 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 06:27 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60915320?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for Nepal to ban Russian climbers from Himalayas</a> BBC: Nepal has issued permits to nine Russian climbers despite a Ukrainian call for them to be banned. 
  <p class="updated_time"> 06:18 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60913729?at_medium=RSS&at_campaign=KARANGA">French elections: Eric Zemmour criticised over 'Killer Macron' rally chants</a> BBC: Emmanuel Macron criticises challenger Eric Zemmour after his supporters chanted "Killer Macron" at a rally. 
- <p class="updated_time"> 06:07 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
+ <p class="updated_time"> 05:37 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 05:30 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/29/1088886554/how-putin-conquered-russias-oligarchy">How Putin Conquered Russia's Oligarchy</a> NPR: In 2000, Vladimir Putin began targeting oligarchs who did not bend to his authority. The loyalists who remained — and new ones who subsequently got rich — became like ATM machines for the president. 
  <p class="updated_time"> 05:13 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60900854?at_medium=RSS&at_campaign=KARANGA">Mexico cockfight shooting: Gunmen 'hid in chip van'</a> BBC: The number of victims of a deadly shooting at an illegal cockfighting pit in Mexico has risen to 20. 
- <p class="updated_time"> 05:07 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 04:45 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/solomon-islands-china.html">Solomon Islands’ Leader Calls Concern Over China Security Deal ‘Insulting’</a> NYT: Prime Minister Manasseh Sogavare criticized Australia and New Zealand as assuming that the island nation could not act in its own best interests. 
+ <p class="updated_time"> 04:37 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 04:31 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1088680989/a-retro-computer-museum-in-mariupol-beloved-by-children-was-attacked-by-russia">A retro computer museum in Mariupol beloved by children was attacked by Russia </a> NPR: "It's been a hobby of my life," said the owner of the retro computer collection that was hit by a Russian attack in the besieged Ukrainian city of Mariupol. 
  <p class="updated_time"> 04:15 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089389557/perus-president-survives-2nd-impeachment-effort-in-8-months">Peru's president survives 2nd impeachment effort in 8 months</a> NPR: Pedro Castillo avoided joining the South American nation's list of impeached leaders as opposition lawmakers failed to get enough votes to remove him from office only eight months into his term 
- <p class="updated_time"> 04:07 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 04:00 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
  <p class="updated_time"> 04:00 AM CT, Mar. 29 </p> 
@@ -47,7 +49,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/29/1089390374/uk-police-fine-20-people-over-partygate-political-scandal">U.K. police fine 20 people over 'partygate' political scandal</a> NPR: British police said Tuesday that they were fining 20 people over parties held by Prime Minister Boris Johnson and his staff during coronavirus lockdowns. 
  <p class="updated_time"> 03:54 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/china-shanghai-covid-lockdown.html">Shanghai’s Lockdown Tests Covid-Zero Policy, and People's Limits</a> NYT: A staggered lockdown on China’s commercial capital of 26 million people has sent beleaguered residents scrambling and raised fears of broader damage to the economy. 
- <p class="updated_time"> 03:07 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 03:37 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 03:06 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390179/el-salvador-grabs-1-000-gang-suspects-in-response-to-weekend-killings">El Salvador grabs 1,000 gang suspects in response to weekend killings</a> NPR: The government declared a state of emergency and locked down prisons after more than 80 murders were committed Friday, Saturday and Sunday. 
@@ -234,6 +236,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/28/jan-6-committee-doj-meadows-contempt-00021172">‘Do your job’: Jan. 6 committee presses DOJ as push for Meadows contempt charge languishes</a> Politico: Committee members have long counted on the department and Attorney General Merrick Garland to back them up as they confront a long list of recalcitrant witnesses. 
  <p class="updated_time"> 08:42 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/vaccines-migrants-border.html">Biden Administration Will  Vaccinate Migrants at Border</a> NYT: Some migrants who refuse will be detained and placed in removal proceedings, according to directions given to homeland security officials. 
+ <p class="updated_time"> 08:01 PM CT, Mar. 28 </p> 
+ <a href="https://www.politico.com/news/2022/03/28/six-questions-clarence-thomas-scotus-ethics-00021142">6 questions about Clarence Thomas and Supreme Court conflict of interest</a> Politico: Ethics rules for the court have been stalled for years, and Congress seems unlikely to act. 
  <p class="updated_time"> 07:31 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-putin.html">‘I Make No Apologies’: Biden Says His Putin Comments Were an Expression of Moral Outrage</a> NYT: President Biden said his words, delivered in a speech over the weekend in Warsaw, were not a call for regime change in Russia. 
  <p class="updated_time"> 07:24 PM CT, Mar. 28 </p> 
@@ -324,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/27/joe-biden-russia-policy-success-elusive-00020688">Biden’s trip to Europe: A triumph, a walk back, and no clearer end game</a> Politico: The president has delivered sanctions and aid and a united West. Still, a possible resolution to the confrontation remained hard to define after a three day trip to Europe. 
  <p class="updated_time"> 07:12 AM CT, Mar. 27 </p> 
  <a href="https://www.cnn.com/2022/03/27/politics/senate-race-rankings-march-elections/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: The war in Ukraine has shifted attention overseas, but even if President Joe Biden's approval has ticked up nominally, the national environment heading into the 2022 midterms still looks treacherous for his fellow Democrats as they try to hold their Senate majority. 
- <p class="updated_time"> 06:01 AM CT, Mar. 27 </p> 
- <a href="https://www.politico.com/news/2022/03/27/democrats-bail-reform-partys-progressive-moderate-00020455">Democrats’ fight over bail reform might be a fight for the party’s direction</a> Politico: The debate has become a growing symbol of rifts among progressive and moderate Democrats. 
  <p class="updated_time"> 04:31 PM CT, Mar. 26 </p> 
  <a href="https://www.politico.com/news/2022/03/26/fortenberry-resigns-from-congress-after-felony-convictions-00020677">Fortenberry resigns from Congress after felony convictions</a> Politico: The Nebraska Republican's decision caps a remarkable political fall and came after top House leaders prodded him to end his nine-term career in the lower chamber. 
  <p class="updated_time"> 01:06 PM CT, Mar. 26 </p> 
