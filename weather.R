@@ -247,8 +247,9 @@ ggplot() +
   geom_rect(data = daylight,
             aes(xmin = sunrise, xmax = sunset,
                 ymin = bottom, ymax = top),
-            color = "#FFFFFB",
-            fill = "#FFFFFB") +
+            #color = "#FFFFaf",
+            fill = "#FFFFe2",
+            alpha = .8) +
   geom_line(data = champaign_forecast_longer,
             aes(x = central_time,
                 y = values,
@@ -276,7 +277,7 @@ ggplot() +
         panel.grid = element_blank(),
         panel.background = element_rect("#DAE3ED"),
         legend.position = "none",
-        #panel.grid.major.x = element_line(colour = "grey75"),
+        panel.grid.major.y = element_line(colour = "grey85"),
         strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 
