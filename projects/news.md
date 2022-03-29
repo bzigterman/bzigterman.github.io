@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:31 AM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/world/europe/ukraine-mariupol-russia-war-siege-starving.html">Once the Children Got Hungry, ‘the Fire Was Gone From Their Eyes’</a> NYT: Residents of Mariupol, Ukraine described how Russian forces use hunger as a weapon of war in a monthlong siege of the southern port. “No roof, no food and no water,” survivors texted relatives who escaped. 
+ <p class="updated_time"> 11:26 AM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: As Talks Progress, Russia Says It Will Reduce Attacks in Northern Ukraine</a> NYT: The gains in negotiations came as Ukrainian troops appeared to push back Russian forces around Kyiv. Russia said a meeting between President Vladimir V. Putin and President Volodymyr Zelensky could occur once a draft peace agreement was ready. 
+ <p class="updated_time"> 11:22 AM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/movies/marina-goldovskaya-dead.html">Marina Goldovskaya, 80, Dies; Filmmaker Documented Russian Life</a> NYT: In about 30 documentaries she looked at the people and history of her homeland, some of it brutally dark. 
  <p class="updated_time"> 11:08 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/60907259?at_medium=RSS&at_campaign=KARANGA">Does video show Russian prisoners being shot?</a> BBC: Ukrainian authorities investigate a video apparently showing Russian PoWs being shot in the legs. 
  <p class="updated_time"> 11:04 AM CT, Mar. 29 </p> 
@@ -17,28 +23,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799663?at_medium=RSS&at_campaign=KARANGA">Donald Trump's 6 January call logs show seven-hour gap</a> BBC: The committee investigating the Capitol riots had sought to obtain the presidential records. 
  <p class="updated_time"> 10:57 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
- <p class="updated_time"> 10:54 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: As Talks Progress, Russia Says It Will Reduce Attacks in Northern Ukraine</a> NYT: The gains in negotiations came as Ukrainian troops appeared to push back Russian forces around Kyiv. Russia said a meeting between President Vladimir V. Putin and President Volodymyr Zelensky could occur once a draft peace agreement was ready. 
  <p class="updated_time"> 10:46 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/andrew-queen-elizabeth-memorial.html">Prince Andrew, Banished From Royal Duties, Escorts Queen to Memorial</a> NYT: The prince’s conspicuous public appearance at the service for his father, Prince Philip, who died last year, sent an unmistakable message of support by a 95-year-old mother for her disgraced son. 
  <p class="updated_time"> 10:44 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/africa/gunmen-attack-train-near-nigerian-capital-killing-some-riders.html">Gunmen Attack Train Near Nigerian Capital, Killing Some Riders</a> NYT: The attackers used explosives to blow up the rail track before opening fire on the train in the latest in a series of train assaults. 
- <p class="updated_time"> 10:25 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/europe/ukraine-russia-war-siege-starving.html">Once the Children Got Hungry, ‘the Fire Was Gone From Their Eyes’</a> NYT: Residents of Mariupol, Ukraine described how Russian forces use hunger as a weapon of war in a monthlong siege of the southern port. “No roof, no food and no water,” survivors texted relatives who escaped. 
+ <a href="https://www.nytimes.com/2022/03/29/world/africa/nigeria-train-gunmen.html">Gunmen Attack Train Near Nigerian Capital, Killing Some Riders</a> NYT: The attackers used explosives to blow up the rail track before opening fire on the train in the latest in a series of train assaults. 
+ <p class="updated_time"> 10:39 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 10:23 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/germany-women-ukraine-war.html">Women Drive Germany’s Foreign Policy Shift Amid Ukraine War</a> NYT: Angela Merkel is no longer chancellor. But as war rages in Ukraine, a mere 10-hour drive from Berlin, female ministers oversee national security. 
  <p class="updated_time"> 10:22 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60916098?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia to curb Kyiv assault as peace talks progress</a> BBC: Moscow says it will "drastically reduce" operations around the capital, Kyiv, as well as Chernihiv. 
  <p class="updated_time"> 10:21 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/solomon-islands-china.html">Solomon Islands’ Leader Calls Concern Over China Security Deal ‘Insulting’</a> NYT: Prime Minister Manasseh Sogavare criticized Australia and New Zealand as assuming that the island nation could not act in its own best interests. 
- <p class="updated_time"> 10:11 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
  <p class="updated_time"> 10:00 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089438539/honduras-former-president-extradition-hernandez">Honduras Supreme Court says a former president can be extradited to the United States</a> NPR: Honduras' Supreme Court approved the extradition of former President Juan Orlando Hernández to face drug trafficking and weapons charges. The court rejected his final appeal. 
  <p class="updated_time"> 09:56 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089430778/russia-yacht-london">A $49M Russian superyacht has been detained by U.K. officials near London</a> NPR: Detaining the yacht, named Phi, is "a clear and stark warning to Putin and his cronies," Britain's transport secretary said. Officials said the yacht's ownership is "deliberately well hidden." 
- <p class="updated_time"> 09:11 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
+ <p class="updated_time"> 09:39 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 09:10 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-chechnya-grozny-ukraine.html">A Brutal Russian Playbook Reapplied in Ukraine</a> NYT: The besieging of cities, the deliberate targeting of civilians — they are the tactics Russia used before, in Grozny. I saw it firsthand. 
  <p class="updated_time"> 08:57 AM CT, Mar. 29 </p> 
@@ -47,38 +49,48 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/world/americas/honduras-president-extradition.html">Honduran Supreme Court Ratifies U.S. Extradition Request of Ex-President</a> NYT: The former leader of Honduras is accused of colluding with drug cartels to ship tons of cocaine to the United States in return for financial support for his political party. 
  <p class="updated_time"> 08:49 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60912474?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Abramovich spotted in Istanbul peace talks</a> BBC: The Russian billionaire was seen as the talks began, following reports that he suffered poisoning symptoms. 
- <p class="updated_time"> 08:11 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/as-trade-with-russia-halts-countries-turn-to-canada-11648558980">As Trade With Russia Halts, Countries Turn to Canada</a> WSJ: As Trade With Russia Halts, Countries Turn to Canada 
+ <p class="updated_time"> 08:39 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 08:00 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60914019?at_medium=RSS&at_campaign=KARANGA">Seven dead in strike on government office in Ukrainian city of Mykolaiv</a> BBC: Russian forces destroyed an entire section of a local government building in the Tuesday morning strike. 
- <p class="updated_time"> 07:11 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/taiwan-looks-to-ukraine-war-for-ideas-to-defend-against-china-11648557508">Taiwan Looks to Ukraine War for Ideas to Defend Against China</a> WSJ: Taiwan Looks to Ukraine War for Ideas to Defend Against China 
+ <p class="updated_time"> 07:39 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
+ <p class="updated_time"> 06:39 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 06:27 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60915320?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for Nepal to ban Russian climbers from Himalayas</a> BBC: Nepal has issued permits to nine Russian climbers despite a Ukrainian call for them to be banned. 
  <p class="updated_time"> 06:18 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60913729?at_medium=RSS&at_campaign=KARANGA">French elections: Eric Zemmour criticised over 'Killer Macron' rally chants</a> BBC: Emmanuel Macron criticises challenger Eric Zemmour after his supporters chanted "Killer Macron" at a rally. 
- <p class="updated_time"> 06:11 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/china-pact-necessary-to-diversify-security-ties-solomon-islands-says-11648546899">China Pact Necessary to Diversify Security Ties, Solomon Islands Says</a> WSJ: China Pact Necessary to Diversify Security Ties, Solomon Islands Says 
  <p class="updated_time"> 05:30 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/29/1088886554/how-putin-conquered-russias-oligarchy">How Putin Conquered Russia's Oligarchy</a> NPR: In 2000, Vladimir Putin began targeting oligarchs who did not bend to his authority. The loyalists who remained — and new ones who subsequently got rich — became like ATM machines for the president. 
+ <p class="updated_time"> 05:29 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Kyiv outlined its demands during cease-fire talks with Russia, seeking binding security guarantees from the U.S. and some European countries, while the five-week-old Russian war on Ukraine raged on around the country. 
  <p class="updated_time"> 05:13 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60900854?at_medium=RSS&at_campaign=KARANGA">Mexico cockfight shooting: Gunmen 'hid in chip van'</a> BBC: The number of victims of a deadly shooting at an illegal cockfighting pit in Mexico has risen to 20. 
  <p class="updated_time"> 04:31 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1088680989/a-retro-computer-museum-in-mariupol-beloved-by-children-was-attacked-by-russia">A retro computer museum in Mariupol beloved by children was attacked by Russia </a> NPR: "It's been a hobby of my life," said the owner of the retro computer collection that was hit by a Russian attack in the besieged Ukrainian city of Mariupol. 
  <p class="updated_time"> 04:15 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089389557/perus-president-survives-2nd-impeachment-effort-in-8-months">Peru's president survives 2nd impeachment effort in 8 months</a> NPR: Pedro Castillo avoided joining the South American nation's list of impeached leaders as opposition lawmakers failed to get enough votes to remove him from office only eight months into his term 
+ <p class="updated_time"> 04:13 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/china-pact-necessary-to-diversify-security-ties-solomon-islands-says-11648546899">China Pact Necessary to Diversify Security Ties, Solomon Islands Says</a> WSJ: Solomon Islands is pursuing a closer relationship with China because it no longer feels traditional partners such as Australia can meet all of its security needs, the Pacific Island nation’s leader said. 
  <p class="updated_time"> 04:12 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-adds-to-chinas-economic-woes-11648559523">Shanghai Lockdown Adds to China's Economic Woes</a> WSJ: The economic toll of temporarily closing districts of one of China’s largest and most prosperous cities is starting to come into view. 
+ <p class="updated_time"> 04:03 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/as-trade-with-russia-halts-countries-turn-to-canada-11648558980">As Trade With Russia Halts, Countries Turn to Canada</a> WSJ: Canada produces many of the same commodities as Russia, such as oil, nickel, wheat and potash, and countries are lining up to broker deals. 
  <p class="updated_time"> 04:00 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/climate/farhana-yamin-climate.html">Farhana Yamin’s Journey From Climate Summits to Street Protests</a> NYT: After a high-profile career as an international lawyer and negotiator, Farhana Yamin decided “we cannot rely on lawyers and diplomats alone.” 
  <p class="updated_time"> 03:55 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390374/uk-police-fine-20-people-over-partygate-political-scandal">U.K. police fine 20 people over 'partygate' political scandal</a> NPR: British police said Tuesday that they were fining 20 people over parties held by Prime Minister Boris Johnson and his staff during coronavirus lockdowns. 
+ <p class="updated_time"> 03:38 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/taiwan-looks-to-ukraine-war-for-ideas-to-defend-against-china-11648557508">Taiwan Looks to Ukraine War for Ideas to Defend Against China</a> WSJ: A major potential change for the island democracy would be extending conscription. 
  <p class="updated_time"> 03:06 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390179/el-salvador-grabs-1-000-gang-suspects-in-response-to-weekend-killings">El Salvador grabs 1,000 gang suspects in response to weekend killings</a> NPR: The government declared a state of emergency and locked down prisons after more than 80 murders were committed Friday, Saturday and Sunday. 
  <p class="updated_time"> 02:11 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089387448/new-round-of-talks-aims-to-stop-the-fighting-in-ukraine">A new round of talks aims to stop the fighting in Ukraine</a> NPR: Another round of talks aimed at stopping the war in Ukraine are starting in Istanbul on Tuesday as fighting appears stalemated on the ground. 
  <p class="updated_time"> 02:03 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60905198?at_medium=RSS&at_campaign=KARANGA">Ukraine: Sheltering with monks in a Romanian monastery</a> BBC: The Ukrainian family who found shelter in a an unlikely place after fleeing Kharkiv. 
+ <p class="updated_time"> 12:28 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs' Hidden Assets, Russian Military Supply Lines</a> WSJ: Washington and its allies plan to sanction those who help Russia’s elites shield their assets, while governments are also working on ways to cut off Moscow’s access to “the tools of war,” Deputy Treasury Secretary Wally Adeyemo said. 
  <p class="updated_time"> 11:56 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/health-60903839?at_medium=RSS&at_campaign=KARANGA">Matching drugs to DNA is 'new era of medicine'</a> BBC: Testing can predict if drugs will work, fail or become deadly, depending on differences in our make-up. 
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
@@ -189,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-speech-putin-ukraine.html">What Did Biden Say About Russia? </a> NYT: Speaking in Warsaw, President Biden described Vladimir V. Putin as a tyrant with “a craving for absolute power and control.” 
  <p class="updated_time"> 01:10 PM CT, Mar. 26 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html">Mélenchon, a Fiery  Leftist, Has Late Surge in French Election</a> NYT: Jean-Luc Mélenchon, a skilled orator and veteran politician, hopes to become the first left-wing candidate since 2012 to reach the second round of France’s presidential election. 
- <p class="updated_time"> 12:44 PM CT, Mar. 26 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/asia/china-eastern-death-toll.html">China Eastern Crash Killed All 132 on Flight</a> NYT: Investigators were still looking for wreckage, remains and the second black box in an effort to determine what caused the crash. 
 
 
 </details>
