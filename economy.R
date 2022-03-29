@@ -224,7 +224,7 @@ gdp
 data <- fredr(series_id = "A191RL1Q225SBEA")
 recent_data <- data %>%
   filter(date > recent_years) %>%
-  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) 
+  mutate(short_date = paste0("Q",quarter(date)))
 
 gdp_change <- ggplot(recent_data, aes(x = date,
                                       y = value/100,
