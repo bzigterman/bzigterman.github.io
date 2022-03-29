@@ -9,26 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:17 AM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: Russia Vows to Reduce Attacks in Northern Ukraine</a> NYT: In a sign of progress at cease-fire talks in Turkey, Russia also said a meeting between President Vladimir Putin and President Volodymyr Zelensky of Ukraine could be held once a draft peace agreement was ready. The announcements came as a Ukrainian counteroffensive appeared to push back Russian forces around a Kyiv suburb. 
+ <p class="updated_time"> 07:03 AM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60912474?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Abramovich spotted in Istanbul peace talks</a> BBC: The Russian billionaire was seen as the talks began, following reports that he suffered poisoning symptoms. 
  <p class="updated_time"> 06:51 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/uk-lockdown-parties-fines.html">London Police Issue Fines for Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson was not among those penalized, his office said, but the police decision puts a perilous political scandal back in the spotlight. 
- <p class="updated_time"> 06:38 AM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60912474?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Abramovich spotted in Istanbul peace talks</a> BBC: The Russian billionaire was seen as the talks began, following reports that he suffered poisoning symptoms. 
- <p class="updated_time"> 06:34 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: Ukraine and Russia Discuss Possible Cease-Fire While Trading Strikes on Multiple Fronts</a> NYT: President Volodymyr Zelensky said Ukrainian forces had “liberated” a suburb of Kyiv, but fighting continued there and across the country. Russian and Ukrainian envoys were expected to brief reporters after their first in-person talks in weeks. 
+ <p class="updated_time"> 06:33 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 06:27 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60915320?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for Nepal to ban Russian climbers from Himalayas</a> BBC: Nepal has issued permits to nine Russian climbers despite a Ukrainian call for them to be banned. 
  <p class="updated_time"> 06:18 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60913729?at_medium=RSS&at_campaign=KARANGA">French elections: Eric Zemmour criticised over 'Killer Macron' rally chants</a> BBC: Emmanuel Macron criticises challenger Eric Zemmour after his supporters chanted "Killer Macron" at a rally. 
- <p class="updated_time"> 05:57 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
+ <p class="updated_time"> 05:33 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 05:30 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/29/1088886554/how-putin-conquered-russias-oligarchy">How Putin Conquered Russia's Oligarchy</a> NPR: In 2000, Vladimir Putin began targeting oligarchs who did not bend to his authority. The loyalists who remained — and new ones who subsequently got rich — became like ATM machines for the president. 
  <p class="updated_time"> 05:13 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60900854?at_medium=RSS&at_campaign=KARANGA">Mexico cockfight shooting: Gunmen 'hid in chip van'</a> BBC: The number of victims of a deadly shooting at an illegal cockfighting pit in Mexico has risen to 20. 
- <p class="updated_time"> 04:57 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 04:45 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/solomon-islands-china.html">Solomon Islands’ Leader Calls Concern Over China Security Deal ‘Insulting’</a> NYT: Prime Minister Manasseh Sogavare criticized Australia and New Zealand as assuming that the island nation could not act in its own best interests. 
+ <p class="updated_time"> 04:33 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 04:31 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1088680989/a-retro-computer-museum-in-mariupol-beloved-by-children-was-attacked-by-russia">A retro computer museum in Mariupol beloved by children was attacked by Russia </a> NPR: "It's been a hobby of my life," said the owner of the retro computer collection that was hit by a Russian attack in the besieged Ukrainian city of Mariupol. 
  <p class="updated_time"> 04:15 AM CT, Mar. 29 </p> 
@@ -37,30 +39,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
  <p class="updated_time"> 04:00 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/climate/farhana-yamin-climate.html">Farhana Yamin’s Journey From Climate Summits to Street Protests</a> NYT: After a high-profile career as an international lawyer and negotiator, Farhana Yamin decided “we cannot rely on lawyers and diplomats alone.” 
- <p class="updated_time"> 03:57 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 03:55 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390374/uk-police-fine-20-people-over-partygate-political-scandal">U.K. police fine 20 people over 'partygate' political scandal</a> NPR: British police said Tuesday that they were fining 20 people over parties held by Prime Minister Boris Johnson and his staff during coronavirus lockdowns. 
  <p class="updated_time"> 03:54 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/china-shanghai-covid-lockdown.html">Shanghai’s Lockdown Tests Covid-Zero Policy, and People's Limits</a> NYT: A staggered lockdown on China’s commercial capital of 26 million people has sent beleaguered residents scrambling and raised fears of broader damage to the economy. 
+ <p class="updated_time"> 03:33 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 03:06 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390179/el-salvador-grabs-1-000-gang-suspects-in-response-to-weekend-killings">El Salvador grabs 1,000 gang suspects in response to weekend killings</a> NPR: The government declared a state of emergency and locked down prisons after more than 80 murders were committed Friday, Saturday and Sunday. 
- <p class="updated_time"> 02:57 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
+ <p class="updated_time"> 02:33 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 02:11 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089387448/new-round-of-talks-aims-to-stop-the-fighting-in-ukraine">A new round of talks aims to stop the fighting in Ukraine</a> NPR: Another round of talks aimed at stopping the war in Ukraine are starting in Istanbul on Tuesday as fighting appears stalemated on the ground. 
  <p class="updated_time"> 02:03 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60905198?at_medium=RSS&at_campaign=KARANGA">Ukraine: Sheltering with monks in a Romanian monastery</a> BBC: The Ukrainian family who found shelter in a an unlikely place after fleeing Kharkiv. 
  <p class="updated_time"> 02:00 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-chechnya-grozny-ukraine.html">A Brutal Russian Playbook Reapplied in Ukraine</a> NYT: The besieging of cities, the deliberate targeting of civilians — they are the tactics Russia used before, in Grozny. I saw it firsthand. 
- <p class="updated_time"> 01:57 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 11:56 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/health-60903839?at_medium=RSS&at_campaign=KARANGA">Matching drugs to DNA is 'new era of medicine'</a> BBC: Testing can predict if drugs will work, fail or become deadly, depending on differences in our make-up. 
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
  <p class="updated_time"> 11:33 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/29/1089382318/disabled-malaysian-loses-appeal-will-be-hanged-in-singapore">Disabled Malaysian man loses appeal, will be hanged in Singapore</a> NPR: The Malaysian man recognized as having an intellectual disability has been on death row since 2010 for trying to smuggle less than 1.5 ounces of heroin into Singapore. 
+ <a href="https://www.npr.org/2022/03/29/1089382318/disabled-malaysian-loses-appeal-will-be-hanged-in-singapore">A man with a mental disability loses his appeal and will be hanged in Singapore</a> NPR: The Malaysian man recognized as having an intellectual disability has been on death row since 2010 for trying to smuggle less than 1.5 ounces of heroin into Singapore. 
  <p class="updated_time"> 11:18 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/pope-indigenous-schools-canada-apology.html">Pope Francis Meets With Canadian Indigenous Leaders Seeking Apology</a> NYT: For the first time, Francis received Indigenous survivors of abusive boarding schools in Canada who were seeking the pontiff’s apology over the church’s role in running the schools. 
  <p class="updated_time"> 11:08 PM CT, Mar. 28 </p> 
