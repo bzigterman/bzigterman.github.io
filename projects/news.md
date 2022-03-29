@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:13 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: Ukraine and Russia Discuss Possible Cease-Fire While Trading Strikes on Multiple Fronts</a> NYT: President Volodymyr Zelensky said Ukrainian forces had “liberated” a suburb of Kyiv, but fighting continued there and across the country. Russian and Ukrainian envoys were expected to brief reporters after their first in-person talks in weeks. 
- <p class="updated_time"> 05:50 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 06:38 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60912474?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Abramovich spotted in Istanbul peace talks</a> BBC: The Russian billionaire was seen as the talks began, following reports that he suffered poisoning symptoms. 
+ <p class="updated_time"> 06:34 AM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: Ukraine and Russia Discuss Possible Cease-Fire While Trading Strikes on Multiple Fronts</a> NYT: President Volodymyr Zelensky said Ukrainian forces had “liberated” a suburb of Kyiv, but fighting continued there and across the country. Russian and Ukrainian envoys were expected to brief reporters after their first in-person talks in weeks. 
+ <p class="updated_time"> 06:27 AM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60915320?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for Nepal to ban Russian climbers from Himalayas</a> BBC: Nepal has issued permits to nine Russian climbers despite a Ukrainian call for them to be banned. 
+ <p class="updated_time"> 06:18 AM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60913729?at_medium=RSS&at_campaign=KARANGA">French elections: Eric Zemmour criticised over 'Killer Macron' rally chants</a> BBC: Emmanuel Macron criticises challenger Eric Zemmour after his supporters chanted "Killer Macron" at a rally. 
+ <p class="updated_time"> 05:44 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 05:30 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/29/1088886554/how-putin-conquered-russias-oligarchy">How Putin Conquered Russia's Oligarchy</a> NPR: In 2000, Vladimir Putin began targeting oligarchs who did not bend to his authority. The loyalists who remained — and new ones who subsequently got rich — became like ATM machines for the president. 
- <p class="updated_time"> 05:21 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
  <p class="updated_time"> 05:13 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60900854?at_medium=RSS&at_campaign=KARANGA">Mexico cockfight shooting: Gunmen 'hid in chip van'</a> BBC: The number of victims of a deadly shooting at an illegal cockfighting pit in Mexico has risen to 20. 
  <p class="updated_time"> 04:45 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/solomon-islands-china.html">Solomon Islands’ Leader Calls Concern Over China Security Deal ‘Insulting’</a> NYT: Prime Minister Manasseh Sogavare criticized Australia and New Zealand as assuming that the island nation could not act in its own best interests. 
+ <p class="updated_time"> 04:44 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 04:31 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1088680989/a-retro-computer-museum-in-mariupol-beloved-by-children-was-attacked-by-russia">A retro computer museum in Mariupol beloved by children was attacked by Russia </a> NPR: "It's been a hobby of my life," said the owner of the retro computer collection that was hit by a Russian attack in the besieged Ukrainian city of Mariupol. 
- <p class="updated_time"> 04:21 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 04:15 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089389557/perus-president-survives-2nd-impeachment-effort-in-8-months">Peru's president survives 2nd impeachment effort in 8 months</a> NPR: Pedro Castillo avoided joining the South American nation's list of impeached leaders as opposition lawmakers failed to get enough votes to remove him from office only eight months into his term 
  <p class="updated_time"> 04:00 AM CT, Mar. 29 </p> 
@@ -37,11 +41,11 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/29/1089390374/uk-police-fine-20-people-over-partygate-political-scandal">U.K. police fine 20 people over 'partygate' political scandal</a> NPR: British police said Tuesday that they were fining 20 people over parties held by Prime Minister Boris Johnson and his staff during coronavirus lockdowns. 
  <p class="updated_time"> 03:54 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/china-shanghai-covid-lockdown.html">Shanghai’s Lockdown Tests Covid-Zero Policy, and People's Limits</a> NYT: A staggered lockdown on China’s commercial capital of 26 million people has sent beleaguered residents scrambling and raised fears of broader damage to the economy. 
- <p class="updated_time"> 03:21 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 03:44 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 03:06 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390179/el-salvador-grabs-1-000-gang-suspects-in-response-to-weekend-killings">El Salvador grabs 1,000 gang suspects in response to weekend killings</a> NPR: The government declared a state of emergency and locked down prisons after more than 80 murders were committed Friday, Saturday and Sunday. 
- <p class="updated_time"> 02:21 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 02:44 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 02:11 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089387448/new-round-of-talks-aims-to-stop-the-fighting-in-ukraine">A new round of talks aims to stop the fighting in Ukraine</a> NPR: Another round of talks aimed at stopping the war in Ukraine are starting in Istanbul on Tuesday as fighting appears stalemated on the ground. 
@@ -49,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60905198?at_medium=RSS&at_campaign=KARANGA">Ukraine: Sheltering with monks in a Romanian monastery</a> BBC: The Ukrainian family who found shelter in a an unlikely place after fleeing Kharkiv. 
  <p class="updated_time"> 02:00 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-chechnya-grozny-ukraine.html">A Brutal Russian Playbook Reapplied in Ukraine</a> NYT: The besieging of cities, the deliberate targeting of civilians — they are the tactics Russia used before, in Grozny. I saw it firsthand. 
- <p class="updated_time"> 01:21 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 01:44 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 11:56 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/health-60903839?at_medium=RSS&at_campaign=KARANGA">Matching drugs to DNA is 'new era of medicine'</a> BBC: Testing can predict if drugs will work, fail or become deadly, depending on differences in our make-up. 
@@ -123,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/28/1089311121/eritrean-cyclist-makes-history-with-win-in-belgium">Eritrean cyclist makes history with win in Belgium</a> NPR: Eritrean cyclist Biniam Girmay sprinted to victory in Belgium and became the first Black African to win one of road cycling's classic races. 
  <p class="updated_time"> 03:36 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089310965/former-tour-guide-in-lviv-starts-over-in-germany">Former tour guide in Lviv starts over in Germany</a> NPR: NPR's Ailsa Chang follows up with Ivanka Gonak who was a tour guide in Lviv, Ukraine, before the Russian invasion, and has now fled to Germany. 
- <p class="updated_time"> 03:28 PM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-60904900?at_medium=RSS&at_campaign=KARANGA">Can the super-rich solve America's budget problem?</a> BBC: Joe Biden wants to raise taxes on the likes of billionaires Elon Musk, Jeff Bezos and Warren Buffett. 
  <p class="updated_time"> 02:48 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089300515/biden-putin-remarks-regime-change">Biden says he was expressing moral outrage when saying Putin shouldn't stay in power</a> NPR: President Biden defended controversial remarks in which he appeared to call for regime change in Russia. "I was expressing the moral outrage that I feel, and I make no apologies for it," he said. 
  <p class="updated_time"> 01:09 PM CT, Mar. 28 </p> 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/americas/el-salvador-gang-violence.html">El Salvador Declares State of Emergency After Gang Killings</a> NYT: Gangs went on a killing spree, gunning down anyone on the street. At least 62 were killed on Saturday, the deadliest day on record since the country’s civil war ended 30 years ago. 
  <p class="updated_time"> 11:23 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
- <p class="updated_time"> 11:09 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60904392?at_medium=RSS&at_campaign=KARANGA">Boris Becker reveals shock and embarrassment over bankruptcy</a> BBC: The former tennis star, who was declared bankrupt in 2017, says it limited his future earnings. 
  <p class="updated_time"> 07:11 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
  <p class="updated_time"> 06:18 AM CT, Mar. 28 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 AM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089388927/house-panel-probing-the-capitol-attack-moves-closer-into-trumps-inner-circle">House panel probing the Capitol attack moves closer into Trump's inner circle</a> NPR: The panel investigating the Jan. 6 insurrection is holding two top Trump aides in contempt, and is seeking cooperation from Ginni Thomas, wife of Supreme Court Justice Clarence Thomas. 
  <p class="updated_time"> 05:30 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/29/1088886554/how-putin-conquered-russias-oligarchy">How Putin Conquered Russia's Oligarchy</a> NPR: In 2000, Vladimir Putin began targeting oligarchs who did not bend to his authority. The loyalists who remained — and new ones who subsequently got rich — became like ATM machines for the president. 
  <p class="updated_time"> 04:10 AM CT, Mar. 29 </p> 
@@ -306,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/28/poll-hochul-leads-cuomo-hypothetical-matchup-00020740">Siena poll: Hochul leads Cuomo by 8 points in hypothetical primary matchup</a> Politico: The former governor was viewed favorably by 32 percent of all registered voters and unfavorably by 60 percent in the poll that was conducted from March 20-24. 
  <p class="updated_time"> 10:00 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089144412/biden-budget-fiscal-2023">Biden's new budget calls for funding police and taxing billionaires</a> NPR: Budgets set out a president's priorities, and with his 2023 budget, President Biden says he cares about deficit reduction, defense spending, supporting police and cutting costs for families. 
- <p class="updated_time"> 06:21 AM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089121161/bidens-regime-change-comment-should-have-been-more-nuanced-sen-reed-says">Biden's regime change comment should have been more nuanced, Sen. Reed says</a> NPR: NPR's Rachel Martin speaks to Democratic Sen. Jack Reed of Rhode Island, chairman of the Senate Armed Services Committee, about President Biden's weekend speech about Putin's power in Russia. 
  <p class="updated_time"> 03:31 AM CT, Mar. 28 </p> 
  <a href="https://www.politico.com/news/2022/03/28/redistricting-stalled-fl-la-mo-nh-00020723">Why redistricting has stalled in 4 unfinished states</a> Politico: Court fights, intraparty strife and governors opposing legislatures mean that four states have yet to enact 2022 congressional maps. 
  <p class="updated_time"> 03:30 AM CT, Mar. 28 </p> 
