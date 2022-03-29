@@ -9,25 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:26 AM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Here’s What Happened on Day 33 of the War in Ukraine</a> NYT: The president said he was expressing his ‘moral outrage,’ not a policy change, when he said the Russian strongman should not be in power. Despite talk of Russia targeting the east of Ukraine, action on several battlefronts suggested a more dynamic and volatile situation. 
+ <p class="updated_time"> 11:57 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
+ <p class="updated_time"> 11:56 PM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/health-60903839?at_medium=RSS&at_campaign=KARANGA">Matching drugs to DNA is 'new era of medicine'</a> BBC: Testing can predict if drugs will work, fail or become deadly, depending on differences in our make-up. 
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
  <p class="updated_time"> 11:33 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/29/1089382318/disabled-malaysian-loses-appeal-will-be-hanged-in-singapore">Disabled Malaysian man loses appeal, will be hanged in Singapore</a> NPR: The Malaysian man recognized as having an intellectual disability has been on death row since 2010 for trying to smuggle less than 1.5 ounces of heroin into Singapore. 
- <p class="updated_time"> 11:22 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Live Updates: Biden Says He Stands by His Putin Comments</a> NYT: The president said he was expressing his ‘moral outrage,’ not a policy change, when he said the Russian strongman should not be in power. Despite talk of Russia targeting the east of Ukraine, action on several battlefronts suggested a more dynamic and volatile situation. 
  <p class="updated_time"> 11:18 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/pope-indigenous-schools-canada-apology.html">Pope Francis Meets With Canadian Indigenous Leaders Seeking Apology</a> NYT: For the first time, Francis received Indigenous survivors of abusive boarding schools in Canada who were seeking the pontiff’s apology over the church’s role in running the schools. 
- <p class="updated_time"> 11:14 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
+ <p class="updated_time"> 11:08 PM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60909634?at_medium=RSS&at_campaign=KARANGA">Shane Warne: Australians reflect on cricket legend and 'man of the people'</a> BBC: Ahead of Warne's memorial service, ordinary Australians explain why his legacy transcends cricket. 
+ <p class="updated_time"> 11:02 PM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60909883?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: 'I still can't believe that I'm back'</a> BBC: Anoosheh Ashoori, who arrived back in the UK this month, tells of his 'hell' in Tehran jail. 
+ <p class="updated_time"> 10:57 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
  <p class="updated_time"> 10:50 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html">Does Social Media Make Teens Unhappy? It May Depend on Their Age.</a> NYT: A large study in Britain found two specific windows of adolescence when some teenagers are most sensitive to social media. 
  <p class="updated_time"> 10:42 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/americas/el-salvador-gang-violence-bukele.html">Hundreds Arrested in El Salvador, Raising Fears of a Civil Liberties Crackdown</a> NYT: The Salvadoran government’s response to the weekend’s gang violence that left dozens dead is stoking fears that the emergency measures will allow President Nayib Bukele to further consolidate power. 
- <p class="updated_time"> 10:14 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
- <p class="updated_time"> 09:14 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 09:57 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
- <p class="updated_time"> 08:14 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 08:57 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 08:08 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60710362?at_medium=RSS&at_campaign=KARANGA">Algeria's cash crunch: 'Buying oil feels like buying drugs'</a> BBC: Shoppers in Algeria go to great lengths to buy basic foods as stocks dwindle and prices soar. 
@@ -35,6 +41,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60901032?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Odesa defies Russia and embraces signs of life</a> BBC: Residents of the historic city on Ukraine's coast are confident it will not fall to Russian forces. 
  <p class="updated_time"> 07:57 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60909487?at_medium=RSS&at_campaign=KARANGA">Will Smith apologises to Chris Rock after Oscars slap</a> BBC: The actor says he was "out of line" after he slapped the comedian on stage at the Oscars. 
+ <p class="updated_time"> 07:57 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 07:36 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/asia/drive-my-car-oscar-japan.html">‘Drive My Car’ Oscar Is a Slow-Burn Return for Japan’s Cinema</a> NYT: But some of the same qualities that made the film popular overseas have led to a cooler reception domestically. 
  <p class="updated_time"> 07:32 PM CT, Mar. 28 </p> 
@@ -47,14 +55,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-60783874?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Why India is buying more Russian oil</a> BBC: Imports of cheaper Russian oil by India are rising, despite calls for Russia's economic isolation. 
  <p class="updated_time"> 07:22 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60909449?at_medium=RSS&at_campaign=KARANGA">Oscars: What Will Smith's slap says about him - and us</a> BBC: A childhood ordeal that has long haunted the actor may offer an insight into his "inexcusable" attack. 
- <p class="updated_time"> 07:14 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
+ <p class="updated_time"> 07:12 PM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-60737448?at_medium=RSS&at_campaign=KARANGA">Biodiversity: Pressure grows for deal to save nature</a> BBC: Observers have slammed the 'snail's pace' of negotiations and are pressing for a step up of ambitions. 
  <p class="updated_time"> 07:11 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/explainers-60823267?at_medium=RSS&at_campaign=KARANGA">Biodiversity: What is it and how are we protecting it?</a> BBC: The planet is experiencing its sixth mass extinction event, but it is hoped action can be agreed. 
+ <p class="updated_time"> 06:01 PM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60825216?at_medium=RSS&at_campaign=KARANGA">Amazon union election: Will this former worker make history?</a> BBC: Workers in three Amazon warehouses are deciding whether to join a union - which would be a first in the US. 
  <p class="updated_time"> 05:38 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/zelensky-oscars.html">Zelensky, Roots in Show Business, Presses for an Oscar Appearance</a> NYT: The Ukrainian president was looking for support from Hollywood. But his appeal to speak during the Oscars encountered drama of its own. 
- <p class="updated_time"> 05:31 PM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-60907636?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: ‘I should have been freed earlier’</a> BBC: British-Iranian Ashoori, who was freed from prison in Iran, has spoken about his experience. 
  <p class="updated_time"> 05:23 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/irpin-donbas-poison.html">Ukraine Claims Some Battle Successes as Russia Focuses on Another Front</a> NYT: With the fighting raging and sputtering attempts at diplomacy continuing, diplomacy between the two sides was continuing, with talks planned in Istanbul on Tuesday. 
  <p class="updated_time"> 05:22 PM CT, Mar. 28 </p> 
@@ -71,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/world/europe/macron-france-russia-ukraine.html">President Macron’s Unending Russia Diplomacy</a> NYT: The French leader’s outreach to his counterparts in Russia and Ukraine is stubborn. Whether it is also effective remains to be seen. 
  <p class="updated_time"> 04:03 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089140474/russia-ukraine-war-what-happened-today-march-28">Russia-Ukraine war: What happened today (March 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:00 PM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/60854881?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Major internet provider suffers cyber-attack</a> BBC: Ukrtelecom says a powerful cyber-attack carried out against its infrastructure was "repulsed". 
  <p class="updated_time"> 03:52 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089311072/ukraine-is-willing-to-become-a-neutral-country-as-part-of-a-peace-deal-with-russ">Ukraine is willing to become a neutral country as part of a peace deal with Russia</a> NPR: Negotiators from Ukraine and Russia arrived in Turkey in hopes of reaching an agreement to put an end to Russia's war in Ukraine. Ukraine is "ready" to discuss becoming a neutral country. 
  <p class="updated_time"> 03:41 PM CT, Mar. 28 </p> 
@@ -84,7 +94,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:28 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-60904900?at_medium=RSS&at_campaign=KARANGA">Can the super-rich solve America's budget problem?</a> BBC: Joe Biden wants to raise taxes on the likes of billionaires Elon Musk, Jeff Bezos and Warren Buffett. 
  <p class="updated_time"> 03:19 PM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60904676?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich suffered suspected poisoning at talks</a> BBC: The billionaire had sore eyes and peeling skin after attending Ukraine peace talks, sources say. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60904676?at_medium=RSS&at_campaign=KARANGA">Roman Abramovich suffered 'suspected poisoning' at talks</a> BBC: The billionaire had sore eyes and peeling skin after attending Ukraine peace talks, sources say. 
  <p class="updated_time"> 02:48 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089300515/biden-putin-remarks-regime-change">Biden says he was expressing 'moral outrage' when saying Putin shouldn't stay in power</a> NPR: President Biden defended controversial remarks in which he appeared to call for regime change in Russia. "I was expressing the moral outrage that I feel, and I make no apologies for it," he said. 
  <p class="updated_time"> 02:18 PM CT, Mar. 28 </p> 
@@ -101,14 +111,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/28/1089229499/german-states-outlaw-z">German states outlaw displays of the letter 'Z,' a symbol of Russia's war in Ukraine</a> NPR: Displaying a "Z" in Bavaria or Lower Saxony could result in a fine or up to three years in jail. People across Germany who use the letter could also be liable to prosecution, an official said Monday. 
  <p class="updated_time"> 11:23 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
+ <p class="updated_time"> 11:09 AM CT, Mar. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60904392?at_medium=RSS&at_campaign=KARANGA">Boris Becker reveals shock and embarrassment over bankruptcy</a> BBC: The former tennis star, who was declared bankrupt in 2017, says it limited his future earnings. 
  <p class="updated_time"> 09:46 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089167897/ukraine-closes-humanitarian-corridors-because-it-says-russia-may-attack-them">Ukraine closes humanitarian corridors because it says Russia may attack them</a> NPR: Intelligence reports warned of Russian provocations along the routes, Ukrainian officials said. Ukraine and Russia have regularly agreed to establish corridors from some of the hardest-hit cities. 
- <p class="updated_time"> 08:42 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60901024?at_medium=RSS&at_campaign=KARANGA">Zelensky says Ukraine prepared to discuss neutrality in peace talks</a> BBC: Ukraine's president says his country is open to adopting a neutral status as part of a possible peace deal. 
- <p class="updated_time"> 08:31 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60377859?at_medium=RSS&at_campaign=KARANGA">Kenya to receive millions seized in Jersey to help fight Covid</a> BBC: In a novel scheme, Jersey will send millions of dollars back to Kenya to buy life-saving equipment. 
- <p class="updated_time"> 07:48 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60900694?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian officials seize Swiss watches apparently worth millions</a> BBC: Agents raided a Moscow premises of luxury brand Audemars Piguet, according to a report in Swiss media. 
  <p class="updated_time"> 07:11 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
  <p class="updated_time"> 06:22 AM CT, Mar. 28 </p> 
@@ -117,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/26/world/europe/leaders-of-canada-and-europe-to-host-ukrainian-relief-fund-raising-event.html">Leaders of Canada and Europe to Host Ukrainian Relief Fund-Raising Event</a> NYT: Few details were released about the online event scheduled for next month. 
  <p class="updated_time"> 05:32 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
- <p class="updated_time"> 05:25 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60900854?at_medium=RSS&at_campaign=KARANGA">Mexico shooting: At least 19 killed at cockfighting pit</a> BBC: Sixteen men and three women are dead after the shooting in the state of Michoacán, officials say. 
  <p class="updated_time"> 04:04 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1088870386/in-response-to-the-war-americans-flee-russia-in-droves">In response to the war, Americans flee Russia in droves </a> NPR: Russia's war in Ukraine has prompted an exodus from Russia, including many Americans living there. Some had built a life stretching over decades. Now they don't know if they'll ever go back. 
  <p class="updated_time"> 04:00 AM CT, Mar. 28 </p> 
@@ -127,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/world/europe/geofencing-sweden.html">Geofencing Improves Safety in Sweden</a> NYT: Sweden has long been at the forefront of road innovation and is again leading the way with trials of a technology known as geofencing. 
  <p class="updated_time"> 03:57 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/kyiv-ukraine-counteroffensive.html">At the Edge of Kyiv, a Look at Ukraine’s Counteroffensive</a> NYT: Destroyed tanks and body parts are all that are left of a Russian advance, part of the larger battle to block the invaders’ attempt to enter or encircle the capital. 
- <p class="updated_time"> 03:45 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60895393?at_medium=RSS&at_campaign=KARANGA">Israel: Two police killed by Israeli Arab gunmen in Hadera</a> BBC: Security is stepped up across the country after two police are killed by Israeli Arab gunmen. 
  <p class="updated_time"> 03:37 AM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/28/1089122519/north-koreas-kim-jong-un-vows-to-develop-more-powerful-means-of-attack">North Korea's Kim Jong Un vows to develop more powerful means of attack</a> NPR: North Korea's Kim Jong Un vows to develop more powerful means of, days after the country's first intercontinental ballistic missile launch in more than four years 
  <p class="updated_time"> 02:00 AM CT, Mar. 28 </p> 
@@ -151,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/europe/russia-ukraine-war-combat.html">As Ukraine War Moves Into 2nd Month, Fears Grow of Mariupol’s Fall to Russia</a> NYT: Ukraine’s top military intelligence officer suggested that Russia was changing its military focus to the south and east and might be trying to divide the country. 
  <p class="updated_time"> 05:13 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/lviv-ukraine-russia-missile-strikes.html">In Lviv, New Russian Strikes Pierce the Sense of Security in West</a> NYT: Residents in the western city of Lviv once ignored the air raid sirens. But Russian rocket attacks over the weekend have brought the war closer to their doorstep. 
- <p class="updated_time"> 04:50 PM CT, Mar. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60894142?at_medium=RSS&at_campaign=KARANGA">Russia transfers thousands of Mariupol civilians to its territory</a> BBC: Ukraine condemns Russia's alleged "deportation" of many civilians from devastated Mariupol. 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/biden-putin-speech-reaction.html">American Officials Try to Walk Back Biden’s Comments on Putin</a> NYT: Senior officials, including Secretary of State Antony J. Blinken, and top lawmakers stressed that the United States was not seeking regime change in Russia. 
  <p class="updated_time"> 12:22 PM CT, Mar. 27 </p> 
