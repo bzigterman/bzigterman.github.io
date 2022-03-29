@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:45 PM CT, Mar. 29 </p> 
+ <p class="updated_time"> 12:59 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/world/europe/uk-lockdown-parties-fines.html">London Police Issue Fines for Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson was not among those penalized, his office said, but the police decision puts a perilous political scandal back in the spotlight. 
+ <p class="updated_time"> 12:59 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: As Talks Progress, Russia Says It Will Reduce Attacks in Northern Ukraine</a> NYT: The gains in negotiations came as Ukrainian troops appeared to push back Russian forces around Kyiv. Russia said a meeting between President Vladimir V. Putin and President Volodymyr Zelensky could occur once a draft peace agreement was ready. 
  <p class="updated_time"> 12:41 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russian-soldiers-sexual-violence-ukraine.html">Accounts of Russian Rapes Are Growing, Ukraine Officials Say</a> NYT: A Ukrainian woman’s account of being repeatedly raped was published in The Times of London, and a member of Ukraine’s Parliament said there were “many more” such assaults. 
@@ -21,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799663?at_medium=RSS&at_campaign=KARANGA">Donald Trump's 6 January call logs show seven-hour gap</a> BBC: The committee investigating the Capitol riots had sought to obtain the presidential records. 
  <p class="updated_time"> 12:00 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60916098?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia to curb Kyiv assault as peace talks progress</a> BBC: Moscow says it will "drastically reduce" operations around the capital, Kyiv, as well as Chernihiv. 
- <p class="updated_time"> 11:52 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 12:00 PM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
  <p class="updated_time"> 11:44 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60914019?at_medium=RSS&at_campaign=KARANGA">Seven dead in strike on Mykolaiv governor's office</a> BBC: Russian forces destroyed an entire section of the building on the Tuesday morning strike in city of Mykolaiv. 
@@ -37,33 +39,31 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/movies/marina-goldovskaya-dead.html">Marina Goldovskaya, 80, Dies; Filmmaker Documented Russian Life</a> NYT: In about 30 documentaries she looked at the people and history of her homeland, some of it brutally dark. 
  <p class="updated_time"> 11:08 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/60907259?at_medium=RSS&at_campaign=KARANGA">Does video show Russian prisoners being shot?</a> BBC: Ukrainian authorities investigate a video apparently showing Russian PoWs being shot in the legs. 
- <p class="updated_time"> 11:04 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/europe/uk-lockdown-parties-fines.html">London Police Issue Fines for Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson was not among those penalized, his office said, but the police decision puts a perilous political scandal back in the spotlight. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
  <p class="updated_time"> 10:57 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
- <p class="updated_time"> 10:52 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
  <p class="updated_time"> 10:44 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/africa/nigeria-train-gunmen.html">Gunmen Attack Train Near Nigerian Capital, Killing Some Riders</a> NYT: The attackers used explosives to blow up the rail track before opening fire on the train in the latest in a series of train assaults. 
  <p class="updated_time"> 10:21 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/solomon-islands-china.html">Solomon Islands’ Leader Calls Concern Over China Security Deal ‘Insulting’</a> NYT: Prime Minister Manasseh Sogavare criticized Australia and New Zealand as assuming that the island nation could not act in its own best interests. 
  <p class="updated_time"> 10:00 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089438539/honduras-former-president-extradition-hernandez">Honduras Supreme Court says a former president can be extradited to the United States</a> NPR: Honduras' Supreme Court approved the extradition of former President Juan Orlando Hernández to face drug trafficking and weapons charges. The court rejected his final appeal. 
+ <p class="updated_time"> 10:00 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
  <p class="updated_time"> 09:56 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089430778/russia-yacht-london">A $49M Russian superyacht has been detained by U.K. officials near London</a> NPR: Detaining the yacht, named Phi, is "a clear and stark warning to Putin and his cronies," Britain's transport secretary said. Officials said the yacht's ownership is "deliberately well hidden." 
- <p class="updated_time"> 09:52 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
  <p class="updated_time"> 09:10 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-chechnya-grozny-ukraine.html">A Brutal Russian Playbook Reapplied in Ukraine</a> NYT: The besieging of cities, the deliberate targeting of civilians — they are the tactics Russia used before, in Grozny. I saw it firsthand. 
+ <p class="updated_time"> 09:00 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/as-trade-with-russia-halts-countries-turn-to-canada-11648558980">As Trade With Russia Halts, Countries Turn to Canada</a> WSJ: As Trade With Russia Halts, Countries Turn to Canada 
  <p class="updated_time"> 08:57 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/china-shanghai-covid-lockdown.html">Shanghai’s Lockdown Tests Covid-Zero Policy, and People’s Limits</a> NYT: A staggered lockdown on China’s commercial capital of 26 million people has sent beleaguered residents scrambling and raised fears of broader damage to the economy. 
  <p class="updated_time"> 08:57 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/americas/honduras-president-extradition.html">Honduran Supreme Court Ratifies U.S. Extradition Request of Ex-President</a> NYT: The former leader of Honduras is accused of colluding with drug cartels to ship tons of cocaine to the United States in return for financial support for his political party. 
- <p class="updated_time"> 08:52 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/as-trade-with-russia-halts-countries-turn-to-canada-11648558980">As Trade With Russia Halts, Countries Turn to Canada</a> WSJ: As Trade With Russia Halts, Countries Turn to Canada 
  <p class="updated_time"> 08:49 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60912474?at_medium=RSS&at_campaign=KARANGA">Russia-Ukraine war: Abramovich spotted in Istanbul peace talks</a> BBC: The Russian billionaire was seen as the talks began, following reports that he suffered poisoning symptoms. 
- <p class="updated_time"> 07:52 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 08:00 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/taiwan-looks-to-ukraine-war-for-ideas-to-defend-against-china-11648557508">Taiwan Looks to Ukraine War for Ideas to Defend Against China</a> WSJ: Taiwan Looks to Ukraine War for Ideas to Defend Against China 
  <p class="updated_time"> 06:27 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60915320?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for Nepal to ban Russian climbers from Himalayas</a> BBC: Nepal has issued permits to nine Russian climbers despite a Ukrainian call for them to be banned. 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:49 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/us/politics/desantis-redistricting-midterm-elections.html">G.O.P. Presses for Greater Edge on Florida and Ohio Congressional Maps</a> NYT: In Florida, Gov. Ron DeSantis vetoed a map drawn by his fellow Republicans in the Legislature. In Ohio, Republicans closed in on a G.O.P.-friendly map for the midterm elections. 
  <p class="updated_time"> 12:17 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/business/economy/americans-inflation-survey.html">Americans, especially Republicans, are getting more worried about inflation.</a> NYT: Recent poll data suggests that rising prices dominate Americans’ economic concerns, with inflation fears the highest since 1985. 
  <p class="updated_time"> 12:03 PM CT, Mar. 29 </p> 
@@ -252,8 +254,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-putin.html">‘I Make No Apologies’: Biden Says His Putin Comments Were an Expression of Moral Outrage</a> NYT: President Biden said his words, delivered in a speech over the weekend in Warsaw, were not a call for regime change in Russia. 
  <p class="updated_time"> 07:24 PM CT, Mar. 28 </p> 
  <a href="https://www.politico.com/news/2022/03/28/russia-ukraine-scott-taylor-belarus-00021156">A former congressman and a lobbyist look for work in Kremlin-allied Belarus</a> Politico: One wants to end the conflict. The other is in talks to represent Belarus’ potash industry. They’re among the few still open to working with the country. 
- <p class="updated_time"> 06:53 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-proposes-increases-in-defense-and-social-spending.html">Biden’s $5.8 Trillion Budget Pivots Toward Economic and Security Concerns</a> NYT: The president released his latest budget proposal amid war in Ukraine and concerns at home about rising costs. 
  <p class="updated_time"> 06:33 PM CT, Mar. 28 </p> 
  <a href="https://www.politico.com/news/2022/03/28/biden-budget-joe-manchin-00021140">Biden’s budget a ‘peace offering’ that could restart stalled economic agenda</a> Politico: The White House is leaning into deficit reduction. Democrats say that’s fine, so long as it helps open up negotiations with Joe Manchin. 
  <p class="updated_time"> 06:04 PM CT, Mar. 28 </p> 
