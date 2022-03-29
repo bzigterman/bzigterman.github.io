@@ -317,7 +317,7 @@ temps_past_week <- temp_history %>%
   select(temp, period)%>%
   arrange(temp)
 temps_past_month <- temp_history %>%
-  filter(central_time > now(tzone = "America/Chicago")-months(1)) %>%
+  filter(central_time > now(tzone = "America/Chicago")-days(31)) %>%
   mutate(period = "Past Month") %>%
   select(temp, period)%>%
   arrange(temp)
