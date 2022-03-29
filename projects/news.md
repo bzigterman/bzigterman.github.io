@@ -9,64 +9,88 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:03 PM CT, Mar. 29 </p> 
+ <p class="updated_time"> 03:36 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: As Talks Progress, Russia Says It Will Reduce Attacks in Northern Ukraine</a> NYT: The gains in negotiations came as Ukrainian troops appeared to push back Russian forces around Kyiv. Russia said a meeting between President Vladimir V. Putin and President Volodymyr Zelensky could occur once a draft peace agreement was ready. 
+ <p class="updated_time"> 03:32 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533733/house-music-is-alive-and-well-in-south-africa">House music is alive and well in South Africa</a> NPR: In much of the world, house music has already had its day — but in South Africa, it is pop music. Here's why this musical genre has remained king. 
+ <p class="updated_time"> 03:31 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-says-it-will-ease-bombing-of-a-ukrainian-city-near-kyiv.html">A Vow to Ease Bombing Is Too Late for Many in Ukraine City Near Kyiv</a> NYT: Russia’s offer, if honored, comes too late for the thousands who have already fled Chernihiv. 
+ <p class="updated_time"> 03:25 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533726/a-custom-lego-company-raised-more-than-145-000-for-ukraine-relief">A custom LEGO company raised more than $145,000 for Ukraine Relief</a> NPR: A custom LEGO store in a Chicago suburb has raised more than $145,000 for Ukraine relief by selling a figurine of Ukrainian President Volodymyr Zelenskyy and an accessory of a Molotov cocktail. 
+ <p class="updated_time"> 03:25 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533705/putin-publicly-put-russian-nuclear-forces-on-high-alert-what-should-we-make-of-t">Putin publicly put Russian nuclear forces on high alert. What should we make of that?</a> NPR: Russia says it put its nuclear forces on a higher state of alert, and Western officials have raised the prospect of chemical weapons attacks. How serious are these threats? 
+ <p class="updated_time"> 03:21 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/world/middleeast/israel-shooting-deaths.html">Palestinian Gunman Kills 5 in Israel’s Fifth Attack in Recent Days</a> NYT: The attack in a Tel Aviv suburb brought the number of people killed in the past two weeks to 11. 
+ <p class="updated_time"> 03:21 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533665/salvadorans-are-concerned-over-president-bukeles-new-power-from-state-of-emergen">Salvadorans are concerned over President Bukele's new power from state of emergency</a> NPR: After a weekend of intense gang violence with scores of killings, El Salvador's president declared emergency powers that some worry he could use to squelch political opposition. 
+ <p class="updated_time"> 03:21 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533658/fighting-continues-as-negotiators-for-ukraine-and-russia-make-a-breakthrough">Fighting continues as negotiators for Ukraine and Russia make a breakthrough</a> NPR: For the first time since Russia's invaded Ukraine, there's a sign of progress towards peace. Negotiators for the two countries met in Istanbul Tuesday, with both sides outlining possible concessions. 
+ <p class="updated_time"> 03:02 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/movies/marina-goldovskaya-dead.html">Marina Goldovskaya, 80, Dies; Filmmaker Documented Russian Life</a> NYT: In about 30 documentaries she looked at the people and history of her homeland, some of it brutally dark. 
+ <p class="updated_time"> 02:59 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089511141/russia-ukraine-war-peace-talks">Russia vows to reduce northern Ukraine attacks in tentative peace talks progress </a> NPR: Russia said on Tuesday that it would significantly scale back its military activity around Kyiv and Chernihiv. Ukraine delivered a proposal for accepting a neutral and nonnuclear status. 
+ <p class="updated_time"> 02:59 PM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Five killed in new attack in Israel</a> BBC: Victims were shot in the streets on the outskirts of Tel Aviv, in the third such attack within days. 
+ <p class="updated_time"> 02:52 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/world/europe/britain-russian-superyacht.html">Britain Seizez Russian Superyacht</a> NYT: The British authorities have joined those nations putting pressure on Vladimir Putin by targeting the assets of his wealthy supporters. 
+ <p class="updated_time"> 02:49 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html">BA.2 Accounts for Over Half of New U.S. Cases, C.D.C. Estimates</a> NYT: Scientists have been keeping an eye on BA.2, one of three distinct genetically distinct varieties of the Omicron variant of the coronavirus, 
+ <p class="updated_time"> 02:45 PM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
+ <p class="updated_time"> 02:42 PM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60921567?at_medium=RSS&at_campaign=KARANGA">Why the Red Cross has to be neutral in the Ukraine conflict</a> BBC: The ICRC is worried that its operations might be undermined by misinformation about its work. 
+ <p class="updated_time"> 02:38 PM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60914019?at_medium=RSS&at_campaign=KARANGA">Twelve dead in strike on Mykolaiv governor's office</a> BBC: Russian forces destroyed an entire section of the building on the Tuesday morning strike in city of Mykolaiv. 
+ <p class="updated_time"> 02:26 PM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60881824?at_medium=RSS&at_campaign=KARANGA">Jada Pinkett Smith breaks silence on Oscars slap</a> BBC: Ticket sales for Chris Rock's shows have spiked after Will Smith struck him on-stage at the Oscars. 
+ <p class="updated_time"> 01:45 PM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
  <p class="updated_time"> 01:42 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks-istanbul.html">Russia-Ukraine Peace Talks Enter a New Phase in Istanbul</a> NYT: “All the world is expecting good news from you,” President Recep Tayyip Erdogan said in greeting the Russian and Ukrainian delegations. 
- <p class="updated_time"> 01:41 PM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/middleeast/israel-shooting-deaths.html">Palestinian Gunman Kills 4 in Israel’s Fifth Attack in Recent Days</a> NYT: Israeli medics said that four people were killed and at least one other was wounded in an attack in a Tel Aviv suburb. 
- <p class="updated_time"> 01:32 PM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/europe/britain-russian-superyacht.html">Britain Seizez Russian Superyacht</a> NYT: The British authorities have joined those nations putting pressure on Vladimir Putin by targeting the assets of his wealthy supporters. 
- <p class="updated_time"> 01:29 PM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Four killed in new attack in Israel</a> BBC: The gunman is said to have shot victims from a motorcycle in the third such attack within a week. 
  <p class="updated_time"> 01:27 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/mariupol-ukraine-russia-war-food-water.html">Mariupol Residents Describe How Russian Forces Deprived Them of Food and Water</a> NYT: Residents of Mariupol, Ukraine described how Russian forces use hunger as a weapon of war in a monthlong siege of the southern port. “No roof, no food and no water,” survivors texted relatives who escaped. 
- <p class="updated_time"> 01:20 PM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60920250?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Snake Island soldier receives a medal from his region</a> BBC: The soldier and his colleagues were thought to have been killed on the first day of the war. 
- <p class="updated_time"> 01:14 PM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
  <p class="updated_time"> 01:02 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/uk-lockdown-parties-fines.html">London Police Issue Fines for Downing Street Lockdown Parties</a> NYT: Prime Minister Boris Johnson was not among those penalized, his office said, but the police decision puts a perilous political scandal back in the spotlight. 
+ <p class="updated_time"> 12:45 PM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
  <p class="updated_time"> 12:41 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russian-soldiers-sexual-violence-ukraine.html">Accounts of Russian Rapes Are Growing, Ukraine Officials Say</a> NYT: A Ukrainian woman’s account of being repeatedly raped was published in The Times of London, and a member of Ukraine’s Parliament said there were “many more” such assaults. 
  <p class="updated_time"> 12:27 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60920588?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Dozens of Russian diplomats expelled by four EU nations</a> BBC: More than 40 diplomats are told to leave by Belgium, the Netherlands, Ireland and the Czech Republic. 
- <p class="updated_time"> 12:14 PM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
  <p class="updated_time"> 12:11 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/andrew-queen-elizabeth-memorial.html">Prince Andrew, Banished From Royal Duties, Escorts Queen to Memorial</a> NYT: The prince’s conspicuous public appearance at the service for his father, Prince Philip, who died last year, sent an unmistakable message of support by a 95-year-old mother for her disgraced son. 
  <p class="updated_time"> 12:08 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799663?at_medium=RSS&at_campaign=KARANGA">Donald Trump's 6 January call logs show seven-hour gap</a> BBC: The committee investigating the Capitol riots had sought to obtain the presidential records. 
  <p class="updated_time"> 12:00 PM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60916098?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia to curb Kyiv assault as peace talks progress</a> BBC: Moscow says it will "drastically reduce" operations around the capital, Kyiv, as well as Chernihiv. 
- <p class="updated_time"> 11:44 AM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60914019?at_medium=RSS&at_campaign=KARANGA">Seven dead in strike on Mykolaiv governor's office</a> BBC: Russian forces destroyed an entire section of the building on the Tuesday morning strike in city of Mykolaiv. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60916098?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia says it will curb Kyiv assault as peace talks progress</a> BBC: Moscow says it will "drastically reduce" operations around the capital, Kyiv, as well as Chernihiv. 
+ <p class="updated_time"> 11:45 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/as-trade-with-russia-halts-countries-turn-to-canada-11648558980">As Trade With Russia Halts, Countries Turn to Canada</a> WSJ: As Trade With Russia Halts, Countries Turn to Canada 
  <p class="updated_time"> 11:41 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/germany-women-ukraine-war.html">Women Drive Germany’s Foreign Policy Shift Amid Ukraine War</a> NYT: Angela Merkel is no longer chancellor. But as war rages in Ukraine, a mere 10-hour drive from Berlin, female ministers oversee national security. 
  <p class="updated_time"> 11:37 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089146927/russia-war-ukraine-dnipro">With front lines on 3 sides, Ukraine's Dnipro sharpens its focus on the war</a> NPR: The city, an island of relative safety surrounded by fighting, has become a hub for humanitarian aid and for people fleeing the war in the Donbas and other parts of Ukraine. 
+ <p class="updated_time"> 11:31 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/four-israelis-killed-by-gunman-near-tel-aviv-11648580810">Palestinian Gunman Shoots Five Dead in Central Israel</a> WSJ: The attacker opened fire in an ultra-Orthodox town on the outskirts of Tel Aviv before being killed by security forces, in the country’s third suspected terrorist attack in a week. 
  <p class="updated_time"> 11:29 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-42993715?at_medium=RSS&at_campaign=KARANGA">Jury selection starts in IS Beatle jihadist trial</a> BBC: The last member of the British jihadist group nicknamed the IS Beatles is going on trial in the US. 
- <p class="updated_time"> 11:22 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/movies/marina-goldovskaya-dead.html">Marina Goldovskaya, 80, Dies; Filmmaker Documented Russian Life</a> NYT: In about 30 documentaries she looked at the people and history of her homeland, some of it brutally dark. 
- <p class="updated_time"> 11:14 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
+ <p class="updated_time"> 11:16 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-officials-get-approval-to-travel-for-china-plane-crash-probe-11648582670">U.S. Officials Get Approval to Travel for China Plane Crash Probe</a> WSJ: National Transportation Safety Board investigators hope to leave for China this week to participate in the investigation of the China Eastern Boeing 737 crash. 
  <p class="updated_time"> 11:08 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/60907259?at_medium=RSS&at_campaign=KARANGA">Does video show Russian prisoners being shot?</a> BBC: Ukrainian authorities investigate a video apparently showing Russian PoWs being shot in the legs. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-makes-public-debut-in-russia-ukraine-peace-talks-11648581111">Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks</a> WSJ: The Russian oligarch has been trying to shed assets amid Western sanctions, but he is now taking a high-profile role in peace negotiations. 
  <p class="updated_time"> 10:57 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
+ <p class="updated_time"> 10:45 AM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/european-countries-expel-dozens-of-russian-officials-11648573334">European Countries Expel Dozens of Russian Officials</a> WSJ: European Countries Expel Dozens of Russian Officials 
  <p class="updated_time"> 10:44 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/africa/nigeria-train-gunmen.html">Gunmen Attack Train Near Nigerian Capital, Killing Some Riders</a> NYT: The attackers used explosives to blow up the rail track before opening fire on the train in the latest in a series of train assaults. 
  <p class="updated_time"> 10:21 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/solomon-islands-china.html">Solomon Islands’ Leader Calls Concern Over China Security Deal ‘Insulting’</a> NYT: Prime Minister Manasseh Sogavare criticized Australia and New Zealand as assuming that the island nation could not act in its own best interests. 
- <p class="updated_time"> 10:14 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/as-trade-with-russia-halts-countries-turn-to-canada-11648558980">As Trade With Russia Halts, Countries Turn to Canada</a> WSJ: As Trade With Russia Halts, Countries Turn to Canada 
  <p class="updated_time"> 10:00 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089438539/honduras-former-president-extradition-hernandez">Honduras Supreme Court says a former president can be extradited to the United States</a> NPR: Honduras' Supreme Court approved the extradition of former President Juan Orlando Hernández to face drug trafficking and weapons charges. The court rejected his final appeal. 
  <p class="updated_time"> 09:56 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089430778/russia-yacht-london">A $49M Russian superyacht has been detained by U.K. officials near London</a> NPR: Detaining the yacht, named Phi, is "a clear and stark warning to Putin and his cronies," Britain's transport secretary said. Officials said the yacht's ownership is "deliberately well hidden." 
- <p class="updated_time"> 09:14 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/european-countries-expel-dozens-of-russian-officials-11648573334">European Countries Expel Dozens of Russian Officials</a> WSJ: European Countries Expel Dozens of Russian Officials 
  <p class="updated_time"> 09:10 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-chechnya-grozny-ukraine.html">A Brutal Russian Playbook Reapplied in Ukraine</a> NYT: The besieging of cities, the deliberate targeting of civilians — they are the tactics Russia used before, in Grozny. I saw it firsthand. 
  <p class="updated_time"> 08:57 AM CT, Mar. 29 </p> 
@@ -81,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60913729?at_medium=RSS&at_campaign=KARANGA">French elections: Eric Zemmour criticised over 'Killer Macron' rally chants</a> BBC: Emmanuel Macron criticises challenger Eric Zemmour after his supporters chanted "Killer Macron" at a rally. 
  <p class="updated_time"> 05:30 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/sections/money/2022/03/29/1088886554/how-putin-conquered-russias-oligarchy">How Putin Conquered Russia's Oligarchy</a> NPR: In 2000, Vladimir Putin began targeting oligarchs who did not bend to his authority. The loyalists who remained — and new ones who subsequently got rich — became like ATM machines for the president. 
- <p class="updated_time"> 05:13 AM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60900854?at_medium=RSS&at_campaign=KARANGA">Mexico cockfight shooting: Gunmen 'hid in chip van'</a> BBC: The number of victims of a deadly shooting at an illegal cockfighting pit in Mexico has risen to 20. 
  <p class="updated_time"> 04:31 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1088680989/a-retro-computer-museum-in-mariupol-beloved-by-children-was-attacked-by-russia">A retro computer museum in Mariupol beloved by children was attacked by Russia </a> NPR: "It's been a hobby of my life," said the owner of the retro computer collection that was hit by a Russian attack in the besieged Ukrainian city of Mariupol. 
  <p class="updated_time"> 04:15 AM CT, Mar. 29 </p> 
@@ -91,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/climate/farhana-yamin-climate.html">Farhana Yamin’s Journey From Climate Summits to Street Protests</a> NYT: After a high-profile career as an international lawyer and negotiator, Farhana Yamin decided “we cannot rely on lawyers and diplomats alone.” 
  <p class="updated_time"> 03:55 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390374/uk-police-fine-20-people-over-partygate-political-scandal">U.K. police fine 20 people over 'partygate' political scandal</a> NPR: British police said Tuesday that they were fining 20 people over parties held by Prime Minister Boris Johnson and his staff during coronavirus lockdowns. 
- <p class="updated_time"> 03:38 AM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/taiwan-looks-to-ukraine-war-for-ideas-to-defend-against-china-11648557508">Taiwan Looks to Ukraine War for Ideas to Defend Against China</a> WSJ: A major potential change for the island democracy would be extending conscription. 
  <p class="updated_time"> 03:06 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089390179/el-salvador-grabs-1-000-gang-suspects-in-response-to-weekend-killings">El Salvador grabs 1,000 gang suspects in response to weekend killings</a> NPR: The government declared a state of emergency and locked down prisons after more than 80 murders were committed Friday, Saturday and Sunday. 
  <p class="updated_time"> 02:11 AM CT, Mar. 29 </p> 
@@ -103,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/health-60903839?at_medium=RSS&at_campaign=KARANGA">Matching drugs to DNA is 'new era of medicine'</a> BBC: Testing can predict if drugs will work, fail or become deadly, depending on differences in our make-up. 
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
- <p class="updated_time"> 11:33 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/29/1089382318/disabled-malaysian-loses-appeal-will-be-hanged-in-singapore">A man with a mental disability loses his appeal and will be hanged in Singapore</a> NPR: The Malaysian man recognized as having an intellectual disability has been on death row since 2010 for trying to smuggle less than 1.5 ounces of heroin into Singapore. 
  <p class="updated_time"> 11:18 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/pope-indigenous-schools-canada-apology.html">Pope Francis Meets With Canadian Indigenous Leaders Seeking Apology</a> NYT: For the first time, Francis received Indigenous survivors of abusive boarding schools in Canada who were seeking the pontiff’s apology over the church’s role in running the schools. 
  <p class="updated_time"> 11:08 PM CT, Mar. 28 </p> 
@@ -119,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-putin.html">Biden Says of Condemning Putin: ‘I Make No Apologies’</a> NYT: President Biden said his words, delivered in a speech over the weekend in Warsaw, were not a call for regime change in Russia. 
  <p class="updated_time"> 07:23 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60587079?at_medium=RSS&at_campaign=KARANGA">French election: Why the small town of Moissac is on edge</a> BBC: The relationship between a Bulgarian community and locals in Moissac sheds light on political issues. 
- <p class="updated_time"> 07:22 PM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60909449?at_medium=RSS&at_campaign=KARANGA">Oscars: What Will Smith's slap says about him - and us</a> BBC: A childhood ordeal that has long haunted the actor may offer an insight into his "inexcusable" attack. 
  <p class="updated_time"> 06:01 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-60825216?at_medium=RSS&at_campaign=KARANGA">Amazon union election: Will this former worker make history?</a> BBC: Workers in three Amazon warehouses are deciding whether to join a union - which would be a first in the US. 
  <p class="updated_time"> 06:01 PM CT, Mar. 28 </p> 
@@ -135,20 +151,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/world/middleeast/arab-israeli-summit.html">Israeli Summit Mixes Historic Symbolism With Sharp Disputes</a> NYT: The meeting of diplomats from Israel, the U.S. and four Arab countries was momentous just for taking place. But in private, they tried to hash out differences over Iran and the war in Ukraine. 
  <p class="updated_time"> 04:55 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/health/concerns-rise-as-a-us-reimbursement-fund-for-testing-and-treating-the-uninsured-for-the-virus-stops-taking-claims.html">Concerns rise as a U.S. reimbursement fund for uninsured Covid patients stops taking claims.</a> NYT: Some U.S. health care providers are informing uninsured people they can no longer be tested for the virus free of charge and will have to pay for the service. 
- <p class="updated_time"> 04:07 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089311086/belarusian-activists-on-digital-rights-belarus-in-the-world-and-the-way-forward">Belarusian activists on digital rights, Belarus in the world, and the way forward</a> NPR: Russian troops are using Belarus as a staging ground to invade Ukraine from the north, but Belarusians are against it. At a D.C. area bar, two activists talked about their home country of Belarus. 
  <p class="updated_time"> 04:03 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/macron-france-russia-ukraine.html">President Macron’s Unending Russia Diplomacy</a> NYT: The French leader’s outreach to his counterparts in Russia and Ukraine is stubborn. Whether it is also effective remains to be seen. 
- <p class="updated_time"> 04:03 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089140474/russia-ukraine-war-what-happened-today-march-28">Russia-Ukraine war: What happened today (March 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:00 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/60854881?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Major internet provider suffers cyber-attack</a> BBC: Ukrtelecom says a powerful cyber-attack carried out against its infrastructure was "repulsed". 
- <p class="updated_time"> 03:52 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089311072/ukraine-is-willing-to-become-a-neutral-country-as-part-of-a-peace-deal-with-russ">Ukraine is willing to become a neutral country as part of a peace deal with Russia</a> NPR: Negotiators from Ukraine and Russia arrived in Turkey in hopes of reaching an agreement to put an end to Russia's war in Ukraine. Ukraine is "ready" to discuss becoming a neutral country. 
- <p class="updated_time"> 03:41 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089311019/shanghai-is-on-lockdown-under-chinas-zero-covid-policy">Shanghai is on lockdown under China's 'zero COVID' policy</a> NPR: As omicron spreads in China, one of its largest cities — Shanghai — has been placed on lockdown under the government's "zero COVID" policy. 
- <p class="updated_time"> 03:36 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089311121/eritrean-cyclist-makes-history-with-win-in-belgium">Eritrean cyclist makes history with win in Belgium</a> NPR: Eritrean cyclist Biniam Girmay sprinted to victory in Belgium and became the first Black African to win one of road cycling's classic races. 
  <p class="updated_time"> 01:09 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/russia-ukraine-nato-weapons.html">Would Putin Strike NATO Supply Lines to Ukraine? History Suggests No.</a> NYT: From the Soviets in Afghanistan to the U.S. in Korea, Moscow and Washington have often chosen not to attack the countries aiding their enemies. 
  <p class="updated_time"> 12:20 PM CT, Mar. 28 </p> 
@@ -159,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/blinken-mideast-ukraine.html">Blinken to Press Mideast Allies for Stronger Support for Ukraine</a> NYT: The countries, which have their own relationships with Russia, have provided some modest backing, but Secretary of State Antony J. Blinken will ask for more. 
  <p class="updated_time"> 07:11 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
- <p class="updated_time"> 06:18 AM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/leaders-of-canada-and-europe-to-host-ukrainian-relief-fund-raising-event.html">Leaders of Canada and Europe to Host Ukrainian Relief Fund-Raising Event</a> NYT: Few details were released about the online event scheduled for next month. 
  <p class="updated_time"> 05:32 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/26/world/europe/uk-afghan-refugees-ukraine.html">Afghan Refugees in U.K. Still in Limbo as Ukrainians Arrive</a> NYT: Some 12,000 Afghans who fled to Britain have been living in hotels for months awaiting permanent housing. This has raised questions about the country’s ability to take in many more escaping Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Mar. 28 </p> 
@@ -183,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/27/world/europe/lviv-ukraine-russia-missile-strikes.html">In Lviv, New Russian Strikes Pierce the Sense of Security in West</a> NYT: Residents in the western city of Lviv once ignored the air raid sirens. But Russian rocket attacks over the weekend have brought the war closer to their doorstep. 
  <p class="updated_time"> 12:44 PM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/biden-putin-speech-reaction.html">American Officials Try to Walk Back Biden’s Comments on Putin</a> NYT: Senior officials, including Secretary of State Antony J. Blinken, and top lawmakers stressed that the United States was not seeking regime change in Russia. 
- <p class="updated_time"> 11:35 AM CT, Mar. 27 </p> 
- <a href="https://www.nytimes.com/2022/03/26/world/europe/biden-ukraine-poland-speech.html">Biden’s Barbed Remark About Putin: A Slip or a Veiled Threat?</a> NYT: The conclusion of Mr. Biden’s speech on Saturday was a reminder of how precarious diplomacy can be when bombs are already dropping. 
  <p class="updated_time"> 11:28 AM CT, Mar. 27 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/europe/eric-zemmour-france.html">Éric Zemmour Vows to Fight for Identity and Prosperity</a> NYT: Éric Zemmour, a far-right pundit, tried to revive his flagging campaign Sunday in a place that is familiar to hopefuls of his ilk. 
  <p class="updated_time"> 10:25 AM CT, Mar. 27 </p> 
@@ -202,10 +204,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:37 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/us/politics/supreme-court-burn-pits.html">Supreme Court, in Case on Veteran Hurt by Burn Pits, Debates War Powers</a> NYT: The justices seemed split on whether Congress can allow suits against states that discriminate against injured service members returning from conflicts. 
+ <p class="updated_time"> 03:36 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1086720579/lynching-is-now-a-federal-hate-crime-after-a-century-of-blocked-efforts">Lynching is now a federal hate crime after a century of blocked efforts</a> NPR: President Biden signed the Emmett Till Antilynching Act into law, the culmination of more than a century of efforts to designate lynching as a federal hate crime. 
+ <p class="updated_time"> 03:32 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533748/president-biden-has-signed-a-bill-that-makes-lynching-a-federal-hate-crime">President Biden has signed a bill that makes lynching a federal hate crime</a> NPR: Lynching is now a federal crime. A bill signed by President Biden formally defines lynching — for the first time in federal law — as hate-motivated violence. 
+ <p class="updated_time"> 03:25 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533801/how-florida-teachers-plan-to-deal-with-dont-say-gay-rules">How Florida teachers plan to deal with 'Don't Say Gay' rules</a> NPR: Florida's governor has signed what critics call the "Don't Say Gay" bill. Teachers share how they plan to comply and how it will affect classroom discussions on sexual orientation and gender identity. 
+ <p class="updated_time"> 03:25 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089533712/bidens-budget-doesnt-fund-everything-progressives-wanted-but-rep-jayapal-has-hop">Biden's budget doesn't fund everything progressives wanted, but Rep. Jayapal has hope</a> NPR: President Biden's budget for fiscal year 2023 includes new funding for climate, clean energy and environmental justice programs. Yet, some believe Biden failed progressives with this proposed budget. 
+ <p class="updated_time"> 03:17 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1082426519/midterms-election-calendar">The 2022 midterms are underway. Here's the calendar of primary elections</a> NPR: After Texas kicked off the midterms on March 1, the next contests are in May, when voters in a number of states cast primary ballots. 
+ <p class="updated_time"> 03:03 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089475033/federal-travel-mask-mandate-lawsuit">21 states sue the Biden administration to end the federal travel mask mandate</a> NPR: The states are suing to end the public transportation mandate, claiming the continued enforcement "harms the states" and interferes with local laws. The mandate is in place at least through April 18. 
+ <p class="updated_time"> 02:59 PM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089511141/russia-ukraine-war-peace-talks">Russia vows to reduce northern Ukraine attacks in tentative peace talks progress </a> NPR: Russia said on Tuesday that it would significantly scale back its military activity around Kyiv and Chernihiv. Ukraine delivered a proposal for accepting a neutral and nonnuclear status. 
+ <p class="updated_time"> 02:57 PM CT, Mar. 29 </p> 
+ <a href="https://www.politico.com/news/2022/03/29/executive-privilege-jared-kushner-ivanka-trump-jan-6-testimony-00021423">White House won't assert executive privilege for Jared Kushner, Ivanka Trump testimony</a> Politico: The move comes as the Jan. 6 select committee looks to decipher Kushner’s role in the events surrounding the attack on the Capitol. 
+ <p class="updated_time"> 02:31 PM CT, Mar. 29 </p> 
+ <a href="https://www.politico.com/news/2022/03/29/putin-biden-russia-ukraine-deescalation-00021395">Putin on the fritz? U.S. not buying Russia's deescalation talk.</a> Politico: ‘The Russians really f---ed this up,’ one official said as the U.S. takes assessment of the latest turn in the Ukraine conflict. 
  <p class="updated_time"> 02:08 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/us/politics/desantis-redistricting-midterm-elections.html">G.O.P. Presses for Greater Edge on Florida and Ohio Congressional Maps</a> NYT: In Florida, Gov. Ron DeSantis vetoed a map drawn by his fellow Republicans in the Legislature. In Ohio, Republicans closed in on a G.O.P.-friendly map for the midterm elections. 
  <p class="updated_time"> 02:04 PM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089509352/trump-white-house-phone-records-show-7-hour-gap-on-jan-6">Trump White House phone records show 7-hour gap on Jan. 6</a> NPR: Calls Trump made to GOP lawmakers during the insurrection have been revealed publicly, underscoring questions about why no activity was recorded during the most crucial hours of that day. 
+ <p class="updated_time"> 02:03 PM CT, Mar. 29 </p> 
+ <a href="https://www.politico.com/news/2022/03/29/desantis-disney-dont-say-gay-repeal-00021389">DeSantis says Disney ‘crossed the line’ in calling for ‘Don’t Say Gay’ repeal</a> Politico: The governor has been openly feuding with Disney and CEO Bob Chapek since the Florida Legislature approved the law. 
  <p class="updated_time"> 01:58 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/us/politics/trump-tweet-jan-6.html">New Focus on How a Trump Tweet Incited Far-Right Groups Ahead of Jan. 6</a> NYT: Federal prosecutors and congressional investigators are documenting how the former president’s “Be there, will be wild!” post became a catalyst for militants before the Capitol assault. 
  <p class="updated_time"> 01:46 PM CT, Mar. 29 </p> 
@@ -237,9 +261,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/federal-dollars-covid-19-racial-gaps-00021072">Covid funding inaction threatens fragile progress on racial, economic disparities</a> Politico: The congressional stalemate on additional Covid funding threatens to upend the fragile progress that has been made since the early days of the pandemic. 
  <p class="updated_time"> 03:30 AM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/clarence-thomas-congress-fallout-00021167">Impeach Thomas? House Dems can go there, but most won’t.</a> Politico: The chamber's Democrats have one serious option to respond to the furor swirling around the Supreme Court justice’s wife. They're not using it — yet. 
- <p class="updated_time"> 03:30 AM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/rand-paul-senate-gop-ukraine-russia-00021124">Rand's latest stand undercuts GOP's Ukraine message</a> Politico: The Kentucky senator is again mucking up vote plans, this time on suspending normal trade relations with Russia. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 29 </p> 
+ <a href="https://www.politico.com/news/2022/03/29/clarence-thomas-congress-fallout-00021167">Impeach Thomas? House Dems can go there, but most won’t.</a> Politico: The chamber's Democrats have one serious option to respond to the furor swirling around the Supreme Court justice’s wife. They're not using it — yet. 
  <p class="updated_time"> 03:30 AM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/federal-reserve-recession-inflation-rates-00021119">8/9. That's the Fed’s record on triggering a recession while trying to fix inflation.</a> Politico: As the Fed begins a new round of rate increases to combat the worst inflation in 40 years, the central bank is once again sparking concern that it's doing too little too late. 
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
@@ -282,16 +306,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/28/biden-2023-budget-proposal-guide-00020982">Here's what's in Biden's $5.8 trillion budget proposal — and what's next</a> Politico: It includes a defense budget that will leave some hawks unsatisfied, and a more modest assault on climate change than many Democrats had hoped for. 
  <p class="updated_time"> 03:37 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/supreme-court-california-pigs.html">Supreme Court to Weigh California Law on Humane Treatment of Pigs</a> NYT: Trade groups challenged the law, which requires adequate space for breeding pigs to turn around, saying it unfairly burdens out-of-state farmers. 
- <p class="updated_time"> 03:36 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089310979/operation-lone-star-touts-big-numbers-but-are-they-real">Operation Lone Star touts big numbers. But are they real?</a> NPR: It's been a year since Texas launched Operation Lone Star, Gov. Greg Abbott's hardline border crackdown on undocumented immigration. NPR's Ailsa Chang talks with reporter Lomi Kriel about the project. 
- <p class="updated_time"> 03:36 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089310972/florida-gov-desantis-has-signed-dont-say-gay-bill">Florida Gov. DeSantis has signed 'Don't Say Gay' bill</a> NPR: Florida's governor signed a bill that bans instruction dealing with sexual orientation kindergarten through third grade. Dubbed the "Don't Say Gay" bill by critics, it was ridiculed at the Oscars. 
- <p class="updated_time"> 03:02 PM CT, Mar. 28 </p> 
- <a href="https://www.politico.com/news/2022/03/28/canada-lockheed-air-force-upgrade-00020974">Canada circles back to Lockheed for F-35s</a> Politico: The government plans to spend up to C$19B to buy warplanes to upgrade the Royal Canadian Air Force. 
  <p class="updated_time"> 02:52 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/supreme-court-andy-warhol-prince.html">Supreme Court to Hear Copyright Fight Over Andy Warhol’s Images of Prince</a> NYT: The justices will decide whether the artist’s reliance on a photograph of the musician was copyright infringement or protected as a new, transformative work. 
- <p class="updated_time"> 02:48 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089300515/biden-putin-remarks-regime-change">Biden says he was expressing moral outrage when saying Putin shouldn't stay in power</a> NPR: President Biden defended controversial remarks in which he appeared to call for regime change in Russia. "I was expressing the moral outrage that I feel, and I make no apologies for it," he said. 
  <p class="updated_time"> 02:43 PM CT, Mar. 28 </p> 
  <a href="https://www.politico.com/news/2022/03/28/biden-no-apologies-putin-00021043">Biden: ‘Not walking anything back’ on unscripted Putin comments</a> Politico: The president, while visiting Poland on Saturday, had said the Russian leader 'cannot remain in power.' 
  <p class="updated_time"> 02:25 PM CT, Mar. 28 </p> 
@@ -300,26 +316,12 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/28/politics/biden-minimum-billionaire-tax-proposal/index.html">Here's what's in Biden's plan to tax the super wealthy</a> CNN: Looking for ways to fund its spending plans, the White House is turning to a familiar target: billionaires and other super-wealthy Americans. 
  <p class="updated_time"> 01:57 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/business/disney-florida-lgbtq-law.html">Disney Says It Hopes Florida Anti-LGBTQ Law Is ‘Struck Down’</a> NYT: Disney’s employees criticized the company this month for not taking a public stance against the legislation. 
- <p class="updated_time"> 01:19 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089263653/ginni-thomas-jan-6-committee-text-messages-meadows">Jan. 6 committee chairman to recommend inviting Ginni Thomas to appear</a> NPR: "It appears that Mrs. Thomas has information relevant to our investigation," the panel said after reports that she had exchanged text messages with Trump's chief of staff ahead of the Capitol attack. 
- <p class="updated_time"> 01:14 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089241047/eric-zemmour-right-wing-jewish-politician-holocaust-denial">A Jewish, far-right politician is being sued for Holocaust denial in France</a> NPR: The case against Eric Zemmour is the first time someone is accused of Holocaust denial for alleging French homosexuals weren't deported during the war, the plaintiffs say. 
- <p class="updated_time"> 01:09 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-budget-politics.html">Biden’s Center-Leaning Budget Bends to Political Reality</a> NYT: The president’s budget addresses the main attack lines that Republicans are using against him and his Democratic allies in Congress in the run-up to midterm congressional elections. 
  <p class="updated_time"> 01:09 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/russia-ukraine-nato-weapons.html">Would Putin Strike NATO Supply Lines to Ukraine? History Suggests No.</a> NYT: From the Soviets in Afghanistan to the U.S. in Korea, Moscow and Washington have often chosen not to attack the countries aiding their enemies. 
  <p class="updated_time"> 12:19 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-indian-health-service-funding.html">Biden Administration Moves to Make Funding for Indian Health Service Mandatory</a> NYT: The budget request for the Indian Health Service calls for increasing the agency’s budget to $9.1 billion, a more than 20 percent increase from the previous funding level. 
- <p class="updated_time"> 12:08 PM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089221657/dont-say-gay-florida-desantis">Florida's governor signs controversial law opponents dubbed 'Don't Say Gay'</a> NPR: The law says public school teachers may not instruct on sexual orientation or gender identity in grades kindergarten through third grade. 
  <p class="updated_time"> 11:51 AM CT, Mar. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:31 AM CT, Mar. 28 </p> 
- <a href="https://www.npr.org/2022/03/28/1089146544/scavino-navarro-trump-contempt-congress-jan-6">Jan. 6 panel votes to recommend the House hold ex-Trump advisers in contempt</a> NPR: The committee's unanimous vote sets up a vote in the House whether to refer criminal contempt referrals against Dan Scavino Jr. and Peter Navarro to the Justice Department. 
- <p class="updated_time"> 10:05 AM CT, Mar. 28 </p> 
- <a href="https://www.politico.com/news/2022/03/28/biden-requests-largest-defense-budget-00020859">Biden requests $813B for national defense</a> Politico: But skyrocketing inflation will drag the overall budget increases down 
- <p class="updated_time"> 10:03 AM CT, Mar. 28 </p> 
- <a href="https://www.politico.com/news/2022/03/28/biden-budget-request-00020611">Biden’s budget faces midterm headwinds</a> Politico: The president’s new request lays out his spending wishes for the fiscal year that will dawn in October, a month before Election Day. 
  <p class="updated_time"> 03:30 AM CT, Mar. 28 </p> 
  <a href="https://www.politico.com/news/2022/03/28/google-billionaire-joe-biden-science-office-00020712">A Google billionaire's fingerprints are all over Biden's science office</a> Politico: Eric Schmidt has long sought influence over U.S. science policy. Under Biden’s former science chief, Eric Lander, Schmidt’s foundation helped cover officials’ salaries, even as the office’s general counsel raised ethical flags. 
  <p class="updated_time"> 10:44 PM CT, Mar. 27 </p> 
