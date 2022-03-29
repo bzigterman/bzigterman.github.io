@@ -9,39 +9,39 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:11 AM CT, Mar. 29 </p> 
- <a href="https://www.npr.org/2022/03/29/1089387448/new-round-of-talks-aims-to-stop-the-fighting-in-ukraine">New round of talks aims to stop the fighting in Ukraine</a> NPR: Another round of talks aimed at stopping the war in Ukraine are starting in Istanbul on Tuesday as fighting appears stalemated on the ground. 
- <p class="updated_time"> 02:11 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 02:34 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/03/28/world/ukraine-russia-war">Here’s What Happened on Day 33 of the War in Ukraine</a> NYT: President Biden said he was expressing his ‘moral outrage,’ not a policy change, when he said the Russian strongman should not be in power. Despite talk of Russia targeting the east of Ukraine, action on several battlefronts suggested a more dynamic and volatile situation. 
+ <p class="updated_time"> 02:11 AM CT, Mar. 29 </p> 
+ <a href="https://www.npr.org/2022/03/29/1089387448/new-round-of-talks-aims-to-stop-the-fighting-in-ukraine">A new round of talks aims to stop the fighting in Ukraine</a> NPR: Another round of talks aimed at stopping the war in Ukraine are starting in Istanbul on Tuesday as fighting appears stalemated on the ground. 
  <p class="updated_time"> 02:03 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60905198?at_medium=RSS&at_campaign=KARANGA">Ukraine: Sheltering with monks in a Romanian monastery</a> BBC: The Ukrainian family who found shelter in a an unlikely place after fleeing Kharkiv. 
  <p class="updated_time"> 02:00 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-chechnya-grozny-ukraine.html">A Brutal Russian Playbook Reapplied in Ukraine</a> NYT: The besieging of cities, the deliberate targeting of civilians — they are the tactics Russia used before, in Grozny. I saw it firsthand. 
- <p class="updated_time"> 01:21 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 01:58 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraine-and-russia-prepare-for-talks-in-turkey-as-russian-missiles-hit-cities-11648464333">Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities</a> WSJ: Ukraine and Russia Prepare for Talks in Turkey as Russian Missiles Hit Cities 
- <p class="updated_time"> 12:21 AM CT, Mar. 29 </p> 
+ <p class="updated_time"> 12:58 AM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-and-ukrainian-peace-negotiators-suffer-symptoms-of-suspected-poisoning-11648480493">Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning</a> WSJ: Abramovich and Ukraine Peace Negotiators Suffer Suspected Poisoning 
+ <p class="updated_time"> 11:58 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 11:56 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/health-60903839?at_medium=RSS&at_campaign=KARANGA">Matching drugs to DNA is 'new era of medicine'</a> BBC: Testing can predict if drugs will work, fail or become deadly, depending on differences in our make-up. 
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
  <p class="updated_time"> 11:33 PM CT, Mar. 28 </p> 
  <a href="https://www.npr.org/2022/03/29/1089382318/disabled-malaysian-loses-appeal-will-be-hanged-in-singapore">Disabled Malaysian man loses appeal, will be hanged in Singapore</a> NPR: The Malaysian man recognized as having an intellectual disability has been on death row since 2010 for trying to smuggle less than 1.5 ounces of heroin into Singapore. 
- <p class="updated_time"> 11:21 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/trickbot-pro-russia-hacking-gang-documents-ukrainian-leaker-conti-11648480564">Secret World of Pro-Russia Hacking Group Exposed in Leak</a> WSJ: Secret World of Pro-Russia Hacking Group Exposed in Leak 
  <p class="updated_time"> 11:18 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/europe/pope-indigenous-schools-canada-apology.html">Pope Francis Meets With Canadian Indigenous Leaders Seeking Apology</a> NYT: For the first time, Francis received Indigenous survivors of abusive boarding schools in Canada who were seeking the pontiff’s apology over the church’s role in running the schools. 
  <p class="updated_time"> 11:08 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60909634?at_medium=RSS&at_campaign=KARANGA">Shane Warne: Australians reflect on cricket legend and 'man of the people'</a> BBC: Ahead of Warne's memorial service, ordinary Australians explain why his legacy transcends cricket. 
  <p class="updated_time"> 11:02 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60909883?at_medium=RSS&at_campaign=KARANGA">Anoosheh Ashoori: 'I still can't believe that I'm back'</a> BBC: Anoosheh Ashoori, who arrived back in the UK this month, tells of his 'hell' in Tehran jail. 
+ <p class="updated_time"> 10:58 PM CT, Mar. 28 </p> 
+ <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
  <p class="updated_time"> 10:50 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/science/social-media-teens-mental-health.html">Does Social Media Make Teens Unhappy? It May Depend on Their Age.</a> NYT: A large study in Britain found two specific windows of adolescence when some teenagers are most sensitive to social media. 
  <p class="updated_time"> 10:42 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/americas/el-salvador-gang-violence-bukele.html">Hundreds Arrested in El Salvador, Raising Fears of a Civil Liberties Crackdown</a> NYT: The Salvadoran government’s response to the weekend’s gang violence that left dozens dead is stoking fears that the emergency measures will allow President Nayib Bukele to further consolidate power. 
- <p class="updated_time"> 10:21 PM CT, Mar. 28 </p> 
- <a href="https://www.wsj.com/articles/former-honduras-president-to-be-extradited-to-the-u-s-on-drug-trafficking-charges-11648498461">Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges</a> WSJ: Former Honduras President to Be Extradited to the U.S. on Drug-Trafficking Charges 
- <p class="updated_time"> 09:21 PM CT, Mar. 28 </p> 
+ <p class="updated_time"> 09:58 PM CT, Mar. 28 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-experiment-begins-as-officials-race-to-clear-covid-19-11648482912">Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19</a> WSJ: Shanghai Lockdown Experiment Begins as Officials Race to Clear Covid-19 
  <p class="updated_time"> 08:08 PM CT, Mar. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60710362?at_medium=RSS&at_campaign=KARANGA">Algeria's cash crunch: 'Buying oil feels like buying drugs'</a> BBC: Shoppers in Algeria go to great lengths to buy basic foods as stocks dwindle and prices soar. 
@@ -310,6 +310,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/28/russia-ukraine-defense-dollars-00020590">Russia threat sets off mad dash for defense dollars</a> Politico: The “happy days are here again” for weapons manufacturers, one consultant said. 
  <p class="updated_time"> 10:44 PM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/will-smith-slap-chris-rock-pressley-00020786">Ayanna Pressley praises Will Smith's slap, then apparently deletes tweet</a> Politico: She said: "Alopecia nation stand up!" 
+ <p class="updated_time"> 08:37 PM CT, Mar. 27 </p> 
+ <a href="https://www.nytimes.com/2022/03/27/us/politics/peter-navarro-dan-scavino-contempt.html">Jan. 6 Panel Makes Case for Contempt Charges for 2 Former Trump Aides</a> NYT: The House committee investigating the Capitol riot issued a report on Peter Navarro and Dan Scavino Jr.’s roles in efforts to overturn Donald Trump’s election loss. 
  <p class="updated_time"> 11:41 AM CT, Mar. 27 </p> 
  <a href="https://www.politico.com/news/2022/03/27/amy-klobuchar-clarence-thomas-recusal-00020708">Thomas should recuse himself from election cases, Klobuchar says</a> Politico: It was revealed last week that his wife Ginni discussed ways to overturn the 2020 election with White House chief of staff Mark Meadows over text. 
  <p class="updated_time"> 11:10 AM CT, Mar. 27 </p> 
