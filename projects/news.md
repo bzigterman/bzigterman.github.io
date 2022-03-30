@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:41 PM CT, Mar. 30 </p> 
+ <p class="updated_time"> 02:56 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html">‘Like Living in a Horror Movie’: A Ukraine Town Dying a Slow Death</a> NYT: The war never stops in Huliaipole, a town on the front lines in eastern Ukraine. Most residents have fled. Those who remain listen to the Russian shelling and wonder: Where will the next one land? 
+ <p class="updated_time"> 02:55 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/world/africa/nigeria-train-attack.html">A Safe Route No More: Nigerians Mourn Victims of Deadly Train Attack</a> NYT: An attack by gunmen on a popular train route connecting Nigeria’s capital, Abuja, to a regional hub in the north, has left many with a growing feeling of insecurity. 
+ <p class="updated_time"> 02:54 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/03/30/world/ukraine-russia-war">Live Updates: Putin’s Military Advisers Misinformed Him on Ukraine, U.S. Intelligence Says</a> NYT: One American official said there was “now persistent tension” between the Russian president and his Defense Ministry. Strikes were reported around the Ukrainian cities of Kyiv and Chernihiv, and Russian officials offered contradictory assessments of the progress in peace talks. 
+ <p class="updated_time"> 02:53 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
  <p class="updated_time"> 02:36 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
  <p class="updated_time"> 02:33 PM CT, Mar. 30 </p> 
@@ -21,18 +27,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/us/flamingo-escape-kansas-texas.html">Flamingo Spotted in Texas After Escaping a Kansas Zoo in 2005</a> NYT: A fisherman’s sighting in March confirmed that a flamingo that fled a Kansas zoo in 2005 has defied the odds to live a Pixar-worthy life in the wilds of Texas. 
  <p class="updated_time"> 02:09 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60932975?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia to allow unauthorised imports from West</a> BBC: The decision is in response to Western sanctions and surging inflation since the war in Ukraine. 
+ <p class="updated_time"> 02:00 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 01:55 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/canada/jonathan-vance-guilty-obstruction.html">Jonathan Vance Pleads Guilty to Obstruction of Justice</a> NYT: The investigation that led to charges against Jonathan Vance, a former chief of Canada’s defense staff, is one of several that have ensnared current and former Canadian military commanders. 
- <p class="updated_time"> 01:47 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 01:20 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/jerusalem-western-sahara-us-consulates.html">U.S. Pressured to Open Consulates in Jerusalem and Western Sahara</a> NYT: Secretary of State Antony J. Blinken, on travels through the Middle East and North Africa over the past week, was urged by Arab leaders to make good on past promises. 
- <p class="updated_time"> 12:55 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html">Rattling Windows, Rattling Bones: Life Under Siege on Ukraine’s Front Lines</a> NYT: The war never stops in Huliaipole, a town on the front lines in eastern Ukraine. Most residents have fled. Those who remain listen to the Russian shelling and wonder: Where will the next one land? 
+ <p class="updated_time"> 01:00 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 12:47 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/tipu-sultan-india-painting.html">A Mural Celebrating Tipu Sultan Sold at Auction. His Legacy Is Contested.</a> NYT: The battle scene depicts a victory over British troops by an 18th-century Muslim, a man India’s current government would prefer was forgotten. 
- <p class="updated_time"> 12:47 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 12:27 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60925713?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia launches new attacks after peace promise</a> BBC: The Chernihiv governor says Russia bombarded the city overnight, despite pledge to reduce attacks. 
  <p class="updated_time"> 12:22 PM CT, Mar. 30 </p> 
@@ -41,10 +45,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/asia/imran-khan-pakistan-vote.html">Defection of Key Ally Gives Opposition the Votes to Oust Imran Khan</a> NYT: Without the support of Muttahida Qaumi Movement-Pakistan, the country’s prime minister will lose the simple majority needed to survive Parliament’s no-confidence vote. 
  <p class="updated_time"> 12:08 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089686195/u-s-russian-astronauts-return-earth-kazakhstan-iss">A U.S. and 2 Russian astronauts return to Earth together following a trip to space</a> NPR: A NASA astronaut and the Russian cosmonauts parachute-landed in Kazakhstan on Wednesday after a trip back to Earth from the International Space Station, in a rare instance of U.S.-Russia cooperation. 
+ <p class="updated_time"> 12:00 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 11:48 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-60925016?at_medium=RSS&at_campaign=KARANGA">Germany and Austria take step towards gas rationing</a> BBC: Germany and Austria have both issued gas supply warnings as a payments row with Russia escalates. 
- <p class="updated_time"> 11:47 AM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 11:42 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/mariupol-ukraine-russia-war-food-water.html">Mariupol Residents Describe How Russian Forces Deprived Them of Food and Water</a> NYT: Residents of Mariupol, Ukraine, described how they are surviving a monthlong siege of the southern port with little food and other necessities. “No roof, no food and no water,” survivors texted relatives. 
  <p class="updated_time"> 11:42 AM CT, Mar. 30 </p> 
@@ -63,12 +67,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/europe/russia-ukraine-peace-talks.html">Russian Negotiator’s Optimism Clashes with Moscow’s Rhetoric</a> NYT: The mixed messages underscored the lack of clarity over President Vladimir V. Putin’s goals in the invasion. 
  <p class="updated_time"> 11:17 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60930068?at_medium=RSS&at_campaign=KARANGA">Dog saved by Ukrainian soldiers from abandoned home</a> BBC: The dog named Bavaria was found as soldiers inspected abandoned flats on the frontline near Kyiv. 
+ <p class="updated_time"> 11:00 AM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 10:50 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Five killed by Palestinian gunman in latest deadly attack in Israel</a> BBC: Three Israelis and two Ukrainians are shot by a Palestinian, in the third such attack in a week. 
  <p class="updated_time"> 10:48 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-uk-fracking-energy.html">How the Ukraine War Gave Fracking in the U.K. a Second Chance</a> NYT: Russia’s invasion has disrupted the global energy market and led to higher prices across Europe. That has reopened the debate in Britain over shale gas extraction. 
- <p class="updated_time"> 10:47 AM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 10:45 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-serbia-russia.html"> Serbia Sticks With Russia, Bound by a Sense of Victimhood</a> NYT: Moscow, despite its invasion of Ukraine, remains a lodestar for nations like Serbia that feel resentment and grievance against the West, experts say. 
  <p class="updated_time"> 10:44 AM CT, Mar. 30 </p> 
@@ -117,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/30/1089633948/south-korea-has-key-rocket-launch-days-after-norths-icbm-test">South Korea has key rocket launch, days after North's ICBM test</a> NPR: The launch comes six days after North Korea conducted its first intercontinental ballistic missile test since 2017 in an apparent attempt to pressure on the Biden administration amid stalled talks. 
  <p class="updated_time"> 04:06 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089631713/china-tightens-restrictions-and-bars-scholars-from-international-conferences">China tightens restrictions and bars scholars from international conferences</a> NPR: Academics based in China must apply for permission to attend online exchanges, even on topics that once were considered nonpolitical. 
- <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
  <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089551973/heres-how-you-can-avoid-getting-scammed-when-donating-to-support-ukraine">Here's how you can avoid getting scammed when donating to support Ukraine</a> NPR: So far, about one-quarter of Ukraine's 44 million people have fled their country due to the war, according to the U.N. Here are tips to avoid falling victim to online scams. 
  <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/world/europe/irpin-donbas-poison.html">Ukraine Claims Some Battle Successes as Russia Focuses on Another Front</a> NYT: With the fighting raging and sputtering attempts at diplomacy continuing, diplomacy between the two sides was continuing, with talks planned in Istanbul on Tuesday. 
  <p class="updated_time"> 05:22 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/world/middleeast/arab-israeli-summit.html">Israeli Summit Mixes Historic Symbolism With Sharp Disputes</a> NYT: The meeting of diplomats from Israel, the U.S. and four Arab countries was momentous just for taking place. But in private, they tried to hash out differences over Iran and the war in Ukraine. 
- <p class="updated_time"> 04:03 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/28/world/europe/macron-france-russia-ukraine.html">President Macron’s Unending Russia Diplomacy</a> NYT: The French leader’s outreach to his counterparts in Russia and Ukraine is stubborn. Whether it is also effective remains to be seen. 
 
 
 </details>
@@ -206,12 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:57 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/business/oligarchs-hedge-funds-russia.html">Senators Ask Treasury and S.E.C. to Close Oligarch Investment Loophole</a> NYT: Senators Elizabeth Warren and Sheldon Whitehouse called on regulators to interpret oversight powers more broadly to cover hedge funds, private equity firms and more. 
  <p class="updated_time"> 02:36 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
  <p class="updated_time"> 02:24 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/biden-trump-era-deportation-policy-00021802">Biden weighs phased out end of Trump-era deportation policy</a> Politico: The administration is looking at an end to Title 42 that could prioritize families first. 
- <p class="updated_time"> 02:13 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/business/oligarchs-hedge-funds-russia.html">Senators Ask Treasury and S.E.C. to Close Oligarch Investment Loophole</a> NYT: Senators Elizabeth Warren and Sheldon Whitehouse called on regulators to interpret oversight powers more broadly to cover hedge funds, private equity firms and more. 
  <p class="updated_time"> 02:05 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/covid-pandemic-aid-senate-00021764">The next phase of Covid depends on the Senate</a> Politico: Lawmakers disagree on how to fund more pandemic aid and how urgently additional cash is needed. 
  <p class="updated_time"> 01:42 PM CT, Mar. 30 </p> 
