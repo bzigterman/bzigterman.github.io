@@ -9,16 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:38 PM CT, Mar. 30 </p> 
+ <p class="updated_time"> 04:42 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/03/30/world/ukraine-russia-war">Live Updates: Putin’s Military Advisers Misinformed Him on Ukraine, U.S. Intelligence Says</a> NYT: One American official said there was “now persistent tension” between the Russian president and his Defense Ministry. Strikes were reported around the Ukrainian cities of Kyiv and Chernihiv, and Russian officials offered contradictory assessments of the progress in peace talks. 
+ <p class="updated_time"> 04:42 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
  <p class="updated_time"> 04:26 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/middleeast/israel-terrorism-attack.html">In Life, They Showed Israel’s Breadth. In Death, They Were Victims.</a> NYT: The five victims of Israel’s deadliest terrorist attack in years came from different walks of life, highlighting the complexity of Israeli society. 
  <p class="updated_time"> 04:15 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html">BA.2 Accounts for Over Half of New U.S. Cases, C.D.C. Estimates</a> NYT: Scientists have been keeping an eye on BA.2, one of three genetically distinct varieties of the Omicron variant of the coronavirus. 
  <p class="updated_time"> 03:58 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
- <p class="updated_time"> 03:58 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089721115/russia-ukraine-war-what-happened-today-march-30">Russia-Ukraine war: What happened today (March 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:53 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 03:50 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089774599/the-u-s-and-russia-are-each-seeking-indias-support">The U.S. and Russia are each seeking India's support</a> NPR: Top diplomats from the U.S. and Russia are visiting India. They both want the backing of the world's biggest democracy — which has so far refused to condemn the invasion of Ukraine. 
  <p class="updated_time"> 03:43 PM CT, Mar. 30 </p> 
@@ -27,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/30/1089774585/the-role-cyberattacks-and-information-campaigns-have-played-in-the-war-in-ukrain">The role cyberattacks and information campaigns have played in the war in Ukraine</a> NPR: In the weeks leading to Russia's invasion of Ukraine, experts said cyberwar could be imminent. It turns out, cyberattacks and information campaigns have played a subtle, nuanced role in the conflict. 
  <p class="updated_time"> 03:43 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089774571/eee-male-dolphins-whistle-to-stay-in-touch-with-distant-ocean-pals">'Eee!' Male dolphins whistle to stay in touch with distant ocean pals</a> NPR: Dolphins are known to use physical contact like petting and rubbing to bond with their closest allies. But for more distant contacts, male dolphins bond by trading whistles instead. 
- <p class="updated_time"> 03:42 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 03:31 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089774564/colombia-has-approved-more-liberal-abortion-laws-sparking-backlash">Colombia has approved more liberal abortion laws, sparking backlash</a> NPR: Colombia approved some of the most liberal abortion laws in the Americas in February. The decision has provoked a backlash from anti-abortion groups. 
  <p class="updated_time"> 03:31 PM CT, Mar. 30 </p> 
@@ -52,9 +52,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:55 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/nigeria-train-attack.html">Nigerians Mourn Victims of Deadly Train Attack</a> NYT: An attack by gunmen on a popular train route connecting Nigeria’s capital, Abuja, to a regional hub in the north, has left many with a growing feeling of insecurity. 
  <p class="updated_time"> 02:53 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
- <p class="updated_time"> 02:42 PM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
+ <p class="updated_time"> 02:53 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
  <p class="updated_time"> 02:36 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
  <p class="updated_time"> 02:33 PM CT, Mar. 30 </p> 
@@ -65,14 +65,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60932975?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia to allow unauthorised imports from West</a> BBC: The decision is in response to Western sanctions and surging inflation since the war in Ukraine. 
  <p class="updated_time"> 01:55 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/canada/jonathan-vance-guilty-obstruction.html">Jonathan Vance Pleads Guilty to Obstruction of Justice</a> NYT: The investigation that led to charges against Jonathan Vance, a former chief of Canada’s defense staff, is one of several that have ensnared current and former Canadian military commanders. 
- <p class="updated_time"> 01:42 PM CT, Mar. 30 </p> 
+ <p class="updated_time"> 01:53 PM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 01:20 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/jerusalem-western-sahara-us-consulates.html">U.S. Pressured to Open Consulates in Jerusalem and Western Sahara</a> NYT: Secretary of State Antony J. Blinken, on travels through the Middle East and North Africa over the past week, was urged by Arab leaders to make good on past promises. 
+ <p class="updated_time"> 12:53 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 12:47 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/tipu-sultan-india-painting.html">A Mural Celebrating Tipu Sultan Sold at Auction. His Legacy Is Contested.</a> NYT: The battle scene depicts a victory over British troops by an 18th-century Muslim, a man India’s current government would prefer was forgotten. 
- <p class="updated_time"> 12:42 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 12:27 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60925713?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia launches new attacks after peace promise</a> BBC: The Chernihiv governor says Russia bombarded the city overnight, despite pledge to reduce attacks. 
  <p class="updated_time"> 12:22 PM CT, Mar. 30 </p> 
@@ -81,14 +81,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/asia/imran-khan-pakistan-vote.html">Defection of Key Ally Gives Opposition the Votes to Oust Imran Khan</a> NYT: Without the support of Muttahida Qaumi Movement-Pakistan, the country’s prime minister will lose the simple majority needed to survive Parliament’s no-confidence vote. 
  <p class="updated_time"> 12:08 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089686195/u-s-russian-astronauts-return-earth-kazakhstan-iss">A U.S. and 2 Russian astronauts return to Earth together following a trip to space</a> NPR: A NASA astronaut and the Russian cosmonauts parachute-landed in Kazakhstan on Wednesday after a trip back to Earth from the International Space Station, in a rare instance of U.S.-Russia cooperation. 
+ <p class="updated_time"> 11:53 AM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 11:48 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-60925016?at_medium=RSS&at_campaign=KARANGA">Germany and Austria take step towards gas rationing</a> BBC: Germany and Austria have both issued gas supply warnings as a payments row with Russia escalates. 
  <p class="updated_time"> 11:42 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/mariupol-ukraine-russia-war-food-water.html">Mariupol Residents Describe How Russian Forces Deprived Them of Food and Water</a> NYT: Residents of Mariupol, Ukraine, described how they are surviving a monthlong siege of the southern port with little food and other necessities. “No roof, no food and no water,” survivors texted relatives. 
  <p class="updated_time"> 11:42 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60930690?at_medium=RSS&at_campaign=KARANGA">El Shafee Elsheikh: Opening statements in IS Beatle jihadist trial</a> BBC: El Shafee Elsheikh is one of a group of IS militants with UK links accused of beheading hostages in Syria. 
- <p class="updated_time"> 11:42 AM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 11:30 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089690421/mariupol-russia-deportations">Maternity patients among 20,000 civilians forcibly deported to Russia, Mariupol says</a> NPR: More than 70 hospital patients and staff members from the besieged Ukrainian city have been sent to Russia against their will, officials say, a war crime under the Geneva Conventions. 
  <p class="updated_time"> 11:28 AM CT, Mar. 30 </p> 
