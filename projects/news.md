@@ -9,38 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:42 AM CT, Mar. 30 </p> 
+ <p class="updated_time"> 03:49 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Here’s What Happened on Day 34 of the War in Ukraine</a> NYT: As Russian and Ukrainian negotiators met face to face for the first time in weeks, Russia said a meeting between Vladimir Putin and Volodymyr Zelensky could occur once a draft peace agreement was ready. The chief of the U.N. food agency warns of a crisis not seen since World War II. 
  <p class="updated_time"> 03:27 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/middleeast/israel-terrorism-attack.html">Israel Bolsters Security Amid Deadliest Wave of Terrorist Attacks in Years</a> NYT: The Army and the police scaled up their ground presence the morning after the latest shooting brought the death toll from attacks in Israel this month to 11. 
  <p class="updated_time"> 03:24 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60925713?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia strikes Chernihiv after peace promise</a> BBC: City's governor says Russian forces bombarded the city overnight, despite pledge to reduce attacks. 
- <p class="updated_time"> 02:47 AM CT, Mar. 30 </p> 
+ <p class="updated_time"> 02:58 AM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
  <p class="updated_time"> 02:17 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089630421/germany-triggers-warning-over-gas-amid-russian-ruble-demand">Poland to cut all Russian oil imports while Germany warns on gas supplies</a> NPR: Poland launches the most radical plan among European nations to wean off Russian energy sources while Germany issues the first of three warning levels over supply. 
  <p class="updated_time"> 01:58 AM CT, Mar. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Five killed in latest deadly attack in Israel</a> BBC: Victims were shot by a Palestinian gunman in a Tel Aviv suburb, in the third such attack in a week. 
- <p class="updated_time"> 01:47 AM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
+ <p class="updated_time"> 01:58 AM CT, Mar. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Five killed in latest deadly attack in Israel</a> BBC: Victims were shot by a Palestinian gunman in a Tel Aviv suburb, in the third such attack in a week. 
  <p class="updated_time"> 01:37 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html">A Vow to Ease Bombing Is Too Late for Many in Ukraine City Near Kyiv</a> NYT: Russia’s offer, if honored, will not help the thousands who have already fled Chernihiv. 
- <p class="updated_time"> 12:47 AM CT, Mar. 30 </p> 
+ <p class="updated_time"> 12:58 AM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
  <p class="updated_time"> 12:05 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60922393?at_medium=RSS&at_campaign=KARANGA">The Ukrainian woman shot by Russian soldiers on the front line</a> BBC: One woman tells the BBC from hospital that a Russian soldier opened fire on her for no reason. 
+ <p class="updated_time"> 11:58 PM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-makes-public-debut-in-russia-ukraine-peace-talks-11648581111">Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks</a> WSJ: Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks 
  <p class="updated_time"> 11:50 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks.html">Peace Talks May Be Little More Than Russian Tactics, Analysts Say</a> NYT: As signs of progress emerged during the peace talks, some saw them as Russia buying time to regroup its military forces before another offensive push in Ukraine. 
- <p class="updated_time"> 11:47 PM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-makes-public-debut-in-russia-ukraine-peace-talks-11648581111">Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks</a> WSJ: Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks 
  <p class="updated_time"> 11:22 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
  <p class="updated_time"> 11:03 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/mariupol-ukraine-russia-war-food-water.html">Mariupol Residents Describe How Russian Forces Deprived Them of Food and Water</a> NYT: Residents of Mariupol, Ukraine described how Russian forces use hunger as a weapon of war in a monthlong siege of the southern port. “No roof, no food and no water,” survivors texted relatives who escaped. 
+ <p class="updated_time"> 10:58 PM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/four-israelis-killed-by-gunman-near-tel-aviv-11648580810">Palestinian Gunman Shoots Five Dead in Central Israel</a> WSJ: Palestinian Gunman Shoots Five Dead in Central Israel 
  <p class="updated_time"> 10:53 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-60923196?at_medium=RSS&at_campaign=KARANGA">Afghanistan: World Bank freezes projects over girls' school ban</a> BBC: The Taliban's decision to halt the reopening of girls' secondary schools has been widely condemned. 
- <p class="updated_time"> 10:47 PM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/four-israelis-killed-by-gunman-near-tel-aviv-11648580810">Palestinian Gunman Shoots Five Dead in Central Israel</a> WSJ: Palestinian Gunman Shoots Five Dead in Central Israel 
  <p class="updated_time"> 10:16 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/germany-women-ukraine-war.html">Women Drive Germany’s Foreign Policy Shift Amid Ukraine War</a> NYT: Angela Merkel is no longer chancellor. But as war rages in Ukraine, a mere 10-hour drive from Berlin, female ministers oversee national security. 
  <p class="updated_time"> 09:51 PM CT, Mar. 29 </p> 
@@ -200,7 +200,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:00 AM CT, Mar. 30 </p> 
+ <p class="updated_time"> 03:45 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/house-democrats-midterms-advertising.html">A Democratic Super PAC’s Ad Buy Shows a Widening Battle for House Control</a> NYT: The Democrats’ House Majority PAC is spending nearly $102 million to reserve advertising time in 51 media markets, staking out a broad battlefield for the coming midterm elections. 
  <p class="updated_time"> 01:10 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/us/politics/don-young-alaska-replacement.html">Race to Replace Don Young Is Set to Be a Fascinating Political Experiment</a> NYT: The election to fill the seat of the Alaska congressman, who died last week, promises to be an adventure. It’s also a fascinating political experiment in the making. 
