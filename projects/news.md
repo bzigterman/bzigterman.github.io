@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/30/world/ukraine-russia-war">Live Updates: Putin’s Military Advisers Misinformed Him on Ukraine, U.S. Intelligence Says</a> NYT: One American official said there was “now persistent tension” between the Russian president and his Defense Ministry. Strikes were reported around the Ukrainian cities of Kyiv and Chernihiv, and Russian officials offered contradictory assessments of the progress in peace talks. 
+ <p class="updated_time"> 02:36 PM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
  <p class="updated_time"> 02:33 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/ukraine-russia-abramovich-oligarchs.html">Sanctioned Oligarch’s Presence Adds Intrigue to Ukraine-Russia Talks</a> NYT: Roman Abramovich, sanctioned owner of the Chelsea Football Club, mysteriously showed up at the talks between Ukraine and Russia in Istanbul, and is said to be playing an unofficial role. 
- <p class="updated_time"> 02:32 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/03/30/world/ukraine-russia-war">Live Updates: Putin’s Military Advisers Misinformed Him on Ukraine, U.S. Intelligence Says</a> NYT: One American official said there was “now persistent tension” between the Russian president and his Defense Ministry. Strikes were reported around the Ukrainian cities of Kyiv and Chernihiv, and Russian officials offered contradictory assessments of the progress in peace talks. 
  <p class="updated_time"> 02:32 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisors Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
  <p class="updated_time"> 02:12 PM CT, Mar. 30 </p> 
@@ -21,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60932975?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russia to allow unauthorised imports from West</a> BBC: The decision is in response to Western sanctions and surging inflation since the war in Ukraine. 
  <p class="updated_time"> 01:55 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/canada/jonathan-vance-guilty-obstruction.html">Jonathan Vance Pleads Guilty to Obstruction of Justice</a> NYT: The investigation that led to charges against Jonathan Vance, a former chief of Canada’s defense staff, is one of several that have ensnared current and former Canadian military commanders. 
- <p class="updated_time"> 01:38 PM CT, Mar. 30 </p> 
+ <p class="updated_time"> 01:47 PM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 01:20 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/jerusalem-western-sahara-us-consulates.html">U.S. Pressured to Open Consulates in Jerusalem and Western Sahara</a> NYT: Secretary of State Antony J. Blinken, on travels through the Middle East and North Africa over the past week, was urged by Arab leaders to make good on past promises. 
@@ -29,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html">Rattling Windows, Rattling Bones: Life Under Siege on Ukraine’s Front Lines</a> NYT: The war never stops in Huliaipole, a town on the front lines in eastern Ukraine. Most residents have fled. Those who remain listen to the Russian shelling and wonder: Where will the next one land? 
  <p class="updated_time"> 12:47 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/tipu-sultan-india-painting.html">A Mural Celebrating Tipu Sultan Sold at Auction. His Legacy Is Contested.</a> NYT: The battle scene depicts a victory over British troops by an 18th-century Muslim, a man India’s current government would prefer was forgotten. 
- <p class="updated_time"> 12:38 PM CT, Mar. 30 </p> 
+ <p class="updated_time"> 12:47 PM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 12:27 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60925713?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia launches new attacks after peace promise</a> BBC: The Chernihiv governor says Russia bombarded the city overnight, despite pledge to reduce attacks. 
@@ -41,12 +43,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/30/1089686195/u-s-russian-astronauts-return-earth-kazakhstan-iss">A U.S. and 2 Russian astronauts return to Earth together following a trip to space</a> NPR: A NASA astronaut and the Russian cosmonauts parachute-landed in Kazakhstan on Wednesday after a trip back to Earth from the International Space Station, in a rare instance of U.S.-Russia cooperation. 
  <p class="updated_time"> 11:48 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-60925016?at_medium=RSS&at_campaign=KARANGA">Germany and Austria take step towards gas rationing</a> BBC: Germany and Austria have both issued gas supply warnings as a payments row with Russia escalates. 
+ <p class="updated_time"> 11:47 AM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 11:42 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/mariupol-ukraine-russia-war-food-water.html">Mariupol Residents Describe How Russian Forces Deprived Them of Food and Water</a> NYT: Residents of Mariupol, Ukraine, described how they are surviving a monthlong siege of the southern port with little food and other necessities. “No roof, no food and no water,” survivors texted relatives. 
  <p class="updated_time"> 11:42 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60930690?at_medium=RSS&at_campaign=KARANGA">El Shafee Elsheikh: Opening statements in IS Beatle jihadist trial</a> BBC: El Shafee Elsheikh is one of a group of IS militants with UK links accused of beheading hostages in Syria. 
- <p class="updated_time"> 11:38 AM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 11:30 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089690421/mariupol-russia-deportations">Maternity patients among 20,000 civilians forcibly deported to Russia, Mariupol says</a> NPR: More than 70 hospital patients and staff members from the besieged Ukrainian city have been sent to Russia against their will, officials say, a war crime under the Geneva Conventions. 
  <p class="updated_time"> 11:30 AM CT, Mar. 30 </p> 
@@ -65,6 +67,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Five killed by Palestinian gunman in latest deadly attack in Israel</a> BBC: Three Israelis and two Ukrainians are shot by a Palestinian, in the third such attack in a week. 
  <p class="updated_time"> 10:48 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-uk-fracking-energy.html">How the Ukraine War Gave Fracking in the U.K. a Second Chance</a> NYT: Russia’s invasion has disrupted the global energy market and led to higher prices across Europe. That has reopened the debate in Britain over shale gas extraction. 
+ <p class="updated_time"> 10:47 AM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 10:45 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-serbia-russia.html"> Serbia Sticks With Russia, Bound by a Sense of Victimhood</a> NYT: Moscow, despite its invasion of Ukraine, remains a lodestar for nations like Serbia that feel resentment and grievance against the West, experts say. 
  <p class="updated_time"> 10:44 AM CT, Mar. 30 </p> 
@@ -73,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/middleeast/yemen-houthis-saudi-coalition-cease-fire.html">Warring Parties in Yemen Announce Overlapping Cease-Fires</a> NYT: Both the Saudi-led coalition and the Houthi rebels said they would stop fighting, but further progress toward an end to the seven-year war in the country was uncertain. 
  <p class="updated_time"> 10:38 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089662657/poland-ban-russian-oil">Poland says its ban on all Russian oil and gas imports is the most radical in Europe </a> NPR: "While others in Europe looked at Russia as a business partner," the Polish prime minister said, "we saw that Russia uses gas and oil as a way to blackmail." 
- <p class="updated_time"> 10:38 AM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 10:30 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-60930678?at_medium=RSS&at_campaign=KARANGA">Martin Kok: Gangland figure guilty of murdering Dutch crime writer</a> BBC: Christopher Hughes is convicted of the murder of Martin Kok outside a sex club near Amsterdam. 
  <p class="updated_time"> 10:25 AM CT, Mar. 30 </p> 
@@ -111,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/europe/switzerland-montreux-family-balcony-dead.html">Family’s Balcony Death in Switzerland Appears to Be Suicide</a> NYT: The investigation suggests that the victims jumped from the seventh-floor balcony “one after the other,” the police said. 
  <p class="updated_time"> 05:11 AM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/europe-woos-qatar-as-alternative-to-russian-gas-11648649463">Europe Woos Qatar for an Alternative to Russian Gas</a> WSJ: The Persian Gulf kingdom is emerging as one of the most attractive options in Europe‘s search for new sources of natural gas to replace Russian imports. 
- <p class="updated_time"> 04:46 AM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
  <p class="updated_time"> 04:40 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089633948/south-korea-has-key-rocket-launch-days-after-norths-icbm-test">South Korea has key rocket launch, days after North's ICBM test</a> NPR: The launch comes six days after North Korea conducted its first intercontinental ballistic missile test since 2017 in an apparent attempt to pressure on the Biden administration amid stalled talks. 
  <p class="updated_time"> 04:06 AM CT, Mar. 30 </p> 
