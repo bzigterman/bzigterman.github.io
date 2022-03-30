@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Mar. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60925713?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia launches new attacks after peace promise</a> BBC: Chernihiv governor says Russia bombarded the city overnight, despite pledge to reduce attacks. 
  <p class="updated_time"> 04:06 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089631713/china-tightens-restrictions-and-bars-scholars-from-international-conferences">China tightens restrictions and bars scholars from international conferences</a> NPR: Academics based in China must apply for permission to attend online exchanges, even on topics that once were considered nonpolitical. 
- <p class="updated_time"> 04:05 AM CT, Mar. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60925713?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia launches new attacks after peace promise</a> BBC: Chernihiv governor says Russia bombarded the city overnight, despite pledge to reduce attacks. 
  <p class="updated_time"> 04:01 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html">BA.2 Accounts for Over Half of New U.S. Cases, C.D.C. Estimates</a> NYT: Scientists have been keeping an eye on BA.2, one of three genetically distinct varieties of the Omicron variant of the coronavirus. 
  <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
@@ -25,29 +25,29 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html">How War in Ukraine Roiled Facebook and Instagram</a> NYT: The rules over what war content is permitted on Facebook and Instagram keep changing, causing internal confusion. 
  <p class="updated_time"> 03:56 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Here’s What Happened on Day 34 of the War in Ukraine</a> NYT: As Russian and Ukrainian negotiators met face to face for the first time in weeks, Russia said a meeting between Vladimir Putin and Volodymyr Zelensky could occur once a draft peace agreement was ready. The chief of the U.N. food agency warns of a crisis not seen since World War II. 
+ <p class="updated_time"> 03:39 AM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
  <p class="updated_time"> 03:27 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/middleeast/israel-terrorism-attack.html">Israel Bolsters Security Amid Deadliest Wave of Terrorist Attacks in Years</a> NYT: The Army and the police scaled up their ground presence the morning after the latest shooting brought the death toll from attacks in Israel this month to 11. 
- <p class="updated_time"> 03:24 AM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
- <p class="updated_time"> 02:24 AM CT, Mar. 30 </p> 
+ <p class="updated_time"> 02:39 AM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
  <p class="updated_time"> 02:17 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089630421/germany-triggers-warning-over-gas-amid-russian-ruble-demand">Poland to cut all Russian oil imports while Germany warns on gas supplies</a> NPR: Poland launches the most radical plan among European nations to wean off Russian energy sources while Germany issues the first of three warning levels over supply. 
  <p class="updated_time"> 01:58 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Five killed in latest deadly attack in Israel</a> BBC: Victims were shot by a Palestinian gunman in a Tel Aviv suburb, in the third such attack in a week. 
+ <p class="updated_time"> 01:39 AM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
  <p class="updated_time"> 01:37 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html">A Vow to Ease Bombing Is Too Late for Many in Ukraine City Near Kyiv</a> NYT: Russia’s offer, if honored, will not help the thousands who have already fled Chernihiv. 
- <p class="updated_time"> 01:24 AM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
  <p class="updated_time"> 01:22 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60912846?at_medium=RSS&at_campaign=KARANGA">China: Panic buying in divided Shanghai under lockdown</a> BBC: Residents are scrambling for essentials and quarantining in offices in China's financial capital. 
- <p class="updated_time"> 12:24 AM CT, Mar. 30 </p> 
+ <p class="updated_time"> 12:39 AM CT, Mar. 30 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-makes-public-debut-in-russia-ukraine-peace-talks-11648581111">Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks</a> WSJ: Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks 
  <p class="updated_time"> 12:05 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60922393?at_medium=RSS&at_campaign=KARANGA">The Ukrainian woman shot by Russian soldiers on the front line</a> BBC: One woman tells the BBC from hospital that a Russian soldier opened fire on her for no reason. 
  <p class="updated_time"> 11:50 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks.html">Peace Talks May Be Little More Than Russian Tactics, Analysts Say</a> NYT: As signs of progress emerged during the peace talks, some saw them as Russia buying time to regroup its military forces before another offensive push in Ukraine. 
- <p class="updated_time"> 11:24 PM CT, Mar. 29 </p> 
+ <p class="updated_time"> 11:39 PM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/four-israelis-killed-by-gunman-near-tel-aviv-11648580810">Palestinian Gunman Shoots Five Dead in Central Israel</a> WSJ: Palestinian Gunman Shoots Five Dead in Central Israel 
  <p class="updated_time"> 11:22 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/30/1089631010/bidens-budget-proposal-shifts-to-new-priorities">Biden's budget proposal shifts to new priorities</a> NPR: Democratic strategist Dan Sena speaks with NPR's Steve Inskeep about President Biden's new $5.8 trillion budget proposal. 
  <p class="updated_time"> 04:10 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089630955/biden-wants-a-federal-minimum-staffing-requirement-for-nursing-homes">Biden wants a federal minimum staffing requirement for nursing homes </a> NPR: The Biden administration aims to establish minimum staffing requirements for nursing homes — part of a push to improve care for residents. Doing so amid staffing issues could prove challenging. 
+ <p class="updated_time"> 04:01 AM CT, Mar. 30 </p> 
+ <a href="https://www.politico.com/news/2022/03/30/canada-politics-conservatives-00020516">Choose Your Own Adventure: Conservatives of Canada edition </a> Politico: How will the next three years in Canadian politics play out? You decide. 
  <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089595933/legal-ethics-experts-agree-justice-thomas-must-recuse-in-insurrection-cases">Legal ethics experts agree: Justice Thomas must recuse in insurrection cases</a> NPR: Legal ethics experts had previously said while Ginni Thomas is an outspoken conservative activist, her husband is able to act as an independent judge of matters that come before the court. 
  <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
@@ -212,10 +214,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
  <p class="updated_time"> 03:45 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/house-democrats-midterms-advertising.html">A Democratic Super PAC’s Ad Buy Shows a Widening Battle for House Control</a> NYT: The Democrats’ House Majority PAC is spending nearly $102 million to reserve advertising time in 51 media markets, staking out a broad battlefield for the coming midterm elections. 
+ <p class="updated_time"> 03:31 AM CT, Mar. 30 </p> 
+ <a href="https://www.politico.com/news/2022/03/30/tai-trade-defense-against-china-00021473">Tai: U.S. must ramp up trade defense against China</a> Politico: The remarks provide a noticeable shift in tone from Biden’s top trade ambassador but stop short of outlining any new trade penalties against the country. 
  <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/bill-cassidy-gov-bid-trump-00021461">After crossing Trump, Cassidy weighs governor bid</a> Politico: The former doctor voted to convict the former president of inciting insurrection, then turned to bipartisan deal-cutting. Now he's weighing a splashier move. 
  <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/ketanji-brown-jackson-child-pornography-sentencing-00021474">Jackson hearings could inspire GOP's next judicial battle line</a> Politico: Republican scrutiny of the Supreme Court nominee's child pornography sentencing — which tracked with most federal judges — may have opened a can of worms. 
+ <a href="https://www.politico.com/news/2022/03/30/ketanji-brown-jackson-child-pornography-sentencing-00021474">Jackson hearings could inspire GOP's next judicial battle line</a> Politico: Republican scrutiny of the Supreme Court nominee's child pornography sentencing —  which tracked with most federal judges —  may have opened a can of worms. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
+ <a href="https://www.politico.com/news/2022/03/30/moderna-covid-vaccine-kids-00021492">Moderna ‘happy’ with results from its kids vaccine trial, but is it enough for the FDA?</a> Politico: The company met its study goals, but experts are split over whether the data will be sufficient for the Food and Drug Administration. 
  <p class="updated_time"> 01:10 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/us/politics/don-young-alaska-replacement.html">Race to Replace Don Young Is Set to Be a Fascinating Political Experiment</a> NYT: The election to fill the seat of the Alaska congressman, who died last week, promises to be an adventure. It’s also a fascinating political experiment in the making. 
  <p class="updated_time"> 10:38 PM CT, Mar. 29 </p> 
@@ -234,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/us/politics/trump-jan-6-eastman.html">Why a Ruling Declaring Trump ‘Likely’ Broke Laws May Not Mean He Will Be Prosecuted</a> NYT: A high-profile ruling about a subpoena from the House committee investigating the Jan. 6 attack turned on a lower standard of proof than a criminal trial. 
  <p class="updated_time"> 06:32 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/cawthorn-orgies-freedom-caucus-00021548">Cawthorn’s orgies-and-drugs comment stirs trouble within Freedom Caucus</a> Politico: The ultra-conservative group’s chair says he also wants to speak with the North Carolina Republican about his salacious claims concerning his colleagues. 
- <p class="updated_time"> 06:08 PM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/republicans-debates-midterm-00018253">Debate-dodging takes off in midterm campaigns</a> Politico: The traditional candidate debate might be on its last legs. 
  <p class="updated_time"> 05:41 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/jan-6-panel-mo-brooks-00021484">The Jan. 6 panel had cooled focus on GOP lawmakers. Then Brooks happened.</a> Politico: Rep. Mo Brooks said he would "take that under advisement" if House investigators called on him to testify about his new allegations against former President Donald Trump. 
  <p class="updated_time"> 05:30 PM CT, Mar. 29 </p> 
@@ -246,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/us/politics/don-young-alaska.html">Don Young of Alaska, the House Dean, Leaves an Earmark Legacy</a> NYT: The Alaska Republican lay in state on Tuesday in the Capitol, where he was renowned for his virtuosity with earmarking federal money for his state. 
  <p class="updated_time"> 04:37 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/violence-tyrants-whitmer-trial-michigan-00021475">Violence for ‘tyrants’ urged in Gov. Whitmer kidnap trial</a> Politico: Jurors in Michigan saw social media posts that included references to hanging public officials. 
- <p class="updated_time"> 04:06 PM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/florida-redistricting-map-special-session-desantis-00021424">Florida's redistricting mess heads to special session after DeSantis vetoes 'defective' map</a> Politico: “Today, I vetoed a map that violates the U.S. Constitution, but that does not absolve the Legislature from doing its job," Gov. DeSantis said. 
  <p class="updated_time"> 04:06 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/us/politics/supreme-court-congress-states-military.html">Supreme Court, in Case on Veteran Hurt by Burn Pits, Debates War Powers</a> NYT: The justices seemed split on whether Congress can allow suits against states that discriminate against injured service members returning from conflicts. 
  <p class="updated_time"> 04:03 PM CT, Mar. 29 </p> 
@@ -276,18 +278,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/us/politics/desantis-redistricting-midterm-elections.html">G.O.P. Presses for Greater Edge on Florida and Ohio Congressional Maps</a> NYT: In Florida, Gov. Ron DeSantis vetoed a map drawn by his fellow Republicans in the Legislature. In Ohio, Republicans closed in on a G.O.P.-friendly map for the midterm elections. 
  <p class="updated_time"> 02:04 PM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089509352/trump-white-house-phone-records-show-7-hour-gap-on-jan-6">Trump White House phone records show 7-hour gap on Jan. 6</a> NPR: Calls Trump made to Republican lawmakers during the insurrection have been revealed publicly, underscoring questions about why no activity was recorded during the most crucial hours of that day. 
- <p class="updated_time"> 02:03 PM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/desantis-disney-dont-say-gay-repeal-00021389">DeSantis says Disney ‘crossed the line’ in calling for ‘Don’t Say Gay’ repeal</a> Politico: The governor has been openly feuding with Disney and CEO Bob Chapek since the Florida Legislature approved the law. 
- <p class="updated_time"> 01:46 PM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/biden-russia-ukraine-kyiv-00021328">Biden: ‘We'll see’ whether Russia reduces offensive around Kyiv</a> Politico: More than a month since the start of the invasion, Russian forces remain stalled in northern Ukraine. 
  <p class="updated_time"> 01:22 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/senators-foia-woes-00021324">'There is a big problem': Senators unite to slam FOIA compliance</a> Politico: The premier transparency law is hobbled by backlogs and mountains of electronic data, lawmakers are told. 
  <p class="updated_time"> 01:12 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/business/economy/americans-inflation-survey.html">Americans, especially Republicans, are getting more worried about inflation.</a> NYT: Recent poll data suggests that rising prices dominate Americans’ economic concerns, with inflation fears the highest since 1985. 
  <p class="updated_time"> 12:03 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/u-s-troops-europe-russia-ukraine-00021296">More U.S. troops may be needed in Europe, top general predicts</a> Politico: Gen. Tod Wolters also said he's consulted with his Pacific counterpart on the Western response to Russia's invasion of Ukraine and what it means for Taiwan. 
- <p class="updated_time"> 11:20 AM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/trump-putin-hunter-biden-00021223">Trump calls on Putin to release dirt on Hunter Biden</a> Politico: It’s the latest example of the former president soliciting foreign governments to intervene to damage his domestic political rivals. 
  <p class="updated_time"> 10:50 AM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/ba-2-now-dominant-variant-in-the-united-states-as-funding-fight-continues-00021266">BA.2 now dominant variant in the United States as funding fight continues</a> Politico: BA.2 now accounts for more than 54 percent of cases nationally, up from 39 percent the previous week, according to CDC data. 
  <p class="updated_time"> 10:48 AM CT, Mar. 29 </p> 
@@ -296,12 +292,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/business/economy/job-openings-quits-hiring.html">Workers Are Still in High Demand, Department of Labor Reports</a> NYT: The job market remained very strong last month, suggesting that workers remain in high demand and are still quitting more often, a Labor Department report showed. 
  <p class="updated_time"> 06:20 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089388927/house-panel-probing-the-capitol-attack-moves-closer-into-trumps-inner-circle">House panel probing the Capitol attack moves closer into Trump's inner circle</a> NPR: The panel investigating the Jan. 6 insurrection is holding two top Trump aides in contempt, and is seeking cooperation from Ginni Thomas, wife of Supreme Court Justice Clarence Thomas. 
- <p class="updated_time"> 03:31 AM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/lawsuit-teen-florida-republicans-dont-say-gay-00021163">How a lawsuit over a teen spurred Florida Republicans to pass the ‘Don’t Say Gay’ law</a> Politico: Florida GOP lawmakers frequently cited the Littlejohns’ lawsuit as they debated the bill during the recent legislative session. 
- <p class="updated_time"> 03:30 AM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/clarence-thomas-congress-fallout-00021167">Impeach Thomas? House Dems can go there, but most won’t.</a> Politico: The chamber's Democrats have one serious option to respond to the furor swirling around the Supreme Court justice’s wife. They're not using it — yet. 
  <p class="updated_time"> 03:30 AM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/rand-paul-senate-gop-ukraine-russia-00021124">Rand's latest stand undercuts GOP's Ukraine message</a> Politico: The Kentucky senator is again mucking up vote plans, this time on suspending normal trade relations with Russia. 
+ <p class="updated_time"> 03:30 AM CT, Mar. 29 </p> 
+ <a href="https://www.politico.com/news/2022/03/29/clarence-thomas-congress-fallout-00021167">Impeach Thomas? House Dems can go there, but most won’t.</a> Politico: The chamber's Democrats have one serious option to respond to the furor swirling around the Supreme Court justice’s wife. They're not using it — yet. 
  <p class="updated_time"> 11:55 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/28/us/politics/marco-rubio-china-republicans.html">Marco Rubio Leads G.O.P. Push for a More Combative Stance on China</a> NYT: It’s time for Americans to buckle down for a long struggle with Beijing, the Florida senator will argue in a speech. 
  <p class="updated_time"> 11:28 PM CT, Mar. 28 </p> 
