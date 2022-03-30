@@ -9,33 +9,37 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:05 AM CT, Mar. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60922393?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians attacked but determined on front lines</a> BBC: One woman tells the BBC from hospital that a Russian soldier opened fire on her for no reason. 
+ <p class="updated_time"> 12:04 AM CT, Mar. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Here’s What Happened on Day 34 of the War in Ukraine</a> NYT: As Russian and Ukrainian negotiators met face to face for the first time in weeks, Russia said a meeting between Vladimir Putin and Volodymyr Zelensky could occur once a draft peace agreement was ready. The chief of the U.N. food agency warns of a crisis not seen since World War II. 
  <p class="updated_time"> 11:50 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks.html">Peace Talks May Be Little More Than Russian Tactics, Analysts Say</a> NYT: As signs of progress emerged during the peace talks, some saw them as Russia buying time to regroup its military forces before another offensive push in Ukraine. 
  <p class="updated_time"> 11:33 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60916098?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia says it will curb Kyiv assault as peace talks progress</a> BBC: Moscow says it will "drastically reduce" operations around the capital, Kyiv, as well as Chernihiv. 
  <p class="updated_time"> 11:22 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
- <p class="updated_time"> 11:18 PM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/03/29/world/ukraine-russia-war">Live Updates: Russian Pledge to Ease Attack Is Greeted Skeptically by West</a> NYT: As Russian and Ukrainian negotiators met face to face for the first time in weeks, Russia said a meeting between Vladimir Putin and Volodymyr Zelensky could occur once a draft peace agreement was ready. The chief of the U.N. food agency warns of a crisis not seen since World War II. 
+ <p class="updated_time"> 11:14 PM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
  <p class="updated_time"> 11:13 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html">A Vow to Ease Bombing Is Too Late for Many in Ukraine City Near Kyiv</a> NYT: Russia’s offer, if honored, will not help the thousands who have already fled Chernihiv. 
  <p class="updated_time"> 11:03 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/mariupol-ukraine-russia-war-food-water.html">Mariupol Residents Describe How Russian Forces Deprived Them of Food and Water</a> NYT: Residents of Mariupol, Ukraine described how Russian forces use hunger as a weapon of war in a monthlong siege of the southern port. “No roof, no food and no water,” survivors texted relatives who escaped. 
- <p class="updated_time"> 10:54 PM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-and-russia-hold-talks-as-zelensky-criticizes-west-on-sanctions-arms-11648549561">Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help</a> WSJ: Ukraine Proposes Neutral Status With Guarantees, but Zelensky Calls for More Western Help 
+ <p class="updated_time"> 10:53 PM CT, Mar. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60923196?at_medium=RSS&at_campaign=KARANGA">Afghanistan: World Bank freezes projects over girls' school ban</a> BBC: The Taliban's decision to halt the reopening of girls' secondary schools has been widely condemned. 
  <p class="updated_time"> 10:16 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/germany-women-ukraine-war.html">Women Drive Germany’s Foreign Policy Shift Amid Ukraine War</a> NYT: Angela Merkel is no longer chancellor. But as war rages in Ukraine, a mere 10-hour drive from Berlin, female ministers oversee national security. 
+ <p class="updated_time"> 10:14 PM CT, Mar. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
  <p class="updated_time"> 10:13 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60902330?at_medium=RSS&at_campaign=KARANGA">Five killed in latest deadly attack in Israel</a> BBC: Victims were shot in the streets on the outskirts of Tel Aviv, in the third such attack within days. 
- <p class="updated_time"> 09:54 PM CT, Mar. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-targets-oligarchs-hidden-assets-russian-military-supply-lines-11648546124">U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines</a> WSJ: U.S. Targets Oligarchs’ Hidden Assets, Russian Military Supply Lines 
  <p class="updated_time"> 09:51 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html">BA.2 Accounts for Over Half of New U.S. Cases, C.D.C. Estimates</a> NYT: Scientists have been keeping an eye on BA.2, one of three distinct genetically distinct varieties of the Omicron variant of the coronavirus. 
  <p class="updated_time"> 09:18 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60882442?at_medium=RSS&at_campaign=KARANGA">Some Americans are going to Mexico for cheaper petrol</a> BBC: With US petrol prices on the rise, some Americans are looking for better deals south of the border. 
- <p class="updated_time"> 08:54 PM CT, Mar. 29 </p> 
+ <p class="updated_time"> 09:14 PM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/russia-darkens-olympics-bid-for-a-reset-after-a-gloomy-stretch-11648568595">Russia Darkens Olympics’ Bid for a Reset</a> WSJ: Russia Darkens Olympics’ Bid for a Reset 
- <p class="updated_time"> 07:54 PM CT, Mar. 29 </p> 
+ <p class="updated_time"> 08:14 PM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-makes-public-debut-in-russia-ukraine-peace-talks-11648581111">Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks</a> WSJ: Roman Abramovich Makes Public Debut in Russia-Ukraine Peace Talks 
  <p class="updated_time"> 07:44 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008266730/ukraine-kyiv-fighters.html">The Fighters Who Took Over a Retail Store to Defend Kyiv</a> NYT: As Russia pledges to scale back operations in Kyiv, soldiers from the 112th Brigade of Ukraine’s Territorial Defense Forces are still preparing for the worst. Our cameras went inside their makeshift base. 
@@ -48,10 +52,10 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:16 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/middleeast/israel-shooting-deaths.html">Palestinian Gunman Kills 5 in Israel’s Fifth Attack in Recent Days</a> NYT: The attack in a Tel Aviv suburb brought the number of people killed in the past two weeks to 11, making it one of the deadliest periods in Israel in several years. 
  <p class="updated_time"> 07:16 PM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60911182?at_medium=RSS&at_campaign=KARANGA">Tipu Sultan: 'Greatest picture' of Indian colonial defeat for sale</a> BBC: The painting of a historic Indian victory over British troops is going under the hammer at Sotheby's. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60911182?at_medium=RSS&at_campaign=KARANGA">Tipu Sultan: 'Greatest Indian picture' of colonial defeat for sale</a> BBC: The painting of a historic Indian victory over British troops is going under the hammer at Sotheby's. 
  <p class="updated_time"> 07:14 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60899738?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What next for the African students who fled?</a> BBC: The thousands who left are now faced with a decision about where to continue their studies. 
- <p class="updated_time"> 06:54 PM CT, Mar. 29 </p> 
+ <p class="updated_time"> 07:14 PM CT, Mar. 29 </p> 
  <a href="https://www.wsj.com/articles/four-israelis-killed-by-gunman-near-tel-aviv-11648580810">Palestinian Gunman Shoots Five Dead in Central Israel</a> WSJ: Palestinian Gunman Shoots Five Dead in Central Israel 
  <p class="updated_time"> 06:36 PM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/education-60846683?at_medium=RSS&at_campaign=KARANGA">Covid closures still affecting 400 million pupils - Unicef</a> BBC: Schools in 23 countries are still partially or fully closed because of Covid, Unicef warns. 
@@ -105,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60799663?at_medium=RSS&at_campaign=KARANGA">Donald Trump's 6 January call logs show seven-hour gap</a> BBC: The committee investigating the Capitol riots had sought to obtain the presidential records. 
  <p class="updated_time"> 11:37 AM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089146927/russia-war-ukraine-dnipro">With front lines on 3 sides, Ukraine's Dnipro sharpens its focus on the war</a> NPR: The city, an island of relative safety surrounded by fighting, has become a hub for humanitarian aid and for people fleeing the war in the Donbas and other parts of Ukraine. 
- <p class="updated_time"> 11:29 AM CT, Mar. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-42993715?at_medium=RSS&at_campaign=KARANGA">Jury selection starts in IS Beatle jihadist trial</a> BBC: The last member of the British jihadist group nicknamed the IS Beatles is going on trial in the US. 
  <p class="updated_time"> 10:46 AM CT, Mar. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60896824?at_medium=RSS&at_campaign=KARANGA">China gains a foothold in Australia's backyard</a> BBC: A Pacific island's invitation to China's military threatens to destabilise Oceania. 
  <p class="updated_time"> 10:44 AM CT, Mar. 29 </p> 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/28/world/asia/india-modi-general-strike.html">India General Strike Protests Narendra Modi’s Economic Policies</a> NYT: The two-day strike, involving both public and private sector workers, was called to protest the Modi government’s economic policies, including a privatization plan. 
  <p class="updated_time"> 12:20 PM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/americas/el-salvador-gang-violence.html">El Salvador Declares State of Emergency After Gang Killings</a> NYT: Gangs went on a killing spree, gunning down anyone on the street. At least 62 were killed on Saturday, the deadliest day on record since the country’s civil war ended 30 years ago. 
- <p class="updated_time"> 10:37 AM CT, Mar. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60799845?at_medium=RSS&at_campaign=KARANGA">French election: A really simple guide</a> BBC: Voters in France will go to the polls on 10 April to elect a new president 
  <p class="updated_time"> 07:11 AM CT, Mar. 28 </p> 
  <a href="https://www.nytimes.com/2022/03/27/world/middleeast/hadera-israel-terror-attack.html">Arab Gunmen Kill 2 in Hadera, on Eve of Historic Summit</a> NYT: The unusually brazen attack in Hadera, a city on the Mediterranean coast, came as four Arab foreign ministers arrived for an unprecedented summit that shows Israel’s growing role in the Middle East 
  <p class="updated_time"> 04:00 AM CT, Mar. 28 </p> 
