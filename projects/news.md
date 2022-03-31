@@ -9,26 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:41 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 07:44 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Toll on Civilians and Global Economy Grows as War Enters 6th Week</a> NYT: With fighting raging on, the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. President Biden was mulling tapping U.S. oil reserves, and American officials said President Vladimir Putin of Russia had been misled by his aides. 
+ <p class="updated_time"> 07:17 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html">Putin’s Approval Ratings Soar Amid Russia’s War in Ukraine</a> NYT: Eighty-three percent of Russians said they approved of Mr. Putin’s actions, up from 69 percent in January, according to an independent pollster in Moscow. 
+ <p class="updated_time"> 06:57 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/asia/myanmar-coup-prisoners.html">Myanmar Junta Holding 10,000 Political Prisoners  </a> NYT: Most are held in deplorable conditions and face certain conviction at trial. Rights groups say the Southeast Asian nation now has the worst human rights conditions in the region. 
+ <p class="updated_time"> 06:46 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 06:38 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them sowing mistrust and spreading misinformation. 
  <p class="updated_time"> 06:31 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed during Israeli raid in West Bank</a> BBC: The operation in Jenin follows a recent series of attacks in Israel that have left 11 people dead. 
  <p class="updated_time"> 06:25 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/kremlin-us-intelligence-putin.html">Moscow calls U.S. intelligence on Putin’s military advice a ‘complete misunderstanding.’</a> NYT: The Kremlin spokesman also played down the prospect of an April meeting between Presidents Vladimir V. Putin and Volodymyr Zelensky. 
+ <a href="https://www.nytimes.com/2022/03/31/world/europe/kremlin-us-intelligence-putin.html">Moscow Calls US Intelligence on Putin’s Military Advice a ‘Complete Misunderstanding’</a> NYT: The Kremlin spokesman also played down the prospect of an April meeting between Presidents Vladimir V. Putin and Volodymyr Zelensky. 
  <p class="updated_time"> 06:00 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/hungary-viktor-orban-election.html">In Hungary, Viktor Orban Remakes an Election to His Liking</a> NYT: The populist prime minister, a hero to many American conservatives, has changed voting rules and legalized ‘voter tourism’ as he stands for re-election 
- <p class="updated_time"> 05:50 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 05:49 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukraine sends buses to Mariupol for rescue effort</a> BBC: A convoy of 45 buses is heading for the besieged city in the latest attempt to rescue trapped civilians. 
+ <p class="updated_time"> 05:46 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 05:40 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60936117?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin being misled by fearful advisers, US says</a> BBC: News on Russia's poor military performance is not making it back to Putin, the White House says. 
  <p class="updated_time"> 04:54 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/north-korea-icbm-fake.html">Was North Korea’s New ICBM Test Faked? Not Entirely.</a> NYT: South Korea says Kim Jong-un disguised an older missile as a new one to exaggerate his country’s weapons achievements when he badly needs political leverage. 
- <p class="updated_time"> 04:50 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
+ <p class="updated_time"> 04:46 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 04:42 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938538?at_medium=RSS&at_campaign=KARANGA">French intelligence chief Vidaud fired over Russian war failings</a> BBC: Gen Eric Vidaud loses his job as military intelligence boss for not predicting Russia's invasion. 
  <p class="updated_time"> 04:19 AM CT, Mar. 31 </p> 
@@ -47,22 +53,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60936718?at_medium=RSS&at_campaign=KARANGA">Cheng Lei: Australian journalist on trial in China for spy charge</a> BBC: A Beijing court is holding a closed-door hearing for former CGTN journalist Cheng Lei. 
  <p class="updated_time"> 03:55 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
- <p class="updated_time"> 03:50 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
+ <p class="updated_time"> 03:46 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 03:46 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60939316?at_medium=RSS&at_campaign=KARANGA">Will Smith: Chris Rock's first comments since Oscars slap</a> BBC: The comedian says he is "still processing what happened" and denies reports he has spoken to Smith. 
  <p class="updated_time"> 03:38 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/china-cheng-lei-australia.html">Australian Journalist Who Worked for Chinese Media Stands Trial in Beijing</a> NYT: Cheng Lei, a former CGTN host, was detained in 2020. The Chinese authorities have accused her of divulging state secrets but offered no specifics. 
  <p class="updated_time"> 03:33 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089884798/united-nations-conflict-covid-19-ukraine-myanmar-sudan-syria-yemen">World is seeing the greatest number of conflicts since the end of WWII, U.N. says</a> NPR: Guterres said the world is grappling with the most conflict since 1945, and proposed a New Agenda for Peace to bring stability to places such as Yemen, Myanmar, Syria, Sudan and Ukraine. 
- <p class="updated_time"> 02:50 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
+ <p class="updated_time"> 02:46 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 02:44 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
  <p class="updated_time"> 02:26 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html">In Hong Kong, China’s Covid Aid Gets the Cold Shoulder</a> NYT: Disputes about medics, squat toilets and diaper-changing duties underscore longstanding tensions between residents of Hong Kong and the mainland. 
- <p class="updated_time"> 01:50 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 12:12 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
  <p class="updated_time"> 11:17 PM CT, Mar. 30 </p> 
@@ -175,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60922393?at_medium=RSS&at_campaign=KARANGA">The Ukrainian woman shot by Russian soldiers on the front line</a> BBC: One woman tells the BBC from hospital that a Russian soldier opened fire on her for no reason. 
  <p class="updated_time"> 11:50 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks.html">Peace Talks May Be Little More Than Russian Tactics, Analysts Say</a> NYT: As signs of progress emerged during the peace talks, some saw them as Russia buying time to regroup its military forces before another offensive push in Ukraine. 
- <p class="updated_time"> 11:22 PM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/asia/afghanistan-mining-safety.html">Desperate for Cash, Afghans Toil in Mines That Are Deadlier Than Ever</a> NYT: Faced with life-threatening hunger, thousands labor in the coal mines of Baghlan. But safety measures that the former government once provided are gone. 
  <p class="updated_time"> 10:16 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/germany-women-ukraine-war.html">Women Drive Germany’s Foreign Policy Shift Amid Ukraine War</a> NYT: Angela Merkel is no longer chancellor. But as war rages in Ukraine, a mere 10-hour drive from Berlin, female ministers oversee national security. 
  <p class="updated_time"> 07:16 PM CT, Mar. 29 </p> 
@@ -201,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60920248?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian missile tears hole through Mykolaiv administrative building</a> BBC: Ukrainian authorities said at least seven people have died in the attack. 
  <p class="updated_time"> 10:44 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/africa/nigeria-train-gunmen.html">Gunmen Attack Train Near Nigerian Capital, Killing Some Riders</a> NYT: The attackers used explosives to blow up the rail track before opening fire on the train in the latest in a series of train assaults. 
- <p class="updated_time"> 04:00 AM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/climate/farhana-yamin-climate.html">Farhana Yamin’s Journey From Climate Summits to Street Protests</a> NYT: After a high-profile career as an international lawyer and negotiator, Farhana Yamin decided “we cannot rely on lawyers and diplomats alone.” 
 
 
 </details>
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/30/us/politics/justice-dept-widens-jan-6-inquiry.html">Justice Dept. Widens Jan. 6 Inquiry to Range of Pro-Trump Figures</a> NYT: Federal prosecutors have been seeking documents and testimony about the fake electors scheme and the planning for the rally just before the storming of the Capitol. 
  <p class="updated_time"> 06:18 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089885229/putin-was-misled-about-early-failures-in-ukraine-reports-indicates">Putin was misled about early failures in Ukraine, reports indicates</a> NPR: Democratic Sen. Bob Casey of Pennsylvania was part of a classified intelligence briefing about Russia's invasion of Ukraine. He talks to NPR's Steve Inskeep about the latest developments in the war. 
  <p class="updated_time"> 05:47 AM CT, Mar. 31 </p> 
@@ -250,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/us/politics/ukraine-spirit-of-america-aid.html">After Russia Invaded Ukraine, a U.S. Nonprofit Shifted Its Mission</a> NYT: Spirit of America was focused on helping counter Russian propaganda but now is sending helmets, Kevlar vests, radios and vehicles to Ukraine. 
  <p class="updated_time"> 08:32 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/immigration-cdc-biden.html">C.D.C. to Lift Order Restricting Immigration During the Pandemic</a> NYT: The change is to take effect in late May, according to people familiar with the planning, and should restore the right of migrants to request asylum once they cross the border into the United States. 
- <p class="updated_time"> 08:23 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/us/politics/justice-dept-widens-jan-6-inquiry.html">Justice Dept. Widens Jan. 6 Inquiry to Range of Pro-Trump Figures</a> NYT: Federal prosecutors have been seeking documents and testimony about the fake electors scheme and the planning for the rally just before the storming of the Capitol. 
  <p class="updated_time"> 08:04 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/alex-jones-sandy-hook-lawsuit.html">Testify or Pay Up, Judge Tells Alex Jones in Sandy Hook Suit</a> NYT: A Connecticut judge rejected the Infowars conspiracy theorist’s claim that he was too ill to sit for a deposition, and set a schedule of hefty fines. 
  <p class="updated_time"> 08:01 PM CT, Mar. 30 </p> 
