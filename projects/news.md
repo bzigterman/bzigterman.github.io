@@ -9,13 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:32 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 05:19 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Biden Taps U.S. Oil Reserves as War Disrupts Supply</a> NYT: Blaming Vladimir V. Putin for rising energy prices, President Biden ordered millions of oil barrels released from U.S. reserves. A humanitarian corridor to allow residents to escape Mariupol could open on Friday, after Russia’s Defense Ministry announced a cease-fire in the besieged southern city. 
+ <p class="updated_time"> 05:00 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">In Ireland, a Memorial to Women Victimized by Church and State</a> NYT: The country’s last “Magdalene laundry,” a compound in Dublin where unmarried mothers and other unwanted women were incarcerated to work in abject conditions, had been earmarked as a site for a budget hotel. 
  <p class="updated_time"> 04:31 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/macron-france-consultants-mckinsey-campaign.html">Macron Goes on Defensive Over Use of McKinsey and Other Consultants</a> NYT: President Emmanuel Macron’s opponents have criticized the French government for paying at least a billion dollars last year to private consulting firms. 
- <p class="updated_time"> 04:25 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdalene Laundry’ Will Be Preserved as a Memorial</a> NYT: The high-walled compound in Dublin, where unmarried mothers and other unwanted women were incarcerated to work without pay in abject conditions, had been earmarked as a site for a budget hotel. 
- <p class="updated_time"> 03:56 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 04:21 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup 
  <p class="updated_time"> 03:56 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31">Russia-Ukraine war: What happened today (March 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -29,6 +29,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090067991/what-kyiv-looks-like-as-russian-troops-appear-to-reposition">What Kyiv looks like as Russian troops appear to reposition</a> NPR: The pentagon says Russian forces had done some repositioning away from Kyiv to the north. But according to NATO intelligence, Russia is maintaining pressure on the city. 
  <p class="updated_time"> 03:38 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian troops leave Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says Russian soldiers have left the former nuclear power plant. 
+ <p class="updated_time"> 03:21 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 03:20 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60936468?at_medium=RSS&at_campaign=KARANGA">Biden orders 'unprecedented' release of oil reserves</a> BBC: The move will add 1m barrels a day to global markets - the largest release of oil reserves in US history. 
  <p class="updated_time"> 03:19 PM CT, Mar. 31 </p> 
@@ -39,20 +41,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090067935/across-ukraine-volunteers-are-helping-in-the-war-effort-in-all-sorts-of-ways">Across Ukraine, volunteers are helping in the war effort in all sorts of ways</a> NPR: At a warehouse near the frontlines in southern Ukraine, volunteers are providing food to those who've evacuated from Russian-controlled territory, making bulletproof vests and helping fix car windows. 
  <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067928/daddy-yankee-a-reggaeton-leyenda-retires">Daddy Yankee, a reggaeton 'leyenda,' retires</a> NPR: Reggaeton superstar Daddy Yankee has announced his retirement from music at the age of 45. But it's unclear whether that means he'll never perform or release music again. 
- <p class="updated_time"> 02:56 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 02:29 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089997406/ever-forward-container-ship-stuck-cheasapeake-bay">A container ship named Ever Forward has been stuck in the Chesapeake Bay for 18 days</a> NPR: The ship ran aground after it apparently missed a turn leaving Baltimore. The vessel is owned by the same company that owns the Ever Given, the ship that blocked the Suez Canal last year. 
  <p class="updated_time"> 02:29 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/31/1089862924/meet-5-women-documenting-the-effects-of-climate-change-around-the-world">Meet 5 women documenting the effects of climate change around the world </a> NPR: In honor of Women's History Month, NPR takes a look at five women photographing the worst effects of climate change around the world. 
+ <p class="updated_time"> 02:21 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 02:16 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia blocks buses heading to Mariupol, says Ukraine</a> BBC: Russia has blocked 45 buses heading to the city to rescue civilians, says Ukraine's deputy prime minister. 
  <p class="updated_time"> 02:15 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html">Putin’s Approval Ratings Soar Amid Russia’s War in Ukraine</a> NYT: Eighty-three percent of Russians said they approved of Mr. Putin’s actions, up from 69 percent in January, according to an independent pollster in Moscow. 
  <p class="updated_time"> 02:11 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/africa/kenya-supreme-court-constitution.html">Kenya’s Supreme Court Rejects President’s Plan to Amend Constitution</a> NYT: Civil society groups had criticized the proposal as an attempt to expand presidential power and strengthen the elite’s grip on national politics. 
- <p class="updated_time"> 01:56 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 01:56 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html">How War in Ukraine Roiled Facebook and Instagram</a> NYT: The rules over what war content is permitted on Facebook and Instagram keep changing, causing internal confusion. 
  <p class="updated_time"> 01:51 PM CT, Mar. 31 </p> 
@@ -63,20 +63,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed in gunfight during Israeli West Bank raid</a> BBC: Troops entered Jenin to arrest three people suspected of involvement in a deadly attack in Israel. 
  <p class="updated_time"> 01:30 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them sowing mistrust and spreading misinformation. 
+ <p class="updated_time"> 01:21 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly</a> WSJ: Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly 
  <p class="updated_time"> 12:58 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60947470?at_medium=RSS&at_campaign=KARANGA">Canada's Supreme Court upholds C$9m fine on maple syrup thief</a> BBC: Nearly 3,000 tonnes of maple syrup was stolen in the so-called Great Canadian Maple Syrup Heist. 
- <p class="updated_time"> 12:56 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly</a> WSJ: Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly 
  <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60947272?at_medium=RSS&at_campaign=KARANGA">Russian MP says Putin's plan for Ukraine hasn't been shared with their parliament</a> BBC: Maria Butina says Putin's plan wasn't shared with MPs, but the campaign is going "according to plan". 
  <p class="updated_time"> 12:24 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089958981/zelenskyy-approval-rating-us">Americans have more confidence in Zelenskyy than Biden when it comes to world affairs</a> NPR: Some 72% of Americans have confidence in the Ukrainian president's handling of world affairs, a Pew Research Center survey finds. Meanwhile, just 48% say the same about U.S. President Biden. 
+ <p class="updated_time"> 12:21 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 12:09 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60947271?at_medium=RSS&at_campaign=KARANGA">How do you do a face-to-face interview with Zelensky?</a> BBC: Zanny Minton Beddoes, editor-in-chief of The Economist, on how she interviewed Ukraine's president. 
  <p class="updated_time"> 11:57 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-security-guarantees.html">What Does Ukraine Mean When it Asks For ‘Security Guarantees’?</a> NYT: Ukraine’s request for other countries to guarantee its future security as a condition for making concessions to Moscow is circulating among European diplomats. But analysts say such a demand faces huge obstacles. 
- <p class="updated_time"> 11:56 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 11:53 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60932864?at_medium=RSS&at_campaign=KARANGA">Pakistan's Imran Khan is fighting for his political life</a> BBC: Pakistan's prime minister faces a vote of no confidence and could be out of office within days. 
  <p class="updated_time"> 11:37 AM CT, Mar. 31 </p> 
@@ -212,6 +212,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:10 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/us/politics/lisa-murkowski-ketanji-brown-jackson.html">Jackson Vote Poses a Political Dilemma for Murkowski</a> NYT: The Alaska Republican is facing a difficult re-election race in which she is under attack by former President Donald J. Trump and the right. Could a vote for President Biden’s nominee save her? 
+ <p class="updated_time"> 05:05 PM CT, Mar. 31 </p> 
+ <a href="https://www.politico.com/news/2022/03/31/new-york-judge-democrats-redistricting-plan-00022161">GOP judge throws out Democrats' redistricting plan in New York, setting up expected appellate fight</a> Politico: The decision orders legislators to draw new lines with bipartisan support by April 11. 
+ <p class="updated_time"> 04:57 PM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1090085513/house-passes-bill-to-cap-insulin-prices">House passes bill to cap insulin prices </a> NPR: The chamber voted on a bill that caps the price of insulin at $35 a month but fate for the legislation in the Senate is unclear. 
  <p class="updated_time"> 04:48 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
  <p class="updated_time"> 04:30 PM CT, Mar. 31 </p> 
@@ -306,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/us/politics/immigration-cdc-biden.html">C.D.C. to Lift Order Restricting Immigration During the Pandemic</a> NYT: The change is to take effect in late May, according to people familiar with the planning, and should restore the right of migrants to request asylum once they cross the border into the United States. 
  <p class="updated_time"> 08:04 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/alex-jones-sandy-hook-lawsuit.html">Alex Jones Faces Fines for Not Testifying in Sandy Hook Suit</a> NYT: A Connecticut judge rejected the Infowars conspiracy theorist’s claim that he was too ill to sit for a deposition, and set a schedule of hefty fines. 
- <p class="updated_time"> 07:31 PM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/dnc-clinton-campaign-fine-dossier-spending-disclosure-00021910">Federal campaign watchdog fines DNC, Clinton campaign over dossier spending disclosure</a> Politico: The conciliation agreements found “probable cause to believe” that both the campaign and national party “misreport[ed] the purpose of certain disbursements.” 
  <p class="updated_time"> 07:16 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/russia-bombards-ukraine-zelenskyy-00021906">Russia bombards areas where it pledged to scale back</a> Politico: The shelling tempered optimism about negotiations meant to end the war. 
  <p class="updated_time"> 06:13 PM CT, Mar. 30 </p> 
@@ -316,10 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/us/politics/madison-cawthorn-congress.html">House Republicans Tire of Madison Cawthorn’s Antics. Some in His District Have, Too.</a> NYT: For Mr. Cawthorn, a pro-Trump North Carolina congressman,  youthful brashness that helped him win his seat now strikes some voters as recklessness. 
  <p class="updated_time"> 05:55 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/hillary-clinton-democrats-campaign-spending.html">Democrats Agree to Pay $113,000 Over Campaign Spending Inquiry</a> NYT: Hillary Clinton’s campaign and the Democratic Party described payments to a law firm that commissioned scrutiny of Trump-Russia ties — leading to the Steele dossier — as legal services, not opposition research. 
- <p class="updated_time"> 03:58 PM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089721115/russia-ukraine-war-what-happened-today-march-30">Russia-Ukraine war: What happened today (March 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:02 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/business/oligarchs-hedge-funds-russia.html">Senators Ask Treasury and S.E.C. to Close Oligarch Investment Loophole</a> NYT: Senators Elizabeth Warren and Sheldon Whitehouse called on regulators to interpret oversight powers more broadly to cover hedge funds, private equity firms and more. 
  <p class="updated_time"> 02:44 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/mccarthy-cawthorn-lost-trust-orgy-cocaine-comments-00021816">McCarthy: Cawthorn's 'lost my trust' following orgy and cocaine comments</a> Politico: The GOP leader is not yet revoking the North Carolina Republican's committee spots, but he signaled he's lost patience with the freshman lawmaker. 
  <p class="updated_time"> 02:24 PM CT, Mar. 30 </p> 
