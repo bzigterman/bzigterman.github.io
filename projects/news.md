@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses Attacks as U.S. Sees Tension in Kremlin</a> NYT: The U.S. and its allies were skeptical of Moscow’s pledge to scale back its offensive, as fighting raged on. President Biden was mulling tapping U.S. oil reserves, as American officials said Vladimir Putin had been misled by his aides. 
+ <p class="updated_time"> 02:33 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
+ <p class="updated_time"> 02:26 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html">In Hong Kong, China’s Covid Aid Gets the Cold Shoulder</a> NYT: Disputes about medics, squat toilets and diaper-changing duties underscore longstanding tensions between residents of Hong Kong and the mainland. 
+ <p class="updated_time"> 02:09 AM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60926470?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin demands Mariupol surrender to end shelling</a> BBC: Russia's defence ministry has since proposed a one-day ceasefire on Thursday to let civilians leave. 
+ <p class="updated_time"> 01:41 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 01:25 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60936117?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin being misled by fearful advisers, US says</a> BBC: News on Russia's poor military performance is not making it back to Putin, the White House says. 
- <p class="updated_time"> 12:51 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
- <p class="updated_time"> 12:46 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses Attacks as U.S. Sees Tension in Kremlin</a> NYT: The U.S. and its allies were skeptical of Moscow’s pledge to scale back its offensive, as fighting raged on. President Biden was mulling tapping U.S. oil reserves, as American officials said Vladimir Putin had been misled by his aides. 
+ <p class="updated_time"> 12:41 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 12:12 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
- <p class="updated_time"> 11:51 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
+ <p class="updated_time"> 11:41 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 11:23 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60936718?at_medium=RSS&at_campaign=KARANGA">Cheng Lei: Australian journalist on trial in China for spy charge</a> BBC: A Beijing court is holding a closed-door hearing for former CGTN journalist Cheng Lei. 
  <p class="updated_time"> 11:17 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/31/1089873999/britain-withdraws-its-judges-from-hong-kongs-top-court">Britain withdraws its judges from Hong Kong's top court</a> NPR: The two British judges resigned after citing concerns about the court being as endorsing "an administration that has departed from values of political freedom, and freedom of expression." 
- <p class="updated_time"> 10:51 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
+ <p class="updated_time"> 10:41 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 10:27 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html">‘Like Living in a Horror Movie’: A Ukraine Town Dying a Slow Death</a> NYT: The war never stops in Huliaipole, a town on the front lines in eastern Ukraine. Most residents have fled. Those who remain listen to the Russian shelling and wonder: Where will the next one land? 
  <p class="updated_time"> 10:09 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
- <p class="updated_time"> 09:51 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
+ <p class="updated_time"> 09:41 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 09:05 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/hong-kong-british-judges.html">U.K. Judges Quit Top Hong Kong Court</a> NYT: They had served on the territory’s highest court, part of an arrangement to retain links to the common law world after Hong Kong returned to China. 
- <p class="updated_time"> 08:51 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 08:48 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60935900?at_medium=RSS&at_campaign=KARANGA">Will Smith refused to leave Oscars after slap, Academy says</a> BBC: The body also says it has initiated "disciplinary proceedings" against Smith for hitting Chris Rock. 
  <p class="updated_time"> 08:33 PM CT, Mar. 30 </p> 
@@ -60,7 +66,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:33 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-serbia-russia.html"> Serbia Sticks With Russia, Bound by a Sense of Victimhood</a> NYT: Moscow, despite its invasion of Ukraine, remains a lodestar for nations like Serbia that feel resentment and grievance against the West, experts say. 
  <p class="updated_time"> 06:31 PM CT, Mar. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60929949?at_medium=RSS&at_campaign=KARANGA">Ghazipur fire: Gasping for air as Delhi landfill burns</a> BBC: A fire at a rubbish mountain is choking residents while firefighters work round the clock to put it out. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60929949?at_medium=RSS&at_campaign=KARANGA">Ghazipur fire: Gasping for air as massive Delhi landfill burns</a> BBC: A fire at a rubbish mountain is choking residents while firefighters work round the clock to put it out. 
  <p class="updated_time"> 06:21 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60933862?at_medium=RSS&at_campaign=KARANGA">In pictures: The Ukrainian religious sites ruined by fighting</a> BBC: In pictures: How Russia's invasion has devastated some of Ukraine's churches and synagogues. 
  <p class="updated_time"> 05:46 PM CT, Mar. 30 </p> 
@@ -69,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60930690?at_medium=RSS&at_campaign=KARANGA">El Shafee Elsheikh: Opening statements in IS Beatle jihadist trial</a> BBC: El Shafee Elsheikh is one of a group of IS militants with UK links accused of beheading hostages in Syria. 
  <p class="updated_time"> 05:01 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/tunisia-president-dissolve-parliament.html">President Dissolves Tunisia’s Parliament, Deepening Political Crisis</a> NYT: President Kais Saied, who suspended Parliament last year, dismissed that body after lawmakers challenged the autocratic powers he has exercised. 
- <p class="updated_time"> 04:50 PM CT, Mar. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60926470?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin demands Mariupol surrender to end shelling</a> BBC: Russia's defence ministry has since proposed a one-day ceasefire on Thursday to let civilians leave. 
  <p class="updated_time"> 04:15 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html">BA.2 Accounts for Over Half of New U.S. Cases, C.D.C. Estimates</a> NYT: Scientists have been keeping an eye on BA.2, one of three genetically distinct varieties of the Omicron variant of the coronavirus. 
  <p class="updated_time"> 03:58 PM CT, Mar. 30 </p> 
@@ -195,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/world/asia/solomon-islands-china.html">Solomon Islands’ Leader Calls Concern Over China Security Deal ‘Insulting’</a> NYT: Prime Minister Manasseh Sogavare criticized Australia and New Zealand as assuming that the island nation could not act in its own best interests. 
  <p class="updated_time"> 04:00 AM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/climate/farhana-yamin-climate.html">Farhana Yamin’s Journey From Climate Summits to Street Protests</a> NYT: After a high-profile career as an international lawyer and negotiator, Farhana Yamin decided “we cannot rely on lawyers and diplomats alone.” 
- <p class="updated_time"> 07:31 PM CT, Mar. 28 </p> 
- <a href="https://www.nytimes.com/2022/03/28/us/politics/biden-putin.html">Biden Says of Condemning Putin: ‘I Make No Apologies’</a> NYT: President Biden said his words, delivered in a speech over the weekend in Warsaw, were not a call for regime change in Russia. 
 
 
 </details>
