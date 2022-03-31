@@ -9,22 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: As Russia Regroups Troops, Biden Taps U.S. Oil Reserves</a> NYT: Blaming Vladimir V. Putin for rising energy prices, President Biden ordered millions of oil barrels released from U.S. reserves. Russian forces are withdrawing from around Chernobyl, Ukrainian officials said, but the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. 
+ <p class="updated_time"> 03:20 PM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60936468?at_medium=RSS&at_campaign=KARANGA">Biden orders 'unprecedented' release of oil reserves</a> BBC: The move will add 1m barrels a day to global markets - the largest release of oil reserves in US history. 
+ <p class="updated_time"> 03:19 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
+ <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1090067963/an-australian-journalist-detained-in-china-goes-on-trial">An Australian journalist detained in China goes on trial</a> NPR: An Australian journalist goes on trial Thursday in Beijing. She's been accused of espionage and is one of several journalists detained as relations with China sour. 
+ <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1090067935/across-ukraine-volunteers-are-helping-in-the-war-effort-in-all-sorts-of-ways">Across Ukraine, volunteers are helping in the war effort in all sorts of ways</a> NPR: At a warehouse near the frontlines in southern Ukraine, volunteers are providing food to those who've evacuated from Russian-controlled territory, making bulletproof vests and helping fix car windows. 
+ <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1090067928/daddy-yankee-a-reggaeton-leyenda-retires">Daddy Yankee, a reggaeton 'leyenda,' retires</a> NPR: Reggaeton superstar Daddy Yankee has announced his retirement from music at the age of 45. But it's unclear whether that means he'll never perform or release music again. 
  <p class="updated_time"> 02:41 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Most Russian troops' leaving Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says just a few soldiers are left at the former nuclear power plant. 
- <p class="updated_time"> 02:33 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: As Russia Regroups Troops, Biden Taps U.S. Oil Reserves</a> NYT: Blaming Vladimir V. Putin for rising energy prices, President Biden ordered millions of oil barrels released from U.S. reserves. Russian forces are withdrawing from around Chernobyl, Ukrainian officials said, but the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. 
  <p class="updated_time"> 02:29 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089997406/ever-forward-container-ship-stuck-cheasapeake-bay">A container ship named Ever Forward has been stuck in the Chesapeake Bay for 18 days</a> NPR: The ship ran aground after it apparently missed a turn leaving Baltimore. The vessel is owned by the same company that owns the Ever Given, the ship that blocked the Suez Canal last year. 
  <p class="updated_time"> 02:29 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/03/31/1089862924/meet-5-women-documenting-the-effects-of-climate-change-around-the-world">Meet 5 women documenting the effects of climate change around the world </a> NPR: In honor of Women's History Month, NPR takes a look at five women photographing the worst effects of climate change around the world. 
+ <p class="updated_time"> 02:28 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup 
  <p class="updated_time"> 02:16 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia blocks buses heading to Mariupol, says Ukraine</a> BBC: Russia has blocked 45 buses heading to the city to rescue civilians, says Ukraine's deputy prime minister. 
  <p class="updated_time"> 02:15 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html">Putin’s Approval Ratings Soar Amid Russia’s War in Ukraine</a> NYT: Eighty-three percent of Russians said they approved of Mr. Putin’s actions, up from 69 percent in January, according to an independent pollster in Moscow. 
  <p class="updated_time"> 02:11 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/africa/kenya-supreme-court-constitution.html">Kenya’s Supreme Court Rejects President’s Plan to Amend Constitution</a> NYT: Civil society groups had criticized the proposal as an attempt to expand presidential power and strengthen the elite’s grip on national politics. 
- <p class="updated_time"> 01:57 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/business-60936468?at_medium=RSS&at_campaign=KARANGA">Biden orders 'unprecedented' release of oil reserves</a> BBC: The move will add 1m barrels a day to global markets - the largest release of oil reserves in US history. 
  <p class="updated_time"> 01:56 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html">How War in Ukraine Roiled Facebook and Instagram</a> NYT: The rules over what war content is permitted on Facebook and Instagram keep changing, causing internal confusion. 
  <p class="updated_time"> 01:51 PM CT, Mar. 31 </p> 
@@ -32,17 +42,17 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:47 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090015449/georgia-south-ossetia-region-russia">Georgia's South Ossetia region might vote on joining Russia</a> NPR: Leaders of Georgia's breakaway region of South Ossetia say they're planning a referendum to join the Russian Federation. 
  <p class="updated_time"> 01:46 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup 
- <p class="updated_time"> 01:46 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed in gunfight during Israeli West Bank raid</a> BBC: Troops entered Jenin to arrest three people suspected of involvement in a deadly attack in Israel. 
  <p class="updated_time"> 01:30 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them sowing mistrust and spreading misinformation. 
+ <p class="updated_time"> 01:28 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 12:58 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60947470?at_medium=RSS&at_campaign=KARANGA">Canada's Supreme Court upholds C$9m fine on maple syrup thief</a> BBC: Nearly 3,000 tonnes of maple syrup was stolen in the so-called Great Canadian Maple Syrup Heist. 
- <p class="updated_time"> 12:46 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60947272?at_medium=RSS&at_campaign=KARANGA">Russian MP says Putin's plan for Ukraine hasn't been shared with their parliament</a> BBC: Maria Butina says Putin's plan wasn't shared with MPs, but the campaign is going "according to plan". 
+ <p class="updated_time"> 12:28 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 12:24 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089958981/zelenskyy-approval-rating-us">Americans have more confidence in Zelenskyy than Biden when it comes to world affairs</a> NPR: Some 72% of Americans have confidence in the Ukrainian president's handling of world affairs, a Pew Research Center survey finds. Meanwhile, just 48% say the same about U.S. President Biden. 
  <p class="updated_time"> 12:09 PM CT, Mar. 31 </p> 
@@ -53,16 +63,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-security-guarantees.html">What Does Ukraine Mean When it Asks For ‘Security Guarantees’?</a> NYT: Ukraine’s request for other countries to guarantee its future security as a condition for making concessions to Moscow is circulating among European diplomats. But analysts say such a demand faces huge obstacles. 
  <p class="updated_time"> 11:53 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60932864?at_medium=RSS&at_campaign=KARANGA">Pakistan's Imran Khan is fighting for his political life</a> BBC: Pakistan's prime minister faces a vote of no confidence and could be out of office within days. 
- <p class="updated_time"> 11:46 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 11:37 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60939738?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Call for Turkey murder trial to be halted</a> BBC: A Turkish prosecutor says the murder trial in Istanbul should be transferred to Saudi Arabia. 
+ <p class="updated_time"> 11:28 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly</a> WSJ: Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly 
  <p class="updated_time"> 11:20 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/nato-russia-kyiv.html">NATO Sees Little Evidence That Russian Troops Are Pulling Back From Kyiv</a> NYT: “Russia has repeatedly lied about its intentions,” NATO’s secretary general, Jens Stoltenberg said of Moscow’s pledge to pull back from Kyiv. “So we can only judge Russia on its actions, not on its words.” 
  <p class="updated_time"> 10:52 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60941860?at_medium=RSS&at_campaign=KARANGA">Kenya's BBI blocked in blow to President Uhuru Kenyatta</a> BBC: Supreme Court judges say President Kenyatta acted unlawfully in his pursuit of constitutional changes. 
- <p class="updated_time"> 10:46 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly</a> WSJ: Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly 
+ <p class="updated_time"> 10:28 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 10:20 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089705434/ukraine-russia-war-mariupol-zaporizhzhia">Ukrainians navigate a perilous route to safety out of besieged Mariupol</a> NPR: "It is either die or leave. We had no other way," says one woman who arrived in Zaporizhzhia after three attempts at escape. Officials say nearly 100,000 people are still trapped in the besieged city. 
  <p class="updated_time"> 10:15 AM CT, Mar. 31 </p> 
@@ -73,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60905547?at_medium=RSS&at_campaign=KARANGA">Meeting with Pope a 'stepping stone' towards reconciliation</a> BBC: A Canadian indigenous delegation is seeking an apology over the church's role in residential schools. 
  <p class="updated_time"> 09:58 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdelene Laundry’ Will Be Preserved as a Memorial</a> NYT: The high-walled compound in Dublin, where unmarried mothers and other unwanted women were incarcerated to work without pay in abject conditions, had been earmarked as a site for a budget hotel. 
- <p class="updated_time"> 09:46 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 09:13 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-war-schools.html"> Students and Teachers in Europe Grapple With the  War in Ukraine</a> NYT: As many in Europe have grappled with the shock of facing a war on their doorstep, teachers say they are facing tough questions posed about the conflict by worried children. 
  <p class="updated_time"> 08:31 AM CT, Mar. 31 </p> 
@@ -119,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/australian-journalist-tried-in-china-on-suspicion-of-disclosing-state-secrets-11648698750">Trial of Australian Journalist in China on States-Secrets Charges Ends Without Verdict</a> WSJ: Cheng Lei’s closed-door trial took place around 19 months after her detention in August 2020, which coincided with a sharp downturn in diplomatic relations between the two countries. 
  <p class="updated_time"> 12:12 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
- <p class="updated_time"> 11:17 PM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/31/1089873999/britain-withdraws-its-judges-from-hong-kongs-top-court">Britain withdraws its judges from Hong Kong's top court</a> NPR: The two British judges resigned after citing concerns about the court being as endorsing "an administration that has departed from values of political freedom, and freedom of expression." 
  <p class="updated_time"> 10:27 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html">‘Like Living in a Horror Movie’: A Ukraine Town Dying a Slow Death</a> NYT: The war never stops in Huliaipole, a town on the front lines in eastern Ukraine. Most residents have fled. Those who remain listen to the Russian shelling and wonder: Where will the next one land? 
  <p class="updated_time"> 09:05 PM CT, Mar. 30 </p> 
@@ -137,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-russia-war.html">Russia Steps Up Attacks Amid Reports of Rifts in Moscow</a> NYT: Despite claims of de-escalation, Russian forces turned their fury on Chernihiv and the suburbs of Kyiv. U.S. officials say they believe Vladimir Putin’s aides are misleading him about the war. 
  <p class="updated_time"> 06:48 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60492918?at_medium=RSS&at_campaign=KARANGA">The African migrants who Italy accuses of people smuggling</a> BBC: Hundreds of migrants, many of them minors, are ending up in prison in Italy charged with trafficking. 
- <p class="updated_time"> 06:47 PM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089809588/ivermectin-covid-treatment-brazil-study">Ivermectin does not prevent COVID-19 hospitalization, a new study says</a> NPR: The Food and Drug Administration has long warned against using the cow and horse dewormer to fight COVID-19, warning it can cause serious, adverse effects. 
  <p class="updated_time"> 06:45 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/middleeast/israel-terrorism-attack.html">In Life, They Showed Israel’s Breadth. In Death, They Were Victims.</a> NYT: The five victims of Israel’s deadliest terrorist attack in years came from different walks of life, highlighting the complexity of Israeli society. 
  <p class="updated_time"> 06:43 PM CT, Mar. 30 </p> 
@@ -155,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/africa/tunisia-president-dissolve-parliament.html">President Dissolves Tunisia’s Parliament, Deepening Political Crisis</a> NYT: President Kais Saied, who suspended Parliament last year, dismissed that body after lawmakers challenged the autocratic powers he has exercised. 
  <p class="updated_time"> 04:15 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html">BA.2 Accounts for Over Half of New U.S. Cases, C.D.C. Estimates</a> NYT: Scientists have been keeping an eye on BA.2, one of three genetically distinct varieties of the Omicron variant of the coronavirus. 
- <p class="updated_time"> 03:58 PM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089721115/russia-ukraine-war-what-happened-today-march-30">Russia-Ukraine war: What happened today (March 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:04 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html">A Vow to Ease Bombing Is Too Late for Many in Ukraine City Near Kyiv</a> NYT: Russia’s offer, if honored, will not help the thousands who have already fled Chernihiv. 
  <p class="updated_time"> 02:55 PM CT, Mar. 30 </p> 
@@ -205,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/world/ukraine-russia-kyiv-irpin.html">Ukrainian Military Fends Off Russia and Retakes Suburb of Kyiv</a> NYT: Ukrainian soldiers have essentially retaken, for now, the town of Irpin, the scene of fierce fighting in recent weeks. Its success shows the steep challenges Russia faces in trying to capture Ukraine’s capital. 
  <p class="updated_time"> 04:09 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/peace-talks-russia-ukraine.html">Russia-Ukraine Peace Talks Signal Progress, but No End to War Is in Sight</a> NYT: Russia said it would “drastically” reduce military activity around Kyiv, while Ukraine said it would be willing to accept neutrality and discuss territorial claims to resolve the conflict. 
- <p class="updated_time"> 01:42 PM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/europe/russia-ukraine-peace-talks-istanbul.html">Russia-Ukraine Peace Talks Enter a New Phase in Istanbul</a> NYT: “All the world is expecting good news from you,” President Recep Tayyip Erdogan said in greeting the Russian and Ukrainian delegations. 
 
 
 </details>
@@ -214,16 +214,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:22 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/us/politics/florida-voting-law.html">Judge Rules Parts of Florida Voting Law Unconstitutional</a> NYT: The ruling against a major Republican election law, issued by a federal judge in Tallahassee, is likely to be overturned either by a higher appeals court or the U.S. Supreme Court. 
+ <p class="updated_time"> 03:22 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/business/energy-environment/biden-oil-strategic-petroleum-reserve.html">Biden will tap oil reserve, hoping to push gasoline prices down.</a> NYT: The administration said the president would announce a plan to release reserves of crude daily for six months. 
+ <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1090067956/extremism-experts-worry-a-qanon-theory-is-making-into-the-mainstream-political-r">Extremism experts worry a QAnon theory is making into the mainstream political right</a> NPR: In Judge Jackson's Supreme Court confirmation hearings, some Republicans dwelled on her handling of child pornography cases. Extremism experts say a QAnon narrative may be catching on with the right. 
+ <p class="updated_time"> 02:59 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/business/economy/biden-invokes-cold-war-statute-to-boost-critical-mineral-supply.html">Biden Invokes Cold War Statute to Boost Critical Mineral Supply</a> NYT: The action aims to enhance American production of crucial materials for electric vehicles, defense systems and other technologies. 
  <p class="updated_time"> 02:34 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090050341/citing-race-a-federal-judge-strikes-down-parts-of-a-2021-florida-election-law">Citing race, a federal judge strikes down parts of a 2021 Florida election law</a> NPR: The judge says the state's Republican-led government was using subtle tactics to suppress Black voters. An appeal of the ruling is expected. 
  <p class="updated_time"> 02:30 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
- <p class="updated_time"> 02:14 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/us/politics/florida-voting-law.html">Judge Rules Parts of Florida Voting Law Unconstitutional</a> NYT: The ruling against a major Republican election law, issued by a federal judge in Tallahassee, is likely to be overturned either by a higher appeals court or the U.S. Supreme Court. 
  <p class="updated_time"> 02:12 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/ginni-thomas-john-roberts-supreme-court.html">Ginni Thomas’s Texts, and the Limits of Chief Justice Roberts’s Power</a> NYT: His title notwithstanding, the chief justice cannot force a colleague’s recusal. If Justice Clarence Thomas is to disqualify himself, it will be his decision. 
- <p class="updated_time"> 02:07 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/business/energy-environment/biden-oil-strategic-petroleum-reserve.html">Biden will tap oil reserve, hoping to push gasoline prices down.</a> NYT: The administration said the president would announce a plan to release reserves of crude daily for six months. 
  <p class="updated_time"> 02:06 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/stabenow-vote-universal-free-school-meals-00022081">Senators revive school lunch debate with bill to extend universal free meals</a> Politico: The move comes after Republican leadership objected to extending the pandemic program in a recent spending bill, which has generated pushback in both red and blue states. 
  <p class="updated_time"> 01:41 PM CT, Mar. 31 </p> 
@@ -293,13 +297,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:00 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/ketanji-brown-jackson-democrats.html">Democrats’ Defense of Ketanji Brown Jackson Leaves Some Wanting More</a> NYT: Naming a Black woman to the Supreme Court was a major step for racial progress. It was also a missed political opportunity for President Biden, critics of the White House say. 
  <p class="updated_time"> 08:54 PM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/david-weil-wage-hour-nom-senate-00021860">Manchin, Sinema, Kelly sink Biden labor nominee</a> Politico: Weil has faced heated opposition from Republicans and business groups dating back to his prior stint in the position for the Obama administration. 
- <p class="updated_time"> 08:33 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/us/politics/ukraine-spirit-of-america-aid.html">After Russia Invaded Ukraine, a U.S. Nonprofit Shifted Its Mission</a> NYT: Spirit of America was focused on helping counter Russian propaganda but now is sending helmets, Kevlar vests, radios and vehicles to Ukraine. 
+ <a href="https://www.politico.com/news/2022/03/30/david-weil-wage-hour-nom-senate-00021860">Moderate Dems hand Biden his first nomination vote defeat</a> Politico: The vote that tanked David Weil’s bid to head the Labor Department’s Wage and Hour Division is a major defeat for Biden, who frequently touts his pro-labor agenda, and Schumer, who apparently miscalculated. 
  <p class="updated_time"> 08:32 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/immigration-cdc-biden.html">C.D.C. to Lift Order Restricting Immigration During the Pandemic</a> NYT: The change is to take effect in late May, according to people familiar with the planning, and should restore the right of migrants to request asylum once they cross the border into the United States. 
  <p class="updated_time"> 08:04 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/us/politics/alex-jones-sandy-hook-lawsuit.html">Testify or Pay Up, Judge Tells Alex Jones in Sandy Hook Suit</a> NYT: A Connecticut judge rejected the Infowars conspiracy theorist’s claim that he was too ill to sit for a deposition, and set a schedule of hefty fines. 
+ <a href="https://www.nytimes.com/2022/03/30/us/politics/alex-jones-sandy-hook-lawsuit.html">Alex Jones Faces Fines for Not Testifying in Sandy Hook Suit</a> NYT: A Connecticut judge rejected the Infowars conspiracy theorist’s claim that he was too ill to sit for a deposition, and set a schedule of hefty fines. 
  <p class="updated_time"> 07:31 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/dnc-clinton-campaign-fine-dossier-spending-disclosure-00021910">Federal campaign watchdog fines DNC, Clinton campaign over dossier spending disclosure</a> Politico: The conciliation agreements found “probable cause to believe” that both the campaign and national party “misreport[ed] the purpose of certain disbursements.” 
  <p class="updated_time"> 07:16 PM CT, Mar. 30 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html">Biden to Receive Second Pfizer Booster After Covid Remarks</a> NYT: It came after federal health officials cleared an additional booster dose of Pfizer-BioNTech or Moderna vaccines for people over 50 and for many of those who have compromised immune systems. 
  <p class="updated_time"> 01:09 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/biden-expected-to-use-wartime-powers-for-minerals-needed-in-clean-energy-push-00021693">Biden eyes using wartime powers for minerals needed in clean energy push</a> Politico: President Joe Biden would use the Defense Production Act to help secure U.S. sources of critical minerals that are deemed key components of clean energy technology. 
- <p class="updated_time"> 11:25 AM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089688783/trevor-reed-white-house-protest">The parents of an American detained in Russia are protesting outside the White House</a> NPR: Trevor Reed started his second hunger strike in Russian prison after being sent to solitary confinement instead of getting treatment for tuberculosis. His parents want to meet with President Biden. 
  <p class="updated_time"> 07:40 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/collins-will-vote-to-confirm-jackson-00021619">Collins will support confirming Jackson, delivering Biden bipartisan SCOTUS vote</a> Politico: The Maine senator is the first Republican to back Jackson’s confirmation. She also could be the only one, with Sen. Thom Tillis announcing his opposition Wednesday. 
  <p class="updated_time"> 04:01 AM CT, Mar. 30 </p> 
