@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:51 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/asia/imran-khan-resign-pakistan.html">Imran Khan Defiantly Refuses to Resign as Pakistan’s Leader</a> NYT: Prime Minister Khan, who faces the prospect of being removed from office by Parliament, accused the United States of mounting a conspiracy to topple his government. 
+ <p class="updated_time"> 03:44 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: As Russia Regroups Troops, Biden Taps U.S. Oil Reserves</a> NYT: Blaming Vladimir V. Putin for rising energy prices, President Biden ordered millions of oil barrels released from U.S. reserves. Russian forces are withdrawing from around Chernobyl, Ukrainian officials said, but the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. 
+ <p class="updated_time"> 03:42 PM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1090067116/ukraine-mayor-says-russian-soldiers-who-kidnapped-him-knew-nothing-about-his-cou">Ukraine mayor says Russian soldiers who kidnapped him knew nothing about his country</a> NPR: Melitopol Mayor Ivan Fedorov was held by Russian forces for five days. They told him they wanted to free his town from Nazis. "I told them in my 30 years in this town I've never seen a single Nazi." 
  <p class="updated_time"> 03:39 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067998/the-un-says-it-needs-a-record-breaking-4-4-billion-to-help-afghanistan">The UN says it needs a record-breaking $4.4 billion to help Afghanistan</a> NPR: The United Nations is seeking $4.4 billion — a record amount — to help Afghanistan. The appeal comes as countries around the world try to deal with skyrocketing prices due to the war in Ukraine. 
  <p class="updated_time"> 03:39 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067991/what-kyiv-looks-like-as-russian-troops-appear-to-reposition">What Kyiv looks like as Russian troops appear to reposition</a> NPR: The pentagon says Russian forces had done some repositioning away from Kyiv to the north. But according to NATO intelligence, Russia is maintaining pressure on the city. 
  <p class="updated_time"> 03:38 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian troops leave Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says Russian soldiers have left the former nuclear power plant. 
- <p class="updated_time"> 03:24 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: As Russia Regroups Troops, Biden Taps U.S. Oil Reserves</a> NYT: Blaming Vladimir V. Putin for rising energy prices, President Biden ordered millions of oil barrels released from U.S. reserves. Russian forces are withdrawing from around Chernobyl, Ukrainian officials said, but the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. 
  <p class="updated_time"> 03:20 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60936468?at_medium=RSS&at_campaign=KARANGA">Biden orders 'unprecedented' release of oil reserves</a> BBC: The move will add 1m barrels a day to global markets - the largest release of oil reserves in US history. 
  <p class="updated_time"> 03:19 PM CT, Mar. 31 </p> 
@@ -27,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090067935/across-ukraine-volunteers-are-helping-in-the-war-effort-in-all-sorts-of-ways">Across Ukraine, volunteers are helping in the war effort in all sorts of ways</a> NPR: At a warehouse near the frontlines in southern Ukraine, volunteers are providing food to those who've evacuated from Russian-controlled territory, making bulletproof vests and helping fix car windows. 
  <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067928/daddy-yankee-a-reggaeton-leyenda-retires">Daddy Yankee, a reggaeton 'leyenda,' retires</a> NPR: Reggaeton superstar Daddy Yankee has announced his retirement from music at the age of 45. But it's unclear whether that means he'll never perform or release music again. 
- <p class="updated_time"> 02:41 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 02:53 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup 
  <p class="updated_time"> 02:29 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089997406/ever-forward-container-ship-stuck-cheasapeake-bay">A container ship named Ever Forward has been stuck in the Chesapeake Bay for 18 days</a> NPR: The ship ran aground after it apparently missed a turn leaving Baltimore. The vessel is owned by the same company that owns the Ever Given, the ship that blocked the Suez Canal last year. 
@@ -41,19 +45,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/africa/kenya-supreme-court-constitution.html">Kenya’s Supreme Court Rejects President’s Plan to Amend Constitution</a> NYT: Civil society groups had criticized the proposal as an attempt to expand presidential power and strengthen the elite’s grip on national politics. 
  <p class="updated_time"> 01:56 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/technology/ukraine-russia-facebook-instagram.html">How War in Ukraine Roiled Facebook and Instagram</a> NYT: The rules over what war content is permitted on Facebook and Instagram keep changing, causing internal confusion. 
+ <p class="updated_time"> 01:53 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 01:51 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089660395/ukraine-is-inventing-a-new-way-to-fight-on-the-digital-battlefield">Ukraine is inventing a new way to fight on the digital battlefield</a> NPR: Time magazine's Vera Bergengruen says Ukraine's citizen IT force, led by a 31-year-old minister of digital transformation, is blunting Russian disinformation and galvanizing international support. 
  <p class="updated_time"> 01:47 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090015449/georgia-south-ossetia-region-russia">Georgia's South Ossetia region might vote on joining Russia</a> NPR: Leaders of Georgia's breakaway region of South Ossetia say they're planning a referendum to join the Russian Federation. 
  <p class="updated_time"> 01:46 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed in gunfight during Israeli West Bank raid</a> BBC: Troops entered Jenin to arrest three people suspected of involvement in a deadly attack in Israel. 
- <p class="updated_time"> 01:41 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 01:30 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them sowing mistrust and spreading misinformation. 
  <p class="updated_time"> 12:58 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60947470?at_medium=RSS&at_campaign=KARANGA">Canada's Supreme Court upholds C$9m fine on maple syrup thief</a> BBC: Nearly 3,000 tonnes of maple syrup was stolen in the so-called Great Canadian Maple Syrup Heist. 
- <p class="updated_time"> 12:41 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 12:53 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60947272?at_medium=RSS&at_campaign=KARANGA">Russian MP says Putin's plan for Ukraine hasn't been shared with their parliament</a> BBC: Maria Butina says Putin's plan wasn't shared with MPs, but the campaign is going "according to plan". 
@@ -66,17 +70,17 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:57 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-security-guarantees.html">What Does Ukraine Mean When it Asks For ‘Security Guarantees’?</a> NYT: Ukraine’s request for other countries to guarantee its future security as a condition for making concessions to Moscow is circulating among European diplomats. But analysts say such a demand faces huge obstacles. 
  <p class="updated_time"> 11:53 AM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60932864?at_medium=RSS&at_campaign=KARANGA">Pakistan's Imran Khan is fighting for his political life</a> BBC: Pakistan's prime minister faces a vote of no confidence and could be out of office within days. 
- <p class="updated_time"> 11:41 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly</a> WSJ: Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly 
+ <p class="updated_time"> 11:53 AM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60932864?at_medium=RSS&at_campaign=KARANGA">Pakistan's Imran Khan is fighting for his political life</a> BBC: Pakistan's prime minister faces a vote of no confidence and could be out of office within days. 
  <p class="updated_time"> 11:37 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60939738?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Call for Turkey murder trial to be halted</a> BBC: A Turkish prosecutor says the murder trial in Istanbul should be transferred to Saudi Arabia. 
  <p class="updated_time"> 11:20 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/nato-russia-kyiv.html">NATO Sees Little Evidence That Russian Troops Are Pulling Back From Kyiv</a> NYT: “Russia has repeatedly lied about its intentions,” NATO’s secretary general, Jens Stoltenberg said of Moscow’s pledge to pull back from Kyiv. “So we can only judge Russia on its actions, not on its words.” 
+ <p class="updated_time"> 10:53 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 10:52 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60941860?at_medium=RSS&at_campaign=KARANGA">Kenya's BBI blocked in blow to President Uhuru Kenyatta</a> BBC: Supreme Court judges say President Kenyatta acted unlawfully in his pursuit of constitutional changes. 
- <p class="updated_time"> 10:41 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 10:20 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089705434/ukraine-russia-war-mariupol-zaporizhzhia">Ukrainians navigate a perilous route to safety out of besieged Mariupol</a> NPR: "It is either die or leave. We had no other way," says one woman who arrived in Zaporizhzhia after three attempts at escape. Officials say nearly 100,000 people are still trapped in the besieged city. 
  <p class="updated_time"> 10:15 AM CT, Mar. 31 </p> 
@@ -109,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1089308679/ukraine-ukrainian-refugees-lego-zelenskyy-collectible">A toymaker raised $145,000 for Ukraine by creating a Lego-based Zelenskyy figurine</a> NPR: A custom LEGO store in a Chicago suburb has raised more than $145,000 for Ukraine relief by selling figurines of Ukrainian President Volodymyr Zelenskyy and Molotov cocktails. 
  <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089819609/fast-fashion-sustainability-european-commission">Europe has designs on making the 'fast fashion' industry more sustainable</a> NPR: Under the proposal, the European Commission would set new durability standards and require companies to include how sustainable and recyclable a clothing item is on its label. 
- <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1089294489/chester-higgins-camera-brings-a-360-degree-view-to-black-life">Chester Higgins' camera brings a 360 degree view to Black life</a> NPR: Acclaimed African-American photographer Chester Higgins has made dozens of trips to Africa since the 1970's to document the continent's history and culture. Now 75, he has no plans on slowing down. 
  <p class="updated_time"> 03:59 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60936718?at_medium=RSS&at_campaign=KARANGA">Cheng Lei: Australian journalist on trial in China for spy charge</a> BBC: A Beijing court is holding a closed-door hearing for former CGTN journalist Cheng Lei. 
  <p class="updated_time"> 03:55 AM CT, Mar. 31 </p> 
@@ -157,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60880633?at_medium=RSS&at_campaign=KARANGA">US astronaut and Russian cosmonauts return to Earth</a> BBC: They landed safely in Kazakhstan after leaving the International Space Station in a shared capsule. 
  <p class="updated_time"> 05:01 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/tunisia-president-dissolve-parliament.html">President Dissolves Tunisia’s Parliament, Deepening Political Crisis</a> NYT: President Kais Saied, who suspended Parliament last year, dismissed that body after lawmakers challenged the autocratic powers he has exercised. 
- <p class="updated_time"> 04:15 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/29/health/ba2-variant-covid-cases.html">BA.2 Accounts for Over Half of New U.S. Cases, C.D.C. Estimates</a> NYT: Scientists have been keeping an eye on BA.2, one of three genetically distinct varieties of the Omicron variant of the coronavirus. 
  <p class="updated_time"> 03:04 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html">A Vow to Ease Bombing Is Too Late for Many in Ukraine City Near Kyiv</a> NYT: Russia’s offer, if honored, will not help the thousands who have already fled Chernihiv. 
  <p class="updated_time"> 02:55 PM CT, Mar. 30 </p> 
@@ -214,14 +214,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/business/economy/biden-minerals-defense-production-act.html">Biden Invokes Cold War Statute to Boost Critical Mineral Supply</a> NYT: The action aims to enhance American production of crucial materials for electric vehicles, defense systems and other technologies. 
  <p class="updated_time"> 03:22 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/florida-voting-law.html">Judge Rules Parts of Florida Voting Law Unconstitutional</a> NYT: The ruling against a major Republican election law, issued by a federal judge in Tallahassee, is likely to be overturned either by a higher appeals court or the U.S. Supreme Court. 
  <p class="updated_time"> 03:22 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/business/energy-environment/biden-oil-strategic-petroleum-reserve.html">Biden will tap oil reserve, hoping to push gasoline prices down.</a> NYT: The administration said the president would announce a plan to release reserves of crude daily for six months. 
  <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067956/extremism-experts-worry-a-qanon-theory-is-making-into-the-mainstream-political-r">Extremism experts worry a QAnon theory is making into the mainstream political right</a> NPR: In Judge Jackson's Supreme Court confirmation hearings, some Republicans dwelled on her handling of child pornography cases. Extremism experts say a QAnon narrative may be catching on with the right. 
- <p class="updated_time"> 02:59 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/business/economy/biden-invokes-cold-war-statute-to-boost-critical-mineral-supply.html">Biden Invokes Cold War Statute to Boost Critical Mineral Supply</a> NYT: The action aims to enhance American production of crucial materials for electric vehicles, defense systems and other technologies. 
  <p class="updated_time"> 02:34 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090050341/citing-race-a-federal-judge-strikes-down-parts-of-a-2021-florida-election-law">Citing race, a federal judge strikes down parts of a 2021 Florida election law</a> NPR: The judge says the state's Republican-led government was using subtle tactics to suppress Black voters. An appeal of the ruling is expected. 
  <p class="updated_time"> 02:30 PM CT, Mar. 31 </p> 
