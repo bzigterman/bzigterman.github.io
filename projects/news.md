@@ -9,17 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:37 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Biden to Tap U.S. Oil Reserves as War Enters 6th Week</a> NYT: The price of oil, which has been surging since the war began, dropped. With shelling around Kyiv continuing, the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. 
+ <p class="updated_time"> 10:25 AM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed during Israeli raid in West Bank</a> BBC: The operation in Jenin follows a recent series of attacks in Israel that have left 11 people dead. 
+ <p class="updated_time"> 10:20 AM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1089705434/ukraine-russia-war-mariupol-zaporizhzhia">Ukrainians navigate a perilous route to safety out of besieged Mariupol</a> NPR: "It is either die or leave. We had no other way," says one woman who arrived in Zaporizhzhia after three attempts at escape. Officials say nearly 100,000 people are still trapped in the besieged city. 
  <p class="updated_time"> 10:15 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-jk-rowling.html">Why Putin name-checked J.K. Rowling</a> NYT: Putin has used scaremongering about gender and sexual orientation to support his authoritarian agenda. Right-wing politicians around the world are following the same playbook. 
- <p class="updated_time"> 10:11 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Biden Plans to Tap U.S. Oil Reserves as War Enters 6th Week</a> NYT: The price of oil, which has been surging since the war began, dropped. With shelling around Kyiv continuing, the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. 
  <p class="updated_time"> 10:00 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/us-sanctions-russia.html">U.S. Levels New Sanctions on Russian Tech Companies</a> NYT: Some of the new sanctions focus on organizations that supply or support Russia’s defense sector. 
+ <p class="updated_time"> 09:59 AM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60905547?at_medium=RSS&at_campaign=KARANGA">A Canadian indigenous delegation is in Rome to meet the Pope</a> BBC: A Canadian indigenous delegation is seeking an apology over the church's role in residential schools. 
  <p class="updated_time"> 09:58 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdelene Laundry’ Will Be Preserved as a Memorial</a> NYT: The high-walled compound in Dublin, where unmarried mothers and other unwanted women were incarcerated to work without pay in abject conditions, had been earmarked as a site for a budget hotel. 
  <p class="updated_time"> 09:52 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Most Russian troops' leaving Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says just a few soldiers are left at the former nuclear power plant. 
- <p class="updated_time"> 09:21 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 09:40 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 09:19 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukraine sends buses to Mariupol for rescue effort</a> BBC: A convoy of 45 buses is heading for the besieged city in the latest attempt to rescue trapped civilians. 
@@ -31,36 +37,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html">Putin’s Approval Ratings Soar Amid Russia’s War in Ukraine</a> NYT: Eighty-three percent of Russians said they approved of Mr. Putin’s actions, up from 69 percent in January, according to an independent pollster in Moscow. 
  <p class="updated_time"> 08:46 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/nato-russia-kyiv.html">NATO Sees Little Evidence That Russian Troops Are Pulling Back From Kyiv</a> NYT: “Russia has repeatedly lied about its intentions,” NATO’s secretary general, Jens Stoltenberg said of Moscow’s pledge to pull back from Kyiv. “So we can only judge Russia on its actions, not on its words.” 
+ <p class="updated_time"> 08:40 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 08:38 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60939738?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Call for Turkey murder trial to be halted</a> BBC: A Turkish prosecutor says the murder trial in Istanbul should be transferred to Saudi Arabia. 
  <p class="updated_time"> 08:31 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938538?at_medium=RSS&at_campaign=KARANGA">French intelligence chief Vidaud fired over Russian war failings</a> BBC: Gen Eric Vidaud loses his job as military intelligence boss for not predicting Russia's invasion. 
  <p class="updated_time"> 08:31 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/hungary-viktor-orban-election.html">In Hungary, Viktor Orban Remakes an Election to His Liking</a> NYT: The populist prime minister, a hero to many American conservatives, has changed voting rules and legalized ‘voter tourism’ as he stands for re-election 
- <p class="updated_time"> 08:21 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 08:03 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/canada/jonathan-vance-guilty-obstruction.html">Jonathan Vance Pleads Guilty to Obstruction of Justice</a> NYT: The investigation that led to charges against Jonathan Vance, a former chief of Canada’s defense staff, is one of several that have ensnared current and former Canadian military commanders. 
  <p class="updated_time"> 07:45 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/africa/kenya-supreme-court-constitution.html">Kenya’s Supreme Court Rejects President’s Plan to Amend Constitution</a> NYT: Civil society groups had criticized the proposal as an attempt to expand presidential power and strengthen the elite’s grip on national politics. 
- <p class="updated_time"> 07:21 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 07:40 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 06:57 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/myanmar-coup-prisoners.html">Myanmar Junta Holding 10,000 Political Prisoners  </a> NYT: Most are held in deplorable conditions and face certain conviction at trial. Rights groups say the Southeast Asian nation now has the worst human rights conditions in the region. 
+ <p class="updated_time"> 06:40 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 06:38 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them sowing mistrust and spreading misinformation. 
- <p class="updated_time"> 06:31 AM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed during Israeli raid in West Bank</a> BBC: The operation in Jenin follows a recent series of attacks in Israel that have left 11 people dead. 
  <p class="updated_time"> 06:25 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/kremlin-us-intelligence-putin.html">Moscow Calls US Intelligence on Putin’s Military Advice a ‘Complete Misunderstanding’</a> NYT: The Kremlin spokesman also played down the prospect of an April meeting between Presidents Vladimir V. Putin and Volodymyr Zelensky. 
- <p class="updated_time"> 06:21 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 06:02 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup</a> WSJ: After taking the city of Irpin to the northwest of Kyiv this week, Ukrainian forces are now engaged in heavy fighting in the neighboring towns of Bucha and Hostomel, officials said. 
  <p class="updated_time"> 05:40 AM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60936117?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin being misled by fearful advisers, US says</a> BBC: News on Russia's poor military performance is not making it back to Putin, the White House says. 
- <p class="updated_time"> 05:21 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
+ <p class="updated_time"> 05:40 AM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60936117?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin being misled by fearful advisers, US says</a> BBC: News on Russia's poor military performance is not making it back to Putin, the White House says. 
  <p class="updated_time"> 05:06 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: The Taliban are asserting control over nongovernmental organizations working in Afghanistan, demanding a greater say over who receives aid and the staff NGOs hire, jeopardizing lifesaving deliveries to the Afghan population. 
  <p class="updated_time"> 04:54 AM CT, Mar. 31 </p> 
@@ -151,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/30/1089774571/eee-male-dolphins-whistle-to-stay-in-touch-with-distant-ocean-pals">'Eee!' Male dolphins whistle to stay in touch with distant ocean pals</a> NPR: Dolphins are known to use physical contact like petting and rubbing to bond with their closest allies. But for more distant contacts, male dolphins bond by trading whistles instead. 
  <p class="updated_time"> 03:31 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089774564/colombia-has-approved-more-liberal-abortion-laws-sparking-backlash">Colombia has approved more liberal abortion laws, sparking backlash</a> NPR: Colombia approved some of the most liberal abortion laws in the Americas in February. The decision has provoked a backlash from anti-abortion groups. 
- <p class="updated_time"> 03:31 PM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089774557/russia-invading-ukraine-has-added-urgency-to-nato-troops-conducting-drills-in-no">Russia invading Ukraine has added urgency to NATO troops conducting drills in Norway</a> NPR: Long-planned NATO exercises in Norway are preparing troops for arctic warfare — but they are taking place just miles from the Russian border, as tensions simmer over Ukraine. 
  <p class="updated_time"> 03:04 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/29/world/europe/chernihiv-kyiv-ukraine-russia.html">A Vow to Ease Bombing Is Too Late for Many in Ukraine City Near Kyiv</a> NYT: Russia’s offer, if honored, will not help the thousands who have already fled Chernihiv. 
  <p class="updated_time"> 02:55 PM CT, Mar. 30 </p> 
@@ -220,7 +222,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:02 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 10:21 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/business/energy-environment/biden-oil-strategic-petroleum-reserve.html">Biden will tap oil reserve, hoping to push gasoline prices down.</a> NYT: The White House said the president would announce a plan to release reserves of crude daily for six months. 
  <p class="updated_time"> 10:00 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/us-sanctions-russia.html">U.S. Levels New Sanctions on Russian Tech Companies</a> NYT: Some of the new sanctions focus on organizations that supply or support Russia’s defense sector. 
@@ -248,6 +250,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1088252896/private-funding-saved-the-2020-election-now-some-gop-led-states-are-banning-it">Private funding saved the 2020 election. Now, some GOP-led states are banning it </a> NPR: One study found that the U.S. government spends as much maintaining parking facilities across the country as it does running elections. 
  <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/ruble-recovery-russia-biden-sanctions-00021850">Biden turned the ruble into rubble. Then it quickly came back.</a> Politico: Some current and former Treasury officials, foreign exchange traders and sanctions experts say the ruble's rebound doesn’t necessarily mean the West’s economic weapons are losing their punch. 
+ <p class="updated_time"> 03:52 AM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1089887254/biden-considering-to-tap-oil-reserves-to-control-gas-prices">Biden plans a major withdrawal from the country's oil reserves to control gas prices</a> NPR: The decision comes as prices have spiked since the U.S. and allies have imposed steep sanctions on Russia over its invasion of Ukraine. 
  <p class="updated_time"> 03:31 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/enthusiasm-gap-dems-00021774">‘We’ve got to stop fooling ourselves’: Enthusiasm gap keeps getting worse for Dems</a> Politico: The last time the voter enthusiasm deficit was this wide, Democrats lost more than 60 seats in the House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
@@ -324,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/30/1089630955/biden-wants-a-federal-minimum-staffing-requirement-for-nursing-homes">Biden wants a federal minimum staffing requirement for nursing homes </a> NPR: The Biden administration aims to establish minimum staffing requirements for nursing homes — part of a push to improve care for residents. Doing so amid staffing issues could prove challenging. 
  <p class="updated_time"> 04:01 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/canada-politics-conservatives-00020516">Canada’s bombshell political deal is impossible to predict – but we’ll give you a shot at figuring it out</a> Politico: How will the next three years in Canadian politics play out? You decide. 
- <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089595933/legal-ethics-experts-agree-justice-thomas-must-recuse-in-insurrection-cases">Legal ethics experts agree: Justice Thomas must recuse in insurrection cases</a> NPR: Legal ethics experts had previously said while Ginni Thomas is an outspoken conservative activist, her husband is able to act as an independent judge of matters that come before the court. 
  <p class="updated_time"> 03:45 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/house-democrats-midterms-advertising.html">A Democratic Super PAC’s Ad Buy Shows a Widening Battle for House Control</a> NYT: The Democrats’ House Majority PAC is spending nearly $102 million to reserve advertising time in 51 media markets, staking out a broad battlefield for the coming midterm elections. 
  <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
