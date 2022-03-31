@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Most Russian troops' leaving Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says just a few soldiers are left at the former nuclear power plant. 
  <p class="updated_time"> 02:33 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: As Russia Regroups Troops, Biden Taps U.S. Oil Reserves</a> NYT: Blaming Vladimir V. Putin for rising energy prices, President Biden ordered millions of oil barrels released from U.S. reserves. Russian forces are withdrawing from around Chernobyl, Ukrainian officials said, but the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. 
  <p class="updated_time"> 02:29 PM CT, Mar. 31 </p> 
@@ -30,17 +32,17 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:47 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090015449/georgia-south-ossetia-region-russia">Georgia's South Ossetia region might vote on joining Russia</a> NPR: Leaders of Georgia's breakaway region of South Ossetia say they're planning a referendum to join the Russian Federation. 
  <p class="updated_time"> 01:46 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed in gunfight during Israeli West Bank raid</a> BBC: Troops entered Jenin to arrest three people suspected of involvement in a deadly attack in Israel. 
- <p class="updated_time"> 01:35 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup 
+ <p class="updated_time"> 01:46 PM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed in gunfight during Israeli West Bank raid</a> BBC: Troops entered Jenin to arrest three people suspected of involvement in a deadly attack in Israel. 
  <p class="updated_time"> 01:30 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them sowing mistrust and spreading misinformation. 
  <p class="updated_time"> 12:58 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60947470?at_medium=RSS&at_campaign=KARANGA">Canada's Supreme Court upholds C$9m fine on maple syrup thief</a> BBC: Nearly 3,000 tonnes of maple syrup was stolen in the so-called Great Canadian Maple Syrup Heist. 
+ <p class="updated_time"> 12:46 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60947272?at_medium=RSS&at_campaign=KARANGA">Russian MP says Putin's plan for Ukraine hasn't been shared with their parliament</a> BBC: Maria Butina says Putin's plan wasn't shared with MPs, but the campaign is going "according to plan". 
- <p class="updated_time"> 12:35 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 12:24 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089958981/zelenskyy-approval-rating-us">Americans have more confidence in Zelenskyy than Biden when it comes to world affairs</a> NPR: Some 72% of Americans have confidence in the Ukrainian president's handling of world affairs, a Pew Research Center survey finds. Meanwhile, just 48% say the same about U.S. President Biden. 
  <p class="updated_time"> 12:09 PM CT, Mar. 31 </p> 
@@ -51,17 +53,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-security-guarantees.html">What Does Ukraine Mean When it Asks For ‘Security Guarantees’?</a> NYT: Ukraine’s request for other countries to guarantee its future security as a condition for making concessions to Moscow is circulating among European diplomats. But analysts say such a demand faces huge obstacles. 
  <p class="updated_time"> 11:53 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60932864?at_medium=RSS&at_campaign=KARANGA">Pakistan's Imran Khan is fighting for his political life</a> BBC: Pakistan's prime minister faces a vote of no confidence and could be out of office within days. 
- <p class="updated_time"> 11:45 AM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'Most Russian troops' leaving Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says just a few soldiers are left at the former nuclear power plant. 
+ <p class="updated_time"> 11:46 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 11:37 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60939738?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Call for Turkey murder trial to be halted</a> BBC: A Turkish prosecutor says the murder trial in Istanbul should be transferred to Saudi Arabia. 
- <p class="updated_time"> 11:35 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 11:20 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/nato-russia-kyiv.html">NATO Sees Little Evidence That Russian Troops Are Pulling Back From Kyiv</a> NYT: “Russia has repeatedly lied about its intentions,” NATO’s secretary general, Jens Stoltenberg said of Moscow’s pledge to pull back from Kyiv. “So we can only judge Russia on its actions, not on its words.” 
  <p class="updated_time"> 10:52 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60941860?at_medium=RSS&at_campaign=KARANGA">Kenya's BBI blocked in blow to President Uhuru Kenyatta</a> BBC: Supreme Court judges say President Kenyatta acted unlawfully in his pursuit of constitutional changes. 
- <p class="updated_time"> 10:35 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 10:46 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly</a> WSJ: Unreported Covid Deaths Plague a Shanghai Hospital for the Elderly 
  <p class="updated_time"> 10:20 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089705434/ukraine-russia-war-mariupol-zaporizhzhia">Ukrainians navigate a perilous route to safety out of besieged Mariupol</a> NPR: "It is either die or leave. We had no other way," says one woman who arrived in Zaporizhzhia after three attempts at escape. Officials say nearly 100,000 people are still trapped in the besieged city. 
@@ -73,7 +73,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60905547?at_medium=RSS&at_campaign=KARANGA">Meeting with Pope a 'stepping stone' towards reconciliation</a> BBC: A Canadian indigenous delegation is seeking an apology over the church's role in residential schools. 
  <p class="updated_time"> 09:58 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdelene Laundry’ Will Be Preserved as a Memorial</a> NYT: The high-walled compound in Dublin, where unmarried mothers and other unwanted women were incarcerated to work without pay in abject conditions, had been earmarked as a site for a budget hotel. 
- <p class="updated_time"> 09:35 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 09:46 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 09:13 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-war-schools.html"> Students and Teachers in Europe Grapple With the  War in Ukraine</a> NYT: As many in Europe have grappled with the shock of facing a war on their doorstep, teachers say they are facing tough questions posed about the conflict by worried children. 
@@ -214,6 +214,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:34 PM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1090050341/citing-race-a-federal-judge-strikes-down-parts-of-a-2021-florida-election-law">Citing race, a federal judge strikes down parts of a 2021 Florida election law</a> NPR: The judge says the state's Republican-led government was using subtle tactics to suppress Black voters. An appeal of the ruling is expected. 
  <p class="updated_time"> 02:30 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
  <p class="updated_time"> 02:14 PM CT, Mar. 31 </p> 
@@ -222,6 +224,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/us/politics/ginni-thomas-john-roberts-supreme-court.html">Ginni Thomas’s Texts, and the Limits of Chief Justice Roberts’s Power</a> NYT: His title notwithstanding, the chief justice cannot force a colleague’s recusal. If Justice Clarence Thomas is to disqualify himself, it will be his decision. 
  <p class="updated_time"> 02:07 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/business/energy-environment/biden-oil-strategic-petroleum-reserve.html">Biden will tap oil reserve, hoping to push gasoline prices down.</a> NYT: The administration said the president would announce a plan to release reserves of crude daily for six months. 
+ <p class="updated_time"> 02:06 PM CT, Mar. 31 </p> 
+ <a href="https://www.politico.com/news/2022/03/31/stabenow-vote-universal-free-school-meals-00022081">Senators revive school lunch debate with bill to extend universal free meals</a> Politico: The move comes after Republican leadership objected to extending the pandemic program in a recent spending bill, which has generated pushback in both red and blue states. 
  <p class="updated_time"> 01:41 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/clinton-campaign-dnc-sussmann-case-00022080">Fight with Clinton campaign and DNC looms in Sussmann case</a> Politico: Defense attorney warns of a "hornet’s nest" in special counsel John Durham's drive to access records that Democratic groups say are privileged. 
  <p class="updated_time"> 01:35 PM CT, Mar. 31 </p> 
@@ -283,8 +287,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/michigan-drama-primary-levin-stevens-00021866">Dem-on-Dem primary in Michigan spikes party's blood pressure</a> Politico: Rep. Andy Levin passed up what some of his colleagues see as a winnable race, instead challenging Rep. Haley Stevens. And a furor is resulting. 
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/governments-billions-federal-covid-cash-workers-00020237">Local governments have billions in federal Covid cash and no workers to pay</a> Politico: The public sector has gained back 53 percent of the jobs lost since February 2020. The private sector has won back 93 percent. 
- <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/biden-congress-new-iran-nuke-deal-00021853">'The president will get his way': Congress likely can't stop new Iran nuke deal</a> Politico: Election-year politics will have an impact, but likely not enough to block a new diplomatic accord with Tehran. 
  <p class="updated_time"> 09:02 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/biden-trevor-reeds-parents-white-house-00021941">Biden meets with Trevor Reed's parents at White House</a> Politico: The former Marine, who has been in a Russian prison for more than two years, was arrested in Moscow in 2019 and sentenced to nine years on assault charges. 
@@ -334,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/30/1089688783/trevor-reed-white-house-protest">The parents of an American detained in Russia are protesting outside the White House</a> NPR: Trevor Reed started his second hunger strike in Russian prison after being sent to solitary confinement instead of getting treatment for tuberculosis. His parents want to meet with President Biden. 
  <p class="updated_time"> 07:40 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/collins-will-vote-to-confirm-jackson-00021619">Collins will support confirming Jackson, delivering Biden bipartisan SCOTUS vote</a> Politico: The Maine senator is the first Republican to back Jackson’s confirmation. She also could be the only one, with Sen. Thom Tillis announcing his opposition Wednesday. 
- <p class="updated_time"> 07:26 AM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089641082/maine-republican-susan-collins-supreme-court-ketanji-brown-jackson">Maine GOP Sen. Susan Collins says she'll vote for Supreme Court nominee Jackson</a> NPR: Supreme Court nominee Ketanji Brown Jackson has picked up at least one Republican vote for confirmation. 
  <p class="updated_time"> 04:01 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/canada-politics-conservatives-00020516">Canada’s bombshell political deal is impossible to predict – but we’ll give you a shot at figuring it out</a> Politico: How will the next three years in Canadian politics play out? You decide. 
  <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
