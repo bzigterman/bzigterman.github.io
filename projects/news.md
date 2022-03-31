@@ -9,40 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:21 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses Attacks as U.S. Sees Tension in Kremlin</a> NYT: The U.S. and its allies were skeptical of Moscow’s pledge to scale back its offensive, as fighting raged on. President Biden was mulling tapping U.S. oil reserves, as American officials said Vladimir Putin had been misled by his aides. 
- <p class="updated_time"> 12:15 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 01:25 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60936117?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin being misled by fearful advisers, US says</a> BBC: News on Russia's poor military performance is not making it back to Putin, the White House says. 
+ <p class="updated_time"> 12:46 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses Attacks as U.S. Sees Tension in Kremlin</a> NYT: The U.S. and its allies were skeptical of Moscow’s pledge to scale back its offensive, as fighting raged on. President Biden was mulling tapping U.S. oil reserves, as American officials said Vladimir Putin had been misled by his aides. 
+ <p class="updated_time"> 12:32 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 12:12 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
- <p class="updated_time"> 11:38 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
+ <p class="updated_time"> 11:32 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 11:23 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60936718?at_medium=RSS&at_campaign=KARANGA">Cheng Lei: Australian journalist on trial in China for spy charge</a> BBC: A Beijing court is holding a closed-door hearing for former CGTN journalist Cheng Lei. 
  <p class="updated_time"> 11:17 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/31/1089873999/britain-withdraws-its-judges-from-hong-kongs-top-court">Britain withdraws its judges from Hong Kong's top court</a> NPR: The two British judges resigned after citing concerns about the court being as endorsing "an administration that has departed from values of political freedom, and freedom of expression." 
- <p class="updated_time"> 10:38 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
+ <p class="updated_time"> 10:32 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 10:27 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html">‘Like Living in a Horror Movie’: A Ukraine Town Dying a Slow Death</a> NYT: The war never stops in Huliaipole, a town on the front lines in eastern Ukraine. Most residents have fled. Those who remain listen to the Russian shelling and wonder: Where will the next one land? 
  <p class="updated_time"> 10:09 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
- <p class="updated_time"> 09:38 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
+ <p class="updated_time"> 09:32 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 09:05 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/hong-kong-british-judges.html">U.K. Judges Quit Top Hong Kong Court</a> NYT: They had served on the territory’s highest court, part of an arrangement to retain links to the common law world after Hong Kong returned to China. 
  <p class="updated_time"> 08:48 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60935900?at_medium=RSS&at_campaign=KARANGA">Will Smith refused to leave Oscars after slap, Academy says</a> BBC: The body also says it has initiated "disciplinary proceedings" against Smith for hitting Chris Rock. 
- <p class="updated_time"> 08:38 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 08:33 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/ukraine-spirit-of-america-aid.html">After Russia Invaded Ukraine, a U.S. Nonprofit Shifted Its Mission</a> NYT: Spirit of America was focused on helping counter Russian propaganda but now is sending helmets, Kevlar vests, radios and vehicles to Ukraine. 
+ <p class="updated_time"> 08:32 PM CT, Mar. 30 </p> 
+ <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 08:18 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/imran-khan-pakistan-vote.html">Opposition Gets Key Vote to Oust Imran Khan</a> NYT: Without the support of Muttahida Qaumi Movement-Pakistan, the country’s prime minister will lose the simple majority needed to survive Parliament’s no-confidence vote. 
  <p class="updated_time"> 07:48 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
- <p class="updated_time"> 07:38 PM CT, Mar. 30 </p> 
- <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 07:04 PM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60922947?at_medium=RSS&at_campaign=KARANGA">Comedians on when a joke goes wrong - and that Oscars slap</a> BBC: The BBC spoke with comedians around the world about what it's like when a gag lands really, really badly. 
  <p class="updated_time"> 07:03 PM CT, Mar. 30 </p> 
@@ -219,7 +219,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:32 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/immigration-cdc-biden.html">C.D.C. to Lift Order Restricting Immigration During the Pandemic</a> NYT: The change is to take effect in late May, according to people familiar with the planning, and should restore the right of migrants to request asylum once they cross the border into the United States. 
  <p class="updated_time"> 08:23 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/us/politics/justice-dept-widens-jan-6-inquiry.html">Justice Dept. Widens Jan. 6 Inquiry to Range of Pro-Trump Figures</a> NYT: Federal prosecutors have been seeking documents and testimony about the fake electors scheme and the planning for the rally just before the storming of the Capitol. 
+ <a href="https://www.nytimes.com/2022/03/30/us/politics/justice-dept-widens-jan-6-inquiry.html">Justice Dept. Widens Jan. 6 Inquiry to More Pro-Trump Figures</a> NYT: Federal prosecutors have been seeking documents and testimony about the fake electors scheme and the planning for the rally just before the storming of the Capitol. 
  <p class="updated_time"> 08:04 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/alex-jones-sandy-hook-lawsuit.html">Alex Jones Faces Fines for Not Testifying in Sandy Hook Suit</a> NYT: A Connecticut judge rejected the Infowars conspiracy theorist’s claim that he was too ill to sit for a deposition, and set a schedule of hefty fines. 
  <p class="updated_time"> 08:01 PM CT, Mar. 30 </p> 
@@ -231,11 +231,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:13 PM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089809421/arizona-republicans-enact-a-controversial-new-proof-of-citizenship-voting-law">Arizona Republicans enact a controversial new proof-of-citizenship voting law</a> NPR: Critics warn that the measure will jeopardize the voter registrations of thousands of the state's residents. 
  <p class="updated_time"> 06:10 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/us/politics/madison-cawthorn-congress.html">House Republicans Tire of Madison Cawthorn’s Antics. Some in His District Have, Too.</a> NYT: For Mr. Cawthorn, a pro-Trump North Carolina congressman,  youthful brashness that helped him win his seat now strikes some voters as recklessness. 
+ <a href="https://www.nytimes.com/2022/03/30/us/politics/madison-cawthorn-congress.html">Cawthorn Draws Criticism From Republicans Over Cocaine and Orgies Comments</a> NYT: For Mr. Cawthorn, a pro-Trump North Carolina congressman,  youthful brashness that helped him win his seat now strikes some voters as recklessness. 
  <p class="updated_time"> 06:03 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/ketanji-brown-jackson-susan-collins.html">Collins to Back Jackson for Supreme Court, Giving Her a G.O.P. Vote</a> NYT: Senator Susan Collins, a centrist from Maine, said a second meeting with Judge Ketanji Brown Jackson alleviated her concerns. It is unclear if other Republicans will join her. 
  <p class="updated_time"> 05:55 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/us/politics/hillary-clinton-democrats-campaign-spending.html">Democrats Agree to Pay $113,000 to Settle Campaign Spending Inquiry</a> NYT: Hillary Clinton’s campaign and the Democratic Party described payments to a law firm that commissioned scrutiny of Trump-Russia ties — leading to the Steele dossier — as legal services, not opposition research. 
+ <a href="https://www.nytimes.com/2022/03/30/us/politics/hillary-clinton-democrats-campaign-spending.html">Democrats Agree to Pay $113,000 Over Campaign Spending Inquiry</a> NYT: Hillary Clinton’s campaign and the Democratic Party described payments to a law firm that commissioned scrutiny of Trump-Russia ties — leading to the Steele dossier — as legal services, not opposition research. 
  <p class="updated_time"> 05:14 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/pence-jan-6-legal-showdown-00021864">Inside Pence-world's preparation for a Jan. 6 legal showdown</a> Politico: The former vice president asked his top lawyer to draft a memo — first obtained by POLITICO — a month before the Jan. 6 Capitol attack that laid out the history of counting electoral votes. 
  <p class="updated_time"> 04:49 PM CT, Mar. 30 </p> 
@@ -322,6 +322,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/29/1089290488/as-medication-abortion-becomes-dominant-red-states-restrict-pills">As medication abortion becomes dominant, red states restrict pills</a> NPR: As access to abortion in clinics becomes limited across much of the country, many patients are turning to abortion pills. And conservative state lawmakers are taking notice. 
  <p class="updated_time"> 04:56 PM CT, Mar. 29 </p> 
  <a href="https://www.nytimes.com/2022/03/29/us/politics/don-young-alaska.html">Don Young of Alaska, the House Dean, Leaves an Earmark Legacy</a> NYT: The Alaska Republican lay in state on Tuesday in the Capitol, where he was renowned for his virtuosity with earmarking federal money for his state. 
+ <p class="updated_time"> 04:06 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/us/politics/supreme-court-congress-states-military.html">Supreme Court, in Case on Veteran Hurt by Burn Pits, Debates War Powers</a> NYT: The justices seemed split on whether Congress can allow suits against states that discriminate against injured service members returning from conflicts. 
  <p class="updated_time"> 03:56 PM CT, Mar. 29 </p> 
  <a href="https://www.npr.org/2022/03/29/1089491460/russia-ukraine-war-what-happened-today-march-29">Russia-Ukraine war: What happened today (March 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:36 PM CT, Mar. 29 </p> 
@@ -330,6 +332,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/29/1089533748/president-biden-has-signed-a-bill-that-makes-lynching-a-federal-hate-crime">President Biden has signed a bill that makes lynching a federal hate crime</a> NPR: Lynching is now a federal crime. A bill signed by President Biden formally defines lynching — for the first time in federal law — as hate-motivated violence. 
  <p class="updated_time"> 02:31 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/putin-biden-russia-ukraine-deescalation-00021395">Putin on the fritz? U.S. not buying Russia's deescalation talk.</a> Politico: ‘The Russians really f---ed this up,’ one official said as the U.S. takes assessment of the latest turn in the Ukraine conflict. 
+ <p class="updated_time"> 02:08 PM CT, Mar. 29 </p> 
+ <a href="https://www.nytimes.com/2022/03/29/us/politics/desantis-redistricting-midterm-elections.html">G.O.P. Presses for Greater Edge on Florida and Ohio Congressional Maps</a> NYT: In Florida, Gov. Ron DeSantis vetoed a map drawn by his fellow Republicans in the Legislature. In Ohio, Republicans closed in on a G.O.P.-friendly map for the midterm elections. 
  <p class="updated_time"> 01:22 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/senators-foia-woes-00021324">'There is a big problem': Senators unite to slam FOIA compliance</a> Politico: The premier transparency law is hobbled by backlogs and mountains of electronic data, lawmakers are told. 
  <p class="updated_time"> 01:11 PM CT, Mar. 29 </p> 
