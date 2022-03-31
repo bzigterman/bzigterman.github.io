@@ -9,28 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:35 AM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Toll on Civilians and Global Economy Grows as War Enters 6th Week</a> NYT: With fighting raging on, the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. President Biden was mulling tapping U.S. oil reserves, and American officials said President Vladimir Putin of Russia had been misled by his aides. 
  <p class="updated_time"> 06:00 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/hungary-viktor-orban-election.html">In Hungary, Viktor Orban Remakes an Election to His Liking</a> NYT: The populist prime minister, a hero to many American conservatives, has changed voting rules and legalized ‘voter tourism’ as he stands for re-election 
- <p class="updated_time"> 06:00 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Toll on Civilians and Global Economy Grows as War Enters 6th Week</a> NYT: With fighting raging on, the U.S. and its allies remained skeptical of Moscow’s pledge to scale back its offensive. President Biden was mulling tapping U.S. oil reserves, and American officials said President Vladimir Putin of Russia had been misled by his aides. 
  <p class="updated_time"> 05:49 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Ukraine sends buses to Mariupol for rescue effort</a> BBC: A convoy of 45 buses is heading for the besieged city in the latest attempt to rescue trapped civilians. 
  <p class="updated_time"> 05:40 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60936117?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin being misled by fearful advisers, US says</a> BBC: News on Russia's poor military performance is not making it back to Putin, the White House says. 
- <p class="updated_time"> 05:06 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 05:38 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/russian-assault-on-kyiv-eases-as-missile-strikes-ground-attacks-continue-around-ukraine-11648634073">Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine</a> WSJ: Russia Plays Down Peace-Talks Progress, Intensifies Attacks in Eastern Ukraine 
  <p class="updated_time"> 04:54 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/north-korea-icbm-fake.html">Was North Korea’s New ICBM Test Faked? Not Entirely.</a> NYT: South Korea says Kim Jong-un disguised an older missile as a new one to exaggerate his country’s weapons achievements when he badly needs political leverage. 
  <p class="updated_time"> 04:42 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938538?at_medium=RSS&at_campaign=KARANGA">French intelligence chief Vidaud fired over Russian war failings</a> BBC: Gen Eric Vidaud loses his job as military intelligence boss for not predicting Russia's invasion. 
+ <p class="updated_time"> 04:38 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 04:33 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them sowing mistrust and spreading misinformation. 
  <p class="updated_time"> 04:19 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089888947/china-holds-espionage-trial-of-chinese-australian-journalist">China holds espionage trial of Chinese Australian journalist</a> NPR: China has not provided any specifics about what offenses Cheng Lei is accused of committing, who has been held for 19 months on suspicion of relaying state secrets abroad. 
  <p class="updated_time"> 04:11 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60939738?at_medium=RSS&at_campaign=KARANGA">Jamal Khashoggi: Call for Turkey murder trial to be halted</a> BBC: A Turkish prosecutor says the murder trial in Istanbul should be transferred to Saudi Arabia. 
- <p class="updated_time"> 04:06 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/u-s-ukraine-russia-sanctions-oligarch-exemptions-11648655430">The U.S. Sanctions a Russian Oligarch—but Exempts His Companies</a> WSJ: The U.S. Sanctions a Russian Oligarch—but Exempts His Companies 
  <p class="updated_time"> 04:01 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089308679/ukraine-ukrainian-refugees-lego-zelenskyy-collectible">This toy maker wanted to help Ukrainian refugees. The response stunned him</a> NPR: A custom LEGO store in a Chicago suburb has raised more than $145,000 for Ukraine relief by selling figurines of Ukrainian President Volodymyr Zelenskyy and Molotov cocktails. 
  <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
@@ -47,17 +47,17 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60939316?at_medium=RSS&at_campaign=KARANGA">Will Smith: Chris Rock's first comments since Oscars slap</a> BBC: The comedian says he is "still processing what happened" and denies reports he has spoken to Smith. 
  <p class="updated_time"> 03:38 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/china-cheng-lei-australia.html">Australian Journalist Who Worked for Chinese Media Stands Trial in Beijing</a> NYT: Cheng Lei, a former CGTN host, was detained in 2020. The Chinese authorities have accused her of divulging state secrets but offered no specifics. 
+ <p class="updated_time"> 03:38 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 03:33 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089884798/united-nations-conflict-covid-19-ukraine-myanmar-sudan-syria-yemen">World is seeing the greatest number of conflicts since the end of WWII, U.N. says</a> NPR: Guterres said the world is grappling with the most conflict since 1945, and proposed a New Agenda for Peace to bring stability to places such as Yemen, Myanmar, Syria, Sudan and Ukraine. 
- <p class="updated_time"> 03:06 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/four-million-refugees-have-now-fled-ukraine-says-u-n-11648634931">Four Million Refugees Have Now Fled Ukraine, Says U.N.</a> WSJ: Four Million Refugees Have Now Fled Ukraine, Says U.N. 
  <p class="updated_time"> 02:44 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/india-ukraine-russia-china.html">Putin’s War Is Complicating India’s Middle Path Among Powers</a> NYT: India has been reluctant to criticize Russia, long an important ally. But China’s rise, and its closeness to Vladimir Putin, is creating new pressure. 
+ <p class="updated_time"> 02:38 AM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
  <p class="updated_time"> 02:26 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html">In Hong Kong, China’s Covid Aid Gets the Cold Shoulder</a> NYT: Disputes about medics, squat toilets and diaper-changing duties underscore longstanding tensions between residents of Hong Kong and the mainland. 
- <p class="updated_time"> 02:06 AM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/pakistan-opposition-says-it-has-enough-support-to-oust-prime-minister-imran-khan-11648656578">Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan</a> WSJ: Pakistan Opposition Says It Has Enough Support to Oust Prime Minister Imran Khan 
- <p class="updated_time"> 01:06 AM CT, Mar. 31 </p> 
+ <p class="updated_time"> 01:38 AM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/israel-boosts-security-amid-deadly-wave-of-terrorist-attacks-11648655501">Israel Boosts Security Amid Deadly Wave of Terrorist Attacks</a> WSJ: Israel Boosts Security Amid Deadly Wave of Terrorist Attacks 
  <p class="updated_time"> 12:12 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:18 AM CT, Mar. 31 </p> 
+ <a href="https://www.npr.org/2022/03/31/1089885229/putin-was-misled-about-early-failures-in-ukraine-reports-indicates">Putin was misled about early failures in Ukraine, reports indicates</a> NPR: Democratic Sen. Bob Casey of Pennsylvania was part of a classified intelligence briefing about Russia's invasion of Ukraine. He talks to NPR's Steve Inskeep about the latest developments in the war. 
  <p class="updated_time"> 05:47 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/state-department-will-offer-x-gender-marker-for-u-s-passports-00021965">State Department will offer ‘X’ gender marker for U.S. passports</a> Politico: The State Department announced last June that it would begin allowing U.S. passport applicants to self-select their gender. 
  <p class="updated_time"> 04:25 AM CT, Mar. 31 </p> 
@@ -227,7 +229,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/business/economy/inflation-rising-wages.html">High Inflation Could Persist as Wages Continue to Rise</a> NYT: Economists hoped that as households shifted spending back to services, price gains would cool. That effect might be less pronounced now. 
  <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/ruble-recovery-russia-biden-sanctions-00021850">Ruble's rebound cranks up pressure for more Russia sanctions</a> Politico: Some current and former Treasury officials, foreign exchange traders and sanctions experts say the ruble's rebound doesn’t necessarily mean the West’s economic weapons are losing their punch. 
+ <a href="https://www.politico.com/news/2022/03/31/ruble-recovery-russia-biden-sanctions-00021850">Biden turned the ruble into rubble. Then it quickly came back.</a> Politico: Some current and former Treasury officials, foreign exchange traders and sanctions experts say the ruble's rebound doesn’t necessarily mean the West’s economic weapons are losing their punch. 
  <p class="updated_time"> 03:31 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/enthusiasm-gap-dems-00021774">‘We’ve got to stop fooling ourselves’: Enthusiasm gap keeps getting worse for Dems</a> Politico: The last time the voter enthusiasm deficit was this wide, Democrats lost more than 60 seats in the House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
@@ -294,12 +296,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/us/politics/biden-second-booster-covid.html">Biden to Receive Second Pfizer Booster After Covid Remarks</a> NYT: It came after federal health officials cleared an additional booster dose of Pfizer-BioNTech or Moderna vaccines for people over 50 and for many of those who have compromised immune systems. 
  <p class="updated_time"> 01:09 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/biden-expected-to-use-wartime-powers-for-minerals-needed-in-clean-energy-push-00021693">Biden eyes using wartime powers for minerals needed in clean energy push</a> Politico: President Joe Biden would use the Defense Production Act to help secure U.S. sources of critical minerals that are deemed key components of clean energy technology. 
- <p class="updated_time"> 12:15 PM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/biden-additional-aid-ukraine-zelenskyy-00021700">U.S. to send Ukraine additional $500M, Biden tells Zelenskyy</a> Politico: Biden most recently announced $1 billion in humanitarian assistance when he traveled to Europe last week. 
  <p class="updated_time"> 11:25 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089688783/trevor-reed-white-house-protest">The parents of an American detained in Russia are protesting outside the White House</a> NPR: Trevor Reed started his second hunger strike in Russian prison after being sent to solitary confinement instead of getting treatment for tuberculosis. His parents want to meet with President Biden. 
- <p class="updated_time"> 10:50 AM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/biden-receive-second-covid-booster-00021667">Biden receives 2nd Covid vaccine booster</a> Politico: The president delivered a speech announcing a new federal website, Covid.org 
  <p class="updated_time"> 07:40 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/collins-will-vote-to-confirm-jackson-00021619">Collins will support confirming Jackson, delivering Biden bipartisan SCOTUS vote</a> Politico: The Maine senator is the first Republican to back Jackson’s confirmation. She also could be the only one, with Sen. Thom Tillis announcing his opposition Wednesday. 
  <p class="updated_time"> 07:26 AM CT, Mar. 30 </p> 
@@ -314,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/30/canada-politics-conservatives-00020516">Canada’s bombshell political deal is impossible to predict – but we’ll give you a shot at figuring it out</a> Politico: How will the next three years in Canadian politics play out? You decide. 
  <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
  <a href="https://www.npr.org/2022/03/30/1089595933/legal-ethics-experts-agree-justice-thomas-must-recuse-in-insurrection-cases">Legal ethics experts agree: Justice Thomas must recuse in insurrection cases</a> NPR: Legal ethics experts had previously said while Ginni Thomas is an outspoken conservative activist, her husband is able to act as an independent judge of matters that come before the court. 
- <p class="updated_time"> 04:00 AM CT, Mar. 30 </p> 
- <a href="https://www.npr.org/2022/03/30/1089462508/teachers-fear-the-chilling-effect-of-floridas-so-called-dont-say-gay-law">Teachers fear the chilling effect of Florida's so-called 'Don't Say Gay' law</a> NPR: Now that Gov. Ron DeSantis has signed the Parental Rights in Education bill into law, teachers fear it will muzzle speech and further stigmatize LGBTQ youth. 
  <p class="updated_time"> 03:45 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/us/politics/house-democrats-midterms-advertising.html">A Democratic Super PAC’s Ad Buy Shows a Widening Battle for House Control</a> NYT: The Democrats’ House Majority PAC is spending nearly $102 million to reserve advertising time in 51 media markets, staking out a broad battlefield for the coming midterm elections. 
  <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
@@ -334,6 +330,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/29/us/politics/trump-jan-6-eastman.html">Ruling Declaring Trump ‘Likely’ Broke Laws May Not Mean He’ll Be Prosecuted</a> NYT: A high-profile ruling about a subpoena from the House committee investigating the Jan. 6 attack turned on a lower standard of proof than a criminal trial. 
  <p class="updated_time"> 06:32 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/cawthorn-orgies-freedom-caucus-00021548">Cawthorn’s orgies-and-drugs comment stirs trouble within Freedom Caucus</a> Politico: The ultra-conservative group’s chair says he also wants to speak with the North Carolina Republican about his salacious claims concerning his colleagues. 
+ <p class="updated_time"> 06:08 PM CT, Mar. 29 </p> 
+ <a href="https://www.politico.com/news/2022/03/29/republicans-debates-midterm-00018253">Debate-dodging takes off in midterm campaigns</a> Politico: The traditional candidate debate might be on its last legs. 
  <p class="updated_time"> 05:41 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/jan-6-panel-mo-brooks-00021484">The Jan. 6 panel had cooled focus on GOP lawmakers. Then Brooks happened.</a> Politico: Rep. Mo Brooks said he would "take that under advisement" if House investigators called on him to testify about his new allegations against former President Donald Trump. 
  <p class="updated_time"> 05:30 PM CT, Mar. 29 </p> 
