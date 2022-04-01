@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:24 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 02:56 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: 3,000 Civilians Leave Mariupol, but Red Cross Evacuation Convoy is Postponed</a> NYT: A bus convoy left Mariupol, but a Red Cross team could not reach city, bombarded by Russian forces, to aid a larger evacuation. Ukrainian helicopters carried out the first airstrike on Russian territory since the war began. 
+ <p class="updated_time"> 02:44 PM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
+ <p class="updated_time"> 02:36 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
  <p class="updated_time"> 02:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/mariupol-evacuation-failed.html">Evacuation of Mariupol Falters as Red Cross Team Is Turned Back</a> NYT: At least one group of private vehicles left the battered city, but a larger effort failed when unsafe conditions prevented a Red Cross team from reaching the city to escort an evacuation convoy. 
+ <p class="updated_time"> 01:59 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/russia-uranium-nuclear-power.html">Russia’s Aggression Prompts Calls to Rethink U.S. Uranium Imports</a> NYT: The war in Ukraine has highlighted the risks of U.S. dependence on Russia for the fuel needed for nuclear energy, creating new challenges for the industry. 
- <p class="updated_time"> 01:49 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
  <p class="updated_time"> 01:38 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60944677?at_medium=RSS&at_campaign=KARANGA">Amazon workers win battle to form first US union</a> BBC: The Amazon Labor Union won a contest to establish the first unionised Amazon warehouse in the US. 
- <p class="updated_time"> 01:35 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 01:30 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/yemen-truce.html">U.N. Says Yemen’s Warring Parties Have Agreed to 2-Month Truce</a> NYT: The agreement comes after a significant escalation in recent weeks that saw Yemen’s Iran-backed Houthi rebels claim several attacks. 
  <p class="updated_time"> 01:23 PM CT, Apr. 01 </p> 
@@ -29,22 +31,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/europe/eu-europe-china-summit-ukraine-russia-trade.html">Europe Asks China Not to Aid Russia’s War in Ukraine</a> NYT: A first E.U.-China summit in two years was overshadowed by Ukraine and China’s alliance with Moscow and produced few results. 
  <p class="updated_time"> 01:00 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/wildfire-extreme-rain-mudslides.html">Fires, Then Floods: Risk of Deadly Climate Combination Rises</a> NYT: A new study found that the dangerous pairing of disasters may become more common in the American West as rains trigger runaway surges of mud and debris in areas damaged by wildfire. 
+ <p class="updated_time"> 12:59 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 12:55 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/khashoggi-murder-trial-turkey-saudi.html">Turkey Moves Closer to Ending Khashoggi Murder Trial Without Conclusion</a> NYT: Turkey’s justice minister said he would agree to transfer the trial to Saudi Arabia, effectively ending a case that rights groups hoped could offer a measure of justice. 
- <p class="updated_time"> 12:35 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 12:26 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/africa/food-crisis-africa-drought-ukraine.html">War in Ukraine Compounds Hunger in East Africa</a> NYT: The conflict has driven up the cost of food in a region that depends heavily on crops from Russia and Ukraine and is facing what could be its worst drought in four decades. 
  <p class="updated_time"> 12:18 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090279187/russia-wikipedia-fine">Russia threatens to fine Wikipedia if it doesn't remove some details about the war</a> NPR: Russia's communications regulator says it will fine Wikipedia up to $47,000 for not complying with requests to take down information. It has made similar warnings to Google about YouTube videos. 
  <p class="updated_time"> 12:08 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090270567/chernobyl-russia-radiation">'Russian mutants lost this round,' Ukraine says after troops leave Chernobyl</a> NPR: Ukraine's defense ministry cited two reasons for the Russian exit: military losses and radiation exposure. They likely disturbed polluted soil in the Chernobyl zone's contaminated Red Forest. 
- <p class="updated_time"> 11:54 AM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
+ <p class="updated_time"> 11:59 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 11:51 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/russia-putin-support-ukraine.html">Shaken at First, Many Russians Now Rally Behind Putin’s Invasion</a> NYT: Polls and interviews show many Russians now accept the Kremlin’s assertion that their country is under siege from the West. Opponents are leaving the country or keeping quiet. 
- <p class="updated_time"> 11:35 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 11:15 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090253301/zelenskyy-generals-traitors-ukraine">Zelenskyy calls 2 Ukrainian generals traitorous and strips them of their rank</a> NPR: Zelenskyy did not elaborate on what prompted the removal of the intelligence officers, one of whom has ties to the fallen Ukrainian city of Kherson. But he vowed traitors would "all be punished." 
  <p class="updated_time"> 11:10 AM CT, Apr. 01 </p> 
@@ -53,13 +53,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/europe/dyatlov-pass-avalanche-russia.html">Researchers Find Another Clue in the Dyatlov Pass Mystery</a> NYT: The mystery of nine hikers who died in Russia has baffled people for more than 60 years. The authors of a recent paper think they’ve found another clue. 
  <p class="updated_time"> 10:59 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-war-schools.html"> Students and Teachers in Europe Grapple With the  War in Ukraine</a> NYT: As many in Europe have grappled with the shock of facing a war on their doorstep, teachers say they are facing tough questions posed about the conflict by worried children. 
+ <p class="updated_time"> 10:59 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/economic-crisis-is-prize-for-winner-of-pakistan-power-struggle-11648819275">Economic Crisis Is Prize for Winner of Pakistan Power Struggle</a> WSJ: Economic Crisis Is Prize for Winner of Pakistan Power Struggle 
  <p class="updated_time"> 10:45 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/scientist-patient-progeria.html">Living With Gusto Despite a Rare, Fatal Disease, and Hunting for Answers</a> NYT: At 26, Sammy Basso is believed to be the oldest person with the disease Progeria. And now he’s researching it, hoping to find a treatment and the secrets of aging. 
  <p class="updated_time"> 10:42 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
- <p class="updated_time"> 10:35 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/economic-crisis-is-prize-for-winner-of-pakistan-power-struggle-11648819275">Economic Crisis Is Prize for Winner of Pakistan Power Struggle</a> WSJ: Economic Crisis Is Prize for Winner of Pakistan Power Struggle 
- <p class="updated_time"> 09:35 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 10:08 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: At least two major elderly-care facilities in Shanghai are battling Covid outbreaks, highlighting the threat posed to the city’s large senior population from a wave of infections from the Omicron variant. 
+ <p class="updated_time"> 09:59 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/american-aid-worker-released-after-lengthy-detention-by-taliban-11648826979">American Aid Worker Released After Lengthy Detention by Taliban</a> WSJ: American Aid Worker Released After Lengthy Detention by Taliban 
  <p class="updated_time"> 09:32 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090213962/pope-francis-apology-indigenous-people-canada">The pope apologizes for abuse of Indigenous children in Canada's residential schools</a> NPR: Pope Francis met with Indigenous leaders and survivors of Canada's residential schools this week. He had expressed sorrow in the past on behalf of the church, but this is the first formal apology. 
@@ -206,14 +208,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:44 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-wages.html">Rising Wages Are Good News for Workers but Keep Pressure on the Fed</a> NYT: Federal Reserve officials have said the pace of pay gains, if they continue, would not be consistent with stable inflation. 
+ <p class="updated_time"> 02:38 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html">House Committee Investigating Amazon Labor Practices</a> NYT: A tornado that hit a delivery station in Illinois last year will be a focus of the inquiry. 
  <p class="updated_time"> 02:03 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/business/media/jen-psaki-msnbc.html">Jen Psaki Is Said to Be in Talks to Join MSNBC</a> NYT: Ms. Psaki joined President Biden’s administration as his first press secretary. 
  <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/russia-uranium-nuclear-power.html">Russia’s Aggression Prompts Calls to Rethink U.S. Uranium Imports</a> NYT: The war in Ukraine has highlighted the risks of U.S. dependence on Russia for the fuel needed for nuclear energy, creating new challenges for the industry. 
  <p class="updated_time"> 01:48 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/congress-earmarks.html">As Earmarks Return to Congress, Lawmakers Rush to Steer Money Home</a> NYT: Democrats and Republicans alike stuffed nearly 5,000 earmarks totaling $9 billion into the $1.5 trillion government spending bill signed by President Biden. 
- <p class="updated_time"> 01:31 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-wages.html">Rising Wages Are Good News for Workers but Keep Pressure on the Fed</a> NYT: Federal Reserve officials have said that the pace of pay gains, if they continue, would not be consistent with stable inflation. 
  <p class="updated_time"> 01:06 PM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/news/2022/04/01/florida-man-gets-18-months-in-prison-for-threats-to-pelosi-aoc-00022374">Florida man gets 18 months in prison for threats to Pelosi, AOC</a> Politico: Paul Hoeffer, 60, pleaded guilty to crude and racist threats to decapitate lawmakers and Illinois prosecutor 
  <p class="updated_time"> 01:05 PM CT, Apr. 01 </p> 
@@ -231,15 +235,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:32 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/news/2022/04/01/amazon-workers-staten-island-unionizing-00022306">Amazon workers on Staten Island form company's first union in stunning upset</a> Politico: The company says it is "disappointed" in outcome and may challenge the results. 
  <p class="updated_time"> 11:16 AM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/news/2022/04/01/psaki-will-likely-leave-white-house-in-a-few-weeks-for-new-job-at-msnbc-00022327">Psaki likely leaving White House soon for new job at MSNBC</a> Politico: Psaki has already stuck with the job past the one-year timeline she had planned on. 
+ <a href="https://www.politico.com/news/2022/04/01/psaki-will-likely-leave-white-house-in-a-few-weeks-for-new-job-at-msnbc-00022327">Psaki likely leaving White House soon for new job at MSNBC</a> Politico: The White House press secretary has already stuck with the job past the one-year timeline she had planned on. 
  <p class="updated_time"> 11:16 AM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1090241588/jen-psaki-leaving-the-white-house-for-msnbc-this-spring">Jen Psaki leaving the White House for MSNBC this spring</a> NPR: The White House press secretary is expected to serve as a pundit and host a show on the network's streaming platform. She's the second Biden administration official jumping to MSNBC recently. 
+ <a href="https://www.npr.org/2022/04/01/1090241588/jen-psaki-leaving-the-white-house-for-msnbc-this-spring">Jen Psaki leaving the White House for MSNBC this spring</a> NPR: The Biden press secretary will serve as a pundit and host a show on the network's streaming platform. She's the second administration official joining MSNBC and faced ethics questions from reporters. 
  <p class="updated_time"> 10:42 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
  <p class="updated_time"> 10:04 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/science/elephant-trophies-hunting.html">U.S. Allows Hunters to Import Some Elephant Trophies From African Countries</a> NYT: After settling a lawsuit filed during the Trump administration, the Fish and Wildlife Service granted six permits to bring elephant parts into the country. It may approve more in the coming months. 
- <p class="updated_time"> 08:36 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html">House Committee Investigating Amazon Labor Practices</a> NYT: A tornado that hit a delivery station in Illinois last year will be a focus of the inquiry. 
  <p class="updated_time"> 08:18 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-full-employment.html">Unemployment Nears Prepandemic Level</a> NYT: Federal Reserve officials are tasked with fostering “full employment.” At least for now, some see the labor market as uncomfortably tight. 
  <p class="updated_time"> 08:02 AM CT, Apr. 01 </p> 
@@ -268,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/01/global-vaccination-strategy-shift-00022189">‘Recognition of failure’: A shift urged in global vaccination strategy</a> Politico: Health organizations again seek to prioritize at-risk populations for Covid shots. 
  <p class="updated_time"> 03:30 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/gallery/2022/04/01/the-nations-cartoonists-on-the-week-in-politics-00022190">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 11:11 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
  <p class="updated_time"> 11:09 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/04/01/writer-named-in-sh-ty-media-men-list-wins-round-in-court-00022258">Writer named in controversial ‘media men’ list wins round in court</a> Politico: District court judge concludes that Section 230 of the Communications Decency Act could not be used to block the suit. 
  <p class="updated_time"> 10:13 PM CT, Mar. 31 </p> 
