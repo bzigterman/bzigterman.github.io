@@ -9,30 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:53 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 07:30 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: Evacuations Begin in Besieged City of Mariupol, Official Says</a> NYT: The mayor’s office said buses had left the city, which has been surrounded by Russian forces for weeks. Two Ukrainian helicopters crossed into Russian territory and fired on an oil depot, the first time Russia has reported a Ukrainian airstrike on its territory since the war began. 
+ <p class="updated_time"> 07:30 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/europe/chernobyl-radiation-poisoning.html">Nuclear Agency Looks Into Reports of Radiation Poisoning at Chernobyl</a> NYT: Russian soldiers left the decommissioned nuclear plant and a nearby city after five weeks of occupation. 
+ <p class="updated_time"> 07:11 AM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1090201964/qatar-world-cup-draw">Qatar hosts Friday's draw for the Middle East's 1st World Cup</a> NPR: The day began with a protest outside FIFA headquarters in Zurich drawing attention to the conditions of migrant workers in Qatar who worked on the World Cup infrastructure. 
  <p class="updated_time"> 06:44 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
+ <p class="updated_time"> 06:38 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Russian Oil Depot, Russians Say</a> WSJ: Ukraine Strikes Russian Oil Depot, Russians Say 
  <p class="updated_time"> 06:29 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/asia/new-zealand-parliament-weed.html">New Zealand Protesters Seeded Marijuana Plants on Parliament Grounds</a> NYT: New Zealand officials say anti-vaccination protesters seeded cannabis during a three-week occupation. 
  <p class="updated_time"> 06:19 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952358?at_medium=RSS&at_campaign=KARANGA">Bruce Willis: Razzies cancel 'worst performance' award over health issues</a> BBC: Razzie organisers said it was "not appropriate" after the announcement about actor's health issues. 
  <p class="updated_time"> 06:18 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
- <p class="updated_time"> 05:56 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Russian Military Depot, Russians Say</a> WSJ: Ukraine Strikes Russian Military Depot, Russians Say 
  <p class="updated_time"> 05:48 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60954565?at_medium=RSS&at_campaign=KARANGA">Gerard Depardieu: Kremlin responds to actor's Putin criticism</a> BBC: The French-born actor had accused the Russian president of "crazy, unacceptable excesses" in Ukraine. 
+ <p class="updated_time"> 05:38 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-manufacturing-activity-shrinks-as-sanctions-over-ukraine-bite-11648803837">Russia’s Manufacturing Activity Shrinks as Sanctions Bite</a> WSJ: Russia’s Manufacturing Activity Shrinks as Sanctions Bite 
  <p class="updated_time"> 05:14 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
- <p class="updated_time"> 04:56 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-manufacturing-activity-shrinks-as-sanctions-over-ukraine-bite-11648803837">Russia’s Manufacturing Activity Shrinks as Sanctions Bite</a> WSJ: Russia’s Manufacturing Activity Shrinks as Sanctions Bite 
  <p class="updated_time"> 04:51 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60867042?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: How has Qatar treated stadium workers?</a> BBC: Qatar has used thousands of foreign workers to build its World Cup facilities. Many may have died. 
- <p class="updated_time"> 04:40 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/world/europe/chernobyl-radiation-poisoning.html">Nuclear Agency Looks Into Reports of Radiation Poisoning at Chernobyl</a> NYT: Russian soldiers left the decommissioned nuclear plant and a nearby city after five weeks of occupation. 
+ <p class="updated_time"> 04:38 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/europe-tries-to-supply-cash-lifeline-to-ukrainian-refugees-11648807994">Europe Tries to Supply Cash Lifeline to Ukrainian Refugees</a> WSJ: Europe Tries to Supply Cash Lifeline to Ukrainian Refugees 
  <p class="updated_time"> 04:36 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952353?at_medium=RSS&at_campaign=KARANGA">Patrick Demarchelier: Fashion photographer dies aged 78</a> BBC: He photographed famous figures including Princess Diana, Beyonce, Madonna and Jennifer Lopez. 
+ <p class="updated_time"> 04:20 AM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60953243?at_medium=RSS&at_campaign=KARANGA">WATCH: Missiles strike oil depot in Belgorod, Russia</a> BBC: Firefighters tackle a blaze at a facility near the Ukrainian border, which Moscow says was attacked. 
  <p class="updated_time"> 04:15 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090195932/2-south-korean-air-force-planes-collide-and-crash-killing-4">2 South Korean air force planes collide and crash, killing 4</a> NPR: Two South Korean KT-1 trainer aircraft planes collided in mid-air during training and crashed near their base on Friday, killing all four people aboard the aircraft, officials said. 
  <p class="updated_time"> 04:02 AM CT, Apr. 01 </p> 
@@ -43,18 +49,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/sports/ukraine-vladyslav-heraskevych-war.html">Ukrainian Olympian Does His Part Against Russian Invasion</a> NYT: Vladyslav Heraskevych, a skeleton competitor from Ukraine, gathers supplies and uses the team van to deliver them to Kyiv as he waits to be called for military duty. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/scientist-patient-progeria.html">Living With Gusto Despite a Rare, Fatal Disease, and Hunting for Answers</a> NYT: At 26, Sammy Basso is believed to be the oldest person with the disease Progeria. And now he’s researching it, hoping to find a treatment and the secrets of aging. 
- <p class="updated_time"> 03:56 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/europe-tries-to-supply-cash-lifeline-to-ukrainian-refugees-11648807994">Europe Tries to Supply Cash Lifeline to Ukrainian Refugees</a> WSJ: Europe Tries to Supply Cash Lifeline to Ukrainian Refugees 
+ <p class="updated_time"> 03:38 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-other-half-enters-lockdown-as-reported-covid-cases-edge-down-11648787331">Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down</a> WSJ: Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down 
  <p class="updated_time"> 03:17 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952217?at_medium=RSS&at_campaign=KARANGA">Will Smith: Police were ready to arrest star during Oscars, producer says</a> BBC: The ceremony's producer describes the conversation between Chris Rock and officers about Will Smith. 
- <p class="updated_time"> 02:56 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghais-other-half-enters-lockdown-as-reported-covid-cases-edge-down-11648787331">Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down</a> WSJ: Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down 
+ <p class="updated_time"> 02:38 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/donors-pledge-2-44-billion-in-aid-to-hunger-stricken-afghanistan-11648754590">Donors Pledge $2.44 Billion in Aid to Afghanistan</a> WSJ: Donors Pledge $2.44 Billion in Aid to Afghanistan 
  <p class="updated_time"> 02:19 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
  <p class="updated_time"> 01:56 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/australia/midnight-oil-brings-australia-home.html">Midnight Oil Brings Australia Home</a> NYT: Australia has had its fair share of music that made it big overseas. But why do some bands succeed internationally while others do not? And does that even matter? 
- <p class="updated_time"> 01:56 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/donors-pledge-2-44-billion-in-aid-to-hunger-stricken-afghanistan-11648754590">Donors Pledge $2.44 Billion in Aid to Afghanistan</a> WSJ: Donors Pledge $2.44 Billion in Aid to Afghanistan 
  <p class="updated_time"> 01:45 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090188898/ukraine-top-of-agenda-as-china-eu-prepare-to-meet-at-summit">Ukraine top of agenda as China, EU prepare to meet at summit</a> NPR: The European Union is seeking China's assurances that it won't assist Russia in circumventing economic sanctions for invading Ukraine and cooperation on ending the war at today's virtual meeting. 
  <p class="updated_time"> 01:37 AM CT, Apr. 01 </p> 
@@ -127,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html">Putin’s Approval Ratings Soar Amid Russia’s War in Ukraine</a> NYT: Eighty-three percent of Russians said they approved of Mr. Putin’s actions, up from 69 percent in January, according to an independent pollster in Moscow. 
  <p class="updated_time"> 01:51 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089660395/ukraine-is-inventing-a-new-way-to-fight-on-the-digital-battlefield">Ukraine is inventing a new way to fight on the digital battlefield</a> NPR: Time magazine's Vera Bergengruen says Ukraine's citizen IT force, led by a 31-year-old minister of digital transformation, is blunting Russian disinformation and galvanizing international support. 
- <p class="updated_time"> 01:47 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1090015449/georgia-south-ossetia-region-russia">Georgia's South Ossetia region might vote on joining Russia</a> NPR: Leaders of Georgia's breakaway region of South Ossetia say they're planning a referendum to join the Russian Federation. 
  <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60947272?at_medium=RSS&at_campaign=KARANGA">Russian MP says Putin's plan for Ukraine hasn't been shared with their parliament</a> BBC: Maria Butina says Putin's plan wasn't shared with MPs, but the campaign is going "according to plan". 
  <p class="updated_time"> 12:09 PM CT, Mar. 31 </p> 
@@ -179,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-russia-war.html">Russia Steps Up Attacks Amid Reports of Rifts in Moscow</a> NYT: Despite claims of de-escalation, Russian forces turned their fury on Chernihiv and the suburbs of Kyiv. U.S. officials say they believe Vladimir Putin’s aides are misleading him about the war. 
  <p class="updated_time"> 06:33 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-serbia-russia.html"> Serbia Sticks With Russia, Bound by a Sense of Victimhood</a> NYT: Moscow, despite its invasion of Ukraine, remains a lodestar for nations like Serbia that feel resentment and grievance against the West, experts say. 
- <p class="updated_time"> 05:46 PM CT, Mar. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60880633?at_medium=RSS&at_campaign=KARANGA">US astronaut and Russian cosmonauts return to Earth</a> BBC: They landed safely in Kazakhstan after leaving the International Space Station in a shared capsule. 
  <p class="updated_time"> 05:01 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/tunisia-president-dissolve-parliament.html">President Dissolves Tunisia’s Parliament, Deepening Political Crisis</a> NYT: President Kais Saied, who suspended Parliament last year, dismissed that body after lawmakers challenged the autocratic powers he has exercised. 
  <p class="updated_time"> 02:55 PM CT, Mar. 30 </p> 
@@ -220,8 +220,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:34 AM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1089989337/employers-continue-hiring-spree-even-as-war-in-ukraine-ratchets-up-economic-fear">Employers continue hiring spree even as war in Ukraine ratchets up economic fears</a> NPR: U.S. employers added 431,000 bs in March, as the unemployment rate fell to 3.6% from 3.8% in February. The tight job market is putting upward pressure on both wages and prices. 
+ <p class="updated_time"> 07:16 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/us/politics/congress-earmarks.html">As Earmarks Return to Congress, Lawmakers Rush to Steer Money Home</a> NYT: Democrats and Republicans alike stuffed nearly 5,000 earmarks totaling $9 billion into the $1.5 trillion government spending bill signed by President Biden. 
  <p class="updated_time"> 04:55 AM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/news/2022/04/01/former-bill-clinton-adviser-playbook-deep-dive-00022248">The midterms will be won in the suburbs. This former Bill Clinton adviser is sure of it.</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Doug Sosnik, former advisor to then-President Bill Clinton, to dissect what he calls the five Democratic myths about American politics and why the suburbs are crucial for national elections. 
+ <a href="https://www.politico.com/news/2022/04/01/former-bill-clinton-adviser-playbook-deep-dive-00022248">Think you understand suburban voters? Doug Sosnik has a 14-page memo betting otherwise.</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Doug Sosnik, former advisor to then-President Bill Clinton, to dissect what he calls the five Democratic myths about American politics and why the suburbs are crucial for national elections. 
  <p class="updated_time"> 04:02 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
@@ -230,8 +234,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/us/politics/nevada-midterms-democrats.html">Nevada’s Economic Turmoil Threatens a Democratic Stronghold</a> NYT: Democrats have long held up Nevada as a symbol of their future. But as the state’s economy struggles, it has become the epitome of the party’s midterm difficulties. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089990539/climate-change-politics">The far-right and environmentalism overlap is bigger than you think — and growing</a> NPR: The modern environmental movement and the far-right movement might appear to be on opposing sides of the political ideology spectrum. But overlap does exist and researchers say it's growing. 
- <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/us/politics/congress-earmarks.html">As Earmarks Return to Congress, Lawmakers Rush to Steer Money Home</a> NYT: Democrats and Republicans alike stuffed nearly 5,000 earmarks totaling $9 billion into the $1.5 trillion government spending bill signed by President Biden. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/covid-relief-funds.html">As Biden Pleads for More Covid Aid, States Are Awash in Federal Dollars</a> NYT: States pushed back on a plan to take back some of their stimulus money to fund President Biden’s emergency spending request. Now Congress is trying to find other ways to offset the cost. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
@@ -324,14 +326,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/us-sanctions-russia.html">U.S. Levels New Sanctions on Russian Tech Companies</a> NYT: Some of the new sanctions focus on organizations that supply or support Russia’s defense sector. 
  <p class="updated_time"> 06:18 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089885229/putin-was-misled-about-early-failures-in-ukraine-reports-indicates">Putin was misled about early failures in Ukraine, reports indicates</a> NPR: Democratic Sen. Bob Casey of Pennsylvania was part of a classified intelligence briefing about Russia's invasion of Ukraine. He talks to NPR's Steve Inskeep about the latest developments in the war. 
- <p class="updated_time"> 05:47 AM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/state-department-will-offer-x-gender-marker-for-u-s-passports-00021965">State Department will offer ‘X’ gender marker for U.S. passports</a> Politico: The announcement was part of a suite of federal actions unveiled by the Biden administration on International Transgender Day of Visibility. 
  <p class="updated_time"> 04:05 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089885292/biden-administration-aims-to-lift-pandemic-border-restriction-known-as-title-42">Biden administration aims to lift pandemic border restriction known as Title 42</a> NPR: NPR's Steve Inskeep talks to Theresa Cardinal Brown of the Bipartisan Policy Center about plans to lift a public health order that kept migrants out of the U.S. to prevent the spread of COVID-19. 
  <p class="updated_time"> 04:05 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089885271/one-of-the-countrys-fastest-changing-political-landscapes-is-in-suburban-atlanta">One of the country's fastest changing political landscapes is in suburban Atlanta</a> NPR: Georgia state lawmakers usually rubber stamp local redistricting maps. But this year in rapidly diversifying Gwinnett County, the GOP is drawing a local map that favors its own candidates. 
- <p class="updated_time"> 04:05 AM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1089885250/the-white-house-is-shifting-gears-in-the-battle-against-covid-19">The White House is shifting gears in the battle against COVID-19</a> NPR: The Biden administration has launched a website to help people find test-to-treat sites, the last military surge unit is heading home and the person who led the administration's strategy is moving on. 
  <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/ruble-recovery-russia-biden-sanctions-00021850">Biden turned the ruble into rubble. Then it quickly came back.</a> Politico: Some current and former Treasury officials, foreign exchange traders and sanctions experts say the ruble's rebound doesn’t necessarily mean the West’s economic weapons are losing their punch. 
  <p class="updated_time"> 03:31 AM CT, Mar. 31 </p> 
@@ -364,6 +362,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/30/politics/ukraine-hack-russian-ransomware-gang/index.html">'I can fight with a keyboard': How one Ukrainian IT specialist exposed a notorious Russian ransomware gang  </a> CNN: As Russian artillery began raining down on his homeland last month, one Ukrainian computer researcher decided to fight back the best way he knew how -- by sabotaging one of the most formidable ransomware gangs in Russia. 
  <p class="updated_time"> 06:32 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/cawthorn-orgies-freedom-caucus-00021548">Cawthorn’s orgies-and-drugs comment stirs trouble within Freedom Caucus</a> Politico: The ultra-conservative group’s chair says he also wants to speak with the North Carolina Republican about his salacious claims concerning his colleagues. 
+ <p class="updated_time"> 06:08 PM CT, Mar. 29 </p> 
+ <a href="https://www.politico.com/news/2022/03/29/republicans-debates-midterm-00018253">Debate-dodging takes off in midterm campaigns</a> Politico: The traditional candidate debate might be on its last legs. 
  <p class="updated_time"> 05:41 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/jan-6-panel-mo-brooks-00021484">The Jan. 6 panel had cooled focus on GOP lawmakers. Then Brooks happened.</a> Politico: Rep. Mo Brooks said he would "take that under advisement" if House investigators called on him to testify about his new allegations against former President Donald Trump. 
  <p class="updated_time"> 01:22 PM CT, Mar. 29 </p> 
