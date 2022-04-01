@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl 
  <p class="updated_time"> 10:41 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60950266?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protest at president Rajapaksa's home turns violent</a> BBC: Tear gas was fired on demonstrators protesting against dire food, fuel and power shortages. 
  <p class="updated_time"> 10:37 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
  <p class="updated_time"> 10:32 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Agrees to Allow Humanitarian Aid Into Mariupol</a> NYT: Humanitarian officials sent a convoy to the embattled port city to try to evacuate trapped residents on Friday. U.S. officials said that Russia is running its military campaign against Ukraine out of Moscow, with no central war commander on the ground to call the shots. 
- <p class="updated_time"> 10:10 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 10:01 PM CT, Mar. 31 </p> 
@@ -27,34 +27,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
  <p class="updated_time"> 09:55 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html">In Hong Kong, China’s Covid Aid Gets the Cold Shoulder</a> NYT: Disputes about medics, squat toilets and diaper-changing duties underscore longstanding tensions between residents of Hong Kong and the mainland. 
+ <p class="updated_time"> 09:44 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/climate/epa-perchlorate-drinking-water.html">E.P.A. Decides Against Limiting Perchlorate in Drinking Water</a> NYT: Drinking water for as many as 16 million Americans may be contaminated with perchlorate, a chemical that can harm the development of fetuses and children. 
- <p class="updated_time"> 09:10 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
- <p class="updated_time"> 08:10 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 08:44 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 07:53 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60458629?at_medium=RSS&at_campaign=KARANGA">Haryana: India's ambitious child brides who dare to dream</a> BBC: The girls were too young to be married legally and still dream of an independent future. 
  <p class="updated_time"> 07:51 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60939581?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 25-31 March 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
+ <p class="updated_time"> 07:44 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths</a> WSJ: Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths 
  <p class="updated_time"> 07:30 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60554228?at_medium=RSS&at_campaign=KARANGA">Chip shortage: Has Europe's plan arrived too late?</a> BBC: The European Union is investing billions of euros in developing a world-beating chip industry. 
  <p class="updated_time"> 07:27 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090080198/covid-19-diabetes-increased-risk">COVID-19 infection increases your risk for diabetes, a new study says</a> NPR: Researchers found that people who had COVID-19 were about 40% more likely to develop diabetes within a year after recovering, compared to participants in a control group. 
  <p class="updated_time"> 07:21 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60473524?at_medium=RSS&at_campaign=KARANGA">China: Peeking into the private lives of livestreamers</a> BBC: A photo series profiles people who have shot to fame in one of China's fastest growing industries. 
- <p class="updated_time"> 07:10 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths</a> WSJ: Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths 
+ <p class="updated_time"> 07:14 PM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60945068?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian forces regrouping for attack - Nato</a> BBC: The UK says Russia is bringing in between 1,200 and 2,000 troops from Georgia as reinforcements. 
  <p class="updated_time"> 07:09 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
  <p class="updated_time"> 07:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-spies-saboteurs.html">A Nation of Spy-Catchers: Fear of Saboteurs Has Ukrainians on Edge</a> NYT: There are checkpoints, hotlines and apps for reporting suspicious activities. Ukrainians worry about saboteurs mixing among them, sowing mistrust and spreading misinformation. 
  <p class="updated_time"> 07:06 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60836892?at_medium=RSS&at_campaign=KARANGA">UK farmers call for weedkiller ban over Parkinson’s fears</a> BBC: Some farmers say studies suggest Paraquat could be a factor in the onset of Parkinson's Disease. 
+ <p class="updated_time"> 06:44 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 06:35 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/turkey-khashoggi-trial-saudi-arabia.html">Prosecutor Asks Turkey to Turn Khashoggi Murder Case Over to Saudis</a> NYT: All 26 suspects accused in the killing of Jamal Khashoggi, the dissident Saudi journalist, in Istanbul in 2018 are Saudi nationals. 
- <p class="updated_time"> 06:10 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 05:00 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">In Ireland, a Memorial to Women Victimized by Church and State</a> NYT: The country’s last “Magdalene laundry,” a compound in Dublin where unmarried mothers and other unwanted women were incarcerated to work in abject conditions, had been earmarked as a site for a budget hotel. 
  <p class="updated_time"> 04:31 PM CT, Mar. 31 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090067991/what-kyiv-looks-like-as-russian-troops-appear-to-reposition">What Kyiv looks like as Russian troops appear to reposition</a> NPR: The pentagon says Russian forces had done some repositioning away from Kyiv to the north. But according to NATO intelligence, Russia is maintaining pressure on the city. 
  <p class="updated_time"> 03:38 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian troops leave Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says Russian soldiers have left the former nuclear power plant. 
- <p class="updated_time"> 03:20 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/business-60936468?at_medium=RSS&at_campaign=KARANGA">Biden orders 'unprecedented' release of oil reserves</a> BBC: The move will add 1m barrels a day to global markets - the largest release of oil reserves in US history. 
  <p class="updated_time"> 03:19 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
  <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
@@ -203,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/world/europe/mariupol-food-lines-russia.html">Satellite Images Show Food Lines in Mariupol, Ukraine</a> NYT: The city has been under siege for weeks and is suffering from severe food and water shortages. 
  <p class="updated_time"> 05:41 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/switzerland-montreux-family-balcony-dead.html">Family’s Balcony Death in Switzerland Appears to Be Suicide</a> NYT: The investigation suggests that the victims jumped from the seventh-floor balcony “one after the other,” the police said. 
- <p class="updated_time"> 06:02 PM CT, Mar. 29 </p> 
- <a href="https://www.nytimes.com/2022/03/29/world/ukraine-russia-kyiv-irpin.html">Ukrainian Military Fends Off Russia and Retakes Suburb of Kyiv</a> NYT: Ukrainian soldiers have essentially retaken, for now, the town of Irpin, the scene of fierce fighting in recent weeks. Its success shows the steep challenges Russia faces in trying to capture Ukraine’s capital. 
 
 
 </details>
@@ -212,6 +210,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:11 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
+ <p class="updated_time"> 11:09 PM CT, Mar. 31 </p> 
+ <a href="https://www.politico.com/news/2022/04/01/writer-named-in-sh-ty-media-men-list-wins-round-in-court-00022258">Writer named in controversial ‘media men’ list wins round in court</a> Politico: District court judge concludes that Section 230 of the Communications Decency Act could not be used to block the suit. 
  <p class="updated_time"> 10:13 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/health/insulin-price-house-bill-democrats.html">House Passes Bill to Limit Cost of Insulin to $35 a Month</a> NYT: The bill stands to benefit millions of Americans with diabetes, but to become law, it will need to attract at least 10 Republican votes in the Senate. 
  <p class="updated_time"> 10:09 PM CT, Mar. 31 </p> 
@@ -242,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/new-york-judge-democrats-redistricting-plan-00022161">GOP judge throws out Democrats' redistricting plan in New York, setting up expected appellate fight</a> Politico: The decision orders legislators to draw new lines with bipartisan support by April 11. 
  <p class="updated_time"> 04:57 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090085513/house-passes-bill-to-cap-insulin-prices">House passes bill to cap insulin prices </a> NPR: The chamber voted on a bill that caps the price of insulin at $35 a month but fate for the legislation in the Senate is unclear. 
- <p class="updated_time"> 04:48 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
  <p class="updated_time"> 04:30 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/us-seasonal-worker-visas.html">U.S. to Provide 35,000 More Seasonal Worker Visas</a> NYT: Alejandro N. Mayorkas, the secretary of homeland security, said the decision was meant to help American businesses in need of workers as the summer approaches. 
  <p class="updated_time"> 04:17 PM CT, Mar. 31 </p> 
