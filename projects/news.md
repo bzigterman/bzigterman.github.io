@@ -13,7 +13,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/asia/new-zealand-parliament-weed.html">After New Zealand Protests, a Weird Weed Began Growing at Parliament</a> NYT: Officials say anti-vaccination protesters seeded cannabis in Parliament’s garden during a three-week occupation. 
  <p class="updated_time"> 03:22 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
- <p class="updated_time"> 02:42 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 03:17 AM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60952217?at_medium=RSS&at_campaign=KARANGA">Will Smith: Police were ready to arrest star during Oscars, producer says</a> BBC: The ceremony's producer describes the conversation between Chris Rock and officers about Will Smith. 
+ <p class="updated_time"> 02:54 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl 
  <p class="updated_time"> 02:19 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">What Happened on Day 36 of Russia’s Invasion of Ukraine</a> NYT: Humanitarian officials were trying to organize an evacuation from Mariupol. U.S. officials said Russia was running its military campaign out of Moscow, with no central war commander in Ukraine to call the shots. 
@@ -21,10 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
  <p class="updated_time"> 01:56 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/australia/midnight-oil-brings-australia-home.html">Midnight Oil Brings Australia Home</a> NYT: Australia has had its fair share of music that made it big overseas. But why do some bands succeed internationally while others do not? And does that even matter? 
+ <p class="updated_time"> 01:54 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 01:45 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090188898/ukraine-top-of-agenda-as-china-eu-prepare-to-meet-at-summit">Ukraine top of agenda as China, EU prepare to meet at summit</a> NPR: The European Union is seeking China's assurances that it won't assist Russia in circumventing economic sanctions for invading Ukraine and cooperation on ending the war at today's virtual meeting. 
- <p class="updated_time"> 01:42 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 01:37 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian troops leave Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says Russian soldiers have left the former nuclear power plant. 
  <p class="updated_time"> 01:36 AM CT, Apr. 01 </p> 
@@ -35,13 +37,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdalene Laundry’ Will Become a Memorial</a> NYT: A compound in Dublin where unmarried mothers and other unwanted women were incarcerated to work in abject conditions had been earmarked as a site for a budget hotel. 
  <p class="updated_time"> 01:14 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60950266?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protest at president Rajapaksa's home turns violent</a> BBC: Tear gas was fired on demonstrators protesting against dire food, fuel and power shortages. 
- <p class="updated_time"> 12:42 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 12:54 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 12:19 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090184438/solomon-islands-says-china-deal-wont-include-military-base">Solomon Islands says China security deal won't include military base</a> NPR: The Solomon Islands said that despite a recent pact with China, it won't allow the major power to build a military base, and the two are only collaborating on security and naval refueling. 
- <p class="updated_time"> 11:42 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 11:54 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths</a> WSJ: Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths 
- <p class="updated_time"> 10:42 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 10:54 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 10:37 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1089660395/ukraine-is-inventing-a-new-way-to-fight-on-the-digital-battlefield">Ukraine is inventing a new way to fight on the digital battlefield</a> NPR: Time magazine's Vera Bergengruen says Ukraine's citizen IT force, led by a 31-year-old minister of digital transformation, is blunting Russian disinformation and galvanizing international support. 
  <p class="updated_time"> 01:47 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090015449/georgia-south-ossetia-region-russia">Georgia's South Ossetia region might vote on joining Russia</a> NPR: Leaders of Georgia's breakaway region of South Ossetia say they're planning a referendum to join the Russian Federation. 
- <p class="updated_time"> 01:46 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60939559?at_medium=RSS&at_campaign=KARANGA">Two Palestinians killed in gunfight during Israeli West Bank raid</a> BBC: Troops entered Jenin to arrest three people suspected of involvement in a deadly attack in Israel. 
  <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60947272?at_medium=RSS&at_campaign=KARANGA">Russian MP says Putin's plan for Ukraine hasn't been shared with their parliament</a> BBC: Maria Butina says Putin's plan wasn't shared with MPs, but the campaign is going "according to plan". 
  <p class="updated_time"> 12:24 PM CT, Mar. 31 </p> 
