@@ -9,45 +9,53 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:05 PM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1090355134/hungarian-opposition-parties-aim-to-oust-longtime-prime-minister-in-major-electi">Hungarian opposition parties aim to oust longtime prime minister in major election</a> NPR: Hungarians head to the polls on Sunday in what experts are calling the most important election in a generation. Three-term Prime Minister Viktor Orban is facing a conservative candidate. 
+ <p class="updated_time"> 03:59 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: 3,000 Civilians Leave Mariupol, but Red Cross Evacuation Convoy is Postponed</a> NYT: A bus convoy left Mariupol, but a Red Cross team could not reach city, bombarded by Russian forces, to aid a larger evacuation. Ukrainian helicopters carried out the first airstrike on Russian territory since the war began. 
+ <p class="updated_time"> 03:53 PM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1090355120/tokyo-loosens-strict-public-school-uniform-rules">Tokyo loosens strict public school uniform rules</a> NPR: NPR's Kelsey Snell talks with Japan-based reporter for Vice World News, Hanako Montgomery, about the lifting of decades-old school uniform rules in the Tokyo metropolitan area. 
+ <p class="updated_time"> 03:45 PM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1090355099/a-radio-station-in-ukraine-balances-music-laughs-and-war-news-in-their-broadcast">A radio station in Ukraine balances music, laughs and war news in their broadcasts</a> NPR: The Wave of Lviv is a radio station known for pop music and banter. Since the war began in Ukraine, though, they've been working to balance their irreverent tone with news from the front lines. 
  <p class="updated_time"> 03:27 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355053/deputy-national-security-adviser-talks-about-the-risk-of-russia-waging-cyberwar">Deputy national security adviser talks about the risk of Russia waging cyberwar</a> NPR: NPR's Ailsa Chang speaks with Deputy National Security Adviser Anne Neuberger, about the risk of a cyberwar and how the U.S. might respond to attacks on the country's infrastructure. 
- <p class="updated_time"> 03:16 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: 3,000 Civilians Leave Mariupol, but Red Cross Evacuation Convoy is Postponed</a> NYT: A bus convoy left Mariupol, but a Red Cross team could not reach the city, bombarded by Russian forces, to aid a larger evacuation. Ukrainian helicopters carried out the first airstrike on Russian territory since the war began. 
+ <p class="updated_time"> 03:17 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 03:07 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/russia-putin-support-ukraine.html">Shaken at First, Many Russians Now Rally Behind Putin’s Invasion</a> NYT: Polls and interviews show many Russians now accept the Kremlin’s assertion that their country is under siege from the West. Opponents are leaving the country or keeping quiet. 
  <p class="updated_time"> 02:44 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
- <p class="updated_time"> 02:41 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 02:36 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
  <p class="updated_time"> 02:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/mariupol-evacuation-failed.html">Evacuation of Mariupol Falters as Red Cross Team Is Turned Back</a> NYT: At least one group of private vehicles left the battered city, but a larger effort failed when unsafe conditions prevented a Red Cross team from reaching the city to escort an evacuation convoy. 
+ <p class="updated_time"> 02:17 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/russia-uranium-nuclear-power.html">Russia’s Aggression Prompts Calls to Rethink U.S. Uranium Imports</a> NYT: The war in Ukraine has highlighted the risks of U.S. dependence on Russia for the fuel needed for nuclear energy, creating new challenges for the industry. 
- <p class="updated_time"> 01:41 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 01:38 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-60944677?at_medium=RSS&at_campaign=KARANGA">Amazon workers win battle to form first US union</a> BBC: The Amazon Labor Union won a contest to establish the first unionised Amazon warehouse in the US. 
  <p class="updated_time"> 01:30 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/yemen-truce.html">U.N. Says Yemen’s Warring Parties Have Agreed to 2-Month Truce</a> NYT: The agreement comes after a significant escalation in recent weeks that saw Yemen’s Iran-backed Houthi rebels claim several attacks. 
  <p class="updated_time"> 01:23 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/americas/costa-rica-election-sexual-harassment.html">Costa Rica’s Close Election Tests Women’s Rights </a> NYT: In Costa Rica’s runoff on Sunday, voters will decide between a candidate found to have sexually harassed junior employees at the World Bank and a former president once accused of corruption. 
+ <p class="updated_time"> 01:17 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 01:04 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/eu-europe-china-summit-ukraine-russia-trade.html">Europe Asks China Not to Aid Russia’s War in Ukraine</a> NYT: A first E.U.-China summit in two years was overshadowed by Ukraine and China’s alliance with Moscow and produced few results. 
  <p class="updated_time"> 01:00 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/wildfire-extreme-rain-mudslides.html">Fires, Then Floods: Risk of Deadly Climate Combination Rises</a> NYT: A new study found that the dangerous pairing of disasters may become more common in the American West as rains trigger runaway surges of mud and debris in areas damaged by wildfire. 
  <p class="updated_time"> 12:55 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/khashoggi-murder-trial-turkey-saudi.html">Turkey Moves Closer to Ending Khashoggi Murder Trial Without Conclusion</a> NYT: Turkey’s justice minister said he would agree to transfer the trial to Saudi Arabia, effectively ending a case that rights groups hoped could offer a measure of justice. 
- <p class="updated_time"> 12:41 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 12:26 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/africa/food-crisis-africa-drought-ukraine.html">War in Ukraine Compounds Hunger in East Africa</a> NYT: The conflict has driven up the cost of food in a region that depends heavily on crops from Russia and Ukraine and is facing what could be its worst drought in four decades. 
  <p class="updated_time"> 12:18 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090279187/russia-wikipedia-fine">Russia threatens to fine Wikipedia if it doesn't remove some details about the war</a> NPR: Russia's communications regulator says it will fine Wikipedia up to $47,000 for not complying with requests to take down information. It has made similar warnings to Google about YouTube videos. 
+ <p class="updated_time"> 12:17 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 12:08 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090270567/chernobyl-russia-radiation">'Russian mutants lost this round,' Ukraine says after troops leave Chernobyl</a> NPR: Ukraine's defense ministry cited two reasons for the Russian exit: military losses and radiation exposure. They likely disturbed polluted soil in the Chernobyl zone's contaminated Red Forest. 
- <p class="updated_time"> 11:41 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 11:17 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/economic-crisis-is-prize-for-winner-of-pakistan-power-struggle-11648819275">Economic Crisis Is Prize for Winner of Pakistan Power Struggle</a> WSJ: Economic Crisis Is Prize for Winner of Pakistan Power Struggle 
  <p class="updated_time"> 11:15 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090253301/zelenskyy-generals-traitors-ukraine">Zelenskyy calls 2 Ukrainian generals traitorous and strips them of their rank</a> NPR: Zelenskyy did not elaborate on what prompted the removal of the intelligence officers, one of whom has ties to the fallen Ukrainian city of Kherson. But he vowed traitors would "all be punished." 
@@ -61,10 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/europe/scientist-patient-progeria.html">Living With Gusto Despite a Rare, Fatal Disease, and Hunting for Answers</a> NYT: At 26, Sammy Basso is believed to be the oldest person with the disease Progeria. And now he’s researching it, hoping to find a treatment and the secrets of aging. 
  <p class="updated_time"> 10:42 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
- <p class="updated_time"> 10:41 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/american-aid-worker-released-after-lengthy-detention-by-taliban-11648826979">American Aid Worker Released After Lengthy Detention by Taliban</a> WSJ: American Aid Worker Released After Lengthy Detention by Taliban 
- <p class="updated_time"> 10:08 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: At least two major elderly-care facilities in Shanghai are battling Covid outbreaks, highlighting the threat posed to the city’s large senior population from a wave of infections from the Omicron variant. 
  <p class="updated_time"> 09:32 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090213962/pope-francis-apology-indigenous-people-canada">The pope apologizes for abuse of Indigenous children in Canada's residential schools</a> NPR: Pope Francis met with Indigenous leaders and survivors of Canada's residential schools this week. He had expressed sorrow in the past on behalf of the church, but this is the first formal apology. 
  <p class="updated_time"> 09:23 AM CT, Apr. 01 </p> 
@@ -77,6 +81,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
  <p class="updated_time"> 07:30 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/chernobyl-radiation-poisoning.html">Nuclear Agency Looks Into Reports of Radiation Poisoning at Chernobyl</a> NYT: Russian soldiers left the decommissioned nuclear plant and a nearby city after five weeks of occupation. 
+ <p class="updated_time"> 07:15 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/american-aid-worker-released-after-lengthy-detention-by-taliban-11648826979">American Aid Worker Released After Lengthy Detention by Taliban</a> WSJ: Safi Rauf, a Virginia resident and U.S.-Afghan dual national who helped thousands of people leave Afghanistan, was released along with his brother. 
  <p class="updated_time"> 07:11 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090201964/qatar-world-cup-draw">The U.S. will face England in the World Cup's group stage</a> NPR: The United States drew a spot in Group B, meaning the men's soccer team will face off against England, Iran and the winner of a European playoff — setting up a challenging run for the U.S. squad. 
  <p class="updated_time"> 06:44 AM CT, Apr. 01 </p> 
@@ -145,12 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31">Russia-Ukraine war: What happened today (March 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:42 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067116/ukraine-mayor-says-russian-soldiers-who-kidnapped-him-knew-nothing-about-his-cou">Ukraine mayor says Russian soldiers who kidnapped him knew nothing about his country</a> NPR: Melitopol Mayor Ivan Fedorov was held by Russian forces for five days. They told him they wanted to free his town from Nazis. "I told them in my 30 years in this town I've never seen a single Nazi." 
- <p class="updated_time"> 03:39 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1090067998/the-un-says-it-needs-a-record-breaking-4-4-billion-to-help-afghanistan">The UN says it needs a record-breaking $4.4 billion to help Afghanistan</a> NPR: The United Nations is seeking $4.4 billion — a record amount — to help Afghanistan. The appeal comes as countries around the world try to deal with skyrocketing prices due to the war in Ukraine. 
- <p class="updated_time"> 03:39 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1090067991/what-kyiv-looks-like-as-russian-troops-appear-to-reposition">What Kyiv looks like as Russian troops appear to reposition</a> NPR: The pentagon says Russian forces had done some repositioning away from Kyiv to the north. But according to NATO intelligence, Russia is maintaining pressure on the city. 
- <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1090067963/an-australian-journalist-detained-in-china-goes-on-trial">An Australian journalist detained in China goes on trial</a> NPR: An Australian journalist goes on trial Thursday in Beijing. She's been accused of espionage and is one of several journalists detained as relations with China sour. 
  <p class="updated_time"> 02:16 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938429?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia blocks buses heading to Mariupol, says Ukraine</a> BBC: Russia has blocked 45 buses heading to the city to rescue civilians, says Ukraine's deputy prime minister. 
  <p class="updated_time"> 02:15 PM CT, Mar. 31 </p> 
@@ -208,14 +208,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:14 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-wages.html">Rising Wages Are Good News for Workers but Keep Pressure on the Fed</a> NYT: Federal Reserve officials have said the pace of pay gains, if they continue, would not be consistent with stable inflation. 
+ <p class="updated_time"> 03:55 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/us/politics/nevada-midterms-democrats.html">Nevada’s Economic Turmoil Threatens a Democratic Stronghold</a> NYT: Democrats have long held up Nevada as a symbol of their future. But as the state’s economy struggles, it has become the epitome of the party’s midterm difficulties. 
+ <p class="updated_time"> 03:45 PM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1090355106/florida-lt-gov-says-good-luck-to-attempts-to-repeal-so-called-dont-say-gay-law">Florida Lt. Gov. says 'good luck' to attempts to repeal so-called 'Don't Say Gay' law</a> NPR: NPR's Kelsey Snell speaks with Florida's Lt. Gov. Jeanette Nuñez about the state's "Parental Rights in Education" law. The law has seen its first legal challenge this week from LGBTQ advocates. 
  <p class="updated_time"> 03:27 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355060/grant-ginder-melds-political-and-family-dysfunction-in-let-s-not-do-that-again">Grant Ginder melds political and family dysfunction in 'Let's Not Do That Again'</a> NPR: NPR's Kelsey Snell talks with Grant Ginder about his new novel, Let's Not Do That Again, drawing inspiration from his time as a speechwriter and exploring political dynamics in families. 
+ <p class="updated_time"> 03:17 PM CT, Apr. 01 </p> 
+ <a href="https://www.politico.com/news/2022/04/01/corps-detat-how-two-dozen-retired-generals-are-trying-to-stop-an-overhaul-of-the-marines-00022446">How two dozen retired generals are trying to stop an overhaul of the Marines</a> Politico: Current plans call for shedding troops and equipment in preparation to take on China. 
+ <p class="updated_time"> 03:16 PM CT, Apr. 01 </p> 
+ <a href="https://www.politico.com/news/2022/04/01/biden-administration-to-end-controversial-border-policy-in-may-00022359">Biden administration to end controversial border policy in May</a> Politico: The Centers for Disease Control and Prevention, which invoked the controversial order in March 2020 to limit the spread of Covid-19, said the policy is no longer needed to protect public health. 
  <p class="updated_time"> 03:05 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/cdc-immigration-title-42.html">C.D.C. Confirms It Will Lift Public Health Order Restricting Immigration</a> NYT: The agency cited “current public health conditions and an increased availability of tools to fight Covid-19” as grounds for returning in late May to prepandemic policies for admitting migrants. 
  <p class="updated_time"> 03:03 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/gop-demand-justice-jackson-hearings.html">Republicans Target Progressive Advocacy Group Amid Opposition to Jackson</a> NYT: Some Republicans have linked their criticism of President Biden’s Supreme Court nominee to the support she has received from Demand Justice, a group that wants to expand the court. 
- <p class="updated_time"> 02:44 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-wages.html">Rising Wages Are Good News for Workers but Keep Pressure on the Fed</a> NYT: Federal Reserve officials have said the pace of pay gains, if they continue, would not be consistent with stable inflation. 
  <p class="updated_time"> 02:38 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html">House Committee Investigating Amazon Labor Practices</a> NYT: A tornado that hit a delivery station in Illinois last year will be a focus of the inquiry. 
  <p class="updated_time"> 02:03 PM CT, Apr. 01 </p> 
@@ -233,7 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:26 PM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/news/2022/04/01/house-passes-marijuana-legalization-bill-again-but-with-no-clear-path-forward-00022303">House passes marijuana legalization bill (again), but with no clear path forward</a> Politico: Weed vote exposes political rift on criminal justice reform 
  <p class="updated_time"> 12:18 PM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/news/2022/04/01/u-s-providing-ukraine-with-equipment-to-protect-against-chemical-attacks-00022355">U.S. providing Ukraine with equipment to protect against chemical attacks</a> Politico: Washington is sending Ukraine gas masks, hazmat suits and other materials to protect against Russia's possible use of unconventional weapons. 
+ <a href="https://www.politico.com/news/2022/04/01/u-s-providing-ukraine-with-equipment-to-protect-against-chemical-attacks-00022355">U.S. quietly approves more aid as Ukraine braces for ‘chemical and biological’ attacks</a> Politico: Washington is sending Ukraine gas masks, hazmat suits and other materials to protect against Russia's possible use of unconventional weapons. 
  <p class="updated_time"> 11:54 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089690477/cdc-pandemic-border-rules-migration-dhs">The U.S. is ending its pandemic border rules. It could mean a surge in migration</a> NPR: The Biden administration is moving to end sweeping pandemic border restrictions known as Title 42 on May 23. The controversial public health order was used to quickly expel migrants at the border. 
  <p class="updated_time"> 11:32 AM CT, Apr. 01 </p> 
@@ -260,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/01/former-bill-clinton-adviser-playbook-deep-dive-00022248">Think you understand suburban voters? Doug Sosnik has a 14-page memo betting otherwise.</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Doug Sosnik, former advisor to then-President Bill Clinton, to dissect what he calls the five Democratic myths about American politics and why the suburbs are crucial for national elections. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089958980/trump-is-struggling-again-in-georgia-with-2022-endorsements-driven-by-his-2020-l">Trump is struggling again in Georgia, with 2022 endorsements driven by his 2020 loss</a> NPR: Donald Trump is embracing longshot candidates and seeking to oust incumbents that did not overturn his defeat. Many of his chosen GOP candidates are struggling in Georgia and other states. 
- <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/us/politics/nevada-midterms-democrats.html">Nevada’s Economic Turmoil Threatens a Democratic Stronghold</a> NYT: Democrats have long held up Nevada as a symbol of their future. But as the state’s economy struggles, it has become the epitome of the party’s midterm difficulties. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089990539/climate-change-politics">The far-right and environmentalism overlap is bigger than you think — and growing</a> NPR: The modern environmental movement and the far-right movement might appear to be on opposing sides of the political ideology spectrum. But overlap does exist and researchers say it's growing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
@@ -312,6 +318,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090050341/citing-race-a-federal-judge-strikes-down-parts-of-a-2021-florida-election-law">Citing race, a federal judge strikes down parts of a 2021 Florida election law</a> NPR: The judge says the state's Republican-led government was using subtle tactics to suppress Black voters. An appeal of the ruling is expected. 
  <p class="updated_time"> 02:06 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/stabenow-vote-universal-free-school-meals-00022081">Senators revive school lunch debate with bill to extend universal free meals</a> Politico: The move comes after Republican leadership objected to extending the pandemic program in a recent spending bill, which has generated pushback in both red and blue states. 
+ <p class="updated_time"> 01:35 PM CT, Mar. 31 </p> 
+ <a href="https://www.politico.com/news/2022/03/31/biden-putin-fired-advisers-house-arrest-00022078">Biden suggests Putin has ‘fired’ or put his advisers ‘under house arrest’</a> Politico: The president was asked about how misinformed the Russian leader really is about his military’s performance in Ukraine. 
  <p class="updated_time"> 01:09 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089931243/transgender-day-of-visibility-white-house-trans-rights">On Transgender Day of Visibility, White House announces moves to expand trans rights</a> NPR: The administration's announcement comes as several Republican-led states have passed anti-trans legislation in the last few months, which the White House calls "un-American." 
  <p class="updated_time"> 12:46 PM CT, Mar. 31 </p> 
@@ -320,8 +328,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/senate-closes-in-on-10b-covid-aid-deal-despite-dem-frustrations-00022046">Senate closes in on $10B Covid aid deal despite Dem frustrations</a> Politico: The compromise leaves out $5 billion in global vaccine efforts, drawing sharp complaints from many Democrats. 
  <p class="updated_time"> 12:24 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089958981/zelenskyy-approval-rating-us">Americans have more confidence in Zelenskyy than Biden when it comes to world affairs</a> NPR: Some 72% of Americans have confidence in the Ukrainian president's handling of world affairs, a Pew Research Center survey finds. Meanwhile, just 48% say the same about U.S. President Biden. 
- <p class="updated_time"> 11:53 AM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1089967078/biden-will-release-more-oil-to-fight-high-prices">Biden will release more oil to fight high prices</a> NPR: Gas prices have been soaring. President Biden is announcing he will release oil from the Strategic Petroleum Reserve. 
+ <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
+ <a href="https://www.politico.com/news/2022/03/31/ruble-recovery-russia-biden-sanctions-00021850">Biden turned the ruble into rubble. Then it quickly came back.</a> Politico: Some current and former Treasury officials, foreign exchange traders and sanctions experts say the ruble's rebound doesn’t necessarily mean the West’s economic weapons are losing their punch. 
  <p class="updated_time"> 03:31 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/enthusiasm-gap-dems-00021774">‘We’ve got to stop fooling ourselves’: Enthusiasm gap keeps getting worse for Dems</a> Politico: The last time the voter enthusiasm deficit was this wide, Democrats lost more than 60 seats in the House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
@@ -352,8 +360,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/30/ketanji-brown-jackson-child-pornography-sentencing-00021474">Jackson hearings could inspire GOP's next judicial battle line</a> Politico: Republican scrutiny of the Supreme Court nominee's child pornography sentencing — which tracked with most federal judges — may have opened a can of worms. 
  <p class="updated_time"> 06:32 PM CT, Mar. 29 </p> 
  <a href="https://www.politico.com/news/2022/03/29/cawthorn-orgies-freedom-caucus-00021548">Cawthorn’s orgies-and-drugs comment stirs trouble within Freedom Caucus</a> Politico: The ultra-conservative group’s chair says he also wants to speak with the North Carolina Republican about his salacious claims concerning his colleagues. 
- <p class="updated_time"> 06:08 PM CT, Mar. 29 </p> 
- <a href="https://www.politico.com/news/2022/03/29/republicans-debates-midterm-00018253">Debate-dodging takes off in midterm campaigns</a> Politico: The traditional candidate debate might be on its last legs. 
  <p class="updated_time"> 05:51 PM CT, Mar. 29 </p> 
  <a href="https://www.cnn.com/2022/03/29/politics/florida-dont-say-gay-parents-what-matters/index.html">Focus on 'parental rights' chips away at gay rights</a> CNN: The new Florida law that limits how schools and teachers can address sexuality and gender, in particular for the youngest students, has sparked protests and outrage. 
  <p class="updated_time"> 05:41 PM CT, Mar. 29 </p> 
