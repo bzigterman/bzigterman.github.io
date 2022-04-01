@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:44 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 10:04 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: Some Evacuations Begin in Besieged City of Mariupol, Official Says</a> NYT: The mayor’s office said buses had left the city, although the International Committee of the Red Cross warned that the effort remained “extremely complex.” Two Ukrainian helicopters crossed into Russian territory and fired on an oil depot, the first time Russia has reported a Ukrainian airstrike on its territory since the war began. 
+ <p class="updated_time"> 09:57 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
  <p class="updated_time"> 09:35 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/africa/food-crisis-africa-drought-ukraine.html">War in Ukraine Compounds Hunger in East Africa</a> NYT: The conflict has driven up the cost of food in a region that depends heavily on crops from Russia and Ukraine and is facing what could be its worst drought in four decades. 
  <p class="updated_time"> 09:35 AM CT, Apr. 01 </p> 
@@ -19,27 +21,25 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/01/1090213962/pope-francis-apology-indigenous-people-canada">The pope apologizes for abuse of Indigenous children in Canada's residential schools</a> NPR: Pope Francis met with Indigenous leaders and survivors of Canada's residential schools this week. He had expressed sorrow in the past on behalf of the church, but this is the first formal apology. 
  <p class="updated_time"> 09:25 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/americas/costa-rica-election-sexual-harassment.html">Harassment Case Tests Women’s Rights in Costa Rica’s Close Election</a> NYT: In Sunday’s runoff, voters will decide between a candidate found to have sexually harassed junior employees at the World Bank and a former president once accused of corruption. 
- <p class="updated_time"> 09:24 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
  <p class="updated_time"> 09:23 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60867042?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: How has Qatar treated stadium workers?</a> BBC: Qatar has used thousands of foreign workers to build its World Cup facilities. Many may have died. 
- <p class="updated_time"> 08:51 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 09:09 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 08:47 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/asia/china-covid-shanghai.html">Covid Outbreak at Shanghai Hospital Exposes  Risks to China’s Seniors</a> NYT: Coronavirus infections have spread at an elder care facility in Shanghai. Workers said deaths are increasing and resources dwindling. 
+ <p class="updated_time"> 08:09 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-manufacturing-activity-shrinks-as-sanctions-over-ukraine-bite-11648803837">Russia’s Manufacturing Activity Shrinks as Sanctions Bite</a> WSJ: Russia’s Manufacturing Activity Shrinks as Sanctions Bite 
  <p class="updated_time"> 08:06 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952217?at_medium=RSS&at_campaign=KARANGA">Chris Rock did not want Will Smith ejected from Oscars, producer says</a> BBC: Will Packer has described what happened after Will Smith slapped Chris Rock at the awards ceremony. 
  <p class="updated_time"> 07:58 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
  <p class="updated_time"> 07:54 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
- <p class="updated_time"> 07:51 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-manufacturing-activity-shrinks-as-sanctions-over-ukraine-bite-11648803837">Russia’s Manufacturing Activity Shrinks as Sanctions Bite</a> WSJ: Russia’s Manufacturing Activity Shrinks as Sanctions Bite 
  <p class="updated_time"> 07:30 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/chernobyl-radiation-poisoning.html">Nuclear Agency Looks Into Reports of Radiation Poisoning at Chernobyl</a> NYT: Russian soldiers left the decommissioned nuclear plant and a nearby city after five weeks of occupation. 
  <p class="updated_time"> 07:11 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090201964/qatar-world-cup-draw">Qatar hosts Friday's draw for the Middle East's 1st World Cup</a> NPR: The day began with a protest outside FIFA headquarters in Zurich drawing attention to the conditions of migrant workers in Qatar who worked on the World Cup infrastructure. 
- <p class="updated_time"> 06:51 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 07:09 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/europe-tries-to-supply-cash-lifeline-to-ukrainian-refugees-11648807994">Europe Tries to Supply Cash Lifeline to Ukrainian Refugees</a> WSJ: Europe Tries to Supply Cash Lifeline to Ukrainian Refugees 
  <p class="updated_time"> 06:44 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
@@ -47,11 +47,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/asia/new-zealand-parliament-weed.html">New Zealand Protesters Seeded Marijuana Plants on Parliament Grounds</a> NYT: New Zealand officials say anti-vaccination protesters seeded cannabis during a three-week occupation. 
  <p class="updated_time"> 06:19 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952358?at_medium=RSS&at_campaign=KARANGA">Bruce Willis: Razzies cancel 'worst performance' award over health issues</a> BBC: Razzie organisers said it was "not appropriate" after the announcement about actor's health issues. 
- <p class="updated_time"> 05:51 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 06:09 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghais-other-half-enters-lockdown-as-reported-covid-cases-edge-down-11648787331">Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down</a> WSJ: Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down 
  <p class="updated_time"> 05:48 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60954565?at_medium=RSS&at_campaign=KARANGA">Gerard Depardieu: Kremlin responds to actor's Putin criticism</a> BBC: The French-born actor had accused the Russian president of "crazy, unacceptable excesses" in Ukraine. 
- <p class="updated_time"> 04:51 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 05:09 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/donors-pledge-2-44-billion-in-aid-to-hunger-stricken-afghanistan-11648754590">Donors Pledge $2.44 Billion in Aid to Afghanistan</a> WSJ: Donors Pledge $2.44 Billion in Aid to Afghanistan 
  <p class="updated_time"> 04:36 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952353?at_medium=RSS&at_campaign=KARANGA">Patrick Demarchelier: Fashion photographer dies aged 78</a> BBC: He photographed famous figures including Princess Diana, Beyonce, Madonna and Jennifer Lopez. 
@@ -216,6 +216,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:04 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/science/elephant-trophies-hunting.html">U.S. Allows Hunters to Import Some Elephant Trophies From African Countries</a> NYT: After settling a lawsuit filed during the Trump administration, the Fish and Wildlife Service granted six permits to bring elephant parts into the country. It may approve more in the coming months. 
  <p class="updated_time"> 09:35 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
  <p class="updated_time"> 09:24 AM CT, Apr. 01 </p> 
@@ -322,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/treasury-hits-russia-with-new-sanctions-targeting-evasion-networks-tech-00022021">Treasury hits Russia with new sanctions targeting evasion networks, tech</a> Politico: The U.S. also expanded its ability to sanction the aerospace, marine and electronics sectors. 
  <p class="updated_time"> 10:49 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/lgbtq-advocates-sue-florida-00022001">LGBTQ advocates sue over Florida’s ‘Don’t Say Gay’ bill</a> Politico: It marks the first legal challenge for the high-profile measure that Republican Gov. Ron DeSantis signed into law Monday. 
- <p class="updated_time"> 10:00 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/us-sanctions-russia.html">U.S. Levels New Sanctions on Russian Tech Companies</a> NYT: Some of the new sanctions focus on organizations that supply or support Russia’s defense sector. 
  <p class="updated_time"> 06:18 AM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089885229/putin-was-misled-about-early-failures-in-ukraine-reports-indicates">Putin was misled about early failures in Ukraine, reports indicates</a> NPR: Democratic Sen. Bob Casey of Pennsylvania was part of a classified intelligence briefing about Russia's invasion of Ukraine. He talks to NPR's Steve Inskeep about the latest developments in the war. 
  <p class="updated_time"> 04:05 AM CT, Mar. 31 </p> 
