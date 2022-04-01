@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:19 AM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1090184438/solomon-islands-says-china-deal-wont-include-military-base">Solomon Islands says China deal won't include military base</a> NPR: The Solomon Islands said that despite a recent pact with China, it won't allow the major power to build a military base, and the two are only collaborating on security and naval refueling. 
  <p class="updated_time"> 12:15 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">What Happened on Day 36 of Russia’s Invasion of Ukraine</a> NYT: Humanitarian officials were trying to organize an evacuation from Mariupol. U.S. officials said Russia was running its military campaign out of Moscow, with no central war commander in Ukraine to call the shots. 
  <p class="updated_time"> 12:07 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60950266?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protest at president Rajapaksa's home turns violent</a> BBC: Tear gas was fired on demonstrators protesting against dire food, fuel and power shortages. 
- <p class="updated_time"> 11:23 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 11:36 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl 
  <p class="updated_time"> 10:37 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
- <p class="updated_time"> 10:23 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 10:36 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
@@ -30,21 +32,21 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:55 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html">In Hong Kong, China’s Covid Aid Gets the Cold Shoulder</a> NYT: Disputes about medics, squat toilets and diaper-changing duties underscore longstanding tensions between residents of Hong Kong and the mainland. 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/climate/epa-perchlorate-drinking-water.html">E.P.A. Decides Against Limiting Perchlorate in Drinking Water</a> NYT: Drinking water for as many as 16 million Americans may be contaminated with perchlorate, a chemical that can harm the development of fetuses and children. 
- <p class="updated_time"> 09:23 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
- <p class="updated_time"> 08:23 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/climate/epa-perchlorate-drinking-water.html">E.P.A. Decides Against Limiting Perchlorate in Drinking Water</a> NYT: Drinking water for as many as 16 million Americans may be contaminated with perchlorate, a chemical that can harm the development of fetuses and children. 
+ <p class="updated_time"> 08:36 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths</a> WSJ: Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths 
  <p class="updated_time"> 07:53 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60458629?at_medium=RSS&at_campaign=KARANGA">Haryana: India's ambitious child brides who dare to dream</a> BBC: The girls were too young to be married legally and still dream of an independent future. 
  <p class="updated_time"> 07:51 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60939581?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 25-31 March 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
+ <p class="updated_time"> 07:36 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 07:30 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60554228?at_medium=RSS&at_campaign=KARANGA">Chip shortage: Has Europe's plan arrived too late?</a> BBC: The European Union is investing billions of euros in developing a world-beating chip industry. 
  <p class="updated_time"> 07:27 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090080198/covid-19-diabetes-increased-risk">COVID-19 infection increases your risk for diabetes, a new study says</a> NPR: Researchers found that people who had COVID-19 were about 40% more likely to develop diabetes within a year after recovering, compared to participants in a control group. 
- <p class="updated_time"> 07:23 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 07:21 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60473524?at_medium=RSS&at_campaign=KARANGA">China: Peeking into the private lives of livestreamers</a> BBC: A photo series profiles people who have shot to fame in one of China's fastest growing industries. 
  <p class="updated_time"> 07:14 PM CT, Mar. 31 </p> 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/kremlin-us-intelligence-putin.html">Moscow Calls US Intelligence on Putin’s Military Advice a ‘Complete Misunderstanding’</a> NYT: The Kremlin spokesman also played down the prospect of an April meeting between Presidents Vladimir V. Putin and Volodymyr Zelensky. 
  <p class="updated_time"> 04:54 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/north-korea-icbm-fake.html">Was North Korea’s New ICBM Test Faked? Not Entirely.</a> NYT: South Korea says Kim Jong-un disguised an older missile as a new one to exaggerate his country’s weapons achievements when he badly needs political leverage. 
- <p class="updated_time"> 04:19 AM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1089888947/china-holds-espionage-trial-of-chinese-australian-journalist">China holds espionage trial of Chinese Australian journalist</a> NPR: China has not provided any specifics about what offenses Cheng Lei is accused of committing, who has been held for 19 months on suspicion of relaying state secrets abroad. 
  <p class="updated_time"> 03:59 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60936718?at_medium=RSS&at_campaign=KARANGA">Cheng Lei: Australian journalist on trial in China for spy charge</a> BBC: A Beijing court is holding a closed-door hearing for former CGTN journalist Cheng Lei. 
  <p class="updated_time"> 03:46 AM CT, Mar. 31 </p> 
