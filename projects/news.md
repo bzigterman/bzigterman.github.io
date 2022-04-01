@@ -9,56 +9,56 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:23 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 09:32 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: Some Evacuations Begin in Besieged City of Mariupol, Official Says</a> NYT: The mayor’s office said buses had left the city, although the International Committee of the Red Cross warned that the effort remained “extremely complex.” Two Ukrainian helicopters crossed into Russian territory and fired on an oil depot, the first time Russia has reported a Ukrainian airstrike on its territory since the war began. 
- <p class="updated_time"> 08:10 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 09:27 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
+ <p class="updated_time"> 09:25 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/americas/costa-rica-election-sexual-harassment.html">Harassment Case Tests Women’s Rights in Costa Rica’s Close Election</a> NYT: In Sunday’s runoff, voters will decide between a candidate found to have sexually harassed junior employees at the World Bank and a former president once accused of corruption. 
+ <p class="updated_time"> 09:24 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
+ <p class="updated_time"> 09:23 AM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60867042?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: How has Qatar treated stadium workers?</a> BBC: Qatar has used thousands of foreign workers to build its World Cup facilities. Many may have died. 
+ <p class="updated_time"> 08:47 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/asia/china-covid-shanghai.html">Covid Outbreak at Shanghai Hospital Exposes  Risks to China’s Seniors</a> NYT: Coronavirus infections have spread at an elder care facility in Shanghai. Workers said deaths are increasing and resources dwindling. 
+ <p class="updated_time"> 08:39 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 08:06 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952217?at_medium=RSS&at_campaign=KARANGA">Chris Rock did not want Will Smith ejected from Oscars, producer says</a> BBC: Will Packer has described what happened after Will Smith slapped Chris Rock at the awards ceremony. 
  <p class="updated_time"> 07:58 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
- <p class="updated_time"> 07:57 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/world/asia/china-covid-shanghai.html">Covid Outbreak at Shanghai Hospital Exposes  Risks to China’s Seniors</a> NYT: Coronavirus infections have spread at an elder care facility in Shanghai. Workers said deaths are increasing and resources dwindling. 
  <p class="updated_time"> 07:54 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
- <p class="updated_time"> 07:46 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Russian Oil Depot, Russians Say</a> WSJ: Ukraine Strikes Russian Oil Depot, Russians Say 
+ <p class="updated_time"> 07:39 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-manufacturing-activity-shrinks-as-sanctions-over-ukraine-bite-11648803837">Russia’s Manufacturing Activity Shrinks as Sanctions Bite</a> WSJ: Russia’s Manufacturing Activity Shrinks as Sanctions Bite 
  <p class="updated_time"> 07:30 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/chernobyl-radiation-poisoning.html">Nuclear Agency Looks Into Reports of Radiation Poisoning at Chernobyl</a> NYT: Russian soldiers left the decommissioned nuclear plant and a nearby city after five weeks of occupation. 
  <p class="updated_time"> 07:11 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090201964/qatar-world-cup-draw">Qatar hosts Friday's draw for the Middle East's 1st World Cup</a> NPR: The day began with a protest outside FIFA headquarters in Zurich drawing attention to the conditions of migrant workers in Qatar who worked on the World Cup infrastructure. 
- <p class="updated_time"> 06:46 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-manufacturing-activity-shrinks-as-sanctions-over-ukraine-bite-11648803837">Russia’s Manufacturing Activity Shrinks as Sanctions Bite</a> WSJ: Russia’s Manufacturing Activity Shrinks as Sanctions Bite 
  <p class="updated_time"> 06:44 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
+ <p class="updated_time"> 06:39 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/europe-tries-to-supply-cash-lifeline-to-ukrainian-refugees-11648807994">Europe Tries to Supply Cash Lifeline to Ukrainian Refugees</a> WSJ: Europe Tries to Supply Cash Lifeline to Ukrainian Refugees 
  <p class="updated_time"> 06:29 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/asia/new-zealand-parliament-weed.html">New Zealand Protesters Seeded Marijuana Plants on Parliament Grounds</a> NYT: New Zealand officials say anti-vaccination protesters seeded cannabis during a three-week occupation. 
  <p class="updated_time"> 06:19 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952358?at_medium=RSS&at_campaign=KARANGA">Bruce Willis: Razzies cancel 'worst performance' award over health issues</a> BBC: Razzie organisers said it was "not appropriate" after the announcement about actor's health issues. 
  <p class="updated_time"> 05:48 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60954565?at_medium=RSS&at_campaign=KARANGA">Gerard Depardieu: Kremlin responds to actor's Putin criticism</a> BBC: The French-born actor had accused the Russian president of "crazy, unacceptable excesses" in Ukraine. 
- <p class="updated_time"> 05:46 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/europe-tries-to-supply-cash-lifeline-to-ukrainian-refugees-11648807994">Europe Tries to Supply Cash Lifeline to Ukrainian Refugees</a> WSJ: Europe Tries to Supply Cash Lifeline to Ukrainian Refugees 
- <p class="updated_time"> 04:51 AM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-60867042?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: How has Qatar treated stadium workers?</a> BBC: Qatar has used thousands of foreign workers to build its World Cup facilities. Many may have died. 
- <p class="updated_time"> 04:46 AM CT, Apr. 01 </p> 
+ <p class="updated_time"> 05:39 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghais-other-half-enters-lockdown-as-reported-covid-cases-edge-down-11648787331">Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down</a> WSJ: Shanghai’s Other Half Enters Lockdown as Reported Covid Cases Edge Down 
+ <p class="updated_time"> 04:39 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/donors-pledge-2-44-billion-in-aid-to-hunger-stricken-afghanistan-11648754590">Donors Pledge $2.44 Billion in Aid to Afghanistan</a> WSJ: Donors Pledge $2.44 Billion in Aid to Afghanistan 
  <p class="updated_time"> 04:36 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952353?at_medium=RSS&at_campaign=KARANGA">Patrick Demarchelier: Fashion photographer dies aged 78</a> BBC: He photographed famous figures including Princess Diana, Beyonce, Madonna and Jennifer Lopez. 
  <p class="updated_time"> 04:20 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60953243?at_medium=RSS&at_campaign=KARANGA">WATCH: Missiles strike oil depot in Belgorod, Russia</a> BBC: Firefighters tackle a blaze at a facility near the Ukrainian border, which Moscow says was attacked. 
  <p class="updated_time"> 04:15 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090195932/2-south-korean-air-force-planes-collide-and-crash-killing-4">2 South Korean air force planes collide and crash, killing 4</a> NPR: Two South Korean KT-1 trainer aircraft planes collided in mid-air during training and crashed near their base on Friday, killing all four people aboard the aircraft, officials said. 
- <p class="updated_time"> 04:02 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
- <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/world/americas/harassment-case-tests-womens-rights-in-costa-ricas-close-election.html">Harassment Case Tests Women’s Rights in Costa Rica’s Close Election</a> NYT: In Sunday’s runoff, voters will decide between a candidate found to have sexually harassed junior employees at the World Bank and a former president once accused of corruption. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/sports/ukraine-vladyslav-heraskevych-war.html">Ukrainian Olympian Does His Part Against Russian Invasion</a> NYT: Vladyslav Heraskevych, a skeleton competitor from Ukraine, gathers supplies and uses the team van to deliver them to Kyiv as he waits to be called for military duty. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/scientist-patient-progeria.html">Living With Gusto Despite a Rare, Fatal Disease, and Hunting for Answers</a> NYT: At 26, Sammy Basso is believed to be the oldest person with the disease Progeria. And now he’s researching it, hoping to find a treatment and the secrets of aging. 
- <p class="updated_time"> 03:46 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/donors-pledge-2-44-billion-in-aid-to-hunger-stricken-afghanistan-11648754590">Donors Pledge $2.44 Billion in Aid to Afghanistan</a> WSJ: Donors Pledge $2.44 Billion in Aid to Afghanistan 
  <p class="updated_time"> 02:19 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
  <p class="updated_time"> 01:56 AM CT, Apr. 01 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/30/us/flamingo-escape-kansas-texas.html">Flamingo Spotted in Texas After Escaping a Kansas Zoo in 2005</a> NYT: A fisherman’s sighting in March confirmed that a flamingo that fled a Kansas zoo in 2005 has defied the odds to live a Pixar-worthy life in the wilds of Texas. 
  <p class="updated_time"> 01:20 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/africa/jerusalem-western-sahara-us-consulates.html">U.S. Pressured to Open Consulates in Jerusalem and Western Sahara</a> NYT: Secretary of State Antony J. Blinken, on travels through the Middle East and North Africa over the past week, was urged by Arab leaders to make good on past promises. 
- <p class="updated_time"> 12:47 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/asia/tipu-sultan-india-painting.html">A Mural Celebrating Tipu Sultan Sold at Auction. His Legacy Is Contested.</a> NYT: The battle scene depicts a victory over British troops by an 18th-century Muslim, a man India’s current government would prefer was forgotten. 
  <p class="updated_time"> 11:28 AM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/bangladesh-blogger-death-sentence.html">Bangladesh Sentences 4 to Death for Blogger’s Murder</a> NYT: The victim, who had promoted secularism, was among several writers fatally attacked in the country in 2015. 
  <p class="updated_time"> 11:22 AM CT, Mar. 30 </p> 
@@ -220,8 +218,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:42 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-wages.html">Rising Wages Are Good News for Workers but a Worrying Sign for Inflation</a> NYT: Federal Reserve officials had already said that the pace of pay gains would not be consistent with stable inflation if sustained. 
+ <p class="updated_time"> 09:27 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
+ <p class="updated_time"> 09:24 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-wages.html">Rising Wages Are Good News for Workers but Put Pressure on the Fed</a> NYT: Federal Reserve officials had said that the pace of pay gains would not be consistent with stable inflation if sustained. 
+ <p class="updated_time"> 09:20 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/us/politics/congress-earmarks.html">As Earmarks Return to Congress, Lawmakers Rush to Steer Money Home</a> NYT: Democrats and Republicans alike stuffed nearly 5,000 earmarks totaling $9 billion into the $1.5 trillion government spending bill signed by President Biden. 
  <p class="updated_time"> 08:36 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html">House Committee Investigating Amazon Labor Practices</a> NYT: A tornado that hit a delivery station in Illinois last year will be a focus of the inquiry. 
  <p class="updated_time"> 08:02 AM CT, Apr. 01 </p> 
@@ -230,12 +232,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
  <p class="updated_time"> 07:34 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089989337/employers-continue-hiring-spree-even-as-war-in-ukraine-ratchets-up-economic-fear">Employers continue hiring spree even as war in Ukraine ratchets up economic fears</a> NPR: U.S. employers added 431,000 jobs in March, as the unemployment rate fell to 3.6% from 3.8% in February. The tight job market is putting upward pressure on both wages and prices. 
- <p class="updated_time"> 07:16 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/us/politics/congress-earmarks.html">As Earmarks Return to Congress, Lawmakers Rush to Steer Money Home</a> NYT: Democrats and Republicans alike stuffed nearly 5,000 earmarks totaling $9 billion into the $1.5 trillion government spending bill signed by President Biden. 
  <p class="updated_time"> 04:55 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/news/2022/04/01/former-bill-clinton-adviser-playbook-deep-dive-00022248">Think you understand suburban voters? Doug Sosnik has a 14-page memo betting otherwise.</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Doug Sosnik, former advisor to then-President Bill Clinton, to dissect what he calls the five Democratic myths about American politics and why the suburbs are crucial for national elections. 
- <p class="updated_time"> 04:02 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089958980/trump-is-struggling-again-in-georgia-with-2022-endorsements-driven-by-his-2020-l">Trump is struggling again in Georgia, with 2022 endorsements driven by his 2020 loss</a> NPR: Donald Trump is embracing longshot candidates and seeking to oust incumbents that did not overturn his defeat. Many of his chosen GOP candidates are struggling in Georgia and other states. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
@@ -340,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/enthusiasm-gap-dems-00021774">‘We’ve got to stop fooling ourselves’: Enthusiasm gap keeps getting worse for Dems</a> Politico: The last time the voter enthusiasm deficit was this wide, Democrats lost more than 60 seats in the House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/biden-congress-new-iran-nuke-deal-00021853">'The president will get his way': Congress likely can't stop new Iran nuke deal</a> Politico: Election-year politics will have an impact, but likely not enough to block a new diplomatic accord with Tehran. 
- <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/michigan-drama-primary-levin-stevens-00021866">Dem-on-Dem primary in Michigan spikes party's blood pressure</a> Politico: Rep. Andy Levin passed up what some of his colleagues see as a winnable race, instead challenging Rep. Haley Stevens. And a furor is resulting. 
  <p class="updated_time"> 07:16 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/russia-bombards-ukraine-zelenskyy-00021906">Russia bombards areas where it pledged to scale back</a> Politico: The shelling tempered optimism about negotiations meant to end the war. 
  <p class="updated_time"> 02:44 PM CT, Mar. 30 </p> 
