@@ -9,24 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:45 AM CT, Apr. 01 </p> 
+ <a href="https://www.npr.org/2022/04/01/1090188898/ukraine-top-of-agenda-as-china-eu-prepare-to-meet-at-summit">Ukraine top of agenda as China, EU prepare to meet at summit</a> NPR: The European Union is seeking China's assurances that it won't assist Russia in circumventing economic sanctions for invading Ukraine and cooperation on ending the war at today's virtual meeting. 
+ <p class="updated_time"> 01:37 AM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian troops leave Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says Russian soldiers have left the former nuclear power plant. 
+ <p class="updated_time"> 01:36 AM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/world/asia/imran-khan-resign-pakistan.html">Imran Khan Defiantly Refuses to Resign as Pakistan’s Leader</a> NYT: Prime Minister Khan, who faces the prospect of being removed from office by Parliament, accused the United States of mounting a conspiracy to topple his government. 
  <p class="updated_time"> 01:30 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60949791?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Gruesome evidence points to war crimes on road outside Kyiv</a> BBC: The BBC finds the charred remains of civilians on a highway where Russian troops had stationed tanks. 
  <p class="updated_time"> 01:24 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdalene Laundry’ Will Become a Memorial</a> NYT: A compound in Dublin where unmarried mothers and other unwanted women were incarcerated to work in abject conditions had been earmarked as a site for a budget hotel. 
  <p class="updated_time"> 01:14 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60950266?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protest at president Rajapaksa's home turns violent</a> BBC: Tear gas was fired on demonstrators protesting against dire food, fuel and power shortages. 
+ <p class="updated_time"> 12:52 AM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl 
  <p class="updated_time"> 12:39 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/03/31/world/ukraine-russia-war-news">What Happened on Day 36 of Russia’s Invasion of Ukraine</a> NYT: Humanitarian officials were trying to organize an evacuation from Mariupol. U.S. officials said Russia was running its military campaign out of Moscow, with no central war commander in Ukraine to call the shots. 
- <p class="updated_time"> 12:35 AM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-press-advances-as-russia-regroups-11648721863">Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl</a> WSJ: Ukrainian Troops Push Forward as Russian Forces Regroup, Give Back Chernobyl 
  <p class="updated_time"> 12:19 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090184438/solomon-islands-says-china-deal-wont-include-military-base">Solomon Islands says China security deal won't include military base</a> NPR: The Solomon Islands said that despite a recent pact with China, it won't allow the major power to build a military base, and the two are only collaborating on security and naval refueling. 
- <p class="updated_time"> 11:35 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 11:52 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/inside-an-11-year-olds-solo-escape-from-ukraine-11648719000">Inside an 11-Year-Old’s Solo Escape From Ukraine</a> WSJ: Inside an 11-Year-Old’s Solo Escape From Ukraine 
+ <p class="updated_time"> 10:52 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 10:37 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/asia/myanmar-jungle-insurgency.html">Myanmar Is Still at War, More Than a Year After Military Coup</a> NYT: Fleeing the military’s brutal crackdown, Myanmar’s newest rebels have abandoned cafes and professions to join a near-daily battle with long odds. 
- <p class="updated_time"> 10:35 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/israel-suffers-more-deadly-clashes-amid-violent-surge-11648722925">West Bank Suffers Deadly Clashes Amid Violent Surge in Israel</a> WSJ: West Bank Suffers Deadly Clashes Amid Violent Surge in Israel 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 10:01 PM CT, Mar. 31 </p> 
@@ -37,11 +43,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
  <p class="updated_time"> 09:55 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html">In Hong Kong, China’s Covid Aid Gets the Cold Shoulder</a> NYT: Disputes about medics, squat toilets and diaper-changing duties underscore longstanding tensions between residents of Hong Kong and the mainland. 
+ <p class="updated_time"> 09:52 PM CT, Mar. 31 </p> 
+ <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths</a> WSJ: Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/climate/epa-perchlorate-drinking-water.html">E.P.A. Decides Against Limiting Perchlorate in Drinking Water</a> NYT: Drinking water for as many as 16 million Americans may be contaminated with perchlorate, a chemical that can harm the development of fetuses and children. 
- <p class="updated_time"> 09:35 PM CT, Mar. 31 </p> 
- <a href="https://www.wsj.com/articles/unreported-covid-infections-deaths-plague-a-shanghai-hospital-for-the-elderly-11648734696">Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths</a> WSJ: Shanghai Hospital Harbors Unreported Covid Outbreak, Deaths 
- <p class="updated_time"> 08:35 PM CT, Mar. 31 </p> 
+ <p class="updated_time"> 08:52 PM CT, Mar. 31 </p> 
  <a href="https://www.wsj.com/articles/the-taliban-want-to-control-aid-funds-a-red-line-for-donors-11648735574">Taliban Want to Control Aid Funds, a Red Line for Donors</a> WSJ: Taliban Want to Control Aid Funds, a Red Line for Donors 
  <p class="updated_time"> 07:53 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60458629?at_medium=RSS&at_campaign=KARANGA">Haryana: India's ambitious child brides who dare to dream</a> BBC: The girls were too young to be married legally and still dream of an independent future. 
@@ -67,16 +73,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/macron-france-consultants-mckinsey-campaign.html">Macron Goes on Defensive Over Use of McKinsey and Other Consultants</a> NYT: President Emmanuel Macron’s opponents have criticized the French government for paying at least a billion dollars last year to private consulting firms. 
  <p class="updated_time"> 03:56 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31">Russia-Ukraine war: What happened today (March 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:51 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/asia/imran-khan-resign-pakistan.html">Imran Khan Defiantly Refuses to Resign as Pakistan’s Leader</a> NYT: Prime Minister Khan, who faces the prospect of being removed from office by Parliament, accused the United States of mounting a conspiracy to topple his government. 
  <p class="updated_time"> 03:42 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067116/ukraine-mayor-says-russian-soldiers-who-kidnapped-him-knew-nothing-about-his-cou">Ukraine mayor says Russian soldiers who kidnapped him knew nothing about his country</a> NPR: Melitopol Mayor Ivan Fedorov was held by Russian forces for five days. They told him they wanted to free his town from Nazis. "I told them in my 30 years in this town I've never seen a single Nazi." 
  <p class="updated_time"> 03:39 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067998/the-un-says-it-needs-a-record-breaking-4-4-billion-to-help-afghanistan">The UN says it needs a record-breaking $4.4 billion to help Afghanistan</a> NPR: The United Nations is seeking $4.4 billion — a record amount — to help Afghanistan. The appeal comes as countries around the world try to deal with skyrocketing prices due to the war in Ukraine. 
  <p class="updated_time"> 03:39 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090067991/what-kyiv-looks-like-as-russian-troops-appear-to-reposition">What Kyiv looks like as Russian troops appear to reposition</a> NPR: The pentagon says Russian forces had done some repositioning away from Kyiv to the north. But according to NATO intelligence, Russia is maintaining pressure on the city. 
- <p class="updated_time"> 03:38 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60945666?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian troops leave Chernobyl, Ukraine says</a> BBC: Ukraine's state nuclear company says Russian soldiers have left the former nuclear power plant. 
  <p class="updated_time"> 03:19 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
  <p class="updated_time"> 03:17 PM CT, Mar. 31 </p> 
@@ -117,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60945122?at_medium=RSS&at_campaign=KARANGA">Could Ukraine 'win' the war? And other questions</a> BBC: BBC reporters Jenny Hill and Orla Guerin - on the ground - answer your questions about the war in Ukraine. 
  <p class="updated_time"> 10:52 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60941860?at_medium=RSS&at_campaign=KARANGA">Kenya's BBI blocked in blow to President Uhuru Kenyatta</a> BBC: Supreme Court judges say President Kenyatta acted unlawfully in his pursuit of constitutional changes. 
- <p class="updated_time"> 10:20 AM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1089705434/ukraine-russia-war-mariupol-zaporizhzhia">Ukrainians navigate a perilous route to safety out of besieged Mariupol</a> NPR: "It is either die or leave. We had no other way," says one woman who arrived in Zaporizhzhia after three attempts at escape. Officials say nearly 100,000 people are still trapped in the besieged city. 
  <p class="updated_time"> 10:15 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-jk-rowling.html">Why Putin name-checked J.K. Rowling</a> NYT: Putin has used scaremongering about gender and sexual orientation to support his authoritarian agenda. Right-wing politicians around the world are following the same playbook. 
  <p class="updated_time"> 10:00 AM CT, Mar. 31 </p> 
